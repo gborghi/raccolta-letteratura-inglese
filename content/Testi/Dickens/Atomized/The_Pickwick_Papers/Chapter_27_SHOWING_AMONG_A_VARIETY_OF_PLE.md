@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC"
+title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -36,7 +36,7 @@ the very green gate from which Job Trotter had emerged, and gave a
 mighty pull at the bell-handle which hung at the side thereof. The ring
 was answered by a very smart and pretty-faced servant-girl, who, after
 holding up her hands in astonishment at the rebellious appearance of the
-prisoners, and the impassioned language of Mr. Pickwick, summoned Mr.
+prisoners, and the impassioned language of Mr. [[Pickwick]], summoned Mr.
 Muzzle. Mr. Muzzle opened one half of the carriage gate, to admit the
 sedan, the captured ones, and the specials; and immediately slammed it
 in the faces of the mob, who, indignant at being excluded, and anxious
@@ -49,14 +49,14 @@ which people will flatten their noses against the front windows of a
 chemist’s shop, when a drunken man, who has been run over by a dog-cart
 in the street, is undergoing a surgical inspection in the back-parlour.
 
-At the foot of a flight of steps, leading to the house door, which was
+At the foot of a flight of steps, leading to the [[house]] door, which was
 guarded on either side by an American aloe in a green tub, the sedan-
-chair stopped. Mr. Pickwick and his friends were conducted into the
+chair stopped. Mr. [[Pickwick]] and his friends were conducted into the
 hall, whence, having been previously announced by Muzzle, and ordered in
 by Mr. Nupkins, they were ushered into the worshipful presence of that
 public-spirited officer.
 
-The scene was an impressive one, well calculated to strike terror to the
+The scene was an impressive one, [[Well|well]] calculated to strike terror to the
 hearts of culprits, and to impress them with an adequate idea of the
 stern majesty of the law. In front of a big book-case, in a big chair,
 behind a big table, and before a big volume, sat Mr. Nupkins, looking a
@@ -69,7 +69,7 @@ his orders. Mr. Nupkins threw himself back with thrilling solemnity, and
 scrutinised the faces of his unwilling visitors.
 
 ‘Now, Grummer, who is that person?’ said Mr. Nupkins, pointing to Mr.
-Pickwick, who, as the spokesman of his friends, stood hat in hand,
+[[Pickwick]], who, as the spokesman of his friends, stood hat in hand,
 bowing with the utmost politeness and respect.
 
 ‘This here’s Pickvick, your Wash-up,’ said Grummer.
@@ -85,8 +85,8 @@ t’other side, Mr. Winkle--all wery nice gen’l’m’n, Sir, as you’ll be
 wery happy to have the acquaintance on; so the sooner you commits these
 here officers o’ yourn to the tread-mill for a month or two, the sooner
 we shall begin to be on a pleasant understanding. Business first,
-pleasure arterwards, as King Richard the Third said when he stabbed the
-t’other king in the Tower, afore he smothered the babbies.’
+pleasure arterwards, as [[King]] [[Richard]] the Third said when he stabbed the
+t’other [[King|king]] in the Tower, afore he smothered the babbies.’
 
 At the conclusion of this address, Mr. Weller brushed his hat with his
 right elbow, and nodded benignly to Jinks, who had heard him throughout
@@ -101,10 +101,10 @@ custody, and brought him here.’
 ‘You did quite right,’ replied the magistrate. ‘He is evidently a
 desperate ruffian.’
 
-‘He is my servant, Sir,’ said Mr. Pickwick angrily.
+‘He is my servant, Sir,’ said Mr. [[Pickwick]] angrily.
 
 ‘Oh! he is your servant, is he?’ said Mr. Nupkins. ‘A conspiracy to
-defeat the ends of justice, and murder its officers. Pickwick’s servant.
+defeat the ends of justice, and murder its officers. [[Pickwick]]’s servant.
 Put that down, Mr. Jinks.’
 
 Mr. Jinks did so.
@@ -186,7 +186,7 @@ this moment, Mr. Jinks?’
 Make out his committal, Mr. Jinks.’
 
 And committed the special would have been, only Jinks, who was the
-magistrate’s adviser (having had a legal education of three years in a
+magistrate’s adviser (having had a legal [[Education|education]] of three years in a
 country attorney’s office), whispered the magistrate that he thought it
 wouldn’t do; so the magistrate made a speech, and said, that in
 consideration of the special’s family, he would merely reprimand and
@@ -209,33 +209,33 @@ Jinks consulted in whispers.
 The consultation having lasted about ten minutes, Mr. Jinks retired to
 his end of the table; and the magistrate, with a preparatory cough, drew
 himself up in his chair, and was proceeding to commence his address,
-when Mr. Pickwick interposed.
+when Mr. [[Pickwick]] interposed.
 
-‘I beg your pardon, sir, for interrupting you,’ said Mr. Pickwick; ‘but
+‘I beg your pardon, sir, for interrupting you,’ said Mr. [[Pickwick]]; ‘but
 before you proceed to express, and act upon, any opinion you may have
 formed on the statements which have been made here, I must claim my
 right to be heard so far as I am personally concerned.’
 
 ‘Hold your tongue, Sir,’ said the magistrate peremptorily.
 
-‘I must submit to you, Sir--’ said Mr. Pickwick.
+‘I must submit to you, Sir--’ said Mr. [[Pickwick]].
 
 ‘Hold your tongue, sir,’ interposed the magistrate, ‘or I shall order an
 officer to remove you.’
 
 ‘You may order your officers to do whatever you please, Sir,’ said Mr.
-Pickwick; ‘and I have no doubt, from the specimen I have had of the
+[[Pickwick]]; ‘and I have no [[Doubt|doubt]], from the specimen I have had of the
 subordination preserved amongst them, that whatever you order, they will
 execute, Sir; but I shall take the liberty, Sir, of claiming my right to
 be heard, until I am removed by force.’
 
 ‘Pickvick and principle!’ exclaimed Mr. Weller, in a very audible voice.
 
-‘Sam, be quiet,’ said Mr. Pickwick.
+‘Sam, be quiet,’ said Mr. [[Pickwick]].
 
 ‘Dumb as a drum vith a hole in it, Sir,’ replied Sam.
 
-Mr. Nupkins looked at Mr. Pickwick with a gaze of intense astonishment,
+Mr. Nupkins looked at Mr. [[Pickwick]] with a gaze of intense astonishment,
 at his displaying such unwonted temerity; and was apparently about to
 return a very angry reply, when Mr. Jinks pulled him by the sleeve, and
 whispered something in his ear. To this, the magistrate returned a half-
@@ -243,10 +243,10 @@ audible answer, and then the whispering was renewed. Jinks was evidently
 remonstrating.
 
 At length the magistrate, gulping down, with a very bad grace, his
-disinclination to hear anything more, turned to Mr. Pickwick, and said
+disinclination to hear anything more, turned to Mr. [[Pickwick]], and said
 sharply, ‘What do you want to say?’
 
-‘First,’ said Mr. Pickwick, sending a look through his spectacles, under
+‘First,’ said Mr. [[Pickwick]], sending a look through his spectacles, under
 which even Nupkins quailed, ‘first, I wish to know what I and my friend
 have been brought here for?’
 
@@ -285,7 +285,7 @@ Good bail,’ whispered Mr. Jinks.
 ‘I shall require two sureties of fifty pounds each,’ said the magistrate
 aloud, with great dignity, ‘and they must be householders, of course.’
 
-‘But bless my heart, Sir,’ said Mr. Pickwick, who, together with Mr.
+‘But bless my heart, Sir,’ said Mr. [[Pickwick]], who, together with Mr.
 Tupman, was all amazement and indignation; ‘we are perfect strangers in
 this town. I have as little knowledge of any householders here, as I
 have intention of fighting a duel with anybody.’
@@ -297,36 +297,36 @@ Jinks?’
 
 ‘Have you anything more to say?’ inquired the magistrate.
 
-Mr. Pickwick had a great deal more to say, which he would no doubt have
+Mr. [[Pickwick]] had a great deal more to say, which he would no [[Doubt|doubt]] have
 said, very little to his own advantage, or the magistrate’s
 satisfaction, if he had not, the moment he ceased speaking, been pulled
 by the sleeve by Mr. Weller, with whom he was immediately engaged in so
 earnest a conversation, that he suffered the magistrate’s inquiry to
 pass wholly unnoticed. Mr. Nupkins was not the man to ask a question of
 the kind twice over; and so, with another preparatory cough, he
-proceeded, amidst the reverential and admiring silence of the
+proceeded, amidst the reverential and admiring [[Silence|silence]] of the
 constables, to pronounce his decision.
 
 He should fine Weller two pounds for the first assault, and three pounds
 for the second. He should fine Winkle two pounds, and Snodgrass one
 pound, besides requiring them to enter into their own recognisances to
 keep the peace towards all his Majesty’s subjects, and especially
-towards his liege servant, Daniel Grummer. Pickwick and Tupman he had
+towards his liege servant, Daniel Grummer. [[Pickwick]] and Tupman he had
 already held to bail.
 
-Immediately on the magistrate ceasing to speak, Mr. Pickwick, with a
+Immediately on the magistrate ceasing to speak, Mr. [[Pickwick]], with a
 smile mantling on his again good-humoured countenance, stepped forward,
 and said--
 
 ‘I beg the magistrate’s pardon, but may I request a few minutes’ private
 conversation with him, on a matter of deep importance to himself?’
 
-‘What?’ said the magistrate. Mr. Pickwick repeated his request.
+‘What?’ said the magistrate. Mr. [[Pickwick]] repeated his request.
 
 ‘This is a most extraordinary request,’ said the magistrate. ‘A private
 interview?’
 
-‘A private interview,’ replied Mr. Pickwick firmly; ‘only, as a part of
+‘A private interview,’ replied Mr. [[Pickwick]] firmly; ‘only, as a part of
 the information which I wish to communicate is derived from my servant,
 I should wish him to be present.’
 
@@ -335,9 +335,9 @@ the officers looked at each other in amazement. Mr. Nupkins turned
 suddenly pale. Could the man Weller, in a moment of remorse, have
 divulged some secret conspiracy for his assassination? It was a dreadful
 thought. He was a public man; and he turned paler, as he thought of
-Julius Caesar and Mr. Perceval.
+[[Julius Caesar]] and Mr. Perceval.
 
-The magistrate looked at Mr. Pickwick again, and beckoned Mr. Jinks.
+The magistrate looked at Mr. [[Pickwick]] again, and beckoned Mr. Jinks.
 
 ‘What do you think of this request, Mr. Jinks?’ murmured Mr. Nupkins.
 
@@ -352,30 +352,30 @@ more feebly than before--and edged himself, by degrees, back into his
 own corner.
 
 Mr. Nupkins debated the matter within himself for a few seconds, and
-then, rising from his chair, and requesting Mr. Pickwick and Sam to
+then, rising from his chair, and requesting Mr. [[Pickwick]] and Sam to
 follow him, led the way into a small room which opened into the justice-
-parlour. Desiring Mr. Pickwick to walk to the upper end of the little
+parlour. Desiring Mr. [[Pickwick]] to walk to the upper end of the little
 apartment, and holding his hand upon the half-closed door, that he might
 be able to effect an immediate escape, in case there was the least
 tendency to a display of hostilities, Mr. Nupkins expressed his
 readiness to hear the communication, whatever it might be.
 
-‘I will come to the point at once, sir,’ said Mr. Pickwick; ‘it affects
+‘I will come to the point at once, sir,’ said Mr. [[Pickwick]]; ‘it affects
 yourself and your credit materially. I have every reason to believe,
-Sir, that you are harbouring in your house a gross impostor!’
+Sir, that you are harbouring in your [[house]] a gross impostor!’
 
-‘Two,’ interrupted Sam. ‘Mulberry agin all natur, for tears and
+‘Two,’ interrupted Sam. ‘Mulberry agin all natur, for [[Tears|tears]] and
 willainny!’
 
-‘Sam,’ said Mr. Pickwick, ‘if I am to render myself intelligible to this
+‘Sam,’ said Mr. [[Pickwick]], ‘if I am to render myself intelligible to this
 gentleman, I must beg you to control your feelings.’
 
 ‘Wery sorry, Sir,’ replied Mr. Weller; ‘but when I think o’ that ‘ere
 Job, I can’t help opening the walve a inch or two.’
 
-‘In one word, Sir,’ said Mr. Pickwick, ‘is my servant right in
+‘In one word, Sir,’ said Mr. [[Pickwick]], ‘is my servant right in
 suspecting that a certain Captain Fitz-Marshall is in the habit of
-visiting here? Because,’ added Mr. Pickwick, as he saw that Mr. Nupkins
+visiting here? Because,’ added Mr. [[Pickwick]], as he saw that Mr. Nupkins
 was about to offer a very indignant interruption, ‘because if he be, I
 know that person to be a--’
 
@@ -385,14 +385,14 @@ Sir?’
 ‘An unprincipled adventurer--a dishonourable character--a man who preys
 upon society, and makes easily-deceived people his dupes, Sir; his
 absurd, his foolish, his wretched dupes, Sir,’ said the excited Mr.
-Pickwick.
+[[Pickwick]].
 
 ‘Dear me,’ said Mr. Nupkins, turning very red, and altering his whole
 manner directly. ‘Dear me, Mr.--’
 
 ‘Pickvick,’ said Sam.
 
-‘Pickwick,’ said the magistrate, ‘dear me, Mr. Pickwick--pray take a
+‘[[Pickwick]],’ said the magistrate, ‘dear me, Mr. [[Pickwick]]--pray take a
 seat--you cannot mean this? Captain Fitz-Marshall!’
 
 ‘Don’t call him a cap’en,’ said Sam, ‘nor Fitz-Marshall neither; he
@@ -400,19 +400,19 @@ ain’t neither one nor t’other. He’s a strolling actor, he is, and his
 name’s Jingle; and if ever there was a wolf in a mulberry suit, that
 ‘ere Job Trotter’s him.’
 
-‘It is very true, Sir,’ said Mr. Pickwick, replying to the magistrate’s
+‘It is very true, Sir,’ said Mr. [[Pickwick]], replying to the magistrate’s
 look of amazement; ‘my only business in this town, is to expose the
 person of whom we now speak.’
 
-Mr. Pickwick proceeded to pour into the horror-stricken ear of Mr.
+Mr. [[Pickwick]] proceeded to pour into the horror-stricken ear of Mr.
 Nupkins, an abridged account of all Mr. Jingle’s atrocities. He related
 how he had first met him; how he had eloped with Miss Wardle; how he had
 cheerfully resigned the lady for a pecuniary consideration; how he had
 entrapped himself into a lady’s boarding-school at midnight; and how he
-(Mr. Pickwick) now felt it his duty to expose his assumption of his
+(Mr. [[Pickwick]]) now felt it his duty to expose his assumption of his
 present name and rank.
 
-As the narrative proceeded, all the warm blood in the body of Mr.
+As the narrative proceeded, all the warm [[Blood|blood]] in the [[Body|body]] of Mr.
 Nupkins tingled up into the very tips of his ears. He had picked up the
 captain at a neighbouring race-course. Charmed with his long list of
 aristocratic acquaintance, his extensive travel, and his fashionable
@@ -420,7 +420,7 @@ demeanour, Mrs. Nupkins and Miss Nupkins had exhibited Captain Fitz-
 Marshall, and quoted Captain Fitz-Marshall, and hurled Captain Fitz-
 Marshall at the devoted heads of their select circle of acquaintance,
 until their bosom friends, Mrs. Porkenham and the Misses Porkenhams, and
-Mr. Sidney Porkenham, were ready to burst with jealousy and despair. And
+Mr. Sidney Porkenham, were ready to burst with [[Jealousy|jealousy]] and [[Despair|despair]]. And
 now, to hear, after all, that he was a needy adventurer, a strolling
 player, and if not a swindler, something so very like it, that it was
 hard to tell the difference! Heavens! what would the Porkenhams say!
@@ -433,17 +433,17 @@ abroad!
 ‘But after all,’ said Mr. Nupkins, brightening for a moment, after a
 long pause; ‘after all, this is a mere statement. Captain Fitz-Marshall
 is a man of very engaging manners, and, I dare say, has many enemies.
-What proof have you of the truth of these representations?’
+What proof have you of the [[Truth|truth]] of these representations?’
 
-‘Confront me with him,’ said Mr. Pickwick, ‘that is all I ask, and all I
+‘Confront me with him,’ said Mr. [[Pickwick]], ‘that is all I ask, and all I
 require. Confront him with me and my friends here; you will want no
 further proof.’
 
 ‘Why,’ said Mr. Nupkins, ‘that might be very easily done, for he will be
-here to-night, and then there would be no occasion to make the matter
+here to-[[Night|night]], and then there would be no occasion to make the matter
 public, just--just--for the young man’s own sake, you know. I--I--should
 like to consult Mrs. Nupkins on the propriety of the step, in the first
-instance, though. At all events, Mr. Pickwick, we must despatch this
+instance, though. At all events, Mr. [[Pickwick]], we must despatch this
 legal business before we can do anything else. Pray step back into the
 next room.’
 
@@ -474,25 +474,25 @@ them up, his natural tendency to rambling, and his extreme confusion, he
 managed to get involved, in something under three minutes, in such a
 mass of entanglement and contradiction, that Mr. Nupkins at once
 declared he didn’t believe him. So the fines were remitted, and Mr.
-Jinks found a couple of bail in no time. And all these solemn
+Jinks found a couple of bail in no [[Time|time]]. And all these solemn
 proceedings having been satisfactorily concluded, Mr. Grummer was
 ignominiously ordered out--an awful instance of the instability of human
-greatness, and the uncertain tenure of great men’s favour.
+[[Greatness|greatness]], and the uncertain tenure of great men’s favour.
 
 Mrs. Nupkins was a majestic female in a pink gauze turban and a light
 brown wig. Miss Nupkins possessed all her mamma’s haughtiness without
-the turban, and all her ill-nature without the wig; and whenever the
+the turban, and all her ill-[[Nature|nature]] without the wig; and whenever the
 exercise of these two amiable qualities involved mother and daughter in
 some unpleasant dilemma, as they not infrequently did, they both
 concurred in laying the blame on the shoulders of Mr. Nupkins.
 Accordingly, when Mr. Nupkins sought Mrs. Nupkins, and detailed the
-communication which had been made by Mr. Pickwick, Mrs. Nupkins suddenly
+communication which had been made by Mr. [[Pickwick]], Mrs. Nupkins suddenly
 recollected that she had always expected something of the kind; that she
 had always said it would be so; that her advice was never taken; that
 she really did not know what Mr. Nupkins supposed she was; and so forth.
 
 ‘The idea!’ said Miss Nupkins, forcing a tear of very scanty proportions
-into the corner of each eye; ‘the idea of my being made such a fool of!’
+into the corner of each eye; ‘the idea of my being made such a [[Fool|fool]] of!’
 
 ‘Ah! you may thank your papa, my dear,’ said Mrs. Nupkins; ‘how I have
 implored and begged that man to inquire into the captain’s family
@@ -503,7 +503,7 @@ step! I am quite certain nobody would believe it--quite.’
 
 ‘Don’t talk to me, you aggravating thing, don’t!’ said Mrs. Nupkins.
 
-‘My love,’ said Mr. Nupkins, ‘you professed yourself very fond of
+‘My [[Love|love]],’ said Mr. Nupkins, ‘you professed yourself very fond of
 Captain Fitz-Marshall. You have constantly asked him here, my dear, and
 you have lost no opportunity of introducing him elsewhere.’
 
@@ -528,22 +528,22 @@ Nupkins.
 care! What is it to _him_!’ At this dreadful reflection, Mrs. Nupkins
 wept mental anguish, and Miss Nupkins followed on the same side.
 
-Mrs. Nupkins’s tears continued to gush forth, with great velocity, until
-she had gained a little time to think the matter over; when she decided,
-in her own mind, that the best thing to do would be to ask Mr. Pickwick
+Mrs. Nupkins’s [[Tears|tears]] continued to gush forth, with great velocity, until
+she had gained a little [[Time|time]] to think the matter over; when she decided,
+in her own mind, that the best thing to do would be to ask Mr. [[Pickwick]]
 and his friends to remain until the captain’s arrival, and then to give
-Mr. Pickwick the opportunity he sought. If it appeared that he had
-spoken truly, the captain could be turned out of the house without
+Mr. [[Pickwick]] the opportunity he sought. If it appeared that he had
+spoken truly, the captain could be turned out of the [[house]] without
 noising the matter abroad, and they could easily account to the
 Porkenhams for his disappearance, by saying that he had been appointed,
-through the Court influence of his family, to the governor-generalship
+through the [[Court]] influence of his family, to the governor-generalship
 of Sierra Leone, of Saugur Point, or any other of those salubrious
 climates which enchant Europeans so much, that when they once get there,
 they can hardly ever prevail upon themselves to come back again.
 
-When Mrs. Nupkins dried up her tears, Miss Nupkins dried up hers, and
+When Mrs. Nupkins dried up her [[Tears|tears]], Miss Nupkins dried up hers, and
 Mr. Nupkins was very glad to settle the matter as Mrs. Nupkins had
-proposed. So Mr. Pickwick and his friends, having washed off all marks
+proposed. So Mr. [[Pickwick]] and his friends, having washed off all marks
 of their late encounter, were introduced to the ladies, and soon
 afterwards to their dinner; and Mr. Weller, whom the magistrate, with
 his peculiar sagacity, had discovered in half an hour to be one of the
@@ -566,7 +566,7 @@ is of you, Mr. Weller, to be sure!’
 
 ‘Ain’t he?’ replied Mr. Muzzle.
 
-‘So much humour,’ said Sam.
+‘So much [[Humour|humour]],’ said Sam.
 
 ‘And such a man to speak,’ said Mr. Muzzle. ‘How his ideas flow, don’t
 they?’
@@ -577,10 +577,10 @@ know what he’s arter, do you?’
 
 That’s the great merit of his style of speaking,’ rejoined Mr. Muzzle.
 ‘Take care of the last step, Mr. Weller. Would you like to wash your
-hands, sir, before we join the ladies? Here’s a sink, with the water
+hands, sir, before we join the ladies? Here’s a sink, with the [[Water|water]]
 laid on, Sir, and a clean jack towel behind the door.’
 
-‘Ah! perhaps I may as well have a rinse,’ replied Mr. Weller, applying
+‘Ah! perhaps I may as [[Well|well]] have a rinse,’ replied Mr. Weller, applying
 plenty of yellow soap to the towel, and rubbing away till his face shone
 again. ‘How many ladies are there?’
 
@@ -610,18 +610,18 @@ possible.’
 
 ‘And your master’s a knowin’ hand, and has just sent me to the right
 place,’ said Mr. Weller, with a glance of admiration at Mary. ‘If I wos
-master o’ this here house, I should alvays find the materials for
+master o’ this here [[house]], I should alvays find the materials for
 comfort vere Mary wos.’
 
 Lor, Mr. Weller!’ said Mary blushing.
 
-‘Well, I never!’ ejaculated the cook.
+‘[[Well]], I never!’ ejaculated the cook.
 
 ‘Bless me, cook, I forgot you,’ said Mr. Muzzle. ‘Mr. Weller, let me
 introduce you.’
 
 ‘How are you, ma’am?’ said Mr. Weller. ‘Wery glad to see you, indeed,
-and hope our acquaintance may be a long ‘un, as the gen’l’m’n said to
+and [[Hope|hope]] our acquaintance may be a long ‘un, as the gen’l’m’n said to
 the fi’ pun’ note.’
 
 When this ceremony of introduction had been gone through, the cook and
@@ -669,9 +669,9 @@ she was only recovered by sundry pats on the back, and other necessary
 attentions, most delicately administered by Mr. Samuel Weller.
 
 In the midst of all this jollity and conviviality, a loud ring was heard
-at the garden gate, to which the young gentleman who took his meals in
-the wash-house, immediately responded. Mr. Weller was in the height of
-his attentions to the pretty house-maid; Mr. Muzzle was busy doing the
+at the [[Garden|garden]] gate, to which the young gentleman who took his meals in
+the wash-[[house]], immediately responded. Mr. Weller was in the height of
+his attentions to the pretty [[house]]-maid; Mr. Muzzle was busy doing the
 honours of the table; and the cook had just paused to laugh, in the very
 act of raising a huge morsel to her lips; when the kitchen door opened,
 and in walked Mr. Job Trotter.
@@ -691,10 +691,10 @@ Laying his hand on the mulberry collar of the unresisting Job, Mr.
 Weller dragged him into the kitchen; and, locking the door, handed the
 key to Mr. Muzzle, who very coolly buttoned it up in a side pocket.
 
-‘Well, here’s a game!’ cried Sam. ‘Only think o’ my master havin’ the
+‘[[Well]], here’s a game!’ cried Sam. ‘Only think o’ my master havin’ the
 pleasure o’ meeting yourn upstairs, and me havin’ the joy o’ meetin’ you
 down here. How are you gettin’ on, and how is the chandlery bis’ness
-likely to do? Well, I am so glad to see you. How happy you look. It’s
+likely to do? [[Well]], I am so glad to see you. How happy you look. It’s
 quite a treat to see you; ain’t it, Mr. Muzzle?’
 
 ‘Quite,’ said Mr. Muzzle.
@@ -710,9 +710,9 @@ Mr. Trotter suffered himself to be forced into a chair by the fireside.
 He cast his small eyes, first on Mr. Weller, and then on Mr. Muzzle, but
 said nothing.
 
-‘Well, now,’ said Sam, ‘afore these here ladies, I should jest like to
+‘[[Well]], now,’ said Sam, ‘afore these here ladies, I should jest like to
 ask you, as a sort of curiosity, whether you don’t consider yourself as
-nice and well-behaved a young gen’l’m’n, as ever used a pink check
+nice and [[Well|well]]-behaved a young gen’l’m’n, as ever used a pink check
 pocket-handkerchief, and the number four collection?’
 
 ‘And as was ever a-going to be married to a cook,’ said that lady
@@ -743,39 +743,39 @@ that, Sir?’
 Mr. Muzzle again paused for a reply; and again Mr. Trotter disappointed
 him.
 
-‘Well, then,’ said Mr. Muzzle, ‘I’m very sorry to have to explain myself
+‘[[Well]], then,’ said Mr. Muzzle, ‘I’m very sorry to have to explain myself
 before ladies, but the urgency of the case will be my excuse. The back
 kitchen’s empty, Sir. If you will step in there, Sir, Mr. Weller will
 see fair, and we can have mutual satisfaction till the bell rings.
 Follow me, Sir!’
 
 As Mr. Muzzle uttered these words, he took a step or two towards the
-door; and, by way of saving time, began to pull off his coat as he
+door; and, by way of saving [[Time|time]], began to pull off his coat as he
 walked along.
 
 Now, the cook no sooner heard the concluding words of this desperate
 challenge, and saw Mr. Muzzle about to put it into execution, than she
 uttered a loud and piercing shriek; and rushing on Mr. Job Trotter, who
-rose from his chair on the instant, tore and buffeted his large flat
+[[Rose|rose]] from his chair on the instant, tore and buffeted his large flat
 face, with an energy peculiar to excited females, and twining her hands
 in his long black hair, tore therefrom about enough to make five or six
 dozen of the very largest-sized mourning-rings. Having accomplished this
-feat with all the ardour which her devoted love for Mr. Muzzle inspired,
+feat with all the ardour which her devoted [[Love|love]] for Mr. Muzzle inspired,
 she staggered back; and being a lady of very excitable and delicate
 feelings, she instantly fell under the dresser, and fainted away.
 
 At this moment, the bell rang.
 
 ‘That’s for you, Job Trotter,’ said Sam; and before Mr. Trotter could
-offer remonstrance or reply--even before he had time to stanch the
+offer remonstrance or reply--even before he had [[Time|time]] to stanch the
 wounds inflicted by the insensible lady--Sam seized one arm and Mr.
 Muzzle the other, and one pulling before, and the other pushing behind,
 they conveyed him upstairs, and into the parlour.
 
-It was an impressive tableau. Alfred Jingle, Esquire, alias Captain
+It was an impressive tableau. [[Alfred Jingle]], Esquire, alias Captain
 Fitz-Marshall, was standing near the door with his hat in his hand, and
 a smile on his face, wholly unmoved by his very unpleasant situation.
-Confronting him, stood Mr. Pickwick, who had evidently been inculcating
+Confronting him, stood Mr. [[Pickwick]], who had evidently been inculcating
 some high moral lesson; for his left hand was beneath his coat tail, and
 his right extended in air, as was his wont when delivering himself of an
 impressive address. At a little distance, stood Mr. Tupman with
@@ -785,9 +785,9 @@ Nupkins, gloomily grand and savagely vexed.
 
 ‘What prevents me,’ said Mr. Nupkins, with magisterial dignity, as Job
 was brought in--‘what prevents me from detaining these men as rogues and
-impostors? It is a foolish mercy. What prevents me?’
+impostors? It is a foolish [[Mercy|mercy]]. What prevents me?’
 
-‘Pride, old fellow, pride,’ replied Jingle, quite at his ease. ‘Wouldn’t
+‘[[Pride]], old fellow, [[Pride|pride]],’ replied Jingle, quite at his ease. ‘Wouldn’t
 do--no go--caught a captain, eh?--ha! ha! very good--husband for
 daughter--biter bit--make it public--not for worlds--look stupid--very!’
 
@@ -795,14 +795,14 @@ daughter--biter bit--make it public--not for worlds--look stupid--very!’
 
 ‘I always hated him,’ added Henrietta.
 
-‘Oh, of course,’ said Jingle. ‘Tall young man--old lover--Sidney
+‘Oh, of course,’ said Jingle. ‘Tall young man--old [[Lover|lover]]--Sidney
 Porkenham--rich--fine fellow--not so rich as captain, though, eh?--turn
 him away--off with him--anything for captain--nothing like captain
 anywhere--all the girls--raving mad--eh, Job, eh?’
 
 Here Mr. Jingle laughed very heartily; and Job, rubbing his hands with
 delight, uttered the first sound he had given vent to since he entered
-the house--a low, noiseless chuckle, which seemed to intimate that he
+the [[house]]--a low, noiseless chuckle, which seemed to intimate that he
 enjoyed his laugh too much, to let any of it escape in sound.
 
 ‘Mr. Nupkins,’ said the elder lady,’ this is not a fit conversation for
@@ -816,44 +816,44 @@ the servants to overhear. Let these wretches be removed.’
 
 ‘Yes, your Worship.’
 
-‘Leave the house!’ said Mr. Nupkins, waving his hand emphatically.
+‘Leave the [[house]]!’ said Mr. Nupkins, waving his hand emphatically.
 
 Jingle smiled, and moved towards the door.
 
-‘Stay!’ said Mr. Pickwick. Jingle stopped.
+‘Stay!’ said Mr. [[Pickwick]]. Jingle stopped.
 
-‘I might,’ said Mr. Pickwick, ‘have taken a much greater revenge for the
+‘I might,’ said Mr. [[Pickwick]], ‘have taken a much greater [[Revenge|revenge]] for the
 treatment I have experienced at your hands, and that of your
 hypocritical friend there.’
 
 Job Trotter bowed with great politeness, and laid his hand upon his
 heart.
 
-‘I say,’ said Mr. Pickwick, growing gradually angry, ‘that I might have
-taken a greater revenge, but I content myself with exposing you, which I
-consider a duty I owe to society. This is a leniency, Sir, which I hope
+‘I say,’ said Mr. [[Pickwick]], growing gradually angry, ‘that I might have
+taken a greater [[Revenge|revenge]], but I content myself with exposing you, which I
+consider a duty I owe to society. This is a leniency, Sir, which I [[Hope|hope]]
 you will remember.’
 
-When Mr. Pickwick arrived at this point, Job Trotter, with facetious
+When Mr. [[Pickwick]] arrived at this point, Job Trotter, with facetious
 gravity, applied his hand to his ear, as if desirous not to lose a
 syllable he uttered.
 
-‘And I have only to add, sir,’ said Mr. Pickwick, now thoroughly angry,
+‘And I have only to add, sir,’ said Mr. [[Pickwick]], now thoroughly angry,
 ‘that I consider you a rascal, and a--a--ruffian--and--and worse than
 any man I ever saw, or heard of, except that pious and sanctified
 vagabond in the mulberry livery.’
 
-‘Ha! ha!’ said Jingle, ‘good fellow, Pickwick--fine heart--stout old
+‘Ha! ha!’ said Jingle, ‘good fellow, [[Pickwick]]--fine heart--stout old
 boy--but must _not _be passionate--bad thing, very--bye, bye--see you
 again some day--keep up your spirits--now, Job--trot!’
 
 With these words, Mr. Jingle stuck on his hat in his old fashion, and
 strode out of the room. Job Trotter paused, looked round, smiled and
-then with a bow of mock solemnity to Mr. Pickwick, and a wink to Mr.
+then with a bow of mock solemnity to Mr. [[Pickwick]], and a wink to Mr.
 Weller, the audacious slyness of which baffles all description, followed
 the footsteps of his hopeful master.
 
-‘Sam,’ said Mr. Pickwick, as Mr. Weller was following.
+‘Sam,’ said Mr. [[Pickwick]], as Mr. Weller was following.
 
 ‘Sir.’
 
@@ -861,37 +861,37 @@ Stay here.’
 
 Mr. Weller seemed uncertain.
 
-‘Stay here,’ repeated Mr. Pickwick.
+‘Stay here,’ repeated Mr. [[Pickwick]].
 
-‘Mayn’t I polish that ‘ere Job off, in the front garden?’ said Mr.
+‘Mayn’t I polish that ‘ere Job off, in the front [[Garden|garden]]?’ said Mr.
 Weller.
 
-‘Certainly not,’ replied Mr. Pickwick.
+‘Certainly not,’ replied Mr. [[Pickwick]].
 
 ‘Mayn’t I kick him out o’ the gate, Sir?’ said Mr. Weller.
 
 ‘Not on any account,’ replied his master.
 
-For the first time since his engagement, Mr. Weller looked, for a
+For the first [[Time|time]] since his engagement, Mr. Weller looked, for a
 moment, discontented and unhappy. But his countenance immediately
 cleared up; for the wily Mr. Muzzle, by concealing himself behind the
 street door, and rushing violently out, at the right instant, contrived
 with great dexterity to overturn both Mr. Jingle and his attendant, down
 the flight of steps, into the American aloe tubs that stood beneath.
 
-‘Having discharged my duty, Sir,’ said Mr. Pickwick to Mr. Nupkins, ‘I
+‘Having discharged my duty, Sir,’ said Mr. [[Pickwick]] to Mr. Nupkins, ‘I
 will, with my friends, bid you farewell. While we thank you for such
 hospitality as we have received, permit me to assure you, in our joint
 names, that we should not have accepted it, or have consented to
 extricate ourselves in this way, from our previous dilemma, had we not
-been impelled by a strong sense of duty. We return to London to-morrow.
+been impelled by a strong sense of duty. We return to [[London]] to-morrow.
 Your secret is safe with us.’
 
 Having thus entered his protest against their treatment of the morning,
-Mr. Pickwick bowed low to the ladies, and notwithstanding the
+Mr. [[Pickwick]] bowed low to the ladies, and notwithstanding the
 solicitations of the family, left the room with his friends.
 
-‘Get your hat, Sam,’ said Mr. Pickwick.
+‘Get your hat, Sam,’ said Mr. [[Pickwick]].
 
 ‘It’s below stairs, Sir,’ said Sam, and he ran down after it.
 
@@ -911,7 +911,7 @@ The pretty housemaid had stood the candle on the floor; and, as it gave
 a very dim light, Sam was obliged to go down on _his _knees before he
 could see whether it really was his own hat or not. It was a remarkably
 small corner, and so--it was nobody’s fault but the man’s who built the
-house--Sam and the pretty housemaid were necessarily very close
+[[house]]--Sam and the pretty housemaid were necessarily very close
 together.
 
 ‘Yes, this is it,’ said Sam. ‘Good-bye!’
@@ -938,13 +938,13 @@ housemaid, blushing.
 
 So he kissed her again.
 
-‘Sam!’ said Mr. Pickwick, calling over the banisters.
+‘Sam!’ said Mr. [[Pickwick]], calling over the banisters.
 
 ‘Coming, Sir,’ replied Sam, running upstairs.
 
-‘How long you have been!’ said Mr. Pickwick.
+‘How long you have been!’ said Mr. [[Pickwick]].
 
 ‘There was something behind the door, Sir, which perwented our getting
 it open, for ever so long, Sir,’ replied Sam.
 
-And this was the first passage of Mr. Weller’s first love.
+And this was the first passage of Mr. Weller’s first [[Love|love]].

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,16 +15,16 @@ tags:
 
 
 At length Mr. Stiggins, with several most indubitable symptoms of having
-quite as much pine-apple rum-and-water about him as he could comfortably
+quite as much pine-apple rum-and-[[Water|water]] about him as he could comfortably
 accommodate, took his hat, and his leave; and Sam was, immediately
 afterwards, shown to bed by his father. The respectable old gentleman
 wrung his hand fervently, and seemed disposed to address some
 observation to his son; but on Mrs. Weller advancing towards him, he
-appeared to relinquish that intention, and abruptly bade him good-night.
+appeared to relinquish that intention, and abruptly bade him good-[[Night|night]].
 
 Sam was up betimes next day, and having partaken of a hasty breakfast,
-prepared to return to London. He had scarcely set foot without the
-house, when his father stood before him.
+prepared to return to [[London]]. He had scarcely set foot without the
+[[house]], when his father stood before him.
 
 ‘Goin’, Sammy?’ inquired Mr. Weller.
 
@@ -40,10 +40,10 @@ Mr. Weller the elder fixed on his son an earnest look, and replied,
 ‘’Cause I’m a married man, Samivel, ‘cause I’m a married man. Ven you’re
 a married man, Samivel, you’ll understand a good many things as you
 don’t understand now; but vether it’s worth while goin’ through so much,
-to learn so little, as the charity-boy said ven he got to the end of the
+to learn so little, as the [[Charity|charity]]-boy said ven he got to the end of the
 alphabet, is a matter o’ taste. I rayther think it isn’t.’
 
-Well,’ said Sam, ‘good-bye.’
+[[Well]],’ said Sam, ‘good-bye.’
 
 ‘Tar, tar, Sammy,’ replied his father.
 
@@ -53,13 +53,13 @@ and made toast in my bar, I’d--’
 
 ‘What?’ interposed Mr. Weller, with great anxiety. ‘What?’
 
-‘Pison his rum-and-water,’ said Sam.
+‘Pison his rum-and-[[Water|water]],’ said Sam.
 
 ‘No!’ said Mr. Weller, shaking his son eagerly by the hand, ‘would you
 raly, Sammy-would you, though?’
 
 ‘I would,’ said Sam. ‘I wouldn’t be too hard upon him at first. I’d drop
-him in the water-butt, and put the lid on; and if I found he was
+him in the [[Water|water]]-butt, and put the lid on; and if I found he was
 insensible to kindness, I’d try the other persvasion.’
 
 The elder Mr. Weller bestowed a look of deep, unspeakable admiration on
@@ -67,9 +67,9 @@ his son, and, having once more grasped his hand, walked slowly away,
 revolving in his mind the numerous reflections to which his advice had
 given rise.
 
-Sam looked after him, until he turned a corner of the road; and then set
-forward on his walk to London. He meditated at first, on the probable
+Sam looked after him, until he turned a corner of the [[Road|road]]; and then set
+forward on his walk to [[London]]. He meditated at first, on the probable
 consequences of his own advice, and the likelihood of his father’s
 adopting it. He dismissed the subject from his mind, however, with the
-consolatory reflection that time alone would show; and this is the
+consolatory reflection that [[Time|time]] [[Alone|alone]] would show; and this is the
 reflection we would impress upon the reader.

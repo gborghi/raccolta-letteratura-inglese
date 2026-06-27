@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 10 (part 2)"
+title: "Bleak [[house|House]] — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,22 +25,22 @@ even out in Holborn, who in any domestic passages of arms habitually
 call upon their husbands to look at the difference between their (the
 wives’) position and Mrs. Snagsby’s, and their (the husbands’)
 behaviour and Mr. Snagsby’s. Rumour, always flying bat-like about
-Cook’s Court and skimming in and out at everybody’s windows, does say
+Cook’s [[Court]] and skimming in and out at everybody’s windows, does say
 that Mrs. Snagsby is jealous and inquisitive and that Mr. Snagsby is
-sometimes worried out of house and home, and that if he had the
+sometimes worried out of [[house]] and [[Home|home]], and that if he had the
 spirit of a mouse he wouldn’t stand it. It is even observed that the
-wives who quote him to their self-willed husbands as a shining
+wives who quote him to their [[Self|self]]-willed husbands as a shining
 example in reality look down upon him and that nobody does so with
 greater superciliousness than one particular lady whose lord is more
 than suspected of laying his umbrella on her as an instrument of
 correction. But these vague whisperings may arise from Mr. Snagsby’s
 being in his way rather a meditative and poetical man, loving to walk
-in Staple Inn in the summer-time and to observe how countrified the
-sparrows and the leaves are, also to lounge about the Rolls Yard of a
-Sunday afternoon and to remark (if in good spirits) that there were
+in Staple Inn in the [[Summer|summer]]-[[Time|time]] and to observe how countrified the
+sparrows and the [[Leaves|leaves]] are, also to lounge about the Rolls Yard of a
+[[Sunday]] afternoon and to remark (if in good spirits) that there were
 old times once and that you’d find a stone coffin or two now under
 that chapel, he’ll be bound, if you was to dig for it. He solaces his
-imagination, too, by thinking of the many Chancellors and Vices, and
+[[Imagination|imagination]], too, by thinking of the many Chancellors and Vices, and
 Masters of the Rolls who are deceased; and he gets such a flavour of
 the country out of telling the two ’prentices how he HAS heard say
 that a brook “as clear as crystal” once ran right down the middle of
@@ -51,21 +51,21 @@ he never wants to go there.
 The day is closing in and the gas is lighted, but is not yet fully
 effective, for it is not quite dark. Mr. Snagsby standing at his
 shop-door looking up at the clouds sees a crow who is out late skim
-westward over the slice of sky belonging to Cook’s Court. The crow
-flies straight across Chancery Lane and Lincoln’s Inn Garden into
-Lincoln’s Inn Fields.
+westward over the slice of sky belonging to Cook’s [[Court]]. The crow
+flies straight across Chancery Lane and [[Lincoln]]’s Inn [[Garden]] into
+[[Lincoln]]’s Inn Fields.
 
-Here, in a large house, formerly a house of state, lives Mr.
+Here, in a large [[house]], formerly a [[house]] of state, lives Mr.
 Tulkinghorn. It is let off in sets of chambers now, and in those
-shrunken fragments of its greatness, lawyers lie like maggots in
+shrunken fragments of its [[Greatness|greatness]], lawyers lie like maggots in
 nuts. But its roomy staircases, passages, and antechambers still
-remain; and even its painted ceilings, where Allegory, in Roman
+remain; and even its painted ceilings, where [[Allegory]], in Roman
 helmet and celestial linen, sprawls among balustrades and pillars,
-flowers, clouds, and big-legged boys, and makes the head ache—as
-would seem to be Allegory’s object always, more or less. Here, among
+[[Flowers|flowers]], clouds, and big-legged boys, and makes the head ache—as
+would seem to be [[Allegory]]’s object always, more or less. Here, among
 his many boxes labelled with transcendent names, lives Mr.
-Tulkinghorn, when not speechlessly at home in country-houses where
-the great ones of the earth are bored to death. Here he is to-day,
+Tulkinghorn, when not speechlessly at [[Home|home]] in country-houses where
+the great ones of the earth are bored to [[Death|death]]. Here he is to-day,
 quiet at his table. An oyster of the old school whom nobody can open.
 
 Like as he is to look at, so is his apartment in the dusk of
@@ -86,9 +86,9 @@ indecision is in his mind. Now the inkstand top is in the middle, now
 the red bit of sealing-wax, now the black bit. That’s not it. Mr.
 Tulkinghorn must gather them all up and begin again.
 
-Here, beneath the painted ceiling, with foreshortened Allegory
+Here, beneath the painted ceiling, with foreshortened [[Allegory]]
 staring down at his intrusion as if it meant to swoop upon him, and
-he cutting it dead, Mr. Tulkinghorn has at once his house and office.
+he cutting it dead, Mr. Tulkinghorn has at once his [[house]] and office.
 He keeps no staff, only one middle-aged man, usually a little out at
 elbows, who sits in a high pew in the hall and is rarely overburdened
 with business. Mr. Tulkinghorn is not in a common way. He wants no
@@ -109,12 +109,12 @@ middle-aged man out at elbows, “I shall be back presently.” Very
 rarely tells him anything more explicit.
 
 Mr. Tulkinghorn goes, as the crow came—not quite so straight, but
-nearly—to Cook’s Court, Cursitor Street. To Snagsby’s,
+nearly—to Cook’s [[Court]], Cursitor Street. To Snagsby’s,
 Law-Stationer’s, Deeds engrossed and copied, Law-Writing executed in
 all its branches, &c., &c., &c.
 
-It is somewhere about five or six o’clock in the afternoon, and a
-balmy fragrance of warm tea hovers in Cook’s Court. It hovers about
+It is somewhere about five or six o’[[Clock|clock]] in the afternoon, and a
+balmy fragrance of warm tea hovers in Cook’s [[Court]]. It hovers about
 Snagsby’s door. The hours are early there: dinner at half-past one
 and supper at half-past nine. Mr. Snagsby was about to descend into
 the subterranean regions to take tea when he looked out of his door

@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 18"
+title: "[[Mansfield Park]] — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -23,7 +23,7 @@ impediments arose, Fanny found, before many days were past, that it was
 not all uninterrupted enjoyment to the party themselves, and that she
 had not to witness the continuance of such unanimity and delight as had
 been almost too much for her at first. Everybody began to have their
-vexation. Edmund had many. Entirely against _his_ judgment, a
+vexation. [[Edmund]] had many. Entirely against _his_ judgment, a
 scene-painter arrived from town, and was at work, much to the increase
 of the expenses, and, what was worse, of the eclat of their
 proceedings; and his brother, instead of being really guided by him as
@@ -39,14 +39,14 @@ ready to regret that some other play had not been chosen.
 Fanny, being always a very courteous listener, and often the only
 listener at hand, came in for the complaints and the distresses of most
 of them. _She_ knew that Mr. Yates was in general thought to rant
-dreadfully; that Mr. Yates was disappointed in Henry Crawford; that Tom
-Bertram spoke so quick he would be unintelligible; that Mrs. Grant
-spoiled everything by laughing; that Edmund was behindhand with his
+dreadfully; that Mr. Yates was disappointed in [[Henry Crawford]]; that Tom
+[[Bertram]] spoke so quick he would be unintelligible; that Mrs. Grant
+spoiled everything by laughing; that [[Edmund]] was behindhand with his
 part, and that it was misery to have anything to do with Mr. Rushworth,
 who was wanting a prompter through every speech. She knew, also, that
 poor Mr. Rushworth could seldom get anybody to rehearse with him: _his_
-complaint came before her as well as the rest; and so decided to her
-eye was her cousin Maria’s avoidance of him, and so needlessly often
+complaint came before her as [[Well|well]] as the rest; and so decided to her
+eye was her cousin [[Maria]]’s avoidance of him, and so needlessly often
 the rehearsal of the first scene between her and Mr. Crawford, that she
 had soon all the terror of other complaints from _him_. So far from
 being all satisfied and all enjoying, she found everybody requiring
@@ -55,27 +55,27 @@ others. Everybody had a part either too long or too short; nobody would
 attend as they ought; nobody would remember on which side they were to
 come in; nobody but the complainer would observe any directions.
 
-Fanny believed herself to derive as much innocent enjoyment from the
-play as any of them; Henry Crawford acted well, and it was a pleasure
+Fanny believed herself to derive as much [[Innocent|innocent]] enjoyment from the
+play as any of them; [[Henry Crawford]] acted [[Well|well]], and it was a pleasure
 to _her_ to creep into the theatre, and attend the rehearsal of the
 first act, in spite of the feelings it excited in some speeches for
-Maria. Maria, she also thought, acted well, too well; and after the
+[[Maria]]. [[Maria]], she also thought, acted [[Well|well]], too [[Well|well]]; and after the
 first rehearsal or two, Fanny began to be their only audience; and
 sometimes as prompter, sometimes as spectator, was often very useful.
 As far as she could judge, Mr. Crawford was considerably the best actor
-of all: he had more confidence than Edmund, more judgment than Tom,
+of all: he had more confidence than [[Edmund]], more judgment than Tom,
 more talent and taste than Mr. Yates. She did not like him as a man,
 but she must admit him to be the best actor, and on this point there
 were not many who differed from her. Mr. Yates, indeed, exclaimed
 against his tameness and insipidity; and the day came at last, when Mr.
 Rushworth turned to her with a black look, and said, “Do you think
-there is anything so very fine in all this? For the life and soul of
+there is anything so very fine in all this? For the life and [[Soul|soul]] of
 me, I cannot admire him; and, between ourselves, to see such an
 undersized, little, mean-looking man, set up for a fine actor, is very
 ridiculous in my opinion.”
 
-From this moment there was a return of his former jealousy, which
-Maria, from increasing hopes of Crawford, was at little pains to
+From this moment there was a return of his former [[Jealousy|jealousy]], which
+[[Maria]], from increasing hopes of Crawford, was at little pains to
 remove; and the chances of Mr. Rushworth’s ever attaining to the
 knowledge of his two-and-forty speeches became much less. As to his
 ever making anything _tolerable_ of them, nobody had the smallest idea
@@ -86,12 +86,12 @@ but the others aspired at nothing beyond his remembering the catchword,
 and the first line of his speech, and being able to follow the prompter
 through the rest. Fanny, in her pity and kindheartedness, was at great
 pains to teach him how to learn, giving him all the helps and
-directions in her power, trying to make an artificial memory for him,
+directions in her power, trying to make an artificial [[Memory|memory]] for him,
 and learning every word of his part herself, but without his being much
 the forwarder.
 
 Many uncomfortable, anxious, apprehensive feelings she certainly had;
-but with all these, and other claims on her time and attention, she was
+but with all these, and other claims on her [[Time|time]] and attention, she was
 as far from finding herself without employment or utility amongst them,
 as without a companion in uneasiness; quite as far from having no
 demand on her leisure as on her compassion. The gloom of her first
@@ -99,7 +99,7 @@ anticipations was proved to have been unfounded. She was occasionally
 useful to all; she was perhaps as much at peace as any.
 
 There was a great deal of needlework to be done, moreover, in which her
-help was wanted; and that Mrs. Norris thought her quite as well off as
+help was wanted; and that Mrs. Norris thought her quite as [[Well|well]] off as
 the rest, was evident by the manner in which she claimed it—“Come,
 Fanny,” she cried, “these are fine times for you, but you must not be
 always walking from one room to the other, and doing the lookings-on at
@@ -112,18 +112,18 @@ to do. _You_ are best off, I can tell you: but if nobody did more than
 _you_, we should not get on very fast.”
 
 Fanny took the work very quietly, without attempting any defence; but
-her kinder aunt Bertram observed on her behalf—
+her kinder aunt [[Bertram]] observed on her behalf—
 
-“One cannot wonder, sister, that Fanny _should_ be delighted: it is all
+“One cannot [[Wonder|wonder]], sister, that Fanny _should_ be delighted: it is all
 new to her, you know; you and I used to be very fond of a play
 ourselves, and so am I still; and as soon as I am a little more at
 leisure, _I_ mean to look in at their rehearsals too. What is the play
 about, Fanny? you have never told me.”
 
 “Oh! sister, pray do not ask her now; for Fanny is not one of those who
-can talk and work at the same time. It is about Lovers’ Vows.”
+can talk and work at the same [[Time|time]]. It is about [[lovers|Lovers]]’ Vows.”
 
-“I believe,” said Fanny to her aunt Bertram, “there will be three acts
+“I believe,” said Fanny to her aunt [[Bertram]], “there will be three acts
 rehearsed to-morrow evening, and that will give you an opportunity of
 seeing all the actors at once.”
 
@@ -132,14 +132,14 @@ seeing all the actors at once.”
 a play without a curtain—and I am much mistaken if you do not find it
 draw up into very handsome festoons.”
 
-Lady Bertram seemed quite resigned to waiting. Fanny did not share her
+Lady [[Bertram]] seemed quite resigned to waiting. Fanny did not share her
 aunt’s composure: she thought of the morrow a great deal, for if the
-three acts were rehearsed, Edmund and Miss Crawford would then be
-acting together for the first time; the third act would bring a scene
+three acts were rehearsed, [[Edmund]] and Miss Crawford would then be
+acting together for the first [[Time|time]]; the third act would bring a scene
 between them which interested her most particularly, and which she was
-longing and dreading to see how they would perform. The whole subject
-of it was love—a marriage of love was to be described by the gentleman,
-and very little short of a declaration of love be made by the lady.
+[[Longing|longing]] and dreading to see how they would perform. The whole subject
+of it was [[Love|love]]—a [[Marriage|marriage]] of [[Love|love]] was to be described by the gentleman,
+and very little short of a declaration of [[Love|love]] be made by the lady.
 
 She had read and read the scene again with many painful, many wondering
 emotions, and looked forward to their representation of it as a
@@ -149,11 +149,11 @@ rehearsed it, even in private.
 The morrow came, the plan for the evening continued, and Fanny’s
 consideration of it did not become less agitated. She worked very
 diligently under her aunt’s directions, but her diligence and her
-silence concealed a very absent, anxious mind; and about noon she made
+[[Silence|silence]] concealed a very absent, anxious mind; and about [[Noon|noon]] she made
 her escape with her work to the East room, that she might have no
 concern in another, and, as she deemed it, most unnecessary rehearsal
-of the first act, which Henry Crawford was just proposing, desirous at
-once of having her time to herself, and of avoiding the sight of Mr.
+of the first act, which [[Henry Crawford]] was just proposing, desirous at
+once of having her [[Time|time]] to herself, and of avoiding the sight of Mr.
 Rushworth. A glimpse, as she passed through the hall, of the two ladies
 walking up from the Parsonage made no change in her wish of retreat,
 and she worked and meditated in the East room, undisturbed, for a
@@ -170,7 +170,7 @@ grate with concern.
 “Thank you; I am quite warm, very warm. Allow me to stay here a little
 while, and do have the goodness to hear me my third act. I have brought
 my book, and if you would but rehearse it with me, I should be _so_
-obliged! I came here to-day intending to rehearse it with Edmund—by
+obliged! I came here to-day intending to rehearse it with [[Edmund]]—by
 ourselves—against the evening, but he is not in the way; and if he
 _were_, I do not think I could go through it with _him_, till I have
 hardened myself a little; for really there is a speech or two. You will
@@ -197,58 +197,58 @@ theatre, I dare say; much more fitted for little girls to sit and kick
 their feet against when they are learning a lesson. What would your
 governess and your uncle say to see them used for such a purpose? Could
 Sir Thomas look in upon us just now, he would bless himself, for we are
-rehearsing all over the house. Yates is storming away in the
+rehearsing all over the [[house]]. Yates is storming away in the
 dining-room. I heard him as I came upstairs, and the theatre is engaged
-of course by those indefatigable rehearsers, Agatha and Frederick. If
+of course by those indefatigable rehearsers, [[Agatha]] and Frederick. If
 _they_ are not perfect, I _shall_ be surprised. By the bye, I looked in
 upon them five minutes ago, and it happened to be exactly at one of the
 times when they were trying _not_ to embrace, and Mr. Rushworth was
 with me. I thought he began to look a little queer, so I turned it off
-as well as I could, by whispering to him, ‘We shall have an excellent
-Agatha; there is something so _maternal_ in her manner, so completely
-_maternal_ in her voice and countenance.’ Was not that well done of me?
+as [[Well|well]] as I could, by whispering to him, ‘We shall have an excellent
+[[Agatha]]; there is something so _maternal_ in her manner, so completely
+_maternal_ in her voice and countenance.’ Was not that [[Well|well]] done of me?
 He brightened up directly. Now for my soliloquy.”
 
 She began, and Fanny joined in with all the modest feeling which the
-idea of representing Edmund was so strongly calculated to inspire; but
+idea of representing [[Edmund]] was so strongly calculated to inspire; but
 with looks and voice so truly feminine as to be no very good picture of
-a man. With such an Anhalt, however, Miss Crawford had courage enough;
+a man. With such an Anhalt, however, Miss Crawford had [[Courage|courage]] enough;
 and they had got through half the scene, when a tap at the door brought
-a pause, and the entrance of Edmund, the next moment, suspended it all.
+a pause, and the entrance of [[Edmund]], the next moment, suspended it all.
 
 Surprise, consciousness, and pleasure appeared in each of the three on
-this unexpected meeting; and as Edmund was come on the very same
+this unexpected meeting; and as [[Edmund]] was come on the very same
 business that had brought Miss Crawford, consciousness and pleasure
 were likely to be more than momentary in _them_. He too had his book,
 and was seeking Fanny, to ask her to rehearse with him, and help him to
 prepare for the evening, without knowing Miss Crawford to be in the
-house; and great was the joy and animation of being thus thrown
+[[house]]; and great was the joy and animation of being thus thrown
 together, of comparing schemes, and sympathising in praise of Fanny’s
 kind offices.
 
 _She_ could not equal them in their warmth. _Her_ spirits sank under
 the glow of theirs, and she felt herself becoming too nearly nothing to
 both to have any comfort in having been sought by either. They must now
-rehearse together. Edmund proposed, urged, entreated it, till the lady,
+rehearse together. [[Edmund]] proposed, urged, entreated it, till the lady,
 not very unwilling at first, could refuse no longer, and Fanny was
 wanted only to prompt and observe them. She was invested, indeed, with
 the office of judge and critic, and earnestly desired to exercise it
 and tell them all their faults; but from doing so every feeling within
 her shrank—she could not, would not, dared not attempt it: had she been
-otherwise qualified for criticism, her conscience must have restrained
+otherwise qualified for criticism, her [[Conscience|conscience]] must have restrained
 her from venturing at disapprobation. She believed herself to feel too
 much of it in the aggregate for honesty or safety in particulars. To
 prompt them must be enough for her; and it was sometimes _more_ than
 enough; for she could not always pay attention to the book. In watching
 them she forgot herself; and, agitated by the increasing spirit of
-Edmund’s manner, had once closed the page and turned away exactly as he
+[[Edmund]]’s manner, had once closed the page and turned away exactly as he
 wanted help. It was imputed to very reasonable weariness, and she was
 thanked and pitied; but she deserved their pity more than she hoped
 they would ever surmise. At last the scene was over, and Fanny forced
 herself to add her praise to the compliments each was giving the other;
-and when again alone and able to recall the whole, she was inclined to
-believe their performance would, indeed, have such nature and feeling
-in it as must ensure their credit, and make it a very suffering
+and when again [[Alone|alone]] and able to recall the whole, she was inclined to
+believe their performance would, indeed, have such [[Nature|nature]] and feeling
+in it as must ensure their credit, and make it a very [[Suffering|suffering]]
 exhibition to herself. Whatever might be its effect, however, she must
 stand the brunt of it again that very day.
 
@@ -257,12 +257,12 @@ take place in the evening: Mrs. Grant and the Crawfords were engaged to
 return for that purpose as soon as they could after dinner; and every
 one concerned was looking forward with eagerness. There seemed a
 general diffusion of cheerfulness on the occasion. Tom was enjoying
-such an advance towards the end; Edmund was in spirits from the
+such an advance towards the end; [[Edmund]] was in spirits from the
 morning’s rehearsal, and little vexations seemed everywhere smoothed
 away. All were alert and impatient; the ladies moved soon, the
-gentlemen soon followed them, and with the exception of Lady Bertram,
-Mrs. Norris, and Julia, everybody was in the theatre at an early hour;
-and having lighted it up as well as its unfinished state admitted, were
+gentlemen soon followed them, and with the exception of Lady [[Bertram]],
+Mrs. Norris, and [[Julia]], everybody was in the theatre at an early hour;
+and having lighted it up as [[Well|well]] as its unfinished state admitted, were
 waiting only the arrival of Mrs. Grant and the Crawfords to begin.
 
 They did not wait long for the Crawfords, but there was no Mrs. Grant.
@@ -272,41 +272,41 @@ wife.
 
 “Dr. Grant is ill,” said she, with mock solemnity. “He has been ill
 ever since he did not eat any of the pheasant today. He fancied it
-tough, sent away his plate, and has been suffering ever since”.
+tough, sent away his plate, and has been [[Suffering|suffering]] ever since”.
 
 Here was disappointment! Mrs. Grant’s non-attendance was sad indeed.
 Her pleasant manners and cheerful conformity made her always valuable
 amongst them; but _now_ she was absolutely necessary. They could not
 act, they could not rehearse with any satisfaction without her. The
 comfort of the whole evening was destroyed. What was to be done? Tom,
-as Cottager, was in despair. After a pause of perplexity, some eyes
+as Cottager, was in [[Despair|despair]]. After a pause of perplexity, some eyes
 began to be turned towards Fanny, and a voice or two to say, “If Miss
 Price would be so good as to _read_ the part.” She was immediately
-surrounded by supplications; everybody asked it; even Edmund said, “Do,
+surrounded by supplications; everybody asked it; even [[Edmund]] said, “Do,
 Fanny, if it is not _very_ disagreeable to you.”
 
 But Fanny still hung back. She could not endure the idea of it. Why was
-not Miss Crawford to be applied to as well? Or why had not she rather
+not Miss Crawford to be applied to as [[Well|well]]? Or why had not she rather
 gone to her own room, as she had felt to be safest, instead of
 attending the rehearsal at all? She had known it would irritate and
 distress her; she had known it her duty to keep away. She was properly
 punished.
 
-“You have only to _read_ the part,” said Henry Crawford, with renewed
+“You have only to _read_ the part,” said [[Henry Crawford]], with renewed
 entreaty.
 
-“And I do believe she can say every word of it,” added Maria, “for she
+“And I do believe she can say every word of it,” added [[Maria]], “for she
 could put Mrs. Grant right the other day in twenty places. Fanny, I am
 sure you know the part.”
 
 Fanny could not say she did _not_; and as they all persevered, as
-Edmund repeated his wish, and with a look of even fond dependence on
-her good-nature, she must yield. She would do her best. Everybody was
+[[Edmund]] repeated his wish, and with a look of even fond dependence on
+her good-[[Nature|nature]], she must yield. She would do her best. Everybody was
 satisfied; and she was left to the tremors of a most palpitating heart,
 while the others prepared to begin.
 
 They _did_ begin; and being too much engaged in their own noise to be
-struck by an unusual noise in the other part of the house, had
+struck by an unusual noise in the other part of the [[house]], had
 proceeded some way when the door of the room was thrown open, and
-Julia, appearing at it, with a face all aghast, exclaimed, “My father
+[[Julia]], appearing at it, with a face all aghast, exclaimed, “My father
 is come! He is in the hall at this moment.”

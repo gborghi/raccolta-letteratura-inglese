@@ -17,7 +17,7 @@ tags:
 The only thing in question is the quality of the thing they got.
 There is something highly maddening in the circumstance
 that when modern people attack an institution that really does
-demand reform, they always attack it for the wrong reasons.
+demand [[Reform|reform]], they always attack it for the wrong reasons.
 Thus many opponents of our public schools, imagining themselves
 to be very democratic, have exhausted themselves in an unmeaning
 attack upon the study of Greek.  I can understand how Greek may be
@@ -26,12 +26,12 @@ into the cut throat commerce which is the negation of citizenship;
 but I do not understand how it can be considered undemocratic.
 I quite understand why Mr. Carnegie has a hatred of Greek.  It is
 obscurely founded on the firm and sound impression that in
-any self-governing Greek city he would have been killed.
+any [[Self|self]]-governing Greek [[City|city]] he would have been killed.
 But I cannot comprehend why any chance democrat, say Mr. Quelch,
 or Mr. Will Crooks, I or Mr. John M. Robertson, should be opposed to
 people learning the Greek alphabet, which was the alphabet of liberty.
 Why should Radicals dislike Greek?  In that language is written
-all the earliest and, Heaven knows, the most heroic history
+all the earliest and, Heaven knows, the most heroic [[history]]
 of the Radical party.  Why should Greek disgust a democrat,
 when the very word democrat is Greek?
 
@@ -40,31 +40,31 @@ attacking the athletics of public schools as something
 promoting animalism and brutality.  Now brutality, in the only
 immoral sense, is not a vice of the English public schools.
 There is much moral bullying, owing to the general lack
-of moral courage in the public-school atmosphere.
-These schools do, upon the whole, encourage physical courage;
-but they do not merely discourage moral courage, they forbid it.
+of moral [[Courage|courage]] in the public-school atmosphere.
+These schools do, upon the whole, encourage physical [[Courage|courage]];
+but they do not merely discourage moral [[Courage|courage]], they forbid it.
 The ultimate result of the thing is seen in the egregious
 English officer who cannot even endure to wear a bright uniform
 except when it is blurred and hidden in the smoke of battle.
 This, like all the affectations of our present plutocracy,
 is an entirely modern thing.  It was unknown to the old aristocrats.
 The Black Prince would certainly have asked that any knight
-who had the courage to lift his crest among his enemies,
-should also have the courage to lift it among his friends.
-As regards moral courage, then it is not so much that the public
+who had the [[Courage|courage]] to lift his crest among his enemies,
+should also have the [[Courage|courage]] to lift it among his friends.
+As regards moral [[Courage|courage]], then it is not so much that the public
 schools support it feebly, as that they suppress it firmly.
-But physical courage they do, on the whole, support; and physical
-courage is a magnificent fundamental.  The one great,
+But physical [[Courage|courage]] they do, on the whole, support; and physical
+[[Courage|courage]] is a magnificent fundamental.  The one great,
 wise Englishman of the eighteenth century said truly that if a man
 lost that virtue he could never be sure of keeping any other.
 Now it is one of the mean and morbid modern lies that physical
-courage is connected with cruelty.  The Tolstoian and Kiplingite
+[[Courage|courage]] is connected with cruelty.  The Tolstoian and Kiplingite
 are nowhere more at one than in maintaining this.  They have,
 I believe, some small sectarian quarrel with each other, the one
-saying that courage must be abandoned because it is connected
+saying that [[Courage|courage]] must be abandoned because it is connected
 with cruelty, and the other maintaining that cruelty is charming
-because it is a part of courage.  But it is all, thank God, a lie.
-An energy and boldness of body may make a man stupid or reckless
+because it is a part of [[Courage|courage]].  But it is all, thank God, a lie.
+An energy and boldness of [[Body|body]] may make a man stupid or reckless
 or dull or drunk or hungry, but it does not make him spiteful.
 And we may admit heartily (without joining in that perpetual
 praise which public-school men are always pouring upon themselves)
@@ -86,17 +86,17 @@ bullies are more than cowardly; they are shy.
 
 As a third instance of the wrong form of revolt against
 the public schools, I may mention the habit of using the word
-aristocracy with a double implication.  To put the plain truth
+aristocracy with a [[Double|double]] implication.  To put the plain [[Truth|truth]]
 as briefly as possible, if aristocracy means rule by a rich ring,
 England has aristocracy and the English public schools support it.
-If it means rule by ancient families or flawless blood,
+If it means rule by ancient families or flawless [[Blood|blood]],
 England has not got aristocracy, and the public schools
 systematically destroy it.  In these circles real aristocracy,
-like real democracy, has become bad form.  A modern fashionable
+like real [[democracy]], has become bad form.  A modern fashionable
 host dare not praise his ancestry; it would so often be an insult
 to half the other oligarchs at table, who have no ancestry.
-We have said he has not the moral courage to wear his uniform;
-still less has he the moral courage to wear his coat-of-arms.
+We have said he has not the moral [[Courage|courage]] to wear his uniform;
+still less has he the moral [[Courage|courage]] to wear his coat-of-arms.
 The whole thing now is only a vague hotch-potch of nice and
 nasty gentlemen.  The nice gentleman never refers to anyone
 else's father, the nasty gentleman never refers to his own.
@@ -125,7 +125,7 @@ they are not torturers; and they are not, in the vast majority of cases,
 people fiercely proud of their ancestry, or even people with any ancestry
 to be proud of.  They are taught to be courteous, to be good tempered,
 to be brave in a bodily sense, to be clean in a bodily sense;
-they are generally kind to animals, generally civil to servants,
+they are generally kind to [[Animals|animals]], generally civil to servants,
 and to anyone in any sense their equal, the jolliest companions on earth.
 Is there then anything wrong in the public-school ideal?
 I think we all feel there is something very wrong in it, but a blinding

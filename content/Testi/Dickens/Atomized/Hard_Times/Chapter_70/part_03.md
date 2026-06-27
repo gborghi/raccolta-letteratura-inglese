@@ -33,11 +33,11 @@ is the only compensation you have left it in your power to make.  I do
 not say that it is much, or that it is enough; but it is something, and
 it is necessary.  Therefore, though without any other authority than I
 have given you, and even without the knowledge of any other person than
-yourself and myself, I ask you to depart from this place to-night, under
+yourself and myself, I ask you to depart from this place to-[[Night|night]], under
 an obligation never to return to it.’
 
-If she had asserted any influence over him beyond her plain faith in the
-truth and right of what she said; if she had concealed the least doubt or
+If she had asserted any influence over him beyond her plain [[Faith|faith]] in the
+[[Truth|truth]] and right of what she said; if she had concealed the least [[Doubt|doubt]] or
 irresolution, or had harboured for the best purpose any reserve or
 pretence; if she had shown, or felt, the lightest trace of any
 sensitiveness to his ridicule or his astonishment, or any remonstrance he
@@ -62,7 +62,7 @@ incomprehensible way.’
 ‘I am quite sure,’ repeated Sissy, ‘that it is the only reparation in
 your power, sir.  I am quite sure, or I would not have come here.’
 
-He glanced at her face, and walked about again.  ‘Upon my soul, I don’t
+He glanced at her face, and walked about again.  ‘Upon my [[Soul|soul]], I don’t
 know what to say.  So immensely absurd!’
 
 It fell to his lot, now, to stipulate for secrecy.
@@ -73,9 +73,9 @@ the most inviolable confidence.’
 
 ‘I will trust to you, sir,’ returned Sissy, ‘and you will trust to me.’
 
-His leaning against the chimney-piece reminded him of the night with the
-whelp.  It was the self-same chimney-piece, and somehow he felt as if
-_he_ were the whelp to-night.  He could make no way at all.
+His leaning against the chimney-piece reminded him of the [[Night|night]] with the
+whelp.  It was the [[Self|self]]-same chimney-piece, and somehow he felt as if
+_he_ were the whelp to-[[Night|night]].  He could make no way at all.
 
 ‘I suppose a man never was placed in a more ridiculous position,’ he
 said, after looking down, and looking up, and laughing, and frowning, and
@@ -83,34 +83,34 @@ walking off, and walking back again.  ‘But I see no way out of it.  What
 will be, will be.  _This_ will be, I suppose.  I must take off myself, I
 imagine—in short, I engage to do it.’
 
-Sissy rose.  She was not surprised by the result, but she was happy in
+Sissy [[Rose|rose]].  She was not surprised by the result, but she was happy in
 it, and her face beamed brightly.
 
-‘You will permit me to say,’ continued Mr. James Harthouse, ‘that I doubt
+‘You will permit me to say,’ continued Mr. [[James Harthouse]], ‘that I [[Doubt|doubt]]
 if any other ambassador, or ambassadress, could have addressed me with
-the same success.  I must not only regard myself as being in a very
+the same [[success]].  I must not only regard myself as being in a very
 ridiculous position, but as being vanquished at all points.  Will you
 allow me the privilege of remembering my enemy’s name?’
 
 ‘_My_ name?’ said the ambassadress.
 
-‘The only name I could possibly care to know, to-night.’
+‘The only name I could possibly care to know, to-[[Night|night]].’
 
-‘Sissy Jupe.’
+‘[[Sissy Jupe]].’
 
 ‘Pardon my curiosity at parting.  Related to the family?’
 
 ‘I am only a poor girl,’ returned Sissy.  ‘I was separated from my
 father—he was only a stroller—and taken pity on by Mr. Gradgrind.  I have
-lived in the house ever since.’
+lived in the [[house]] ever since.’
 
 She was gone.
 
-‘It wanted this to complete the defeat,’ said Mr. James Harthouse,
+‘It wanted this to complete the defeat,’ said Mr. [[James Harthouse]],
 sinking, with a resigned air, on the sofa, after standing transfixed a
 little while.  ‘The defeat may now be considered perfectly accomplished.
-Only a poor girl—only a stroller—only James Harthouse made nothing
-of—only James Harthouse a Great Pyramid of failure.’
+Only a poor girl—only a stroller—only [[James Harthouse]] made nothing
+of—only [[James Harthouse]] a Great Pyramid of failure.’
 
 The Great Pyramid put it into his head to go up the Nile.  He took a pen
 upon the instant, and wrote the following note (in appropriate
@@ -137,7 +137,7 @@ Gradgrind.  Almost as soon as the ink was dry upon their superscriptions,
 he had left the tall chimneys of Coketown behind, and was in a railway
 carriage, tearing and glaring over the dark landscape.
 
-The moral sort of fellows might suppose that Mr. James Harthouse derived
+The moral sort of fellows might suppose that Mr. [[James Harthouse]] derived
 some comfortable reflections afterwards, from this prompt retreat, as one
 of his few actions that made any amends for anything, and as a token to
 himself that he had escaped the climax of a very bad business.  But it

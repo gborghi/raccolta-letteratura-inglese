@@ -24,13 +24,13 @@ tags:
 
       were with him, was a feint. He answered all my companion’s
 
-      questions with perfect freedom; told him that he had no doubt of
+      questions with perfect [[Freedom|freedom]]; told him that he had no [[Doubt|doubt]] of
 
       his father’s having been picked up, as there were no less than
 
       five sail in sight just before sundown on the day he was cut
 
-      adrift; and used other language of a consolatory nature, which
+      adrift; and used other language of a consolatory [[Nature|nature]], which
 
       occasioned me no less surprise than pleasure. Indeed, I began to
 
@@ -46,19 +46,19 @@ tags:
 
       conduct of the hybrid appeared to be instigated by the most
 
-      arbitrary caprice alone; and, indeed, it was difficult to say if
+      arbitrary caprice [[Alone|alone]]; and, indeed, it was difficult to say if
 
       he was at any moment of sound mind. Peters went upon deck in
 
-      about an hour, and did not return again until noon, when he
+      about an hour, and did not return again until [[Noon|noon]], when he
 
       brought Augustus a plentiful supply of junk beef and pudding. Of
 
-      this, when we were left alone, I partook heartily, without
+      this, when we were left [[Alone|alone]], I partook heartily, without
 
       returning through the hole. No one else came down into the
 
-      forecastle during the day, and at night, I got into Augustus’
+      forecastle during the day, and at [[Night|night]], I got into Augustus’
 
       berth, where I slept soundly and sweetly until nearly daybreak,
 
@@ -70,15 +70,15 @@ tags:
 
       entirely, and gave no indications of hydrophobia, drinking a
 
-      little water that was offered him with great apparent eagerness.
+      little [[Water|water]] that was offered him with great apparent eagerness.
 
       During the day he regained all his former vigour and appetite.
 
-      His strange conduct had been brought on, no doubt, by the
+      His strange conduct had been brought on, no [[Doubt|doubt]], by the
 
       deleterious quality of the air of the hold, and had no connexion
 
-      with canine madness. I could not sufficiently rejoice that I had
+      with canine [[Madness|madness]]. I could not sufficiently rejoice that I had
 
       persisted in bringing him with me from the box. This day was the
 
@@ -110,9 +110,9 @@ tags:
 
       pleased anywhere forward of the mainmast, and that he had been
 
-      ordered to sleep, as usual, in the forecastle. He brought me,
+      ordered to [[Sleep|sleep]], as usual, in the forecastle. He brought me,
 
-      too, a good dinner, and a plentiful supply of water. The brig was
+      too, a good dinner, and a plentiful supply of [[Water|water]]. The brig was
 
       still cruising for the vessel from the Cape Verds, and a sail was
 
@@ -138,7 +138,7 @@ tags:
 
       if not yet entirely recovered from the effects of his sickness.
 
-      Toward night a flaw of wind struck the brig before sail could be
+      Toward [[Night|night]] a flaw of [[Wind|wind]] struck the brig before sail could be
 
       taken in, and very nearly capsized her. The puff died away
 
@@ -170,7 +170,7 @@ tags:
 
       Liverpool, and was allowed to pass unmolested. Augustus spent
 
-      most of his time on deck, with a view of obtaining all the
+      most of his [[Time|time]] on deck, with a view of obtaining all the
 
       information in his power respecting the intentions of the
 
@@ -186,7 +186,7 @@ tags:
 
       July 5th. About daybreak there came on a stiff breeze from the
 
-      west, which at noon freshened into a gale, so that the brig could
+      west, which at [[Noon|noon]] freshened into a gale, so that the brig could
 
       carry nothing more than her trysail and foresail. In taking in
 

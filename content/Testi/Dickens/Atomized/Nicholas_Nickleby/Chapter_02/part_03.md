@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 2 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The kind-hearted gentleman omitted to add that Newman Noggs, being
+The kind-hearted gentleman omitted to add that [[Newman Noggs]], being
 utterly destitute, served him for rather less than the usual wages of a
 boy of thirteen; and likewise failed to mention in his hasty chronicle,
 that his eccentric taciturnity rendered him an especially valuable
@@ -25,9 +25,9 @@ hackney cabriolet immediately afterwards, perhaps Mr. Nickleby forgot to
 mention circumstances so unimportant.
 
 There was a great bustle in Bishopsgate Street Within, as they drew up,
-and (it being a windy day) half-a-dozen men were tacking across the road
+and (it being a windy day) half-a-dozen men were tacking across the [[Road|road]]
 under a press of paper, bearing gigantic announcements that a Public
-Meeting would be holden at one o’clock precisely, to take into
+Meeting would be holden at one o’[[Clock|clock]] precisely, to take into
 consideration the propriety of petitioning Parliament in favour of the
 United Metropolitan Improved Hot Muffin and Crumpet Baking and Punctual
 Delivery Company, capital five millions, in five hundred thousand shares
@@ -38,7 +38,7 @@ the landings to show the way; and, followed by Mr. Nickleby, dived into a
 suite of apartments behind the great public room: in the second of which
 was a business-looking table, and several business-looking people.
 
-‘Hear!’ cried a gentleman with a double chin, as Mr. Bonney presented
+‘Hear!’ cried a gentleman with a [[Double|double]] chin, as Mr. Bonney presented
 himself. ‘Chair, gentlemen, chair!’
 
 The new-comers were received with universal approbation, and Mr. Bonney
@@ -62,14 +62,14 @@ subsided, the gentlemen who were on speaking terms with Sir Matthew
 Pupker, or the two other members, crowded round them in three little
 groups, near one or other of which the gentlemen who were NOT on
 speaking terms with Sir Matthew Pupker or the two other members, stood
-lingering, and smiling, and rubbing their hands, in the desperate hope
+lingering, and smiling, and rubbing their hands, in the desperate [[Hope|hope]]
 of something turning up which might bring them into notice. All this
-time, Sir Matthew Pupker and the two other members were relating to
-their separate circles what the intentions of government were, about
-taking up the bill; with a full account of what the government had said
-in a whisper the last time they dined with it, and how the government
+[[Time|time]], Sir Matthew Pupker and the two other members were relating to
+their separate circles what the intentions of [[government]] were, about
+taking up the bill; with a full account of what the [[government]] had said
+in a whisper the last [[Time|time]] they dined with it, and how the [[government]]
 had been observed to wink when it said so; from which premises they were
-at no loss to draw the conclusion, that if the government had one
+at no loss to draw the conclusion, that if the [[government]] had one
 object more at heart than another, that one object was the welfare and
 advantage of the United Metropolitan Improved Hot Muffin and Crumpet
 Baking and Punctual Delivery Company.
@@ -85,10 +85,10 @@ dissatisfaction by various hoots and cries. These vocal exertions,
 emanating from the people who had been there longest, naturally
 proceeded from those who were nearest to the platform and furthest from
 the policemen in attendance, who having no great mind to fight their way
-through the crowd, but entertaining nevertheless a praiseworthy desire
+through the crowd, but entertaining nevertheless a praiseworthy [[Desire|desire]]
 to do something to quell the disturbance, immediately began to drag
 forth, by the coat tails and collars, all the quiet people near the
-door; at the same time dealing out various smart and tingling blows with
+door; at the same [[Time|time]] dealing out various smart and tingling blows with
 their truncheons, after the manner of that ingenious actor, Mr. Punch:
 whose brilliant example, both in the fashion of his weapons and their
 use, this branch of the executive occasionally follows.

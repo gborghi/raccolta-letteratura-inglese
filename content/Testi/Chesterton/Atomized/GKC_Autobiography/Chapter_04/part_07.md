@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 4 (part 7)"
+title: "[[GKC-Autobiography]] — Chapter 4 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -15,15 +15,15 @@ tags:
 
 
 I pause upon the point here, because it is of some importance
-to the understanding of that time.  I have often been asked what I
-mean by the monstrous pantomime ogre who was called Sunday in
+to the understanding of that [[Time|time]].  I have often been asked what I
+mean by the monstrous pantomime ogre who was called [[Sunday]] in
 that story; and some have suggested, and in one sense not untruly,
 that he was meant for a blasphemous version of the Creator.
-But the point is that the whole story is a nightmare of things,
+But the point is that the whole story is a [[nightmare]] of things,
 not as they are, but as they seemed to the young half-pessimist
 of the '90s; and the ogre who appears brutal but is also cryptically
 benevolent is not so much God, in the sense of religion
-or irreligion, but rather Nature as it appears to the pantheist,
+or irreligion, but rather [[Nature]] as it appears to the pantheist,
 whose pantheism is struggling out of pessimism.  So far as the story
 had any sense in it, it was meant to begin with the picture
 of the world at its worst and to work towards the suggestion
@@ -37,7 +37,7 @@ Mr. Bentley, it seemed unreasonable to ask other people to read it.
 
 But I speak of it here because, though it came at the beginning
 of the story, it was destined to take on another meaning before
-the end of it.  Without that distant sequel, the memory may appear
+the end of it.  Without that distant sequel, the [[Memory|memory]] may appear
 as meaningless as the book; but for the moment I can only leave on
 record here the two facts to which I managed somehow and in some sense
 to testify.  First, I was trying vaguely to found a new optimism,
@@ -55,7 +55,7 @@ of the future would easily show that the episode of the Accuser
 was an interpolation by priests.
 
 This was not the case; in fact it was quite the other way.
-At this time I should have been quite as annoyed as anybody
+At this [[Time|time]] I should have been quite as annoyed as anybody
 else for miles round, if I had found a priest interfering
 with my affairs or interpolating things in my manuscript.
 I put that statement into that story, testifying to the extreme evil
@@ -67,10 +67,10 @@ off from the whole life of the universe.  My wife, when asked
 who converted her to Catholicism, always answers, "the devil".
 
 But all that was so long afterwards, that it has no relation
-to the groping and guesswork philosophy of the story in question.
+to the groping and guesswork [[philosophy]] of the story in question.
 I would much rather quote a tribute from a totally different type of man,
 who was nevertheless one of the very few men who, for some reason
-or other, have ever made head or tail of this unfortunate romance
+or other, have ever made head or tail of this unfortunate [[Romance|romance]]
 of my youth.  He was a distinguished psychoanalyst, of the most modern
 and scientific sort.  He was not a priest; far from it; we might say,
 like the Frenchman asked if he had lunched on the boat, "au contraire".
@@ -81,7 +81,7 @@ very juvenile story useful as a corrective among his morbid patients;
 especially the process by which each of the diabolical anarchs
 turns out to be a good citizen in disguise.  "I know a number
 of men who nearly went mad," he said quite gravely, "but were saved
-because they had really understood The Man Who Was Thursday."
+because they had really understood The Man Who Was [[thursday|Thursday]]."
 He must have been rather generously exaggerative; he may have been
 mad himself, of course; but then so was I. But I confess it flatters
 me to think that, in this my period of lunacy, I may have been

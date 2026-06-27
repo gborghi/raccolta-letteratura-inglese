@@ -21,8 +21,8 @@ Chiefly Matrimonial
 The grand half-yearly festival holden by Doctor and Mrs Blimber, on
 which occasion they requested the pleasure of the company of every
 young gentleman pursuing his studies in that genteel establishment, at
-an early party, when the hour was half-past seven o’clock, and when the
-object was quadrilles, had duly taken place, about this time; and the
+an early party, when the hour was half-past seven o’[[Clock|clock]], and when the
+object was quadrilles, had duly taken place, about this [[Time|time]]; and the
 young gentlemen, with no unbecoming demonstrations of levity, had
 betaken themselves, in a state of scholastic repletion, to their own
 homes. Mr Skettles had repaired abroad, permanently to grace the
@@ -65,24 +65,24 @@ behalf of the rest, instantly presented the Doctor with a silver
 inkstand, in a speech containing very little of the mother-tongue, but
 fifteen quotations from the Latin, and seven from the Greek, which
 moved the younger of the young gentlemen to discontent and envy: they
-remarking, “Oh, ah. It was all very well for old Tozer, but they didn’t
+remarking, “Oh, ah. It was all very [[Well|well]] for old Tozer, but they didn’t
 subscribe money for old Tozer to show off with, they supposed; did
 they? What business was it of old Tozer’s more than anybody else’s? It
-wasn’t his inkstand. Why couldn’t he leave the boys’ property alone?”
+wasn’t his inkstand. Why couldn’t he leave the boys’ property [[Alone|alone]]?”
 and murmuring other expressions of their dissatisfaction, which seemed
 to find a greater relief in calling him old Tozer, than in any other
 available vent.
 
 Not a word had been said to the young gentlemen, nor a hint dropped, of
-anything like a contemplated marriage between Mr Feeder, B.A., and the
+anything like a contemplated [[Marriage|marriage]] between Mr Feeder, B.A., and the
 fair Cornelia Blimber. Doctor Blimber, especially, seemed to take pains
 to look as if nothing would surprise him more; but it was perfectly
-well known to all the young gentlemen nevertheless, and when they
+[[Well|well]] known to all the young gentlemen nevertheless, and when they
 departed for the society of their relations and friends, they took
 leave of Mr Feeder with awe.
 
 Mr Feeder’s most romantic visions were fulfilled. The Doctor had
-determined to paint the house outside, and put it in thorough repair;
+determined to paint the [[house]] outside, and put it in thorough repair;
 and to give up the business, and to give up Cornelia. The painting and
 repairing began upon the very day of the young gentlemen’s departure,
 and now behold! the wedding morning was come, and Cornelia, in a new
@@ -92,7 +92,7 @@ The Doctor with his learned legs, and Mrs Blimber in a lilac bonnet,
 and Mr Feeder, B.A., with his long knuckles and his bristly head of
 hair, and Mr Feeder’s brother, the Reverend Alfred Feeder, M.A., who
 was to perform the ceremony, were all assembled in the drawing-room,
-and Cornelia with her orange-flowers and bridesmaids had just come
+and Cornelia with her orange-[[Flowers|flowers]] and bridesmaids had just come
 down, and looked, as of old, a little squeezed in appearance, but very
 charming, when the door opened, and the weak-eyed young man, in a loud
 voice, made the following proclamation:
@@ -109,20 +109,20 @@ black eyes.
 Mrs Blimber was delighted to receive her. Mrs Blimber was a little
 condescending, but extremely kind.
 
-“And as you’ve known me for a long time, you know,” said Mr Toots, “let
+“And as you’ve known me for a long [[Time|time]], you know,” said Mr Toots, “let
 me assure you that she is one of the most remarkable women that ever
 lived.”
 
 “My dear!” remonstrated Mrs Toots.
 
-“Upon my word and honour she is,” said Mr Toots. “I—I assure you, Mrs
+“Upon my word and [[Honour|honour]] she is,” said Mr Toots. “I—I assure you, Mrs
 Blimber, she’s a most extraordinary woman.”
 
 Mrs Toots laughed merrily, and Mrs Blimber led her to Cornelia. Mr
 Toots having paid his respects in that direction and having saluted his
-old preceptor, who said, in allusion to his conjugal state, “Well,
-Toots, well, Toots! So you are one of us, are you, Toots?”—retired with
-Mr Feeder, B.A., into a window.
+old preceptor, who said, in allusion to his conjugal state, “[[Well]],
+Toots, [[Well|well]], Toots! So you are one of us, are you, Toots?”—retired with
+Mr Feeder, B.A., into a [[Window|window]].
 
 Mr Feeder, B.A., being in great spirits, made a spar at Mr Toots, and
 tapped him skilfully with the back of his hand on the breastbone.

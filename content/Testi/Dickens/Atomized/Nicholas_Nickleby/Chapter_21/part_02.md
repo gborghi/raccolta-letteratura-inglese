@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 21 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 21 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,7 +26,7 @@ your govvernor?’
 ‘My what--did you say?’ asked Kate, trembling; for she thought
 ‘governor’ might be slang for watch or money.
 
-‘Mister Muntlehiney,’ said the man. ‘Wot’s come on him? Is he at home?’
+‘Mister Muntlehiney,’ said the man. ‘Wot’s come on him? Is he at [[Home|home]]?’
 
 ‘He is above stairs, I believe,’ replied Kate, a little reassured by
 this inquiry. ‘Do you want him?’
@@ -39,12 +39,12 @@ With these words, the stranger put a thick square card into Kate’s hand,
 and, turning to his friend, remarked, with an easy air, ‘that the rooms
 was a good high pitch;’ to which the friend assented, adding, by way of
 illustration, ‘that there was lots of room for a little boy to grow up
-a man in either on ‘em, vithout much fear of his ever bringing his head
+a man in either on ‘em, vithout much [[Fear|fear]] of his ever bringing his head
 into contract vith the ceiling.’
 
 After ringing the bell which would summon Madame Mantalini, Kate glanced
 at the card, and saw that it displayed the name of ‘Scaley,’ together
-with some other information to which she had not had time to refer, when
+with some other information to which she had not had [[Time|time]] to refer, when
 her attention was attracted by Mr. Scaley himself, who, walking up to one
 of the cheval-glasses, gave it a hard poke in the centre with his stick,
 as coolly as if it had been made of cast iron.
@@ -68,7 +68,7 @@ the room, uttered an exclamation of surprise which roused him.
 
 ‘Then,’ said Mr. Scaley, producing a small document from his pocket and
 unfolding it very slowly, ‘this is a writ of execution, and if it’s not
-conwenient to settle we’ll go over the house at wunst, please, and take
+conwenient to settle we’ll go over the [[house]] at wunst, please, and take
 the inwentory.’
 
 Poor Madame Mantalini wrung her hands for grief, and rung the bell
@@ -88,7 +88,7 @@ Such was the posture of affairs when Mr. Mantalini hurried in; and as
 that distinguished specimen had had a pretty extensive intercourse with
 Mr. Scaley’s fraternity in his bachelor days, and was, besides, very
 far from being taken by surprise on the present agitating occasion, he
-merely shrugged his shoulders, thrust his hands down to the bottom of
+merely shrugged his shoulders, thrust his hands down to the [[Bottom|bottom]] of
 his pockets, elevated his eyebrows, whistled a bar or two, swore an oath
 or two, and, sitting astride upon a chair, put the best face upon the
 matter with great composure and decency.
@@ -107,11 +107,11 @@ went along with it, that I know on,’ observed Mr. Tix.
 
 ‘Not a button,’ said Scaley.
 
-‘Well,’ said the same gentleman, after a pause, ‘wot’s to be
+‘[[Well]],’ said the same gentleman, after a pause, ‘wot’s to be
 done--anything? Is it only a small crack, or a out-and-out smash? A
 break-up of the constitootion is it?--werry good. Then Mr. Tom Tix,
 esk-vire, you must inform your angel wife and lovely family as you won’t
-sleep at home for three nights to come, along of being in possession
+[[Sleep|sleep]] at [[Home|home]] for three nights to come, along of being in possession
 here. Wot’s the good of the lady a fretting herself?’ continued Mr
 Scaley, as Madame Mantalini sobbed. ‘A good half of wot’s here isn’t
 paid for, I des-say, and wot a consolation oughtn’t that to be to her
@@ -128,7 +128,7 @@ with a penitent air; ‘will you listen to me for two minutes?’
 ‘Oh! don’t speak to me,’ replied his wife, sobbing. ‘You have ruined me,
 and that’s enough.’
 
-Mr. Mantalini, who had doubtless well considered his part, no sooner
+Mr. Mantalini, who had doubtless [[Well|well]] considered his part, no sooner
 heard these words pronounced in a tone of grief and severity, than he
 recoiled several paces, assumed an expression of consuming mental agony,
 rushed headlong from the room, and was, soon afterwards, heard to slam

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 17 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -21,64 +21,64 @@ it! It is my son, my idiot son!’
 As she said this wildly, there came a heavy knocking at the door. He
 looked at her, and she at him.
 
-‘Let him come in,’ said the man, hoarsely. ‘I fear him less than the
-dark, houseless night. He knocks again. Let him come in!’
+‘Let him come in,’ said the man, hoarsely. ‘I [[Fear|fear]] him less than the
+dark, houseless [[Night|night]]. He knocks again. Let him come in!’
 
 ‘The dread of this hour,’ returned the widow, ‘has been upon me all my
 life, and I will not. Evil will fall upon him, if you stand eye to eye.
-My blighted boy! Oh! all good angels who know the truth--hear a poor
-mother’s prayer, and spare my boy from knowledge of this man!’
+My blighted boy! Oh! all good angels who know the [[Truth|truth]]--hear a poor
+mother’s [[Prayer|prayer]], and spare my boy from knowledge of this man!’
 
 ‘He rattles at the shutters!’ cried the man. ‘He calls you. That voice
-and cry! It was he who grappled with me in the road. Was it he?’
+and cry! It was he who grappled with me in the [[Road|road]]. Was it he?’
 
 She had sunk upon her knees, and so knelt down, moving her lips, but
 uttering no sound. As he gazed upon her, uncertain what to do or where
-to turn, the shutters flew open. He had barely time to catch a knife
+to turn, the shutters flew open. He had barely [[Time|time]] to catch a knife
 from the table, sheathe it in the loose sleeve of his coat, hide in the
-closet, and do all with the lightning’s speed, when Barnaby tapped at
+closet, and do all with the [[Lightning|lightning]]’s [[Speed|speed]], when Barnaby tapped at
 the bare glass, and raised the sash exultingly.
 
 ‘Why, who can keep out Grip and me!’ he cried, thrusting in his head,
 and staring round the room. ‘Are you there, mother? How long you keep us
-from the fire and light.’
+from the [[Fire|fire]] and light.’
 
 She stammered some excuse and tendered him her hand. But Barnaby sprung
 lightly in without assistance, and putting his arms about her neck,
 kissed her a hundred times.
 
 ‘We have been afield, mother--leaping ditches, scrambling through
-hedges, running down steep banks, up and away, and hurrying on. The wind
+hedges, running down steep banks, up and away, and hurrying on. The [[Wind|wind]]
 has been blowing, and the rushes and young plants bowing and bending to
 it, lest it should do them harm, the cowards--and Grip--ha ha ha!--brave
-Grip, who cares for nothing, and when the wind rolls him over in the
-dust, turns manfully to bite it--Grip, bold Grip, has quarrelled with
+Grip, who cares for nothing, and when the [[Wind|wind]] rolls him over in the
+[[Dust|dust]], turns manfully to bite it--Grip, bold Grip, has quarrelled with
 every little bowing twig--thinking, he told me, that it mocked him--and
 has worried it like a bulldog. Ha ha ha!’
 
-The raven, in his little basket at his master’s back, hearing this
+[[The Raven|The raven]], in his little basket at his master’s back, hearing this
 frequent mention of his name in a tone of exultation, expressed his
 sympathy by crowing like a cock, and afterwards running over his various
 phrases of speech with such rapidity, and in so many varieties of
 hoarseness, that they sounded like the murmurs of a crowd of people.
 
 ‘He takes such care of me besides!’ said Barnaby. ‘Such care, mother! He
-watches all the time I sleep, and when I shut my eyes and make-believe
+watches all the [[Time|time]] I [[Sleep|sleep]], and when I shut my eyes and make-believe
 to slumber, he practises new learning softly; but he keeps his eye on
 me the while, and if he sees me laugh, though never so little, stops
 directly. He won’t surprise me till he’s perfect.’
 
-The raven crowed again in a rapturous manner which plainly said, ‘Those
+[[The Raven|The raven]] crowed again in a rapturous manner which plainly said, ‘Those
 are certainly some of my characteristics, and I glory in them.’ In the
-meantime, Barnaby closed the window and secured it, and coming to the
+meantime, Barnaby closed the [[Window|window]] and secured it, and coming to the
 fireplace, prepared to sit down with his face to the closet. But
 his mother prevented this, by hastily taking that side herself, and
 motioning him towards the other.
 
-‘How pale you are to-night!’ said Barnaby, leaning on his stick. ‘We
+‘How pale you are to-[[Night|night]]!’ said Barnaby, leaning on his stick. ‘We
 have been cruel, Grip, and made her anxious!’
 
-Anxious in good truth, and sick at heart! The listener held the door
+Anxious in good [[Truth|truth]], and sick at heart! The listener held the door
 of his hiding-place open with his hand, and closely watched her son.
 Grip--alive to everything his master was unconscious of--had his head
 out of the basket, and in return was watching him intently with his
@@ -92,7 +92,7 @@ Accepting this invitation with a dignity peculiar to himself, the bird
 hopped up on his master’s shoulder, from that to his extended hand, and
 so to the ground. Barnaby unstrapping the basket and putting it down in
 a corner with the lid open, Grip’s first care was to shut it down with
-all possible despatch, and then to stand upon it. Believing, no doubt,
+all possible despatch, and then to stand upon it. Believing, no [[Doubt|doubt]],
 that he had now rendered it utterly impossible, and beyond the power of
 mortal man, to shut him up in it any more, he drew a great many corks in
 triumph, and uttered a corresponding number of hurrahs.
@@ -120,12 +120,12 @@ see’--
 whisper, drawing closer to her and clasping the mark upon his wrist.
 ‘I am afraid there is, somewhere. You make my hair stand on end, and my
 flesh creep. Why do you look like that? Is it in the room as I have seen
-it in my dreams, dashing the ceiling and the walls with red? Tell me. Is
+it in my [[Dreams|dreams]], dashing the ceiling and the walls with red? Tell me. Is
 it?’
 
 He fell into a shivering fit as he put the question, and shutting out
 the light with his hands, sat shaking in every limb until it had passed
-away. After a time, he raised his head and looked about him.
+away. After a [[Time|time]], he raised his head and looked about him.
 
 ‘Is it gone?’
 
@@ -142,5 +142,5 @@ and me? Where have we been?’
 
 ‘Aye, but Hugh, and I,’ said Barnaby,--‘that’s it. Maypole Hugh, and
 I, you know, and Grip--we have been lying in the forest, and among the
-trees by the road side, with a dark lantern after night came on, and the
+trees by the [[Road|road]] side, with a dark lantern after [[Night|night]] came on, and the
 dog in a noose ready to slip him when the man came by.’

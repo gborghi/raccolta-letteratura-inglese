@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 3 (part 2)"
+title: "[[Agnes Grey]] — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -20,16 +20,16 @@ My task of instruction and surveillance, instead of becoming easier as
 my charges and I got better accustomed to each other, became more
 arduous as their characters unfolded. The name of governess, I soon
 found, was a mere mockery as applied to me: my pupils had no more
-notion of obedience than a wild, unbroken colt. The habitual fear of
+notion of obedience than a wild, unbroken colt. The habitual [[Fear|fear]] of
 their father’s peevish temper, and the dread of the punishments he was
 wont to inflict when irritated, kept them generally within bounds in
-his immediate presence. The girls, too, had some fear of their mother’s
+his immediate presence. The girls, too, had some [[Fear|fear]] of their mother’s
 anger; and the boy might occasionally be bribed to do as she bid him by
-the hope of reward; but I had no rewards to offer; and as for
+the [[Hope|hope]] of reward; but I had no rewards to offer; and as for
 punishments, I was given to understand, the parents reserved that
 privilege to themselves; and yet they expected me to keep my pupils in
-order. Other children might be guided by the fear of anger and the
-desire of approbation; but neither the one nor the other had any effect
+order. Other children might be guided by the [[Fear|fear]] of anger and the
+[[Desire|desire]] of approbation; but neither the one nor the other had any effect
 upon these.
 
 Master Tom, not content with refusing to be ruled, must needs set up as
@@ -39,9 +39,9 @@ and, as he was a tall, strong boy of his years, this occasioned no
 trifling inconvenience. A few sound boxes on the ear, on such
 occasions, might have settled the matter easily enough: but as, in that
 case, he might make up some story to his mother which she would be sure
-to believe, as she had such unshaken faith in his veracity—though I had
+to believe, as she had such unshaken [[Faith|faith]] in his veracity—though I had
 already discovered it to be by no means unimpeachable—I determined to
-refrain from striking him, even in self-defence; and, in his most
+refrain from striking him, even in [[Self|self]]-defence; and, in his most
 violent moods, my only resource was to throw him on his back and hold
 his hands and feet till the frenzy was somewhat abated. To the
 difficulty of preventing him from doing what he ought not, was added
@@ -52,7 +52,7 @@ powers were so limited, I must make the best use of what I had.
 
 As there were no settled hours for study and play, I resolved to give
 my pupils a certain task, which, with moderate attention, they could
-perform in a short time; and till this was done, however weary I was,
+perform in a short [[Time|time]]; and till this was done, however weary I was,
 or however perverse they might be, nothing short of parental
 interference should induce me to suffer them to leave the schoolroom,
 even if I should sit with my chair against the door to keep them in.
@@ -68,7 +68,7 @@ them, too, in the simplest and most effective manner. When I reproved
 them, or refused to gratify their wishes, after a glaring fault, it
 should be more in sorrow than in anger: their little hymns and prayers
 I would make plain and clear to their understanding; when they said
-their prayers at night and asked pardon for their offences, I would
+their prayers at [[Night|night]] and asked pardon for their offences, I would
 remind them of the sins of the past day, solemnly, but in perfect
 kindness, to avoid raising a spirit of opposition; penitential hymns
 should be said by the naughty, cheerful ones by the comparatively good;
@@ -76,34 +76,34 @@ and every kind of instruction I would convey to them, as much as
 possible, by entertaining discourse—apparently with no other object
 than their present amusement in view.
 
-By these means I hoped in time both to benefit the children and to gain
+By these means I hoped in [[Time|time]] both to benefit the children and to gain
 the approbation of their parents; and also to convince my friends at
-home that I was not so wanting in skill and prudence as they supposed.
+[[Home|home]] that I was not so wanting in skill and prudence as they supposed.
 I knew the difficulties I had to contend with were great; but I knew
 (at least I believed) unremitting patience and perseverance could
-overcome them; and night and morning I implored Divine assistance to
+overcome them; and [[Night|night]] and morning I implored Divine assistance to
 this end. But either the children were so incorrigible, the parents so
 unreasonable, or myself so mistaken in my views, or so unable to carry
 them out, that my best intentions and most strenuous efforts seemed
 productive of no better result than sport to the children,
 dissatisfaction to their parents, and torment to myself.
 
-The task of instruction was as arduous for the body as the mind. I had
+The task of instruction was as arduous for the [[Body|body]] as the mind. I had
 to run after my pupils to catch them, to carry or drag them to the
 table, and often forcibly to hold them there till the lesson was done.
 Tom I frequently put into a corner, seating myself before him in a
 chair, with a book which contained the little task that must be said or
 read, before he was released, in my hand. He was not strong enough to
-push both me and the chair away, so he would stand twisting his body
-and face into the most grotesque and singular contortions—laughable, no
-doubt, to an unconcerned spectator, but not to me—and uttering loud
+push both me and the chair away, so he would stand twisting his [[Body|body]]
+and face into the most [[Grotesque|grotesque]] and singular contortions—laughable, no
+[[Doubt|doubt]], to an unconcerned spectator, but not to me—and uttering loud
 yells and doleful outcries, intended to represent weeping but wholly
-without the accompaniment of tears. I knew this was done solely for the
+without the accompaniment of [[Tears|tears]]. I knew this was done solely for the
 purpose of annoying me; and, therefore, however I might inwardly
 tremble with impatience and irritation, I manfully strove to suppress
 all visible signs of molestation, and affected to sit with calm
 indifference, waiting till it should please him to cease this pastime,
-and prepare for a run in the garden, by casting his eye on the book and
+and prepare for a run in the [[Garden|garden]], by casting his eye on the book and
 reading or repeating the few words he was required to say. Sometimes he
 was determined to do his writing badly; and I had to hold his hand to
 prevent him from purposely blotting or disfiguring the paper.

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 7"
+title: "[[longbow2]] — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -20,14 +20,14 @@ The Unprecedented Architecture
 of Commander Blair
 
 
-The Earl of Eden had become Prime Minister for the third time,
+The Earl of Eden had become Prime Minister for the third [[Time|time]],
 and his face and figure were therefore familiar in the political
 cartoons and even in the public streets.  His yellow hair and lean
 and springy figure gave him a factitious air of youth; but his face
 on closer study looked lined and wrinkled and gave almost a shock
-of decrepitude.  He was in truth a man of great experience and
+of decrepitude.  He was in [[Truth|truth]] a man of great experience and
 dexterity in his own profession.  He had just succeeded in routing
-the Socialist Party and overthrowing the Socialist Government,
+the Socialist Party and overthrowing the Socialist [[government|Government]],
 largely by the use of certain rhymed mottoes and maxims which he
 had himself invented with considerable amusement.  His great slogan
 of "Don't Nationalize but Rationalize" was generally believed to have
@@ -37,7 +37,7 @@ for a consultation from three of his most prominent supporters--
 Lord Normantowers, Sir Horace Hunter, O.B.E., the great advocate
 of scientific politics, and Mr. R. Low, the philanthropist. 
 They were confronted with a problem, and their problem concerned
-the sudden madness of an American millionaire.
+the sudden [[Madness|madness]] of an American millionaire.
 
 The Prime Minister was not unacquainted with American millionaires,
 even those whose conduct suggested that they were hardly representative
@@ -46,32 +46,32 @@ the millionaire inventor, who had pressed upon the War Office a scheme
 for finishing the War at a blow; it consisted of electrocuting
 the Kaiser by wireless telegraphy.  There was Mr. Napper,
 of Nebraska, whose negotiations for removing Shakespeare's Cliff
-to America as a symbol of Anglo-Saxon unity were unaccountably
+to [[America]] as a symbol of Anglo-Saxon [[unity]] were unaccountably
 frustrated by the firm refusal of the American Republic to send
 us Plymouth Rock in exchange.  And there was that charming and
 cultured Bostonian, Colonel Hoopoe, whom all England welcomed
 in his crusade for Purity and the League of the Lily, until England
 discovered with considerable surprise that the American Ambassador
 and all respectable Americans flatly refused to meet the Colonel,
-whose record at home was that of a very narrow escape from Sing-Sing.
+whose record at [[Home|home]] was that of a very narrow escape from Sing-Sing.
 
 But the problem of Enoch Oates, who had made his money in pork,
 was something profoundly different.  As Lord Eden's three supporters
-eagerly explained to him, seated round a garden table at his
+eagerly explained to him, seated round a [[Garden|garden]] table at his
 beautiful country seat in Somerset, Mr. Oates had done something
 that the maddest millionaire had never thought of doing before. 
 Up to a certain point he had proceeded in a manner normal to such
 a foreigner.  He had purchased amid general approval an estate covering
 about a quarter of a county; and it was expected that he would make
 it a field for some of those American experiments in temperance
-or eugenics for which the English agricultural populace offer a sort
+or [[Eugenics|eugenics]] for which the English agricultural populace offer a sort
 of virgin soil.  Instead of that, he suddenly went mad and made
 a present of his land to his tenants; so that by an unprecedented
 anomaly the farms became the property of the farmers.  That an
 American millionaire should take away English things from England,
 English rent, English relics, English pictures, English cathedrals
 or the cliffs of Dover, was a natural operation to which everybody
-was by this time accustomed.  But that an American millionaire
+was by this [[Time|time]] accustomed.  But that an American millionaire
 should give English land to English people was an unwarrantable
 interference and tantamount to an alien enemy stirring up revolution. 
 Enoch Oates had therefore been summoned to the Council, and sat
@@ -81,12 +81,12 @@ scowling at the table as if he were in the dock.
 in his rather loud voice.  "Give you an example, my lord; people of
 the name of Dale in Somerset took in a lunatic as a lodger. 
 May have been a homicidal maniac for all I know; some do say he
-had a great cannon or culverin sticking out of his bedroom window. 
+had a great cannon or culverin sticking out of his bedroom [[Window|window]]. 
 But with no responsible management of the estate, no landlord,
 no lawyer, no educated person anywhere, there was nothing to prevent
 their letting the bedroom to a Bengal tiger.  Anyhow, the man was mad,
 rushed raving on to the platform at the Astronomical Congress
-talking about Lovely Woman and the cow that jumped over the moon. 
+talking about Lovely Woman and the cow that jumped over the [[Moon|moon]]. 
 That damned agitator Pierce, who used to be in the Flying Corps,
 was in the hall, and made a riot and carried the crazy fellow off
 in an aeroplane.  That's the sort of thing you'll have happening all
@@ -231,15 +231,15 @@ Besides, we can easily get a new motto of some sort.  For instance,
 we, after all, are the patriotic party, the national party. 
 What about `Let the Nationalists Nationalize'?"
 
-"Well, all I can say is--" began Normantowers explosively.
+"[[Well]], all I can say is--" began Normantowers explosively.
 
 "Compensation, there will be compensation, of course," said the Prime
 Minister soothingly; "a great deal can be done with compensation. 
-If you will all turn up here this day week, say at four o'clock, I
+If you will all turn up here this day week, say at four o'[[Clock|clock]], I
 think I can lay all the plans before you."
 
 When they did turn up next week and were shown again into the Prime
-Minister's sunny garden, they found that the plans were, indeed,
+Minister's sunny [[Garden|garden]], they found that the plans were, indeed,
 laid before them; for the table that stood on the sunny lawn was
 covered with large and small maps and a mass of official documents. 
 Mr. Eustace Pym, one of the Prime Minister's numerous private secretaries,
@@ -253,30 +253,30 @@ of progress."
 "Oh, progress be ----" cried Normantowers, losing patience. 
 "I want to know if you really mean that my estate--"
 
-"It comes under the department of Castle and Abbey Estates in
+"It comes under the department of [[Castle]] and Abbey Estates in
 Section Four," said Lord Eden, referring to the paper before him. 
 "By the provisions of the new Bill the public control in such
 cases will be vested in the Lord-Lieutenant of the County. 
-In the particular case of your castle--let me see--why, yes, of course,
+In the particular case of your [[Castle|castle]]--let me see--why, yes, of course,
 you are Lord Lieutenant of that county."
 
 Little Lord Normantowers was staring, with his stiff hair all
 standing on end; but a new look was dawning in his shrewd though
 small-featured face.
 
-"The case of Warbridge Castle is different," said the Prime Minister. 
+"The case of Warbridge [[Castle]] is different," said the Prime Minister. 
 "It happens unfortunately to stand in a district desolated
 by all the recent troubles about swine-fever, touching which the
 Health Comptroller" (here he bowed to Sir Horace Hunter) "has shown
 such admirable activity.  It has been necessary to place the whole
 of this district in the hands of the Health Comptroller, that he
-may study any traces of swine-fever that may be found in the Castle,
-the Cathedral, the Vicarage, and so on.  So much for that case,
+may study any traces of swine-fever that may be found in the [[Castle]],
+the [[Cathedral]], the Vicarage, and so on.  So much for that case,
 which stands somewhat apart; the others are mostly normal. 
-Rosenbaum Castle--I should say Rosewood Castle--being of a later date,
+Rosenbaum [[Castle]]--I should say Rosewood [[Castle]]--being of a later date,
 comes under Section Five, and the appointment of a permanent
-Castle Custodian is left to the discretion of the Government. 
-In this case the Government has decided to appoint Mr. Rosewood Low
+[[Castle]] Custodian is left to the discretion of the [[government|Government]]. 
+In this case the [[government|Government]] has decided to appoint Mr. Rosewood Low
 to the post, in recognition of his local services to social science
 and economics.  In all these cases, of course, due compensation
 will be paid to the present owners of the estates, and ample
@@ -285,11 +285,11 @@ that the places may be kept up in a manner worthy of their historical
 and national character."
 
 He paused, as if for cheers, and Sir Horace was vaguely irritated
-into saying:  "But look here, my castle--"
+into saying:  "But look here, my [[Castle|castle]]--"
 
 "Damn it all!" said the Prime Minister, with his first flash of
 impatience and sincerity.  "Can't you see you'll get twice as much
-as before?  First you'll be compensated for losing your castle,
+as before?  First you'll be compensated for losing your [[Castle|castle]],
 and then you'll be paid for keeping it."
 
 "My lord," said Lord Normantowers humbly, "I apologize for anything
@@ -298,7 +298,7 @@ in the presence of a great English statesman."
 
 "Oh, it's easy enough," said Lord Eden frankly.  "Look how easily
 we remained in the saddle, in spite of democratic elections; how we
-managed to dominate the Commons as well as the Lords.  It'll be
+managed to dominate the Commons as [[Well|well]] as the Lords.  It'll be
 the same with what they call Socialism.  We shall still be there;
 only we shall be called bureaucrats instead of aristocrats."
 
@@ -324,24 +324,24 @@ as any part of his paper paraphernalia.
 come with your letters this morning."
 
 "It didn't come by post at all," said Lord Eden; "and none of the
-servants brought it in.  How the devil did it get out here in the garden?"
+servants brought it in.  How the devil did it get out here in the [[Garden|garden]]?"
 
-He ripped it open with his finger and remained for some time staring
-in mystification at its contents.
+He ripped it open with his finger and remained for some [[Time|time]] staring
+in [[Mystification|mystification]] at its contents.
 
-                                             "Welkin Castle,
+                                             "Welkin [[Castle]],
                                             Sept. 4th, 19--.
 
 "Dear Lord Eden,--As I understand you are making public provision
 for the future disposal of our historic national castles,
-such as Warbridge Castle, I should much appreciate any information
-about your intentions touching Welkin Castle, my own estate,
+such as Warbridge [[Castle]], I should much appreciate any information
+about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
                                          "Welkyn of Welkin."
 
 
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
-but I can't recall him at the moment.  And where is Welkin Castle? 
+but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
 We must look at the maps again."
 
 But though they looked at the maps for hours, and searched Burke,
@@ -357,46 +357,46 @@ eccentric should be left out or offended.  But although he was worried
 to that extent, it is probable that his worry would soon have faded
 from his mind if it had not been for something that happened some days later.
 
-Going out into the same garden to the same table, with the more agreeable
+Going out into the same [[Garden|garden]] to the same table, with the more agreeable
 purpose of taking tea there, he was amazed to find another letter,
 though this was lying not on the table but on the turf just beside it. 
 It was unstamped like the other and addressed in the same handwriting;
 but its tone was more stern.
 
-                                             "Welkin Castle,
+                                             "Welkin [[Castle]],
                                              Oct. 6th, 19--.
 
 "My Lord,--As you seem to have decided to continue your sweeping
-scheme of confiscation, as in the case of Warbridge Castle,
+scheme of confiscation, as in the case of Warbridge [[Castle]],
 without the slightest reference to the historic and even heroic
-claims of Welkin Castle, I can only inform you that I shall defend
-the fortress of my fathers to the death.  Moreover, I have decided
+claims of Welkin [[Castle]], I can only inform you that I shall defend
+the fortress of my fathers to the [[Death|death]].  Moreover, I have decided
 to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
                                           Welkyn of Welkin."
 
 
-The historic and even heroic traditions of Welkin Castle kept a
+The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,
-looking up encyclopaedias and chronicles and books of history. 
+looking up encyclopaedias and chronicles and books of [[history]]. 
 But the Prime Minister himself was more worried about another problem. 
-How did these mysterious letters get into the house, or rather into
-the garden?  None of them came by post and none of the servants knew
+How did these mysterious letters get into the [[house]], or rather into
+the [[Garden|garden]]?  None of them came by post and none of the servants knew
 anything about them.  Moreover, the Prime Minister, in an unobtrusive
 way, was very carefully guarded.  Prime Ministers always are. 
 But he had been especially protected ever since the Vegetarians
 a few years before had gone about killing everybody who believed
-in killing animals.  There were always plain-clothes policemen at
-every entrance of his house and garden.  And from their testimony
+in killing [[Animals|animals]].  There were always plain-clothes policemen at
+every entrance of his [[house]] and [[Garden|garden]].  And from their testimony
 it would appear certain that the letter could not have got into
-the garden; but for the trifling fact that it was lying there on
-the garden-table. Lord Eden cogitated in a grim fashion for some time;
-then he said as he rose from his chair:
+the [[Garden|garden]]; but for the trifling fact that it was lying there on
+the [[Garden|garden]]-table. Lord Eden cogitated in a grim fashion for some [[Time|time]];
+then he said as he [[Rose|rose]] from his chair:
 
 "I think I will have a talk to our American friend Mr. Oates."
 
-Whether from a sense of humour or a sense of justice, Lord Eden
+Whether from a sense of [[Humour|humour]] or a sense of justice, Lord Eden
 summoned Enoch Oates before the same special jury of three;
 or summoned them before him, as the case may be.  For it was even more
 difficult than before to read the exact secret of Eden's sympathies
@@ -406,7 +406,7 @@ Then he said quite suddenly:
 
 "Do you know anything about those letters, by the way?"
 
-The American presented his poker face to the company for some time
+The American presented his poker face to the company for some [[Time|time]]
 without reply.  Then he said:
 
 "And what makes you think I know anything about them?"
@@ -415,14 +415,14 @@ without reply.  Then he said:
 "we know you're hand and glove with all those lunatics in the League
 of the Long Bow who are kicking up all this shindy."
 
-"Well," said Oates calmly, "I'll never deny I like some of their ways. 
+"[[Well]]," said Oates calmly, "I'll never deny I like some of their ways. 
 I like live wires myself; and, after all, they're about the liveliest
 thing in this old country.  And I'll tell you more.  I like people
 who take trouble; and, believe me, they do take trouble.  You say
-they're all nuts; but I reckon there really is method in their madness. 
+they're all nuts; but I reckon there really is method in their [[Madness|madness]]. 
 They take trouble to keep those crazy vows of theirs.  You spoke
 about the fellows who carried off the astronomer in an aeroplane. 
-Well, I know Bellew Blair, the man who worked with Pierce
+[[Well]], I know Bellew Blair, the man who worked with Pierce
 in that stunt, and believe me he's not a man to be sniffed at. 
 He's one of the finest experts in aeronautics in the country;
 and if he's gone over to them, it means there's something in their
@@ -430,17 +430,17 @@ notion for a scientific intellect to take hold of.  It was Blair
 that worked that pig stunt for Hilary Pierce; made a great gas-bag
 shaped like a sow and gave all the little pigs parachutes."
 
-"Well, there you are," cried Hunter.  "Of all the lunacy--"
+"[[Well]], there you are," cried Hunter.  "Of all the lunacy--"
 
 "I remember Commander Blair in the War," said the Prime Minister
 quietly.  "Bellows Blair, they called him.  He did expert work: 
 some new scheme with dirigible balloons.  But I was only going
-to ask Mr. Oates whether he happens to know where Welkin Castle is."
+to ask Mr. Oates whether he happens to know where Welkin [[Castle]] is."
 
 "Must be somewhere near here," suggested Normantowers,
 "as the letters seem to come by hand."
 
-"Well, I don't know," said Enoch Oates doubtfully.  "I know a man
+"[[Well]], I don't know," said Enoch Oates doubtfully.  "I know a man
 living in Ely, who had one of those letters delivered by hand. 
 And I know another near Land's End who thought the letter must have
 come from somebody living near.  As you say, they all seem to come
@@ -448,7 +448,7 @@ by hand."
 
 "By what hand?" asked the Prime Minister, with a queer, grim expression.
 
-"Mr. Oates," said Lord Normantowers firmly, "where IS Welkin Castle?"
+"Mr. Oates," said Lord Normantowers firmly, "where IS Welkin [[Castle]]?"
 
 "Why, it's everywhere, in a manner of speaking," said Mr. Oates
 reflectively.  "It's anywhere, anyhow.  Gee--!" he broke off suddenly: 
@@ -463,7 +463,7 @@ the answer to."
 
 "Where the unstamped letters come from," replied Lord Eden.
 
-Luminous and enormous, there heaved up above the garden trees
+Luminous and enormous, there heaved up above the [[Garden|garden]] trees
 something that looked at first like a coloured cloud; it was
 flushed with light such as lies on clouds opposite the sunset,
 a light at once warm and wan; and it shone like an opaque flame. 
@@ -471,21 +471,21 @@ But as it came closer it grew more and more incredible.  It took on
 solid proportions and perspective, as if a cloud could brush and crush
 the dark tree-tops. It was something never seen before in the sky;
 it was a cubist cloud.  Men gazing at such a sunset cloud-land often
-imagine they see castles and cities of an almost uncanny completeness. 
+imagine they see castles and cities of an almost [[Uncanny|uncanny]] completeness. 
 But there would be a possible point of completeness at which they
 would cry aloud, or perhaps shriek aloud, as at a sign in heaven;
 and that completeness had come.  The big luminous object that sailed
-above the garden was outlined in battlements and turrets like a
-fairy castle; but with an architectural exactitude impossible
+above the [[Garden|garden]] was outlined in battlements and turrets like a
+fairy [[Castle|castle]]; but with an architectural exactitude impossible
 in any cloudland.  With the very look of it a phrase and a proverb
 leapt into the mind.
 
 "There, my lord!" cried Oates, suddenly lifting his nasal and
 drawling voice and pointing, "there's that dream you told me about. 
-There's your castle in the air."
+There's your [[Castle|castle]] in the air."
 
-As the shadow of the flying thing travelled over the sun-lit lawn,
-they looked up and saw for the first time that the lower part
+As the [[Shadow|shadow]] of the flying thing travelled over the sun-lit lawn,
+they looked up and saw for the first [[Time|time]] that the lower part
 of the edifice hung downwards like the car of a great balloon. 
 They remembered the aeronautical tricks of Commander Blair and Captain
 Pierce and the model of the monstrous pig.  As it passed over
@@ -499,7 +499,7 @@ stand staring wildly in a wilderness of waste-paper; but the keen
 and experienced eyes of Lord Eden recognized the material which,
 in political elections, is somewhat satirically called "literature."
 
-It took the twelve private secretaries some time to pick them all up
+It took the twelve private secretaries some [[Time|time]] to pick them all up
 and make the lawn neat and tidy again.  On examination they proved
 to be mainly of two kinds:  one a sort of electioneering pamphlet
 of the League of the Long Bow, and the other a somewhat airy fantasy
@@ -508,8 +508,8 @@ which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
 
-"An Englishman's House Is No Longer His Castle On The Soil Of England. 
-If It Is To Be His Castle, It Must Be A Castle In The Air.
+"An Englishman's [[house|House]] Is No Longer His [[Castle]] On The Soil Of England. 
+If It Is To Be His [[Castle]], It Must Be A [[Castle]] In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
@@ -526,7 +526,7 @@ of "the blue meadows of the new realm," and he was so obliging
 as to accompany the explanation with diagrams of space showing
 the exact ornithological boundaries in dotted lines.  There were other
 equally scientific documents dealing with the treatment of clouds,
-the driving of birds to graze on insects, and so on.  The whole
+the driving of [[Birds|birds]] to graze on [[Insects|insects]], and so on.  The whole
 of this section concluded with the great social and economic slogan: 
 "Three Acres and a Crow."
 
@@ -549,15 +549,15 @@ of Sir Horace Hunter, O.B.E., smiling in an ingratiating manner
 at his favourite cockatoo.  We know this detail of his existence,
 which might seem a merely domestic one.  But the fact that he is shortly
 to be paid thirty thousand pounds of public money, for continuing
-to live in his own house, is concealed with the utmost delicacy.
+to live in his own [[house]], is concealed with the utmost delicacy.
 
 "Similarly we have seen whole pages of an illustrated paper
 filled with glimpses of Lord Normantowers enjoying his honeymoon,
-which the papers in question are careful to describe as his Romance. 
+which the papers in question are careful to describe as his [[Romance]]. 
 Whatever it may be, an antiquated and fastidious taste might
 possibly be disposed to regard it as his own affair.  But the fact
 that the taxpayer's money, which is the taxpayer's affair, is to be
-given him in enormous quantities, first for going out of his castle,
+given him in enormous quantities, first for going out of his [[Castle|castle]],
 and then for coming back into it--this little domestic detail
 is thought too trivial for the taxpayer to be told of it.
 
@@ -565,8 +565,8 @@ is thought too trivial for the taxpayer to be told of it.
 Low is improving the breed of Pekinese, and God knows they need it. 
 But it would seem the sort of hobby that anybody might have without
 telling everybody else about it.  On the other hand, the fact
-that Mr. Rosenbaum Low is being paid twice over for the same house,
-and keeping the house as well, is concealed from the public;
+that Mr. Rosenbaum Low is being paid twice over for the same [[house]],
+and keeping the [[house]] as [[Well|well]], is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
@@ -578,7 +578,7 @@ apparently connected with any particular election.
 
 
 "Vote for Crane.  He Said He would Heat His Hat and Did It. 
-Lord Normantowers said he would explain how people came to swallow
+Lord Normantowers said he would explain how people came to [[Swallow|swallow]]
 his coronet; but he hasn't done it yet.
 
 "Vote for Pierce.  He Said Pigs Would Fly And They Did.  Rosenbaum Low
@@ -589,9 +589,9 @@ and they didn't. It was your money he made to fly.
 Don't Tell Lies."
 
 
-The Prime Minister stood gazing after the vanishing cloud-castle,
+The Prime Minister stood gazing after the vanishing cloud-[[Castle|castle]],
 as it faded into the clouds, with a curious expression in his eyes. 
-Whether it were better or worse for his soul, there was something
+Whether it were better or worse for his [[Soul|soul]], there was something
 in him that understood much that the muddled materialists around him
 could never understand.
 
@@ -663,19 +663,19 @@ do I want it uninterrupted.  I mean while I'm here.  A little
 of your scientific conversation goes a long way with me; I know
 what you're like when you're really chatty.  Professor Green will say
 in his satirical way `9920.05,' to which you will reply with quiet
-humour `75.007.' This will be too good an opening for a witty
+[[Humour|humour]] `75.007.' This will be too good an opening for a witty
 fellow like the Professor, who will instantly retort `982.09.' Not
-in the best taste perhaps, but a great temptation in the heat of debate."
+in the best taste perhaps, but a great [[Temptation|temptation]] in the heat of [[debate]]."
 
-"Commander Blair," said the Professor, "is very kind to let me
+"Commander Blair," said [[The Professor|the Professor]], "is very kind to let me
 share his calculations."
 
 "Lucky for me," said Blair.  "I'd have done ten times more with
 a mathematician like you."
 
-"Well," said Pierce casually, "as you are so much immersed
+"[[Well]]," said Pierce casually, "as you are so much immersed
 in mathematics, I'll leave you.  As a matter of fact, I had a message
-for Professor Green, about Miss Dale at the house where he was lodging;
+for Professor Green, about Miss Dale at the [[house]] where he was lodging;
 but we mustn't interrupt scientific studies for a little thing like that."
 
 Green's head came up from the papers with great abruptness.
@@ -684,7 +684,7 @@ Green's head came up from the papers with great abruptness.
 
 "8282.003," replied Pierce coldly.
 
-"Don't be offended," said Blair.  "Give the Professor his message
+"Don't be offended," said Blair.  "Give [[The Professor|the Professor]] his message
 and then go if you like."
 
 "It's only that she came over to see my wife to find out where you
@@ -696,33 +696,33 @@ Apparently it was, for Green, who was once more looking down
 upon the precious papers, crumpled one of them in his clenched
 hand unconsciously, like a man suddenly controlling his feelings.
 
-"Well, I'm off," said Pierce cheerfully; "got to visit the other dumps."
+"[[Well]], I'm off," said Pierce cheerfully; "got to visit the other dumps."
 
 "Stop a minute," said Blair, as the other turned away. 
-"Haven't you any sort of public news as well as private news? 
+"Haven't you any sort of public news as [[Well|well]] as private news? 
 How are things going in the political world?"
 
 "Expressed in mathematical formula," replied Pierce over his shoulder,
 "the political news is MP squared plus LSD over U equals L. L
 let loose.  L upon earth, my boy."
 
-And he climbed again into his castle of the air.
+And he climbed again into his [[Castle|castle]] of the air.
 
-Oliver Green stood staring at the crumbled paper and suddenly began
+[[Oliver]] Green stood staring at the crumbled paper and suddenly began
 to straighten it out.
 
 "Mr. Blair," he said, "I am terribly ashamed of myself.  When I
-see you living here like a hermit in the mountains and scrawling
+see you living here like a hermit in the [[Mountains|mountains]] and scrawling
 your calculations, so to speak, on the rocks of the wilderness,
 devoted to your great abstract idea, vowed to a great cause,
 it makes me feel very small to have entangled you and your friends
 in my small affairs.  Of course, the affair isn't at all small to me;
 but it must seem very small to you."
 
-"I don't know very precisely," answered Blair, "what was the nature
+"I don't know very precisely," answered Blair, "what was the [[Nature|nature]]
 of the affair.  But that is emphatically your affair.  For the rest,
 I assure you we're delighted to have you, apart from your valuable
-services as a calculating machine."
+services as a calculating [[Machine|machine]]."
 
 Bellew Blair, the last and, in the worldly sense, by far the ablest
 of the recruits of the Long Bow, was a man in early middle age,
@@ -735,69 +735,69 @@ with a short resolute nose, but reflective eyes much lighter than
 his close black hair.
 
 "It's quite Homeric," he added, "the two armies fighting for
-the body of an astronomer.  You would be a sort of symbol anyhow,
+the [[Body|body]] of an astronomer.  You would be a sort of symbol anyhow,
 since they started that insanity of calling you insane.  Nobody has
 any business to bother you about the personal side of the matter."
 
 Green seemed to be ruminating, and the last phrase awoke him
 to a decision.  He began to talk.  Quite straightforwardly,
 though with a certain schoolboy awkwardness, he proceeded to tell
-his friend the whole of his uncouth love-story--the overturning
+his friend the whole of his uncouth [[Love|love]]-story--the overturning
 of his spiritual world to the tune the old cow died of, or rather
 danced to.
 
 "And I've let you in for hiding me like a murderer," he concluded. 
 "For the sake of something that must seem to you, not even like
-a cow jumping over the moon, but more like a calf falling over
+a cow jumping over the [[Moon|moon]], but more like a calf falling over
 the milking-stool. Perhaps people vowed to a great work like this
 ought to leave all that sort of thing behind them."
 
-"Well, I don't see anything to be ashamed of," said Blair,
+"[[Well]], I don't see anything to be ashamed of," said Blair,
 "and in this case I don't agree with what you say about leaving
 those things behind.  Of some sorts of work it's true; but not this. 
 Shall I tell you a secret?"
 
 "If you don't mind."
 
-"The cow never does jump over the moon," said Blair gravely. 
+"The cow never does jump over the [[Moon|moon]]," said Blair gravely. 
 "It's one of the sports of the bulls of the herd."
 
-"I'm afraid I don't know what you mean," said the Professor.
+"I'm afraid I don't know what you mean," said [[The Professor|the Professor]].
 
 "I mean that women can't be kept out of this war, because it's
 a land war," answered Blair.  "If it were really a war in the air,
 you could have done it all by yourself.  But in all wars of peasants
 defending their farms and homes, women have been very much on
-the spot; as they used to pour hot water out of windows during
+the spot; as they used to pour hot [[Water|water]] out of windows during
 the Irish evictions.  Look here, I'll tell you a story.  It's relevant
 because it has a moral.  After all, it's my turn, so to speak. 
-You've told me the true story of the Cow that Jumped over the Moon. 
-It's time I told you the true story of the Castle in the Air."
+You've told me the true story of the Cow that Jumped over the [[Moon]]. 
+It's [[Time|time]] I told you the true story of the [[Castle]] in the Air."
 
 He smoked silently for a moment, and then said:
 
 "You may have wondered how a very prosaic practical Scotch
 engineer like myself ever came to make a thing like that pantomime
-palace over there, as childish as a child's coloured balloon. 
-Well, the answer is the same; because in certain circumstances
+palace over there, as childish as a [[Child|child]]'s coloured balloon. 
+[[Well]], the answer is the same; because in certain circumstances
 a man may be very different from himself.  At a certain period of
-the old war preparations, I was doing some work for the government
+the old war preparations, I was doing some work for the [[government]]
 in a secluded part of the western coast of Ireland.  There were
 very few people for me to talk to; but one of them was the daughter
 of a bankrupt squire named Malone; and I talked to her a good deal. 
 I was about as mechanical a mechanic as you could dig out anywhere;
 grimy, grumpy, tinkering about with dirty machinery.  She was
-really like those princesses you read about in the Celtic poems;
-with a red crown made of curling elf-locks like little flames,
+really like those princesses you read about in the Celtic [[Poems|poems]];
+with a red [[Crown|crown]] made of curling elf-locks like little flames,
 and a pale elfin face that seemed somehow thin and luminous
-like glass; and she could make you listen to silence like a song. 
+like glass; and she could make you listen to [[Silence|silence]] like a [[Song|song]]. 
 It wasn't a pose with her, it was a poem; there are people like that,
 but very few of them like her.  I tried to keep up my end by telling
 her about the wonders of science, and the great new architecture
 of the air.  And then Sheila used to say, `And what is the good
-of them to me, when you HAVE built them.  I can see a castle
+of them to me, when you HAVE built them.  I can see a [[Castle|castle]]
 build itself without hands out of gigantic rocks of clear jewels
-in the sky every night.'  And she would point to where crimson
+in the sky every [[Night|night]].'  And she would point to where crimson
 or violet clouds hung in the green after-glow over the great Atlantic.
 
 "You would probably say I was mad, if you didn't happen to have
@@ -806,12 +806,12 @@ something she admired and that she thought science couldn't do.
 I was as morbid as a boy; I half thought she despised me; and I wanted
 half to prove her wrong and half to do whatever she thought right. 
 I resolved my science should beat the clouds at their own game; and I
-laboured till I'd actually made a sort of rainbow castle that would
+laboured till I'd actually made a sort of rainbow [[Castle|castle]] that would
 ride on the air.  I think at the back of my mind there was some sort
 of crazy idea of carrying her off into the clouds she lived among,
 as if she were literally an angel and ought to dwell on wings.  It never
 quite came to that, as you will hear, but as my experiments progressed
-my romance progressed too.  You won't need any telling about that;
+my [[Romance|romance]] progressed too.  You won't need any telling about that;
 I only want to tell you the end of the story because of the moral. 
 We made arrangements to get married; and I had to leave a good
 many of the arrangements to her, while I completed my great work. 
@@ -820,11 +820,11 @@ god descending in a cloud to carry a nymph up to Olympus.
 And I found she had already taken a very solid little brick villa
 on the edge of a town, having got it remarkably cheap and furnished
 it with most modern conveniences.  And when I talked to her about
-castles in the air, she laughed and said her castle had come down to
+castles in the air, she laughed and said her [[Castle|castle]] had come down to
 the ground.  That is the moral.  A woman, especially an Irishwoman,
 is always uncommonly practical when it comes to getting married. 
 That is what I meant by saying it is never the cow who jumps over
-the moon.  It is the cow who stands firmly planted in the middle of
+the [[Moon|moon]].  It is the cow who stands firmly planted in the middle of
 the three acres; and who always counts in any struggle of the land. 
 That is why there must be women in this story, especially like
 those in your story and Pierce's, women who come from the land. 
@@ -832,11 +832,11 @@ When the world needs a Crusade for communal ideals, it is best
 waged by men without ties, like the Franciscans.  But when it comes
 to a fight for private property--you can't keep women out of that. 
 You can't have the family farm without the family.  You must have
-concrete Christian marriage again:  you can't have solid small
+concrete Christian [[Marriage|marriage]] again:  you can't have solid small
 property with all this vagabond polygamy; a harem that isn't even
-a home."
+a [[Home|home]]."
 
-Green nodded and rose slowly to his feet, with his hands in his pockets.
+Green nodded and [[Rose|rose]] slowly to his feet, with his hands in his pockets.
 
 "When it comes to a fight," he said.  "When I look at these enormous
 underground preparations, it is not difficult to infer that you
@@ -847,7 +847,7 @@ decided that.  And the others may not understand exactly what they
 are doing; but he does."
 
 And Blair knocked out his pipe and stood up, to resume his work
-in that mountain laboratory, at about the same time at which Lord
+in that mountain laboratory, at about the same [[Time|time]] at which Lord
 Eden awoke from his smiling meditations; and, lighting a cigarette,
 went languidly indoors.
 
@@ -861,7 +861,7 @@ was this bald, broad and menacing new fact; a peasantry.
 The class of small farmers already existed, and might yet be found
 fighting for its farms like the same class all over the world. 
 It was no longer certain that the sweeping social adjustments
-settled in that garden could be applied to the whole English land. 
+settled in that [[Garden|garden]] could be applied to the whole English land. 
 But the story of how far his doubts were justified, and how far
 his whole project fared, is a part of the story of The Ultimate
 Ultimatum of the League of the Long Bow, after which the exhausted

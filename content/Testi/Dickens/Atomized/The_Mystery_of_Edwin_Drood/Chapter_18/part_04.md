@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,18 +15,18 @@ tags:
 
 
 When they had got through such studies as they had in hand, they stood
-leaning on the window-sill, and looking down upon the patch of garden.
-“Next week,” said Mr. Crisparkle, “you will cease to be alone, and will
+leaning on the [[Window|window]]-sill, and looking down upon the patch of [[Garden|garden]].
+“Next week,” said Mr. Crisparkle, “you will cease to be [[Alone|alone]], and will
 have a devoted companion.”
 
 “And yet,” returned Neville, “this seems an uncongenial place to bring
 my sister to.”
 
 “I don’t think so,” said the Minor Canon. “There is duty to be done
-here; and there are womanly feeling, sense, and courage wanted here.”
+here; and there are womanly feeling, sense, and [[Courage|courage]] wanted here.”
 
 “I meant,” explained Neville, “that the surroundings are so dull and
-unwomanly, and that Helena can have no suitable friend or society
+unwomanly, and that [[Helena]] can have no suitable friend or society
 here.”
 
 “You have only to remember,” said Mr. Crisparkle, “that you are here
@@ -37,31 +37,31 @@ anew.
 
 “When we first spoke together, Neville, you told me that your sister
 had risen out of the disadvantages of your past lives as superior to
-you as the tower of Cloisterham Cathedral is higher than the chimneys
+you as the tower of Cloisterham [[Cathedral]] is higher than the chimneys
 of Minor Canon Corner. Do you remember that?”
 
-“Right well!”
+“Right [[Well|well]]!”
 
-“I was inclined to think it at the time an enthusiastic flight. No
+“I was inclined to think it at the [[Time|time]] an enthusiastic flight. No
 matter what I think it now. What I would emphasise is, that under the
-head of Pride your sister is a great and opportune example to you.”
+head of [[Pride]] your sister is a great and opportune example to you.”
 
 “Under _all_ heads that are included in the composition of a fine
 character, she is.”
 
 “Say so; but take this one. Your sister has learnt how to govern what
-is proud in her nature. She can dominate it even when it is wounded
-through her sympathy with you. No doubt she has suffered deeply in
-those same streets where you suffered deeply. No doubt her life is
-darkened by the cloud that darkens yours. But bending her pride into a
+is proud in her [[Nature|nature]]. She can dominate it even when it is wounded
+through her sympathy with you. No [[Doubt|doubt]] she has suffered deeply in
+those same streets where you suffered deeply. No [[Doubt|doubt]] her life is
+darkened by the cloud that darkens yours. But bending her [[Pride|pride]] into a
 grand composure that is not haughty or aggressive, but is a sustained
-confidence in you and in the truth, she has won her way through those
+confidence in you and in the [[Truth|truth]], she has won her way through those
 streets until she passes along them as high in the general respect as
 any one who treads them. Every day and hour of her life since Edwin
 Drood’s disappearance, she has faced malignity and folly—for you—as
-only a brave nature well directed can. So it will be with her to the
-end. Another and weaker kind of pride might sink broken-hearted, but
-never such a pride as hers: which knows no shrinking, and can get no
+only a brave [[Nature|nature]] [[Well|well]] directed can. So it will be with her to the
+end. Another and weaker kind of [[Pride|pride]] might sink broken-hearted, but
+never such a [[Pride|pride]] as hers: which knows no shrinking, and can get no
 mastery over her.”
 
 The pale cheek beside him flushed under the comparison, and the hint
@@ -81,9 +81,9 @@ rejoin Neville on his own doorstep, if he would come down there to meet
 him.
 
 Mr. Grewgious, bolt upright as usual, sat taking his wine in the dusk
-at his open window; his wineglass and decanter on the round table at
-his elbow; himself and his legs on the window-seat; only one hinge in
-his whole body, like a bootjack.
+at his open [[Window|window]]; his wineglass and decanter on the round table at
+his elbow; himself and his legs on the [[Window|window]]-seat; only one hinge in
+his whole [[Body|body]], like a bootjack.
 
 “How do you do, reverend sir?” said Mr. Grewgious, with abundant offers
 of hospitality, which were as cordially declined as made. “And how is
@@ -101,7 +101,7 @@ literally.
 
 “And how did you leave Mr. Jasper, reverend sir?” said Mr. Grewgious.
 
-Mr. Crisparkle had left him pretty well.
+Mr. Crisparkle had left him pretty [[Well|well]].
 
 “And where did you leave Mr. Jasper, reverend sir?” Mr. Crisparkle had
 left him at Cloisterham.
@@ -117,15 +117,15 @@ left him at Cloisterham.
 “No.”
 
 “Because here he is,” said Mr. Grewgious, who had asked all these
-questions, with his preoccupied glance directed out at window. “And he
+questions, with his preoccupied glance directed out at [[Window|window]]. “And he
 don’t look agreeable, does he?”
 
-Mr. Crisparkle was craning towards the window, when Mr. Grewgious
+Mr. Crisparkle was craning towards the [[Window|window]], when Mr. Grewgious
 added:
 
 “If you will kindly step round here behind me, in the gloom of the
-room, and will cast your eye at the second-floor landing window in
-yonder house, I think you will hardly fail to see a slinking individual
+room, and will cast your eye at the second-floor landing [[Window|window]] in
+yonder [[house]], I think you will hardly fail to see a slinking individual
 in whom I recognise our local friend.”
 
 “You are right!” cried Mr. Crisparkle.
@@ -149,16 +149,16 @@ might go.”
 “Ay!” said Mr. Grewgious musingly still. “Do I see him waiting for
 you?”
 
-“No doubt you do.”
+“No [[Doubt|doubt]] you do.”
 
 “Then _would_ you have the goodness to excuse my getting up to see you
 out, and to go out to join him, and to go the way that you were going,
 and to take no notice of our local friend?” said Mr. Grewgious. “I
-entertain a sort of fancy for having _him_ under my eye to-night, do
+entertain a sort of fancy for having _him_ under my eye to-[[Night|night]], do
 you know?”
 
 Mr. Crisparkle, with a significant nod complied; and rejoining Neville,
 went away with him. They dined together, and parted at the yet
-unfinished and undeveloped railway station: Mr. Crisparkle to get home;
-Neville to walk the streets, cross the bridges, make a wide round of
-the city in the friendly darkness, and tire himself out.
+unfinished and undeveloped railway station: Mr. Crisparkle to get [[Home|home]];
+Neville to walk the streets, [[Cross|cross]] the bridges, make a wide round of
+the [[City|city]] in the friendly darkness, and tire himself out.

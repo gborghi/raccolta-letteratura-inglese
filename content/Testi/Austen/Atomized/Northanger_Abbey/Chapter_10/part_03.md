@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 9 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -40,13 +40,13 @@ and sold for incredible sums; of racing matches, in which his judgment
 
 had infallibly foretold the winner; of shooting parties, in which he
 
-had killed more birds (though without having one good shot) than all
+had killed more [[Birds|birds]] (though without having one good shot) than all
 
 his companions together; and described to her some famous day’s sport,
 
 with the fox-hounds, in which his foresight and skill in directing the
 
-dogs had repaired the mistakes of the most experienced huntsman, and in
+[[dogs]] had repaired the mistakes of the most experienced huntsman, and in
 
 which the boldness of his riding, though it had never endangered his
 
@@ -60,11 +60,11 @@ Little as Catherine was in the habit of judging for herself, and
 
 unfixed as were her general notions of what men ought to be, she could
 
-not entirely repress a doubt, while she bore with the effusions of his
+not entirely repress a [[Doubt|doubt]], while she bore with the effusions of his
 
 endless conceit, of his being altogether completely agreeable. It was a
 
-bold surmise, for he was Isabella’s brother; and she had been assured
+bold surmise, for he was [[Isabella]]’s brother; and she had been assured
 
 by James that his manners would recommend him to all her sex; but in
 
@@ -80,11 +80,11 @@ powers of giving universal pleasure.
 
 
 
-When they arrived at Mrs. Allen’s door, the astonishment of Isabella
+When they arrived at Mrs. Allen’s door, the astonishment of [[Isabella]]
 
 was hardly to be expressed, on finding that it was too late in the day
 
-for them to attend her friend into the house: “Past three o’clock!” It
+for them to attend her friend into the [[house]]: “Past three o’[[Clock|clock]]!” It
 
 was inconceivable, incredible, impossible! and she would neither
 
@@ -102,13 +102,13 @@ two hours and a half had ever gone off so swiftly before, as Catherine
 
 was called on to confirm; Catherine could not tell a falsehood even to
 
-please Isabella; but the latter was spared the misery of her friend’s
+please [[Isabella]]; but the latter was spared the misery of her friend’s
 
 dissenting voice, by not waiting for her answer. Her own feelings
 
 entirely engrossed her; her wretchedness was most acute on finding
 
-herself obliged to go directly home. It was ages since she had had a
+herself obliged to go directly [[Home|home]]. It was ages since she had had a
 
 moment’s conversation with her dearest Catherine; and, though she had
 
@@ -124,11 +124,11 @@ and went on.
 
 Catherine found Mrs. Allen just returned from all the busy idleness of
 
-the morning, and was immediately greeted with, “Well, my dear, here you
+the morning, and was immediately greeted with, “[[Well]], my dear, here you
 
-are,” a truth which she had no greater inclination than power to
+are,” a [[Truth|truth]] which she had no greater inclination than power to
 
-dispute; “and I hope you have had a pleasant airing?”
+dispute; “and I [[Hope|hope]] you have had a pleasant airing?”
 
 
 
@@ -230,7 +230,7 @@ by for her when her mother died.”
 
 is; but, however, he is a very fine young man, Mrs. Hughes says, and
 
-likely to do very well.”
+likely to do very [[Well|well]].”
 
 
 
@@ -248,4 +248,4 @@ was, she could only lament her ill luck, and think over what she had
 
 lost, till it was clear to her that the drive had by no means been very
 
-pleasant and that John Thorpe himself was quite disagreeable.
+pleasant and that [[John Thorpe]] himself was quite disagreeable.

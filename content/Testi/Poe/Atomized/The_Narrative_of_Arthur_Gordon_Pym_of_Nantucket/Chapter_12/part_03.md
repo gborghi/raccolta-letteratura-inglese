@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,21 +18,21 @@ more along, so that now we could not maintain a footing upon deck at
 
 all. Busied ourselves in securing our wine and tortoise-meat, so that
 
-we might not lose them in the event of our rolling over. Got out two
+we might not lose them in the event of our [[rolling]] over. Got out two
 
 stout spikes from the forechains, and, by means of the axe, drove them
 
-into the hull to windward within a couple of feet of the water; this
+into the hull to windward within a couple of feet of the [[Water|water]]; this
 
 not being very far from the keel, as we were nearly upon our beam-ends.
 
 To these spikes we now lashed our provisions, as being more secure than
 
-their former position beneath the chains. Suffered great agony from
+their former position beneath the [[Chains|chains]]. Suffered great agony from
 
 thirst during the whole day--no chance of bathing on account of the
 
-sharks, which never left us for a moment. Found it impossible to sleep.
+sharks, which never left us for a moment. Found it impossible to [[Sleep|sleep]].
 
 
 
@@ -42,7 +42,7 @@ heeling over, and aroused ourselves to prevent being thrown off by the
 
 movement. At first the roll was slow and gradual, and we contrived to
 
-clamber over to windward very well, having taken the precaution to
+clamber over to windward very [[Well|well]], having taken the precaution to
 
 leave ropes hanging from the spikes we had driven in for the provision.
 
@@ -60,7 +60,7 @@ above us.
 
 
 
-In going under the water I had been obliged to let go my hold upon the
+In going under the [[Water|water]] I had been obliged to let go my hold upon the
 
 rope; and finding that I was completely beneath the vessel, and my
 
@@ -70,9 +70,9 @@ resigned myself, in a few seconds, to die. But here again I was
 
 deceived, not having taken into consideration the natural rebound of
 
-the hull to windward. The whirl of the water upward, which the vessel
+the hull to windward. The whirl of the [[Water|water]] upward, which the vessel
 
-occasioned in rolling partially back, brought me to the surface still
+occasioned in [[rolling]] partially back, brought me to the surface still
 
 more violently than I had been plunged beneath. Upon coming up, I found
 
@@ -94,13 +94,13 @@ My principal terror was now on account of the sharks, which I knew to
 
 be in my vicinity. In order to deter these, if possible, from
 
-approaching me, I splashed the water vigorously with both hands and
+approaching me, I splashed the [[Water|water]] vigorously with both hands and
 
-feet as I swam towards the hulk, creating a body of foam. I have no
+feet as I swam towards the hulk, creating a [[Body|body]] of foam. I have no
 
-doubt that to this expedient, simple as it was, I was indebted for my
+[[Doubt|doubt]] that to this expedient, simple as it was, I was indebted for my
 
-preservation; for the sea all around the brig, just before her rolling
+preservation; for the sea all around the brig, just before her [[rolling]]
 
 over, was so crowded with these monsters, that I must have been, and
 
@@ -130,13 +130,13 @@ whole stock of provision had been swept overboard in spite of all our
 
 care in securing it; and seeing no longer the remotest possibility of
 
-obtaining more, we gave way both of us to despair, weeping aloud like
+obtaining more, we gave way both of us to [[Despair|despair]], weeping aloud like
 
 children, and neither of us attempting to offer consolation to the
 
 other. Such weakness can scarcely be conceived, and to those who have
 
-never been similarly situated will, no doubt, appear unnatural; but it
+never been similarly situated will, no [[Doubt|doubt]], appear unnatural; but it
 
 must be remembered that our intellects were so entirely disordered by
 
@@ -148,7 +148,7 @@ rational beings. In subsequent perils, nearly as great, if not greater,
 
 I bore up with fortitude against all the evils of my situation, and
 
-Peters, it will be seen, evinced a stoical philosophy nearly as
+Peters, it will be seen, evinced a stoical [[philosophy]] nearly as
 
 incredible as his present childlike supineness and imbecility--the
 
@@ -164,7 +164,7 @@ deplorable than before, except for the disappearance of the bedclothes
 
 by which we had been hitherto enabled to catch rainwater, and of the
 
-jug in which we had kept it when caught; for we found the whole bottom,
+jug in which we had kept it when caught; for we found the whole [[Bottom|bottom]],
 
 from within two or three feet of the bends as far as the keel, together
 
@@ -186,7 +186,7 @@ danger, than before.
 
 
 
-The difficulty, however, of now obtaining water blinded us to all the
+The difficulty, however, of now obtaining [[Water|water]] blinded us to all the
 
 benefits of the change in our condition. That we might be ready to
 
@@ -196,12 +196,12 @@ took off our shirts, to make use of them as we had of the sheets--not
 
 hoping, of course, to get more in this way, even under the most
 
-favourable circumstances, than half a gill at a time. No signs of a
+favourable circumstances, than half a gill at a [[Time|time]]. No signs of a
 
 cloud appeared during the day, and the agonies of our thirst were
 
-nearly intolerable. At night Peters obtained about an hour's disturbed
+nearly intolerable. At [[Night|night]] Peters obtained about an hour's disturbed
 
-sleep, but my intense sufferings would not permit me to close my eyes
+[[Sleep|sleep]], but my intense sufferings would not permit me to close my eyes
 
 for a single moment.

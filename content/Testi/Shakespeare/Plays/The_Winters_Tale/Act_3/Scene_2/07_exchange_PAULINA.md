@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act III, Scene 2 — exchange (PAULINA) [7]"
+title: "The Winters Tale — Act III, Scene 2 — exchange ([[Paulina|PAULINA]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-WINTER’S-TALE-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| PAULINA | Woe the while! O cut my lace, lest my heart, cracking it, Break too. |
+| [[Paulina|PAULINA]] | Woe the while! O cut my lace, lest my heart, cracking it, Break too. |
 | *(didascalia)* | A |
 | LORD | What fit is this, good lady? |

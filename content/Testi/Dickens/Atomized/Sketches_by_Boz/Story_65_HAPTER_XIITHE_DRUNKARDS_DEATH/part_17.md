@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 17)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 17)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -21,26 +21,26 @@ opining, especially if he has taken anything strong to drink, that
 there is nothing in it worth living for. He gives you to understand,
 however, that for the sake of society, he means to bear his part in the
 tiresome play, manfully resisting the gratification of his own strong
-desire to make a premature exit; and consoles himself with the
-reflection, that immortality has some chosen nook for himself and the
+[[Desire|desire]] to make a premature exit; and consoles himself with the
+reflection, that [[Immortality|immortality]] has some chosen nook for himself and the
 other great spirits whom earth has chafed and wearied.
 
 When the poetical young gentleman makes use of adjectives, they are all
 superlatives. Everything is of the grandest, greatest, noblest,
 mightiest, loftiest; or the lowest, meanest, obscurest, vilest, and
-most pitiful. He knows no medium: for enthusiasm is the soul of poetry;
+most pitiful. He knows no medium: for enthusiasm is the [[Soul|soul]] of poetry;
 and who so enthusiastic as a poetical young gentleman? ‘Mr. Milkwash,’
 says a young lady as she unlocks her album to receive the young
 gentleman’s original impromptu contribution, ‘how very silent you are!
-I think you must be in love.’ ‘Love!’ cries the poetical young
-gentleman, starting from his seat by the fire and terrifying the cat
-who scampers off at full speed, ‘Love! that burning, consuming passion;
-that ardour of the soul, that fierce glowing of the heart. Love! The
-withering, blighting influence of hope misplaced and affection
-slighted. Love did you say! Ha! ha! ha!’
+I think you must be in [[Love|love]].’ ‘[[Love]]!’ cries the poetical young
+gentleman, starting from his seat by the [[Fire|fire]] and terrifying the cat
+who scampers off at full [[Speed|speed]], ‘[[Love]]! that burning, consuming passion;
+that ardour of the [[Soul|soul]], that fierce glowing of the heart. [[Love]]! The
+withering, blighting influence of [[Hope|hope]] misplaced and affection
+slighted. [[Love]] did you say! Ha! ha! ha!’
 
 With this, the poetical young gentleman laughs a laugh belonging only
-to poets and Mr. O. Smith of the Adelphi Theatre, and sits down, pen in
+to poets and Mr. O. [[smith|Smith]] of the Adelphi Theatre, and sits down, pen in
 hand, to throw off a page or two of verse in the biting,
 semi-atheistical demoniac style, which, like the poetical young
 gentleman himself, is full of sound and fury, signifying nothing.
@@ -55,14 +55,14 @@ There is a certain kind of impostor—a bragging, vaunting, puffing young
 gentleman—against whom we are desirous to warn that fairer part of the
 creation, to whom we more peculiarly devote these our labours. And we
 are particularly induced to lay especial stress upon this division of
-our subject, by a little dialogue we held some short time ago, with an
+our subject, by a little dialogue we held some short [[Time|time]] ago, with an
 esteemed young lady of our acquaintance, touching a most gross specimen
 of this class of men. We had been urging all the absurdities of his
 conduct and conversation, and dwelling upon the impossibilities he
 constantly recounted—to which indeed we had not scrupled to prefix a
 certain hard little word of one syllable and three letters—when our
 fair friend, unable to maintain the contest any longer, reluctantly
-cried, ‘Well; he certainly has a habit of throwing-off, but then—’ What
+cried, ‘[[Well]]; he certainly has a habit of throwing-off, but then—’ What
 then? Throw him off yourself, said we. And so she did, but not at our
 instance, for other reasons appeared, and it might have been better if
 she had done so at first.
@@ -72,17 +72,17 @@ vast property in some remote district of Ireland, that we look with
 some suspicion upon all young gentlemen who volunteer this description
 of themselves. The deceased grandfather of the throwing-off young
 gentleman was a man of immense possessions, and untold wealth; the
-throwing-off young gentleman remembers, as well as if it were only
+throwing-off young gentleman remembers, as [[Well|well]] as if it were only
 yesterday, the deceased baronet’s library, with its long rows of scarce
 and valuable books in superbly embossed bindings, arranged in cases,
 reaching from the lofty ceiling to the oaken floor; and the fine
-antique chairs and tables, and the noble old castle of
-Ballykillbabaloo, with its splendid prospect of hill and dale, and
+antique chairs and tables, and the noble old [[Castle|castle]] of
+Ballykillbabaloo, with its splendid prospect of [[Hill|hill]] and dale, and
 wood, and rich wild scenery, and the fine hunting stables and the
-spacious court-yards, ‘and—and—everything upon the same magnificent
+spacious [[Court|court]]-yards, ‘and—and—everything upon the same magnificent
 scale,’ says the throwing-off young gentleman, ‘princely; quite
 princely. Ah!’ And he sighs as if mourning over the fallen fortunes of
-his noble house.
+his noble [[house]].
 
 The throwing-off young gentleman is a universal genius; at walking,
 running, rowing, swimming, and skating, he is unrivalled; at all games
@@ -95,10 +95,10 @@ your common acquaintance in his hearing, the throwing-off young
 gentleman starts, smiles, and begs you not to mind him, for it was
 quite involuntary: people do say indeed that they were once engaged,
 but no—although she is a very fine girl, he was so situated at that
-time that he couldn’t possibly encourage the—‘but it’s of no use
+[[Time|time]] that he couldn’t possibly encourage the—‘but it’s of no use
 talking about it!’ he adds, interrupting himself. ‘She has got over it
-now, and I firmly hope and trust is happy.’ With this benevolent
-aspiration he nods his head in a mysterious manner, and whistling the
+now, and I firmly [[Hope|hope]] and trust is happy.’ With this benevolent
+[[Aspiration|aspiration]] he nods his head in a mysterious manner, and whistling the
 first part of some popular air, thinks perhaps it will be better to
 change the subject.
 
@@ -124,24 +124,24 @@ gentleman gives utterance to, during tea, and still more so to observe
 the ease with which, from long practice and study, he delicately blends
 one compliment to a lady with two for himself. ‘Did you ever see a more
 lovely blue than this flower, Mr. Caveton?’ asks a young lady who,
-truth to tell, is rather smitten with the throwing-off young gentleman.
+[[Truth|truth]] to tell, is rather smitten with the throwing-off young gentleman.
 ‘Never,’ he replies, bending over the object of admiration, ‘never but
 in your eyes.’ ‘Oh, Mr. Caveton,’ cries the young lady, blushing of
-course. ‘Indeed I speak the truth,’ replies the throwing-off young
+course. ‘Indeed I speak the [[Truth|truth]],’ replies the throwing-off young
 gentleman, ‘I never saw any approach to them. I used to think my
 cousin’s blue eyes lovely, but they grow dim and colourless beside
 yours.’ ‘Oh! a beautiful cousin, Mr. Caveton!’ replies the young lady,
 with that perfect artlessness which is the distinguishing
 characteristic of all young ladies; ‘an affair, of course.’ ‘No;
 indeed, indeed you wrong me,’ rejoins the throwing-off young gentleman
-with great energy. ‘I fervently hope that her attachment towards me may
-be nothing but the natural result of our close intimacy in childhood,
+with great energy. ‘I fervently [[Hope|hope]] that her attachment towards me may
+be nothing but the natural result of our close intimacy in [[Childhood|childhood]],
 and that in change of scene and among new faces she may soon overcome
-it. _I_ love her! Think not so meanly of me, Miss Lowfield, I beseech,
-as to suppose that title, lands, riches, and beauty, can influence _my_
+it. _I_ [[Love|love]] her! Think not so meanly of me, Miss Lowfield, I beseech,
+as to suppose that title, lands, riches, and [[Beauty|beauty]], can influence _my_
 choice. The heart, the heart, Miss Lowfield.’ Here the throwing-off
 young gentleman sinks his voice to a still lower whisper; and the young
 lady duly proclaims to all the other young ladies when they go
 up-stairs, to put their bonnets on, that Mr. Caveton’s relations are
 all immensely rich, and that he is hopelessly beloved by title, lands,
-riches, and beauty.
+riches, and [[Beauty|beauty]].

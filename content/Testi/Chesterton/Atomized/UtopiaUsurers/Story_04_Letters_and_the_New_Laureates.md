@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — Letters and the New Laureates"
+title: "[[UtopiaUsurers]] — Letters and the New Laureates"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -20,7 +20,7 @@ II. Letters and the New Laureates
 
 In these articles I only take two or three examples of the first and
 
-fundamental fact of our time. I mean the fact that the capitalists of
+fundamental fact of our [[Time|time]]. I mean the fact that the capitalists of
 
 our community are becoming quite openly the kings of it. In my last (and
 
@@ -40,7 +40,7 @@ the art verges on artlessness.
 
 The great difficulty with the English lies in the absence of something
 
-one may call democratic imagination. We find it easy to realise an
+one may call democratic [[Imagination|imagination]]. We find it easy to realise an
 
 individual, but very hard to realise that the great masses consist of
 
@@ -48,7 +48,7 @@ individuals. Our system has been aristocratic: in the special sense of
 
 there being only a few actors on the stage. And the back scene is kept
 
-quite dark, though it is really a throng of faces. Home Rule tended to
+quite dark, though it is really a throng of faces. [[Home]] Rule tended to
 
 be not so much the Irish as the Grand Old Man. The Boer War tended not
 
@@ -88,19 +88,19 @@ fletri, que la France soit libre."
 
 
 
-A Dance of Degradation
+A [[Dance]] of Degradation
 
 
 
 It is needless to say that this respecting of persons has led all the
 
-other parties a dance of degradation. We ruin South Africa because it
+other parties a [[Dance|dance]] of degradation. We ruin South Africa because it
 
 would be a slight on Lord Gladstone to save South Africa. We have a bad
 
 army, because it would be a snub to Lord Haldane to have a good army.
 
-And no Tory is allowed to say "Marconi" for fear Mr. George should say
+And no Tory is allowed to say "Marconi" for [[Fear|fear]] Mr. George should say
 
 "Kynoch." But this curious personal element, with its appalling lack of
 
@@ -118,25 +118,25 @@ masters and princes of the community.
 
 I will take a Victorian instance to mark the change; as I did in the
 
-case of the advertisement of "Bubbles." It was said in my childhood, by
+case of the advertisement of "Bubbles." It was said in my [[Childhood|childhood]], by
 
 the more apoplectic and elderly sort of Tory, that W. E. Gladstone was
 
 only a Free Trader because he had a partnership in Gilbey's foreign
 
-wines. This was, no doubt, nonsense; but it had a dim symbolic, or
+wines. This was, no [[Doubt|doubt]], nonsense; but it had a dim symbolic, or
 
-mainly prophetic, truth in it. It was true, to some extent even then,
+mainly prophetic, [[Truth|truth]] in it. It was true, to some extent even then,
 
 and it has been increasingly true since, that the statesman was often an
 
 ally of the salesman; and represented not only a nation of shopkeepers,
 
-but one particular shop. But in Gladstone's time, even if this was true,
+but one particular shop. But in Gladstone's [[Time|time]], even if this was true,
 
-it was never the whole truth; and no one would have endured it being the
+it was never the whole [[Truth|truth]]; and no one would have endured it being the
 
-admitted truth. The politician was not solely an eloquent and persuasive
+admitted [[Truth|truth]]. The politician was not solely an eloquent and persuasive
 
 bagman travelling for certain business men; he was bound to mix even his
 
@@ -190,11 +190,11 @@ seen in several magazines lately, and magazines of a high class, the
 
 appearance of a new kind of article. Literary men are being employed to
 
-praise a big business man personally, as men used to praise a king. They
+praise a big business man personally, as men used to praise a [[King|king]]. They
 
 not only find political reasons for the commercial schemes--that they
 
-have done for some time past--they also find moral defences for the
+have done for some [[Time|time]] past--they also find moral defences for the
 
 commercial schemers. They describe the capitalist's brain of steel and
 
@@ -222,7 +222,7 @@ the parlour-trick in question particularly astonishing. Another literary
 
 man, who certainly ought to know better, wrote in another paper a piece
 
-of hero-worship about Mr. Selfridge. No doubt the fashion will spread,
+of [[Hero|hero]]-worship about Mr. Selfridge. No [[Doubt|doubt]] the fashion will spread,
 
 and the art of words, as polished and pointed by Ruskin or Meredith,
 
@@ -238,13 +238,13 @@ Any man can be praised--and rightly praised. If he only stands on two
 
 legs he does something a cow cannot do. If a rich man can manage to
 
-stand on two legs for a reasonable time, it is called self-control. If
+stand on two legs for a reasonable [[Time|time]], it is called [[Self|self]]-control. If
 
-he has only one leg, it is called (with some truth) self-sacrifice. I
+he has only one leg, it is called (with some [[Truth|truth]]) [[Self-Sacrifice|self-sacrifice]]. I
 
 could say something nice (and true) about every man I have ever met.
 
-Therefore, I do not doubt I could find something nice about Lyons or
+Therefore, I do not [[Doubt|doubt]] I could find something nice about Lyons or
 
 Selfridge if I searched for it. But I shall not. The nearest postman or
 
@@ -254,6 +254,6 @@ of gold as these unlucky lucky men. But I do resent the whole age
 
 of patronage being revived under such absurd patrons; and all poets
 
-becoming court poets, under kings that have taken no oath, nor led us
+becoming [[Court|court]] poets, under kings that have taken no oath, nor led us
 
 into any battle.

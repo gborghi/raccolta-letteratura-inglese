@@ -14,23 +14,23 @@ tags:
 
 
 II  
-Eyes I dare not meet in dreams  
-In death’s dream kingdom  
+Eyes I dare not meet in [[Dreams|dreams]]  
+In [[Death|death]]’s dream kingdom  
 These do not appear:  
 There, the eyes are  
 Sunlight on a broken column  
 There, is a tree swinging  
 And voices are  
-In the wind’s singing  
+In the [[Wind|wind]]’s singing  
 More distant and more solemn  
 Than a fading star.  
 Let me be no nearer  
-In death’s dream kingdom  
+In [[Death|death]]’s dream kingdom  
 Let me also wear  
 Such deliberate disguises  
 Rat’s coat, crowskin, crossed staves  
 In a field  
-Behaving as the wind behaves  
+Behaving as the [[Wind|wind]] behaves  
 No nearer —  
 Not that final meeting  
 In the twilight kingdom  

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 37 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 37 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-So along the Strand, up Swallow Street, into the Oxford Road, and thence
-to his house in Welbeck Street, near Cavendish Square, whither he was
+So along the Strand, up [[Swallow]] Street, into the [[Oxford]] [[Road]], and thence
+to his [[house]] in Welbeck Street, near Cavendish Square, whither he was
 attended by a few dozen idlers; of whom he took leave on the steps with
 this brief parting, ‘Gentlemen, No Popery. Good day. God bless you.’
 This being rather a shorter address than they expected, was received
@@ -47,14 +47,14 @@ shut the door.
 
 The man who now confronted Gashford, was a squat, thickset personage,
 with a low, retreating forehead, a coarse shock head of hair, and eyes
-so small and near together, that his broken nose alone seemed to
+so small and near together, that his broken nose [[Alone|alone]] seemed to
 prevent their meeting and fusing into one of the usual size. A dingy
 handkerchief twisted like a cord about his neck, left its great veins
 exposed to view, and they were swollen and starting, as though with
 gulping down strong passions, malice, and ill-will. His dress was of
 threadbare velveteen--a faded, rusty, whitened black, like the ashes
-of a pipe or a coal fire after a day’s extinction; discoloured with the
-soils of many a stale debauch, and reeking yet with pot-house odours. In
+of a pipe or a coal [[Fire|fire]] after a day’s extinction; discoloured with the
+soils of many a stale debauch, and reeking yet with pot-[[house]] odours. In
 lieu of buckles at his knees, he wore unequal loops of packthread; and
 in his grimy hands he held a knotted stick, the knob of which was carved
 into a rough likeness of his own vile face. Such was the visitor who
@@ -65,41 +65,41 @@ leering, for his notice.
 
 ‘I see my lord down yonder--’ cried the man, with a jerk of his thumb
 towards the quarter that he spoke of, ‘and he says to me, says my lord,
-“If you’ve nothing to do, Dennis, go up to my house and talk with Muster
+“If you’ve nothing to do, Dennis, go up to my [[house]] and talk with Muster
 Gashford.” Of course I’d nothing to do, you know. These an’t my working
 hours. Ha ha! I was a-taking the air when I see my lord, that’s what
-I was doing. I takes the air by night, as the howls does, Muster
+I was doing. I takes the air by [[Night|night]], as the howls does, Muster
 Gashford.’
 
-And sometimes in the day-time, eh?’ said the secretary--‘when you go out
+And sometimes in the day-[[Time|time]], eh?’ said the secretary--‘when you go out
 in state, you know.’
 
 ‘Ha ha!’ roared the fellow, smiting his leg; ‘for a gentleman as ‘ull
 say a pleasant thing in a pleasant way, give me Muster Gashford agin’
-all London and Westminster! My lord an’t a bad ‘un at that, but he’s a
-fool to you. Ah to be sure,--when I go out in state.’
+all [[London]] and Westminster! My lord an’t a bad ‘un at that, but he’s a
+[[Fool|fool]] to you. Ah to be sure,--when I go out in state.’
 
 ‘And have your carriage,’ said the secretary; ‘and your chaplain, eh?
 and all the rest of it?’
 
-‘You’ll be the death of me,’ cried Dennis, with another roar, ‘you will.
-But what’s in the wind now, Muster Gashford,’ he asked hoarsely, ‘Eh?
+‘You’ll be the [[Death|death]] of me,’ cried Dennis, with another roar, ‘you will.
+But what’s in the [[Wind|wind]] now, Muster Gashford,’ he asked hoarsely, ‘Eh?
 Are we to be under orders to pull down one of them Popish chapels--or
 what?’
 
-‘Hush!’ said the secretary, suffering the faintest smile to play upon
+‘Hush!’ said the secretary, [[Suffering|suffering]] the faintest smile to play upon
 his face. ‘Hush! God bless me, Dennis! We associate, you know, for
 strictly peaceable and lawful purposes.’
 
 ‘I know, bless you,’ returned the man, thrusting his tongue into his
 cheek; ‘I entered a’ purpose, didn’t I!’
 
-‘No doubt,’ said Gashford, smiling as before. And when he said so,
+‘No [[Doubt|doubt]],’ said Gashford, smiling as before. And when he said so,
 Dennis roared again, and smote his leg still harder, and falling into
 fits of laughter, wiped his eyes with the corner of his neckerchief, and
 cried, ‘Muster Gashford agin’ all England hollow!’
 
-‘Lord George and I were talking of you last night,’ said Gashford, after
+‘Lord George and I were talking of you last [[Night|night]],’ said Gashford, after
 a pause. ‘He says you are a very earnest fellow.’
 
 ‘So I am,’ returned the hangman.
@@ -117,28 +117,28 @@ and does my work creditable. Do I, or do I not?’
 ‘Very good. Stop a minute. My work, is sound, Protestant,
 constitutional, English work. Is it, or is it not?’
 
-‘No man alive can doubt it.’
+‘No man alive can [[Doubt|doubt]] it.’
 
 ‘Nor dead neither. Parliament says this here--says Parliament, “If any
-man, woman, or child, does anything which goes again a certain number
-of our acts”--how many hanging laws may there be at this present time,
+man, woman, or [[Child|child]], does anything which goes again a certain number
+of our acts”--how many hanging laws may there be at this present [[Time|time]],
 Muster Gashford? Fifty?’
 
 ‘I don’t exactly know how many,’ replied Gashford, leaning back in his
 chair and yawning; ‘a great number though.’
 
-‘Well, say fifty. Parliament says, “If any man, woman, or child, does
-anything again any one of them fifty acts, that man, woman, or child,
+‘[[Well]], say fifty. Parliament says, “If any man, woman, or [[Child|child]], does
+anything again any one of them fifty acts, that man, woman, or [[Child|child]],
 shall be worked off by Dennis.” George the Third steps in when they
 number very strong at the end of a sessions, and says, “These are too
 many for Dennis. I’ll have half for myself and Dennis shall have half
 for himself;” and sometimes he throws me in one over that I don’t
-expect, as he did three year ago, when I got Mary Jones, a young woman
+expect, as he did three year ago, when I got Mary [[Jones]], a young woman
 of nineteen who come up to Tyburn with a infant at her breast, and was
 worked off for taking a piece of cloth off the counter of a shop in
-Ludgate Hill, and putting it down again when the shopman see her;
+Ludgate [[Hill]], and putting it down again when the shopman see her;
 and who had never done any harm before, and only tried to do that, in
 consequence of her husband having been pressed three weeks previous, and
 she being left to beg, with two young children--as was proved upon the
-trial. Ha ha!--Well! That being the law and the practice of England, is
+trial. Ha ha!--[[Well]]! That being the law and the practice of England, is
 the glory of England, an’t it, Muster Gashford?’

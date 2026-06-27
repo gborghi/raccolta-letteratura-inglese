@@ -27,10 +27,10 @@ as our little pleasure boat crawled up into Yarmouth Harbour.
 A boat entering this harbour, as every one knows, does not
 enter in front of the town like a foreigner, but creeps round
 at the back like a traitor taking the town in the rear.
-The passage of the river seems almost too narrow for traffic,
+The passage of the [[River|river]] seems almost too narrow for traffic,
 and in consequence the bigger ships look colossal.  As we passed
-under a timber ship from Norway, which seemed to block up the heavens
-like a cathedral, the man in a straw hat pointed to an odd wooden
+under a timber [[Ship|ship]] from Norway, which seemed to block up the heavens
+like a [[Cathedral|cathedral]], the man in a straw hat pointed to an odd wooden
 figurehead carved like a woman, and said, like one continuing
 a conversation, "Now, why have they left off having them.
 They didn't do any one any harm?"
@@ -47,7 +47,7 @@ old figureheads with hatchets and enjoyed doing it."
 "Like Mr. Quilp," I answered, "when he battered the wooden Admiral
 with the poker."
 
-His whole face suddenly became alive, and for the first time
+His whole face suddenly became alive, and for the first [[Time|time]]
 he stood erect and stared at me.
 
 "Do you come to Yarmouth for that?" he asked.
@@ -68,7 +68,7 @@ to the people who live there.  I myself have never come
 to the end of the list of Batterseas.  But there are two to
 the stranger and tourist; the poor part, which is dignified,
 and the prosperous part, which is savagely vulgar.
-My new friend haunted the first of these like a ghost;
+My new friend haunted the first of these like a [[Ghost|ghost]];
 to the latter he would only distantly allude.
 
 "The place is very much spoilt now. . . . trippers, you know,"
@@ -78,15 +78,15 @@ watering place that lay along the front, outblazing the sun,
 and more deafening than the sea.  But behind--out of earshot
 of this uproar--there are lanes so narrow that they seem
 like secret entrances to some hidden place of repose.
-There are squares so brimful of silence that to plunge into one
+There are squares so brimful of [[Silence|silence]] that to plunge into one
 of them is like plunging into a pool.  In these places the man
 and I paced up and down talking about Dickens, or, rather,
 doing what all true Dickensians do, telling each other verbatim
-long passages which both of us knew quite well already.
+long passages which both of us knew quite [[Well|well]] already.
 We were really in the atmosphere of the older England.
-Fishermen passed us who might well have been characters
+Fishermen passed us who might [[Well|well]] have been characters
 like Peggotty; we went into a musty curiosity shop and
-bought pipe-stoppers carved into figures from Pickwick.
+bought pipe-stoppers carved into figures from [[Pickwick]].
 The evening was settling down between all the buildings
 with that slow gold that seems to soak everything when we went
 into the church.
@@ -118,45 +118,45 @@ on the beach.  I am going to listen to the niggers.  I am going
 to have my photograph taken.  I am going to drink ginger-beer
 out of its original bottle.  I will buy some picture postcards.
 I do want a boat.  I am ready to listen to a concertina,
-and but for the defects of my education should be ready to play it.
-I am willing to ride on a donkey; that is, if the donkey is willing.
-I am willing to be a donkey; for all this was commanded me
-by the angel in the stained-glass window."
+and but for the defects of my [[Education|education]] should be ready to play it.
+I am willing to ride on a [[donkey]]; that is, if the [[donkey]] is willing.
+I am willing to be a [[donkey]]; for all this was commanded me
+by the angel in the stained-glass [[Window|window]]."
 
 "I really think," said the Dickensian, "that I had better put
 you in charge of your relations."
 
 "Sir," I answered, "there are certain writers to whom humanity
 owes much, whose talent is yet of so shy or delicate or retrospective
-a type that we do well to link it with certain quaint places
+a type that we do [[Well|well]] to link it with certain quaint places
 or certain perishing associations.  It would not be unnatural
-to look for the spirit of Horace Walpole at Strawberry Hill,
+to look for the spirit of Horace Walpole at Strawberry [[Hill]],
 or even for the shade of Thackeray in Old Kensington.
 But let us have no antiquarianism about Dickens, for Dickens
 is not an antiquity.  Dickens looks not backward, but forward;
-he might look at our modern mobs with satire, or with fury,
-but he would love to look at them.  He might lash our democracy,
+he might look at our modern mobs with [[Satire|satire]], or with fury,
+but he would [[Love|love]] to look at them.  He might lash our [[democracy]],
 but it would be because, like a democrat, he asked much from it.
 We will not have all his books bound up under the title
 of 'The Old Curiosity Shop.'  Rather we will have them
-all bound up under the title of 'Great Expectations.'
+all bound up under the title of '[[Great Expectations]].'
 Wherever humanity is he would have us face it and make
-something of it, swallow it with a holy cannibalism,
+something of it, [[Swallow|swallow]] it with a holy cannibalism,
 and assimilate it with the digestion of a giant.
 We must take these trippers as he would have taken them,
-and tear out of them their tragedy and their farce.
+and tear out of them their [[Tragedy|tragedy]] and their farce.
 Do you remember now what the angel said at the sepulchre?
 'Why seek ye the living among the dead?  He is not here;
 he is risen.'"
 
 With that we came out suddenly on the wide stretch of the sands,
 which were black with the knobs and masses of our laughing and quite
-desperate democracy.  And the sunset, which was now in its final glory,
+desperate [[democracy]].  And the sunset, which was now in its final glory,
 flung far over all of them a red flush and glitter like the gigantic
 firelight of Dickens.  In that strange evening light every figure
-looked at once grotesque and attractive, as if he had a story to tell.
+looked at once [[Grotesque|grotesque]] and attractive, as if he had a story to tell.
 I heard a little girl (who was being throttled by another little girl)
-say by way of self-vindication, "My sister-in-law 'as got four rings
+say by way of [[Self|self]]-vindication, "My sister-in-law 'as got four rings
 aside her weddin' ring!"
 
 I stood and listened for more, but my friend went away.

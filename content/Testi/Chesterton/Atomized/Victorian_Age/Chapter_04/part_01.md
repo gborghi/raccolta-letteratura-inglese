@@ -56,7 +56,7 @@ country. Men like Huxley, men like Kingsley, men like most Victorian
 
 men, were equally driven back on being irreligious; that is, on doubting
 
-things which men's normal imagination does not necessarily doubt. But
+things which men's normal [[Imagination|imagination]] does not necessarily [[Doubt|doubt]]. But
 
 certainly the most final and forcible fact is that this war ended like
 
@@ -66,7 +66,7 @@ both did beat, and both did run away. They have left to their
 
 descendants a treaty that has become a dull torture. Men may believe in
 
-immortality, and none of the men know why. Men may not believe in
+[[Immortality|immortality]], and none of the men know why. Men may not believe in
 
 miracles, and none of the men know why. The Christian Church had been
 
@@ -82,23 +82,23 @@ some call lockjaw.
 
 
 
-But the situation can be stated another way. There came a time, roughly
+But the situation can be stated another way. There came a [[Time|time]], roughly
 
 somewhere about 1880, when the two great positive enthusiasms of Western
 
-Europe had for the time exhausted each other--Christianity and the
+Europe had for the [[Time|time]] exhausted each other--[[Christianity]] and the
 
-French Revolution. About that time there used to be a sad and not
+[[French Revolution]]. About that [[Time|time]] there used to be a sad and not
 
-unsympathetic jest going about to the effect that Queen Victoria might
+unsympathetic jest going about to the effect that [[Queen]] Victoria might
 
-very well live longer than the Prince of Wales. Somewhat in the same
+very [[Well|well]] live longer than the Prince of Wales. Somewhat in the same
 
 way, though the republican impulse was hardly a hundred years old and
 
 the religious impulse nearly two thousand, yet as far as England was
 
-concerned, the old wave and the new seemed to be spent at the same time.
+concerned, the old wave and the new seemed to be spent at the same [[Time|time]].
 
 On the one hand Darwin, especially through the strong journalistic
 
@@ -122,25 +122,25 @@ early arrived at, and still remains. It was and is hazily associated
 
 with the negation of religion. But (and this is the important point) it
 
-was also associated with the negation of democracy. The same
+was also associated with the negation of [[Democracy|democracy]]. The same
 
 Mid-Victorian muddle-headedness that made people think that "evolution"
 
 meant that we need not admit the supremacy of God, also made them think
 
-that "survival" meant that we must admit the supremacy of men. Huxley
+that "[[Survival|survival]]" meant that we must admit the supremacy of men. Huxley
 
 had no hand in spreading these fallacies; he was a fair fighter; and he
 
 told his own followers, who spoke thus, most emphatically not to play
 
-the fool. He said most strongly that his or any theory of evolution left
+the [[Fool|fool]]. He said most strongly that his or any theory of evolution left
 
 the old philosophical arguments for a creator, right or wrong, exactly
 
 where they were before. He also said most emphatically that any one who
 
-used the argument of Nature against the ideal of justice or an equal
+used the argument of [[Nature]] against the ideal of justice or an equal
 
 law, was as senseless as a gardener who should fight on the side of the
 
@@ -154,7 +154,7 @@ tongue, which he devoted to the task of keeping Victorian rationalism
 
 rational. He did not succeed. As so often happens when a rather
 
-unhealthy doubt is in the atmosphere, the strongest words of their great
+unhealthy [[Doubt|doubt]] is in the atmosphere, the strongest words of their great
 
 captain could not keep the growing crowds of agnostics back from the
 
@@ -166,7 +166,7 @@ to be more and more wildly whispered. Such helpless specimens of
 
 "advanced thought" are, of course, quite as inconsistent with Darwinism
 
-as they are with democracy or with any other intelligent proposition
+as they are with [[Democracy|democracy]] or with any other intelligent proposition
 
 ever offered. But these unintelligent propositions were offered; and the
 
@@ -174,7 +174,7 @@ ultimate result was this rather important one: that the harshness of
 
 Utilitarianism began to turn into downright tyranny. That beautiful
 
-faith in human nature and in freedom which had made delicate the dry air
+[[Faith|faith]] in human [[Nature|nature]] and in [[Freedom|freedom]] which had made delicate the dry air
 
 of John Stuart Mill; that robust, romantic sense of justice which had
 
@@ -182,7 +182,7 @@ redeemed even the injustices of Macaulay--all that seemed slowly and
 
 sadly to be drying up. Under the shock of Darwinism all that was good in
 
-the Victorian rationalism shook and dissolved like dust. All that was
+the Victorian rationalism shook and dissolved like [[Dust|dust]]. All that was
 
 bad in it abode and clung like clay. The magnificent emancipation
 

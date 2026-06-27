@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 13)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      even the lightest vapors never rose to more than ten miles above
+      even the lightest vapors never [[Rose|rose]] to more than ten miles above
 
       the level of the sea.
 
@@ -46,15 +46,15 @@ tags:
 
 
 
-      “By ten o’clock I found that I had very little to occupy my
+      “By ten o’[[Clock|clock]] I found that I had very little to occupy my
 
       immediate attention. Affairs went swimmingly, and I believed the
 
-      balloon to be going upward with a speed increasing momently
+      balloon to be going upward with a [[Speed|speed]] increasing momently
 
       although I had no longer any means of ascertaining the
 
-      progression of the increase. I suffered no pain or uneasiness of
+      progression of the increase. I suffered no [[Pain|pain]] or uneasiness of
 
       any kind, and enjoyed better spirits than I had at any period
 
@@ -72,21 +72,21 @@ tags:
 
       meanwhile I could not help making anticipations. Fancy revelled
 
-      in the wild and dreamy regions of the moon. Imagination, feeling
+      in the wild and dreamy regions of the [[Moon|moon]]. [[Imagination]], feeling
 
       herself for once unshackled, roamed at will among the
 
       ever-changing wonders of a shadowy and unstable land. Now there
 
-      were hoary and time-honored forests, and craggy precipices, and
+      were hoary and [[Time|time]]-honored forests, and craggy precipices, and
 
       waterfalls tumbling with a loud noise into abysses without a
 
-      bottom. Then I came suddenly into still noonday solitudes, where
+      [[Bottom|bottom]]. Then I came suddenly into still noonday solitudes, where
 
-      no wind of heaven ever intruded, and where vast meadows of
+      no [[Wind|wind]] of heaven ever intruded, and where vast meadows of
 
-      poppies, and slender, lily-looking flowers spread themselves out
+      poppies, and slender, lily-looking [[Flowers|flowers]] spread themselves out
 
       a weary distance, all silent and motionless forever. Then again I
 
@@ -94,9 +94,9 @@ tags:
 
       dim and vague lake, with a boundary line of clouds. And out of
 
-      this melancholy water arose a forest of tall eastern trees, like
+      this [[Melancholy|melancholy]] [[Water|water]] arose a forest of tall eastern trees, like
 
-      a wilderness of dreams. And I have in mind that the shadows of
+      a wilderness of [[Dreams|dreams]]. And I have in mind that the shadows of
 
       the trees which fell upon the lake remained not on the surface
 
@@ -110,19 +110,19 @@ tags:
 
       thoughtfully, “is the very reason why the waters of this lake
 
-      grow blacker with age, and more melancholy as the hours run on.”
+      grow blacker with age, and more [[Melancholy|melancholy]] as the hours run on.”
 
       But fancies such as these were not the sole possessors of my
 
-      brain. Horrors of a nature most stern and most appalling would
+      brain. Horrors of a [[Nature|nature]] most stern and most appalling would
 
       too frequently obtrude themselves upon my mind, and shake the
 
-      innermost depths of my soul with the bare supposition of their
+      innermost depths of my [[Soul|soul]] with the bare supposition of their
 
       possibility. Yet I would not suffer my thoughts for any length of
 
-      time to dwell upon these latter speculations, rightly judging the
+      [[Time|time]] to dwell upon these latter speculations, rightly judging the
 
       real and palpable dangers of the voyage sufficient for my
 
@@ -130,7 +130,7 @@ tags:
 
 
 
-      “At five o’clock, p.m., being engaged in regenerating the
+      “At five o’[[Clock|clock]], p.m., being engaged in regenerating the
 
       atmosphere within the chamber, I took that opportunity of
 
@@ -142,13 +142,13 @@ tags:
 
       but my experiment with the kittens had resulted very strangely. I
 
-      had expected, of course, to see them betray a sense of pain,
+      had expected, of course, to see them betray a sense of [[Pain|pain]],
 
       although in a less degree than their mother, and this would have
 
       been sufficient to confirm my opinion concerning the habitual
 
-      endurance of atmospheric pressure. But I was not prepared to find
+      [[Endurance|endurance]] of atmospheric pressure. But I was not prepared to find
 
       them, upon close examination, evidently enjoying a high degree of
 
@@ -170,21 +170,21 @@ tags:
 
       strata near the earth, he might endure tortures of a similar
 
-      nature to those I had so lately experienced. It has since been to
+      [[Nature|nature]] to those I had so lately experienced. It has since been to
 
       me a matter of deep regret that an awkward accident, at this
 
-      time, occasioned me the loss of my little family of cats, and
+      [[Time|time]], occasioned me the loss of my little family of cats, and
 
       deprived me of the insight into this matter which a continued
 
       experiment might have afforded. In passing my hand through the
 
-      valve, with a cup of water for the old puss, the sleeves of my
+      valve, with a cup of [[Water|water]] for the old puss, the sleeves of my
 
       shirt became entangled in the loop which sustained the basket,
 
-      and thus, in a moment, loosened it from the bottom. Had the whole
+      and thus, in a moment, loosened it from the [[Bottom|bottom]]. Had the whole
 
       actually vanished into air, it could not have shot from my sight
 
@@ -196,4 +196,4 @@ tags:
 
       disappearance with all that it contained. My good wishes followed
 
-      it to the earth, but of course, I had no hope that either cat or
+      it to the earth, but of course, I had no [[Hope|hope]] that either cat or

@@ -58,14 +58,14 @@ Twenty years ago, it would have been atrociously antiquated to say
 that Haeckel was not really a scientist, though it is now much
 less clear that he was a scientist than that he was a monist.
 He was, anyhow, a propagandist, and a pretty unscrupulous propagandist;
-but we were all supposed to swallow what he said at once,
+but we were all supposed to [[Swallow|swallow]] what he said at once,
 because he was Science.  The new physicists are not propagandists,
 but Mr. Mencken, so far from reverencing them as Science,
 desperately refuses to respect them even as scientists.
 And he takes up this extraordinary position for no reason in the world,
 except that they will not say exactly what he tells them to say,
 in the world of morals and metaphysics.  But it is rather hard to ask
-them to drop all their scientific work for fear they should get
+them to drop all their scientific work for [[Fear|fear]] they should get
 a little ahead of Mr. Mencken.
 
 God forbid that I should blame Mr. Mencken for being a Diehard and dying
@@ -84,10 +84,10 @@ simple people, and are now being abandoned by scientific people.
 To be true to them when they lie under such a complication of disasters
 and disillusions may be admired as chivalric in the sense of quixotic;
 but Mr. Mencken would be the first to insist that it is allowable
-to smile at Don Quixote.
+to smile at [[Don Quixote]].
 
 I have so warm an admiration for Mr. Mencken as the critic of Puritan
-pride and stupidity that I regret that he should thus try to make
+[[Pride|pride]] and stupidity that I regret that he should thus try to make
 himself out a back number out of mere irreligious irritation.
 He has been the hammer of those false idealists who call themselves
 moral because they demand the Prohibition of a few hard drinks, and dare
@@ -99,7 +99,7 @@ auctioneer's hammer; nor do I demand in the present ease that it
 should tap as cautiously and scientifically as a geological hammer.
 But I do demand that it should go somewhere near hitting the right
 nail on the head, even if it be hit with all the windy violence
-of some Nietzschean imitation of the Hammer of Thor.  I do not mind
+of some Nietzschean [[Imitation|imitation]] of the Hammer of Thor.  I do not mind
 Mr. Mencken being destructive, like his master Nietzsche before him.
 What I complain of here is that he is not destructive enough.
 He not only dare not destroy, but he cannot even bear to watch the
@@ -107,7 +107,7 @@ destruction of a few blunders and blind dogmas of old Victorian science.
 The Fundamentalists are funny enough, and the funniest thing about
 them is their name.  For, whatever else the Fundamentalist is,
 he is not fundamental.  He is content with the bare letter of Scripture--
-the translation of a translation, coming down to him by the tradition
+the [[Translation|translation]] of a [[Translation|translation]], coming down to him by the tradition
 of a tradition--without venturing to ask for its original authority.
 But Mr. Mencken, in his latest phase, is almost as superficial as
 a Fundamentalist.  I should have expected a man of his intelligence

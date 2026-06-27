@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — S THE ATLANTIC NARROWING?           208"
+title: "[[WhatISawInAmerica]] — S THE ATLANTIC NARROWING?           208"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

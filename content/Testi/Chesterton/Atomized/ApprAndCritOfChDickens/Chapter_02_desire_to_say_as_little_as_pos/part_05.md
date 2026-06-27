@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 5)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -24,7 +24,7 @@ in one of his highest moments of hellish art, put into _Oliver Twist_.
 
 
 
-I take this one instance of the excellent article called "Nurse's
+I take this one instance of the excellent article called "[[Nurse]]'s
 
 Stories" because it is quite typical of all the rest. Dickens (accused
 
@@ -38,11 +38,11 @@ superficial. He judged them by whether they hit him, and not by what
 
 they were trying to hit. Thus in this book the great wizard of the
 
-Christmas ghosts seems almost the enemy of ghost stories; thus the
+Christmas [[Ghosts|ghosts]] seems almost the enemy of [[Ghost|ghost]] stories; thus the
 
-almost melodramatic moralist who created Ralph Nickleby and Jonas
+almost melodramatic moralist who created [[Ralph Nickleby]] and Jonas
 
-Chuzzlewit cannot see the point in original sin; thus the great
+Chuzzlewit cannot see the point in [[Original Sin|original sin]]; thus the great
 
 denouncer of official oppression in England may be found far too
 
@@ -90,7 +90,7 @@ by good ones. This is in some degree true even in the case of Dickens.
 
 The public continued to call him "Boz" long after the public had
 
-forgotten the _Sketches by Boz_. Numberless writers of the time speak of
+forgotten the _Sketches by Boz_. Numberless writers of the [[Time|time]] speak of
 
 "Boz" as having written _Martin Chuzzlewit_ and "Boz" as having written
 
@@ -98,13 +98,13 @@ _David Copperfield_. Yet if they had gone back to the original book
 
 signed "Boz" they might even have felt that it was vulgar and flippant.
 
-This is indeed the chief tragedy of publishers: that they may easily
+This is indeed the chief [[Tragedy|tragedy]] of publishers: that they may easily
 
 refuse at the same moment the wrong manuscript and the right man. It is
 
 easy to see of Dickens now that he was the right man; but a man might
 
-have been very well excused if he had not realised that the _Sketches_
+have been very [[Well|well]] excused if he had not realised that the _Sketches_
 
 was the right book. Dickens, I say, is a case for this primary query:
 
@@ -122,7 +122,7 @@ much more numerous than those of Dickens. Thackeray came much nearer to
 
 being the ordinary literary failure than Dickens ever came. Read some of
 
-the earliest criticisms of Mr. Yellowplush or Michael Angelo Titmarsh
+the earliest criticisms of Mr. Yellowplush or [[Michael]] [[Angelo]] Titmarsh
 
 and you will realise that at the very beginning there was more potential
 
@@ -156,11 +156,11 @@ written until thirty years hence we should all wait for it eagerly. The
 
 general impression produced by Dickens's work is the same as that
 
-produced by miraculous visions; it is the destruction of time. Thomas
+produced by miraculous visions; it is the destruction of [[Time|time]]. Thomas
 
-Aquinas said that there was no time in the sight of God; however this
+[[aquinas|Aquinas]] said that there was no [[Time|time]] in the sight of God; however this
 
-may be, there was no time in the sight of Dickens. As a general rule
+may be, there was no [[Time|time]] in the sight of Dickens. As a general rule
 
 Dickens can be read in any order; not only in any order of books, but
 
@@ -170,9 +170,9 @@ so amusing and alive that you can read the parts backwards; you can read
 
 the quarrel first and then the cause of the quarrel; you can fall in
 
-love with a woman in the tenth chapter and then turn back to the first
+[[Love|love]] with a woman in the tenth chapter and then turn back to the first
 
-chapter to find out who she is. This is not chaos; it is eternity. It
+chapter to find out who she is. This is not chaos; it is [[Eternity|eternity]]. It
 
 means merely that Dickens instinctively felt all his figures to be
 

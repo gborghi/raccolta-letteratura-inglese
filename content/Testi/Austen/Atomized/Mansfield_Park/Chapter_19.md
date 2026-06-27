@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 19"
+title: "[[Mansfield Park]] — Chapter 19"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -18,24 +18,24 @@ CHAPTER XIX
 
 
 How is the consternation of the party to be described? To the greater
-number it was a moment of absolute horror. Sir Thomas in the house! All
-felt the instantaneous conviction. Not a hope of imposition or mistake
-was harboured anywhere. Julia’s looks were an evidence of the fact that
+number it was a moment of absolute horror. Sir Thomas in the [[house]]! All
+felt the instantaneous conviction. Not a [[Hope|hope]] of imposition or mistake
+was harboured anywhere. [[Julia]]’s looks were an evidence of the fact that
 made it indisputable; and after the first starts and exclamations, not
 a word was spoken for half a minute: each with an altered countenance
 was looking at some other, and almost each was feeling it a stroke the
 most unwelcome, most ill-timed, most appalling! Mr. Yates might
 consider it only as a vexatious interruption for the evening, and Mr.
 Rushworth might imagine it a blessing; but every other heart was
-sinking under some degree of self-condemnation or undefined alarm,
+sinking under some degree of [[Self|self]]-condemnation or undefined alarm,
 every other heart was suggesting, “What will become of us? what is to
 be done now?” It was a terrible pause; and terrible to every ear were
 the corroborating sounds of opening doors and passing footsteps.
 
-Julia was the first to move and speak again. Jealousy and bitterness
+[[Julia]] was the first to move and speak again. [[Jealousy]] and bitterness
 had been suspended: selfishness was lost in the common cause; but at
 the moment of her appearance, Frederick was listening with looks of
-devotion to Agatha’s narrative, and pressing her hand to his heart; and
+devotion to [[Agatha]]’s narrative, and pressing her hand to his heart; and
 as soon as she could notice this, and see that, in spite of the shock
 of her words, he still kept his station and retained her sister’s hand,
 her wounded heart swelled again with injury, and looking as red as she
@@ -45,16 +45,16 @@ not be afraid of appearing before him.”
 Her going roused the rest; and at the same moment the two brothers
 stepped forward, feeling the necessity of doing something. A very few
 words between them were sufficient. The case admitted no difference of
-opinion: they must go to the drawing-room directly. Maria joined them
+opinion: they must go to the drawing-room directly. [[Maria]] joined them
 with the same intent, just then the stoutest of the three; for the very
-circumstance which had driven Julia away was to her the sweetest
-support. Henry Crawford’s retaining her hand at such a moment, a moment
-of such peculiar proof and importance, was worth ages of doubt and
+circumstance which had driven [[Julia]] away was to her the sweetest
+support. [[Henry Crawford]]’s retaining her hand at such a moment, a moment
+of such peculiar proof and importance, was worth ages of [[Doubt|doubt]] and
 anxiety. She hailed it as an earnest of the most serious determination,
 and was equal even to encounter her father. They walked off, utterly
 heedless of Mr. Rushworth’s repeated question of, “Shall I go too? Had
 not I better go too? Will not it be right for me to go too?” but they
-were no sooner through the door than Henry Crawford undertook to answer
+were no sooner through the door than [[Henry Crawford]] undertook to answer
 the anxious inquiry, and, encouraging him by all means to pay his
 respects to Sir Thomas without delay, sent him after the others with
 delighted haste.
@@ -63,17 +63,17 @@ Fanny was left with only the Crawfords and Mr. Yates. She had been
 quite overlooked by her cousins; and as her own opinion of her claims
 on Sir Thomas’s affection was much too humble to give her any idea of
 classing herself with his children, she was glad to remain behind and
-gain a little breathing-time. Her agitation and alarm exceeded all that
+gain a little breathing-[[Time|time]]. Her agitation and alarm exceeded all that
 was endured by the rest, by the right of a disposition which not even
-innocence could keep from suffering. She was nearly fainting: all her
+[[innocence]] could keep from [[Suffering|suffering]]. She was nearly fainting: all her
 former habitual dread of her uncle was returning, and with it
 compassion for him and for almost every one of the party on the
-development before him, with solicitude on Edmund’s account
+development before him, with solicitude on [[Edmund]]’s account
 indescribable. She had found a seat, where in excessive trembling she
 was enduring all these fearful thoughts, while the other three, no
 longer under any restraint, were giving vent to their feelings of
 vexation, lamenting over such an unlooked-for premature arrival as a
-most untoward event, and without mercy wishing poor Sir Thomas had been
+most untoward event, and without [[Mercy|mercy]] wishing poor Sir Thomas had been
 twice as long on his passage, or were still in Antigua.
 
 The Crawfords were more warm on the subject than Mr. Yates, from better
@@ -85,7 +85,7 @@ the evening, and could even suggest the possibility of the rehearsal
 being renewed after tea, when the bustle of receiving Sir Thomas were
 over, and he might be at leisure to be amused by it. The Crawfords
 laughed at the idea; and having soon agreed on the propriety of their
-walking quietly home and leaving the family to themselves, proposed Mr.
+walking quietly [[Home|home]] and leaving the family to themselves, proposed Mr.
 Yates’s accompanying them and spending the evening at the Parsonage.
 But Mr. Yates, having never been with those who thought much of
 parental claims, or family confidence, could not perceive that anything
@@ -101,7 +101,7 @@ saw them preparing to go as she quitted the room herself to perform the
 dreadful duty of appearing before her uncle.
 
 Too soon did she find herself at the drawing-room door; and after
-pausing a moment for what she knew would not come, for a courage which
+pausing a moment for what she knew would not come, for a [[Courage|courage]] which
 the outside of no door had ever supplied to her, she turned the lock in
 desperation, and the lights of the drawing-room, and all the collected
 family, were before her. As she entered, her own name caught her ear.
@@ -118,19 +118,19 @@ and looked at her again—inquired particularly after her health, and
 then, correcting himself, observed that he need not inquire, for her
 appearance spoke sufficiently on that point. A fine blush having
 succeeded the previous paleness of her face, he was justified in his
-belief of her equal improvement in health and beauty. He inquired next
+belief of her equal improvement in health and [[Beauty|beauty]]. He inquired next
 after her family, especially William: and his kindness altogether was
 such as made her reproach herself for loving him so little, and
-thinking his return a misfortune; and when, on having courage to lift
+thinking his return a misfortune; and when, on having [[Courage|courage]] to lift
 her eyes to his face, she saw that he was grown thinner, and had the
 burnt, fagged, worn look of fatigue and a hot climate, every tender
 feeling was increased, and she was miserable in considering how much
 unsuspected vexation was probably ready to burst on him.
 
 Sir Thomas was indeed the life of the party, who at his suggestion now
-seated themselves round the fire. He had the best right to be the
+seated themselves round the [[Fire|fire]]. He had the best right to be the
 talker; and the delight of his sensations in being again in his own
-house, in the centre of his family, after such a separation, made him
+[[house]], in the centre of his family, after such a separation, made him
 communicative and chatty in a very unusual degree; and he was ready to
 give every information as to his voyage, and answer every question of
 his two sons almost before it was put. His business in Antigua had
@@ -138,10 +138,10 @@ latterly been prosperously rapid, and he came directly from Liverpool,
 having had an opportunity of making his passage thither in a private
 vessel, instead of waiting for the packet; and all the little
 particulars of his proceedings and events, his arrivals and departures,
-were most promptly delivered, as he sat by Lady Bertram and looked with
+were most promptly delivered, as he sat by Lady [[Bertram]] and looked with
 heartfelt satisfaction on the faces around him—interrupting himself
 more than once, however, to remark on his good fortune in finding them
-all at home—coming unexpectedly as he did—all collected together
+all at [[Home|home]]—coming unexpectedly as he did—all collected together
 exactly as he could have wished, but dared not depend on. Mr. Rushworth
 was not forgotten: a most friendly reception and warmth of hand-shaking
 had already met him, and with pointed attention he was now included in
@@ -156,7 +156,7 @@ place her nearer agitation than she had been for the last twenty years.
 She had been _almost_ fluttered for a few minutes, and still remained
 so sensibly animated as to put away her work, move Pug from her side,
 and give all her attention and all the rest of her sofa to her husband.
-She had no anxieties for anybody to cloud _her_ pleasure: her own time
+She had no anxieties for anybody to cloud _her_ pleasure: her own [[Time|time]]
 had been irreproachably spent during his absence: she had done a great
 deal of carpet-work, and made many yards of fringe; and she would have
 answered as freely for the good conduct and useful pursuits of all the
@@ -168,21 +168,21 @@ would have been for her to bear a lengthened absence.
 
 Mrs. Norris was by no means to be compared in happiness to her sister.
 Not that _she_ was incommoded by many fears of Sir Thomas’s
-disapprobation when the present state of his house should be known, for
+disapprobation when the present state of his [[house]] should be known, for
 her judgment had been so blinded that, except by the instinctive
 caution with which she had whisked away Mr. Rushworth’s pink satin
 cloak as her brother-in-law entered, she could hardly be said to shew
 any sign of alarm; but she was vexed by the _manner_ of his return. It
 had left her nothing to do. Instead of being sent for out of the room,
 and seeing him first, and having to spread the happy news through the
-house, Sir Thomas, with a very reasonable dependence, perhaps, on the
+[[house]], Sir Thomas, with a very reasonable dependence, perhaps, on the
 nerves of his wife and children, had sought no confidant but the
 butler, and had been following him almost instantaneously into the
 drawing-room. Mrs. Norris felt herself defrauded of an office on which
-she had always depended, whether his arrival or his death were to be
+she had always depended, whether his arrival or his [[Death|death]] were to be
 the thing unfolded; and was now trying to be in a bustle without having
 anything to bustle about, and labouring to be important where nothing
-was wanted but tranquillity and silence. Would Sir Thomas have
+was wanted but tranquillity and [[Silence|silence]]. Would Sir Thomas have
 consented to eat, she might have gone to the housekeeper with
 troublesome directions, and insulted the footmen with injunctions of
 despatch; but Sir Thomas resolutely declined all dinner: he would take
@@ -197,14 +197,14 @@ Sir Thomas could not be provoked. “Still the same anxiety for
 everybody’s comfort, my dear Mrs. Norris,” was his answer. “But indeed
 I would rather have nothing but tea.”
 
-“Well, then, Lady Bertram, suppose you speak for tea directly; suppose
-you hurry Baddeley a little; he seems behindhand to-night.” She carried
+“[[Well]], then, Lady [[Bertram]], suppose you speak for tea directly; suppose
+you hurry Baddeley a little; he seems behindhand to-[[Night|night]].” She carried
 this point, and Sir Thomas’s narrative proceeded.
 
 At length there was a pause. His immediate communications were
 exhausted, and it seemed enough to be looking joyfully around him, now
 at one, now at another of the beloved circle; but the pause was not
-long: in the elation of her spirits Lady Bertram became talkative, and
+long: in the elation of her spirits Lady [[Bertram]] became talkative, and
 what were the sensations of her children upon hearing her say, “How do
 you think the young people have been amusing themselves lately, Sir
 Thomas? They have been acting. We have been all alive with acting.”
@@ -219,43 +219,43 @@ You will hear enough of it to-morrow, sir. We have just been trying, by
 way of doing something, and amusing my mother, just within the last
 week, to get up a few scenes, a mere trifle. We have had such incessant
 rains almost since October began, that we have been nearly confined to
-the house for days together. I have hardly taken out a gun since the
+the [[house]] for days together. I have hardly taken out a gun since the
 3rd. Tolerable sport the first three days, but there has been no
 attempting anything since. The first day I went over Mansfield Wood,
-and Edmund took the copses beyond Easton, and we brought home six brace
+and [[Edmund]] took the copses beyond Easton, and we brought [[Home|home]] six brace
 between us, and might each have killed six times as many, but we
-respect your pheasants, sir, I assure you, as much as you could desire.
+respect your pheasants, sir, I assure you, as much as you could [[Desire|desire]].
 I do not think you will find your woods by any means worse stocked than
 they were. _I_ never saw Mansfield Wood so full of pheasants in my life
-as this year. I hope you will take a day’s sport there yourself, sir,
+as this year. I [[Hope|hope]] you will take a day’s sport there yourself, sir,
 soon.”
 
 For the present the danger was over, and Fanny’s sick feelings
 subsided; but when tea was soon afterwards brought in, and Sir Thomas,
 getting up, said that he found that he could not be any longer in the
-house without just looking into his own dear room, every agitation was
+[[house]] without just looking into his own dear room, every agitation was
 returning. He was gone before anything had been said to prepare him for
 the change he must find there; and a pause of alarm followed his
-disappearance. Edmund was the first to speak—
+disappearance. [[Edmund]] was the first to speak—
 
 “Something must be done,” said he.
 
-“It is time to think of our visitors,” said Maria, still feeling her
-hand pressed to Henry Crawford’s heart, and caring little for anything
+“It is [[Time|time]] to think of our visitors,” said [[Maria]], still feeling her
+hand pressed to [[Henry Crawford]]’s heart, and caring little for anything
 else. “Where did you leave Miss Crawford, Fanny?”
 
 Fanny told of their departure, and delivered their message.
 
-“Then poor Yates is all alone,” cried Tom. “I will go and fetch him. He
+“Then poor Yates is all [[Alone|alone]],” cried Tom. “I will go and fetch him. He
 will be no bad assistant when it all comes out.”
 
-To the theatre he went, and reached it just in time to witness the
+To the theatre he went, and reached it just in [[Time|time]] to witness the
 first meeting of his father and his friend. Sir Thomas had been a good
 deal surprised to find candles burning in his room; and on casting his
 eye round it, to see other symptoms of recent habitation and a general
 air of confusion in the furniture. The removal of the bookcase from
 before the billiard-room door struck him especially, but he had
-scarcely more than time to feel astonished at all this, before there
+scarcely more than [[Time|time]] to feel astonished at all this, before there
 were sounds from the billiard-room to astonish him still farther. Some
 one was talking there in a very loud accent; he did not know the
 voice—more than talking—almost hallooing. He stepped to the door,
@@ -264,18 +264,18 @@ communication, and, opening it, found himself on the stage of a
 theatre, and opposed to a ranting young man, who appeared likely to
 knock him down backwards. At the very moment of Yates perceiving Sir
 Thomas, and giving perhaps the very best start he had ever given in the
-whole course of his rehearsals, Tom Bertram entered at the other end of
+whole course of his rehearsals, Tom [[Bertram]] entered at the other end of
 the room; and never had he found greater difficulty in keeping his
 countenance. His father’s looks of solemnity and amazement on this his
 first appearance on any stage, and the gradual metamorphosis of the
-impassioned Baron Wildenheim into the well-bred and easy Mr. Yates,
-making his bow and apology to Sir Thomas Bertram, was such an
+impassioned Baron Wildenheim into the [[Well|well]]-bred and easy Mr. Yates,
+making his bow and apology to [[Sir Thomas Bertram]], was such an
 exhibition, such a piece of true acting, as he would not have lost upon
 any account. It would be the last—in all probability—the last scene on
-that stage; but he was sure there could not be a finer. The house would
+that stage; but he was sure there could not be a finer. The [[house]] would
 close with the greatest eclat.
 
-There was little time, however, for the indulgence of any images of
+There was little [[Time|time]], however, for the indulgence of any images of
 merriment. It was necessary for him to step forward, too, and assist
 the introduction, and with many awkward sensations he did his best. Sir
 Thomas received Mr. Yates with all the appearance of cordiality which
@@ -284,17 +284,17 @@ the necessity of the acquaintance as with the manner of its
 commencement. Mr. Yates’s family and connexions were sufficiently known
 to him to render his introduction as the “particular friend,” another
 of the hundred particular friends of his son, exceedingly unwelcome;
-and it needed all the felicity of being again at home, and all the
+and it needed all the felicity of being again at [[Home|home]], and all the
 forbearance it could supply, to save Sir Thomas from anger on finding
-himself thus bewildered in his own house, making part of a ridiculous
+himself thus bewildered in his own [[house]], making part of a ridiculous
 exhibition in the midst of theatrical nonsense, and forced in so
 untoward a moment to admit the acquaintance of a young man whom he felt
 sure of disapproving, and whose easy indifference and volubility in the
-course of the first five minutes seemed to mark him the most at home of
+course of the first five minutes seemed to mark him the most at [[Home|home]] of
 the two.
 
 Tom understood his father’s thoughts, and heartily wishing he might be
-always as well disposed to give them but partial expression, began to
+always as [[Well|well]] disposed to give them but partial expression, began to
 see, more clearly than he had ever done before, that there might be
 some ground of offence, that there might be some reason for the glance
 his father gave towards the ceiling and stucco of the room; and that
@@ -319,7 +319,7 @@ catch Sir Thomas’s meaning, or diffidence, or delicacy, or discretion
 enough to allow him to lead the discourse while he mingled among the
 others with the least obtrusiveness himself, would keep him on the
 topic of the theatre, would torment him with questions and remarks
-relative to it, and finally would make him hear the whole history of
+relative to it, and finally would make him hear the whole [[history]] of
 his disappointment at Ecclesford. Sir Thomas listened most politely,
 but found much to offend his ideas of decorum, and confirm his
 ill-opinion of Mr. Yates’s habits of thinking, from the beginning to
@@ -342,42 +342,42 @@ as they sat, the change of countenance, the fidget, the hem! of
 unquietness, but prevented him even from seeing the expression of the
 face on which his own eyes were fixed—from seeing Sir Thomas’s dark
 brow contract as he looked with inquiring earnestness at his daughters
-and Edmund, dwelling particularly on the latter, and speaking a
+and [[Edmund]], dwelling particularly on the latter, and speaking a
 language, a remonstrance, a reproof, which _he_ felt at his heart. Not
 less acutely was it felt by Fanny, who had edged back her chair behind
 her aunt’s end of the sofa, and, screened from notice herself, saw all
-that was passing before her. Such a look of reproach at Edmund from his
+that was passing before her. Such a look of reproach at [[Edmund]] from his
 father she could never have expected to witness; and to feel that it
 was in any degree deserved was an aggravation indeed. Sir Thomas’s look
-implied, “On your judgment, Edmund, I depended; what have you been
+implied, “On your judgment, [[Edmund]], I depended; what have you been
 about?” She knelt in spirit to her uncle, and her bosom swelled to
 utter, “Oh, not to _him_! Look so to all the others, but not to _him_!”
 
-Mr. Yates was still talking. “To own the truth, Sir Thomas, we were in
+Mr. Yates was still talking. “To own the [[Truth|truth]], Sir Thomas, we were in
 the middle of a rehearsal when you arrived this evening. We were going
 through the three first acts, and not unsuccessfully upon the whole.
-Our company is now so dispersed, from the Crawfords being gone home,
-that nothing more can be done to-night; but if you will give us the
-honour of your company to-morrow evening, I should not be afraid of the
+Our company is now so dispersed, from the Crawfords being gone [[Home|home]],
+that nothing more can be done to-[[Night|night]]; but if you will give us the
+[[Honour|honour]] of your company to-morrow evening, I should not be afraid of the
 result. We bespeak your indulgence, you understand, as young
 performers; we bespeak your indulgence.”
 
 “My indulgence shall be given, sir,” replied Sir Thomas gravely, “but
 without any other rehearsal.” And with a relenting smile, he added, “I
-come home to be happy and indulgent.” Then turning away towards any or
+come [[Home|home]] to be happy and indulgent.” Then turning away towards any or
 all of the rest, he tranquilly said, “Mr. and Miss Crawford were
 mentioned in my last letters from Mansfield. Do you find them agreeable
 acquaintance?”
 
 Tom was the only one at all ready with an answer, but he being entirely
-without particular regard for either, without jealousy either in love
+without particular regard for either, without [[Jealousy|jealousy]] either in [[Love|love]]
 or acting, could speak very handsomely of both. “Mr. Crawford was a
 most pleasant, gentleman-like man; his sister a sweet, pretty, elegant,
 lively girl.”
 
 Mr. Rushworth could be silent no longer. “I do not say he is not
 gentleman-like, considering; but you should tell your father he is not
-above five feet eight, or he will be expecting a well-looking man.”
+above five feet eight, or he will be expecting a [[Well|well]]-looking man.”
 
 Sir Thomas did not quite understand this, and looked with some surprise
 at the speaker.
@@ -393,15 +393,15 @@ am happy to find our sentiments on this subject so much the same. It
 gives me sincere satisfaction. That I should be cautious and
 quick-sighted, and feel many scruples which my children do _not_ feel,
 is perfectly natural; and equally so that my value for domestic
-tranquillity, for a home which shuts out noisy pleasures, should much
-exceed theirs. But at your time of life to feel all this, is a most
+tranquillity, for a [[Home|home]] which shuts out noisy pleasures, should much
+exceed theirs. But at your [[Time|time]] of life to feel all this, is a most
 favourable circumstance for yourself, and for everybody connected with
 you; and I am sensible of the importance of having an ally of such
 weight.”
 
 Sir Thomas meant to be giving Mr. Rushworth’s opinion in better words
 than he could find himself. He was aware that he must not expect a
-genius in Mr. Rushworth; but as a well-judging, steady young man, with
+genius in Mr. Rushworth; but as a [[Well|well]]-judging, steady young man, with
 better notions than his elocution would do justice to, he intended to
 value him very highly. It was impossible for many of the others not to
 smile. Mr. Rushworth hardly knew what to do with so much meaning; but

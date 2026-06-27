@@ -31,30 +31,30 @@ acrimony and contempt.
 
 Mr. Bounderby, having got it into his explosive composition that Mrs.
 Sparsit was a highly superior woman to perceive that he had that general
-cross upon him in his deserts (for he had not yet settled what it was),
+[[Cross|cross]] upon him in his deserts (for he had not yet settled what it was),
 and further that Louisa would have objected to her as a frequent visitor
-if it had comported with his greatness that she should object to anything
+if it had comported with his [[Greatness|greatness]] that she should object to anything
 he chose to do, resolved not to lose sight of Mrs. Sparsit easily.  So
 when her nerves were strung up to the pitch of again consuming
-sweetbreads in solitude, he said to her at the dinner-table, on the day
+sweetbreads in [[Solitude|solitude]], he said to her at the dinner-table, on the day
 before her departure, ‘I tell you what, ma’am; you shall come down here
 of a Saturday, while the fine weather lasts, and stay till Monday.’  To
 which Mrs. Sparsit returned, in effect, though not of the Mahomedan
-persuasion: ‘To hear is to obey.’
+[[Persuasion|persuasion]]: ‘To hear is to obey.’
 
 Now, Mrs. Sparsit was not a poetical woman; but she took an idea in the
-nature of an allegorical fancy, into her head.  Much watching of Louisa,
+[[Nature|nature]] of an allegorical fancy, into her head.  Much watching of Louisa,
 and much consequent observation of her impenetrable demeanour, which
 keenly whetted and sharpened Mrs. Sparsit’s edge, must have given her as
 it were a lift, in the way of inspiration.  She erected in her mind a
-mighty Staircase, with a dark pit of shame and ruin at the bottom; and
+mighty Staircase, with a dark pit of shame and ruin at the [[Bottom|bottom]]; and
 down those stairs, from day to day and hour to hour, she saw Louisa
 coming.
 
 It became the business of Mrs. Sparsit’s life, to look up at her
 staircase, and to watch Louisa coming down.  Sometimes slowly, sometimes
 quickly, sometimes several steps at one bout, sometimes stopping, never
-turning back.  If she had once turned back, it might have been the death
+turning back.  If she had once turned back, it might have been the [[Death|death]]
 of Mrs. Sparsit in spleen and grief.
 
 She had been descending steadily, to the day, and on the day, when Mr.
@@ -63,7 +63,7 @@ in good spirits, and inclined to be conversational.
 
 ‘And pray, sir,’ said she, ‘if I may venture to ask a question
 appertaining to any subject on which you show reserve—which is indeed
-hardy in me, for I well know you have a reason for everything you do—have
+hardy in me, for I [[Well|well]] know you have a reason for everything you do—have
 you received intelligence respecting the robbery?’
 
 ‘Why, ma’am, no; not yet.  Under the circumstances, I didn’t expect it
@@ -73,13 +73,13 @@ yet.  Rome wasn’t built in a day, ma’am.’
 
 ‘Nor yet in a week, ma’am.’
 
-‘No, indeed, sir,’ returned Mrs. Sparsit, with a gentle melancholy upon
+‘No, indeed, sir,’ returned Mrs. Sparsit, with a gentle [[Melancholy|melancholy]] upon
 her.
 
 ‘In a similar manner, ma’am,’ said Bounderby, ‘I can wait, you know.  If
-Romulus and Remus could wait, Josiah Bounderby can wait.  They were
+Romulus and Remus could wait, [[Josiah Bounderby]] can wait.  They were
 better off in their youth than I was, however.  They had a she-wolf for a
-nurse; I had only a she-wolf for a grandmother.  She didn’t give any
+[[Nurse|nurse]]; I had only a she-wolf for a grandmother.  She didn’t give any
 milk, ma’am; she gave bruises.  She was a regular Alderney at that.’
 
 ‘Ah!’ Mrs. Sparsit sighed and shuddered.
@@ -88,7 +88,7 @@ milk, ma’am; she gave bruises.  She was a regular Alderney at that.’
 it.  It’s in hand, though; and young Tom, who rather sticks to business
 at present—something new for him; he hadn’t the schooling _I_ had—is
 helping.  My injunction is, Keep it quiet, and let it seem to blow over.
-Do what you like under the rose, but don’t give a sign of what you’re
+Do what you like under the [[Rose|rose]], but don’t give a sign of what you’re
 about; or half a hundred of ’em will combine together and get this fellow
 who has bolted, out of reach for good.  Keep it quiet, and the thieves
 will grow in confidence by little and little, and we shall have ’em.’
@@ -99,14 +99,14 @@ old woman you mentioned, sir—’
 ‘The old woman I mentioned, ma’am,’ said Bounderby, cutting the matter
 short, as it was nothing to boast about, ‘is not laid hold of; but, she
 may take her oath she will be, if that is any satisfaction to her
-villainous old mind.  In the mean time, ma’am, I am of opinion, if you
+villainous old mind.  In the mean [[Time|time]], ma’am, I am of opinion, if you
 ask me my opinion, that the less she is talked about, the better.’
 
-The same evening, Mrs. Sparsit, in her chamber window, resting from her
+The same evening, Mrs. Sparsit, in her chamber [[Window|window]], resting from her
 packing operations, looked towards her great staircase and saw Louisa
 still descending.
 
-She sat by Mr. Harthouse, in an alcove in the garden, talking very low;
+She sat by Mr. Harthouse, in an alcove in the [[Garden|garden]], talking very low;
 he stood leaning over her, as they whispered together, and his face
 almost touched her hair.  ‘If not quite!’ said Mrs. Sparsit, straining
 her hawk’s eyes to the utmost.  Mrs. Sparsit was too distant to hear a
@@ -123,7 +123,7 @@ was this:
 ‘Perfectly.  And an infinitely dreary person he appeared to me to be.
 Lengthy and prosy in the extreme.  It was knowing to hold forth, in the
 humble-virtue school of eloquence; but, I assure you I thought at the
-time, “My good fellow, you are over-doing this!”’
+[[Time|time]], “My good fellow, you are over-doing this!”’
 
 ‘It has been very difficult to me to think ill of that man.’
 
@@ -141,15 +141,15 @@ had lately seen, ‘when I know nothing of them, men or women?’
 your devoted friend, who knows something of several varieties of his
 excellent fellow-creatures—for excellent they are, I am quite ready to
 believe, in spite of such little foibles as always helping themselves to
-what they can get hold of.  This fellow talks.  Well; every fellow talks.
-He professes morality.  Well; all sorts of humbugs profess morality.
-From the House of Commons to the House of Correction, there is a general
-profession of morality, except among our people; it really is that
+what they can get hold of.  This fellow talks.  [[Well]]; every fellow talks.
+He professes [[morality]].  [[Well]]; all sorts of humbugs profess [[morality]].
+From the [[house|House]] of Commons to the [[house|House]] of Correction, there is a general
+profession of [[morality]], except among our people; it really is that
 exception which makes our people quite reviving.  You saw and heard the
 case.  Here was one of the fluffy classes pulled up extremely short by my
 esteemed friend Mr. Bounderby—who, as we know, is not possessed of that
 delicacy which would soften so tight a hand.  The member of the fluffy
-classes was injured, exasperated, left the house grumbling, met somebody
+classes was injured, exasperated, left the [[house]] grumbling, met somebody
 who proposed to him to go in for some share in this Bank business, went
 in, put something in his pocket which had nothing in it before, and
 relieved his mind extremely.  Really he would have been an uncommon,
@@ -170,19 +170,19 @@ They strolled away, among the lanes beginning to be indistinct in the
 twilight—she leaning on his arm—and she little thought how she was going
 down, down, down, Mrs. Sparsit’s staircase.
 
-Night and day, Mrs. Sparsit kept it standing.  When Louisa had arrived at
-the bottom and disappeared in the gulf, it might fall in upon her if it
+[[Night]] and day, Mrs. Sparsit kept it standing.  When Louisa had arrived at
+the [[Bottom|bottom]] and disappeared in the gulf, it might fall in upon her if it
 would; but, until then, there it was to be, a Building, before Mrs.
 Sparsit’s eyes.  And there Louisa always was, upon it.
 
 And always gliding down, down, down!
 
-Mrs. Sparsit saw James Harthouse come and go; she heard of him here and
+Mrs. Sparsit saw [[James Harthouse]] come and go; she heard of him here and
 there; she saw the changes of the face he had studied; she, too, remarked
 to a nicety how and when it clouded, how and when it cleared; she kept
 her black eyes wide open, with no touch of pity, with no touch of
 compunction, all absorbed in interest.  In the interest of seeing her,
-ever drawing, with no hand to stay her, nearer and nearer to the bottom
+ever drawing, with no hand to stay her, nearer and nearer to the [[Bottom|bottom]]
 of this new Giant’s Staircase.
 
 With all her deference for Mr. Bounderby as contradistinguished from his

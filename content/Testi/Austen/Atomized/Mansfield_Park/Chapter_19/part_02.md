@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 19 (part 2)"
+title: "[[Mansfield Park]] — Chapter 19 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -15,9 +15,9 @@ tags:
 
 
 Sir Thomas was indeed the life of the party, who at his suggestion now
-seated themselves round the fire. He had the best right to be the
+seated themselves round the [[Fire|fire]]. He had the best right to be the
 talker; and the delight of his sensations in being again in his own
-house, in the centre of his family, after such a separation, made him
+[[house]], in the centre of his family, after such a separation, made him
 communicative and chatty in a very unusual degree; and he was ready to
 give every information as to his voyage, and answer every question of
 his two sons almost before it was put. His business in Antigua had
@@ -25,10 +25,10 @@ latterly been prosperously rapid, and he came directly from Liverpool,
 having had an opportunity of making his passage thither in a private
 vessel, instead of waiting for the packet; and all the little
 particulars of his proceedings and events, his arrivals and departures,
-were most promptly delivered, as he sat by Lady Bertram and looked with
+were most promptly delivered, as he sat by Lady [[Bertram]] and looked with
 heartfelt satisfaction on the faces around him—interrupting himself
 more than once, however, to remark on his good fortune in finding them
-all at home—coming unexpectedly as he did—all collected together
+all at [[Home|home]]—coming unexpectedly as he did—all collected together
 exactly as he could have wished, but dared not depend on. Mr. Rushworth
 was not forgotten: a most friendly reception and warmth of hand-shaking
 had already met him, and with pointed attention he was now included in
@@ -43,7 +43,7 @@ place her nearer agitation than she had been for the last twenty years.
 She had been _almost_ fluttered for a few minutes, and still remained
 so sensibly animated as to put away her work, move Pug from her side,
 and give all her attention and all the rest of her sofa to her husband.
-She had no anxieties for anybody to cloud _her_ pleasure: her own time
+She had no anxieties for anybody to cloud _her_ pleasure: her own [[Time|time]]
 had been irreproachably spent during his absence: she had done a great
 deal of carpet-work, and made many yards of fringe; and she would have
 answered as freely for the good conduct and useful pursuits of all the
@@ -55,21 +55,21 @@ would have been for her to bear a lengthened absence.
 
 Mrs. Norris was by no means to be compared in happiness to her sister.
 Not that _she_ was incommoded by many fears of Sir Thomas’s
-disapprobation when the present state of his house should be known, for
+disapprobation when the present state of his [[house]] should be known, for
 her judgment had been so blinded that, except by the instinctive
 caution with which she had whisked away Mr. Rushworth’s pink satin
 cloak as her brother-in-law entered, she could hardly be said to shew
 any sign of alarm; but she was vexed by the _manner_ of his return. It
 had left her nothing to do. Instead of being sent for out of the room,
 and seeing him first, and having to spread the happy news through the
-house, Sir Thomas, with a very reasonable dependence, perhaps, on the
+[[house]], Sir Thomas, with a very reasonable dependence, perhaps, on the
 nerves of his wife and children, had sought no confidant but the
 butler, and had been following him almost instantaneously into the
 drawing-room. Mrs. Norris felt herself defrauded of an office on which
-she had always depended, whether his arrival or his death were to be
+she had always depended, whether his arrival or his [[Death|death]] were to be
 the thing unfolded; and was now trying to be in a bustle without having
 anything to bustle about, and labouring to be important where nothing
-was wanted but tranquillity and silence. Would Sir Thomas have
+was wanted but tranquillity and [[Silence|silence]]. Would Sir Thomas have
 consented to eat, she might have gone to the housekeeper with
 troublesome directions, and insulted the footmen with injunctions of
 despatch; but Sir Thomas resolutely declined all dinner: he would take
@@ -84,14 +84,14 @@ Sir Thomas could not be provoked. “Still the same anxiety for
 everybody’s comfort, my dear Mrs. Norris,” was his answer. “But indeed
 I would rather have nothing but tea.”
 
-“Well, then, Lady Bertram, suppose you speak for tea directly; suppose
-you hurry Baddeley a little; he seems behindhand to-night.” She carried
+“[[Well]], then, Lady [[Bertram]], suppose you speak for tea directly; suppose
+you hurry Baddeley a little; he seems behindhand to-[[Night|night]].” She carried
 this point, and Sir Thomas’s narrative proceeded.
 
 At length there was a pause. His immediate communications were
 exhausted, and it seemed enough to be looking joyfully around him, now
 at one, now at another of the beloved circle; but the pause was not
-long: in the elation of her spirits Lady Bertram became talkative, and
+long: in the elation of her spirits Lady [[Bertram]] became talkative, and
 what were the sensations of her children upon hearing her say, “How do
 you think the young people have been amusing themselves lately, Sir
 Thomas? They have been acting. We have been all alive with acting.”
@@ -106,13 +106,13 @@ You will hear enough of it to-morrow, sir. We have just been trying, by
 way of doing something, and amusing my mother, just within the last
 week, to get up a few scenes, a mere trifle. We have had such incessant
 rains almost since October began, that we have been nearly confined to
-the house for days together. I have hardly taken out a gun since the
+the [[house]] for days together. I have hardly taken out a gun since the
 3rd. Tolerable sport the first three days, but there has been no
 attempting anything since. The first day I went over Mansfield Wood,
-and Edmund took the copses beyond Easton, and we brought home six brace
+and [[Edmund]] took the copses beyond Easton, and we brought [[Home|home]] six brace
 between us, and might each have killed six times as many, but we
-respect your pheasants, sir, I assure you, as much as you could desire.
+respect your pheasants, sir, I assure you, as much as you could [[Desire|desire]].
 I do not think you will find your woods by any means worse stocked than
 they were. _I_ never saw Mansfield Wood so full of pheasants in my life
-as this year. I hope you will take a day’s sport there yourself, sir,
+as this year. I [[Hope|hope]] you will take a day’s sport there yourself, sir,
 soon.”

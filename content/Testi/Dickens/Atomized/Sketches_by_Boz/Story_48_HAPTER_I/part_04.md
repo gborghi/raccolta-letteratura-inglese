@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-As the ice was now broken, and the new inmates more at home, every
+As the ice was now broken, and the new inmates more at [[Home|home]], every
 member of the company felt more at ease. Tibbs himself most certainly
-did, because he went to sleep immediately after dinner. Mr. Hicks and
+did, because he went to [[Sleep|sleep]] immediately after dinner. Mr. Hicks and
 the ladies discoursed most eloquently about poetry, and the theatres,
 and Lord Chesterfield’s Letters; and Mr. Calton followed up what
-everybody said, with continuous double knocks. Mrs. Tibbs highly
+everybody said, with continuous [[Double|double]] knocks. Mrs. Tibbs highly
 approved of every observation that fell from Mrs. Maplesone; and as Mr.
 Simpson sat with a smile upon his face and said ‘Yes,’ or ‘Certainly,’
 at intervals of about four minutes each, he received full credit for
@@ -33,13 +33,13 @@ put on a pink waistcoat, and said he was in raptures; and Mr. Hicks
 felt in the seventh heaven of poetry or the seventh canto of Don
 Juan—it was the same thing to him. Mrs. Tibbs was quite charmed with
 the newcomers; and Mr. Tibbs spent the evening in his usual way—he went
-to sleep, and woke up, and went to sleep again, and woke at
-supper-time.
+to [[Sleep|sleep]], and woke up, and went to [[Sleep|sleep]] again, and woke at
+supper-[[Time|time]].
 
 * * * * *
 
 
-We are not about to adopt the licence of novel-writers, and to let
+We are not about to adopt the licence of [[Novel|novel]]-writers, and to let
 ‘years roll on;’ but we will take the liberty of requesting the reader
 to suppose that six months have elapsed, since the dinner we have
 described, and that Mrs. Tibbs’s boarders have, during that period,
@@ -59,14 +59,14 @@ hospitals, as he put on a bed-furniture-looking dressing-gown.
 rather rum, as it might be.’
 
 ‘Ah, that’s no proof of his being ill,’ returned Hicks, unconsciously.
-‘Very well: I’ll be down directly.’ Downstairs ran the boy with the
+‘Very [[Well|well]]: I’ll be down directly.’ Downstairs ran the boy with the
 message, and down went the excited Hicks himself, almost as soon as the
 message was delivered. ‘Tap, tap.’ ‘Come in.’—Door opens, and discovers
 Mr. Calton sitting in an easy chair. Mutual shakes of the hand
 exchanged, and Mr. Septimus Hicks motioned to a seat. A short pause.
 Mr. Hicks coughed, and Mr. Calton took a pinch of snuff. It was one of
 those interviews where neither party knows what to say. Mr. Septimus
-Hicks broke silence.
+Hicks broke [[Silence|silence]].
 
 ‘I received a note—’ he said, very tremulously, in a voice like a Punch
 with a cold.
@@ -82,17 +82,17 @@ felt there was something more important to be said; therefore they did
 as most men in such a situation would have done—they looked at the
 table with a determined aspect. The conversation had been opened,
 however, and Mr. Calton had made up his mind to continue it with a
-regular double knock. He always spoke very pompously.
+regular [[Double|double]] knock. He always spoke very pompously.
 
 ‘Hicks,’ said he, ‘I have sent for you, in consequence of certain
-arrangements which are pending in this house, connected with a
-marriage.’
+arrangements which are pending in this [[house]], connected with a
+[[Marriage|marriage]].’
 
-‘With a marriage!’ gasped Hicks, compared with whose expression of
-countenance, Hamlet’s, when he sees his father’s ghost, is pleasing and
+‘With a [[Marriage|marriage]]!’ gasped Hicks, compared with whose expression of
+countenance, [[Hamlet]]’s, when he sees his father’s [[Ghost|ghost]], is pleasing and
 composed.
 
-‘With a marriage,’ returned the knocker. ‘I have sent for you to prove
+‘With a [[Marriage|marriage]],’ returned the knocker. ‘I have sent for you to prove
 the great confidence I can repose in you.’
 
 ‘And will you betray me?’ eagerly inquired Hicks, who in his alarm had
@@ -103,10 +103,10 @@ even forgotten to quote.
 ‘Never: no one shall know, to my dying day, that you had a hand in the
 business,’ responded the agitated Hicks, with an inflamed countenance,
 and his hair standing on end as if he were on the stool of an
-electrifying machine in full operation.
+electrifying [[Machine|machine]] in full operation.
 
-‘People must know that, some time or other—within a year, I imagine,’
-said Mr. Calton, with an air of great self-complacency. ‘We _may_ have
+‘People must know that, some [[Time|time]] or other—within a year, I imagine,’
+said Mr. Calton, with an air of great [[Self|self]]-complacency. ‘We _may_ have
 a family.’
 
 ‘_We_!—That won’t affect you, surely?’
@@ -118,7 +118,7 @@ inwrapped in the contemplation of his happiness to see the equivoque
 between Hicks and himself; and threw himself back in his chair. ‘Oh,
 Matilda!’ sighed the antique beau, in a lack-a-daisical voice, and
 applying his right hand a little to the left of the fourth button of
-his waistcoat, counting from the bottom. ‘Oh, Matilda!’
+his waistcoat, counting from the [[Bottom|bottom]]. ‘Oh, Matilda!’
 
 ‘What Matilda?’ inquired Hicks, starting up.
 
@@ -154,5 +154,5 @@ know whether you’d oblige me by acting as father.’
 ‘I should have been most happy, I assure you,’ said Hicks, in a tone of
 condolence; ‘but, you see, I shall be acting as bridegroom. One
 character is frequently a consequence of the other; but it is not usual
-to act in both at the same time. There’s Simpson—I have no doubt he’ll
+to act in both at the same [[Time|time]]. There’s Simpson—I have no [[Doubt|doubt]] he’ll
 do it for you.’

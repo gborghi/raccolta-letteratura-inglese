@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 9"
+title: "[[Agnes Grey]] — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -25,17 +25,17 @@ I’ll tell you all about the ball.”
 
 “No—damn it, no!” shouted Miss Matilda. “Hold your tongue, can’t ye?
 and let me tell her about my new mare—_such_ a splendour, Miss Grey! a
-fine blood mare—”
+fine [[Blood|blood]] mare—”
 
 “Do be quiet, Matilda; and let me tell my news first.”
 
-“No, no, Rosalie; you’ll be such a damned long time over it—she shall
+“No, no, Rosalie; you’ll be such a damned long [[Time|time]] over it—she shall
 hear me first—I’ll be hanged if she doesn’t!”
 
 “I’m sorry to hear, Miss Matilda, that you’ve not got rid of that
 shocking habit yet.”
 
-“Well, I can’t help it: but I’ll never say a wicked word again, if
+“[[Well]], I can’t help it: but I’ll never say a wicked word again, if
 you’ll only listen to me, and tell Rosalie to hold her confounded
 tongue.”
 
@@ -44,20 +44,20 @@ between them; but Miss Matilda having the loudest voice, her sister at
 length gave in, and suffered her to tell her story first: so I was
 doomed to hear a long account of her splendid mare, its breeding and
 pedigree, its paces, its action, its spirit, &c., and of her own
-amazing skill and courage in riding it; concluding with an assertion
+amazing skill and [[Courage|courage]] in riding it; concluding with an assertion
 that she could clear a five-barred gate “like winking,” that papa said
-she might hunt the next time the hounds met, and mamma had ordered a
+she might hunt the next [[Time|time]] the hounds met, and mamma had ordered a
 bright scarlet hunting-habit for her.
 
 “Oh, Matilda! what stories you are telling!” exclaimed her sister.
 
-“Well,” answered she, no whit abashed, “I know I _could_ clear a
+“[[Well]],” answered she, no whit abashed, “I know I _could_ clear a
 five-barred gate, if I tried, and papa _will_ say I may hunt, and mamma
 _will_ order the habit when I ask it.”
 
-“Well, now get along,” replied Miss Murray; “and do, dear Matilda, try
+“[[Well]], now get along,” replied Miss Murray; “and do, dear Matilda, try
 to be a little more lady-like. Miss Grey, I wish you would tell her not
-to use such shocking words; she will call her horse a mare: it is so
+to use such shocking words; she will call her [[Horse|horse]] a mare: it is so
 inconceivably shocking! and then she uses such dreadful expressions in
 describing it: she must have learned it from the grooms. It nearly puts
 me into fits when she begins.”
@@ -67,7 +67,7 @@ young lady, vigorously cracking a hunting-whip, which she habitually
 carried in her hand. “I’m as good judge of horseflesh as the best of
 ’m.”
 
-“Well, now get along, you shocking girl! I really shall take a fit if
+“[[Well]], now get along, you shocking girl! I really shall take a fit if
 you go on in such a way. And now, Miss Grey, attend to me; I’m going to
 tell you about the ball. You must be dying to hear about it, I know.
 Oh, _such_ a ball! You never saw or heard, or read, or dreamt of
@@ -75,7 +75,7 @@ anything like it in all your life. The decorations, the entertainment,
 the supper, the music were indescribable! and then the guests! There
 were two noblemen, three baronets, and five titled ladies, and other
 ladies and gentlemen innumerable. The ladies, of course, were of no
-consequence to me, except to put me in a good humour with myself, by
+consequence to me, except to put me in a good [[Humour|humour]] with myself, by
 showing how ugly and awkward most of them were; and the best, mamma
 told me,—the most transcendent beauties among them, were nothing to me.
 As for me, Miss Grey—I’m so _sorry_ you didn’t see me! I was
@@ -85,7 +85,7 @@ _charming_—wasn’t I, Matilda?”
 
 “No, but I really was—at least so mamma said—and Brown and Williamson.
 Brown said she was sure no gentleman could set eyes on me without
-falling in love that minute; and so I may be allowed to be a little
+falling in [[Love|love]] that minute; and so I may be allowed to be a little
 vain. I know you think me a shocking, conceited, frivolous girl; but
 then, you know, I don’t attribute it _all_ to my personal attractions:
 I give some praise to the hairdresser, and some to my exquisitely
@@ -93,37 +93,37 @@ lovely dress—you must see it to-morrow—white gauze over pink satin—and
 so _sweetly_ made! and a necklace and bracelet of beautiful, large
 pearls!”
 
-“I have no doubt you looked very charming: but should that delight you
+“I have no [[Doubt|doubt]] you looked very charming: but should that delight you
 so very much?”
 
-“Oh, no!—not that alone: but, then, I was so much admired; and I made
-so _many_ conquests in that one night—you’d be astonished to hear—”
+“Oh, no!—not that [[Alone|alone]]: but, then, I was so much admired; and I made
+so _many_ conquests in that one [[Night|night]]—you’d be astonished to hear—”
 
 “But what good will they do you?”
 
 “What good! Think of any woman asking that!”
 
-“Well, I should think one conquest would be enough; and too much,
+“[[Well]], I should think one conquest would be enough; and too much,
 unless the subjugation were mutual.”
 
 “Oh, but you know I never agree with you on those points. Now, wait a
 bit, and I’ll tell you my principal admirers—those who made themselves
-very conspicuous that night and after: for I’ve been to two parties
+very conspicuous that [[Night|night]] and after: for I’ve been to two parties
 since. Unfortunately the two noblemen, Lord G—— and Lord F——, were
 married, or I might have condescended to be particularly gracious to
 _them_; as it was, I did not: though Lord F——, who hates his wife, was
-evidently much struck with me. He asked me to dance with him twice—he
-is a charming dancer, by-the-by, and so am I: you can’t think how well
+evidently much struck with me. He asked me to [[Dance|dance]] with him twice—he
+is a charming dancer, by-the-by, and so am I: you can’t think how [[Well|well]]
 I did—I was astonished at myself. My lord was very complimentary
 too—rather too much so in fact—and I thought proper to be a little
 haughty and repellent; but I had the pleasure of seeing his nasty,
-cross wife ready to perish with spite and vexation—”
+[[Cross|cross]] wife ready to perish with spite and vexation—”
 
 “Oh, Miss Murray! you don’t mean to say that such a thing could really
-give you pleasure? However cross or—”
+give you pleasure? However [[Cross|cross]] or—”
 
-“Well, I know it’s very wrong;—but never mind! I mean to be good some
-time—only don’t preach now, there’s a good creature. I haven’t told you
+“[[Well]], I know it’s very wrong;—but never mind! I mean to be good some
+[[Time|time]]—only don’t preach now, there’s a good creature. I haven’t told you
 half yet. Let me see. Oh! I was going to tell you how many
 unmistakeable admirers I had:—Sir Thomas Ashby was one,—Sir Hugh
 Meltham and Sir Broadley Wilson are old codgers, only fit companions
@@ -134,8 +134,8 @@ younger son; rather good-looking, and a pleasant fellow to flirt with:
 but _being_ a younger son, that is all he is good for; then there was
 young Mr. Green, rich enough, but of no family, and a great stupid
 fellow, a mere country booby! and then, our good rector, Mr. Hatfield:
-an _humble_ admirer he ought to consider himself; but I fear he has
-forgotten to number humility among his stock of Christian virtues.”
+an _humble_ admirer he ought to consider himself; but I [[Fear|fear]] he has
+forgotten to number [[Humility|humility]] among his stock of Christian virtues.”
 
 “Was Mr. Hatfield at the ball?”
 
@@ -161,7 +161,7 @@ and further particulars respecting Sir Thomas Ashby and Messrs.
 Meltham, Green, and Hatfield, and the ineffaceable impression she had
 wrought upon each of them.
 
-“Well, which of the four do you like best?” said I, suppressing my
+“[[Well]], which of the four do you like best?” said I, suppressing my
 third or fourth yawn.
 
 “I detest them all!” replied she, shaking her bright ringlets in
@@ -186,6 +186,6 @@ conquests, to break all their hearts save one, by marrying some
 high-born, rich, indulgent husband, whom, on the other hand, fifty
 ladies were dying to have.”
 
-“Well, as long as you entertain these views, keep single by all means,
+“[[Well]], as long as you entertain these views, keep single by all means,
 and never marry at all: not even to escape the infamy of
 old-maidenhood.”

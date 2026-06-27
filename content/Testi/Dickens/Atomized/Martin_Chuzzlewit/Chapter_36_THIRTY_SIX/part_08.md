@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-Before he had well begun to cool, his sister joined him. She was crying;
-and Tom could not bear that any one about the house should see her doing
+Before he had [[Well|well]] begun to cool, his sister joined him. She was crying;
+and Tom could not bear that any one about the [[house]] should see her doing
 that.
 
 ‘They will think you are sorry to go,’ said Tom. ‘You are not sorry to
 go?’
 
-‘No, Tom, no. I have been anxious to go for a very long time.’
+‘No, Tom, no. I have been anxious to go for a very long [[Time|time]].’
 
-‘Very well, then! Don’t cry!’ said Tom.
+‘Very [[Well|well]], then! Don’t cry!’ said Tom.
 
 ‘I am so sorry for YOU, dear,’ sobbed Tom’s sister.
 
@@ -58,10 +58,10 @@ one was a young lady; for he knew that would make her uncomfortable,
 and would cause her to regard herself as being an inconvenience to him.
 Neither did he like to leave her anywhere while he called on John, and
 told him of this change in his arrangements; for he was delicate of
-seeming to encroach upon the generous and hospitable nature of his
+seeming to encroach upon the generous and hospitable [[Nature|nature]] of his
 friend. Therefore he said again, ‘We must have some lodgings, of
 course;’ and said it as stoutly as if he had been a perfect Directory
-and Guide-Book to all the lodgings in London.
+and Guide-Book to all the lodgings in [[London]].
 
 ‘Where shall we go and look for ‘em?’ said Tom. ‘What do you think?’
 
@@ -71,16 +71,16 @@ hand with which she did so on the other little hand with which she
 clasped his arm, said nothing.
 
 ‘It ought to be a cheap neighbourhood,’ said Tom, ‘and not too far from
-London. Let me see. Should you think Islington a good place?’
+[[London]]. Let me see. Should you think Islington a good place?’
 
 ‘I should think it was an excellent place, Tom.’
 
-‘It used to be called Merry Islington, once upon a time,’ said Tom.
+‘It used to be called Merry Islington, once upon a [[Time|time]],’ said Tom.
 ‘Perhaps it’s merry now; if so, it’s all the better. Eh?’
 
 ‘If it’s not too dear,’ said Tom’s sister.
 
-‘Of course, if it’s not too dear,’ assented Tom. ‘Well, where IS
+‘Of course, if it’s not too dear,’ assented Tom. ‘[[Well]], where IS
 Islington? We can’t do better than go there, I should think. Let’s go.’
 
 Tom’s sister would have gone anywhere with him; so they walked off, arm
@@ -89,15 +89,15 @@ was not in that neighbourhood, Tom made inquiries respecting a public
 conveyance thither; which they soon obtained. As they rode along they
 were very full of conversation indeed, Tom relating what had happened
 to him, and Tom’s sister relating what had happened to her, and both
-finding a great deal more to say than time to say it in; for they had
+finding a great deal more to say than [[Time|time]] to say it in; for they had
 only just begun to talk, in comparison with what they had to tell each
-other, when they reached their journey’s end.
+other, when they reached their [[Journey|journey]]’s end.
 
 ‘Now,’ said Tom, ‘we must first look out for some very unpretending
 streets, and then look out for bills in the windows.’
 
 So they walked off again, quite as happily as if they had just stepped
-out of a snug little house of their own, to look for lodgings on account
+out of a snug little [[house]] of their own, to look for lodgings on account
 of somebody else. Tom’s simplicity was unabated, Heaven knows; but
 now that he had somebody to rely upon him, he was stimulated to rely a
 little more upon himself, and was, in his own opinion, quite a desperate
@@ -106,16 +106,16 @@ fellow.
 After roaming up and down for hours, looking at some scores of lodgings,
 they began to find it rather fatiguing, especially as they saw none
 which were at all adapted to their purpose. At length, however, in a
-singular little old-fashioned house, up a blind street, they discovered
+singular little old-fashioned [[house]], up a blind street, they discovered
 two small bedrooms and a triangular parlour, which promised to suit
-them well enough. Their desiring to take possession immediately was a
+them [[Well|well]] enough. Their desiring to take possession immediately was a
 suspicious circumstance, but even this was surmounted by the payment
 of their first week’s rent, and a reference to John Westlock, Esquire,
 Furnival’s Inn, High Holborn.
 
 Ah! It was a goodly sight, when this important point was settled,
 to behold Tom and his sister trotting round to the baker’s, and the
-butcher’s, and the grocer’s, with a kind of dreadful delight in the
+butcher’s, and the [[grocer]]’s, with a kind of dreadful delight in the
 unaccustomed cares of housekeeping; taking secret counsel together as
 they gave their small orders, and distracted by the least suggestion
 on the part of the shopkeeper! When they got back to the triangular
@@ -123,7 +123,7 @@ parlour, and Tom’s sister, bustling to and fro, busy about a thousand
 pleasant nothings, stopped every now and then to give old Tom a kiss or
 smile upon him, Tom rubbed his hands as if all Islington were his.
 
-It was late in the afternoon now, though, and high time for Tom to
+It was late in the afternoon now, though, and high [[Time|time]] for Tom to
 keep his appointment. So, after agreeing with his sister that
 in consideration of not having dined, they would venture on the
 extravagance of chops for supper at nine, he walked out again to narrate

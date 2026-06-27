@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 4)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -18,7 +18,7 @@ only natural.  It is notable, on your own suggestion, that he is
 
 really attached to this last lady, that his statement to her was
 
-apparently much the nearest to the truth."
+apparently much the nearest to the [[Truth|truth]]."
 
 
 
@@ -28,9 +28,9 @@ apparently much the nearest to the truth."
 
 "Joan Varney," observed the lawyer gravely, "stated most
 
-definitely, before she knew that there was any trouble or tragedy
+definitely, before she knew that there was any trouble or [[Tragedy|tragedy]]
 
-in this case, that Captain Gahagan had left the house saying:  'I
+in this case, that Captain Gahagan had left the [[house]] saying:  'I
 
 am going round to the Fevershams'.'"
 
@@ -42,7 +42,7 @@ said Mr. Pond.
 
 
 
-"Most emphatically," replied Luke.  "The other sister, well known
+"Most emphatically," replied Luke.  "The other sister, [[Well|well]] known
 
 on the stage as Violet Varney, stopped him as he was going out and
 
@@ -106,7 +106,7 @@ absolutely honest."
 
 
 
-"Well, there it is," said Luke, speaking also not without a decent
+"[[Well]], there it is," said Luke, speaking also not without a decent
 
 gloom.  "It seems to me that the psychology's only too obvious
 
@@ -116,7 +116,7 @@ to the girl he was accustomed to confide in; perhaps he didn't
 
 really plan the crime till later; or perhaps it wasn't entirely
 
-planned or premeditated.  But by the time he talked to less
+planned or premeditated.  But by the [[Time|time]] he talked to less
 
 friendly people he saw how unwise it would be to say he was going
 
@@ -132,7 +132,7 @@ sufficiently vague, and says he is going to the club."
 
 "It might be like that," replied Pond, "or it might--"  And Mr.
 
-Pond fell for the first time into the lax habit of Miss Asa-Smith,
+Pond fell for the first [[Time|time]] into the lax habit of Miss Asa-[[smith|Smith]],
 
 and failed to finish his sentence.  Instead he sat staring at the
 
@@ -150,13 +150,13 @@ expression, and said with a brisk and almost sharp tone:
 
 
 
-"You seem very much bent on bringing the crime home to poor
+"You seem very much bent on bringing the crime [[Home|home]] to poor
 
 Gahagan."
 
 
 
-For the first time Luke's features stiffened to hardness, or even
+For the first [[Time|time]] Luke's features stiffened to hardness, or even
 
 harshness.  "We naturally wish to bring the murderer of our client
 

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 19"
+title: "[[Jane Eyre]] — Chapter 19"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,14 +22,14 @@ Sibyl she were—was seated snugly enough in an easy-chair at the
 chimney-corner. She had on a red cloak and a black bonnet: or rather, a
 broad-brimmed gipsy hat, tied down with a striped handkerchief under
 her chin. An extinguished candle stood on the table; she was bending
-over the fire, and seemed reading in a little black book, like a
-prayer-book, by the light of the blaze: she muttered the words to
+over the [[Fire|fire]], and seemed reading in a little black book, like a
+[[prayer]]-book, by the light of the blaze: she muttered the words to
 herself, as most old women do, while she read; she did not desist
 immediately on my entrance: it appeared she wished to finish a
 paragraph.
 
 I stood on the rug and warmed my hands, which were rather cold with
-sitting at a distance from the drawing-room fire. I felt now as
+sitting at a distance from the drawing-room [[Fire|fire]]. I felt now as
 composed as ever I did in my life: there was nothing indeed in the
 gipsy’s appearance to trouble one’s calm. She shut her book and slowly
 looked up; her hat-brim partially shaded her face, yet I could see, as
@@ -38,11 +38,11 @@ black: elf-locks bristled out from beneath a white band which passed
 under her chin, and came half over her cheeks, or rather jaws: her eye
 confronted me at once, with a bold and direct gaze.
 
-“Well, and you want your fortune told?” she said, in a voice as decided
+“[[Well]], and you want your fortune told?” she said, in a voice as decided
 as her glance, as harsh as her features.
 
 “I don’t care about it, mother; you may please yourself: but I ought to
-warn you, I have no faith.”
+warn you, I have no [[Faith|faith]].”
 
 “It’s like your impudence to say so: I expected it of you; I heard it
 in your step as you crossed the threshold.”
@@ -66,18 +66,18 @@ you tremble?”
 
 “I’m not silly.”
 
-The old crone “nichered” a laugh under her bonnet and bandage; she then
+The old [[Crone|crone]] “nichered” a laugh under her bonnet and bandage; she then
 drew out a short black pipe, and lighting it began to smoke. Having
-indulged a while in this sedative, she raised her bent body, took the
-pipe from her lips, and while gazing steadily at the fire, said very
+indulged a while in this sedative, she raised her bent [[Body|body]], took the
+pipe from her lips, and while gazing steadily at the [[Fire|fire]], said very
 deliberately—
 
 “You are cold; you are sick; and you are silly.”
 
 “Prove it,” I rejoined.
 
-“I will, in few words. You are cold, because you are alone: no contact
-strikes the fire from you that is in you. You are sick; because the
+“I will, in few words. You are cold, because you are [[Alone|alone]]: no contact
+strikes the [[Fire|fire]] from you that is in you. You are sick; because the
 best of feelings, the highest and the sweetest given to man, keeps far
 away from you. You are silly, because, suffer as you may, you will not
 beckon it to approach, nor will you stir one step to meet it where it
@@ -87,7 +87,7 @@ She again put her short black pipe to her lips, and renewed her smoking
 with vigour.
 
 “You might say all that to almost any one who you knew lived as a
-solitary dependent in a great house.”
+solitary dependent in a [[Great House|great house]].”
 
 “I might say it to almost any one: but would it be true of almost any
 one?”
@@ -105,11 +105,11 @@ are all prepared; there only wants a movement to combine them. Chance
 laid them somewhat apart; let them be once approached and bliss
 results.”
 
-“I don’t understand enigmas. I never could guess a riddle in my life.”
+“I don’t understand enigmas. I never could guess a [[Riddle|riddle]] in my life.”
 
 “If you wish me to speak more plainly, show me your palm.”
 
-“And I must cross it with silver, I suppose?”
+“And I must [[Cross|cross]] it with silver, I suppose?”
 
 “To be sure.”
 
@@ -128,33 +128,33 @@ written there.”
 eyes, in the lines of the mouth. Kneel, and lift up your head.”
 
 “Ah! now you are coming to reality,” I said, as I obeyed her. “I shall
-begin to put some faith in you presently.”
+begin to put some [[Faith|faith]] in you presently.”
 
-I knelt within half a yard of her. She stirred the fire, so that a
+I knelt within half a yard of her. She stirred the [[Fire|fire]], so that a
 ripple of light broke from the disturbed coal: the glare, however, as
-she sat, only threw her face into deeper shadow: mine, it illumined.
+she sat, only threw her face into deeper [[Shadow|shadow]]: mine, it illumined.
 
-“I wonder with what feelings you came to me to-night,” she said, when
-she had examined me a while. “I wonder what thoughts are busy in your
+“I [[Wonder|wonder]] with what feelings you came to me to-[[Night|night]],” she said, when
+she had examined me a while. “I [[Wonder|wonder]] what thoughts are busy in your
 heart during all the hours you sit in yonder room with the fine people
-flitting before you like shapes in a magic-lantern: just as little
+flitting before you like shapes in a [[Magic|magic]]-lantern: just as little
 sympathetic communion passing between you and them as if they were
 really mere shadows of human forms, and not the actual substance.”
 
 “I feel tired often, sleepy sometimes, but seldom sad.”
 
-“Then you have some secret hope to buoy you up and please you with
+“Then you have some secret [[Hope|hope]] to buoy you up and please you with
 whispers of the future?”
 
-“Not I. The utmost I hope is, to save money enough out of my earnings
-to set up a school some day in a little house rented by myself.”
+“Not I. The utmost I [[Hope|hope]] is, to save money enough out of my earnings
+to set up a school some day in a little [[house]] rented by myself.”
 
 “A mean nutriment for the spirit to exist on: and sitting in that
-window-seat (you see I know your habits)—”
+[[Window|window]]-seat (you see I know your habits)—”
 
 “You have learned them from the servants.”
 
-“Ah! you think yourself sharp. Well, perhaps I have: to speak truth, I
+“Ah! you think yourself sharp. [[Well]], perhaps I have: to speak [[Truth|truth]], I
 have an acquaintance with one of them, Mrs. Poole—”
 
 I started to my feet when I heard the name.
@@ -164,7 +164,7 @@ after all, then!”
 
 “Don’t be alarmed,” continued the strange being; “she’s a safe hand is
 Mrs. Poole: close and quiet; any one may repose confidence in her. But,
-as I was saying: sitting in that window-seat, do you think of nothing
+as I was saying: sitting in that [[Window|window]]-seat, do you think of nothing
 but your future school? Have you no present interest in any of the
 company who occupy the sofas and chairs before you? Is there not one
 face you study? one figure whose movements you follow with at least
@@ -180,34 +180,34 @@ tale: it amuses me to watch them.”
 “What tale do you like best to hear?”
 
 “Oh, I have not much choice! They generally run on the same
-theme—courtship; and promise to end in the same catastrophe—marriage.”
+theme—courtship; and promise to end in the same catastrophe—[[Marriage|marriage]].”
 
 “And do you like that monotonous theme?”
 
 “Positively, I don’t care about it: it is nothing to me.”
 
 “Nothing to you? When a lady, young and full of life and health,
-charming with beauty and endowed with the gifts of rank and fortune,
+charming with [[Beauty|beauty]] and endowed with the gifts of rank and fortune,
 sits and smiles in the eyes of a gentleman you—”
 
 “I what?”
 
-“You know—and perhaps think well of.”
+“You know—and perhaps think [[Well|well]] of.”
 
 “I don’t know the gentlemen here. I have scarcely interchanged a
-syllable with one of them; and as to thinking well of them, I consider
+syllable with one of them; and as to thinking [[Well|well]] of them, I consider
 some respectable, and stately, and middle-aged, and others young,
 dashing, handsome, and lively: but certainly they are all at liberty to
 be the recipients of whose smiles they please, without my feeling
 disposed to consider the transaction of any moment to me.”
 
 “You don’t know the gentlemen here? You have not exchanged a syllable
-with one of them? Will you say that of the master of the house!”
+with one of them? Will you say that of the master of the [[house]]!”
 
-“He is not at home.”
+“He is not at [[Home|home]].”
 
 “A profound remark! A most ingenious quibble! He went to Millcote this
-morning, and will be back here to-night or to-morrow: does that
+morning, and will be back here to-[[Night|night]] or to-morrow: does that
 circumstance exclude him from the list of your acquaintance—blot him,
 as it were, out of existence?”
 
@@ -227,9 +227,9 @@ with the most lively and the most continuous?”
 
 “The eagerness of a listener quickens the tongue of a narrator.” I said
 this rather to myself than to the gipsy, whose strange talk, voice,
-manner, had by this time wrapped me in a kind of dream. One unexpected
+manner, had by this [[Time|time]] wrapped me in a kind of dream. One unexpected
 sentence came from her lips after another, till I got involved in a web
-of mystification; and wondered what unseen spirit had been sitting for
+of [[Mystification|mystification]]; and wondered what unseen spirit had been sitting for
 weeks by my heart watching its workings and taking record of every
 pulse.
 
@@ -246,10 +246,10 @@ gratitude?”
 
 I said nothing.
 
-“You have seen love: have you not?—and, looking forward, you have seen
+“You have seen [[Love|love]]: have you not?—and, looking forward, you have seen
 him married, and beheld his bride happy?”
 
-“Humph! Not exactly. Your witch’s skill is rather at fault sometimes.”
+“Humph! Not exactly. Your [[Witch|witch]]’s skill is rather at fault sometimes.”
 
 “What the devil have you seen, then?”
 
@@ -260,14 +260,14 @@ Mr. Rochester is to be married?”
 
 “Shortly?”
 
-“Appearances would warrant that conclusion: and, no doubt (though, with
+“Appearances would warrant that conclusion: and, no [[Doubt|doubt]] (though, with
 an audacity that wants chastising out of you, you seem to question it),
-they will be a superlatively happy pair. He must love such a handsome,
+they will be a superlatively happy pair. He must [[Love|love]] such a handsome,
 noble, witty, accomplished lady; and probably she loves him, or, if not
 his person, at least his purse. I know she considers the Rochester
 estate eligible to the last degree; though (God pardon me!) I told her
 something on that point about an hour ago which made her look wondrous
-grave: the corners of her mouth fell half an inch. I would advise her
+[[Grave|grave]]: the corners of her mouth fell half an inch. I would advise her
 blackaviced suitor to look out: if another comes, with a longer or
 clearer rent-roll,—he’s dished—”
 
@@ -281,7 +281,7 @@ carefully on one side for you. I saw her do it. It depends on yourself
 to stretch out your hand, and take it up: but whether you will do so,
 is the problem I study. Kneel again on the rug.”
 
-“Don’t keep me long; the fire scorches me.”
+“Don’t keep me long; the [[Fire|fire]] scorches me.”
 
 
 She did not stoop towards me, but only gazed, leaning back in her chair
@@ -293,22 +293,22 @@ her chair. She began muttering,—
 and full of feeling; it smiles at my jargon: it is susceptible;
 impression follows impression through its clear sphere; where it ceases
 to smile, it is sad; an unconscious lassitude weighs on the lid: that
-signifies melancholy resulting from loneliness. It turns from me; it
+signifies [[Melancholy|melancholy]] resulting from [[Loneliness|loneliness]]. It turns from me; it
 will not suffer further scrutiny; it seems to deny, by a mocking
-glance, the truth of the discoveries I have already made,—to disown the
-charge both of sensibility and chagrin: its pride and reserve only
+glance, the [[Truth|truth]] of the discoveries I have already made,—to disown the
+charge both of sensibility and chagrin: its [[Pride|pride]] and reserve only
 confirm me in my opinion. The eye is favourable.
 
 “As to the mouth, it delights at times in laughter; it is disposed to
 impart all that the brain conceives; though I daresay it would be
 silent on much the heart experiences. Mobile and flexible, it was never
-intended to be compressed in the eternal silence of solitude: it is a
+intended to be compressed in the eternal [[Silence|silence]] of [[Solitude|solitude]]: it is a
 mouth which should speak much and smile often, and have human affection
 for its interlocutor. That feature too is propitious.
 
 “I see no enemy to a fortunate issue but in the brow; and that brow
-professes to say,—‘I can live alone, if self-respect, and circumstances
-require me so to do. I need not sell my soul to buy bliss. I have an
+professes to say,—‘I can live [[Alone|alone]], if [[Self|self]]-respect, and circumstances
+require me so to do. I need not sell my [[Soul|soul]] to buy bliss. I have an
 inward treasure born with me, which can keep me alive if all extraneous
 delights should be withheld, or offered only at a price I cannot afford
 to give.’ The forehead declares, ‘Reason sits firm and holds the reins,
@@ -316,28 +316,28 @@ and she will not let the feelings burst away and hurry her to wild
 chasms. The passions may rage furiously, like true heathens, as they
 are; and the desires may imagine all sorts of vain things: but judgment
 shall still have the last word in every argument, and the casting vote
-in every decision. Strong wind, earthquake-shock, and fire may pass by:
+in every decision. Strong [[Wind|wind]], earthquake-shock, and [[Fire|fire]] may pass by:
 but I shall follow the guiding of that still small voice which
-interprets the dictates of conscience.’
+interprets the dictates of [[Conscience|conscience]].’
 
-“Well said, forehead; your declaration shall be respected. I have
+“[[Well]] said, forehead; your declaration shall be respected. I have
 formed my plans—right plans I deem them—and in them I have attended to
-the claims of conscience, the counsels of reason. I know how soon youth
+the claims of [[Conscience|conscience]], the counsels of reason. I know how soon youth
 would fade and bloom perish, if, in the cup of bliss offered, but one
 dreg of shame, or one flavour of remorse were detected; and I do not
 want sacrifice, sorrow, dissolution—such is not my taste. I wish to
-foster, not to blight—to earn gratitude, not to wring tears of
-blood—no, nor of brine: my harvest must be in smiles, in endearments,
+foster, not to blight—to earn gratitude, not to wring [[Tears|tears]] of
+[[Blood|blood]]—no, nor of brine: my harvest must be in smiles, in endearments,
 in sweet—That will do. I think I rave in a kind of exquisite delirium.
 I should wish now to protract this moment _ad infinitum_; but I dare
 not. So far I have governed myself thoroughly. I have acted as I
 inwardly swore I would act; but further might try me beyond my
 strength. Rise, Miss Eyre: leave me; ‘the play is played out.’”
 
-Where was I? Did I wake or sleep? Had I been dreaming? Did I dream
+Where was I? Did I wake or [[Sleep|sleep]]? Had I been dreaming? Did I dream
 still? The old woman’s voice had changed: her accent, her gesture, and
 all were familiar to me as my own face in a glass—as the speech of my
-own tongue. I got up, but did not go. I looked; I stirred the fire, and
+own tongue. I got up, but did not go. I looked; I stirred the [[Fire|fire]], and
 I looked again: but she drew her bonnet and her bandage closer about
 her face, and again beckoned me to depart. The flame illuminated her
 hand stretched out: roused now, and on the alert for discoveries, I at
@@ -349,7 +349,7 @@ before. Again I looked at the face; which was no longer turned from
 me—on the contrary, the bonnet was doffed, the bandage displaced, the
 head advanced.
 
-“Well, Jane, do you know me?” asked the familiar voice.
+“[[Well]], Jane, do you know me?” asked the familiar voice.
 
 “Only take off the red cloak, sir, and then—”
 
@@ -362,9 +362,9 @@ disguise.
 
 “Now, sir, what a strange idea!”
 
-“But well carried out, eh? Don’t you think so?”
+“But [[Well|well]] carried out, eh? Don’t you think so?”
 
-“With the ladies you must have managed well.”
+“With the ladies you must have managed [[Well|well]].”
 
 “But not with you?”
 
@@ -393,10 +393,10 @@ anxiety to conceal her features. But my mind had been running on Grace
 Poole—that living enigma, that mystery of mysteries, as I considered
 her. I had never thought of Mr. Rochester.
 
-“Well,” said he, “what are you musing about? What does that grave smile
+“[[Well]],” said he, “what are you musing about? What does that [[Grave|grave]] smile
 signify?”
 
-“Wonder and self-congratulation, sir. I have your permission to retire
+“[[Wonder]] and [[Self|self]]-congratulation, sir. I have your permission to retire
 now, I suppose?”
 
 “No; stay a moment; and tell me what the people in the drawing-room
@@ -406,7 +406,7 @@ yonder are doing.”
 
 “Sit down!—Let me hear what they said about me.”
 
-“I had better not stay long, sir; it must be near eleven o’clock. Oh,
+“I had better not stay long, sir; it must be near eleven o’[[Clock|clock]]. Oh,
 are you aware, Mr. Rochester, that a stranger has arrived here since
 you left this morning?”
 
@@ -441,7 +441,7 @@ seemed to know what he was doing.
 “Yes, sir, yes; and my arm.”
 
 He sat down, and made me sit beside him. Holding my hand in both his
-own, he chafed it; gazing on me, at the same time, with the most
+own, he chafed it; gazing on me, at the same [[Time|time]], with the most
 troubled and dreary look.
 
 “My little friend!” said he, “I wish I were in a quiet island with only
@@ -464,7 +464,7 @@ Rochester had said; they were not seated at table,—the supper was
 arranged on the sideboard; each had taken what he chose, and they stood
 about here and there in groups, their plates and glasses in their
 hands. Every one seemed in high glee; laughter and conversation were
-general and animated. Mr. Mason stood near the fire, talking to Colonel
+general and animated. Mr. Mason stood near the [[Fire|fire]], talking to Colonel
 and Mrs. Dent, and appeared as merry as any of them. I filled a
 wine-glass (I saw Miss Ingram watch me frowningly as I did so: she
 thought I was taking a liberty, I daresay), and I returned to the
@@ -478,7 +478,7 @@ contents and returned it to me. “What are they doing, Jane?”
 
 “Laughing and talking, sir.”
 
-“They don’t look grave and mysterious, as if they had heard something
+“They don’t look [[Grave|grave]] and mysterious, as if they had heard something
 strange?”
 
 “Not at all: they are full of jests and gaiety.”
@@ -487,7 +487,7 @@ strange?”
 
 “He was laughing too.”
 
-“If all these people came in a body and spat at me, what would you do,
+“If all these people came in a [[Body|body]] and spat at me, what would you do,
 Jane?”
 
 “Turn them out of the room, sir, if I could.”
@@ -501,7 +501,7 @@ you.”
 
 “To comfort me?”
 
-“Yes, sir, to comfort you, as well as I could.”
+“Yes, sir, to comfort you, as [[Well|well]] as I could.”
 
 “And if they laid you under a ban for adhering to me?”
 
@@ -524,7 +524,7 @@ among them. I sought Mr. Mason, delivered the message, and preceded him
 from the room: I ushered him into the library, and then I went
 upstairs.
 
-At a late hour, after I had been in bed some time, I heard the visitors
+At a late hour, after I had been in bed some [[Time|time]], I heard the visitors
 repair to their chambers: I distinguished Mr. Rochester’s voice, and
 heard him say, “This way, Mason; this is your room.”
 

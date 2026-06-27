@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box (part 3)"
+title: "[[The Oblong Box]] (part 3)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -15,11 +15,11 @@ tags:
 
       natural result, entire and speedy disgust, had ensued. I pitied
 
-      him from the bottom of my heart—but could not, for that reason,
+      him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
 
       quite forgive his incommunicativeness in the matter of the “Last
 
-      Supper.” For this I resolved to have my revenge.
+      Supper.” For this I resolved to have my [[Revenge|revenge]].
 
 
 
@@ -39,11 +39,11 @@ tags:
 
       on even the semblance of mirth. I determined to commence a series
 
-      of covert insinuations, or innuendoes, about the oblong box—just
+      of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
 
       to let him perceive, gradually, that I was not altogether the
 
-      butt, or victim, of his little bit of pleasant mystification. My
+      butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
 
       first observation was by way of opening a masked battery. I said
 
@@ -81,7 +81,7 @@ tags:
 
       I called assistance, and, with much difficulty, we brought him to
 
-      himself. Upon reviving he spoke incoherently for some time. At
+      himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
 
       length we bled him and put him to bed. The next morning he was
 
@@ -105,19 +105,19 @@ tags:
 
       nervous—drank too much strong green tea, and slept ill at
 
-      night—in fact, for two nights I could not be properly said to
+      [[Night|night]]—in fact, for two nights I could not be properly said to
 
-      sleep at all. Now, my state-room opened into the main cabin, or
+      [[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
 
       dining-room, as did those of all the single men on board. Wyatt’s
 
       three rooms were in the after-cabin, which was separated from the
 
-      main one by a slight sliding door, never locked even at night. As
+      main one by a slight sliding door, never locked even at [[Night|night]]. As
 
-      we were almost constantly on a wind, and the breeze was not a
+      we were almost constantly on a [[Wind|wind]], and the breeze was not a
 
-      little stiff, the ship heeled to leeward very considerably; and
+      little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
 
       whenever her starboard side was to leeward, the sliding door
 
@@ -125,7 +125,7 @@ tags:
 
       trouble to get up and shut it. But my berth was in such a
 
-      position, that when my own state-room door was open, as well as
+      position, that when my own state-room door was open, as [[Well|well]] as
 
       the sliding door in question (and my own door was always open on
 
@@ -133,11 +133,11 @@ tags:
 
       distinctly, and just at that portion of it, too, where were
 
-      situated the state-rooms of Mr. Wyatt. Well, during two nights
+      situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
 
       (not consecutive) while I lay awake, I clearly saw Mrs. W., about
 
-      eleven o’clock upon each night, steal cautiously from the
+      eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
 
       state-room of Mr. W., and enter the extra room, where she
 
@@ -145,9 +145,9 @@ tags:
 
       went back. That they were virtually separated was clear. They had
 
-      separate apartments—no doubt in contemplation of a more permanent
+      separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
 
-      divorce; and here, after all I thought was the mystery of the
+      [[divorce]]; and here, after all I thought was the mystery of the
 
       extra state-room.
 
@@ -161,13 +161,13 @@ tags:
 
       attracted by certain singular cautious, subdued noises in that of
 
-      her husband. After listening to them for some time, with
+      her husband. After listening to them for some [[Time|time]], with
 
       thoughtful attention, I at length succeeded perfectly in
 
       translating their import. They were sounds occasioned by the
 
-      artist in prying open the oblong box, by means of a chisel and
+      [[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
 
       mallet—the latter being apparently muffled, or deadened, by some
 
@@ -197,6 +197,6 @@ tags:
 
       nearly inaudible—if, indeed, the whole of this latter noise were
 
-      not rather produced by my own imagination. I say it seemed to
+      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
 
       resemble sobbing or sighing—but, of course, it could not have

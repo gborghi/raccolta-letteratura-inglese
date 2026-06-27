@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — OLONEL GRIMM of the Pavonian Police was very exactly described as a"
+title: "[[FourFaultlessFelons]] — OLONEL GRIMM of the Pavonian Police was very exactly described as a"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,31 +18,31 @@ COLONEL GRIMM of the Pavonian Police was very exactly described as a
 
 hard-headed man, and one not easily divorced from reality. It was perhaps
 
-all the more strongly that he remembered that night as a nightmare. It
+all the more strongly that he remembered that [[Night|night]] as a [[nightmare]]. It
 
-really had the indescribable qualities of a dream; the repetitions and
+really had the indescribable qualities of [[A Dream|a dream]]; the repetitions and
 
 the inconsistencies; the scraps of past experience appearing like sudden
 
 pictures amid the chaos of the formless and unfamiliar; the general sense
 
-of having a double mind, one sane and the other mad. It was all the more
+of having a [[Double|double]] mind, one sane and the other mad. It was all the more
 
 so when his subterranean wanderings, beginning in the sunken shaft in the
 
-garden, did bring him back into what would normally have been called
+[[Garden|garden]], did bring him back into what would normally have been called
 
-normal scenes. He did indeed revisit the glimpses of the moon, but it
+normal scenes. He did indeed revisit the glimpses of the [[Moon|moon]], but it
 
-made him feel all the more like Hamlet's father's ghost. He could not
+made him feel all the more like [[Hamlet]]'s father's [[Ghost|ghost]]. He could not
 
 help feeling that he was revisiting the glimpses of the other side of the
 
-moon and had come out on the other side of the world. He could not be
+[[Moon|moon]] and had come out on the other side of the world. He could not be
 
 certain that he had not found an outlet under some strange sky, with
 
-stars, and moons of its own, and yet presenting objects of a mocking
+[[Stars|stars]], and moons of its own, and yet presenting objects of a mocking
 
 familiarity. His first revelation, or rather menace of things yet
 
@@ -60,7 +60,7 @@ won't be alarmed at me."
 
 He remained hanging on the ladder and looking up at a pale disc of light
 
-like the moon itself, which showed the opening of the well. A moment
+like the [[Moon|moon]] itself, which showed the opening of the [[Well|well]]. A moment
 
 after the disc was darkened, blotted out as by the cap that had covered
 
@@ -76,13 +76,13 @@ turnip of a face with green spectacles which he recognized instantly as
 
 that of Professor Phocus. And Professor Phocus said, with the horrible
 
-distinctness with which things are sometimes said in a dream: "You won't
+distinctness with which things are sometimes said in [[A Dream|a dream]]: "You won't
 
 catch us so easily. We've only to say The Word and the world will be
 
 destroyed."
 
-Then the grotesque stopper was taken out of the strange bottle; the disc
+Then the [[Grotesque|grotesque]] stopper was taken out of the strange bottle; the disc
 
 of dull light reappeared; and after a few moments of bewildered waiting,
 
@@ -102,15 +102,15 @@ to watch the place, standing round and composedly answering the rather
 
 conspiratorial signals of Conrad.
 
-"You can go into the house in a minute," said Conrad in the same low
+"You can go into the [[house]] in a minute," said Conrad in the same low
 
 voice. "I'll just nip in and see that everything's all right, but I'm
 
 sure they're all boxed up in there. Bring your men with you, of course."
 
-He darted into the back of a house, which Grimm fancied was the house
+He darted into the back of a [[house]], which Grimm fancied was the [[house]]
 
-next door to the original scene of the raid, and for some little time the
+next door to the original scene of the raid, and for some little [[Time|time]] the
 
 police and their Chief waited patiently outside. They had just begun to
 
@@ -118,31 +118,31 @@ consider the advisability of following their solitary leader into the den
 
 of criminals, when they caught their breath and stood still, staring up
 
-at the house.
+at the [[house]].
 
-One of the window blinds was jerked up and there appeared at the window
+One of the [[Window|window]] blinds was jerked up and there appeared at the [[Window|window]]
 
 the unmistakable face and form which the Princess had beheld upon the
 
-cafe table. The poet, Sebastian, stood staring at the moon, in what is
+cafe table. The poet, [[Sebastian]], stood staring at the [[Moon|moon]], in what is
 
 supposed to be the manner of poets, looking more than usually florid with
 
 his flaming red moustache and whiskers and a necktie of yet another
 
-glowing and romantic shade. Then he stretched out his arm to the moon,
+glowing and romantic shade. Then he stretched out his arm to the [[Moon|moon]],
 
 with a theatrical gesture, and seemed to begin to sing, or at least to
 
-speak in a sing-song fashion. It was impossible to conceive anything more
+speak in a sing-[[Song|song]] fashion. It was impossible to conceive anything more
 
 operatic; in the sense in which that word is almost synonymous with
 
-idiotic. But the words he was chanting were familiar: "As Aaron's serpent
+idiotic. But the words he was chanting were familiar: "As [[Aaron]]'s serpent
 
-swallowed snakes and rods, As God alone is greater than the gods, As all
+swallowed snakes and rods, As God [[Alone|alone]] is greater than the gods, As all
 
-stars shrivel in the single sun, The words are many, but The Word is
+[[Stars|stars]] shrivel in the single sun, The words are many, but The Word is
 
 one."
 
@@ -154,7 +154,7 @@ senseless an incident, had really happened at all.
 
 The next moment they were conscious that their creepy friend the
 
-conspirator had come close to them again in complete silence and was
+conspirator had come close to them again in complete [[Silence|silence]] and was
 
 whispering: "You can go in now and nab them all."
 
@@ -176,7 +176,7 @@ them bore a notice in large letters; one being inscribed "Professor
 
 Phocus", another "General Case", a third "Mr. Loeb", and a fourth simply
 
-"Sebastian", as with that magnificent flourish with which foreign poets
+"[[Sebastian]]", as with that magnificent flourish with which foreign poets
 
 sign a single name. "This is where they live," said John Conrad, "and I
 
@@ -196,7 +196,7 @@ world."
 
 "I do not think it will destroy the world," answered Conrad gravely. "I
 
-hope it will rather recreate it."
+[[Hope|hope]] it will rather recreate it."
 
 "Then," said Grimm, "I may take it that when we do know The Word, we
 
@@ -214,7 +214,7 @@ already."
 
 "You heard it only ten minutes ago. We have shouted and bellowed The Word
 
-at you all the time, and made it as plain as a placard on the wall. The
+at you all the [[Time|time]], and made it as plain as a placard on the wall. The
 
 whole secret of this conspiracy is really in one word; only that we've
 
@@ -226,11 +226,11 @@ something like a suspicion was creeping into his face. Conrad repeated
 
 very seriously, with a slow and heavy enunciation the words: "As all
 
-stars shrivel in the single sun . . ."
+[[Stars|stars]] shrivel in the single sun . . ."
 
 Grimm leapt to his feet with an oath and suddenly made a dash at the door
 
-labelled "Sebastian".
+labelled "[[Sebastian]]".
 
 "Yes, you've got it," said Conrad with a smile. "It's only a question of
 
@@ -250,7 +250,7 @@ and from these were hanging a red wig, a red artificial beard, a scarf of
 
 peacock colours and all the externals of the popular poet.
 
-"All the history of the great revolution," went on John Conrad, in the
+"All the [[history]] of the great revolution," went on John Conrad, in the
 
 calm tone of a lecturer, "the whole method by which it was enabled to
 
@@ -262,7 +262,7 @@ you never guessed. It is the word One."
 
 He stepped from the table to the door at right angles to the open one;
 
-the door inscribed with the name of the Professor, and throwing it open,
+the door inscribed with the name of [[The Professor|the Professor]], and throwing it open,
 
 revealed another cupboard, with a hat-peg supporting an unnaturally
 
@@ -274,7 +274,7 @@ a pair of green spectacles.
 
 he said. "Need I explain to you that there never was any Professor
 
-Phocus?-except myself, of course, who professed to be the Professor. In
+Phocus?-except myself, of course, who professed to be [[The Professor|the Professor]]. In
 
 the case of Loeb and Case I ran rather a greater risk, for they were, or
 
@@ -308,7 +308,7 @@ painted and artificial in his purple whiskers. And that would have told
 
 you the whole story, if you'd only listened to her. Then everybody said,
 
-even the King himself, that old Loeb the pawnbroker was dead, and so he
+even the [[King]] himself, that old Loeb the pawnbroker was dead, and so he
 
 was. He died years before I began to impersonate him with these trifling
 
@@ -320,7 +320,7 @@ as if with cobwebs with the grey whiskers and shabby grey garments
 
 attributed to the miser. "That was the beginning of the whole business.
 
-Old Loeb really did take this house privately, but for very private
+Old Loeb really did take this [[house]] privately, but for very private
 
 reasons; not exactly out of pure public spirit; no. I really was his
 
@@ -332,7 +332,7 @@ myself, was the underground passage, which he had constructed for
 
 himself. As I say, there were no political ideals involved in that; odd
 
-sort of ladies used it and so on. He was not a nice old gentleman. Well,
+sort of ladies used it and so on. He was not a nice old gentleman. [[Well]],
 
 I don't know whether you will enter into the fine shade of my feelings,
 
@@ -348,7 +348,7 @@ So I decided to have a revolution. Or rather, I decided to be a
 
 revolution. It was all very easy, really, if one did it slowly and with a
 
-little tact and imagination. I built up the characters of four quite
+little tact and [[Imagination|imagination]]. I built up the characters of four quite
 
 different public men, two of them quite imaginary. You never saw any two
 
@@ -372,13 +372,13 @@ learned letters to the papers, with half the alphabet after his name,
 
 nobody was going to admit they had never heard of the famous Professor
 
-Phocus. When Sebastian said he was the greatest poet in modern Europe,
+Phocus. When [[Sebastian]] said he was the greatest poet in modern Europe,
 
 everybody felt that he ought to know. And if you get three or four names
 
-of that sort nowadays, you have got everything. There never was a time in
+of that sort nowadays, you have got everything. There never was a [[Time|time]] in
 
-history when the few counted for so much, and the many for so little.
+[[history]] when the few counted for so much, and the many for so little.
 
 When the newspapers say 'The nation is behind Mr. Binks', it means that
 
@@ -386,7 +386,7 @@ about three newspaper proprietors are behind him. When the professors say
 
 'The opinion of Europe has now accepted the Gollywog theory', it means
 
-that about four professors in Germany have accepted it. The moment I'd
+that about four professors in [[Germany]] have accepted it. The moment I'd
 
 got my millionaire and my man of science, I knew I was pretty safe; but
 
@@ -414,7 +414,7 @@ betray me. I did not foresee that I might betray the others. But after
 
 all, this rebellion has also ended in betrayal. Colonel Grimm, I give up
 
-my confederates. The great poet Sebastian is captured and hanged; the
+my confederates. The great poet [[Sebastian]] is captured and hanged; the
 
 great soldier Case is captured and hanged; Phocus and Loeb are captured
 
@@ -422,15 +422,15 @@ and hanged. You can see them hanging-on hat-pegs."
 
 Then he added, with a bow of profound modesty: "But their humble tool,
 
-John Conrad, has the pardon of the King."
+John Conrad, has the pardon of the [[King]]."
 
 Grimm once more sprang erect with a ringing curse which cracked and
 
 turned to a laugh. Then he said: "John Conrad, you are a devil, but I
 
-shouldn't wonder if you brought it off after all. Clovis the Third may
+shouldn't [[Wonder|wonder]] if you brought it off after all. Clovis the Third may
 
-have forgotten that he is still a king, but somewhere in his stale
+have forgotten that he is still a [[King|king]], but somewhere in his stale
 
 memories he remembers that he is still a gentleman. Go on your way, Grand
 
@@ -446,7 +446,7 @@ calling The Word."
 
 It has been already explained that Pavonia possessed a modern and
 
-enlightened Government; and in the light of this fact it may seem a
+enlightened [[government|Government]]; and in the light of this fact it may seem a
 
 strain on the reader's credulity to say that it did actually keep its
 
@@ -454,11 +454,11 @@ word to the eccentric footman. The politicians and the financiers made
 
 some difficulties, feeling that the keeping of promises must not become a
 
-habit. But for once the King put his foot down, not without a faint and
+habit. But for once the [[King]] put his foot down, not without a faint and
 
-far-off jingle of the ancient spurs and sword. He said it was a point of
+far-off jingle of the ancient spurs and [[Sword|sword]]. He said it was a point of
 
-purely personal honour, but there was a rumour that his niece had a good
+purely personal [[Honour|honour]], but there was a rumour that his niece had a good
 
 deal to do with it.
 
@@ -470,19 +470,19 @@ confessions of crime to Mr. Pinion of the Comet somewhat more briefly and
 
 personally than the same tales have been recorded here. Nevertheless,
 
-they took a tolerably long time from start to finish, and throughout the
+they took a tolerably long [[Time|time]] from start to finish, and throughout the
 
-whole of that time Mr. Pinion had preserved an air of polite attention
+whole of that [[Time|time]] Mr. Pinion had preserved an air of polite attention
 
 and had not interrupted by so much as a word.
 
-When they were over, he coughed slightly and said: "Well, gentlemen, I'm
+When they were over, he coughed slightly and said: "[[Well]], gentlemen, I'm
 
 sure I've been very much interested in your remarkable narratives. But I
 
-suppose most of us get misrepresented a bit from time to time. I hope
+suppose most of us get misrepresented a bit from [[Time|time]] to [[Time|time]]. I [[Hope|hope]]
 
-you'll do me the honour, gentlemen, of allowing that I haven't pumped
+you'll do me the [[Honour|honour]], gentlemen, of allowing that I haven't pumped
 
 you, or prompted you, or stuck my oar in anyway, but have enjoyed your
 
@@ -496,13 +496,13 @@ more patient and considerate."
 
 newspaper world of my own country I am known as the Bloody Battering-Ram,
 
-also the Home-Wrecker, the Heart-Searcher and occasionally as Jack the
+also the [[Home]]-Wrecker, the Heart-Searcher and occasionally as Jack the
 
-Ripper, because of my unscrupulous ripping-up of the most sacred secrets
+Ripper, because of my unscrupulous ripping-up of the most sacred [[Secrets|secrets]]
 
 of private life. Headlines such as 'Bull-Dog Pinion Pins President', or
 
-'Home-Wrecker Has Scalp of Screaming Secretary', are common on the
+'[[Home]]-Wrecker Has Scalp of Screaming Secretary', are common on the
 
 brighter news-pages of my native state. The story is still told of how I
 
@@ -510,7 +510,7 @@ hung on to Judge Grogan by one leg, when he was climbing into the
 
 aeroplane."
 
-"Well," said the doctor, "I own I never should have guessed it of you.
+"[[Well]]," said the doctor, "I own I never should have guessed it of you.
 
 Nobody would think you'd ever done a thing like that."
 
@@ -526,7 +526,7 @@ reputation, whether it's as a Murderer, a Robber or a Reporter."
 
 batter or wreck or rip anything or anybody?"
 
-"Well, not quite so much as you murdered anybody," answered the American
+"[[Well]], not quite so much as you murdered anybody," answered the American
 
 in his guarded tone. "But I have to let on that I've been horribly rude
 
@@ -560,7 +560,7 @@ just off to his dying mother, when I boarded his car and got his views on
 
 Capital versus Labour. I'd be obliged to burgle the third gentleman's
 
-house or wreck the fourth gentleman's train, or do something to show my
+[[house]] or wreck the fourth gentleman's train, or do something to show my
 
 editor I'm a real live wire of a reporter. Of course you never need to do
 
@@ -582,15 +582,15 @@ impresses the editor, and that's what I've got to think about."
 
 "Don't you mind everybody from Maine to Mexico calling you a Bloody
 
-Battering-Ram when you're really a perfectly normal and well-educated
+Battering-Ram when you're really a perfectly normal and [[Well|well]]-educated
 
 gentleman?"
 
-"Well," said the journalist, "I suppose, as I say, that most of us are
+"[[Well]]," said the journalist, "I suppose, as I say, that most of us are
 
 misunderstood one way or another."
 
-There was a momentary silence at the table, and then Dr. Judson turned in
+There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turned in
 
 his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 

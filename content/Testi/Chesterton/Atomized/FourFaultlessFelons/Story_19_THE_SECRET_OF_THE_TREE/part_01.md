@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE SECRET OF THE TREE (part 1)"
+title: "[[FourFaultlessFelons]] — THE SECRET OF THE TREE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,25 +32,25 @@ And her first feeling, under her last shock, was a primitive human
 
 feeling that for her isolation had come to an end. She had found
 
-something more crushing and complicated than she could carry alone, and
+something more crushing and complicated than she could carry [[Alone|alone]], and
 
 she must have a friend.
 
 
 
-She therefore went straight out of the front door and down the road to
+She therefore went straight out of the front door and down the [[Road|road]] to
 
-find a friend. She went to find a charlatan, a schemer, a grotesque lying
+find a friend. She went to find a charlatan, a schemer, a [[Grotesque|grotesque]] lying
 
 mystagogue, a man who had done her and hers the most abominable wrong,
 
-and she found him just going into his own house, with the brass plate
+and she found him just going into his own [[house]], with the brass plate
 
 outside it. Something not to be formulated in words told her that, in
 
 some dark, distorted, undiscoverable way he was on her side, and that he
 
-would manage to get whatever he chose to try for. She stopped the villain
+would manage to get whatever he chose to try for. She stopped the [[Villain|villain]]
 
 of her strange story and spoke to him quite naturally, as if he were her
 
@@ -102,7 +102,7 @@ him. It had to be done in rather a hurry."
 
 She drew a deep breath and there dawned upon her gradually, like
 
-something seen in the distance, a memory and a meaning.
+something seen in the distance, a [[Memory|memory]] and a meaning.
 
 
 
@@ -116,15 +116,15 @@ shoved him from under the car."
 
 
 
-"But on both occasions," she said, "you only jumped just in time."
+"But on both occasions," she said, "you only jumped just in [[Time|time]]."
 
 
 
-Then she went into the house alone; her mind was still stratified with
+Then she went into the [[house]] [[Alone|alone]]; her mind was still stratified with
 
 terror; the notion of her father as a monkey, as a lunatic, as something
 
-worse. And yet in a corner of her sunken subconscious soul something was
+worse. And yet in a corner of her sunken subconscious [[Soul|soul]] something was
 
 singing, because her friend was not so wicked after all.
 
@@ -156,13 +156,13 @@ condition in any case. But I am responsible in other ways, too, and you
 
 may take it from me that a man in my position will put no obstacles in
 
-your way in doing your duty. I hope you have no objection, for the
+your way in doing your duty. I [[Hope|hope]] you have no objection, for the
 
-moment, to explaining the general nature of your business to me."
+moment, to explaining the general [[Nature|nature]] of your business to me."
 
 
 
-"Well, sir," said the Inspector, "so far as that is concerned, it's
+"[[Well]], sir," said the Inspector, "so far as that is concerned, it's
 
 generally rather a relief in these cases to be able to talk to a third
 
@@ -212,7 +212,7 @@ chance that he will escape."
 
 
 
-There was a silence, which was broken by a slight scurry outside and a
+There was a [[Silence|silence]], which was broken by a slight scurry outside and a
 
 telegraph-boy ran up the steps with a wire for the Inspector. That
 
@@ -238,7 +238,7 @@ AN HOUR. HARRINGTON.
 
 "That is from my superior officer." said the official. "The chief
 
-detective who has been studying this matter on the spot. Indeed, one of
+[[Detective|detective]] who has been studying this matter on the spot. Indeed, one of
 
 the chief detectives in the world today, I suppose."
 
@@ -254,7 +254,7 @@ under the name of Mr. Wilmot? And live next door?"
 
 
 
-"Well, your friend behaved so much like a burglar that I guessed he must
+"[[Well]], your friend behaved so much like a burglar that I guessed he must
 
 be a policeman," said Judson, "and he said he had the best authority; I
 

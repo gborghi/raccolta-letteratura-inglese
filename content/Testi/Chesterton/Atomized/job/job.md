@@ -22,12 +22,12 @@ by G.K. Chesterton
 ------------------------------------------------------------------------
 
 THE Book of Job is among the other Old Testament Books
-both a philosophical riddle and a historical riddle.
-It is the philosophical riddle that concerns us in such
+both a philosophical [[Riddle|riddle]] and a historical [[Riddle|riddle]].
+It is the philosophical [[Riddle|riddle]] that concerns us in such
 an introduction as this; so we may dismiss first the few
 words of general explanation or warning which should be said
 about the historical aspect.  Controversy has long raged
-about which parts of this epic belong to its original scheme
+about which parts of this [[Epic|epic]] belong to its original scheme
 and which are interpolations of considerably later date.
 The doctors disagree, as it is the business of doctors to do;
 but upon the whole the trend of investigation has always been
@@ -36,7 +36,7 @@ were the prose prologue and epilogue and possibly the speech
 of the young man who comes in with an apology at the end.
 I do not profess to be competent to decide such questions.
 But whatever decision the reader may come to concerning them,
-there is a general truth to be remembered in this connection.
+there is a general [[Truth|truth]] to be remembered in this connection.
 When you deal with any ancient artistic creation do not suppose
 that it is anything against it that it grew gradually.
 The Book of Job may have grown gradually just as Westminster Abbey
@@ -44,7 +44,7 @@ grew gradually.  But the people who made the old folk poetry,
 like the people who made Westminster Abbey, did not attach
 that importance to the actual date and the actual author,
 that importance which is entirely the creation of the almost
-insane individualism of modern times.  We may put aside the case
+insane [[Individualism|individualism]] of modern times.  We may put aside the case
 of Job, as one complicated with religious difficulties,
 and take any other, say the case of the Iliad.  Many people
 have maintained the characteristic formula of modern scepticism,
@@ -55,7 +55,7 @@ But the thing really to be remembered in the matter of the Iliad
 is that if other people did interpolate the passages,
 the thing did not create the same sense of shock as would be
 created by such proceedings in these individualistic times.
-The creation of the tribal epic was to some extent regarded
+The creation of the tribal [[Epic|epic]] was to some extent regarded
 as a tribal work, like the building of the tribal temple.
 Believe then, if you will, that the prologue of Job and
 the epilogue and the speech of Elihu are things inserted after
@@ -66,44 +66,44 @@ Do not regard the insertions as you would regard a chapter
 in George Meredith which you afterwards found had not been
 written by George Meredith, or half a scene in Ibsen which you
 found had been cunningly sneaked in by Mr. William Archer.
-Remember that this old world which made these old poems like the
+Remember that this old world which made these old [[Poems|poems]] like the
 Iliad and Job, always kept the tradition of what it was making.
 A man could almost leave a poem to his son to be finished
 as he would have finished it, just as a man could leave
 a field to his son, to be reaped as he would have reaped it.
-What is called Homeric unity may be a fact or not.
+What is called Homeric [[unity]] may be a fact or not.
 The Iliad may have been written by one man.  It may have been
 written by a hundred men.  But let us remember that there
-was more unity in those times in a hundred men than there
-is unity now in one man.  Then a city was like one man.
-Now one man is like a city in civil war.
+was more [[unity]] in those times in a hundred men than there
+is [[unity]] now in one man.  Then a [[City|city]] was like one man.
+Now one man is like a [[City|city]] in civil war.
 
-Without going, therefore, into questions of unity as understood
-by the scholars, we may say of the scholarly riddle that the book has
-unity in the sense that all great traditional creations have unity;
-in the sense that Canterbury Cathedral has unity.  And the same
-is broadly true of what I have called the philosophical riddle.
+Without going, therefore, into questions of [[unity]] as understood
+by the scholars, we may say of the scholarly [[Riddle|riddle]] that the book has
+[[unity]] in the sense that all great traditional creations have [[unity]];
+in the sense that Canterbury [[Cathedral]] has [[unity]].  And the same
+is broadly true of what I have called the philosophical [[Riddle|riddle]].
 There is a real sense in which the Book of Job stands apart from
 most of the books included in the canon of the Old Testament.
-But here again those are wrong who insist on the entire absence of unity.
+But here again those are wrong who insist on the entire absence of [[unity]].
 
 Those are wrong who maintain that the Old Testament is
 a mere loose library; that it has no consistency or aim.
-Whether the result was achieved by some supernal spiritual truth,
+Whether the result was achieved by some supernal spiritual [[Truth|truth]],
 or by a steady national tradition, or merely by an ingenious
 selection in after times, the books of the Old Testament
-have a quite perceptible unity.  To attempt to understand
+have a quite perceptible [[unity]].  To attempt to understand
 the Old Testament without realizing this main idea is as absurd
 as it would be to study one of Shakespeare's plays without realizing
 that the author of them had any philosophical object at all.
-It is as if a man were to read the history of Hamlet, Prince
-of Denmark, thinking all the time that he was reading what really
-purported to be the history of an old Danish pirate prince.
-Such a reader would not realize at all that Hamlet's
+It is as if a man were to read the [[history]] of [[Hamlet]], Prince
+of [[Denmark]], thinking all the [[Time|time]] that he was reading what really
+purported to be the [[history]] of an old Danish pirate prince.
+Such a reader would not realize at all that [[Hamlet]]'s
 procrastination was on the part of the poet intentional.
-He would merely say, "How long Shakespeare's hero does
-take to kill his enemy."  So speak the Bible smashers,
-who are unfortunately always at bottom Bible worshippers.
+He would merely say, "How long Shakespeare's [[Hero|hero]] does
+take to kill his enemy."  So speak the [[Bible]] smashers,
+who are unfortunately always at [[Bottom|bottom]] [[Bible]] worshippers.
 They do not understand the special tone and intention
 of the Old Testament; they do not understand its main idea,
 which is the idea of all men being merely the instruments
@@ -117,50 +117,50 @@ pre-Christian scriptures a purely Christian idea the idea
 of saints, the idea that the chief instruments of God are
 very particularly good men.  This is a deeper, a more daring,
 and a more interesting idea than the old Jewish one.
-It is the idea that innocence has about it something terrible
+It is the idea that [[innocence]] has about it something terrible
 which in the long run makes and re-makes empires and the world.
 But the Old Testament idea was much more what may be called
 the common-sense idea, that strength is strength, that cunning
-is cunning, that worldly success is worldly success,
+is cunning, that worldly [[success]] is worldly [[success]],
 and that Jehovah uses these things for His own ultimate purpose,
 just as He uses natural forces or physical elements.
-He uses the strength of a hero as He uses that of a
+He uses the strength of a [[Hero|hero]] as He uses that of a
 Mammoth without any particular respect for the Mammoth.
 I cannot comprehend how it is that so many simple-minded
 sceptics have read such stories as the fraud of Jacob
 and supposed that the man who wrote it (whoever he was)
-did not know that Jacob was a sneak just as well as we do.
-The primeval human sense of honour does not change
+did not know that Jacob was a sneak just as [[Well|well]] as we do.
+The primeval human sense of [[Honour|honour]] does not change
 so much as that.  But these simple-minded sceptics are,
 like the majority of modern sceptics, Christians.
 They fancy that the patriarchs must be meant for patterns;
 they fancy that Jacob was being set up as some kind of saint;
-and in that case I do not wonder that they are a little startled.
+and in that case I do not [[Wonder|wonder]] that they are a little startled.
 That is not the atmosphere of the Old Testament at all.
 The heroes of the Old Testament are not the sons of God,
 but the slaves of God, gigantic and terrible slaves,
 like the genii, who were the slaves of Aladdin.
 
 The central idea of the great part of the Old Testament may be called
-the idea of the loneliness of God.  God is not the only chief
+the idea of the [[Loneliness|loneliness]] of God.  God is not the only chief
 character of the Old Testament; God is properly the only character
 in the Old Testament.  Compared with His clearness of purpose all
-the other wills are heavy and automatic, like those of animals;
+the other wills are heavy and automatic, like those of [[Animals|animals]];
 compared with His actuality all the sons of flesh are shadows.
 Again and again the note is struck, "With whom hath he taken counsel?"
-"I have trodden the wine press alone, and of the peoples
+"I have trodden the wine press [[Alone|alone]], and of the peoples
 there was no man with me."  All the patriarchs and prophets
 are merely His tools or weapons; for the Lord is a man of war.
 He uses Joshua like an axe or Moses like a measuring-rod.
-For Him Samson is only a sword and Isaiah a trumpet.
-The saints of Christianity are supposed to be like God, to be,
-as it were, little statuettes of Him.  The Old Testament hero
-is no more supposed to be of the same nature as God than a saw
+For Him Samson is only a [[Sword|sword]] and Isaiah a trumpet.
+The saints of [[Christianity]] are supposed to be like God, to be,
+as it were, little statuettes of Him.  The Old Testament [[Hero|hero]]
+is no more supposed to be of the same [[Nature|nature]] as God than a saw
 or a hammer is supposed to be of the same shape as the carpenter.
 
 This is the main key and characteristic of the Hebrew scriptures
 as a whole.  There are, indeed, in those scriptures innumerable
-instances of the sort of rugged humour, keen emotion, and powerful
+instances of the sort of rugged [[Humour|humour]], keen emotion, and powerful
 individuality which is never wanting in great primitive prose and poetry.
 Nevertheless the main characteristic remains; the sense not merely
 that God is stronger than man, not merely that God is more secret
@@ -172,12 +172,12 @@ We might almost put it thus.  The book is so intent upon asserting
 the personality of God that it almost asserts the impersonality of man.
 Unless this gigantic cosmic brain has conceived a thing, that thing is
 insecure and void; man has not enough tenacity to ensure its continuance.
-"Except the Lord build the house their labour is but lost that build it.
-Except the Lord keep the city the watchman watcheth but in vain."
+"Except the Lord build the [[house]] their labour is but lost that build it.
+Except the Lord keep the [[City|city]] the watchman watcheth but in vain."
 
 Everywhere else, then, the Old Testament positively rejoices
 in the obliteration of man in comparison with the divine purpose.
-The Book of Job stands definitely alone because the Book of Job
+The Book of Job stands definitely [[Alone|alone]] because the Book of Job
 definitely asks, "But what is the purpose of God?  Is it
 worth the sacrifice even of our miserable humanity?
 Of course it is easy enough to wipe out our own paltry wills for
@@ -185,33 +185,33 @@ the sake of a will that is grander and kinder?  But is it grander
 and kinder?  Let God use His tools; let God break His tools.
 But what is He doing and what are they being broken for?"
 It is because of this question that we have to attack as a
-philosophical riddle the riddle of the Book of Job.
+philosophical [[Riddle|riddle]] the [[Riddle|riddle]] of the Book of Job.
 
 The present importance of the Book of Job cannot be expressed adequately
 even by saying that it is the most interesting of ancient books.
 We may almost say of the Book of Job that it is the most interesting
-of modern books.  In truth, of course, neither of the two phrases
+of modern books.  In [[Truth|truth]], of course, neither of the two phrases
 covers the matter, because fundamental human religion and fundamental
-human irreligion are both at once old and new; philosophy is either
-eternal or it is not philosophy.  The modern habit of saying,
+human irreligion are both at once old and new; [[philosophy]] is either
+eternal or it is not [[philosophy]].  The modern habit of saying,
 "This is my opinion, but I may be wrong," is entirely irrational.
 If I say that it may be wrong I say that is not my opinion.
-The modern habit of saying "Every man has a different philosophy;
-this is my philosophy and its suits me"; the habit of saying this
-is mere weak-mindedness. A cosmic philosophy is not constructed
-to fit a man; a cosmic philosophy is constructed to fit a cosmos.
+The modern habit of saying "Every man has a different [[philosophy]];
+this is my [[philosophy]] and its suits me"; the habit of saying this
+is mere weak-mindedness. A cosmic [[philosophy]] is not constructed
+to fit a man; a cosmic [[philosophy]] is constructed to fit a cosmos.
 A man can no more possess a private religion than he can possess
-a private sun and moon.  The first of the intellectual beauties of
-the Book of Job is that it is all concerned with this desire to know
-the actuality; the desire toknow what is, and not merely what seems.
+a private sun and [[Moon|moon]].  The first of the intellectual beauties of
+the Book of Job is that it is all concerned with this [[Desire|desire]] to know
+the actuality; the [[Desire|desire]] toknow what is, and not merely what seems.
 If moderns were writing the book we should probably find that Job and his
-comforters got on quite well together by the simple operation of referring
+comforters got on quite [[Well|well]] together by the simple operation of referring
 their differences to what is called the temperament, saying that the
-comforters were by nature "optimists" and Job by nature a "pessimist."
+comforters were by [[Nature|nature]] "optimists" and Job by [[Nature|nature]] a "pessimist."
 And they would be quite comfortable, as people can often be,
-for some time at least, by agreeing to say what is obviously untrue.
+for some [[Time|time]] at least, by agreeing to say what is obviously untrue.
 For if the word "pessimist" means anything at all, then emphatically
-Job is not a pessimist.  His case alone is sufficient to refute
+Job is not a pessimist.  His case [[Alone|alone]] is sufficient to refute
 the modern absurdity of referring everything to physical temperament.
 Job does not in any sense look at life in a gloomy way.
 If wishing to be happy and being quite ready to be happy constitute
@@ -231,11 +231,11 @@ he says, "Oh, that mine adversary had written a book!"
 It never really occurs to him that it could possibly be a bad book.
 He is anxious to be convinced, that is, he thinks that God could
 convince him.  In short, we may say again that if the word optimist
-means any thing (which I doubt) Job is an optimist.  He shakes
+means any thing (which I [[Doubt|doubt]]) Job is an optimist.  He shakes
 the pillars of the world and strikes insanely at the heavens; he lashes
-the stars, but it is not to silence them; it is to make them speak.
+the [[Stars|stars]], but it is not to [[Silence|silence]] them; it is to make them speak.
 In the same way we may speak of the official optimists, the Comforters
-of Job.  Again, if the word pessimist means anything (which I doubt)
+of Job.  Again, if the word pessimist means anything (which I [[Doubt|doubt]])
 the comforters of Job may be called pessimists rather than optimists.
 All that they really believe is not that God is good but that God
 is so strong that it is much more judicious to call Him good.
@@ -265,14 +265,14 @@ accept a kind of controversial equality with His accusers.
 He is willing to regard it as if it were a fair intellectual duel:
 "Gird up now thy loins like a man; for I will demand of thee,
 and answer thou me."  The everlasting adopts an enormous
-and sardonic humility.  He is quite willing to be prosecuted.
+and sardonic [[Humility|humility]].  He is quite willing to be prosecuted.
 He only asks for the right which every prosecuted person possesses;
-He asks to be allowed to cross-examine the witness for the prosecution.
+He asks to be allowed to [[Cross|cross]]-examine the witness for the prosecution.
 And He carries yet further the correctness of the legal parallel.
 For the first question, essentially speaking, which He asks
 of Job is the question that any criminal accused by Job would
 be most entitled to ask.  He asks Job who he is.  And Job,
-being a man of candid intellect, takes a little time to consider,
+being a man of candid intellect, takes a little [[Time|time]] to consider,
 and comes to the conclusion that he does not know.
 
 This is the first great fact to notice about the speech of God,
@@ -282,23 +282,23 @@ used sometimes by supreme and sometimes by mediocre minds,
 that has ever since been the logical weapon of the true mystic.
 Socrates, as I have said, used it when he showed that if you only
 allowed him enough sophistry he could destroy all the sophists.
-Jesus Christ used it when He reminded the Sadducees, who could
-not imagine the nature of marriage in heaven, that if it came
-to that they had not really imagined the nature of marriage at all.
+Jesus [[Christ]] used it when He reminded the Sadducees, who could
+not imagine the [[Nature|nature]] of [[Marriage|marriage]] in heaven, that if it came
+to that they had not really imagined the [[Nature|nature]] of [[Marriage|marriage]] at all.
 In the break up of Christian theology in the eighteenth century,
 Butler used it, when he pointed out that rationalistic arguments could
 be used as much against vague religion as against doctrinal religion,
 as much against rationalist ethics as against Christian ethics.
 It is the root and reason of the fact that men who have religious
-faith have also philosophic doubt, like Cardinal Newman, Mr. Balfour,
+[[Faith|faith]] have also philosophic [[Doubt|doubt]], like Cardinal Newman, Mr. Balfour,
 or Mr. Mallock.  These are the small streams of the delta;
 the Book of Job is the first great cataract that creates
-the river.  In dealing with the arrogant asserter of doubt,
+the [[River|river]].  In dealing with the arrogant asserter of [[Doubt|doubt]],
 it is not the right method to tell him to stop doubting.
 It is rather the right method to tell him to go on doubting,
-to doubt a little more, to doubt every day newer and wilder things
+to [[Doubt|doubt]] a little more, to [[Doubt|doubt]] every day newer and wilder things
 in the universe, until at last, by some strange enlightenment,
-he may begin to doubt himself.  This, I say, is the first fact
+he may begin to [[Doubt|doubt]] himself.  This, I say, is the first fact
 touching the speech; the fine inspiration by which God comes
 in at the end, not to answer riddles, but to propound them.
 The other great fact which, taken together with this one,
@@ -328,7 +328,7 @@ as far as men are concerned, it is that it cannot be explained.
 He insists on the inexplicableness of everything;
 "Hath the rain a father? . . . Out of whose womb came the ice?"
 He goes farther, and insists on the positive and palpable unreason
-of things; "Hast thou sent the rain upon the desert where no
+of things; "Hast thou sent the rain upon the [[Desert|desert]] where no
 man is, and upon the wilderness wherein there is no man?"
 God will make man see things, if it is only against the black
 background of nonentity.  God will make Job see a startling universe
@@ -336,10 +336,10 @@ if He can only do it by making Job see an idiotic universe.
 To startle man God becomes for an instant a blasphemer;
 one might almost say that God becomes for an instant an atheist.
 He unrolls before Job a long panorama of created things,
-the horse, the eagle, the raven, the wild ass, the peacock,
+the [[Horse|horse]], the eagle, [[The Raven|the raven]], the wild ass, the peacock,
 the ostrich, the crocodile.  He so describes each of them
-that it sounds like a monster walking in the sun.
-The whole is a sort of psalm or rhapsody of the sense of wonder.
+that it sounds like a [[Monster|monster]] walking in the sun.
+The whole is a sort of psalm or rhapsody of the sense of [[Wonder|wonder]].
 The maker of all things is astonished at the things He has
 Himself made.  This we may call the third point.  Job puts forward
 a note of interrogation; God answers with a note of exclamation.
@@ -361,10 +361,10 @@ Almighty Himself were scarcely aware that He was letting them out.
 For instance, there is that famous passage where Jehovah with
 devastating sarcasm, asks Job where he was when the foundations
 of the world were laid, and then (as if merely fixing a date)
-mentions the time when the sons of God shouted for joy.
+mentions the [[Time|time]] when the sons of God shouted for joy.
 One cannot help feeling, even upon this meagre information,
 that they must have had something to shout about.  Or again,
-when God is speaking of snow and hail in the mere catalogue
+when God is speaking of [[Snow|snow]] and hail in the mere catalogue
 of the physical cosmos, He speaks of them as a treasury that He
 has laid up against the day of battle--a hint of some huge
 Armageddon in which evil shall be at last overthrown.
@@ -372,33 +372,33 @@ Armageddon in which evil shall be at last overthrown.
 Nothing could be better, artistically speaking, than this optimism
 breaking through agnosticism like fiery gold round the edges
 of a black cloud.  Those who look superficially at the barbaric
-origin of the epic may think it fanciful to read so much artistic
+origin of the [[Epic|epic]] may think it fanciful to read so much artistic
 significance into its casual similes or accidental phrases.  But no one
-who is well acquainted with great examples of semi-barbaric poetry,
-as in the Song of Roland or the old ballads, will fall into this mistake.
+who is [[Well|well]] acquainted with great examples of semi-barbaric poetry,
+as in the [[Song]] of Roland or the old ballads, will fall into this mistake.
 No one who knows what primitive poetry is, can fail to realize that while
 its conscious form is simple some of its finer effects are subtle.
-The Iliad contrives to express the idea that Hector and Sarpedon have
-a certain tone or tint of sad and chivalrous resignation, not bitter
+The Iliad contrives to express the idea that [[Hector]] and Sarpedon have
+a certain tone or tint of sad and chivalrous [[Resignation|resignation]], not bitter
 enough to be called pessimism and not jovial enough to be called optimism;
 Homer could never have said this in elaborate words.  But somehow
-he contrives to say it in simple words.  The Song of Roland contrives
-to express the idea that Christianity imposes upon its heroes a paradox:
-a paradox of great humility in the matter of their sins combined
-with great ferocity in the matter of their ideas.  Of course the Song
+he contrives to say it in simple words.  The [[Song]] of Roland contrives
+to express the idea that [[Christianity]] imposes upon its heroes a [[Paradox|paradox]]:
+a [[Paradox|paradox]] of great [[Humility|humility]] in the matter of their sins combined
+with great ferocity in the matter of their ideas.  Of course the [[Song]]
 of Roland could not say this; but it conveys this.  In the same way
 the Book of Job must be credited with many subtle effects which were
-in the author's soul without being, perhaps, in the author's mind.
+in the author's [[Soul|soul]] without being, perhaps, in the author's mind.
 And of these by far the most important remains even yet to be stated.
-I do not know, and I doubt whether even scholars know, if the Book
+I do not know, and I [[Doubt|doubt]] whether even scholars know, if the Book
 of Job had a great effect or had any effect upon the after development
 of Jewish thought.  But if it did have any effect it may have saved them
-from an enormous collapse and decay.  Here in this Book the question
+from an enormous collapse and [[Decay|decay]].  Here in this Book the question
 is really asked whether God invariably punishes vice with terrestrial
 punishment and rewards virtue with terrestrial prosperity.
 If the Jews had answered that question wrongly they might have
-lost all their after influence in human history.  They might have
-sunk even down to the level of modern well educated society.
+lost all their after influence in human [[history]].  They might have
+sunk even down to the level of modern [[Well|well]] educated society.
 For when once people have begun to believe that prosperity is the reward
 of virtue their next calamity is obvious.  If prosperity is regarded
 as the reward of virtue it will be regarded as the symptom of virtue.
@@ -417,8 +417,8 @@ the worst of men, but because he was the best.  It is the lesson
 of the whole work that man is most comforted by paradoxes.
 Here is the very darkest and strangest of the paradoxes;
 and it is by all human testimony the most reassuring.
-I need not suggest what a high and strange history awaited
-this paradox of the best man in the worst fortune.
+I need not suggest what a high and strange [[history]] awaited
+this [[Paradox|paradox]] of the best man in the worst fortune.
 I need not say that in the freest and most philosophical
 sense there is one Old Testament figure who is truly a type;
 or say what is prefigured in the wounds of Job.

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MAN WHO COULD NOT HATE"
+title: "[[FourFaultlessFelons]] — THE MAN WHO COULD NOT HATE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

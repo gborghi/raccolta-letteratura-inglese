@@ -17,45 +17,45 @@ tags:
 CHAPTER VI—THE HOSPITAL PATIENT
 
 
-In our rambles through the streets of London after evening has set in,
+In our rambles through the streets of [[London]] after evening has set in,
 we often pause beneath the windows of some public hospital, and picture
 to ourself the gloomy and mournful scenes that are passing within. The
-sudden moving of a taper as its feeble ray shoots from window to
-window, until its light gradually disappears, as if it were carried
-farther back into the room to the bedside of some suffering patient, is
+sudden moving of a taper as its feeble ray shoots from [[Window|window]] to
+[[Window|window]], until its light gradually disappears, as if it were carried
+farther back into the room to the bedside of some [[Suffering|suffering]] patient, is
 enough to awaken a whole crowd of reflections; the mere glimmering of
 the low-burning lamps, which, when all other habitations are wrapped in
 darkness and slumber, denote the chamber where so many forms are
-writhing with pain, or wasting with disease, is sufficient to check the
+writhing with [[Pain|pain]], or wasting with disease, is sufficient to check the
 most boisterous merriment.
 
 Who can tell the anguish of those weary hours, when the only sound the
 sick man hears, is the disjointed wanderings of some feverish slumberer
-near him, the low moan of pain, or perhaps the muttered, long-forgotten
-prayer of a dying man? Who, but they who have felt it, can imagine the
-sense of loneliness and desolation which must be the portion of those
+near him, the low moan of [[Pain|pain]], or perhaps the muttered, long-forgotten
+[[Prayer|prayer]] of a dying man? Who, but they who have felt it, can imagine the
+sense of [[Loneliness|loneliness]] and desolation which must be the portion of those
 who in the hour of dangerous illness are left to be tended by
 strangers; for what hands, be they ever so gentle, can wipe the clammy
-brow, or smooth the restless bed, like those of mother, wife, or child?
+brow, or smooth the restless bed, like those of mother, wife, or [[Child|child]]?
 
 Impressed with these thoughts, we have turned away, through the
 nearly-deserted streets; and the sight of the few miserable creatures
-still hovering about them, has not tended to lessen the pain which such
+still hovering about them, has not tended to lessen the [[Pain|pain]] which such
 meditations awaken. The hospital is a refuge and resting-place for
 hundreds, who but for such institutions must die in the streets and
 doorways; but what can be the feelings of some outcasts when they are
-stretched on the bed of sickness with scarcely a hope of recovery? The
+stretched on the bed of sickness with scarcely a [[Hope|hope]] of recovery? The
 wretched woman who lingers about the pavement, hours after midnight,
-and the miserable shadow of a man—the ghastly remnant that want and
-drunkenness have left—which crouches beneath a window-ledge, to sleep
+and the miserable [[Shadow|shadow]] of a man—the ghastly remnant that want and
+drunkenness have left—which crouches beneath a [[Window|window]]-ledge, to [[Sleep|sleep]]
 where there is some shelter from the rain, have little to bind them to
-life, but what have they to look back upon, in death? What are the
+life, but what have they to look back upon, in [[Death|death]]? What are the
 unwonted comforts of a roof and a bed, to them, when the recollections
 of a whole life of debasement stalk before them; when repentance seems
 a mockery, and sorrow comes too late?
 
-About a twelvemonth ago, as we were strolling through Covent-garden (we
-had been thinking about these things over-night), we were attracted by
+About a twelvemonth ago, as we were strolling through Covent-[[Garden|garden]] (we
+had been thinking about these things over-[[Night|night]]), we were attracted by
 the very prepossessing appearance of a pickpocket, who having declined
 to take the trouble of walking to the Police-office, on the ground that
 he hadn’t the slightest wish to go there at all, was being conveyed
@@ -68,15 +68,15 @@ as could squeeze their way in.
 
 There was a powerful, ill-looking young fellow at the bar, who was
 undergoing an examination, on the very common charge of having, on the
-previous night, ill-treated a woman, with whom he lived in some court
+previous [[Night|night]], ill-treated a woman, with whom he lived in some [[Court|court]]
 hard by. Several witnesses bore testimony to acts of the grossest
-brutality; and a certificate was read from the house-surgeon of a
-neighbouring hospital, describing the nature of the injuries the woman
+brutality; and a certificate was read from the [[house]]-surgeon of a
+neighbouring hospital, describing the [[Nature|nature]] of the injuries the woman
 had received, and intimating that her recovery was extremely doubtful.
 
-Some question appeared to have been raised about the identity of the
+Some question appeared to have been raised about the [[Identity|identity]] of the
 prisoner; for when it was agreed that the two magistrates should visit
-the hospital at eight o’clock that evening, to take her deposition, it
+the hospital at eight o’[[Clock|clock]] that evening, to take her deposition, it
 was settled that the man should be taken there also. He turned pale at
 this, and we saw him clench the bar very hard when the order was given.
 He was removed directly afterwards, and he spoke not a word.
@@ -92,7 +92,7 @@ magistrates in a small room below stairs. The man was handcuffed, and
 his hat was pulled forward over his eyes. It was easy to see, though,
 by the whiteness of his countenance, and the constant twitching of the
 muscles of his face, that he dreaded what was to come. After a short
-interval, the magistrates and clerk were bowed in by the house-surgeon
+interval, the magistrates and clerk were bowed in by the [[house]]-surgeon
 and a couple of young men who smelt very strong of tobacco-smoke—they
 were introduced as ‘dressers’—and after one magistrate had complained
 bitterly of the cold, and the other of the absence of any news in the
@@ -102,26 +102,26 @@ were conducted to the ‘casualty ward’ in which she was lying.
 The dim light which burnt in the spacious room, increased rather than
 diminished the ghastly appearance of the hapless creatures in the beds,
 which were ranged in two long rows on either side. In one bed, lay a
-child enveloped in bandages, with its body half-consumed by fire; in
+[[Child|child]] enveloped in bandages, with its [[Body|body]] half-consumed by [[Fire|fire]]; in
 another, a female, rendered hideous by some dreadful accident, was
-wildly beating her clenched fists on the coverlet, in pain; on a third,
+wildly beating her clenched fists on the coverlet, in [[Pain|pain]]; on a third,
 there lay stretched a young girl, apparently in the heavy stupor often
-the immediate precursor of death: her face was stained with blood, and
+the immediate precursor of [[Death|death]]: her face was stained with [[Blood|blood]], and
 her breast and arms were bound up in folds of linen. Two or three of
 the beds were empty, and their recent occupants were sitting beside
 them, but with faces so wan, and eyes so bright and glassy, that it was
 fearful to meet their gaze. On every face was stamped the expression of
-anguish and suffering.
+anguish and [[Suffering|suffering]].
 
 The object of the visit was lying at the upper end of the room. She was
 a fine young woman of about two or three and twenty. Her long black
 hair, which had been hastily cut from near the wounds on her head,
 streamed over the pillow in jagged and matted locks. Her face bore deep
 marks of the ill-usage she had received: her hand was pressed upon her
-side, as if her chief pain were there; her breathing was short and
+side, as if her chief [[Pain|pain]] were there; her breathing was short and
 heavy; and it was plain to see that she was dying fast. She murmured a
 few words in reply to the magistrate’s inquiry whether she was in great
-pain; and, having been raised on the pillow by the nurse, looked
+[[Pain|pain]]; and, having been raised on the pillow by the [[Nurse|nurse]], looked
 vacantly upon the strange countenances that surrounded her bed. The
 magistrate nodded to the officer, to bring the man forward. He did so,
 and stationed him at the bedside. The girl looked on with a wild and
@@ -131,12 +131,12 @@ know him.
 ‘Take off his hat,’ said the magistrate. The officer did as he was
 desired, and the man’s features were disclosed.
 
-The girl started up, with an energy quite preternatural; the fire
-gleamed in her heavy eyes, and the blood rushed to her pale and sunken
+The girl started up, with an energy quite preternatural; the [[Fire|fire]]
+gleamed in her heavy eyes, and the [[Blood|blood]] rushed to her pale and sunken
 cheeks. It was a convulsive effort. She fell back upon her pillow, and
-covering her scarred and bruised face with her hands, burst into tears.
+covering her scarred and bruised face with her hands, burst into [[Tears|tears]].
 The man cast an anxious look towards her, but otherwise appeared wholly
-unmoved. After a brief pause the nature of the errand was explained,
+unmoved. After a brief pause the [[Nature|nature]] of the errand was explained,
 and the oath tendered.
 
 ‘Oh, no, gentlemen,’ said the girl, raising herself once more, and
@@ -156,10 +156,10 @@ know to be untrue, until it is too late. It cannot save him.’
 ‘Jack,’ murmured the girl, laying her hand upon his arm, ‘they shall
 not persuade me to swear your life away. He didn’t do it, gentlemen. He
 never hurt me.’ She grasped his arm tightly, and added, in a broken
-whisper, ‘I hope God Almighty will forgive me all the wrong I have
+whisper, ‘I [[Hope|hope]] God Almighty will forgive me all the wrong I have
 done, and the life I have led. God bless you, Jack. Some kind gentleman
-take my love to my poor old father. Five years ago, he said he wished I
-had died a child. Oh, I wish I had! I wish I had!’
+take my [[Love|love]] to my poor old father. Five years ago, he said he wished I
+had died a [[Child|child]]. Oh, I wish I had! I wish I had!’
 
-The nurse bent over the girl for a few seconds, and then drew the sheet
+The [[Nurse|nurse]] bent over the girl for a few seconds, and then drew the sheet
 over her face. It covered a corpse.

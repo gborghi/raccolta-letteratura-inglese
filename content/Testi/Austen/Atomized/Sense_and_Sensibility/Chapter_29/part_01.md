@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 29 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 29 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,17 +20,17 @@ CHAPTER XXIX.
 
 
 
-Before the housemaid had lit their fire the next day, or the sun gained
+Before the housemaid had lit their [[Fire|fire]] the next day, or the sun gained
 
 any power over a cold, gloomy morning in January, Marianne, only half
 
-dressed, was kneeling against one of the window-seats for the sake of
+dressed, was kneeling against one of the [[Window|window]]-seats for the sake of
 
 all the little light she could command from it, and writing as fast as
 
-a continual flow of tears would permit her. In this situation, Elinor,
+a continual flow of [[Tears|tears]] would permit her. In this situation, Elinor,
 
-roused from sleep by her agitation and sobs, first perceived her; and
+roused from [[Sleep|sleep]] by her agitation and sobs, first perceived her; and
 
 after observing her for a few moments with silent anxiety, said, in a
 
@@ -58,7 +58,7 @@ obliged her, at intervals, to withhold her pen, were proofs enough of
 
 her feeling how more than probable it was that she was writing for the
 
-last time to Willoughby.
+last [[Time|time]] to Willoughby.
 
 
 
@@ -76,9 +76,9 @@ restless state of Marianne’s mind not only prevented her from remaining
 
 in the room a moment after she was dressed, but requiring at once
 
-solitude and continual change of place, made her wander about the house
+[[Solitude|solitude]] and continual change of place, made her wander about the [[house]]
 
-till breakfast time, avoiding the sight of every body.
+till breakfast [[Time|time]], avoiding the sight of every [[Body|body]].
 
 
 
@@ -94,13 +94,13 @@ engage Mrs. Jennings’s notice entirely to herself.
 
 As this was a favourite meal with Mrs. Jennings, it lasted a
 
-considerable time, and they were just setting themselves, after it,
+considerable [[Time|time]], and they were just setting themselves, after it,
 
 round the common working table, when a letter was delivered to
 
 Marianne, which she eagerly caught from the servant, and, turning of a
 
-death-like paleness, instantly ran out of the room. Elinor, who saw as
+[[Death|death]]-like paleness, instantly ran out of the room. Elinor, who saw as
 
 plainly by this, as if she had seen the direction, that it must come
 
@@ -108,7 +108,7 @@ from Willoughby, felt immediately such a sickness at heart as made her
 
 hardly able to hold up her head, and sat in such a general tremour as
 
-made her fear it impossible to escape Mrs. Jennings’s notice. That good
+made her [[Fear|fear]] it impossible to escape Mrs. Jennings’s notice. That good
 
 lady, however, saw only that Marianne had received a letter from
 
@@ -124,13 +124,13 @@ calmly continuing her talk, as soon as Marianne disappeared, she said,
 
 
 
-“Upon my word, I never saw a young woman so desperately in love in my
+“Upon my word, I never saw a young woman so desperately in [[Love|love]] in my
 
 life! _My_ girls were nothing to her, and yet they used to be foolish
 
 enough; but as for Miss Marianne, she is quite an altered creature. I
 
-hope, from the bottom of my heart, he won’t keep her waiting much
+[[Hope|hope]], from the [[Bottom|bottom]] of my heart, he won’t keep her waiting much
 
 longer, for it is quite grievous to see her look so ill and forlorn.
 
@@ -144,7 +144,7 @@ obliged herself to answer such an attack as this, and, therefore,
 
 trying to smile, replied, “And have you really, Ma’am, talked yourself
 
-into a persuasion of my sister’s being engaged to Mr. Willoughby? I
+into a [[Persuasion|persuasion]] of my sister’s being engaged to Mr. Willoughby? I
 
 thought it had been only a joke, but so serious a question seems to
 
@@ -158,7 +158,7 @@ more than to hear of their being going to be married.”
 
 “For shame, for shame, Miss Dashwood! how can you talk so? Don’t we all
 
-know that it must be a match, that they were over head and ears in love
+know that it must be a match, that they were over head and ears in [[Love|love]]
 
 with each other from the first moment they met? Did not I see them
 
@@ -172,7 +172,7 @@ yourself, you think nobody else has any senses; but it is no such
 
 thing, I can tell you, for it has been known all over town this ever so
 
-long. I tell every body of it and so does Charlotte.”
+long. I tell every [[Body|body]] of it and so does Charlotte.”
 
 
 
@@ -198,11 +198,11 @@ saying a word; and seating herself on the bed, took her hand, kissed
 
 her affectionately several times, and then gave way to a burst of
 
-tears, which at first was scarcely less violent than Marianne’s. The
+[[Tears|tears]], which at first was scarcely less violent than Marianne’s. The
 
 latter, though unable to speak, seemed to feel all the tenderness of
 
-this behaviour, and after some time thus spent in joint affliction, she
+this behaviour, and after some [[Time|time]] thus spent in joint affliction, she
 
 put all the letters into Elinor’s hands; and then covering her face
 
@@ -210,7 +210,7 @@ with her handkerchief, almost screamed with agony. Elinor, who knew
 
 that such grief, shocking as it was to witness it, must have its
 
-course, watched by her till this excess of suffering had somewhat spent
+course, watched by her till this excess of [[Suffering|suffering]] had somewhat spent
 
 itself, and then turning eagerly to Willoughby’s letter, read as
 
@@ -226,6 +226,6 @@ follows:
 
         MY DEAR MADAM,
 
-    “I have just had the honour of receiving your letter, for which I
+    “I have just had the [[Honour|honour]] of receiving your letter, for which I
 
     beg to return my sincere acknowledgments. I am much concerned to

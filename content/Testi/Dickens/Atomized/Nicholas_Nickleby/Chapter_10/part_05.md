@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 10 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 10 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Then what a doubly demd infernal rascal that footman must be, my soul,’
+‘Then what a doubly demd infernal rascal that footman must be, my [[Soul|soul]],’
 remonstrated Mr. Mantalini.
 
 ‘My dear,’ said Madame, ‘that is entirely your fault.’
@@ -24,12 +24,12 @@ remonstrated Mr. Mantalini.
 ‘Certainly,’ returned the lady; ‘what can you expect, dearest, if you
 will not correct the man?’
 
-‘Correct the man, my soul’s delight!’
+‘Correct the man, my [[Soul|soul]]’s delight!’
 
 ‘Yes; I am sure he wants speaking to, badly enough,’ said Madame,
 pouting.
 
-‘Then do not vex itself,’ said Mr. Mantalini; ‘he shall be horse-whipped
+‘Then do not vex itself,’ said Mr. Mantalini; ‘he shall be [[Horse|horse]]-whipped
 till he cries out demnebly.’ With this promise Mr. Mantalini kissed
 Madame Mantalini, and, after that performance, Madame Mantalini pulled
 Mr. Mantalini playfully by the ear: which done, they descended to
@@ -39,7 +39,7 @@ business.
 scorn as few men can express in looks, ‘this is my niece.’
 
 ‘Just so, Mr. Nickleby,’ replied Madame Mantalini, surveying Kate from
-head to foot, and back again. ‘Can you speak French, child?’
+head to foot, and back again. ‘Can you speak French, [[Child|child]]?’
 
 ‘Yes, ma’am,’ replied Kate, not daring to look up; for she felt that the
 eyes of the odious man in the dressing-gown were directed towards her.
@@ -70,8 +70,8 @@ ballet-dancers,’ replied Mantalini in a poetical strain.
 wife. ‘What can Mr. Nickleby think when he hears you?’
 
 ‘Oh! Nothing, ma’am, nothing,’ replied Ralph. ‘I know his amiable
-nature, and yours,--mere little remarks that give a zest to your daily
-intercourse--lovers’ quarrels that add sweetness to those domestic joys
+[[Nature|nature]], and yours,--mere little remarks that give a zest to your daily
+intercourse--[[lovers]]’ quarrels that add sweetness to those domestic joys
 which promise to last so long--that’s all; that’s all.’
 
 If an iron door could be supposed to quarrel with its hinges, and to
@@ -98,7 +98,7 @@ in a low voice.
 ‘For which reason she’ll work all the better now,’ said Ralph, putting
 in a word, lest this confession should injure the negotiation.
 
-‘I hope so,’ returned Madame Mantalini; ‘our hours are from nine to
+‘I [[Hope|hope]] so,’ returned Madame Mantalini; ‘our hours are from nine to
 nine, with extra work when we’re very full of business, for which I
 allow payment as overtime.’
 
@@ -121,11 +121,11 @@ anything more, Mr. Nickleby?’
 ‘Then I believe that’s all,’ said the lady. Having arrived at this
 natural conclusion, she looked at the door, as if she wished to be
 gone, but hesitated notwithstanding, as though unwilling to leave to Mr
-Mantalini the sole honour of showing them downstairs. Ralph relieved
+Mantalini the sole [[Honour|honour]] of showing them downstairs. Ralph relieved
 her from her perplexity by taking his departure without delay: Madame
 Mantalini making many gracious inquiries why he never came to see them;
 and Mr. Mantalini anathematising the stairs with great volubility as he
-followed them down, in the hope of inducing Kate to look round,--a hope,
+followed them down, in the [[Hope|hope]] of inducing Kate to look round,--a [[Hope|hope]],
 however, which was destined to remain ungratified.
 
 ‘There!’ said Ralph when they got into the street; ‘now you’re provided
@@ -147,14 +147,14 @@ lodgings on Saturday?’
 
 ‘You told us to do so, uncle.’
 
-‘Yes; there is a house empty that belongs to me, which I can put you
+‘Yes; there is a [[house]] empty that belongs to me, which I can put you
 into till it is let, and then, if nothing else turns up, perhaps I shall
 have another. You must live there.’
 
 ‘Is it far from here, sir?’ inquired Kate.
 
-‘Pretty well,’ said Ralph; ‘in another quarter of the town--at the East
-end; but I’ll send my clerk down to you, at five o’clock on Saturday, to
+‘Pretty [[Well|well]],’ said Ralph; ‘in another quarter of the town--at the East
+end; but I’ll send my clerk down to you, at five o’[[Clock|clock]] on Saturday, to
 take you there. Goodbye. You know your way? Straight on.’
 
 Coldly shaking his niece’s hand, Ralph left her at the top of Regent

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 10"
+title: "[[Don Quixote]] — Chapter 10"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -18,9 +18,9 @@ CHAPTER X
 
 WHEN DOCTORS DISAGREE
 
-The house with the pillared porch to which the crawling cab
+The [[house]] with the pillared porch to which the crawling cab
 eventually crawled, had little to distinguish it from a prosperous
-private house.  For the policy of all recent legislations and customs
+private [[house]].  For the policy of all recent legislations and customs
 had been in the direction of conducting public affairs in private.
 The official was all the more omnipotent because he was always
 in plain clothes.  It was possible to take people to and
@@ -39,7 +39,7 @@ to their neighbourhood.  And the magistrate who sat in an
 inner room, to consider the cases as they came, was the newest
 of all.  Unfortunately, while he was new he was also old.
 He had done the same work in many other places; and so formed into
-the habit of doing it smoothly and rapidly and dangerously well.
+the habit of doing it smoothly and rapidly and dangerously [[Well|well]].
 But he was beginning to be a little old to do anything.
 His sight was not what it was; his hearing was not what he thought
 it was.  He was a retired army surgeon of the name of Wotton.
@@ -59,7 +59,7 @@ of questioning his right to act as intermediary; the official attendants
 accepted him as being obviously a highly polished part of machinery,
 and even the official doctor permitted himself to be courteously
 waved into a side room to the left of the magistrate's sanctum.
-Perhaps if they had looked out of the window a moment before,
+Perhaps if they had looked out of the [[Window|window]] a moment before,
 and seen the gentlemanly person fall off the top of the cab,
 they might have been more disturbed.  As it was, the official doctor
 began to be very decidedly disturbed when the gentlemanly person
@@ -82,7 +82,7 @@ of conspiracy mania, I think."
 Dr. Hendry inclined his head in his most graceful manner.
 "Conspiracy is, of course, a symptom rather than a cause," he said.
 "The cause is purely physical . . . purely physical," he coughed
-in a refined manner.  "We don't need to be told at this time of day
+in a refined manner.  "We don't need to be told at this [[Time|time]] of day
 that the distortion of the sense reacts upon the brain, eh?
 In this case I have the strongest reason for supposing that the trouble
 arose originally from a very common malady of the optic nerve.
@@ -103,33 +103,33 @@ dangerous mania, I suppose it's all right."
 
 "In all my experience," said Dr. Hendry solemnly, and with a full
 sense of responsibility, "I have never known a clearer one.
-This optical question is becoming grave, sir.  It is becoming menacing.
+This optical question is becoming [[Grave|grave]], sir.  It is becoming menacing.
 Even at this moment, while I speak, persons unquestionably mad
 are wandering about the world, and even delivering authoritative
 opinions on scientific subjects.  Only the other day--."
 
 At this moment his melodious and persuasive voice was drowned
 for an instant in very remarkable sounds from the next room.
-The noise resembled that of some huge and heavy body being hurled
-against the door; and in the silence that followed something
+The noise resembled that of some huge and heavy [[Body|body]] being hurled
+against the door; and in the [[Silence|silence]] that followed something
 like guttural imprecations, as if hoarse and faint with fury,
 could be heard through the thick partition.
 
 "Good heavens!" cried Mr. Wotton, awakening with a start and looking
-up for the first time.  "What on earth was that?"
+up for the first [[Time|time]].  "What on earth was that?"
 
 Dr. Hendry wagged his head with a beautiful sadness,
 but he continued to smile.
 
-"Ours is a melancholy occupation," he said.  "Dealing with the weaker and
-the wilder aspects of our fallen nature . . . the body of our humiliation,
-I think it is in the Greek Testament . . . the body of our humiliation.
+"Ours is a [[Melancholy|melancholy]] occupation," he said.  "Dealing with the weaker and
+the wilder aspects of our fallen [[Nature|nature]] . . . the [[Body|body]] of our humiliation,
+I think it is in the Greek Testament . . . the [[Body|body]] of our humiliation.
 It sounds only too like the struggle of some unfortunate whom society
 finds it a sad necessity to restrain."
 
-At this moment the body of our humiliation was again
+At this moment the [[Body|body]] of our humiliation was again
 thrown crashing against the door; and it seemed to be
-a body of some weight and momentum and even nobility.
+a [[Body|body]] of some weight and momentum and even nobility.
 The magistrate was not altogether satisfied.  Patients or prisoners
 (or whatever the new social victims ought to be called) were indeed
 frequently taken into the adjoining room to await examination;
@@ -138,11 +138,11 @@ prevent them indicating their impatience in so lively a style.
 The only other hypothesis was that the lunatic next door was
 so exceedingly lively as to have killed his keeper.
 
-Whatever else the old army surgeon was, he was a man of courage.
+Whatever else the old army surgeon was, he was a man of [[Courage|courage]].
 He got up from his desk and went across to the door that was
 still shaking and vibrating with the shocks from within.
 He looked at it for a moment with his head on one side;
-and then deliberately unlocked it.  Though he showed no fear,
+and then deliberately unlocked it.  Though he showed no [[Fear|fear]],
 he had to show a good deal of agility, in leaping back and not being
 flung flat on the floor by the thing that came out of the room.
 At that moment he would have called it a thing rather than a man.
@@ -151,13 +151,13 @@ and Mr. Wotton had a confused feeling confirming the doctor's
 theory that the unfortunate creature must have something the matter
 with its eyes.  It had long tawny tufts of moustache and hair
 standing out in all directions; for it had been ineffectually
-brushing its hair against the wall for some time past.
+brushing its hair against the wall for some [[Time|time]] past.
 It was only when it had fallen into the full daylight of the room
 that the magistrate saw that it was wearing a white waistcoat
 and a grey pair of trousers, such as are seldom worn by a walrus
 or even a wild man of the woods.
 
-"Well, anyhow," he muttered, "he is clothed, if not exactly
+"[[Well]], anyhow," he muttered, "he is clothed, if not exactly
 in his right mind."
 
 The huge man who had fallen through the doorway straightened
@@ -177,7 +177,7 @@ suffered will not be seriously defended, but only silently enjoyed,
 by the wise and good.  He also had a very complete theory of the causes
 of mental breakdown among his fellow citizens.  He also could trace
 to physiological and organic causes the mental condition of his captive.
-He could explain the nature of Spinal Repulsion quite as sanely and
+He could explain the [[Nature|nature]] of Spinal Repulsion quite as sanely and
 serenely as Hendry could that of Colour-Blindness. But somehow he had
 not had the stage set for him so satisfactorily for its exposition.
 At the very moment when he should have sailed into the magistrate's room
@@ -188,9 +188,9 @@ results that we have already seen.  The official, finding himself trapped,
 had behaved as very full-blooded and confident people often behave
 when something happens to them which they never believe to be possible.
 For it is the man whose life goes with a smooth and swift motion,
-who is normally self-satisfied and smiling, who has never been made
+who is normally [[Self|self]]-satisfied and smiling, who has never been made
 to turn aside for anything, who comes with a crash into a real obstacle.
-On the other hand, the history of poor Hendry had been exactly
+On the other hand, the [[history]] of poor Hendry had been exactly
 the opposite.  He had clung pathetically to his polite manners,
 as the only relic of his social status, through a hundred humiliations;
 and he was used to explaining things elegantly to creditors and assuming
@@ -206,28 +206,28 @@ men meet at last; in a rather informal consultation.
 
 Outside, in the street that struggled crazily to the sea-cliff,
 Douglas Murrel sat on the top of his cab, with his face upturned
-to heaven like one whose work has been well and worthily done.
+to heaven like one whose work has been [[Well|well]] and worthily done.
 He was wearing an exceedingly battered and shabby black top hat,
 which was not his own; for he had bought the hat along with the cab;
-though it was the sort of hat which a man might well have been
+though it was the sort of hat which a man might [[Well|well]] have been
 paid to wear, rather than pay for wearing it.  It served his
-particular purpose, however, with great simplicity and success.
+particular purpose, however, with great simplicity and [[success]].
 The hat dominates and defines a figure in inconspicuous
 and colourless clothes; and so long as he wore it he passed
-well enough for the driver of such an ancient vehicle.
+[[Well|well]] enough for the driver of such an ancient vehicle.
 When he took it off and slipped among the officials,
-with his well-brushed hair and gentlemanly manner, they had
-no reason to doubt his claims to a different position.
+with his [[Well|well]]-brushed hair and gentlemanly manner, they had
+no reason to [[Doubt|doubt]] his claims to a different position.
 On the top of the cab, however, he had resumed the hat;
-not without pomp, as a conqueror might crown himself with laurel.
+not without pomp, as a conqueror might [[Crown|crown]] himself with laurel.
 
 He thought he knew what would probably happen and he decided
 to wait for it.  The end of the immediate drama of the captured
-government expert he did not expect to see at that stage;
+[[government]] expert he did not expect to see at that stage;
 he promised himself that if it went too far, he would be able
 to communicate with the authorities later.  As it was, he left
 it almost reverently as a rounded and perfected thing, a poem.
-But if all went well, one consequence was likely enough to follow;
+But if all went [[Well|well]], one consequence was likely enough to follow;
 and when he had waited for about ten minutes, he was gratified
 to find his calculation correct.
 
@@ -236,14 +236,14 @@ the dark pillars of the porch that stood out against the sea;
 as free as the sea-gull that was swerving along the line of the cliff.
 He had an air of almost aggressive good taste; as if informing
 the whole street that he would refuse to inform anybody about
-the delicate professional secrets just confided to him.  He made
+the delicate professional [[Secrets|secrets]] just confided to him.  He made
 a movement as if pulling on a pair of invisible gloves, and he quite
 naturally stepped into the hansom cab, before he had thought of it.
-The conscientious cabman pulled down his top hat over his brows
+The conscientious [[cabman]] pulled down his top hat over his brows
 and rapidly drove him away up the steep and stony streets.
 
-For the present at least, the chronicler may well maintain an awful
-silence about what happened between the magistrate and the doctor.
+For the present at least, the chronicler may [[Well|well]] maintain an awful
+[[Silence|silence]] about what happened between the magistrate and the doctor.
 And indeed Murrel's own mind showed a curious and rather indescribable
 disposition to drop the whole topic and to leave it behind him.
 He had a reputation for playing practical jokes.  But this moment of his
@@ -256,22 +256,22 @@ of the liberation of many things and the opening of a brighter world.
 Something had snapped; if it was only a bit of red tape; and he did not
 know yet how much had been set free.  As he turned the corner a shaft
 of sun shot down the steep street, seeming as solid as that from solid
-clouds in the old Bible pictures, and looking up at the window of the high
-narrow house he saw Hendry's daughter.
+clouds in the old [[Bible]] pictures, and looking up at the [[Window|window]] of the high
+narrow [[house]] he saw Hendry's daughter.
 
-The woman who looked out of the window appeared, after a fashion,
-for the first time in this story.  Hitherto she had been cloaked
-in shadows, in the shades of the steep stairways and the high dark house.
+The woman who looked out of the [[Window|window]] appeared, after a fashion,
+for the first [[Time|time]] in this story.  Hitherto she had been cloaked
+in shadows, in the shades of the steep stairways and the high dark [[house]].
 She had been disguised in destitution; and it is necessary to have
-lived in such a house to know how much destitution can disguise.
-She had turned pale like a plant in a narrow and shuttered house;
-a house in which there were no mirrors; least of all those human mirrors
+lived in such a [[house]] to know how much destitution can disguise.
+She had turned pale like a plant in a narrow and shuttered [[house]];
+a [[house]] in which there were no mirrors; least of all those human mirrors
 that we call faces.  She had long ceased to think of her appearance;
 and she would have been more surprised than anyone else if she could
-have stood in the street and seen her appearance at the window.
+have stood in the street and seen her appearance at the [[Window|window]].
 And yet, as she looked down into the street, she was something more
-than surprised.  The beauty that unfolded from within, like some
-magic flower upon the balcony, was not due altogether to the burst
+than surprised.  The [[Beauty|beauty]] that unfolded from within, like some
+[[Magic|magic]] flower upon the balcony, was not due altogether to the burst
 of sun that had struck the street.  It was the most beautiful thing
 in the world; perhaps the only really beautiful thing in the world.
 It was astonishment which was lost in Eden and will return with the
@@ -289,7 +289,7 @@ of rascals who happened to be too rich to be punished,
 her life had descended step after step into that world
 where all the people are assumed to be rascals and punished
 in a sort of rotation; the police regarding themselves rather
-as the warders of a large loose prison with the roof off.
+as the warders of a large loose [[Prison|prison]] with the roof off.
 She had long given up having any sharp reaction to the tendency;
 it seemed perfectly natural so long as it was a downward tendency.
 If her father had been taken away and hanged, she would
@@ -301,15 +301,15 @@ completely surprised.  Never had she known any living thing escape
 from the trap into which she thought he had fallen; never had she seen
 footprints coming out from that dark den of efficiency.  It was as if she
 had seen the sun turn backwards towards the East, or the Thames stop
-suddenly at Greenwich and begin to go back to Oxford.  But there was
-no doubt that it was her father, leaning back and smiling in the cab.
+suddenly at Greenwich and begin to go back to [[Oxford]].  But there was
+no [[Doubt|doubt]] that it was her father, leaning back and smiling in the cab.
 As he had come out with the gesture of pulling on invisible gloves,
 so he leaned back with the gesture of smoking an invisible cigar.
-As she stared at him, she became conscious that the cabman had taken off
+As she stared at him, she became conscious that the [[cabman]] had taken off
 his hat to her, with a remarkably fine flourish for so very deplorable
 a hat.  The removal of the hat gave the last shock to her senses;
 for it revealed the colourless but carefully brushed hair of Mr. Murrel,
-the eccentric gentleman who had called at the house a few hours before.
+the eccentric gentleman who had called at the [[house]] a few hours before.
 
 Dr. Hendry leapt from the cab with quite youthful grace, and his hand
 went with another automatic gesture towards a totally empty pocket.
@@ -319,7 +319,7 @@ He was living in the brave days of old.
 "This is my own cab and I do it for amusement.  Art for art's sake,
 as your old friends used to say.  I am an arrangement, as Whistler said;
 an arrangement in black and brown.  Your friend the mad doctor is,
-I trust, by this time an arrangement in black and blue."
+I trust, by this [[Time|time]] an arrangement in black and blue."
 
 Hendry recognised the educated voice, for there are some things
 a man never forgets.  He recognised the voice in spite of the hat,
@@ -330,12 +330,12 @@ Pray come inside."
 
 "Oh, thank you," said Murrel, getting down from his perch.
 "My Arab steed, who has slept in my tent so often in
-the desert, will probably keep a faithful watch outside.
+the [[Desert|desert]], will probably keep a faithful watch outside.
 He does not seem to suffer from any mad impulse to gallop."
 
-He ascended for the second time the dark and steep stair-case,
+He ascended for the second [[Time|time]] the dark and steep stair-case,
 up which he had seen the worthy mental specialist mounting
-like some monster out of the deeps.  His thoughts went
+like some [[Monster|monster]] out of the deeps.  His thoughts went
 back to that unfortunate expert in a momentary remorse;
 but he told himself that there would be little difficulty
 in putting the matter straight.
@@ -348,7 +348,7 @@ he said, "or about old Wotton either.  Wotton is a perfectly honest
 old gentleman; and will see at once that there couldn't be much
 the matter with your father, not half so much as with the other man.
 And even the other man won't be exactly anxious to proclaim to the world
-that he gave such a good imitation of a raving maniac that they
+that he gave such a good [[Imitation|imitation]] of a raving maniac that they
 locked him up."
 
 "Then you have really saved us," she said.  "It is a
@@ -367,19 +367,19 @@ had returned to him.
 
 "Perhaps we shall try to catch the thieves after all," he said;
 and did not know that he was uttering a sort of prophecy of
-the fate of his home and his friends and many things he knew.
+the fate of his [[Home|home]] and his friends and many things he knew.
 For far away in Seawood Abbey things that he would have
 thought utterly fantastic were taking colour and form
-and marching towards the climax of this history.
+and marching towards the climax of this [[history]].
 Of these things he knew nothing; but, curiously enough,
-his own imagination was already clouded with new colours
+his own [[Imagination|imagination]] was already clouded with new colours
 more glowing and romantic than Hendry's Illumination Paints.
 He had a vague sensation of victory; but it had culminated
-when he looked up and saw the girl's face at the window;
+when he looked up and saw the girl's face at the [[Window|window]];
 he leaned impulsively across and said:  "Do you often look
-out of the window like that.  . . . if I should be passing
-some time . . . ?"
+out of the [[Window|window]] like that.  . . . if I should be passing
+some [[Time|time]] . . . ?"
 
-"Yes." She said, "I often look out of the window."
+"Yes." She said, "I often look out of the [[Window|window]]."
 
 -^-

@@ -20,15 +20,15 @@ is proper and literal to speak of his "plots." He was a plotter; he went
 
 about to slay Godfrey Ablewhite as coldly and craftily as the Indians
 
-did. But he also had a sound though sinister note of true magic; as in
+did. But he also had a sound though sinister note of true [[Magic|magic]]; as in
 
 the repetition of the two white dresses in _The Woman in White_; or of
 
-the dreams with their double explanations in _Armadale_. His ghosts do
+the [[Dreams|dreams]] with their [[Double|double]] explanations in _Armadale_. His [[Ghosts|ghosts]] do
 
 walk. They are alive; and walk as softly as Count Fosco, but as solidly.
 
-Finally, _The Moonstone_ is probably the best detective tale in the
+Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in the
 
 world.
 
@@ -38,7 +38,7 @@ Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
 
-love of detail, especially of domestic detail; its love of following
+[[Love|love]] of detail, especially of domestic detail; its [[Love|love]] of following
 
 characters and kindred from book to book and from generation to
 
@@ -64,7 +64,7 @@ was a bustling but a quiet world that he described: politics before the
 
 coming of the Irish and the Socialists; the Church in the lull between
 
-the Oxford Movement and the modern High Anglican energy. And it is
+the [[Oxford]] Movement and the modern High Anglican energy. And it is
 
 notable in the Victorian spirit once more that though his clergymen are
 
@@ -102,9 +102,9 @@ _Hypatia_, and a certain electric atmosphere of sectarian excitement
 
 that Kingsley kept himself in, and did know how to convey. He said he
 
-wrote the book in his heart's blood. This is an exaggeration, but there
+wrote the book in his heart's [[Blood|blood]]. This is an exaggeration, but there
 
-is a truth in it; and one does feel that he may have relieved his
+is a [[Truth|truth]] in it; and one does feel that he may have relieved his
 
 feelings by writing it in red ink. As for Disraeli, his novels are able
 
@@ -140,13 +140,13 @@ without him. And this was not due to wholly superficial things like his
 
 dandyism, his dark, sinister good looks and a great deal of the mere
 
-polished melodrama that he wrote. There was something in his all-round
+polished [[Melodrama|melodrama]] that he wrote. There was something in his all-round
 
 interests; in the variety of things he tried; in his half-aristocratic
 
 swagger as poet and politician, that made him in some ways a real
 
-touchstone of the time. It is noticeable about him that he is always
+[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
 
 turning up everywhere and that he brings other people out, generally in
 
@@ -158,7 +158,7 @@ Victorian common sense. His pose as a dilettante satirist inflamed the
 
 execrable temper of Tennyson, and led to those lively comparisons to a
 
-bandbox and a lion in curlpapers. He interposed the glove of warning and
+bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
 
 the tear of sensibility between us and the proper ending of _Great
 
@@ -178,7 +178,7 @@ Lytton, which often is in adventurers; which amounts to a suspicion that
 
 there was something in him after all. It rang out of him when he said to
 
-the hesitating Crimean Parliament: "Destroy your Government and save
+the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
 
 your army."
 
@@ -190,8 +190,8 @@ later, more revolutionary, more continental, freer but in some ways
 
 weaker world in which we live to-day. The subtle and sad change that
 
-was passing like twilight across the English brain at this time is very
+was passing like twilight across the English brain at this [[Time|time]] is very
 
-well expressed in the fact that men have come to mention the great name
+[[Well|well]] expressed in the fact that men have come to mention the great name
 
 of Meredith in the same breath as Mr. Thomas Hardy. Both writers,

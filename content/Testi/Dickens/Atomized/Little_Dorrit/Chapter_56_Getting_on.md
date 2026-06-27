@@ -18,22 +18,22 @@ CHAPTER 16. Getting on
 
 
 The newly married pair, on their arrival in Harley Street, Cavendish
-Square, London, were received by the Chief Butler. That great man was
+Square, [[London]], were received by the Chief Butler. That great man was
 not interested in them, but on the whole endured them. People must
-continue to be married and given in marriage, or Chief Butlers would not
+continue to be married and given in [[Marriage|marriage]], or Chief Butlers would not
 be wanted. As nations are made to be taxed, so families are made to
-be butlered. The Chief Butler, no doubt, reflected that the course of
-nature required the wealthy population to be kept up, on his account.
+be butlered. The Chief Butler, no [[Doubt|doubt]], reflected that the course of
+[[Nature|nature]] required the wealthy population to be kept up, on his account.
 
 He therefore condescended to look at the carriage from the Hall-door
 without frowning at it, and said, in a very handsome way, to one of
 his men, ‘Thomas, help with the luggage.’ He even escorted the Bride
-up-stairs into Mr Merdle’s presence; but this must be considered as an
+up-stairs into [[Mr Merdle]]’s presence; but this must be considered as an
 act of homage to the sex (of which he was an admirer, being notoriously
 captivated by the charms of a certain Duchess), and not as a committal
 of himself with the family.
 
-Mr Merdle was slinking about the hearthrug, waiting to welcome Mrs
+[[Mr Merdle]] was slinking about the hearthrug, waiting to welcome Mrs
 Sparkler. His hand seemed to retreat up his sleeve as he advanced to
 do so, and he gave her such a superfluity of coat-cuff that it was like
 being received by the popular conception of Guy Fawkes. When he put his
@@ -44,7 +44,7 @@ I’ve got you, you know, and you go quietly along with me!’
 
 Mrs Sparkler, installed in the rooms of state--the innermost sanctuary
 of down, silk, chintz, and fine linen--felt that so far her triumph was
-good, and her way made, step by step. On the day before her marriage,
+good, and her way made, step by step. On the day before her [[Marriage|marriage]],
 she had bestowed on Mrs Merdle’s maid with an air of gracious
 indifference, in Mrs Merdle’s presence, a trifling little keepsake
 (bracelet, bonnet, and two dresses, all new) about four times as
@@ -55,11 +55,11 @@ eye, as she lounged there, surrounded by every luxurious accessory that
 wealth could obtain or invention devise, she saw the fair bosom that
 beat in unison with the exultation of her thoughts, competing with the
 bosom that had been famous so long, outshining it, and deposing it.
-Happy? Fanny must have been happy. No more wishing one’s self dead now.
+Happy? Fanny must have been happy. No more wishing one’s [[Self|self]] dead now.
 
-The Courier had not approved of Mr Dorrit’s staying in the house of
+The Courier had not approved of Mr Dorrit’s staying in the [[house]] of
 a friend, and had preferred to take him to an hotel in Brook Street,
-Grosvenor Square. Mr Merdle ordered his carriage to be ready early
+Grosvenor Square. [[Mr Merdle]] ordered his carriage to be ready early
 in the morning that he might wait upon Mr Dorrit immediately after
 breakfast.
 
@@ -70,7 +70,7 @@ after it as it rattled along the streets, and said, with awe in their
 breath, ‘There he goes!’
 
 There he went, until Brook Street stopped him. Then, forth from its
-magnificent case came the jewel; not lustrous in itself, but quite the
+magnificent case came the [[Jewel|jewel]]; not lustrous in itself, but quite the
 contrary.
 
 Commotion in the office of the hotel. Merdle! The landlord, though
@@ -78,11 +78,11 @@ a gentleman of a haughty spirit who had just driven a pair of
 thorough-bred horses into town, turned out to show him up-stairs.
 The clerks and servants cut him off by back-passages, and were found
 accidentally hovering in doorways and angles, that they might look upon
-him. Merdle! O ye sun, moon, and stars, the great man! The rich man, who
+him. Merdle! O ye sun, [[Moon|moon]], and [[Stars|stars]], the great man! The rich man, who
 had in a manner revised the New Testament, and already entered into the
 kingdom of Heaven. The man who could have any one he chose to dine with
 him, and who had made the money! As he went up the stairs, people were
-already posted on the lower stairs, that his shadow might fall upon them
+already posted on the lower stairs, that his [[Shadow|shadow]] might fall upon them
 when he came down. So were the sick brought out and laid in the track of
 the Apostle--who had _not_ got into the good society, and had _not_ made
 the money.
@@ -91,33 +91,33 @@ Mr Dorrit, dressing-gowned and newspapered, was at his breakfast. The
 Courier, with agitation in his voice, announced ‘Miss Mairdale!’ Mr
 Dorrit’s overwrought heart bounded as he leaped up.
 
-‘Mr Merdle, this is--ha--indeed an honour. Permit me to express
+‘[[Mr Merdle]], this is--ha--indeed an [[Honour|honour]]. Permit me to express
 the--hum--sense, the high sense, I entertain of this--ha hum--highly
-gratifying act of attention. I am well aware, sir, of the many demands
-upon your time, and its--ha--enormous value,’ Mr Dorrit could not
+gratifying act of attention. I am [[Well|well]] aware, sir, of the many demands
+upon your [[Time|time]], and its--ha--enormous value,’ Mr Dorrit could not
 say enormous roundly enough for his own satisfaction. ‘That you
-should--ha--at this early hour, bestow any of your priceless time upon
+should--ha--at this early hour, bestow any of your priceless [[Time|time]] upon
 me, is--ha--a compliment that I acknowledge with the greatest esteem.’
 Mr Dorrit positively trembled in addressing the great man.
 
-Mr Merdle uttered, in his subdued, inward, hesitating voice, a few
+[[Mr Merdle]] uttered, in his subdued, inward, hesitating voice, a few
 sounds that were to no purpose whatever; and finally said, ‘I am glad to
 see you, sir.’
 
-‘You are very kind,’ said Mr Dorrit. ‘Truly kind.’ By this time the
+‘You are very kind,’ said Mr Dorrit. ‘Truly kind.’ By this [[Time|time]] the
 visitor was seated, and was passing his great hand over his exhausted
-forehead. ‘You are well, I hope, Mr Merdle?’
+forehead. ‘You are [[Well|well]], I [[Hope|hope]], [[Mr Merdle]]?’
 
-‘I am as well as I--yes, I am as well as I usually am,’ said Mr Merdle.
+‘I am as [[Well|well]] as I--yes, I am as [[Well|well]] as I usually am,’ said [[Mr Merdle]].
 
 ‘Your occupations must be immense.’
 
 ‘Tolerably so. But--Oh dear no, there’s not much the matter with _me_,’
-said Mr Merdle, looking round the room.
+said [[Mr Merdle]], looking round the room.
 
 ‘A little dyspeptic?’ Mr Dorrit hinted.
 
-‘Very likely. But I--Oh, I am well enough,’ said Mr Merdle.
+‘Very likely. But I--Oh, I am [[Well|well]] enough,’ said [[Mr Merdle]].
 
 There were black traces on his lips where they met, as if a little train
 of gunpowder had been fired there; and he looked like a man who, if his
@@ -128,35 +128,35 @@ had prompted Mr Dorrit’s solicitous inquiries.
 ‘Mrs Merdle,’ Mr Dorrit insinuatingly pursued, ‘I left, as you will be
 prepared to hear, the--ha--observed of all observers, the--hum--admired
 of all admirers, the leading fascination and charm of Society in Rome.
-She was looking wonderfully well when I quitted it.’
+She was looking wonderfully [[Well|well]] when I quitted it.’
 
-‘Mrs Merdle,’ said Mr Merdle, ‘is generally considered a very attractive
-woman. And she is, no doubt. I am sensible of her being so.’
+‘Mrs Merdle,’ said [[Mr Merdle]], ‘is generally considered a very attractive
+woman. And she is, no [[Doubt|doubt]]. I am sensible of her being so.’
 
 ‘Who can be otherwise?’ responded Mr Dorrit.
 
-Mr Merdle turned his tongue in his closed mouth--it seemed rather a
+[[Mr Merdle]] turned his tongue in his closed mouth--it seemed rather a
 stiff and unmanageable tongue--moistened his lips, passed his hand over
 his forehead again, and looked all round the room again, principally
 under the chairs.
 
-‘But,’ he said, looking Mr Dorrit in the face for the first time, and
+‘But,’ he said, looking Mr Dorrit in the face for the first [[Time|time]], and
 immediately afterwards dropping his eyes to the buttons of Mr Dorrit’s
 waistcoat; ‘if we speak of attractions, your daughter ought to be the
 subject of our conversation. She is extremely beautiful. Both in face
 and figure, she is quite uncommon. When the young people arrived last
-night, I was really surprised to see such charms.’
+[[Night|night]], I was really surprised to see such charms.’
 
 Mr Dorrit’s gratification was such that he said--ha--he could not
-refrain from telling Mr Merdle verbally, as he had already done by
-letter, what honour and happiness he felt in this union of their
-families. And he offered his hand. Mr Merdle looked at the hand for a
+refrain from telling [[Mr Merdle]] verbally, as he had already done by
+letter, what [[Honour|honour]] and happiness he felt in this [[Union|union]] of their
+families. And he offered his hand. [[Mr Merdle]] looked at the hand for a
 little while, took it on his for a moment as if his were a yellow salver
 or fish-slice, and then returned it to Mr Dorrit.
 
-‘I thought I would drive round the first thing,’ said Mr Merdle, ‘to
+‘I thought I would drive round the first thing,’ said [[Mr Merdle]], ‘to
 offer my services, in case I can do anything for you; and to say that
-I hope you will at least do me the honour of dining with me to-day, and
+I [[Hope|hope]] you will at least do me the [[Honour|honour]] of dining with me to-day, and
 every day when you are not better engaged during your stay in town.’
 
 Mr Dorrit was enraptured by these attentions.
@@ -166,39 +166,39 @@ Mr Dorrit was enraptured by these attentions.
 ‘I have not at present the intention,’ said Mr Dorrit,
 ‘of--ha--exceeding a fortnight.’
 
-‘That’s a very short stay, after so long a journey,’ returned Mr Merdle.
+‘That’s a very short stay, after so long a [[Journey|journey]],’ returned [[Mr Merdle]].
 
-‘Hum. Yes,’ said Mr Dorrit. ‘But the truth is--ha--my dear Mr Merdle,
-that I find a foreign life so well suited to my health and taste, that
-I--hum--have but two objects in my present visit to London. First,
+‘Hum. Yes,’ said Mr Dorrit. ‘But the [[Truth|truth]] is--ha--my dear [[Mr Merdle]],
+that I find a foreign life so [[Well|well]] suited to my health and taste, that
+I--hum--have but two objects in my present visit to [[London]]. First,
 the--ha--the distinguished happiness and--ha--privilege which I now
 enjoy and appreciate; secondly, the arrangement--hum--the laying out,
 that is to say, in the best way, of--ha, hum--my money.’
 
-‘Well, sir,’ said Mr Merdle, after turning his tongue again, ‘if I can
+‘[[Well]], sir,’ said [[Mr Merdle]], after turning his tongue again, ‘if I can
 be of any use to you in that respect, you may command me.’
 
 Mr Dorrit’s speech had had more hesitation in it than usual, as he
 approached the ticklish topic, for he was not perfectly clear how so
 exalted a potentate might take it. He had doubts whether reference to
 any individual capital, or fortune, might not seem a wretchedly retail
-affair to so wholesale a dealer. Greatly relieved by Mr Merdle’s
+affair to so wholesale a dealer. Greatly relieved by [[Mr Merdle]]’s
 affable offer of assistance, he caught at it directly, and heaped
 acknowledgments upon him.
 
-‘I scarcely--ha--dared,’ said Mr Dorrit, ‘I assure you, to hope for
+‘I scarcely--ha--dared,’ said Mr Dorrit, ‘I assure you, to [[Hope|hope]] for
 so--hum--vast an advantage as your direct advice and assistance. Though
 of course I should, under any circumstances, like the--ha, hum--rest of
-the civilised world, have followed in Mr Merdle’s train.’
+the civilised world, have followed in [[Mr Merdle]]’s train.’
 
-‘You know we may almost say we are related, sir,’ said Mr Merdle,
+‘You know we may almost say we are related, sir,’ said [[Mr Merdle]],
 curiously interested in the pattern of the carpet, ‘and, therefore, you
 may consider me at your service.’
 
 ‘Ha. Very handsome, indeed!’ cried Mr Dorrit. ‘Ha. Most handsome!’
 
-‘It would not,’ said Mr Merdle, ‘be at the present moment easy for
-what I may call a mere outsider to come into any of the good things--of
+‘It would not,’ said [[Mr Merdle]], ‘be at the present moment easy for
+what I may call a mere [[Outsider|outsider]] to come into any of the good things--of
 course I speak of my own good things--’
 
 ‘Of course, of course!’ cried Mr Dorrit, in a tone implying that there
@@ -210,102 +210,102 @@ figure.’
 Mr Dorrit laughed in the buoyancy of his spirit. Ha, ha, ha! Long
 figure. Good. Ha. Very expressive to be sure!
 
-‘However,’ said Mr Merdle, ‘I do generally retain in my own hands the
+‘However,’ said [[Mr Merdle]], ‘I do generally retain in my own hands the
 power of exercising some preference--people in general would be pleased
 to call it favour--as a sort of compliment for my care and trouble.’
 
 ‘And public spirit and genius,’ Mr Dorrit suggested.
 
-Mr Merdle, with a dry, swallowing action, seemed to dispose of those
+[[Mr Merdle]], with a dry, swallowing action, seemed to dispose of those
 qualities like a bolus; then added, ‘As a sort of return for it. I will
 see, if you please, how I can exert this limited power (for people are
 jealous, and it is limited), to your advantage.’
 
 ‘You are very good,’ replied Mr Dorrit. ‘You are _very_ good.’
 
-‘Of course,’ said Mr Merdle, ‘there must be the strictest integrity
-and uprightness in these transactions; there must be the purest faith
+‘Of course,’ said [[Mr Merdle]], ‘there must be the strictest integrity
+and uprightness in these transactions; there must be the purest [[Faith|faith]]
 between man and man; there must be unimpeached and unimpeachable
 confidence; or business could not be carried on.’
 
 Mr Dorrit hailed these generous sentiments with fervour.
 
-‘Therefore,’ said Mr Merdle, ‘I can only give you a preference to a
+‘Therefore,’ said [[Mr Merdle]], ‘I can only give you a preference to a
 certain extent.’
 
 ‘I perceive. To a defined extent,’ observed Mr Dorrit.
 
 ‘Defined extent. And perfectly above-board. As to my advice, however,’
-said Mr Merdle, ‘that is another matter. That, such as it is--’
+said [[Mr Merdle]], ‘that is another matter. That, such as it is--’
 
 Oh! Such as it was! (Mr Dorrit could not bear the faintest appearance of
-its being depreciated, even by Mr Merdle himself.)
+its being depreciated, even by [[Mr Merdle]] himself.)
 
-‘--That, there is nothing in the bonds of spotless honour between myself
+‘--That, there is nothing in the bonds of spotless [[Honour|honour]] between myself
 and my fellow-man to prevent my parting with, if I choose. And that,’
-said Mr Merdle, now deeply intent upon a dust-cart that was passing the
+said [[Mr Merdle]], now deeply intent upon a [[Dust|dust]]-cart that was passing the
 windows, ‘shall be at your command whenever you think proper.’
 
-New acknowledgments from Mr Dorrit. New passages of Mr Merdle’s hand
-over his forehead. Calm and silence. Contemplation of Mr Dorrit’s
-waistcoat buttons by Mr Merdle.
+New acknowledgments from Mr Dorrit. New passages of [[Mr Merdle]]’s hand
+over his forehead. Calm and [[Silence|silence]]. Contemplation of Mr Dorrit’s
+waistcoat buttons by [[Mr Merdle]].
 
-‘My time being rather precious,’ said Mr Merdle, suddenly getting up,
+‘My [[Time|time]] being rather precious,’ said [[Mr Merdle]], suddenly getting up,
 as if he had been waiting in the interval for his legs and they had just
-come, ‘I must be moving towards the City. Can I take you anywhere, sir?
+come, ‘I must be moving towards the [[City]]. Can I take you anywhere, sir?
 I shall be happy to set you down, or send you on. My carriage is at your
 disposal.’
 
 Mr Dorrit bethought himself that he had business at his banker’s. His
-banker’s was in the City. That was fortunate; Mr Merdle would take
-him into the City. But, surely, he might not detain Mr Merdle while he
-assumed his coat? Yes, he might and must; Mr Merdle insisted on it. So
+banker’s was in the [[City]]. That was fortunate; [[Mr Merdle]] would take
+him into the [[City]]. But, surely, he might not detain [[Mr Merdle]] while he
+assumed his coat? Yes, he might and must; [[Mr Merdle]] insisted on it. So
 Mr Dorrit, retiring into the next room, put himself under the hands of
 his valet, and in five minutes came back glorious.
 
-Then said Mr Merdle, ‘Allow me, sir. Take my arm!’ Then leaning on
-Mr Merdle’s arm, did Mr Dorrit descend the staircase, seeing the
-worshippers on the steps, and feeling that the light of Mr Merdle shone
+Then said [[Mr Merdle]], ‘Allow me, sir. Take my arm!’ Then leaning on
+[[Mr Merdle]]’s arm, did Mr Dorrit descend the staircase, seeing the
+worshippers on the steps, and feeling that the light of [[Mr Merdle]] shone
 by reflection in himself. Then the carriage, and the ride into the
-City; and the people who looked at them; and the hats that flew off grey
+[[City]]; and the people who looked at them; and the hats that flew off grey
 heads; and the general bowing and crouching before this wonderful mortal
 the like of which prostration of spirit was not to be seen--no, by
 high Heaven, no! It may be worth thinking of by Fawners of all
-denominations--in Westminster Abbey and Saint Paul’s Cathedral put
-together, on any Sunday in the year. It was a rapturous dream to Mr
+denominations--in Westminster Abbey and Saint Paul’s [[Cathedral]] put
+together, on any [[Sunday]] in the year. It was a rapturous dream to Mr
 Dorrit to find himself set aloft in this public car of triumph, making a
 magnificent progress to that befitting destination, the golden Street of
 the Lombards.
 
-There Mr Merdle insisted on alighting and going his way a-foot, and
+There [[Mr Merdle]] insisted on alighting and going his way a-foot, and
 leaving his poor equipage at Mr Dorrit’s disposition. So the dream
-increased in rapture when Mr Dorrit came out of the bank alone, and
-people looked at _him_ in default of Mr Merdle, and when, with the ears of
+increased in rapture when Mr Dorrit came out of the bank [[Alone|alone]], and
+people looked at _him_ in default of [[Mr Merdle]], and when, with the ears of
 his mind, he heard the frequent exclamation as he rolled glibly along,
-‘A wonderful man to be Mr Merdle’s friend!’
+‘A wonderful man to be [[Mr Merdle]]’s friend!’
 
 At dinner that day, although the occasion was not foreseen and provided
-for, a brilliant company of such as are not made of the dust of the
+for, a brilliant company of such as are not made of the [[Dust|dust]] of the
 earth, but of some superior article for the present unknown, shed
-their lustrous benediction upon Mr Dorrit’s daughter’s marriage. And Mr
+their lustrous benediction upon Mr Dorrit’s daughter’s [[Marriage|marriage]]. And Mr
 Dorrit’s daughter that day began, in earnest, her competition with that
-woman not present; and began it so well that Mr Dorrit could all but
+woman not present; and began it so [[Well|well]] that Mr Dorrit could all but
 have taken his affidavit, if required, that Mrs Sparkler had all her
 life been lying at full length in the lap of luxury, and had never heard
 of such a rough word in the English tongue as Marshalsea.
 
 Next day, and the day after, and every day, all graced by more dinner
-company, cards descended on Mr Dorrit like theatrical snow. As the
-friend and relative by marriage of the illustrious Merdle, Bar, Bishop,
-Treasury, Chorus, Everybody, wanted to make or improve Mr Dorrit’s
-acquaintance. In Mr Merdle’s heap of offices in the City, when Mr Dorrit
+company, cards descended on Mr Dorrit like theatrical [[Snow|snow]]. As the
+friend and relative by [[Marriage|marriage]] of the illustrious Merdle, Bar, Bishop,
+Treasury, [[Chorus]], Everybody, wanted to make or improve Mr Dorrit’s
+acquaintance. In [[Mr Merdle]]’s heap of offices in the [[City]], when Mr Dorrit
 appeared at any of them on his business taking him Eastward (which it
 frequently did, for it throve amazingly), the name of Dorrit was always
 a passport to the great presence of Merdle. So the dream increased in
 rapture every hour, as Mr Dorrit felt increasingly sensible that this
 connection had brought him forward indeed.
 
-Only one thing sat otherwise than auriferously, and at the same time
+Only one thing sat otherwise than auriferously, and at the same [[Time|time]]
 lightly, on Mr Dorrit’s mind. It was the Chief Butler. That stupendous
 character looked at him, in the course of his official looking at the
 dinners, in a manner that Mr Dorrit considered questionable. He looked

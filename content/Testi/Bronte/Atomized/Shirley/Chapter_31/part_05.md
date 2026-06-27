@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31 (part 5)"
+title: "[[Shirley]] — Chapter 31 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,19 +22,19 @@ is vice--deep, deadly domestic vice. In his dominions children grow
 
 unloving between parents who have never loved; infants are nursed on
 
-deception from their very birth; they are reared in an atmosphere
+[[Deception|deception]] from their very birth; they are reared in an atmosphere
 
 corrupt with lies. Your god rules at the bridal of kings; look at your
 
 royal dynasties! Your deity is the deity of foreign aristocracies;
 
-analyze the blue blood of Spain! Your god is the Hymen of France; what
+analyze the blue [[Blood|blood]] of Spain! Your god is the Hymen of France; what
 
-is French domestic life? All that surrounds him hastens to decay; all
+is French domestic life? All that surrounds him hastens to [[Decay|decay]]; all
 
 declines and degenerates under his sceptre. _Your_ god is a masked
 
-Death."
+[[Death]]."
 
 
 
@@ -50,11 +50,11 @@ have believed----"
 
 "Now, sir, do you begin to be aware that it is useless to scheme for me;
 
-that in doing so you but sow the wind to reap the whirlwind? I sweep
+that in doing so you but sow the [[Wind|wind]] to reap the whirlwind? I sweep
 
 your cobweb projects from my path, that I may pass on unsullied. I am
 
-anchored on a resolve you cannot shake. My heart, my conscience shall
+anchored on a resolve you cannot shake. My heart, my [[Conscience|conscience]] shall
 
 dispose of my hand--_they only_. Know this at last."
 
@@ -74,11 +74,11 @@ addressed in my life--never was so used!"
 
 
 
-He rose hastily. "We must leave this place; they must pack up at once."
+He [[Rose|rose]] hastily. "We must leave this place; they must pack up at once."
 
 
 
-"Do not hurry my aunt and cousins; give them time."
+"Do not hurry my aunt and cousins; give them [[Time|time]]."
 
 
 
@@ -98,7 +98,7 @@ and a coarse epithet at his mistress.
 
 
 
-"Poor Mr. Sympson! he is both feeble and vulgar," said Shirley to
+"Poor Mr. Sympson! he is both feeble and vulgar," said [[Shirley]] to
 
 herself. "My head aches, and I am tired," she added; and leaning her
 
@@ -106,7 +106,7 @@ head upon a cushion, she softly subsided from excitement to repose. One,
 
 entering the room a quarter of an hour afterwards, found her asleep.
 
-When Shirley had been agitated, she generally took this natural
+When [[Shirley]] had been agitated, she generally took this natural
 
 refreshment; it would come at her call.
 
@@ -128,23 +128,23 @@ hidden by her arm, became visible. She looked rosy, happy, half smiling,
 
 but her eyelashes were wet. She had wept in slumber; or perhaps, before
 
-dropping asleep, a few natural tears had fallen after she had heard that
+dropping asleep, a few natural [[Tears|tears]] had fallen after she had heard that
 
 epithet. No man--no woman--is always strong, always able to bear up
 
 against the unjust opinion, the vilifying word. Calumny, even from the
 
-mouth of a fool, will sometimes cut into unguarded feelings. Shirley
+mouth of a [[Fool|fool]], will sometimes cut into unguarded feelings. [[Shirley]]
 
-looked like a child that had been naughty and punished, but was now
+looked like a [[Child|child]] that had been naughty and punished, but was now
 
 forgiven and at rest.
 
 
 
-"Miss Keeldar," again said the voice. This time it woke her. She looked
+"Miss Keeldar," again said the voice. This [[Time|time]] it woke her. She looked
 
-up, and saw at her side Louis Moore--not close at her side, but
+up, and saw at her side [[Louis Moore]]--not close at her side, but
 
 standing, with arrested step, two or three yards from her.
 
@@ -156,7 +156,7 @@ have quarrelled."
 
 
 
-"Mr. Sympson should let you alone," was the reply. "Can he not see that
+"Mr. Sympson should let you [[Alone|alone]]," was the reply. "Can he not see that
 
 you are as yet far from strong?"
 
@@ -186,11 +186,11 @@ scarcely intelligible directions; but he may change all to-morrow. He is
 
 just in that mood when you cannot depend on his consistency for two
 
-consecutive hours. I doubt whether he will leave you for weeks yet. To
+consecutive hours. I [[Doubt|doubt]] whether he will leave you for weeks yet. To
 
 myself he addressed some words which will require a little attention and
 
-comment by-and-by, when I have time to bestow on them. At the moment he
+comment by-and-by, when I have [[Time|time]] to bestow on them. At the moment he
 
 came in I was busied with a note I had got from Mr. Yorke--so fully
 
@@ -198,11 +198,11 @@ busied that I cut short the interview with him somewhat abruptly. I left
 
 him raving. Here is the note. I wish you to see it. It refers to my
 
-brother Robert." And he looked at Shirley.
+brother Robert." And he looked at [[Shirley]].
 
 
 
-"I shall be glad to hear news of him. Is he coming home?"
+"I shall be glad to hear news of him. Is he coming [[Home|home]]?"
 
 
 
@@ -240,7 +240,7 @@ worse. Robert is not dead, but much hurt."
 
 
 
-Miss Keeldar read the note. It briefly signified that last night Robert
+Miss Keeldar read the note. It briefly signified that last [[Night|night]] Robert
 
 Moore had been shot at from behind the wall of Milldean plantation, at
 
@@ -248,13 +248,13 @@ the foot of the Brow; that he was wounded severely, but it was hoped not
 
 fatally. Of the assassin, or assassins, nothing was known; they had
 
-escaped. "No doubt," Mr. Yorke observed, "it was done in revenge. It was
+escaped. "No [[Doubt|doubt]]," Mr. Yorke observed, "it was done in [[Revenge|revenge]]. It was
 
 a pity ill-will had ever been raised; but that could not be helped now."
 
 
 
-"He is my only brother," said Louis, as Shirley returned the note. "I
+"He is my only brother," said Louis, as [[Shirley]] returned the note. "I
 
 cannot hear unmoved that ruffians have laid in wait for him, and shot
 
@@ -266,13 +266,13 @@ him down, like some wild beast from behind a wall."
 
 
 
-Shirley, solicitous to soothe, held her hand over Mr. Moore's as it lay
+[[Shirley]], solicitous to soothe, held her hand over Mr. Moore's as it lay
 
 on the arm of the chair. She just touched it lightly, scarce palpably.
 
 
 
-"Well, give me your hand," he said. "It will be for the first time; it
+"[[Well]], give me your hand," he said. "It will be for the first [[Time|time]]; it
 
 is in a moment of calamity. Give it me."
 
@@ -284,13 +284,13 @@ Awaiting neither consent nor refusal, he took what he asked.
 
 "I am going to Briarmains now," he went on. "I want you to step over to
 
-the rectory and tell Caroline Helstone what has happened. Will you do
+the rectory and tell [[Caroline Helstone]] what has happened. Will you do
 
 this? She will hear it best from you."
 
 
 
-"Immediately," said Shirley, with docile promptitude. "Ought I to say
+"Immediately," said [[Shirley]], with docile promptitude. "Ought I to say
 
 that there is no danger?"
 
@@ -326,7 +326,7 @@ sister too; but doubtless she is already with Robert?"
 
 
 
-Shirley's fingers were obliged to withdraw from the tutor's. Louis was
+[[Shirley]]'s fingers were obliged to withdraw from the tutor's. Louis was
 
 obliged to relinquish that hand folded, clasped, hidden in his own.
 
@@ -338,7 +338,7 @@ towards Briarmains, "and it is she who has made me strong. That look of
 
 pity, that gentle touch! No down was ever softer, no elixir more potent!
 
-It lay like a snowflake; it thrilled like lightning. A thousand times I
+It lay like a snowflake; it thrilled like [[Lightning|lightning]]. A thousand times I
 
 have longed to possess that hand--to have it in mine. I _have_ possessed
 

@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 11 (part 2)"
+title: "[[Oliver Twist]] — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 “He’s not charged at all, your worship,” replied the officer. “He
 appears against this boy, your worship.”
 
-His worship knew this perfectly well; but it was a good annoyance, and
+His worship knew this perfectly [[Well|well]]; but it was a good annoyance, and
 a safe one.
 
 “Appears against the boy, does he?” said Mr. Fang, surveying Mr.
@@ -52,8 +52,8 @@ got to say, sir?”
 “Hold your tongue, sir,” said Mr. Fang. “Policeman! Where’s the
 policeman? Here, swear this policeman. Now, policeman, what is this?”
 
-The policeman, with becoming humility, related how he had taken the
-charge; how he had searched Oliver, and found nothing on his person;
+The policeman, with becoming [[Humility|humility]], related how he had taken the
+charge; how he had searched [[Oliver]], and found nothing on his person;
 and how that was all he knew about it.
 
 “Are there any witnesses?” inquired Mr. Fang.
@@ -76,25 +76,25 @@ heard—accidently, of course.
 With many interruptions, and repeated insults, Mr. Brownlow contrived
 to state his case; observing that, in the surprise of the moment, he
 had run after the boy because he had seen him running away; and
-expressing his hope that, if the magistrate should believe him,
+expressing his [[Hope|hope]] that, if the magistrate should believe him,
 although not actually the thief, to be connected with the thieves, he
 would deal as leniently with him as justice would allow.
 
 “He has been hurt already,” said the old gentleman in conclusion. “And
-I fear,” he added, with great energy, looking towards the bar, “I
-really fear that he is ill.”
+I [[Fear|fear]],” he added, with great energy, looking towards the bar, “I
+really [[Fear|fear]] that he is ill.”
 
 “Oh! yes, I dare say!” said Mr. Fang, with a sneer. “Come, none of your
 tricks here, you young vagabond; they won’t do. What’s your name?”
 
-Oliver tried to reply but his tongue failed him. He was deadly pale;
+[[Oliver]] tried to reply but his tongue failed him. He was deadly pale;
 and the whole place seemed turning round and round.
 
 “What’s your name, you hardened scoundrel?” demanded Mr. Fang.
 “Officer, what’s his name?”
 
 This was addressed to a bluff old fellow, in a striped waistcoat, who
-was standing by the bar. He bent over Oliver, and repeated the inquiry;
+was standing by the bar. He bent over [[Oliver]], and repeated the inquiry;
 but finding him really incapable of understanding the question; and
 knowing that his not replying would only infuriate the magistrate the
 more, and add to the severity of his sentence; he hazarded a guess.
@@ -102,22 +102,22 @@ more, and add to the severity of his sentence; he hazarded a guess.
 “He says his name’s Tom White, your worship,” said the kind-hearted
 thief-taker.
 
-“Oh, he won’t speak out, won’t he?” said Fang. “Very well, very well.
+“Oh, he won’t speak out, won’t he?” said Fang. “Very [[Well|well]], very [[Well|well]].
 Where does he live?”
 
 “Where he can, your worship,” replied the officer; again pretending to
-receive Oliver’s answer.
+receive [[Oliver]]’s answer.
 
 “Has he any parents?” inquired Mr. Fang.
 
 “He says they died in his infancy, your worship,” replied the officer:
 hazarding the usual reply.
 
-At this point of the inquiry, Oliver raised his head; and, looking
-round with imploring eyes, murmured a feeble prayer for a draught of
-water.
+At this point of the inquiry, [[Oliver]] raised his head; and, looking
+round with imploring eyes, murmured a feeble [[Prayer|prayer]] for a draught of
+[[Water|water]].
 
-“Stuff and nonsense!” said Mr. Fang: “don’t try to make a fool of me.”
+“Stuff and nonsense!” said Mr. Fang: “don’t try to make a [[Fool|fool]] of me.”
 
 “I think he really is ill, your worship,” remonstrated the officer.
 
@@ -128,7 +128,7 @@ instinctively; “he’ll fall down.”
 
 “Stand away, officer,” cried Fang; “let him, if he likes.”
 
-Oliver availed himself of the kind permission, and fell to the floor in
+[[Oliver]] availed himself of the kind permission, and fell to the floor in
 a fainting fit. The men in the office looked at each other, but no one
 dared to stir.
 

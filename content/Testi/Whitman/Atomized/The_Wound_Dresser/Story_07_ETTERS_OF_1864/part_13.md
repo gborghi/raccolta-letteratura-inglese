@@ -35,14 +35,14 @@ Army of the Potomac, under whose command the 51st Brooklyn Regiment fought
 at Fredericksburg. George Whitman was a captain in this regiment.
 
 [5] Martha, wife of "Jeff." She died in 1873. "1873.--This year lost, by
-death, my dear dear mother--and just before, my sister Martha--the two
+[[Death|death]], my dear dear mother--and just before, my sister Martha--the two
 best and sweetest women I have ever seen or known, or ever expect to see"
 (WALT WHITMAN, "Some Personal and Old Age Jottings").
 
 [6] "Jeff's" little daughter, Mannahatta. She died in 1888.
 
 [7] His brother, Andrew Jackson Whitman, born 1827, died 1863. His other
-brothers at this time, besides those previously mentioned, were Jesse
+brothers at this [[Time|time]], besides those previously mentioned, were Jesse
 Whitman, born 1818, died 1870, and Edward Whitman, born 1835, died 1892.
 
 [8] Martha.
@@ -51,7 +51,7 @@ Whitman, born 1818, died 1870, and Edward Whitman, born 1835, died 1892.
 
 [10] William Douglas O'Connor, born Jan. 2, 1832. He was a journalist in
 Boston in early life, went to Washington about 1861, first as clerk in the
-Light House Bureau, and later became Assistant Superintendent of the
+Light [[house|House]] Bureau, and later became Assistant Superintendent of the
 United States Life-Saving Service; died in Washington, May 9, 1889. He was
 one of Whitman's warmest friends, and the author of "The Good Gray Poet."
 
@@ -59,14 +59,14 @@ one of Whitman's warmest friends, and the author of "The Good Gray Poet."
 
 [12] "Jeff."
 
-[13] A copy of the 1860 (first Boston) edition of "Leaves of Grass," which
+[13] A copy of the 1860 (first Boston) edition of "[[Leaves]] of Grass," which
 Whitman used for preparing the next (1867) edition. From various evidence
 this is the same copy, with his MS. alterations, which Secretary Harlan
 found in Whitman's desk at the Interior Department in 1865, and which he
 read surreptitiously before discharging the poet from his position. It is
 now in the possession of Mr. Horace L. Traubel, of Camden, N. J.
 
-The reference to "Drum-Taps," published in 1865, shows that it had already
+The reference to "[[Drum-Taps]]," published in 1865, shows that it had already
 taken shape in MS.
 
 [14] Andrew Whitman's wife.
@@ -83,9 +83,9 @@ neighbor of his mother.
 
 [19] Mrs. Price's son, a naval officer.
 
-[20] Mrs. Price's daughter, and sister of the Helen mentioned later.
+[20] Mrs. Price's daughter, and sister of the [[Helen]] mentioned later.
 
-[21] Formerly of Thayer & Eldridge, the first Boston publishers of "Leaves
+[21] Formerly of Thayer & Eldridge, the first Boston publishers of "[[Leaves]]
 of Grass" (1860 Edition).
 
 [22] Jeff's daughter Jessie was originally called California.

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 41"
+title: "[[Great Expectations]] — Chapter 41"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,12 +18,12 @@ Chapter XLI.
 
 
 In vain should I attempt to describe the astonishment and disquiet of
-Herbert, when he and I and Provis sat down before the fire, and I
+Herbert, when he and I and Provis sat down before the [[Fire|fire]], and I
 recounted the whole of the secret. Enough, that I saw my own feelings
 reflected in Herbert’s face, and not least among them, my repugnance
 towards the man who had done so much for me.
 
-What would alone have set a division between that man and us, if there
+What would [[Alone|alone]] have set a division between that man and us, if there
 had been no other dividing circumstance, was his triumph in my story.
 Saving his troublesome sense of having been “low” on one occasion since
 his return,—on which point he began to hold forth to Herbert, the
@@ -36,28 +36,28 @@ and that we must both be very proud of it, was a conclusion quite
 established in his own mind.
 
 “Though, look’ee here, Pip’s comrade,” he said to Herbert, after having
-discoursed for some time, “I know very well that once since I come
+discoursed for some [[Time|time]], “I know very [[Well|well]] that once since I come
 back—for half a minute—I’ve been low. I said to Pip, I knowed as I had
 been low. But don’t you fret yourself on that score. I ain’t made Pip a
 gentleman, and Pip ain’t a-going to make you a gentleman, not fur me
 not to know what’s due to ye both. Dear boy, and Pip’s comrade, you two
 may count upon me always having a genteel muzzle on. Muzzled I have
 been since that half a minute when I was betrayed into lowness, muzzled
-I am at the present time, muzzled I ever will be.”
+I am at the present [[Time|time]], muzzled I ever will be.”
 
 Herbert said, “Certainly,” but looked as if there were no specific
 consolation in this, and remained perplexed and dismayed. We were
-anxious for the time when he would go to his lodging and leave us
+anxious for the [[Time|time]] when he would go to his lodging and leave us
 together, but he was evidently jealous of leaving us together, and sat
 late. It was midnight before I took him round to Essex Street, and saw
 him safely in at his own dark door. When it closed upon him, I
-experienced the first moment of relief I had known since the night of
+experienced the first moment of relief I had known since the [[Night|night]] of
 his arrival.
 
 Never quite free from an uneasy remembrance of the man on the stairs, I
 had always looked about me in taking my guest out after dark, and in
 bringing him back; and I looked about me now. Difficult as it is in a
-large city to avoid the suspicion of being watched, when the mind is
+large [[City|city]] to avoid the suspicion of being watched, when the mind is
 conscious of danger in that regard, I could not persuade myself that
 any of the people within sight cared about my movements. The few who
 were passing passed on their several ways, and the street was empty
@@ -65,7 +65,7 @@ when I turned back into the Temple. Nobody had come out at the gate
 with us, nobody went in at the gate with me. As I crossed by the
 fountain, I saw his lighted back windows looking bright and quiet, and,
 when I stood for a few moments in the doorway of the building where I
-lived, before going up the stairs, Garden Court was as still and
+lived, before going up the stairs, [[Garden]] [[Court]] was as still and
 lifeless as the staircase was when I ascended it.
 
 Herbert received me with open arms, and I had never felt before so
@@ -101,7 +101,7 @@ him!”
 
 An involuntary shudder passed over both of us.
 
-“Yet I am afraid the dreadful truth is, Herbert, that he is attached to
+“Yet I am afraid the dreadful [[Truth|truth]] is, Herbert, that he is attached to
 me, strongly attached to me. Was there ever such a fate!”
 
 “My poor dear Handel,” Herbert repeated.
@@ -111,21 +111,21 @@ penny from him, think what I owe him already! Then again: I am heavily
 in debt,—very heavily for me, who have now no expectations,—and I have
 been bred to no calling, and I am fit for nothing.”
 
-“Well, well, well!” Herbert remonstrated. “Don’t say fit for nothing.”
+“[[Well]], [[Well|well]], [[Well|well]]!” Herbert remonstrated. “Don’t say fit for nothing.”
 
 “What am I fit for? I know only one thing that I am fit for, and that
 is, to go for a soldier. And I might have gone, my dear Herbert, but
-for the prospect of taking counsel with your friendship and affection.”
+for the prospect of taking counsel with your [[Friendship|friendship]] and affection.”
 
 Of course I broke down there: and of course Herbert, beyond seizing a
 warm grip of my hand, pretended not to know it.
 
 “Anyhow, my dear Handel,” said he presently, “soldiering won’t do. If
 you were to renounce this patronage and these favours, I suppose you
-would do so with some faint hope of one day repaying what you have
-already had. Not very strong, that hope, if you went soldiering!
+would do so with some faint [[Hope|hope]] of one day repaying what you have
+already had. Not very strong, that [[Hope|hope]], if you went soldiering!
 Besides, it’s absurd. You would be infinitely better in Clarriker’s
-house, small as it is. I am working up towards a partnership, you
+[[house]], small as it is. I am working up towards a partnership, you
 know.”
 
 Poor fellow! He little suspected with whose money.
@@ -145,7 +145,7 @@ realisation, after all his toil and waiting, you cut the ground from
 under his feet, destroy his idea, and make his gains worthless to him.
 Do you see nothing that he might do, under the disappointment?”
 
-“I have seen it, Herbert, and dreamed of it, ever since the fatal night
+“I have seen it, Herbert, and dreamed of it, ever since the fatal [[Night|night]]
 of his arrival. Nothing has been in my thoughts so distinctly as his
 putting himself in the way of being taken.”
 
@@ -180,10 +180,10 @@ else in his life, now.”
 
 “There, again!” said I, stopping before Herbert, with my open hands
 held out, as if they contained the desperation of the case. “I know
-nothing of his life. It has almost made me mad to sit here of a night
+nothing of his life. It has almost made me mad to sit here of a [[Night|night]]
 and see him before me, so bound up with my fortunes and misfortunes,
 and yet so unknown to me, except as the miserable wretch who terrified
-me two days in my childhood!”
+me two days in my [[Childhood|childhood]]!”
 
 Herbert got up, and linked his arm in mine, and we slowly walked to and
 fro together, studying the carpet.
@@ -207,19 +207,19 @@ It was a comfort to shake hands upon it, and walk up and down again,
 with only that done.
 
 “Now, Herbert,” said I, “with reference to gaining some knowledge of
-his history. There is but one way that I know of. I must ask him point
+his [[history]]. There is but one way that I know of. I must ask him point
 blank.”
 
 “Yes. Ask him,” said Herbert, “when we sit at breakfast in the
 morning.” For he had said, on taking leave of Herbert, that he would
 come to breakfast with us.
 
-With this project formed, we went to bed. I had the wildest dreams
-concerning him, and woke unrefreshed; I woke, too, to recover the fear
-which I had lost in the night, of his being found out as a returned
-transport. Waking, I never lost that fear.
+With this project formed, we went to bed. I had the wildest [[Dreams|dreams]]
+concerning him, and woke unrefreshed; I woke, too, to recover the [[Fear|fear]]
+which I had lost in the [[Night|night]], of his being found out as a returned
+transport. Waking, I never lost that [[Fear|fear]].
 
-He came round at the appointed time, took out his jackknife, and sat
+He came round at the appointed [[Time|time]], took out his jackknife, and sat
 down to his meal. He was full of plans “for his gentleman’s coming out
 strong, and like a gentleman,” and urged me to begin speedily upon the
 pocket-book which he had left in my possession. He considered the
@@ -229,7 +229,7 @@ could have “a shake-down.” When he had made an end of his breakfast,
 and was wiping his knife on his leg, I said to him, without a word of
 preface,—
 
-“After you were gone last night, I told my friend of the struggle that
+“After you were gone last [[Night|night]], I told my friend of the struggle that
 the soldiers found you engaged in on the marshes, when we came up. You
 remember?”
 
@@ -237,10 +237,10 @@ remember?”
 
 “We want to know something about that man—and about you. It is strange
 to know no more about either, and particularly you, than I was able to
-tell last night. Is not this as good a time as another for our knowing
+tell last [[Night|night]]. Is not this as good a [[Time|time]] as another for our knowing
 more?”
 
-“Well!” he said, after consideration. “You’re on your oath, you know,
+“[[Well]]!” he said, after consideration. “You’re on your oath, you know,
 Pip’s comrade?”
 
 “Assuredly,” replied Herbert.
@@ -259,5 +259,5 @@ He took out his black pipe and was going to fill it with negro-head,
 when, looking at the tangle of tobacco in his hand, he seemed to think
 it might perplex the thread of his narrative. He put it back again,
 stuck his pipe in a button-hole of his coat, spread a hand on each
-knee, and after turning an angry eye on the fire for a few silent
+knee, and after turning an angry eye on the [[Fire|fire]] for a few silent
 moments, looked round at us and said what follows.

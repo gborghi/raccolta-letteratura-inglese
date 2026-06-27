@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 2)"
+title: "[[Shirley]] — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,19 +24,19 @@ parenthetically) what noodle first made it the fashion to teach women
 
 French. Nothing was more improper for them. It was like feeding a
 
-rickety child on chalk and water gruel. Caroline must give it up, and
+rickety [[Child|child]] on [[chalk]] and [[Water|water]] gruel. Caroline must give it up, and
 
 give up her cousins too. They were dangerous people.
 
 
 
-Mr. Helstone quite expected opposition to this order; he expected tears.
+Mr. Helstone quite expected opposition to this order; he expected [[Tears|tears]].
 
 Seldom did he trouble himself about Caroline's movements, but a vague
 
 idea possessed him that she was fond of going to Hollow's Cottage; also
 
-he suspected that she liked Robert Moore's occasional presence at the
+he suspected that she liked [[Robert Moore]]'s occasional presence at the
 
 rectory. The Cossack had perceived that whereas if Malone stepped in of
 
@@ -46,7 +46,7 @@ of an aged black cat, which usually shared with Miss Helstone's feet the
 
 accommodation of her footstool, or by borrowing a fowling-piece, and
 
-banging away at a tool shed door in the garden while enough of daylight
+banging away at a tool shed door in the [[Garden|garden]] while enough of daylight
 
 remained to show that conspicuous mark, keeping the passage and
 
@@ -60,7 +60,7 @@ Caroline had a trick of disappearing, tripping noiselessly upstairs, and
 
 remaining invisible till called down to supper. On the other hand, when
 
-Robert Moore was the guest, though he elicited no vivacities from the
+[[Robert Moore]] was the guest, though he elicited no vivacities from the
 
 cat, did nothing to it, indeed, beyond occasionally coaxing it from the
 
@@ -86,13 +86,13 @@ those elderly gentlemen who are easily blinded--on the contrary, finding
 
 himself on all occasions extremely wide-awake--had watched them when
 
-they bade each other good-night. He had just seen their eyes meet
+they bade each other good-[[Night|night]]. He had just seen their eyes meet
 
 once--only once. Some natures would have taken pleasure in the glance
 
 then surprised, because there was no harm and some delight in it. It was
 
-by no means a glance of mutual intelligence, for mutual love secrets
+by no means a glance of mutual intelligence, for mutual [[Love|love]] [[Secrets|secrets]]
 
 existed not between them. There was nothing then of craft and
 
@@ -116,7 +116,7 @@ box on the ear; if you had further demanded the reason of such
 
 chastisements, he would have stormed against flirtation and
 
-love-making, and vowed he would have no such folly going on under his
+[[Love|love]]-making, and vowed he would have no such folly going on under his
 
 roof.
 
@@ -126,17 +126,17 @@ These private considerations, combined with political reasons, fixed his
 
 resolution of separating the cousins. He announced his will to Caroline
 
-one evening as she was sitting at work near the drawing-room window. Her
+one evening as she was sitting at work near the drawing-room [[Window|window]]. Her
 
 face was turned towards him, and the light fell full upon it. It had
 
 struck him a few minutes before that she was looking paler and quieter
 
-than she used to look. It had not escaped him either that Robert Moore's
+than she used to look. It had not escaped him either that [[Robert Moore]]'s
 
 name had never, for some three weeks past, dropped from her lips; nor
 
-during the same space of time had that personage made his appearance at
+during the same space of [[Time|time]] had that personage made his appearance at
 
 the rectory. Some suspicion of clandestine meetings haunted his mind.
 
@@ -176,9 +176,9 @@ They are Jacobinical."
 
 
 
-"Very well," said Caroline quietly. She acquiesced then. There was no
+"Very [[Well|well]]," said Caroline quietly. She acquiesced then. There was no
 
-vexed flushing of the face, no gathering tears; the shadowy
+vexed flushing of the face, no gathering [[Tears|tears]]; the shadowy
 
 thoughtfulness which had covered her features ere Mr. Helstone spoke
 
@@ -188,9 +188,9 @@ remained undisturbed; she was obedient.
 
 Yes, perfectly; because the mandate coincided with her own previous
 
-judgment; because it was now become pain to her to go to Hollow's
+judgment; because it was now become [[Pain|pain]] to her to go to Hollow's
 
-Cottage; nothing met her there but disappointment. Hope and love had
+Cottage; nothing met her there but disappointment. [[Hope]] and [[Love|love]] had
 
 quitted that little tenement, for Robert seemed to have deserted its
 
@@ -198,24 +198,24 @@ precincts. Whenever she asked after him--which she very seldom did,
 
 since the mere utterance of his name made her face grow hot--the answer
 
-was, he was from home, or he was quite taken up with business. Hortense
+was, he was from [[Home|home]], or he was quite taken up with business. Hortense
 
 feared he was killing himself by application. He scarcely ever took a
 
-meal in the house; he lived in the counting-house.
+meal in the [[house]]; he lived in the counting-[[house]].
 
 
 
 At church only Caroline had the chance of seeing him, and there she
 
-rarely looked at him. It was both too much pain and too much pleasure
+rarely looked at him. It was both too much [[Pain|pain]] and too much pleasure
 
 to look--it excited too much emotion; and that it was all wasted emotion
 
-she had learned well to comprehend.
+she had learned [[Well|well]] to comprehend.
 
 
 
-Once, on a dark, wet Sunday, when there were few people at church, and
+Once, on a dark, wet [[Sunday]], when there were few people at church, and
 
 when especially certain ladies were absent, of whose observant faculties

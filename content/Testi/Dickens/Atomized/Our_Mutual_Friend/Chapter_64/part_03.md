@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Can you think of your daughter Bella, and sleep?’ she disdainfully
+‘Can you think of your daughter Bella, and [[Sleep|sleep]]?’ she disdainfully
 inquired.
 
 To which he mildly answered, ‘Yes, I think I can, my dear.’
@@ -37,10 +37,10 @@ triumphant.
 darling, how do YOU do, and how’s George Sampson, and how is he getting
 on, and when are you going to be married, and how rich are you going
 to grow? You must tell me all about it, Lavvy dear, immediately.
-John, love, kiss Ma and Lavvy, and then we shall all be at home and
+John, [[Love|love]], kiss Ma and Lavvy, and then we shall all be at [[Home|home]] and
 comfortable.’
 
-Mrs Wilfer stared, but was helpless. Miss Lavinia stared, but was
+Mrs Wilfer stared, but was helpless. Miss [[Lavinia]] stared, but was
 helpless. Apparently with no compunction, and assuredly with no
 ceremony, Bella tossed her bonnet away, and sat down to make the tea.
 
@@ -48,7 +48,7 @@ ceremony, Bella tossed her bonnet away, and sat down to make the tea.
 little Pa), you don’t take milk. John does. I didn’t before I was
 married; but I do now, because John does. John dear, did you kiss Ma and
 Lavvy? Oh, you did! Quite correct, John dear; but I didn’t see you do
-it, so I asked. Cut some bread and butter, John; that’s a love. Ma likes
+it, so I asked. Cut some bread and butter, John; that’s a [[Love|love]]. Ma likes
 it doubled. And now you must tell me, dearest Ma and Lavvy, upon your
 words and honours! Didn’t you for a moment—just a moment—think I was a
 dreadful little wretch when I wrote to say I had run away?’
@@ -56,13 +56,13 @@ dreadful little wretch when I wrote to say I had run away?’
 Before Mrs Wilfer could wave her gloves, the Mendicant’s bride in her
 merriest affectionate manner went on again.
 
-‘I think it must have made you rather cross, dear Ma and Lavvy, and I
-know I deserved that you should be very cross. But you see I had been
+‘I think it must have made you rather [[Cross|cross]], dear Ma and Lavvy, and I
+know I deserved that you should be very [[Cross|cross]]. But you see I had been
 such a heedless, heartless creature, and had led you so to expect that
 I should marry for money, and so to make sure that I was incapable of
-marrying for love, that I thought you couldn’t believe me. Because, you
+marrying for [[Love|love]], that I thought you couldn’t believe me. Because, you
 see, you didn’t know how much of Good, Good, Good, I had learnt from
-John. Well! So I was sly about it, and ashamed of what you supposed me
+John. [[Well]]! So I was sly about it, and ashamed of what you supposed me
 to be, and fearful that we couldn’t understand one another and might
 come to words, which we should all be sorry for afterwards, and so I
 said to John that if he liked to take me without any fuss, he might. And
@@ -74,18 +74,18 @@ said which any of us can be sorry for, and that we are all the best of
 friends at the pleasantest of teas!’
 
 Having got up and kissed them again, she slipped back to her chair
-(after a loop on the road to squeeze her husband round the neck) and
+(after a loop on the [[Road|road]] to squeeze her husband round the neck) and
 again went on.
 
 ‘And now you will naturally want to know, dearest Ma and Lavvy, how
-we live, and what we have got to live upon. Well! And so we live on
+we live, and what we have got to live upon. [[Well]]! And so we live on
 Blackheath, in the charm—ingest of dolls’ houses, de—lightfully
 furnished, and we have a clever little servant who is de—cidedly
 pretty, and we are economical and orderly, and do everything by
 clockwork, and we have a hundred and fifty pounds a year, and we
 have all we want, and more. And lastly, if you would like to know in
 confidence, as perhaps you may, what is my opinion of my husband, my
-opinion is—that I almost love him!’
+opinion is—that I almost [[Love|love]] him!’
 
 ‘And if you would like to know in confidence, as perhaps you may,’
 said her husband, smiling, as he stood by her side, without her having
@@ -93,11 +93,11 @@ detected his approach, ‘my opinion of my wife, my opinion is—.’ But
 Bella started up, and put her hand upon his lips.
 
 ‘Stop, Sir! No, John, dear! Seriously! Please not yet a while! I want to
-be something so much worthier than the doll in the doll’s house.’
+be something so much worthier than the doll in the doll’s [[house]].’
 
 ‘My darling, are you not?’
 
-‘Not half, not a quarter, so much worthier as I hope you may some
+‘Not half, not a quarter, so much worthier as I [[Hope|hope]] you may some
 day find me! Try me through some reverse, John—try me through some
 trial—and tell them after THAT, what you think of me.’
 
@@ -111,12 +111,12 @@ around him, ‘speak a word now!’
 She laid her laughing cheek upon his breast to thank him, and said,
 looking at the rest of them sideways out of her bright eyes: ‘I’ll go
 further, Pa and Ma and Lavvy. John don’t suspect it—he has no idea of
-it—but I quite love him!’
+it—but I quite [[Love|love]] him!’
 
 Even Mrs Wilfer relaxed under the influence of her married daughter, and
 seemed in a majestic manner to imply remotely that if R. W. had been a
 more deserving object, she too might have condescended to come down from
-her pedestal for his beguilement. Miss Lavinia, on the other hand, had
+her pedestal for his beguilement. Miss [[Lavinia]], on the other hand, had
 strong doubts of the policy of the course of treatment, and whether it
 might not spoil Mr Sampson, if experimented on in the case of that young
 gentleman. R. W. himself was for his part convinced that he was father
@@ -125,13 +125,13 @@ favoured of men; which opinion, if propounded to him, Rokesmith would
 probably not have contested.
 
 The newly-married pair left early, so that they might walk at leisure to
-their starting-place from London, for Greenwich. At first they were
+their starting-place from [[London]], for Greenwich. At first they were
 very cheerful and talked much; but after a while, Bella fancied that her
 husband was turning somewhat thoughtful. So she asked him:
 
 ‘John dear, what’s the matter?’
 
-‘Matter, my love?’
+‘Matter, my [[Love|love]]?’
 
 ‘Won’t you tell me,’ said Bella, looking up into his face, ‘what you are
 thinking of?’

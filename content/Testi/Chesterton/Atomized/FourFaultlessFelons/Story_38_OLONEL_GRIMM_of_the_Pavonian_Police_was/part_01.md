@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 1)"
+title: "[[FourFaultlessFelons]] — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,31 +18,31 @@ COLONEL GRIMM of the Pavonian Police was very exactly described as a
 
 hard-headed man, and one not easily divorced from reality. It was perhaps
 
-all the more strongly that he remembered that night as a nightmare. It
+all the more strongly that he remembered that [[Night|night]] as a [[nightmare]]. It
 
-really had the indescribable qualities of a dream; the repetitions and
+really had the indescribable qualities of [[A Dream|a dream]]; the repetitions and
 
 the inconsistencies; the scraps of past experience appearing like sudden
 
 pictures amid the chaos of the formless and unfamiliar; the general sense
 
-of having a double mind, one sane and the other mad. It was all the more
+of having a [[Double|double]] mind, one sane and the other mad. It was all the more
 
 so when his subterranean wanderings, beginning in the sunken shaft in the
 
-garden, did bring him back into what would normally have been called
+[[Garden|garden]], did bring him back into what would normally have been called
 
-normal scenes. He did indeed revisit the glimpses of the moon, but it
+normal scenes. He did indeed revisit the glimpses of the [[Moon|moon]], but it
 
-made him feel all the more like Hamlet's father's ghost. He could not
+made him feel all the more like [[Hamlet]]'s father's [[Ghost|ghost]]. He could not
 
 help feeling that he was revisiting the glimpses of the other side of the
 
-moon and had come out on the other side of the world. He could not be
+[[Moon|moon]] and had come out on the other side of the world. He could not be
 
 certain that he had not found an outlet under some strange sky, with
 
-stars, and moons of its own, and yet presenting objects of a mocking
+[[Stars|stars]], and moons of its own, and yet presenting objects of a mocking
 
 familiarity. His first revelation, or rather menace of things yet
 
@@ -62,7 +62,7 @@ won't be alarmed at me."
 
 He remained hanging on the ladder and looking up at a pale disc of light
 
-like the moon itself, which showed the opening of the well. A moment
+like the [[Moon|moon]] itself, which showed the opening of the [[Well|well]]. A moment
 
 after the disc was darkened, blotted out as by the cap that had covered
 
@@ -78,7 +78,7 @@ turnip of a face with green spectacles which he recognized instantly as
 
 that of Professor Phocus. And Professor Phocus said, with the horrible
 
-distinctness with which things are sometimes said in a dream: "You won't
+distinctness with which things are sometimes said in [[A Dream|a dream]]: "You won't
 
 catch us so easily. We've only to say The Word and the world will be
 
@@ -86,7 +86,7 @@ destroyed."
 
 
 
-Then the grotesque stopper was taken out of the strange bottle; the disc
+Then the [[Grotesque|grotesque]] stopper was taken out of the strange bottle; the disc
 
 of dull light reappeared; and after a few moments of bewildered waiting,
 
@@ -110,7 +110,7 @@ conspiratorial signals of Conrad.
 
 
 
-"You can go into the house in a minute," said Conrad in the same low
+"You can go into the [[house]] in a minute," said Conrad in the same low
 
 voice. "I'll just nip in and see that everything's all right, but I'm
 
@@ -118,9 +118,9 @@ sure they're all boxed up in there. Bring your men with you, of course."
 
 
 
-He darted into the back of a house, which Grimm fancied was the house
+He darted into the back of a [[house]], which Grimm fancied was the [[house]]
 
-next door to the original scene of the raid, and for some little time the
+next door to the original scene of the raid, and for some little [[Time|time]] the
 
 police and their Chief waited patiently outside. They had just begun to
 
@@ -128,33 +128,33 @@ consider the advisability of following their solitary leader into the den
 
 of criminals, when they caught their breath and stood still, staring up
 
-at the house.
+at the [[house]].
 
 
 
-One of the window blinds was jerked up and there appeared at the window
+One of the [[Window|window]] blinds was jerked up and there appeared at the [[Window|window]]
 
 the unmistakable face and form which the Princess had beheld upon the
 
-cafe table. The poet, Sebastian, stood staring at the moon, in what is
+cafe table. The poet, [[Sebastian]], stood staring at the [[Moon|moon]], in what is
 
 supposed to be the manner of poets, looking more than usually florid with
 
 his flaming red moustache and whiskers and a necktie of yet another
 
-glowing and romantic shade. Then he stretched out his arm to the moon,
+glowing and romantic shade. Then he stretched out his arm to the [[Moon|moon]],
 
 with a theatrical gesture, and seemed to begin to sing, or at least to
 
-speak in a sing-song fashion. It was impossible to conceive anything more
+speak in a sing-[[Song|song]] fashion. It was impossible to conceive anything more
 
 operatic; in the sense in which that word is almost synonymous with
 
-idiotic. But the words he was chanting were familiar: "As Aaron's serpent
+idiotic. But the words he was chanting were familiar: "As [[Aaron]]'s serpent
 
-swallowed snakes and rods, As God alone is greater than the gods, As all
+swallowed snakes and rods, As God [[Alone|alone]] is greater than the gods, As all
 
-stars shrivel in the single sun, The words are many, but The Word is
+[[Stars|stars]] shrivel in the single sun, The words are many, but The Word is
 
 one."
 
@@ -170,7 +170,7 @@ senseless an incident, had really happened at all.
 
 The next moment they were conscious that their creepy friend the
 
-conspirator had come close to them again in complete silence and was
+conspirator had come close to them again in complete [[Silence|silence]] and was
 
 whispering: "You can go in now and nab them all."
 
@@ -194,7 +194,7 @@ them bore a notice in large letters; one being inscribed "Professor
 
 Phocus", another "General Case", a third "Mr. Loeb", and a fourth simply
 
-"Sebastian", as with that magnificent flourish with which foreign poets
+"[[Sebastian]]", as with that magnificent flourish with which foreign poets
 
 sign a single name. "This is where they live," said John Conrad, "and I
 

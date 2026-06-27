@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 48"
+title: "[[Nicholas Nickleby]] — Chapter 48"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,34 +16,34 @@ tags:
 
 CHAPTER 48
 
-Being for the Benefit of Mr. Vincent Crummles, and positively his last
+Being for the Benefit of Mr. [[Vincent Crummles]], and positively his last
 Appearance on this Stage
 
 
 It was with a very sad and heavy heart, oppressed by many painful ideas,
 that Nicholas retraced his steps eastward and betook himself to the
-counting-house of Cheeryble Brothers. Whatever the idle hopes he had
+counting-[[house]] of [[Cheeryble Brothers]]. Whatever the idle hopes he had
 suffered himself to entertain, whatever the pleasant visions which had
 sprung up in his mind and grouped themselves round the fair image of
-Madeline Bray, they were now dispelled, and not a vestige of their
+[[Madeline Bray]], they were now dispelled, and not a vestige of their
 gaiety and brightness remained.
 
-It would be a poor compliment to Nicholas’s better nature, and one which
+It would be a poor compliment to Nicholas’s better [[Nature|nature]], and one which
 he was very far from deserving, to insinuate that the solution, and such
-a solution, of the mystery which had seemed to surround Madeline Bray,
+a solution, of the mystery which had seemed to surround [[Madeline Bray]],
 when he was ignorant even of her name, had damped his ardour or cooled
 the fervour of his admiration. If he had regarded her before, with
-such a passion as young men attracted by mere beauty and elegance may
+such a passion as young men attracted by mere [[Beauty|beauty]] and elegance may
 entertain, he was now conscious of much deeper and stronger feelings.
-But, reverence for the truth and purity of her heart, respect for the
-helplessness and loneliness of her situation, sympathy with the trials
+But, reverence for the [[Truth|truth]] and purity of her heart, respect for the
+helplessness and [[Loneliness|loneliness]] of her situation, sympathy with the trials
 of one so young and fair and admiration of her great and noble spirit,
 all seemed to raise her far above his reach, and, while they imparted
-new depth and dignity to his love, to whisper that it was hopeless.
+new depth and dignity to his [[Love|love]], to whisper that it was hopeless.
 
 ‘I will keep my word, as I have pledged it to her,’ said Nicholas,
 manfully. ‘This is no common trust that I have to discharge, and I will
-perform the double duty that is imposed upon me most scrupulously and
+perform the [[Double|double]] duty that is imposed upon me most scrupulously and
 strictly. My secret feelings deserve no consideration in such a case as
 this, and they shall have none.’
 
@@ -52,7 +52,7 @@ secret Nicholas rather encouraged them than otherwise; reasoning (if
 he reasoned at all) that there they could do no harm to anybody but
 himself, and that if he kept them to himself from a sense of duty, he
 had an additional right to entertain himself with them as a reward for
-his heroism.
+his [[Heroism|heroism]].
 
 All these thoughts, coupled with what he had seen that morning and the
 anticipation of his next visit, rendered him a very dull and abstracted
@@ -65,7 +65,7 @@ the tortures of remorse.
 But in reply to these considerate representations, and many others both
 from Tim and Mr. Frank, Nicholas could only be brought to state that
 he was never merrier in his life; and so went on all day, and so went
-towards home at night, still turning over and over again the same
+towards [[Home|home]] at [[Night|night]], still turning over and over again the same
 subjects, thinking over and over again the same things, and arriving
 over and over again at the same conclusions.
 
@@ -75,28 +75,28 @@ attention and without the smallest idea of one word of their contents,
 and to stare most earnestly through shop-windows at things which they
 don’t see. It was thus that Nicholas found himself poring with the
 utmost interest over a large play-bill hanging outside a Minor Theatre
-which he had to pass on his way home, and reading a list of the actors
-and actresses who had promised to do honour to some approaching benefit,
+which he had to pass on his way [[Home|home]], and reading a list of the actors
+and actresses who had promised to do [[Honour|honour]] to some approaching benefit,
 with as much gravity as if it had been a catalogue of the names of those
 ladies and gentlemen who stood highest upon the Book of Fate, and he had
 been looking anxiously for his own. He glanced at the top of the bill,
 with a smile at his own dulness, as he prepared to resume his walk, and
 there saw announced, in large letters with a large space between each
-of them, ‘Positively the last appearance of Mr. Vincent Crummles of
+of them, ‘Positively the last appearance of Mr. [[Vincent Crummles]] of
 Provincial Celebrity!!!’
 
 ‘Nonsense!’ said Nicholas, turning back again. ‘It can’t be.’
 
 But there it was. In one line by itself was an announcement of the first
-night of a new melodrama; in another line by itself was an announcement
+[[Night|night]] of a new [[Melodrama|melodrama]]; in another line by itself was an announcement
 of the last six nights of an old one; a third line was devoted to the
 re-engagement of the unrivalled African Knife-swallower, who had kindly
 suffered himself to be prevailed upon to forego his country engagements
 for one week longer; a fourth line announced that Mr. Snittle Timberry,
 having recovered from his late severe indisposition, would have the
-honour of appearing that evening; a fifth line said that there were
-‘Cheers, Tears, and Laughter!’ every night; a sixth, that that was
-positively the last appearance of Mr. Vincent Crummles of Provincial
+[[Honour|honour]] of appearing that evening; a fifth line said that there were
+‘Cheers, [[Tears]], and Laughter!’ every [[Night|night]]; a sixth, that that was
+positively the last appearance of Mr. [[Vincent Crummles]] of Provincial
 Celebrity.
 
 ‘Surely it must be the same man,’ thought Nicholas. ‘There can’t be two
@@ -106,9 +106,9 @@ The better to settle this question he referred to the bill again, and
 finding that there was a Baron in the first piece, and that Roberto (his
 son) was enacted by one Master Crummles, and Spaletro (his nephew) by
 one Master Percy Crummles--THEIR last appearances--and that, incidental
-to the piece, was a characteristic dance by the characters, and a
+to the piece, was a characteristic [[Dance|dance]] by the characters, and a
 castanet pas seul by the Infant Phenomenon--HER last appearance--he no
-longer entertained any doubt; and presenting himself at the stage-door,
+longer entertained any [[Doubt|doubt]]; and presenting himself at the stage-door,
 and sending in a scrap of paper with ‘Mr. Johnson’ written thereon in
 pencil, was presently conducted by a Robber, with a very large belt and
 buckle round his waist, and very large leather gauntlets on his hands,
@@ -117,7 +117,7 @@ into the presence of his former manager.
 Mr. Crummles was unfeignedly glad to see him, and starting up from before
 a small dressing-glass, with one very bushy eyebrow stuck on crooked
 over his left eye, and the fellow eyebrow and the calf of one of his
-legs in his hand, embraced him cordially; at the same time observing,
+legs in his hand, embraced him cordially; at the same [[Time|time]] observing,
 that it would do Mrs. Crummles’s heart good to bid him goodbye before
 they went.
 
@@ -134,7 +134,7 @@ bidding goodbye?’
 
 ‘No,’ replied Nicholas.
 
-‘I wonder at that,’ said the manager. ‘It was among the varieties. I had
+‘I [[Wonder|wonder]] at that,’ said the manager. ‘It was among the varieties. I had
 the paragraph here somewhere--but I don’t know--oh, yes, here it is.’
 
 So saying, Mr. Crummles, after pretending that he thought he must have
@@ -143,8 +143,8 @@ pantaloons he wore in private life (which, together with the plain
 clothes of several other gentlemen, lay scattered about on a kind of
 dresser in the room), and gave it to Nicholas to read:
 
-‘The talented Vincent Crummles, long favourably known to fame as a
-country manager and actor of no ordinary pretensions, is about to cross
+‘The talented [[Vincent Crummles]], long favourably known to fame as a
+country manager and actor of no ordinary pretensions, is about to [[Cross|cross]]
 the Atlantic on a histrionic expedition. Crummles is to be accompanied,
 we hear, by his lady and gifted family. We know no man superior to
 Crummles in his particular line of character, or one who, whether as a
@@ -168,7 +168,7 @@ thrice with profound gravity, and remarking, that he could not for the
 life of him imagine how the newspapers found out the things they did,
 folded up the extracts and put them in his pocket again.
 
-‘I am astonished to hear this news,’ said Nicholas. ‘Going to America!
+‘I am astonished to hear this news,’ said Nicholas. ‘Going to [[America]]!
 You had no such thing in contemplation when I was with you.’
 
 ‘No,’ replied Crummles, ‘I hadn’t then. The fact is that Mrs
@@ -179,16 +179,16 @@ whispered something in his ear.
 family?’
 
 ‘The seventh addition, Johnson,’ returned Mr. Crummles, solemnly. ‘I
-thought such a child as the Phenomenon must have been a closer; but it
+thought such a [[Child|child]] as the Phenomenon must have been a closer; but it
 seems we are to have another. She is a very remarkable woman.’
 
-‘I congratulate you,’ said Nicholas, ‘and I hope this may prove a
+‘I congratulate you,’ said Nicholas, ‘and I [[Hope|hope]] this may prove a
 phenomenon too.’
 
 ‘Why, it’s pretty sure to be something uncommon, I suppose,’ rejoined
 Mr. Crummles. ‘The talent of the other three is principally in combat and
 serious pantomime. I should like this one to have a turn for juvenile
-tragedy; I understand they want something of that sort in America very
+[[Tragedy|tragedy]]; I understand they want something of that sort in [[America]] very
 much. However, we must take it as it comes. Perhaps it may have a genius
 for the tight-rope. It may have any sort of genius, in short, if it
 takes after its mother, Johnson, for she is an universal genius; but,
@@ -201,11 +201,11 @@ from frequent going down upon those joints, in curses, prayers, last
 struggles, and other strong passages.
 
 While the ex-manager completed his toilet, he informed Nicholas that as
-he should have a fair start in America from the proceeds of a tolerably
+he should have a fair start in [[America]] from the proceeds of a tolerably
 good engagement which he had been fortunate enough to obtain, and as
-he and Mrs. Crummles could scarcely hope to act for ever (not being
+he and Mrs. Crummles could scarcely [[Hope|hope]] to act for ever (not being
 immortal, except in the breath of Fame and in a figurative sense) he had
-made up his mind to settle there permanently, in the hope of acquiring
+made up his mind to settle there permanently, in the [[Hope|hope]] of acquiring
 some land of his own which would support them in their old age, and
 which they could afterwards bequeath to their children. Nicholas, having
 highly commended the resolution, Mr. Crummles went on to impart such
@@ -213,7 +213,7 @@ further intelligence relative to their mutual friends as he thought
 might prove interesting; informing Nicholas, among other things, that
 Miss Snevellicci was happily married to an affluent young wax-chandler
 who had supplied the theatre with candles, and that Mr. Lillyvick didn’t
-dare to say his soul was his own, such was the tyrannical sway of Mrs
+dare to say his [[Soul|soul]] was his own, such was the tyrannical sway of Mrs
 Lillyvick, who reigned paramount and supreme.
 
 Nicholas responded to this confidence on the part of Mr. Crummles, by
@@ -224,12 +224,12 @@ heartiness on the improved state of his fortunes, Mr. Crummles gave him
 to understand that next morning he and his were to start for Liverpool,
 where the vessel lay which was to carry them from the shores of England,
 and that if Nicholas wished to take a last adieu of Mrs. Crummles, he
-must repair with him that night to a farewell supper, given in honour of
+must repair with him that [[Night|night]] to a farewell supper, given in [[Honour|honour]] of
 the family at a neighbouring tavern; at which Mr. Snittle Timberry would
 preside, while the honours of the vice-chair would be sustained by the
 African Swallower.
 
-The room being by this time very warm and somewhat crowded, in
+The room being by this [[Time|time]] very warm and somewhat crowded, in
 consequence of the influx of four gentlemen, who had just killed
 each other in the piece under representation, Nicholas accepted
 the invitation, and promised to return at the conclusion of the
@@ -242,8 +242,8 @@ his funds would afford--as a token of remembrance for Mr. Crummles,
 and having purchased besides a pair of ear-rings for Mrs. Crummles, a
 necklace for the Phenomenon, and a flaming shirt-pin for each of the
 young gentlemen, he refreshed himself with a walk, and returning a
-little after the appointed time, found the lights out, the theatre
-empty, the curtain raised for the night, and Mr. Crummles walking up and
+little after the appointed [[Time|time]], found the lights out, the theatre
+empty, the curtain raised for the [[Night|night]], and Mr. Crummles walking up and
 down the stage expecting his arrival.
 
 ‘Timberry won’t be long,’ said Mr. Crummles. ‘He played the audience out
@@ -253,8 +253,8 @@ little longer to wash himself.’
 ‘A very unpleasant line of character, I should think?’ said Nicholas.
 
 ‘No, I don’t know,’ replied Mr. Crummles; ‘it comes off easily enough,
-and there’s only the face and neck. We had a first-tragedy man in our
-company once, who, when he played Othello, used to black himself all
+and there’s only the face and neck. We had a first-[[Tragedy|tragedy]] man in our
+company once, who, when he played [[Othello]], used to black himself all
 over. But that’s feeling a part and going into it as if you meant it; it
 isn’t usual; more’s the pity.’
 
@@ -264,7 +264,7 @@ he was proud to know him. The Swallower said the same, and looked and
 spoke remarkably like an Irishman.
 
 ‘I see by the bills that you have been ill, sir,’ said Nicholas to Mr
-Timberry. ‘I hope you are none the worse for your exertions tonight?’
+Timberry. ‘I [[Hope|hope]] you are none the worse for your exertions tonight?’
 
 Mr. Timberry, in reply, shook his head with a gloomy air, tapped his
 chest several times with great significancy, and drawing his cloak more
@@ -274,7 +274,7 @@ It is observable that when people upon the stage are in any strait
 involving the very last extremity of weakness and exhaustion, they
 invariably perform feats of strength requiring great ingenuity and
 muscular power. Thus, a wounded prince or bandit chief, who is bleeding
-to death and too faint to move, except to the softest music (and then
+to [[Death|death]] and too faint to move, except to the softest music (and then
 only upon his hands and knees), shall be seen to approach a cottage
 door for aid in such a series of writhings and twistings, and with
 such curlings up of the legs, and such rollings over and over, and such
@@ -299,12 +299,12 @@ of the same; ‘and here another--and another,’ presenting the Master
 Crummleses. ‘And how is your friend, the faithful Digby?’
 
 ‘Digby!’ said Nicholas, forgetting at the instant that this had been
-Smike’s theatrical name. ‘Oh yes. He’s quite--what am I saying?--he is
-very far from well.’
+[[Smike]]’s theatrical name. ‘Oh yes. He’s quite--what am I saying?--he is
+very far from [[Well|well]].’
 
 ‘How!’ exclaimed Mrs. Crummles, with a tragic recoil.
 
-‘I fear,’ said Nicholas, shaking his head, and making an attempt to
+‘I [[Fear|fear]],’ said Nicholas, shaking his head, and making an attempt to
 smile, ‘that your better-half would be more struck with him now than
 ever.’
 
@@ -322,14 +322,14 @@ and changed the subject; inwardly cursing his precipitation, and very
 much wondering what Mrs. Crummles must think of so sudden an explosion.
 
 That lady seemed to think very little about it, for the supper being by
-this time on table, she gave her hand to Nicholas and repaired with a
+this [[Time|time]] on table, she gave her hand to Nicholas and repaired with a
 stately step to the left hand of Mr. Snittle Timberry. Nicholas had the
-honour to support her, and Mr. Crummles was placed upon the chairman’s
+[[Honour|honour]] to support her, and Mr. Crummles was placed upon the chairman’s
 right; the Phenomenon and the Master Crummleses sustained the vice.
 
 The company amounted in number to some twenty-five or thirty, being
 composed of such members of the theatrical profession, then engaged or
-disengaged in London, as were numbered among the most intimate friends
+disengaged in [[London]], as were numbered among the most intimate friends
 of Mr. and Mrs. Crummles. The ladies and gentlemen were pretty equally
 balanced; the expenses of the entertainment being defrayed by the
 latter, each of whom had the privilege of inviting one of the former as
@@ -338,18 +338,18 @@ his guest.
 It was upon the whole a very distinguished party, for independently of
 the lesser theatrical lights who clustered on this occasion round
 Mr. Snittle Timberry, there was a literary gentleman present who had
-dramatised in his time two hundred and forty-seven novels as fast as
+dramatised in his [[Time|time]] two hundred and forty-seven novels as fast as
 they had come out--some of them faster than they had come out--and who
 WAS a literary gentleman in consequence.
 
 This gentleman sat on the left hand of Nicholas, to whom he was
-introduced by his friend the African Swallower, from the bottom of the
+introduced by his friend the African Swallower, from the [[Bottom|bottom]] of the
 table, with a high eulogium upon his fame and reputation.
 
 ‘I am happy to know a gentleman of such great distinction,’ said
 Nicholas, politely.
 
-‘Sir,’ replied the wit, ‘you’re very welcome, I’m sure. The honour is
+‘Sir,’ replied the wit, ‘you’re very welcome, I’m sure. The [[Honour|honour]] is
 reciprocal, sir, as I usually say when I dramatise a book. Did you ever
 hear a definition of fame, sir?’
 
@@ -362,7 +362,7 @@ fame. For its author.’
 
 ‘That’s fame, sir,’ said the literary gentleman.
 
-‘So Richard Turpin, Tom King, and Jerry Abershaw have handed down to
+‘So [[Richard]] Turpin, Tom [[King]], and Jerry Abershaw have handed down to
 fame the names of those on whom they committed their most impudent
 robberies?’ said Nicholas.
 
@@ -373,7 +373,7 @@ gentleman.
 it is true,’ observed Nicholas.
 
 ‘Meaning Bill, sir?’ said the literary gentleman. ‘So he did. Bill
-was an adapter, certainly, so he was--and very well he adapted
+was an adapter, certainly, so he was--and very [[Well|well]] he adapted
 too--considering.’
 
 ‘I was about to say,’ rejoined Nicholas, ‘that Shakespeare derived some
@@ -383,13 +383,13 @@ day, have shot very far beyond him--’
 
 ‘You’re quite right, sir,’ interrupted the literary gentleman, leaning
 back in his chair and exercising his toothpick. ‘Human intellect, sir,
-has progressed since his time, is progressing, will progress.’
+has progressed since his [[Time|time]], is progressing, will progress.’
 
 ‘Shot beyond him, I mean,’ resumed Nicholas, ‘in quite another
-respect, for, whereas he brought within the magic circle of his genius,
+respect, for, whereas he brought within the [[Magic|magic]] circle of his genius,
 traditions peculiarly adapted for his purpose, and turned familiar
 things into constellations which should enlighten the world for ages,
-you drag within the magic circle of your dulness, subjects not at all
+you drag within the [[Magic|magic]] circle of your dulness, subjects not at all
 adapted to the purposes of the stage, and debase as he exalted. For
 instance, you take the uncompleted books of living authors, fresh from
 their hands, wet from the press, cut, hack, and carve them to the powers
@@ -399,14 +399,14 @@ worked out by their original projector, but which have doubtless cost
 him many thoughtful days and sleepless nights; by a comparison of
 incidents and dialogue, down to the very last word he may have written
 a fortnight before, do your utmost to anticipate his plot--all this
-without his permission, and against his will; and then, to crown the
+without his permission, and against his will; and then, to [[Crown|crown]] the
 whole proceeding, publish in some mean pamphlet, an unmeaning farrago of
 garbled extracts from his work, to which your name as author, with the
 honourable distinction annexed, of having perpetrated a hundred other
 outrages of the same description. Now, show me the distinction between
 such pilfering as this, and picking a man’s pocket in the street:
 unless, indeed, it be, that the legislature has a regard for
-pocket-handkerchiefs, and leaves men’s brains, except when they are
+pocket-handkerchiefs, and [[Leaves|leaves]] men’s brains, except when they are
 knocked out by violence, to take care of themselves.’
 
 ‘Men must live, sir,’ said the literary gentleman, shrugging his
@@ -432,8 +432,8 @@ evaporated.
 The board being now clear of the more substantial articles of food,
 and punch, wine, and spirits being placed upon it and handed about, the
 guests, who had been previously conversing in little groups of three
-or four, gradually fell off into a dead silence, while the majority of
-those present glanced from time to time at Mr. Snittle Timberry, and
+or four, gradually fell off into a dead [[Silence|silence]], while the majority of
+those present glanced from [[Time|time]] to [[Time|time]] at Mr. Snittle Timberry, and
 the bolder spirits did not even hesitate to strike the table with their
 knuckles, and plainly intimate their expectations, by uttering such
 encouragements as ‘Now, Tim,’ ‘Wake up, Mr. Chairman,’ ‘All charged, sir,
@@ -443,27 +443,27 @@ To these remonstrances Mr. Timberry deigned no other rejoinder than
 striking his chest and gasping for breath, and giving many other
 indications of being still the victim of indisposition--for a man
 must not make himself too cheap either on the stage or off--while
-Mr. Crummles, who knew full well that he would be the subject of the
+Mr. Crummles, who knew full [[Well|well]] that he would be the subject of the
 forthcoming toast, sat gracefully in his chair with his arm thrown
 carelessly over the back, and now and then lifted his glass to his mouth
 and drank a little punch, with the same air with which he was accustomed
 to take long draughts of nothing, out of the pasteboard goblets in
 banquet scenes.
 
-At length Mr. Snittle Timberry rose in the most approved attitude, with
+At length Mr. Snittle Timberry [[Rose|rose]] in the most approved attitude, with
 one hand in the breast of his waistcoat and the other on the nearest
 snuff-box, and having been received with great enthusiasm, proposed,
-with abundance of quotations, his friend Mr. Vincent Crummles: ending a
+with abundance of quotations, his friend Mr. [[Vincent Crummles]]: ending a
 pretty long speech by extending his right hand on one side and his left
 on the other, and severally calling upon Mr. and Mrs. Crummles to grasp
-the same. This done, Mr. Vincent Crummles returned thanks, and that done,
-the African Swallower proposed Mrs. Vincent Crummles, in affecting terms.
+the same. This done, Mr. [[Vincent Crummles]] returned thanks, and that done,
+the African Swallower proposed Mrs. [[Vincent Crummles]], in affecting terms.
 Then were heard loud moans and sobs from Mrs. Crummles and the ladies,
 despite of which that heroic woman insisted upon returning thanks
 herself, which she did, in a manner and in a speech which has never been
 surpassed and seldom equalled. It then became the duty of Mr. Snittle
 Timberry to give the young Crummleses, which he did; after which
-Mr. Vincent Crummles, as their father, addressed the company in a
+Mr. [[Vincent Crummles]], as their father, addressed the company in a
 supplementary speech, enlarging on their virtues, amiabilities, and
 excellences, and wishing that they were the sons and daughter of every
 lady and gentleman present. These solemnities having been succeeded by
@@ -473,8 +473,8 @@ Swallower, his very dear friend, if he would allow him to call him so;
 which liberty (there being no particular reason why he should not allow
 it) the African Swallower graciously permitted. The literary gentleman
 was then about to be drunk, but it being discovered that he had been
-drunk for some time in another acceptation of the term, and was then
-asleep on the stairs, the intention was abandoned, and the honour
+drunk for some [[Time|time]] in another acceptation of the term, and was then
+asleep on the stairs, the intention was abandoned, and the [[Honour|honour]]
 transferred to the ladies. Finally, after a very long sitting, Mr
 Snittle Timberry vacated the chair, and the company with many adieux and
 embraces dispersed.
@@ -501,7 +501,7 @@ hugged him with great affection.
 ‘What! Are you going too?’ said Nicholas, submitting with as good a
 grace as if she had been the finest young creature in the world.
 
-‘Going?’ returned Mrs. Grudden. ‘Lord ha’ mercy, what do you think they’d
+‘Going?’ returned Mrs. Grudden. ‘Lord ha’ [[Mercy|mercy]], what do you think they’d
 do without me?’
 
 Nicholas submitted to another hug with even a better grace than before,

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27"
+title: "Bleak [[house|House]] — Chapter 27"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,8 +20,8 @@ More Old Soldiers Than One
 
 
 Mr. George has not far to ride with folded arms upon the box, for
-their destination is Lincoln’s Inn Fields. When the driver stops his
-horses, Mr. George alights, and looking in at the window, says,
+their destination is [[Lincoln]]’s Inn Fields. When the driver stops his
+horses, Mr. George alights, and looking in at the [[Window|window]], says,
 “What, Mr. Tulkinghorn’s your man, is he?”
 
 “Yes, my dear friend. Do you know him, Mr. George?”
@@ -32,19 +32,19 @@ him, and he don’t know me.”
 There ensues the carrying of Mr. Smallweed upstairs, which is done to
 perfection with the trooper’s help. He is borne into Mr.
 Tulkinghorn’s great room and deposited on the Turkey rug before the
-fire. Mr. Tulkinghorn is not within at the present moment but will be
+[[Fire|fire]]. Mr. Tulkinghorn is not within at the present moment but will be
 back directly. The occupant of the pew in the hall, having said thus
-much, stirs the fire and leaves the triumvirate to warm themselves.
+much, stirs the [[Fire|fire]] and [[Leaves|leaves]] the triumvirate to warm themselves.
 
 Mr. George is mightily curious in respect of the room. He looks up at
 the painted ceiling, looks round at the old law-books, contemplates
 the portraits of the great clients, reads aloud the names on the
 boxes.
 
-“‘Sir Leicester Dedlock, Baronet,’” Mr. George reads thoughtfully.
+“‘[[Sir Leicester Dedlock]], Baronet,’” Mr. George reads thoughtfully.
 “Ha! ‘Manor of Chesney Wold.’ Humph!” Mr. George stands looking at
 these boxes a long while—as if they were pictures—and comes back to
-the fire repeating, “Sir Leicester Dedlock, Baronet, and Manor of
+the [[Fire|fire]] repeating, “[[Sir Leicester Dedlock]], Baronet, and Manor of
 Chesney Wold, hey?”
 
 “Worth a mint of money, Mr. George!” whispers Grandfather Smallweed,
@@ -74,7 +74,7 @@ looks with half-closed eyes across the room to where the trooper
 stands and says within himself perchance, “You’ll do, my friend!”
 
 “Sit down, sergeant,” he repeats as he comes to his table, which is
-set on one side of the fire, and takes his easy-chair. “Cold and raw
+set on one side of the [[Fire|fire]], and takes his easy-chair. “Cold and raw
 this morning, cold and raw!” Mr. Tulkinghorn warms before the bars,
 alternately, the palms and knuckles of his hands and looks (from
 behind that blind which is always down) at the trio sitting in a
@@ -97,7 +97,7 @@ Mr. George salutes the gentleman but otherwise sits bolt upright and
 profoundly silent—very forward in his chair, as if the full
 complement of regulation appendages for a field-day hung about him.
 
-Mr. Tulkinghorn proceeds, “Well, George—I believe your name is
+Mr. Tulkinghorn proceeds, “[[Well]], George—I believe your name is
 George?”
 
 “It is so, Sir.”
@@ -120,7 +120,7 @@ dear.”
 “I supposed, sergeant,” Mr. Tulkinghorn resumes as he leans on one
 side of his chair and crosses his legs, “that Mr. Smallweed might
 have sufficiently explained the matter. It lies in the smallest
-compass, however. You served under Captain Hawdon at one time, and
+compass, however. You served under Captain Hawdon at one [[Time|time]], and
 were his attendant in illness, and rendered him many little services,
 and were rather in his confidence, I am told. That is so, is it not?”
 
@@ -136,7 +136,7 @@ five, guineas, you would consider handsome, I dare say.”
 “Noble, my dear friend!” cries Grandfather Smallweed, screwing up his
 eyes.
 
-“If not, say how much more, in your conscience as a soldier, you can
+“If not, say how much more, in your [[Conscience|conscience]] as a soldier, you can
 demand. There is no need for you to part with the writing, against
 your inclination—though I should prefer to have it.”
 
@@ -168,9 +168,9 @@ the affidavit in Jarndyce and Jarndyce, that has been given to him
 for his inspection (though he still holds it in his hand), but
 continues to look at the lawyer with an air of troubled meditation.
 
-“Well?” says Mr. Tulkinghorn. “What do you say?”
+“[[Well]]?” says Mr. Tulkinghorn. “What do you say?”
 
-“Well, sir,” replies Mr. George, rising erect and looking immense, “I
+“[[Well]], sir,” replies Mr. George, rising erect and looking immense, “I
 would rather, if you’ll excuse me, have nothing to do with this.”
 
 Mr. Tulkinghorn, outwardly quite undisturbed, demands, “Why not?”
@@ -178,7 +178,7 @@ Mr. Tulkinghorn, outwardly quite undisturbed, demands, “Why not?”
 “Why, sir,” returns the trooper. “Except on military compulsion, I am
 not a man of business. Among civilians I am what they call in
 Scotland a ne’er-do-weel. I have no head for papers, sir. I can stand
-any fire better than a fire of cross questions. I mentioned to Mr.
+any [[Fire|fire]] better than a [[Fire|fire]] of [[Cross|cross]] questions. I mentioned to Mr.
 Smallweed, only an hour or so ago, that when I come into things of
 this kind I feel as if I was being smothered. And that is my
 sensation,” says Mr. George, looking round upon the company, “at the
@@ -197,7 +197,7 @@ possessive pronoun into brimmy and appearing to have an impediment in
 his speech. Once past this difficulty, however, he exhorts his dear
 friend in the tenderest manner not to be rash, but to do what so
 eminent a gentleman requires, and to do it with a good grace,
-confident that it must be unobjectionable as well as profitable. Mr.
+confident that it must be unobjectionable as [[Well|well]] as profitable. Mr.
 Tulkinghorn merely utters an occasional sentence, as, “You are the
 best judge of your own interest, sergeant.” “Take care you do no harm
 by this.” “Please yourself, please yourself.” “If you know what you
@@ -227,7 +227,7 @@ about that.”
 
 “IS he?” Mr. Tulkinghorn quietly sits down to write.
 
-“Well, sir,” says the trooper, looking into his hat after another
+“[[Well]], sir,” says the trooper, looking into his hat after another
 disconcerted pause, “I am sorry not to have given you more
 satisfaction. If it would be any satisfaction to any one that I
 should be confirmed in my judgment that I would rather have nothing
@@ -257,7 +257,7 @@ inspection of the boxes, strong and otherwise.
 
 “If I wasn’t as weak as a brimstone baby, sir,” whispers Grandfather
 Smallweed, drawing the lawyer down to his level by the lapel of his
-coat and flashing some half-quenched green fire out of his angry
+coat and flashing some half-quenched green [[Fire|fire]] out of his angry
 eyes, “I’d tear the writing away from him. He’s got it buttoned in
 his breast. I saw him put it there. Judy saw him put it there. Speak
 up, you crabbed image for the sign of a walking-stick shop, and say
@@ -266,14 +266,14 @@ you saw him put it there!”
 This vehement conjuration the old gentleman accompanies with such a
 thrust at his granddaughter that it is too much for his strength, and
 he slips away out of his chair, drawing Mr. Tulkinghorn with him,
-until he is arrested by Judy, and well shaken.
+until he is arrested by Judy, and [[Well|well]] shaken.
 
 “Violence will not do for me, my friend,” Mr. Tulkinghorn then
 remarks coolly.
 
 “No, no, I know, I know, sir. But it’s chafing and
 galling—it’s—it’s worse than your smattering chattering magpie of a
-grandmother,” to the imperturbable Judy, who only looks at the fire,
+grandmother,” to the imperturbable Judy, who only looks at the [[Fire|fire]],
 “to know he has got what’s wanted and won’t give it up. He, not to
 give it up! HE! A vagabond! But never mind, sir, never mind. At the
 most, he has only his own way for a little while. I have him
@@ -284,29 +284,29 @@ the lawyer hideously as he releases him, “I am ready for your kind
 assistance, my excellent friend!”
 
 Mr. Tulkinghorn, with some shadowy sign of amusement manifesting
-itself through his self-possession, stands on the hearth-rug with his
-back to the fire, watching the disappearance of Mr. Smallweed and
+itself through his [[Self|self]]-possession, stands on the hearth-rug with his
+back to the [[Fire|fire]], watching the disappearance of Mr. Smallweed and
 acknowledging the trooper’s parting salute with one slight nod.
 
 It is more difficult to get rid of the old gentleman, Mr. George
 finds, than to bear a hand in carrying him downstairs, for when he is
 replaced in his conveyance, he is so loquacious on the subject of the
 guineas and retains such an affectionate hold of his button—having,
-in truth, a secret longing to rip his coat open and rob him—that
+in [[Truth|truth]], a secret [[Longing|longing]] to rip his coat open and rob him—that
 some degree of force is necessary on the trooper’s part to effect a
-separation. It is accomplished at last, and he proceeds alone in
-quest of his adviser.
+separation. It is accomplished at last, and he proceeds [[Alone|alone]] in
+[[Quest|quest]] of his adviser.
 
 By the cloisterly Temple, and by Whitefriars (there, not without a
-glance at Hanging-Sword Alley, which would seem to be something in
-his way), and by Blackfriars Bridge, and Blackfriars Road, Mr. George
+glance at Hanging-[[Sword]] Alley, which would seem to be something in
+his way), and by Blackfriars Bridge, and Blackfriars [[Road]], Mr. George
 sedately marches to a street of little shops lying somewhere in that
-ganglion of roads from Kent and Surrey, and of streets from the
-bridges of London, centring in the far-famed elephant who has lost
-his castle formed of a thousand four-horse coaches to a stronger iron
-monster than he, ready to chop him into mince-meat any day he dares.
+ganglion of roads from [[Kent]] and Surrey, and of streets from the
+bridges of [[London]], centring in the far-famed elephant who has lost
+his [[Castle|castle]] formed of a thousand four-[[Horse|horse]] coaches to a stronger iron
+[[Monster|monster]] than he, ready to chop him into mince-meat any day he dares.
 To one of the little shops in this street, which is a musician’s
-shop, having a few fiddles in the window, and some Pan’s pipes and a
+shop, having a few fiddles in the [[Window|window]], and some Pan’s pipes and a
 tambourine, and a triangle, and certain elongated scraps of music,
 Mr. George directs his massive tread. And halting at a few paces from
 it, as he sees a soldierly looking woman, with her outer skirts
@@ -319,7 +319,7 @@ greens!”
 The subject of this reflection is at all events so occupied in
 washing greens at present that she remains unsuspicious of Mr.
 George’s approach until, lifting up herself and her tub together when
-she has poured the water off into the gutter, she finds him standing
+she has poured the [[Water|water]] off into the gutter, she finds him standing
 near her. Her reception of him is not flattering.
 
 “George, I never see you but I wish you was a hundred mile away!”
@@ -337,30 +337,30 @@ when you’re near him. You are that restless and that roving—”
 “You know you are!” says Mrs. Bagnet. “What’s the use of that? WHY
 are you?”
 
-“The nature of the animal, I suppose,” returns the trooper
+“The [[Nature|nature]] of the animal, I suppose,” returns the trooper
 good-humouredly.
 
 “Ah!” cries Mrs. Bagnet, something shrilly. “But what satisfaction
-will the nature of the animal be to me when the animal shall have
+will the [[Nature|nature]] of the animal be to me when the animal shall have
 tempted my Mat away from the musical business to New Zealand or
 Australey?”
 
 Mrs. Bagnet is not at all an ill-looking woman. Rather large-boned, a
-little coarse in the grain, and freckled by the sun and wind which
+little coarse in the grain, and freckled by the sun and [[Wind|wind]] which
 have tanned her hair upon the forehead, but healthy, wholesome, and
 bright-eyed. A strong, busy, active, honest-faced woman of from
 forty-five to fifty. Clean, hardy, and so economically dressed
 (though substantially) that the only article of ornament of which she
 stands possessed appear’s to be her wedding-ring, around which her
 finger has grown to be so large since it was put on that it will
-never come off again until it shall mingle with Mrs. Bagnet’s dust.
+never come off again until it shall mingle with Mrs. Bagnet’s [[Dust|dust]].
 
 “Mrs. Bagnet,” says the trooper, “I am on my parole with you. Mat
 will get no harm from me. You may trust me so far.”
 
-“Well, I think I may. But the very looks of you are unsettling,” Mrs.
+“[[Well]], I think I may. But the very looks of you are unsettling,” Mrs.
 Bagnet rejoins. “Ah, George, George! If you had only settled down and
-married Joe Pouch’s widow when he died in North America, SHE’D have
+married Joe Pouch’s widow when he died in North [[america|America]], SHE’D have
 combed your hair for you.”
 
 “It was a chance for me, certainly,” returns the trooper half
@@ -395,7 +395,7 @@ and romping plant their stools beside him.
 you believe it? Got an engagement at the theayter, with his father,
 to play the fife in a military piece.”
 
-“Well done, my godson!” cries Mr. George, slapping his thigh.
+“[[Well]] done, my godson!” cries Mr. George, slapping his thigh.
 
 “I believe you!” says Mrs. Bagnet. “He’s a Briton. That’s what
 Woolwich is. A Briton!”
@@ -403,17 +403,17 @@ Woolwich is. A Briton!”
 “And Mat blows away at his bassoon, and you’re respectable civilians
 one and all,” says Mr. George. “Family people. Children growing up.
 Mat’s old mother in Scotland, and your old father somewhere else,
-corresponded with, and helped a little, and—well, well! To be sure,
+corresponded with, and helped a little, and—[[Well|well]], [[Well|well]]! To be sure,
 I don’t know why I shouldn’t be wished a hundred mile away, for I
 have not much to do with all this!”
 
-Mr. George is becoming thoughtful, sitting before the fire in the
+Mr. George is becoming thoughtful, sitting before the [[Fire|fire]] in the
 whitewashed room, which has a sanded floor and a barrack smell and
 contains nothing superfluous and has not a visible speck of dirt or
-dust in it, from the faces of Quebec and Malta to the bright tin pots
+[[Dust|dust]] in it, from the faces of Quebec and Malta to the bright tin pots
 and pannikins upon the dresser shelves—Mr. George is becoming
 thoughtful, sitting here while Mrs. Bagnet is busy, when Mr. Bagnet
-and young Woolwich opportunely come home. Mr. Bagnet is an
+and young Woolwich opportunely come [[Home|home]]. Mr. Bagnet is an
 ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers
 like the fibres of a coco-nut, not a hair upon his head, and a torrid
 complexion. His voice, short, deep, and resonant, is not at all
@@ -442,7 +442,7 @@ opinion than that of a college.”
 
 “College,” returns Mr. Bagnet in short sentences, bassoon-like. “What
 college could you leave—in another quarter of the world—with
-nothing but a grey cloak and an umbrella—to make its way home to
+nothing but a grey cloak and an umbrella—to make its way [[Home|home]] to
 Europe? The old girl would do it to-morrow. Did it once!”
 
 “You are right,” says Mr. George.
@@ -469,7 +469,7 @@ try the bassoon. The old girl borrowed a bassoon from the bandmaster
 of the Rifle Regiment. I practised in the trenches. Got on, got
 another, get a living by it!”
 
-George remarks that she looks as fresh as a rose and as sound as an
+George remarks that she looks as fresh as a [[Rose|rose]] and as sound as an
 apple.
 
 “The old girl,” says Mr. Bagnet in reply, “is a thoroughly fine
@@ -478,7 +478,7 @@ she gets on. I never saw the old girl’s equal. But I never own to it
 before her. Discipline must be maintained!”
 
 Proceeding to converse on indifferent matters, they walk up and down
-the little street, keeping step and time, until summoned by Quebec
+the little street, keeping step and [[Time|time]], until summoned by Quebec
 and Malta to do justice to the pork and greens, over which Mrs.
 Bagnet, like a military chaplain, says a short grace. In the
 distribution of these comestibles, as in every other household duty,
@@ -511,7 +511,7 @@ to state his case.
 
 This Mr. George does with great discretion, appearing to address
 himself to Mr. Bagnet, but having an eye solely on the old girl all
-the time, as Bagnet has himself. She, equally discreet, busies
+the [[Time|time]], as Bagnet has himself. She, equally discreet, busies
 herself with her needlework. The case fully stated, Mr. Bagnet
 resorts to his standard artifice for the maintenance of discipline.
 
@@ -539,25 +539,25 @@ the whole Bagnet family, according to their various ranges of
 experience.
 
 Through these means it comes to pass that Mr. George does not again
-rise to his full height in that parlour until the time is drawing on
+rise to his full height in that parlour until the [[Time|time]] is drawing on
 when the bassoon and fife are expected by a British public at the
-theatre; and as it takes time even then for Mr. George, in his
+theatre; and as it takes [[Time|time]] even then for Mr. George, in his
 domestic character of Bluffy, to take leave of Quebec and Malta and
 insinuate a sponsorial shilling into the pocket of his godson with
-felicitations on his success in life, it is dark when Mr. George
-again turns his face towards Lincoln’s Inn Fields.
+felicitations on his [[success]] in life, it is dark when Mr. George
+again turns his face towards [[Lincoln]]’s Inn Fields.
 
-“A family home,” he ruminates as he marches along, “however small it
-is, makes a man like me look lonely. But it’s well I never made that
+“A family [[Home|home]],” he ruminates as he marches along, “however small it
+is, makes a man like me look lonely. But it’s [[Well|well]] I never made that
 evolution of matrimony. I shouldn’t have been fit for it. I am such a
-vagabond still, even at my present time of life, that I couldn’t hold
+vagabond still, even at my present [[Time|time]] of life, that I couldn’t hold
 to the gallery a month together if it was a regular pursuit or if I
 didn’t camp there, gipsy fashion. Come! I disgrace nobody and cumber
 nobody; that’s something. I have not done that for many a long year!”
 
 So he whistles it off and marches on.
 
-Arrived in Lincoln’s Inn Fields and mounting Mr. Tulkinghorn’s stair,
+Arrived in [[Lincoln]]’s Inn Fields and mounting Mr. Tulkinghorn’s stair,
 he finds the outer door closed and the chambers shut, but the trooper
 not knowing much about outer doors, and the staircase being dark
 besides, he is yet fumbling and groping about, hoping to discover a
@@ -573,7 +573,7 @@ that? What are you doing there?”
 rather nettled.
 
 “Have you changed your mind? Or are you in the same mind?” Mr.
-Tulkinghorn demands. But he knows well enough at a glance.
+Tulkinghorn demands. But he knows [[Well|well]] enough at a glance.
 
 “In the same mind, sir.”
 
@@ -599,5 +599,5 @@ trooper growls with a hasty oath as he strides downstairs. “A
 threatening, murderous, dangerous fellow!” And looking up, he sees
 the clerk looking down at him and marking him as he passes a lamp.
 This so intensifies his dudgeon that for five minutes he is in an ill
-humour. But he whistles that off like the rest of it and marches home
+[[Humour|humour]]. But he whistles that off like the rest of it and marches [[Home|home]]
 to the shooting gallery.

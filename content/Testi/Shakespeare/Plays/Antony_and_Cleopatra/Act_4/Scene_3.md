@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act IV, Scene 3"
+title: "Antony and [[Cleopatra]] — Act IV, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -18,15 +18,15 @@ tags:
 |---|---|
 | *(didascalia)* | Enter |
 | *(didascalia)* | a company of<br>Soldiers |
-| FIRST SOLDIER | Brother, good night. Tomorrow is the day. |
-| SECOND SOLDIER | It will determine one way. Fare you well.<br>Heard you of nothing strange about the streets? |
+| FIRST SOLDIER | Brother, good [[Night|night]]. Tomorrow is the day. |
+| SECOND SOLDIER | It will determine one way. Fare you [[Well|well]].<br>Heard you of nothing strange about the streets? |
 | FIRST SOLDIER | Nothing. What news? |
-| SECOND SOLDIER | Belike ’tis but a rumour. Good night to you. |
-| FIRST SOLDIER | Well, sir, good night. |
+| SECOND SOLDIER | Belike ’tis but a rumour. Good [[Night|night]] to you. |
+| FIRST SOLDIER | [[Well]], sir, good [[Night|night]]. |
 | *(didascalia)* | Enter other Soldiers, meeting them |
 | SECOND SOLDIER | Soldiers, have careful watch. |
-| THIRD SOLDIER | And you. Good night, good night.<br>They place themselves in every corner of the stage |
-| SECOND SOLDIER | Here we; an if tomorrow<br>Our navy thrive, I have an absolute hope<br>Our landmen will stand up. |
+| THIRD SOLDIER | And you. Good [[Night|night]], good [[Night|night]].<br>They place themselves in every corner of the stage |
+| SECOND SOLDIER | Here we; an if tomorrow<br>Our navy thrive, I have an absolute [[Hope|hope]]<br>Our landmen will stand up. |
 | FIRST SOLDIER | ’Tis a brave army,<br>And full of purpose. |
 | *(didascalia)* | Music of the hautboys is under the stage |
 | SECOND SOLDIER | Peace, what noise? |
@@ -34,10 +34,10 @@ tags:
 | SECOND SOLDIER | Hark! |
 | FIRST SOLDIER | Music i’th’ air. |
 | THIRD SOLDIER | Under the earth. |
-| FOURTH SOLDIER | It signs well, does it not? |
+| FOURTH SOLDIER | It signs [[Well|well]], does it not? |
 | THIRD SOLDIER | No. |
 | FIRST SOLDIER | Peace, I say!<br>What should this mean? |
-| SECOND SOLDIER | ’Tis the god Hercules, whom Antony loved,<br>Now leaves him. |
+| SECOND SOLDIER | ’Tis the god Hercules, whom Antony loved,<br>Now [[Leaves|leaves]] him. |
 | FIRST SOLDIER | Walk. Let’s see if other watchmen<br>Do hear what we do. |
 | SECOND SOLDIER | How now, masters? |
 | ALL | (speaking together)<br>How now?<br>How now? Do you hear this? |

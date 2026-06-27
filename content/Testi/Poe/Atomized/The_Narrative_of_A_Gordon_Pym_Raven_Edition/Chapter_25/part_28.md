@@ -16,7 +16,7 @@ tags:
 
       was not the less utterly solemn and serious beyond all attempts
 
-      at imitation or description.
+      at [[Imitation|imitation]] or description.
 
 
 
@@ -38,7 +38,7 @@ tags:
 
       and his thick upper-lip rested upon the still thicker one beneath
 
-      with an air of complacent self-satisfaction, much heightened by
+      with an air of complacent [[Self|self]]-satisfaction, much heightened by
 
       the owner’s habit of licking them at intervals. He evidently
 
@@ -54,7 +54,7 @@ tags:
 
       worthy couple in and about the different tap-houses of the
 
-      neighbourhood during the earlier hours of the night. Funds even
+      neighbourhood during the earlier hours of the [[Night|night]]. Funds even
 
       the most ample, are not always everlasting: and it was with empty
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-      At the precise period, then, when this history properly
+      At the precise period, then, when this [[history]] properly
 
       commences, Legs, and his fellow Hugh Tarpaulin, sat, each with
 
@@ -72,7 +72,7 @@ tags:
 
       from behind a huge flagon of unpaid-for “humming-stuff,” the
 
-      portentous words, “No Chalk,” which to their indignation and
+      portentous words, “No [[chalk|Chalk]],” which to their indignation and
 
       astonishment were scored over the doorway by means of that very
 
@@ -84,7 +84,7 @@ tags:
 
       inditing—could, in strict justice, have been laid to the charge
 
-      of either disciple of the sea; but there was, to say the truth, a
+      of either disciple of the sea; but there was, to say the [[Truth|truth]], a
 
       certain twist in the formation of the letters—an indescribable
 
@@ -92,9 +92,9 @@ tags:
 
       seamen, a long run of dirty weather; and determined them at once,
 
-      in the allegorical words of Legs himself, to “pump ship, clew up
+      in the allegorical words of Legs himself, to “pump [[Ship|ship]], clew up
 
-      all sail, and scud before the wind.”
+      all sail, and scud before the [[Wind|wind]].”
 
 
 
@@ -104,9 +104,9 @@ tags:
 
       bolt for the street. Although Tarpaulin rolled twice into the
 
-      fire-place, mistaking it for the door, yet their escape was at
+      [[Fire|fire]]-place, mistaking it for the door, yet their escape was at
 
-      length happily effected—and half after twelve o’clock found our
+      length happily effected—and half after twelve o’[[Clock|clock]] found our
 
       heroes ripe for mischief, and running for life down a dark alley
 
@@ -120,7 +120,7 @@ tags:
 
       years before and after, all England, but more especially the
 
-      metropolis, resounded with the fearful cry of “Plague!” The city
+      metropolis, resounded with the fearful cry of “Plague!” The [[City|city]]
 
       was in a great measure depopulated—and in those horrible regions,
 
@@ -128,21 +128,21 @@ tags:
 
       filthy lanes and alleys, the Demon of Disease was supposed to
 
-      have had his nativity, Awe, Terror, and Superstition were alone
+      have had his nativity, Awe, Terror, and Superstition were [[Alone|alone]]
 
       to be found stalking abroad.
 
 
 
-      By authority of the king such districts were placed under ban,
+      By authority of the [[King|king]] such districts were placed under ban,
 
-      and all persons forbidden, under pain of death, to intrude upon
+      and all persons forbidden, under [[Pain|pain]] of [[Death|death]], to intrude upon
 
-      their dismal solitude. Yet neither the mandate of the monarch,
+      their dismal [[Solitude|solitude]]. Yet neither the mandate of the monarch,
 
       nor the huge barriers erected at the entrances of the streets,
 
-      nor the prospect of that loathsome death which, with almost
+      nor the prospect of that loathsome [[Death|death]] which, with almost
 
       absolute certainty, overwhelmed the wretch whom no peril could
 
@@ -156,7 +156,7 @@ tags:
 
 
 
-      Above all, it was usually found, upon the annual winter opening
+      Above all, it was usually found, upon the annual [[Winter|winter]] opening
 
       of the barriers, that locks, bolts, and secret cellars, had
 
@@ -166,7 +166,7 @@ tags:
 
       removal, many of the numerous dealers having shops in the
 
-      neighbourhood had consented to trust, during the period of exile,
+      neighbourhood had consented to trust, during the period of [[Exile|exile]],
 
       to so insufficient a security.
 
@@ -178,7 +178,7 @@ tags:
 
       Pest-spirits, plague-goblins, and fever-demons, were the popular
 
-      imps of mischief; and tales so blood-chilling were hourly told,
+      imps of mischief; and tales so [[Blood|blood]]-chilling were hourly told,
 
       that the whole mass of forbidden buildings was, at length,
 
@@ -188,7 +188,7 @@ tags:
 
       created; leaving the entire vast circuit of prohibited district
 
-      to gloom, silence, pestilence, and death.
+      to gloom, [[Silence|silence]], pestilence, and [[Death|death]].
 
 
 
@@ -200,7 +200,7 @@ tags:
 
       found their progress suddenly impeded. To return was out of the
 
-      question, and no time was to be lost, as their pursuers were
+      question, and no [[Time|time]] was to be lost, as their pursuers were
 
       close upon their heels. With thorough-bred seamen to clamber up
 

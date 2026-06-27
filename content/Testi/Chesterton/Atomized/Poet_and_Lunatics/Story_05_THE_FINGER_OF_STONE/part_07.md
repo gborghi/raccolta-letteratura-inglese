@@ -23,20 +23,20 @@ I was concerned with what some prefer to call criminology and I
 prefer to call crime.  If that extraordinary erection was the corpse,
 who and where was the criminal?  Who was the assassin who had set
 up the dead man to be at once obvious and invisible; and had,
-so to speak, hidden him in the broad daylight?  Well, you have
+so to speak, hidden him in the broad daylight?  [[Well]], you have
 all heard the arguments about the stream and the scrap of paper,
 and up to a point I have entirely followed them.  Everyone agreed
-that the secret was somewhere hidden on that bare hill where there
+that the secret was somewhere hidden on that bare [[Hill|hill]] where there
 was nothing but the glass-roofed studio and the lonely hermitage;
 and suspicion centred entirely upon the hermitage.  For the man
 in the studio was a fervent friend of the man who was murdered,
 and one of those rejoicing most heartily at what he had discovered.
 But perhaps you have rather forgotten what he really had discovered.
 His real discovery was of the sort that infuriates friends and not foes.
-The man who has the courage to say he is wrong has to face
+The man who has the [[Courage|courage]] to say he is wrong has to face
 the worst hatred; the hatred of those who think he is right.
 Boyg's final discovery, like our final discovery, rather reverses
-the relations of those two little houses on the hill.
+the relations of those two little houses on the [[Hill|hill]].
 Even if Father Hyacinth had been a fiend instead of a saint,
 he had no possible motive to prevent his enemy from offering him
 a public apology.  It was a believer in Boygism who struck down Boyg.
@@ -44,10 +44,10 @@ It was his follower who became his pursuer and persecutor;
 who at last turned in unreasonable fury upon him.
 It was Paradou the sculptor who snatched up a chisel and struck
 his philosophical teacher, at the end of some furious argument about
-the theory which the artist had valued only as a wild inspiration,
-being quite indifferent to the tame question of its truth.
-I don't think he meant to kill Boyg; I doubt whether anybody
-could possibly prove he did; and even if he did, I rather doubt
+the theory which the [[artist]] had valued only as a wild inspiration,
+being quite indifferent to the tame question of its [[Truth|truth]].
+I don't think he meant to kill Boyg; I [[Doubt|doubt]] whether anybody
+could possibly prove he did; and even if he did, I rather [[Doubt|doubt]]
 whether he can be held responsible for that or for anything else.
 But though Paradou may be a lunatic, he is also a logician;
 and there is one more interesting logical step in this story.
@@ -79,11 +79,11 @@ He began to see the vast outlines of a joke as gigantic as
 the Great Pyramid.  He would set up that grim granite jest in
 the market-place, to grin forever at his critics and detractors.
 The dead man himself had just been explaining to him the process by
-which the water of that place would rapidly petrify organic substances.
+which the [[Water|water]] of that place would rapidly petrify organic substances.
 The notes and documents of his proof lay scattered about
 the studio where he had fallen.  His own proof should be applied
-to his own body, for a purpose of which he had never dreamed.
-If the sculptor simply lifted the body in the ungainly attitude in
+to his own [[Body|body]], for a purpose of which he had never dreamed.
+If the sculptor simply lifted the [[Body|body]] in the ungainly attitude in
 which it had actually fallen, if he froze or fixed it in the stream,
 or set it upon the public pedestal, it would be the very thing about
 which he had so bitterly debated; a real man, in a real posture,
@@ -97,28 +97,28 @@ to be wrong, and clearly demonstrate the posture to be impossible.
 And he would listen, and laugh inwardly like a true lunatic,
 knowing that they were proving the utter unreality of a real man.
 That being his dream, he had no difficulty in carrying it out.
-He had no need to hide the body; he had it brought down from his studio,
+He had no need to hide the [[Body|body]]; he had it brought down from his studio,
 not secretly but publicly and even pompously, the finished work
 of a great sculptor escorted by the devotees of a great discoverer.
 But indeed, Boyg was something more than a man who made
 a discovery; and there is, in comparison, a sort of cant
-even in the talk of a man having the courage to discover it.
-What other man would have had the courage to undiscover it?
+even in the talk of a man having the [[Courage|courage]] to discover it.
+What other man would have had the [[Courage|courage]] to undiscover it?
 That monument that hides a strange sin, hides a much stranger
-and much rarer virtue.  Yes, you do well to hail it as a true
+and much rarer virtue.  Yes, you do [[Well|well]] to hail it as a true
 scientific trophy.  That is the statue of Boyg the Undiscoverer.
 That cold chimera of the rock is not only the abortion born of some
 horrible chemical change; it is the outcome of a nobler experiment,
-which attests for ever the honour and probity of science.
-You may well praise him as a man of science; for he, at least,
-in an affair of science, acted like a man.  You may well set up
-statues to him as a hero of science; for he was more of a hero
+which attests for ever the [[Honour|honour]] and probity of science.
+You may [[Well|well]] praise him as a man of science; for he, at least,
+in an affair of science, acted like a man.  You may [[Well|well]] set up
+statues to him as a [[Hero|hero]] of science; for he was more of a [[Hero|hero]]
 in being wrong than he could ever have been in being right.
-And though the stars have seen rise, from the soils and substance
+And though the [[Stars|stars]] have seen rise, from the soils and substance
 of our native star, no such monstrosity as that man of stone,
-heaven may look down with more wonder at the man than at the monster.
+heaven may look down with more [[Wonder|wonder]] at the man than at the [[Monster|monster]].
 And we of all schools and of all philosophies can pass it like
-a funeral procession taking leave of an illustrious grave and,
+a funeral procession taking leave of an illustrious [[Grave|grave]] and,
 like soldiers, salute it as we pass."
 
 

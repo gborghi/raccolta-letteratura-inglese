@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — A.  By reading or using any part of this Project Gutenberg-tm"
+title: "[[LordKitchener]] — A.  By reading or using any part of this Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

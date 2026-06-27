@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 23 (part 7)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -20,7 +20,7 @@ am not to be blinded; and of course it was as plain to me what he was
 going to do with them, as it was that he was a brown hulking sort of
 revolutionary subject who had been in India with the soldiers, and
 ought (for the sake of society) to have his neck broke. I saw the lots
-shortly afterwards in Kimber’s lodgings—through the window—and I easily
+shortly afterwards in Kimber’s lodgings—through the [[Window|window]]—and I easily
 made out that there had been a sneaking pretence of lending them till
 better times. A man with a smaller knowledge of the world than myself
 might have been led to suspect that Kimber had held back money from his
@@ -29,7 +29,7 @@ for certain he had no money, I knew that this would involve a species
 of forethought not to be made compatible with the frivolity of a
 caperer, inoculating other people with capering, for his bread.
 
-As it was the first time I had seen either of those two since the sale,
+As it was the first [[Time|time]] I had seen either of those two since the sale,
 I kept myself in what I call Abeyance. When selling him up, I had
 delivered a few remarks—shall I say a little homily?—concerning Kimber,
 which the world did regard as more than usually worth notice. I had
@@ -49,7 +49,7 @@ writ of execution; thirdly, Issued by a creditor; with a few moral
 reflections on each, and winding up with, ‘Now to the first lot’ in a
 manner that was complimented when I afterwards mingled with my hearers.
 
-So, not being certain on what terms I and Kimber stood, I was grave, I
+So, not being certain on what terms I and Kimber stood, I was [[Grave|grave]], I
 was chilling. Kimber, however, moving to me, I moved to Kimber. (I was
 the creditor who had issued the writ. Not that it matters.)
 
@@ -69,19 +69,19 @@ you were not high in the Church.’
 strong expressions to apply to a young man of good appearance and
 address.’ My generosity was roused; I own it.
 
-‘You’ll admit that he must be a Fool,’ said Peartree.
+‘You’ll admit that he must be a [[Fool]],’ said Peartree.
 
 ‘You can’t deny that he must be a Blockhead,’ said Kimber.
 
 Their tone of disgust amounted to being offensive. Why should the young
-man be so calumniated? What had he done? He had only made an innocent
+man be so calumniated? What had he done? He had only made an [[Innocent|innocent]]
 and natural mistake. I controlled my generous indignation, and said so.
 
 ‘Natural?’ repeated Kimber. ‘_He’s_ a Natural!’
 
 The remaining six members of the Eight Club laughed unanimously. It
 stung me. It was a scornful laugh. My anger was roused in behalf of an
-absent, friendless stranger. I rose (for I had been sitting down).
+absent, friendless stranger. I [[Rose|rose]] (for I had been sitting down).
 
 ‘Gentlemen,’ I said with dignity, ‘I will not remain one of this Club
 allowing opprobrium to be cast on an unoffending person in his absence.
@@ -99,7 +99,7 @@ knowledge of mankind. I had forced it out of them.
 II
 
 Whom should I meet in the street, within a few yards of the door of the
-inn where the Club was held, but the self-same young man whose cause I
+inn where the Club was held, but the [[Self|self]]-same young man whose cause I
 had felt it my duty so warmly—and I will add so disinterestedly—to take
 up.
 
@@ -121,11 +121,11 @@ avail me?’
 I don’t know that I had quite exactly made out to a fraction that his
 name _was_ Poker, but I daresay I had been pretty near doing it.
 
-‘Well, well,’ said I, trying to put him at his ease by nodding my head
+‘[[Well]], [[Well|well]],’ said I, trying to put him at his ease by nodding my head
 in a soothing way. ‘Your name is Poker, and there is no harm in being
 named Poker.’
 
-‘Oh, Mr. Sapsea!’ cried the young man, in a very well-behaved manner.
+‘Oh, Mr. Sapsea!’ cried the young man, in a very [[Well|well]]-behaved manner.
 ‘Bless you for those words!’ He then, as if ashamed of having given way
 to his feelings, looked down again.
 

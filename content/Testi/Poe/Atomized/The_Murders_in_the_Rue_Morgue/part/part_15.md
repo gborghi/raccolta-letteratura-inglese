@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 15)"
+title: "[[The Murders in the Rue Morgue]] (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      it,) and was flourishing the razor about her face, in imitation
+      it,) and was flourishing the razor about her face, in [[Imitation|imitation]]
 
       of the motions of a barber. The daughter lay prostrate and
 
@@ -26,11 +26,11 @@ tags:
 
       Ourang-Outang into those of wrath. With one determined sweep of
 
-      its muscular arm it nearly severed her head from her body. The
+      its muscular arm it nearly severed her head from her [[Body|body]]. The
 
-      sight of blood inflamed its anger into phrenzy. Gnashing its
+      sight of [[Blood|blood]] inflamed its anger into phrenzy. Gnashing its
 
-      teeth, and flashing fire from its eyes, it flew upon the body of
+      teeth, and flashing [[Fire|fire]] from its eyes, it flew upon the [[Body|body]] of
 
       the girl, and imbedded its fearful talons in her throat,
 
@@ -40,9 +40,9 @@ tags:
 
       the face of its master, rigid with horror, was just discernible.
 
-      The fury of the beast, who no doubt bore still in mind the
+      The fury of the beast, who no [[Doubt|doubt]] bore still in mind the
 
-      dreaded whip, was instantly converted into fear. Conscious of
+      dreaded whip, was instantly converted into [[Fear|fear]]. Conscious of
 
       having deserved punishment, it seemed desirous of concealing its
 
@@ -56,7 +56,7 @@ tags:
 
       chimney, as it was found; then that of the old lady, which it
 
-      immediately hurled through the window headlong.
+      immediately hurled through the [[Window|window]] headlong.
 
 
 
@@ -64,7 +64,7 @@ tags:
 
       sailor shrank aghast to the rod, and, rather gliding than
 
-      clambering down it, hurried at once home—dreading the
+      clambering down it, hurried at once [[Home|home]]—dreading the
 
       consequences of the butchery, and gladly abandoning, in his
 
@@ -82,7 +82,7 @@ tags:
 
       escaped from the chamber, by the rod, just before the breaking of
 
-      the door. It must have closed the window as it passed through it.
+      the door. It must have closed the [[Window|window]] as it passed through it.
 
       It was subsequently caught by the owner himself, who obtained for
 
@@ -92,7 +92,7 @@ tags:
 
       some comments from Dupin) at the bureau of the Prefect of Police.
 
-      This functionary, however well disposed to my friend, could not
+      This functionary, however [[Well|well]] disposed to my friend, could not
 
       altogether conceal his chagrin at the turn which affairs had
 
@@ -104,19 +104,19 @@ tags:
 
       “Let him talk,” said Dupin, who had not thought it necessary to
 
-      reply. “Let him discourse; it will ease his conscience, I am
+      reply. “Let him discourse; it will ease his [[Conscience|conscience]], I am
 
-      satisfied with having defeated him in his own castle.
+      satisfied with having defeated him in his own [[Castle|castle]].
 
       Nevertheless, that he failed in the solution of this mystery, is
 
-      by no means that matter for wonder which he supposes it; for, in
+      by no means that matter for [[Wonder|wonder]] which he supposes it; for, in
 
-      truth, our friend the Prefect is somewhat too cunning to be
+      [[Truth|truth]], our friend the Prefect is somewhat too cunning to be
 
       profound. In his wisdom is no _stamen._ It is all head and no
 
-      body, like the pictures of the Goddess Laverna,—or, at best, all
+      [[Body|body]], like the pictures of the Goddess Laverna,—or, at best, all
 
       head and shoulders, like a codfish. But he is a good creature
 

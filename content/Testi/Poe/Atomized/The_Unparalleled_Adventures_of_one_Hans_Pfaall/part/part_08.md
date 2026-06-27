@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 8)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -94,11 +94,11 @@ tags:
 
       the horizon obliquely upward, and follows generally the direction
 
-      of the sun’s equator. It appeared to me evidently in the nature
+      of the sun’s equator. It appeared to me evidently in the [[Nature|nature]]
 
       of a rare atmosphere extending from the sun outward, beyond the
 
-      orbit of Venus at least, and I believed indefinitely farther.(*2)
+      orbit of [[Venus]] at least, and I believed indefinitely farther.(*2)
 
       Indeed, this medium I could not suppose confined to the path of
 
@@ -126,7 +126,7 @@ tags:
 
       quantity for the purposes of respiration. This would remove the
 
-      chief obstacle in a journey to the moon. I had indeed spent some
+      chief obstacle in a [[Journey|journey]] to the [[Moon|moon]]. I had indeed spent some
 
       money and great labor in adapting the apparatus to the object
 

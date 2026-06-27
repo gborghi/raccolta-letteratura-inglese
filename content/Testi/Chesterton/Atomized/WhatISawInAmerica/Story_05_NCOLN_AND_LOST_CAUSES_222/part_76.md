@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 76)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 76)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -32,7 +32,7 @@ as the curtain falls.
 
 
 
-Now when I was lecturing in America I was often told, in a radiant and
+Now when I was lecturing in [[america|America]] I was often told, in a radiant and
 
 congratulatory manner, that such and such a person was bound to come and
 
@@ -46,7 +46,7 @@ understand certain American ideas and instincts that lie behind this
 
 American idiom. For as I have urged before, and shall often urge again,
 
-the road to international friendship is through really understanding
+the [[Road|road]] to international [[Friendship|friendship]] is through really understanding
 
 jokes. It is in a sense through taking jokes seriously. It is quite
 
@@ -64,7 +64,7 @@ relations depend on our getting beyond the fact of difference to the
 
 things wherein it differs. A good symbolical figure for all this may be
 
-found among the people who say, perhaps with a self-revealing
+found among the people who say, perhaps with a [[Self|self]]-revealing
 
 simplicity, that they are bound to go to a lecture.
 
@@ -72,7 +72,7 @@ simplicity, that they are bound to go to a lecture.
 
 If I were asked for a single symbolic figure summing up the whole of
 
-what seems eccentric and interesting about America to an Englishman, I
+what seems eccentric and interesting about [[america|America]] to an Englishman, I
 
 should be satisfied to select that one lady who complained of Mrs.
 
@@ -90,7 +90,7 @@ money rather than hoards it; and when we convict them of vulgarity we
 
 acquit them of avarice. Where she was typically American, summing up a
 
-truth individual and indescribable in any other way, is that she used
+[[Truth|truth]] individual and indescribable in any other way, is that she used
 
 these words: 'I've risen from a sick-bed to come and hear her, and I
 
@@ -108,21 +108,21 @@ the admiration. The amusement is in the vision of a tragic sacrifice for
 
 what is avowedly a rather trivial object. Mrs. Asquith is a candid lady
 
-of considerable humour; and I feel sure she does not regard the
+of considerable [[Humour|humour]]; and I feel sure she does not regard the
 
 experience of hearing her read her diary as an ecstasy for which the
 
-sick should thus suffer martyrdom. She also is English; and had no other
+sick should thus suffer [[Martyrdom|martyrdom]]. She also is English; and had no other
 
 claim but to amuse Americans and possibly to be amused by them. This
 
 being so, it is rather as if somebody said, 'I have risked my life in
 
-fire and pestilence to find my way to the music hall,' or, 'I have
+[[Fire|fire]] and pestilence to find my way to the music hall,' or, 'I have
 
-fasted forty days in the wilderness sustained by the hope of seeing
+fasted forty days in the wilderness sustained by the [[Hope|hope]] of seeing
 
-Totty Toddles do her new dance.' And there is something rather more
+Totty Toddles do her new [[Dance|dance]].' And there is something rather more
 
 subtle involved here. There is something in an Englishman which would
 
@@ -142,7 +142,7 @@ there is something in it distinct from a mere embarrassment at admitting
 
 enthusiasm. He might admit the enthusiasm if the object seemed to
 
-justify it; he might perfectly well be serious about a serious thing.
+justify it; he might perfectly [[Well|well]] be serious about a serious thing.
 
 But he cannot understand a person being proud of serious sacrifices for
 
@@ -188,9 +188,9 @@ of about half its size on the banks of the Marne. But that is not what
 
 an American means by energy; that sort of Prussian energy is only
 
-monotony without repose. American energy is not a soulless machine; for
+monotony without repose. American energy is not a soulless [[Machine|machine]]; for
 
-it is the whole point that he puts his soul into it. It is a very small
+it is the whole point that he puts his [[Soul|soul]] into it. It is a very small
 
 box for so big a thing; but it is not an empty box. But the point is
 

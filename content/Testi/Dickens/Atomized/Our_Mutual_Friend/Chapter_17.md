@@ -19,51 +19,51 @@ Chapter 12
 THE SWEAT OF AN HONEST MAN’S BROW
 
 
-Mr Mortimer Lightwood and Mr Eugene Wrayburn took a coffee-house dinner
+Mr Mortimer Lightwood and Mr [[Eugene Wrayburn]] took a coffee-[[house]] dinner
 together in Mr Lightwood’s office. They had newly agreed to set up a
 joint establishment together. They had taken a bachelor cottage near
-Hampton, on the brink of the Thames, with a lawn, and a boat-house; and
-all things fitting, and were to float with the stream through the summer
+Hampton, on the brink of the Thames, with a lawn, and a boat-[[house]]; and
+all things fitting, and were to float with the stream through the [[Summer|summer]]
 and the Long Vacation.
 
-It was not summer yet, but spring; and it was not gentle spring
-ethereally mild, as in Thomson’s Seasons, but nipping spring with an
-easterly wind, as in Johnson’s, Jackson’s, Dickson’s, Smith’s, and
-Jones’s Seasons. The grating wind sawed rather than blew; and as it
+It was not [[Summer|summer]] yet, but [[Spring|spring]]; and it was not gentle [[Spring|spring]]
+ethereally mild, as in Thomson’s [[Seasons]], but nipping [[Spring|spring]] with an
+easterly [[Wind|wind]], as in Johnson’s, Jackson’s, Dickson’s, [[smith|Smith]]’s, and
+[[Jones]]’s [[Seasons]]. The grating [[Wind|wind]] sawed rather than blew; and as it
 sawed, the sawdust whirled about the sawpit. Every street was a sawpit,
 and there were no top-sawyers; every passenger was an under-sawyer, with
 the sawdust blinding him and choking him.
 
-That mysterious paper currency which circulates in London when the
-wind blows, gyrated here and there and everywhere. Whence can it come,
+That mysterious paper currency which circulates in [[London]] when the
+[[Wind|wind]] blows, gyrated here and there and everywhere. Whence can it come,
 whither can it go? It hangs on every bush, flutters in every tree, is
 caught flying by the electric wires, haunts every enclosure, drinks at
 every pump, cowers at every grating, shudders upon every plot of grass,
-seeks rest in vain behind the legions of iron rails. In Paris, where
-nothing is wasted, costly and luxurious city though it be, but where
+seeks rest in vain behind the legions of iron rails. In [[Paris]], where
+nothing is wasted, costly and luxurious [[City|city]] though it be, but where
 wonderful human ants creep out of holes and pick up every scrap, there
-is no such thing. There, it blows nothing but dust. There, sharp eyes
-and sharp stomachs reap even the east wind, and get something out of it.
+is no such thing. There, it blows nothing but [[Dust|dust]]. There, sharp eyes
+and sharp stomachs reap even the east [[Wind|wind]], and get something out of it.
 
-The wind sawed, and the sawdust whirled. The shrubs wrung their many
+The [[Wind|wind]] sawed, and the sawdust whirled. The shrubs wrung their many
 hands, bemoaning that they had been over-persuaded by the sun to bud;
-the young leaves pined; the sparrows repented of their early marriages,
+the young [[Leaves|leaves]] pined; the sparrows repented of their early marriages,
 like men and women; the colours of the rainbow were discernible, not
-in floral spring, but in the faces of the people whom it nibbled and
-pinched. And ever the wind sawed, and the sawdust whirled.
+in floral [[Spring|spring]], but in the faces of the people whom it nibbled and
+pinched. And ever the [[Wind|wind]] sawed, and the sawdust whirled.
 
-When the spring evenings are too long and light to shut out, and such
-weather is rife, the city which Mr Podsnap so explanatorily called
-London, Londres, London, is at its worst. Such a black shrill city,
-combining the qualities of a smoky house and a scolding wife; such a
-gritty city; such a hopeless city, with no rent in the leaden canopy of
-its sky; such a beleaguered city, invested by the great Marsh Forces of
-Essex and Kent. So the two old schoolfellows felt it to be, as, their
-dinner done, they turned towards the fire to smoke. Young Blight was
-gone, the coffee-house waiter was gone, the plates and dishes were gone,
+When the [[Spring|spring]] evenings are too long and light to shut out, and such
+weather is rife, the [[City|city]] which Mr Podsnap so explanatorily called
+[[London]], Londres, [[London]], is at its worst. Such a black shrill [[City|city]],
+combining the qualities of a smoky [[house]] and a scolding wife; such a
+gritty [[City|city]]; such a hopeless [[City|city]], with no rent in the leaden canopy of
+its sky; such a beleaguered [[City|city]], invested by the great Marsh Forces of
+Essex and [[Kent]]. So the two old schoolfellows felt it to be, as, their
+dinner done, they turned towards the [[Fire|fire]] to smoke. Young Blight was
+gone, the coffee-[[house]] waiter was gone, the plates and dishes were gone,
 the wine was going—but not in the same direction.
 
-‘The wind sounds up here,’ quoth Eugene, stirring the fire, ‘as if we
+‘The [[Wind|wind]] sounds up here,’ quoth Eugene, stirring the [[Fire|fire]], ‘as if we
 were keeping a lighthouse. I wish we were.’
 
 ‘Don’t you think it would bore us?’ Lightwood asked.
@@ -75,7 +75,7 @@ that’s a selfish consideration, personal to me.’
 consideration at all personal to ME.’
 
 ‘If we were on an isolated rock in a stormy sea,’ said Eugene, smoking
-with his eyes on the fire, ‘Lady Tippins couldn’t put off to visit us,
+with his eyes on the [[Fire|fire]], ‘Lady Tippins couldn’t put off to visit us,
 or, better still, might put off and get swamped. People couldn’t ask one
 to wedding breakfasts. There would be no Precedents to hammer at,
 except the plain-sailing Precedent of keeping the light up. It would be
@@ -93,10 +93,10 @@ extent, might not be more endurable than the unlimited monotony of one’s
 fellow-creatures.’
 
 As Lightwood laughed and passed the wine, he remarked, ‘We shall have an
-opportunity, in our boating summer, of trying the question.’
+opportunity, in our boating [[Summer|summer]], of trying the question.’
 
 ‘An imperfect one,’ Eugene acquiesced, with a sigh, ‘but so we shall. I
-hope we may not prove too much for one another.’
+[[Hope|hope]] we may not prove too much for one another.’
 
 ‘Now, regarding your respected father,’ said Lightwood, bringing him
 to a subject they had expressly appointed to discuss: always the most
@@ -107,7 +107,7 @@ in his arm-chair. ‘I would rather have approached my respected father by
 candlelight, as a theme requiring a little artificial brilliancy; but we
 will take him by twilight, enlivened with a glow of Wallsend.’
 
-He stirred the fire again as he spoke, and having made it blaze,
+He stirred the [[Fire|fire]] again as he spoke, and having made it blaze,
 resumed.
 
 ‘My respected father has found, down in the parental neighbourhood, a
@@ -134,8 +134,8 @@ also the married man I am not.’
 
 ‘The first I have often told you. Considering myself sufficiently
 incongruous on my legal eminence, I have until now suppressed my
-domestic destiny. You know M. R. F., but not as well as I do. If you
-knew him as well as I do, he would amuse you.’
+domestic destiny. You know M. R. F., but not as [[Well|well]] as I do. If you
+knew him as [[Well|well]] as I do, he would amuse you.’
 
 ‘Filially spoken, Eugene!’
 
@@ -184,47 +184,47 @@ monotony of two.’
 lighthouse.’
 
 Mortimer laughed again, and Eugene, having laughed too for the first
-time, as if he found himself on reflection rather entertaining, relapsed
+[[Time|time]], as if he found himself on reflection rather entertaining, relapsed
 into his usual gloom, and drowsily said, as he enjoyed his cigar, ‘No,
 there is no help for it; one of the prophetic deliveries of M. R. F.
 must for ever remain unfulfilled. With every disposition to oblige him,
 he must submit to a failure.’
 
-It had grown darker as they talked, and the wind was sawing and the
+It had grown darker as they talked, and the [[Wind|wind]] was sawing and the
 sawdust was whirling outside paler windows. The underlying churchyard
 was already settling into deep dim shade, and the shade was creeping up
 to the housetops among which they sat. ‘As if,’ said Eugene, ‘as if the
-churchyard ghosts were rising.’
+churchyard [[Ghosts|ghosts]] were rising.’
 
-He had walked to the window with his cigar in his mouth, to exalt its
+He had walked to the [[Window|window]] with his cigar in his mouth, to exalt its
 flavour by comparing the fireside with the outside, when he stopped
 midway on his return to his arm-chair, and said:
 
-‘Apparently one of the ghosts has lost its way, and dropped in to be
-directed. Look at this phantom!’
+‘Apparently one of the [[Ghosts|ghosts]] has lost its way, and dropped in to be
+directed. Look at this [[Phantom|phantom]]!’
 
 Lightwood, whose back was towards the door, turned his head, and there,
 in the darkness of the entry, stood a something in the likeness of a
 man: to whom he addressed the not irrelevant inquiry, ‘Who the devil are
 you?’
 
-‘I ask your pardons, Governors,’ replied the ghost, in a hoarse
-double-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], in a hoarse
+[[Double|double]]-barrelled whisper, ‘but might either on you be Lawyer Lightwood?’
 
 ‘What do you mean by not knocking at the door?’ demanded Mortimer.
 
-‘I ask your pardons, Governors,’ replied the ghost, as before, ‘but
+‘I ask your pardons, Governors,’ replied the [[Ghost|ghost]], as before, ‘but
 probable you was not aware your door stood open.’
 
 ‘What do you want?’
 
-Hereunto the ghost again hoarsely replied, in its double-barrelled
+Hereunto the [[Ghost|ghost]] again hoarsely replied, in its [[Double|double]]-barrelled
 manner, ‘I ask your pardons, Governors, but might one on you be Lawyer
 Lightwood?’
 
 ‘One of us is,’ said the owner of that name.
 
-‘All right, Governors Both,’ returned the ghost, carefully closing the
+‘All right, Governors Both,’ returned the [[Ghost|ghost]], carefully closing the
 room door; ‘’tickler business.’
 
 Mortimer lighted the candles. They showed the visitor to be an
@@ -289,7 +289,7 @@ into his mouth, tilted it into his right cheek, as saying, ‘What do you
 think of it?’ tilted it into his left cheek, as saying, ‘What do YOU
 think of it?’ jerked it into his stomach, as saying, ‘What do YOU think
 of it?’ To conclude, smacked his lips, as if all three replied, ‘We
-think well of it.’
+think [[Well|well]] of it.’
 
 ‘Will you have another?’
 
@@ -323,7 +323,7 @@ Eugene, cigar in mouth and pen in hand, tossed him his card. After
 spelling it out slowly, the man made it into a little roll, and tied it
 up in an end of his neckerchief still more slowly.
 
-‘Now,’ said Lightwood, for the third time, ‘if you have quite completed
+‘Now,’ said Lightwood, for the third [[Time|time]], ‘if you have quite completed
 your various preparations, my friend, and have fully ascertained that
 your spirits are cool and not in any way hurried, what’s your name?’
 
@@ -340,7 +340,7 @@ Riderhood gave in the definition, ‘Waterside character.’
 
 ‘Anything against you?’ Eugene quietly put in, as he wrote.
 
-Rather baulked, Mr Riderhood evasively remarked, with an innocent air,
+Rather baulked, Mr Riderhood evasively remarked, with an [[Innocent|innocent]] air,
 that he believed the T’other Governor had asked him summa’t.
 
 ‘Ever in trouble?’ said Eugene.
@@ -363,8 +363,8 @@ Lightwood also smoked, with his eyes negligently turned on the informer.
 ‘Now let me be took down again,’ said Riderhood, when he had turned the
 drowned cap over and under, and had brushed it the wrong way (if it had
 a right way) with his sleeve. ‘I give information that the man that done
-the Harmon Murder is Gaffer Hexam, the man that found the body. The hand
-of Jesse Hexam, commonly called Gaffer on the river and along shore, is
+the Harmon Murder is Gaffer Hexam, the man that found the [[Body|body]]. The hand
+of Jesse Hexam, commonly called Gaffer on the [[River|river]] and along shore, is
 the hand that done that deed. His hand and no other.’
 
 The two friends glanced at one another with more serious faces than they
@@ -375,12 +375,12 @@ Lightwood.
 
 ‘On the grounds,’ answered Riderhood, wiping his face with his sleeve,
 ‘that I was Gaffer’s pardner, and suspected of him many a long day and
-many a dark night. On the grounds that I knowed his ways. On the grounds
+many a dark [[Night|night]]. On the grounds that I knowed his ways. On the grounds
 that I broke the pardnership because I see the danger; which I warn you
 his daughter may tell you another story about that, for anythink I can
 say, but you know what it’ll be worth, for she’d tell you lies, the
 world round and the heavens broad, to save her father. On the grounds
-that it’s well understood along the cause’ays and the stairs that he
+that it’s [[Well|well]] understood along the cause’ays and the stairs that he
 done it. On the grounds that he’s fell off from, because he done it. On
 the grounds that I will swear he done it. On the grounds that you may
 take me where you will, and get me sworn to it. I don’t want to back out
@@ -433,7 +433,7 @@ done it. Is THAT enough?’
 answerable for follering it up!’ Then, slowly and emphatically beating
 it all out with his open right hand on the palm of his left; ‘I,
 Roger Riderhood, Lime’us Hole, Waterside character, tell you, Lawyer
-Lightwood, that the man Jesse Hexam, commonly called upon the river and
+Lightwood, that the man Jesse Hexam, commonly called upon the [[River|river]] and
 along-shore Gaffer, told me that he done the deed. What’s more, he told
 me with his own lips that he done the deed. What’s more, he said that he
 done the deed. And I’ll swear it!’
@@ -443,11 +443,11 @@ done the deed. And I’ll swear it!’
 ‘Outside,’ replied Riderhood, always beating it out, with his head
 determinedly set askew, and his eyes watchfully dividing their
 attention between his two auditors, ‘outside the door of the Six Jolly
-Fellowships, towards a quarter after twelve o’clock at midnight—but I
-will not in my conscience undertake to swear to so fine a matter as
-five minutes—on the night when he picked up the body. The Six Jolly
+Fellowships, towards a quarter after twelve o’[[Clock|clock]] at midnight—but I
+will not in my [[Conscience|conscience]] undertake to swear to so fine a matter as
+five minutes—on the [[Night|night]] when he picked up the [[Body|body]]. The Six Jolly
 Fellowships won’t run away. If it turns out that he warn’t at the Six
-Jolly Fellowships that night at midnight, I’m a liar.’
+Jolly Fellowships that [[Night|night]] at midnight, I’m a liar.’
 
 ‘What did he say?’
 
@@ -466,9 +466,9 @@ to Roger.’
 
 ‘Never mind that.’
 
-‘’Scuse ME, Lawyer Lightwood, it’s a part of the truth, and as such I
+‘’Scuse ME, Lawyer Lightwood, it’s a part of the [[Truth|truth]], and as such I
 do mind it, and I must mind it and I will mind it. “Rogue Riderhood,”
- he says, “words passed betwixt us on the river tonight.” Which they had;
+ he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
 ask his daughter! “I threatened you,” he says, “to chop you over the
 fingers with my boat’s stretcher, or take a aim at your brains with my
 boathook. I did so on accounts of your looking too hard at what I had in
@@ -484,7 +484,7 @@ says, “Of foul play.” He falls a shaking worse, and he says, “There WAS
 foul play then. I done it for his money. Don’t betray me!” Those were
 the words as ever he used.’
 
-There was a silence, broken only by the fall of the ashes in the grate.
+There was a [[Silence|silence]], broken only by the fall of the ashes in the grate.
 An opportunity which the informer improved by smearing himself all
 over the head and neck and face with his drowned cap, and not at all
 improving his own appearance.
@@ -518,14 +518,14 @@ Mortimer glanced at Eugene, but Eugene sat glowering at his paper,
 and would give him no responsive glance. Mortimer again turned to the
 informer, to whom he said:
 
-‘You have been troubled in your mind a long time, man?’
+‘You have been troubled in your mind a long [[Time|time]], man?’
 
 Giving his wine a final chew, and swallowing it, the informer answered
 in a single word:
 
 ‘Hages!’
 
-‘When all that stir was made, when the Government reward was offered,
+‘When all that stir was made, when the [[government|Government]] reward was offered,
 when the police were on the alert, when the whole country rang with the
 crime!’ said Mortimer, impatiently.
 
@@ -533,7 +533,7 @@ crime!’ said Mortimer, impatiently.
 retrospective nods of his head. ‘Warn’t I troubled in my mind then!’
 
 ‘When conjecture ran wild, when the most extravagant suspicions were
-afloat, when half a dozen innocent people might have been laid by the
+afloat, when half a dozen [[Innocent|innocent]] people might have been laid by the
 heels any hour in the day!’ said Mortimer, almost warming.
 
 ‘Hah!’ Mr Riderhood chimed in, as before. ‘Warn’t I troubled in my mind
@@ -553,13 +553,13 @@ her!—but I couldn’t do it. At last, out comes the new bill with your
 own lawful name, Lawyer Lightwood, printed to it, and then I asks the
 question of my own intellects, Am I to have this trouble on my mind for
 ever? Am I never to throw it off? Am I always to think more of Gaffer
-than of my own self? If he’s got a daughter, ain’t I got a daughter?’
+than of my own [[Self|self]]? If he’s got a daughter, ain’t I got a daughter?’
 
 ‘And echo answered—?’ Eugene suggested.
 
 ‘“You have,”’ said Mr Riderhood, in a firm tone.
 
-‘Incidentally mentioning, at the same time, her age?’ inquired Eugene.
+‘Incidentally mentioning, at the same [[Time|time]], her age?’ inquired Eugene.
 
 ‘Yes, governor. Two-and-twenty last October. And then I put it to
 myself, “Regarding the money. It is a pot of money.” For it IS a pot,’
@@ -568,7 +568,7 @@ said Mr Riderhood, with candour, ‘and why deny it?’
 ‘Hear!’ from Eugene as he touched his drawing.
 
 ‘“It is a pot of money; but is it a sin for a labouring man that
-moistens every crust of bread he earns, with his tears—or if not with
+moistens every crust of bread he earns, with his [[Tears|tears]]—or if not with
 them, with the colds he catches in his head—is it a sin for that man to
 earn it? Say there is anything again earning it.” This I put to myself
 strong, as in duty bound; “how can it be said without blaming Lawyer
@@ -583,9 +583,9 @@ what was held out to me. And what’s more,’ he added, suddenly turning
 bloodthirsty, ‘I mean to have it! And now I tell you, once and away,
 Lawyer Lightwood, that Jesse Hexam, commonly called Gaffer, his hand and
 no other, done the deed, on his own confession to me. And I give him up
-to you, and I want him took. This night!’
+to you, and I want him took. This [[Night|night]]!’
 
-After another silence, broken only by the fall of the ashes in the
+After another [[Silence|silence]], broken only by the fall of the ashes in the
 grate, which attracted the informer’s attention as if it were the
 chinking of money, Mortimer Lightwood leaned over his friend, and said
 in a whisper:
@@ -597,7 +597,7 @@ police-station.’
 
 ‘Do you believe him?’
 
-‘I believe him to be a thorough rascal. But he may tell the truth, for
+‘I believe him to be a thorough rascal. But he may tell the [[Truth|truth]], for
 his own purpose, and for this occasion only.’
 
 ‘It doesn’t look like it.’
@@ -627,11 +627,11 @@ to me was, “I done it.” Those was his words.’
 ‘I must see this out, Mortimer,’ whispered Eugene, rising. ‘How shall we
 go?’
 
-‘Let us walk,’ whispered Lightwood, ‘and give this fellow time to think
+‘Let us walk,’ whispered Lightwood, ‘and give this fellow [[Time|time]] to think
 of it.’
 
 Having exchanged the question and answer, they prepared themselves
-for going out, and Mr Riderhood rose. While extinguishing the candles,
+for going out, and Mr Riderhood [[Rose|rose]]. While extinguishing the candles,
 Lightwood, quite as a matter of course took up the glass from which that
 honest gentleman had drunk, and coolly tossed it under the grate, where
 it fell shivering into fragments.
@@ -644,7 +644,7 @@ will follow. You know where to go, I suppose?’
 ‘Take the lead, then.’
 
 The waterside character pulled his drowned cap over his ears with both
-hands, and making himself more round-shouldered than nature had made
+hands, and making himself more round-shouldered than [[Nature|nature]] had made
 him, by the sullen and persistent slouch with which he went, went
 down the stairs, round by the Temple Church, across the Temple into
 Whitefriars, and so on by the waterside streets.
@@ -658,9 +658,9 @@ They said little else as they followed. He went on before them as an
 ugly Fate might have done, and they kept him in view, and would have
 been glad enough to lose sight of him. But on he went before them,
 always at the same distance, and the same rate. Aslant against the hard
-implacable weather and the rough wind, he was no more to be driven back
+implacable weather and the rough [[Wind|wind]], he was no more to be driven back
 than hurried forward, but held on like an advancing Destiny. There came,
-when they were about midway on their journey, a heavy rush of hail,
+when they were about midway on their [[Journey|journey]], a heavy rush of hail,
 which in a few minutes pelted the streets clear, and whitened them. It
 made no difference to him. A man’s life being to be taken and the price
 of it got, the hailstones to arrest the purpose must lie larger and
@@ -669,23 +669,23 @@ fast-melting slush that were mere shapeless holes; one might have
 fancied, following, that the very fashion of humanity had departed from
 his feet.
 
-The blast went by, and the moon contended with the fast-flying clouds,
+The blast went by, and the [[Moon|moon]] contended with the fast-flying clouds,
 and the wild disorder reigning up there made the pitiful little tumults
-in the streets of no account. It was not that the wind swept all
+in the streets of no account. It was not that the [[Wind|wind]] swept all
 the brawlers into places of shelter, as it had swept the hail still
 lingering in heaps wherever there was refuge for it; but that it seemed
-as if the streets were absorbed by the sky, and the night were all in
+as if the streets were absorbed by the sky, and the [[Night|night]] were all in
 the air.
 
-‘If he has had time to think of it,’ said Eugene, ‘he has not had time to
+‘If he has had [[Time|time]] to think of it,’ said Eugene, ‘he has not had [[Time|time]] to
 think better of it—or differently of it, if that’s better. There is no
 sign of drawing back in him; and as I recollect this place, we must be
-close upon the corner where we alighted that night.’
+close upon the corner where we alighted that [[Night|night]].’
 
-In fact, a few abrupt turns brought them to the river side, where they
+In fact, a few abrupt turns brought them to the [[River|river]] side, where they
 had slipped about among the stones, and where they now slipped more; the
-wind coming against them in slants and flaws, across the tide and the
-windings of the river, in a furious way. With that habit of getting
+[[Wind|wind]] coming against them in slants and flaws, across the tide and the
+windings of the [[River|river]], in a furious way. With that habit of getting
 under the lee of any shelter which waterside characters acquire, the
 waterside character at present in question led the way to the leeside of
 the Six Jolly Fellowship Porters before he spoke.
@@ -700,7 +700,7 @@ there?
 
 ‘I wished you to see the Fellowships for yourself, Lawyer Lightwood,
 that you might judge whether I’m a liar; and now I’ll see Gaffer’s
-window for myself, that we may know whether he’s at home.’
+[[Window|window]] for myself, that we may know whether he’s at [[Home|home]].’
 
 With that, he crept away.
 
@@ -710,15 +710,15 @@ With that, he crept away.
 
 He came back after a very short interval indeed.
 
-‘Gaffer’s out, and his boat’s out. His daughter’s at home, sitting
-a-looking at the fire. But there’s some supper getting ready, so
+‘Gaffer’s out, and his boat’s out. His daughter’s at [[Home|home]], sitting
+a-looking at the [[Fire|fire]]. But there’s some supper getting ready, so
 Gaffer’s expected. I can find what move he’s upon, easy enough,
 presently.’
 
 Then he beckoned and led the way again, and they came to the
 police-station, still as clean and cool and steady as before, saving
 that the flame of its lamp—being but a lamp-flame, and only attached to
-the Force as an outsider—flickered in the wind.
+the Force as an [[Outsider|outsider]]—flickered in the [[Wind|wind]].
 
 Also, within doors, Mr Inspector was at his studies as of yore.
 He recognized the friends the instant they reappeared, but their
@@ -734,7 +734,7 @@ notes? Handing him Eugene’s.
 Having read the first few lines, Mr Inspector mounted to that (for him)
 extraordinary pitch of emotion that he said, ‘Does either of you two
 gentlemen happen to have a pinch of snuff about him?’ Finding that
-neither had, he did quite as well without it, and read on.
+neither had, he did quite as [[Well|well]] without it, and read on.
 
 ‘Have you heard these read?’ he then demanded of the honest man.
 
@@ -750,16 +750,16 @@ the evidence you mean to give?’ he asked, when he had finished reading.
 can’t say more than that for ’em.’
 
 ‘I’ll take this man myself, sir,’ said Mr Inspector to Lightwood. Then
-to Riderhood, ‘Is he at home? Where is he? What’s he doing? You have
-made it your business to know all about him, no doubt.’
+to Riderhood, ‘Is he at [[Home|home]]? Where is he? What’s he doing? You have
+made it your business to know all about him, no [[Doubt|doubt]].’
 
 Riderhood said what he did know, and promised to find out in a few
 minutes what he didn’t know.
 
 ‘Stop,’ said Mr Inspector; ‘not till I tell you: We mustn’t look like
 business. Would you two gentlemen object to making a pretence of taking
-a glass of something in my company at the Fellowships? Well-conducted
-house, and highly respectable landlady.’
+a glass of something in my company at the Fellowships? [[Well]]-conducted
+[[house]], and highly respectable landlady.’
 
 They replied that they would be happy to substitute a reality for the
 pretence, which, in the main, appeared to be as one with Mr Inspector’s
@@ -768,8 +768,8 @@ meaning.
 ‘Very good,’ said he, taking his hat from its peg, and putting a pair of
 handcuffs in his pocket as if they were his gloves. ‘Reserve!’ Reserve
 saluted. ‘You know where to find me?’ Reserve again saluted. ‘Riderhood,
-when you have found out concerning his coming home, come round to the
-window of Cosy, tap twice at it, and wait for me. Now, gentlemen.’
+when you have found out concerning his coming [[Home|home]], come round to the
+[[Window|window]] of Cosy, tap twice at it, and wait for me. Now, gentlemen.’
 
 As the three went out together, and Riderhood slouched off from under
 the trembling lamp his separate way, Lightwood asked the officer what he
@@ -784,7 +784,7 @@ characters, would have been jointly and pretty equally ‘in it;’ but that
 this man had ‘spotted’ the other, to save himself and get the money.
 
 ‘And I think,’ added Mr Inspector, in conclusion, ‘that if all goes
-well with him, he’s in a tolerable way of getting it. But as this is the
+[[Well|well]] with him, he’s in a tolerable way of getting it. But as this is the
 Fellowships, gentlemen, where the lights are, I recommend dropping
 the subject. You can’t do better than be interested in some lime works
 anywhere down about Northfleet, and doubtful whether some of your lime
@@ -794,4 +794,4 @@ don’t get into bad company as it comes up in barges.’
 interested in lime.’
 
 ‘Without lime,’ returned that unmoved barrister-at-law, ‘my existence
-would be unilluminated by a ray of hope.’
+would be unilluminated by a ray of [[Hope|hope]].’

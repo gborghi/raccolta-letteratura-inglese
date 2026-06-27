@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)"
+title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -72,11 +72,11 @@ Heavy clouds of sunset were closing round the wooden hut, enormous
 
 clouds, of which only the corners could be seen in the little
 
-window, like purple horns and tails, almost as if some huge monsters
+[[Window|window]], like purple horns and tails, almost as if some huge monsters
 
 were prowling round the place. But the purple was already deepening
 
-to dark gray; it would soon be night.
+to dark gray; it would soon be [[Night|night]].
 "Do not light the lamp," said the magus with quiet authority,
 
 arresting a movement in that direction. "I told you before that
@@ -86,9 +86,9 @@ How such a topsy-turvy scene ever came to be tolerated in the
 
 colonel's office, of all places, was afterward a puzzle in the
 
-memory of many, including the colonel. They recalled it like a sort
+[[Memory|memory]] of many, including the colonel. They recalled it like a sort
 
-of nightmare, like something they could not control. Perhaps there
+of [[nightmare]], like something they could not control. Perhaps there
 
 was really a magnetism about the mesmerist; perhaps there was even
 
@@ -129,7 +129,7 @@ crooked."
 There was another pause and the inquirer added, "Do you see anything
 
 of the relic itself?"
-"I see something shining on the floor, like the shadow or the ghost
+"I see something shining on the floor, like the [[Shadow|shadow]] or the [[Ghost|ghost]]
 
 of it. It is over there in the corner beyond the desk."
 There was a movement of men turning and then a sudden stillness, as
@@ -143,9 +143,9 @@ light in the room. The cigar had gone out.
 
 pointing the way to penitence, and urging the thief to restitution.
 
-I can see nothing more." His voice trailed off into a silence that
+I can see nothing more." His voice trailed off into a [[Silence|silence]] that
 
-lasted solidly for many minutes, like the long silence below when
+lasted solidly for many minutes, like the long [[Silence|silence]] below when
 
 the theft had been committed. Then it was broken by the ring of
 
@@ -175,16 +175,16 @@ always the suspect. I don't think he was necessarily a thief in the
 
 vulgar sense. The police always seem to think that silver is stolen
 
-for the sake of silver, but a thing like that might well be stolen
+for the sake of silver, but a thing like that might [[Well|well]] be stolen
 
-out of some religious mania. A runaway monk turned mystic might well
+out of some religious mania. A runaway monk turned mystic might [[Well|well]]
 
 want it for some mystical purpose."
 "No," replied Fisher, "the runaway monk is not a thief. At any rate
 
 he is not the thief. And he's not altogether a liar, either. He said
 
-one true thing at least that night."
+one true thing at least that [[Night|night]]."
 "And what was that?" inquired March.
 "He said it was all magnetism. As a matter of fact, it was done by
 

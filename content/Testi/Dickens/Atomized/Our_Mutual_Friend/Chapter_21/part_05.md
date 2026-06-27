@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-‘Well, well!’ returned Mrs Boffin. ‘I only spoke of little things, or I
+‘[[Well]], [[Well|well]]!’ returned Mrs Boffin. ‘I only spoke of little things, or I
 wouldn’t have taken the liberty.’
 
 Betty put her visitor’s hand to her lips, in acknowledgment of the
 delicate answer. Wonderfully upright her figure was, and wonderfully
-self-reliant her look, as, standing facing her visitor, she explained
+[[Self|self]]-reliant her look, as, standing facing her visitor, she explained
 herself further.
 
-‘If I could have kept the dear child, without the dread that’s always
+‘If I could have kept the dear [[Child|child]], without the dread that’s always
 upon me of his coming to that fate I have spoken of, I could never have
-parted with him, even to you. For I love him, I love him, I love him! I
-love my husband long dead and gone, in him; I love my children dead and
-gone, in him; I love my young and hopeful days dead and gone, in him. I
-couldn’t sell that love, and look you in your bright kind face. It’s a
+parted with him, even to you. For I [[Love|love]] him, I [[Love|love]] him, I [[Love|love]] him! I
+[[Love|love]] my husband long dead and gone, in him; I [[Love|love]] my children dead and
+gone, in him; I [[Love|love]] my young and hopeful days dead and gone, in him. I
+couldn’t sell that [[Love|love]], and look you in your bright kind face. It’s a
 free gift. I am in want of nothing. When my strength fails me, if I
 can but die out quick and quiet, I shall be quite content. I have stood
 between my dead and that shame I have spoken of; and it has been kept
 off from every one of them. Sewed into my gown,’ with her hand upon
-her breast, ‘is just enough to lay me in the grave. Only see that it’s
+her breast, ‘is just enough to lay me in the [[Grave|grave]]. Only see that it’s
 rightly spent, so as I may rest free to the last from that cruelty and
 disgrace, and you’ll have done much more than a little thing for me, and
 all that in this present world my heart is set upon.’
@@ -50,10 +50,10 @@ by any means induced to leave Mrs Betty Higden’s skirts; towards which
 he exhibited, even when in Mrs Boffin’s embrace, strong yearnings,
 spiritual and bodily; the former expressed in a very gloomy visage,
 the latter in extended arms. However, a general description of the
-toy-wonders lurking in Mr Boffin’s house, so far conciliated this
-worldly-minded orphan as to induce him to stare at her frowningly,
+toy-wonders lurking in Mr Boffin’s [[house]], so far conciliated this
+worldly-minded [[Orphan|orphan]] as to induce him to stare at her frowningly,
 with a fist in his mouth, and even at length to chuckle when a
-richly-caparisoned horse on wheels, with a miraculous gift of cantering
+richly-caparisoned [[Horse|horse]] on wheels, with a miraculous gift of cantering
 to cake-shops, was mentioned. This sound being taken up by the Minders,
 swelled into a rapturous trio which gave general satisfaction.
 
@@ -63,9 +63,9 @@ to conduct the visitors back by the best way to the Three Magpies, and
 whom the hammer-headed young man much despised.
 
 This piece of business thus put in train, the Secretary drove Mrs Boffin
-back to the Bower, and found employment for himself at the new house
+back to the Bower, and found employment for himself at the new [[house]]
 until evening. Whether, when evening came, he took a way to his lodgings
-that led through fields, with any design of finding Miss Bella Wilfer
+that led through fields, with any design of finding Miss [[Bella Wilfer]]
 in those fields, is not so certain as that she regularly walked there at
 that hour.
 
@@ -90,7 +90,7 @@ mention it. I have not been thinking of the evening.’
 
 ‘Ye-e-es,’ replied Bella, with a drawl of indifference.
 
-‘A love story, Miss Wilfer?’
+‘A [[Love|love]] story, Miss Wilfer?’
 
 ‘Oh dear no, or I shouldn’t be reading it. It’s more about money than
 anything else.’
@@ -100,7 +100,7 @@ anything else.’
 ‘Upon my word,’ returned Bella, ‘I forget what it says, but you can find
 out for yourself if you like, Mr Rokesmith. I don’t want it any more.’
 
-The Secretary took the book—she had fluttered the leaves as if it were
+The Secretary took the book—she had fluttered the [[Leaves|leaves]] as if it were
 a fan—and walked beside her.
 
 ‘I am charged with a message for you, Miss Wilfer.’
@@ -146,8 +146,8 @@ Without replying on this point, Mr Rokesmith went on.
 ‘Excuse me; when I first saw you in your black dress—’
 
 (‘There!’ was Miss Bella’s mental exclamation. ‘What did I say to them
-at home? Everybody noticed that ridiculous mourning.’)
+at [[Home|home]]? Everybody noticed that ridiculous mourning.’)
 
 ‘When I first saw you in your black dress, I was at a loss to account
-for that distinction between yourself and your family. I hope it was not
+for that distinction between yourself and your family. I [[Hope|hope]] it was not
 impertinent to speculate upon it?’

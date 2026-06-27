@@ -1,5 +1,5 @@
 ---
-title: "Pericles — Scene 7 — exchange (PERICLES I) [3]"
+title: "[[Pericles]] — Scene 7 — exchange ([[Pericles|PERICLES]] I) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/PERICLES-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| PERICLES | I am at your grace’s pleasure. |
-| KING SIMONIDES | Princes, it is too late to talk of love, And that’s the mark I know you level at. Therefore each one betake him to his rest; Tomorrow all for speeding do their best. Exeunt severally |
+| [[Pericles|PERICLES]] | I am at your grace’s pleasure. |
+| [[King|KING]] [[Simonides|SIMONIDES]] | Princes, it is too late to talk of [[Love|love]], And that’s the mark I know you level at. Therefore each one betake him to his rest; Tomorrow all for speeding do their best. Exeunt severally |

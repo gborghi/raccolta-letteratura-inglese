@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 3 (part 1)"
+title: "[[Mansfield Park]] — Chapter 3 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,33 +17,33 @@ tags:
 CHAPTER III
 
 
-The first event of any importance in the family was the death of Mr.
+The first event of any importance in the family was the [[Death|death]] of Mr.
 Norris, which happened when Fanny was about fifteen, and necessarily
 introduced alterations and novelties. Mrs. Norris, on quitting the
-Parsonage, removed first to the Park, and afterwards to a small house
+Parsonage, removed first to the Park, and afterwards to a small [[house]]
 of Sir Thomas’s in the village, and consoled herself for the loss of
-her husband by considering that she could do very well without him; and
+her husband by considering that she could do very [[Well|well]] without him; and
 for her reduction of income by the evident necessity of stricter
 economy.
 
-The living was hereafter for Edmund; and, had his uncle died a few
+The living was hereafter for [[Edmund]]; and, had his uncle died a few
 years sooner, it would have been duly given to some friend to hold till
 he were old enough for orders. But Tom’s extravagance had, previous to
 that event, been so great as to render a different disposal of the next
 presentation necessary, and the younger brother must help to pay for
 the pleasures of the elder. There was another family living actually
-held for Edmund; but though this circumstance had made the arrangement
-somewhat easier to Sir Thomas’s conscience, he could not but feel it to
+held for [[Edmund]]; but though this circumstance had made the arrangement
+somewhat easier to Sir Thomas’s [[Conscience|conscience]], he could not but feel it to
 be an act of injustice, and he earnestly tried to impress his eldest
-son with the same conviction, in the hope of its producing a better
+son with the same conviction, in the [[Hope|hope]] of its producing a better
 effect than anything he had yet been able to say or do.
 
 “I blush for you, Tom,” said he, in his most dignified manner; “I blush
 for the expedient which I am driven on, and I trust I may pity your
-feelings as a brother on the occasion. You have robbed Edmund for ten,
+feelings as a brother on the occasion. You have robbed [[Edmund]] for ten,
 twenty, thirty years, perhaps for life, of more than half the income
 which ought to be his. It may hereafter be in my power, or in yours (I
-hope it will), to procure him better preferment; but it must not be
+[[Hope|hope]] it will), to procure him better preferment; but it must not be
 forgotten that no benefit of that sort would have been beyond his
 natural claims on us, and that nothing can, in fact, be an equivalent
 for the certain advantage which he is now obliged to forego through the
@@ -56,17 +56,17 @@ secondly, that his father had made a most tiresome piece of work of it;
 and, thirdly, that the future incumbent, whoever he might be, would, in
 all probability, die very soon.
 
-On Mr. Norris’s death the presentation became the right of a Dr. Grant,
+On Mr. Norris’s [[Death|death]] the presentation became the right of a Dr. Grant,
 who came consequently to reside at Mansfield; and on proving to be a
-hearty man of forty-five, seemed likely to disappoint Mr. Bertram’s
+hearty man of forty-five, seemed likely to disappoint Mr. [[Bertram]]’s
 calculations. But “no, he was a short-necked, apoplectic sort of
-fellow, and, plied well with good things, would soon pop off.”
+fellow, and, plied [[Well|well]] with good things, would soon pop off.”
 
 He had a wife about fifteen years his junior, but no children; and they
 entered the neighbourhood with the usual fair report of being very
 respectable, agreeable people.
 
-The time was now come when Sir Thomas expected his sister-in-law to
+The [[Time|time]] was now come when Sir Thomas expected his sister-in-law to
 claim her share in their niece, the change in Mrs. Norris’s situation,
 and the improvement in Fanny’s age, seeming not merely to do away any
 former objection to their living together, but even to give it the most
@@ -76,7 +76,7 @@ in addition to his eldest son’s extravagance, it became not undesirable
 to himself to be relieved from the expense of her support, and the
 obligation of her future provision. In the fullness of his belief that
 such a thing must be, he mentioned its probability to his wife; and the
-first time of the subject’s occurring to her again happening to be when
+first [[Time|time]] of the subject’s occurring to her again happening to be when
 Fanny was present, she calmly observed to her, “So, Fanny, you are
 going to leave us, and live with my sister. How shall you like it?”
 
@@ -88,28 +88,28 @@ with us, and my sister always meant to take you when Mr. Norris died.
 But you must come up and tack on my patterns all the same.”
 
 The news was as disagreeable to Fanny as it had been unexpected. She
-had never received kindness from her aunt Norris, and could not love
+had never received kindness from her aunt Norris, and could not [[Love|love]]
 her.
 
 “I shall be very sorry to go away,” said she, with a faltering voice.
 
 “Yes, I dare say you will; _that’s_ natural enough. I suppose you have
-had as little to vex you since you came into this house as any creature
+had as little to vex you since you came into this [[house]] as any creature
 in the world.”
 
-“I hope I am not ungrateful, aunt,” said Fanny modestly.
+“I [[Hope|hope]] I am not ungrateful, aunt,” said Fanny modestly.
 
-“No, my dear; I hope not. I have always found you a very good girl.”
+“No, my dear; I [[Hope|hope]] not. I have always found you a very good girl.”
 
 “And am I never to live here again?”
 
-“Never, my dear; but you are sure of a comfortable home. It can make
-very little difference to you, whether you are in one house or the
+“Never, my dear; but you are sure of a comfortable [[Home|home]]. It can make
+very little difference to you, whether you are in one [[house]] or the
 other.”
 
 Fanny left the room with a very sorrowful heart; she could not feel the
 difference to be so small, she could not think of living with her aunt
-with anything like satisfaction. As soon as she met with Edmund she
+with anything like satisfaction. As soon as she met with [[Edmund]] she
 told him her distress.
 
 “Cousin,” said she, “something is going to happen which I do not like
@@ -119,26 +119,26 @@ am going to live entirely with my aunt Norris.”
 
 “Indeed!”
 
-“Yes; my aunt Bertram has just told me so. It is quite settled. I am to
-leave Mansfield Park, and go to the White House, I suppose, as soon as
+“Yes; my aunt [[Bertram]] has just told me so. It is quite settled. I am to
+leave [[Mansfield Park]], and go to the White [[house|House]], I suppose, as soon as
 she is removed there.”
 
-“Well, Fanny, and if the plan were not unpleasant to you, I should call
+“[[Well]], Fanny, and if the plan were not unpleasant to you, I should call
 it an excellent one.”
 
 “Oh, cousin!”
 
 “It has everything else in its favour. My aunt is acting like a
 sensible woman in wishing for you. She is choosing a friend and
-companion exactly where she ought, and I am glad her love of money does
-not interfere. You will be what you ought to be to her. I hope it does
+companion exactly where she ought, and I am glad her [[Love|love]] of money does
+not interfere. You will be what you ought to be to her. I [[Hope|hope]] it does
 not distress you very much, Fanny?”
 
-“Indeed it does: I cannot like it. I love this house and everything in
-it: I shall love nothing there. You know how uncomfortable I feel with
+“Indeed it does: I cannot like it. I [[Love|love]] this [[house]] and everything in
+it: I shall [[Love|love]] nothing there. You know how uncomfortable I feel with
 her.”
 
-“I can say nothing for her manner to you as a child; but it was the
+“I can say nothing for her manner to you as a [[Child|child]]; but it was the
 same with us all, or nearly so. She never knew how to be pleasant to
 children. But you are now of an age to be treated better; I think she
 is behaving better already; and when you are her only companion, you

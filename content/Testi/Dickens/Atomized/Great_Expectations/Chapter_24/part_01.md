@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 24 (part 1)"
+title: "[[Great Expectations]] — Chapter 24 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,16 +18,16 @@ Chapter XXIV.
 
 
 After two or three days, when I had established myself in my room and
-had gone backwards and forwards to London several times, and had
+had gone backwards and forwards to [[London]] several times, and had
 ordered all I wanted of my tradesmen, Mr. Pocket and I had a long talk
 together. He knew more of my intended career than I knew myself, for he
 referred to his having been told by Mr. Jaggers that I was not designed
-for any profession, and that I should be well enough educated for my
+for any profession, and that I should be [[Well|well]] enough educated for my
 destiny if I could “hold my own” with the average of young men in
 prosperous circumstances. I acquiesced, of course, knowing nothing to
 the contrary.
 
-He advised my attending certain places in London, for the acquisition
+He advised my attending certain places in [[London]], for the acquisition
 of such mere rudiments as I wanted, and my investing him with the
 functions of explainer and director of all my studies. He hoped that
 with intelligent assistance I should meet with little to discourage me,
@@ -37,7 +37,7 @@ on confidential terms with me in an admirable manner; and I may state
 at once that he was always so zealous and honourable in fulfilling his
 compact with me, that he made me zealous and honourable in fulfilling
 mine with him. If he had shown indifference as a master, I have no
-doubt I should have returned the compliment as a pupil; he gave me no
+[[Doubt|doubt]] I should have returned the compliment as a pupil; he gave me no
 such excuse, and each of us did the other justice. Nor did I ever
 regard him as having anything ludicrous about him—or anything but what
 was serious, honest, and good—in his tutor communication with me.
@@ -53,10 +53,10 @@ save Herbert some expense, so I went off to Little Britain and imparted
 my wish to Mr. Jaggers.
 
 “If I could buy the furniture now hired for me,” said I, “and one or
-two other little things, I should be quite at home there.”
+two other little things, I should be quite at [[Home|home]] there.”
 
 “Go it!” said Mr. Jaggers, with a short laugh. “I told you you’d get
-on. Well! How much do you want?”
+on. [[Well]]! How much do you want?”
 
 I said I didn’t know how much.
 
@@ -113,7 +113,7 @@ looked surprised, “it’s not personal; it’s professional: only
 professional.”
 
 Wemmick was at his desk, lunching—and crunching—on a dry hard biscuit;
-pieces of which he threw from time to time into his slit of a mouth, as
+pieces of which he threw from [[Time|time]] to [[Time|time]] into his slit of a mouth, as
 if he were posting them.
 
 “Always seems to me,” said Wemmick, “as if he had set a man-trap and
@@ -139,7 +139,7 @@ you like to see ’em? You are one of us, as I may say.”
 I accepted the offer. When Mr. Wemmick had put all the biscuit into the
 post, and had paid me my money from a cash-box in a safe, the key of
 which safe he kept somewhere down his back and produced from his
-coat-collar like an iron-pigtail, we went upstairs. The house was dark
+coat-collar like an iron-pigtail, we went upstairs. The [[house]] was dark
 and shabby, and the greasy shoulders that had left their mark in Mr.
 Jaggers’s room seemed to have been shuffling up and down the staircase
 for years. In the front first floor, a clerk who looked something

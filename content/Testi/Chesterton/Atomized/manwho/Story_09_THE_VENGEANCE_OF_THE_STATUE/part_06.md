@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 6)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-I must begin at the other end from where our old detective yarns
+I must begin at the other end from where our old [[Detective|detective]] yarns
 
 began. I will give you the steps of deduction presently, if you want
 
-to listen to them; but I did not reach the truth of this by steps of
+to listen to them; but I did not reach the [[Truth|truth]] of this by steps of
 
-deduction. I will first of all tell you the truth itself, because I
+deduction. I will first of all tell you the [[Truth|truth]] itself, because I
 
-knew the truth from the first. The other cases I approached from the
+knew the [[Truth|truth]] from the first. The other cases I approached from the
 
 outside, but in this case I was inside. I myself was the very core
 
@@ -30,15 +30,15 @@ and center of everything."
 
 
 
-Something in the speaker's pendent eyelids and grave gray eyes
+Something in the speaker's pendent eyelids and [[Grave|grave]] gray eyes
 
 suddenly shook March to his foundations; and he cried, distractedly,
 
-"I don't understand!" as men do when they fear that they do
+"I don't understand!" as men do when they [[Fear|fear]] that they do
 
 understand. There was no sound for a space but the happy chatter of
 
-the birds, and then Horne Fisher said, calmly:
+the [[Birds|birds]], and then Horne Fisher said, calmly:
 
 
 
@@ -64,11 +64,11 @@ murderer managed to slip off the dead man's coat, when he was
 
 already pinned to the ground with that stone incubus. The other,
 
-which is much smaller and less puzzling, is the fact of the sword
+which is much smaller and less puzzling, is the fact of the [[Sword|sword]]
 
 that cut his throat being slightly stained at the point, instead of
 
-a good deal more stained at the edge. Well, I can dispose of the
+a good deal more stained at the edge. [[Well]], I can dispose of the
 
 first question easily. Horne Hewitt took off his own coat before he
 
@@ -82,25 +82,25 @@ more meaningless, than the facts."
 
 
 
-"Well, let us go on to the other facts," continued Fisher, equably.
+"[[Well]], let us go on to the other facts," continued Fisher, equably.
 
-"The reason that particular sword is not stained at the edge with
+"The reason that particular [[Sword|sword]] is not stained at the edge with
 
-Hewitt's blood is that it was not used to kill Hewitt."
+Hewitt's [[Blood|blood]] is that it was not used to kill Hewitt."
 
 
 
 "But the doctor," protested March, "declared distinctly that the
 
-wound was made by that particular sword."
+wound was made by that particular [[Sword|sword]]."
 
 
 
 "I beg your pardon," replied Fisher.  "He did not declare that it
 
-was made by that particular sword. He declared it was made by a
+was made by that particular [[Sword|sword]]. He declared it was made by a
 
-sword of that particular pattern."
+[[Sword|sword]] of that particular pattern."
 
 
 
@@ -116,11 +116,11 @@ extraordinary what coincidences do sometimes occur. By the oddest
 
 chance in the world, by one chance in a million, it so happened that
 
-another sword of exactly the same shape was in the same garden at
+another [[Sword|sword]] of exactly the same shape was in the same [[Garden|garden]] at
 
-the same time. It may be partly explained, by the fact that I
+the same [[Time|time]]. It may be partly explained, by the fact that I
 
-brought them both into the garden myself . . . come, my dear fellow;
+brought them both into the [[Garden|garden]] myself . . . come, my dear fellow;
 
 surely you can see now what it means. Put those two things together;
 
@@ -152,19 +152,19 @@ To have denounced one of our friends at this moment would have been
 
 to play into the hands of your friend Attwood, and all the party of
 
-panic and slavery. Besides, it may be that a man over forty has a
+panic and [[Slavery|slavery]]. Besides, it may be that a man over forty has a
 
-subconscious desire to die as he has lived, and that I wanted, in a
+subconscious [[Desire|desire]] to die as he has lived, and that I wanted, in a
 
-sense, to carry my secrets to the grave. Perhaps a hobby hardens
+sense, to carry my [[Secrets|secrets]] to the [[Grave|grave]]. Perhaps a hobby hardens
 
-with age; and my hobby has been silence. Perhaps I feel that I have
+with age; and my hobby has been [[Silence|silence]]. Perhaps I feel that I have
 
 killed my mother's brother, but I have saved my mother's name.
 
-Anyhow, I chose a time when I knew you were all asleep, and he was
+Anyhow, I chose a [[Time|time]] when I knew you were all asleep, and he was
 
-walking alone in the garden. I saw all the stone statues standing in
+walking [[Alone|alone]] in the [[Garden|garden]]. I saw all the stone statues standing in
 
 the moonlight; and I myself was like one of those stone statues
 
@@ -182,15 +182,15 @@ ugly tale short, we fought there on the path in front of the
 
 Britannia statue; he was a man of great strength, but I had somewhat
 
-the advantage in skill. His sword grazed my forehead almost at the
+the advantage in skill. His [[Sword|sword]] grazed my forehead almost at the
 
 moment when mine sank into the joint in his neck. He fell against
 
-the statue, like Caesar against Pompey's, hanging on to the iron
+the statue, like Caesar against [[Pompey]]'s, hanging on to the iron
 
-rail; his sword was already broken. When I saw the blood from that
+rail; his [[Sword|sword]] was already broken. When I saw the [[Blood|blood]] from that
 
-deadly wound, everything else went from me; I dropped my sword and
+deadly wound, everything else went from me; I dropped my [[Sword|sword]] and
 
 ran as if to lift him up. As I bent toward him something happened
 
@@ -206,15 +206,15 @@ knelt there unarmed beside him. I looked up wildly to avoid the
 
 blow, and saw above us the great bulk of Britannia leaning outward
 
-like the figurehead of a ship. The next instant I saw it was leaning
+like the figurehead of a [[Ship|ship]]. The next instant I saw it was leaning
 
 an inch or two more than usual, and all the skies with their
 
-outstanding stars seemed to be leaning with it. For the third second
+outstanding [[Stars|stars]] seemed to be leaning with it. For the third second
 
 it was as if the skies fell; and in the fourth I was standing in the
 
-quiet garden, looking down on that flat ruin of stone and bone at
+quiet [[Garden|garden]], looking down on that flat ruin of stone and bone at
 
 which you were looking to-day. He had plucked out the last prop that
 
@@ -222,4 +222,4 @@ held up the British goddess, and she had fallen and crushed the
 
 traitor in her fall. I turned and darted for the coat which I knew
 
-to contain the package, ripped it up with my sword, and raced away
+to contain the package, ripped it up with my [[Sword|sword]], and raced away

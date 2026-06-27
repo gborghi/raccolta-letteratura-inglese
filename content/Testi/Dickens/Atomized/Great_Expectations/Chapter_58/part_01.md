@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 58 (part 1)"
+title: "[[Great Expectations]] — Chapter 58 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -25,24 +25,24 @@ my good opinion with warm assiduity when I was coming into property,
 the Boar was exceedingly cool on the subject now that I was going out
 of property.
 
-It was evening when I arrived, much fatigued by the journey I had so
+It was evening when I arrived, much fatigued by the [[Journey|journey]] I had so
 often made so easily. The Boar could not put me into my usual bedroom,
 which was engaged (probably by some one who had expectations), and
 could only assign me a very indifferent chamber among the pigeons and
-post-chaises up the yard. But I had as sound a sleep in that lodging as
+post-chaises up the yard. But I had as sound a [[Sleep|sleep]] in that lodging as
 in the most superior accommodation the Boar could have given me, and
-the quality of my dreams was about the same as in the best bedroom.
+the quality of my [[Dreams|dreams]] was about the same as in the best bedroom.
 
 Early in the morning, while my breakfast was getting ready, I strolled
-round by Satis House. There were printed bills on the gate and on bits
+round by Satis [[house|House]]. There were printed bills on the gate and on bits
 of carpet hanging out of the windows, announcing a sale by auction of
-the Household Furniture and Effects, next week. The House itself was to
+the Household Furniture and Effects, next week. The [[house|House]] itself was to
 be sold as old building materials, and pulled down. LOT 1 was marked in
-whitewashed knock-knee letters on the brew house; LOT 2 on that part of
+whitewashed knock-knee letters on the brew [[house]]; LOT 2 on that part of
 the main building which had been so long shut up. Other lots were
 marked off on other parts of the structure, and the ivy had been torn
 down to make room for the inscriptions, and much of it trailed low in
-the dust and was withered already. Stepping in for a moment at the open
+the [[Dust|dust]] and was withered already. Stepping in for a moment at the open
 gate, and looking around me with the uncomfortable air of a stranger
 who had no business there, I saw the auctioneer’s clerk walking on the
 casks and telling them off for the information of a catalogue-compiler,
@@ -94,7 +94,7 @@ same fat five fingers.
 a-going to Joseph?”
 
 “In heaven’s name,” said I, firing in spite of myself, “what does it
-matter to you where I am going? Leave that teapot alone.”
+matter to you where I am going? Leave that teapot [[Alone|alone]].”
 
 It was the worst course I could have taken, because it gave Pumblechook
 the opportunity he wanted.
@@ -102,7 +102,7 @@ the opportunity he wanted.
 “Yes, young man,” said he, releasing the handle of the article in
 question, retiring a step or two from my table, and speaking for the
 behoof of the landlord and waiter at the door, “I _will_ leave that
-teapot alone. You are right, young man. For once you are right. I
+teapot [[Alone|alone]]. You are right, young man. For once you are right. I
 forgit myself when I take such an interest in your breakfast, as to
 wish your frame, exhausted by the debilitating effects of
 prodigygality, to be stimilated by the ’olesome nourishment of your
@@ -116,7 +116,7 @@ particularly affected.
 
 “This is him,” said Pumblechook, “as I have rode in my shay-cart. This
 is him as I have seen brought up by hand. This is him untoe the sister
-of which I was uncle by marriage, as her name was Georgiana M’ria from
+of which I was uncle by [[Marriage|marriage]], as her name was Georgiana M’ria from
 her own mother, let him deny it if he can!”
 
 The waiter seemed convinced that I could not deny it, and that it gave

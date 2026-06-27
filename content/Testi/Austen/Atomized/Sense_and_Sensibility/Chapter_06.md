@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 6"
+title: "[[Sense and Sensibility]] — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER VI.
 
 
 
-The first part of their journey was performed in too melancholy a
+The first part of their [[Journey|journey]] was performed in too [[Melancholy|melancholy]] a
 
 disposition to be otherwise than tedious and unpleasant. But as they
 
@@ -30,35 +30,35 @@ country which they were to inhabit overcame their dejection, and a view
 
 of Barton Valley as they entered it gave them cheerfulness. It was a
 
-pleasant fertile spot, well wooded, and rich in pasture. After winding
+pleasant fertile spot, [[Well|well]] wooded, and rich in pasture. After winding
 
-along it for more than a mile, they reached their own house. A small
+along it for more than a mile, they reached their own [[house]]. A small
 
-green court was the whole of its demesne in front; and a neat wicket
+green [[Court|court]] was the whole of its demesne in front; and a neat wicket
 
 gate admitted them into it.
 
 
 
-As a house, Barton Cottage, though small, was comfortable and compact;
+As a [[house]], Barton Cottage, though small, was comfortable and compact;
 
 but as a cottage it was defective, for the building was regular, the
 
-roof was tiled, the window shutters were not painted green, nor were
+roof was tiled, the [[Window|window]] shutters were not painted green, nor were
 
 the walls covered with honeysuckles. A narrow passage led directly
 
-through the house into the garden behind. On each side of the entrance
+through the [[house]] into the [[Garden|garden]] behind. On each side of the entrance
 
 was a sitting room, about sixteen feet square; and beyond them were the
 
 offices and the stairs. Four bed-rooms and two garrets formed the rest
 
-of the house. It had not been built many years and was in good repair.
+of the [[house]]. It had not been built many years and was in good repair.
 
-In comparison of Norland, it was poor and small indeed!—but the tears
+In comparison of Norland, it was poor and small indeed!—but the [[Tears|tears]]
 
-which recollection called forth as they entered the house were soon
+which recollection called forth as they entered the [[house]] were soon
 
 dried away. They were cheered by the joy of the servants on their
 
@@ -74,7 +74,7 @@ it to their lasting approbation.
 
 
 
-The situation of the house was good. High hills rose immediately
+The situation of the [[house]] was good. High hills [[Rose|rose]] immediately
 
 behind, and at no great distance on each side; some of which were open
 
@@ -94,27 +94,27 @@ between two of the steepest of them.
 
 
 
-With the size and furniture of the house Mrs. Dashwood was upon the
+With the size and furniture of the [[house]] Mrs. Dashwood was upon the
 
-whole well satisfied; for though her former style of life rendered many
+whole [[Well|well]] satisfied; for though her former style of life rendered many
 
 additions to the latter indispensable, yet to add and improve was a
 
-delight to her; and she had at this time ready money enough to supply
+delight to her; and she had at this [[Time|time]] ready money enough to supply
 
 all that was wanted of greater elegance to the apartments. “As for the
 
-house itself, to be sure,” said she, “it is too small for our family,
+[[house]] itself, to be sure,” said she, “it is too small for our family,
 
 but we will make ourselves tolerably comfortable for the present, as it
 
-is too late in the year for improvements. Perhaps in the spring, if I
+is too late in the year for improvements. Perhaps in the [[spring]], if I
 
 have plenty of money, as I dare say I shall, we may think about
 
 building. These parlors are both too small for such parties of our
 
-friends as I hope to see often collected here; and I have some thoughts
+friends as I [[Hope|hope]] to see often collected here; and I have some thoughts
 
 of throwing the passage into one of them with perhaps a part of the
 
@@ -128,23 +128,23 @@ the stairs were handsome. But one must not expect every thing; though I
 
 suppose it would be no difficult matter to widen them. I shall see how
 
-much I am before-hand with the world in the spring, and we will plan
+much I am before-hand with the world in the [[spring]], and we will plan
 
 our improvements accordingly.”
 
 
 
-In the mean time, till all these alterations could be made from the
+In the mean [[Time|time]], till all these alterations could be made from the
 
 savings of an income of five hundred a-year by a woman who never saved
 
-in her life, they were wise enough to be contented with the house as it
+in her life, they were wise enough to be contented with the [[house]] as it
 
 was; and each of them was busy in arranging their particular concerns,
 
 and endeavoring, by placing around them books and other possessions, to
 
-form themselves a home. Marianne’s pianoforte was unpacked and properly
+form themselves a [[Home|home]]. Marianne’s pianoforte was unpacked and properly
 
 disposed of; and Elinor’s drawings were affixed to the walls of their
 
@@ -158,7 +158,7 @@ the next day by the entrance of their landlord, who called to welcome
 
 them to Barton, and to offer them every accommodation from his own
 
-house and garden in which theirs might at present be deficient. Sir
+[[house]] and [[Garden|garden]] in which theirs might at present be deficient. Sir
 
 John Middleton was a good looking man about forty. He had formerly
 
@@ -170,19 +170,19 @@ manners were as friendly as the style of his letter. Their arrival
 
 seemed to afford him real satisfaction, and their comfort to be an
 
-object of real solicitude to him. He said much of his earnest desire of
+object of real solicitude to him. He said much of his earnest [[Desire|desire]] of
 
 their living in the most sociable terms with his family, and pressed
 
 them so cordially to dine at Barton Park every day till they were
 
-better settled at home, that, though his entreaties were carried to a
+better settled at [[Home|home]], that, though his entreaties were carried to a
 
 point of perseverance beyond civility, they could not give offence. His
 
 kindness was not confined to words; for within an hour after he left
 
-them, a large basket full of garden stuff and fruit arrived from the
+them, a large basket full of [[Garden|garden]] stuff and fruit arrived from the
 
 park, which was followed before the end of the day by a present of
 
@@ -222,7 +222,7 @@ his frankness and warmth; and her visit was long enough to detract
 
 something from their first admiration, by showing that, though
 
-perfectly well-bred, she was reserved, cold, and had nothing to say for
+perfectly [[Well|well]]-bred, she was reserved, cold, and had nothing to say for
 
 herself beyond the most common-place inquiry or remark.
 
@@ -232,11 +232,11 @@ Conversation however was not wanted, for Sir John was very chatty, and
 
 Lady Middleton had taken the wise precaution of bringing with her their
 
-eldest child, a fine little boy about six years old, by which means
+eldest [[Child|child]], a fine little boy about six years old, by which means
 
 there was one subject always to be recurred to by the ladies in case of
 
-extremity, for they had to enquire his name and age, admire his beauty,
+extremity, for they had to enquire his name and age, admire his [[Beauty|beauty]],
 
 and ask him questions which his mother answered for him, while he hung
 
@@ -244,7 +244,7 @@ about her and held down his head, to the great surprise of her
 
 ladyship, who wondered at his being so shy before company, as he could
 
-make noise enough at home. On every formal visit a child ought to be of
+make noise enough at [[Home|home]]. On every formal visit a [[Child|child]] ought to be of
 
 the party, by way of provision for discourse. In the present case it
 
@@ -252,7 +252,7 @@ took up ten minutes to determine whether the boy were most like his
 
 father or mother, and in what particular he resembled either, for of
 
-course every body differed, and every body was astonished at the
+course every [[Body|body]] differed, and every [[Body|body]] was astonished at the
 
 opinion of the others.
 
@@ -260,6 +260,6 @@ opinion of the others.
 
 An opportunity was soon to be given to the Dashwoods of debating on the
 
-rest of the children, as Sir John would not leave the house without
+rest of the children, as Sir John would not leave the [[house]] without
 
 securing their promise of dining at the park the next day.

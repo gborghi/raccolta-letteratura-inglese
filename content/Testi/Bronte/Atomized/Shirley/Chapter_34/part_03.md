@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 34 (part 3)"
+title: "[[Shirley]] — Chapter 34 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,7 +36,7 @@ take the umbrella."
 
 goose to-day, with apple-pie and rice-pudding. I always contrive to know
 
-the bill of fare. Well, I like these things uncommonly; but I'll make
+the bill of fare. [[Well]], I like these things uncommonly; but I'll make
 
 the sacrifice, if you will."
 
@@ -44,7 +44,7 @@ the sacrifice, if you will."
 
 "We have a cold dinner. My uncle will allow no unnecessary cooking on
 
-the Sabbath. But I must return; the house would be in commotion if I
+the Sabbath. But I must return; the [[house]] would be in commotion if I
 
 failed to appear."
 
@@ -52,9 +52,9 @@ failed to appear."
 
 "So will Briarmains, bless you! I think I hear my father sending out the
 
-overlooker and five of the dyers, to look in six directions for the body
+overlooker and five of the dyers, to look in six directions for the [[Body|body]]
 
-of his prodigal son in the snow; and my mother repenting her of her
+of his prodigal son in the [[Snow|snow]]; and my mother repenting her of her
 
 many misdeeds towards me, now I am gone."
 
@@ -142,17 +142,17 @@ before."
 
 
 
-"You know that would advance nothing. Well, I shall stick to my point.
+"You know that would advance nothing. [[Well]], I shall stick to my point.
 
 See him I will. If you won't help me, I'll manage without help."
 
 
 
-"Do; there is nothing like self-reliance, self-dependence."
+"Do; there is nothing like [[Self-Reliance|self-reliance]], [[Self|self]]-dependence."
 
 
 
-"I have no time to reason with you now; but I consider you provoking.
+"I have no [[Time|time]] to reason with you now; but I consider you provoking.
 
 Good-morning."
 
@@ -160,21 +160,21 @@ Good-morning."
 
 Away she went, the umbrella shut, for she could not carry it against the
 
-wind.
+[[Wind|wind]].
 
 
 
 "She is not vapid; she is not shallow," said Martin. "I shall like to
 
-watch, and mark how she will work her way without help. If the storm
+watch, and mark how she will work her way without help. If the [[Storm|storm]]
 
-were not of snow, but of fire--such as came refreshingly down on the
+were not of [[Snow|snow]], but of [[Fire|fire]]--such as came refreshingly down on the
 
 cities of the plain--she would go through it to procure five minutes'
 
 speech of that Moore. Now, I consider I have had a pleasant morning.
 
-The disappointments got time on; the fears and fits of anger only made
+The disappointments got [[Time|time]] on; the fears and fits of anger only made
 
 that short discourse pleasanter, when it came at last. She expected to
 
@@ -188,7 +188,7 @@ she will do and dare--to get her will. It seems strange and new to find
 
 one human being thinking so much about another as she thinks about
 
-Moore. But it is time to go home; my appetite tells me the hour. Won't I
+Moore. But it is [[Time|time]] to go [[Home|home]]; my appetite tells me the hour. Won't I
 
 walk into that goose? and we'll try whether Matthew or I shall get the
 

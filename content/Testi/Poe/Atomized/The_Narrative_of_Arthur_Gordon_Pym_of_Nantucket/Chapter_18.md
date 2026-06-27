@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 19"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 19"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -30,7 +30,7 @@ and ten savages of the canoes) was momentarily strengthened by smaller
 
 detachments, of from two to six or seven, which joined us, as if by
 
-accident, at different turns in the road. There appeared so much of
+accident, at different turns in the [[Road|road]]. There appeared so much of
 
 system in this that I could not help feeling distrust, and I spoke to
 
@@ -38,7 +38,7 @@ Captain Guy of my apprehensions. It was now too late, however, to
 
 recede, and we concluded that our best security lay in evincing a
 
-perfect confidence in the good faith of Too-wit. We accordingly went
+perfect confidence in the good [[Faith|faith]] of Too-wit. We accordingly went
 
 on, keeping a wary eye upon the manoeuvres of the savages, and not
 
@@ -112,31 +112,31 @@ ledge of which I have already spoken cutting off all access in other
 
 directions. Through the middle of the valley ran a brawling stream of
 
-the same magical-looking water which has been described. We saw several
+the same magical-looking [[Water|water]] which has been described. We saw several
 
-strange animals about the dwellings, all appearing to be thoroughly
+strange [[Animals|animals]] about the dwellings, all appearing to be thoroughly
 
 domesticated. The largest of these creatures resembled our common hog
 
-in the structure of the body and snout; the tail, however, was bushy,
+in the structure of the [[Body|body]] and snout; the tail, however, was bushy,
 
 and the legs slender as those of the antelope. Its motion was
 
 exceedingly awkward and indecisive, and we never saw it attempt to run.
 
-We noticed also several animals very similar in appearance, but of a
+We noticed also several [[Animals|animals]] very similar in appearance, but of a
 
-greater length of body, and covered with a black wool. There were a
+greater length of [[Body|body]], and covered with a black wool. There were a
 
 great variety of tame fowls running about, and these seemed to
 
 constitute the chief food of the natives. To our astonishment we saw
 
-black albatross among these birds in a state of entire domestication,
+black albatross among these [[Birds|birds]] in a state of entire domestication,
 
 going to sea periodically for food, but always returning to the village
 
-as a home, and using the southern shore in the vicinity as a place of
+as a [[Home|home]], and using the southern shore in the vicinity as a place of
 
 incubation. There they were joined by their friends the pelicans as
 
@@ -162,7 +162,7 @@ similar to the fish about the group of the Lord Auckland Islands, in a
 
 latitude as low as fifty-one degrees south. The Gallipago tortoise was
 
-also very plentiful. We saw but few wild animals, and none of a large
+also very plentiful. We saw but few wild [[Animals|animals]], and none of a large
 
 size, or of a species with which we were familiar. One or two serpents
 
@@ -188,9 +188,9 @@ the possession of the latter, for there was no appearance of any among
 
 the villagers. There were a great many women and children, the former
 
-not altogether wanting in what might be termed personal beauty. They
+not altogether wanting in what might be termed personal [[Beauty|beauty]]. They
 
-were straight, tall, and well formed, with a grace and freedom of
+were straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
 
 carriage not to be found in civilized society. Their lips, however,
 
@@ -222,11 +222,11 @@ covering, and in this way prevent its flapping about the trunk. The
 
 covering, too, which consisted of four very large skins fastened
 
-together with wooden skewers, was secured at the bottom with pegs
+together with wooden skewers, was secured at the [[Bottom|bottom]] with pegs
 
 driven through it and into the ground. The floor was strewed with a
 
-quantity of dry leaves by way of carpet.
+quantity of dry [[Leaves|leaves]] by way of carpet.
 
 
 
@@ -234,7 +234,7 @@ To this hut we were conducted with great solemnity, and as many of the
 
 natives crowded in after us as possible. Too-wit seated himself on the
 
-leaves, and made signs that we should follow his example. This we did,
+[[Leaves|leaves]], and made signs that we should follow his example. This we did,
 
 and presently found ourselves in a situation peculiarly uncomfortable,
 
@@ -250,7 +250,7 @@ feet. The pressure was not only inside the tent, but outside, where
 
 probably was every individual on the whole island, the crowd being
 
-prevented from trampling us to death only by the incessant exertions
+prevented from trampling us to [[Death|death]] only by the incessant exertions
 
 and vociferations of Too-wit. Our chief security lay, however, in the
 
@@ -272,11 +272,11 @@ resembling the one delivered in the canoes, with the exception that the
 
 _Anamoo-moos!_ were now somewhat more strenuously insisted upon than
 
-the _Lama-Lamas!_ We listened in profound silence until the conclusion
+the _Lama-Lamas!_ We listened in profound [[Silence|silence]] until the conclusion
 
 of his harangue, when Captain Guy replied by assuring the chief of his
 
-eternal friendship and good-will, concluding what he had to say by a
+eternal [[Friendship|friendship]] and good-will, concluding what he had to say by a
 
 present of several strings of blue beads and a knife. At the former the
 
@@ -312,7 +312,7 @@ hearty _déjeuner_.
 
 When the monarch had made an end of his meal, we commenced a series of
 
-cross-questioning in every ingenious manner we could devise, with a
+[[Cross|cross]]-questioning in every ingenious manner we could devise, with a
 
 view of discovering what were the chief productions of the country, and
 

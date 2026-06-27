@@ -16,13 +16,13 @@ tags:
 
 AUTOBIOGRAPHY
 
-The heresies that have attacked human happiness in my time
-have all been variations of either presumption or despair;
+The heresies that have attacked human happiness in my [[Time|time]]
+have all been variations of either presumption or [[Despair|despair]];
 which in the controversies of modern culture are called optimism
 and pessimism.  And if I wanted to write an autobiography
-in a sentence (and I hope I shall never write a longer one),
-I should say that my literary life has lasted from a time
-when men were losing happiness by despair to a time when they
+in a sentence (and I [[Hope|hope]] I shall never write a longer one),
+I should say that my literary life has lasted from a [[Time|time]]
+when men were losing happiness by [[Despair|despair]] to a [[Time|time]] when they
 are losing it by presumption.
 
                                                 Blackfriars, January, `923

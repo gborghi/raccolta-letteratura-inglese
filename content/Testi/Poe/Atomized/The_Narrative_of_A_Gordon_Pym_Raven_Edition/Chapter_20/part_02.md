@@ -20,7 +20,7 @@ tags:
 
       “The _biche de mer_ is generally taken in three or four feet of
 
-      water; after which they are brought on shore, and split at one
+      [[Water|water]]; after which they are brought on shore, and split at one
 
       end with a knife, the incision being one inch or more, according
 
@@ -34,13 +34,13 @@ tags:
 
       or too little. They are then buried in the ground for four hours,
 
-      then boiled again for a short time, after which they are dried,
+      then boiled again for a short [[Time|time]], after which they are dried,
 
-      either by the fire or the sun. Those cured by the sun are worth
+      either by the [[Fire|fire]] or the sun. Those cured by the sun are worth
 
       the most; but where one picul (133 1/3 lbs.) can be cured that
 
-      way, I can cure thirty piculs by the fire. When once properly
+      way, I can cure thirty piculs by the [[Fire|fire]]. When once properly
 
       cured, they can be kept in a dry place for two or three years
 
@@ -82,7 +82,7 @@ tags:
 
       eastern shore of the bay was selected, where there was plenty of
 
-      both wood and water, and within a convenient distance of the
+      both wood and [[Water|water]], and within a convenient distance of the
 
       principal reefs on which the _biche de mer_ was to be procured.
 
@@ -98,7 +98,7 @@ tags:
 
       three men whom we intended to leave behind. These were John
 
-      Carson, Alfred Harris, and ___ Peterson (all natives of London, I
+      Carson, Alfred Harris, and ___ Peterson (all natives of [[London]], I
 
       believe), who volunteered their services in this respect.
 
@@ -114,9 +114,9 @@ tags:
 
       it advisable to run the risk of offending him by a final refusal.
 
-      I believe that not one of us had at this time the slightest
+      I believe that not one of us had at this [[Time|time]] the slightest
 
-      suspicion of the good faith of the savages. They had uniformly
+      suspicion of the good [[Faith|faith]] of the savages. They had uniformly
 
       behaved with the greatest decorum, aiding us with alacrity in our
 
@@ -136,7 +136,7 @@ tags:
 
       single thought of perfidy on the part of a people who treated us
 
-      so well. A very short while sufficed to prove that this apparent
+      so [[Well|well]]. A very short while sufficed to prove that this apparent
 
       kindness of disposition was only the result of a deeply laid plan
 
@@ -164,7 +164,7 @@ tags:
 
       constantly on deck. The boarding-nettings were up, the guns
 
-      double-shotted with grape and canister, and the swivels loaded
+      [[Double|double]]-shotted with grape and canister, and the swivels loaded
 
       with canisters of musket-balls. She lay, with her anchor apeak,
 
@@ -172,7 +172,7 @@ tags:
 
       any direction without being distinctly seen and exposed to the
 
-      full fire of our swivels immediately.
+      full [[Fire|fire]] of our swivels immediately.
 
 
 
@@ -202,7 +202,7 @@ tags:
 
 
 
-      We had passed the spring and rivulet of which I before spoke, and
+      We had passed the [[Spring|spring]] and rivulet of which I before spoke, and
 
       were now entering upon a narrow gorge leading through the chain
 

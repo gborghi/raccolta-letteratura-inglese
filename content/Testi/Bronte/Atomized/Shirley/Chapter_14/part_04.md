@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 14 (part 4)"
+title: "[[Shirley]] — Chapter 14 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-all honour and deference at a table with paper, pen, ink, and--what was
+all [[Honour|honour]] and deference at a table with paper, pen, ink, and--what was
 
 best of all--cash before her, and requested to draw up a regular plan
 
@@ -36,9 +36,9 @@ acquired of the condition of her fellow-creatures around her.
 
 
 
-Shirley placed at her disposal £300, and at sight of the money Miss
+[[Shirley]] placed at her disposal £300, and at sight of the money Miss
 
-Ainley's eyes filled with joyful tears; for she already saw the hungry
+Ainley's eyes filled with joyful [[Tears|tears]]; for she already saw the hungry
 
 fed, the naked clothed, the sick comforted thereby. She quickly drew up
 
@@ -80,7 +80,7 @@ of sins.
 
 
 
-Shirley, knowing this harmless infatuation on the part of her
+[[Shirley]], knowing this harmless infatuation on the part of her
 
 recently-chosen prime minister, stipulated expressly that the curates
 
@@ -94,7 +94,7 @@ some sagacity, and Mr. Hall, at least, had sympathy and loving-kindness
 
 for his fellow-men; but as for the youth under them, they must be set
 
-aside, kept down, and taught that subordination and silence best became
+aside, kept down, and taught that subordination and [[Silence|silence]] best became
 
 their years and capacity.
 
@@ -120,7 +120,7 @@ personage evinced such open scorn of the offering, she had never
 
 ventured to renew it. To Donne she always served the treat, and was
 
-happy to see his approbation of it proved beyond a doubt by the fact of
+happy to see his approbation of it proved beyond a [[Doubt|doubt]] by the fact of
 
 his usually eating two pieces of cake, and putting a third in his
 
@@ -144,7 +144,7 @@ privy council.
 
 
 
-Shirley managed to get the senior priesthood together accordingly, and
+[[Shirley]] managed to get the senior priesthood together accordingly, and
 
 before the old maid's arrival, she had, further, talked all the
 
@@ -160,7 +160,7 @@ latter we know. She had rather a friendly feeling for both, especially
 
 for old Helstone; and it cost her no trouble to be quite delightful to
 
-them. She took them round the garden; she gathered them flowers; she was
+them. She took them round the [[Garden|garden]]; she gathered them [[Flowers|flowers]]; she was
 
 like a kind daughter to them. Mr. Hall she left to Caroline--or rather,
 
@@ -176,7 +176,7 @@ something of a book-worm he was, near-sighted, spectacled, now and then
 
 abstracted. To old ladies he was kind as a son. To men of every
 
-occupation and grade he was acceptable. The truth, simplicity, frankness
+occupation and grade he was acceptable. The [[Truth|truth]], simplicity, frankness
 
 of his manners, the nobleness of his integrity, the reality and
 
@@ -188,11 +188,11 @@ highly. It was only with young, handsome, fashionable, and stylish
 
 ladies he felt a little shy. Being himself a plain man--plain in aspect,
 
-plain in manners, plain in speech--he seemed to fear their dash,
+plain in manners, plain in speech--he seemed to [[Fear|fear]] their dash,
 
 elegance, and airs. But Miss Helstone had neither dash nor airs, and her
 
-native elegance was of a very quiet order--quiet as the beauty of a
+native elegance was of a very quiet order--quiet as the [[Beauty|beauty]] of a
 
 ground-loving hedge-flower. He was a fluent, cheerful, agreeable talker.
 

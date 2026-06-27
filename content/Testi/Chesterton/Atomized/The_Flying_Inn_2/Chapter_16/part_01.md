@@ -16,11 +16,11 @@ tags:
 
 CHAPTER XV
 
-THE SONGS OF THE CAR CLUB
+THE [[songs|SONGS]] OF THE CAR CLUB
 
 MORE than once as the car flew through black and
 silver fairylands of fir wood and pine wood, Dalroy
-put his head out of the side window and remonstrated
+put his head out of the side [[Window|window]] and remonstrated
 with the chauffeur without effect.  He was reduced
 at last to asking him where he was going.
 
@@ -42,7 +42,7 @@ and he's left behind with nothing to eat, so to speak."
 stinker eat 'is dornkey, with thistle sauce.  'E would
 if 'e was as 'ollow as I was."
 
-Humphrey Pump opened the glass window that
+Humphrey Pump opened the glass [[Window|window]] that
 separated him from the rear part of the car, and turned
 to speak to his friend over his square elbow and
 shoulder.
@@ -53,25 +53,25 @@ just yet.  He's as mad as Moody's aunt, as they say."
 "Do they say it?" asked the Captain, with a sort of
 anxiety.  "They never said it in Ithaca."
 
-"Honestly, I think you'd better leave him alone,"
+"Honestly, I think you'd better leave him [[Alone|alone]],"
 answered Pump, with his sagacious face.  "He'd just
 run us into a Scotch Express like Dandy Mutton did,
 when they said he was driving carelessly.  We can
 send the car back to Ivywood somehow later on, and
 really, I don't think it'll do the gentleman any harm to
-spend a night with a donkey.  The donkey might teach
+spend a [[Night|night]] with a [[donkey]].  The [[donkey]] might teach
 him something, I tell you."
 
 "It's true he denied the Principle of Private Property,"
 said Dalroy, reflectively, "but I fancy he was
-thinking of a plain house fixed on the ground.  A
-house on wheels, such as this, he might perhaps think
+thinking of a plain [[house]] fixed on the ground.  A
+[[house]] on wheels, such as this, he might perhaps think
 a more permanent possession.  But I never understand
 it;" and again he passed a weary palm across his open
 forehead.  "Have you ever noticed, Hump, what is
 really odd about those people?"
 
-The car shot on amid the comfortable silence of
+The car shot on amid the comfortable [[Silence|silence]] of
 Pump, and then the Irishman said again:
 
 "That poet in the pussy-cat clothes wasn't half bad.
@@ -88,26 +88,26 @@ to other men.  Go and dine with a temperance millionaire
 and you won't find he's abolished the _hors
 d'oeuvres_ or the five courses or even the coffee.  What
 he's abolished is the port and sherry, because poor
-men like that as well as rich.  Go a step farther, and
+men like that as [[Well|well]] as rich.  Go a step farther, and
 you won't find he's abolished the fine silver forks and
 spoons, but he's abolished the meat, because poor men
 like meat--when they can get it.  Go a step farther,
 and you won't find he goes without gardens or gorgeous
 rooms, which poor men can't enjoy at all.  But
-you will find he boasts of early rising, because sleep
+you will find he boasts of early rising, because [[Sleep|sleep]]
 is a thing poor men can still enjoy.  About the only
 thing they can still enjoy.  Nobody ever heard of a
 modern philanthropist giving up petrol or typewriting
 or troops of servants.  No, no!  What he gives
 up must be some simple and universal thing.  He will
-give up beef or beer or sleep--because these pleasures
+give up beef or beer or [[Sleep|sleep]]--because these pleasures
 remind him that he is only a man."
 
 Humphrey Pump nodded, but still answered nothing;
 and the voice of the sprawling Dalroy took one
 of its upward turns of a sort of soaring flippancy;
 which commonly embodied itself in remembering some
-song he had composed.
+[[Song|song]] he had composed.
 
 "Such," he said, "was the case of the late Mr.
 Mandragon, so long popular in English aristocratic society
@@ -122,7 +122,7 @@ incautiously landing on American soil.
  He ordered his lunch by megaphone in manly, simple tones,
  And used all his motors for canvassing voters, and twenty
     telephones;
-  Besides a dandy little machine,
+  Besides a dandy little [[Machine|machine]],
   Cunning and neat as ever was seen,
   With a hundred pulleys and cranks between,
   Made of iron and kept quite clean,
@@ -140,7 +140,7 @@ And wash him and brush him and shave him and dress him
   A Tiger Skin, all striped and specked,
   And a Peacock Hat with the tail erect,
   A scarlet tunic with sunflowers decked--  That might have had a more marked effect,
- And pleased the pride of a weaker man that yearned for
+ And pleased the [[Pride|pride]] of a weaker man that yearned for
     wine or wife;
  But fame and the flagon for Mr. Mandragon obscured the
     Simple Life.
@@ -149,19 +149,19 @@ And wash him and brush him and shave him and dress him
  He enjoyed a quiet funeral in a crematorium shed,
  And he lies there fluffy and soft and grey and certainly
     quite refined,
- When he might have rotted to flowers and fruit with Adam
+ When he might have rotted to [[Flowers|flowers]] and fruit with Adam
     and all mankind.
-  Or been eaten by bears that fancy blood,
+  Or been eaten by bears that fancy [[Blood|blood]],
   Or burnt on a big tall tower of wood,
   In a towering flame as a heathen should,
   Or even sat with us here at food,
- Merrily taking twopenny rum and cheese with a pocket
+ Merrily taking twopenny rum and [[cheese]] with a pocket
     knife,
  But these were luxuries lost for him that lived for the
     Simple Life."
 
 Mr. Pump had made many attempts to arrest this
-song, but they were as vain as all attempts to arrest
+[[Song|song]], but they were as vain as all attempts to arrest
 the car.  The angry chauffeur seemed, indeed, rather
 inspired to further energy by the violent vocal noises
 behind; and Pump again found it best to fall back on

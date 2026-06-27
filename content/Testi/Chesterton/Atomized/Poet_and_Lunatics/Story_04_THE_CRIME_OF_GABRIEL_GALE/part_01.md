@@ -16,12 +16,12 @@ tags:
 
 THE CRIME OF GABRIEL GALE
 
-DR.  BUTTERWORTH, the famous London physician, was sitting
-in his summer-house in his shirt sleeves, for it was a hot day
+DR.  BUTTERWORTH, the famous [[London]] physician, was sitting
+in his [[Summer|summer]]-[[house]] in his shirt sleeves, for it was a hot day
 and he had been playing tennis on the sunny lawns outside.
 He had a solid face and figure and carried everywhere an atmosphere
-of bodily health and good humour which helped him not a little in
-his profession; but he was not serious or self-conscious about it.
+of bodily health and good [[Humour|humour]] which helped him not a little in
+his profession; but he was not serious or [[Self|self]]-conscious about it.
 He was not one of those in whom health has degenerated into hygiene.
 He played tennis when he felt inclined and left off when he felt inclined;
 as on the present occasion, when he had retired to smoke a pipe
@@ -31,17 +31,17 @@ and by himself as meaning that he would always be able to play.
 And he enjoyed a joke very much, even the most minute and trivial joke
 that his roving eye encountered; and at this moment it encountered
 a quaint detail, which was something of a quaint contrast, in the glowing
-garden outside.  Framed in the dark doorway of the summer-house,
-like a lighted scene on the stage, was the perspective of a garden path,
+[[Garden|garden]] outside.  Framed in the dark doorway of the [[Summer|summer]]-[[house]],
+like a lighted scene on the stage, was the perspective of a [[Garden|garden]] path,
 bordered with very gay and flamboyant beds of tulips, having something
 of the gorgeous formality of the borders of a Persian illumination.
 And down the centre of the central path was advancing a figure that
 looked by comparison almost completely black, with black top-hat,
 black clothes and black umbrella; it might have been the mythical
-Black Tulip come to life and a walking parody of the tall,
-top-heavy garden flowers.  The next moment all such fancies had faded
+Black Tulip come to life and a walking [[Parody|parody]] of the tall,
+top-heavy [[Garden|garden]] [[Flowers|flowers]].  The next moment all such fancies had faded
 from the doctor's day-dream; for he had recognized a familiar face
-under the top-hat; he knew that the contrast was not merely grotesque;
+under the top-hat; he knew that the contrast was not merely [[Grotesque|grotesque]];
 and was shocked with the gravity of the visitor's eyes.
 
 "Hullo, Garth," he said in a hearty manner, "sit down and tell us
@@ -71,7 +71,7 @@ Then he added abruptly:  "Of course it's always a sad business;
 but I'm afraid it's rather personal for you.  A friend of yours?"
 
 "One of my best friends, I think, barring yourself," replied Garth;
-"and one of the best and brightest young men of our time as well.
+"and one of the best and brightest young men of our [[Time|time]] as [[Well|well]].
 I was afraid something of the sort might happen; but I hoped it
 wouldn't be so bad as this."  He stopped for an instant and then
 said almost explosively:
@@ -84,7 +84,7 @@ said almost explosively:
 "Gabriel Gale is a poet, also a painter and other wild things
 of that sort; but he has also a wild theory of his own about
 how to cure lunatics.  In short, the amateur set up as a mad
-doctor and now the doctor is really mad.  It's a horrid tragedy;
+doctor and now the doctor is really mad.  It's a horrid [[Tragedy|tragedy]];
 but really he was asking for it."
 
 "I don't yet understand what it's all about," said the
@@ -103,19 +103,19 @@ was a risky business, to walk on the edge of the precipice
 like that; and now, as I say, he's done it once too often.
 I always distrusted it myself."
 
-"I should think so," said Dr. Butterworth, all his solid sanity
-stiffening against the suggestion.  "He might as well say that a doctor
+"I should think so," said Dr. Butterworth, all his solid [[Sanity|sanity]]
+stiffening against the suggestion.  "He might as [[Well|well]] say that a doctor
 ought to limp all the way to cure a lame man, or shut his eyes
 in order to help the blind."
 
 "If the blind lead the blind," assented the other gloomily.
-"Well, he's fallen into the ditch this time."
+"[[Well]], he's fallen into the ditch this [[Time|time]]."
 
-"Why especially this time?" asked Butterworth.
+"Why especially this [[Time|time]]?" asked Butterworth.
 
-"Well, if he doesn't go to an asylum, he'll go to jail,"
+"[[Well]], if he doesn't go to an asylum, he'll go to jail,"
 said Garth grimly.  "That's why I'm in such a hurry to have him certified;
-God knows I don't like doing that.  But he's broken out this time in a way
+God knows I don't like doing that.  But he's broken out this [[Time|time]] in a way
 he never did before.  He was always fanciful and eccentric, of course;
 but I'm bound to say he had a very sane streak in him somewhere.
 It's exactly because he's never done anything like this before that I'm
@@ -125,21 +125,21 @@ But what hits me much harder, who knew him, is that he tried
 to murder a perfectly mild and shy and inoffensive person; in fact
 a rather gauche youth from Cambridge, half developed into a curate.
 Now that's quite unlike Gabriel, even at his maddest.  The men with whom
-he wrestled in spirit, if not in body, were intellectual bullies
+he wrestled in spirit, if not in [[Body|body]], were intellectual bullies
 or mesmerists, the sort of men who wanted somebody to stand up to them;
 like that thin-lipped Dr. Wilkes, or that Russian Professor.
 I can no more see him savaging somebody like poor young Saunders than I
-can see him kicking a crippled child.  And yet I _did_ see him do it.
+can see him kicking a crippled [[Child|child]].  And yet I _did_ see him do it.
 The only explanation is that he wasn't himself.
 
 "There was another thing which made me sure he wasn't himself.
-The weather had been very trying for everybody for some time;
-hot and stormy and electric; but it was the first time I've ever known
+The weather had been very trying for everybody for some [[Time|time]];
+hot and stormy and electric; but it was the first [[Time|time]] I've ever known
 him upset by such storms.  I've known him to do the silliest things;
-I've known him stand on his head in the garden; but that was only
-showing that he was _not_ affected by the storm.  But this time I'm
+I've known him stand on his head in the [[Garden|garden]]; but that was only
+showing that he was _not_ affected by the [[Storm|storm]].  But this [[Time|time]] I'm
 sure these queer semi-tropical tempests have been too much for him;
-so that even the very subject of the storm upset him in some way.
-For this tragedy arose out of the most trivial sort of triviality.
+so that even the very subject of the [[Storm|storm]] upset him in some way.
+For this [[Tragedy|tragedy]] arose out of the most trivial sort of triviality.
 The whole terrible unnatural business began with talking
 about the weather.

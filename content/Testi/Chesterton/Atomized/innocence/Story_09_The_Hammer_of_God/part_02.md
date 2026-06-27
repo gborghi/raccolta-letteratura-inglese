@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Hammer of God (part 2)"
+title: "[[innocence]] — The Hammer of God (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -21,12 +21,12 @@ The last thing he saw was the colonel throwing pennies at the open
 mouth of Joe, with the serious appearance of trying to hit it.
 
 This ugly sunlit picture of the stupidity and cruelty of the earth sent
-the ascetic finally to his prayers for purification and new thoughts.
+the [[ascetic]] finally to his prayers for [[Purification|purification]] and new thoughts.
 He went up to a pew in the gallery, which brought him under
-a coloured window which he loved and always quieted his spirit;
-a blue window with an angel carrying lilies.  There he began to think
+a coloured [[Window|window]] which he loved and always quieted his spirit;
+a blue [[Window|window]] with an angel carrying lilies.  There he began to think
 less about the half-wit, with his livid face and mouth like a fish.
-He began to think less of his evil brother, pacing like a lean lion
+He began to think less of his evil brother, pacing like a lean [[Lion|lion]]
 in his horrible hunger.  He sank deeper and deeper into those cold
 and sweet colours of silver blossoms and sapphire sky.
 
@@ -57,7 +57,7 @@ done nothing, and won't do anything.  I'm afraid he's done for.
 You had really better come down, sir."
 
 The curate followed the cobbler down a short winding stair which brought them
-out at an entrance rather higher than the street.  Bohun saw the tragedy
+out at an entrance rather higher than the street.  Bohun saw the [[Tragedy|tragedy]]
 in one glance, flat underneath him like a plan.  In the yard of the smithy
 were standing five or six men mostly in black, one in an inspector's uniform.
 They included the doctor, the Presbyterian minister, and the priest
@@ -68,13 +68,13 @@ Between these two groups, and just clear of the main heap of hammers,
 lay a man in evening dress, spread-eagled and flat on his face.
 From the height above Wilfred could have sworn to every item of his costume
 and appearance, down to the Bohun rings upon his fingers; but the skull
-was only a hideous splash, like a star of blackness and blood.
+was only a hideous splash, like a star of blackness and [[Blood|blood]].
 
 Wilfred Bohun gave but one glance, and ran down the steps into
 the yard.  The doctor, who was the family physician, saluted him,
 but he scarcely took any notice.  He could only stammer out:
 "My brother is dead.  What does it mean?  What is this horrible mystery?"
-There was an unhappy silence; and then the cobbler, the most
+There was an unhappy [[Silence|silence]]; and then the cobbler, the most
 outspoken man present, answered:  "Plenty of horror, sir," he said;
 "but not much mystery."
 
@@ -86,7 +86,7 @@ and he's the man that had most reason to."
 
 "We must not prejudge anything," put in the doctor, a tall, black-bearded man,
 rather nervously; "but it is competent for me to corroborate what Mr. Gibbs
-says about the nature of the blow, sir; it is an incredible blow.
+says about the [[Nature|nature]] of the blow, sir; it is an incredible blow.
 Mr. Gibbs says that only one man in this district could have done it.
 I should have said myself that nobody could have done it."
 
@@ -95,7 +95,7 @@ A shudder of superstition went through the slight figure of the curate.
 
 "Mr. Bohun," said the doctor in a low voice, "metaphors literally fail me.
 It is inadequate to say that the skull was smashed to bits like an eggshell.
-Fragments of bone were driven into the body and the ground like bullets
+Fragments of bone were driven into the [[Body|body]] and the ground like bullets
 into a mud wall.  It was the hand of a giant."
 
 He was silent a moment, looking grimly through his glasses; then he added:
@@ -114,15 +114,15 @@ Where's Simeon Barnes, the blacksmith?"
 
 "No; he is in neither of those places," said a small and colourless voice,
 which came from the little Roman priest who had joined the group.
-"As a matter of fact, he is coming up the road at this moment."
+"As a matter of fact, he is coming up the [[Road|road]] at this moment."
 
 The little priest was not an interesting man to look at,
 having stubbly brown hair and a round and stolid face.
-But if he had been as splendid as Apollo no one would have looked
+But if he had been as splendid as [[Apollo]] no one would have looked
 at him at that moment.  Everyone turned round and peered at
 the pathway which wound across the plain below, along which was
 indeed walking, at his own huge stride and with a hammer on
-his shoulder, Simeon the smith.  He was a bony and gigantic man,
+his shoulder, Simeon the [[smith]].  He was a bony and gigantic man,
 with deep, dark, sinister eyes and a dark chin beard.
 He was walking and talking quietly with two other men;
 and though he was never specially cheerful, he seemed quite
@@ -132,6 +132,6 @@ at his ease.
 he did it with."
 
 "No," said the inspector, a sensible-looking man
-with a sandy moustache, speaking for the first time.
+with a sandy moustache, speaking for the first [[Time|time]].
 "There's the hammer he did it with over there by the church wall.
-We have left it and the body exactly as they are."
+We have left it and the [[Body|body]] exactly as they are."

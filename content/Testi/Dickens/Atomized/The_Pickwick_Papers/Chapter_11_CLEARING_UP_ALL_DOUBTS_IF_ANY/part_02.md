@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -46,13 +46,13 @@ and their mas’rs, too, sir--Old Bailey Proctors--and no mistake.’
 ‘Do! You, Sir! That ain’t the worst on it, neither. They puts things
 into old gen’l’m’n’s heads as they never dreamed of. My father, Sir, wos
 a coachman. A widower he wos, and fat enough for anything--uncommon fat,
-to be sure. His missus dies, and leaves him four hundred pound. Down he
+to be sure. His missus dies, and [[Leaves|leaves]] him four hundred pound. Down he
 goes to the Commons, to see the lawyer and draw the blunt--very smart--
 top boots on--nosegay in his button-hole--broad-brimmed tile--green
 shawl--quite the gen’l’m’n. Goes through the archvay, thinking how he
 should inwest the money--up comes the touter, touches his hat--“Licence,
 Sir, licence?”--“What’s that?” says my father.--“Licence, Sir,” says
-he.--“What licence?” says my father.--“Marriage licence,” says the
+he.--“What licence?” says my father.--“[[Marriage]] licence,” says the
 touter.--“Dash my veskit,” says my father, “I never thought o’ that.”--
 “I think you wants one, Sir,” says the touter. My father pulls up, and
 thinks a bit--“No,” says he, “damme, I’m too old, b’sides, I’m a many
@@ -66,13 +66,13 @@ teller sat among dirty papers, and tin boxes, making believe he was
 busy. “Pray take a seat, vile I makes out the affidavit, Sir,” says the
 lawyer.--“Thank’ee, Sir,” says my father, and down he sat, and stared
 with all his eyes, and his mouth vide open, at the names on the boxes.
-“What’s your name, Sir,” says the lawyer.--“Tony Weller,” says my
+“What’s your name, Sir,” says the lawyer.--“[[Tony Weller]],” says my
 father.--“Parish?” says the lawyer. “Belle Savage,” says my father; for
 he stopped there wen he drove up, and he know’d nothing about parishes,
 he didn’t.--“And what’s the lady’s name?” says the lawyer. My father was
 struck all of a heap. “Blessed if I know,” says he.--“Not know!” says
 the lawyer.--“No more nor you do,” says my father; “can’t I put that in
-arterwards?”--“Impossible!” says the lawyer.--“Wery well,” says my
+arterwards?”--“Impossible!” says the lawyer.--“Wery [[Well|well]],” says my
 father, after he’d thought a moment, “put down Mrs. Clarke.”--“What
 Clarke?” says the lawyer, dipping his pen in the ink.--“Susan Clarke,
 Markis o’ Granby, Dorking,” says my father; “she’ll have me, if I ask. I
@@ -80,14 +80,14 @@ des-say--I never said nothing to her, but she’ll have me, I know.” The
 licence was made out, and she _did_ have him, and what’s more she’s got
 him now; and I never had any of the four hundred pound, worse luck. Beg
 your pardon, sir,’ said Sam, when he had concluded, ‘but wen I gets on
-this here grievance, I runs on like a new barrow with the wheel
+this here grievance, I runs on like a new barrow with the [[Wheel|wheel]]
 greased.’ Having said which, and having paused for an instant to see
 whether he was wanted for anything more, Sam left the room.
 
-‘Half-past nine--just the time--off at once;’ said the gentleman, whom
+‘Half-past nine--just the [[Time|time]]--off at once;’ said the gentleman, whom
 we need hardly introduce as Mr. Jingle.
 
-‘Time--for what?’ said the spinster aunt coquettishly.
+‘[[Time]]--for what?’ said the spinster aunt coquettishly.
 
 ‘Licence, dearest of angels--give notice at the church--call you mine,
 to-morrow’--said Mr. Jingle, and he squeezed the spinster aunt’s hand.
@@ -103,7 +103,7 @@ to-morrow’--said Mr. Jingle, and he squeezed the spinster aunt’s hand.
 
 ‘Run on--nothing to the hours, days, weeks, months, years, when we’re
 united--run on--they’ll fly on--bolt--mizzle--steam-engine--thousand-
-horse power--nothing to it.’
+[[Horse|horse]] power--nothing to it.’
 
 ‘Can’t--can’t we be married before to-morrow morning?’ inquired Rachael.
 
@@ -135,7 +135,7 @@ purpose to relate, that escaping the snares of the dragons in white
 aprons, who guard the entrance to that enchanted region, he reached the
 vicar-general’s office in safety and having procured a highly flattering
 address on parchment, from the Archbishop of Canterbury, to his ‘trusty
-and well-beloved Alfred Jingle and Rachael Wardle, greeting,’ he
+and [[Well|well]]-beloved [[Alfred Jingle]] and Rachael Wardle, greeting,’ he
 carefully deposited the mystic document in his pocket, and retraced his
 steps in triumph to the Borough.
 

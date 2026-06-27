@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 50 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ him, and soon took leave.
 
 
 
-You see Lawrence and I somehow could not manage to get on very well
+You see Lawrence and I somehow could not manage to get on very [[Well|well]]
 
 together. The fact is, I believe, we were both of us a little too
 
@@ -66,7 +66,7 @@ and now _I_ have called, and _you_ were out, which you generally are,
 
 or I would do myself the pleasure of calling more frequently; but being
 
-determined to see you this time, I have left my pony in the lane, and
+determined to see you this [[Time|time]], I have left my pony in the lane, and
 
 come over hedge and ditch to join you; for I am about to leave Woodford
 
@@ -94,7 +94,7 @@ have suppressed if he could.
 
 to F—— for the benefit of the sea air, and I shall go with them.” (F——
 
-was at that time a quiet but respectable watering-place: it is
+was at that [[Time|time]] a quiet but respectable watering-place: it is
 
 considerably more frequented now.)
 
@@ -108,13 +108,13 @@ would have undertaken to deliver it without any material objections, if
 
 I had had the sense to ask him, though of course he would not _offer_
 
-to do so, if I was content to let it alone. But I could not bring
+to do so, if I was content to let it [[Alone|alone]]. But I could not bring
 
 myself to make the request, and it was not till after he was gone, that
 
 I saw how fair an opportunity I had lost; and then, indeed, I deeply
 
-regretted my stupidity and my foolish pride, but it was now too late to
+regretted my stupidity and my foolish [[Pride|pride]], but it was now too late to
 
 remedy the evil.
 
@@ -128,7 +128,7 @@ unsatisfactory, dealing in generalities or in trifles that I cared
 
 nothing about, or replete with fancies and reflections equally
 
-unwelcome to me at the time, saying next to nothing about his sister,
+unwelcome to me at the [[Time|time]], saying next to nothing about his sister,
 
 and little more about himself. I would wait, however, till he came
 
@@ -138,9 +138,9 @@ events, I would not write to her now, while she was with him and her
 
 aunt, who doubtless would be still more hostile to my presumptuous
 
-aspirations than himself. When she was returned to the silence and
+aspirations than himself. When she was returned to the [[Silence|silence]] and
 
-solitude of her own home, it would be my fittest opportunity.
+[[Solitude|solitude]] of her own [[Home|home]], it would be my fittest opportunity.
 
 
 
@@ -148,7 +148,7 @@ When Lawrence came, however, he was as reserved as ever on the subject
 
 of my keen anxiety. He told me that his sister had derived considerable
 
-benefit from her stay at F—— that her son was quite well, and—alas!
+benefit from her stay at F—— that her son was quite [[Well|well]], and—alas!
 
 that both of them were gone, with Mrs. Maxwell, back to Staningley, and
 
@@ -156,11 +156,11 @@ there they stayed at least three months. But instead of boring you with
 
 my chagrin, my expectations and disappointments, my fluctuations of
 
-dull despondency and flickering hope, my varying resolutions, now to
+dull despondency and flickering [[Hope|hope]], my varying resolutions, now to
 
 drop it, and now to persevere—now to make a bold push, and now to let
 
-things pass and patiently abide my time,—I will employ myself in
+things pass and patiently abide my [[Time|time]],—I will employ myself in
 
 settling the business of one or two of the characters introduced in the
 
@@ -170,7 +170,7 @@ again.
 
 
 
-Some time before Mr. Huntingdon’s death Lady Lowborough eloped with
+Some [[Time|time]] before Mr. Huntingdon’s [[Death|death]] Lady Lowborough eloped with
 
 another gallant to the Continent, where, having lived a while in
 
@@ -190,13 +190,13 @@ sight of her long years ago, and would as thoroughly forget her if they
 
 could. Her husband, however, upon this second misdemeanour, immediately
 
-sought and obtained a divorce, and, not long after, married again. It
+sought and obtained a [[divorce]], and, not long after, married again. It
 
-was well he did, for Lord Lowborough, morose and moody as he seemed,
+was [[Well|well]] he did, for [[Lord Lowborough]], morose and moody as he seemed,
 
 was not the man for a bachelor’s life. No public interests, no
 
-ambitious projects, or active pursuits,—or ties of friendship even (if
+ambitious projects, or active pursuits,—or ties of [[Friendship|friendship]] even (if
 
 he had had any friends), could compensate to him for the absence of
 
@@ -206,7 +206,7 @@ it is true, but they too painfully reminded him of their mother, and
 
 the unfortunate little Annabella was a source of perpetual bitterness
 
-to his soul. He had obliged himself to treat her with paternal
+to his [[Soul|soul]]. He had obliged himself to treat her with paternal
 
 kindness: he had forced himself not to hate her, and even, perhaps, to
 
@@ -214,14 +214,14 @@ feel some degree of kindly regard for her, at last, in return for her
 
 artless and unsuspecting attachment to himself; but the bitterness of
 
-his self-condemnation for his inward feelings towards that innocent
+his [[Self|self]]-condemnation for his inward feelings towards that [[Innocent|innocent]]
 
 being, his constant struggles to subdue the evil promptings of his
 
-nature (for it was not a generous one), though partly guessed at by
+[[Nature|nature]] (for it was not a generous one), though partly guessed at by
 
-those who knew him, could be known to God and his own heart alone;—so
+those who knew him, could be known to God and his own heart [[Alone|alone]];—so
 
-also was the hardness of his conflicts with the temptation to return to
+also was the hardness of his conflicts with the [[Temptation|temptation]] to return to
 
 the vice of his youth, and seek oblivion for past calamities, and

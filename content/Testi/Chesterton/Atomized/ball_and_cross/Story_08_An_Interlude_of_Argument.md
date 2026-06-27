@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — An Interlude of Argument"
+title: "ball and [[Cross|cross]] — An Interlude of Argument"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -19,14 +19,14 @@ VIII.  AN INTERLUDE OF ARGUMENT
 Morning broke in bitter silver along the grey and level plain;
 and almost as it did so Turnbull and MacIan came out of a low,
 scrubby wood on to the empty and desolate flats.  They had
-walked all night.
+walked all [[Night|night]].
 
-They had walked all night and talked all night also, and if the subject
+They had walked all [[Night|night]] and talked all [[Night|night]] also, and if the subject
 had been capable of being exhausted they would have exhausted it.
 Their long and changing argument had taken them through districts
 and landscapes equally changing.  They had discussed Haeckel upon
-hills so high and steep that in spite of the coldness of the night
-it seemed as if the stars might burn them.  They had explained
+hills so high and steep that in spite of the coldness of the [[Night|night]]
+it seemed as if the [[Stars|stars]] might burn them.  They had explained
 and re-explained the Massacre of St. Bartholomew in little white
 lanes walled in with standing corn as with walls of gold.
 They had talked about Mr. Kensit in dim and twinkling pine woods,
@@ -47,43 +47,43 @@ of her creed; and he threw himself into replying to them with a
 hot intellectual enjoyment.
 
 "I begin to understand one or two of your dogmas, Mr. Turnbull,"
-he had said emphatically as they ploughed heavily up a wooded hill.
+he had said emphatically as they ploughed heavily up a wooded [[Hill|hill]].
 "And every one that I understand I deny.  Take any one of them you like.
 You hold that your heretics and sceptics have helped the world forward
 and handed on a lamp of progress.  I deny it.  Nothing is plainer
-from real history than that each of your heretics invented a complete
+from real [[history]] than that each of your heretics invented a complete
 cosmos of his own which the next heretic smashed entirely to pieces.
 Who knows now exactly what Nestorius taught?  Who cares?
 There are only two things that we know for certain about it.
 The first is that Nestorius, as a heretic, taught something quite
 opposite to the teaching of Arius, the heretic who came before him,
-and something quite useless to James Turnbull, the heretic
+and something quite useless to [[James Turnbull]], the heretic
 who comes after.  I defy you to go back to the Free-thinkers
 of the past and find any habitation for yourself at all.
 I defy you to read Godwin or Shelley or the deists of the eighteenth
-century of the nature-worshipping humanists of the Renaissance,
+century of the [[Nature|nature]]-worshipping humanists of the [[Renaissance]],
 without discovering that you differ from them twice as much as you
 differ from the Pope.  You are a nineteenth-century sceptic,
-and you are always telling me that I ignore the cruelty of nature.
+and you are always telling me that I ignore the cruelty of [[Nature|nature]].
 If you had been an eighteenth-century sceptic you would have
-told me that I ignore the kindness and benevolence of nature.
+told me that I ignore the kindness and benevolence of [[Nature|nature]].
 You are an atheist, and you praise the deists of the eighteenth century.
 Read them instead of praising them, and you will find that their whole
 universe stands or falls with the deity.  You are a materialist,
-and you think Bruno a scientific hero.  See what he said and you
+and you think Bruno a scientific [[Hero|hero]].  See what he said and you
 will think him an insane mystic.  No, the great Free-thinker, with his
-genuine ability and honesty, does not in practice destroy Christianity.
+genuine ability and honesty, does not in practice destroy [[Christianity]].
 What he does destroy is the Free-thinker who went before.
 Free-thought may be suggestive, it may be inspiriting, it may have as
 much as you please of the merits that come from vivacity and variety.
 But there is one thing Free-thought can never be by any possibility--
 Free-thought can never be progressive.  It can never be progressive
-because it will accept nothing from the past; it begins every time again
-from the beginning; and it goes every time in a different direction.
+because it will accept nothing from the past; it begins every [[Time|time]] again
+from the beginning; and it goes every [[Time|time]] in a different direction.
 All the rational philosophers have gone along different roads,
 so it is impossible to say which has gone farthest.  Who can discuss
 whether Emerson was a better optimist than Schopenhauer was pessimist?
-It is like asking if this corn is as yellow as that hill is steep.
+It is like asking if this corn is as yellow as that [[Hill|hill]] is steep.
 No; there are only two things that really progress; and they both
 accept accumulations of authority.  They may be progressing uphill
 and down; they may be growing steadily better or steadily worse;
@@ -91,10 +91,10 @@ but they have steadily increased in certain definable matters;
 they have steadily advanced in a certain definable direction;
 they are the only two things, it seems, that ever _can_ progress.
 The first is strictly physical science.  The second is
-the Catholic Church."
+the [[Catholic Church]]."
 
-"Physical science and the Catholic Church!" said Turnbull sarcastically;
-"and no doubt the first owes a great deal to the second."
+"Physical science and the [[Catholic Church]]!" said Turnbull sarcastically;
+"and no [[Doubt|doubt]] the first owes a great deal to the second."
 
 "If you pressed that point I might reply that it was very probable,"
 answered MacIan calmly.  "I often fancy that your historical
@@ -103,7 +103,7 @@ I should not be surprised if your vague notions of the Church
 as the persecutor of science was a generalization from Galileo.
 I should not be at all surprised if, when you counted the
 scientific investigations and discoveries since the fall of Rome,
-you found that a great mass of them had been made by monks.
+you found that a great mass of them had been made by [[Monks|monks]].
 But the matter is irrelevant to my meaning.  I say that if you
 want an example of anything which has progressed in the moral
 world by the same method as science in the material world,
@@ -118,55 +118,55 @@ Still I can see the electric light.  But I cannot see the supreme
 virtue which is the result of all your theologies and sacraments."
 
 "Catholic virtue is often invisible because it is the normal,"
-answered MacIan.  "Christianity is always out of fashion
+answered MacIan.  "[[Christianity]] is always out of fashion
 because it is always sane; and all fashions are mild insanities.
-When Italy is mad on art the Church seems too Puritanical;
-when England is mad on Puritanism the Church seems too artistic.
+When [[Italy]] is mad on art the Church seems too Puritanical;
+when England is mad on [[Puritanism]] the Church seems too artistic.
 When you quarrel with us now you class us with kingship and despotism;
 but when you quarrelled with us first it was because we would
-not accept the divine despotism of Henry VIII.  The Church always
+not accept the divine despotism of [[Henry VIII]].  The Church always
 seems to be behind the times, when it is really beyond the times;
-it is waiting till the last fad shall have seen its last summer.
+it is waiting till the last fad shall have seen its last [[Summer|summer]].
 It keeps the key of a permanent virtue."
 
 "Oh, I have heard all that!" said Turnbull with genial contempt.
-"I have heard that Christianity keeps the key of virtue, and that
+"I have heard that [[Christianity]] keeps the key of virtue, and that
 if you read Tom Paine you will cut your throat at Monte Carlo.
 It is such rubbish that I am not even angry at it.  You say
-that Christianity is the prop of morals; but what more do you do?
-When a doctor attends you and could poison you with a pinch
+that [[Christianity]] is the prop of morals; but what more do you do?
+When a doctor attends you and could [[Poison|poison]] you with a pinch
 of salt, do you ask whether he is a Christian?  You ask whether
 he is a gentleman, whether he is an M.D.--anything but that.
 When a soldier enlists to die for his country or disgrace it,
 do you ask whether he is a Christian?  You are more likely
-to ask whether he is Oxford or Cambridge at the boat race.
+to ask whether he is [[Oxford]] or Cambridge at the boat race.
 If you think your creed essential to morals why do you not make it
 a test for these things?"
 
 "We once did make it a test for these things," said MacIan smiling,
-"and then you told us that we were imposing by force a faith unsupported
+"and then you told us that we were imposing by force a [[Faith|faith]] unsupported
 by argument.  It seems rather hard that having first been told
 that our creed must be false because we did use tests, we should now
 be told that it must be false because we don't. But I notice that
 most anti-Christian arguments are in the same inconsistent style."
 
-"That is all very well as a debating-club answer,"
+"That is all very [[Well|well]] as a debating-club answer,"
 replied Turnbull good-humouredly, "but the question still remains:
 Why don't you confine yourself more to Christians if Christians
 are the only really good men?"
 
 "Who talked of such folly?" asked MacIan disdainfully.  "Do you suppose
-that the Catholic Church ever held that Christians were the only
+that the [[Catholic Church]] ever held that Christians were the only
 good men?  Why, the Catholics of the Catholic Middle Ages talked
 about the virtues of all the virtuous Pagans until humanity was sick
 of the subject.  No, if you really want to know what we mean when we
-say that Christianity has a special power of virtue, I will tell you.
+say that [[Christianity]] has a special power of virtue, I will tell you.
 The Church is the only thing on earth that can perpetuate a type
 of virtue and make it something more than a fashion.  The thing is
 so plain and historical that I hardly think you will ever deny it.
 You cannot deny that it is perfectly possible that tomorrow morning,
-in Ireland or in Italy, there might appear a man not only as good
-but good in exactly the same way as St. Francis of Assisi.  Very well,
+in Ireland or in [[Italy]], there might appear a man not only as good
+but good in exactly the same way as St. Francis of Assisi.  Very [[Well|well]],
 now take the other types of human virtue; many of them splendid.
 The English gentleman of Elizabeth was chivalrous and idealistic.
 But can you stand still here in this meadow and _be_ an English gentleman
@@ -174,12 +174,12 @@ of Elizabeth?  The austere republican of the eighteenth century,
 with his stern patriotism and his simple life, was a fine fellow.
 But have you ever seen him? have you ever seen an austere republican?
 Only a hundred years have passed and that volcano of revolutionary
-truth and valour is as cold as the mountains of the moon.
+[[Truth|truth]] and valour is as cold as the [[Mountains|mountains]] of the [[Moon|moon]].
 And so it is and so it will be with the ethics which are
 buzzing down Fleet Street at this instant as I speak.
-What phrase would inspire the London clerk or workman just now?
+What phrase would inspire the [[London]] clerk or workman just now?
 Perhaps that he is a son of the British Empire on which the sun
-never sets; perhaps that he is a prop of his Trades Union,
+never sets; perhaps that he is a prop of his Trades [[Union]],
 or a class-conscious proletarian something or other;
 perhaps merely that he is a gentleman when he obviously is not.
 Those names and notions are all honourable; but how long will they last?
@@ -202,16 +202,16 @@ however little it can practise them; and oddly enough it has admired
 most those of them that the modern world most sharply disputes.
 You complain of Catholicism for setting up an ideal of virginity;
 it did nothing of the kind.  The whole human race set up an ideal
-of virginity; the Greeks in Athene, the Romans in the Vestal fire,
+of virginity; the Greeks in Athene, the Romans in the Vestal [[Fire|fire]],
 set up an ideal of virginity.  What then is your real quarrel
 with Catholicism?  Your quarrel can only be, your quarrel really
 only is, that Catholicism has _achieved_ an ideal of virginity;
 that it is no longer a mere piece of floating poetry.  But if you,
 and a few feverish men, in top hats, running about in a street
-in London, choose to differ as to the ideal itself, not only from
+in [[London]], choose to differ as to the ideal itself, not only from
 the Church, but from the Parthenon whose name means virginity,
 from the Roman Empire which went outwards from the virgin flame,
-from the whole legend and tradition of Europe, from the lion
+from the whole legend and tradition of Europe, from the [[Lion|lion]]
 who will not touch virgins, from the unicorn who respects them,
 and who make up together the bearers of your own national shield,
 from the most living and lawless of your own poets, from Massinger,
@@ -235,7 +235,7 @@ world erected many such atmospheres.  We have, for instance,
 a new and imaginative appreciation of children."
 
 "Quite so," replied MacIan with a singular smile.  "It has been
-very well put by one of the brightest of your young authors,
+very [[Well|well]] put by one of the brightest of your young authors,
 who said:  'Unless you become as little children ye shall in no
 wise enter the kingdom of heaven.'  But you are quite right;
 there is a modern worship of children.  And what, I ask you,
@@ -247,7 +247,7 @@ you point to as the goal of your escape is only the thing again.
 Am I wrong in saying that these things seem to be eternal?"
 
 And it was with these words that they came in sight of the great plains.
-They went a little way in silence, and then James Turnbull
+They went a little way in [[Silence|silence]], and then [[James Turnbull]]
 said suddenly, "But I _cannot_ believe in the thing."
 MacIan answered nothing to the speech; perhaps it is unanswerable.
 And indeed they scarcely spoke another word to each other all that day.

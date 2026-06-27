@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 14 (part 5)"
+title: "[[Villette]] — Chapter 14 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -21,15 +21,15 @@ A moment I hesitated.
 
 “Encore!” said he sternly. “Et point de grimaces! A bas la timidité!”
 
-Again I went through the part, but not half so well as I had spoken it
-alone.
+Again I went through the part, but not half so [[Well|well]] as I had spoken it
+[[Alone|alone]].
 
 “Enfin, elle sait,” said he, half dissatisfied, “and one cannot be
 fastidious or exacting under the circumstances.” Then he added, “You
 may yet have twenty minutes for preparation: au revoir!” And he was
 going.
 
-“Monsieur,” I called out, taking courage.
+“Monsieur,” I called out, taking [[Courage|courage]].
 
 “Eh bien! Qu’est-ce que c’est, Mademoiselle?”
 
@@ -52,16 +52,16 @@ _petit pâté à la crême_ I cannot tell; but he went out and procured me
 one from some quarter. With considerable willingness I ate and drank,
 keeping the _petit pâté_ till the last, as a _bonne bouche_. M. Paul
 superintended my repast, and almost forced upon me more than I could
-swallow.
+[[Swallow|swallow]].
 
 “A la bonne heure,” he cried, when I signified that I really could take
 no more, and, with uplifted hands, implored to be spared the additional
 roll on which he had just spread butter. “You will set me down as a
-species of tyrant and Bluebeard, starving women in a garret; whereas,
-after all, I am no such thing. Now, Mademoiselle, do you feel courage
+species of [[Tyrant|tyrant]] and Bluebeard, starving women in a garret; whereas,
+after all, I am no such thing. Now, Mademoiselle, do you feel [[Courage|courage]]
 and strength to appear?”
 
-I said, I thought I did; though, in truth, I was perfectly confused,
+I said, I thought I did; though, in [[Truth|truth]], I was perfectly confused,
 and could hardly tell how I felt: but this little man was of the order
 of beings who must not be opposed, unless you possessed an all-dominant
 force sufficient to crush him at once.
@@ -71,12 +71,12 @@ force sufficient to crush him at once.
 I gave him mine, and he set off with a rapid walk, which obliged me to
 run at his side in order to keep pace. In the carré he stopped a
 moment: it was lit with large lamps; the wide doors of the classes were
-open, and so were the equally wide garden-doors; orange-trees in tubs,
-and tall flowers in pots, ornamented these portals on each side; groups
+open, and so were the equally wide [[Garden|garden]]-doors; orange-trees in tubs,
+and tall [[Flowers|flowers]] in pots, ornamented these portals on each side; groups
 of ladies and gentlemen in evening-dress stood and walked amongst the
-flowers. Within, the long vista of the school-rooms presented a
+[[Flowers|flowers]]. Within, the long vista of the school-rooms presented a
 thronging, undulating, murmuring, waving, streaming multitude, all
-rose, and blue, and half translucent white. There were lustres burning
+[[Rose|rose]], and blue, and half translucent white. There were lustres burning
 overhead; far off there was a stage, a solemn green curtain, a row of
 footlights.
 
@@ -90,31 +90,31 @@ pains.
 we to walk through that crowd?”
 
 “By no means: I manage matters better: we pass through the
-garden—here.”
+[[Garden|garden]]—here.”
 
-In an instant we were out of doors: the cool, calm night revived me
+In an instant we were out of doors: the cool, calm [[Night|night]] revived me
 somewhat. It was moonless, but the reflex from the many glowing windows
-lit the court brightly, and even the alleys—dimly. Heaven was
+lit the [[Court|court]] brightly, and even the alleys—dimly. Heaven was
 cloudless, and grand with the quiver of its living fires. How soft are
 the nights of the Continent! How bland, balmy, safe! No sea-fog; no
-chilling damp: mistless as noon, and fresh as morning.
+chilling damp: mistless as [[Noon|noon]], and fresh as morning.
 
-Having crossed court and garden, we reached the glass door of the first
-classe. It stood open, like all other doors that night; we passed, and
+Having crossed [[Court|court]] and [[Garden|garden]], we reached the glass door of the first
+classe. It stood open, like all other doors that [[Night|night]]; we passed, and
 then I was ushered into a small cabinet, dividing the first classe from
 the grand salle. This cabinet dazzled me, it was so full of light: it
 deafened me, it was clamorous with voices: it stifled me, it was so
 hot, choking, thronged.
 
-“De l’ordre! Du silence!” cried M. Paul. “Is this chaos?”, he demanded;
+“De l’ordre! Du [[Silence|silence]]!” cried M. Paul. “Is this chaos?”, he demanded;
 and there was a hush. With a dozen words, and as many gestures, he
 turned out half the persons present, and obliged the remnant to fall
 into rank. Those left were all in costume: they were the performers,
 and this was the green-room. M. Paul introduced me. All stared and some
 tittered. It was a surprise: they had not expected the Englishwoman
-would play in a _vaudeville_. Ginevra Fanshawe, beautifully dressed for
+would play in a _vaudeville_. [[Ginevra Fanshawe]], beautifully dressed for
 her part, and looking fascinatingly pretty, turned on me a pair of eyes
-as round as beads. In the highest spirit, unperturbed by fear or
+as round as beads. In the highest spirit, unperturbed by [[Fear|fear]] or
 bashfulness, delighted indeed at the thought of shining off before
 hundreds—my entrance seemed to transfix her with amazement in the midst
 of her joy. She would have exclaimed, but M. Paul held her and all the
@@ -129,11 +129,11 @@ forwards; adding with officiousness, “I will dress her myself.”
 
 To be dressed like a man did not please, and would not suit me. I had
 consented to take a man’s name and part; as to his dress—_halte là!_
-No. I would keep my own dress, come what might. M. Paul might storm,
+No. I would keep my own dress, come what might. M. Paul might [[Storm|storm]],
 might rage: I would keep my own dress. I said so, with a voice as
 resolute in intent, as it was low, and perhaps unsteady in utterance.
 
-He did not immediately storm or rage, as I fully thought he would he
+He did not immediately [[Storm|storm]] or rage, as I fully thought he would he
 stood silent. But Zélie again interposed.
 
 “She will make a capital _petit-mâitre_. Here are the garments, all—all

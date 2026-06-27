@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 15 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 15 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,22 +17,22 @@ tags:
 Chapter 15
 
 
-At noon next day, John Willet’s guest sat lingering over his breakfast
-in his own home, surrounded by a variety of comforts, which left the
+At [[Noon|noon]] next day, John Willet’s guest sat lingering over his breakfast
+in his own [[Home|home]], surrounded by a variety of comforts, which left the
 Maypole’s highest flight and utmost stretch of accommodation at an
 infinite distance behind, and suggested comparisons very much to the
 disadvantage and disfavour of that venerable tavern.
 
-In the broad old-fashioned window-seat--as capacious as many modern
+In the broad old-fashioned [[Window|window]]-seat--as capacious as many modern
 sofas, and cushioned to serve the purpose of a luxurious settee--in the
-broad old-fashioned window-seat of a roomy chamber, Mr Chester lounged,
-very much at his ease, over a well-furnished breakfast-table. He had
+broad old-fashioned [[Window|window]]-seat of a roomy chamber, Mr Chester lounged,
+very much at his ease, over a [[Well|well]]-furnished breakfast-table. He had
 exchanged his riding-coat for a handsome morning-gown, his boots for
 slippers; had been at great pains to atone for the having been obliged
-to make his toilet when he rose without the aid of dressing-case and
+to make his toilet when he [[Rose|rose]] without the aid of dressing-case and
 tiring equipage; and, having gradually forgotten through these means the
-discomforts of an indifferent night and an early ride, was in a state of
-perfect complacency, indolence, and satisfaction.
+discomforts of an indifferent [[Night|night]] and an early ride, was in a state of
+perfect complacency, [[Indolence|indolence]], and satisfaction.
 
 The situation in which he found himself, indeed, was particularly
 favourable to the growth of these feelings; for, not to mention the lazy
@@ -46,15 +46,15 @@ for basking in the sun, or resting idly in the shade. There is yet a
 drowsiness in its courts, and a dreamy dulness in its trees and gardens;
 those who pace its lanes and squares may yet hear the echoes of their
 footsteps on the sounding stones, and read upon its gates, in passing
-from the tumult of the Strand or Fleet Street, ‘Who enters here leaves
-noise behind.’ There is still the plash of falling water in fair
-Fountain Court, and there are yet nooks and corners where dun-haunted
+from the tumult of the Strand or Fleet Street, ‘Who enters here [[Leaves|leaves]]
+noise behind.’ There is still the plash of falling [[Water|water]] in fair
+Fountain [[Court]], and there are yet nooks and corners where dun-haunted
 students may look down from their dusty garrets, on a vagrant ray of
 sunlight patching the shade of the tall houses, and seldom troubled
 to reflect a passing stranger’s form. There is yet, in the Temple,
 something of a clerkly monkish atmosphere, which public offices of law
 have not disturbed, and even legal firms have failed to scare away. In
-summer time, its pumps suggest to thirsty idlers, springs cooler, and
+[[Summer|summer]] [[Time|time]], its pumps suggest to thirsty idlers, springs cooler, and
 more sparkling, and deeper than other wells; and as they trace the
 spillings of full pitchers on the heated ground, they snuff the
 freshness, and, sighing, cast sad looks towards the Thames, and think of
@@ -65,23 +65,23 @@ in front by ancient trees, and looking, at the back, upon the Temple
 Gardens--that this, our idler, lounged; now taking up again the paper
 he had laid down a hundred times; now trifling with the fragments of
 his meal; now pulling forth his golden toothpick, and glancing leisurely
-about the room, or out at window into the trim garden walks, where a few
-early loiterers were already pacing to and fro. Here a pair of lovers
+about the room, or out at [[Window|window]] into the trim [[Garden|garden]] walks, where a few
+early loiterers were already pacing to and fro. Here a pair of [[lovers]]
 met to quarrel and make up; there a dark-eyed nursery-maid had better
 eyes for Templars than her charge; on this hand an ancient spinster,
 with her lapdog in a string, regarded both enormities with scornful
 sidelong looks; on that a weazen old gentleman, ogling the nursery-maid,
 looked with like scorn upon the spinster, and wondered she didn’t know
-she was no longer young. Apart from all these, on the river’s margin two
+she was no longer young. Apart from all these, on the [[River|river]]’s margin two
 or three couple of business-talkers walked slowly up and down in earnest
-conversation; and one young man sat thoughtfully on a bench, alone.
+conversation; and one young man sat thoughtfully on a bench, [[Alone|alone]].
 
 ‘Ned is amazingly patient!’ said Mr Chester, glancing at this last-named
 person as he set down his teacup and plied the golden toothpick,
 ‘immensely patient! He was sitting yonder when I began to dress, and has
 scarcely changed his posture since. A most eccentric dog!’
 
-As he spoke, the figure rose, and came towards him with a rapid pace.
+As he spoke, the figure [[Rose|rose]], and came towards him with a rapid pace.
 
 ‘Really, as if he had heard me,’ said the father, resuming his newspaper
 with a yawn. ‘Dear Ned!’
@@ -99,8 +99,8 @@ you breakfasted?’
 ‘What a very early dog!’ cried his father, contemplating him from behind
 the toothpick, with a languid smile.
 
-‘The truth is,’ said Edward, bringing a chair forward, and seating
-himself near the table, ‘that I slept but ill last night, and was glad
+‘The [[Truth|truth]] is,’ said Edward, bringing a chair forward, and seating
+himself near the table, ‘that I slept but ill last [[Night|night]], and was glad
 to rise. The cause of my uneasiness cannot but be known to you, sir; and
 it is upon that I wish to speak.’
 
@@ -113,20 +113,20 @@ my constitution--don’t be prosy, Ned.’
 legs, ‘or you certainly will not. You are going to tell me’--
 
 ‘Plainly this, then,’ said the son, with an air of great concern, ‘that
-I know where you were last night--from being on the spot, indeed--and
+I know where you were last [[Night|night]]--from being on the spot, indeed--and
 whom you saw, and what your purpose was.’
 
 ‘You don’t say so!’ cried his father. ‘I am delighted to hear it. It
 saves us the worry, and terrible wear and tear of a long explanation,
-and is a great relief for both. At the very house! Why didn’t you come
+and is a great relief for both. At the very [[house]]! Why didn’t you come
 up? I should have been charmed to see you.’
 
-‘I knew that what I had to say would be better said after a night’s
+‘I knew that what I had to say would be better said after a [[Night|night]]’s
 reflection, when both of us were cool,’ returned the son.
 
-‘’Fore Gad, Ned,’ rejoined the father, ‘I was cool enough last night.
+‘’Fore Gad, Ned,’ rejoined the father, ‘I was cool enough last [[Night|night]].
 That detestable Maypole! By some infernal contrivance of the builder,
-it holds the wind, and keeps it fresh. You remember the sharp east wind
-that blew so hard five weeks ago? I give you my honour it was rampant
-in that old house last night, though out of doors there was a dead calm.
+it holds the [[Wind|wind]], and keeps it fresh. You remember the sharp east [[Wind|wind]]
+that blew so hard five weeks ago? I give you my [[Honour|honour]] it was rampant
+in that old [[house]] last [[Night|night]], though out of doors there was a dead calm.
 But you were saying’--

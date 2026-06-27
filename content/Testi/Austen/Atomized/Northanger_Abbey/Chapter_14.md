@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 13"
+title: "[[Northanger Abbey]] — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,19 +20,19 @@ CHAPTER 13
 
 
 
-Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday have now
+Monday, Tuesday, Wednesday, [[thursday|Thursday]], Friday, and Saturday have now
 
 passed in review before the reader; the events of each day, its hopes
 
 and fears, mortifications and pleasures, have been separately stated,
 
-and the pangs of Sunday only now remain to be described, and close the
+and the pangs of [[Sunday]] only now remain to be described, and close the
 
 week. The Clifton scheme had been deferred, not relinquished, and on
 
 the afternoon’s Crescent of this day, it was brought forward again. In
 
-a private consultation between Isabella and James, the former of whom
+a private consultation between [[Isabella]] and James, the former of whom
 
 had particularly set her heart upon going, and the latter no less
 
@@ -40,9 +40,9 @@ anxiously placed his upon pleasing her, it was agreed that, provided
 
 the weather were fair, the party should take place on the following
 
-morning; and they were to set off very early, in order to be at home in
+morning; and they were to set off very early, in order to be at [[Home|home]] in
 
-good time. The affair thus determined, and Thorpe’s approbation
+good [[Time|time]]. The affair thus determined, and Thorpe’s approbation
 
 secured, Catherine only remained to be apprised of it. She had left
 
@@ -50,9 +50,9 @@ them for a few minutes to speak to Miss Tilney. In that interval the
 
 plan was completed, and as soon as she came again, her agreement was
 
-demanded; but instead of the gay acquiescence expected by Isabella,
+demanded; but instead of the gay acquiescence expected by [[Isabella]],
 
-Catherine looked grave, was very sorry, but could not go. The
+Catherine looked [[Grave|grave]], was very sorry, but could not go. The
 
 engagement which ought to have kept her from joining in the former
 
@@ -70,7 +70,7 @@ would not go without her, it would be nothing to put off a mere walk
 
 for one day longer, and they would not hear of a refusal. Catherine was
 
-distressed, but not subdued. “Do not urge me, Isabella. I am engaged to
+distressed, but not subdued. “Do not urge me, [[Isabella]]. I am engaged to
 
 Miss Tilney. I cannot go.” This availed nothing. The same arguments
 
@@ -86,7 +86,7 @@ the walk till Tuesday.”
 
 “No, it would not be easy. I could not do it. There has been no prior
 
-engagement.” But Isabella became only more and more urgent, calling on
+engagement.” But [[Isabella]] became only more and more urgent, calling on
 
 her in the most affectionate manner, addressing her by the most
 
@@ -102,7 +102,7 @@ in vain; Catherine felt herself to be in the right, and though pained
 
 by such tender, such flattering supplication, could not allow it to
 
-influence her. Isabella then tried another method. She reproached her
+influence her. [[Isabella]] then tried another method. She reproached her
 
 with having more affection for Miss Tilney, though she had known her so
 
@@ -112,15 +112,15 @@ cold and indifferent, in short, towards herself. “I cannot help being
 
 jealous, Catherine, when I see myself slighted for strangers, I, who
 
-love you so excessively! when once my affections are placed, it is not
+[[Love|love]] you so excessively! when once my affections are placed, it is not
 
 in the power of anything to change them. But I believe my feelings are
 
 stronger than anybody’s; I am sure they are too strong for my own
 
-peace; and to see myself supplanted in your friendship by strangers
+peace; and to see myself supplanted in your [[Friendship|friendship]] by strangers
 
-does cut me to the quick, I own. These Tilneys seem to swallow up
+does cut me to the quick, I own. These Tilneys seem to [[Swallow|swallow]] up
 
 everything else.”
 
@@ -130,11 +130,11 @@ Catherine thought this reproach equally strange and unkind. Was it the
 
 part of a friend thus to expose her feelings to the notice of others?
 
-Isabella appeared to her ungenerous and selfish, regardless of
+[[Isabella]] appeared to her ungenerous and selfish, regardless of
 
 everything but her own gratification. These painful ideas crossed her
 
-mind, though she said nothing. Isabella, in the meanwhile, had applied
+mind, though she said nothing. [[Isabella]], in the meanwhile, had applied
 
 her handkerchief to her eyes; and Morland, miserable at such a sight,
 
@@ -146,7 +146,7 @@ friend—I shall think you quite unkind, if you still refuse.”
 
 
 
-This was the first time of her brother’s openly siding against her, and
+This was the first [[Time|time]] of her brother’s openly siding against her, and
 
 anxious to avoid his displeasure, she proposed a compromise. If they
 
@@ -160,9 +160,9 @@ answer; “that could not be, for Thorpe did not know that he might not
 
 go to town on Tuesday.” Catherine was sorry, but could do no more; and
 
-a short silence ensued, which was broken by Isabella, who in a voice of
+a short [[Silence|silence]] ensued, which was broken by [[Isabella]], who in a voice of
 
-cold resentment said, “Very well, then there is an end of the party. If
+cold resentment said, “Very [[Well|well]], then there is an end of the party. If
 
 Catherine does not go, I cannot. I cannot be the only woman. I would
 
@@ -182,7 +182,7 @@ either of them would like to go.”
 
 “Thank ye,” cried Thorpe, “but I did not come to Bath to drive my
 
-sisters about, and look like a fool. No, if you do not go, d—— me if I
+sisters about, and look like a [[Fool|fool]]. No, if you do not go, d—— me if I
 
 do. I only go for the sake of driving you.”
 
@@ -200,7 +200,7 @@ uncomfortable manner to poor Catherine; sometimes not a word was said,
 
 sometimes she was again attacked with supplications or reproaches, and
 
-her arm was still linked within Isabella’s, though their hearts were at
+her arm was still linked within [[Isabella]]’s, though their hearts were at
 
 war. At one moment she was softened, at another irritated; always
 
@@ -216,27 +216,27 @@ kindest, best-tempered of my sisters.”
 
 
 
-“I hope I am not less so now,” she replied, very feelingly; “but indeed
+“I [[Hope|hope]] I am not less so now,” she replied, very feelingly; “but indeed
 
 I cannot go. If I am wrong, I am doing what I believe to be right.”
 
 
 
-“I suspect,” said Isabella, in a low voice, “there is no great
+“I suspect,” said [[Isabella]], in a low voice, “there is no great
 
 struggle.”
 
 
 
-Catherine’s heart swelled; she drew away her arm, and Isabella made no
+Catherine’s heart swelled; she drew away her arm, and [[Isabella]] made no
 
 opposition. Thus passed a long ten minutes, till they were again joined
 
-by Thorpe, who, coming to them with a gayer look, said, “Well, I have
+by Thorpe, who, coming to them with a gayer look, said, “[[Well]], I have
 
 settled the matter, and now we may all go to-morrow with a safe
 
-conscience. I have been to Miss Tilney, and made your excuses.”
+[[Conscience|conscience]]. I have been to Miss Tilney, and made your excuses.”
 
 
 
@@ -244,13 +244,13 @@ conscience. I have been to Miss Tilney, and made your excuses.”
 
 
 
-“I have, upon my soul. Left her this moment. Told her you had sent me
+“I have, upon my [[Soul|soul]]. Left her this moment. Told her you had sent me
 
 to say that, having just recollected a prior engagement of going to
 
 Clifton with us to-morrow, you could not have the pleasure of walking
 
-with her till Tuesday. She said very well, Tuesday was just as
+with her till Tuesday. She said very [[Well|well]], Tuesday was just as
 
 convenient to her; so there is an end of all our difficulties. A pretty
 
@@ -258,7 +258,7 @@ good thought of mine—hey?”
 
 
 
-Isabella’s countenance was once more all smiles and good humour, and
+[[Isabella]]’s countenance was once more all smiles and good [[Humour|humour]], and
 
 James too looked happy again.
 
@@ -278,13 +278,13 @@ run after Miss Tilney directly and set her right.”
 
 
 
-Isabella, however, caught hold of one hand, Thorpe of the other, and
+[[Isabella]], however, caught hold of one hand, Thorpe of the other, and
 
 remonstrances poured in from all three. Even James was quite angry.
 
 When everything was settled, when Miss Tilney herself said that Tuesday
 
-would suit her as well, it was quite ridiculous, quite absurd, to make
+would suit her as [[Well|well]], it was quite ridiculous, quite absurd, to make
 
 any further objection.
 
@@ -300,7 +300,7 @@ that Mr. Thorpe has—He may be mistaken again perhaps; he led me into
 
 one act of rudeness by his mistake on Friday. Let me go, Mr. Thorpe;
 
-Isabella, do not hold me.”
+[[Isabella]], do not hold me.”
 
 
 
@@ -308,7 +308,7 @@ Thorpe told her it would be in vain to go after the Tilneys; they were
 
 turning the corner into Brock Street, when he had overtaken them, and
 
-were at home by this time.
+were at [[Home|home]] by this [[Time|time]].
 
 
 
@@ -346,17 +346,17 @@ disappoint and displease them, particularly to displease her brother;
 
 but she could not repent her resistance. Setting her own inclination
 
-apart, to have failed a second time in her engagement to Miss Tilney,
+apart, to have failed a second [[Time|time]] in her engagement to Miss Tilney,
 
 to have retracted a promise voluntarily made only five minutes before,
 
 and on a false pretence too, must have been wrong. She had not been
 
-withstanding them on selfish principles alone, she had not consulted
+withstanding them on selfish principles [[Alone|alone]], she had not consulted
 
 merely her own gratification; _that_ might have been ensured in some
 
-degree by the excursion itself, by seeing Blaize Castle; no, she had
+degree by the excursion itself, by seeing Blaize [[Castle]]; no, she had
 
 attended to what was due to others, and to her own character in their
 
@@ -382,7 +382,7 @@ proceeded upstairs. Then, opening the first door before her, which
 
 happened to be the right, she immediately found herself in the
 
-drawing-room with General Tilney, his son, and daughter. Her
+drawing-room with [[General Tilney]], his son, and daughter. Her
 
 explanation, defective only in being—from her irritation of nerves and
 
@@ -400,7 +400,7 @@ the servant.”
 
 The business, however, though not perfectly elucidated by this speech,
 
-soon ceased to be a puzzle. Catherine found that John Thorpe _had_
+soon ceased to be a puzzle. Catherine found that [[John Thorpe]] _had_
 
 given the message; and Miss Tilney had no scruple in owning herself
 
@@ -414,7 +414,7 @@ knowing. Whatever might have been felt before her arrival, her eager
 
 declarations immediately made every look and sentence as friendly as
 
-she could desire.
+she could [[Desire|desire]].
 
 
 
@@ -428,7 +428,7 @@ think with pleasure that he might be sometimes depended on. To such
 
 anxious attention was the General’s civility carried, that not aware of
 
-her extraordinary swiftness in entering the house, he was quite angry
+her extraordinary swiftness in entering the [[house]], he was quite angry
 
 with the servant whose neglect had reduced her to open the door of the
 
@@ -436,17 +436,17 @@ apartment herself. “What did William mean by it? He should make a point
 
 of inquiring into the matter.” And if Catherine had not most warmly
 
-asserted his innocence, it seemed likely that William would lose the
+asserted his [[innocence]], it seemed likely that William would lose the
 
 favour of his master forever, if not his place, by her rapidity.
 
 
 
-After sitting with them a quarter of an hour, she rose to take leave,
+After sitting with them a quarter of an hour, she [[Rose|rose]] to take leave,
 
-and was then most agreeably surprised by General Tilney’s asking her if
+and was then most agreeably surprised by [[General Tilney]]’s asking her if
 
-she would do his daughter the honour of dining and spending the rest of
+she would do his daughter the [[Honour|honour]] of dining and spending the rest of
 
 the day with her. Miss Tilney added her own wishes. Catherine was
 
@@ -478,13 +478,13 @@ Catherine, delighted by all that had passed, proceeded gaily to
 
 Pulteney Street, walking, as she concluded, with great elasticity,
 
-though she had never thought of it before. She reached home without
+though she had never thought of it before. She reached [[Home|home]] without
 
 seeing anything more of the offended party; and now that she had been
 
 triumphant throughout, had carried her point, and was secure of her
 
-walk, she began (as the flutter of her spirits subsided) to doubt
+walk, she began (as the flutter of her spirits subsided) to [[Doubt|doubt]]
 
 whether she had been perfectly right. A sacrifice was always noble; and
 
@@ -500,7 +500,7 @@ person what her own conduct had really been, she took occasion to
 
 mention before Mr. Allen the half-settled scheme of her brother and the
 
-Thorpes for the following day. Mr. Allen caught at it directly. “Well,”
+Thorpes for the following day. Mr. Allen caught at it directly. “[[Well]],”
 
 said he, “and do you think of going too?”
 
@@ -518,9 +518,9 @@ I?”
 
 are not at all the thing. Young men and women driving about the country
 
-in open carriages! now and then it is very well; but going to inns and
+in open carriages! now and then it is very [[Well|well]]; but going to inns and
 
-public places together! it is not right; and I wonder Mrs. Thorpe
+public places together! it is not right; and I [[Wonder|wonder]] Mrs. Thorpe
 
 should allow it. I am glad you do not think of going; I am sure Mrs.
 
@@ -534,7 +534,7 @@ thinking? Do not you think these kind of projects objectionable?”
 
 gown is not five minutes’ wear in them. You are splashed getting in and
 
-getting out; and the wind takes your hair and your bonnet in every
+getting out; and the [[Wind|wind]] takes your hair and your bonnet in every
 
 direction. I hate an open carriage myself.”
 
@@ -594,7 +594,7 @@ Thorpe any more.”
 
 
 
-Catherine, relieved for herself, felt uneasy for Isabella, and after a
+Catherine, relieved for herself, felt uneasy for [[Isabella]], and after a
 
 moment’s thought, asked Mr. Allen whether it would not be both proper
 
@@ -602,15 +602,15 @@ and kind in her to write to Miss Thorpe, and explain the indecorum of
 
 which she must be as insensible as herself; for she considered that
 
-Isabella might otherwise perhaps be going to Clifton the next day, in
+[[Isabella]] might otherwise perhaps be going to Clifton the next day, in
 
 spite of what had passed. Mr. Allen, however, discouraged her from
 
-doing any such thing. “You had better leave her alone, my dear; she is
+doing any such thing. “You had better leave her [[Alone|alone]], my dear; she is
 
 old enough to know what she is about, and if not, has a mother to
 
-advise her. Mrs. Thorpe is too indulgent beyond a doubt; but, however,
+advise her. Mrs. Thorpe is too indulgent beyond a [[Doubt|doubt]]; but, however,
 
 you had better not interfere. She and your brother choose to go, and
 
@@ -618,7 +618,7 @@ you will be only getting ill will.”
 
 
 
-Catherine submitted, and though sorry to think that Isabella should be
+Catherine submitted, and though sorry to think that [[Isabella]] should be
 
 doing wrong, felt greatly relieved by Mr. Allen’s approbation of her
 

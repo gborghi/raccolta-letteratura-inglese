@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 9)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -24,7 +24,7 @@ You won't rest till you believe something; that's why Mr Vandam
 went through new religions with a tooth--comb, and Mr Alboin
 quotes Scripture for his religion of breathing exercises,
 and Mr Fenner grumbles at the very God he denies.  That's where
-you all split; it's natural to believe in the supernatural.
+you all split; it's natural to believe in the [[Supernatural|supernatural]].
 It never feels natural to accept only natural things.
 But though it wanted only a touch to tip you into preternaturalism
 about these things, these things really were only natural things.
@@ -37,7 +37,7 @@ to have a man like that on such intimate terms?  How did
 he come to be killed by a man he'd seen every day for years?
 He was famous as being a judge of men.'
 
-Father Brown thumped his umbrella on the ground with an emphasis
+[[Father Brown]] thumped his umbrella on the ground with an emphasis
 he rarely showed.
 
 `Yes,' he said, almost fiercely; `that was how he came to be killed.
@@ -50,7 +50,7 @@ were not there.
 `These three were the tramps that once stood before him and
 were dismissed rapidly right and left to one place or another;
 as if for them there were no cloak of courtesy, no stages of intimacy,
-no free--will in friendship.  And twenty years has not exhausted
+no free--will in [[Friendship|friendship]].  And twenty years has not exhausted
 the indignation born of that unfathomable insult in that moment
 when he dared to know them at a glance.'
 
@@ -61,11 +61,11 @@ how it is that you understand--all sorts of things.'
 gentleman boisterously.  `Your Wilson and your Irishman seem to be
 just a couple of cut--throat murderers who killed their benefactor.
 I've no use for a black and bloody assassin of that sort,
-in my morality, whether it's religion or not.'
+in my [[morality]], whether it's religion or not.'
 
 `He was a black and bloody assassin, no doubt,' said Fenner quietly.
-`I'm not defending him; but I suppose it's Father Brown's business
+`I'm not defending him; but I suppose it's [[Father Brown]]'s business
 to pray for all men, even for a man like--`
 
-`Yes,' assented Father Brown, `it's my business to pray for all men,
+`Yes,' assented [[Father Brown]], `it's my business to pray for all men,
 even for a man like Warren Wynd.'

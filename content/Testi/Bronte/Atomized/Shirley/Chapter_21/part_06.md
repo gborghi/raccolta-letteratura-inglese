@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 6)"
+title: "[[Shirley]] — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-to whom nature has been favourable, often--frequently--anticipate--look
+to whom [[Nature|nature]] has been favourable, often--frequently--anticipate--look
 
-forward to--to marriage as the end, the goal of their hopes."
+forward to--to [[Marriage|marriage]] as the end, the goal of their hopes."
 
 
 
 And she stopped. Caroline came to her relief with promptitude, showing a
 
-great deal more self-possession and courage than herself on the
+great deal more [[Self|self]]-possession and [[Courage|courage]] than herself on the
 
 formidable topic now broached.
 
@@ -30,9 +30,9 @@ formidable topic now broached.
 
 "They do, and naturally," she replied, with a calm emphasis that
 
-startled Mrs. Pryor. "They look forward to marriage with some one they
+startled Mrs. Pryor. "They look forward to [[Marriage|marriage]] with some one they
 
-love as the brightest, the only bright destiny that can await them. Are
+[[Love|love]] as the brightest, the only bright destiny that can await them. Are
 
 they wrong?"
 
@@ -48,45 +48,45 @@ an illusion."
 
 
 
-"But not love! Love is real--the most real, the most lasting, the
+"But not [[Love|love]]! [[Love]] is real--the most real, the most lasting, the
 
 sweetest and yet the bitterest thing we know."
 
 
 
-"My dear, it is very bitter. It is said to be strong--strong as death!
+"My dear, it is very bitter. It is said to be strong--strong as [[Death|death]]!
 
 Most of the cheats of existence are strong. As to their sweetness,
 
 nothing is so transitory; its date is a moment, the twinkling of an eye.
 
-The sting remains for ever. It may perish with the dawn of eternity, but
+The sting remains for ever. It may perish with the [[Dawn|dawn]] of [[Eternity|eternity]], but
 
-it tortures through time into its deepest night."
-
-
-
-"Yes, it tortures through time," agreed Caroline, "except when it is
-
-mutual love."
+it tortures through [[Time|time]] into its deepest [[Night|night]]."
 
 
 
-"Mutual love! My dear, romances are pernicious. You do not read them, I
+"Yes, it tortures through [[Time|time]]," agreed Caroline, "except when it is
 
-hope?"
+mutual [[Love|love]]."
 
 
 
-"Sometimes--whenever I can get them, indeed. But romance-writers might
+"Mutual [[Love|love]]! My dear, romances are pernicious. You do not read them, I
 
-know nothing of love, judging by the way in which they treat of it."
+[[Hope|hope]]?"
+
+
+
+"Sometimes--whenever I can get them, indeed. But [[Romance|romance]]-writers might
+
+know nothing of [[Love|love]], judging by the way in which they treat of it."
 
 
 
 "Nothing whatever, my dear," assented Mrs. Pryor eagerly, "nor of
 
-marriage; and the false pictures they give of those subjects cannot be
+[[Marriage|marriage]]; and the false pictures they give of those subjects cannot be
 
 too strongly condemned. They are not like reality. They show you only
 
@@ -100,7 +100,7 @@ truthful hint of the slough underneath."
 
 marriages. Where affection is reciprocal and sincere, and minds are
 
-harmonious, marriage _must_ be happy."
+harmonious, [[Marriage|marriage]] _must_ be happy."
 
 
 
@@ -108,11 +108,11 @@ harmonious, marriage _must_ be happy."
 
 There is, perhaps, a possibility of content under peculiar
 
-circumstances, such as are seldom combined; but it is as well not to run
+circumstances, such as are seldom combined; but it is as [[Well|well]] not to run
 
 the risk--you may make fatal mistakes. Be satisfied, my dear. Let all
 
-the single be satisfied with their freedom."
+the single be satisfied with their [[Freedom|freedom]]."
 
 
 
@@ -126,13 +126,13 @@ terrible!"
 
 
 
-"No, it is only true. O child, you have only lived the pleasant morning
+"No, it is only true. O [[Child|child]], you have only lived the pleasant morning
 
-time of life; the hot, weary noon, the sad evening, the sunless night,
+[[Time|time]] of life; the hot, weary [[Noon|noon]], the sad evening, the sunless [[Night|night]],
 
 are yet to come for you. Mr. Helstone, you say, talks as I talk; and I
 
-wonder how Mrs. Matthewson Helstone would have talked had she been
+[[Wonder|wonder]] how Mrs. Matthewson Helstone would have talked had she been
 
 living. She died! she died!"
 
@@ -164,7 +164,7 @@ a sombre recollection.
 
 
 
-"In this case there ought to be no such thing as marriage."
+"In this case there ought to be no such thing as [[Marriage|marriage]]."
 
 
 
@@ -176,7 +176,7 @@ vouchsafed."
 
 
 
-"But your own marriage, Mrs. Pryor?"
+"But your own [[Marriage|marriage]], Mrs. Pryor?"
 
 
 
@@ -188,7 +188,7 @@ contact.
 
 
 
-"My marriage was unhappy," said the lady, summoning courage at last;
+"My [[Marriage|marriage]] was unhappy," said the lady, summoning [[Courage|courage]] at last;
 
 "but yet----" She hesitated.
 
@@ -200,7 +200,7 @@ contact.
 
 "Not in its results, at least. No," she added, in a softer tone; "God
 
-mingles something of the balm of mercy even in vials of the most
+mingles something of the balm of [[Mercy|mercy]] even in vials of the most
 
 corrosive woe. He can so turn events that from the very same blind, rash
 
@@ -210,7 +210,7 @@ the remainder. Then I am of a peculiar disposition--I own that--far from
 
 facile, without address, in some points eccentric. I ought never to have
 
-married. Mine is not the nature easily to find a duplicate or likely to
+married. Mine is not the [[Nature|nature]] easily to find a duplicate or likely to
 
 assimilate with a contrast. I was quite aware of my own ineligibility;
 
@@ -222,7 +222,7 @@ married; and then----"
 
 Caroline's eyes asked her to proceed. They entreated her to break the
 
-thick cloud of despair which her previous words had seemed to spread
+thick cloud of [[Despair|despair]] which her previous words had seemed to spread
 
 over life.
 
@@ -230,13 +230,13 @@ over life.
 
 "And then, my dear, Mr.--that is, the gentleman I married--was, perhaps,
 
-rather an exceptional than an average character. I hope, at least, the
+rather an exceptional than an average character. I [[Hope|hope]], at least, the
 
 experience of few has been such as mine was, or that few have felt their
 
 sufferings as I felt mine. They nearly shook my mind; relief was so
 
-hopeless, redress so unattainable. But, my dear, I do not wish to
+hopeless, redress so [[Unattainable|unattainable]]. But, my dear, I do not wish to
 
 dishearten; I only wish to warn you, and to prove that the single should
 
@@ -248,9 +248,9 @@ worse."
 
 "Thank you, my dear madam. I quite understand your kind intentions, but
 
-there is no fear of my falling into the error to which you allude. I, at
+there is no [[Fear|fear]] of my falling into the error to which you allude. I, at
 
-least, have no thoughts of marriage, and for that reason I want to make
+least, have no thoughts of [[Marriage|marriage]], and for that reason I want to make
 
 myself a position by some other means."
 
@@ -272,9 +272,9 @@ I must tell you that I possess a small independency, arising partly from
 
 my own savings, and partly from a legacy left me some years since.
 
-Whenever I leave Fieldhead I shall take a house of my own. I could not
+Whenever I leave Fieldhead I shall take a [[house]] of my own. I could not
 
-endure to live in solitude. I have no relations whom I care to invite to
+endure to live in [[Solitude|solitude]]. I have no relations whom I care to invite to
 
 close intimacy; for, as you must have observed, and as I have already
 
@@ -288,7 +288,7 @@ society I should esteem a very dear privilege--an inestimable privilege,
 
 a comfort, a blessing. You shall come to me, then. Caroline, do you
 
-refuse me? I hope you can love me?"
+refuse me? I [[Hope|hope]] you can [[Love|love]] me?"
 
 
 
@@ -296,7 +296,7 @@ And with these two abrupt questions she stopped.
 
 
 
-"Indeed, I _do_ love you," was the reply. "I should like to live with
+"Indeed, I _do_ [[Love|love]] you," was the reply. "I should like to live with
 
 you. But you are too kind."
 
@@ -306,7 +306,7 @@ you. But you are too kind."
 
 provided for. But never again say I am _too kind_. You pierce my heart,
 
-child!"
+[[Child|child]]!"
 
 
 
@@ -324,11 +324,11 @@ yet be mine."
 
 
 
-Mrs. Pryor seemed deeply agitated. Large tears trembled in her eyes and
+Mrs. Pryor seemed deeply agitated. Large [[Tears|tears]] trembled in her eyes and
 
 rolled down her cheeks. Caroline kissed her, in her gentle, caressing
 
-way, saying softly, "I love you dearly. Don't cry."
+way, saying softly, "I [[Love|love]] you dearly. Don't cry."
 
 
 
@@ -336,13 +336,13 @@ But the lady's whole frame seemed shaken. She sat down, bent her head to
 
 her knee, and wept aloud. Nothing could console her till the inward
 
-storm had had its way. At last the agony subsided of itself.
+[[Storm|storm]] had had its way. At last the agony subsided of itself.
 
 
 
 "Poor thing!" she murmured, returning Caroline's kiss, "poor lonely
 
-lamb! But come," she added abruptly--"come; we must go home."
+[[Lamb|lamb]]! But come," she added abruptly--"come; we must go [[Home|home]]."
 
 
 
@@ -350,7 +350,7 @@ For a short distance Mrs. Pryor walked very fast. By degrees, however,
 
 she calmed down to her wonted manner, fell into her usual characteristic
 
-pace--a peculiar one, like all her movements--and by the time they
+pace--a peculiar one, like all her movements--and by the [[Time|time]] they
 
 reached Fieldhead she had re-entered into herself. The outside was, as
 

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 6"
+title: "[[Don Quixote]] — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,19 +21,19 @@ A COMMISSION AS COLOURMAN
 As Murrel gazed there gradually grew upon his mind (which was
 perhaps clearing itself rather slowly of many festive fumes)
 the sense of one result of his nonsensical nocturnal
-expedition or experiment in the education of revolutionists.
-He had been out all night and had seen nothing of what had
+expedition or experiment in the [[Education|education]] of revolutionists.
+He had been out all [[Night|night]] and had seen nothing of what had
 lately been happening to his friends and their theatricals.
 But he remembered that it was almost exactly at this moment
 of the morning, with its long, fine tapering shadows and faint,
-far-flung flush of dawn, that he had abandoned his painting
+far-flung flush of [[Dawn|dawn]], that he had abandoned his painting
 of the scenery and plunged into the library in pursuit
 of the librarian.  He had left the librarian at the top
 of the ladder a little more than twenty-four hours ago.
-And here was the ladder thrown away like lumber in the garden,
-spotted with mildew, a skeleton on which spiders flung their
+And here was the ladder thrown away like lumber in the [[Garden|garden]],
+spotted with mildew, a [[skeleton]] on which spiders flung their
 silvery morning webs.  What had happened, and why was that
-particular piece of furniture thus thrown out into the garden?
+particular piece of furniture thus thrown out into the [[Garden|garden]]?
 He remembered Julian Archer's jokes, and his face contracted
 with a spasm of annoyance as he walked hastily towards
 the library and looked in.
@@ -41,25 +41,25 @@ the library and looked in.
 His first impression was that the long and lofty room,
 entirely lined with books, was empty.  The next moment
 he saw that high up in the dark corner, where the librarian
-had found his French text-books of medieval history,
+had found his French text-books of medieval [[history]],
 there hung a queer sort of luminous blue cloud or mist.
 Then he saw that the electric light was still burning,
 and that the veil of vapour through which it shone was the
 result of somebody having been smoking on that remote perch,
 and smoking for a considerable stretch of hours, possibly
-(as it began to dawn on the mind of the strayed reveller)
-all night and a great part of the day before.
-Then for the first time he clearly visualised the two long legs
-of Mr. Michael Herne still hanging from his lofty ledge; where it
+(as it began to [[Dawn|dawn]] on the mind of the strayed reveller)
+all [[Night|night]] and a great part of the day before.
+Then for the first [[Time|time]] he clearly visualised the two long legs
+of Mr. [[Michael]] Herne still hanging from his lofty ledge; where it
 seemed that he had been reading steadily from sunrise to sunrise.
 Luckily, it would appear that he had something to smoke.
 But he could not possibly have had anything to eat.  "Lord bless us,"
 muttered Murrel, to himself, "the man must be famished!
-And what about sleep?  If he'd slept on that ledge I suppose
+And what about [[Sleep|sleep]]?  If he'd slept on that ledge I suppose
 he'd have fallen off."
 
 He called out cautiously to the man above, rather as one
-does to a child playing on the edge of a precipice.
+does to a [[Child|child]] playing on the edge of a precipice.
 He said to him, almost reassuringly, "It's all right;
 I've got the ladder."
 
@@ -79,11 +79,11 @@ Murrel was not easily startled but for the moment he also
 almost staggered.  He could only reply with a blank stare
 and the repetition of the word "Period!  What period?"
 
-"Well," replied Mr. Herne, the librarian, half closing his eyes.
+"[[Well]]," replied Mr. Herne, the librarian, half closing his eyes.
 "I suppose we might put the most interesting period say from 1080
 to 1260.  What do you think?"
 
-"I think it's a long time to wait for a meal," answered Murrel.
+"I think it's a long [[Time|time]] to wait for a meal," answered Murrel.
 "Man alive, you must be starving.  Have you really been perched
 up there for--for two hundred years, so to speak?"
 
@@ -98,10 +98,10 @@ He hurried out of the room and returned in about five minutes
 bearing a tray loaded with incongruous things, among which beer
 bottles seemed to predominate.
 
-"Ancient British cheese," he said, setting down
+"Ancient British [[cheese]]," he said, setting down
 the several objects on the top of a revolving bookcase.
 "Cold chicken, probably not earlier than 1390.  Beer, as drunk
-by Richard Coeur de Lion; or all of it that he left.
+by [[Richard]] Coeur de [[Lion]]; or all of it that he left.
 _Jambon froid à la mode Troubadour._ Do start it at once.
 I assure you that eating and drinking were practised in
 the best period."
@@ -112,12 +112,12 @@ the best period."
 "On the contrary, it's very late," said Murrel.  "I don't mind
 joining you, for I'm just finishing off a sort of a feast myself.
 Another little drink won't do us any harm, as it says in the old
-Troubadour song of Provence."
+Troubadour [[Song|song]] of Provence."
 
 "Really," said Herne, "I don't quite understand what all this means."
 
-"Nor do I," replied Murrel, "but the truth is I've been out
-of bed all night too.  Engaged on researches.  Not exactly
+"Nor do I," replied Murrel, "but the [[Truth|truth]] is I've been out
+of bed all [[Night|night]] too.  Engaged on researches.  Not exactly
 researches into your period, but another period; a systematic,
 organised sort of period, full of sociology and all that.
 You will forgive me if I am a little dazed myself.
@@ -131,18 +131,18 @@ that turning of the old imperial official into a hereditary noble!
 Wouldn't you think you were reading about the transformation of the Nal
 after the Zamul invasion?"
 
-"Wouldn't I just!" said Murrel with feeble fervour.  "Well, I hope
+"Wouldn't I just!" said Murrel with feeble fervour.  "[[Well]], I [[Hope|hope]]
 you'll be able to let us know all about Troubadours."
 
-"Well, of course you and your friends know what you're about,"
+"[[Well]], of course you and your friends know what you're about,"
 said the librarian.  "You looked it all up long before;
-but I rather wonder you concentrated so much on the Troubadours.
+but I rather [[Wonder|wonder]] you concentrated so much on the Troubadours.
 I should have thought the Trouvères would have fitted into
 your plan better."
 
 "It's a matter of convention, I suppose," answered Murrel.
 "It's quite a regular thing to be serenaded by a Troubadour;
-but if they found a Trouvère hanging about the garden,
+but if they found a Trouvère hanging about the [[Garden|garden]],
 it would not be very respectable and he might be pinched
 by the police for loitering with intent to commit a felony."
 
@@ -162,8 +162,8 @@ said Murrel in a controlled manner.  "But then you see I'm
 ignorant of all subjects--with the exception perhaps of beer,
 of which I seem to be taking more than my fair share.
 Come, Mr. Herne, troll the brown bowl in a more festive manner, do.
-Perhaps you would oblige the company with a song--an ancient
-Hittite drinking song."
+Perhaps you would oblige the company with a [[Song|song]]--an ancient
+Hittite drinking [[Song|song]]."
 
 "No, really," said the librarian earnestly, "I couldn't possibly sing it;
 singing is not among my accomplishments."
@@ -174,7 +174,7 @@ omnibuses and things; but I couldn't have done it better myself.
 It seems to me, my dear sir, that you are something of a mystery.
 Now that you are perhaps a little restored by food and drink,
 especially drink, perhaps you will explain.  If you could
-have got down at any time during the last twenty-four hours,
+have got down at any [[Time|time]] during the last twenty-four hours,
 may I ask why it never occurred to you that there is something
 to be said for going to bed and even getting up for breakfast?"
 
@@ -183,50 +183,50 @@ to be said for going to bed and even getting up for breakfast?"
 me into making it.  I don't usually climb up walls in that way."
 
 "What I want to know is, if you are such an Alpine climber, why did you
-remain on that ledge of the precipice all night, waiting for the dawn.
+remain on that ledge of the precipice all [[Night|night]], waiting for the [[Dawn|dawn]].
 I had no idea librarians were such light-footed mountaineers.  But why?
-Why not come down?  Come down, for love is of the valley; and it is quite
-useless to await the coming of love perched on the top of a bookcase?
+Why not come down?  Come down, for [[Love|love]] is of the valley; and it is quite
+useless to await the coming of [[Love|love]] perched on the top of a bookcase?
 Why did you do it?"
 
 "I ought to be ashamed of myself, I know," replied the scholar sadly.
-"You talk about love, and really it's a kind of unfaithfulness.
-I feel just as if I'd fallen in love with somebody else's wife.
+"You talk about [[Love|love]], and really it's a kind of unfaithfulness.
+I feel just as if I'd fallen in [[Love|love]] with somebody else's wife.
 A man ought to stick to his own subject."
 
 "You think the Princess Pal-Ul--what's-her-name?--will be
 jealous of Berengaria of Navarre?" suggested Murrel.
 "Devilish good magazine story--you being haunted by her mummy,
-trailing and bumping about all the passages at night.
-No wonder you were afraid to come down.  But I suppose you
+trailing and bumping about all the passages at [[Night|night]].
+No [[Wonder|wonder]] you were afraid to come down.  But I suppose you
 mean you were interested in the books up there."
 
 "I was enthralled," said the librarian, with a sort of groan.
 "I had no idea that the rebuilding of civilisation after the barbarian
 wars and the Dark Ages was so fascinating and many-sided a matter.
-That question of the Serf Regardant alone. . . . I'm afraid if I'd
+That question of the Serf Regardant [[Alone|alone]]. . . . I'm afraid if I'd
 come on it all when I was younger . . ."
 
 "You'd have done something desperate about it, I suppose," said Murrel.
 "Hurled yourself madly into the study of Perpendicular Gothic
 or wasted your substance on riotous old brasses and stained glass.
-Well, it isn't too late, I suppose."
+[[Well]], it isn't too late, I suppose."
 
 A minute or two later Murrel looked up sharply in answer
-to a silence, as men look up in answer to a speech.
+to a [[Silence|silence]], as men look up in answer to a speech.
 There was something arresting in the way in which the Librarian
 had stopped talking; something still more arresting in the way
 in which he was looking out between the open glass doors
-across the spaces of the garden which were gradually warmed
+across the spaces of the [[Garden|garden]] which were gradually warmed
 with the growing sunlight.  He looked down the long avenue,
 with strips of flat but glowing flower-beds on either side,
 a little like the borders of a medieval illumination,
-and at the end of that long perspective stood the fragment
+and at the end of that long perspective stood the [[Fragment|fragment]]
 of medieval masonry poised upon its eighteenth century
-pedestal above the great sweep of the garden, and the fall
+pedestal above the great sweep of the [[Garden|garden]], and the fall
 of the whole countryside.
 
-"I wonder," he said, "how much there is in that term we hear so often
+"I [[Wonder|wonder]]," he said, "how much there is in that term we hear so often
 'Too late.'  Sometimes it seems to me as if it were either quite true
 or quite false.  Either everything is too late or nothing is too late.
 It seems somehow to be right on the border of illusion and reality.
@@ -235,7 +235,7 @@ never makes anything else.  But do you think a man might make a mistake
 and not make anything else?  Do you think he could die having missed
 the chance to live?"
 
-"Well, as I told you," said Murrel, "I'm inclined to think one subject
+"[[Well]], as I told you," said Murrel, "I'm inclined to think one subject
 is pretty much like another.  They'd all be interesting to a man like you
 and very bewildering to a man like me."
 
@@ -263,13 +263,13 @@ And yet she had been the author of the play and the original
 enthusiast for the subject.
 
 "And then," as Rosamund Severne observed with a large gesture as of
-despair, "when Olive had got what she wanted, she didn't seem to want it.
+[[Despair|despair]], "when Olive had got what she wanted, she didn't seem to want it.
 Gave her her old medieval play and then it was she that got sick of it!
 Went back to pottering about with her potty little gold paints,
 and let us do the rest of the work."
 
-"Well, well," Murrel had said, for he was a universal peace-maker,
-"perhaps it's as well the work is left to you.  You are so practical.
+"[[Well]], [[Well|well]]," Murrel had said, for he was a universal peace-maker,
+"perhaps it's as [[Well|well]] the work is left to you.  You are so practical.
 You are a Man of Action."
 
 And Rosamund was somewhat soothed and admitted she had often
@@ -281,7 +281,7 @@ Indeed it was not quite true to say, as Rosamund said,
 that they had given her her old medieval play.
 It would be truer to say that they had taken it away from her.
 They had improved it immensely; they seemed to be quite
-confident of that, and no doubt they ought to know.
+confident of that, and no [[Doubt|doubt]] they ought to know.
 They paid every possible tribute to it, as a thing that could
 be worked up most successfully for the stage.  A little adapted,
 it afforded some admirable entrances and exits for Mr. Julian Archer.
@@ -306,22 +306,22 @@ they were her own jokes; and they were not at all practical.
 The camel could not pass through the eye of the needle;
 and the pantomime elephant could not pass through the
 key-hole of the door that guarded her chamber of imagery.
-That divine dolls'-house in which she played with pigmy saints
+That divine dolls'-[[house]] in which she played with pigmy saints
 and pigmy angels was too small for these people, like big
 clumsy brothers and sisters, to come blundering into it.
-So she fell back on her own old amusement, amid general wonder.
+So she fell back on her own old amusement, amid general [[Wonder|wonder]].
 Nevertheless on this particular morning she was a little
 less mildly monomaniac than usual.  After working for about
-ten minutes, she rose to her feet, staring out on to the garden.
+ten minutes, she [[Rose|rose]] to her feet, staring out on to the [[Garden|garden]].
 Then she passed out almost like an automaton, the paint-brush still
-in her hand.  She stood looking for a little time at the great
-Gothic fragment on the pedestal, in the shadow of which she
+in her hand.  She stood looking for a little [[Time|time]] at the great
+Gothic [[Fragment|fragment]] on the pedestal, in the [[Shadow|shadow]] of which she
 and Murrel had debated the terrible problem of John Braintree.
 Then she looked across at the doors and windows in the opposite
-wing of the house; and saw that in the doorway of the library
+wing of the [[house]]; and saw that in the doorway of the library
 the librarian was standing, with Douglas Murrel beside him.
 
-The sight of these two early birds seemed to awaken the third
+The sight of these two early [[Birds|birds]] seemed to awaken the third
 early bird to a more practical contact with the waking world.
 It seemed as if she suddenly took a resolution, or became aware
 of a resolution she had already taken.  She walked a little
@@ -340,22 +340,22 @@ as delicate in its tint as a clear space in the sunset.
 Now I can't get a colour like that anywhere."
 
 "Oh, I don't know about that," said Murrel in his easy-going way.
-"I reckon you can get pretty well anything nowadays if you know
+"I reckon you can get pretty [[Well|well]] anything nowadays if you know
 where to go."
 
 "You mean," said Olive somewhat bitterly, "that you can get anything
 nowadays if you know how to pay for it."
 
-"I wonder," said the librarian musing, "if I were to offer
-to pay for a Palaeo-Hittite _palumon,_ now, I wonder whether
+"I [[Wonder|wonder]]," said the librarian musing, "if I were to offer
+to pay for a Palaeo-Hittite _palumon,_ now, I [[Wonder|wonder]] whether
 it would be easy to obtain."
 
-"I don't say that Selfridge actually puts it in the shop-window,"
+"I don't say that Selfridge actually puts it in the shop-[[Window|window]],"
 said Murrel, "but you'd probably find some other American
 millionaire somewhere, willing to do what he would call
 a trade with it."
 
-"Now look here, Douglas," cried Olive with a certain fire,
+"Now look here, Douglas," cried Olive with a certain [[Fire|fire]],
 "I know you're fond of bets and wagers and that sort of thing.
 I'll show you the red colour I mean in the book, and you shall
 compare it yourself with the colours in my paint-box. And

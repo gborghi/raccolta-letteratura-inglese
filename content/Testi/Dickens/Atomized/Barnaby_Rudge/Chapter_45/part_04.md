@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 45 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 45 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,7 +23,7 @@ The blind man snapped his fingers as he answered:
 
 ‘--Beside the question, ma’am, beside the question. I have the softest
 heart in the world, but I can’t live upon it. Many a gentleman lives
-well upon a soft head, who would find a heart of the same quality a very
+[[Well|well]] upon a soft head, who would find a heart of the same quality a very
 great drawback. Listen to me. This is a matter of business, with which
 sympathies and sentiments have nothing to do. As a mutual friend, I wish
 to arrange it in a satisfactory manner, if possible; and thus the
@@ -31,7 +31,7 @@ case stands.--If you are very poor now, it’s your own choice. You have
 friends who, in case of need, are always ready to help you. My friend is
 in a more destitute and desolate situation than most men, and, you and
 he being linked together in a common cause, he naturally looks to you to
-assist him. He has boarded and lodged with me a long time (for as I
+assist him. He has boarded and lodged with me a long [[Time|time]] (for as I
 said just now, I am very soft-hearted), and I quite approve of his
 entertaining this opinion. You have always had a roof over your head; he
 has always been an outcast. You have your son to comfort and assist you;
@@ -48,12 +48,12 @@ regard for you that I believe even if you disappointed him now, he would
 consent to take charge of your son, and to make a man of him.’
 
 He laid a great stress on these latter words, and paused as if to find
-out what effect they had produced. She only answered by her tears.
+out what effect they had produced. She only answered by her [[Tears|tears]].
 
 ‘He is a likely lad,’ said the blind man, thoughtfully, ‘for many
 purposes, and not ill-disposed to try his fortune in a little change
 and bustle, if I may judge from what I heard of his talk with you
-to-night.--Come. In a word, my friend has pressing necessity for twenty
+to-[[Night|night]].--Come. In a word, my friend has pressing necessity for twenty
 pounds. You, who can give up an annuity, can get that sum for him. It’s
 a pity you should be troubled. You seem very comfortable here, and
 it’s worth that much to remain so. Twenty pounds, widow, is a
@@ -64,8 +64,8 @@ She was about to answer him again, but again he stopped her.
 
 ‘Don’t say anything hastily; you might be sorry for it. Think of it a
 little while. Twenty pounds--of other people’s money--how easy! Turn it
-over in your mind. I’m in no hurry. Night’s coming on, and if I don’t
-sleep here, I shall not go far. Twenty pounds! Consider of it, ma’am,
+over in your mind. I’m in no hurry. [[Night]]’s coming on, and if I don’t
+[[Sleep|sleep]] here, I shall not go far. Twenty pounds! Consider of it, ma’am,
 for twenty minutes; give each pound a minute; that’s a fair allowance.
 I’ll enjoy the air the while, which is very mild and pleasant in these
 parts.’
@@ -75,9 +75,9 @@ him. Then seating himself, under a spreading honeysuckle, and stretching
 his legs across the threshold so that no person could pass in or out
 without his knowledge, he took from his pocket a pipe, flint, steel and
 tinder-box, and began to smoke. It was a lovely evening, of that gentle
-kind, and at that time of year, when the twilight is most beautiful.
+kind, and at that [[Time|time]] of year, when the twilight is most beautiful.
 Pausing now and then to let his smoke curl slowly off, and to sniff the
-grateful fragrance of the flowers, he sat there at his ease--as though
+grateful fragrance of the [[Flowers|flowers]], he sat there at his ease--as though
 the cottage were his proper dwelling, and he had held undisputed
 possession of it all his life--waiting for the widow’s answer and for
 Barnaby’s return.

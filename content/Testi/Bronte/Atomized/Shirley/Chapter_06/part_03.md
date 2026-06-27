@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 3)"
+title: "[[Shirley]] — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ hands, made and presented to Caroline similar equipments; and the only
 
 serious quarrel they had ever had, and which still left a soreness in
 
-the elder cousin's soul, had arisen from the refusal of the younger one
+the elder cousin's [[Soul|soul]], had arisen from the refusal of the younger one
 
 to accept of and profit by these elegant presents.
 
@@ -32,7 +32,7 @@ to accept of and profit by these elegant presents.
 
 suffocated with a handkerchief in addition; and my short aprons do quite
 
-as well as that very long one. I would rather make no change."
+as [[Well|well]] as that very long one. I would rather make no change."
 
 
 
@@ -42,7 +42,7 @@ to make a change, had not Mr. Moore chanced to overhear a dispute on the
 
 subject, and decided that Caroline's little aprons would suffice, and
 
-that, in his opinion, as she was still but a child, she might for the
+that, in his opinion, as she was still but a [[Child|child]], she might for the
 
 present dispense with the fichu, especially as her curls were long, and
 
@@ -66,13 +66,13 @@ The afternoon was devoted to sewing. Mademoiselle, like most Belgian
 
 ladies, was specially skilful with her needle. She by no means thought
 
-it waste of time to devote unnumbered hours to fine embroidery,
+it waste of [[Time|time]] to devote unnumbered hours to fine embroidery,
 
 sight-destroying lace-work, marvellous netting and knitting, and, above
 
-all, to most elaborate stocking-mending. She would give a day to the
+all, to most elaborate stocking-[[mending]]. She would give a day to the
 
-mending of two holes in a stocking any time, and think her "mission"
+[[mending]] of two holes in a stocking any [[Time|time]], and think her "mission"
 
 nobly fulfilled when she had accomplished it. It was another of
 
@@ -88,7 +88,7 @@ back, as one of the first "duties of a woman." She herself had had a
 
 needle, cotton, and a fearfully torn stocking put into her hand while
 
-she yet wore a child's coif on her little black head; her "hauts faits"
+she yet wore a [[Child|child]]'s coif on her little black head; her "hauts faits"
 
 in the darning line had been exhibited to company ere she was six years
 
@@ -100,7 +100,7 @@ over her miserably-neglected youth.
 
 
 
-No time did she lose in seeking up a hopeless pair of hose, of which the
+No [[Time|time]] did she lose in seeking up a hopeless pair of hose, of which the
 
 heels were entirely gone, and in setting the ignorant English girl to
 
@@ -112,9 +112,9 @@ day, by way of penance for the expiation of her sins. They were a
 
 grievous burden to her; she would much have liked to put them in the
 
-fire; and once Mr. Moore, who had observed her sitting and sighing over
+[[Fire|fire]]; and once Mr. Moore, who had observed her sitting and sighing over
 
-them, had proposed a private incremation in the counting-house; but to
+them, had proposed a private incremation in the counting-[[house]]; but to
 
 this proposal Caroline knew it would have been impolitic to accede--the
 
@@ -134,17 +134,17 @@ fears began to steal on Caroline that Robert would be persuaded by Mr.
 
 Sykes or Mr. Yorke to remain at Whinbury till it cleared, and of that
 
-there appeared no present chance. Five o'clock struck, and time stole
+there appeared no present chance. Five o'[[Clock|clock]] struck, and [[Time|time]] stole
 
-on; still the clouds streamed. A sighing wind whispered in the
+on; still the clouds streamed. A sighing [[Wind|wind]] whispered in the
 
-roof-trees of the cottage; day seemed already closing; the parlour fire
+roof-trees of the cottage; day seemed already closing; the parlour [[Fire|fire]]
 
 shed on the clear hearth a glow ruddy as at twilight.
 
 
 
-"It will not be fair till the moon rises," pronounced Mademoiselle
+"It will not be fair till the [[Moon|moon]] rises," pronounced Mademoiselle
 
 Moore, "consequently I feel assured that my brother will not return till
 
@@ -158,9 +158,9 @@ be vain to wait for him."
 
 
 
-"You may, since it grows too dark to see to do it well. Fold it up; put
+"You may, since it grows too dark to see to do it [[Well|well]]. Fold it up; put
 
-it carefully in your bag; then step into the kitchen and desire Sarah to
+it carefully in your bag; then step into the kitchen and [[Desire|desire]] Sarah to
 
 bring in the goûter, or tea, as you call it."
 
@@ -178,7 +178,7 @@ brother."
 
 Suspense is irksome, disappointment bitter. All the world has, some
 
-time or other, felt that. Caroline, obedient to orders, passed into the
+[[Time|time]] or other, felt that. Caroline, obedient to orders, passed into the
 
 kitchen. Sarah was making a dress for herself at the table.
 
@@ -188,7 +188,7 @@ kitchen. Sarah was making a dress for herself at the table.
 
 and then she leaned her arm and head against the kitchen mantelpiece,
 
-and hung listlessly over the fire.
+and hung listlessly over the [[Fire|fire]].
 
 
 
@@ -210,7 +210,7 @@ dull to be mewed up so."
 
 
 
-"Sarah, does your master often come home early from market when it is
+"Sarah, does your master often come [[Home|home]] early from market when it is
 
 wet?"
 
@@ -226,11 +226,11 @@ difference."
 
 
 
-"He is come. I am certain I saw Murgatroyd lead his horse into the yard
+"He is come. I am certain I saw Murgatroyd lead his [[Horse|horse]] into the yard
 
-by the back-way, when I went to get some water at the pump five minutes
+by the back-way, when I went to get some [[Water|water]] at the pump five minutes
 
-since. He was in the counting-house with Joe Scott, I believe."
+since. He was in the counting-[[house]] with Joe Scott, I believe."
 
 
 
@@ -238,7 +238,7 @@ since. He was in the counting-house with Joe Scott, I believe."
 
 
 
-"What should I be mistaken for? I know his horse surely?"
+"What should I be mistaken for? I know his [[Horse|horse]] surely?"
 
 
 

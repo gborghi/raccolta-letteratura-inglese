@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 1 (part 11)"
+title: "[[Eugenics]] — Part 1 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -26,14 +26,14 @@ knows that the ablest and sanest of them have a tendency
 to possess some little hobby or half-discovery of their own,
 as that oranges are bad for children, or that trees are dangerous
 in gardens, or that many more people ought to wear spectacles.
-It is asking too much of human nature to expect them not to cherish
+It is asking too much of human [[Nature|nature]] to expect them not to cherish
 such scraps of originality in a hard, dull, and often heroic trade.
 But the inevitable result of it, as exercised by the individual Saleebys,
 would be that each man would have his favourite kind of idiot.
 Each doctor would be mad on his own madman.  One would have his
 eyes on devotional Curates; another would wander about collecting
 obstreperous majors; a third would be the terror of animal-loving
-spinsters, who would flee with all their cats and dogs before him.
+spinsters, who would flee with all their cats and [[dogs]] before him.
 Short of sheer literal anarchy, therefore, it seems plain
 that the Eugenist must find some authority other than his own
 implied personality.  He must, once and for all, learn the lesson
@@ -52,13 +52,13 @@ do not seem to know themselves.  Some philosophic attitude which I
 cannot myself connect with human reason seems to make them actually
 proud of the dimness of their definitions and the uncompleteness
 of their plans.  The Eugenic optimism seems to partake generally
-of the nature of that dazzled and confused confidence, so common
-in private theatricals, that it will be all right on the night.
+of the [[Nature|nature]] of that dazzled and confused confidence, so common
+in private theatricals, that it will be all right on the [[Night|night]].
 They have all the ancient despotism, but none of the ancient dogmatism.
 If they are ready to reproduce the secrecies and cruelties
-of the Inquisition, at least we cannot accuse them of offending
+of the [[Inquisition]], at least we cannot accuse them of offending
 us with any of that close and complicated thought, that arid
-and exact logic which narrowed the minds of the Middle Ages,
+and exact [[logic]] which narrowed the minds of the Middle Ages,
 they have discovered how to combine the hardening of the heart with a
 sympathetic softening of the head.  Nevertheless, there is one large,
 though vague, idea of the Eugenists, which is an idea, and which we
@@ -71,7 +71,7 @@ no longer be a mere plasterer of paltry maladies, but should be,
 in his own words, "the health adviser of the community."  The same can
 be expressed with even more point and simplicity in the proverb that
 prevention is better than cure.  Commenting on this, I said that it
-amounted to treating all people who are well as if they were ill.
+amounted to treating all people who are [[Well|well]] as if they were ill.
 This the writer admitted to be true, only adding that everyone is ill.
 To which I rejoin that if everyone is ill the health advisor is ill too,
 and therefore cannot know how to cure that minimum of illness.
@@ -80,12 +80,12 @@ preventive medicine.  Prevention is not better than cure.
 Cutting off a man's head is not better than curing his headache;
 it is not even better than failing to cure it.  And it is the same if
 a man is in revolt, even a morbid revolt.  Taking the heart out of him
-by slavery is not better than leaving the heart in him, even if you
+by [[Slavery|slavery]] is not better than leaving the heart in him, even if you
 leave it a broken heart.  Prevention is not only not better than cure;
 prevention is even worse than disease.  Prevention means being an
-invalid for life, with the extra exasperation of being quite well.
+invalid for life, with the extra exasperation of being quite [[Well|well]].
 I will ask God, but certainly not man, to prevent me in all my doings.
-But the decisive and discussable form of this is well summed
+But the decisive and discussable form of this is [[Well|well]] summed
 up in that phrase about the health adviser of society.
 I am sure that those who speak thus have something in their minds
 larger and more illuminating than the other two propositions we
@@ -103,14 +103,14 @@ of all citizens, as nurses do with a family of children.
 It is not anarchy, it is tyranny; but tyranny is a workable thing.
 When we ask by what process such men could be certainly chosen,
 we are back again on the old dilemma of despotism, which means a man,
-or democracy which means men, or aristocracy which means favouritism.
+or [[democracy]] which means men, or aristocracy which means favouritism.
 But as a vision the thing is plausible and even rational.
 It is rational, and it is wrong.
 
 It is wrong, quite apart from the suggestion that an expert on
 health cannot be chosen.  It is wrong because an expert on health
 cannot exist.  An expert on disease can exist, for the very reason
-we have already considered in the case of madness, because experts
+we have already considered in the case of [[Madness|madness]], because experts
 can only arise out of exceptional things.  A parallel with any
 of the other learned professions will make the point plain.
 If I am prosecuted for trespass, I will ask my solicitor which of
@@ -125,7 +125,7 @@ short-cuts, I shall turn on him with passion, saying "Sir, I pay
 you to know one particular puzzle in Latin and Norman French,
 which they call the law of England; and you do know the law of England.
 I have never had any earthly reason to suppose that you know England.
-If you did, you would leave a man alone when he was looking at it."
+If you did, you would leave a man [[Alone|alone]] when he was looking at it."
 As are the limits of the lawyer's special knowledge about walking,
 so are the limits of the doctor's. If I fall over the stump
 of a tree and break my leg, as is likely enough, I shall say

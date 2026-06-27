@@ -1,5 +1,5 @@
 ---
-title: "everlasting man — Part 2: ON THE MAN CALLED CHRIST"
+title: "everlasting man — Part 2: ON THE MAN CALLED [[Christ|CHRIST]]"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/everlasting-man-(Chesterton)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-PART II:  ON THE MAN CALLED CHRIST
+PART II:  ON THE MAN CALLED [[Christ|CHRIST]]
 
-    I The God in the Cave
+    I The God in the [[Cave]]
    II The Riddles of the Gospel
   III The Strangest Story in the World
    IV The Witness of the Heretics
     V The Escape from Paganism
-   VI The Five Deaths of the Faith
+   VI The Five Deaths of the [[Faith]]
 
 CONCLUSION:  THE SUMMARY OF THIS BOOK
 
@@ -37,12 +37,12 @@ This book needs a preliminary note that its scope be not misunderstood.
 The view suggested is historical rather than theological, and does
 not deal directly with a religious change which has been the chief
 event of my own life; and about which I am already writing a more
-purely controversial volume.  It is impossible, I hope, for any
+purely controversial volume.  It is impossible, I [[Hope|hope]], for any
 Catholic to write any book on any subject, above all this subject,
 without showing that he is a Catholic; but this study is not specially
 concerned with the differences between a Catholic and a Protestant.
 Much of it is devoted to many sorts of Pagans rather than any sort
-of Christians; and its thesis is that those who say that Christ
+of Christians; and its thesis is that those who say that [[Christ]]
 stands side by side with similar myths, and his religion side
 by side with similar religions, are only repeating a very stale
 formula contradicted by a very striking fact.  To suggest this
@@ -50,8 +50,8 @@ I have not needed to go much beyond matters known to us all;
 I make no claim to learning; and have to depend for some things,
 as has rather become the fashion, on those who are more learned.
 As I have more than once differed from Mr. H. G. Wells in his view
-of history, it is the more right that I should here congratulate
-him on the courage and constructive imagination which carried
+of [[history]], it is the more right that I should here congratulate
+him on the [[Courage|courage]] and constructive [[Imagination|imagination]] which carried
 through his vast and varied and intensely interesting work;
 but still more on having asserted the reasonable right of the amateur
 to do what he can with the facts which the specialists provide.
@@ -62,21 +62,21 @@ INTRODUCTION
 
 THE PLAN OF THIS BOOK
 
-There are two ways of getting home; and one of them is to stay there.
+There are two ways of getting [[Home|home]]; and one of them is to stay there.
 The other is to walk round the whole world till we come back to the
-same place; and I tried to trace such a journey in a story I once wrote.
+same place; and I tried to trace such a [[Journey|journey]] in a story I once wrote.
 It is, however, a relief to turn from that topic to another story
 that I never wrote.  Like every book I never wrote, it is by far
 the best book I have ever written.  It is only too probable that I
 shall never write it, so I will use it symbolically here; for it
-was a symbol of the same truth.  I conceived it as a romance of those
+was a symbol of the same [[Truth|truth]].  I conceived it as a [[Romance|romance]] of those
 vast valleys with sloping sides, like those along which the ancient
 White Horses of Wessex are scrawled along the flanks of the hills.
 It concerned some boy whose farm or cottage stood on such a slope,
 and who went on his travels to find something, such as the effigy
-and grave of some giant; and when he was far enough from home he looked
-back and saw that his own farm and kitchen-garden, shining flat
-on the hill-side like the colours and quarterings of a shield,
+and [[Grave|grave]] of some giant; and when he was far enough from [[Home|home]] he looked
+back and saw that his own farm and kitchen-[[Garden|garden]], shining flat
+on the [[Hill|hill]]-side like the colours and quarterings of a shield,
 were but parts of some such gigantic figure, on which he had
 always lived, but which was too large and too close to be seen.
 That, I think, is a true picture of the progress of any really
@@ -84,7 +84,7 @@ independent intelligence today; and that is the point of this book.
 
 The point of this book, in other words, is that the next best thing
 to being really inside Christendom is to be really outside it.
-And a particular point of it is that the popular critics of Christianity
+And a particular point of it is that the popular critics of [[Christianity]]
 are not really outside it.  They are on a debatable ground,
 in every sense of the term.  They are doubtful in their very doubts.
 Their criticism has taken on a curious tone; as of a random and
@@ -93,8 +93,8 @@ as a sort of small-talk. They will complain of parsons dressing
 like parsons; as if we should be any more free if all the police
 who shadowed or collared us were plain clothes detectives.
 Or they will complain that a sermon cannot be interrupted, and call
-a pulpit a coward's castle; though they do not call an editor's office
-a coward's castle.  It would be unjust both to journalists and priests;
+a pulpit a coward's [[Castle|castle]]; though they do not call an editor's office
+a coward's [[Castle|castle]].  It would be unjust both to journalists and priests;
 but it would be much truer of journalist.  The clergyman appears
 in person and could easily be kicked as he came out of church;
 the journalist conceals even his name so that nobody can kick him.
@@ -108,7 +108,7 @@ of Hopley Porter.'  So we may truly say to the very feeblest cleric:
 'Your mind is not so blank as that of Indignant Layman or Plain Man
 or Man in the Street, or any of your critics in the newspapers;
 for they have not the most shadowy notion of what they want themselves.
-Let alone of what you ought to give them.'  They will suddenly turn
+Let [[Alone|alone]] of what you ought to give them.'  They will suddenly turn
 round and revile the Church for not having prevented the War, which they
 themselves did not want to prevent; and which nobody had ever professed
 to be able to prevent, except some of that very school of progressive
@@ -117,35 +117,35 @@ It was the anti-clerical and agnostic world that was always prophesying
 the advent of universal peace; it is that world that was, or should
 have been, abashed and confounded by the advent of universal war.
 As for the general view that the Church was discredited by the War--
-they might as well say that the Ark was discredited by the Flood.
+they might as [[Well|well]] say that the Ark was discredited by the Flood.
 When the world goes wrong, it proves rather that the Church is right.
 The Church is justified, not because her children do not sin,
 but because they do.  But that marks their mood about the whole
 religious tradition they are in a state of reaction against it.
-It is well with the boy when he lives on his father's land;
-and well with him again when he is far enough from it to look back
+It is [[Well|well]] with the boy when he lives on his father's land;
+and [[Well|well]] with him again when he is far enough from it to look back
 on it and see it as a whole.  But these people have got into an
 intermediate state, have fallen into an intervening valley from which
 they can see neither the heights beyond them nor the heights behind.
 They cannot get out of the penumbra of Christian controversy.
 They cannot be Christians and they can not leave off being
 Anti-Christians. Their whole atmosphere is the atmosphere of a reaction:
-sulks, perversity, petty criticism.  They still live in the shadow
-of the faith and have lost the light of the faith.
+sulks, perversity, petty criticism.  They still live in the [[Shadow|shadow]]
+of the [[Faith|faith]] and have lost the light of the [[Faith|faith]].
 
-Now the best relation to our spiritual home is to be near enough to
-love it.  But the next best is to be far enough away not to hate it.
+Now the best relation to our spiritual [[Home|home]] is to be near enough to
+[[Love|love]] it.  But the next best is to be far enough away not to hate it.
 It is the contention of these pages that while the best judge
-of Christianity is a Christian, the next best judge would be
+of [[Christianity]] is a Christian, the next best judge would be
 something more like a Confucian.  The worst judge of all is the man
 now most ready with his judgements; the ill-educated Christian
 turning gradually into the ill-tempered agnostic, entangled in
 the end of a feud of which he never understood the beginning,
 blighted with a sort of hereditary boredom with he knows not what,
 and already weary of hearing what he has never heard.
-He does not judge Christianity calmly as a Confucian would; he does
+He does not judge [[Christianity]] calmly as a Confucian would; he does
 not judge it as he would judge Confucianism.  He cannot by an effort
-of fancy set the Catholic Church thousands of miles away in strange
+of fancy set the [[Catholic Church]] thousands of miles away in strange
 skies of morning and judge it as impartially as a Chinese pagoda.
 It is said that the great St. Francis Xavier, who very nearly succeeded
 in setting up the Church there as a tower overtopping all pagodas,
@@ -154,12 +154,12 @@ missionaries of representing the Twelve Apostles with the garb
 or attributes of Chinamen.  But it would be far better to see them
 as Chinamen, and judge them fairly as Chinamen, than to see them
 as featureless idols merely made to be battered by iconoclasts;
-or rather as cockshies to be pelted by empty-handed cockneys.  It would
+or rather as cockshies to be pelted by empty-handed [[cockneys]].  It would
 be better to see the whole thing as a remote Asiatic cult; the mitres
 of its bishops as the towering head dresses of mysterious bonzes;
-its pastoral staffs as the sticks twisted like serpents carried
-in some Asiatic procession; to see the prayer book as fantastic
-as the prayer-wheel and the Cross as crooked as the Swastika.
+its [[Pastoral|pastoral]] staffs as the sticks twisted like serpents carried
+in some Asiatic procession; to see the [[prayer]] book as fantastic
+as the [[prayer]]-[[Wheel|wheel]] and the [[Cross]] as crooked as the Swastika.
 Then at least we should not lose our temper as some of the sceptical
 critics seem to lose their temper, not to mention their wits.
 Their anti-clericalism has become an atmosphere, an atmosphere
@@ -183,7 +183,7 @@ really looks like what is traditionally said about it inside.
 It is exactly when the boy gets far enough off to see the giant
 that he sees that he really is a giant.  It is exactly when we do
 at last see the Christian Church afar under those clear and level
-eastern skies that we see that it is really the Church of Christ.
+eastern skies that we see that it is really the Church of [[Christ]].
 To put it shortly, the moment we are really impartial about it,
 we know why people are partial to it.  But this second proposition
 requires more serious discussion; and I shall here set myself
@@ -196,9 +196,9 @@ character in the human story that had led up to it; because that human
 story also had a root that was divine.  I mean that just as the Church
 seems to grow more remarkable when it is fairly compared with the
 common religious life of mankind, so mankind itself seems to grow
-more remarkable when we compare it with the common life of nature.
-And I have noticed that most modern history is driven to something
-like sophistry, first to soften the sharp transition from animals
+more remarkable when we compare it with the common life of [[Nature|nature]].
+And I have noticed that most modern [[history]] is driven to something
+like sophistry, first to soften the sharp transition from [[Animals|animals]]
 to men, and then to soften the sharp transition from heathens
 to Christians.  Now the more we really read in a realistic spirit
 of those two transitions the sharper we shall find them to be.
@@ -216,9 +216,9 @@ And it is stark hypocrisy to pretend that nine-tenths of the higher
 critics and scientific evolutionists and professors of comparative
 religion are in the least impartial.  Why should they be impartial,
 what is being impartial, when the whole world is at war about
-whether one thing is a devouring superstition or a divine hope?
+whether one thing is a devouring superstition or a divine [[Hope|hope]]?
 I do not pretend to be impartial in the sense that the final
-act of faith fixes a man's mind because it satisfies his mind.
+act of [[Faith|faith]] fixes a man's mind because it satisfies his mind.
 But I do profess to be a great deal more impartial than they are;
 in the sense that I can tell the story fairly, with some
 sort of imaginative justice to all sides; and they cannot.
@@ -238,8 +238,8 @@ things look altogether strange and unique; and that it is only
 in the false twilight of an imaginary period of transition
 that they can be made to look in the least like anything else.
 The first of these is the creature called man and the second is the man
-called Christ.  I have therefore divided this book into two parts:
-the former being a sketch of the main adventure of the human
+called [[Christ]].  I have therefore divided this book into two parts:
+the former being a [[Sketch|sketch]] of the main adventure of the human
 race in so far as it remained heathen; and the second a summary
 of the real difference that was made by it becoming Christian.
 Both motives necessitate a certain method, a method which is not
@@ -256,132 +256,132 @@ There must be in it for working purposes a great deal of tradition,
 of familiarity, and even of routine.  So long as its fundamentals
 are sincerely felt, this may even be the saner condition.
 But when its fundamentals are doubted, as at present, we must
-try to recover the candour and wonder of the child; the unspoilt
-realism and objectivity of innocence.  Or if we cannot do that,
+try to recover the candour and [[Wonder|wonder]] of the [[Child|child]]; the unspoilt
+realism and objectivity of [[innocence]].  Or if we cannot do that,
 we must try at least to shake off the cloud of mere custom
 and see the thing as new, if only by seeing it as unnatural.
-Things that may well be familiar so long as familiarity breeds affection
+Things that may [[Well|well]] be familiar so long as familiarity breeds affection
 had much better become unfamiliar when familiarity breeds contempt.
 For in connection with things so great as are here considered,
 whatever our view of them, contempt must be a mistake.
 Indeed contempt must be an illusion.  We must invoke the most wild
-and soaring sort of imagination; the imagination that can see
+and soaring sort of [[Imagination|imagination]]; the [[Imagination|imagination]] that can see
 what is there.
 
 The only way to suggest the point is by an example of something, indeed of
 almost anything, that has been considered beautiful or wonderful.
 George Wyndham once told me that he had seen one of the first
-aeroplanes rise for the first time and it was very wonderful
-but not so wonderful as a horse allowing a man to ride on him.
-Somebody else has said that a fine man on a fine horse is the noblest
+aeroplanes rise for the first [[Time|time]] and it was very wonderful
+but not so wonderful as a [[Horse|horse]] allowing a man to ride on him.
+Somebody else has said that a fine man on a fine [[Horse|horse]] is the noblest
 bodily object in the world.  Now, so long as people feel this in
-the right way, all is well.  The first and best way of appreciating it
-is to come of people with a tradition of treating animals properly;
+the right way, all is [[Well|well]].  The first and best way of appreciating it
+is to come of people with a tradition of treating [[Animals|animals]] properly;
 of men in the right relation to horses.  A boy who remembers his
-father who rode a horse, who rode it well and treated it well,
+father who rode a [[Horse|horse]], who rode it [[Well|well]] and treated it [[Well|well]],
 will know that the relation can be satisfactory and will be satisfied.
 He will be all the more indignant at the ill-treatment of horses
 because he knows how they ought to be treated; but he will
-see nothing but what is normal in a man riding on a horse.
+see nothing but what is normal in a man riding on a [[Horse|horse]].
 He will not listen to the great modern philosopher who explains
-to him that the horse ought to be riding on the man.
+to him that the [[Horse|horse]] ought to be riding on the man.
 He will not pursue the pessimist fancy of Swift and say that men must
-be despised as monkeys and horses worshipped as gods.  And horse
+be despised as monkeys and horses worshipped as gods.  And [[Horse|horse]]
 and man together making an image that is to him human and civilised,
-it will be easy, as it were, to lift horse and man together into something
+it will be easy, as it were, to lift [[Horse|horse]] and man together into something
 heroic or symbolical; like a vision of St. George in the clouds.
-The fable of the winged horse will not be wholly unnatural to him:
-and he will know why Ariosto set many a Christian hero in such
-an airy saddle, and made him the rider of the sky.  For the horse
+The [[Fable|fable]] of the winged [[Horse|horse]] will not be wholly unnatural to him:
+and he will know why Ariosto set many a Christian [[Hero|hero]] in such
+an airy saddle, and made him the rider of the sky.  For the [[Horse|horse]]
 has really been lifted up along with the man in the wildest fashion
 in the very word we use when we speak 'chivalry.' The very name
-of the horse has been given to the highest mood and moment of the man;
+of the [[Horse|horse]] has been given to the highest mood and moment of the man;
 so that we might almost say that the handsomest compliment to a man
-is to call him a horse.
+is to call him a [[Horse|horse]].
 
 But if a man has got into a mood in which he is not able to feel this
-sort of wonder, then his cure must begin right at the other end.  We must
+sort of [[Wonder|wonder]], then his cure must begin right at the other end.  We must
 now suppose that he has drifted into a dull mood, in which somebody
-sitting on a horse means no more than somebody sitting on a chair.
-The wonder of which Wyndham spoke, the beauty that made the thing seem
+sitting on a [[Horse|horse]] means no more than somebody sitting on a chair.
+The [[Wonder|wonder]] of which Wyndham spoke, the [[Beauty|beauty]] that made the thing seem
 an equestrian statue, the meaning of the more chivalric horseman,
 may have become to him merely a convention and a bore.
 Perhaps they have been merely a fashion; perhaps they have gone
 out of fashion; perhaps they have been talked about too much
 or talked about in the wrong way; perhaps it was then difficult
 to care for horses without the horrible risk of being horsy.
-Anyhow, he has got into a condition when he cares no more for a horse
-than for a towel-horse. His grandfather's charge at Balaclava seems
+Anyhow, he has got into a condition when he cares no more for a [[Horse|horse]]
+than for a towel-[[Horse|horse]]. His grandfather's charge at Balaclava seems
 to him as dull and dusty as the album containing such family portraits.
 Such a person has not really become enlightened about the album;
-on the contrary, he has only become blind with the dust.
+on the contrary, he has only become blind with the [[Dust|dust]].
 But when he has reached that degree of blindness, he will not be able
-to look at a horse or a horseman at all until he has seen the whole
+to look at a [[Horse|horse]] or a horseman at all until he has seen the whole
 thing as a thing entirely unfamiliar and almost unearthly.
 
-Out of some dark forest under some ancient dawn there
+Out of some dark forest under some ancient [[Dawn|dawn]] there
 must come towards us, with lumbering yet dancing motions,
 one of the very queerest of the prehistoric creatures.
-We must see for the first time the strangely small head set on a neck
+We must see for the first [[Time|time]] the strangely small head set on a neck
 not only longer but thicker than itself, as the face of a gargoyle
 is thrust out upon a gutter-spout, the one disproportionate crest
 of hair running along the ridge of that heavy neck like a beard
 in the wrong place; the feet, each like a solid club of horn,
-alone amid the feet of so many cattle; so that the true fear is
+[[Alone|alone]] amid the feet of so many cattle; so that the true [[Fear|fear]] is
 to be found in showing, not the cloven, but the uncloven hoof.
-Nor is it mere verbal fancy to see him thus as a unique monster;
-for in a sense a monster means what is unique, and he is really unique.
+Nor is it mere verbal fancy to see him thus as a unique [[Monster|monster]];
+for in a sense a [[Monster|monster]] means what is unique, and he is really unique.
 But the point is that when we thus see him as the first man saw him,
 we begin once more to have some imaginative sense of what it meant
-when the first man rode him.  In such a dream he may seem ugly,
+when the first man rode him.  In such [[A Dream|a dream]] he may seem ugly,
 but he does not seem unimpressive; and certainly that two-legged
-dwarf who could get on top of him will not seem unimpressive.
-By a longer and more erratic road we shall come back to the same
-marvel of the man and the horse; and the marvel will be, if possible,
+[[Dwarf|dwarf]] who could get on top of him will not seem unimpressive.
+By a longer and more erratic [[Road|road]] we shall come back to the same
+marvel of the man and the [[Horse|horse]]; and the marvel will be, if possible,
 even more marvellous.  We shall have again a glimpse of St. George;
-the more glorious because St. George is not riding on the horse,
+the more glorious because St. George is not riding on the [[Horse|horse]],
 but rather riding on the dragon.
 
 In this example, which I have taken merely because it is an example,
-it will be noted that I do not say that the nightmare seen by
+it will be noted that I do not say that the [[nightmare]] seen by
 the first man of the forest is either more true or more wonderful
 than the normal mare of the stable seen by the civilised person
 who can appreciate what is normal.  Of the two extremes, I think
-on the whole that the traditional grasp of truth is the better.
-But I say that the truth is found at one or other of these two extremes,
+on the whole that the traditional grasp of [[Truth|truth]] is the better.
+But I say that the [[Truth|truth]] is found at one or other of these two extremes,
 and is lost in the intermediate condition of mere fatigue and
 forgetfulness of tradition.  In other words, I say it is better
-to see a horse as a monster than to see it only as a slow substitute
-for a motor-car. If we have got into that state of mind about a horse
-as something stale, it is far better to be frightened of a horse
+to see a [[Horse|horse]] as a [[Monster|monster]] than to see it only as a slow substitute
+for a motor-car. If we have got into that state of mind about a [[Horse|horse]]
+as something stale, it is far better to be frightened of a [[Horse|horse]]
 because it is a good deal too fresh.
 
-Now, as it is with the monster that is called a horse, so it
-is with the monster that is called a man.  Of course the best
+Now, as it is with the [[Monster|monster]] that is called a [[Horse|horse]], so it
+is with the [[Monster|monster]] that is called a man.  Of course the best
 condition of all, in my opinion, is always to have regarded man
-as he is regarded in my philosophy.  He who holds the Christian
-and Catholic view of human nature will feel certain that it is
+as he is regarded in my [[philosophy]].  He who holds the Christian
+and Catholic view of human [[Nature|nature]] will feel certain that it is
 a universal and therefore a sane view, and will be satisfied.
 But if he has lost the sane vision, he can only get it back
 by something very like a mad vision; that is, by seeing man
 as a strange animal and realising how strange an animal he is.
-But just as seeing the horse as a prehistoric prodigy ultimately led
+But just as seeing the [[Horse|horse]] as a prehistoric prodigy ultimately led
 back to, and not away from, an admiration for the mastery of man,
 so the really detached consideration of the curious career of man
-will lead back to, and not away from, the ancient faith in the dark
+will lead back to, and not away from, the ancient [[Faith|faith]] in the dark
 designs of God.  In other words, it is exactly when we do see
 how queer the quadruped is that we praise the man who mounts him;
 and exactly when we do see how queer the biped is that we praise
-the Providence that made him.
+the [[Providence]] that made him.
 
 In short, it is the purpose of this introduction to maintain this thesis:
 that it is exactly when we do regard man as an animal that we know
 he is not an animal.  It is precisely when we do try to picture
-him as a sort of horse on its hind legs, that we suddenly realise
-that he must be something as miraculous as the winged horse that
+him as a sort of [[Horse|horse]] on its hind legs, that we suddenly realise
+that he must be something as miraculous as the winged [[Horse|horse]] that
 towered up into the clouds of heaven.  All roads lead to Rome,
-all ways lead round again to the central and civilised philosophy,
-including this road through elf-land and topsyturvydom.
+all ways lead round again to the central and civilised [[philosophy]],
+including this [[Road|road]] through elf-land and topsyturvydom.
 But it may be that it is better never to have left the land
 of the reasonable tradition, where men ride lightly upon horses
 and are mighty hunters before the Lord.
@@ -390,8 +390,8 @@ So also in the specially Christian case we have to react
 against the heavy bias of fatigue.  It is almost impossible
 to make the facts vivid, because the facts are familiar;
 and for fallen men it is often true that familiarity is fatigue.
-I am convinced that if we could tell the supernatural story of Christ
-word for word as of a Chinese hero, call him the Son of Heaven
+I am convinced that if we could tell the [[Supernatural|supernatural]] story of [[Christ]]
+word for word as of a Chinese [[Hero|hero]], call him the Son of Heaven
 instead of the Son of God, and trace his rayed nimbus in the gold
 tread of Chinese embroideries or the gold lacquer of Chinese pottery,
 instead of in the gold leaf of our own old Catholic paintings, there would
@@ -399,44 +399,44 @@ be a unanimous testimony to the spiritual purity of the story.
 We should hear nothing then of the injustice of substitution
 or the illogicality of atonement, of the superstitious exaggeration
 of the burden of sin or the impossible insolence of an invasion
-of the laws of nature.  We should admire the chivalry of the Chinese
+of the laws of [[Nature|nature]].  We should admire the chivalry of the Chinese
 conception of a god who fell from the sky to fight the dragons and
 save the wicked from being devoured by their own fault and folly.
 We should admire the subtlety of the Chinese view of life, which perceives
-that all human imperfection is in very truth a crying imperfection.
+that all human imperfection is in very [[Truth|truth]] a crying imperfection.
 We should admire the Chinese esoteric and superior wisdom,
 which said there are higher cosmic laws than the laws we know;
 we believe every common Indian conjurer who chooses to come to us and talk
-in the same style.  If Christianity were only a new oriental fashion,
-it would never be reproached with being an old and oriental faith.
+in the same style.  If [[Christianity]] were only a new oriental fashion,
+it would never be reproached with being an old and oriental [[Faith|faith]].
 I do not propose in this book to follow the alleged example of
 St. Francis Xavier with the opposite imaginative intention, and turn
 the Twelve Apostles into Mandarins; not so much to make them look
 like natives as to make them look like foreigners.  I do not propose
 to work what I believe would be a completely successful practical joke;
-that of telling the whole story of the Gospel and the whole history
+that of telling the whole story of the Gospel and the whole [[history]]
 of the church in a setting of pagodas and pigtails; and noting
-with malignant humour how much it was admired as a heathen story,
+with malignant [[Humour|humour]] how much it was admired as a heathen story,
 in the very quarters where it is condemned as a Christian story.
 But I do propose to strike wherever possible this note of what is new
 and strange, and for that reason the style even on so serious a subject
-may sometimes be deliberately grotesque and fanciful.  I do desire
+may sometimes be deliberately [[Grotesque|grotesque]] and fanciful.  I do [[Desire|desire]]
 to help the reader to see Christendom from the outside in the sense
 of seeing it as a whole, against the background of other historic things;
-just as I desire him to see humanity as a whole against the background
+just as I [[Desire|desire]] him to see humanity as a whole against the background
 of natural things.  And I say that in both cases, when seen thus,
-they stand out from their background like supernatural things.
+they stand out from their background like [[Supernatural|supernatural]] things.
 They do not fade into the rest with the colours of impressionism;
 they stand out from the rest with the colours of heraldry; as vivid
-as a red cross on a white shield or a black lion on a ground of gold.
-So stands the Red Clay against the green field of nature,
-or the White Christ against the red clay of his race.
+as a red [[Cross|cross]] on a white shield or a black [[Lion|lion]] on a ground of gold.
+So stands the Red Clay against the green field of [[Nature|nature]],
+or the White [[Christ]] against the red clay of his race.
 
 But in order to see them clearly we have to see them as a whole.
-We have to see how they developed as well as how they began;
+We have to see how they developed as [[Well|well]] as how they began;
 for the most incredible part of the story is that things which began
 thus should have developed thus.  Anyone who chooses to indulge
-in mere imagination can imagine that other things might have happened
+in mere [[Imagination|imagination]] can imagine that other things might have happened
 or other entities evolved.  Anyone thinking of what might have
 happened may conceive a sort of evolutionary equality; but anyone
 facing what did happen must face an exception and a prodigy.
@@ -445,14 +445,14 @@ if we choose make a fancy picture of his career transferred to some
 other animal.  An entertaining fantasia might be made in which
 elephants built in elephantine architecture, with towers and turrets
 like tusks and trunks, cities beyond the scale of any colossus.
-A pleasant fable might be conceived in which a cow had developed
+A pleasant [[Fable|fable]] might be conceived in which a cow had developed
 a costume, and put on four boots and two pairs of trousers.
 We could imagine a Supermonkey more marvellous than any Superman,
 a quadrumanous creature carving and painting with his hands and
 cooking and carpentering with his feet.  But if we are considering
 what did happen, we shall certainly decide that man has distanced
 everything else with a distance like that of the astronomical spaces
-and a speed like that of the still thunderbolt of the light.
+and a [[Speed|speed]] like that of the still thunderbolt of the light.
 And in the same fashion, while we can if we choose see the Church
 amid a mob of Mithraic or Manichean superstitions squabbling
 and killing each other at the end of the Empire, while we can

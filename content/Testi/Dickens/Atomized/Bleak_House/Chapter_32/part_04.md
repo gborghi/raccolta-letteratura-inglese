@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 32 (part 4)"
+title: "Bleak [[house|House]] — Chapter 32 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -34,7 +34,7 @@ won’t they?”
 
 “Ye-es,” is Mr. Weevle’s reluctant admission.
 
-“Why, Tony,” remonstrates his friend, “how you look! You don’t doubt
+“Why, Tony,” remonstrates his friend, “how you look! You don’t [[Doubt|doubt]]
 William Guppy? You don’t suspect any harm?”
 
 “I don’t suspect anything more than I know, William,” returns the
@@ -48,36 +48,36 @@ forming with his lips only the words, “What do you know?”
 “I know three things. First, I know that here we are whispering in
 secrecy, a pair of conspirators.”
 
-“Well!” says Mr. Guppy. “And we had better be that than a pair of
+“[[Well]]!” says Mr. Guppy. “And we had better be that than a pair of
 noodles, which we should be if we were doing anything else, for it’s
 the only way of doing what we want to do. Secondly?”
 
 “Secondly, it’s not made out to me how it’s likely to be profitable,
 after all.”
 
-Mr. Guppy casts up his eyes at the portrait of Lady Dedlock over the
+Mr. Guppy casts up his eyes at the portrait of [[Lady Dedlock]] over the
 mantelshelf and replies, “Tony, you are asked to leave that to the
-honour of your friend. Besides its being calculated to serve that
+[[Honour|honour]] of your friend. Besides its being calculated to serve that
 friend in those chords of the human mind which—which need not be
 called into agonizing vibration on the present occasion—your friend
-is no fool. What’s that?”
+is no [[Fool|fool]]. What’s that?”
 
-“It’s eleven o’clock striking by the bell of Saint Paul’s. Listen and
-you’ll hear all the bells in the city jangling.”
+“It’s eleven o’[[Clock|clock]] striking by the bell of Saint Paul’s. Listen and
+you’ll hear all [[The Bells|the bells]] in the [[City|city]] jangling.”
 
 Both sit silent, listening to the metal voices, near and distant,
 resounding from towers of various heights, in tones more various than
 their situations. When these at length cease, all seems more
 mysterious and quiet than before. One disagreeable result of
-whispering is that it seems to evoke an atmosphere of silence,
-haunted by the ghosts of sound—strange cracks and tickings, the
+whispering is that it seems to evoke an atmosphere of [[Silence|silence]],
+haunted by the [[Ghosts|ghosts]] of sound—strange cracks and tickings, the
 rustling of garments that have no substance in them, and the tread of
-dreadful feet that would leave no mark on the sea-sand or the winter
-snow. So sensitive the two friends happen to be that the air is full
+dreadful feet that would leave no mark on the sea-sand or the [[Winter|winter]]
+[[Snow|snow]]. So sensitive the two friends happen to be that the air is full
 of these phantoms, and the two look over their shoulders by one
 consent to see that the door is shut.
 
-“Yes, Tony?” says Mr. Guppy, drawing nearer to the fire and biting
+“Yes, Tony?” says Mr. Guppy, drawing nearer to the [[Fire|fire]] and biting
 his unsteady thumb-nail. “You were going to say, thirdly?”
 
 “It’s far from a pleasant thing to be plotting about a dead man in
@@ -91,25 +91,25 @@ YOU like it.”
 “As to dead men, Tony,” proceeds Mr. Guppy, evading this proposal,
 “there have been dead men in most rooms.”
 
-“I know there have, but in most rooms you let them alone, and—and
-they let you alone,” Tony answers.
+“I know there have, but in most rooms you let them [[Alone|alone]], and—and
+they let you [[Alone|alone]],” Tony answers.
 
 The two look at each other again. Mr. Guppy makes a hurried remark to
 the effect that they may be doing the deceased a service, that he
 hopes so. There is an oppressive blank until Mr. Weevle, by stirring
-the fire suddenly, makes Mr. Guppy start as if his heart had been
+the [[Fire|fire]] suddenly, makes Mr. Guppy start as if his heart had been
 stirred instead.
 
 “Fah! Here’s more of this hateful soot hanging about,” says he. “Let
-us open the window a bit and get a mouthful of air. It’s too close.”
+us open the [[Window|window]] a bit and get a mouthful of air. It’s too close.”
 
-He raises the sash, and they both rest on the window-sill, half in
+He raises the sash, and they both rest on the [[Window|window]]-sill, half in
 and half out of the room. The neighbouring houses are too near to
 admit of their seeing any sky without craning their necks and looking
-up, but lights in frowsy windows here and there, and the rolling of
+up, but lights in frowsy windows here and there, and the [[rolling]] of
 distant carriages, and the new expression that there is of the stir
 of men, they find to be comfortable. Mr. Guppy, noiselessly tapping
-on the window-sill, resumes his whispering in quite a light-comedy
+on the [[Window|window]]-sill, resumes his whispering in quite a light-[[Comedy|comedy]]
 tone.
 
 “By the by, Tony, don’t forget old Smallweed,” meaning the younger of
@@ -124,7 +124,7 @@ you, since you have been such allies?”
 
 Tony shakes his head. “I don’t know. Can’t imagine. If we get through
 this business without rousing his suspicions, I shall be better
-informed, no doubt. How can I know without seeing them, when he don’t
+informed, no [[Doubt|doubt]]. How can I know without seeing them, when he don’t
 know himself? He is always spelling out words from them, and chalking
 them over the table and the shop-wall, and asking what this is and
 what that is; but his whole stock from beginning to end may easily be
@@ -142,10 +142,10 @@ worth something.”
 
 “Or he may have been taken in, in some pretended bargain. Or he may
 have been muddled altogether by long staring at whatever he HAS got,
-and by drink, and by hanging about the Lord Chancellor’s Court and
+and by drink, and by hanging about the Lord Chancellor’s [[Court]] and
 hearing of documents for ever,” returns Mr. Weevle.
 
-Mr. Guppy sitting on the window-sill, nodding his head and balancing
+Mr. Guppy sitting on the [[Window|window]]-sill, nodding his head and balancing
 all these possibilities in his mind, continues thoughtfully to tap
 it, and clasp it, and measure it with his hand, until he hastily
 draws his hand away.

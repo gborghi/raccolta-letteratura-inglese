@@ -18,18 +18,18 @@ CHAPTER II.
 The Mail
 
 
-It was the Dover road that lay, on a Friday night late in November,
-before the first of the persons with whom this history has business.
-The Dover road lay, as to him, beyond the Dover mail, as it lumbered up
-Shooter’s Hill. He walked up hill in the mire by the side of the mail,
+It was the Dover [[Road|road]] that lay, on a Friday [[Night|night]] late in November,
+before the first of the persons with whom this [[history]] has business.
+The Dover [[Road|road]] lay, as to him, beyond the Dover mail, as it lumbered up
+Shooter’s [[Hill]]. He walked up [[Hill|hill]] in the mire by the side of the mail,
 as the rest of the passengers did; not because they had the least relish
-for walking exercise, under the circumstances, but because the hill,
+for walking exercise, under the circumstances, but because the [[Hill|hill]],
 and the harness, and the mud, and the mail, were all so heavy, that the
 horses had three times already come to a stop, besides once drawing the
-coach across the road, with the mutinous intent of taking it back
+coach across the [[Road|road]], with the mutinous intent of taking it back
 to Blackheath. Reins and whip and coachman and guard, however, in
 combination, had read that article of war which forbade a purpose
-otherwise strongly in favour of the argument, that some brute animals
+otherwise strongly in favour of the argument, that some brute [[Animals|animals]]
 are endued with Reason; and the team had capitulated and returned to
 their duty.
 
@@ -38,43 +38,43 @@ the thick mud, floundering and stumbling between whiles, as if they were
 falling to pieces at the larger joints. As often as the driver rested
 them and brought them to a stand, with a wary “Wo-ho! so-ho-then!” the
 near leader violently shook his head and everything upon it--like an
-unusually emphatic horse, denying that the coach could be got up the
-hill. Whenever the leader made this rattle, the passenger started, as a
+unusually emphatic [[Horse|horse]], denying that the coach could be got up the
+[[Hill|hill]]. Whenever the leader made this rattle, the passenger started, as a
 nervous passenger might, and was disturbed in mind.
 
 There was a steaming mist in all the hollows, and it had roamed in its
-forlornness up the hill, like an evil spirit, seeking rest and finding
+forlornness up the [[Hill|hill]], like an evil spirit, seeking rest and finding
 none. A clammy and intensely cold mist, it made its slow way through the
 air in ripples that visibly followed and overspread one another, as the
 waves of an unwholesome sea might do. It was dense enough to shut out
 everything from the light of the coach-lamps but these its own workings,
-and a few yards of road; and the reek of the labouring horses steamed
+and a few yards of [[Road|road]]; and the reek of the labouring horses steamed
 into it, as if they had made it all.
 
-Two other passengers, besides the one, were plodding up the hill by the
+Two other passengers, besides the one, were plodding up the [[Hill|hill]] by the
 side of the mail. All three were wrapped to the cheekbones and over the
 ears, and wore jack-boots. Not one of the three could have said, from
 anything he saw, what either of the other two was like; and each was
 hidden under almost as many wrappers from the eyes of the mind, as from
-the eyes of the body, of his two companions. In those days, travellers
+the eyes of the [[Body|body]], of his two companions. In those days, travellers
 were very shy of being confidential on a short notice, for anybody on
-the road might be a robber or in league with robbers. As to the latter,
-when every posting-house and ale-house could produce somebody in
+the [[Road|road]] might be a robber or in league with robbers. As to the latter,
+when every posting-[[house]] and ale-[[house]] could produce somebody in
 “the Captain’s” pay, ranging from the landlord to the lowest stable
 non-descript, it was the likeliest thing upon the cards. So the guard
-of the Dover mail thought to himself, that Friday night in November, one
-thousand seven hundred and seventy-five, lumbering up Shooter’s Hill, as
+of the Dover mail thought to himself, that Friday [[Night|night]] in November, one
+thousand seven hundred and seventy-five, lumbering up Shooter’s [[Hill]], as
 he stood on his own particular perch behind the mail, beating his feet,
 and keeping an eye and a hand on the arm-chest before him, where a
-loaded blunderbuss lay at the top of six or eight loaded horse-pistols,
+loaded blunderbuss lay at the top of six or eight loaded [[Horse|horse]]-pistols,
 deposited on a substratum of cutlass.
 
 The Dover mail was in its usual genial position that the guard suspected
 the passengers, the passengers suspected one another and the guard, they
 all suspected everybody else, and the coachman was sure of nothing but
-the horses; as to which cattle he could with a clear conscience have
+the horses; as to which cattle he could with a clear [[Conscience|conscience]] have
 taken his oath on the two Testaments that they were not fit for the
-journey.
+[[Journey|journey]].
 
 “Wo-ho!” said the coachman. “So, then! One more pull and you’re at the
 top and be damned to you, for I have had trouble enough to get you to
@@ -82,14 +82,14 @@ it!--Joe!”
 
 “Halloa!” the guard replied.
 
-“What o’clock do you make it, Joe?”
+“What o’[[Clock|clock]] do you make it, Joe?”
 
 “Ten minutes, good, past eleven.”
 
-“My blood!” ejaculated the vexed coachman, “and not atop of Shooter’s
+“My [[Blood|blood]]!” ejaculated the vexed coachman, “and not atop of Shooter’s
 yet! Tst! Yah! Get on with you!”
 
-The emphatic horse, cut short by the whip in a most decided negative,
+The emphatic [[Horse|horse]], cut short by the whip in a most decided negative,
 made a decided scramble for it, and the three other horses followed
 suit. Once more, the Dover mail struggled on, with the jack-boots of its
 passengers squashing along by its side. They had stopped when the coach
@@ -98,8 +98,8 @@ had had the hardihood to propose to another to walk on a little ahead
 into the mist and darkness, he would have put himself in a fair way of
 getting shot instantly as a highwayman.
 
-The last burst carried the mail to the summit of the hill. The horses
-stopped to breathe again, and the guard got down to skid the wheel for
+The last burst carried the mail to the summit of the [[Hill|hill]]. The horses
+stopped to breathe again, and the guard got down to skid the [[Wheel|wheel]] for
 the descent, and open the coach-door to let the passengers in.
 
 “Tst! Joe!” cried the coachman in a warning voice, looking down from his
@@ -109,35 +109,35 @@ box.
 
 They both listened.
 
-“I say a horse at a canter coming up, Joe.”
+“I say a [[Horse|horse]] at a canter coming up, Joe.”
 
-“_I_ say a horse at a gallop, Tom,” returned the guard, leaving his hold
-of the door, and mounting nimbly to his place. “Gentlemen! In the king’s
+“_I_ say a [[Horse|horse]] at a gallop, Tom,” returned the guard, leaving his hold
+of the door, and mounting nimbly to his place. “Gentlemen! In the [[King|king]]’s
 name, all of you!”
 
 With this hurried adjuration, he cocked his blunderbuss, and stood on
 the offensive.
 
-The passenger booked by this history, was on the coach-step, getting in;
+The passenger booked by this [[history]], was on the coach-step, getting in;
 the two other passengers were close behind him, and about to follow. He
 remained on the step, half in the coach and half out of; they remained
-in the road below him. They all looked from the coachman to the guard,
+in the [[Road|road]] below him. They all looked from the coachman to the guard,
 and from the guard to the coachman, and listened. The coachman looked
 back and the guard looked back, and even the emphatic leader pricked up
 his ears and looked back, without contradicting.
 
 The stillness consequent on the cessation of the rumbling and labouring
-of the coach, added to the stillness of the night, made it very quiet
+of the coach, added to the stillness of the [[Night|night]], made it very quiet
 indeed. The panting of the horses communicated a tremulous motion to
 the coach, as if it were in a state of agitation. The hearts of the
 passengers beat loud enough perhaps to be heard; but at any rate, the
 quiet pause was audibly expressive of people out of breath, and holding
 the breath, and having the pulses quickened by expectation.
 
-The sound of a horse at a gallop came fast and furiously up the hill.
+The sound of a [[Horse|horse]] at a gallop came fast and furiously up the [[Hill|hill]].
 
 “So-ho!” the guard sang out, as loud as he could roar. “Yo there! Stand!
-I shall fire!”
+I shall [[Fire|fire]]!”
 
 The pace was suddenly checked, and, with much splashing and floundering,
 a man’s voice called from the mist, “Is that the Dover mail?”
@@ -152,7 +152,7 @@ a man’s voice called from the mist, “Is that the Dover mail?”
 
 “What passenger?”
 
-“Mr. Jarvis Lorry.”
+“Mr. [[Jarvis Lorry]].”
 
 Our booked passenger showed in a moment that it was his name. The guard,
 the coachman, and the two other passengers eyed him distrustfully.
@@ -174,25 +174,25 @@ himself. “He’s hoarser than suits me, is Jerry.”)
 “A despatch sent after you from over yonder. T. and Co.”
 
 “I know this messenger, guard,” said Mr. Lorry, getting down into the
-road--assisted from behind more swiftly than politely by the other two
+[[Road|road]]--assisted from behind more swiftly than politely by the other two
 passengers, who immediately scrambled into the coach, shut the door, and
-pulled up the window. “He may come close; there’s nothing wrong.”
+pulled up the [[Window|window]]. “He may come close; there’s nothing wrong.”
 
-“I hope there ain’t, but I can’t make so ‘Nation sure of that,” said the
+“I [[Hope|hope]] there ain’t, but I can’t make so ‘Nation sure of that,” said the
 guard, in gruff soliloquy. “Hallo you!”
 
-“Well! And hallo you!” said Jerry, more hoarsely than before.
+“[[Well]]! And hallo you!” said Jerry, more hoarsely than before.
 
 “Come on at a footpace! d’ye mind me? And if you’ve got holsters to that
 saddle o’ yourn, don’t let me see your hand go nigh ’em. For I’m a devil
 at a quick mistake, and when I make one it takes the form of Lead. So
 now let’s look at you.”
 
-The figures of a horse and rider came slowly through the eddying mist,
+The figures of a [[Horse|horse]] and rider came slowly through the eddying mist,
 and came to the side of the mail, where the passenger stood. The rider
 stooped, and, casting up his eyes at the guard, handed the passenger
-a small folded paper. The rider’s horse was blown, and both horse and
-rider were covered with mud, from the hoofs of the horse to the hat of
+a small folded paper. The rider’s [[Horse|horse]] was blown, and both [[Horse|horse]] and
+rider were covered with mud, from the hoofs of the [[Horse|horse]] to the hat of
 the man.
 
 “Guard!” said the passenger, in a tone of quiet business confidence.
@@ -202,7 +202,7 @@ blunderbuss, his left at the barrel, and his eye on the horseman,
 answered curtly, “Sir.”
 
 “There is nothing to apprehend. I belong to Tellson’s Bank. You must
-know Tellson’s Bank in London. I am going to Paris on business. A crown
+know Tellson’s Bank in [[London]]. I am going to [[Paris]] on business. A [[Crown|crown]]
 to drink. I may read this?”
 
 “If so be as you’re quick, sir.”
@@ -216,7 +216,7 @@ Jerry started in his saddle. “That’s a Blazing strange answer, too,”
  said he, at his hoarsest.
 
 “Take that message back, and they will know that I received this, as
-well as if I wrote. Make the best of your way. Good night.”
+[[Well|well]] as if I wrote. Make the best of your way. Good [[Night|night]].”
 
 With those words the passenger opened the coach-door and got in; not at
 all assisted by his fellow-passengers, who had expeditiously secreted
@@ -229,10 +229,10 @@ it as it began the descent. The guard soon replaced his blunderbuss
 in his arm-chest, and, having looked to the rest of its contents, and
 having looked to the supplementary pistols that he wore in his belt,
 looked to a smaller chest beneath his seat, in which there were a
-few smith’s tools, a couple of torches, and a tinder-box. For he was
+few [[smith]]’s tools, a couple of torches, and a tinder-box. For he was
 furnished with that completeness that if the coach-lamps had been blown
 and stormed out, which did occasionally happen, he had only to shut
-himself up inside, keep the flint and steel sparks well off the straw,
+himself up inside, keep the flint and steel sparks [[Well|well]] off the straw,
 and get a light with tolerable safety and ease (if he were lucky) in
 five minutes.
 
@@ -251,13 +251,13 @@ five minutes.
 “That’s a coincidence, too,” the guard mused, “for I made the same of it
 myself.”
 
-Jerry, left alone in the mist and darkness, dismounted meanwhile, not
-only to ease his spent horse, but to wipe the mud from his face, and
+Jerry, left [[Alone|alone]] in the mist and darkness, dismounted meanwhile, not
+only to ease his spent [[Horse|horse]], but to wipe the mud from his face, and
 shake the wet out of his hat-brim, which might be capable of
 holding about half a gallon. After standing with the bridle over his
 heavily-splashed arm, until the wheels of the mail were no longer within
-hearing and the night was quite still again, he turned to walk down the
-hill.
+hearing and the [[Night|night]] was quite still again, he turned to walk down the
+[[Hill|hill]].
 
 “After that there gallop from Temple Bar, old lady, I won’t trust your
 fore-legs till I get you on the level,” said this hoarse messenger,

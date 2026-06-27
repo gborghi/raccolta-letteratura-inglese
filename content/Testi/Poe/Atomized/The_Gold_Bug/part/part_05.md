@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 5)"
+title: "[[The Gold-Bug]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -26,7 +26,7 @@ tags:
 
       any yet seen. It was a species of table land, near the summit of
 
-      an almost inaccessible hill, densely wooded from base to
+      an almost inaccessible [[Hill|hill]], densely wooded from base to
 
       pinnacle, and interspersed with huge crags that appeared to lie
 
@@ -56,7 +56,7 @@ tags:
 
       surpassed them all, and all other trees which I had then ever
 
-      seen, in the beauty of its foliage and form, in the wide spread
+      seen, in the [[Beauty|beauty]] of its foliage and form, in the wide spread
 
       of its branches, and in the general majesty of its appearance.
 
@@ -214,7 +214,7 @@ tags:
 
       work your way out upon that limb as far as you can. If you see
 
-      anything strange, let me know.” By this time what little doubt I
+      anything strange, let me know.” By this [[Time|time]] what little [[Doubt|doubt]] I
 
       might have entertained of my poor friend’s insanity, was put
 
@@ -222,7 +222,7 @@ tags:
 
       stricken with lunacy, and I became seriously anxious about
 
-      getting him home. While I was pondering upon what was best to be
+      getting him [[Home|home]]. While I was pondering upon what was best to be
 
       done, Jupiter’s voice was again heard.
 
@@ -254,4 +254,4 @@ tags:
 
       “Do!” said I, glad of an opportunity to interpose a word, “why
 
-      come home and go to bed. Come now!—that’s a fine fellow. It’s
+      come [[Home|home]] and go to bed. Come now!—that’s a fine fellow. It’s

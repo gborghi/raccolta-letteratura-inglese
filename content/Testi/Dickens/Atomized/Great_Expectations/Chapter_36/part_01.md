@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 36 (part 1)"
+title: "[[Great Expectations]] — Chapter 36 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,7 +19,7 @@ Chapter XXXVI.
 
 Herbert and I went on from bad to worse, in the way of increasing our
 debts, looking into our affairs, leaving Margins, and the like
-exemplary transactions; and Time went on, whether or no, as he has a
+exemplary transactions; and [[Time]] went on, whether or no, as he has a
 way of doing; and I came of age,—in fulfilment of Herbert’s prediction,
 that I should do so before I knew where I was.
 
@@ -30,7 +30,7 @@ one-and-twentieth birthday, with a crowd of speculations and
 anticipations, for we had both considered that my guardian could hardly
 help saying something definite on that occasion.
 
-I had taken care to have it well understood in Little Britain when my
+I had taken care to have it [[Well|well]] understood in Little Britain when my
 birthday was. On the day before it, I received an official note from
 Wemmick, informing me that Mr. Jaggers would be glad if I would call
 upon him at five in the afternoon of the auspicious day. This convinced
@@ -42,10 +42,10 @@ In the outer office Wemmick offered me his congratulations, and
 incidentally rubbed the side of his nose with a folded piece of
 tissue-paper that I liked the look of. But he said nothing respecting
 it, and motioned me with a nod into my guardian’s room. It was
-November, and my guardian was standing before his fire leaning his back
+November, and my guardian was standing before his [[Fire|fire]] leaning his back
 against the chimney-piece, with his hands under his coattails.
 
-“Well, Pip,” said he, “I must call you Mr. Pip to-day. Congratulations,
+“[[Well]], Pip,” said he, “I must call you Mr. Pip to-day. Congratulations,
 Mr. Pip.”
 
 We shook hands,—he was always a remarkably short shaker,—and I thanked
@@ -54,7 +54,7 @@ him.
 “Take a chair, Mr. Pip,” said my guardian.
 
 As I sat down, and he preserved his attitude and bent his brows at his
-boots, I felt at a disadvantage, which reminded me of that old time
+boots, I felt at a disadvantage, which reminded me of that old [[Time|time]]
 when I had been put upon a tombstone. The two ghastly casts on the
 shelf were not far from him, and their expression was as if they were
 making a stupid apoplectic attempt to attend to the conversation.
@@ -153,5 +153,5 @@ him.
 After a pause, I hinted,—
 
 “There was a question just now, Mr. Jaggers, which you desired me to
-waive for a moment. I hope I am doing nothing wrong in asking it
+waive for a moment. I [[Hope|hope]] I am doing nothing wrong in asking it
 again?”

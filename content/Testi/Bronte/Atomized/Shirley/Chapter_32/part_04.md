@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 32 (part 4)"
+title: "[[Shirley]] — Chapter 32 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ She did not hear or turn. He hastened after and overtook her.
 
 
 
-"You know nothing about death, Martin; you are too young for me to talk
+"You know nothing about [[Death|death]], Martin; you are too young for me to talk
 
 to concerning such a thing."
 
@@ -32,7 +32,7 @@ to concerning such a thing."
 
 are always making sago or tapioca or something good for him. I never go
 
-into the kitchen but there is a saucepan on the fire, cooking him some
+into the kitchen but there is a saucepan on the [[Fire|fire]], cooking him some
 
 dainty. I think I will play the old soldier, and be fed on the fat of
 
@@ -50,7 +50,7 @@ the land like him."
 
 Again she stopped. She leaned against a tree, trembling, shuddering, and
 
-as pale as death.
+as pale as [[Death|death]].
 
 
 
@@ -60,7 +60,7 @@ was, as he would have expressed it, "nuts" to him to see this. It told
 
 him so much, and he was beginning to have a great relish for discovering
 
-secrets. In another sense it reminded him of what he had once felt when
+[[Secrets|secrets]]. In another sense it reminded him of what he had once felt when
 
 he had heard a blackbird lamenting for her nestlings, which Matthew had
 
@@ -94,7 +94,7 @@ helplessness, he perfectly liked to feel himself of use.
 
 "Martin, before we separate, assure me seriously, and on your word of
 
-honour, that Mr. Moore is better."
+[[Honour|honour]], that Mr. Moore is better."
 
 
 
@@ -108,11 +108,11 @@ an authentic answer."
 
 
 
-"You may tell them he is well enough, only idle. You may tell them that
+"You may tell them he is [[Well|well]] enough, only idle. You may tell them that
 
 he takes mutton chops for dinner, and the best of arrowroot for supper.
 
-I intercepted a basin myself one night on its way upstairs, and ate half
+I intercepted a basin myself one [[Night|night]] on its way upstairs, and ate half
 
 of it."
 
@@ -124,7 +124,7 @@ of it."
 
 "Nurses him? The great baby! Why, a woman as round and big as our
 
-largest water-butt--a rough, hard-favoured old girl. I make no doubt
+largest [[Water|water]]-butt--a rough, hard-favoured old girl. I make no [[Doubt|doubt]]
 
 she leads him a rich life. Nobody else is let near him. He is chiefly in
 
@@ -144,7 +144,7 @@ wish she may not be starving him."
 
 
 
-Profound silence and meditation on Caroline's part, and a sly
+Profound [[Silence|silence]] and meditation on Caroline's part, and a sly
 
 watchfulness on Martin's.
 
@@ -158,11 +158,11 @@ watchfulness on Martin's.
 
 
 
-Silence again.
+[[Silence]] again.
 
 
 
-"Did not you come to our house once with Mrs. Pryor, about five weeks
+"Did not you come to our [[house]] once with Mrs. Pryor, about five weeks
 
 since, to ask after him?" again inquired Martin.
 
@@ -194,11 +194,11 @@ we are at your father's gate."
 
 
 
-"Very well, what of that? I shall walk home with you."
+"Very [[Well|well]], what of that? I shall walk [[Home|home]] with you."
 
 
 
-"They will miss you, and wonder where you are."
+"They will miss you, and [[Wonder|wonder]] where you are."
 
 
 
@@ -214,7 +214,7 @@ adventure. It was better than muffins and toast.
 
 
 
-He walked home with Caroline. On the way he promised to see Mr. Moore,
+He walked [[Home|home]] with Caroline. On the way he promised to see Mr. Moore,
 
 in spite of the dragon who guarded his chamber, and appointed an hour on
 
@@ -226,7 +226,7 @@ nothing; still he liked it.
 
 
 
-Having reached home, the dry bread and the lecture were duly
+Having reached [[Home|home]], the dry bread and the lecture were duly
 
 administered to him, and he was dismissed to bed at an early hour. He
 
@@ -242,13 +242,13 @@ customarily dined in the back parlour. He stood before the mantelpiece,
 
 and lifted his candle to two pictures hung above--female heads: one, a
 
-type of serene beauty, happy and innocent; the other, more lovely, but
+type of serene [[Beauty|beauty]], happy and [[Innocent|innocent]]; the other, more lovely, but
 
 forlorn and desperate.
 
 
 
-"She looked like _that_," he said, gazing on the latter sketch, "when
+"She looked like _that_," he said, gazing on the latter [[Sketch|sketch]], "when
 
 she sobbed, turned white, and leaned against the tree."
 
@@ -260,7 +260,7 @@ of his pallet-bed--"I suppose she is what they call '_in love_'--yes,
 
 _in love_ with that long thing in the next chamber. Whisht! is that
 
-Horsfall clattering him? I wonder he does not yell out. It really sounds
+Horsfall clattering him? I [[Wonder|wonder]] he does not yell out. It really sounds
 
 as if she had fallen on him tooth and nail; but I suppose she is making
 
@@ -268,7 +268,7 @@ the bed. I saw her at it once. She hit into the mattresses as if she was
 
 boxing. It is queer, Zillah (they call her Zillah)--Zillah Horsfall is a
 
-woman, and Caroline Helstone is a woman; they are two individuals of the
+woman, and [[Caroline Helstone]] is a woman; they are two individuals of the
 
 same species--not much alike though. Is she a pretty girl, that
 
@@ -276,9 +276,9 @@ Caroline? I suspect she is; very nice to look at--something so clear in
 
 her face, so soft in her eyes. I approve of her looking at me; it does
 
-me good. She has long eyelashes. Their shadow seems to rest where she
+me good. She has long eyelashes. Their [[Shadow|shadow]] seems to rest where she
 
-gazes, and to instil peace and thought. If she behaves well, and
+gazes, and to instil peace and thought. If she behaves [[Well|well]], and
 
 continues to suit me as she has suited me to-day, I may do her a good
 

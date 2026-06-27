@@ -26,13 +26,13 @@ tags:
 
       throat, and, by dint of sheer strength, strangled him
 
-      instantaneously. Thus, in far less time than I have taken to tell
+      instantaneously. Thus, in far less [[Time|time]] than I have taken to tell
 
       it, we found ourselves masters of the brig.
 
 
 
-      The only person of our opponents who was left alive was Richard
+      The only person of our opponents who was left alive was [[Richard]]
 
       Parker. This man, it will be remembered, I had knocked down with
 
@@ -42,23 +42,23 @@ tags:
 
       upon Peters touching him with his foot, he spoke, and entreated
 
-      for mercy. His head was only slightly cut, and otherwise he had
+      for [[Mercy|mercy]]. His head was only slightly cut, and otherwise he had
 
       received no injury, having been merely stunned by the blow. He
 
       now got up, and, for the present, we secured his hands behind his
 
-      back. The dog was still growling over Jones; but, upon
+      back. The dog was still growling over [[Jones]]; but, upon
 
-      examination, we found him completely dead, the blood issuing in a
+      examination, we found him completely dead, the [[Blood|blood]] issuing in a
 
-      stream from a deep wound in the throat, inflicted, no doubt, by
+      stream from a deep wound in the throat, inflicted, no [[Doubt|doubt]], by
 
       the sharp teeth of the animal.
 
 
 
-      It was now about one o’clock in the morning, and the wind was
+      It was now about one o’[[Clock|clock]] in the morning, and the [[Wind|wind]] was
 
       still blowing tremendously. The brig evidently laboured much more
 
@@ -72,7 +72,7 @@ tags:
 
       hatchway having been left open by myself when I descended. The
 
-      entire range of bulwarks to larboard had been swept away, as well
+      entire range of bulwarks to larboard had been swept away, as [[Well|well]]
 
       as the caboose, together with the jollyboat from the counter. The
 
@@ -84,11 +84,11 @@ tags:
 
       (a very reprehensible practice, occasionally resorted to by
 
-      ignorant ship-builders), so that it was in imminent danger of
+      ignorant [[Ship|ship]]-builders), so that it was in imminent danger of
 
-      working from its step. But, to crown all our difficulties, we
+      working from its step. But, to [[Crown|crown]] all our difficulties, we
 
-      plummed the well, and found no less than seven feet of water.
+      plummed the [[Well|well]], and found no less than seven feet of [[Water|water]].
 
 
 
@@ -96,7 +96,7 @@ tags:
 
       immediately at the pumps—Parker, of course, being set at liberty
 
-      to assist us in the labour. Augustus’s arm was bound up as well
+      to assist us in the labour. Augustus’s arm was bound up as [[Well|well]]
 
       as we could effect it, and he did what he could, but that was not
 
@@ -114,7 +114,7 @@ tags:
 
 
 
-      In this manner we passed a night of terrible anxiety and fatigue,
+      In this manner we passed a [[Night|night]] of terrible anxiety and fatigue,
 
       and, when the day at length broke, the gale had neither abated in
 
@@ -148,7 +148,7 @@ tags:
 
       heavy sea, striking the brig to the windward, threw her off
 
-      several points from the wind, and, before she could regain her
+      several points from the [[Wind|wind]], and, before she could regain her
 
       position, another broke completely over her, and hurled her full
 
@@ -156,7 +156,7 @@ tags:
 
       (the stowage had been knocking about perfectly at random for some
 
-      time), and for a few moments we thought nothing could save us
+      [[Time|time]]), and for a few moments we thought nothing could save us
 
       from capsizing. Presently, however, we partially righted; but the
 
@@ -204,7 +204,7 @@ tags:
 
 
 
-      At noon there seemed to be some slight appearance of the gale’s
+      At [[Noon|noon]] there seemed to be some slight appearance of the gale’s
 
       abating, but in this we were sadly disappointed, for it only
 
@@ -212,21 +212,21 @@ tags:
 
       in the afternoon it was utterly impossible to stand up against
 
-      the violence of the blast; and, as the night closed in upon us, I
+      the violence of the blast; and, as the [[Night|night]] closed in upon us, I
 
-      had not a shadow of hope that the vessel would hold together
+      had not a [[Shadow|shadow]] of [[Hope|hope]] that the vessel would hold together
 
       until morning.
 
 
 
-      By midnight we had settled very deep in the water, which was now
+      By midnight we had settled very deep in the [[Water|water]], which was now
 
       up to the orlop deck. The rudder went soon afterward, the sea
 
       which tore it away lifting the after portion of the brig entirely
 
-      from the water, against which she thumped in her descent with
+      from the [[Water|water]], against which she thumped in her descent with
 
       such a concussion as would be occasioned by going ashore. We had
 
@@ -254,7 +254,7 @@ tags:
 
 
 
-      We had scarcely time to draw breath after the violence of this
+      We had scarcely [[Time|time]] to draw breath after the violence of this
 
       shock, when one of the most tremendous waves I had then ever
 
@@ -262,4 +262,4 @@ tags:
 
       clear off, bursting in the hatchways, and filling every inch of
 
-      the vessel with water.
+      the vessel with [[Water|water]].

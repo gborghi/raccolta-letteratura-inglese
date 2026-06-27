@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 54 (part 3)"
+title: "Bleak [[house|House]] — Chapter 54 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -38,14 +38,14 @@ locks the door again. Sir Leicester looks on at this invasion of the
 sacred precincts with an icy stare.
 
 “Now, perhaps you may know me, ladies and gentlemen,” says Mr. Bucket
-in a confidential voice. “I am Inspector Bucket of the Detective, I
+in a confidential voice. “I am [[Inspector Bucket]] of the [[Detective]], I
 am; and this,” producing the tip of his convenient little staff from
 his breast-pocket, “is my authority. Now, you wanted to see Sir
-Leicester Dedlock, Baronet. Well! You do see him, and mind you, it
-ain’t every one as is admitted to that honour. Your name, old
-gentleman, is Smallweed; that’s what your name is; I know it well.”
+Leicester Dedlock, Baronet. [[Well]]! You do see him, and mind you, it
+ain’t every one as is admitted to that [[Honour|honour]]. Your name, old
+gentleman, is Smallweed; that’s what your name is; I know it [[Well|well]].”
 
-“Well, and you never heard any harm of it!” cries Mr. Smallweed in a
+“[[Well]], and you never heard any harm of it!” cries Mr. Smallweed in a
 shrill loud voice.
 
 “You don’t happen to know why they killed the pig, do you?” retorts
@@ -70,18 +70,18 @@ much lower key.
 
 “Once had a friend and brother serjeant of the same name,” says Mr.
 Bucket, offering his hand, “and consequently feel a liking for it.
-Mrs. Chadband, no doubt?”
+Mrs. Chadband, no [[Doubt|doubt]]?”
 
 “And Mrs. Snagsby,” Mr. Smallweed introduces.
 
 “Husband a law-stationer and a friend of my own,” says Mr. Bucket.
-“Love him like a brother! Now, what’s up?”
+“[[Love]] him like a brother! Now, what’s up?”
 
 “Do you mean what business have we come upon?” Mr. Smallweed asks, a
 little dashed by the suddenness of this turn.
 
 “Ah! You know what I mean. Let us hear what it’s all about in
-presence of Sir Leicester Dedlock, Baronet. Come.”
+presence of [[Sir Leicester Dedlock]], Baronet. Come.”
 
 Mr. Smallweed, beckoning Mr. Chadband, takes a moment’s counsel with
 him in a whisper. Mr. Chadband, expressing a considerable amount of
@@ -100,7 +100,7 @@ manner of things away, everywheres. Mr. Tulkinghorn wanted ’em and
 got ’em, but I looked ’em over first. I’m a man of business, and I
 took a squint at ’em. They was letters from the lodger’s sweetheart,
 and she signed Honoria. Dear me, that’s not a common name, Honoria,
-is it? There’s no lady in this house that signs Honoria is there? Oh,
+is it? There’s no lady in this [[house]] that signs Honoria is there? Oh,
 no, I don’t think so! Oh, no, I don’t think so! And not in the same
 hand, perhaps? Oh, no, I don’t think so!”
 
@@ -109,14 +109,14 @@ triumph, breaks off to ejaculate, “Oh, dear me! Oh, Lord! I’m shaken
 all to pieces!”
 
 “Now, when you’re ready,” says Mr. Bucket after awaiting his
-recovery, “to come to anything that concerns Sir Leicester Dedlock,
+recovery, “to come to anything that concerns [[Sir Leicester Dedlock]],
 Baronet, here the gentleman sits, you know.”
 
 “Haven’t I come to it, Mr. Bucket?” cries Grandfather Smallweed.
 “Isn’t the gentleman concerned yet? Not with Captain Hawdon, and his
-ever affectionate Honoria, and their child into the bargain? Come,
+ever affectionate Honoria, and their [[Child|child]] into the bargain? Come,
 then, I want to know where those letters are. That concerns me, if it
-don’t concern Sir Leicester Dedlock. I will know where they are. I
+don’t concern [[Sir Leicester Dedlock]]. I will know where they are. I
 won’t have ’em disappear so quietly. I handed ’em over to my friend
 and solicitor, Mr. Tulkinghorn, not to anybody else.”
 
@@ -128,13 +128,13 @@ what we want—what we all here want, Mr. Bucket. We want more
 painstaking and search-making into this murder. We know where the
 interest and the motive was, and you have not done enough. If George
 the vagabond dragoon had any hand in it, he was only an accomplice,
-and was set on. You know what I mean as well as any man.”
+and was set on. You know what I mean as [[Well|well]] as any man.”
 
 “Now I tell you what,” says Mr. Bucket, instantaneously altering his
 manner, coming close to him, and communicating an extraordinary
 fascination to the forefinger, “I am damned if I am a-going to have
 my case spoilt, or interfered with, or anticipated by so much as half
-a second of time by any human being in creation. YOU want more
+a second of [[Time|time]] by any human being in creation. YOU want more
 painstaking and search-making! YOU do? Do you see this hand, and do
-you think that I don’t know the right time to stretch it out and put
+you think that I don’t know the right [[Time|time]] to stretch it out and put
 it on the arm that fired that shot?”

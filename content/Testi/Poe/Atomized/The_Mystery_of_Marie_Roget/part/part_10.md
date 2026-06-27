@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 10)"
+title: "[[The Mystery of Marie Roget]] (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -18,13 +18,13 @@ tags:
 
       in by murderers. This is all which is proved, if any thing is.
 
-      The question of identity is not even approached, and L’Etoile has
+      The question of [[Identity|identity]] is not even approached, and L’Etoile has
 
       been at great pains merely to gainsay now what it has admitted
 
       only a moment before. ‘We are perfectly convinced,’ it says,
 
-      ‘that the body found was that of a murdered female.’
+      ‘that the [[Body|body]] found was that of a murdered female.’
 
 
 
@@ -40,9 +40,9 @@ tags:
 
       person saw the girl from the moment of her leaving her mother’s
 
-      house. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
+      [[house]]. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
 
-      the land of the living after nine o’clock on Sunday, June the
+      the land of the living after nine o’[[Clock|clock]] on [[Sunday]], June the
 
       twenty-second.’ As his argument is obviously an ex parte one, he
 
@@ -88,19 +88,19 @@ tags:
 
       and garters are sold in packages. The same may be said of the
 
-      flowers in her hat. One thing upon which M. Beauvais strongly
+      [[Flowers|flowers]] in her hat. One thing upon which M. Beauvais strongly
 
       insists is, that the clasp on the garter found, had been set back
 
       to take it in. This amounts to nothing; for most women find it
 
-      proper to take a pair of garters home and fit them to the size of
+      proper to take a pair of garters [[Home|home]] and fit them to the size of
 
       the limbs they are to encircle, rather than to try them in the
 
       store where they purchase.’ Here it is difficult to suppose the
 
-      reasoner in earnest. Had M. Beauvais, in his search for the body
+      reasoner in earnest. Had M. Beauvais, in his search for the [[Body|body]]
 
       of Marie, discovered a corpse corresponding in general size and
 
@@ -116,13 +116,13 @@ tags:
 
       upon the living Marie, his opinion might have been justly
 
-      strengthened; and the increase of positiveness might well have
+      strengthened; and the increase of positiveness might [[Well|well]] have
 
       been in the ratio of the peculiarity, or unusualness, of the
 
       hairy mark. If, the feet of Marie being small, those of the
 
-      corpse were also small, the increase of probability that the body
+      corpse were also small, the increase of probability that the [[Body|body]]
 
       was that of Marie would not be an increase in a ratio merely
 
@@ -134,11 +134,11 @@ tags:
 
       packages,’ you so far augment the probability as to verge upon
 
-      the certain. What, of itself, would be no evidence of identity,
+      the certain. What, of itself, would be no evidence of [[Identity|identity]],
 
       becomes through its corroborative position, proof most sure. Give
 
-      us, then, flowers in the hat corresponding to those worn by the
+      us, then, [[Flowers|flowers]] in the hat corresponding to those worn by the
 
       missing girl, and we seek for nothing farther. If only one
 
@@ -156,15 +156,15 @@ tags:
 
       as her own had been tightened by Marie, shortly previous to her
 
-      leaving home. It is now madness or hypocrisy to doubt. What
+      leaving [[Home|home]]. It is now [[Madness|madness]] or hypocrisy to [[Doubt|doubt]]. What
 
       L’Etoile says in respect to this abbreviation of the garters
 
       being an usual occurrence, shows nothing beyond its own
 
-      pertinacity in error. The elastic nature of the clasp-garter is
+      pertinacity in error. The elastic [[Nature|nature]] of the clasp-garter is
 
-      self-demonstration of the unusualness of the abbreviation. What
+      [[Self|self]]-demonstration of the unusualness of the abbreviation. What
 
       is made to adjust itself, must of necessity require foreign
 
@@ -172,19 +172,19 @@ tags:
 
       strictest sense, that these garters of Marie needed the
 
-      tightening described. They alone would have amply established her
+      tightening described. They [[Alone|alone]] would have amply established her
 
-      identity. But it is not that the corpse was found to have the
+      [[Identity|identity]]. But it is not that the corpse was found to have the
 
       garters of the missing girl, or found to have her shoes, or her
 
-      bonnet, or the flowers of her bonnet, or her feet, or a peculiar
+      bonnet, or the [[Flowers|flowers]] of her bonnet, or her feet, or a peculiar
 
       mark upon the arm, or her general size and appearance—it is that
 
       the corpse had each, and _all collectively_. Could it be proved
 
-      that the editor of L’Etoile _really_ entertained a doubt, under
+      that the editor of L’Etoile _really_ entertained a [[Doubt|doubt]], under
 
       the circumstances, there would be no need, in his case, of a
 

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 36 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 36 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER 36
 
 Private and confidential; relating to Family Matters. Showing how Mr
-Kenwigs underwent violent Agitation, and how Mrs. Kenwigs was as well as
+Kenwigs underwent violent Agitation, and how Mrs. Kenwigs was as [[Well|well]] as
 could be expected
 
 
-It might have been seven o’clock in the evening, and it was growing dark
+It might have been seven o’[[Clock|clock]] in the evening, and it was growing dark
 in the narrow streets near Golden Square, when Mr. Kenwigs sent out for
 a pair of the cheapest white kid gloves--those at fourteen-pence--and
 selecting the strongest, which happened to be the right-hand one, walked
 downstairs with an air of pomp and much excitement, and proceeded to
 muffle the knob of the street-door knocker therein. Having executed this
 task with great nicety, Mr. Kenwigs pulled the door to, after him, and
-just stepped across the road to try the effect from the opposite side
+just stepped across the [[Road|road]] to try the effect from the opposite side
 of the street. Satisfied that nothing could possibly look better in its
 way, Mr. Kenwigs then stepped back again, and calling through the keyhole
-to Morleena to open the door, vanished into the house, and was seen no
+to Morleena to open the door, vanished into the [[house]], and was seen no
 longer.
 
 Now, considered as an abstract circumstance, there was no more obvious
@@ -64,7 +64,7 @@ won’t have it in the papers.’
 Pondering upon the advisability of this step, and the sensation it was
 likely to create in the neighbourhood, Mr. Kenwigs betook himself to the
 sitting-room, where various extremely diminutive articles of clothing
-were airing on a horse before the fire, and Mr. Lumbey, the doctor, was
+were airing on a [[Horse|horse]] before the [[Fire|fire]], and Mr. Lumbey, the doctor, was
 dandling the baby--that is, the old baby--not the new one.
 
 ‘It’s a fine boy, Mr. Kenwigs,’ said Mr. Lumbey, the doctor.
@@ -92,25 +92,25 @@ During this short conversation, Miss Morleena, as the eldest of
 the family, and natural representative of her mother during her
 indisposition, had been hustling and slapping the three younger Miss
 Kenwigses, without intermission; which considerate and affectionate
-conduct brought tears into the eyes of Mr. Kenwigs, and caused him to
-declare that, in understanding and behaviour, that child was a woman.
+conduct brought [[Tears|tears]] into the eyes of Mr. Kenwigs, and caused him to
+declare that, in understanding and behaviour, that [[Child|child]] was a woman.
 
 ‘She will be a treasure to the man she marries, sir,’ said Mr. Kenwigs,
 half aside; ‘I think she’ll marry above her station, Mr. Lumbey.’
 
-‘I shouldn’t wonder at all,’ replied the doctor.
+‘I shouldn’t [[Wonder|wonder]] at all,’ replied the doctor.
 
-‘You never see her dance, sir, did you?’ asked Mr. Kenwigs.
+‘You never see her [[Dance|dance]], sir, did you?’ asked Mr. Kenwigs.
 
 The doctor shook his head.
 
 ‘Ay!’ said Mr. Kenwigs, as though he pitied him from his heart, ‘then you
 don’t know what she’s capable of.’
 
-All this time there had been a great whisking in and out of the other
+All this [[Time|time]] there had been a great whisking in and out of the other
 room; the door had been opened and shut very softly about twenty times
 a minute (for it was necessary to keep Mrs. Kenwigs quiet); and the baby
-had been exhibited to a score or two of deputations from a select body
+had been exhibited to a score or two of deputations from a select [[Body|body]]
 of female friends, who had assembled in the passage, and about the
 street-door, to discuss the event in all its bearings. Indeed, the
 excitement extended itself over the whole street, and groups of ladies

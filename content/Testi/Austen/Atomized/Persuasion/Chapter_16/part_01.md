@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 16 (part 1)"
+title: "[[Persuasion]] — Chapter 16 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,13 +22,13 @@ CHAPTER XVI.
 
 There was one point which Anne, on returning to her family, would have
 
-been more thankful to ascertain even than Mr Elliot’s being in love
+been more thankful to ascertain even than Mr Elliot’s being in [[Love|love]]
 
-with Elizabeth, which was, her father’s not being in love with Mrs
+with Elizabeth, which was, her father’s not being in [[Love|love]] with Mrs
 
 Clay; and she was very far from easy about it, when she had been at
 
-home a few hours. On going down to breakfast the next morning, she
+[[Home|home]] a few hours. On going down to breakfast the next morning, she
 
 found there had just been a decent pretence on the lady’s side of
 
@@ -40,7 +40,7 @@ for Elizabeth was replying in a sort of whisper, “That must not be any
 
 reason, indeed. I assure you I feel it none. She is nothing to me,
 
-compared with you;” and she was in full time to hear her father say,
+compared with you;” and she was in full [[Time|time]] to hear her father say,
 
 “My dear madam, this must not be. As yet, you have seen nothing of
 
@@ -48,7 +48,7 @@ Bath. You have been here only to be useful. You must not run away from
 
 us now. You must stay to be acquainted with Mrs Wallis, the beautiful
 
-Mrs Wallis. To your fine mind, I well know the sight of beauty is a
+Mrs Wallis. To your fine mind, I [[Well|well]] know the sight of [[Beauty|beauty]] is a
 
 real gratification.”
 
@@ -68,7 +68,7 @@ lady could not but yield to such joint entreaties, and promise to stay.
 
 In the course of the same morning, Anne and her father chancing to be
 
-alone together, he began to compliment her on her improved looks; he
+[[Alone|alone]] together, he began to compliment her on her improved looks; he
 
 thought her “less thin in her person, in her cheeks; her skin, her
 
@@ -80,9 +80,9 @@ thing in particular?” “No, nothing.” “Merely Gowland,” he supposed.
 
 “certainly you cannot do better than to continue as you are; you cannot
 
-be better than well; or I should recommend Gowland, the constant use of
+be better than [[Well|well]]; or I should recommend Gowland, the constant use of
 
-Gowland, during the spring months. Mrs Clay has been using it at my
+Gowland, during the [[spring]] months. Mrs Clay has been using it at my
 
 recommendation, and you see what it has done for her. You see how it
 
@@ -96,13 +96,13 @@ struck her, especially as it did not appear to Anne that the freckles
 
 were at all lessened. But everything must take its chance. The evil of
 
-a marriage would be much diminished, if Elizabeth were also to marry.
+a [[Marriage|marriage]] would be much diminished, if Elizabeth were also to marry.
 
-As for herself, she might always command a home with Lady Russell.
+As for herself, she might always command a [[Home|home]] with [[Lady Russell]].
 
 
 
-Lady Russell’s composed mind and polite manners were put to some trial
+[[Lady Russell]]’s composed mind and polite manners were put to some trial
 
 on this point, in her intercourse in Camden Place. The sight of Mrs
 
@@ -110,9 +110,9 @@ Clay in such favour, and of Anne so overlooked, was a perpetual
 
 provocation to her there; and vexed her as much when she was away, as a
 
-person in Bath who drinks the water, gets all the new publications, and
+person in Bath who drinks the [[Water|water]], gets all the new publications, and
 
-has a very large acquaintance, has time to be vexed.
+has a very large acquaintance, has [[Time|time]] to be vexed.
 
 
 
@@ -132,7 +132,7 @@ Everything united in him; good understanding, correct opinions,
 
 knowledge of the world, and a warm heart. He had strong feelings of
 
-family attachment and family honour, without pride or weakness; he
+family attachment and family [[Honour|honour]], without [[Pride|pride]] or weakness; he
 
 lived with the liberality of a man of fortune, without display; he
 
@@ -150,7 +150,7 @@ domestic life, which characters of fancied enthusiasm and violent
 
 agitation seldom really possess. She was sure that he had not been
 
-happy in marriage. Colonel Wallis said it, and Lady Russell saw it; but
+happy in [[Marriage|marriage]]. Colonel Wallis said it, and [[Lady Russell]] saw it; but
 
 it had been no unhappiness to sour his mind, nor (she began pretty soon
 
@@ -164,27 +164,27 @@ It was now some years since Anne had begun to learn that she and her
 
 excellent friend could sometimes think differently; and it did not
 
-surprise her, therefore, that Lady Russell should see nothing
+surprise her, therefore, that [[Lady Russell]] should see nothing
 
 suspicious or inconsistent, nothing to require more motives than
 
-appeared, in Mr Elliot’s great desire of a reconciliation. In Lady
+appeared, in Mr Elliot’s great [[Desire|desire]] of a [[Reconciliation|reconciliation]]. In Lady
 
 Russell’s view, it was perfectly natural that Mr Elliot, at a mature
 
-time of life, should feel it a most desirable object, and what would
+[[Time|time]] of life, should feel it a most desirable object, and what would
 
 very generally recommend him among all sensible people, to be on good
 
 terms with the head of his family; the simplest process in the world of
 
-time upon a head naturally clear, and only erring in the heyday of
+[[Time|time]] upon a head naturally clear, and only erring in the heyday of
 
 youth. Anne presumed, however, still to smile about it, and at last to
 
-mention “Elizabeth.” Lady Russell listened, and looked, and made only
+mention “Elizabeth.” [[Lady Russell]] listened, and looked, and made only
 
-this cautious reply:—“Elizabeth! very well; time will explain.”
+this cautious reply:—“Elizabeth! very [[Well|well]]; [[Time|time]] will explain.”
 
 
 
@@ -192,7 +192,7 @@ It was a reference to the future, which Anne, after a little
 
 observation, felt she must submit to. She could determine nothing at
 
-present. In that house Elizabeth must be first; and she was in the
+present. In that [[house]] Elizabeth must be first; and she was in the
 
 habit of such general observance as “Miss Elliot,” that any
 
@@ -204,7 +204,7 @@ on his side might be very excusable. In fact, Anne could never see the
 
 crape round his hat, without fearing that she was the inexcusable one,
 
-in attributing to him such imaginations; for though his marriage had
+in attributing to him such imaginations; for though his [[Marriage|marriage]] had
 
 not been very happy, still it had existed so many years that she could
 

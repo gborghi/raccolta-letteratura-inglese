@@ -1,5 +1,5 @@
 ---
-title: "Christabel — Conclusion to Part I"
+title: "[[Christabel]] — Conclusion to Part I"
 author: "Coleridge"
 unitType: section
 parentWork: "Works/CHRISTABEL-(Coleridge)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-CHRISTABEL THE CONCLUSION TO PART I  
+[[Christabel|CHRISTABEL]] THE CONCLUSION TO PART I  
 It was a lovely sight to see  
-The lady Christabel, when she   280  
+The lady [[Christabel]], when she   280  
 Was praying at the old oak tree.  
 Amid the jaggéd shadows  
 Of mossy leafless boughs,  
@@ -31,38 +31,38 @@ Each about to have a tear.
 With open eyes (ah woe is me!)  
 Asleep, and dreaming fearfully,  
 Fearfully dreaming, yet, I wis,  
-Dreaming that alone, which is — 295  
+Dreaming that [[Alone|alone]], which is — 295  
 O sorrow and shame! Can this be she,  
 The lady, who knelt at the old oak tree?  
 And lo! the worker of these harms,  
 That holds the maiden in her arms,  
 Seems to slumber still and mild,   300  
-As a mother with her child.  
+As a mother with her [[Child|child]].  
 A star hath set, a star hath risen,  
-O Geraldine! since arms of thine  
-Have been the lovely lady’s prison.  
-O Geraldine! one hour was thine — 305  
+O [[Geraldine]]! since arms of thine  
+Have been the lovely lady’s [[Prison|prison]].  
+O [[Geraldine]]! one hour was thine — 305  
 Thou’st had thy will! By tairn and rill,  
-The night-birds all that hour were still.  
+The [[Night|night]]-[[Birds|birds]] all that hour were still.  
 But now they are jubilant anew,  
 From cliff and tower, tu — whoo! tu — whoo!  
 Tu — whoo! tu — whoo! from wood and fell!   310  
-And see! the lady Christabel  
+And see! the lady [[Christabel]]  
 Gathers herself from out her trance;  
 Her limbs relax, her countenance  
 Grows sad and soft; the smooth thin lids  
-Close o’er her eyes; and tears she sheds — 315  
-Large tears that leave the lashes bright!  
+Close o’er her eyes; and [[Tears|tears]] she sheds — 315  
+Large [[Tears|tears]] that leave the lashes bright!  
 And oft the while she seems to smile  
 As infants at a sudden light!  
 Yea, she doth smile, and she doth weep,  
 Like a youthful hermitess,   320  
 Beauteous in a wilderness,  
-Who, praying always, prays in sleep.  
+Who, praying always, prays in [[Sleep|sleep]].  
 And, if she move unquietly,  
-Perchance, ‘tis but the blood so free  
+Perchance, ‘tis but the [[Blood|blood]] so free  
 Comes back and tingles in her feet.   325  
-No doubt, she hath a vision sweet.  
+No [[Doubt|doubt]], she hath a vision sweet.  
 What if her guardian spirit ‘twere,  
 What if she knew her mother near?  
 But this she knows, in joys and woes,  

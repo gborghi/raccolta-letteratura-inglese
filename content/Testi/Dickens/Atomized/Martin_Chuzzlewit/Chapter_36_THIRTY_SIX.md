@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,15 +16,15 @@ tags:
 
 CHAPTER THIRTY-SIX
 
-TOM PINCH DEPARTS TO SEEK HIS FORTUNE. WHAT HE FINDS AT STARTING
+[[Tom Pinch|TOM PINCH]] DEPARTS TO SEEK HIS FORTUNE. WHAT HE FINDS AT STARTING
 
 
-Oh! What a different town Salisbury was in Tom Pinch’s eyes to be sure,
+Oh! What a different town Salisbury was in [[Tom Pinch]]’s eyes to be sure,
 when the substantial Pecksniff of his heart melted away into an idle
-dream! He possessed the same faith in the wonderful shops, the same
+dream! He possessed the same [[Faith|faith]] in the wonderful shops, the same
 intensified appreciation of the mystery and wickedness of the place;
 made the same exalted estimate of its wealth, population, and resources;
-and yet it was not the old city nor anything like it. He walked into the
+and yet it was not the old [[City|city]] nor anything like it. He walked into the
 market while they were getting breakfast ready for him at the Inn; and
 though it was the same market as of old, crowded by the same buyers and
 sellers; brisk with the same business; noisy with the same confusion of
@@ -59,32 +59,32 @@ seriously considering his own affairs, and taking counsel thereon with
 his friend the organist’s assistant.
 
 The organist’s assistant gave it as his decided opinion that whatever
-Tom did, he must go to London; for there was no place like it. Which
+Tom did, he must go to [[London]]; for there was no place like it. Which
 may be true in the main, though hardly, perhaps, in itself, a sufficient
 reason for Tom’s going there.
 
-But Tom had thought of London before, and had coupled with it thoughts
+But Tom had thought of [[London]] before, and had coupled with it thoughts
 of his sister, and of his old friend John Westlock, whose advice
 he naturally felt disposed to seek in this important crisis of his
-fortunes. To London, therefore, he resolved to go; and he went away to
+fortunes. To [[London]], therefore, he resolved to go; and he went away to
 the coach-office at once, to secure his place. The coach being already
-full, he was obliged to postpone his departure until the next night; but
-even this circumstance had its bright side as well as its dark one, for
+full, he was obliged to postpone his departure until the next [[Night|night]]; but
+even this circumstance had its bright side as [[Well|well]] as its dark one, for
 though it threatened to reduce his poor purse with unexpected country
 charges, it afforded him an opportunity of writing to Mrs Lupin and
-appointing his box to be brought to the old finger-post at the old time;
+appointing his box to be brought to the old finger-post at the old [[Time|time]];
 which would enable him to take that treasure with him to the metropolis,
 and save the expense of its carriage. ‘So,’ said Tom, comforting
 himself, ‘it’s very nearly as broad as it’s long.’
 
 And it cannot be denied that, when he had made up his mind to even this
-extent, he felt an unaccustomed sense of freedom--a vague and indistinct
+extent, he felt an unaccustomed sense of [[Freedom|freedom]]--a vague and indistinct
 impression of holiday-making--which was very luxurious. He had his
 moments of depression and anxiety, and they were, with good reason,
 pretty numerous; but still, it was wonderfully pleasant to reflect that
 he was his own master, and could plan and scheme for himself. It was
 startling, thrilling, vast, difficult to understand; it was a stupendous
-truth, teeming with responsibility and self-distrust; but in spite of
+[[Truth|truth]], teeming with responsibility and [[Self|self]]-distrust; but in spite of
 all his cares, it gave a curious relish to the viands at the Inn, and
 interposed a dreamy haze between him and his prospects, in which they
 sometimes showed to magical advantage.
@@ -92,7 +92,7 @@ sometimes showed to magical advantage.
 In this unsettled state of mind, Tom went once more to bed in the low
 four-poster, to the same immovable surprise of the effigies of the
 former landlord and the fat ox; and in this condition, passed the whole
-of the succeeding day. When the coach came round at last with ‘London’
+of the succeeding day. When the coach came round at last with ‘[[London]]’
 blazoned in letters of gold upon the boot, it gave Tom such a turn, that
 he was half disposed to run away. But he didn’t do it; for he took his
 seat upon the box instead, and looking down upon the four greys, felt
@@ -107,71 +107,71 @@ didn’t handle his gloves like another man, but put them on--even when he
 was standing on the pavement, quite detached from the coach--as if the
 four greys were, somehow or other, at the ends of the fingers. It was
 the same with his hat. He did things with his hat, which nothing but an
-unlimited knowledge of horses and the wildest freedom of the road, could
+unlimited knowledge of horses and the wildest [[Freedom|freedom]] of the [[Road|road]], could
 ever have made him perfect in. Valuable little parcels were brought to
 him with particular instructions, and he pitched them into this hat, and
 stuck it on again; as if the laws of gravity did not admit of such
 an event as its being knocked off or blown off, and nothing like an
 accident could befall it. The guard, too! Seventy breezy miles a day
 were written in his very whiskers. His manners were a canter; his
-conversation a round trot. He was a fast coach upon a down-hill turnpike
-road; he was all pace. A waggon couldn’t have moved slowly, with that
+conversation a round trot. He was a fast coach upon a down-[[Hill|hill]] turnpike
+[[Road|road]]; he was all pace. A waggon couldn’t have moved slowly, with that
 guard and his key-bugle on the top of it.
 
-These were all foreshadowings of London, Tom thought, as he sat upon
+These were all foreshadowings of [[London]], Tom thought, as he sat upon
 the box, and looked about him. Such a coachman, and such a guard, never
 could have existed between Salisbury and any other place. The coach
 was none of your steady-going, yokel coaches, but a swaggering, rakish,
-dissipated London coach; up all night, and lying by all day, and leading
+dissipated [[London]] coach; up all [[Night|night]], and lying by all day, and leading
 a devil of a life. It cared no more for Salisbury than if it had been
-a hamlet. It rattled noisily through the best streets, defied the
-Cathedral, took the worst corners sharpest, went cutting in everywhere,
+a [[Hamlet|hamlet]]. It rattled noisily through the best streets, defied the
+[[Cathedral]], took the worst corners sharpest, went cutting in everywhere,
 making everything get out of its way; and spun along the open
-country-road, blowing a lively defiance out of its key-bugle, as its
+country-[[Road|road]], blowing a lively defiance out of its key-bugle, as its
 last glad parting legacy.
 
 It was a charming evening. Mild and bright. And even with the weight
 upon his mind which arose out of the immensity and uncertainty of
-London, Tom could not resist the captivating sense of rapid motion
+[[London]], Tom could not resist the captivating sense of rapid motion
 through the pleasant air. The four greys skimmed along, as if they liked
-it quite as well as Tom did; the bugle was in as high spirits as the
+it quite as [[Well|well]] as Tom did; the bugle was in as high spirits as the
 greys; the coachman chimed in sometimes with his voice; the wheels
 hummed cheerfully in unison; the brass work on the harness was an
-orchestra of little bells; and thus, as they went clinking, jingling,
+orchestra of little [[Bells|bells]]; and thus, as they went clinking, jingling,
 rattling smoothly on, the whole concern, from the buckles of the
 leaders’ coupling-reins to the handle of the hind boot, was one great
 instrument of music.
 
 Yoho, past hedges, gates, and trees; past cottages and barns, and people
-going home from work. Yoho, past donkey-chaises, drawn aside into the
+going [[Home|home]] from work. Yoho, past [[donkey]]-chaises, drawn aside into the
 ditch, and empty carts with rampant horses, whipped up at a bound upon
 the little watercourse, and held by struggling carters close to the
 five-barred gate, until the coach had passed the narrow turning in the
-road. Yoho, by churches dropped down by themselves in quiet nooks,
+[[Road|road]]. Yoho, by churches dropped down by themselves in quiet nooks,
 with rustic burial-grounds about them, where the graves are green, and
-daisies sleep--for it is evening--on the bosoms of the dead. Yoho, past
+daisies [[Sleep|sleep]]--for it is evening--on the bosoms of the dead. Yoho, past
 streams, in which the cattle cool their feet, and where the rushes grow;
 past paddock-fences, farms, and rick-yards; past last year’s stacks,
 cut, slice by slice, away, and showing, in the waning light, like ruined
 gables, old and brown. Yoho, down the pebbly dip, and through the merry
-water-splash and up at a canter to the level road again. Yoho! Yoho!
+[[Water|water]]-splash and up at a canter to the level [[Road|road]] again. Yoho! Yoho!
 
 Was the box there, when they came up to the old finger-post? The box!
 Was Mrs Lupin herself? Had she turned out magnificently as a hostess
 should, in her own chaise-cart, and was she sitting in a mahogany chair,
-driving her own horse Dragon (who ought to have been called Dumpling),
+driving her own [[Horse|horse]] Dragon (who ought to have been called Dumpling),
 and looking lovely? Did the stage-coach pull up beside her, shaving her
-very wheel, and even while the guard helped her man up with the trunk,
+very [[Wheel|wheel]], and even while the guard helped her man up with the trunk,
 did he send the glad echoes of his bugle careering down the chimneys of
 the distant Pecksniff, as if the coach expressed its exultation in the
-rescue of Tom Pinch?
+rescue of [[Tom Pinch]]?
 
 ‘This is kind indeed!’ said Tom, bending down to shake hands with her.
 ‘I didn’t mean to give you this trouble.’
 
 ‘Trouble, Mr Pinch!’ cried the hostess of the Dragon.
 
-‘Well! It’s a pleasure to you, I know,’ said Tom, squeezing her hand
+‘[[Well]]! It’s a pleasure to you, I know,’ said Tom, squeezing her hand
 heartily. ‘Is there any news?’
 
 The hostess shook her head.
@@ -184,19 +184,19 @@ is certain to come right at last. Good-bye!’
 
 ‘When I get settled!’ cried Tom, with an involuntary opening of his
 eyes. ‘Oh, yes, I’ll write when I get settled. Perhaps I had better
-write before, because I may find that it takes a little time to settle
+write before, because I may find that it takes a little [[Time|time]] to settle
 myself; not having too much money, and having only one friend. I shall
-give your love to the friend, by the way. You were always great with Mr
+give your [[Love|love]] to the friend, by the way. You were always great with Mr
 Westlock, you know. Good-bye!’
 
 ‘Good-bye!’ said Mrs Lupin, hastily producing a basket with a long
 bottle sticking out of it. ‘Take this. Good-bye!’
 
-‘Do you want me to carry it to London for you?’ cried Tom. She was
+‘Do you want me to carry it to [[London]] for you?’ cried Tom. She was
 already turning the chaise-cart round.
 
 ‘No, no,’ said Mrs Lupin. ‘It’s only a little something for refreshment
-on the road. Sit fast, Jack. Drive on, sir. All right! Good-bye!’
+on the [[Road|road]]. Sit fast, Jack. Drive on, sir. All right! Good-bye!’
 
 She was a quarter of a mile off, before Tom collected himself; and then
 he was waving his hand lustily; and so was she.
@@ -204,24 +204,24 @@ he was waving his hand lustily; and so was she.
 ‘And that’s the last of the old finger-post,’ thought Tom, straining
 his eyes, ‘where I have so often stood to see this very coach go by,
 and where I have parted with so many companions! I used to compare this
-coach to some great monster that appeared at certain times to bear my
+coach to some great [[Monster|monster]] that appeared at certain times to bear my
 friends away into the world. And now it’s bearing me away, to seek my
 fortune, Heaven knows where and how!’
 
-It made Tom melancholy to picture himself walking up the lane and back
-to Pecksniff’s as of old; and being melancholy, he looked downwards at
+It made Tom [[Melancholy|melancholy]] to picture himself walking up the lane and back
+to Pecksniff’s as of old; and being [[Melancholy|melancholy]], he looked downwards at
 the basket on his knee, which he had for the moment forgotten.
 
 ‘She is the kindest and most considerate creature in the world,’ thought
 Tom. ‘Now I KNOW that she particularly told that man of hers not to look
 at me, on purpose to prevent my throwing him a shilling! I had it ready
-for him all the time, and he never once looked towards me; whereas that
-man naturally, (for I know him very well,) would have done nothing but
+for him all the [[Time|time]], and he never once looked towards me; whereas that
+man naturally, (for I know him very [[Well|well]],) would have done nothing but
 grin and stare. Upon my word, the kindness of people perfectly melts
 me.’
 
 Here he caught the coachman’s eye. The coachman winked. ‘Remarkable fine
-woman for her time of life,’ said the coachman.
+woman for her [[Time|time]] of life,’ said the coachman.
 
 ‘I quite agree with you,’ returned Tom. ‘So she is.’
 
@@ -246,7 +246,7 @@ provided with a basket like that.’
 As the coachman only laughed, and as Tom was curious himself, he
 unpacked it, and put the articles, one by one, upon the footboard. A
 cold roast fowl, a packet of ham in slices, a crusty loaf, a piece of
-cheese, a paper of biscuits, half a dozen apples, a knife, some butter,
+[[cheese]], a paper of biscuits, half a dozen apples, a knife, some butter,
 a screw of salt, and a bottle of old sherry. There was a letter besides,
 which Tom put in his pocket.
 
@@ -254,13 +254,13 @@ The coachman was so earnest in his approval of Mrs Lupin’s provident
 habits, and congratulated Torn so warmly on his good fortune, that Tom
 felt it necessary, for the lady’s sake, to explain that the basket was
 a strictly Platonic basket, and had merely been presented to him in the
-way of friendship. When he had made the statement with perfect gravity;
+way of [[Friendship|friendship]]. When he had made the statement with perfect gravity;
 for he felt it incumbent on him to disabuse the mind of this lax rover
 of any incorrect impressions on the subject; he signified that he would
 be happy to share the gifts with him, and proposed that they should
-attack the basket in a spirit of good fellowship at any time in the
-course of the night which the coachman’s experience and knowledge of the
-road might suggest, as being best adapted to the purpose. From this time
+attack the basket in a spirit of good fellowship at any [[Time|time]] in the
+course of the [[Night|night]] which the coachman’s experience and knowledge of the
+[[Road|road]] might suggest, as being best adapted to the purpose. From this [[Time|time]]
 they chatted so pleasantly together, that although Tom knew infinitely
 more of unicorns than horses, the coachman informed his friend the guard
 at the end of the next stage, ‘that rum as the box-seat looked, he was
@@ -269,54 +269,54 @@ by.’
 
 Yoho, among the gathering shades; making of no account the deep
 reflections of the trees, but scampering on through light and darkness,
-all the same, as if the light of London fifty miles away, were quite
+all the same, as if the light of [[London]] fifty miles away, were quite
 enough to travel by, and some to spare. Yoho, beside the village green,
 where cricket-players linger yet, and every little indentation made in
 the fresh grass by bat or wicket, ball or player’s foot, sheds out its
-perfume on the night. Away with four fresh horses from the Bald-faced
+perfume on the [[Night|night]]. Away with four fresh horses from the Bald-faced
 Stag, where topers congregate about the door admiring; and the last
 team with traces hanging loose, go roaming off towards the pond, until
 observed and shouted after by a dozen throats, while volunteering boys
 pursue them. Now, with a clattering of hoofs and striking out of fiery
 sparks, across the old stone bridge, and down again into the shadowy
-road, and through the open gate, and far away, away, into the wold.
+[[Road|road]], and through the open gate, and far away, away, into the wold.
 Yoho!
 
 Yoho, behind there, stop that bugle for a moment! Come creeping over to
 the front, along the coach-roof, guard, and make one at this basket! Not
 that we slacken in our pace the while, not we; we rather put the bits
-of blood upon their metal, for the greater glory of the snack. Ah! It
+of [[Blood|blood]] upon their metal, for the greater glory of the snack. Ah! It
 is long since this bottle of old wine was brought into contact with the
-mellow breath of night, you may depend, and rare good stuff it is to wet
+mellow breath of [[Night|night]], you may depend, and rare good stuff it is to wet
 a bugler’s whistle with. Only try it. Don’t be afraid of turning up your
 finger, Bill, another pull! Now, take your breath, and try the bugle,
 Bill. There’s music! There’s a tone!’ over the hills and far away,’
-indeed. Yoho! The skittish mare is all alive to-night. Yoho! Yoho!
+indeed. Yoho! The skittish mare is all alive to-[[Night|night]]. Yoho! Yoho!
 
-See the bright moon! High up before we know it; making the earth reflect
-the objects on its breast like water. Hedges, trees, low cottages,
+See the bright [[Moon|moon]]! High up before we know it; making the earth reflect
+the objects on its breast like [[Water|water]]. Hedges, trees, low cottages,
 church steeples, blighted stumps and flourishing young slips, have
 all grown vain upon the sudden, and mean to contemplate their own fair
 images till morning. The poplars yonder rustle that their quivering
-leaves may see themselves upon the ground. Not so the oak; trembling
+[[Leaves|leaves]] may see themselves upon the ground. Not so the oak; trembling
 does not become HIM; and he watches himself in his stout old burly
 steadfastness, without the motion of a twig. The moss-grown gate,
 ill-poised upon its creaking hinges, crippled and decayed swings to and
 fro before its glass, like some fantastic dowager; while our own ghostly
 likeness travels on, Yoho! Yoho! through ditch and brake, upon the
 ploughed land and the smooth, along the steep hillside and steeper wall,
-as if it were a phantom-Hunter.
+as if it were a [[Phantom|phantom]]-Hunter.
 
 Clouds too! And a mist upon the Hollow! Not a dull fog that hides it,
 but a light airy gauze-like mist, which in our eyes of modest admiration
 gives a new charm to the beauties it is spread before; as real gauze has
 done ere now, and would again, so please you, though we were the Pope.
-Yoho! Why now we travel like the Moon herself. Hiding this minute in a
+Yoho! Why now we travel like the [[Moon]] herself. Hiding this minute in a
 grove of trees; next minute in a patch of vapour; emerging now upon our
-broad clear course; withdrawing now, but always dashing on, our journey
-is a counter-part of hers. Yoho! A match against the Moon!
+broad clear course; withdrawing now, but always dashing on, our [[Journey|journey]]
+is a counter-part of hers. Yoho! A match against the [[Moon]]!
 
-The beauty of the night is hardly felt, when Day comes rushing up. Yoho!
+The [[Beauty|beauty]] of the [[Night|night]] is hardly felt, when Day comes rushing up. Yoho!
 Two stages, and the country roads are almost changed to a continuous
 street. Yoho, past market-gardens, rows of houses, villas, crescents,
 terraces, and squares; past waggons, coaches, carts; past early workmen,
@@ -324,10 +324,10 @@ late stragglers, drunken men, and sober carriers of loads; past brick
 and mortar in its every shape; and in among the rattling pavements,
 where a jaunty-seat upon a coach is not so easy to preserve! Yoho,
 down countless turnings, and through countless mazy ways, until an old
-Innyard is gained, and Tom Pinch, getting down quite stunned and giddy,
-is in London!
+Innyard is gained, and [[Tom Pinch]], getting down quite stunned and giddy,
+is in [[London]]!
 
-‘Five minutes before the time, too!’ said the driver, as he received his
+‘Five minutes before the [[Time|time]], too!’ said the driver, as he received his
 fee of Tom.
 
 ‘Upon my word,’ said Tom, ‘I should not have minded very much, if we had
@@ -344,15 +344,15 @@ His mind was so clearly running on the assumption of Tom’s having come
 to town to see an extensive circle of anxious relations and friends,
 that it would have been pretty hard work to undeceive him. Tom did not
 try. He cheerfully evaded the subject, and going into the Inn, fell fast
-asleep before a fire in one of the public rooms opening from the yard.
-When he awoke, the people in the house were all astir, so he washed and
-dressed himself; to his great refreshment after the journey; and, it
-being by that time eight o’clock, went forth at once to see his old
+asleep before a [[Fire|fire]] in one of the public rooms opening from the yard.
+When he awoke, the people in the [[house]] were all astir, so he washed and
+dressed himself; to his great refreshment after the [[Journey|journey]]; and, it
+being by that [[Time|time]] eight o’[[Clock|clock]], went forth at once to see his old
 friend John.
 
 John Westlock lived in Furnival’s Inn, High Holborn, which was within a
 quarter of an hour’s walk of Tom’s starting-point, but seemed a long way
-off, by reason of his going two or three miles out of the straight road
+off, by reason of his going two or three miles out of the straight [[Road|road]]
 to make a short cut. When at last he arrived outside John’s door, two
 stories up, he stood faltering with his hand upon the knocker, and
 trembled from head to foot. For he was rendered very nervous by the
@@ -365,16 +365,16 @@ get it over.’
 
 Rat tat.
 
-‘I am afraid that’s not a London knock,’ thought Tom. ‘It didn’t sound
+‘I am afraid that’s not a [[London]] knock,’ thought Tom. ‘It didn’t sound
 bold. Perhaps that’s the reason why nobody answers the door.’
 
 It is quite certain that nobody came, and that Tom stood looking at the
 knocker; wondering whereabouts in the neighbourhood a certain gentleman
 resided, who was roaring out to somebody ‘Come in!’ with all his might.
 
-‘Bless my soul!’ thought Tom at last. ‘Perhaps he lives here, and is
+‘Bless my [[Soul|soul]]!’ thought Tom at last. ‘Perhaps he lives here, and is
 calling to me. I never thought of that. Can I open the door from the
-outside, I wonder. Yes, to be sure I can.’
+outside, I [[Wonder|wonder]]. Yes, to be sure I can.’
 
 To be sure he could, by turning the handle; and to be sure when he did
 turn it the same voice came rushing out, crying ‘Why don’t you come
@@ -390,7 +390,7 @@ plunge at Tom, and hugged him.
 
 ‘Why, Tom, my boy!’ cried the gentleman. ‘Tom!’
 
-‘How glad I am to see you, Mr Westlock!’ said Tom Pinch, shaking both
+‘How glad I am to see you, Mr Westlock!’ said [[Tom Pinch]], shaking both
 his hands, and trembling more than ever. ‘How kind you are!’
 
 ‘Mr Westlock!’ repeated John, ‘what do you mean by that, Pinch? You have
@@ -401,17 +401,17 @@ me, how kind you are!’
 
 ‘I never saw such a fellow in all my life!’ cried John. ‘What do you
 mean by saying THAT over and over again? What did you expect me to be, I
-wonder! Here, sit down, Tom, and be a reasonable creature. How are you,
+[[Wonder|wonder]]! Here, sit down, Tom, and be a reasonable creature. How are you,
 my boy? I am delighted to see you!’
 
 ‘And I am delighted to see YOU,’ said Tom.
 
-‘It’s mutual, of course,’ returned John. ‘It always was, I hope. If
+‘It’s mutual, of course,’ returned John. ‘It always was, I [[Hope|hope]]. If
 I had known you had been coming, Tom, I would have had something for
 breakfast. I would rather have such a surprise than the best breakfast
-in the world, myself; but yours is another case, and I have no doubt you
-are as hungry as a hunter. You must make out as well as you can, Tom,
-and we’ll recompense ourselves at dinner-time. You take sugar, I know;
+in the world, myself; but yours is another case, and I have no [[Doubt|doubt]] you
+are as hungry as a hunter. You must make out as [[Well|well]] as you can, Tom,
+and we’ll recompense ourselves at dinner-[[Time|time]]. You take sugar, I know;
 I recollect the sugar at Pecksniff’s. Ha, ha, ha! How IS Pecksniff? When
 did you come to town? DO begin at something or other, Tom. There are
 only scraps here, but they are not at all bad. Boar’s Head potted. Try
@@ -422,15 +422,15 @@ While he delivered himself of these words in a state of great commotion,
 John was constantly running backwards and forwards to and from the
 closet, bringing out all sorts of things in pots, scooping extraordinary
 quantities of tea out of the caddy, dropping French rolls into his
-boots, pouring hot water over the butter, and making a variety of
+boots, pouring hot [[Water|water]] over the butter, and making a variety of
 similar mistakes without disconcerting himself in the least.
 
-‘There!’ said John, sitting down for the fiftieth time, and instantly
+‘There!’ said John, sitting down for the fiftieth [[Time|time]], and instantly
 starting up again to make some other addition to the breakfast. ‘Now we
-are as well off as we are likely to be till dinner. And now let us have
+are as [[Well|well]] off as we are likely to be till dinner. And now let us have
 the news, Tom. Imprimis, how’s Pecksniff?’
 
-‘I don’t know how he is,’ was Tom’s grave answer.
+‘I don’t know how he is,’ was Tom’s [[Grave|grave]] answer.
 
 John Westlock put the teapot down, and looked at him, in astonishment.
 
@@ -450,8 +450,8 @@ Tom had no need to direct that appealing look towards his friend, in
 mild and gentle deprecation of his answering with a laugh. John Westlock
 would as soon have thought of striking him down upon the floor.
 
-‘It was all a dream of mine,’ said Tom, ‘and it is over. I’ll tell you
-how it happened, at some other time. Bear with my folly, John. I do not,
+‘It was all [[A Dream|a dream]] of mine,’ said Tom, ‘and it is over. I’ll tell you
+how it happened, at some other [[Time|time]]. Bear with my folly, John. I do not,
 just now, like to think or speak about it.’
 
 ‘I swear to you, Tom,’ returned his friend, with great earnestness of
@@ -488,23 +488,23 @@ my advice, did you not, Tom?’
 ‘And to take it when I gave it to you?’
 
 ‘Yes,’ rejoined Tom, smiling, ‘if it were good advice, which, being
-yours, I have no doubt it will be.’
+yours, I have no [[Doubt|doubt]] it will be.’
 
-‘Very well. Then don’t be an obstinate old humbug in the outset, Tom, or
+‘Very [[Well|well]]. Then don’t be an obstinate old humbug in the outset, Tom, or
 I shall shut up shop and dispense none of that invaluable commodity. You
 are on a visit to me. I wish I had an organ for you, Tom!’
 
 ‘So do the gentlemen downstairs, and the gentlemen overhead I have no
-doubt,’ was Tom’s reply.
+[[Doubt|doubt]],’ was Tom’s reply.
 
 ‘Let me see. In the first place, you will wish to see your sister this
 morning,’ pursued his friend, ‘and of course you will like to go there
-alone. I’ll walk part of the way with you; and see about a little
+[[Alone|alone]]. I’ll walk part of the way with you; and see about a little
 business of my own, and meet you here again in the afternoon. Put that
-in your pocket, Tom. It’s only the key of the door. If you come home
+in your pocket, Tom. It’s only the key of the door. If you come [[Home|home]]
 first you’ll want it.’
 
-‘Really,’ said Tom, ‘quartering one’s self upon a friend in this way--’
+‘Really,’ said Tom, ‘quartering one’s [[Self|self]] upon a friend in this way--’
 
 ‘Why, there are two keys,’ interposed John Westlock. ‘I can’t open the
 door with them both at once, can I? What a ridiculous fellow you are,
@@ -512,13 +512,13 @@ Tom? Nothing particular you’d like for dinner, is there?’
 
 ‘Oh dear no,’ said Tom.
 
-‘Very well, then you may as well leave it to me. Have a glass of cherry
+‘Very [[Well|well]], then you may as [[Well|well]] leave it to me. Have a glass of cherry
 brandy, Tom?’
 
 ‘Not a drop! What remarkable chambers these are!’ said Pinch ‘there’s
 everything in ‘em!’
 
-‘Bless your soul, Tom, nothing but a few little bachelor contrivances!
+‘Bless your [[Soul|soul]], Tom, nothing but a few little bachelor contrivances!
 the sort of impromptu arrangements that might have suggested themselves
 to Philip Quarll or Robinson Crusoe, that’s all. What do you say? Shall
 we walk?’
@@ -560,7 +560,7 @@ consolation to proclaim “I want such and such a thing, and I can’t get
 it, and I don’t expect I ever shall!”’
 
 John Westlock laughed at the idea, and they went out together. So many
-years had passed since Tom was last in London, and he had known so
+years had passed since Tom was last in [[London]], and he had known so
 little of it then, that his interest in all he saw was very great. He
 was particularly anxious, among other notorious localities, to have
 those streets pointed out to him which were appropriated to the
@@ -579,11 +579,11 @@ the great bell-handle, Tom gave it a gentle pull. The porter appeared.
 
 ‘Miss Pinch is governess here,’ replied the porter.
 
-At the same time he looked at Tom from head to foot, as if he would have
+At the same [[Time|time]] he looked at Tom from head to foot, as if he would have
 said, ‘You are a nice man, YOU are; where did YOU come from?’
 
 ‘It’s the same young lady,’ said Tom. ‘It’s quite right. Is she at
-home?’
+[[Home|home]]?’
 
 ‘I don’t know, I’m sure,’ rejoined the porter.
 
@@ -593,7 +593,7 @@ of such a step did not appear to present itself to the porter’s mind at
 all.
 
 The fact was that the porter in answering the gate-bell had, according
-to usage, rung the house-bell (for it is as well to do these things in
+to usage, rung the [[house]]-bell (for it is as [[Well|well]] to do these things in
 the Baronial style while you are about it), and that there the functions
 of his office had ceased. Being hired to open and shut the gate, and
 not to explain himself to strangers, he left this little incident to be
@@ -603,7 +603,7 @@ out from the door steps:
 ‘Hollo, there! wot are you up to? This way, young man!’
 
 ‘Oh!’ said Tom, hurrying towards him. ‘I didn’t observe that there was
-anybody else. Pray is Miss Pinch at home?’
+anybody else. Pray is Miss Pinch at [[Home|home]]?’
 
 ‘She’s IN,’ replied the footman. As much as to say to Tom: ‘But if you
 think she has anything to do with the proprietorship of this place you
@@ -632,14 +632,14 @@ as a nameless and obscure individual.
 ‘Brother,’ repeated Tom, slightly raising his voice. ‘And if you will
 say, in the first instance, a gentleman, and then say her brother,
 I shall be obliged to you, as she does not expect me or know I am in
-London, and I do not wish to startle her.’
+[[London]], and I do not wish to startle her.’
 
 The young man’s interest in Tom’s observations had ceased long before
-this time, but he kindly waited until now; when, shutting the door, he
+this [[Time|time]], but he kindly waited until now; when, shutting the door, he
 withdrew.
 
 ‘Dear me!’ said Tom. ‘This is very disrespectful and uncivil behaviour.
-I hope these are new servants here, and that Ruth is very differently
+I [[Hope|hope]] these are new servants here, and that Ruth is very differently
 treated.’
 
 His cogitations were interrupted by the sound of voices in the adjoining
@@ -647,14 +647,14 @@ room. They seemed to be engaged in high dispute, or in indignant
 reprimand of some offender; and gathering strength occasionally, broke
 out into a perfect whirlwind. It was in one of these gusts, as it
 appeared to Tom, that the footman announced him; for an abrupt and
-unnatural calm took place, and then a dead silence. He was standing
-before the window, wondering what domestic quarrel might have caused
+unnatural calm took place, and then a dead [[Silence|silence]]. He was standing
+before the [[Window|window]], wondering what domestic quarrel might have caused
 these sounds, and hoping Ruth had nothing to do with it, when the door
 opened, and his sister ran into his arms.
 
-‘Why, bless my soul!’ said Tom, looking at her with great pride, when
+‘Why, bless my [[Soul|soul]]!’ said Tom, looking at her with great [[Pride|pride]], when
 they had tenderly embraced each other, ‘how altered you are Ruth! I
-should scarcely have known you, my love, if I had seen you anywhere
+should scarcely have known you, my [[Love|love]], if I had seen you anywhere
 else, I declare! You are so improved,’ said Tom, with inexpressible
 delight; ‘you are so womanly; you are so--positively, you know, you are
 so handsome!’
@@ -670,15 +670,15 @@ and you have been crying.’
 
 ‘Nonsense,’ said her brother stoutly. ‘That’s a story. Don’t tell me! I
 know better. What is it, dear? I’m not with Mr Pecksniff now. I am going
-to try and settle myself in London; and if you are not happy here (as I
-very much fear you are not, for I begin to think you have been deceiving
+to try and settle myself in [[London]]; and if you are not happy here (as I
+very much [[Fear|fear]] you are not, for I begin to think you have been deceiving
 me with the kindest and most affectionate intention) you shall not
 remain here.’
 
-Oh! Tom’s blood was rising; mind that! Perhaps the Boar’s Head had
+Oh! Tom’s [[Blood|blood]] was rising; mind that! Perhaps the Boar’s Head had
 something to do with it, but certainly the footman had. So had the sight
 of his pretty sister--a great deal to do with it. Tom could bear a good
-deal himself, but he was proud of her, and pride is a sensitive thing.
+deal himself, but he was proud of her, and [[Pride|pride]] is a sensitive thing.
 He began to think, ‘there are more Pecksniffs than one, perhaps,’ and by
 all the pins and needles that run up and down in angry veins, Tom was in
 a most unusual tingle all at once!
@@ -686,8 +686,8 @@ a most unusual tingle all at once!
 ‘We will talk about it, Tom,’ said Ruth, giving him another kiss to
 pacify him. ‘I am afraid I cannot stay here.’
 
-‘Cannot!’ replied Tom. ‘Why then, you shall not, my love. Heyday! You
-are not an object of charity! Upon my word!’
+‘Cannot!’ replied Tom. ‘Why then, you shall not, my [[Love|love]]. Heyday! You
+are not an object of [[Charity|charity]]! Upon my word!’
 
 Tom was stopped in these exclamations by the footman, who brought a
 message from his master, importing that he wished to speak with him
@@ -712,7 +712,7 @@ observe any resemblance.’
 ‘Miss Pinch has a brother, I know,’ observed the lady.
 
 ‘Miss Pinch is always talking about her brother, when she ought to be
-engaged upon my education,’ sobbed the pupil.
+engaged upon my [[Education|education]],’ sobbed the pupil.
 
 ‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
 please,’ addressing Tom.
@@ -728,13 +728,13 @@ Having done which he sat down again.
 ‘I am glad you chance to have called to see your sister to-day, sir,’
 resumed the brass-and-copper founder. ‘For although I do not approve, as
 a principle, of any young person engaged in my family in the capacity
-of a governess, receiving visitors, it happens in this case to be well
+of a governess, receiving visitors, it happens in this case to be [[Well|well]]
 timed. I am sorry to inform you that we are not at all satisfied with
 your sister.’
 
 ‘We are very much DISsatisfied with her,’ observed the lady.
 
-‘I’d never say another lesson to Miss Pinch if I was to be beat to death
+‘I’d never say another lesson to Miss Pinch if I was to be beat to [[Death|death]]
 for it!’ sobbed the pupil.
 
 ‘Sophia!’ cried her father. ‘Hold your tongue!’
@@ -745,7 +745,7 @@ asked Tom.
 ‘Yes,’ said the gentleman, ‘I will. I don’t recognize it as a right;
 but I will. Your sister has not the slightest innate power of commanding
 respect. It has been a constant source of difference between us.
-Although she has been in this family for some time, and although the
+Although she has been in this family for some [[Time|time]], and although the
 young lady who is now present has almost, as it were, grown up under
 her tuition, that young lady has no respect for her. Miss Pinch has
 been perfectly unable to command my daughter’s respect, or to win my
@@ -761,7 +761,7 @@ monstrous, in that.’
 ‘Good Heavens!’ cried the gentleman, looking round the room with
 dignity, ‘what do I find to be the case! what results obtrude themselves
 upon me as flowing from this weakness of character on the part of
-Miss Pinch! What are my feelings as a father, when, after my desire
+Miss Pinch! What are my feelings as a father, when, after my [[Desire|desire]]
 (repeatedly expressed to Miss Pinch, as I think she will not venture to
 deny) that my daughter should be choice in her expressions, genteel in
 her deportment, as becomes her station in life, and politely distant to
@@ -778,32 +778,32 @@ appreciation of it here.’
 
 ‘So just, sir,’ said the gentleman, lowering his voice to be the more
 impressive. ‘So just, that, but for my knowing Miss Pinch to be an
-unprotected young person, an orphan, and without friends, I would, as
+unprotected young person, an [[Orphan|orphan]], and without friends, I would, as
 I assured Miss Pinch, upon my veracity and personal character, a few
 minutes ago, I would have severed the connection between us at that
-moment and from that time.’
+moment and from that [[Time|time]].’
 
-‘Bless my soul, sir!’ cried Tom, rising from his seat; for he was now
+‘Bless my [[Soul|soul]], sir!’ cried Tom, rising from his seat; for he was now
 unable to contain himself any longer; ‘don’t allow such considerations
 as those to influence you, pray. They don’t exist, sir. She is not
 unprotected. She is ready to depart this instant. Ruth, my dear, get
 your bonnet on!’
 
 ‘Oh, a pretty family!’ cried the lady. ‘Oh, he’s her brother! There’s no
-doubt about that!’
+[[Doubt|doubt]] about that!’
 
-‘As little doubt, madam,’ said Tom, ‘as that the young lady yonder is
-the child of your teaching, and not my sister’s. Ruth, my dear, get your
+‘As little [[Doubt|doubt]], madam,’ said Tom, ‘as that the young lady yonder is
+the [[Child|child]] of your teaching, and not my sister’s. Ruth, my dear, get your
 bonnet on!’
 
 ‘When you say, young man,’ interposed the brass-and-copper founder,
 haughtily, ‘with that impertinence which is natural to you, and which I
 therefore do not condescend to notice further, that the young lady, my
 eldest daughter, has been educated by any one but Miss Pinch, you--I
-needn’t proceed. You comprehend me fully. I have no doubt you are used
+needn’t proceed. You comprehend me fully. I have no [[Doubt|doubt]] you are used
 to it.’
 
-‘Sir!’ cried Tom, after regarding him in silence for some little time.
+‘Sir!’ cried Tom, after regarding him in [[Silence|silence]] for some little [[Time|time]].
 ‘If you do not understand what I mean, I will tell you. If you do
 understand what I mean, I beg you not to repeat that mode of expressing
 yourself in answer to it. My meaning is, that no man can expect his
@@ -818,13 +818,13 @@ forsooth! Let her begin by winning yours, and see what happens then.’
 ‘Miss Pinch is getting her bonnet on, I trust, my dear?’ said the
 gentleman.
 
-‘I trust she is,’ said Tom, forestalling the reply. ‘I have no doubt
+‘I trust she is,’ said Tom, forestalling the reply. ‘I have no [[Doubt|doubt]]
 she is. In the meantime I address myself to you, sir. You made your
 statement to me, sir; you required to see me for that purpose; and I
 have a right to answer it. I am not loud or turbulent,’ said Tom, which
 was quite true, ‘though I can scarcely say as much for you, in your
 manner of addressing yourself to me. And I wish, on my sister’s behalf,
-to state the simple truth.’
+to state the simple [[Truth|truth]].’
 
 ‘You may state anything you like, young man,’ returned the gentleman,
 affecting to yawn. ‘My dear, Miss Pinch’s money.’
@@ -832,14 +832,14 @@ affecting to yawn. ‘My dear, Miss Pinch’s money.’
 ‘When you tell me,’ resumed Tom, who was not the less indignant for
 keeping himself quiet, ‘that my sister has no innate power of commanding
 the respect of your children, I must tell you it is not so; and that she
-has. She is as well bred, as well taught, as well qualified by nature
+has. She is as [[Well|well]] bred, as [[Well|well]] taught, as [[Well|well]] qualified by [[Nature|nature]]
 to command respect, as any hirer of a governess you know. But when you
-place her at a disadvantage in reference to every servant in your house,
+place her at a disadvantage in reference to every servant in your [[house]],
 how can you suppose, if you have the gift of common sense, that she is
 not in a tenfold worse position in reference to your daughters?’
 
-‘Pretty well! Upon my word,’ exclaimed the gentleman, ‘this is pretty
-well!’
+‘Pretty [[Well|well]]! Upon my word,’ exclaimed the gentleman, ‘this is pretty
+[[Well|well]]!’
 
 ‘It is very ill, sir,’ said Tom. ‘It is very bad and mean, and wrong and
 cruel. Respect! I believe young people are quick enough to observe and
@@ -868,23 +868,23 @@ above their reach, you have no right to employ her.’
 ‘Distinctly not,’ Tom answered. ‘If you imagine that the payment of an
 annual sum of money gives it to you, you immensely exaggerate its power
 and value. Your money is the least part of your bargain in such a case.
-You may be punctual in that to half a second on the clock, and yet
+You may be punctual in that to half a second on the [[Clock|clock]], and yet
 be Bankrupt. I have nothing more to say,’ said Tom, much flushed and
 flustered, now that it was over, ‘except to crave permission to stand in
-your garden until my sister is ready.’
+your [[Garden|garden]] until my sister is ready.’
 
 Not waiting to obtain it, Tom walked out.
 
-Before he had well begun to cool, his sister joined him. She was crying;
-and Tom could not bear that any one about the house should see her doing
+Before he had [[Well|well]] begun to cool, his sister joined him. She was crying;
+and Tom could not bear that any one about the [[house]] should see her doing
 that.
 
 ‘They will think you are sorry to go,’ said Tom. ‘You are not sorry to
 go?’
 
-‘No, Tom, no. I have been anxious to go for a very long time.’
+‘No, Tom, no. I have been anxious to go for a very long [[Time|time]].’
 
-‘Very well, then! Don’t cry!’ said Tom.
+‘Very [[Well|well]], then! Don’t cry!’ said Tom.
 
 ‘I am so sorry for YOU, dear,’ sobbed Tom’s sister.
 
@@ -919,10 +919,10 @@ one was a young lady; for he knew that would make her uncomfortable,
 and would cause her to regard herself as being an inconvenience to him.
 Neither did he like to leave her anywhere while he called on John, and
 told him of this change in his arrangements; for he was delicate of
-seeming to encroach upon the generous and hospitable nature of his
+seeming to encroach upon the generous and hospitable [[Nature|nature]] of his
 friend. Therefore he said again, ‘We must have some lodgings, of
 course;’ and said it as stoutly as if he had been a perfect Directory
-and Guide-Book to all the lodgings in London.
+and Guide-Book to all the lodgings in [[London]].
 
 ‘Where shall we go and look for ‘em?’ said Tom. ‘What do you think?’
 
@@ -932,16 +932,16 @@ hand with which she did so on the other little hand with which she
 clasped his arm, said nothing.
 
 ‘It ought to be a cheap neighbourhood,’ said Tom, ‘and not too far from
-London. Let me see. Should you think Islington a good place?’
+[[London]]. Let me see. Should you think Islington a good place?’
 
 ‘I should think it was an excellent place, Tom.’
 
-‘It used to be called Merry Islington, once upon a time,’ said Tom.
+‘It used to be called Merry Islington, once upon a [[Time|time]],’ said Tom.
 ‘Perhaps it’s merry now; if so, it’s all the better. Eh?’
 
 ‘If it’s not too dear,’ said Tom’s sister.
 
-‘Of course, if it’s not too dear,’ assented Tom. ‘Well, where IS
+‘Of course, if it’s not too dear,’ assented Tom. ‘[[Well]], where IS
 Islington? We can’t do better than go there, I should think. Let’s go.’
 
 Tom’s sister would have gone anywhere with him; so they walked off, arm
@@ -950,15 +950,15 @@ was not in that neighbourhood, Tom made inquiries respecting a public
 conveyance thither; which they soon obtained. As they rode along they
 were very full of conversation indeed, Tom relating what had happened
 to him, and Tom’s sister relating what had happened to her, and both
-finding a great deal more to say than time to say it in; for they had
+finding a great deal more to say than [[Time|time]] to say it in; for they had
 only just begun to talk, in comparison with what they had to tell each
-other, when they reached their journey’s end.
+other, when they reached their [[Journey|journey]]’s end.
 
 ‘Now,’ said Tom, ‘we must first look out for some very unpretending
 streets, and then look out for bills in the windows.’
 
 So they walked off again, quite as happily as if they had just stepped
-out of a snug little house of their own, to look for lodgings on account
+out of a snug little [[house]] of their own, to look for lodgings on account
 of somebody else. Tom’s simplicity was unabated, Heaven knows; but
 now that he had somebody to rely upon him, he was stimulated to rely a
 little more upon himself, and was, in his own opinion, quite a desperate
@@ -967,16 +967,16 @@ fellow.
 After roaming up and down for hours, looking at some scores of lodgings,
 they began to find it rather fatiguing, especially as they saw none
 which were at all adapted to their purpose. At length, however, in a
-singular little old-fashioned house, up a blind street, they discovered
+singular little old-fashioned [[house]], up a blind street, they discovered
 two small bedrooms and a triangular parlour, which promised to suit
-them well enough. Their desiring to take possession immediately was a
+them [[Well|well]] enough. Their desiring to take possession immediately was a
 suspicious circumstance, but even this was surmounted by the payment
 of their first week’s rent, and a reference to John Westlock, Esquire,
 Furnival’s Inn, High Holborn.
 
 Ah! It was a goodly sight, when this important point was settled,
 to behold Tom and his sister trotting round to the baker’s, and the
-butcher’s, and the grocer’s, with a kind of dreadful delight in the
+butcher’s, and the [[grocer]]’s, with a kind of dreadful delight in the
 unaccustomed cares of housekeeping; taking secret counsel together as
 they gave their small orders, and distracted by the least suggestion
 on the part of the shopkeeper! When they got back to the triangular
@@ -984,7 +984,7 @@ parlour, and Tom’s sister, bustling to and fro, busy about a thousand
 pleasant nothings, stopped every now and then to give old Tom a kiss or
 smile upon him, Tom rubbed his hands as if all Islington were his.
 
-It was late in the afternoon now, though, and high time for Tom to
+It was late in the afternoon now, though, and high [[Time|time]] for Tom to
 keep his appointment. So, after agreeing with his sister that
 in consideration of not having dined, they would venture on the
 extravagance of chops for supper at nine, he walked out again to narrate

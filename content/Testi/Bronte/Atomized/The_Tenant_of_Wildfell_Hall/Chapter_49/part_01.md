@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 49 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 49 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,7 +28,7 @@ before. We seldom _talked_ about Mrs. Huntingdon; but yet we never met
 
 without mentioning her, for I never sought his company but with the
 
-hope of hearing something about her, and he never sought mine at all,
+[[Hope|hope]] of hearing something about her, and he never sought mine at all,
 
 because he saw me often enough without. But I always began to talk of
 
@@ -44,15 +44,15 @@ husband?” though I might be burning to know; because I had not the
 
 hypocrisy to profess any anxiety for his recovery, and I had not the
 
-face to express any desire for a contrary result. Had I any such
+face to express any [[Desire|desire]] for a contrary result. Had I any such
 
-desire?—I fear I must plead guilty; but since you have heard my
+[[Desire|desire]]?—I [[Fear|fear]] I must plead guilty; but since you have heard my
 
-confession, you must hear my justification as well—a few of the
+confession, you must hear my justification as [[Well|well]]—a few of the
 
 excuses, at least, wherewith I sought to pacify my own accusing
 
-conscience.
+[[Conscience|conscience]].
 
 
 
@@ -66,9 +66,9 @@ done so, or if a spirit had whispered in my ear that a single effort of
 
 the will would be enough,—unless, indeed, I had the power to exchange
 
-him for some other victim of the grave, whose life might be of service
+him for some other victim of the [[Grave|grave]], whose life might be of service
 
-to his race, and whose death would be lamented by his friends. But was
+to his race, and whose [[Death|death]] would be lamented by his friends. But was
 
 there any harm in wishing that, among the many thousands whose souls
 
@@ -96,7 +96,7 @@ arguments—but God knew best. Meantime, however, I could not but be
 
 anxious for the result of His decrees; knowing, as I did, that (leaving
 
-myself entirely out of the question), however Helen might feel
+myself entirely out of the question), however [[Helen]] might feel
 
 interested in her husband’s welfare, however she might deplore his
 
@@ -122,7 +122,7 @@ merciful; and in a little while he put his sister’s letter into my
 
 hand. I silently read it, and restored it to him without comment or
 
-remark. This mode of procedure suited him so well, that thereafter he
+remark. This mode of procedure suited him so [[Well|well]], that thereafter he
 
 always pursued the plan of showing me her letters at once, when
 
@@ -138,7 +138,7 @@ them.
 
 But I devoured those precious letters with my eyes, and never let them
 
-go till their contents were stamped upon my mind; and when I got home,
+go till their contents were stamped upon my mind; and when I got [[Home|home]],
 
 the most important passages were entered in my diary among the
 
@@ -154,19 +154,19 @@ infatuation in persisting in the indulgence of his appetite for
 
 stimulating drink. In vain had she remonstrated, in vain she had
 
-mingled his wine with water: her arguments and entreaties were a
+mingled his wine with [[Water|water]]: her arguments and entreaties were a
 
 nuisance, her interference was an insult so intolerable that, at
 
 length, on finding she had covertly diluted the pale port that was
 
-brought him, he threw the bottle out of the window, swearing he would
+brought him, he threw the bottle out of the [[Window|window]], swearing he would
 
-not be cheated like a baby, ordered the butler, on pain of instant
+not be cheated like a baby, ordered the butler, on [[Pain|pain]] of instant
 
 dismissal, to bring a bottle of the strongest wine in the cellar, and
 
-affirming that he should have been well long ago if he had been let to
+affirming that he should have been [[Well|well]] long ago if he had been let to
 
 have his own way, but she wanted to keep him weak in order that she
 
@@ -190,18 +190,18 @@ taken place, which might terminate fatally if not soon removed. Of
 
 course, the wretched sufferer’s temper was not improved by this
 
-calamity—in fact, I suspect it was well nigh insupportable, though his
+calamity—in fact, I suspect it was [[Well|well]] nigh insupportable, though his
 
-kind nurse did not complain; but she said she had been obliged at last
+kind [[Nurse|nurse]] did not complain; but she said she had been obliged at last
 
 to give her son in charge to Esther Hargrave, as her presence was so
 
 constantly required in the sick-room that she could not possibly attend
 
-to him herself; and though the child had begged to be allowed to
+to him herself; and though the [[Child|child]] had begged to be allowed to
 
-continue with her there, and to help her to nurse his papa, and though
+continue with her there, and to help her to [[Nurse|nurse]] his papa, and though
 
-she had no doubt he would have been very good and quiet, she could not
+she had no [[Doubt|doubt]] he would have been very good and quiet, she could not
 
 think of subjecting his young and tender feelings to the sight of so

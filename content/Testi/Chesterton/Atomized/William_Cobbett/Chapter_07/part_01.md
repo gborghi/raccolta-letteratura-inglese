@@ -16,13 +16,13 @@ tags:
 
 CHAPTER VII
 
-LAST DAYS AND DEATH
+LAST DAYS AND [[Death|DEATH]]
 
 A MERE outline of the career of Cobbett has been broken or interrupted
 here for the sake of two studies of his literary personality.
 That outline left him in England after his second return
-from the United States.  The time of his return was largely
-the time of his triumph; in spite of, or rather because of,
+from the United States.  The [[Time|time]] of his return was largely
+the [[Time|time]] of his triumph; in spite of, or rather because of,
 the tumultuous hour in which he returned.  In this period
 he received all the highest compliments which he was ever
 likely to receive.  He was hailed as a democratic deliverer,
@@ -32,20 +32,20 @@ the Trades Unions of the Midlands and the North.  He was given
 a great public banquet and toasted with tremendous enthusiasm.
 He was invited, in many times and places daring these later years,
 to stand for Parliament.  He was eventually elected to Parliament.
-If the Reform Government had really been a Reform Government,
-he might have been a Minister in it or received any honour
-that popular government could bestow.  In any case he received,
-in this his time of honour, the highest of all these honours.
-He was prosecuted by the Government for sedition.
+If the [[Reform]] [[government|Government]] had really been a [[Reform]] [[government|Government]],
+he might have been a Minister in it or received any [[Honour|honour]]
+that popular [[government]] could bestow.  In any case he received,
+in this his [[Time|time]] of [[Honour|honour]], the highest of all these honours.
+He was prosecuted by the [[government|Government]] for sedition.
 
 But the man in the dock was a very different person from the dazed
 and disillusioned Tory farmer who had once stood distracted between
 the doom hanging over his farm and the doom hanging over his country.
 He stood in the dock like a man risen from the dead.
-He was an incarnate and historic revenge that had renewed its youth
+He was an incarnate and historic [[Revenge|revenge]] that had renewed its youth
 like the eagle's. He was far younger than when he was young.
 If it was foolish of the politicians to have prosecuted him on the
-first occasion, there is something of the madness that marks the wrath
+first occasion, there is something of the [[Madness|madness]] that marks the wrath
 of the gods in their repetition of the folly so long afterwards.
 They were actually silly enough to attempt to make him responsible
 for the Luddites smashing the machines.  He had not, of course,
@@ -63,28 +63,28 @@ sort of elemental rage had been dwelling among them.
 He browbeat the browbeating judges; he bullied the bullies
 of the bar; he raised the jury against them like a mob;
 it was the hour of his life.  For once at least he could make
-men understand that he did well to be angry; and he did.
+men understand that he did [[Well|well]] to be angry; and he did.
 He spat out his passionate contempt for all that cold
 and cowardly world which had gone about to trap him lest
-he should somewhere let out the truth.  He gave its own name
+he should somewhere let out the [[Truth|truth]].  He gave its own name
 to all that bottomless baseness in the comfortable classes,
 that would destroy a man for his sympathy with the poor.
 He swept away all the ridiculous relevancies of whether
-he had said this or that about an election or a trade union,
+he had said this or that about an election or a trade [[Union|union]],
 and attacked the' thing his enemies were really attacking.
 He accused them of their accusation.  He charged them
 with charging, a man with having a heart for the oppressed.
 He told them why they hated him; and showed them the face
-of their own fear.  It was not because he was blatant
+of their own [[Fear|fear]].  It was not because he was blatant
 or inconsistent or coarse or reckless; even if he was.
 It was not because he raged or ranted or made a noise.
 It was because of those silent on whose behalf he made a noise;
 of the dumb for whom he ranted and the impotent for whom he raged.
-It was his love of the poor that made him horrible to his enemies;
+It was his [[Love|love]] of the poor that made him horrible to his enemies;
 and in that hour he made them feed on the full horrors that such
-love reveals.  When he had done shaking the court of justice
+[[Love|love]] reveals.  When he had done shaking the [[Court|court]] of justice
 with his voice, everything around him seemed shrunken and silent;
-the jury acquitted him almost mechanically, and he left the court,
+the jury acquitted him almost mechanically, and he left the [[Court|court]],
 if not without a stain on his character, at least with a smile
 on his face broader than the grim smile he wore during his
 sentence to Newgate.  He might have been dismounting after
@@ -93,17 +93,17 @@ of his youth.  And indeed he had been doing the same thing;
 he had been enjoying himself.
 
 That hour in the dock was the supreme moment of his life; and though
-in one sense it was followed by more success and popularity than
+in one sense it was followed by more [[success]] and popularity than
 he had hitherto, he was never again so near to his own vision of triumph.
 He became more and more identified with the great movement against
 the rotten boroughs, which culminated (or collapsed) with the great Act
-of 1830.  The Reform movement united him with many who had once been
+of 1830.  The [[Reform]] movement united him with many who had once been
 his friends and with many who would always have been his enemies.
-But the Reform movement was very different from the Reform Bill.
-Cobbett lived to see Reform, but not the Reform he had longed to see.
+But the [[Reform]] movement was very different from the [[Reform]] Bill.
+Cobbett lived to see [[Reform]], but not the [[Reform]] he had longed to see.
 He sat in Parliament, but not in the Parliament where he wished to sit.
 The atmosphere he hated most of all, more than any smoke of destruction
-or any smell of decay, the Whig atmosphere, was what prevailed
+or any smell of [[Decay|decay]], the Whig atmosphere, was what prevailed
 in the new Parliament and the new Ministry.  If he watched with too
 harsh a sneer its first act of emancipating the niggers by an enormous
 bribe to the nigger-drivers, we may imagine (or fail to imagine)
@@ -119,13 +119,13 @@ in several other fields.  He had taken a seed-farm in Kensington:
 where he conducted an experiment in bartering goods for labour,
 and sold all sorts of things.  His Register still sold like hot cakes;
 the cakes continued to be very hot indeed.  Some of them were more
-than most people could swallow, in the way of absolute assertions,
-positive prophecies, and personal threats.  He was by this time a great
+than most people could [[Swallow|swallow]], in the way of absolute assertions,
+positive prophecies, and personal threats.  He was by this [[Time|time]] a great
 public character; from some points of view a great comic character.
 It is possible that some people tried to take a rise out of him.
 Sometimes the laugh was on his side; sometimes on the other.
 But this could always be said of him, that he stood in the same
-swaggering attitude whether he stood alone or backed by a whole nation.
+swaggering attitude whether he stood [[Alone|alone]] or backed by a whole nation.
 Two examples will serve:  of the former, the joke about the gridiron;
 of the latter, an affair that had happened earlier-that of
-the Royal Divorce.
+the Royal [[divorce|Divorce]].

@@ -37,7 +37,7 @@ day.’
 Mr Sloppy opened it, if possible, wider, and kept it open until his
 laugh was out.
 
-‘Why, you’re like the giant,’ said Miss Wren, ‘when he came home in the
+‘Why, you’re like the giant,’ said Miss Wren, ‘when he came [[Home|home]] in the
 land of Beanstalk, and wanted Jack for supper.’
 
 ‘Was he good-looking, Miss?’ asked Sloppy.
@@ -64,19 +64,19 @@ colour!’
 Miss Wren, with her usual expressive hitch, went on with her work. But,
 left her hair as it was; not displeased by the effect it had made.
 
-‘You don’t live here alone; do you, Miss?’ asked Sloppy.
+‘You don’t live here [[Alone|alone]]; do you, Miss?’ asked Sloppy.
 
 ‘No,’ said Miss Wren, with a chop. ‘Live here with my fairy godmother.’
 
 ‘With;’ Mr Sloppy couldn’t make it out; ‘with who did you say, Miss?’
 
-‘Well!’ replied Miss Wren, more seriously. ‘With my second father. Or
+‘[[Well]]!’ replied Miss Wren, more seriously. ‘With my second father. Or
 with my first, for that matter.’ And she shook her head, and drew a
-sigh. ‘If you had known a poor child I used to have here,’ she added,
+sigh. ‘If you had known a poor [[Child|child]] I used to have here,’ she added,
 ‘you’d have understood me. But you didn’t, and you can’t. All the
 better!’
 
-‘You must have been taught a long time,’ said Sloppy, glancing at the
+‘You must have been taught a long [[Time|time]],’ said Sloppy, glancing at the
 array of dolls in hand, ‘before you came to work so neatly, Miss, and
 with such a pretty taste.’
 
@@ -84,7 +84,7 @@ with such a pretty taste.’
 tossing her head. ‘Just gobbled and gobbled, till I found out how to do
 it. Badly enough at first, but better now.’
 
-‘And here have I,’ said Sloppy, in something of a self-reproachful tone,
+‘And here have I,’ said Sloppy, in something of a [[Self|self]]-reproachful tone,
 ‘been a learning and a learning, and here has Mr Boffin been a paying
 and a paying, ever so long!’
 
@@ -124,8 +124,8 @@ with that better look upon her, and with a smile: ‘Thank you!’
 measuring the handle on his sleeve, and softly standing the stick aside
 against the wall, ‘why, it would be a real pleasure to me. I’ve heerd
 tell that you can sing most beautiful; and I should be better paid with
-a song than with any money, for I always loved the likes of that, and
-often giv’ Mrs Higden and Johnny a comic song myself, with “Spoken” in
+a [[Song|song]] than with any money, for I always loved the likes of that, and
+often giv’ Mrs Higden and Johnny a comic [[Song|song]] myself, with “Spoken” in
 it. Though that’s not your sort, I’ll wager.’
 
 ‘You are a very kind young man,’ returned the dressmaker; ‘a really kind
@@ -138,7 +138,7 @@ an afterthought, shrugging her shoulders; ‘and if he does, he may!’
 
 ‘Him, him, him?’ repeated Sloppy; staring about, as if for Him.
 
-‘Him who is coming to court and marry me,’ returned Miss Wren. ‘Dear me,
+‘Him who is coming to [[Court|court]] and marry me,’ returned Miss Wren. ‘Dear me,
 how slow you are!’
 
 ‘Oh! HIM!’ said Sloppy. And seemed to turn thoughtful and a little

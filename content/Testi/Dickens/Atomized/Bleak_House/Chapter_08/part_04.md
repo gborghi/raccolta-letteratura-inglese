@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 4)"
+title: "Bleak [[house|House]] — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,7 +18,7 @@ Among the ladies who were most distinguished for this rapacious
 benevolence (if I may use the expression) was a Mrs. Pardiggle, who
 seemed, as I judged from the number of her letters to Mr. Jarndyce,
 to be almost as powerful a correspondent as Mrs. Jellyby herself. We
-observed that the wind always changed when Mrs. Pardiggle became the
+observed that the [[Wind|wind]] always changed when Mrs. Pardiggle became the
 subject of conversation and that it invariably interrupted Mr.
 Jarndyce and prevented his going any farther, when he had remarked
 that there were two classes of charitable people; one, the people who
@@ -32,7 +32,7 @@ She was a formidable style of lady with spectacles, a prominent nose,
 and a loud voice, who had the effect of wanting a great deal of room.
 And she really did, for she knocked down little chairs with her
 skirts that were quite a great way off. As only Ada and I were at
-home, we received her timidly, for she seemed to come in like cold
+[[Home|home]], we received her timidly, for she seemed to come in like cold
 weather and to make the little Pardiggles blue as they followed.
 
 “These, young ladies,” said Mrs. Pardiggle with great volubility
@@ -41,7 +41,7 @@ their names in a printed subscription list (perhaps more than one) in
 the possession of our esteemed friend Mr. Jarndyce. Egbert, my eldest
 (twelve), is the boy who sent out his pocket-money, to the amount of
 five and threepence, to the Tockahoopo Indians. Oswald, my second
-(ten and a half), is the child who contributed two and nine-pence to
+(ten and a half), is the [[Child|child]] who contributed two and nine-pence to
 the Great National Smithers Testimonial. Francis, my third (nine),
 one and sixpence halfpenny; Felix, my fourth (seven), eightpence to
 the Superannuated Widows; Alfred, my youngest (five), has voluntarily
@@ -53,7 +53,7 @@ they were weazened and shrivelled—though they were certainly that
 too—but they looked absolutely ferocious with discontent. At the
 mention of the Tockahoopo Indians, I could really have supposed
 Egbert to be one of the most baleful members of that tribe, he gave
-me such a savage frown. The face of each child, as the amount of his
+me such a savage frown. The face of each [[Child|child]], as the amount of his
 contribution was mentioned, darkened in a peculiarly vindictive
 manner, but his was by far the worst. I must except, however, the
 little recruit into the Infant Bonds of Joy, who was stolidly and
@@ -62,7 +62,7 @@ evenly miserable.
 “You have been visiting, I understand,” said Mrs. Pardiggle, “at Mrs.
 Jellyby’s?”
 
-We said yes, we had passed one night there.
+We said yes, we had passed one [[Night|night]] there.
 
 “Mrs. Jellyby,” pursued the lady, always speaking in the same
 demonstrative, loud, hard tone, so that her voice impressed my fancy
@@ -82,16 +82,16 @@ or wrong, this is not my course with MY young family. I take them
 everywhere.”
 
 I was afterwards convinced (and so was Ada) that from the
-ill-conditioned eldest child, these words extorted a sharp yell. He
+ill-conditioned eldest [[Child|child]], these words extorted a sharp yell. He
 turned it off into a yawn, but it began as a yell.
 
 “They attend matins with me (very prettily done) at half-past six
-o’clock in the morning all the year round, including of course the
-depth of winter,” said Mrs. Pardiggle rapidly, “and they are with me
+o’[[Clock|clock]] in the morning all the year round, including of course the
+depth of [[Winter|winter]],” said Mrs. Pardiggle rapidly, “and they are with me
 during the revolving duties of the day. I am a School lady, I am a
 Visiting lady, I am a Reading lady, I am a Distributing lady; I am on
 the local Linen Box Committee and many general committees; and my
-canvassing alone is very extensive—perhaps no one’s more so. But
+canvassing [[Alone|alone]] is very extensive—perhaps no one’s more so. But
 they are my companions everywhere; and by these means they acquire
 that knowledge of the poor, and that capacity of doing charitable
 business in general—in short, that taste for the sort of
@@ -107,7 +107,7 @@ consciousness on that occasion after a fervid address of two hours
 from the chairman of the evening.”
 
 Alfred glowered at us as if he never could, or would, forgive the
-injury of that night.
+injury of that [[Night|night]].
 
 “You may have observed, Miss Summerson,” said Mrs. Pardiggle, “in
 some of the lists to which I have referred, in the possession of our

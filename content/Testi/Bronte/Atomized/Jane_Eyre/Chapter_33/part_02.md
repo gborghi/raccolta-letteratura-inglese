@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 33 (part 2)"
+title: "[[Jane Eyre]] — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,12 +19,12 @@ tags:
 “I can guess your feelings,” he said, “but restrain them for a while: I
 have nearly finished; hear me to the end. Of Mr. Rochester’s character
 I know nothing, but the one fact that he professed to offer honourable
-marriage to this young girl, and that at the very altar she discovered
+[[Marriage|marriage]] to this young girl, and that at the very altar she discovered
 he had a wife yet alive, though a lunatic. What his subsequent conduct
 and proposals were is a matter of pure conjecture; but when an event
 transpired which rendered inquiry after the governess necessary, it was
 discovered she was gone—no one could tell when, where, or how. She had
-left Thornfield Hall in the night; every research after her course had
+left Thornfield Hall in the [[Night|night]]; every research after her course had
 been vain: the country had been scoured far and wide; no vestige of
 information could be gathered respecting her. Yet that she should be
 found is become a matter of serious urgency: advertisements have been
@@ -34,11 +34,11 @@ it not an odd tale?”
 
 “Just tell me this,” said I, “and since you know so much, you surely
 _can_ tell it me—what of Mr. Rochester? How and where is he? What is he
-doing? Is he well?”
+doing? Is he [[Well|well]]?”
 
 “I am ignorant of all concerning Mr. Rochester: the letter never
 mentions him but to narrate the fraudulent and illegal attempt I have
-adverted to. You should rather ask the name of the governess—the nature
+adverted to. You should rather ask the name of the governess—the [[Nature|nature]]
 of the event which requires her appearance.”
 
 “Did no one go to Thornfield Hall, then? Did no one see Mr. Rochester?”
@@ -66,7 +66,7 @@ husband—whom I had often called “my dear Edward!”
 “You don’t know him—don’t pronounce an opinion upon him,” I said, with
 warmth.
 
-“Very well,” he answered quietly: “and indeed my head is otherwise
+“Very [[Well|well]],” he answered quietly: “and indeed my head is otherwise
 occupied than with him: I have my tale to finish. Since you won’t ask
 the governess’s name, I must tell it of my own accord. Stay! I have it
 here—it is always more satisfactory to see important points written
@@ -77,23 +77,23 @@ through; from one of its compartments was extracted a shabby slip of
 paper, hastily torn off: I recognised in its texture and its stains of
 ultra-marine, and lake, and vermillion, the ravished margin of the
 portrait-cover. He got up, held it close to my eyes: and I read, traced
-in Indian ink, in my own handwriting, the words “JANE EYRE”—the work
+in Indian ink, in my own handwriting, the words “[[Jane Eyre|JANE EYRE]]”—the work
 doubtless of some moment of abstraction.
 
-“Briggs wrote to me of a Jane Eyre:” he said, “the advertisements
-demanded a Jane Eyre: I knew a Jane Elliott.—I confess I had my
+“Briggs wrote to me of a [[Jane Eyre]]:” he said, “the advertisements
+demanded a [[Jane Eyre]]: I knew a Jane Elliott.—I confess I had my
 suspicions, but it was only yesterday afternoon they were at once
 resolved into certainty. You own the name and renounce the _alias_?”
 
 “Yes—yes; but where is Mr. Briggs? He perhaps knows more of Mr.
 Rochester than you do.”
 
-“Briggs is in London. I should doubt his knowing anything at all about
+“Briggs is in [[London]]. I should [[Doubt|doubt]] his knowing anything at all about
 Mr. Rochester; it is not in Mr. Rochester he is interested. Meantime,
 you forget essential points in pursuing trifles: you do not inquire why
 Mr. Briggs sought after you—what he wanted with you.”
 
-“Well, what did he want?”
+“[[Well]], what did he want?”
 
 “Merely to tell you that your uncle, Mr. Eyre of Madeira, is dead; that
 he has left you all his property, and that you are now rich—merely
@@ -103,9 +103,9 @@ that—nothing more.”
 
 “Yes, you, rich—quite an heiress.”
 
-Silence succeeded.
+[[Silence]] succeeded.
 
-“You must prove your identity of course,” resumed St. John presently:
+“You must prove your [[Identity|identity]] of course,” resumed St. John presently:
 “a step which will offer no difficulties; you can then enter on
 immediate possession. Your fortune is vested in the English funds;
 Briggs has the will and the necessary documents.”
@@ -116,17 +116,17 @@ matter one can comprehend, or consequently enjoy, all at once. And then
 there are other chances in life far more thrilling and rapture-giving:
 _this_ is solid, an affair of the actual world, nothing ideal about it:
 all its associations are solid and sober, and its manifestations are
-the same. One does not jump, and spring, and shout hurrah! at hearing
+the same. One does not jump, and [[spring]], and shout hurrah! at hearing
 one has got a fortune; one begins to consider responsibilities, and to
-ponder business; on a base of steady satisfaction rise certain grave
+ponder business; on a base of steady satisfaction rise certain [[Grave|grave]]
 cares, and we contain ourselves, and brood over our bliss with a solemn
 brow.
 
 Besides, the words Legacy, Bequest, go side by side with the words,
-Death, Funeral. My uncle I had heard was dead—my only relative; ever
-since being made aware of his existence, I had cherished the hope of
+[[Death]], Funeral. My uncle I had heard was dead—my only relative; ever
+since being made aware of his existence, I had cherished the [[Hope|hope]] of
 one day seeing him: now, I never should. And then this money came only
-to me: not to me and a rejoicing family, but to my isolated self. It
+to me: not to me and a rejoicing family, but to my isolated [[Self|self]]. It
 was a grand boon doubtless; and independence would be glorious—yes, I
 felt that—_that_ thought swelled my heart.
 
@@ -145,5 +145,5 @@ Here was a new stunner—I had been calculating on four or five thousand.
 This news actually took my breath for a moment: Mr. St. John, whom I
 had never heard laugh before, laughed now.
 
-“Well,” said he, “if you had committed a murder, and I had told you
+“[[Well]],” said he, “if you had committed a murder, and I had told you
 your crime was discovered, you could scarcely look more aghast.”

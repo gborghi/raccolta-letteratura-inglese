@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 21 (part 4)"
+title: "[[Persuasion]] — Chapter 21 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“This accounts for something which Mr Elliot said last night,” cried
+“This accounts for something which Mr Elliot said last [[Night|night]],” cried
 
 Anne. “This explains it. I found he had been used to hear of me. I
 
 could not comprehend how. What wild imaginations one forms where dear
 
-self is concerned! How sure to be mistaken! But I beg your pardon; I
+[[Self|self]] is concerned! How sure to be mistaken! But I beg your pardon; I
 
 have interrupted you. Mr Elliot married then completely for money? The
 
@@ -30,7 +30,7 @@ character.”
 
 
 
-Mrs Smith hesitated a little here. “Oh! those things are too common.
+Mrs [[smith|Smith]] hesitated a little here. “Oh! those things are too common.
 
 When one lives in the world, a man or woman’s marrying for money is too
 
@@ -38,7 +38,7 @@ common to strike one as it ought. I was very young, and associated only
 
 with the young, and we were a thoughtless, gay set, without any strict
 
-rules of conduct. We lived for enjoyment. I think differently now; time
+rules of conduct. We lived for enjoyment. I think differently now; [[Time|time]]
 
 and sickness and sorrow have given me other notions; but at that period
 
@@ -58,9 +58,9 @@ all that he wanted. Her father was a grazier, her grandfather had been
 
 a butcher, but that was all nothing. She was a fine woman, had had a
 
-decent education, was brought forward by some cousins, thrown by chance
+decent [[Education|education]], was brought forward by some cousins, thrown by chance
 
-into Mr Elliot’s company, and fell in love with him; and not a
+into Mr Elliot’s company, and fell in [[Love|love]] with him; and not a
 
 difficulty or a scruple was there on his side, with respect to her
 
@@ -72,7 +72,7 @@ esteem Mr Elliot may have for his own situation in life now, as a young
 
 man he had not the smallest value for it. His chance for the Kellynch
 
-estate was something, but all the honour of the family he held as cheap
+estate was something, but all the [[Honour|honour]] of the family he held as cheap
 
 as dirt. I have often heard him declare, that if baronetcies were
 
@@ -88,7 +88,7 @@ have proof.”
 
 
 
-“Indeed, my dear Mrs Smith, I want none,” cried Anne. “You have
+“Indeed, my dear Mrs [[smith|Smith]], I want none,” cried Anne. “You have
 
 asserted nothing contradictory to what Mr Elliot appeared to be some
 
@@ -112,7 +112,7 @@ you will find on the upper shelf of the closet.”
 
 Anne, seeing her friend to be earnestly bent on it, did as she was
 
-desired. The box was brought and placed before her, and Mrs Smith,
+desired. The box was brought and placed before her, and Mrs [[smith|Smith]],
 
 sighing over it as she unlocked it, said—
 
@@ -122,7 +122,7 @@ sighing over it as she unlocked it, said—
 
 portion only of what I had to look over when I lost him. The letter I
 
-am looking for was one written by Mr Elliot to him before our marriage,
+am looking for was one written by Mr Elliot to him before our [[Marriage|marriage]],
 
 and happened to be saved; why, one can hardly imagine. But he was
 
@@ -144,21 +144,21 @@ it.”
 
 
 
-This was the letter, directed to “Charles Smith, Esq. Tunbridge Wells,”
+This was the letter, directed to “Charles [[smith|Smith]], Esq. Tunbridge Wells,”
 
-and dated from London, as far back as July, 1803:—
-
-
+and dated from [[London]], as far back as July, 1803:—
 
 
 
-“Dear Smith,
+
+
+“Dear [[smith|Smith]],
 
 
 
 “I have received yours. Your kindness almost overpowers me. I wish
 
-nature had made such hearts as yours more common, but I have lived
+[[Nature|nature]] had made such hearts as yours more common, but I have lived
 
 three-and-twenty years in the world, and have seen none like it. At
 
@@ -168,11 +168,11 @@ again. Give me joy: I have got rid of Sir Walter and Miss. They are
 
 gone back to Kellynch, and almost made me swear to visit them this
 
-summer; but my first visit to Kellynch will be with a surveyor, to tell
+[[Summer|summer]]; but my first visit to Kellynch will be with a surveyor, to tell
 
 me how to bring it with best advantage to the hammer. The baronet,
 
-nevertheless, is not unlikely to marry again; he is quite fool enough.
+nevertheless, is not unlikely to marry again; he is quite [[Fool|fool]] enough.
 
 If he does, however, they will leave me in peace, which may be a decent
 
@@ -182,7 +182,7 @@ equivalent for the reversion. He is worse than last year.
 
 “I wish I had any name but Elliot. I am sick of it. The name of Walter
 
-I can drop, thank God! and I desire you will never insult me with my
+I can drop, thank God! and I [[Desire|desire]] you will never insult me with my
 
 second W. again, meaning, for the rest of my life, to be only yours
 
@@ -198,7 +198,7 @@ truly,
 
 Such a letter could not be read without putting Anne in a glow; and Mrs
 
-Smith, observing the high colour in her face, said—
+[[smith|Smith]], observing the high colour in her face, said—
 
 
 
@@ -216,7 +216,7 @@ Anne could not immediately get over the shock and mortification of
 
 finding such words applied to her father. She was obliged to recollect
 
-that her seeing the letter was a violation of the laws of honour, that
+that her seeing the letter was a violation of the laws of [[Honour|honour]], that
 
 no one ought to be judged or to be known by such testimonies, that no
 
@@ -234,7 +234,7 @@ were saying. But why be acquainted with us now?”
 
 
 
-“I can explain this too,” cried Mrs Smith, smiling.
+“I can explain this too,” cried Mrs [[smith|Smith]], smiling.
 
 
 
@@ -246,4 +246,4 @@ were saying. But why be acquainted with us now?”
 
 will shew him as he is now. I cannot produce written proof again, but I
 
-can give as authentic oral testimony as you can desire, of what he is
+can give as authentic oral testimony as you can [[Desire|desire]], of what he is

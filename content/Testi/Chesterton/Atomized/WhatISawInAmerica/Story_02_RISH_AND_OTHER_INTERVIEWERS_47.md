@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — RISH AND OTHER INTERVIEWERS          47"
+title: "[[WhatISawInAmerica]] — RISH AND OTHER INTERVIEWERS          47"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

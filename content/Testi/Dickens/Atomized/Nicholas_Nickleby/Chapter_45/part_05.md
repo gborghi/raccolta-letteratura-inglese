@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 45 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 45 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -36,8 +36,8 @@ to steal it.’
 stood crying and biting her fingers in a corner, while Kate (very pale,
 but perfectly quiet) had kept as near her brother as she could. ‘I am
 very sorry, indeed, for all this. I really don’t know what would be best
-to do, and that’s the truth. Nicholas ought to be the best judge, and I
-hope he is. Of course, it’s a hard thing to have to keep other people’s
+to do, and that’s the [[Truth|truth]]. Nicholas ought to be the best judge, and I
+[[Hope|hope]] he is. Of course, it’s a hard thing to have to keep other people’s
 children, though young Mr. Snawley is certainly as useful and willing
 as it’s possible for anybody to be; but, if it could be settled in any
 friendly manner--if old Mr. Snawley, for instance, would settle to pay
@@ -46,23 +46,23 @@ was come to, so that we undertook to have fish twice a week, and a
 pudding twice, or a dumpling, or something of that sort--I do think that
 it might be very satisfactory and pleasant for all parties.’
 
-This compromise, which was proposed with abundance of tears and sighs,
+This compromise, which was proposed with abundance of [[Tears|tears]] and sighs,
 not exactly meeting the point at issue, nobody took any notice of it;
 and poor Mrs. Nickleby accordingly proceeded to enlighten Mrs. Browdie
 upon the advantages of such a scheme, and the unhappy results flowing,
 on all occasions, from her not being attended to when she proffered her
 advice.
 
-‘You, sir,’ said Snawley, addressing the terrified Smike, ‘are an
-unnatural, ungrateful, unlovable boy. You won’t let me love you when I
-want to. Won’t you come home, won’t you?’
+‘You, sir,’ said Snawley, addressing the terrified [[Smike]], ‘are an
+unnatural, ungrateful, unlovable boy. You won’t let me [[Love|love]] you when I
+want to. Won’t you come [[Home|home]], won’t you?’
 
-‘No, no, no,’ cried Smike, shrinking back.
+‘No, no, no,’ cried [[Smike]], shrinking back.
 
 ‘He never loved nobody,’ bawled Squeers, through the keyhole. ‘He
 never loved me; he never loved Wackford, who is next door but one to
-a cherubim. How can you expect that he’ll love his father? He’ll never
-love his father, he won’t. He don’t know what it is to have a father. He
+a cherubim. How can you expect that he’ll [[Love|love]] his father? He’ll never
+[[Love|love]] his father, he won’t. He don’t know what it is to have a father. He
 don’t understand it. It an’t in him.’
 
 Mr. Snawley looked steadfastly at his son for a full minute, and then
@@ -72,7 +72,7 @@ drawing his arm across his eyes, he picked up Mr. Squeers’s hat, and
 taking it under one arm, and his own under the other, walked slowly and
 sadly out.
 
-‘Your romance, sir,’ said Ralph, lingering for a moment, ‘is destroyed,
+‘Your [[Romance|romance]], sir,’ said Ralph, lingering for a moment, ‘is destroyed,
 I take it. No unknown; no persecuted descendant of a man of high degree;
 but the weak, imbecile son of a poor, petty tradesman. We shall see how
 your sympathy melts before plain matter of fact.’
@@ -80,24 +80,24 @@ your sympathy melts before plain matter of fact.’
 ‘You shall,’ said Nicholas, motioning towards the door.
 
 ‘And trust me, sir,’ added Ralph, ‘that I never supposed you would give
-him up tonight. Pride, obstinacy, reputation for fine feeling, were all
+him up tonight. [[Pride]], obstinacy, reputation for fine feeling, were all
 against it. These must be brought down, sir, lowered, crushed, as they
 shall be soon. The protracted and wearing anxiety and expense of the law
 in its most oppressive form, its torture from hour to hour, its weary
 days and sleepless nights, with these I’ll prove you, and break your
-haughty spirit, strong as you deem it now. And when you make this house
+haughty spirit, strong as you deem it now. And when you make this [[house]]
 a hell, and visit these trials upon yonder wretched object (as you will;
-I know you), and those who think you now a young-fledged hero, we’ll
+I know you), and those who think you now a young-fledged [[Hero|hero]], we’ll
 go into old accounts between us two, and see who stands the debtor, and
 comes out best at last, even before the world.’
 
-Ralph Nickleby withdrew. But Mr. Squeers, who had heard a portion of this
-closing address, and was by this time wound up to a pitch of impotent
+[[Ralph Nickleby]] withdrew. But Mr. Squeers, who had heard a portion of this
+closing address, and was by this [[Time|time]] wound up to a pitch of impotent
 malignity almost unprecedented, could not refrain from returning to the
 parlour door, and actually cutting some dozen capers with various wry
 faces and hideous grimaces, expressive of his triumphant confidence in
 the downfall and defeat of Nicholas.
 
-Having concluded this war-dance, in which his short trousers and large
+Having concluded this war-[[Dance|dance]], in which his short trousers and large
 boots had borne a very conspicuous figure, Mr. Squeers followed his
 friends, and the family were left to meditate upon recent occurrences.

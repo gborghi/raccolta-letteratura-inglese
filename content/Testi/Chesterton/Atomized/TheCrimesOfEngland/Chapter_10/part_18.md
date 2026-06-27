@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 18)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -22,7 +22,7 @@ there had been any sincerity in the ideal side of our Teutonism they
 
 ought to have had it. They ought to have had it even by the pedantries
 
-of the time, which already talked of Latin inferiority: and were never
+of the [[Time|time]], which already talked of Latin inferiority: and were never
 
 weary of explaining that the country of Richelieu could not rule and the
 
@@ -38,19 +38,19 @@ Prussians were descended from mongrel Slavonic savages. If Protestantism
 
 be progress, the Danes were Protestant; while they had attained quite
 
-peculiar success and wealth in that small ownership and intensive
+peculiar [[success]] and wealth in that small ownership and intensive
 
 cultivation which is very commonly a boast of Catholic lands. They had
 
 in a quite arresting degree what was claimed for the Germanics as
 
-against Latin revolutionism: quiet freedom, quiet prosperity, a simple
+against Latin revolutionism: quiet [[Freedom|freedom]], quiet prosperity, a simple
 
-love of fields and of the sea. But, moreover, by that coincidence which
+[[Love|love]] of fields and of the sea. But, moreover, by that coincidence which
 
-dogs this drama, the English of that Victorian epoch had found their
+[[dogs]] this drama, the English of that Victorian epoch had found their
 
-freshest impression of the northern spirit of infancy and wonder in the
+freshest impression of the northern spirit of infancy and [[Wonder|wonder]] in the
 
 works of a Danish man of genius, whose stories and sketches were so
 
@@ -60,7 +60,7 @@ Fairy Tales were, they had been collected and not created by the modern
 
 German; they were a museum of things older than any nation, of the
 
-dateless age of once-upon-a-time. When the English romantics wanted to
+dateless age of once-upon-a-[[Time|time]]. When the English romantics wanted to
 
 find the folk-tale spirit still alive, they found it in the small
 
@@ -82,11 +82,11 @@ fairyland of furniture, and the travel and adventure of the farmyard.
 
 His treatment of inanimate things as animate was not a cold and awkward
 
-allegory: it was a true sense of a dumb divinity in things that are.
+[[Allegory|allegory]]: it was a true sense of a dumb divinity in things that are.
 
-Through him a child did feel that the chair he sat on was something like
+Through him a [[Child|child]] did feel that the chair he sat on was something like
 
-a wooden horse. Through him children and the happier kind of men did
+a wooden [[Horse|horse]]. Through him children and the happier kind of men did
 
 feel themselves covered by a roof as by the folded wings of some vast
 
@@ -106,27 +106,27 @@ dignity of the fighter is not in his largeness but rather in his
 
 smallness, in his stiff loyalty and heroic helplessness in the hands of
 
-larger and lower things. These things, alas, were an allegory. When
+larger and lower things. These things, alas, were an [[Allegory|allegory]]. When
 
 Prussia, finding her crimes unpunished, afterwards carried them into
 
-France as well as Denmark, Carlyle and his school made some effort to
+France as [[Well|well]] as [[Denmark]], Carlyle and his school made some effort to
 
 justify their Germanism, by pitting what they called the piety and
 
-simplicity of Germany against what they called the cynicism and ribaldry
+simplicity of [[Germany]] against what they called the cynicism and ribaldry
 
 of France. But nobody could possibly pretend that Bismarck was more
 
 pious and simple than Hans Andersen; yet the Carlyleans looked on with
 
-silence or approval while the innocent toy kingdom was broken like a
+[[Silence|silence]] or approval while the [[Innocent|innocent]] toy kingdom was broken like a
 
 toy. Here again, it is enormously probable that England would have
 
 struck upon the right side, if the English people had been the English
 
-Government. Among other coincidences, the Danish princess who had
+[[government|Government]]. Among other coincidences, the Danish princess who had
 
 married the English heir was something very like a fairy princess to the
 
@@ -136,7 +136,7 @@ sea-kings; and she was, and indeed still is, the most popular royal
 
 figure in England. But whatever our people may have been like, our
 
-politicians were on the very tamest level of timidity and the fear of
+politicians were on the very tamest level of timidity and the [[Fear|fear]] of
 
 force to which they have ever sunk. The Tin Soldier of the Danish army
 
@@ -166,13 +166,13 @@ were largely trained in irresponsibility by our contemporary historians,
 
 Freeman and Green, teaching us to be proud of a possible descent from
 
-King Arthur's nameless enemies and not from King Arthur. King Arthur
+[[King Arthur]]'s nameless enemies and not from [[King Arthur]]. [[King Arthur]]
 
 might not be historical, but at least he was legendary. Hengist and
 
 Horsa were not even legendary, for they left no legend. Anybody could
 
-see what was obligatory on the representative of Arthur; he was bound to
+see what was obligatory on the representative of [[arthur|Arthur]]; he was bound to
 
 be chivalrous, that is, to be European. But nobody could imagine what
 

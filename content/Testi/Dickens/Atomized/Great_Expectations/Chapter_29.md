@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 29"
+title: "[[Great Expectations]] — Chapter 29"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,39 +18,39 @@ Chapter XXIX.
 
 
 Betimes in the morning I was up and out. It was too early yet to go to
-Miss Havisham’s, so I loitered into the country on Miss Havisham’s side
+[[Miss Havisham]]’s, so I loitered into the country on [[Miss Havisham]]’s side
 of town,—which was not Joe’s side; I could go there to-morrow,—thinking
 about my patroness, and painting brilliant pictures of her plans for
 me.
 
-She had adopted Estella, she had as good as adopted me, and it could
+She had adopted [[Estella]], she had as good as adopted me, and it could
 not fail to be her intention to bring us together. She reserved it for
-me to restore the desolate house, admit the sunshine into the dark
+me to restore the desolate [[house]], admit the sunshine into the dark
 rooms, set the clocks a-going and the cold hearths a-blazing, tear down
 the cobwebs, destroy the vermin,—in short, do all the shining deeds of
-the young Knight of romance, and marry the Princess. I had stopped to
-look at the house as I passed; and its seared red brick walls, blocked
+the young Knight of [[Romance|romance]], and marry the Princess. I had stopped to
+look at the [[house]] as I passed; and its seared red brick walls, blocked
 windows, and strong green ivy clasping even the stacks of chimneys with
 its twigs and tendons, as if with sinewy old arms, had made up a rich
-attractive mystery, of which I was the hero. Estella was the
+attractive mystery, of which I was the [[Hero|hero]]. [[Estella]] was the
 inspiration of it, and the heart of it, of course. But, though she had
-taken such strong possession of me, though my fancy and my hope were so
+taken such strong possession of me, though my fancy and my [[Hope|hope]] were so
 set upon her, though her influence on my boyish life and character had
 been all-powerful, I did not, even that romantic morning, invest her
 with any attributes save those she possessed. I mention this in this
 place, of a fixed purpose, because it is the clue by which I am to be
 followed into my poor labyrinth. According to my experience, the
-conventional notion of a lover cannot be always true. The unqualified
-truth is, that when I loved Estella with the love of a man, I loved her
+conventional notion of a [[Lover|lover]] cannot be always true. The unqualified
+[[Truth|truth]] is, that when I loved [[Estella]] with the [[Love|love]] of a man, I loved her
 simply because I found her irresistible. Once for all; I knew to my
 sorrow, often and often, if not always, that I loved her against
-reason, against promise, against peace, against hope, against
+reason, against promise, against peace, against [[Hope|hope]], against
 happiness, against all discouragement that could be. Once for all; I
 loved her none the less because I knew it, and it had no more influence
 in restraining me than if I had devoutly believed her to be human
 perfection.
 
-I so shaped out my walk as to arrive at the gate at my old time. When I
+I so shaped out my walk as to arrive at the gate at my old [[Time|time]]. When I
 had rung at the bell with an unsteady hand, I turned my back upon the
 gate, while I tried to get my breath and keep the beating of my heart
 moderately quiet. I heard the side-door open, and steps come across the
@@ -60,7 +60,7 @@ rusty hinges.
 Being at last touched on the shoulder, I started and turned. I started
 much more naturally then, to find myself confronted by a man in a sober
 grey dress. The last man I should have expected to see in that place of
-porter at Miss Havisham’s door.
+porter at [[Miss Havisham]]’s door.
 
 “Orlick!”
 
@@ -69,7 +69,7 @@ in. It’s opposed to my orders to hold the gate open.”
 
 I entered and he swung it, and locked it, and took the key out. “Yes!”
 said he, facing round, after doggedly preceding me a few steps towards
-the house. “Here I am!”
+the [[house]]. “Here I am!”
 
 “How did you come here?”
 
@@ -92,21 +92,21 @@ round him with an air of injury. “Now, do it look like it?”
 I asked him how long he had left Gargery’s forge?
 
 “One day is so like another here,” he replied, “that I don’t know
-without casting it up. However, I come here some time since you left.”
+without casting it up. However, I come here some [[Time|time]] since you left.”
 
 “I could have told you that, Orlick.”
 
 “Ah!” said he, dryly. “But then you’ve got to be a scholar.”
 
-By this time we had come to the house, where I found his room to be one
-just within the side-door, with a little window in it looking on the
+By this [[Time|time]] we had come to the [[house]], where I found his room to be one
+just within the side-door, with a little [[Window|window]] in it looking on the
 courtyard. In its small proportions, it was not unlike the kind of
-place usually assigned to a gate-porter in Paris. Certain keys were
+place usually assigned to a gate-porter in [[Paris]]. Certain keys were
 hanging on the wall, to which he now added the gate key; and his
 patchwork-covered bed was in a little inner division or recess. The
 whole had a slovenly, confined, and sleepy look, like a cage for a
-human dormouse; while he, looming dark and heavy in the shadow of a
-corner by the window, looked like the human dormouse for whom it was
+human dormouse; while he, looming dark and heavy in the [[Shadow|shadow]] of a
+corner by the [[Window|window]], looked like the human dormouse for whom it was
 fitted up,—as indeed he was.
 
 “I never saw this room before,” I remarked; “but there used to be no
@@ -122,8 +122,8 @@ loaded, that is.”
 My eye had been caught by a gun with a brass-bound stock over the
 chimney-piece, and his eye had followed mine.
 
-“Well,” said I, not desirous of more conversation, “shall I go up to
-Miss Havisham?”
+“[[Well]],” said I, not desirous of more conversation, “shall I go up to
+[[Miss Havisham]]?”
 
 “Burn me, if I know!” he retorted, first stretching himself and then
 shaking himself; “my orders ends here, young master. I give this here
@@ -143,39 +143,39 @@ of me.
 “Oh!” said she. “You, is it, Mr. Pip?”
 
 “It is, Miss Pocket. I am glad to tell you that Mr. Pocket and family
-are all well.”
+are all [[Well|well]].”
 
 “Are they any wiser?” said Sarah, with a dismal shake of the head;
-“they had better be wiser, than well. Ah, Matthew, Matthew! You know
+“they had better be wiser, than [[Well|well]]. Ah, Matthew, Matthew! You know
 your way, sir?”
 
-Tolerably, for I had gone up the staircase in the dark, many a time. I
+Tolerably, for I had gone up the staircase in the dark, many a [[Time|time]]. I
 ascended it now, in lighter boots than of yore, and tapped in my old
-way at the door of Miss Havisham’s room. “Pip’s rap,” I heard her say,
+way at the door of [[Miss Havisham]]’s room. “Pip’s rap,” I heard her say,
 immediately; “come in, Pip.”
 
 She was in her chair near the old table, in the old dress, with her two
 hands crossed on her stick, her chin resting on them, and her eyes on
-the fire. Sitting near her, with the white shoe, that had never been
+the [[Fire|fire]]. Sitting near her, with the white shoe, that had never been
 worn, in her hand, and her head bent as she looked at it, was an
 elegant lady whom I had never seen.
 
-“Come in, Pip,” Miss Havisham continued to mutter, without looking
+“Come in, Pip,” [[Miss Havisham]] continued to mutter, without looking
 round or up; “come in, Pip, how do you do, Pip? so you kiss my hand as
-if I were a queen, eh?—Well?”
+if I were a [[Queen|queen]], eh?—[[Well]]?”
 
 She looked up at me suddenly, only moving her eyes, and repeated in a
 grimly playful manner,—
 
-“Well?”
+“[[Well]]?”
 
-“I heard, Miss Havisham,” said I, rather at a loss, “that you were so
+“I heard, [[Miss Havisham]],” said I, rather at a loss, “that you were so
 kind as to wish me to come and see you, and I came directly.”
 
-“Well?”
+“[[Well]]?”
 
 The lady whom I had never seen before, lifted up her eyes and looked
-archly at me, and then I saw that the eyes were Estella’s eyes. But she
+archly at me, and then I saw that the eyes were [[Estella]]’s eyes. But she
 was so much changed, was so much more beautiful, so much more womanly,
 in all things winning admiration, had made such wonderful advance, that
 I seemed to have made none. I fancied, as I looked at her, that I
@@ -185,58 +185,58 @@ inaccessibility that came about her!
 
 She gave me her hand. I stammered something about the pleasure I felt
 in seeing her again, and about my having looked forward to it, for a
-long, long time.
+long, long [[Time|time]].
 
-“Do you find her much changed, Pip?” asked Miss Havisham, with her
+“Do you find her much changed, Pip?” asked [[Miss Havisham]], with her
 greedy look, and striking her stick upon a chair that stood between
 them, as a sign to me to sit down there.
 
-“When I came in, Miss Havisham, I thought there was nothing of Estella
+“When I came in, [[Miss Havisham]], I thought there was nothing of [[Estella]]
 in the face or figure; but now it all settles down so curiously into
 the old—”
 
-“What? You are not going to say into the old Estella?” Miss Havisham
+“What? You are not going to say into the old [[Estella]]?” [[Miss Havisham]]
 interrupted. “She was proud and insulting, and you wanted to go away
 from her. Don’t you remember?”
 
 I said confusedly that that was long ago, and that I knew no better
-then, and the like. Estella smiled with perfect composure, and said she
-had no doubt of my having been quite right, and of her having been very
+then, and the like. [[Estella]] smiled with perfect composure, and said she
+had no [[Doubt|doubt]] of my having been quite right, and of her having been very
 disagreeable.
 
-“Is _he_ changed?” Miss Havisham asked her.
+“Is _he_ changed?” [[Miss Havisham]] asked her.
 
-“Very much,” said Estella, looking at me.
+“Very much,” said [[Estella]], looking at me.
 
-“Less coarse and common?” said Miss Havisham, playing with Estella’s
+“Less coarse and common?” said [[Miss Havisham]], playing with [[Estella]]’s
 hair.
 
-Estella laughed, and looked at the shoe in her hand, and laughed again,
+[[Estella]] laughed, and looked at the shoe in her hand, and laughed again,
 and looked at me, and put the shoe down. She treated me as a boy still,
 but she lured me on.
 
 We sat in the dreamy room among the old strange influences which had so
-wrought upon me, and I learnt that she had but just come home from
-France, and that she was going to London. Proud and wilful as of old,
-she had brought those qualities into such subjection to her beauty that
-it was impossible and out of nature—or I thought so—to separate them
-from her beauty. Truly it was impossible to dissociate her presence
+wrought upon me, and I learnt that she had but just come [[Home|home]] from
+France, and that she was going to [[London]]. Proud and wilful as of old,
+she had brought those qualities into such subjection to her [[Beauty|beauty]] that
+it was impossible and out of [[Nature|nature]]—or I thought so—to separate them
+from her [[Beauty|beauty]]. Truly it was impossible to dissociate her presence
 from all those wretched hankerings after money and gentility that had
 disturbed my boyhood,—from all those ill-regulated aspirations that had
-first made me ashamed of home and Joe,—from all those visions that had
-raised her face in the glowing fire, struck it out of the iron on the
-anvil, extracted it from the darkness of night to look in at the wooden
-window of the forge, and flit away. In a word, it was impossible for me
+first made me ashamed of [[Home|home]] and Joe,—from all those visions that had
+raised her face in the glowing [[Fire|fire]], struck it out of the iron on the
+anvil, extracted it from the darkness of [[Night|night]] to look in at the wooden
+[[Window|window]] of the forge, and flit away. In a word, it was impossible for me
 to separate her, in the past or in the present, from the innermost life
 of my life.
 
 It was settled that I should stay there all the rest of the day, and
-return to the hotel at night, and to London to-morrow. When we had
-conversed for a while, Miss Havisham sent us two out to walk in the
-neglected garden: on our coming in by and by, she said, I should wheel
+return to the hotel at [[Night|night]], and to [[London]] to-morrow. When we had
+conversed for a while, [[Miss Havisham]] sent us two out to walk in the
+neglected [[Garden|garden]]: on our coming in by and by, she said, I should [[Wheel|wheel]]
 her about a little, as in times of yore.
 
-So, Estella and I went out into the garden by the gate through which I
+So, [[Estella]] and I went out into the [[Garden|garden]] by the gate through which I
 had strayed to my encounter with the pale young gentleman, now Herbert;
 I, trembling in spirit and worshipping the very hem of her dress; she,
 quite composed and most decidedly not worshipping the hem of mine. As
@@ -261,19 +261,19 @@ I made the admission with reluctance, for it seemed to have a boyish
 look, and she already treated me more than enough like a boy.
 
 “Since your change of fortune and prospects, you have changed your
-companions,” said Estella.
+companions,” said [[Estella]].
 
 “Naturally,” said I.
 
 “And necessarily,” she added, in a haughty tone; “what was fit company
 for you once, would be quite unfit company for you now.”
 
-In my conscience, I doubt very much whether I had any lingering
+In my [[Conscience|conscience]], I [[Doubt|doubt]] very much whether I had any lingering
 intention left of going to see Joe; but if I had, this observation put
 it to flight.
 
 “You had no idea of your impending good fortune, in those times?” said
-Estella, with a slight wave of her hand, signifying in the fighting
+[[Estella]], with a slight wave of her hand, signifying in the fighting
 times.
 
 “Not the least.”
@@ -284,44 +284,44 @@ hers, made a contrast that I strongly felt. It would have rankled in me
 more than it did, if I had not regarded myself as eliciting it by being
 so set apart for her and assigned to her.
 
-The garden was too overgrown and rank for walking in with ease, and
+The [[Garden|garden]] was too overgrown and rank for walking in with ease, and
 after we had made the round of it twice or thrice, we came out again
 into the brewery yard. I showed her to a nicety where I had seen her
 walking on the casks, that first old day, and she said, with a cold and
 careless look in that direction, “Did I?” I reminded her where she had
-come out of the house and given me my meat and drink, and she said, “I
+come out of the [[house]] and given me my meat and drink, and she said, “I
 don’t remember.” “Not remember that you made me cry?” said I. “No,”
 said she, and shook her head and looked about her. I verily believe
 that her not remembering and not minding in the least, made me cry
 again, inwardly,—and that is the sharpest crying of all.
 
-“You must know,” said Estella, condescending to me as a brilliant and
+“You must know,” said [[Estella]], condescending to me as a brilliant and
 beautiful woman might, “that I have no heart,—if that has anything to
-do with my memory.”
+do with my [[Memory|memory]].”
 
 I got through some jargon to the effect that I took the liberty of
-doubting that. That I knew better. That there could be no such beauty
+doubting that. That I knew better. That there could be no such [[Beauty|beauty]]
 without it.
 
-“Oh! I have a heart to be stabbed in or shot in, I have no doubt,” said
-Estella, “and of course if it ceased to beat I should cease to be. But
+“Oh! I have a heart to be stabbed in or shot in, I have no [[Doubt|doubt]],” said
+[[Estella]], “and of course if it ceased to beat I should cease to be. But
 you know what I mean. I have no softness there,
 no—sympathy—sentiment—nonsense.”
 
 What _was_ it that was borne in upon my mind when she stood still and
-looked attentively at me? Anything that I had seen in Miss Havisham?
+looked attentively at me? Anything that I had seen in [[Miss Havisham]]?
 No. In some of her looks and gestures there was that tinge of
-resemblance to Miss Havisham which may often be noticed to have been
+resemblance to [[Miss Havisham]] which may often be noticed to have been
 acquired by children, from grown person with whom they have been much
-associated and secluded, and which, when childhood is passed, will
+associated and secluded, and which, when [[Childhood|childhood]] is passed, will
 produce a remarkable occasional likeness of expression between faces
 that are otherwise quite different. And yet I could not trace this to
-Miss Havisham. I looked again, and though she was still looking at me,
+[[Miss Havisham]]. I looked again, and though she was still looking at me,
 the suggestion was gone.
 
 What _was_ it?
 
-“I am serious,” said Estella, not so much with a frown (for her brow
+“I am serious,” said [[Estella]], not so much with a frown (for her brow
 was smooth) as with a darkening of her face; “if we are to be thrown
 much together, you had better believe it at once. No!” imperiously
 stopping me as I opened my lips. “I have not bestowed my tenderness
@@ -333,71 +333,71 @@ first day, and told me she remembered to have been up there, and to
 have seen me standing scared below. As my eyes followed her white hand,
 again the same dim suggestion that I could not possibly grasp crossed
 me. My involuntary start occasioned her to lay her hand upon my arm.
-Instantly the ghost passed once more and was gone.
+Instantly the [[Ghost|ghost]] passed once more and was gone.
 
 What _was_ it?
 
-“What is the matter?” asked Estella. “Are you scared again?”
+“What is the matter?” asked [[Estella]]. “Are you scared again?”
 
 “I should be, if I believed what you said just now,” I replied, to turn
 it off.
 
-“Then you don’t? Very well. It is said, at any rate. Miss Havisham will
+“Then you don’t? Very [[Well|well]]. It is said, at any rate. [[Miss Havisham]] will
 soon be expecting you at your old post, though I think that might be
 laid aside now, with other old belongings. Let us make one more round
-of the garden, and then go in. Come! You shall not shed tears for my
+of the [[Garden|garden]], and then go in. Come! You shall not shed [[Tears|tears]] for my
 cruelty to-day; you shall be my Page, and give me your shoulder.”
 
 Her handsome dress had trailed upon the ground. She held it in one hand
 now, and with the other lightly touched my shoulder as we walked. We
-walked round the ruined garden twice or thrice more, and it was all in
+walked round the ruined [[Garden|garden]] twice or thrice more, and it was all in
 bloom for me. If the green and yellow growth of weed in the chinks of
-the old wall had been the most precious flowers that ever blew, it
+the old wall had been the most precious [[Flowers|flowers]] that ever blew, it
 could not have been more cherished in my remembrance.
 
 There was no discrepancy of years between us to remove her far from me;
 we were of nearly the same age, though of course the age told for more
 in her case than in mine; but the air of inaccessibility which her
-beauty and her manner gave her, tormented me in the midst of my
+[[Beauty|beauty]] and her manner gave her, tormented me in the midst of my
 delight, and at the height of the assurance I felt that our patroness
 had chosen us for one another. Wretched boy!
 
-At last we went back into the house, and there I heard, with surprise,
-that my guardian had come down to see Miss Havisham on business, and
+At last we went back into the [[house]], and there I heard, with surprise,
+that my guardian had come down to see [[Miss Havisham]] on business, and
 would come back to dinner. The old wintry branches of chandeliers in
 the room where the mouldering table was spread had been lighted while
-we were out, and Miss Havisham was in her chair and waiting for me.
+we were out, and [[Miss Havisham]] was in her chair and waiting for me.
 
 It was like pushing the chair itself back into the past, when we began
 the old slow circuit round about the ashes of the bridal feast. But, in
-the funereal room, with that figure of the grave fallen back in the
-chair fixing its eyes upon her, Estella looked more bright and
+the funereal room, with that figure of the [[Grave|grave]] fallen back in the
+chair fixing its eyes upon her, [[Estella]] looked more bright and
 beautiful than before, and I was under stronger enchantment.
 
-The time so melted away, that our early dinner-hour drew close at hand,
-and Estella left us to prepare herself. We had stopped near the centre
-of the long table, and Miss Havisham, with one of her withered arms
+The [[Time|time]] so melted away, that our early dinner-hour drew close at hand,
+and [[Estella]] left us to prepare herself. We had stopped near the centre
+of the long table, and [[Miss Havisham]], with one of her withered arms
 stretched out of the chair, rested that clenched hand upon the yellow
-cloth. As Estella looked back over her shoulder before going out at the
-door, Miss Havisham kissed that hand to her, with a ravenous intensity
+cloth. As [[Estella]] looked back over her shoulder before going out at the
+door, [[Miss Havisham]] kissed that hand to her, with a ravenous intensity
 that was of its kind quite dreadful.
 
-Then, Estella being gone and we two left alone, she turned to me, and
+Then, [[Estella]] being gone and we two left [[Alone|alone]], she turned to me, and
 said in a whisper,—
 
-“Is she beautiful, graceful, well-grown? Do you admire her?”
+“Is she beautiful, graceful, [[Well|well]]-grown? Do you admire her?”
 
-“Everybody must who sees her, Miss Havisham.”
+“Everybody must who sees her, [[Miss Havisham]].”
 
 She drew an arm round my neck, and drew my head close down to hers as
-she sat in the chair. “Love her, love her, love her! How does she use
+she sat in the chair. “[[Love]] her, [[Love|love]] her, [[Love|love]] her! How does she use
 you?”
 
 Before I could answer (if I could have answered so difficult a question
-at all) she repeated, “Love her, love her, love her! If she favours
-you, love her. If she wounds you, love her. If she tears your heart to
-pieces,—and as it gets older and stronger it will tear deeper,—love
-her, love her, love her!”
+at all) she repeated, “[[Love]] her, [[Love|love]] her, [[Love|love]] her! If she favours
+you, [[Love|love]] her. If she wounds you, [[Love|love]] her. If she [[Tears|tears]] your heart to
+pieces,—and as it gets older and stronger it will tear deeper,—[[Love|love]]
+her, [[Love|love]] her, [[Love|love]] her!”
 
 Never had I seen such passionate eagerness as was joined to her
 utterance of these words. I could feel the muscles of the thin arm
@@ -405,21 +405,21 @@ round my neck swell with the vehemence that possessed her.
 
 “Hear me, Pip! I adopted her, to be loved. I bred her and educated her,
 to be loved. I developed her into what she is, that she might be loved.
-Love her!”
+[[Love]] her!”
 
-She said the word often enough, and there could be no doubt that she
+She said the word often enough, and there could be no [[Doubt|doubt]] that she
 meant to say it; but if the often repeated word had been hate instead
-of love—despair—revenge—dire death—it could not have sounded from her
+of [[Love|love]]—[[Despair|despair]]—[[Revenge|revenge]]—dire [[Death|death]]—it could not have sounded from her
 lips more like a curse.
 
 “I’ll tell you,” said she, in the same hurried passionate whisper,
-“what real love is. It is blind devotion, unquestioning
-self-humiliation, utter submission, trust and belief against yourself
-and against the whole world, giving up your whole heart and soul to the
+“what real [[Love|love]] is. It is blind devotion, unquestioning
+[[Self|self]]-humiliation, utter submission, trust and belief against yourself
+and against the whole world, giving up your whole heart and [[Soul|soul]] to the
 smiter—as I did!”
 
 When she came to that, and to a wild cry that followed that, I caught
-her round the waist. For she rose up in the chair, in her shroud of a
+her round the waist. For she [[Rose|rose]] up in the chair, in her shroud of a
 dress, and struck at the air as if she would as soon have struck
 herself against the wall and fallen dead.
 
@@ -432,29 +432,29 @@ pocket-handkerchief of rich silk and of imposing proportions, which was
 of great value to him in his profession. I have seen him so terrify a
 client or a witness by ceremoniously unfolding this pocket-handkerchief
 as if he were immediately going to blow his nose, and then pausing, as
-if he knew he should not have time to do it before such client or
-witness committed himself, that the self-committal has followed
+if he knew he should not have [[Time|time]] to do it before such client or
+witness committed himself, that the [[Self|self]]-committal has followed
 directly, quite as a matter of course. When I saw him in the room he
 had this expressive pocket-handkerchief in both hands, and was looking
 at us. On meeting my eye, he said plainly, by a momentary and silent
 pause in that attitude, “Indeed? Singular!” and then put the
 handkerchief to its right use with wonderful effect.
 
-Miss Havisham had seen him as soon as I, and was (like everybody else)
+[[Miss Havisham]] had seen him as soon as I, and was (like everybody else)
 afraid of him. She made a strong attempt to compose herself, and
 stammered that he was as punctual as ever.
 
 “As punctual as ever,” he repeated, coming up to us. “(How do you do,
-Pip? Shall I give you a ride, Miss Havisham? Once round?) And so you
+Pip? Shall I give you a ride, [[Miss Havisham]]? Once round?) And so you
 are here, Pip?”
 
-I told him when I had arrived, and how Miss Havisham had wished me to
-come and see Estella. To which he replied, “Ah! Very fine young lady!”
-Then he pushed Miss Havisham in her chair before him, with one of his
+I told him when I had arrived, and how [[Miss Havisham]] had wished me to
+come and see [[Estella]]. To which he replied, “Ah! Very fine young lady!”
+Then he pushed [[Miss Havisham]] in her chair before him, with one of his
 large hands, and put the other in his trousers-pocket as if the pocket
-were full of secrets.
+were full of [[Secrets|secrets]].
 
-“Well, Pip! How often have you seen Miss Estella before?” said he, when
+“[[Well]], Pip! How often have you seen Miss [[Estella]] before?” said he, when
 he came to a stop.
 
 “How often?”
@@ -465,12 +465,12 @@ he came to a stop.
 
 “Twice?”
 
-“Jaggers,” interposed Miss Havisham, much to my relief, “leave my Pip
-alone, and go with him to your dinner.”
+“Jaggers,” interposed [[Miss Havisham]], much to my relief, “leave my Pip
+[[Alone|alone]], and go with him to your dinner.”
 
 He complied, and we groped our way down the dark stairs together. While
 we were still on our way to those detached apartments across the paved
-yard at the back, he asked me how often I had seen Miss Havisham eat
+yard at the back, he asked me how often I had seen [[Miss Havisham]] eat
 and drink; offering me a breadth of choice, as usual, between a hundred
 times and once.
 
@@ -478,7 +478,7 @@ I considered, and said, “Never.”
 
 “And never will, Pip,” he retorted, with a frowning smile. “She has
 never allowed herself to be seen doing either, since she lived this
-present life of hers. She wanders about in the night, and then lays
+present life of hers. She wanders about in the [[Night|night]], and then lays
 hands on such food as she takes.”
 
 “Pray, sir,” said I, “may I ask you a question?”
@@ -486,7 +486,7 @@ hands on such food as she takes.”
 “You may,” said he, “and I may decline to answer it. Put your
 question.”
 
-“Estella’s name. Is it Havisham or—?” I had nothing to add.
+“[[Estella]]’s name. Is it Havisham or—?” I had nothing to add.
 
 “Or what?” said he.
 
@@ -495,17 +495,17 @@ question.”
 “It is Havisham.”
 
 This brought us to the dinner-table, where she and Sarah Pocket awaited
-us. Mr. Jaggers presided, Estella sat opposite to him, I faced my green
-and yellow friend. We dined very well, and were waited on by a
+us. Mr. Jaggers presided, [[Estella]] sat opposite to him, I faced my green
+and yellow friend. We dined very [[Well|well]], and were waited on by a
 maid-servant whom I had never seen in all my comings and goings, but
-who, for anything I know, had been in that mysterious house the whole
-time. After dinner a bottle of choice old port was placed before my
-guardian (he was evidently well acquainted with the vintage), and the
+who, for anything I know, had been in that mysterious [[house]] the whole
+[[Time|time]]. After dinner a bottle of choice old port was placed before my
+guardian (he was evidently [[Well|well]] acquainted with the vintage), and the
 two ladies left us.
 
 Anything to equal the determined reticence of Mr. Jaggers under that
 roof I never saw elsewhere, even in him. He kept his very looks to
-himself, and scarcely directed his eyes to Estella’s face once during
+himself, and scarcely directed his eyes to [[Estella]]’s face once during
 dinner. When she spoke to him, he listened, and in due course answered,
 but never looked at her, that I could see. On the other hand, she often
 looked at him, with interest and curiosity, if not distrust, but his
@@ -514,29 +514,29 @@ dry delight in making Sarah Pocket greener and yellower, by often
 referring in conversation with me to my expectations; but here, again,
 he showed no consciousness, and even made it appear that he
 extorted—and even did extort, though I don’t know how—those references
-out of my innocent self.
+out of my [[Innocent|innocent]] [[Self|self]].
 
-And when he and I were left alone together, he sat with an air upon him
+And when he and I were left [[Alone|alone]] together, he sat with an air upon him
 of general lying by in consequence of information he possessed, that
-really was too much for me. He cross-examined his very wine when he had
+really was too much for me. He [[Cross|cross]]-examined his very wine when he had
 nothing else in hand. He held it between himself and the candle, tasted
 the port, rolled it in his mouth, swallowed it, looked at his glass
 again, smelt the port, tried it, drank it, filled again, and
-cross-examined the glass again, until I was as nervous as if I had
+[[Cross|cross]]-examined the glass again, until I was as nervous as if I had
 known the wine to be telling him something to my disadvantage. Three or
 four times I feebly thought I would start conversation; but whenever he
 saw me going to ask him anything, he looked at me with his glass in his
-hand, and rolling his wine about in his mouth, as if requesting me to
+hand, and [[rolling]] his wine about in his mouth, as if requesting me to
 take notice that it was of no use, for he couldn’t answer.
 
 I think Miss Pocket was conscious that the sight of me involved her in
-the danger of being goaded to madness, and perhaps tearing off her
-cap,—which was a very hideous one, in the nature of a muslin mop,—and
+the danger of being goaded to [[Madness|madness]], and perhaps tearing off her
+cap,—which was a very hideous one, in the [[Nature|nature]] of a muslin mop,—and
 strewing the ground with her hair,—which assuredly had never grown on
 _her_ head. She did not appear when we afterwards went up to Miss
 Havisham’s room, and we four played at whist. In the interval, Miss
 Havisham, in a fantastic way, had put some of the most beautiful jewels
-from her dressing-table into Estella’s hair, and about her bosom and
+from her dressing-table into [[Estella]]’s hair, and about her bosom and
 arms; and I saw even my guardian look at her from under his thick
 eyebrows, and raise them a little, when her loveliness was before him,
 with those rich flushes of glitter and colour in it.
@@ -549,22 +549,22 @@ glory of our Kings and Queens was utterly abased, I say nothing; nor,
 of the feeling that I had, respecting his looking upon us personally in
 the light of three very obvious and poor riddles that he had found out
 long ago. What I suffered from, was the incompatibility between his
-cold presence and my feelings towards Estella. It was not that I knew I
+cold presence and my feelings towards [[Estella]]. It was not that I knew I
 could never bear to speak to him about her, that I knew I could never
 bear to hear him creak his boots at her, that I knew I could never bear
 to see him wash his hands of her; it was, that my admiration should be
 within a foot or two of him,—it was, that my feelings should be in the
 same place with him,—_that_, was the agonizing circumstance.
 
-We played until nine o’clock, and then it was arranged that when
-Estella came to London I should be forewarned of her coming and should
+We played until nine o’[[Clock|clock]], and then it was arranged that when
+[[Estella]] came to [[London]] I should be forewarned of her coming and should
 meet her at the coach; and then I took leave of her, and touched her
 and left her.
 
 My guardian lay at the Boar in the next room to mine. Far into the
-night, Miss Havisham’s words, “Love her, love her, love her!” sounded
+[[Night|night]], [[Miss Havisham]]’s words, “[[Love]] her, [[Love|love]] her, [[Love|love]] her!” sounded
 in my ears. I adapted them for my own repetition, and said to my
-pillow, “I love her, I love her, I love her!” hundreds of times. Then,
+pillow, “I [[Love|love]] her, I [[Love|love]] her, I [[Love|love]] her!” hundreds of times. Then,
 a burst of gratitude came upon me, that she should be destined for me,
 once the blacksmith’s boy. Then I thought if she were, as I feared, by
 no means rapturously grateful for that destiny yet, when would she
@@ -574,5 +574,5 @@ that was mute and sleeping now?
 Ah me! I thought those were high and great emotions. But I never
 thought there was anything low and small in my keeping away from Joe,
 because I knew she would be contemptuous of him. It was but a day gone,
-and Joe had brought the tears into my eyes; they had soon dried, God
+and Joe had brought the [[Tears|tears]] into my eyes; they had soon dried, God
 forgive me! soon dried.

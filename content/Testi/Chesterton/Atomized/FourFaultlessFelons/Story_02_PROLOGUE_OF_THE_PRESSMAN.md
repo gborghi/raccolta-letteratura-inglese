@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — PROLOGUE OF THE PRESSMAN"
+title: "[[FourFaultlessFelons]] — PROLOGUE OF THE PRESSMAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

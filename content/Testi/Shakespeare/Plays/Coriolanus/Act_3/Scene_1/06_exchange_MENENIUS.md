@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act III, Scene 1 — exchange (MENENIUS) [6]"
+title: "[[Coriolanus]] — Act III, Scene 1 — exchange ([[Menenius|MENENIUS]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| MENENIUS | Come, enough. |
-| BRUTUS | Enough with over-measure. |
+| [[Menenius|MENENIUS]] | Come, enough. |
+| [[Brutus|BRUTUS]] | Enough with over-measure. |

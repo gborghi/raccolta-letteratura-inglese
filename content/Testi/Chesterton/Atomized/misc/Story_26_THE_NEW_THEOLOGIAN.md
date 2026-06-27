@@ -1,5 +1,5 @@
 ---
-title: "misc — THE NEW THEOLOGIAN"
+title: "[[misc]] — THE NEW THEOLOGIAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -20,7 +20,7 @@ THE NEW THEOLOGIAN
 It is an old story that names do not fit things; it is an old story
 that the oldest forest is called the New Forest, and that Irish
 stew is almost peculiar to England.  But these are traditional
-titles that tend, of their nature, to stiffen; it is the tragedy
+titles that tend, of their [[Nature|nature]], to stiffen; it is the [[Tragedy|tragedy]]
 of to-day that even phrases invented for to-day do not fit it.
 The forest has remained new while it is nearly a thousand years old;
 but our fashions have grown old while they were still new.
@@ -66,14 +66,14 @@ This is true enough, of course, and there does not seem to be much
 difficulty about the matter.  Men of the Far East will submit
 to very low wages for the same reason that they will submit
 to "the punishment known as Li, or Slicing"; for the same reason
-that they will praise polygamy and suicide; for the same reason
+that they will praise polygamy and [[suicide]]; for the same reason
 that they subject the wife utterly to the husband or his parents;
 for the same reason that they serve their temples with prostitutes
 for priests; for the same reason that they sometimes seem to make
 no distinction between sexual passion and sexual perversion.
 They do it, that is, because they are Heathens; men with traditions
-different from ours about the limits of endurance and the gestures
-of self-respect. They may be very much better than we are
+different from ours about the limits of [[Endurance|endurance]] and the gestures
+of [[Self|self]]-respect. They may be very much better than we are
 in hundreds of other ways; and I can quite understand a man
 (though hardly a Dean) really preferring their historic virtues
 to those of Christendom.  A man may perhaps feel more comfortable
@@ -89,11 +89,11 @@ But I cannot make out why, with his enthusiasm for heathen habits
 and traditions, the Dean should wish to spread in the East the ideas
 which he has found so dreadfully unsettling in the West.  If some
 thousands of years of paganism have produced the patience and industry
-that Dean Inge admires, and if some thousand years of Christianity
+that Dean Inge admires, and if some thousand years of [[Christianity]]
 have produced the sentimentality and sensationalism which he regrets,
 the obvious deduction is that Dean Inge would be much happier if he were
 a heathen Chinese.  Instead of supporting Christian missions to Korea
-or Japan, he ought to be at the head of a great mission in London
+or Japan, he ought to be at the head of a great mission in [[London]]
 for converting the English to Taoism or Buddhism.  There his passion
 for the moral beauties of paganism would have free and natural play;
 his style would improve; his mind would begin slowly to clear;
@@ -102,33 +102,33 @@ which must hamper even the most Conservative Christian in his full
 praise of sweating and the sack.
 
 In Christendom he will never find rest.  The perpetual public
-criticism and public change which is the note of all our history
+criticism and public change which is the note of all our [[history]]
 springs from a certain spirit far too deep to be defined.  It is
-deeper than democracy; nay, it may often appear to be non-democratic;
+deeper than [[democracy]]; nay, it may often appear to be non-democratic;
 for it may often be the special defence of a minority or an individual.
 It will often leave the ninety-and-nine in the wilderness and go
 after that which is lost.  It will often risk the State itself
 to right a single wrong; and do justice though the heavens fall.
 Its highest expression is not even in the formula of the great gentlemen
-of the French Revolution who said that all men were free and equal.
+of the [[French Revolution]] who said that all men were free and equal.
 Its highest expression is rather in the formula of the peasant
 who said that a man's a man for a' that.  If there were but one slave
 in England, and he did all the work while the rest of us made merry,
-this spirit that is in us would still cry aloud to God night and day.
+this spirit that is in us would still cry aloud to God [[Night|night]] and day.
 Whether or no this spirit was produced by, it clearly works with, a creed
-which postulates a humanised God and a vividly personal immortality.
+which postulates a humanised God and a vividly personal [[Immortality|immortality]].
 Men must not be busy merely like a swarm, or even happy merely
 like a herd; for it is not a question of men, but of a man.
 A man's meals may be poor, but they must not be bestial; there must always
 be that about the meal which permits of its comparison to the sacrament.
 A man's bed may be hard, but it must not be abject or unclean:
 there must always be about the bed something of the decency
-of the death-bed.
+of the [[Death|death]]-bed.
 
 This is the spirit which makes the Christian poor begin their
 terrible murmur whenever there is a turn of prices or a deadlock
 of toil that threatens them with vagabondage or pauperisation;
-and we cannot encourage the Dean with any hope that this
+and we cannot encourage the Dean with any [[Hope|hope]] that this
 spirit can be cast out.  Christendom will continue to suffer
 all the disadvantages of being Christian:  it is the Dean
 who must be gently but firmly altered.  He had absent-mindedly
@@ -139,18 +139,18 @@ But the case is more curious still.  To connect the Dean with Confucian
 temples or traditions may have appeared fantastic; but it is not.
 Dr. Inge is not a stupid old Tory Rector, strict both on Church
 and State.  Such a man might talk nonsense about the Christian Socialists
-being "court chaplains of King Demos" or about his own superb valour in
-defying the democracy that rages in the front pews of Anglican churches.
+being "[[Court|court]] chaplains of [[King]] Demos" or about his own superb valour in
+defying the [[democracy]] that rages in the front pews of Anglican churches.
 We should not expect a mere old-fashioned country clergyman to know that
-Demos has never been king in England and precious seldom anywhere else;
-we should not expect him to realise that if King Demos had any chaplains
+Demos has never been [[King|king]] in England and precious seldom anywhere else;
+we should not expect him to realise that if [[King]] Demos had any chaplains
 they would be uncommonly poorly paid.  But Dr. Inge is not old-fashioned;
 he considers himself highly progressive and advanced.  He is a
 New Theologian; that is, he is liberal in theology--and nothing else.
 He is apparently in sober fact, and not as in any fantasy, in sympathy
 with those who would soften the superior claim of our creed by urging
 the rival creeds of the East; with those who would absorb the virtues
-of Buddhism or of Islam.  He holds a high seat in that modern Parliament
+of Buddhism or of [[Islam]].  He holds a high seat in that modern Parliament
 of Religions where all believers respect each other's unbelief.
 
 Now this has a very sharp moral for modern religious reformers.

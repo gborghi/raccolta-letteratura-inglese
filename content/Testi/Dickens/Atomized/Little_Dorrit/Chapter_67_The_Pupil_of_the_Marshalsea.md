@@ -17,13 +17,13 @@ tags:
 CHAPTER 27. The Pupil of the Marshalsea
 
 
-The day was sunny, and the Marshalsea, with the hot noon striking
-upon it, was unwontedly quiet. Arthur Clennam dropped into a solitary
+The day was sunny, and the Marshalsea, with the hot [[Noon|noon]] striking
+upon it, was unwontedly quiet. [[Arthur Clennam]] dropped into a solitary
 arm-chair, itself as faded as any debtor in the jail, and yielded
 himself to his thoughts.
 
 In the unnatural peace of having gone through the dreaded arrest, and
-got there,--the first change of feeling which the prison most commonly
+got there,--the first change of feeling which the [[Prison|prison]] most commonly
 induced, and from which dangerous resting-place so many men had slipped
 down to the depths of degradation and disgrace by so many ways,--he
 could think of some passages in his life, almost as if he were removed
@@ -32,13 +32,13 @@ was, the interest that had first brought him there when he had been free
 to keep away, and the gentle presence that was equally inseparable from
 the walls and bars about him and from the impalpable remembrances of his
 later life which no walls or bars could imprison, it was not remarkable
-that everything his memory turned upon should bring him round again to
+that everything his [[Memory|memory]] turned upon should bring him round again to
 Little Dorrit. Yet it was remarkable to him; not because of the fact
 itself, but because of the reminder it brought with it, how much the
 dear little creature had influenced his better resolutions.
 
 None of us clearly know to whom or to what we are indebted in this wise,
-until some marked stop in the whirling wheel of life brings the right
+until some marked stop in the whirling [[Wheel|wheel]] of life brings the right
 perception with it. It comes with sickness, it comes with sorrow, it
 comes with the loss of the dearly loved, it is one of the most frequent
 uses of adversity. It came to Clennam in his adversity, strongly and
@@ -47,9 +47,9 @@ set something like purpose before my jaded eyes, whom had I before me,
 toiling on, for a good object’s sake, without encouragement, without
 notice, against ignoble obstacles that would have turned an army of
 received heroes and heroines? One weak girl! When I tried to conquer
-my misplaced love, and to be generous to the man who was more fortunate
+my misplaced [[Love|love]], and to be generous to the man who was more fortunate
 than I, though he should never know it or repay me with a gracious word,
-in whom had I watched patience, self-denial, self-subdual, charitable
+in whom had I watched patience, [[Self|self]]-denial, [[Self|self]]-subdual, charitable
 construction, the noblest generosity of the affections? In the same poor
 girl! If I, a man, with a man’s advantages and means and energies, had
 slighted the whisper in my heart, that if my father had erred, it was my
@@ -57,7 +57,7 @@ first duty to conceal the fault and to repair it, what youthful figure
 with tender feet going almost bare on the damp ground, with spare hands
 ever working, with its slight shape but half protected from the
 sharp weather, would have stood before me to put me to shame? Little
-Dorrit’s.’ So always as he sat alone in the faded chair, thinking.
+Dorrit’s.’ So always as he sat [[Alone|alone]] in the faded chair, thinking.
 Always, Little Dorrit. Until it seemed to him as if he met the reward of
 having wandered away from her, and suffered anything to pass between him
 and his remembrance of her virtues.
@@ -75,7 +75,7 @@ make you hear.’
 
 ‘Did you knock?’ ‘Half-a-dozen times.’
 
-Rousing himself, Clennam observed that the prison had awakened from its
+Rousing himself, Clennam observed that the [[Prison|prison]] had awakened from its
 noontide doze, that the inmates were loitering about the shady yard, and
 that it was late in the afternoon. He had been thinking for hours.
 
@@ -84,7 +84,7 @@ that it was late in the afternoon. He had been thinking for hours.
 himself. Indeed he would have ‘em himself, and so I couldn’t send ‘em
 up. Mr Clennam, could I say a word to you?’
 
-‘Pray come in,’ said Arthur; for Mr Chivery’s head was still put in at
+‘Pray come in,’ said [[Arthur]]; for Mr Chivery’s head was still put in at
 the door a very little way, and Mr Chivery had but one ear upon him,
 instead of both eyes. This was native delicacy in Mr Chivery--true
 politeness; though his exterior had very much of a turnkey about it, and
@@ -99,20 +99,20 @@ where to find it, and we find it sitiwated correct.’
 With this mysterious speech, Mr Chivery took his ear away and shut the
 door. He might have been gone ten minutes, when his son succeeded him.
 
-‘Here’s your portmanteau,’ he said to Arthur, putting it carefully down.
+‘Here’s your portmanteau,’ he said to [[Arthur]], putting it carefully down.
 
 ‘It’s very kind of you. I am ashamed that you should have the trouble.’
 
 He was gone before it came to that; but soon returned, saying exactly as
 before, ‘Here’s your black box:’ which he also put down with care.
 
-‘I am very sensible of this attention. I hope we may shake hands now, Mr
+‘I am very sensible of this attention. I [[Hope|hope]] we may shake hands now, Mr
 John.’
 
 Young John, however, drew back, turning his right wrist in a socket made
 of his left thumb and middle-finger and said as he had said at first,
 ‘I don’t know as I can. No; I find I can’t!’ He then stood regarding the
-prisoner sternly, though with a swelling humour in his eyes that looked
+prisoner sternly, though with a swelling [[Humour|humour]] in his eyes that looked
 like pity.
 
 ‘Why are you angry with me,’ said Clennam, ‘and yet so ready to do me
@@ -128,8 +128,8 @@ against all rules of the Marshalsea--which it is; those feelings are
 such, that they would stimulate me, more to having it out with you in
 a Round on the present spot than to anything else I could name.’
 
-Arthur looked at him for a moment in some wonder, and some little anger.
-‘Well, well!’ he said. ‘A mistake, a mistake!’ Turning away, he sat down
+[[Arthur]] looked at him for a moment in some [[Wonder|wonder]], and some little anger.
+‘[[Well]], [[Well|well]]!’ he said. ‘A mistake, a mistake!’ Turning away, he sat down
 with a heavy sigh in the faded chair again.
 
 Young John followed him with his eyes, and, after a short pause, cried
@@ -144,17 +144,17 @@ parties without furniture, that have the room. It an’t much, but it’s at
 your service. Free, I mean. I could not think of letting you have it on
 any other terms. You’re welcome to it for nothing.’
 
-Arthur raised his head again to thank him, and to say he could
+[[Arthur]] raised his head again to thank him, and to say he could
 not accept the favour. John was still turning his wrist, and still
 contending with himself in his former divided manner.
 
-‘What is the matter between us?’ said Arthur.
+‘What is the matter between us?’ said [[Arthur]].
 
 ‘I decline to name it, sir,’ returned Young John, suddenly turning loud
 and sharp. ‘Nothing’s the matter.’
 
-Arthur looked at him again, in vain, for an explanation of his
-behaviour. After a while, Arthur turned away his head again. Young John
+[[Arthur]] looked at him again, in vain, for an explanation of his
+behaviour. After a while, [[Arthur]] turned away his head again. Young John
 said, presently afterwards, with the utmost mildness:
 
 ‘The little round table, sir, that’s nigh your elbow, was--you know
@@ -163,22 +163,22 @@ an individual that he gave it to, and that lived here after him. But the
 individual wasn’t any ways equal to him. Most individuals would find it
 hard to come up to his level.’
 
-Arthur drew the little table nearer, rested his arm upon it, and kept it
+[[Arthur]] drew the little table nearer, rested his arm upon it, and kept it
 there.
 
 ‘Perhaps you may not be aware, sir,’ said Young John, ‘that I intruded
-upon him when he was over here in London. On the whole he was of opinion
+upon him when he was over here in [[London]]. On the whole he was of opinion
 that it _was_ an intrusion, though he was so good as to ask me to sit
 down and to inquire after father and all other old friends. Leastways
 humblest acquaintances. He looked, to me, a good deal changed, and I
-said so when I came back. I asked him if Miss Amy was well--’
+said so when I came back. I asked him if Miss Amy was [[Well|well]]--’
 
 ‘And she was?’
 
 ‘I should have thought you would have known without putting the question
 to such as me,’ returned Young John, after appearing to take a large
 invisible pill. ‘Since you do put me the question, I am sorry I can’t
-answer it. But the truth is, he looked upon the inquiry as a liberty,
+answer it. But the [[Truth|truth]] is, he looked upon the inquiry as a liberty,
 and said, “What was that to me?” It was then I became quite aware I was
 intruding: of which I had been fearful before. However, he spoke very
 handsome afterwards; very handsome.’
@@ -187,7 +187,7 @@ They were both silent for several minutes: except that Young John
 remarked, at about the middle of the pause, ‘He both spoke and acted
 very handsome.’
 
-It was again Young John who broke the silence by inquiring:
+It was again Young John who broke the [[Silence|silence]] by inquiring:
 
 ‘If it’s not a liberty, how long may it be your intentions, sir, to go
 without eating and drinking?’
@@ -205,14 +205,14 @@ take a cup. Or I can bring a tray here in two minutes.’
 Feeling that Young John would impose that trouble on himself if he
 refused, and also feeling anxious to show that he bore in mind both
 the elder Mr Chivery’s entreaty, and the younger Mr Chivery’s apology,
-Arthur rose and expressed his willingness to take a cup of tea in Mr
+[[Arthur]] [[Rose|rose]] and expressed his willingness to take a cup of tea in Mr
 John’s apartment. Young John locked his door for him as they went out,
 slided the key into his pocket with great dexterity, and led the way to
 his own residence.
 
-It was at the top of the house nearest to the gateway. It was the room
+It was at the top of the [[house]] nearest to the gateway. It was the room
 to which Clennam had hurried on the day when the enriched family had
-left the prison for ever, and where he had lifted her insensible from
+left the [[Prison|prison]] for ever, and where he had lifted her insensible from
 the floor. He foresaw where they were going as soon as their feet
 touched the staircase. The room was so far changed that it was papered
 now, and had been repainted, and was far more comfortably furnished; but
@@ -223,37 +223,37 @@ Young John looked hard at him, biting his fingers.
 
 ‘I see you recollect the room, Mr Clennam?’
 
-‘I recollect it well, Heaven bless her!’
+‘I recollect it [[Well|well]], Heaven bless her!’
 
 Oblivious of the tea, Young John continued to bite his fingers and to
 look at his visitor, as long as his visitor continued to glance about
 the room. Finally, he made a start at the teapot, gustily rattled a
 quantity of tea into it from a canister, and set off for the common
-kitchen to fill it with hot water.
+kitchen to fill it with hot [[Water|water]].
 
 The room was so eloquent to Clennam in the changed circumstances of his
 return to the miserable Marshalsea; it spoke to him so mournfully of
 her, and of his loss of her; that it would have gone hard with him to
-resist it, even though he had not been alone. Alone, he did not try.
+resist it, even though he had not been [[Alone|alone]]. [[Alone]], he did not try.
 He had his hand on the insensible wall as tenderly as if it had been
 herself that he touched, and pronounced her name in a low voice. He
-stood at the window, looking over the prison-parapet with its grim
-spiked border, and breathed a benediction through the summer haze
+stood at the [[Window|window]], looking over the [[Prison|prison]]-parapet with its grim
+spiked border, and breathed a benediction through the [[Summer|summer]] haze
 towards the distant land where she was rich and prosperous.
 
-Young John was some time absent, and, when he came back, showed that he
+Young John was some [[Time|time]] absent, and, when he came back, showed that he
 had been outside by bringing with him fresh butter in a cabbage leaf,
 some thin slices of boiled ham in another cabbage leaf, and a little
-basket of water-cresses and salad herbs. When these were arranged upon
+basket of [[Water|water]]-cresses and salad herbs. When these were arranged upon
 the table to his satisfaction, they sat down to tea.
 
-Clennam tried to do honour to the meal, but unavailingly. The ham
+Clennam tried to do [[Honour|honour]] to the meal, but unavailingly. The ham
 sickened him, the bread seemed to turn to sand in his mouth. He could
 force nothing upon himself but a cup of tea.
 
 ‘Try a little something green,’ said Young John, handing him the basket.
 
-He took a sprig or so of water-cress, and tried again; but the bread
+He took a sprig or so of [[Water|water]]-cress, and tried again; but the bread
 turned to a heavier sand than before, and the ham (though it was good
 enough of itself) seemed to blow a faint simoom of ham through the whole
 Marshalsea.
@@ -273,11 +273,11 @@ ham. When he had folded it into a number of layers, one over another,
 so that it was small in the palm of his hand, he began to flatten it
 between both his hands, and to eye Clennam attentively.
 
-‘I wonder,’ he at length said, compressing his green packet with some
+‘I [[Wonder|wonder]],’ he at length said, compressing his green packet with some
 force, ‘that if it’s not worth your while to take care of yourself for
 your own sake, it’s not worth doing for some one else’s.’
 
-‘Truly,’ returned Arthur, with a sigh and a smile, ‘I don’t know for
+‘Truly,’ returned [[Arthur]], with a sigh and a smile, ‘I don’t know for
 whose.’
 
 ‘Mr Clennam,’ said John, warmly, ‘I am surprised that a gentleman who
@@ -288,14 +288,14 @@ should be capable of the heartlessness of treating mine in that way. I
 am astonished at it, sir. Really and truly I am astonished!’
 
 Having got upon his feet to emphasise his concluding words, Young John
-sat down again, and fell to rolling his green packet on his right leg;
+sat down again, and fell to [[rolling]] his green packet on his right leg;
 never taking his eyes off Clennam, but surveying him with a fixed look
 of indignant reproach.
 
 ‘I had got over it, sir,’ said John. ‘I had conquered it, knowing that
 it _must_ be conquered, and had come to the resolution to think no more
-about it. I shouldn’t have given my mind to it again, I hope, if to this
-prison you had not been brought, and in an hour unfortunate for me,
+about it. I shouldn’t have given my mind to it again, I [[Hope|hope]], if to this
+[[Prison|prison]] you had not been brought, and in an hour unfortunate for me,
 this day!’ (In his agitation Young John adopted his mother’s powerful
 construction of sentences.) ‘When you first came upon me, sir, in the
 Lodge, this day, more as if a Upas tree had been made a capture of than
@@ -312,24 +312,24 @@ when I ever so gently hint at it, and throw me back upon myself. For, do
 not, sir,’ said Young John, ‘do not be so base as to deny that dodge you
 do, and thrown me back upon myself you have!’
 
-All amazement, Arthur gazed at him like one lost, only saying, ‘What is
+All amazement, [[Arthur]] gazed at him like one lost, only saying, ‘What is
 it? What do you mean, John?’ But, John, being in that state of mind in
 which nothing would seem to be more impossible to a certain class of
 people than the giving of an answer, went ahead blindly.
 
 ‘I hadn’t,’ John declared, ‘no, I hadn’t, and I never had the
 audaciousness to think, I am sure, that all was anything but lost. I
-hadn’t, no, why should I say I hadn’t if I ever had, any hope that it
+hadn’t, no, why should I say I hadn’t if I ever had, any [[Hope|hope]] that it
 was possible to be so blest, not after the words that passed, not even
 if barriers insurmountable had not been raised! But is that a reason why
-I am to have no memory, why I am to have no thoughts, why I am to have
+I am to have no [[Memory|memory]], why I am to have no thoughts, why I am to have
 no sacred spots, nor anything?’
 
-‘What can you mean?’ cried Arthur.
+‘What can you mean?’ cried [[Arthur]].
 
-‘It’s all very well to trample on it, sir,’ John went on, scouring a
+‘It’s all very [[Well|well]] to trample on it, sir,’ John went on, scouring a
 very prairie of wild words, ‘if a person can make up his mind to be
-guilty of the action. It’s all very well to trample on it, but it’s
+guilty of the action. It’s all very [[Well|well]] to trample on it, but it’s
 there. It may be that it couldn’t be trampled upon if it wasn’t there.
 But that doesn’t make it gentlemanly, that doesn’t make it honourable,
 that doesn’t justify throwing a person back upon himself after he has
@@ -340,25 +340,25 @@ female criminals he’s expected to be.’
 Ridiculous as the incoherence of his talk was, there was yet a
 truthfulness in Young John’s simple, sentimental character, and a sense
 of being wounded in some very tender respect, expressed in his burning
-face and in the agitation of his voice and manner, which Arthur must
+face and in the agitation of his voice and manner, which [[Arthur]] must
 have been cruel to disregard. He turned his thoughts back to the
 starting-point of this unknown injury; and in the meantime Young John,
 having rolled his green packet pretty round, cut it carefully into three
 pieces, and laid it on a plate as if it were some particular delicacy.
 
-‘It seems to me just possible,’ said Arthur, when he had retraced the
-conversation to the water-cresses and back again, ‘that you have made
+‘It seems to me just possible,’ said [[Arthur]], when he had retraced the
+conversation to the [[Water|water]]-cresses and back again, ‘that you have made
 some reference to Miss Dorrit.’
 
 ‘It is just possible, sir,’ returned John Chivery.
 
-‘I don’t understand it. I hope I may not be so unlucky as to make you
+‘I don’t understand it. I [[Hope|hope]] I may not be so unlucky as to make you
 think I mean to offend you again, for I never have meant to offend you
 yet, when I say I don’t understand it.’
 
 ‘Sir,’ said Young John, ‘will you have the perfidy to deny that you know
 and long have known that I felt towards Miss Dorrit, call it not the
-presumption of love, but adoration and sacrifice?’
+presumption of [[Love|love]], but adoration and sacrifice?’
 
 ‘Indeed, John, I will not have any perfidy if I know it; why you should
 suspect me of it I am at a loss to think. Did you ever hear from Mrs
@@ -384,14 +384,14 @@ far above me in all respects at all times. As likewise,’ added John,
 His chivalrous feeling towards all that belonged to her made him so very
 respectable, in spite of his small stature and his rather weak legs, and
 his very weak hair, and his poetical temperament, that a Goliath might
-have sat in his place demanding less consideration at Arthur’s hands.
+have sat in his place demanding less consideration at [[Arthur]]’s hands.
 
 ‘You speak, John,’ he said, with cordial admiration, ‘like a Man.’
 
-‘Well, sir,’ returned John, brushing his hand across his eyes, ‘then I
+‘[[Well]], sir,’ returned John, brushing his hand across his eyes, ‘then I
 wish you’d do the same.’
 
-He was quick with this unexpected retort, and it again made Arthur
+He was quick with this unexpected retort, and it again made [[Arthur]]
 regard him with a wondering expression of face.
 
 ‘Leastways,’ said John, stretching his hand across the tea-tray, ‘if too
@@ -401,7 +401,7 @@ open, though a turnkey? Why did I get you the room which I knew you’d
 like best? Why did I carry up your things? Not that I found ‘em heavy;
 I don’t mention ‘em on that accounts; far from it. Why have I cultivated
 you in the manner I have done since the morning? On the ground of your
-own merits? No. They’re very great, I’ve no doubt at all; but not on the
+own merits? No. They’re very great, I’ve no [[Doubt|doubt]] at all; but not on the
 ground of them. Another’s merits have had their weight, and have had far
 more weight with Me. Then why not speak free?’
 
@@ -410,17 +410,17 @@ so true a respect for your character, that if I have appeared to be less
 sensible than I really am of the fact that the kind services you have
 rendered me to-day are attributable to my having been trusted by
 Miss Dorrit as her friend--I confess it to be a fault, and I ask your
-forgiveness.’
+[[Forgiveness|forgiveness]].’
 
 ‘Oh! why not,’ John repeated with returning scorn, ‘why not speak free!’
 
-‘I declare to you,’ returned Arthur, ‘that I do not understand you.
+‘I declare to you,’ returned [[Arthur]], ‘that I do not understand you.
 Look at me. Consider the trouble I have been in. Is it likely that I
-would wilfully add to my other self-reproaches, that of being ungrateful
+would wilfully add to my other [[Self|self]]-reproaches, that of being ungrateful
 or treacherous to you. I do not understand you.’
 
-John’s incredulous face slowly softened into a face of doubt. He rose,
-backed into the garret-window of the room, beckoned Arthur to come
+John’s incredulous face slowly softened into a face of [[Doubt|doubt]]. He [[Rose|rose]],
+backed into the garret-[[Window|window]] of the room, beckoned [[Arthur]] to come
 there, and stood looking at him thoughtfully.
 
 ‘Mr Clennam, do you mean to say that you don’t know?’
@@ -434,22 +434,22 @@ Clennam looked at the spikes, and looked at John; and looked at the
 spikes, and looked at John.
 
 ‘He says What! And what is more,’ exclaimed Young John, surveying him in
-a doleful maze, ‘he appears to mean it! Do you see this window, sir?’
+a doleful maze, ‘he appears to mean it! Do you see this [[Window|window]], sir?’
 
-‘Of course I see this window.’
+‘Of course I see this [[Window|window]].’
 
 ‘See this room?’
 
 ‘Why, of course I see this room.’
 
 ‘That wall opposite, and that yard down below? They have all been
-witnesses of it, from day to day, from night to night, from week to
+witnesses of it, from day to day, from [[Night|night]] to [[Night|night]], from week to
 week, from month to month. For how often have I seen Miss Dorrit here
 when she has not seen me!’
 
 ‘Witnesses of what?’ said Clennam.
 
-‘Of Miss Dorrit’s love.’
+‘Of Miss Dorrit’s [[Love|love]].’
 
 ‘For whom?’
 
@@ -462,7 +462,7 @@ upon him, its effect could not have been to shake him more. He stood
 amazed; his eyes looking at John; his lips parted, and seeming now and
 then to form the word ‘Me!’ without uttering it; his hands dropped at
 his sides; his whole appearance that of a man who has been awakened from
-sleep, and stupefied by intelligence beyond his full comprehension.
+[[Sleep|sleep]], and stupefied by intelligence beyond his full comprehension.
 
 ‘Me!’ he at length said aloud.
 
@@ -473,11 +473,11 @@ are completely mistaken.’
 
 ‘I mistaken, sir!’ said Young John. ‘_I_ completely mistaken on that
 subject! No, Mr Clennam, don’t tell me so. On any other, if you like,
-for I don’t set up to be a penetrating character, and am well aware of
+for I don’t set up to be a penetrating character, and am [[Well|well]] aware of
 my own deficiencies. But, _I_ mistaken on a point that has caused me
 more smart in my breast than a flight of savages’ arrows could have
-done! _I_ mistaken on a point that almost sent me into my grave, as
-I sometimes wished it would, if the grave could only have been made
+done! _I_ mistaken on a point that almost sent me into my [[Grave|grave]], as
+I sometimes wished it would, if the [[Grave|grave]] could only have been made
 compatible with the tobacco-business and father and mother’s feelings! I
 mistaken on a point that, even at the present moment, makes me take out
 my pocket-handkerchief like a great girl, as people say: though I am sure
@@ -485,7 +485,7 @@ I don’t know why a great girl should be a term of reproach, for every
 rightly constituted male mind loves ‘em great and small. Don’t tell me
 so, don’t tell me so!’
 
-Still highly respectable at bottom, though absurd enough upon the
+Still highly respectable at [[Bottom|bottom]], though absurd enough upon the
 surface, Young John took out his pocket-handkerchief with a genuine
 absence both of display and concealment, which is only to be seen in
 a man with a great deal of good in him, when he takes out his
@@ -493,16 +493,16 @@ pocket-handkerchief for the purpose of wiping his eyes. Having dried
 them, and indulged in the harmless luxury of a sob and a sniff, he put
 it up again.
 
-The touch was still in its influence so like a blow that Arthur could
+The touch was still in its influence so like a blow that [[Arthur]] could
 not get many words together to close the subject with. He assured John
 Chivery when he had returned his handkerchief to his pocket, that he
-did all honour to his disinterestedness and to the fidelity of his
+did all [[Honour|honour]] to his disinterestedness and to the fidelity of his
 remembrance of Miss Dorrit. As to the impression on his mind, of which
 he had just relieved it--here John interposed, and said, ‘No impression!
-Certainty!’--as to that, they might perhaps speak of it at another time,
+Certainty!’--as to that, they might perhaps speak of it at another [[Time|time]],
 but would say no more now. Feeling low-spirited and weary, he would go
-back to his room, with John’s leave, and come out no more that night.
-John assented, and he crept back in the shadow of the wall to his own
+back to his room, with John’s leave, and come out no more that [[Night|night]].
+John assented, and he crept back in the [[Shadow|shadow]] of the wall to his own
 lodging.
 
 The feeling of the blow was still so strong upon him that, when the
@@ -511,21 +511,21 @@ his door, waiting to make his bed, and who gave him to understand while
 doing it, that she had received her instructions from Mr Chivery, ‘not
 the old ‘un but the young ‘un,’ he sat down in the faded arm-chair,
 pressing his head between his hands, as if he had been stunned. Little
-Dorrit love him! More bewildering to him than his misery, far.
+Dorrit [[Love|love]] him! More bewildering to him than his misery, far.
 
 Consider the improbability. He had been accustomed to call her his
-child, and his dear child, and to invite her confidence by dwelling upon
+[[Child|child]], and his dear [[Child|child]], and to invite her confidence by dwelling upon
 the difference in their respective ages, and to speak of himself as one
 who was turning old. Yet she might not have thought him old. Something
 reminded him that he had not thought himself so, until the roses had
-floated away upon the river.
+floated away upon the [[River|river]].
 
 He had her two letters among other papers in his box, and he took them
 out and read them. There seemed to be a sound in them like the sound
 of her sweet voice. It fell upon his ear with many tones of tenderness,
 that were not insusceptible of the new meaning. Now it was that the
-quiet desolation of her answer, ‘No, No, No,’ made to him that night
-in that very room--that night when he had been shown the dawn of her
+quiet desolation of her answer, ‘No, No, No,’ made to him that [[Night|night]]
+in that very room--that [[Night|night]] when he had been shown the [[Dawn|dawn]] of her
 altered fortune, and when other words had passed between them which he
 had been destined to remember in humiliation and a prisoner, rushed into
 his mind.
@@ -535,16 +535,16 @@ Consider the improbability.
 But it had a preponderating tendency, when considered, to become
 fainter. There was another and a curious inquiry of his own heart’s that
 concurrently became stronger. In the reluctance he had felt to believe
-that she loved any one; in his desire to set that question at rest; in
+that she loved any one; in his [[Desire|desire]] to set that question at rest; in
 a half-formed consciousness he had had that there would be a kind of
-nobleness in his helping her love for any one, was there no suppressed
+nobleness in his helping her [[Love|love]] for any one, was there no suppressed
 something on his own side that he had hushed as it arose? Had he ever
 whispered to himself that he must not think of such a thing as her
 loving him, that he must not take advantage of her gratitude, that he
 must keep his experience in remembrance as a warning and reproof;
 that he must regard such youthful hopes as having passed away, as his
 friend’s dead daughter had passed away; that he must be steady in saying
-to himself that the time had gone by him, and he was too saddened and
+to himself that the [[Time|time]] had gone by him, and he was too saddened and
 old?
 
 He had kissed her when he raised her from the ground on the day when she
@@ -555,16 +555,16 @@ The darkness found him occupied with these thoughts. The darkness also
 found Mr and Mrs Plornish knocking at his door. They brought with them a
 basket, filled with choice selections from that stock in trade which met
 with such a quick sale and produced such a slow return. Mrs Plornish was
-affected to tears. Mr Plornish amiably growled, in his philosophical but
+affected to [[Tears|tears]]. Mr Plornish amiably growled, in his philosophical but
 not lucid manner, that there was ups you see, and there was downs. It
 was in vain to ask why ups, why downs; there they was, you know. He had
-heerd it given for a truth that accordin’ as the world went round, which
+heerd it given for a [[Truth|truth]] that accordin’ as the world went round, which
 round it did rewolve undoubted, even the best of gentlemen must take his
 turn of standing with his ed upside down and all his air a flying
-the wrong way into what you might call Space. Wery well then. What
-Mr Plornish said was, wery well then. That gentleman’s ed would come
+the wrong way into what you might call Space. Wery [[Well|well]] then. What
+Mr Plornish said was, wery [[Well|well]] then. That gentleman’s ed would come
 up-ards when his turn come, that gentleman’s air would be a pleasure to
-look upon being all smooth again, and wery well then!
+look upon being all smooth again, and wery [[Well|well]] then!
 
 It has been already stated that Mrs Plornish, not being philosophical,
 wept. It further happened that Mrs Plornish, not being philosophical,
@@ -572,7 +572,7 @@ was intelligible. It may have arisen out of her softened state of mind,
 out of her sex’s wit, out of a woman’s quick association of ideas,
 or out of a woman’s no association of ideas, but it further happened
 somehow that Mrs Plornish’s intelligibility displayed itself upon the
-very subject of Arthur’s meditations.
+very subject of [[Arthur]]’s meditations.
 
 ‘The way father has been talking about you, Mr Clennam,’ said Mrs
 Plornish, ‘you hardly would believe. It’s made him quite poorly. As
@@ -601,7 +601,7 @@ Speaking in this room, it’s not hard to think what the present something
 is. It’s a thing to be thankful for, indeed, that Miss Dorrit is not
 here to know it.’
 
-Arthur thought she looked at him with particular expression.
+[[Arthur]] thought she looked at him with particular expression.
 
 ‘It’s a thing,’ reiterated Mrs Plornish, ‘to be thankful for, indeed,
 that Miss Dorrit is far away. It’s to be hoped she is not likely to hear
@@ -615,7 +615,7 @@ Of a certainty Mrs Plornish did look at him now, with a sort of
 quivering defiance in her friendly emotion.
 
 ‘Yes!’ said she. ‘And it shows what notice father takes, though at his
-time of life, that he says to me this afternoon, which Happy Cottage
+[[Time|time]] of life, that he says to me this afternoon, which Happy Cottage
 knows I neither make it up nor any ways enlarge, “Mary, it’s much to
 be rejoiced in that Miss Dorrit is not on the spot to behold it.” Those
 were father’s words. Father’s own words was, “Much to be rejoiced in,
@@ -637,28 +637,28 @@ Little Dorrit, Little Dorrit. Again, for hours. Always Little Dorrit!
 
 Happily, if it ever had been so, it was over, and better over. Granted
 that she had loved him, and he had known it and had suffered himself
-to love her, what a road to have led her away upon--the road that would
+to [[Love|love]] her, what a [[Road|road]] to have led her away upon--the [[Road|road]] that would
 have brought her back to this miserable place! He ought to be much
 comforted by the reflection that she was quit of it forever; that she
 was, or would soon be, married (vague rumours of her father’s projects
 in that direction had reached Bleeding Heart Yard, with the news of her
-sister’s marriage); and that the Marshalsea gate had shut for ever on
-all those perplexed possibilities of a time that was gone.
+sister’s [[Marriage|marriage]]); and that the Marshalsea gate had shut for ever on
+all those perplexed possibilities of a [[Time|time]] that was gone.
 
 Dear Little Dorrit.
 
 Looking back upon his own poor story, she was its vanishing-point. Every
-thing in its perspective led to her innocent figure. He had travelled
+thing in its perspective led to her [[Innocent|innocent]] figure. He had travelled
 thousands of miles towards it; previous unquiet hopes and doubts had
 worked themselves out before it; it was the centre of the interest
 of his life; it was the termination of everything that was good and
 pleasant in it; beyond, there was nothing but mere waste and darkened
 sky.
 
-As ill at ease as on the first night of his lying down to sleep within
-those dreary walls, he wore the night out with such thoughts. What time
+As ill at ease as on the first [[Night|night]] of his lying down to [[Sleep|sleep]] within
+those dreary walls, he wore the [[Night|night]] out with such thoughts. What [[Time|time]]
 Young John lay wrapt in peaceful slumber, after composing and arranging
-the following monumental inscription on his pillow--
+the following monumental [[Inscription|inscription]] on his pillow--
 
 
                          STRANGER!

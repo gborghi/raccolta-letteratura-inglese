@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 4 (part 3)"
+title: "[[Shirley]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -46,11 +46,11 @@ his alterations and improvements, had frequent occasion to consult him.
 
 As to the other guest now present in Mr. Yorke's parlour, Mr. Helstone,
 
-between him and his host there existed a double antipathy--the antipathy
+between him and his host there existed a [[Double|double]] antipathy--the antipathy
 
-of nature and that of circumstances. The free-thinker hated the
+of [[Nature|nature]] and that of circumstances. The free-thinker hated the
 
-formalist; the lover of liberty detested the disciplinarian. Besides, it
+formalist; the [[Lover|lover]] of liberty detested the disciplinarian. Besides, it
 
 was said that in former years they had been rival suitors of the same
 
@@ -66,7 +66,7 @@ ready tongue, chiefly seemed to attract him. He never, however, proposed
 
 to any of these brilliant belles whose society he sought; and all at
 
-once he seriously fell in love with and eagerly wooed a girl who
+once he seriously fell in [[Love|love]] with and eagerly wooed a girl who
 
 presented a complete contrast to those he had hitherto noticed--a girl
 
@@ -82,15 +82,15 @@ rarely smiled at his jests, paid him no respect and no attention; no
 
 matter that she seemed the opposite of everything feminine he had ever
 
-in his whole life been known to admire. For him Mary Cave was perfect,
+in his whole life been known to admire. For him Mary [[Cave]] was perfect,
 
-because somehow, for some reason--no doubt he had a reason--he loved
+because somehow, for some reason--no [[Doubt|doubt]] he had a reason--he loved
 
 her.
 
 
 
-Mr. Helstone, at that time curate of Briarfield, loved Mary too--or, at
+Mr. Helstone, at that [[Time|time]] curate of Briarfield, loved Mary too--or, at
 
 any rate, he fancied her. Several others admired her, for she was
 
@@ -100,7 +100,7 @@ office's sake--that office probably investing him with some of the
 
 illusion necessary to allure to the commission of matrimony, and which
 
-Miss Cave did not find in any of the young wool-staplers, her other
+Miss [[Cave]] did not find in any of the young wool-staplers, her other
 
 adorers. Mr. Helstone neither had, nor professed to have, Mr. Yorke's
 
@@ -114,13 +114,13 @@ She accepted him at the first offer, and they were married.
 
 
 
-Nature never intended Mr. Helstone to make a very good husband,
+[[Nature]] never intended Mr. Helstone to make a very good husband,
 
 especially to a quiet wife. He thought so long as a woman was silent
 
 nothing ailed her, and she wanted nothing. If she did not complain of
 
-solitude, solitude, however continued, could not be irksome to her. If
+[[Solitude|solitude]], [[Solitude|solitude]], however continued, could not be irksome to her. If
 
 she did not talk and put herself forward, express a partiality for this,
 
@@ -146,7 +146,7 @@ clay left, cold and white, in the conjugal couch, he felt his
 
 bereavement--who shall say how little? Yet, perhaps, more than he seemed
 
-to feel it; for he was not a man from whom grief easily wrung tears.
+to feel it; for he was not a man from whom grief easily wrung [[Tears|tears]].
 
 
 
@@ -156,7 +156,7 @@ likewise a female attendant, who had waited upon Mrs. Helstone in her
 
 sickness, and who, perhaps, had had opportunities of learning more of
 
-the deceased lady's nature, of her capacity for feeling and loving, than
+the deceased lady's [[Nature|nature]], of her capacity for feeling and loving, than
 
 her husband knew. They gossiped together over the corpse, related
 
@@ -184,7 +184,7 @@ believed them. Already, of course, he had no friendly feeling to his
 
 successful rival. Though himself a married man now, and united to a
 
-woman who seemed a complete contrast to Mary Cave in all respects, he
+woman who seemed a complete contrast to Mary [[Cave]] in all respects, he
 
 could not forget the great disappointment of his life; and when he heard
 
@@ -196,14 +196,14 @@ animosity.
 
 
 
-Of the nature and strength of this animosity Mr. Helstone was but half
+Of the [[Nature|nature]] and strength of this animosity Mr. Helstone was but half
 
-aware. He neither knew how much Yorke had loved Mary Cave, what he had
+aware. He neither knew how much Yorke had loved Mary [[Cave]], what he had
 
 felt on losing her, nor was he conscious of the calumnies concerning his
 
 treatment of her, familiar to every ear in the neighbourhood but his
 
-own. He believed political and religious differences alone separated him
+own. He believed political and religious differences [[Alone|alone]] separated him
 
 and Mr. Yorke. Had he known how the case really stood, he would hardly

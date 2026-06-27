@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 8 (part 2)"
+title: "[[Persuasion]] — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,17 +16,17 @@ tags:
 
 in the Sound, when a gale came on, which lasted four days and nights,
 
-and which would have done for poor old Asp in half the time; our touch
+and which would have done for poor old Asp in half the [[Time|time]]; our touch
 
 with the Great Nation not having much improved our condition.
 
 Four-and-twenty hours later, and I should only have been a gallant
 
-Captain Wentworth, in a small paragraph at one corner of the
+[[Captain Wentworth]], in a small paragraph at one corner of the
 
 newspapers; and being lost in only a sloop, nobody would have thought
 
-about me.” Anne’s shudderings were to herself alone; but the Miss
+about me.” Anne’s shudderings were to herself [[Alone|alone]]; but the Miss
 
 Musgroves could be as open as they were sincere, in their exclamations
 
@@ -40,7 +40,7 @@ thinking aloud, “so then he went away to the Laconia, and there he met
 
 with our poor boy. Charles, my dear,” (beckoning him to her), “do ask
 
-Captain Wentworth where it was he first met with your poor brother. I
+[[Captain Wentworth]] where it was he first met with your poor brother. I
 
 always forgot.”
 
@@ -54,7 +54,7 @@ Wentworth.”
 
 
 
-“Oh! but, Charles, tell Captain Wentworth, he need not be afraid of
+“Oh! but, Charles, tell [[Captain Wentworth]], he need not be afraid of
 
 mentioning poor Dick before me, for it would be rather a pleasure to
 
@@ -68,7 +68,7 @@ only nodded in reply, and walked away.
 
 
 
-The girls were now hunting for the Laconia; and Captain Wentworth could
+The girls were now hunting for the Laconia; and [[Captain Wentworth]] could
 
 not deny himself the pleasure of taking the precious volume into his
 
@@ -92,7 +92,7 @@ wanted money: worse than myself. He had a wife. Excellent fellow. I
 
 shall never forget his happiness. He felt it all, so much for her sake.
 
-I wished for him again the next summer, when I had still the same luck
+I wished for him again the next [[Summer|summer]], when I had still the same luck
 
 in the Mediterranean.”
 
@@ -100,13 +100,13 @@ in the Mediterranean.”
 
 “And I am sure, Sir,” said Mrs Musgrove, “it was a lucky day for _us_,
 
-when you were put captain into that ship. _We_ shall never forget what
+when you were put captain into that [[Ship|ship]]. _We_ shall never forget what
 
 you did.”
 
 
 
-Her feelings made her speak low; and Captain Wentworth, hearing only in
+Her feelings made her speak low; and [[Captain Wentworth]], hearing only in
 
 part, and probably not having Dick Musgrove at all near his thoughts,
 
@@ -116,7 +116,7 @@ looked rather in suspense, and as if waiting for more.
 
 “My brother,” whispered one of the girls; “mamma is thinking of poor
 
-Richard.”
+[[Richard]].”
 
 
 
@@ -126,11 +126,11 @@ and such an excellent correspondent, while he was under your care! Ah!
 
 it would have been a happy thing, if he had never left you. I assure
 
-you, Captain Wentworth, we are very sorry he ever left you.”
+you, [[Captain Wentworth]], we are very sorry he ever left you.”
 
 
 
-There was a momentary expression in Captain Wentworth’s face at this
+There was a momentary expression in [[Captain Wentworth]]’s face at this
 
 speech, a certain glance of his bright eye, and curl of his handsome
 
@@ -138,7 +138,7 @@ mouth, which convinced Anne, that instead of sharing in Mrs Musgrove’s
 
 kind wishes, as to her son, he had probably been at some pains to get
 
-rid of him; but it was too transient an indulgence of self-amusement to
+rid of him; but it was too transient an indulgence of [[Self|self]]-amusement to
 
 be detected by any who understood him less than herself; in another
 
@@ -162,15 +162,15 @@ made room for him; they were divided only by Mrs Musgrove. It was no
 
 insignificant barrier, indeed. Mrs Musgrove was of a comfortable,
 
-substantial size, infinitely more fitted by nature to express good
+substantial size, infinitely more fitted by [[Nature|nature]] to express good
 
-cheer and good humour, than tenderness and sentiment; and while the
+cheer and good [[Humour|humour]], than tenderness and sentiment; and while the
 
 agitations of Anne’s slender form, and pensive face, may be considered
 
-as very completely screened, Captain Wentworth should be allowed some
+as very completely screened, [[Captain Wentworth]] should be allowed some
 
-credit for the self-command with which he attended to her large fat
+credit for the [[Self|self]]-command with which he attended to her large fat
 
 sighings over the destiny of a son, whom alive nobody had cared for.
 
@@ -194,13 +194,13 @@ The Admiral, after taking two or three refreshing turns about the room
 
 with his hands behind him, being called to order by his wife, now came
 
-up to Captain Wentworth, and without any observation of what he might
+up to [[Captain Wentworth]], and without any observation of what he might
 
 be interrupting, thinking only of his own thoughts, began with—
 
 
 
-“If you had been a week later at Lisbon, last spring, Frederick, you
+“If you had been a week later at Lisbon, last [[spring]], Frederick, you
 
 would have been asked to give a passage to Lady Mary Grierson and her
 
@@ -216,7 +216,7 @@ The Admiral abused him for his want of gallantry. He defended himself;
 
 though professing that he would never willingly admit any ladies on
 
-board a ship of his, excepting for a ball, or a visit, which a few
+board a [[Ship|ship]] of his, excepting for a ball, or a visit, which a few
 
 hours might comprehend.
 
@@ -234,7 +234,7 @@ Admiral, in rating the claims of women to every personal comfort
 
 _high_, and this is what I do. I hate to hear of women on board, or to
 
-see them on board; and no ship under my command shall ever convey a
+see them on board; and no [[Ship|ship]] under my command shall ever convey a
 
 family of ladies anywhere, if I can help it.”
 

@@ -16,8 +16,8 @@ tags:
 
 What happens is something like this.  The line of least resistance
 is found between the two by a more subtle analysis of their real
-respective aims.  The intuitive eye of friendship detects a fine
-shade in the feelings of the Hatter.  The desire of his heart,
+respective aims.  The intuitive eye of [[Friendship|friendship]] detects a fine
+shade in the feelings of the Hatter.  The [[Desire|desire]] of his heart,
 when delicately apprehended, is not necessarily that people
 should wear his hats, but rather that they should buy them.
 On the other hand, even his fanatically consistent colleague has
@@ -27,10 +27,10 @@ blow his brains out, by the one suicidal act of putting it on.
 Between them they construct a law called the Habitual Hat-Pegs Act,
 which lays it down that every householder shall have not less than
 twenty-three hat-pegs and that, lest these should accumulate unwholesome
-dust, each must be covered by a hat in uninterrupted occupation.
+[[Dust|dust]], each must be covered by a hat in uninterrupted occupation.
 Or the thing might be managed some other way; as by arranging
 that a great modern nobleman should wear an accumulation of hats,
-one on top of the other, in pleasing memory of what has often
+one on top of the other, in pleasing [[Memory|memory]] of what has often
 been the itinerant occupation of his youth.  Broadly, it would
 be enacted that hats might be used in various ways; to take
 rabbits out of, as in the case of conjurers, or put pennies into,
@@ -49,7 +49,7 @@ story merely for algebraic lucidity and universality; what has really
 happened in our own shops and streets is every bit as nonsensical.
 But quite recent events have confirmed this analysis with an accuracy
 which even the unconverted can hardly regard as a coincidence.
-I have already traced the truth in the case of the liquor traffic;
+I have already traced the [[Truth|truth]] in the case of the liquor traffic;
 but many public-spirited persons of the Prohibitionist school have
 found it very difficult to believe.  All "temperance legislation"
 is a compromise between a liquor merchant who wants to get rid of his
@@ -60,7 +60,7 @@ the wrong way.  But again, since the crank has not a true creed,
 but only an intellectual itch, he cares much more to be up
 and doing than to understand what he has done.  As I said above,
 he only wants to do something; he has increased drunkenness.
-Anyhow, all such reforms are upon the plan of my parable.
+Anyhow, all such reforms are upon the plan of my [[Parable|parable]].
 Sometimes it is decreed that drink shall only be sold in large
 quantities suitable to large incomes; that is exactly like allowing
 one nobleman to wear twenty hats.  Sometimes it is proposed
@@ -91,7 +91,7 @@ But why should a plutocracy including food profiteers object to more
 food being bought?  Why, for that matter, should the pure-minded social
 idealist object to more food being bought, as long as it is the wrong
 food that is sold?  His quite disinterested aim is not that food
-should be restricted, but merely that freedom should be restricted.
+should be restricted, but merely that [[Freedom|freedom]] should be restricted.
 When once he is assured that a sufficient number of thoughtless
 persons are really getting what they don't want, he says
 he is building Jerusalem in England's green and pleasant land.
@@ -110,7 +110,7 @@ I defy any rational man to deny that he has noticed something moonstruck
 and mis-shapen, as apart from anything unjust or uncomfortable,
 about the little laws which have lately been tripping him up;
 laws which may tell him at any minute that he must not purchase
-turpentine before a certain tick of the clock, or that if he buys
+turpentine before a certain tick of the [[Clock|clock]], or that if he buys
 a pound of tea he must also buy a pennyworth of tin-tacks. The strictly
 correct word for such things is half-witted; and they are half-witted
 because each of the two incongruous partners has only half his will.

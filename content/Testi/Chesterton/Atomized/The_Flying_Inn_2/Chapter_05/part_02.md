@@ -27,9 +27,9 @@ yours that shan't be just obviously rubbish."
 "And what do you mean by rubbish?"
 
 "I carl it rubbish" cried Patrick Dalroy, "when ye
-put the Koran into the Bible and not the Apocrypha;
+put the Koran into the [[Bible]] and not the Apocrypha;
 and I carl it rubbish when a mad parson's allowed to
-propose to put a crescent on St. Paul's Cathedral.  I
+propose to put a crescent on St. Paul's [[Cathedral]].  I
 know the Turks are our allies now, but they often
 were before, and I never heard that Palmerston or
 Colin Campbell had any truck with such trash."
@@ -37,22 +37,22 @@ Colin Campbell had any truck with such trash."
 "Lord Ivywood is very enthusiastic, I know," said
 Pump, with a restrained amusement.  "He was saying
 only the other day at the Flower Show here that the
-time had come for a full unity between Christianity
-and Islam."
+[[Time|time]] had come for a full [[unity]] between [[Christianity]]
+and [[Islam]]."
 
 "Something called Chrislam perhaps," said the
 Irishman, with a moody eye.  He was gazing across
 the grey and purple woodlands that stretched below
 them at the back of the inn; and into which the steep,
-white road swept downwards and disappeared.  The
-steep road looked like the beginning of an adventure;
+white [[Road|road]] swept downwards and disappeared.  The
+steep [[Road|road]] looked like the beginning of an adventure;
 and he was an adventurer.
 
 "But you exaggerate, you know," went on Pump,
 polishing his gun, "about the crescent on St. Paul's.
 It wasn't exactly that.  What Dr. Moole suggested, I
-think, was some sort of double emblem, you know,
-combining cross and crescent."
+think, was some sort of [[Double|double]] emblem, you know,
+combining [[Cross|cross]] and crescent."
 
 "And carled the Croscent," muttered Dalroy.
 
@@ -64,7 +64,7 @@ to bite elm trees by Marley.  The grand folks have
 these fashions, Captain, but they've never lasted long
 that I know of."
 
-"I think it's serious this time," said his friend,
+"I think it's serious this [[Time|time]]," said his friend,
 shaking his big red head.  "This is the last inn on this
 coast, and will soon be the last inn in England.  Do
 you remember the 'Saracen's Head' in Plumsea, along
@@ -77,12 +77,12 @@ place."
 "I passed there just now; and it has been destroyed,"
 said Dalroy.
 
-"Destroyed by fire?" asked Pump, pausing in his
+"Destroyed by [[Fire|fire]]?" asked Pump, pausing in his
 gun-scrubbing.
 
 "No," said Dalroy, "destroyed by lemonade.
 They've taken away its license or whatever you call it.
-I made a song about it, which I'll sing to you now!"
+I made a [[Song|song]] about it, which I'll sing to you now!"
 And with an astounding air of suddenly revived spirits,
 he roared in a voice like thunder the following
 verses, to a simple but spirited tune of his own
@@ -90,11 +90,11 @@ invention:
 
     "The Saracen's Head looks down the lane,
      Where we shall never drink wine again;
-     For the wicked old Women who feel well-bred
+     For the wicked old Women who feel [[Well|well]]-bred
      Have turned to a tea-shop the Saracen's Head.
 
     "The Saracen's Head out of Araby came,
-     King Richard riding in arms like flame,
+     [[King]] [[Richard]] riding in arms like flame,
      And where he established his folk to be fed
      He set up his spear--and the Saracen's Head.
 
@@ -112,18 +112,18 @@ something."
 yet more earthquake bellow:
 
     "So the Saracen's Head fulfils its name,
-     They drink no wine--a ridiculous game--     And I shall wonder until I'm dead,
+     They drink no wine--a ridiculous game--     And I shall [[Wonder|wonder]] until I'm dead,
      How it ever came into the Saracen's Head."
 
 As the last echo of this lyrical roar rolled away
-among the apple-trees, and down the steep, white road
+among the apple-trees, and down the steep, white [[Road|road]]
 into the woods, Captain Dalroy leaned back in his
 chair and nodded good humouredly to Lord Ivywood,
 who was standing on the lawn with his usual cold air,
 but with slightly compressed lips.  Behind him was a
-dark young man with double eyeglasses and a number
+dark young man with [[Double|double]] eyeglasses and a number
 of printed papers in his hand; presumably J. Leveson,
-Secretary.  In the road outside stood a group of
+Secretary.  In the [[Road|road]] outside stood a group of
 three which struck Pump as strangely incongruous,
 like a group in a three act farce.  The first was a police
 inspector in uniform; the second was a workman in
@@ -135,7 +135,7 @@ explaining something about the inn to the policeman
 and the carpenter, who appeared to be restraining their
 amusement.
 
-"Fine song that, my lord," said Dalroy, with cheerful
+"Fine [[Song|song]] that, my lord," said Dalroy, with cheerful
 egotism.  "I'll sing you another," and he cleared
 his throat.
 
@@ -154,7 +154,7 @@ than see a gentleman of your family taking away a
 poor man's livelihood."
 
 "The act is specially designed in the interests of the
-relief of poverty," proceeded Lord Ivywood, in an
+relief of [[Poverty|poverty]]," proceeded Lord Ivywood, in an
 unruffled manner, "and its final advantages will accrue
 to all citizens alike."  He turned for an instant to
 the dark secretary, saying, "You have that second
@@ -166,7 +166,7 @@ the Act is largely to protect the savings of the more
 humble and necessitous classes.  I find in paragraph
 three, 'we strongly advise that the deleterious element
 of alcohol be made illegal save in such few places as
-the Government may specially exempt for Parliamentary
+the [[government|Government]] may specially exempt for Parliamentary
 or other public reasons, and that the provocative
 and demoralising display on inn signs be strictly
 forbidden except in the cases thus specially exempted: the
@@ -174,12 +174,12 @@ absence of such temptations will, in our opinion, do
 much to improve the precarious financial conditions
 of the working class.'  That disposes, I think, of any
 such suggestion as Mr. Pump's, that our inevitable acts
-of social reform are in any sense oppressive.  To Mr.
+of social [[Reform|reform]] are in any sense oppressive.  To Mr.
 Pump's prejudice it may appear for the moment to
 bear hardly upon him; but" (and here Lord Ivywood's
 voice took one of its moving oratorical turns), "what
-better proof could we desire of the insidiousness of
-the sleepy poison we denounce, what better evidence
+better proof could we [[Desire|desire]] of the insidiousness of
+the sleepy [[Poison|poison]] we denounce, what better evidence
 could we offer of the civic corruption that we seek to
 cure, than the very fact that good and worthy men of
 established repute in the county can, by living in such

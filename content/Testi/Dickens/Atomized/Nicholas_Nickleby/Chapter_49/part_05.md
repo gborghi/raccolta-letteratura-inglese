@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 49 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 49 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 While this address was in course of delivery, the old gentleman, with
 his nose and cheeks embellished with large patches of soot, sat upon the
-ground with his arms folded, eyeing the spectators in profound silence,
+ground with his arms folded, eyeing the spectators in profound [[Silence|silence]],
 and with a very majestic demeanour. He did not appear to take the
 smallest notice of what Mrs. Nickleby said, but when she ceased to
 speak he honoured her with a long stare, and inquired if she had quite
@@ -26,7 +26,7 @@ finished.
 cannot say anything more.’
 
 ‘Very good,’ said the old gentleman, raising his voice, ‘then bring in
-the bottled lightning, a clean tumbler, and a corkscrew.’
+the bottled [[Lightning|lightning]], a clean tumbler, and a corkscrew.’
 
 Nobody executing this order, the old gentleman, after a short pause,
 raised his voice again and demanded a thunder sandwich. This article not
@@ -53,7 +53,7 @@ caused her to retreat behind Tim Linkinwater with the utmost expedition.
 
 ‘Aha!’ cried the old gentleman, folding his hands, and squeezing them
 with great force against each other. ‘I see her now; I see her now! My
-love, my life, my bride, my peerless beauty. She is come at last--at
+[[Love|love]], my life, my bride, my peerless [[Beauty|beauty]]. She is come at last--at
 last--and all is gas and gaiters!’
 
 Mrs. Nickleby looked rather disconcerted for a moment, but immediately
@@ -64,12 +64,12 @@ minute or two.
 
 ‘She is come!’ said the old gentleman, laying his hand upon his heart.
 ‘Cormoran and Blunderbore! She is come! All the wealth I have is hers
-if she will take me for her slave. Where are grace, beauty, and
+if she will take me for her slave. Where are grace, [[Beauty|beauty]], and
 blandishments, like those? In the Empress of Madagascar? No. In the
-Queen of Diamonds? No. In Mrs. Rowland, who every morning bathes in
+[[Queen]] of Diamonds? No. In Mrs. Rowland, who every morning bathes in
 Kalydor for nothing? No. Melt all these down into one, with the three
 Graces, the nine Muses, and fourteen biscuit-bakers’ daughters from
-Oxford Street, and make a woman half as lovely. Pho! I defy you.’
+[[Oxford]] Street, and make a woman half as lovely. Pho! I defy you.’
 
 After uttering this rhapsody, the old gentleman snapped his fingers
 twenty or thirty times, and then subsided into an ecstatic contemplation
@@ -80,7 +80,7 @@ opportunity of explanation, she went about it straight.
 great relief, under such trying circumstances as these, to have anybody
 else mistaken for me--a very great relief; and it’s a circumstance that
 never occurred before, although I have several times been mistaken for
-my daughter Kate. I have no doubt the people were very foolish, and
+my daughter Kate. I have no [[Doubt|doubt]] the people were very foolish, and
 perhaps ought to have known better, but still they did take me for
 her, and of course that was no fault of mine, and it would be very
 hard indeed if I was to be made responsible for it. However, in this
@@ -105,9 +105,9 @@ loud and sonourous voice: ‘Avaunt! Cat!’
 ‘Cat!’ repeated the old gentleman. ‘Puss, Kit, Tit, Grimalkin, Tabby,
 Brindle! Whoosh!’ with which last sound, uttered in a hissing manner
 between his teeth, the old gentleman swung his arms violently round and
-round, and at the same time alternately advanced on Mrs. Nickleby, and
-retreated from her, in that species of savage dance with which boys on
-market-days may be seen to frighten pigs, sheep, and other animals, when
+round, and at the same [[Time|time]] alternately advanced on Mrs. Nickleby, and
+retreated from her, in that species of savage [[Dance|dance]] with which boys on
+market-days may be seen to frighten pigs, sheep, and other [[Animals|animals]], when
 they give out obstinate indications of turning down a wrong street.
 
 Mrs. Nickleby wasted no words, but uttered an exclamation of horror and

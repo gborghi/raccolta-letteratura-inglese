@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 1 — exchange (KING EDWARD) [3]"
+title: "[[Edward III]] — Scene 1 — exchange ([[King|KING]] EDWARD) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING EDWARD | (to Warwick) That is thy daughter, Warwick, is it not? Whose husband hath in Bretagne served so long About the planting of Lord Montfort there? |
-| EARL OF WARWICK | It is, my lord. |
+| [[King|KING]] EDWARD | (to Warwick) That is thy daughter, Warwick, is it not? Whose husband hath in Bretagne served so long About the planting of Lord Montfort there? |
+| [[Earl of Warwick|EARL OF WARWICK]] | It is, my lord. |

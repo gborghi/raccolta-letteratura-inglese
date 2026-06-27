@@ -29,7 +29,7 @@ stole into her view, ‘What’s that!’
 ‘Hush!’ said Marion in an agitated whisper.  ‘You have always loved me,
 have you not!’
 
-‘Loved you, child!  You may be sure I have.’
+‘Loved you, [[Child|child]]!  You may be sure I have.’
 
 ‘I am sure.  And I may trust you, may I not?  There is no one else just
 now, in whom I _can_ trust.’
@@ -37,7 +37,7 @@ now, in whom I _can_ trust.’
 ‘Yes,’ said Clemency, with all her heart.
 
 ‘There is some one out there,’ pointing to the door, ‘whom I must see,
-and speak with, to-night.  Michael Warden, for God’s sake retire!  Not
+and speak with, to-[[Night|night]].  [[Michael Warden]], for God’s sake retire!  Not
 now!’
 
 Clemency started with surprise and trouble as, following the direction of
@@ -57,7 +57,7 @@ returning lantern flashed into the room.
 
 ‘All still and peaceable.  Nobody there.  Fancy, I suppose,’ said Mr.
 Britain, as he locked and barred the door.  ‘One of the effects of having
-a lively imagination.  Halloa!  Why, what’s the matter?’
+a lively [[Imagination|imagination]].  Halloa!  Why, what’s the matter?’
 
 Clemency, who could not conceal the effects of her surprise and concern,
 was sitting in a chair: pale, and trembling from head to foot.
@@ -74,11 +74,11 @@ general,’ he said, stopping to observe her; ‘and were, after the noise
 and the lantern too.  What have you taken into your head?  Not an idea,
 eh?’
 
-But, as Clemency bade him good night very much after her usual fashion,
+But, as Clemency bade him good [[Night|night]] very much after her usual fashion,
 and began to bustle about with a show of going to bed herself
 immediately, Little Britain, after giving utterance to the original
 remark that it was impossible to account for a woman’s whims, bade her
-good night in return, and taking up his candle strolled drowsily away to
+good [[Night|night]] in return, and taking up his candle strolled drowsily away to
 bed.
 
 When all was quiet, Marion returned.
@@ -92,12 +92,12 @@ before turning the key, looked round on the young creature waiting to
 issue forth when she should open it.
 
 The face was not averted or cast down, but looking full upon her, in its
-pride of youth and beauty.  Some simple sense of the slightness of the
-barrier that interposed itself between the happy home and honoured love
-of the fair girl, and what might be the desolation of that home, and
+[[Pride|pride]] of youth and [[Beauty|beauty]].  Some simple sense of the slightness of the
+barrier that interposed itself between the happy [[Home|home]] and honoured [[Love|love]]
+of the fair girl, and what might be the desolation of that [[Home|home]], and
 shipwreck of its dearest treasure, smote so keenly on the tender heart of
 Clemency, and so filled it to overflowing with sorrow and compassion,
-that, bursting into tears, she threw her arms round Marion’s neck.
+that, bursting into [[Tears|tears]], she threw her arms round Marion’s neck.
 
 ‘It’s little that I know, my dear,’ cried Clemency, ‘very little; but I
 know that this should not be.  Think of what you do!’
@@ -107,13 +107,13 @@ know that this should not be.  Think of what you do!’
 ‘Once more,’ urged Clemency.  ‘Till to-morrow.’  Marion shook her head.
 
 ‘For Mr. Alfred’s sake,’ said Clemency, with homely earnestness.  ‘Him
-that you used to love so dearly, once!’
+that you used to [[Love|love]] so dearly, once!’
 
 She hid her face, upon the instant, in her hands, repeating ‘Once!’ as if
 it rent her heart.
 
 ‘Let me go out,’ said Clemency, soothing her.  ‘I’ll tell him what you
-like.  Don’t cross the door-step to-night.  I’m sure no good will come of
+like.  Don’t [[Cross|cross]] the door-step to-[[Night|night]].  I’m sure no good will come of
 it.  Oh, it was an unhappy day when Mr. Warden was ever brought here!
 Think of your good father, darling—of your sister.’
 
@@ -121,13 +121,13 @@ Think of your good father, darling—of your sister.’
 do.  I _must_ speak to him.  You are the best and truest friend in all
 the world for what you have said to me, but I must take this step.  Will
 you go with me, Clemency,’ she kissed her on her friendly face, ‘or shall
-I go alone?’
+I go [[Alone|alone]]?’
 
 Sorrowing and wondering, Clemency turned the key, and opened the door.
-Into the dark and doubtful night that lay beyond the threshold, Marion
+Into the dark and doubtful [[Night|night]] that lay beyond the threshold, Marion
 passed quickly, holding by her hand.
 
-In the dark night he joined her, and they spoke together earnestly and
+In the dark [[Night|night]] he joined her, and they spoke together earnestly and
 long; and the hand that held so fast by Clemency’s, now trembled, now
 turned deadly cold, now clasped and closed on hers, in the strong feeling
 of the speech it emphasised unconsciously.  When they returned, he
@@ -137,7 +137,7 @@ and pressed it to his lips.  Then, stealthily withdrew.
 The door was barred and locked again, and once again she stood beneath
 her father’s roof.  Not bowed down by the secret that she brought there,
 though so young; but, with that same expression on her face for which I
-had no name before, and shining through her tears.
+had no name before, and shining through her [[Tears|tears]].
 
 Again she thanked and thanked her humble friend, and trusted to her, as
 she said, with confidence, implicitly.  Her chamber safely reached, she
@@ -147,4 +147,4 @@ pray!
 Could rise up from her prayers, so tranquil and serene, and bending over
 her fond sister in her slumber, look upon her face and smile—though
 sadly: murmuring as she kissed her forehead, how that Grace had been a
-mother to her, ever, and she loved her as a child!
+mother to her, ever, and she loved her as a [[Child|child]]!

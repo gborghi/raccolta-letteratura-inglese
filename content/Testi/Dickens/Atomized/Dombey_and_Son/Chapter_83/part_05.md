@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-Warwick Castle being at length pretty well exhausted, and the Major
+Warwick [[Castle]] being at length pretty [[Well|well]] exhausted, and the Major
 very much so: to say nothing of Mrs Skewton, whose peculiar
 demonstrations of delight had become very frequent Indeed: the carriage
 was again put in requisition, and they rode to several admired points
 of view in the neighbourhood. Mr Dombey ceremoniously observed of one
-of these, that a sketch, however slight, from the fair hand of Mrs
+of these, that a [[Sketch|sketch]], however slight, from the fair hand of Mrs
 Granger, would be a remembrance to him of that agreeable day: though he
 wanted no artificial remembrance, he was sure (here Mr Dombey made
 another of his bows), which he must always highly value. Withers the
-lean having Edith’s sketch-book under his arm, was immediately called
+lean having Edith’s [[Sketch|sketch]]-book under his arm, was immediately called
 upon by Mrs Skewton to produce the same: and the carriage stopped, that
 Edith might make the drawing, which Mr Dombey was to put away among his
 treasures.
@@ -34,7 +34,7 @@ treasures.
 turning to him with the same enforced attention as before.
 
 Mr Dombey, with another bow, which cracked the starch in his cravat,
-would beg to leave that to the Artist.
+would beg to leave that to the [[Artist]].
 
 “I would rather you chose for yourself,” said Edith.
 
@@ -61,7 +61,7 @@ but that its expression was plainer.
 
 Therefore the carriage was driven to the spot where Mr Dombey was to be
 charmed; and Edith, without moving from her seat, and opening her
-sketch-book with her usual proud indifference, began to sketch.
+[[Sketch|sketch]]-book with her usual proud indifference, began to [[Sketch|sketch]].
 
 “My pencils are all pointless,” she said, stopping and turning them
 over.
@@ -71,18 +71,18 @@ understands these things. Carker, have the goodness to see to these
 pencils for Mrs Granger.”
 
 Mr Carker rode up close to the carriage-door on Mrs Granger’s side, and
-letting the rein fall on his horse’s neck, took the pencils from her
-hand with a smile and a bow, and sat in the saddle leisurely mending
+letting the rein fall on his [[Horse|horse]]’s neck, took the pencils from her
+hand with a smile and a bow, and sat in the saddle leisurely [[mending]]
 them. Having done so, he begged to be allowed to hold them, and to hand
 them to her as they were required; and thus Mr Carker, with many
 commendations of Mrs Granger’s extraordinary skill—especially in
 trees—remained—close at her side, looking over the drawing as she made
 it. Mr Dombey in the meantime stood bolt upright in the carriage like a
-highly respectable ghost, looking on too; while Cleopatra and the Major
+highly respectable [[Ghost|ghost]], looking on too; while [[Cleopatra]] and the Major
 dallied as two ancient doves might do.
 
 “Are you satisfied with that, or shall I finish it a little more?” said
-Edith, showing the sketch to Mr Dombey.
+Edith, showing the [[Sketch|sketch]] to Mr Dombey.
 
 Mr Dombey begged that it might not be touched; it was perfection.
 
@@ -90,15 +90,15 @@ Mr Dombey begged that it might not be touched; it was perfection.
 gums to bear upon his praise. “I was not prepared for anything so
 beautiful, and so unusual altogether.”
 
-This might have applied to the sketcher no less than to the sketch; but
-Mr Carker’s manner was openness itself—not as to his mouth alone, but
+This might have applied to the sketcher no less than to the [[Sketch|sketch]]; but
+Mr Carker’s manner was openness itself—not as to his mouth [[Alone|alone]], but
 as to his whole spirit. So it continued to be while the drawing was
 laid aside for Mr Dombey, and while the sketching materials were put
 up; then he handed in the pencils (which were received with a distant
 acknowledgment of his help, but without a look), and tightening his
 rein, fell back, and followed the carriage again.
 
-Thinking, perhaps, as he rode, that even this trivial sketch had been
+Thinking, perhaps, as he rode, that even this trivial [[Sketch|sketch]] had been
 made and delivered to its owner, as if it had been bargained for and
 bought. Thinking, perhaps, that although she had assented with such
 perfect readiness to his request, her haughty face, bent over the
@@ -114,7 +114,7 @@ points of view: most of which, Mrs Skewton reminded Mr Dombey, Edith
 had already sketched, as he had seen in looking over her drawings:
 brought the day’s expedition to a close. Mrs Skewton and Edith were
 driven to their own lodgings; Mr Carker was graciously invited by
-Cleopatra to return thither with Mr Dombey and the Major, in the
+[[Cleopatra]] to return thither with Mr Dombey and the Major, in the
 evening, to hear some of Edith’s music; and the three gentlemen
 repaired to their hotel to dinner.
 
@@ -130,10 +130,10 @@ there; the piano was there; and Edith sang and played. But even the
 music was played by Edith to Mr Dombey’s order, as it were, in the same
 uncompromising way. As thus.
 
-“Edith, my dearest love,” said Mrs Skewton, half an hour after tea, “Mr
+“Edith, my dearest [[Love|love]],” said Mrs Skewton, half an hour after tea, “Mr
 Dombey is dying to hear you, I know.”
 
 “Mr Dombey has life enough left to say so for himself, Mama, I have no
-doubt.”
+[[Doubt|doubt]].”
 
 “I shall be immensely obliged,” said Mr Dombey.

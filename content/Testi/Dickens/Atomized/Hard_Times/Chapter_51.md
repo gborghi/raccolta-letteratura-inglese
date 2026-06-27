@@ -18,18 +18,18 @@ CHAPTER XIII
 RACHAEL
 
 
-A CANDLE faintly burned in the window, to which the black ladder had
+A CANDLE faintly burned in the [[Window|window]], to which the black ladder had
 often been raised for the sliding away of all that was most precious in
 this world to a striving wife and a brood of hungry babies; and Stephen
 added to his other thoughts the stern reflection, that of all the
 casualties of this existence upon earth, not one was dealt out with so
-unequal a hand as Death.  The inequality of Birth was nothing to it.
-For, say that the child of a King and the child of a Weaver were born
-to-night in the same moment, what was that disparity, to the death of any
+unequal a hand as [[Death]].  The inequality of Birth was nothing to it.
+For, say that the [[Child|child]] of a [[King]] and the [[Child|child]] of a Weaver were born
+to-[[Night|night]] in the same moment, what was that disparity, to the [[Death|death]] of any
 human creature who was serviceable to, or beloved by, another, while this
 abandoned woman lived on!
 
-From the outside of his home he gloomily passed to the inside, with
+From the outside of his [[Home|home]] he gloomily passed to the inside, with
 suspended breath and with a slow footstep.  He went up to his door,
 opened it, and so into the room.
 
@@ -37,14 +37,14 @@ Quiet and peace were there.  Rachael was there, sitting by the bed.
 
 She turned her head, and the light of her face shone in upon the midnight
 of his mind.  She sat by the bed, watching and tending his wife.  That is
-to say, he saw that some one lay there, and he knew too well it must be
+to say, he saw that some one lay there, and he knew too [[Well|well]] it must be
 she; but Rachael’s hands had put a curtain up, so that she was screened
 from his eyes.  Her disgraceful garments were removed, and some of
 Rachael’s were in the room.  Everything was in its place and order as he
-had always kept it, the little fire was newly trimmed, and the hearth was
+had always kept it, the little [[Fire|fire]] was newly trimmed, and the hearth was
 freshly swept.  It appeared to him that he saw all this in Rachael’s
 face, and looked at nothing besides.  While looking at it, it was shut
-out from his view by the softened tears that filled his eyes; but not
+out from his view by the softened [[Tears|tears]] that filled his eyes; but not
 before he had seen how earnestly she looked at him, and how her own eyes
 were filled too.
 
@@ -55,15 +55,15 @@ quiet there, spoke in a low, calm, cheerful voice.
 
 ‘I ha’ been walking up an’ down.’
 
-‘I thought so.  But ’tis too bad a night for that.  The rain falls very
-heavy, and the wind has risen.’
+‘I thought so.  But ’tis too bad a [[Night|night]] for that.  The rain falls very
+heavy, and the [[Wind|wind]] has risen.’
 
-The wind?  True.  It was blowing hard.  Hark to the thundering in the
-chimney, and the surging noise!  To have been out in such a wind, and not
+The [[Wind|wind]]?  True.  It was blowing hard.  Hark to the thundering in the
+chimney, and the surging noise!  To have been out in such a [[Wind|wind]], and not
 to have known it was blowing!
 
 ‘I have been here once before, to-day, Stephen.  Landlady came round for
-me at dinner-time.  There was some one here that needed looking to, she
+me at dinner-[[Time|time]].  There was some one here that needed looking to, she
 said.  And ‘deed she was right.  All wandering and lost, Stephen.
 Wounded too, and bruised.’
 
@@ -91,7 +91,7 @@ mind.’
              [Picture: Stephen and Rachael in the sick room]
 
 The wounds of which she had spoken, seemed to be about the neck of the
-self-made outcast.  She dressed them now, still without showing her.  She
+[[Self|self]]-made outcast.  She dressed them now, still without showing her.  She
 steeped a piece of linen in a basin, into which she poured some liquid
 from a bottle, and laid it with a gentle hand upon the sore.  The
 three-legged table had been drawn close to the bedside, and on it there
@@ -102,15 +102,15 @@ eyes, could read what was printed on it in large letters.  He turned of a
 deadly hue, and a sudden horror seemed to fall upon him.
 
 ‘I will stay here, Stephen,’ said Rachael, quietly resuming her seat,
-‘till the bells go Three.  ’Tis to be done again at three, and then she
+‘till [[The Bells|the bells]] go Three.  ’Tis to be done again at three, and then she
 may be left till morning.’
 
 ‘But thy rest agen to-morrow’s work, my dear.’
 
-‘I slept sound last night.  I can wake many nights, when I am put to it.
-’Tis thou who art in need of rest—so white and tired.  Try to sleep in
-the chair there, while I watch.  Thou hadst no sleep last night, I can
-well believe.  To-morrow’s work is far harder for thee than for me.’
+‘I slept sound last [[Night|night]].  I can wake many nights, when I am put to it.
+’Tis thou who art in need of rest—so white and tired.  Try to [[Sleep|sleep]] in
+the chair there, while I watch.  Thou hadst no [[Sleep|sleep]] last [[Night|night]], I can
+[[Well|well]] believe.  To-morrow’s work is far harder for thee than for me.’
 
 He heard the thundering and surging out of doors, and it seemed to him as
 if his late angry mood were going about trying to get at him.  She had
@@ -118,7 +118,7 @@ cast it out; she would keep it out; he trusted to her to defend him from
 himself.
 
 ‘She don’t know me, Stephen; she just drowsily mutters and stares.  I
-have spoken to her times and again, but she don’t notice!  ’Tis as well
+have spoken to her times and again, but she don’t notice!  ’Tis as [[Well|well]]
 so.  When she comes to her right mind once more, I shall have done what I
 can, and she never the wiser.’
 
@@ -147,19 +147,19 @@ when I coom in.  I can never see thee better than so.  Never, never,
 never!’
 
 He had a violent fit of trembling, and then sunk into his chair.  After a
-time he controlled himself, and, resting with an elbow on one knee, and
+[[Time|time]] he controlled himself, and, resting with an elbow on one knee, and
 his head upon that hand, could look towards Rachael.  Seen across the dim
 candle with his moistened eyes, she looked as if she had a glory shining
 round her head.  He could have believed she had.  He did believe it, as
-the noise without shook the window, rattled at the door below, and went
-about the house clamouring and lamenting.
+the noise without shook the [[Window|window]], rattled at the door below, and went
+about the [[house]] clamouring and lamenting.
 
 ‘When she gets better, Stephen, ’tis to be hoped she’ll leave thee to
-thyself again, and do thee no more hurt.  Anyways we will hope so now.
-And now I shall keep silence, for I want thee to sleep.’
+thyself again, and do thee no more hurt.  Anyways we will [[Hope|hope]] so now.
+And now I shall keep [[Silence|silence]], for I want thee to [[Sleep|sleep]].’
 
 He closed his eyes, more to please her than to rest his weary head; but,
-by slow degrees as he listened to the great noise of the wind, he ceased
+by slow degrees as he listened to the great noise of the [[Wind|wind]], he ceased
 to hear it, or it changed into the working of his loom, or even into the
 voices of the day (his own included) saying what had been really said.
 Even this imperfect consciousness faded away at last, and he dreamed a
@@ -182,17 +182,17 @@ thought, more numerous; and they all abhorred him, and there was not one
 pitying or friendly eye among the millions that were fastened on his
 face.  He stood on a raised stage, under his own loom; and, looking up at
 the shape the loom took, and hearing the burial service distinctly read,
-he knew that he was there to suffer death.  In an instant what he stood
+he knew that he was there to suffer [[Death|death]].  In an instant what he stood
 on fell below him, and he was gone.
 
 —Out of what mystery he came back to his usual life, and to places that
 he knew, he was unable to consider; but he was back in those places by
 some means, and with this condemnation upon him, that he was never, in
-this world or the next, through all the unimaginable ages of eternity, to
+this world or the next, through all the unimaginable ages of [[Eternity|eternity]], to
 look on Rachael’s face or hear her voice.  Wandering to and fro,
-unceasingly, without hope, and in search of he knew not what (he only
+unceasingly, without [[Hope|hope]], and in search of he knew not what (he only
 knew that he was doomed to seek it), he was the subject of a nameless,
-horrible dread, a mortal fear of one particular shape which everything
+horrible dread, a mortal [[Fear|fear]] of one particular shape which everything
 took.  Whatsoever he looked at, grew into that form sooner or later.  The
 object of his miserable existence was to prevent its recognition by any
 one among the various people he encountered.  Hopeless labour!  If he led
@@ -201,9 +201,9 @@ it stood, if he drew the curious from places where he knew it to be
 secreted, and got them out into the streets, the very chimneys of the
 mills assumed that shape, and round them was the printed word.
 
-The wind was blowing again, the rain was beating on the house-tops, and
+The [[Wind|wind]] was blowing again, the rain was beating on the [[house]]-tops, and
 the larger spaces through which he had strayed contracted to the four
-walls of his room.  Saving that the fire had died out, it was as his eyes
+walls of his room.  Saving that the [[Fire|fire]] had died out, it was as his eyes
 had closed upon it.  Rachael seemed to have fallen into a doze, in the
 chair by the bed.  She sat wrapped in her shawl, perfectly still.  The
 table stood in the same place, close by the bedside, and on it, in its
@@ -226,23 +226,23 @@ along with them, of the woman he had married eighteen years before.  But
 that he had seen her come to this by inches, he never could have believed
 her to be the same.
 
-All this time, as if a spell were on him, he was motionless and
+All this [[Time|time]], as if a spell were on him, he was motionless and
 powerless, except to watch her.
 
-Stupidly dozing, or communing with her incapable self about nothing, she
+Stupidly dozing, or communing with her incapable [[Self|self]] about nothing, she
 sat for a little while with her hands at her ears, and her head resting
 on them.  Presently, she resumed her staring round the room.  And now,
-for the first time, her eyes stopped at the table with the bottles on it.
+for the first [[Time|time]], her eyes stopped at the table with the bottles on it.
 
 Straightway she turned her eyes back to his corner, with the defiance of
-last night, and moving very cautiously and softly, stretched out her
+last [[Night|night]], and moving very cautiously and softly, stretched out her
 greedy hand.  She drew a mug into the bed, and sat for a while
 considering which of the two bottles she should choose.  Finally, she
-laid her insensate grasp upon the bottle that had swift and certain death
+laid her insensate grasp upon the bottle that had swift and certain [[Death|death]]
 in it, and, before his eyes, pulled out the cork with her teeth.
 
 Dream or reality, he had no voice, nor had he power to stir.  If this be
-real, and her allotted time be not yet come, wake, Rachael, wake!
+real, and her allotted [[Time|time]] be not yet come, wake, Rachael, wake!
 
 She thought of that, too.  She looked at Rachael, and very slowly, very
 cautiously, poured out the contents.  The draught was at her lips.  A
@@ -252,12 +252,12 @@ with a suppressed cry.  The creature struggled, struck her, seized her by
 the hair; but Rachael had the cup.
 
 Stephen broke out of his chair.  ‘Rachael, am I wakin’ or dreamin’ this
-dreadfo’ night?’
+dreadfo’ [[Night|night]]?’
 
-‘’Tis all well, Stephen.  I have been asleep, myself.  ’Tis near three.
-Hush!  I hear the bells.’
+‘’Tis all [[Well|well]], Stephen.  I have been asleep, myself.  ’Tis near three.
+Hush!  I hear [[The Bells|the bells]].’
 
-The wind brought the sounds of the church clock to the window.  They
+The [[Wind|wind]] brought the sounds of the church [[Clock|clock]] to the [[Window|window]].  They
 listened, and it struck three.  Stephen looked at her, saw how pale she
 was, noted the disorder of her hair, and the red marks of fingers on her
 forehead, and felt assured that his senses of sight and hearing had been
@@ -268,18 +268,18 @@ into the basin, and steeping the linen as before.  ‘I am thankful I
 stayed!  ’Tis done now, when I have put this on.  There!  And now she’s
 quiet again.  The few drops in the basin I’ll pour away, for ’tis bad
 stuff to leave about, though ever so little of it.’  As she spoke, she
-drained the basin into the ashes of the fire, and broke the bottle on the
+drained the basin into the ashes of the [[Fire|fire]], and broke the bottle on the
 hearth.
 
 She had nothing to do, then, but to cover herself with her shawl before
-going out into the wind and rain.
+going out into the [[Wind|wind]] and rain.
 
 ‘Thou’lt let me walk wi’ thee at this hour, Rachael?’
 
-‘No, Stephen.  ’Tis but a minute, and I’m home.’
+‘No, Stephen.  ’Tis but a minute, and I’m [[Home|home]].’
 
 ‘Thou’rt not fearfo’;’ he said it in a low voice, as they went out at the
-door; ‘to leave me alone wi’ her!’
+door; ‘to leave me [[Alone|alone]] wi’ her!’
 
 As she looked at him, saying, ‘Stephen?’ he went down on his knee before
 her, on the poor mean stairs, and put an end of her shawl to his lips.
@@ -296,15 +296,15 @@ fell again, in all their gentleness and mildness, on his face.
 ‘Thou changest me from bad to good.  Thou mak’st me humbly wishfo’ to be
 more like thee, and fearfo’ to lose thee when this life is ower, and a’
 the muddle cleared awa’.  Thou’rt an Angel; it may be, thou hast saved my
-soul alive!’
+[[Soul|soul]] alive!’
 
 She looked at him, on his knee at her feet, with her shawl still in his
 hand, and the reproof on her lips died away when she saw the working of
 his face.
 
-‘I coom home desp’rate.  I coom home wi’out a hope, and mad wi’ thinking
+‘I coom [[Home|home]] desp’rate.  I coom [[Home|home]] wi’out a [[Hope|hope]], and mad wi’ thinking
 that when I said a word o’ complaint I was reckoned a unreasonable Hand.
-I told thee I had had a fright.  It were the Poison-bottle on table.  I
+I told thee I had had a fright.  It were the [[Poison]]-bottle on table.  I
 never hurt a livin’ creetur; but happenin’ so suddenly upon ’t, I thowt,
 “How can _I_ say what I might ha’ done to myseln, or her, or both!”’
 
@@ -313,20 +313,20 @@ from saying more.  He caught them in his unoccupied hand, and holding
 them, and still clasping the border of her shawl, said hurriedly:
 
 ‘But I see thee, Rachael, setten by the bed.  I ha’ seen thee, aw this
-night.  In my troublous sleep I ha’ known thee still to be there.
+[[Night|night]].  In my troublous [[Sleep|sleep]] I ha’ known thee still to be there.
 Evermore I will see thee there.  I nevermore will see her or think o’
 her, but thou shalt be beside her.  I nevermore will see or think o’
 anything that angers me, but thou, so much better than me, shalt be by
-th’ side on’t.  And so I will try t’ look t’ th’ time, and so I will try
-t’ trust t’ th’ time, when thou and me at last shall walk together far
+th’ side on’t.  And so I will try t’ look t’ th’ [[Time|time]], and so I will try
+t’ trust t’ th’ [[Time|time]], when thou and me at last shall walk together far
 awa’, beyond the deep gulf, in th’ country where thy little sister is.’
 
 He kissed the border of her shawl again, and let her go.  She bade him
-good night in a broken voice, and went out into the street.
+good [[Night|night]] in a broken voice, and went out into the street.
 
-The wind blew from the quarter where the day would soon appear, and still
+The [[Wind|wind]] blew from the quarter where the day would soon appear, and still
 blew strongly.  It had cleared the sky before it, and the rain had spent
-itself or travelled elsewhere, and the stars were bright.  He stood
-bare-headed in the road, watching her quick disappearance.  As the
-shining stars were to the heavy candle in the window, so was Rachael, in
+itself or travelled elsewhere, and the [[Stars|stars]] were bright.  He stood
+bare-headed in the [[Road|road]], watching her quick disappearance.  As the
+shining [[Stars|stars]] were to the heavy candle in the [[Window|window]], so was Rachael, in
 the rugged fancy of this man, to the common experiences of his life.

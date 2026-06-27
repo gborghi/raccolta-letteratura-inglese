@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 2)"
+title: "[[The Balloon-Hoax]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -42,15 +42,15 @@ tags:
 
       end of the axis which is next the car, proceeds a shaft of steel,
 
-      connecting the screw with the pinion of a piece of spring
+      connecting the screw with the pinion of a piece of [[Spring|spring]]
 
-      machinery fixed in the car. By the operation of this spring, the
+      machinery fixed in the car. By the operation of this [[Spring|spring]], the
 
       screw is made to revolve with great rapidity, communicating a
 
       progressive motion to the whole. By means of the rudder, the
 
-      machine was readily turned in any direction. The spring was of
+      [[Machine|machine]] was readily turned in any direction. The [[Spring|spring]] was of
 
       great power, compared with its dimensions, being capable of
 
@@ -66,19 +66,19 @@ tags:
 
       one foot. Its weight was about two ounces. It could be turned
 
-      _flat_, and directed upwards or downwards, as well as to the
+      _flat_, and directed upwards or downwards, as [[Well|well]] as to the
 
       right or left; and thus enabled the æronaut to transfer the
 
       resistance of the air which in an inclined position it must
 
-      generate in its passage, to any side upon which he might desire
+      generate in its passage, to any side upon which he might [[Desire|desire]]
 
       to act; thus determining the balloon in the opposite direction.
 
 
 
-      “This model (which, through want of time, we have necessarily
+      “This model (which, through want of [[Time|time]], we have necessarily
 
       described in an imperfect manner,) was put in action at the
 
@@ -86,7 +86,7 @@ tags:
 
       per hour; although, strange to say, it excited very little
 
-      interest in comparison with the previous complex machine of Mr.
+      interest in comparison with the previous complex [[Machine|machine]] of Mr.
 
       Henson—so resolute is the world to despise anything which carries
 
@@ -100,31 +100,31 @@ tags:
 
 
 
-      “So well satisfied, however, was Mr. Mason of the ultimate
+      “So [[Well|well]] satisfied, however, was Mr. Mason of the ultimate
 
-      success of his invention, that he determined to construct
+      [[success]] of his invention, that he determined to construct
 
       immediately, if possible, a balloon of sufficient capacity to
 
       test the question by a voyage of some extent—the original design
 
-      being to cross the British Channel, as before, in the Nassau
+      being to [[Cross|cross]] the British Channel, as before, in the Nassau
 
       balloon. To carry out his views, he solicited and obtained the
 
       patronage of Sir Everard Bringhurst and Mr. Osborne, two
 
-      gentlemen well known for scientific acquirement, and especially
+      gentlemen [[Well|well]] known for scientific acquirement, and especially
 
       for the interest they have exhibited in the progress of
 
-      ærostation. The project, at the desire of Mr. Osborne, was kept a
+      ærostation. The project, at the [[Desire|desire]] of Mr. Osborne, was kept a
 
       profound secret from the public—the only persons entrusted with
 
       the design being those actually engaged in the construction of
 
-      the machine, which was built (under the superintendence of Mr.
+      the [[Machine|machine]], which was built (under the superintendence of Mr.
 
       Mason, Mr. Holland, Sir Everard Bringhurst, and Mr. Osborne,) at
 
@@ -154,7 +154,7 @@ tags:
 
       more expensive and inconvenient hydrogen, the supporting power of
 
-      the machine, when fully inflated, and immediately after
+      the [[Machine|machine]], when fully inflated, and immediately after
 
       inflation, is not more than about 2500 pounds. The coal gas is
 
@@ -200,6 +200,6 @@ tags:
 
       telescopes, barrels containing provision for a fortnight,
 
-      water-casks, cloaks, carpet-bags, and various other indispensable
+      [[Water|water]]-casks, cloaks, carpet-bags, and various other indispensable
 
       matters, including a coffee-warmer, contrived for warming coffee

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,13 +20,13 @@ task--this for satisfactory reasons connected with the general
 
 inaccuracy of the details afforded him, and his disbelief in the entire
 
-truth of the latter portions of the narration. Peters, from whom some
+[[Truth|truth]] of the latter portions of the narration. Peters, from whom some
 
 information might be expected, is still alive, and a resident of
 
 Illinois, but cannot be met with at present. He may hereafter be found,
 
-and will, no doubt, afford material for a conclusion of Mr. Pym's
+and will, no [[Doubt|doubt]], afford material for a conclusion of Mr. Pym's
 
 account.
 
@@ -48,7 +48,7 @@ the Southern Ocean.
 
 
 
-On one point in the Narrative some remarks may be well offered; and it
+On one point in the Narrative some remarks may be [[Well|well]] offered; and it
 
 would afford the writer of this appendix much pleasure if what he may
 
@@ -74,7 +74,7 @@ This assertion is made in a manner so simple, and sustained by a
 
 species of demonstration so conclusive (viz., the fitting of the
 
-projections of the fragments found among the dust into the indentures
+projections of the fragments found among the [[Dust|dust]] into the indentures
 
 upon the wall), that we are forced to believe the writer in earnest;
 
@@ -82,11 +82,11 @@ and no reasonable reader should suppose otherwise. But as the facts in
 
 relation to _all_ the figures are most singular (especially when taken
 
-in connexion with statements made in the body of the narrative), it may
+in connexion with statements made in the [[Body|body]] of the narrative), it may
 
-be as well to say a word or two concerning them all--this, too, the
+be as [[Well|well]] to say a word or two concerning them all--this, too, the
 
-more especially as the facts in question have, beyond doubt, escaped
+more especially as the facts in question have, beyond [[Doubt|doubt]], escaped
 
 the attention of Mr. Poe.
 
@@ -104,7 +104,7 @@ main chambers, and were of totally distinct character), constitute an
 
 Ethiopian verbal root--the root [Illustration] "To be shady"--whence
 
-all the inflections of shadow or darkness.
+all the inflections of [[Shadow|shadow]] or darkness.
 
 
 
@@ -156,7 +156,7 @@ also was the shuddering exclamation of the captive Tsalalian upon
 
 encountering the _white_ materials in possession of Mr. Pym. This also
 
-was the shriek of the swift-flying, _white_, and gigantic birds which
+was the shriek of the swift-flying, _white_, and gigantic [[Birds|birds]] which
 
 issued from the vapoury _white_ curtain of the South. Nothing _white_
 
@@ -174,7 +174,7 @@ mysteriously written in their windings.
 
 
 
-_"I have graven it within the hills, and my vengeance upon the dust
+_"I have graven it within the hills, and my vengeance upon the [[Dust|dust]]
 
 within the rock."_
 

@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 30)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 30)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-nature of pamphleteering, of positive challenge, of sudden repartee, of
+[[Nature|nature]] of pamphleteering, of positive challenge, of sudden repartee, of
 
 pugnacious and exasperating query, in a word of everything that belongs
 
 to the pure art of controversy as distinct not only from the pure art of
 
-fiction but even also from the pure art of satire. I am inclined to
+fiction but even also from the pure art of [[Satire|satire]]. I am inclined to
 
 think (to put the matter not only shortly but clumsily) that Dickens was
 
@@ -58,27 +58,27 @@ not to the interest of a man to get drunk, but he does get drunk. This
 
 pugnacious atmosphere of parry and riposte must first of all be allowed
 
-for and understood in all the satiric excursus of Martin in America.
+for and understood in all the satiric excursus of Martin in [[america|America]].
 
-Dickens is arguing all the time; and, to do him justice, arguing very
+Dickens is arguing all the [[Time|time]]; and, to do him justice, arguing very
 
-well. These chapters are full not merely of exuberant satire on America
+[[Well|well]]. These chapters are full not merely of exuberant [[Satire|satire]] on [[america|America]]
 
 in the sense that Dotheboys Hall or Mr. Bumble's Workhouse are exuberant
 
-satires on England. They are full also of sharp argument with America as
+satires on England. They are full also of sharp argument with [[america|America]] as
 
 if the man who wrote expected retort and was prepared with rejoinder.
 
 The rest of the book, like the rest of Dickens's books, possesses
 
-humour. This part of the book, like hardly any of Dickens's books,
+[[Humour|humour]]. This part of the book, like hardly any of Dickens's books,
 
 possesses wit. The republican gentleman who receives Martin on landing
 
 is horrified on hearing an English servant speak of the employer as "the
 
-master." "There are no masters in America," says the gentleman. "All
+master." "There are no masters in [[america|America]]," says the gentleman. "All
 
 owners are they?" says Martin. This sort of verbal promptitude is out of
 
@@ -90,9 +90,9 @@ breaking out into a controversial lucidity, which is elsewhere not at
 
 all a part of his character. When they talk to him about the
 
-institutions of America he asks sarcastically whether bowie knives and
+institutions of [[america|America]] he asks sarcastically whether bowie knives and
 
-swordsticks and revolvers are the institutions of America. All this (if
+swordsticks and revolvers are the institutions of [[america|America]]. All this (if
 
 I may summarise) is expressive of one main fact. Being a satirist means
 
@@ -102,35 +102,35 @@ had this permanent quality of the philosopher about him, that he always
 
 remembered people by their opinions. Elijah Pogram was to him the man
 
-who said that "his boastful answer to the tyrant and the despot was that
+who said that "his boastful answer to the [[Tyrant|tyrant]] and the despot was that
 
-his bright home was the land of the settin' sun." Mr. Scadder and Mr.
+his bright [[Home|home]] was the land of the settin' sun." Mr. Scadder and Mr.
 
 Jefferson Brick were to him the men who said (in cooperation) that "the
 
-libation of freedom must sometimes be quaffed in blood." And in these
+libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]]." And in these
 
 chapters more than anywhere else he falls into the extreme habit of
 
-satire, that of treating people as if there were nothing about them
+[[Satire|satire]], that of treating people as if there were nothing about them
 
 except their opinions. It is therefore difficult to accept these pages
 
-as pages in a novel, splendid as they are considered as pages in a
+as pages in a [[Novel|novel]], splendid as they are considered as pages in a
 
-parody. I do not dispute that men have said and do say that "the
+[[Parody|parody]]. I do not dispute that men have said and do say that "the
 
-libation of freedom must sometimes be quaffed in blood," that "their
+libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]]," that "their
 
 bright homes are the land of the settin' sun," that "they taunt that
 
-lion," that "alone they dare him," or "that softly sleeps the calm ideal
+[[Lion|lion]]," that "[[Alone|alone]] they dare him," or "that softly sleeps the calm ideal
 
-in the whispering chambers of imagination." I have read too much
+in the whispering chambers of [[Imagination|imagination]]." I have read too much
 
 American journalism to deny that any of these sentences and any of these
 
-opinions may at some time or other have been uttered. I do not deny
+opinions may at some [[Time|time]] or other have been uttered. I do not deny
 
 that there are such opinions. But I do deny that there are such people.
 
@@ -138,15 +138,15 @@ Elijah Pogram had some other business in life besides defending
 
 defaulting postmasters; he must have been a son or a father or a husband
 
-or at least (admirable thought) a lover. Mr. Chollop had some moments in
+or at least (admirable thought) a [[Lover|lover]]. Mr. Chollop had some moments in
 
 his existence when he was not threatening his fellow-creatures with his
 
-sword-stick and his revolver. Of all this human side of such American
+[[Sword|sword]]-stick and his revolver. Of all this human side of such American
 
 types Dickens does not really give any hint at all. He does not suggest
 
-that the bully Chollop had even such coarse good-humour as bullies
+that the bully Chollop had even such coarse good-[[Humour|humour]] as bullies
 
 almost always have. He does not suggest that the humbug Elijah Pogram
 
@@ -162,13 +162,13 @@ is not describing characters, he is satirising fads. To put it more
 
 exactly, he is not describing characters; he is persecuting heresies.
 
-There is one thing really to be said against his American satire; it is
+There is one thing really to be said against his American [[Satire|satire]]; it is
 
 a serious thing to be said: it is an argument, and it is true. This can
 
-be said of Martin's wanderings in America, that from the time he lands
+be said of Martin's wanderings in [[america|America]], that from the [[Time|time]] he lands
 
-in America to the time he sets sail from it he never meets a living man.
+in [[america|America]] to the [[Time|time]] he sets sail from it he never meets a living man.
 
 He has travelled in the land of Laputa. All the people he has met have
 

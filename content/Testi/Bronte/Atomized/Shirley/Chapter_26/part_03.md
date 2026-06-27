@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26 (part 3)"
+title: "[[Shirley]] — Chapter 26 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-quite well; I begin to find myself mistaken. You were silent as the
+quite [[Well|well]]; I begin to find myself mistaken. You were silent as the
 
-grave about Mrs. Pryor, and now again here is another secret. But why
+[[Grave|grave]] about Mrs. Pryor, and now again here is another secret. But why
 
 you made it a secret is the mystery to me."
 
@@ -42,39 +42,39 @@ placed?"
 
 "Robert's brother, indeed!" was the exclamation, uttered in a tone like
 
-the accents of scorn; and with a movement of proud impatience Shirley
+the accents of scorn; and with a movement of proud impatience [[Shirley]]
 
-snatched a rose from a branch peeping through the open lattice.
+snatched a [[Rose|rose]] from a branch peeping through the open lattice.
 
 
 
 "Yes," repeated Caroline, with mild firmness, "Robert's brother. He _is_
 
-thus closely related to Gérard Moore of the Hollow, though nature has
+thus closely related to Gérard Moore of the Hollow, though [[Nature|nature]] has
 
 not given him features so handsome or an air so noble as his kinsman;
 
-but his blood is as good, and he is as much a gentleman were he free."
+but his [[Blood|blood]] is as good, and he is as much a gentleman were he free."
 
 
 
-"Wise, humble, pious Caroline!" exclaimed Shirley ironically. "Men and
+"Wise, humble, pious Caroline!" exclaimed [[Shirley]] ironically. "Men and
 
 angels, hear her! We should not despise plain features, nor a laborious
 
 yet honest occupation, should we? Look at the subject of your panegyric.
 
-He is there in the garden," she continued, pointing through an aperture
+He is there in the [[Garden|garden]]," she continued, pointing through an aperture
 
-in the clustering creepers; and by that aperture Louis Moore was
+in the clustering creepers; and by that aperture [[Louis Moore]] was
 
 visible, coming slowly down the walk.
 
 
 
-"He is not ugly, Shirley," pleaded Caroline; "he is not ignoble. He is
+"He is not ugly, [[Shirley]]," pleaded Caroline; "he is not ignoble. He is
 
-sad; silence seals his mind. But I believe him to be intelligent; and be
+sad; [[Silence|silence]] seals his mind. But I believe him to be intelligent; and be
 
 certain, if he had not something very commendable in his disposition,
 
@@ -82,11 +82,11 @@ Mr. Hall would never seek his society as he does."
 
 
 
-Shirley laughed; she laughed again, each time with a slightly sarcastic
+[[Shirley]] laughed; she laughed again, each [[Time|time]] with a slightly sarcastic
 
-sound. "Well, well," was her comment. "On the plea of the man being
+sound. "[[Well]], [[Well|well]]," was her comment. "On the plea of the man being
 
-Cyril Hall's friend and Robert Moore's brother, we'll just tolerate his
+Cyril Hall's friend and [[Robert Moore]]'s brother, we'll just tolerate his
 
 existence; won't we, Cary? You believe him to be intelligent, do you?
 
@@ -100,7 +100,7 @@ speak to him."
 
 
 
-He approached the summer-house. Unconscious that it was tenanted, he sat
+He approached the [[Summer|summer]]-[[house]]. Unconscious that it was tenanted, he sat
 
 down on the step. Tartar, now his customary companion, had followed him,
 
@@ -110,11 +110,11 @@ and he couched across his feet.
 
 "Old boy!" said Louis, pulling his tawny ear, or rather the mutilated
 
-remains of that organ, torn and chewed in a hundred battles, "the autumn
+remains of that organ, torn and chewed in a hundred battles, "the [[Autumn|autumn]]
 
 sun shines as pleasantly on us as on the fairest and richest. This
 
-garden is none of ours, but we enjoy its greenness and perfume, don't
+[[Garden|garden]] is none of ours, but we enjoy its greenness and perfume, don't
 
 we?"
 
@@ -124,7 +124,7 @@ He sat silent, still caressing Tartar, who slobbered with exceeding
 
 affection. A faint twittering commenced among the trees round. Something
 
-fluttered down as light as leaves. They were little birds, which,
+fluttered down as light as [[Leaves|leaves]]. They were little [[Birds|birds]], which,
 
 lighting on the sward at shy distance, hopped as if expectant.
 
@@ -134,7 +134,7 @@ lighting on the sward at shy distance, hopped as if expectant.
 
 again soliloquized Louis. "They want some more biscuit. To-day I forgot
 
-to save a fragment. Eager little sprites, I have not a crumb for you."
+to save a [[Fragment|fragment]]. Eager little sprites, I have not a crumb for you."
 
 
 
@@ -156,11 +156,11 @@ shoulder, put the crumbs into his hand.
 
 
 
-"There," said she--"there is a providence for the improvident."
+"There," said she--"there is a [[Providence|providence]] for the improvident."
 
 
 
-"This September afternoon is pleasant," observed Louis Moore, as, not at
+"This September afternoon is pleasant," observed [[Louis Moore]], as, not at
 
 all discomposed, he calmly cast the crumbs on to the grass.
 
@@ -180,7 +180,7 @@ the elements and the inanimate and lower animate creation."
 
 
 
-"Solitary, but not harsh. With animals I feel I am Adam's son, the heir
+"Solitary, but not harsh. With [[Animals|animals]] I feel I am Adam's son, the heir
 
 of him to whom dominion was given over 'every living thing that moveth
 
@@ -188,7 +188,7 @@ upon the earth.' Your dog likes and follows me. When I go into that
 
 yard, the pigeons from your dovecot flutter at my feet. Your mare in the
 
-stable knows me as well as it knows you, and obeys me better."
+stable knows me as [[Well|well]] as it knows you, and obeys me better."
 
 
 
@@ -204,9 +204,9 @@ me; they are _mine_."
 
 He walked off. Tartar followed him, as if in duty and affection bound,
 
-and Shirley remained standing on the summer-house step. Caroline saw her
+and [[Shirley]] remained standing on the [[Summer|summer]]-[[house]] step. Caroline saw her
 
-face as she looked after the rude tutor. It was pale, as if her pride
+face as she looked after the rude tutor. It was pale, as if her [[Pride|pride]]
 
 bled inwardly.
 
@@ -218,7 +218,7 @@ hurt it makes him morose."
 
 
 
-"You see," retorted Shirley, with ire, "he is a topic on which you and I
+"You see," retorted [[Shirley]], with ire, "he is a topic on which you and I
 
 shall quarrel if we discuss it often; so drop it henceforward and for
 
@@ -228,11 +228,11 @@ ever."
 
 "I suppose he has more than once behaved in this way," thought Caroline
 
-to herself, "and that renders Shirley so distant to him. Yet I wonder
+to herself, "and that renders [[Shirley]] so distant to him. Yet I [[Wonder|wonder]]
 
-she cannot make allowance for character and circumstances. I wonder the
+she cannot make allowance for character and circumstances. I [[Wonder|wonder]] the
 
-general modesty, manliness, sincerity of his nature do not plead with
+general modesty, manliness, sincerity of his [[Nature|nature]] do not plead with
 
 her in his behalf. She is not often so inconsiderate, so irritable."
 
@@ -254,7 +254,7 @@ He--William--"could do aught for that man. And then to see how t' bairns
 
 liked him, and how t' wife took to him first minute she saw him. He
 
-never went into a house but t' childer wor about him directly. Them
+never went into a [[house]] but t' childer wor about him directly. Them
 
 little things wor like as if they'd a keener sense nor grown-up folks i'
 

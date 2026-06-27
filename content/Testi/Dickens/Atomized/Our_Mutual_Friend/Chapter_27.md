@@ -34,36 +34,36 @@ conjuration and enchantment.
 
 The legal gentleman in Britannia’s confidence going straight from that
 lady to Veneering, thus commissioned, Veneering declares himself highly
-flattered, but requires breathing time to ascertain ‘whether his friends
+flattered, but requires breathing [[Time|time]] to ascertain ‘whether his friends
 will rally round him.’ Above all things, he says, it behoves him to be
 clear, at a crisis of this importance, ‘whether his friends will rally
 round him.’ The legal gentleman, in the interests of his client cannot
-allow much time for this purpose, as the lady rather thinks she knows
+allow much [[Time|time]] for this purpose, as the lady rather thinks she knows
 somebody prepared to put down six thousand pounds; but he says he will
 give Veneering four hours.
 
 Veneering then says to Mrs Veneering, ‘We must work,’ and throws himself
 into a Hansom cab. Mrs Veneering in the same moment relinquishes baby
-to Nurse; presses her aquiline hands upon her brow, to arrange the
+to [[Nurse]]; presses her aquiline hands upon her brow, to arrange the
 throbbing intellect within; orders out the carriage; and repeats in
-a distracted and devoted manner, compounded of Ophelia and any
-self-immolating female of antiquity you may prefer, ‘We must work.’
+a distracted and devoted manner, compounded of [[Ophelia]] and any
+[[Self|self]]-immolating female of antiquity you may prefer, ‘We must work.’
 
 Veneering having instructed his driver to charge at the Public in the
 streets, like the Life-Guards at Waterloo, is driven furiously to Duke
 Street, Saint James’s. There, he finds Twemlow in his lodgings, fresh
-from the hands of a secret artist who has been doing something to his
+from the hands of a secret [[Artist|artist]] who has been doing something to his
 hair with yolks of eggs. The process requiring that Twemlow shall, for
 two hours after the application, allow his hair to stick upright and dry
 gradually, he is in an appropriate state for the receipt of startling
-intelligence; looking equally like the Monument on Fish Street Hill, and
-King Priam on a certain incendiary occasion not wholly unknown as a neat
+intelligence; looking equally like the Monument on Fish Street [[Hill]], and
+[[King]] Priam on a certain incendiary occasion not wholly unknown as a neat
 point from the classics.
 
 ‘My dear Twemlow,’ says Veneering, grasping both his hands, ‘as the
 dearest and oldest of my friends—’
 
-(‘Then there can be no more doubt about it in future,’ thinks Twemlow,
+(‘Then there can be no more [[Doubt|doubt]] about it in future,’ thinks Twemlow,
 ‘and I AM!’)
 
 ‘—Are you of opinion that your cousin, Lord Snigsworth, would give his
@@ -92,7 +92,7 @@ heartily intending to keep his word.
 
 ‘Would you have any objection to write down to Snigsworthy Park, and ask
 this favour of Lord Snigsworth? Of course if it were granted I should
-know that I owed it solely to you; while at the same time you would put
+know that I owed it solely to you; while at the same [[Time|time]] you would put
 it to Lord Snigsworth entirely upon public grounds. Would you have any
 objection?’
 
@@ -130,7 +130,7 @@ for you.’
 Veneering blesses him again.
 
 ‘I’ll go,’ says Twemlow, in a rising hurry of spirits, ‘to the
-club;—let us see now; what o’clock is it?’
+club;—let us see now; what o’[[Clock|clock]] is it?’
 
 ‘Twenty minutes to eleven.’
 
@@ -139,7 +139,7 @@ never leave it all day.’
 
 Veneering feels that his friends are rallying round him, and says,
 ‘Thank you, thank you. I knew I could rely upon you. I said to Anastatia
-before leaving home just now to come to you—of course the first friend
+before leaving [[Home|home]] just now to come to you—of course the first friend
 I have seen on a subject so momentous to me, my dear Twemlow—I said to
 Anastatia, “We must work.”’
 
@@ -153,34 +153,34 @@ tact is invaluable. To have the dear sex with us, is to have everything
 with us.’
 
 ‘But you have not imparted to me,’ remarks Veneering, ‘what you think of
-my entering the House of Commons?’
+my entering the [[house|House]] of Commons?’
 
 ‘I think,’ rejoins Twemlow, feelingly, ‘that it is the best club in
-London.’
+[[London]].’
 
 Veneering again blesses him, plunges down stairs, rushes into his
 Hansom, and directs the driver to be up and at the British Public, and
-to charge into the City.
+to charge into the [[City]].
 
 Meanwhile Twemlow, in an increasing hurry of spirits, gets his hair down
-as well as he can—which is not very well; for, after these glutinous
+as [[Well|well]] as he can—which is not very [[Well|well]]; for, after these glutinous
 applications it is restive, and has a surface on it somewhat in the
-nature of pastry—and gets to the club by the appointed time. At the
-club he promptly secures a large window, writing materials, and all
+[[Nature|nature]] of pastry—and gets to the club by the appointed [[Time|time]]. At the
+club he promptly secures a large [[Window|window]], writing materials, and all
 the newspapers, and establishes himself; immoveable, to be respectfully
 contemplated by Pall Mall. Sometimes, when a man enters who nods to
 him, Twemlow says, ‘Do you know Veneering?’ Man says, ‘No; member of
 the club?’ Twemlow says, ‘Yes. Coming in for Pocket-Breaches.’ Man says,
-‘Ah! Hope he may find it worth the money!’ yawns, and saunters out.
-Towards six o’clock of the afternoon, Twemlow begins to persuade
+‘Ah! [[Hope]] he may find it worth the money!’ yawns, and saunters out.
+Towards six o’[[Clock|clock]] of the afternoon, Twemlow begins to persuade
 himself that he is positively jaded with work, and thinks it much to be
 regretted that he was not brought up as a Parliamentary agent.
 
 From Twemlow’s, Veneering dashes at Podsnap’s place of business. Finds
 Podsnap reading the paper, standing, and inclined to be oratorical
-over the astonishing discovery he has made, that Italy is not England.
+over the astonishing discovery he has made, that [[Italy]] is not England.
 Respectfully entreats Podsnap’s pardon for stopping the flow of his
-words of wisdom, and informs him what is in the wind. Tells Podsnap that
+words of wisdom, and informs him what is in the [[Wind|wind]]. Tells Podsnap that
 their political opinions are identical. Gives Podsnap to understand that
 he, Veneering, formed his political opinions while sitting at the feet
 of him, Podsnap. Seeks earnestly to know whether Podsnap ‘will rally
@@ -191,11 +191,11 @@ ask my advice?’
 
 Veneering falters that as so old and so dear a friend—
 
-‘Yes, yes, that’s all very well,’ says Podsnap; ‘but have you made up
+‘Yes, yes, that’s all very [[Well|well]],’ says Podsnap; ‘but have you made up
 your mind to take this borough of Pocket-Breaches on its own terms, or
-do you ask my opinion whether you shall take it or leave it alone?’
+do you ask my opinion whether you shall take it or leave it [[Alone|alone]]?’
 
-Veneering repeats that his heart’s desire and his soul’s thirst are,
+Veneering repeats that his heart’s [[Desire|desire]] and his [[Soul|soul]]’s thirst are,
 that Podsnap shall rally round him.
 
 ‘Now, I’ll be plain with you, Veneering,’ says Podsnap, knitting his
@@ -203,7 +203,7 @@ brows. ‘You will infer that I don’t care about Parliament, from the fact
 of my not being there?’
 
 Why, of course Veneering knows that! Of course Veneering knows that if
-Podsnap chose to go there, he would be there, in a space of time that
+Podsnap chose to go there, he would be there, in a space of [[Time|time]] that
 might be stated by the light and thoughtless as a jiffy.
 
 ‘It is not worth my while,’ pursues Podsnap, becoming handsomely
@@ -221,7 +221,7 @@ it you. But you do ask my help. Good. Then I’ll work for you.’
 Veneering instantly blesses him, and apprises him that Twemlow is
 already working. Podsnap does not quite approve that anybody should
 be already working—regarding it rather in the light of a liberty—but
-tolerates Twemlow, and says he is a well-connected old female who will
+tolerates Twemlow, and says he is a [[Well|well]]-connected old female who will
 do no harm.
 
 ‘I have nothing very particular to do to-day,’ adds Podsnap, ‘and I’ll
@@ -233,8 +233,8 @@ of gentlemanly manners, to go about.’
 
 Veneering, after cogitation, thinks of Boots and Brewer.
 
-‘Whom I have met at your house,’ says Podsnap. ‘Yes. They’ll do very
-well. Let them each have a cab, and go about.’
+‘Whom I have met at your [[house]],’ says Podsnap. ‘Yes. They’ll do very
+[[Well|well]]. Let them each have a cab, and go about.’
 
 Veneering immediately mentions what a blessing he feels it, to possess
 a friend capable of such grand administrative suggestions, and really
@@ -246,7 +246,7 @@ opposite directions. Then Veneering repairs to the legal gentleman in
 Britannia’s confidence, and with him transacts some delicate affairs
 of business, and issues an address to the independent electors of
 Pocket-Breaches, announcing that he is coming among them for their
-suffrages, as the mariner returns to the home of his early childhood: a
+suffrages, as the mariner returns to the [[Home|home]] of his early [[Childhood|childhood]]: a
 phrase which is none the worse for his never having been near the place
 in his life, and not even now distinctly knowing where it is.
 
@@ -254,32 +254,32 @@ Mrs Veneering, during the same eventful hours, is not idle. No sooner
 does the carriage turn out, all complete, than she turns into it, all
 complete, and gives the word ‘To Lady Tippins’s.’ That charmer dwells
 over a staymaker’s in the Belgravian Borders, with a life-size model
-in the window on the ground floor of a distinguished beauty in a blue
+in the [[Window|window]] on the ground floor of a distinguished [[Beauty|beauty]] in a blue
 petticoat, stay-lace in hand, looking over her shoulder at the town in
-innocent surprise. As well she may, to find herself dressing under the
+[[Innocent|innocent]] surprise. As [[Well|well]] she may, to find herself dressing under the
 circumstances.
 
-Lady Tippins at home? Lady Tippins at home, with the room darkened,
-and her back (like the lady’s at the ground-floor window, though for a
+Lady Tippins at [[Home|home]]? Lady Tippins at [[Home|home]], with the room darkened,
+and her back (like the lady’s at the ground-floor [[Window|window]], though for a
 different reason) cunningly turned towards the light. Lady Tippins is
 so surprised by seeing her dear Mrs Veneering so early—in the middle of
-the night, the pretty creature calls it—that her eyelids almost go up,
+the [[Night|night]], the pretty creature calls it—that her eyelids almost go up,
 under the influence of that emotion.
 
 To whom Mrs Veneering incoherently communicates, how that Veneering
-has been offered Pocket-Breaches; how that it is the time for rallying
+has been offered Pocket-Breaches; how that it is the [[Time|time]] for rallying
 round; how that Veneering has said ‘We must work’; how that she is here,
 as a wife and mother, to entreat Lady Tippins to work; how that the
 carriage is at Lady Tippins’s disposal for purposes of work; how that
-she, proprietress of said bran new elegant equipage, will return home on
+she, proprietress of said bran new elegant equipage, will return [[Home|home]] on
 foot—on bleeding feet if need be—to work (not specifying how), until
 she drops by the side of baby’s crib.
 
-‘My love,’ says Lady Tippins, ‘compose yourself; we’ll bring him in.’
+‘My [[Love|love]],’ says Lady Tippins, ‘compose yourself; we’ll bring him in.’
 And Lady Tippins really does work, and work the Veneering horses too;
 for she clatters about town all day, calling upon everybody she knows,
 and showing her entertaining powers and green fan to immense advantage,
-by rattling on with, My dear soul, what do you think? What do
+by rattling on with, My dear [[Soul|soul]], what do you think? What do
 you suppose me to be? You’ll never guess. I’m pretending to be an
 electioneering agent. And for what place of all places? Pocket-Breaches.
 And why? Because the dearest friend I have in the world has bought it.
@@ -287,9 +287,9 @@ And who is the dearest friend I have in the world? A man of the name of
 Veneering. Not omitting his wife, who is the other dearest friend I have
 in the world; and I positively declare I forgot their baby, who is the
 other. And we are carrying on this little farce to keep up appearances,
-and isn’t it refreshing! Then, my precious child, the fun of it is that
+and isn’t it refreshing! Then, my precious [[Child|child]], the fun of it is that
 nobody knows who these Veneerings are, and that they know nobody, and
-that they have a house out of the Tales of the Genii, and give dinners
+that they have a [[house]] out of the Tales of the Genii, and give dinners
 out of the Arabian Nights. Curious to see ’em, my dear? Say you’ll know
 ’em. Come and dine with ’em. They shan’t bore you. Say who shall meet
 you. We’ll make up a party of our own, and I’ll engage that they shall
@@ -299,13 +299,13 @@ Do come and dine with my Veneerings, my own Veneerings, my exclusive
 property, the dearest friends I have in the world! And above all, my
 dear, be sure you promise me your vote and interest and all sorts of
 plumpers for Pocket-Breaches; for we couldn’t think of spending sixpence
-on it, my love, and can only consent to be brought in by the spontaneous
+on it, my [[Love|love]], and can only consent to be brought in by the spontaneous
 thingummies of the incorruptible whatdoyoucallums.
 
 Now, the point of view seized by the bewitching Tippins, that this same
 working and rallying round is to keep up appearances, may have something
-in it, but not all the truth. More is done, or considered to be
-done—which does as well—by taking cabs, and ‘going about,’ than the
+in it, but not all the [[Truth|truth]]. More is done, or considered to be
+done—which does as [[Well|well]]—by taking cabs, and ‘going about,’ than the
 fair Tippins knew of. Many vast vague reputations have been made,
 solely by taking cabs and going about. This particularly obtains in all
 Parliamentary affairs. Whether the business in hand be to get a man in,
@@ -315,16 +315,16 @@ scouring nowhere in a violent hurry—in short, as taking cabs and going
 about.
 
 Probably because this reason is in the air, Twemlow, far from being
-singular in his persuasion that he works like a Trojan, is capped by
-Podsnap, who in his turn is capped by Boots and Brewer. At eight o’clock
+singular in his [[Persuasion|persuasion]] that he works like a Trojan, is capped by
+Podsnap, who in his turn is capped by Boots and Brewer. At eight o’[[Clock|clock]]
 when all these hard workers assemble to dine at Veneering’s, it is
 understood that the cabs of Boots and Brewer mustn’t leave the door, but
-that pails of water must be brought from the nearest baiting-place,
+that pails of [[Water|water]] must be brought from the nearest baiting-place,
 and cast over the horses’ legs on the very spot, lest Boots and Brewer
 should have instant occasion to mount and away. Those fleet messengers
 require the Analytical to see that their hats are deposited where they
 can be laid hold of at an instant’s notice; and they dine (remarkably
-well though) with the air of firemen in charge of an engine, expecting
+[[Well|well]] though) with the air of firemen in charge of an engine, expecting
 intelligence of some tremendous conflagration.
 
 Mrs Veneering faintly remarks, as dinner opens, that many such days
@@ -357,25 +357,25 @@ great emotion, for rarullarulling round him.
 
 In these inspiring moments, Brewer strikes out an idea which is the
 great hit of the day. He consults his watch, and says (like Guy Fawkes),
-he’ll now go down to the House of Commons and see how things look.
+he’ll now go down to the [[house|House]] of Commons and see how things look.
 
 ‘I’ll keep about the lobby for an hour or so,’ says Brewer, with a
-deeply mysterious countenance, ‘and if things look well, I won’t come
+deeply mysterious countenance, ‘and if things look [[Well|well]], I won’t come
 back, but will order my cab for nine in the morning.’
 
 ‘You couldn’t do better,’ says Podsnap.
 
 Veneering expresses his inability ever to acknowledge this last service.
-Tears stand in Mrs Veneering’s affectionate eyes. Boots shows envy,
+[[Tears]] stand in Mrs Veneering’s affectionate eyes. Boots shows envy,
 loses ground, and is regarded as possessing a second-rate mind. They all
 crowd to the door, to see Brewer off. Brewer says to his driver, ‘Now,
-is your horse pretty fresh?’ eyeing the animal with critical scrutiny.
+is your [[Horse|horse]] pretty fresh?’ eyeing the animal with critical scrutiny.
 Driver says he’s as fresh as butter. ‘Put him along then,’ says Brewer;
-‘House of Commons.’ Driver darts up, Brewer leaps in, they cheer him as
+‘[[house|House]] of Commons.’ Driver darts up, Brewer leaps in, they cheer him as
 he departs, and Mr Podsnap says, ‘Mark my words, sir. That’s a man of
 resource; that’s a man to make his way in life.’
 
-When the time comes for Veneering to deliver a neat and appropriate
+When the [[Time|time]] comes for Veneering to deliver a neat and appropriate
 stammer to the men of Pocket-Breaches, only Podsnap and Twemlow
 accompany him by railway to that sequestered spot. The legal gentleman
 is at the Pocket-Breaches Branch Station, with an open carriage with a
@@ -383,7 +383,7 @@ printed bill ‘Veneering for ever’ stuck upon it, as if it were a wall;
 and they gloriously proceed, amidst the grins of the populace, to a
 feeble little town hall on crutches, with some onions and bootlaces
 under it, which the legal gentleman says are a Market; and from the
-front window of that edifice Veneering speaks to the listening earth.
+front [[Window|window]] of that edifice Veneering speaks to the listening earth.
 In the moment of his taking his hat off, Podsnap, as per agreement made
 with Mrs Veneering, telegraphs to that wife and mother, ‘He’s up.’
 
@@ -397,7 +397,7 @@ to have been suggested to him by the legal gentleman in Britannia’s
 confidence, while briefly conferring on the stairs.
 
 Point the first is this. Veneering institutes an original comparison
-between the country, and a ship; pointedly calling the ship, the Vessel
+between the country, and a [[Ship|ship]]; pointedly calling the [[Ship|ship]], the Vessel
 of the State, and the Minister the Man at the Helm. Veneering’s object
 is to let Pocket-Breaches know that his friend on his right (Podsnap) is
 a man of wealth. Consequently says he, ‘And, gentlemen, when the timbers
@@ -436,7 +436,7 @@ language of the worthy and intelligent tradesman of our town, the near
 and dear kinsman of my friend upon my left would answer in his wrath,
 “Away with it!”’
 
-Veneering finishes with this last success, and Mr Podsnap telegraphs to
+Veneering finishes with this last [[success]], and Mr Podsnap telegraphs to
 Mrs Veneering, ‘He’s down.’
 
 Then, dinner is had at the Hotel with the legal gentleman, and then
@@ -448,7 +448,7 @@ halls, and Lady Tippins awaits them, and Boots and Brewer await
 them. There is a modest assertion on everybody’s part that everybody
 single-handed ‘brought him in’; but in the main it is conceded by all,
 that that stroke of business on Brewer’s part, in going down to the
-house that night to see how things looked, was the master-stroke.
+[[house]] that [[Night|night]] to see how things looked, was the master-stroke.
 
 A touching little incident is related by Mrs Veneering, in the course of
 the evening. Mrs Veneering is habitually disposed to be tearful, and
@@ -457,18 +457,18 @@ to withdrawing from the dinner-table with Lady Tippins, she says, in a
 pathetic and physically weak manner:
 
 ‘You will all think it foolish of me, I know, but I must mention it. As
-I sat by Baby’s crib, on the night before the election, Baby was very
-uneasy in her sleep.’
+I sat by Baby’s crib, on the [[Night|night]] before the election, Baby was very
+uneasy in her [[Sleep|sleep]].’
 
 The Analytical chemist, who is gloomily looking on, has diabolical
-impulses to suggest ‘Wind’ and throw up his situation; but represses
+impulses to suggest ‘[[Wind]]’ and throw up his situation; but represses
 them.
 
 ‘After an interval almost convulsive, Baby curled her little hands in
 one another and smiled.’
 
 Mrs Veneering stopping here, Mr Podsnap deems it incumbent on him to
-say: ‘I wonder why!’
+say: ‘I [[Wonder|wonder]] why!’
 
 ‘Could it be, I asked myself,’ says Mrs Veneering, looking about her for
 her pocket-handkerchief, ‘that the Fairies were telling Baby that her
@@ -487,11 +487,11 @@ Duke Street, Saint James’s. But there, upon his sofa, a tremendous
 consideration breaks in upon the mild gentleman, putting all softer
 considerations to the rout.
 
-‘Gracious heavens! Now I have time to think of it, he never saw one of
+‘Gracious heavens! Now I have [[Time|time]] to think of it, he never saw one of
 his constituents in all his days, until we saw them together!’
 
 After having paced the room in distress of mind, with his hand to his
-forehead, the innocent Twemlow returns to his sofa and moans:
+forehead, the [[Innocent|innocent]] Twemlow returns to his sofa and moans:
 
 ‘I shall either go distracted, or die, of this man. He comes upon me too
 late in life. I am not strong enough to bear him!’

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Last Parley"
+title: "ball and [[Cross|cross]] — The Last Parley"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -32,7 +32,7 @@ I say, what did you do with my yacht?"
 The young man sat down on the gravel path and went into ecstasies
 of laughter.  "No, that's just the fun of it--I'm not mad,"
 he replied.  "They've shut me up in this place, and I'm not mad."
-And he went off again into mirth as innocent as wedding-bells.
+And he went off again into mirth as [[Innocent|innocent]] as wedding-[[Bells|bells]].
 
 Turnbull, whose powers of surprise were exhausted, rolled his round
 grey eyes and said, "Mr. Wilkinson, I think," because he could
@@ -41,7 +41,7 @@ not think of anything else to say.
 The tall man sitting on the gravel bowed with urbanity, and said:
 "Quite at your service.  Not to be confused with the Wilkinsons
 of Cumberland; and as I say, old boy, what have you done with my yacht?
-You see, they've locked me up here--in this garden--and a yacht
+You see, they've locked me up here--in this [[Garden|garden]]--and a yacht
 would be a sort of occupation for an unmarried man."
 
 "I am really horribly sorry," began Turnbull, in the last stage
@@ -50,7 +50,7 @@ of bated bewilderment and exasperation, "but really----"
 "Oh, I can see you can't have it on you at the moment,"
 said Mr. Wilkinson with much intellectual magnanimity.
 
-"Well, the fact is----" began Turnbull again, and then the phrase
+"[[Well]], the fact is----" began Turnbull again, and then the phrase
 was frozen on his mouth, for round the corner came the goatlike
 face and gleaming eye-glasses of Dr. Quayle.
 
@@ -66,7 +66,7 @@ of a path.
 
 "My dear sir," he said, in a quite affectionate manner,
 "I do not mind telling you--you are such a very hopeful case--
-you understand so well the scientific point of view; and I
+you understand so [[Well|well]] the scientific point of view; and I
 don't like to see you bothered by the really hopeless cases.
 They are monotonous and maddening.  The man you have just been
 talking to, poor fellow, is one of the strongest cases of pure _idee
@@ -79,48 +79,48 @@ Turnbull stamped his foot on the gravel path, and called out:
 "Oh, I can't stand this.  Really----"
 
 "I know, I know," said the psychologist, mournfully; "it is a most
-melancholy case, and also fortunately a very rare one.  It is so rare,
+[[Melancholy|melancholy]] case, and also fortunately a very rare one.  It is so rare,
 in fact, that in one classification of these maladies it is entered
 under a heading by itself--Perdinavititis, mental inflammation
-creating the impression that one has lost a ship.  Really," he added,
-with a kind of half-embarrassed guilt, "it's rather a feather in my cap.
+creating the impression that one has lost a [[Ship|ship]].  Really," he added,
+with a kind of half-embarrassed [[Guilt|guilt]], "it's rather a feather in my cap.
 I discovered the only existing case of perdinavititis."
 
 "But this won't do, doctor," said Turnbull, almost tearing his hair,
-"this really won't do.  The man really did lose a ship.
-Indeed, not to put too fine a point on it, I took his ship."
+"this really won't do.  The man really did lose a [[Ship|ship]].
+Indeed, not to put too fine a point on it, I took his [[Ship|ship]]."
 
 Dr. Quayle swung round for an instant so that his silk-lined
 overcoat rustled, and stared singularly at Turnbull.
 Then he said with hurried amiability:  "Why, of course you did.
 Quite so, quite so," and with courteous gestures went striding up
-the garden path.  Under the first laburnum-tree he stopped, however,
+the [[Garden|garden]] path.  Under the first laburnum-tree he stopped, however,
 and pulling out his pencil and notebook wrote down feverishly:
 "Singular development in the Eleuthero-maniac, Turnbull.
 Sudden manifestation of Rapinavititis--the delusion that one has
-stolen a ship.  First case ever recorded."
+stolen a [[Ship|ship]].  First case ever recorded."
 
 Turnbull stood for an instant staggered into stillness.
-Then he ran raging round the garden to find MacIan, just as a husband,
+Then he ran raging round the [[Garden|garden]] to find MacIan, just as a husband,
 even a bad husband, will run raging to find his wife if he is
 full of a furious query.  He found MacIan stalking moodily about
-the half-lit garden, after his extraordinary meeting with Beatrice.
+the half-lit [[Garden|garden]], after his extraordinary meeting with [[Beatrice]].
 No one who saw his slouching stride and sunken head could
-have known that his soul was in the seventh heaven of ecstasy.
-He did not think; he did not even very definitely desire.
+have known that his [[Soul|soul]] was in the seventh heaven of ecstasy.
+He did not think; he did not even very definitely [[Desire|desire]].
 He merely wallowed in memories, chiefly in material memories;
 words said with a certain cadence or trivial turns of the neck or wrist.
 Into the middle of his stationary and senseless enjoyment were thrust
 abruptly the projecting elbow and the projecting red beard of Turnbull.
-MacIan stepped back a little, and the soul in his eyes came very
-slowly to its windows.  When James Turnbull had the glittering
-sword-point planted upon his breast he was in far less danger.
+MacIan stepped back a little, and the [[Soul|soul]] in his eyes came very
+slowly to its windows.  When [[James Turnbull]] had the glittering
+[[Sword|sword]]-point planted upon his breast he was in far less danger.
 For three pulsating seconds after the interruption MacIan was
 in a mood to have murdered his father.
 
 And yet his whole emotional anger fell from him when he saw Turnbull's
 face, in which the eyes seemed to be bursting from the head like bullets.
-All the fire and fragrance even of young and honourable love faded
+All the [[Fire|fire]] and fragrance even of young and honourable [[Love|love]] faded
 for a moment before that stiff agony of interrogation.
 
 "Are you hurt, Turnbull?" he asked, anxiously.
@@ -133,15 +133,15 @@ MacIan did not answer, and he continued with asperity:
 "You are still thinking about that girl, but I tell you
 the whole thing is incredible.  She's not the only person here.
 I've met the fellow Wilkinson, whose yacht we lost.  I've met
-the very magistrate you were hauled up to when you broke my window.
+the very magistrate you were hauled up to when you broke my [[Window|window]].
 What can it mean--meeting all these old people again?
-One never meets such old friends again except in a dream."
+One never meets such old friends again except in [[A Dream|a dream]]."
 
-Then after a silence he cried with a rending sincerity:
+Then after a [[Silence|silence]] he cried with a rending sincerity:
 "Are you really there, Evan?  Have you ever been really there?
 Am I simply dreaming?"
 
-MacIan had been listening with a living silence to every word,
+MacIan had been listening with a living [[Silence|silence]] to every word,
 and now his face flamed with one of his rare revelations of life.
 
 "No, you good atheist," he cried; "no, you clean, courteous, reverent,
@@ -150,17 +150,17 @@ pious old blasphemer.  No, you are not dreaming--you are waking up."
 "What do you mean?"
 
 "There are two states where one meets so many old friends,"
-said MacIan; "one is a dream, the other is the end of the world."
+said MacIan; "one is [[A Dream|a dream]], the other is the end of the world."
 
 "And you say----"
 
-"I say this is not a dream," said Evan in a ringing voice.
+"I say this is not [[A Dream|a dream]]," said Evan in a ringing voice.
 
 "You really mean to suggest----" began Turnbull.
 
 "Be silent! or I shall say it all wrong," said MacIan, breathing hard.
-"It's hard to explain, anyhow.  An apocalypse is the opposite of a dream.
-A dream is falser than the outer life.  But the end of the world
+"It's hard to explain, anyhow.  An [[Apocalypse|apocalypse]] is the opposite of [[A Dream|a dream]].
+[[A Dream|A dream]] is falser than the outer life.  But the end of the world
 is more actual than the world it ends.  I don't say this is really
 the end of the world, but it's something like that--it's the end
 of something.  All the people are crowding into one corner.
@@ -170,7 +170,7 @@ Everything is coming to a point."
 
 "I can't see it," said Evan; "it is too large and plain."
 
-Then after a silence he said:  "I can't see it--and yet I will try
+Then after a [[Silence|silence]] he said:  "I can't see it--and yet I will try
 to describe it.  Turnbull, three days ago I saw quite suddenly
 that our duel was not right after all."
 
@@ -190,21 +190,21 @@ right to kill you.  It would have been a venial sin."
 
 "I am much obliged," said Turnbull, gruffly.
 
-"You must give me time," said MacIan, quite patiently, "for I am
-trying to tell the whole truth.  I am trying to tell more of it
+"You must give me [[Time|time]]," said MacIan, quite patiently, "for I am
+trying to tell the whole [[Truth|truth]].  I am trying to tell more of it
 than I know."
 
 "So you see I confess"--he went on with laborious distinctness--
 "I confess that all the people who called our duel mad were right
 in a way.  I would confess it to old Cumberland Vane and his
 eye-glass. I would confess it even to that old ass in brown flannel
-who talked to us about Love.  Yes, they are right in a way.
+who talked to us about [[Love]].  Yes, they are right in a way.
 I am a little mad."
 
 He stopped and wiped his brow as if he were literally doing heavy labour.
 Then he went on:
 
-"I am a little mad; but, after all, it is only a little madness.
+"I am a little mad; but, after all, it is only a little [[Madness|madness]].
 When hundreds of high-minded men had fought duesl about
 a jostle with the elbow or the ace of spades, the whole
 world need not have gone wild over my one little wildness.
@@ -215,19 +215,19 @@ us lunatics.  Compared with the general public, I might positively
 be called sane."
 
 He stopped again, and went on with the same air of travailing
-with the truth:
+with the [[Truth|truth]]:
 
 "When I saw that, I saw everything; I saw the Church and the world.
 The Church in its earthly action has really touched morbid things--
 tortures and bleeding visions and blasts of extermination.
 The Church has had her madnesses, and I am one of them.
-I am the massacre of St. Bartholomew.  I am the Inquisition of Spain.
+I am the massacre of St. Bartholomew.  I am the [[Inquisition]] of Spain.
 I do not say that we have never gone mad, but I say that we are fit
 to act as keepers to our enemies.  Massacre is wicked even with
 a provocation, as in the Bartholomew.  But your modern Nietzsche
 will tell you that massacre would be glorious without a provocation.
 Torture should be violently stopped, though the Church is doing it.
-But your modern Tolstoy will tell you that it ought not to be violently
+But your modern [[tolstoy|Tolstoy]] will tell you that it ought not to be violently
 stopped whoever is doing it.  In the long run, which is most mad--
 the Church or the world?  Which is madder, the Spanish priest
 who permitted tyranny, or the Prussian sophist who admired it?
@@ -246,11 +246,11 @@ Does it stand, or does it stagger?"
 Turnbull remained silent, and MacIan said to him, looking once more
 at the earth:  "It staggers, Turnbull.  It cannot stand by itself;
 you know it cannot.  It has been the sorrow of your life.
-Turnbull, this garden is not a dream, but an apocalyptic fulfilment.
-This garden is the world gone mad."
+Turnbull, this [[Garden|garden]] is not [[A Dream|a dream]], but an apocalyptic fulfilment.
+This [[Garden|garden]] is the world gone mad."
 
 Turnbull did not move his head, and he had been listening all
-the time; yet, somehow, the other knew that for the first time
+the [[Time|time]]; yet, somehow, the other knew that for the first [[Time|time]]
 he was listening seriously.
 
 "The world has gone mad," said MacIan, "and it has gone mad about Us.
@@ -260,20 +260,20 @@ to a madhouse; that is why crowds of kindly people are poured
 into this filthy melting-pot. Now is the judgement of this world.
 The Prince of this World is judged, and he is judged exactly because
 he is judging.  There is at last one simple solution to the quarrel
-between the ball and the cross----"
+between the ball and the [[Cross|cross]]----"
 
-Turnbull for the first time started.
+Turnbull for the first [[Time|time]] started.
 
 "The ball and----" he repeated.
 
 "What is the matter with you?" asked MacIan.
 
-"I had a dream," said Turnbull, thickly and obscurely, "in which I
-saw the cross struck crooked and the ball secure----"
+"I had [[A Dream|a dream]]," said Turnbull, thickly and obscurely, "in which I
+saw the [[Cross|cross]] struck crooked and the ball secure----"
 
-"I had a dream," said MacIan, "in which I saw the cross erect
-and the ball invisible.  They were both dreams from hell.
-There must be some round earth to plant the cross upon.
+"I had [[A Dream|a dream]]," said MacIan, "in which I saw the [[Cross|cross]] erect
+and the ball invisible.  They were both [[Dreams|dreams]] from hell.
+There must be some round earth to plant the [[Cross|cross]] upon.
 But here is the awful difference--that the round world will not consent
 even to continue round.  The astronomers are always telling us that it
 is shaped like an orange, or like an egg, or like a German sausage.
@@ -281,13 +281,13 @@ They beat the old world about like a bladder and thump it into
 a thousand shapeless shapes.  Turnbull, we cannot trust the ball
 to be always a ball; we cannot trust reason to be reasonable.
 In the end the great terrestrial globe will go quite lop-sided,
-and only the cross will stand upright."
+and only the [[Cross|cross]] will stand upright."
 
-There was a long silence, and then Turnbull said, hesitatingly:
-"Has it occurred to you that since--since those two dreams,
+There was a long [[Silence|silence]], and then Turnbull said, hesitatingly:
+"Has it occurred to you that since--since those two [[Dreams|dreams]],
 or whatever they were----"
 
-"Well?" murmured MacIan.
+"[[Well]]?" murmured MacIan.
 
 "Since then," went on Turnbull, in the same low voice, "since then
 we have never even looked for our swords."
@@ -302,19 +302,19 @@ of its way."
 
 The bushes broke and snapped abruptly behind them, and a very tall figure
 towered above Turnbull with an arrogant stoop and a projecting chin,
-a chin of which the shape showed queerly even in its shadow
+a chin of which the shape showed queerly even in its [[Shadow|shadow]]
 upon the path.
 
 "You see that is not so easy," said MacIan between his teeth.
 
 They looked up into the eyes of the Master, but looked only for a moment.
 The eyes were full of a frozen and icy wrath, a kind of utterly
-heartless hatred.  His voice was for the first time devoid of irony.
+heartless hatred.  His voice was for the first [[Time|time]] devoid of irony.
 There was no more sarcasm in it than there is in an iron club.
 
 "You will be inside the building in three minutes," he said,
 with pulverizing precision, "or you will be fired on by the artillery
-at all the windows.  There is too much talking in this garden;
+at all the windows.  There is too much talking in this [[Garden|garden]];
 we intend to close it.  You will be accommodated indoors."
 
 "Ah!" said MacIan, with a long and satisfied sigh, "then I was right."

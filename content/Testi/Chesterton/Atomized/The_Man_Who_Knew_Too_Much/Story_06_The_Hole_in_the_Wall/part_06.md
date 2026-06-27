@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-came to Juliet's; then he compressed his lips a little and said:
+came to [[Juliet]]'s; then he compressed his lips a little and said:
 "Yes, I saw him."
-"Was he alive and well?" asked Brain, quickly. "How was he
+"Was he alive and [[Well|well]]?" asked Brain, quickly. "How was he
 
 dressed?"
-"He appeared exceedingly well," replied Crane, with a curious
+"He appeared exceedingly [[Well|well]]," replied Crane, with a curious
 
 intonation. "He was dressed as he was yesterday, in that purple
 
 costume copied from the portrait of his ancestor in the sixteenth
 
 century. He had his skates in his hand."
-"And his sword at his side, I suppose," added the questioner. "Where
+"And his [[Sword|sword]] at his side, I suppose," added the questioner. "Where
 
-is your own sword, Mr. Crane?"
+is your own [[Sword|sword]], Mr. Crane?"
 "I threw it away."
-In the singular silence that ensued, the train of thought in many
+In the singular [[Silence|silence]] that ensued, the train of thought in many
 
 minds became involuntarily a series of colored pictures.
 They had grown used to their fanciful garments looking more gay and
@@ -47,7 +47,7 @@ attitude that remained in their memories had been anything but
 
 merely monastic; that of the moment when the figure in bright green
 
-and the other in vivid violet had for a moment made a silver cross
+and the other in vivid violet had for a moment made a silver [[Cross|cross]]
 
 of their crossing swords. Even when it was a jest it had been
 
@@ -55,7 +55,7 @@ something of a drama; and it was a strange and sinister thought that
 
 in the gray daybreak the same figures in the same posture might have
 
-been repeated as a tragedy.
+been repeated as a [[Tragedy|tragedy]].
 "Did you quarrel with him?" asked Brain, suddenly.
 "Yes," replied the immovable man in green. "Or he quarreled with
 
@@ -65,14 +65,14 @@ me."
 Crane made no reply.
 Horne Fisher, curiously enough, had only given half his attention to
 
-this crucial cross-examination. His heavy-lidded eyes had languidly
+this crucial [[Cross|cross]]-examination. His heavy-lidded eyes had languidly
 
 followed the figure of Prince Borodino, who at this stage had
 
 strolled away toward the fringe of the wood; and, after a pause, as
 
 of meditation, had disappeared into the darkness of the trees.
-He was recalled from his irrelevance by the voice of Juliet Bray,
+He was recalled from his irrelevance by the voice of [[Juliet]] Bray,
 
 which rang out with an altogether new note of decision:
 "If that is the difficulty, it had best be cleared up. I am engaged
@@ -85,7 +85,7 @@ Neither Brain nor Fisher exhibited any surprise, but the former
 added, quietly:
 "Except, I suppose, that he and your brother went off into the wood
 
-to discuss it, where Mr. Crane mislaid his sword, not to mention his
+to discuss it, where Mr. Crane mislaid his [[Sword|sword]], not to mention his
 
 companion."
 "And may I ask," inquired Crane, with a certain flicker of mockery
@@ -96,7 +96,7 @@ with either of them? Let us adopt the cheerful thesis that I am a
 
 murderer; it has yet to be shown that I am a magician. If I ran your
 
-unfortunate friend through the body, what did I do with the body?
+unfortunate friend through the [[Body|body]], what did I do with the [[Body|body]]?
 
 Did I have it carried away by seven flying dragons, or was it merely
 
@@ -118,7 +118,7 @@ pathway. Brain had had half a notion that the prince might have gone
 
 to look for the lost rapier. But when he reappeared he was carrying
 
-in his hand, not a sword, but an ax.
+in his hand, not a [[Sword|sword]], but an ax.
 The incongruity between the masquerade and the mystery had created a
 
 curious psychological atmosphere. At first they had all felt
@@ -139,9 +139,9 @@ their ridiculous trappings, a curious sensation had come over some
 
 of them, notably over the more sensitive, like Crane and Fisher and
 
-Juliet, but in some degree over everybody except the practical Mr.
+[[Juliet]], but in some degree over everybody except the practical Mr.
 
-Brain. It was almost as if they were the ghosts of their own
+Brain. It was almost as if they were the [[Ghosts|ghosts]] of their own
 
 ancestors haunting that dark wood and dismal lake, and playing some
 
@@ -151,7 +151,7 @@ colored figures seemed to mean something that had been settled long
 
 before, like a silent heraldry. Acts, attitudes, external objects,
 
-were accepted as an allegory even without the key; and they knew
+were accepted as an [[Allegory|allegory]] even without the key; and they knew
 
 when a crisis had come, when they did not know what it was. And
 
@@ -161,7 +161,7 @@ and terrible turn, when they saw the prince stand in the gap of the
 
 gaunt trees, in his robes of angry crimson and with his lowering
 
-face of bronze, bearing in his hand a new shape of death. They could
+face of bronze, bearing in his hand a new shape of [[Death|death]]. They could
 
 not have named a reason, but the two swords seemed indeed to have
 

@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 31 (part 1)"
+title: "[[Mansfield Park]] — Chapter 31 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,9 +17,9 @@ tags:
 CHAPTER XXXI
 
 
-Henry Crawford was at Mansfield Park again the next morning, and at an
+[[Henry Crawford]] was at [[Mansfield Park]] again the next morning, and at an
 earlier hour than common visiting warrants. The two ladies were
-together in the breakfast-room, and, fortunately for him, Lady Bertram
+together in the breakfast-room, and, fortunately for him, Lady [[Bertram]]
 was on the very point of quitting it as he entered. She was almost at
 the door, and not chusing by any means to take so much trouble in vain,
 she still went on, after a civil reception, a short sentence about
@@ -29,9 +29,9 @@ Henry, overjoyed to have her go, bowed and watched her off, and without
 losing another moment, turned instantly to Fanny, and, taking out some
 letters, said, with a most animated look, “I must acknowledge myself
 infinitely obliged to any creature who gives me such an opportunity of
-seeing you alone: I have been wishing it more than you can have any
+seeing you [[Alone|alone]]: I have been wishing it more than you can have any
 idea. Knowing as I do what your feelings as a sister are, I could
-hardly have borne that any one in the house should share with you in
+hardly have borne that any one in the [[house]] should share with you in
 the first knowledge of the news I now bring. He is made. Your brother
 is a lieutenant. I have the infinite satisfaction of congratulating you
 on your brother’s promotion. Here are the letters which announce it,
@@ -39,7 +39,7 @@ this moment come to hand. You will, perhaps, like to see them.”
 
 Fanny could not speak, but he did not want her to speak. To see the
 expression of her eyes, the change of her complexion, the progress of
-her feelings, their doubt, confusion, and felicity, was enough. She
+her feelings, their [[Doubt|doubt]], confusion, and felicity, was enough. She
 took the letters as he gave them. The first was from the Admiral to
 inform his nephew, in a few words, of his having succeeded in the
 object he had undertaken, the promotion of young Price, and enclosing
@@ -64,11 +64,11 @@ have known before all the world. I have not lost a moment, however. The
 post was late this morning, but there has not been since a moment’s
 delay. How impatient, how anxious, how wild I have been on the subject,
 I will not attempt to describe; how severely mortified, how cruelly
-disappointed, in not having it finished while I was in London! I was
-kept there from day to day in the hope of it, for nothing less dear to
-me than such an object would have detained me half the time from
+disappointed, in not having it finished while I was in [[London]]! I was
+kept there from day to day in the [[Hope|hope]] of it, for nothing less dear to
+me than such an object would have detained me half the [[Time|time]] from
 Mansfield. But though my uncle entered into my wishes with all the
-warmth I could desire, and exerted himself immediately, there were
+warmth I could [[Desire|desire]], and exerted himself immediately, there were
 difficulties from the absence of one friend, and the engagements of
 another, which at last I could no longer bear to stay the end of, and
 knowing in what good hands I left the cause, I came away on Monday,
@@ -85,14 +85,14 @@ voluntarily bestowed by my uncle after the evening they had passed
 together.”
 
 “Has this been all _your_ doing, then?” cried Fanny. “Good heaven! how
-very, very kind! Have you really—was it by _your_ desire? I beg your
+very, very kind! Have you really—was it by _your_ [[Desire|desire]]? I beg your
 pardon, but I am bewildered. Did Admiral Crawford apply? How was it? I
 am stupefied.”
 
 Henry was most happy to make it more intelligible, by beginning at an
 earlier stage, and explaining very particularly what he had done. His
-last journey to London had been undertaken with no other view than that
-of introducing her brother in Hill Street, and prevailing on the
+last [[Journey|journey]] to [[London]] had been undertaken with no other view than that
+of introducing her brother in [[Hill]] Street, and prevailing on the
 Admiral to exert whatever interest he might have for getting him on.
 This had been his business. He had communicated it to no creature: he
 had not breathed a syllable of it even to Mary; while uncertain of the

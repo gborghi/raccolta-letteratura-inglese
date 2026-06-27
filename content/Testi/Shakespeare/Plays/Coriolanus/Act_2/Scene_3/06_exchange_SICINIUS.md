@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act II, Scene 3 — exchange (SICINIUS) [6]"
+title: "[[Coriolanus]] — Act II, Scene 3 — exchange ([[Sicinius|SICINIUS]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| SICINIUS | To th’ Capitol, come. We will be there before the stream o‘th’ people, And this shall seem, as partly ’tis, their own, Which we have goaded onward. Exeunt |
+| [[Sicinius|SICINIUS]] | To th’ Capitol, come. We will be there before the stream o‘th’ people, And this shall seem, as partly ’tis, their own, Which we have goaded onward. Exeunt |

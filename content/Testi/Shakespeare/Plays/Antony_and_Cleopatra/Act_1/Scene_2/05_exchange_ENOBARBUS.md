@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act I, Scene 2 — exchange (ENOBARBUS) [5]"
+title: "Antony and [[Cleopatra]] — Act I, Scene 2 — exchange ([[Enobarbus|ENOBARBUS]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ENOBARBUS | I shall do’t. Exeunt severally |
+| [[Enobarbus|ENOBARBUS]] | I shall do’t. Exeunt severally |

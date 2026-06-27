@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Oh! I hope so,’ said Miss Charlotta Tuggs, emphatically.
+‘Oh! I [[Hope|hope]] so,’ said Miss Charlotta Tuggs, emphatically.
 
 ‘Tickets, ladies and gen’lm’n,’ said the man on the paddle-box.
 
@@ -27,7 +27,7 @@ pressure of the hand which threw the amiable young man’s nerves into a
 state of considerable derangement, Mrs. Captain Waters disappeared
 among the crowd. A pair of puce-coloured boots were seen ascending the
 steps, a white handkerchief fluttered, a black eye gleamed. The
-Waterses were gone, and Mr. Cymon Tuggs was alone in a heartless world.
+Waterses were gone, and Mr. Cymon Tuggs was [[Alone|alone]] in a heartless world.
 
 Silently and abstractedly, did that too sensitive youth follow his
 revered parents, and a train of smock-frocks and wheelbarrows, along
@@ -45,7 +45,7 @@ chairs carrying about invalids; parties, waiting on the pier for
 parties who had come by the steam-boat; and nothing was to be heard but
 talking, laughing, welcoming, and merriment.
 
-‘Fly, sir?’ exclaimed a chorus of fourteen men and six boys, the moment
+‘Fly, sir?’ exclaimed a [[Chorus|chorus]] of fourteen men and six boys, the moment
 Mr. Joseph Tuggs, at the head of his little party, set foot in the
 street.
 
@@ -61,20 +61,20 @@ welocity!’
 here, sir—reg’lar bluebottle!’
 
 ‘Here’s _your_ fly, sir!’ shouted another aspiring charioteer, mounting
-the box, and inducing an old grey horse to indulge in some imperfect
-reminiscences of a canter. ‘Look at him, sir!—temper of a lamb and
+the box, and inducing an old grey [[Horse|horse]] to indulge in some imperfect
+reminiscences of a canter. ‘Look at him, sir!—temper of a [[Lamb|lamb]] and
 haction of a steam-ingein!’
 
-Resisting even the temptation of securing the services of so valuable a
+Resisting even the [[Temptation|temptation]] of securing the services of so valuable a
 quadruped as the last named, Mr. Joseph Tuggs beckoned to the
 proprietor of a dingy conveyance of a greenish hue, lined with faded
 striped calico; and, the luggage and the family having been deposited
-therein, the animal in the shafts, after describing circles in the road
-for a quarter of an hour, at last consented to depart in quest of
+therein, the animal in the shafts, after describing circles in the [[Road|road]]
+for a quarter of an hour, at last consented to depart in [[Quest|quest]] of
 lodgings.
 
 ‘How many beds have you got?’ screamed Mrs. Tuggs out of the fly, to
-the woman who opened the door of the first house which displayed a bill
+the woman who opened the door of the first [[house]] which displayed a bill
 intimating that apartments were to be let within.
 
 ‘How many did you want, ma’am?’ was, of course, the reply.
@@ -104,30 +104,30 @@ make fresh inquiries, and encounter fresh disappointments.
 
 It had grown dusk when the ‘fly’—the rate of whose progress greatly
 belied its name—after climbing up four or five perpendicular hills,
-stopped before the door of a dusty house, with a bay window, from which
+stopped before the door of a dusty [[house]], with a bay [[Window|window]], from which
 you could obtain a beautiful glimpse of the sea—if you thrust half of
-your body out of it, at the imminent peril of falling into the area.
+your [[Body|body]] out of it, at the imminent peril of falling into the area.
 Mrs. Tuggs alighted. One ground-floor sitting-room, and three cells
-with beds in them up-stairs. A double-house. Family on the opposite
+with beds in them up-stairs. A [[Double|double]]-[[house]]. Family on the opposite
 side. Five children milk-and-watering in the parlour, and one little
 boy, expelled for bad behaviour, screaming on his back in the passage.
 
-‘What’s the terms?’ said Mrs. Tuggs. The mistress of the house was
+‘What’s the terms?’ said Mrs. Tuggs. The mistress of the [[house]] was
 considering the expediency of putting on an extra guinea; so, she
 coughed slightly, and affected not to hear the question.
 
 ‘What’s the terms?’ said Mrs. Tuggs, in a louder key.
 
 ‘Five guineas a week, ma’am, _with_ attendance,’ replied the
-lodging-house keeper. (Attendance means the privilege of ringing the
+lodging-[[house]] keeper. (Attendance means the privilege of ringing the
 bell as often as you like, for your own amusement.)
 
 ‘Rather dear,’ said Mrs. Tuggs. ‘Oh dear, no, ma’am!’ replied the
-mistress of the house, with a benign smile of pity at the ignorance of
+mistress of the [[house]], with a benign smile of pity at the ignorance of
 manners and customs, which the observation betrayed. ‘Very cheap!’
 
 Such an authority was indisputable. Mrs. Tuggs paid a week’s rent in
-advance, and took the lodgings for a month. In an hour’s time, the
+advance, and took the lodgings for a month. In an hour’s [[Time|time]], the
 family were seated at tea in their new abode.
 
 ‘Capital srimps!’ said Mr. Joseph Tuggs.
@@ -135,7 +135,7 @@ family were seated at tea in their new abode.
 Mr. Cymon eyed his father with a rebellious scowl, as he emphatically
 said ‘_Shrimps_.’
 
-‘Well, then, shrimps,’ said Mr. Joseph Tuggs. ‘Srimps or shrimps, don’t
+‘[[Well]], then, shrimps,’ said Mr. Joseph Tuggs. ‘Srimps or shrimps, don’t
 much matter.’
 
 There was pity, blended with malignity, in Mr. Cymon’s eye, as he

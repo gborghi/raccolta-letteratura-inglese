@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 20 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 Dolly bade her good bye, and tripping lightly down the stairs arrived at
 the dreaded library door, and was about to pass it again on tiptoe, when
 it opened, and behold! there stood Mr Haredale. Now, Dolly had from her
-childhood associated with this gentleman the idea of something grim and
-ghostly, and being at the moment conscience-stricken besides, the sight
+[[Childhood|childhood]] associated with this gentleman the idea of something grim and
+ghostly, and being at the moment [[Conscience|conscience]]-stricken besides, the sight
 of him threw her into such a flurry that she could neither acknowledge
 his presence nor run away, so she gave a great start, and then with
 downcast eyes stood still and trembled.
@@ -30,9 +30,9 @@ speak to you.’
 frightened me by coming so suddenly upon me, sir--I would rather go,
 sir, if you’ll be so good as to let me.’
 
-‘Immediately,’ said Mr Haredale, who had by this time led her into the
+‘Immediately,’ said Mr Haredale, who had by this [[Time|time]] led her into the
 room and closed the door. ‘You shall go directly. You have just left
-Emma?’
+[[Emma]]?’
 
 ‘Yes, sir, just this minute.--Father’s waiting for me, sir, if you’ll
 please to have the goodness--’
@@ -42,20 +42,20 @@ bring here to-day?’
 
 ‘Bring here, sir?’ faltered Dolly.
 
-‘You will tell me the truth, I am sure. Yes.’
+‘You will tell me the [[Truth|truth]], I am sure. Yes.’
 
 Dolly hesitated for a little while, and somewhat emboldened by his
-manner, said at last, ‘Well then, sir. It was a letter.’
+manner, said at last, ‘[[Well]] then, sir. It was a letter.’
 
-‘From Mr Edward Chester, of course. And you are the bearer of the
+‘From Mr [[Edward Chester]], of course. And you are the bearer of the
 answer?’
 
 Dolly hesitated again, and not being able to decide upon any other
-course of action, burst into tears.
+course of action, burst into [[Tears|tears]].
 
 ‘You alarm yourself without cause,’ said Mr Haredale. ‘Why are you so
 foolish? Surely you can answer me. You know that I have but to put the
-question to Emma and learn the truth directly. Have you the answer with
+question to [[Emma]] and learn the [[Truth|truth]] directly. Have you the answer with
 you?’
 
 Dolly had what is popularly called a spirit of her own, and being now
@@ -66,7 +66,7 @@ sir, I have. You may kill me if you please, sir, but I won’t give it up.
 I’m very sorry,--but I won’t. There, sir.’
 
 ‘I commend your firmness and your plain-speaking,’ said Mr Haredale.
-‘Rest assured that I have as little desire to take your letter as your
+‘Rest assured that I have as little [[Desire|desire]] to take your letter as your
 life. You are a very discreet messenger and a good girl.’
 
 Not feeling quite certain, as she afterwards said, whether he might not
@@ -74,33 +74,33 @@ be ‘coming over her’ with these compliments, Dolly kept as far from him
 as she could, cried again, and resolved to defend her pocket (for the
 letter was there) to the last extremity.
 
-‘I have some design,’ said Mr Haredale after a short silence, during
+‘I have some design,’ said Mr Haredale after a short [[Silence|silence]], during
 which a smile, as he regarded her, had struggled through the gloom and
-melancholy that was natural to his face, ‘of providing a companion for
+[[Melancholy|melancholy]] that was natural to his face, ‘of providing a companion for
 my niece; for her life is a very lonely one. Would you like the office?
 You are the oldest friend she has, and the best entitled to it.’
 
 ‘I don’t know, sir,’ answered Dolly, not sure but he was bantering her;
-‘I can’t say. I don’t know what they might wish at home. I couldn’t give
+‘I can’t say. I don’t know what they might wish at [[Home|home]]. I couldn’t give
 an opinion, sir.’
 
 ‘If your friends had no objection, would you have any?’ said Mr
 Haredale. ‘Come. There’s a plain question; and easy to answer.’
 
 ‘None at all that I know of sir,’ replied Dolly. ‘I should be very glad
-to be near Miss Emma of course, and always am.’
+to be near Miss [[Emma]] of course, and always am.’
 
-‘That’s well,’ said Mr Haredale. ‘That is all I had to say. You are
+‘That’s [[Well|well]],’ said Mr Haredale. ‘That is all I had to say. You are
 anxious to go. Don’t let me detain you.’
 
 Dolly didn’t let him, nor did she wait for him to try, for the words
 had no sooner passed his lips than she was out of the room, out of the
-house, and in the fields again.
+[[house]], and in the fields again.
 
 The first thing to be done, of course, when she came to herself and
 considered what a flurry she had been in, was to cry afresh; and the
-next thing, when she reflected how well she had got over it, was to
-laugh heartily. The tears once banished gave place to the smiles, and at
+next thing, when she reflected how [[Well|well]] she had got over it, was to
+laugh heartily. The [[Tears|tears]] once banished gave place to the smiles, and at
 last Dolly laughed so much that she was fain to lean against a tree,
 and give vent to her exultation. When she could laugh no longer, and was
 quite tired, she put her head-dress to rights, dried her eyes, looked
@@ -109,14 +109,14 @@ just visible, and resumed her walk.
 
 The twilight had come on, and it was quickly growing dusk, but the path
 was so familiar to her from frequent traversing that she hardly thought
-of this, and certainly felt no uneasiness at being left alone. Moreover,
+of this, and certainly felt no uneasiness at being left [[Alone|alone]]. Moreover,
 there was the bracelet to admire; and when she had given it a good
 rub, and held it out at arm’s length, it sparkled and glittered so
 beautifully on her wrist, that to look at it in every point of view and
 with every possible turn of the arm, was quite an absorbing business.
 There was the letter too, and it looked so mysterious and knowing, when
 she took it out of her pocket, and it held, as she knew, so much inside,
-that to turn it over and over, and think about it, and wonder how it
+that to turn it over and over, and think about it, and [[Wonder|wonder]] how it
 began, and how it ended, and what it said all through, was another
 matter of constant occupation. Between the bracelet and the letter,
 there was quite enough to do without thinking of anything else; and
@@ -134,9 +134,9 @@ sound, which was like that of a person tramping stealthily among bushes
 and brushwood. Looking towards the spot whence it appeared to come, she
 almost fancied she could make out a crouching figure. She stopped
 again. All was quiet as before. On she went once more--decidedly faster
-now--and tried to sing softly to herself. It must be the wind.
+now--and tried to sing softly to herself. It must be the [[Wind|wind]].
 
-But how came the wind to blow only when she walked, and cease when she
+But how came the [[Wind|wind]] to blow only when she walked, and cease when she
 stood still? She stopped involuntarily as she made the reflection, and
 the rustling noise stopped likewise. She was really frightened now, and
 was yet hesitating what to do, when the bushes crackled and snapped, and

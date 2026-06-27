@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Blackwood Article (part 4)"
+title: "[[How to Write a Blackwood Article]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
@@ -24,7 +24,7 @@ Porque el plazer del morir,
 
 
 
-      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O death!
+      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
 
       but be sure and don’t let me see you coming, lest the pleasure I
 
@@ -44,7 +44,7 @@ Porque el plazer del morir,
 
       “That’s Italian, you perceive—from Ariosto. It means that a great
 
-      hero, in the heat of combat, not perceiving that he had been
+      [[Hero|hero]], in the heat of combat, not perceiving that he had been
 
       fairly killed, continued to fight valiantly, dead as he was. The
 
@@ -52,7 +52,7 @@ Porque el plazer del morir,
 
       Psyche, that you will not neglect to kick for at least an hour
 
-      and a half after you have been choked to death by that
+      and a half after you have been choked to [[Death|death]] by that
 
       chicken-bone. Please to write!
 
@@ -72,7 +72,7 @@ Porque el plazer del morir,
 
       lady either) of sense, wouldn’t die, I should like to know, for a
 
-      well fattened capon of the right Molucca breed, stuffed with
+      [[Well|well]] fattened capon of the right Molucca breed, stuffed with
 
       capers and mushrooms, and served up in a salad-bowl, with
 
@@ -90,7 +90,7 @@ Porque el plazer del morir,
 
       elenchi—that is to say, he has understood the words of your
 
-      proposition, but not the idea. The man was a fool, you see. Some
+      proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
 
       poor fellow whom you address while choking with that
 
@@ -120,7 +120,7 @@ Porque el plazer del morir,
 
       example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
 
-      palin makesetai.] There is a tolerably good translation of it in
+      palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
 
       Hudibras—
 
@@ -148,7 +148,7 @@ Porque el plazer del morir,
 
       the sentence, with a huge oath, and by way of ultimatum at the
 
-      good-for-nothing dunder-headed villain who couldn’t understand
+      good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
 
       your plain English in relation to the chicken-bone. He’ll take
 
@@ -176,15 +176,15 @@ Porque el plazer del morir,
 
       and indeed treated me with the greatest civility. His parting
 
-      words made a deep impression upon my heart, and I hope I shall
+      words made a deep impression upon my heart, and I [[Hope|hope]] I shall
 
       always remember them with gratitude.
 
 
 
-      “My dear Miss Zenobia,” he said, while the tears stood in his
+      “My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
 
-      eyes, “is there anything else I can do to promote the success of
+      eyes, “is there anything else I can do to promote the [[success]] of
 
       your laudable undertaking? Let me reflect! It is just possible
 
@@ -194,7 +194,7 @@ Porque el plazer del morir,
 
       hung,—or—bitten by a—but stay! Now I think me of it, there are a
 
-      couple of very excellent bull-dogs in the yard—fine fellows, I
+      couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
 
       assure you—savage, and all that—indeed just the thing for your
 
@@ -202,7 +202,7 @@ Porque el plazer del morir,
 
       five minutes (here’s my watch!)—and then only think of the
 
-      sensations! Here! I say—Tom!—Peter!—Dick, you villain!—let out
+      sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
 
       those”—but as I was really in a great hurry, and had not another
 
@@ -228,9 +228,9 @@ Porque el plazer del morir,
 
       character of the article I intended to write. In this excursion I
 
-      was attended by one negro servant, Pompey, and my little lap-dog
+      was attended by one negro servant, [[Pompey]], and my little lap-dog
 
-      Diana, whom I had brought with me from Philadelphia. It was not,
+      [[Diana]], whom I had brought with me from Philadelphia. It was not,
 
       however, until late in the afternoon that I fully succeeded in my
 

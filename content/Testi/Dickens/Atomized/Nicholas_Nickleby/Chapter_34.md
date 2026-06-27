@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34"
+title: "[[Nicholas Nickleby]] — Chapter 34"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,26 +16,26 @@ tags:
 
 CHAPTER 34
 
-Wherein Mr. Ralph Nickleby is visited by Persons with whom the Reader has
+Wherein Mr. [[Ralph Nickleby]] is visited by Persons with whom the Reader has
 been already made acquainted
 
 
-‘What a demnition long time you have kept me ringing at this confounded
+‘What a demnition long [[Time|time]] you have kept me ringing at this confounded
 old cracked tea-kettle of a bell, every tinkle of which is enough to
-throw a strong man into blue convulsions, upon my life and soul, oh
-demmit,’--said Mr. Mantalini to Newman Noggs, scraping his boots, as he
-spoke, on Ralph Nickleby’s scraper.
+throw a strong man into blue convulsions, upon my life and [[Soul|soul]], oh
+demmit,’--said Mr. Mantalini to [[Newman Noggs]], scraping his boots, as he
+spoke, on [[Ralph Nickleby]]’s scraper.
 
 ‘I didn’t hear the bell more than once,’ replied Newman.
 
 ‘Then you are most immensely and outr-i-geously deaf,’ said Mr
 Mantalini, ‘as deaf as a demnition post.’
 
-Mr. Mantalini had got by this time into the passage, and was making his
+Mr. Mantalini had got by this [[Time|time]] into the passage, and was making his
 way to the door of Ralph’s office with very little ceremony, when Newman
-interposed his body; and hinting that Mr. Nickleby was unwilling to be
+interposed his [[Body|body]]; and hinting that Mr. Nickleby was unwilling to be
 disturbed, inquired whether the client’s business was of a pressing
-nature.
+[[Nature|nature]].
 
 ‘It is most demnebly particular,’ said Mr. Mantalini. ‘It is to melt some
 scraps of dirty paper into bright, shining, chinking, tinkling, demd
@@ -51,13 +51,13 @@ turned to demand the cause of the interruption.
 
 As Newman stated it, the cause himself swaggered into the room, and
 grasping Ralph’s horny hand with uncommon affection, vowed that he had
-never seen him looking so well in all his life.
+never seen him looking so [[Well|well]] in all his life.
 
 ‘There is quite a bloom upon your demd countenance,’ said Mr. Mantalini,
 seating himself unbidden, and arranging his hair and whiskers. ‘You look
 quite juvenile and jolly, demmit!’
 
-‘We are alone,’ returned Ralph, tartly. ‘What do you want with me?’
+‘We are [[Alone|alone]],’ returned Ralph, tartly. ‘What do you want with me?’
 
 ‘Good!’ cried Mr. Mantalini, displaying his teeth. ‘What did I want! Yes.
 Ha, ha! Very good. WHAT did I want. Ha, ha. Oh dem!’
@@ -91,20 +91,20 @@ five-and-twenty pounds,’ said Ralph, deliberately.
 ‘Oh demmit!’ cried Mr. Mantalini, whose face lengthened considerably at
 this handsome proposal.
 
-‘Why, that leaves you fifty,’ retorted Ralph. ‘What would you have? Let
+‘Why, that [[Leaves|leaves]] you fifty,’ retorted Ralph. ‘What would you have? Let
 me see the names.’
 
 ‘You are so demd hard, Nickleby,’ remonstrated Mr. Mantalini.
 
 ‘Let me see the names,’ replied Ralph, impatiently extending his hand
-for the bills. ‘Well! They are not sure, but they are safe enough. Do
+for the bills. ‘[[Well]]! They are not sure, but they are safe enough. Do
 you consent to the terms, and will you take the money? I don’t want you
 to do so. I would rather you didn’t.’
 
 ‘Demmit, Nickleby, can’t you--’ began Mr. Mantalini.
 
 ‘No,’ replied Ralph, interrupting him. ‘I can’t. Will you take the
-money--down, mind; no delay, no going into the city and pretending to
+money--down, mind; no delay, no going into the [[City|city]] and pretending to
 negotiate with some other party who has no existence, and never had. Is
 it a bargain, or is it not?’
 
@@ -121,9 +121,9 @@ pocket with remarkable alacrity.
 
 ‘Oh, you ARE here,’ said Madame Mantalini, tossing her head.
 
-‘Yes, my life and soul, I am,’ replied her husband, dropping on his
+‘Yes, my life and [[Soul|soul]], I am,’ replied her husband, dropping on his
 knees, and pouncing with kitten-like playfulness upon a stray sovereign.
-‘I am here, my soul’s delight, upon Tom Tiddler’s ground, picking up the
+‘I am here, my [[Soul|soul]]’s delight, upon Tom Tiddler’s ground, picking up the
 demnition gold and silver.’
 
 ‘I am ashamed of you,’ said Madame Mantalini, with much indignation.
@@ -163,7 +163,7 @@ me into a demd state.’
 ‘Don’t talk of feelings, sir,’ rejoined Madame Mantalini, seating
 herself, and turning her back upon him. ‘You don’t consider mine.’
 
-‘I do not consider yours, my soul!’ exclaimed Mr. Mantalini.
+‘I do not consider yours, my [[Soul|soul]]!’ exclaimed Mr. Mantalini.
 
 ‘No,’ replied his wife.
 
@@ -189,8 +189,8 @@ Mr. Mantalini groaned slightly, and buttoned his trousers pocket.
 ‘I am obliged,’ continued Madame Mantalini, ‘since our late misfortunes,
 to pay Miss Knag a great deal of money for having her name in the
 business, and I really cannot afford to encourage him in all his
-wastefulness. As I have no doubt that he came straight here, Mr
-Nickleby, to convert the papers I have spoken of, into money, and as you
+wastefulness. As I have no [[Doubt|doubt]] that he came straight here, Mr
+Nickleby, to [[convert]] the papers I have spoken of, into money, and as you
 have assisted us very often before, and are very much connected with us
 in this kind of matters, I wish you to know the determination at which
 his conduct has compelled me to arrive.’
@@ -224,10 +224,10 @@ lady’s nerves. ‘But no. It is a demd horrid dream. It is not reality.
 No!’
 
 Comforting himself with this assurance, Mr. Mantalini closed his eyes and
-waited patiently till such time as he should wake up.
+waited patiently till such [[Time|time]] as he should wake up.
 
 ‘A very judicious arrangement,’ observed Ralph with a sneer, ‘if your
-husband will keep within it, ma’am--as no doubt he will.’
+husband will keep within it, ma’am--as no [[Doubt|doubt]] he will.’
 
 ‘Demmit!’ exclaimed Mr. Mantalini, opening his eyes at the sound of
 Ralph’s voice, ‘it is a horrid reality. She is sitting there before me.
@@ -239,18 +239,18 @@ that I cannot be angry with her, even now?’
 ‘You have brought it upon yourself, Alfred,’ returned Madame
 Mantalini--still reproachfully, but in a softened tone.
 
-‘I am a demd villain!’ cried Mr. Mantalini, smiting himself on the head.
+‘I am a demd [[Villain|villain]]!’ cried Mr. Mantalini, smiting himself on the head.
 ‘I will fill my pockets with change for a sovereign in halfpence and
 drown myself in the Thames; but I will not be angry with her, even then,
 for I will put a note in the twopenny-post as I go along, to tell her
-where the body is. She will be a lovely widow. I shall be a body. Some
+where the [[Body|body]] is. She will be a lovely widow. I shall be a [[Body|body]]. Some
 handsome women will cry; she will laugh demnebly.’
 
 ‘Alfred, you cruel, cruel creature,’ said Madame Mantalini, sobbing at
 the dreadful picture.
 
 ‘She calls me cruel--me--me--who for her sake will become a demd, damp,
-moist, unpleasant body!’ exclaimed Mr. Mantalini.
+moist, unpleasant [[Body|body]]!’ exclaimed Mr. Mantalini.
 
 ‘You know it almost breaks my heart, even to hear you talk of such a
 thing,’ replied Madame Mantalini.
@@ -264,42 +264,42 @@ captivater, and can I live to be suspected by her? Demmit, no I can’t.’
 reasoned Madame Mantalini.
 
 ‘I don’t want any sum,’ replied her disconsolate husband; ‘I shall
-require no demd allowance. I will be a body.’
+require no demd allowance. I will be a [[Body|body]].’
 
 On this repetition of Mr. Mantalini’s fatal threat, Madame Mantalini
-wrung her hands, and implored the interference of Ralph Nickleby; and
-after a great quantity of tears and talking, and several attempts on
+wrung her hands, and implored the interference of [[Ralph Nickleby]]; and
+after a great quantity of [[Tears|tears]] and talking, and several attempts on
 the part of Mr. Mantalini to reach the door, preparatory to straightway
 committing violence upon himself, that gentleman was prevailed upon,
-with difficulty, to promise that he wouldn’t be a body. This great point
+with difficulty, to promise that he wouldn’t be a [[Body|body]]. This great point
 attained, Madame Mantalini argued the question of the allowance, and Mr
 Mantalini did the same, taking occasion to show that he could live with
-uncommon satisfaction upon bread and water, and go clad in rags, but
+uncommon satisfaction upon bread and [[Water|water]], and go clad in rags, but
 that he could not support existence with the additional burden of
 being mistrusted by the object of his most devoted and disinterested
-affection. This brought fresh tears into Madame Mantalini’s eyes, which
+affection. This brought fresh [[Tears|tears]] into Madame Mantalini’s eyes, which
 having just begun to open to some few of the demerits of Mr. Mantalini,
 were only open a very little way, and could be easily closed again. The
 result was, that without quite giving up the allowance question, Madame
 Mantalini, postponed its further consideration; and Ralph saw, clearly
 enough, that Mr. Mantalini had gained a fresh lease of his easy life, and
-that, for some time longer at all events, his degradation and downfall
+that, for some [[Time|time]] longer at all events, his degradation and downfall
 were postponed.
 
-‘But it will come soon enough,’ thought Ralph; ‘all love--bah! that I
+‘But it will come soon enough,’ thought Ralph; ‘all [[Love|love]]--bah! that I
 should use the cant of boys and girls--is fleeting enough; though that
 which has its sole root in the admiration of a whiskered face like that
 of yonder baboon, perhaps lasts the longest, as it originates in the
-greater blindness and is fed by vanity. Meantime the fools bring grist
+greater blindness and is fed by [[Vanity|vanity]]. Meantime the fools bring grist
 to my mill, so let them live out their day, and the longer it is, the
 better.’
 
-These agreeable reflections occurred to Ralph Nickleby, as sundry small
+These agreeable reflections occurred to [[Ralph Nickleby]], as sundry small
 caresses and endearments, supposed to be unseen, were exchanged between
 the objects of his thoughts.
 
 ‘If you have nothing more to say, my dear, to Mr. Nickleby,’ said Madame
-Mantalini, ‘we will take our leaves. I am sure we have detained him much
+Mantalini, ‘we will take our [[Leaves|leaves]]. I am sure we have detained him much
 too long already.’
 
 Mr. Mantalini answered, in the first instance, by tapping Madame
@@ -314,7 +314,7 @@ demd extraordinary out-of-the-way kind of thing as never was--eh?’
 
 ‘Don’t you know, demmit?’ asked Mr. Mantalini.
 
-‘I see by the paper that he was thrown from his cabriolet last night,
+‘I see by the paper that he was thrown from his cabriolet last [[Night|night]],
 and severely injured, and that his life is in some danger,’ answered
 Ralph with great composure; ‘but I see nothing extraordinary in
 that--accidents are not miraculous events, when men live hard, and drive
@@ -330,12 +330,12 @@ that he had no curiosity upon the subject.
 ‘Demmit, you amaze me,’ cried Mantalini.
 
 Ralph shrugged his shoulders again, as if it were no great feat to amaze
-Mr. Mantalini, and cast a wistful glance at the face of Newman Noggs,
+Mr. Mantalini, and cast a wistful glance at the face of [[Newman Noggs]],
 which had several times appeared behind a couple of panes of glass in
 the room door; it being a part of Newman’s duty, when unimportant people
 called, to make various feints of supposing that the bell had rung for
 him to show them out: by way of a gentle hint to such visitors that it
-was time to go.
+was [[Time|time]] to go.
 
 ‘Don’t you know,’ said Mr. Mantalini, taking Ralph by the button, ‘that
 it wasn’t an accident at all, but a demd, furious, manslaughtering
@@ -351,7 +351,7 @@ told you? Speak,’ growled Ralph. ‘Do you hear me?’
 
 ‘’Gad, Nickleby,’ said Mr. Mantalini, retreating towards his wife, ‘what
 a demneble fierce old evil genius you are! You’re enough to frighten the
-life and soul out of her little delicious wits--flying all at once into
+life and [[Soul|soul]] out of her little delicious wits--flying all at once into
 such a blazing, ravaging, raging passion as never was, demmit!’
 
 ‘Pshaw,’ rejoined Ralph, forcing a smile. ‘It is but manner.’
@@ -369,9 +369,9 @@ Mantalini. ‘Demnition pleasant, and a tip-top sawyer.’
 
 ‘That it happened this way--that your nephew met him at a coffeehouse,
 fell upon him with the most demneble ferocity, followed him to his cab,
-swore he would ride home with him, if he rode upon the horse’s back or
-hooked himself on to the horse’s tail; smashed his countenance, which
-is a demd fine countenance in its natural state; frightened the horse,
+swore he would ride [[Home|home]] with him, if he rode upon the [[Horse|horse]]’s back or
+hooked himself on to the [[Horse|horse]]’s tail; smashed his countenance, which
+is a demd fine countenance in its natural state; frightened the [[Horse|horse]],
 pitched out Sir Mulberry and himself, and--’
 
 ‘And was killed?’ interposed Ralph with gleaming eyes. ‘Was he? Is he
@@ -401,11 +401,11 @@ niece--the softest, sweetest, prettiest--’
 ‘Alfred!’ interposed Madame Mantalini.
 
 ‘She is always right,’ rejoined Mr. Mantalini soothingly, ‘and when she
-says it is time to go, it is time, and go she shall; and when she walks
+says it is [[Time|time]] to go, it is [[Time|time]], and go she shall; and when she walks
 along the streets with her own tulip, the women shall say, with envy,
 she has got a demd fine husband; and the men shall say with rapture,
 he has got a demd fine wife; and they shall both be right and neither
-wrong, upon my life and soul--oh demmit!’
+wrong, upon my life and [[Soul|soul]]--oh demmit!’
 
 With which remarks, and many more, no less intellectual and to the
 purpose, Mr. Mantalini kissed the fingers of his gloves to Ralph
@@ -415,15 +415,15 @@ away.
 ‘So, so,’ muttered Ralph, dropping into his chair; ‘this devil is loose
 again, and thwarting me, as he was born to do, at every turn. He told
 me once there should be a day of reckoning between us, sooner or later.
-I’ll make him a true prophet, for it shall surely come.’
+I’ll make him a true [[Prophet|prophet]], for it shall surely come.’
 
-‘Are you at home?’ asked Newman, suddenly popping in his head.
+‘Are you at [[Home|home]]?’ asked Newman, suddenly popping in his head.
 
 ‘No,’ replied Ralph, with equal abruptness.
 
 Newman withdrew his head, but thrust it in again.
 
-‘You’re quite sure you’re not at home, are you?’ said Newman.
+‘You’re quite sure you’re not at [[Home|home]], are you?’ said Newman.
 
 ‘What does the idiot mean?’ cried Ralph, testily.
 
@@ -436,7 +436,7 @@ irritation.
 
 The necessity of a reply was superseded by the unlooked-for entrance
 of a third party--the individual in question--who, bringing his one
-eye (for he had but one) to bear on Ralph Nickleby, made a great many
+eye (for he had but one) to bear on [[Ralph Nickleby]], made a great many
 shambling bows, and sat himself down in an armchair, with his hands on
 his knees, and his short black trousers drawn up so high in the legs by
 the exertion of seating himself, that they scarcely reached below the
@@ -450,7 +450,7 @@ know your face, Mr. Squeers.’
 it hadn’t been for all that I’ve been a-going through. Just lift that
 little boy off the tall stool in the back-office, and tell him to come
 in here, will you, my man?’ said Squeers, addressing himself to Newman.
-‘Oh, he’s lifted his-self off. My son, sir, little Wackford. What do you
+‘Oh, he’s lifted his-[[Self|self]] off. My son, sir, little Wackford. What do you
 think of him, sir, for a specimen of the Dotheboys Hall feeding? Ain’t
 he fit to bust out of his clothes, and start the seams, and make the
 very buttons fly off with his fatness? Here’s flesh!’ cried Squeers,
@@ -465,20 +465,20 @@ father’s closing his finger and thumb in illustration of his remark,
 he uttered a sharp cry, and rubbed the place in the most natural manner
 possible.
 
-‘Well,’ remarked Squeers, a little disconcerted, ‘I had him there; but
+‘[[Well]],’ remarked Squeers, a little disconcerted, ‘I had him there; but
 that’s because we breakfasted early this morning, and he hasn’t had his
 lunch yet. Why you couldn’t shut a bit of him in a door, when he’s had
-his dinner. Look at them tears, sir,’ said Squeers, with a triumphant
+his dinner. Look at them [[Tears|tears]], sir,’ said Squeers, with a triumphant
 air, as Master Wackford wiped his eyes with the cuff of his jacket,
 ‘there’s oiliness!’
 
-‘He looks well, indeed,’ returned Ralph, who, for some purposes of his
+‘He looks [[Well|well]], indeed,’ returned Ralph, who, for some purposes of his
 own, seemed desirous to conciliate the schoolmaster. ‘But how is Mrs
 Squeers, and how are you?’
 
 ‘Mrs. Squeers, sir,’ replied the proprietor of Dotheboys, ‘is as she
 always is--a mother to them lads, and a blessing, and a comfort, and
-a joy to all them as knows her. One of our boys--gorging his-self with
+a joy to all them as knows her. One of our boys--gorging his-[[Self|self]] with
 vittles, and then turning in; that’s their way--got a abscess on him
 last week. To see how she operated upon him with a pen-knife! Oh Lor!’
 said Squeers, heaving a sigh, and nodding his head a great many times,
@@ -495,7 +495,7 @@ something.
 ‘I’ve only just done it, if I’ve done it now,’ replied Squeers. ‘I was
 one blessed bruise, sir,’ said Squeers, touching first the roots of his
 hair, and then the toes of his boots, ‘from HERE to THERE. Vinegar and
-brown paper, vinegar and brown paper, from morning to night. I suppose
+brown paper, vinegar and brown paper, from morning to [[Night|night]]. I suppose
 there was a matter of half a ream of brown paper stuck upon me, from
 first to last. As I laid all of a heap in our kitchen, plastered all
 over, you might have thought I was a large brown-paper parcel, chock
@@ -530,7 +530,7 @@ either sympathy or astonishment--just as the beholder was pleased to
 take it.
 
 ‘Yes, I paid it, every farthing,’ replied Squeers, who seemed to know
-the man he had to deal with, too well to suppose that any blinking of
+the man he had to deal with, too [[Well|well]] to suppose that any blinking of
 the question would induce him to subscribe towards the expenses; ‘I
 wasn’t out of pocket by it after all, either.’
 
@@ -545,7 +545,7 @@ unless we’re sure of our customers. Do you see?’
 ‘Very good,’ rejoined Squeers. ‘Then, after my bill was run up, we
 picked out five little boys (sons of small tradesmen, as was sure pay)
 that had never had the scarlet fever, and we sent one to a cottage where
-they’d got it, and he took it, and then we put the four others to sleep
+they’d got it, and he took it, and then we put the four others to [[Sleep|sleep]]
 with him, and THEY took it, and then the doctor came and attended ‘em
 once all round, and we divided my total among ‘em, and added it on to
 their little bills, and the parents paid it. Ha! ha! ha!’
@@ -555,7 +555,7 @@ their little bills, and the parents paid it. Ha! ha! ha!’
 ‘I believe you,’ rejoined Squeers. ‘We always do it. Why, when Mrs
 Squeers was brought to bed with little Wackford here, we ran the
 hooping-cough through half-a-dozen boys, and charged her expenses among
-‘em, monthly nurse included. Ha! ha! ha!’
+‘em, monthly [[Nurse|nurse]] included. Ha! ha! ha!’
 
 Ralph never laughed, but on this occasion he produced the nearest
 approach to it that he could, and waiting until Mr. Squeers had enjoyed
@@ -583,10 +583,10 @@ people’s ingratitude would carry them quite as far as that; would you?’
 
 ‘A hard case, indeed,’ observed Ralph.
 
-‘You don’t say more than the truth when you say that,’ replied Squeers.
+‘You don’t say more than the [[Truth|truth]] when you say that,’ replied Squeers.
 ‘I don’t suppose there’s a man going, as possesses the fondness for
 youth that I do. There’s youth to the amount of eight hundred pound a
-year at Dotheboys Hall at this present time. I’d take sixteen hundred
+year at Dotheboys Hall at this present [[Time|time]]. I’d take sixteen hundred
 pound worth if I could get ‘em, and be as fond of every individual
 twenty pound among ‘em as nothing should equal it!’
 
@@ -594,13 +594,13 @@ twenty pound among ‘em as nothing should equal it!’
 
 ‘Yes, we are at the Saracen,’ replied Squeers, ‘and as it don’t want
 very long to the end of the half-year, we shall continney to stop there
-till I’ve collected the money, and some new boys too, I hope. I’ve
+till I’ve collected the money, and some new boys too, I [[Hope|hope]]. I’ve
 brought little Wackford up, on purpose to show to parents and
-guardians. I shall put him in the advertisement, this time. Look at that
+guardians. I shall put him in the advertisement, this [[Time|time]]. Look at that
 boy--himself a pupil. Why he’s a miracle of high feeding, that boy is!’
 
 ‘I should like to have a word with you,’ said Ralph, who had both
-spoken and listened mechanically for some time, and seemed to have been
+spoken and listened mechanically for some [[Time|time]], and seemed to have been
 thinking.
 
 ‘As many words as you like, sir,’ rejoined Squeers. ‘Wackford, you go
@@ -648,7 +648,7 @@ compensation--’
 ‘Ah!’ cried Ralph, interrupting him. ‘You needn’t go on.’
 
 After a long pause, during which Ralph appeared absorbed in
-contemplation, he again broke silence by asking:
+contemplation, he again broke [[Silence|silence]] by asking:
 
 ‘Who is this boy that he took with him?’
 
@@ -662,39 +662,39 @@ you know.’
 
 ‘That is, he was not a boy at all, I suppose?’ interrupted Ralph.
 
-‘Well,’ returned Squeers, briskly, as if he felt relieved by the
+‘[[Well]],’ returned Squeers, briskly, as if he felt relieved by the
 suggestion, ‘he might have been nigh twenty. He wouldn’t seem so old,
 though, to them as didn’t know him, for he was a little wanting here,’
-touching his forehead; ‘nobody at home, you know, if you knocked ever so
+touching his forehead; ‘nobody at [[Home|home]], you know, if you knocked ever so
 often.’
 
 ‘And you DID knock pretty often, I dare say?’ muttered Ralph.
 
-‘Pretty well,’ returned Squeers with a grin.
+‘Pretty [[Well|well]],’ returned Squeers with a grin.
 
 ‘When you wrote to acknowledge the receipt of this trifle of money as
 you call it,’ said Ralph, ‘you told me his friends had deserted him long
 ago, and that you had not the faintest clue or trace to tell you who he
-was. Is that the truth?’
+was. Is that the [[Truth|truth]]?’
 
 ‘It is, worse luck!’ replied Squeers, becoming more and more easy and
 familiar in his manner, as Ralph pursued his inquiries with the less
 reserve. ‘It’s fourteen years ago, by the entry in my book, since a
-strange man brought him to my place, one autumn night, and left him
+strange man brought him to my place, one [[Autumn|autumn]] [[Night|night]], and left him
 there; paying five pound five, for his first quarter in advance. He
-might have been five or six year old at that time--not more.’
+might have been five or six year old at that [[Time|time]]--not more.’
 
 ‘What more do you know about him?’ demanded Ralph.
 
 ‘Devilish little, I’m sorry to say,’ replied Squeers. ‘The money was
 paid for some six or eight year, and then it stopped. He had given an
-address in London, had this chap; but when it came to the point, of
+address in [[London]], had this chap; but when it came to the point, of
 course nobody knowed anything about him. So I kept the lad out of--out
 of--’
 
-‘Charity?’ suggested Ralph drily.
+‘[[Charity]]?’ suggested Ralph drily.
 
-‘Charity, to be sure,’ returned Squeers, rubbing his knees, ‘and when he
+‘[[Charity]], to be sure,’ returned Squeers, rubbing his knees, ‘and when he
 begins to be useful in a certain sort of way, this young scoundrel of
 a Nickleby comes and carries him off. But the most vexatious and
 aggeravating part of the whole affair is,’ said Squeers, dropping his
@@ -705,7 +705,7 @@ all arrears paid up, perhaps, and perhaps--who knows? such things have
 happened in our business before--a present besides for putting him out
 to a farmer, or sending him to sea, so that he might never turn up to
 disgrace his parents, supposing him to be a natural boy, as many of our
-boys are--damme, if that villain of a Nickleby don’t collar him in open
+boys are--damme, if that [[Villain|villain]] of a Nickleby don’t collar him in open
 day, and commit as good as highway robbery upon my pocket.’
 
 ‘We will both cry quits with him before long,’ said Ralph, laying his
@@ -716,7 +716,7 @@ in his favour, to be settled when he can. I only wish Mrs. Squeers could
 catch hold of him. Bless her heart! She’d murder him, Mr. Nickleby--she
 would, as soon as eat her dinner.’
 
-‘We will talk of this again,’ said Ralph. ‘I must have time to think of
+‘We will talk of this again,’ said Ralph. ‘I must have [[Time|time]] to think of
 it. To wound him through his own affections and fancies--. If I could
 strike him through this boy--’
 
@@ -725,8 +725,8 @@ enough, that’s all--and with that, I’ll say good-morning. Here!--just
 chuck that little boy’s hat off that corner peg, and lift him off the
 stool will you?’
 
-Bawling these requests to Newman Noggs, Mr. Squeers betook himself to the
-little back-office, and fitted on his child’s hat with parental anxiety,
+Bawling these requests to [[Newman Noggs]], Mr. Squeers betook himself to the
+little back-office, and fitted on his [[Child|child]]’s hat with parental anxiety,
 while Newman, with his pen behind his ear, sat, stiff and immovable, on
 his stool, regarding the father and son by turns with a broad stare.
 
@@ -736,7 +736,7 @@ proportions of little Wackford.
 
 ‘Very,’ said Newman.
 
-‘Pretty well swelled out, an’t he?’ pursued Squeers. ‘He has the fatness
+‘Pretty [[Well|well]] swelled out, an’t he?’ pursued Squeers. ‘He has the fatness
 of twenty boys, he has.’
 
 ‘Ah!’ replied Newman, suddenly thrusting his face into that of Squeers,
@@ -757,7 +757,7 @@ own; so, Mr. Squeers comforted himself by saying that he was both drunk
 AND mad; and, with this parting observation, he led his hopeful son
 away.
 
-In exact proportion as Ralph Nickleby became conscious of a struggling
+In exact proportion as [[Ralph Nickleby]] became conscious of a struggling
 and lingering regard for Kate, had his detestation of Nicholas
 augmented. It might be, that to atone for the weakness of inclining to
 any one person, he held it necessary to hate some other more intensely
@@ -772,17 +772,17 @@ quiet and stealthy malignity to such a pitch, that there was scarcely
 anything he would not have hazarded to gratify it, if he could have seen
 his way to some immediate retaliation.
 
-But, fortunately for Nicholas, Ralph Nickleby did not; and although he
+But, fortunately for Nicholas, [[Ralph Nickleby]] did not; and although he
 cast about all that day, and kept a corner of his brain working on the
 one anxious subject through all the round of schemes and business that
-came with it, night found him at last, still harping on the same theme,
+came with it, [[Night|night]] found him at last, still harping on the same theme,
 and still pursuing the same unprofitable reflections.
 
 ‘When my brother was such as he,’ said Ralph, ‘the first comparisons
 were drawn between us--always in my disfavour. HE was open, liberal,
-gallant, gay; I a crafty hunks of cold and stagnant blood, with no
-passion but love of saving, and no spirit beyond a thirst for gain. I
-recollected it well when I first saw this whipster; but I remember it
+gallant, gay; I a crafty hunks of cold and stagnant [[Blood|blood]], with no
+passion but [[Love|love]] of saving, and no spirit beyond a thirst for gain. I
+recollected it [[Well|well]] when I first saw this whipster; but I remember it
 better now.’
 
 He had been occupied in tearing Nicholas’s letter into atoms; and as he
@@ -793,5 +793,5 @@ upon me--when I resign myself to them--in crowds, and from countless
 quarters. As a portion of the world affect to despise the power of
 money, I must try and show them what it is.’
 
-And being, by this time, in a pleasant frame of mind for slumber, Ralph
+And being, by this [[Time|time]], in a pleasant frame of mind for slumber, Ralph
 Nickleby went to bed.

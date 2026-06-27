@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 16"
+title: "[[Nicholas Nickleby]] — Chapter 16"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -22,30 +22,30 @@ unsuccessful, accepts an engagement as Tutor in a Private Family
 
 The first care of Nicholas, next morning, was, to look after some room
 in which, until better times dawned upon him, he could contrive to
-exist, without trenching upon the hospitality of Newman Noggs, who would
+exist, without trenching upon the hospitality of [[Newman Noggs]], who would
 have slept upon the stairs with pleasure, so that his young friend was
 accommodated.
 
-The vacant apartment to which the bill in the parlour window bore
+The vacant apartment to which the bill in the parlour [[Window|window]] bore
 reference, appeared, on inquiry, to be a small back-room on the second
 floor, reclaimed from the leads, and overlooking a soot-bespeckled
 prospect of tiles and chimney-pots. For the letting of this portion of
-the house from week to week, on reasonable terms, the parlour lodger was
+the [[house]] from week to week, on reasonable terms, the parlour lodger was
 empowered to treat; he being deputed by the landlord to dispose of
 the rooms as they became vacant, and to keep a sharp look-out that the
 lodgers didn’t run away. As a means of securing the punctual discharge
 of which last service he was permitted to live rent-free, lest he should
-at any time be tempted to run away himself.
+at any [[Time|time]] be tempted to run away himself.
 
 Of this chamber, Nicholas became the tenant; and having hired a few
 common articles of furniture from a neighbouring broker, and paid
 the first week’s hire in advance, out of a small fund raised by the
-conversion of some spare clothes into ready money, he sat himself down
+[[Conversion|conversion]] of some spare clothes into ready money, he sat himself down
 to ruminate upon his prospects, which, like the prospect outside his
-window, were sufficiently confined and dingy. As they by no means
+[[Window|window]], were sufficiently confined and dingy. As they by no means
 improved on better acquaintance, and as familiarity breeds contempt, he
 resolved to banish them from his thoughts by dint of hard walking. So,
-taking up his hat, and leaving poor Smike to arrange and rearrange the
+taking up his hat, and leaving poor [[Smike]] to arrange and rearrange the
 room with as much delight as if it had been the costliest palace, he
 betook himself to the streets, and mingled with the crowd which thronged
 them.
@@ -62,11 +62,11 @@ with his own, and gliding almost imperceptibly back into his old train
 of thought again.
 
 Occupied in these reflections, as he was making his way along one of the
-great public thoroughfares of London, he chanced to raise his eyes to
+great public thoroughfares of [[London]], he chanced to raise his eyes to
 a blue board, whereon was inscribed, in characters of gold, ‘General
 Agency Office; for places and situations of all kinds inquire within.’
 It was a shop-front, fitted up with a gauze blind and an inner door;
-and in the window hung a long and tempting array of written placards,
+and in the [[Window|window]] hung a long and tempting array of written placards,
 announcing vacant places of every grade, from a secretary’s to a
 foot-boy’s.
 
@@ -79,11 +79,11 @@ his mind, and stepped in.
 
 He found himself in a little floor-clothed room, with a high desk railed
 off in one corner, behind which sat a lean youth with cunning eyes and a
-protruding chin, whose performances in capital-text darkened the window.
+protruding chin, whose performances in capital-text darkened the [[Window|window]].
 He had a thick ledger lying open before him, and with the fingers of his
-right hand inserted between the leaves, and his eyes fixed on a very
+right hand inserted between the [[Leaves|leaves]], and his eyes fixed on a very
 fat old lady in a mob-cap--evidently the proprietress of the
-establishment--who was airing herself at the fire, seemed to be only
+establishment--who was airing herself at the [[Fire|fire]], seemed to be only
 waiting her directions to refer to some entries contained within its
 rusty clasps.
 
@@ -94,14 +94,14 @@ women, each with pattens and an umbrella, who were sitting upon a form
 in one corner, were in attendance for that purpose: especially as the
 poor things looked anxious and weary. He was not quite so certain of the
 callings and stations of two smart young ladies who were in conversation
-with the fat lady before the fire, until--having sat himself down in a
+with the fat lady before the [[Fire|fire]], until--having sat himself down in a
 corner, and remarked that he would wait until the other customers had
 been served--the fat lady resumed the dialogue which his entrance had
 interrupted.
 
 ‘Cook, Tom,’ said the fat lady, still airing herself as aforesaid.
 
-‘Cook,’ said Tom, turning over some leaves of the ledger. ‘Well!’
+‘Cook,’ said Tom, turning over some [[Leaves|leaves]] of the ledger. ‘[[Well]]!’
 
 ‘Read out an easy place or two,’ said the fat lady.
 
@@ -127,15 +127,15 @@ guineas. No tea, no sugar. Serious family--“’
 
 ‘Three serious footmen,’ replied Tom. ‘“Cook, housemaid, and nursemaid;
 each female servant required to join the Little Bethel Congregation
-three times every Sunday--with a serious footman. If the cook is more
+three times every [[Sunday]]--with a serious footman. If the cook is more
 serious than the footman, she will be expected to improve the footman;
 if the footman is more serious than the cook, he will be expected to
 improve the cook.”’
 
 ‘I’ll take the address of that place,’ said the client; ‘I don’t know
-but what it mightn’t suit me pretty well.’
+but what it mightn’t suit me pretty [[Well|well]].’
 
-‘Here’s another,’ remarked Tom, turning over the leaves. ‘“Family of Mr
+‘Here’s another,’ remarked Tom, turning over the [[Leaves|leaves]]. ‘“Family of Mr
 Gallanbile, MP. Fifteen guineas, tea and sugar, and servants allowed
 to see male cousins, if godly. Note. Cold dinner in the kitchen on the
 Sabbath, Mr. Gallanbile being devoted to the Observance question. No
@@ -144,7 +144,7 @@ for Mr. and Mrs. Gallanbile, which, being a work of piety and necessity,
 is exempted. Mr. Gallanbile dines late on the day of rest, in order to
 prevent the sinfulness of the cook’s dressing herself.”’
 
-‘I don’t think that’ll answer as well as the other,’ said the client,
+‘I don’t think that’ll answer as [[Well|well]] as the other,’ said the client,
 after a little whispering with her friend. ‘I’ll take the other
 direction, if you please, young man. I can but come back again, if it
 don’t do.’
@@ -163,7 +163,7 @@ delicate figure, but exquisitely shaped, who, walking timidly up to the
 desk, made an inquiry, in a very low tone of voice, relative to some
 situation as governess, or companion to a lady. She raised her veil, for
 an instant, while she preferred the inquiry, and disclosed a countenance
-of most uncommon beauty, though shaded by a cloud of sadness, which, in
+of most uncommon [[Beauty|beauty]], though shaded by a cloud of sadness, which, in
 one so young, was doubly remarkable. Having received a card of reference
 to some person on the books, she made the usual acknowledgment, and
 glided away.
@@ -188,7 +188,7 @@ book-keeper.
 
 ‘When is she coming again, Tom?’ asked the fat lady.
 
-‘Tomorrow morning,’ replied Tom, mending his pen.
+‘Tomorrow morning,’ replied Tom, [[mending]] his pen.
 
 ‘Where have you sent her to?’ asked the fat lady.
 
@@ -209,7 +209,7 @@ such post to be had, as secretary or amanuensis to a gentleman.
 
 ‘I should think so,’ answered that young gentleman; and as he said it,
 he winked towards Nicholas, with a degree of familiarity which he,
-no doubt, intended for a rather flattering compliment, but with which
+no [[Doubt|doubt]], intended for a rather flattering compliment, but with which
 Nicholas was most ungratefully disgusted.
 
 Upon reference to the book, it appeared that the dozen secretaryships
@@ -254,11 +254,11 @@ be those of the beautiful girl he had seen, Nicholas, with many wrong
 turns, and many inquiries, and almost as many misdirections, bent his
 steps towards the place whither he had been directed.
 
-Within the precincts of the ancient city of Westminster, and within
+Within the precincts of the ancient [[City|city]] of Westminster, and within
 half a quarter of a mile of its ancient sanctuary, is a narrow and dirty
 region, the sanctuary of the smaller members of Parliament in modern
 days. It is all comprised in one street of gloomy lodging-houses, from
-whose windows, in vacation-time, there frown long melancholy rows of
+whose windows, in vacation-[[Time|time]], there frown long [[Melancholy|melancholy]] rows of
 bills, which say, as plainly as did the countenances of their occupiers,
 ranged on ministerial and opposition benches in the session which
 slumbers with its fathers, ‘To Let’, ‘To Let’. In busier periods of the
@@ -268,11 +268,11 @@ the third, in the garrets; the small apartments reek with the breath of
 deputations and delegates. In damp weather, the place is rendered close,
 by the steams of moist acts of parliament and frouzy petitions; general
 postmen grow faint as they enter its infected limits, and shabby figures
-in quest of franks, flit restlessly to and fro like the troubled ghosts
+in [[Quest|quest]] of franks, flit restlessly to and fro like the troubled [[Ghosts|ghosts]]
 of Complete Letter-writers departed. This is Manchester Buildings; and
-here, at all hours of the night, may be heard the rattling of latch-keys
-in their respective keyholes: with now and then--when a gust of wind
-sweeping across the water which washes the Buildings’ feet, impels the
+here, at all hours of the [[Night|night]], may be heard the rattling of latch-keys
+in their respective keyholes: with now and then--when a gust of [[Wind|wind]]
+sweeping across the [[Water|water]] which washes the Buildings’ feet, impels the
 sound towards its entrance--the weak, shrill voice of some young member
 practising tomorrow’s speech. All the livelong day, there is a grinding
 of organs and clashing and clanging of little boxes of music; for
@@ -287,7 +287,7 @@ wiser, no richer, not one whit more famous, than they went in.
 
 Into Manchester Buildings Nicholas turned, with the address of the great
 Mr. Gregsbury in his hand. As there was a stream of people pouring into
-a shabby house not far from the entrance, he waited until they had made
+a shabby [[house]] not far from the entrance, he waited until they had made
 their way in, and then making up to the servant, ventured to inquire if
 he knew where Mr. Gregsbury lived.
 
@@ -295,16 +295,16 @@ The servant was a very pale, shabby boy, who looked as if he had slept
 underground from his infancy, as very likely he had. ‘Mr. Gregsbury?’
 said he; ‘Mr. Gregsbury lodges here. It’s all right. Come in!’
 
-Nicholas thought he might as well get in while he could, so in he
+Nicholas thought he might as [[Well|well]] get in while he could, so in he
 walked; and he had no sooner done so, than the boy shut the door, and
 made off.
 
 This was odd enough: but what was more embarrassing was, that all along
-the passage, and all along the narrow stairs, blocking up the window,
+the passage, and all along the narrow stairs, blocking up the [[Window|window]],
 and making the dark entry darker still, was a confused crowd of
 persons with great importance depicted in their looks; who were, to all
 appearance, waiting in silent expectation of some coming event. From
-time to time, one man would whisper to his neighbour, or a little group
+[[Time|time]] to [[Time|time]], one man would whisper to his neighbour, or a little group
 would whisper together, and then the whisperers would nod fiercely to
 each other, or give their heads a relentless shake, as if they were bent
 upon doing something very desperate, and were determined not to be put
@@ -331,7 +331,7 @@ apartment.
 ‘Gentlemen,’ said Mr. Gregsbury, ‘you are welcome. I am rejoiced to see
 you.’
 
-For a gentleman who was rejoiced to see a body of visitors, Mr. Gregsbury
+For a gentleman who was rejoiced to see a [[Body|body]] of visitors, Mr. Gregsbury
 looked as uncomfortable as might be; but perhaps this was occasioned by
 senatorial gravity, and a statesmanlike habit of keeping his feelings
 under control. He was a tough, burly, thick-headed gentleman, with a
@@ -362,18 +362,18 @@ imperatively necessary.’
 ‘My conduct, Pugstyles,’ said Mr. Gregsbury, looking round upon the
 deputation with gracious magnanimity--‘my conduct has been, and ever
 will be, regulated by a sincere regard for the true and real interests
-of this great and happy country. Whether I look at home, or abroad;
+of this great and happy country. Whether I look at [[Home|home]], or abroad;
 whether I behold the peaceful industrious communities of our island
-home: her rivers covered with steamboats, her roads with locomotives,
+[[Home|home]]: her rivers covered with steamboats, her roads with locomotives,
 her streets with cabs, her skies with balloons of a power and magnitude
-hitherto unknown in the history of aeronautics in this or any other
-nation--I say, whether I look merely at home, or, stretching my
+hitherto unknown in the [[history]] of aeronautics in this or any other
+nation--I say, whether I look merely at [[Home|home]], or, stretching my
 eyes farther, contemplate the boundless prospect of conquest and
 possession--achieved by British perseverance and British valour--which
 is outspread before me, I clasp my hands, and turning my eyes to the
 broad expanse above my head, exclaim, “Thank Heaven, I am a Briton!”’
 
-The time had been, when this burst of enthusiasm would have been cheered
+The [[Time|time]] had been, when this burst of enthusiasm would have been cheered
 to the very echo; but now, the deputation received it with chilling
 coldness. The general impression seemed to be, that as an explanation
 of Mr. Gregsbury’s political conduct, it did not enter quite enough into
@@ -386,12 +386,12 @@ to me. If it means that I grow a little too fervid, or perhaps even
 hyperbolical, in extolling my native land, I admit the full justice of
 the remark. I AM proud of this free and happy country. My form dilates,
 my eye glistens, my breast heaves, my heart swells, my bosom burns, when
-I call to mind her greatness and her glory.’
+I call to mind her [[Greatness|greatness]] and her glory.’
 
 ‘We wish, sir,’ remarked Mr. Pugstyles, calmly, ‘to ask you a few
 questions.’
 
-‘If you please, gentlemen; my time is yours--and my country’s--and my
+‘If you please, gentlemen; my [[Time|time]] is yours--and my country’s--and my
 country’s--’ said Mr. Gregsbury.
 
 This permission being conceded, Mr. Pugstyles put on his spectacles, and
@@ -404,10 +404,10 @@ This done, Mr. Pugstyles proceeded to business.
 ‘Question number one.--Whether, sir, you did not give a voluntary pledge
 previous to your election, that in event of your being returned, you
 would immediately put down the practice of coughing and groaning in
-the House of Commons. And whether you did not submit to be coughed and
-groaned down in the very first debate of the session, and have since
-made no effort to effect a reform in this respect? Whether you did not
-also pledge yourself to astonish the government, and make them shrink in
+the [[house|House]] of Commons. And whether you did not submit to be coughed and
+groaned down in the very first [[debate]] of the session, and have since
+made no effort to effect a [[Reform|reform]] in this respect? Whether you did not
+also pledge yourself to astonish the [[government]], and make them shrink in
 their shoes? And whether you have astonished them, and made them shrink
 in their shoes, or not?’
 
@@ -425,7 +425,7 @@ of inquiries.
 
 ‘Question number two.--Whether, sir, you did not likewise give a
 voluntary pledge that you would support your colleague on every
-occasion; and whether you did not, the night before last, desert him
+occasion; and whether you did not, the [[Night|night]] before last, [[Desert|desert]] him
 and vote upon the other side, because the wife of a leader on that other
 side had invited Mrs. Gregsbury to an evening party?’
 
@@ -434,7 +434,7 @@ side had invited Mrs. Gregsbury to an evening party?’
 ‘Nothing to say on that, either, sir?’ asked the spokesman.
 
 ‘Nothing whatever,’ replied Mr. Gregsbury. The deputation, who had
-only seen him at canvassing or election time, were struck dumb by his
+only seen him at canvassing or election [[Time|time]], were struck dumb by his
 coolness. He didn’t appear like the same man; then he was all milk and
 honey; now he was all starch and vinegar. But men ARE so different at
 different times!
@@ -442,7 +442,7 @@ different times!
 ‘Question number three--and last,’ said Mr. Pugstyles, emphatically.
 ‘Whether, sir, you did not state upon the hustings, that it was your
 firm and determined intention to oppose everything proposed; to divide
-the house upon every question, to move for returns on every subject,
+the [[house]] upon every question, to move for returns on every subject,
 to place a motion on the books every day, and, in short, in your own
 memorable words, to play the very devil with everything and everybody?’
 With this comprehensive inquiry, Mr. Pugstyles folded up his list of
@@ -456,11 +456,11 @@ everything.’
 
 At this unexpected answer, a hoarse murmur arose from the deputation;
 and the same gentleman who had expressed an opinion relative to the
-gammoning nature of the introductory speech, again made a monosyllabic
+gammoning [[Nature|nature]] of the introductory speech, again made a monosyllabic
 demonstration, by growling out ‘Resign!’ Which growl being taken up by
 his fellows, swelled into a very earnest and general remonstrance.
 
-‘I am requested, sir, to express a hope,’ said Mr. Pugstyles, with a
+‘I am requested, sir, to express a [[Hope|hope]],’ said Mr. Pugstyles, with a
 distant bow, ‘that on receiving a requisition to that effect from a
 great majority of your constituents, you will not object at once to
 resign your seat in favour of some candidate whom they think they can
@@ -475,7 +475,7 @@ been made to send round to the newspapers.
 ‘Next to the welfare of our beloved island--this great and free and
 happy country, whose powers and resources are, I sincerely believe,
 illimitable--I value that noble independence which is an Englishman’s
-proudest boast, and which I fondly hope to bequeath to my children,
+proudest boast, and which I fondly [[Hope|hope]] to bequeath to my children,
 untarnished and unsullied. Actuated by no personal motives, but moved
 only by high and great constitutional considerations; which I will not
 attempt to explain, for they are really beneath the comprehension of
@@ -484,7 +484,7 @@ and arduous study of politics; I would rather keep my seat, and intend
 doing so.
 
 ‘Will you do me the favour to present my compliments to the constituent
-body, and acquaint them with this circumstance?
+[[Body|body]], and acquaint them with this circumstance?
 
 ‘With great esteem, ‘My dear Mr. Pugstyles, ‘&c.&c.’
 
@@ -501,9 +501,9 @@ staircase would allow of their getting down.
 
 The last man being gone, Mr. Gregsbury rubbed his hands and chuckled, as
 merry fellows will, when they think they have said or done a more than
-commonly good thing; he was so engrossed in this self-congratulation,
-that he did not observe that Nicholas had been left behind in the shadow
-of the window-curtains, until that young gentleman, fearing he might
+commonly good thing; he was so engrossed in this [[Self|self]]-congratulation,
+that he did not observe that Nicholas had been left behind in the [[Shadow|shadow]]
+of the [[Window|window]]-curtains, until that young gentleman, fearing he might
 otherwise overhear some soliloquy intended to have no listeners, coughed
 twice or thrice, to attract the member’s notice.
 
@@ -527,7 +527,7 @@ Nicholas, ‘wishing to offer myself as your secretary, and understanding
 that you stood in need of one.’
 
 ‘That’s all you have come for, is it?’ said Mr. Gregsbury, eyeing him in
-some doubt.
+some [[Doubt|doubt]].
 
 Nicholas replied in the affirmative.
 
@@ -544,7 +544,7 @@ Nicholas related how he had been forced up by the deputation.
 
 ‘That was the way, was it?’ said Mr. Gregsbury. ‘Sit down.’
 
-Nicholas took a chair, and Mr. Gregsbury stared at him for a long time,
+Nicholas took a chair, and Mr. Gregsbury stared at him for a long [[Time|time]],
 as if to make certain, before he asked any further questions, that there
 were no objections to his outward appearance.
 
@@ -552,7 +552,7 @@ were no objections to his outward appearance.
 
 ‘I wish to be employed in that capacity, sir,’ replied Nicholas.
 
-‘Well,’ said Mr. Gregsbury; ‘now what can you do?’
+‘[[Well]],’ said Mr. Gregsbury; ‘now what can you do?’
 
 ‘I suppose,’ replied Nicholas, smiling, ‘that I can do what usually
 falls to the lot of other secretaries.’
@@ -587,14 +587,14 @@ as he can, consistently with his own respectability, and without
 overstepping that line of duties which he undertakes to perform, and
 which the designation of his office is usually understood to imply.’
 
-Mr. Gregsbury looked fixedly at Nicholas for a short time, and then
+Mr. Gregsbury looked fixedly at Nicholas for a short [[Time|time]], and then
 glancing warily round the room, said in a suppressed voice:
 
-‘This is all very well, Mr--what is your name?’
+‘This is all very [[Well|well]], Mr--what is your name?’
 
 ‘Nickleby.’
 
-‘This is all very well, Mr. Nickleby, and very proper, so far as it
+‘This is all very [[Well|well]], Mr. Nickleby, and very proper, so far as it
 goes--so far as it goes, but it doesn’t go far enough. There are other
 duties, Mr. Nickleby, which a secretary to a parliamentary gentleman must
 never lose sight of. I should require to be crammed, sir.’
@@ -620,9 +620,9 @@ anything of that kind. Do you understand?’
 
 ‘Then,’ said Mr. Gregsbury, ‘it would be necessary for him to make
 himself acquainted, from day to day, with newspaper paragraphs on
-passing events; such as “Mysterious disappearance, and supposed suicide
+passing events; such as “Mysterious disappearance, and supposed [[suicide]]
 of a potboy,” or anything of that sort, upon which I might found a
-question to the Secretary of State for the Home Department. Then, he
+question to the Secretary of State for the [[Home]] Department. Then, he
 would have to copy the question, and as much as I remembered of the
 answer (including a little compliment about independence and good
 sense); and to send the manuscript in a frank to the local paper, with
@@ -634,11 +634,11 @@ Nicholas bowed.
 
 ‘Besides which,’ continued Mr. Gregsbury, ‘I should expect him, now and
 then, to go through a few figures in the printed tables, and to pick
-out a few results, so that I might come out pretty well on timber duty
+out a few results, so that I might come out pretty [[Well|well]] on timber duty
 questions, and finance questions, and so on; and I should like him to
 get up a few little arguments about the disastrous effects of a return
 to cash payments and a metallic currency, with a touch now and then
-about the exportation of bullion, and the Emperor of Russia, and bank
+about the exportation of bullion, and the Emperor of [[Russia]], and bank
 notes, and all that kind of thing, which it’s only necessary to talk
 fluently about, because nobody understands it. Do you take me?’
 
@@ -647,7 +647,7 @@ fluently about, because nobody understands it. Do you take me?’
 ‘With regard to such questions as are not political,’ continued Mr
 Gregsbury, warming; ‘and which one can’t be expected to care a curse
 about, beyond the natural care of not allowing inferior people to be as
-well off as ourselves--else where are our privileges?--I should wish
+[[Well|well]] off as ourselves--else where are our privileges?--I should wish
 my secretary to get together a few little flourishing speeches, of a
 patriotic cast. For instance, if any preposterous bill were brought
 forward, for giving poor grubbing devils of authors a right to their own
@@ -659,18 +659,18 @@ brain, being God’s, ought as a matter of course to belong to the people
 at large--and if I was pleasantly disposed, I should like to make a joke
 about posterity, and say that those who wrote for posterity should be
 content to be rewarded by the approbation OF posterity; it might take
-with the house, and could never do me any harm, because posterity can’t
+with the [[house]], and could never do me any harm, because posterity can’t
 be expected to know anything about me or my jokes either--do you see?’
 
 ‘I see that, sir,’ replied Nicholas.
 
 ‘You must always bear in mind, in such cases as this, where our
 interests are not affected,’ said Mr. Gregsbury, ‘to put it very strong
-about the people, because it comes out very well at election-time; and
+about the people, because it comes out very [[Well|well]] at election-[[Time|time]]; and
 you could be as funny as you liked about the authors; because I believe
 the greater part of them live in lodgings, and are not voters. This is
 a hasty outline of the chief things you’d have to do, except waiting in
-the lobby every night, in case I forgot anything, and should want fresh
+the lobby every [[Night|night]], in case I forgot anything, and should want fresh
 cramming; and, now and then, during great debates, sitting in the
 front row of the gallery, and saying to the people about--‘You see that
 gentleman, with his hand to his face, and his arm twisted round the
@@ -693,13 +693,13 @@ Gregsbury. ‘Fifteen shillings a--’
 ‘Pray do not suppose that I quarrel with the sum, sir,’ replied
 Nicholas; ‘for I am not ashamed to confess, that whatever it may be in
 itself, to me it is a great deal. But the duties and responsibilities
-make the recompense small, and they are so very heavy that I fear to
+make the recompense small, and they are so very heavy that I [[Fear|fear]] to
 undertake them.’
 
 ‘Do you decline to undertake them, sir?’ inquired Mr. Gregsbury, with his
 hand on the bell-rope.
 
-‘I fear they are too great for my powers, however good my will may be,
+‘I [[Fear|fear]] they are too great for my powers, however good my will may be,
 sir,’ replied Nicholas.
 
 ‘That is as much as to say that you had rather not accept the place,
@@ -723,17 +723,17 @@ The boy beckoned Nicholas, and tumbling lazily downstairs before him,
 opened the door, and ushered him into the street. With a sad and pensive
 air, he retraced his steps homewards.
 
-Smike had scraped a meal together from the remnant of last night’s
+[[Smike]] had scraped a meal together from the remnant of last [[Night|night]]’s
 supper, and was anxiously awaiting his return. The occurrences of the
 morning had not improved Nicholas’s appetite, and, by him, the dinner
 remained untasted. He was sitting in a thoughtful attitude, with the
 plate which the poor fellow had assiduously filled with the choicest
-morsels, untouched, by his side, when Newman Noggs looked into the room.
+morsels, untouched, by his side, when [[Newman Noggs]] looked into the room.
 
 ‘Come back?’ asked Newman.
 
-‘Yes,’ replied Nicholas, ‘tired to death: and, what is worse, might have
-remained at home for all the good I have done.’
+‘Yes,’ replied Nicholas, ‘tired to [[Death|death]]: and, what is worse, might have
+remained at [[Home|home]] for all the good I have done.’
 
 ‘Couldn’t expect to do much in one morning,’ said Newman.
 
@@ -742,7 +742,7 @@ proportionately disappointed.’ Saying which, he gave Newman an account
 of his proceedings.
 
 ‘If I could do anything,’ said Nicholas, ‘anything, however slight,
-until Ralph Nickleby returns, and I have eased my mind by confronting
+until [[Ralph Nickleby]] returns, and I have eased my mind by confronting
 him, I should feel happier. I should think it no disgrace to work,
 Heaven knows. Lying indolently here, like a half-tamed sullen beast,
 distracts me.’
@@ -752,12 +752,12 @@ rent, and more--but you wouldn’t like them; no, you could hardly be
 expected to undergo it--no, no.’
 
 ‘What could I hardly be expected to undergo?’ asked Nicholas, raising
-his eyes. ‘Show me, in this wide waste of London, any honest means by
+his eyes. ‘Show me, in this wide waste of [[London]], any honest means by
 which I could even defray the weekly hire of this poor room, and see if
 I shrink from resorting to them! Undergo! I have undergone too much,
-my friend, to feel pride or squeamishness now. Except--’ added Nicholas
-hastily, after a short silence, ‘except such squeamishness as is common
-honesty, and so much pride as constitutes self-respect. I see little
+my friend, to feel [[Pride|pride]] or squeamishness now. Except--’ added Nicholas
+hastily, after a short [[Silence|silence]], ‘except such squeamishness as is common
+honesty, and so much [[Pride|pride]] as constitutes [[Self|self]]-respect. I see little
 to choose, between assistant to a brutal pedagogue, and toad-eater to a
 mean and ignorant upstart, be he member or no member.’
 
@@ -782,13 +782,13 @@ long as he could, but being, at length, hard pressed and driven into a
 corner, had gone so far as to admit, that Nicholas was a tutor of
 great accomplishments, involved in some misfortunes which he was not at
 liberty to explain, and bearing the name of Johnson. That Mrs. Kenwigs,
-impelled by gratitude, or ambition, or maternal pride, or maternal love,
+impelled by gratitude, or [[Ambition|ambition]], or maternal [[Pride|pride]], or maternal [[Love|love]],
 or all four powerful motives conjointly, had taken secret conference
 with Mr. Kenwigs, and had finally returned to propose that Mr. Johnson
 should instruct the four Miss Kenwigses in the French language as spoken
 by natives, at the weekly stipend of five shillings, current coin of
 the realm; being at the rate of one shilling per week, per each Miss
-Kenwigs, and one shilling over, until such time as the baby might be
+Kenwigs, and one shilling over, until such [[Time|time]] as the baby might be
 able to take it out in grammar.
 
 ‘Which, unless I am very much mistaken,’ observed Mrs. Kenwigs in making
@@ -816,28 +816,28 @@ sense of the word, a young man of high spirit. He would resent an
 affront to himself, or interpose to redress a wrong offered to another,
 as boldly and freely as any knight that ever set lance in rest; but he
 lacked that peculiar excess of coolness and great-minded selfishness,
-which invariably distinguish gentlemen of high spirit. In truth, for our
+which invariably distinguish gentlemen of high spirit. In [[Truth|truth]], for our
 own part, we are disposed to look upon such gentleman as being rather
 incumbrances than otherwise in rising families: happening to be
 acquainted with several whose spirit prevents their settling down to
 any grovelling occupation, and only displays itself in a tendency to
 cultivate moustachios, and look fierce; and although moustachios and
 ferocity are both very pretty things in their way, and very much to be
-commended, we confess to a desire to see them bred at the owner’s proper
+commended, we confess to a [[Desire|desire]] to see them bred at the owner’s proper
 cost, rather than at the expense of low-spirited people.
 
 Nicholas, therefore, not being a high-spirited young man according to
 common parlance, and deeming it a greater degradation to borrow, for the
-supply of his necessities, from Newman Noggs, than to teach French to
+supply of his necessities, from [[Newman Noggs]], than to teach French to
 the little Kenwigses for five shillings a week, accepted the offer with
 the alacrity already described, and betook himself to the first floor
-with all convenient speed.
+with all convenient [[Speed|speed]].
 
 Here, he was received by Mrs. Kenwigs with a genteel air, kindly intended
 to assure him of her protection and support; and here, too, he found Mr
 Lillyvick and Miss Petowker; the four Miss Kenwigses on their form of
-audience; and the baby in a dwarf porter’s chair with a deal tray before
-it, amusing himself with a toy horse without a head; the said horse
+audience; and the baby in a [[Dwarf|dwarf]] porter’s chair with a deal tray before
+it, amusing himself with a toy [[Horse|horse]] without a head; the said [[Horse|horse]]
 being composed of a small wooden cylinder, not unlike an Italian iron,
 supported on four crooked pegs, and painted in ingenious resemblance of
 red wafers set in blacking.
@@ -845,7 +845,7 @@ red wafers set in blacking.
 ‘How do you do, Mr. Johnson?’ said Mrs. Kenwigs. ‘Uncle--Mr. Johnson.’
 
 ‘How do you do, sir?’ said Mr. Lillyvick--rather sharply; for he had not
-known what Nicholas was, on the previous night, and it was rather an
+known what Nicholas was, on the previous [[Night|night]], and it was rather an
 aggravating circumstance if a tax collector had been too polite to a
 teacher.
 
@@ -854,17 +854,17 @@ Mrs. Kenwigs.
 
 ‘So you said just now, my dear,’ replied Mr. Lillyvick.
 
-‘But I hope,’ said Mrs. Kenwigs, drawing herself up, ‘that that will not
+‘But I [[Hope|hope]],’ said Mrs. Kenwigs, drawing herself up, ‘that that will not
 make them proud; but that they will bless their own good fortune,
 which has born them superior to common people’s children. Do you hear,
 Morleena?’
 
 ‘Yes, ma,’ replied Miss Kenwigs.
 
-‘And when you go out in the streets, or elsewhere, I desire that you
+‘And when you go out in the streets, or elsewhere, I [[Desire|desire]] that you
 don’t boast of it to the other children,’ said Mrs. Kenwigs; ‘and that if
 you must say anything about it, you don’t say no more than “We’ve got a
-private master comes to teach us at home, but we ain’t proud, because ma
+private master comes to teach us at [[Home|home]], but we ain’t proud, because ma
 says it’s sinful.” Do you hear, Morleena?’
 
 ‘Yes, ma,’ replied Miss Kenwigs again.
@@ -890,25 +890,25 @@ cheerful language, now?’
 
 ‘Yes,’ replied Nicholas, ‘I should say it was, certainly.’
 
-‘It’s very much changed since my time, then,’ said the collector, ‘very
+‘It’s very much changed since my [[Time|time]], then,’ said the collector, ‘very
 much.’
 
-‘Was it a dismal one in your time?’ asked Nicholas, scarcely able to
+‘Was it a dismal one in your [[Time|time]]?’ asked Nicholas, scarcely able to
 repress a smile.
 
 ‘Very,’ replied Mr. Lillyvick, with some vehemence of manner. ‘It’s the
-war time that I speak of; the last war. It may be a cheerful language.
+war [[Time|time]] that I speak of; the last war. It may be a cheerful language.
 I should be sorry to contradict anybody; but I can only say that I’ve
 heard the French prisoners, who were natives, and ought to know how to
 speak it, talking in such a dismal manner, that it made one miserable to
 hear them. Ay, that I have, fifty times, sir--fifty times!’
 
-Mr. Lillyvick was waxing so cross, that Mrs. Kenwigs thought it expedient
+Mr. Lillyvick was waxing so [[Cross|cross]], that Mrs. Kenwigs thought it expedient
 to motion to Nicholas not to say anything; and it was not until Miss
 Petowker had practised several blandishments, to soften the excellent
-old gentleman, that he deigned to break silence by asking,
+old gentleman, that he deigned to break [[Silence|silence]] by asking,
 
-‘What’s the water in French, sir?’
+‘What’s the [[Water|water]] in French, sir?’
 
 ‘L’EAU,’ replied Nicholas.
 
@@ -925,6 +925,6 @@ with their tails all one way, and Morleena at the top: while Nicholas,
 taking the book, began his preliminary explanations. Miss Petowker
 and Mrs. Kenwigs looked on, in silent admiration, broken only by the
 whispered assurances of the latter, that Morleena would have it all by
-heart in no time; and Mr. Lillyvick regarded the group with frowning and
+heart in no [[Time|time]]; and Mr. Lillyvick regarded the group with frowning and
 attentive eyes, lying in wait for something upon which he could open a
 fresh discussion on the language.

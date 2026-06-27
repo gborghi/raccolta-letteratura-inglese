@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 8"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -36,9 +36,9 @@ up armfuls of moist, reeking grass, and shaking it out to the four
 
 winds of heaven, at the head of a goodly file of servants and
 
-hirelings—intending so to labour, from morning till night, with as much
+hirelings—intending so to labour, from morning till [[Night|night]], with as much
 
-zeal and assiduity as I could look for from any of them, as well to
+zeal and assiduity as I could look for from any of them, as [[Well|well]] to
 
 prosper the work by my own exertion as to animate the workers by my
 
@@ -46,7 +46,7 @@ example—when lo! my resolutions were overthrown in a moment, by the
 
 simple fact of my brother’s running up to me and putting into my hand a
 
-small parcel, just arrived from London, which I had been for some time
+small parcel, just arrived from [[London]], which I had been for some [[Time|time]]
 
 expecting. I tore off the cover, and disclosed an elegant and portable
 
@@ -90,7 +90,7 @@ back by dinner, at least.”
 
 “Oh—oh! and I’m to labour away till then, am I?—and to keep all these
 
-fellows hard at it besides? Well, well! I’ll submit—for once in a
+fellows hard at it besides? [[Well]], [[Well|well]]! I’ll submit—for once in a
 
 way.—Come, my lads, you must look sharp: _I_’m come to help you
 
@@ -106,7 +106,7 @@ sweat of your face,” &c., &c.
 
 Leaving him thus haranguing the people, more to their amusement than
 
-edification, I returned to the house, and, having made some alteration
+edification, I returned to the [[house]], and, having made some alteration
 
 in my toilet, hastened away to Wildfell Hall, with the book in my
 
@@ -114,7 +114,7 @@ pocket; for it was destined for the shelves of Mrs. Graham.
 
 
 
-“What! then had she and you got on so well together as to come to the
+“What! then had she and you got on so [[Well|well]] together as to come to the
 
 giving and receiving of presents?”—Not precisely, old buck; this was my
 
@@ -136,7 +136,7 @@ complimentary, or made the slightest approach to tenderness in word or
 
 look, I was not only punished by an immediate change in her manner at
 
-the time, but doomed to find her more cold and distant, if not entirely
+the [[Time|time]], but doomed to find her more cold and distant, if not entirely
 
 inaccessible, when next I sought her company. This circumstance did not
 
@@ -144,19 +144,19 @@ greatly disconcert me, however, because I attributed it, not so much to
 
 any dislike of my person, as to some absolute resolution against a
 
-second marriage formed prior to the time of our acquaintance, whether
+second [[Marriage|marriage]] formed prior to the [[Time|time]] of our acquaintance, whether
 
 from excess of affection for her late husband, or because she had had
 
 enough of him and the matrimonial state together. At first, indeed, she
 
-had seemed to take a pleasure in mortifying my vanity and crushing my
+had seemed to take a pleasure in mortifying my [[Vanity|vanity]] and crushing my
 
 presumption—relentlessly nipping off bud by bud as they ventured to
 
 appear; and then, I confess, I was deeply wounded, though, at the same
 
-time, stimulated to seek revenge;—but latterly finding, beyond a doubt,
+[[Time|time]], stimulated to seek [[Revenge|revenge]];—but latterly finding, beyond a [[Doubt|doubt]],
 
 that I was not that empty-headed coxcomb she had first supposed me, she
 
@@ -182,15 +182,15 @@ may be effected.”
 
 So we talked about painting, poetry, and music, theology, geology, and
 
-philosophy: once or twice I lent her a book, and once she lent me one
+[[philosophy]]: once or twice I lent her a book, and once she lent me one
 
 in return: I met her in her walks as often as I could; I came to her
 
-house as often as I dared. My first pretext for invading the sanctum
+[[house]] as often as I dared. My first pretext for invading the sanctum
 
-was to bring Arthur a little waddling puppy of which Sancho was the
+was to bring [[arthur|Arthur]] a little waddling puppy of which Sancho was the
 
-father, and which delighted the child beyond expression, and,
+father, and which delighted the [[Child|child]] beyond expression, and,
 
 consequently, could not fail to please his mamma. My second was to
 
@@ -198,13 +198,13 @@ bring him a book, which, knowing his mother’s particularity, I had
 
 carefully selected, and which I submitted for her approbation before
 
-presenting it to him. Then, I brought her some plants for her garden,
+presenting it to him. Then, I brought her some plants for her [[Garden|garden]],
 
-in my sister’s name—having previously persuaded Rose to send them. Each
+in my sister’s name—having previously persuaded [[Rose]] to send them. Each
 
 of these times I inquired after the picture she was painting from the
 
-sketch taken on the cliff, and was admitted into the studio, and asked
+[[Sketch|sketch]] taken on the cliff, and was admitted into the studio, and asked
 
 my opinion or advice respecting its progress.
 
@@ -218,13 +218,13 @@ had expressed a wish to see “Marmion,” and I had conceived the
 
 presumptuous idea of making her a present of it, and, on my return
 
-home, instantly sent for the smart little volume I had this morning
+[[Home|home]], instantly sent for the smart little volume I had this morning
 
 received. But an apology for invading the hermitage was still
 
 necessary; so I had furnished myself with a blue morocco collar for
 
-Arthur’s little dog; and that being given and received, with much more
+[[arthur|Arthur]]’s little dog; and that being given and received, with much more
 
 joy and gratitude, on the part of the receiver, than the worth of the
 
@@ -234,7 +234,7 @@ Mrs. Graham for one more look at the picture, if it was still there.
 
 
 
-“Oh, yes! come in,” said she (for I had met them in the garden). “It is
+“Oh, yes! come in,” said she (for I had met them in the [[Garden|garden]]). “It is
 
 finished and framed, all ready for sending away; but give me your last
 
@@ -246,27 +246,27 @@ be—duly considered, at least.”
 
 The picture was strikingly beautiful; it was the very scene itself,
 
-transferred as if by magic to the canvas; but I expressed my
+transferred as if by [[Magic|magic]] to the canvas; but I expressed my
 
-approbation in guarded terms, and few words, for fear of displeasing
+approbation in guarded terms, and few words, for [[Fear|fear]] of displeasing
 
-her. She, however, attentively watched my looks, and her artist’s pride
+her. She, however, attentively watched my looks, and her [[artist]]’s [[Pride|pride]]
 
-was gratified, no doubt, to read my heartfelt admiration in my eyes.
+was gratified, no [[Doubt|doubt]], to read my heartfelt admiration in my eyes.
 
 But, while I gazed, I thought upon the book, and wondered how it was to
 
 be presented. My heart failed me; but I determined not to be such a
 
-fool as to come away without having made the attempt. It was useless
+[[Fool|fool]] as to come away without having made the attempt. It was useless
 
 waiting for an opportunity, and useless trying to concoct a speech for
 
 the occasion. The more plainly and naturally the thing was done, the
 
-better, I thought; so I just looked out of the window to screw up my
+better, I thought; so I just looked out of the [[Window|window]] to screw up my
 
-courage, and then pulled out the book, turned round, and put it into
+[[Courage|courage]], and then pulled out the book, turned round, and put it into
 
 her hand, with this short explanation:
 
@@ -282,13 +282,13 @@ A momentary blush suffused her face—perhaps, a blush of sympathetic
 
 shame for such an awkward style of presentation: she gravely examined
 
-the volume on both sides; then silently turned over the leaves,
+the volume on both sides; then silently turned over the [[Leaves|leaves]],
 
 knitting her brows the while, in serious cogitation; then closed the
 
 book, and turning from it to me, quietly asked the price of it—I felt
 
-the hot blood rush to my face.
+the hot [[Blood|blood]] rush to my face.
 
 
 
@@ -326,7 +326,7 @@ that.”
 
 
 
-She turned her eyes on me again, with a look of quiet, grave surprise,
+She turned her eyes on me again, with a look of quiet, [[Grave|grave]] surprise,
 
 that had the effect of a rebuke, whether intended for such or not.
 
@@ -374,7 +374,7 @@ is entirely on my side,—the favour on yours.”
 
 
 
-“Well, then, I’ll take you at your word,” she answered, with a most
+“[[Well]], then, I’ll take you at your word,” she answered, with a most
 
 angelic smile, returning the odious money to her purse—“but
 
@@ -384,7 +384,7 @@ _remember!_”
 
 “I will remember—what I have said;—but do not you punish my presumption
 
-by withdrawing your friendship entirely from me,—or expect me to atone
+by withdrawing your [[Friendship|friendship]] entirely from me,—or expect me to atone
 
 for it by being _more_ distant than before,” said I, extending my hand
 
@@ -392,15 +392,15 @@ to take leave, for I was too much excited to remain.
 
 
 
-“Well, then! let us be as we were,” replied she, frankly placing her
+“[[Well]], then! let us be as we were,” replied she, frankly placing her
 
 hand in mine; and while I held it there, I had much difficulty to
 
 refrain from pressing it to my lips;—but that would be suicidal
 
-madness: I had been bold enough already, and this premature offering
+[[Madness|madness]]: I had been bold enough already, and this premature offering
 
-had well-nigh given the death-blow to my hopes.
+had [[Well|well]]-nigh given the [[Death|death]]-blow to my hopes.
 
 
 

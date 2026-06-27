@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 38 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 38 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Providence is against him, no doubt,’ replied Mr. Squeers, scratching
+‘[[Providence]] is against him, no [[Doubt|doubt]],’ replied Mr. Squeers, scratching
 his nose. ‘Of course; that was to be expected. Anybody might have known
 that.’
 
@@ -35,17 +35,17 @@ yours, as she cottoned to this chap. What’s my return? What’s come of
 my milk of human kindness? It turns into curds and whey when I look at
 him.’
 
-‘Well it may, sir,’ said Mrs. Snawley. ‘Oh! Well it may, sir.’
+‘[[Well]] it may, sir,’ said Mrs. Snawley. ‘Oh! [[Well]] it may, sir.’
 
-‘Where has he been all this time?’ inquired Snawley. ‘Has he been living
+‘Where has he been all this [[Time|time]]?’ inquired Snawley. ‘Has he been living
 with--?’
 
 ‘Ah, sir!’ interposed Squeers, confronting him again. ‘Have you been a
 living with that there devilish Nickleby, sir?’
 
-But no threats or cuffs could elicit from Smike one word of reply to
+But no threats or cuffs could elicit from [[Smike]] one word of reply to
 this question; for he had internally resolved that he would rather
-perish in the wretched prison to which he was again about to be
+perish in the wretched [[Prison|prison]] to which he was again about to be
 consigned, than utter one syllable which could involve his first and
 true friend. He had already called to mind the strict injunctions of
 secrecy as to his past life, which Nicholas had laid upon him when they
@@ -57,25 +57,25 @@ apathy and terror.
 
 Such were the thoughts--if to visions so imperfect and undefined as
 those which wandered through his enfeebled brain, the term can be
-applied--which were present to the mind of Smike, and rendered him deaf
-alike to intimidation and persuasion. Finding every effort useless, Mr
+applied--which were present to the mind of [[Smike]], and rendered him deaf
+alike to intimidation and [[Persuasion|persuasion]]. Finding every effort useless, Mr
 Squeers conducted him to a little back room up-stairs, where he was to
-pass the night; and, taking the precaution of removing his shoes, and
+pass the [[Night|night]]; and, taking the precaution of removing his shoes, and
 coat and waistcoat, and also of locking the door on the outside, lest
 he should muster up sufficient energy to make an attempt at escape, that
 worthy gentleman left him to his meditations.
 
 What those meditations were, and how the poor creature’s heart sunk
 within him when he thought--when did he, for a moment, cease to
-think?--of his late home, and the dear friends and familiar faces with
+think?--of his late [[Home|home]], and the dear friends and familiar faces with
 which it was associated, cannot be told. To prepare the mind for such
-a heavy sleep, its growth must be stopped by rigour and cruelty in
-childhood; there must be years of misery and suffering, lightened by no
-ray of hope; the chords of the heart, which beat a quick response to the
+a heavy [[Sleep|sleep]], its growth must be stopped by rigour and cruelty in
+[[Childhood|childhood]]; there must be years of misery and [[Suffering|suffering]], lightened by no
+ray of [[Hope|hope]]; the chords of the heart, which beat a quick response to the
 voice of gentleness and affection, must have rusted and broken in their
-secret places, and bear the lingering echo of no old word of love or
+secret places, and bear the lingering echo of no old word of [[Love|love]] or
 kindness. Gloomy, indeed, must have been the short day, and dull the
-long, long twilight, preceding such a night of intellect as his.
+long, long twilight, preceding such a [[Night|night]] of intellect as his.
 
 There were voices which would have roused him, even then; but their
 welcome tones could not penetrate there; and he crept to bed the same

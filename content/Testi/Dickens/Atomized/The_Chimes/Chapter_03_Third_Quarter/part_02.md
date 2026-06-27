@@ -18,7 +18,7 @@ A blast of air—how cold and shrill!—came moaning through the tower.  As
 it died away, the Great Bell, or the Goblin of the Great Bell, spoke.
 
 ‘What visitor is this!’ it said.  The voice was low and deep, and Trotty
-fancied that it sounded in the other figures as well.
+fancied that it sounded in the other figures as [[Well|well]].
 
 ‘I thought my name was called by the Chimes!’ said Trotty, raising his
 hands in an attitude of supplication.  ‘I hardly know why I am here, or
@@ -43,10 +43,10 @@ Goblin of the Bell.
 
 Trotty was about to answer, ‘Never!’  But he stopped, and was confused.
 
-‘The voice of Time,’ said the Phantom, ‘cries to man, Advance!  Time is
+‘The voice of [[Time]],’ said the [[Phantom]], ‘cries to man, Advance!  [[Time]] is
 for his advancement and improvement; for his greater worth, his greater
 happiness, his better life; his progress onward to that goal within its
-knowledge and its view, and set there, in the period when Time and He
+knowledge and its view, and set there, in the period when [[Time]] and He
 began.  Ages of darkness, wickedness, and violence, have come and
 gone—millions uncountable, have suffered, lived, and died—to point the
 way before him.  Who seeks to turn him back, or stay him on his course,
@@ -56,15 +56,15 @@ fiercer and the wilder, ever, for its momentary check!’
 ‘I never did so to my knowledge, sir,’ said Trotty.  ‘It was quite by
 accident if I did.  I wouldn’t go to do it, I’m sure.’
 
-‘Who puts into the mouth of Time, or of its servants,’ said the Goblin of
+‘Who puts into the mouth of [[Time]], or of its servants,’ said the Goblin of
 the Bell, ‘a cry of lamentation for days which have had their trial and
 their failure, and have left deep traces of it which the blind may see—a
-cry that only serves the present time, by showing men how much it needs
+cry that only serves the present [[Time|time]], by showing men how much it needs
 their help when any ears can listen to regrets for such a past—who does
 this, does a wrong.  And you have done that wrong, to us, the Chimes.’
 
-Trotty’s first excess of fear was gone.  But he had felt tenderly and
-gratefully towards the Bells, as you have seen; and when he heard himself
+Trotty’s first excess of [[Fear|fear]] was gone.  But he had felt tenderly and
+gratefully towards [[The Bells|the Bells]], as you have seen; and when he heard himself
 arraigned as one who had offended them so weightily, his heart was
 touched with penitence and grief.
 
@@ -72,11 +72,11 @@ touched with penitence and grief.
 do know—if you know how often you have kept me company; how often you
 have cheered me up when I’ve been low; how you were quite the plaything
 of my little daughter Meg (almost the only one she ever had) when first
-her mother died, and she and me were left alone; you won’t bear malice
+her mother died, and she and me were left [[Alone|alone]]; you won’t bear malice
 for a hasty word!’
 
 ‘Who hears in us, the Chimes, one note bespeaking disregard, or stern
-regard, of any hope, or joy, or pain, or sorrow, of the many-sorrowed
+regard, of any [[Hope|hope]], or joy, or [[Pain|pain]], or sorrow, of the many-sorrowed
 throng; who hears us make response to any creed that gauges human
 passions and affections, as it gauges the amount of miserable food on
 which humanity may pine and wither; does us wrong.  That wrong you have
@@ -86,7 +86,7 @@ done us!’ said the Bell.
 
 ‘Who hears us echo the dull vermin of the earth: the Putters Down of
 crushed and broken natures, formed to be raised up higher than such
-maggots of the time can crawl or can conceive,’ pursued the Goblin of the
+maggots of the [[Time|time]] can crawl or can conceive,’ pursued the Goblin of the
 Bell; ‘who does so, does us wrong.  And you have done us wrong!’
 
 ‘Not meaning it,’ said Trotty.  ‘In my ignorance.  Not meaning it!’
@@ -96,12 +96,12 @@ the fallen and disfigured of his kind; abandons them as vile; and does
 not trace and track with pitying eyes the unfenced precipice by which
 they fell from good—grasping in their fall some tufts and shreds of that
 lost soil, and clinging to them still when bruised and dying in the gulf
-below; does wrong to Heaven and man, to time and to eternity.  And you
+below; does wrong to Heaven and man, to [[Time|time]] and to [[Eternity|eternity]].  And you
 have done that wrong!’
 
-‘Spare me!’ cried Trotty, falling on his knees; ‘for Mercy’s sake!’
+‘Spare me!’ cried Trotty, falling on his knees; ‘for [[Mercy]]’s sake!’
 
-‘Listen!’ said the Shadow.
+‘Listen!’ said the [[Shadow]].
 
 ‘Listen!’ cried the other Shadows.
 
@@ -110,32 +110,32 @@ recognised as having heard before.
 
 The organ sounded faintly in the church below.  Swelling by degrees, the
 melody ascended to the roof, and filled the choir and nave.  Expanding
-more and more, it rose up, up; up, up; higher, higher, higher up;
+more and more, it [[Rose|rose]] up, up; up, up; higher, higher, higher up;
 awakening agitated hearts within the burly piles of oak: the hollow
-bells, the iron-bound doors, the stairs of solid stone; until the tower
+[[Bells|bells]], the iron-bound doors, the stairs of solid stone; until the tower
 walls were insufficient to contain it, and it soared into the sky.
 
-No wonder that an old man’s breast could not contain a sound so vast and
-mighty.  It broke from that weak prison in a rush of tears; and Trotty
+No [[Wonder|wonder]] that an old man’s breast could not contain a sound so vast and
+mighty.  It broke from that weak [[Prison|prison]] in a rush of [[Tears|tears]]; and Trotty
 put his hands before his face.
 
-‘Listen!’ said the Shadow.
+‘Listen!’ said the [[Shadow]].
 
 ‘Listen!’ said the other Shadows.
 
-‘Listen!’ said the child’s voice.
+‘Listen!’ said the [[Child|child]]’s voice.
 
-A solemn strain of blended voices, rose into the tower.
+A solemn strain of blended voices, [[Rose|rose]] into the tower.
 
-It was a very low and mournful strain—a Dirge—and as he listened, Trotty
-heard his child among the singers.
+It was a very low and mournful strain—a [[Dirge]]—and as he listened, Trotty
+heard his [[Child|child]] among the singers.
 
 ‘She is dead!’ exclaimed the old man.  ‘Meg is dead!  Her Spirit calls to
 me.  I hear it!’
 
-‘The Spirit of your child bewails the dead, and mingles with the
+‘The Spirit of your [[Child|child]] bewails the dead, and mingles with the
 dead—dead hopes, dead fancies, dead imaginings of youth,’ returned the
-Bell, ‘but she is living.  Learn from her life, a living truth.  Learn
+Bell, ‘but she is living.  Learn from her life, a living [[Truth|truth]].  Learn
 from the creature dearest to your heart, how bad the bad are born.  See
 every bud and leaf plucked one by one from off the fairest stem, and know
 how bare and wretched it may be.  Follow her!  To desperation!’
@@ -147,9 +147,9 @@ downward.
 
 ‘Go!  It stands behind you!’
 
-Trotty turned, and saw—the child!  The child Will Fern had carried in the
-street; the child whom Meg had watched, but now, asleep!
+Trotty turned, and saw—the [[Child|child]]!  The [[Child|child]] [[Will Fern]] had carried in the
+street; the [[Child|child]] whom Meg had watched, but now, asleep!
 
-‘I carried her myself, to-night,’ said Trotty.  ‘In these arms!’
+‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
 
 ‘Show him what he calls himself,’ said the dark figures, one and all.

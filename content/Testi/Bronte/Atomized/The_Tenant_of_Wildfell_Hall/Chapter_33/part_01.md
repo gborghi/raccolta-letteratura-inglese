@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 33 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,15 +20,15 @@ tags:
 
 
 
-Seventh.—Yes, I _will_ hope! To-night I heard Grimsby and Hattersley
+Seventh.—Yes, I _will_ [[Hope|hope]]! To-[[Night|night]] I heard Grimsby and Hattersley
 
 grumbling together about the inhospitality of their host. They did not
 
 know I was near, for I happened to be standing behind the curtain in
 
-the bow of the window, watching the moon rising over the clump of tall
+the bow of the [[Window|window]], watching the [[Moon|moon]] rising over the clump of tall
 
-dark elm-trees below the lawn, and wondering why Arthur was so
+dark elm-trees below the lawn, and wondering why [[arthur|Arthur]] was so
 
 sentimental as to stand without, leaning against the outer pillar of
 
@@ -38,13 +38,13 @@ the portico, apparently watching it too.
 
 “So, I suppose we’ve seen the last of our merry carousals in this
 
-house,” said Mr. Hattersley; “I _thought_ his good-fellowship wouldn’t
+[[house]],” said Mr. Hattersley; “I _thought_ his good-fellowship wouldn’t
 
 last long. But,” added he, laughing, “I didn’t expect it would meet its
 
 end this way. I rather thought our pretty hostess would be setting up
 
-her porcupine quills, and threatening to turn us out of the house if we
+her porcupine quills, and threatening to turn us out of the [[house]] if we
 
 didn’t mind our manners.”
 
@@ -76,7 +76,7 @@ with their false, fair faces and their deceitful tongues.”
 
 At this juncture I issued from my retreat, and smiling on Mr. Grimsby
 
-as I passed, left the room and went out in search of Arthur. Having
+as I passed, left the room and went out in search of [[arthur|Arthur]]. Having
 
 seen him bend his course towards the shrubbery, I followed him thither,
 
@@ -94,7 +94,7 @@ absolute terror, exclaimed,
 
 
 
-“Helen! what the devil is this?” and I saw, by the faint light gleaming
+“[[Helen]]! what the devil is this?” and I saw, by the faint light gleaming
 
 through the overshadowing tree, that he was positively pale with the
 
@@ -110,7 +110,7 @@ affection is genuine: he is not sick of me yet.
 
 
 
-“I startled you, Arthur,” said I, laughing in my glee. “How nervous you
+“I startled you, [[arthur|Arthur]],” said I, laughing in my glee. “How nervous you
 
 are!”
 
@@ -120,7 +120,7 @@ are!”
 
 extricating himself from my arms, and wiping his forehead with his
 
-handkerchief. “Go back, Helen—go back directly! You’ll get your death
+handkerchief. “Go back, [[Helen]]—go back directly! You’ll get your [[Death|death]]
 
 of cold!”
 
@@ -128,7 +128,7 @@ of cold!”
 
 “I won’t, till I’ve told you what I came for. They are blaming you,
 
-Arthur, for your temperance and sobriety, and I’m come to thank you for
+[[arthur|Arthur]], for your temperance and sobriety, and I’m come to thank you for
 
 it. They say it is all ‘these cursed women,’ and that we are the bane
 
@@ -140,43 +140,43 @@ resolutions, or your affection for me.”
 
 He laughed. I squeezed him in my arms again, and cried in tearful
 
-earnest, “Do, do persevere! and I’ll love you better than ever I did
+earnest, “Do, do persevere! and I’ll [[Love|love]] you better than ever I did
 
 before!”
 
 
 
-“Well, well, I will!” said he, hastily kissing me. “There, now, go. You
+“[[Well]], [[Well|well]], I will!” said he, hastily kissing me. “There, now, go. You
 
 mad creature, how _could_ you come out in your light evening dress this
 
-chill autumn night?”
+chill [[Autumn|autumn]] [[Night|night]]?”
 
 
 
-“It is a glorious night,” said I.
+“It is a glorious [[Night|night]],” said I.
 
 
 
-“It is a night that will give you your death, in another minute. Run
+“It is a [[Night|night]] that will give you your [[Death|death]], in another minute. Run
 
 away, do!”
 
 
 
-“Do you see my death among those trees, Arthur?” said I, for he was
+“Do you see my [[Death|death]] among those trees, [[arthur|Arthur]]?” said I, for he was
 
 gazing intently at the shrubs, as if he saw it coming, and I was
 
-reluctant to leave him, in my new-found happiness and revival of hope
+reluctant to leave him, in my new-found happiness and revival of [[Hope|hope]]
 
-and love. But he grew angry at my delay, so I kissed him and ran back
+and [[Love|love]]. But he grew angry at my delay, so I kissed him and ran back
 
-to the house.
+to the [[house]].
 
 
 
-I was in such a good humour that night: Milicent told me I was the life
+I was in such a good [[Humour|humour]] that [[Night|night]]: Milicent told me I was the life
 
 of the party, and whispered she had never seen me so brilliant.
 
@@ -188,7 +188,7 @@ kindness. Grimsby stared and wondered; Hattersley laughed and jested
 
 (in spite of the little wine he had been suffered to imbibe), but still
 
-behaved as well as he knew how. Hargrave and Annabella, from different
+behaved as [[Well|well]] as he knew how. Hargrave and Annabella, from different
 
 motives and in different ways, emulated me, and doubtless both
 
@@ -198,7 +198,7 @@ the latter in boldness and animation at least. Milicent, delighted to
 
 see her husband, her brother, and her over-estimated friend acquitting
 
-themselves so well, was lively and gay too, in her quiet way. Even Lord
+themselves so [[Well|well]], was lively and gay too, in her quiet way. Even Lord
 
 Lowborough caught the general contagion: his dark greenish eyes were
 
@@ -206,17 +206,17 @@ lighted up beneath their moody brows; his sombre countenance was
 
 beautified by smiles; all traces of gloom and proud or cold reserve had
 
-vanished for the time; and he astonished us all, not only by his
+vanished for the [[Time|time]]; and he astonished us all, not only by his
 
 general cheerfulness and animation, but by the positive flashes of true
 
-force and brilliance he emitted from time to time. Arthur did not talk
+force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[arthur|Arthur]] did not talk
 
 much, but he laughed, and listened to the rest, and was in perfect
 
-good-humour, though not excited by wine. So that, altogether, we made a
+good-[[Humour|humour]], though not excited by wine. So that, altogether, we made a
 
-very merry, innocent, and entertaining party.
+very merry, [[Innocent|innocent]], and entertaining party.
 
 
 
@@ -240,7 +240,7 @@ friends? No. Had any of the servants vexed her?
 
 “Bless you, no!” said she, with a sorrowful shake of the head; and then
 
-she sighed and continued: “But to tell you the truth, ma’am, I don’t
+she sighed and continued: “But to tell you the [[Truth|truth]], ma’am, I don’t
 
 like master’s ways of going on.”
 
@@ -250,7 +250,7 @@ like master’s ways of going on.”
 
 
 
-“Well, ma’am, if you think so, it’s right.”
+“[[Well]], ma’am, if you think so, it’s right.”
 
 
 

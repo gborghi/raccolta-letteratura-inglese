@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 16 (part 2)"
+title: "Bleak [[house|House]] — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -34,15 +34,15 @@ here somehow, too, and everybody overlooked me until I became the
 creature that I am! It must be a strange state, not merely to be told
 that I am scarcely human (as in the case of my offering myself for a
 witness), but to feel it of my own knowledge all my life! To see the
-horses, dogs, and cattle go by me and to know that in ignorance I
+horses, [[dogs]], and cattle go by me and to know that in ignorance I
 belong to them and not to the superior beings in my shape, whose
 delicacy I offend! Jo’s ideas of a criminal trial, or a judge, or a
-bishop, or a government, or that inestimable jewel to him (if he only
+bishop, or a [[government]], or that inestimable [[Jewel|jewel]] to him (if he only
 knew it) the Constitution, should be strange! His whole material and
-immaterial life is wonderfully strange; his death, the strangest
+immaterial life is wonderfully strange; his [[Death|death]], the strangest
 thing of all.
 
-Jo comes out of Tom-all-Alone’s, meeting the tardy morning which is
+Jo comes out of Tom-all-[[Alone]]’s, meeting the tardy morning which is
 always late in getting down there, and munches his dirty bit of bread
 as he comes along. His way lying through many streets, and the houses
 not yet being open, he sits down to breakfast on the door-step of the
@@ -57,10 +57,10 @@ He goes to his crossing and begins to lay it out for the day. The
 town awakes; the great tee-totum is set up for its daily spin and
 whirl; all that unaccountable reading and writing, which has been
 suspended for a few hours, recommences. Jo and the other lower
-animals get on in the unintelligible mess as they can. It is
+[[Animals|animals]] get on in the unintelligible mess as they can. It is
 market-day. The blinded oxen, over-goaded, over-driven, never guided,
 run into wrong places and are beaten out, and plunge red-eyed and
-foaming at stone walls, and often sorely hurt the innocent, and often
+foaming at stone walls, and often sorely hurt the [[Innocent|innocent]], and often
 sorely hurt themselves. Very like Jo and his order; very, very like!
 
 A band of music comes and plays. Jo listens to it. So does a dog—a
@@ -75,8 +75,8 @@ ready at a whistle to scamper over their backs and tear out mouthfuls
 of their wool; but an educated, improved, developed dog who has been
 taught his duties and knows how to discharge them. He and Jo listen
 to the music, probably with much the same amount of animal
-satisfaction; likewise as to awakened association, aspiration, or
-regret, melancholy or joyful reference to things beyond the senses,
+satisfaction; likewise as to awakened association, [[Aspiration|aspiration]], or
+regret, [[Melancholy|melancholy]] or joyful reference to things beyond the senses,
 they are probably upon a par. But, otherwise, how far above the human
 listener is the brute!
 
@@ -87,7 +87,7 @@ their bite.
 The day changes as it wears itself away and becomes dark and drizzly.
 Jo fights it out at his crossing among the mud and wheels, the
 horses, whips, and umbrellas, and gets but a scanty sum to pay for
-the unsavoury shelter of Tom-all-Alone’s. Twilight comes on; gas
+the unsavoury shelter of Tom-all-[[Alone]]’s. Twilight comes on; gas
 begins to start up in the shops; the lamplighter, with his ladder,
 runs along the margin of the pavement. A wretched evening is
 beginning to close in.
@@ -95,22 +95,22 @@ beginning to close in.
 In his chambers Mr. Tulkinghorn sits meditating an application to the
 nearest magistrate to-morrow morning for a warrant. Gridley, a
 disappointed suitor, has been here to-day and has been alarming. We
-are not to be put in bodily fear, and that ill-conditioned fellow
+are not to be put in bodily [[Fear|fear]], and that ill-conditioned fellow
 shall be held to bail again. From the ceiling, foreshortened
-Allegory, in the person of one impossible Roman upside down, points
+[[Allegory]], in the person of one impossible Roman upside down, points
 with the arm of Samson (out of joint, and an odd one) obtrusively
-toward the window. Why should Mr. Tulkinghorn, for such no reason,
-look out of window? Is the hand not always pointing there? So he does
-not look out of window.
+toward the [[Window|window]]. Why should Mr. Tulkinghorn, for such no reason,
+look out of [[Window|window]]? Is the hand not always pointing there? So he does
+not look out of [[Window|window]].
 
 And if he did, what would it be to see a woman going by? There are
 women enough in the world, Mr. Tulkinghorn thinks—too many; they are
-at the bottom of all that goes wrong in it, though, for the matter of
+at the [[Bottom|bottom]] of all that goes wrong in it, though, for the matter of
 that, they create business for lawyers. What would it be to see a
 woman going by, even though she were going secretly? They are all
-secret. Mr. Tulkinghorn knows that very well.
+secret. Mr. Tulkinghorn knows that very [[Well|well]].
 
-But they are not all like the woman who now leaves him and his house
+But they are not all like the woman who now [[Leaves|leaves]] him and his [[house]]
 behind, between whose plain dress and her refined manner there is
 something exceedingly inconsistent. She should be an upper servant by
 her attire, yet in her air and step, though both are hurried and

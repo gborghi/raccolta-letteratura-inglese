@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-terror at so horrible a sight, ordered the men to sew the body up in
+terror at so horrible a sight, ordered the men to sew the [[Body|body]] up in
 
 its hammock, and allow it the usual rites of sea-burial. Having given
 
@@ -26,7 +26,7 @@ came on with great fury, and the design was abandoned for the present.
 
 The corpse, left to itself, was washed into the larboard scuppers,
 
-where it still lay at the time of which I speak, floundering about with
+where it still lay at the [[Time|time]] of which I speak, floundering about with
 
 the furious lurches of the brig.
 
@@ -40,7 +40,7 @@ anticipated, was immediately accosted by Allen, who appeared to be
 
 stationed more as a watch upon the forecastle than for any other
 
-purpose. The fate of this villain, however, was speedily and silently
+purpose. The fate of this [[Villain|villain]], however, was speedily and silently
 
 decided; for Peters, approaching him in a careless manner, as if about
 
@@ -60,15 +60,15 @@ It was indispensable, too, that we should be quick in our operations,
 
 for every minute we expected the mate to be up to set the pumps going,
 
-as it was evident the brig must be taking in water very fast. After
+as it was evident the brig must be taking in [[Water|water]] very fast. After
 
-searching about for some time, we could find nothing more fit for our
+searching about for some [[Time|time]], we could find nothing more fit for our
 
 purpose than the two pump-handles, one of which Augustus took, and I
 
 the other. Having secured these, we stripped off the shirt of the
 
-corpse and dropped the body overboard. Peters and myself then went
+corpse and dropped the [[Body|body]] overboard. Peters and myself then went
 
 below, leaving Augustus to watch upon deck, where he took his station
 
@@ -82,7 +82,7 @@ he might suppose it was the watch.
 
 As soon as I got below I commenced disguising myself so as to represent
 
-the corpse of Rogers. The shirt which we had taken from the body aided
+the corpse of Rogers. The shirt which we had taken from the [[Body|body]] aided
 
 us very much, for it was of a singular form and character, and easily
 
@@ -92,7 +92,7 @@ clothing. It was a blue stockinett, with large white stripes running
 
 across. Having put this on, I proceeded to equip myself with a false
 
-stomach, in imitation of the horrible deformity of the swollen corpse.
+stomach, in [[Imitation|imitation]] of the horrible deformity of the swollen corpse.
 
 This was soon effected by means of stuffing with some bedclothes. I
 
@@ -100,9 +100,9 @@ then gave the same appearance to my hands by drawing on a pair of white
 
 woollen mittens, and filling them in with any kind of rags that offered
 
-themselves. Peters then arranged my face, first rubbing it well over
+themselves. Peters then arranged my face, first rubbing it [[Well|well]] over
 
-with white chalk, and afterward splotching it with blood, which he took
+with white [[chalk]], and afterward splotching it with [[Blood|blood]], which he took
 
 from a cut in his finger. The streak across the eye was not forgotten,
 

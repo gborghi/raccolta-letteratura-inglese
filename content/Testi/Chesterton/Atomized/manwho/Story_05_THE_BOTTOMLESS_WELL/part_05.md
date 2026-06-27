@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE BOTTOMLESS WELL (part 5)"
+title: "[[manwho]] — THE BOTTOMLESS [[Well|WELL]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-them to the bottomless well."
+them to the bottomless [[Well|well]]."
 
 
 
-"Yes," remarked Fisher, "and what about the bottomless well?"
+"Yes," remarked Fisher, "and what about the bottomless [[Well|well]]?"
 
 
 
-"What has the bottomless well got to do with it?" asked his friend.
+"What has the bottomless [[Well|well]] got to do with it?" asked his friend.
 
 
 
@@ -60,7 +60,7 @@ observed Horne Fisher, with a curious indifference.
 
 "Man, you're not saying what you mean," cried Grayne.  "I tell you I
 
-found the poison in one of the coffee cups."
+found the [[Poison|poison]] in one of the coffee cups."
 
 
 
@@ -76,7 +76,7 @@ Grayne.
 
 
 
-"Well, well," said Fisher, amiably, "I dare say you are right; but I
+"[[Well]], [[Well|well]]," said Fisher, amiably, "I dare say you are right; but I
 
 should just like to have a look at the library and the coffee cups."
 
@@ -118,7 +118,7 @@ Very few people, if any, had ever seen Mr. Horne Fisher behave as he
 
 behaved just then. He flashed a glance at the door, saw that the
 
-open window was nearer, went out of it with a flying leap, as if
+open [[Window|window]] was nearer, went out of it with a flying leap, as if
 
 over a hurdle, and went racing across the turf, in the track of the
 
@@ -134,7 +134,7 @@ piece of paper, the telegram he had so violently intercepted.
 
 "Lucky I stopped that," he observed.  "We must keep this affair as
 
-quiet as death. Hastings must die of apoplexy or heart disease."
+quiet as [[Death|death]]. [[Hastings]] must die of apoplexy or heart disease."
 
 
 
@@ -144,7 +144,7 @@ quiet as death. Hastings must die of apoplexy or heart disease."
 
 "The trouble is," said Fisher, "that in a few days we should have
 
-had a very agreeable alternative--of hanging an innocent man or
+had a very agreeable alternative--of hanging an [[Innocent|innocent]] man or
 
 knocking the British Empire to hell."
 
@@ -170,15 +170,15 @@ with admirable skill, old chap, and nearly all you said was true.
 
 Two men with two coffee cups did go into the library and did put
 
-their cups on the bookstand and did go together to the well, and one
+their cups on the bookstand and did go together to the [[Well|well]], and one
 
-of them was a murderer and had put poison in the other's cup. But it
+of them was a murderer and had put [[Poison|poison]] in the other's cup. But it
 
 was not done while Boyle was looking at the revolving bookcase. He
 
 did look at it, though, searching for the Budge book with the note
 
-in it, but I fancy that Hastings had already moved it to the shelves
+in it, but I fancy that [[Hastings]] had already moved it to the shelves
 
 on the wall. It was part of that grim game that he should find it
 
@@ -212,7 +212,7 @@ round as easily as the world goes round. Yes, very much as the
 
 world goes round, for the hand that turned it was not his. God, who
 
-turns the wheel of all the stars, touched that wheel and brought it
+turns the [[Wheel|wheel]] of all the [[Stars|stars]], touched that [[Wheel|wheel]] and brought it
 
 full circle, that His dreadful justice might return."
 
@@ -236,7 +236,7 @@ The two coffee cups had exactly changed places."
 
 The rocky face of Grayne seemed to have sustained a shock in
 
-silence; not a line of it altered, but his voice when it came was
+[[Silence|silence]]; not a line of it altered, but his voice when it came was
 
 unexpectedly weakened.
 
@@ -244,7 +244,7 @@ unexpectedly weakened.
 
 "I see what you mean," he said, "and, as you say, the less said
 
-about it the better. It was not the lover who tried to get rid of
+about it the better. It was not the [[Lover|lover]] who tried to get rid of
 
 the husband, but--the other thing. And a tale like that about a man
 
@@ -254,7 +254,7 @@ start?"
 
 
 
-"The bottomless well, as I told you," answered Fisher, quietly;
+"The bottomless [[Well|well]], as I told you," answered Fisher, quietly;
 
 "that was what stumped me from the start. Not because it had
 
@@ -266,11 +266,11 @@ He paused a moment, as if choosing an approach, and then went on:
 
 "When a man knows his enemy will be dead in ten minutes, and takes
 
-him to the edge of an unfathomable pit, he means to throw his body
+him to the edge of an unfathomable pit, he means to throw his [[Body|body]]
 
-into it. What else should he do? A born fool would have the sense to
+into it. What else should he do? A born [[Fool|fool]] would have the sense to
 
-do it, and Boyle is not a born fool. Well, why did not Boyle do it?
+do it, and Boyle is not a born [[Fool|fool]]. [[Well]], why did not Boyle do it?
 
 The more I thought of it the more I suspected there was some mistake
 

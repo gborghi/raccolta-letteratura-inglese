@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 5"
+title: "The Mystery of [[Edwin Drood]] — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,17 +15,17 @@ tags:
 
 
 CHAPTER V.
-MR. DURDLES AND FRIEND
+MR. [[Durdles|DURDLES]] AND FRIEND
 
 
-John Jasper, on his way home through the Close, is brought to a
-stand-still by the spectacle of Stony Durdles, dinner-bundle and all,
+[[John Jasper]], on his way [[Home|home]] through the Close, is brought to a
+stand-still by the spectacle of Stony [[Durdles]], dinner-bundle and all,
 leaning his back against the iron railing of the burial-ground
 enclosing it from the old cloister-arches; and a hideous small boy in
-rags flinging stones at him as a well-defined mark in the moonlight.
-Sometimes the stones hit him, and sometimes they miss him, but Durdles
+rags flinging stones at him as a [[Well|well]]-defined mark in the moonlight.
+Sometimes the stones hit him, and sometimes they miss him, but [[Durdles]]
 seems indifferent to either fortune. The hideous small boy, on the
-contrary, whenever he hits Durdles, blows a whistle of triumph through
+contrary, whenever he hits [[Durdles]], blows a whistle of triumph through
 a jagged gap, convenient for the purpose, in the front of his mouth,
 where half his teeth are wanting; and whenever he misses him, yelps out
 “Mulled agin!” and tries to atone for the failure by taking a more
@@ -44,11 +44,11 @@ smash your eye, if you don’t look out!”
 
 “Baby-Devil that you are, what has the man done to you?”
 
-“He won’t go home.”
+“He won’t go [[Home|home]].”
 
 “What is that to you?”
 
-“He gives me a ’apenny to pelt him home if I ketches him out too late,”
+“He gives me a ’apenny to pelt him [[Home|home]] if I ketches him out too late,”
 says the boy. And then chants, like a little savage, half stumbling and
 half dancing among the rags and laces of his dilapidated boots:—
 
@@ -60,29 +60,29 @@ Widdy Widdy Wake-cock warning!”
 
 
 —with a comprehensive sweep on the last word, and one more delivery at
-Durdles.
+[[Durdles]].
 
 This would seem to be a poetical note of preparation, agreed upon, as a
-caution to Durdles to stand clear if he can, or to betake himself
+caution to [[Durdles]] to stand clear if he can, or to betake himself
 homeward.
 
-John Jasper invites the boy with a beck of his head to follow him
+[[John Jasper]] invites the boy with a beck of his head to follow him
 (feeling it hopeless to drag him, or coax him), and crosses to the iron
 railing where the Stony (and stoned) One is profoundly meditating.
 
-“Do you know this thing, this child?” asks Jasper, at a loss for a word
+“Do you know this thing, this [[Child|child]]?” asks Jasper, at a loss for a word
 that will define this thing.
 
-“Deputy,” says Durdles, with a nod.
+“Deputy,” says [[Durdles]], with a nod.
 
 “Is that its—his—name?”
 
-“Deputy,” assents Durdles.
+“Deputy,” assents [[Durdles]].
 
 “I’m man-servant up at the Travellers’ Twopenny in Gas Works Garding,”
 this thing explains. “All us man-servants at Travellers’ Lodgings is
 named Deputy. When we’re chock full and the Travellers is all a-bed I
-come out for my ’elth.” Then withdrawing into the road, and taking aim,
+come out for my ’elth.” Then withdrawing into the [[Road|road]], and taking aim,
 he resumes:—
 
 “Widdy widdy wen!
@@ -90,10 +90,10 @@ I—ket—ches—Im—out—ar—ter—”
 
 
 “Hold your hand,” cries Jasper, “and don’t throw while I stand so near
-him, or I’ll kill you! Come, Durdles; let me walk home with you
-to-night. Shall I carry your bundle?”
+him, or I’ll kill you! Come, [[Durdles]]; let me walk [[Home|home]] with you
+to-[[Night|night]]. Shall I carry your bundle?”
 
-“Not on any account,” replies Durdles, adjusting it. “Durdles was
+“Not on any account,” replies [[Durdles]], adjusting it. “[[Durdles]] was
 making his reflections here when you come up, sir, surrounded by his
 works, like a poplar Author.—Your own brother-in-law;” introducing a
 sarcophagus within the railing, white and cold in the moonlight. “Mrs.
@@ -102,67 +102,67 @@ Incumbent;” introducing the Reverend Gentleman’s broken column.
 “Departed Assessed Taxes;” introducing a vase and towel, standing on
 what might represent the cake of soap. “Former pastrycook and
 Muffin-maker, much respected;” introducing gravestone. “All safe and
-sound here, sir, and all Durdles’s work. Of the common folk, that is
+sound here, sir, and all [[Durdles]]’s work. Of the common folk, that is
 merely bundled up in turf and brambles, the less said the better. A
 poor lot, soon forgot.”
 
 “This creature, Deputy, is behind us,” says Jasper, looking back. “Is
 he to follow us?”
 
-The relations between Durdles and Deputy are of a capricious kind; for,
-on Durdles’s turning himself about with the slow gravity of beery
-suddenness, Deputy makes a pretty wide circuit into the road and stands
+The relations between [[Durdles]] and Deputy are of a capricious kind; for,
+on [[Durdles]]’s turning himself about with the slow gravity of beery
+suddenness, Deputy makes a pretty wide circuit into the [[Road|road]] and stands
 on the defensive.
 
-“You never cried Widdy Warning before you begun to-night,” says
-Durdles, unexpectedly reminded of, or imagining, an injury.
+“You never cried Widdy Warning before you begun to-[[Night|night]],” says
+[[Durdles]], unexpectedly reminded of, or imagining, an injury.
 
 “Yer lie, I did,” says Deputy, in his only form of polite
 contradiction.
 
-“Own brother, sir,” observes Durdles, turning himself about again, and
+“Own brother, sir,” observes [[Durdles]], turning himself about again, and
 as unexpectedly forgetting his offence as he had recalled or conceived
 it; “own brother to Peter the Wild Boy! But I gave him an object in
 life.”
 
 “At which he takes aim?” Mr. Jasper suggests.
 
-“That’s it, sir,” returns Durdles, quite satisfied; “at which he takes
+“That’s it, sir,” returns [[Durdles]], quite satisfied; “at which he takes
 aim. I took him in hand and gave him an object. What was he before? A
 destroyer. What work did he do? Nothing but destruction. What did he
 earn by it? Short terms in Cloisterham jail. Not a person, not a piece
-of property, not a winder, not a horse, nor a dog, nor a cat, nor a
+of property, not a winder, not a [[Horse|horse]], nor a dog, nor a cat, nor a
 bird, nor a fowl, nor a pig, but what he stoned, for want of an
 enlightened object. I put that enlightened object before him, and now
 he can turn his honest halfpenny by the three penn’orth a week.”
 
-“I wonder he has no competitors.”
+“I [[Wonder|wonder]] he has no competitors.”
 
 “He has plenty, Mr. Jasper, but he stones ’em all away. Now, I don’t
-know what this scheme of mine comes to,” pursues Durdles, considering
+know what this scheme of mine comes to,” pursues [[Durdles]], considering
 about it with the same sodden gravity; “I don’t know what you may
 precisely call it. It ain’t a sort of a—scheme of a—National
-Education?”
+[[Education]]?”
 
 “I should say not,” replies Jasper.
 
-“I should say not,” assents Durdles; “then we won’t try to give it a
+“I should say not,” assents [[Durdles]]; “then we won’t try to give it a
 name.”
 
 “He still keeps behind us,” repeats Jasper, looking over his shoulder;
 “is he to follow us?”
 
 “We can’t help going round by the Travellers’ Twopenny, if we go the
-short way, which is the back way,” Durdles answers, “and we’ll drop him
+short way, which is the back way,” [[Durdles]] answers, “and we’ll drop him
 there.”
 
 So they go on; Deputy, as a rear rank one, taking open order, and
-invading the silence of the hour and place by stoning every wall, post,
+invading the [[Silence|silence]] of the hour and place by stoning every wall, post,
 pillar, and other inanimate object, by the deserted way.
 
-“Is there anything new down in the crypt, Durdles?” asks John Jasper.
+“Is there anything new down in the crypt, [[Durdles]]?” asks [[John Jasper]].
 
-“Anything old, I think you mean,” growls Durdles. “It ain’t a spot for
+“Anything old, I think you mean,” growls [[Durdles]]. “It ain’t a spot for
 novelty.”
 
 “Any new discovery on your part, I meant.”
@@ -184,20 +184,20 @@ romantic interest in his weird life.
 “Yours is a curious existence.”
 
 Without furnishing the least clue to the question, whether he receives
-this as a compliment or as quite the reverse, Durdles gruffly answers:
+this as a compliment or as quite the reverse, [[Durdles]] gruffly answers:
 “Yours is another.”
 
-“Well! inasmuch as my lot is cast in the same old earthy, chilly,
+“[[Well]]! inasmuch as my lot is cast in the same old earthy, chilly,
 never-changing place, Yes. But there is much more mystery and interest
-in your connection with the Cathedral than in mine. Indeed, I am
+in your connection with the [[Cathedral]] than in mine. Indeed, I am
 beginning to have some idea of asking you to take me on as a sort of
 student, or free ’prentice, under you, and to let me go about with you
 sometimes, and see some of these odd nooks in which you pass your
 days.”
 
 The Stony One replies, in a general way, “All right. Everybody knows
-where to find Durdles, when he’s wanted.” Which, if not strictly true,
-is approximately so, if taken to express that Durdles may always be
+where to find [[Durdles]], when he’s wanted.” Which, if not strictly true,
+is approximately so, if taken to express that [[Durdles]] may always be
 found in a state of vagabondage somewhere.
 
 “What I dwell upon most,” says Jasper, pursuing his subject of romantic
@@ -205,12 +205,12 @@ interest, “is the remarkable accuracy with which you would seem to find
 out where people are buried.—What is the matter? That bundle is in your
 way; let me hold it.”
 
-Durdles has stopped and backed a little (Deputy, attentive to all his
-movements, immediately skirmishing into the road), and was looking
+[[Durdles]] has stopped and backed a little (Deputy, attentive to all his
+movements, immediately skirmishing into the [[Road|road]]), and was looking
 about for some ledge or corner to place his bundle on, when thus
 relieved of it.
 
-“Just you give me my hammer out of that,” says Durdles, “and I’ll show
+“Just you give me my hammer out of that,” says [[Durdles]], “and I’ll show
 you.”
 
 Clink, clink. And his hammer is handed him.
@@ -229,7 +229,7 @@ Old ’un crumbled away in stone coffin, in vault!”
 
 “Astonishing!”
 
-“I have even done this,” says Durdles, drawing out his two-foot rule
+“I have even done this,” says [[Durdles]], drawing out his two-foot rule
 (Deputy meanwhile skirmishing nearer, as suspecting that Treasure may
 be about to be discovered, which may somehow lead to his own
 enrichment, and the delicious treat of the discoverers being hanged by
@@ -239,48 +239,48 @@ pavement. “Six foot inside that wall is Mrs. Sapsea.”
 
 “Not really Mrs. Sapsea?”
 
-“Say Mrs. Sapsea. Her wall’s thicker, but say Mrs. Sapsea. Durdles
+“Say Mrs. Sapsea. Her wall’s thicker, but say Mrs. Sapsea. [[Durdles]]
 taps, that wall represented by that hammer, and says, after good
 sounding: ‘Something betwixt us!’ Sure enough, some rubbish has been
-left in that same six-foot space by Durdles’s men!”
+left in that same six-foot space by [[Durdles]]’s men!”
 
 Jasper opines that such accuracy “is a gift.”
 
-“I wouldn’t have it at a gift,” returns Durdles, by no means receiving
-the observation in good part. “I worked it out for myself. Durdles
+“I wouldn’t have it at a gift,” returns [[Durdles]], by no means receiving
+the observation in good part. “I worked it out for myself. [[Durdles]]
 comes by _his_ knowledge through grubbing deep for it, and having it up
 by the roots when it don’t want to come.—Holloa you Deputy!”
 
 “Widdy!” is Deputy’s shrill response, standing off again.
 
-“Catch that ha’penny. And don’t let me see any more of you to-night,
+“Catch that ha’penny. And don’t let me see any more of you to-[[Night|night]],
 after we come to the Travellers’ Twopenny.”
 
 “Warning!” returns Deputy, having caught the halfpenny, and appearing
 by this mystic word to express his assent to the arrangement.
 
-They have but to cross what was once the vineyard, belonging to what
+They have but to [[Cross|cross]] what was once the vineyard, belonging to what
 was once the Monastery, to come into the narrow back lane wherein
-stands the crazy wooden house of two low stories currently known as the
-Travellers’ Twopenny:—a house all warped and distorted, like the morals
+stands the crazy wooden [[house]] of two low stories currently known as the
+Travellers’ Twopenny:—a [[house]] all warped and distorted, like the morals
 of the travellers, with scant remains of a lattice-work porch over the
-door, and also of a rustic fence before its stamped-out garden; by
+door, and also of a rustic fence before its stamped-out [[Garden|garden]]; by
 reason of the travellers being so bound to the premises by a tender
-sentiment (or so fond of having a fire by the roadside in the course of
+sentiment (or so fond of having a [[Fire|fire]] by the roadside in the course of
 the day), that they can never be persuaded or threatened into
 departure, without violently possessing themselves of some wooden
 forget-me-not, and bearing it off.
 
 The semblance of an inn is attempted to be given to this wretched place
 by fragments of conventional red curtaining in the windows, which rags
-are made muddily transparent in the night-season by feeble lights of
+are made muddily transparent in the [[Night|night]]-season by feeble lights of
 rush or cotton dip burning dully in the close air of the inside. As
-Durdles and Jasper come near, they are addressed by an inscribed paper
-lantern over the door, setting forth the purport of the house. They are
+[[Durdles]] and Jasper come near, they are addressed by an inscribed paper
+lantern over the door, setting forth the purport of the [[house]]. They are
 also addressed by some half-dozen other hideous small boys—whether
 twopenny lodgers or followers or hangers-on of such, who knows!—who, as
 if attracted by some carrion-scent of Deputy in the air, start into the
-moonlight, as vultures might gather in the desert, and instantly fall
+moonlight, as vultures might gather in the [[Desert|desert]], and instantly fall
 to stoning him and one another.
 
 “Stop, you young brutes,” cries Jasper angrily, “and let us go by!”
@@ -289,28 +289,28 @@ This remonstrance being received with yells and flying stones,
 according to a custom of late years comfortably established among the
 police regulations of our English communities, where Christians are
 stoned on all sides, as if the days of Saint Stephen were revived,
-Durdles remarks of the young savages, with some point, that “they
+[[Durdles]] remarks of the young savages, with some point, that “they
 haven’t got an object,” and leads the way down the lane.
 
 At the corner of the lane, Jasper, hotly enraged, checks his companion
 and looks back. All is silent. Next moment, a stone coming rattling at
 his hat, and a distant yell of “Wake-Cock! Warning!” followed by a
 crow, as from some infernally-hatched Chanticleer, apprising him under
-whose victorious fire he stands, he turns the corner into safety, and
-takes Durdles home: Durdles stumbling among the litter of his stony
+whose victorious [[Fire|fire]] he stands, he turns the corner into safety, and
+takes [[Durdles]] [[Home|home]]: [[Durdles]] stumbling among the litter of his stony
 yard as if he were going to turn head foremost into one of the
 unfinished tombs.
 
-John Jasper returns by another way to his gatehouse, and entering
-softly with his key, finds his fire still burning. He takes from a
+[[John Jasper]] returns by another way to his gatehouse, and entering
+softly with his key, finds his [[Fire|fire]] still burning. He takes from a
 locked press a peculiar-looking pipe, which he fills—but not with
 tobacco—and, having adjusted the contents of the bowl, very carefully,
 with a little instrument, ascends an inner staircase of only a few
 steps, leading to two rooms. One of these is his own sleeping chamber:
 the other is his nephew’s. There is a light in each.
 
-His nephew lies asleep, calm and untroubled. John Jasper stands looking
-down upon him, his unlighted pipe in his hand, for some time, with a
+His nephew lies asleep, calm and untroubled. [[John Jasper]] stands looking
+down upon him, his unlighted pipe in his hand, for some [[Time|time]], with a
 fixed and deep attention. Then, hushing his footsteps, he passes to his
 own room, lights his pipe, and delivers himself to the Spectres it
 invokes at midnight.

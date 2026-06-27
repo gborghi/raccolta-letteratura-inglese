@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 12 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 12 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,9 +16,9 @@ tags:
 
 But, there was one thing clear in the midst of her mortification; and
 that was, that she hated and detested Nicholas with all the narrowness
-of mind and littleness of purpose worthy a descendant of the house of
+of mind and littleness of purpose worthy a descendant of the [[house]] of
 Squeers. And there was one comfort too; and that was, that every hour in
-every day she could wound his pride, and goad him with the infliction
+every day she could wound his [[Pride|pride]], and goad him with the infliction
 of some slight, or insult, or deprivation, which could not but have some
 effect on the most insensible person, and must be acutely felt by one so
 sensitive as Nicholas. With these two reflections uppermost in her mind,
@@ -29,7 +29,7 @@ her.
 
 And here it may be remarked, that Miss Squeers, having bestowed her
 affections (or whatever it might be that, in the absence of anything
-better, represented them) on Nicholas Nickleby, had never once seriously
+better, represented them) on [[Nicholas Nickleby]], had never once seriously
 contemplated the possibility of his being of a different opinion
 from herself in the business. Miss Squeers reasoned that she was
 prepossessing and beautiful, and that her father was master, and
@@ -57,9 +57,9 @@ Nor was this all. There was another and deeper system of annoyance which
 made his heart sink, and nearly drove him wild, by its injustice and
 cruelty.
 
-The wretched creature, Smike, since the night Nicholas had spoken
+The wretched creature, [[Smike]], since the [[Night|night]] Nicholas had spoken
 kindly to him in the schoolroom, had followed him to and fro, with an
-ever-restless desire to serve or help him; anticipating such little
+ever-restless [[Desire|desire]] to serve or help him; anticipating such little
 wants as his humble ability could supply, and content only to be near
 him. He would sit beside him for hours, looking patiently into his face;
 and a word would brighten up his care-worn visage, and call into it a
@@ -68,33 +68,33 @@ object now; and that object was, to show his attachment to the only
 person--that person a stranger--who had treated him, not to say with
 kindness, but like a human creature.
 
-Upon this poor being, all the spleen and ill-humour that could not be
+Upon this poor being, all the spleen and ill-[[Humour|humour]] that could not be
 vented on Nicholas were unceasingly bestowed. Drudgery would have been
-nothing--Smike was well used to that. Buffetings inflicted without
+nothing--[[Smike]] was [[Well|well]] used to that. Buffetings inflicted without
 cause, would have been equally a matter of course; for to them also
 he had served a long and weary apprenticeship; but it was no sooner
 observed that he had become attached to Nicholas, than stripes and
-blows, stripes and blows, morning, noon, and night, were his only
+blows, stripes and blows, morning, [[Noon|noon]], and [[Night|night]], were his only
 portion. Squeers was jealous of the influence which his man had so soon
-acquired, and his family hated him, and Smike paid for both. Nicholas
+acquired, and his family hated him, and [[Smike]] paid for both. Nicholas
 saw it, and ground his teeth at every repetition of the savage and
 cowardly attack.
 
-He had arranged a few regular lessons for the boys; and one night, as
+He had arranged a few regular lessons for the boys; and one [[Night|night]], as
 he paced up and down the dismal schoolroom, his swollen heart almost
 bursting to think that his protection and countenance should have
 increased the misery of the wretched being whose peculiar destitution
 had awakened his pity, he paused mechanically in a dark corner where sat
 the object of his thoughts.
 
-The poor soul was poring hard over a tattered book, with the traces of
-recent tears still upon his face; vainly endeavouring to master some
-task which a child of nine years old, possessed of ordinary powers,
+The poor [[Soul|soul]] was poring hard over a tattered book, with the traces of
+recent [[Tears|tears]] still upon his face; vainly endeavouring to master some
+task which a [[Child|child]] of nine years old, possessed of ordinary powers,
 could have conquered with ease, but which, to the addled brain of the
 crushed boy of nineteen, was a sealed and hopeless mystery. Yet there he
 sat, patiently conning the page again and again, stimulated by no boyish
-ambition, for he was the common jest and scoff even of the uncouth
-objects that congregated about him, but inspired by the one eager desire
+[[Ambition|ambition]], for he was the common jest and scoff even of the uncouth
+objects that congregated about him, but inspired by the one eager [[Desire|desire]]
 to please his solitary friend.
 
 Nicholas laid his hand upon his shoulder.
@@ -135,7 +135,7 @@ you?’
 ‘I shall be driven to that at last!’ said Nicholas. ‘The world is before
 me, after all.’
 
-‘Tell me,’ urged Smike, ‘is the world as bad and dismal as this place?’
+‘Tell me,’ urged [[Smike]], ‘is the world as bad and dismal as this place?’
 
 ‘Heaven forbid,’ replied Nicholas, pursuing the train of his own
 thoughts; ‘its hardest, coarsest toil, were happiness to this.’

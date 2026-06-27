@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 18 (part 3)"
+title: "[[Shirley]] — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,19 +26,19 @@ o' brass."
 
 
 
-"I almost was, in a way. But I forgave ye varry soon. Ye meant well. Ay,
+"I almost was, in a way. But I forgave ye varry soon. Ye meant [[Well|well]]. Ay,
 
-_I am_ proud, and so are _ye_; but your pride and mine is t' raight
+_I am_ proud, and so are _ye_; but your [[Pride|pride]] and mine is t' raight
 
-mak--what we call i' Yorkshire clean pride--such as Mr. Malone and Mr.
+mak--what we call i' Yorkshire clean [[Pride|pride]]--such as Mr. Malone and Mr.
 
-Donne knows nought about. Theirs is mucky pride. Now, I shall teach my
+Donne knows nought about. Theirs is mucky [[Pride|pride]]. Now, I shall teach my
 
-lasses to be as proud as Miss Shirley there, and my lads to be as proud
+lasses to be as proud as Miss [[Shirley]] there, and my lads to be as proud
 
 as myseln; but I dare ony o' 'em to be like t' curates. I'd lick little
 
-Michael if I seed him show any signs o' that feeling."
+[[Michael]] if I seed him show any signs o' that feeling."
 
 
 
@@ -62,17 +62,17 @@ themseln aboon us."
 
 "Now, William, be humble enough to tell me truly how you are getting on
 
-in the world. Are you well off?"
+in the world. Are you [[Well|well]] off?"
 
 
 
-"Miss Shirley, I am varry well off. Since I got into t' gardening line,
+"Miss [[Shirley]], I am varry [[Well|well]] off. Since I got into t' gardening line,
 
 wi' Mr. Yorke's help, and since Mr. Hall (another o' t' raight sort)
 
 helped my wife to set up a bit of a shop, I've nought to complain of. My
 
-family has plenty to eat and plenty to wear. My pride makes me find
+family has plenty to eat and plenty to wear. My [[Pride|pride]] makes me find
 
 means to have an odd pound now and then against rainy days; for I think
 
@@ -102,7 +102,7 @@ condition--I'll say so mich!"
 
 "Do? Ye can do not mich, poor young lass! Ye've gi'en your brass; ye've
 
-done well. If ye could transport your tenant, Mr. Moore, to Botany Bay,
+done [[Well|well]]. If ye could transport your tenant, Mr. Moore, to Botany Bay,
 
 ye'd happen do better. Folks hate him."
 
@@ -122,7 +122,7 @@ talk so."
 
 
 
-"But," interposed Shirley, "supposing Moore was driven from the country,
+"But," interposed [[Shirley]], "supposing Moore was driven from the country,
 
 and his mill razed to the ground, would people have more work?"
 
@@ -136,7 +136,7 @@ he cannot better himself; and there is dishonest men plenty to guide
 
 them to the devil, scoundrels that reckons to be the 'people's friends,'
 
-and that knows nought about the people, and is as insincere as Lucifer.
+and that knows nought about the people, and is as insincere as [[Lucifer]].
 
 I've lived aboon forty year in the world, and I believe that 'the
 
@@ -152,7 +152,7 @@ then, sich as ye two young uns and me, that, being in a different
 
 sphere, can understand t' one t' other, and be friends wi'out
 
-slavishness o' one hand or pride o' t' other. Them that reckons to be
+slavishness o' one hand or [[Pride|pride]] o' t' other. Them that reckons to be
 
 friends to a lower class than their own fro' political motives is never
 
@@ -190,23 +190,23 @@ he stood.
 
 "And I'll warrant my maister," was the answer.--"Young ladies,"
 
-continued Joe, assuming a lordly air, "ye'd better go into th' house."
+continued Joe, assuming a lordly air, "ye'd better go into th' [[house]]."
 
 
 
-"I wonder what for?" inquired Shirley, to whom the overlooker's somewhat
+"I [[Wonder|wonder]] what for?" inquired [[Shirley]], to whom the overlooker's somewhat
 
 pragmatical manners were familiar, and who was often at war with him;
 
 for Joe, holding supercilious theories about women in general, resented
 
-greatly, in his secret soul, the fact of his master and his master's
+greatly, in his secret [[Soul|soul]], the fact of his master and his master's
 
-mill being, in a manner, under petticoat government, and had felt as
+mill being, in a manner, under petticoat [[government]], and had felt as
 
 wormwood and gall certain business visits of the heiress to the Hollow's
 
-counting-house.
+counting-[[house]].
 
 
 
@@ -214,13 +214,13 @@ counting-house.
 
 
 
-"Indeed! There is prayer and preaching agate in that church. Are we not
+"Indeed! There is [[prayer]] and preaching agate in that church. Are we not
 
 concerned in that?"
 
 
 
-"Ye have been present neither at the prayer nor preaching, ma'am, if I
+"Ye have been present neither at the [[prayer]] nor preaching, ma'am, if I
 
 have observed aright. What I alluded to was politics. William Farren
 
@@ -228,9 +228,9 @@ here was touching on that subject, if I'm not mista'en."
 
 
 
-"Well, what then? Politics are our habitual study, Joe. Do you know I
+"[[Well]], what then? Politics are our habitual study, Joe. Do you know I
 
-see a newspaper every day, and two of a Sunday?"
+see a newspaper every day, and two of a [[Sunday]]?"
 
 
 
@@ -248,13 +248,13 @@ look over the market prices. In short, I read just what gentlemen read."
 
 Joe looked as if he thought this talk was like the chattering of a pie.
 
-He replied to it by a disdainful silence.
+He replied to it by a disdainful [[Silence|silence]].
 
 
 
 "Joe," continued Miss Keeldar, "I never yet could ascertain properly
 
-whether you are a Whig or a Tory. Pray, which party has the honour of
+whether you are a Whig or a Tory. Pray, which party has the [[Honour|honour]] of
 
 your alliance?"
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE"
+title: "The [[Pickwick]] Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,11 +15,11 @@ tags:
 
 
 CHAPTER XXVI. WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE
-ACTION OF BARDELL AGAINST PICKWICK
+ACTION OF BARDELL AGAINST [[Pickwick|PICKWICK]]
 
-Having accomplished the main end and object of his journey, by the
-exposure of Jingle, Mr. Pickwick resolved on immediately returning to
-London, with the view of becoming acquainted with the proceedings which
+Having accomplished the main end and object of his [[Journey|journey]], by the
+exposure of Jingle, Mr. [[Pickwick]] resolved on immediately returning to
+[[London]], with the view of becoming acquainted with the proceedings which
 had been taken against him, in the meantime, by Messrs. Dodson and Fogg.
 Acting upon this resolution with all the energy and decision of his
 character, he mounted to the back seat of the first coach which left
@@ -28,36 +28,36 @@ length in the two preceding chapters; and accompanied by his three
 friends, and Mr. Samuel Weller, arrived in the metropolis, in perfect
 health and safety, the same evening.
 
-Here the friends, for a short time, separated. Messrs. Tupman, Winkle,
+Here the friends, for a short [[Time|time]], separated. Messrs. Tupman, Winkle,
 and Snodgrass repaired to their several homes to make such preparations
 as might be requisite for their forthcoming visit to Dingley Dell; and
-Mr. Pickwick and Sam took up their present abode in very good, old-
+Mr. [[Pickwick]] and Sam took up their present abode in very good, old-
 fashioned, and comfortable quarters, to wit, the George and Vulture
 Tavern and Hotel, George Yard, Lombard Street.
 
-Mr. Pickwick had dined, finished his second pint of particular port,
+Mr. [[Pickwick]] had dined, finished his second pint of particular port,
 pulled his silk handkerchief over his head, put his feet on the fender,
 and thrown himself back in an easy-chair, when the entrance of Mr.
 Weller with his carpet-bag, aroused him from his tranquil meditation.
 
-‘Sam,’ said Mr. Pickwick.
+‘Sam,’ said Mr. [[Pickwick]].
 
 ‘Sir,’ said Mr. Weller.
 
-‘I have just been thinking, Sam,’ said Mr. Pickwick, ‘that having left a
+‘I have just been thinking, Sam,’ said Mr. [[Pickwick]], ‘that having left a
 good many things at Mrs. Bardell’s, in Goswell Street, I ought to
 arrange for taking them away, before I leave town again.’
 
 ‘Wery good, sir,’ replied Mr. Weller.
 
 ‘I could send them to Mr. Tupman’s, for the present, Sam,’ continued Mr.
-Pickwick, ‘but before we take them away, it is necessary that they
+[[Pickwick]], ‘but before we take them away, it is necessary that they
 should be looked up, and put together. I wish you would step up to
 Goswell Street, Sam, and arrange about it.’
 
 ‘At once, Sir?’ inquired Mr. Weller.
 
-‘At once,’ replied Mr. Pickwick. ‘And stay, Sam,’ added Mr. Pickwick,
+‘At once,’ replied Mr. [[Pickwick]]. ‘And stay, Sam,’ added Mr. [[Pickwick]],
 pulling out his purse, ‘there is some rent to pay. The quarter is not
 due till Christmas, but you may pay it, and have done with it. A month’s
 notice terminates my tenancy. Here it is, written out. Give it, and tell
@@ -69,7 +69,7 @@ Mrs. Bardell she may put a bill up, as soon as she likes.’
 
 Mr. Weller stepped slowly to the door, as if he expected something more;
 slowly opened it, slowly stepped out, and had slowly closed it within a
-couple of inches, when Mr. Pickwick called out--
+couple of inches, when Mr. [[Pickwick]] called out--
 
 ‘Sam.’
 
@@ -80,15 +80,15 @@ behind him.
 Bardell herself seems disposed towards me, and whether it is really
 probable that this vile and groundless action is to be carried to
 extremity. I say I do not object to you doing this, if you wish it,
-Sam,’ said Mr. Pickwick.
+Sam,’ said Mr. [[Pickwick]].
 
-Sam gave a short nod of intelligence, and left the room. Mr. Pickwick
+Sam gave a short nod of intelligence, and left the room. Mr. [[Pickwick]]
 drew the silk handkerchief once more over his head, And composed himself
 for a nap. Mr. Weller promptly walked forth, to execute his commission.
 
-It was nearly nine o’clock when he reached Goswell Street. A couple of
+It was nearly nine o’[[Clock|clock]] when he reached Goswell Street. A couple of
 candles were burning in the little front parlour, and a couple of caps
-were reflected on the window-blind. Mrs. Bardell had got company.
+were reflected on the [[Window|window]]-blind. Mrs. Bardell had got company.
 
 Mr. Weller knocked at the door, and after a pretty long interval--
 occupied by the party without, in whistling a tune, and by the party
@@ -96,33 +96,33 @@ within, in persuading a refractory flat candle to allow itself to be
 lighted--a pair of small boots pattered over the floor-cloth, and Master
 Bardell presented himself.
 
-‘Well, young townskip,’ said Sam, ‘how’s mother?’
+‘[[Well]], young townskip,’ said Sam, ‘how’s mother?’
 
-‘She’s pretty well,’ replied Master Bardell, ‘so am I.’
+‘She’s pretty [[Well|well]],’ replied Master Bardell, ‘so am I.’
 
-‘Well, that’s a mercy,’ said Sam; ‘tell her I want to speak to her, will
+‘[[Well]], that’s a [[Mercy|mercy]],’ said Sam; ‘tell her I want to speak to her, will
 you, my hinfant fernomenon?’
 
 Master Bardell, thus adjured, placed the refractory flat candle on the
-bottom stair, and vanished into the front parlour with his message.
+[[Bottom|bottom]] stair, and vanished into the front parlour with his message.
 
-The two caps, reflected on the window-blind, were the respective head-
+The two caps, reflected on the [[Window|window]]-blind, were the respective head-
 dresses of a couple of Mrs. Bardell’s most particular acquaintance, who
 had just stepped in, to have a quiet cup of tea, and a little warm
-supper of a couple of sets of pettitoes and some toasted cheese. The
-cheese was simmering and browning away, most delightfully, in a little
-Dutch oven before the fire; the pettitoes were getting on deliciously in
+supper of a couple of sets of pettitoes and some toasted [[cheese]]. The
+[[cheese]] was simmering and browning away, most delightfully, in a little
+Dutch oven before the [[Fire|fire]]; the pettitoes were getting on deliciously in
 a little tin saucepan on the hob; and Mrs. Bardell and her two friends
-were getting on very well, also, in a little quiet conversation about
+were getting on very [[Well|well]], also, in a little quiet conversation about
 and concerning all their particular friends and acquaintance; when
 Master Bardell came back from answering the door, and delivered the
 message intrusted to him by Mr. Samuel Weller.
 
-‘Mr. Pickwick’s servant!’ said Mrs. Bardell, turning pale.
+‘Mr. [[Pickwick]]’s servant!’ said Mrs. Bardell, turning pale.
 
-‘Bless my soul!’ said Mrs. Cluppins.
+‘Bless my [[Soul|soul]]!’ said Mrs. Cluppins.
 
-‘Well, I raly would not ha’ believed it, unless I had ha’ happened to
+‘[[Well]], I raly would not ha’ believed it, unless I had ha’ happened to
 ha’ been here!’ said Mrs. Sanders.
 
 Mrs. Cluppins was a little, brisk, busy-looking woman; Mrs. Sanders was
@@ -131,7 +131,7 @@ a big, fat, heavy-faced personage; and the two were the company.
 Mrs. Bardell felt it proper to be agitated; and as none of the three
 exactly knew whether under existing circumstances, any communication,
 otherwise than through Dodson & Fogg, ought to be held with Mr.
-Pickwick’s servant, they were all rather taken by surprise. In this
+[[Pickwick]]’s servant, they were all rather taken by surprise. In this
 state of indecision, obviously the first thing to be done, was to thump
 the boy for finding Mr. Weller at the door. So his mother thumped him,
 and he cried melodiously.
@@ -141,9 +141,9 @@ and he cried melodiously.
 ‘Yes; don’t worrit your poor mother,’ said Mrs. Sanders.
 
 ‘She’s quite enough to worrit her, as it is, without you, Tommy,’ said
-Mrs. Cluppins, with sympathising resignation.
+Mrs. Cluppins, with sympathising [[Resignation|resignation]].
 
-‘Ah! worse luck, poor lamb!’ said Mrs. Sanders.
+‘Ah! worse luck, poor [[Lamb|lamb]]!’ said Mrs. Sanders.
 
 At all which moral reflections, Master Bardell howled the louder.
 
@@ -164,7 +164,7 @@ Mr. Weller immediately took the hint; and presenting himself in the
 parlour, explained his business to Mrs. Bardell thus--
 
 ‘Wery sorry to ‘casion any personal inconwenience, ma’am, as the
-housebreaker said to the old lady when he put her on the fire; but as me
+housebreaker said to the old lady when he put her on the [[Fire|fire]]; but as me
 and my governor ‘s only jest come to town, and is jest going away agin,
 it can’t be helped, you see.’
 
@@ -184,16 +184,16 @@ Fourthly, that you may let the place as soon as you like--and that’s
 all.’
 
 ‘Whatever has happened,’ said Mrs. Bardell, ‘I always have said, and
-always will say, that in every respect but one, Mr. Pickwick has always
+always will say, that in every respect but one, Mr. [[Pickwick]] has always
 behaved himself like a perfect gentleman. His money always as good as
 the bank--always.’
 
 As Mrs. Bardell said this, she applied her handkerchief to her eyes, and
 went out of the room to get the receipt.
 
-Sam well knew that he had only to remain quiet, and the women were sure
+Sam [[Well|well]] knew that he had only to remain quiet, and the women were sure
 to talk; so he looked alternately at the tin saucepan, the toasted
-cheese, the wall, and the ceiling, in profound silence.
+[[cheese]], the wall, and the ceiling, in profound [[Silence|silence]].
 
 ‘Poor dear!’ said Mrs. Cluppins.
 
@@ -209,7 +209,7 @@ tell him so.’
 I wish you had,’ said Sam.
 
 ‘To see how dreadful she takes on, going moping about, and taking no
-pleasure in nothing, except when her friends comes in, out of charity,
+pleasure in nothing, except when her friends comes in, out of [[Charity|charity]],
 to sit with her, and make her comfortable,’ resumed Mrs. Cluppins,
 glancing at the tin saucepan and the Dutch oven, ‘it’s shocking!’
 
@@ -234,7 +234,7 @@ Mrs. Sanders, who smiled back again.
 re-entered with the receipt.
 
 ‘Here’s the receipt, Mr. Weller,’ said Mrs. Bardell, ‘and here’s the
-change, and I hope you’ll take a little drop of something to keep the
+change, and I [[Hope|hope]] you’ll take a little drop of something to keep the
 cold out, if it’s only for old acquaintance’ sake, Mr. Weller.’
 
 Sam saw the advantage he should gain, and at once acquiesced; whereupon
@@ -246,17 +246,17 @@ glasses, and filled them too.
 ‘Lauk, Mrs. Bardell,’ said Mrs. Cluppins, ‘see what you’ve been and
 done!’
 
-‘Well, that is a good one!’ ejaculated Mrs. Sanders.
+‘[[Well]], that is a good one!’ ejaculated Mrs. Sanders.
 
 ‘Ah, my poor head!’ said Mrs. Bardell, with a faint smile.
 
 Sam understood all this, of course, so he said at once, that he never
 could drink before supper, unless a lady drank with him. A great deal of
-laughter ensued, and Mrs. Sanders volunteered to humour him, so she took
+laughter ensued, and Mrs. Sanders volunteered to [[Humour|humour]] him, so she took
 a slight sip out of her glass. Then Sam said it must go all round, so
 they all took a slight sip. Then little Mrs. Cluppins proposed as a
-toast, ‘Success to Bardell agin Pickwick’; and then the ladies emptied
-their glasses in honour of the sentiment, and got very talkative
+toast, ‘[[success|Success]] to Bardell agin [[Pickwick]]’; and then the ladies emptied
+their glasses in [[Honour|honour]] of the sentiment, and got very talkative
 directly.
 
 ‘I suppose you’ve heard what’s going forward, Mr. Weller?’ said Mrs.
@@ -291,9 +291,9 @@ it?’ added Mrs. Cluppins, ‘when they do it all on speculation!’
 
 ‘But the plaintiff must get it,’ resumed Mrs. Cluppins.
 
-‘I hope so,’ said Mrs. Bardell.
+‘I [[Hope|hope]] so,’ said Mrs. Bardell.
 
-‘Oh, there can’t be any doubt about it,’ rejoined Mrs. Sanders.
+‘Oh, there can’t be any [[Doubt|doubt]] about it,’ rejoined Mrs. Sanders.
 
 ‘Vell,’ said Sam, rising and setting down his glass, ‘all I can say is,
 that I vish you _may _get it.’
@@ -312,11 +312,11 @@ give ‘em.’
 be inclined to bestow upon them!’ said the gratified Mrs. Bardell.
 
 ‘Amen to that,’ replied Sam, ‘and a fat and happy liven’ they’d get out
-of it! Wish you good-night, ladies.’
+of it! Wish you good-[[Night|night]], ladies.’
 
 To the great relief of Mrs. Sanders, Sam was allowed to depart without
 any reference, on the part of the hostess, to the pettitoes and toasted
-cheese; to which the ladies, with such juvenile assistance as Master
+[[cheese]]; to which the ladies, with such juvenile assistance as Master
 Bardell could afford, soon afterwards rendered the amplest justice--
 indeed they wholly vanished before their strenuous exertions.
 
@@ -324,10 +324,10 @@ Mr. Weller wended his way back to the George and Vulture, and faithfully
 recounted to his master, such indications of the sharp practice of
 Dodson & Fogg, as he had contrived to pick up in his visit to Mrs.
 Bardell’s. An interview with Mr. Perker, next day, more than confirmed
-Mr. Weller’s statement; and Mr. Pickwick was fain to prepare for his
+Mr. Weller’s statement; and Mr. [[Pickwick]] was fain to prepare for his
 Christmas visit to Dingley Dell, with the pleasant anticipation that
 some two or three months afterwards, an action brought against him for
-damages sustained by reason of a breach of promise of marriage, would be
-publicly tried in the Court of Common Pleas; the plaintiff having all
+damages sustained by reason of a breach of promise of [[Marriage|marriage]], would be
+publicly tried in the [[Court]] of Common Pleas; the plaintiff having all
 the advantages derivable, not only from the force of circumstances, but
 from the sharp practice of Dodson & Fogg to boot.

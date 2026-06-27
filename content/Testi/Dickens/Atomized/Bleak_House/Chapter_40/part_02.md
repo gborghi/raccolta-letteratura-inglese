@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 40 (part 2)"
+title: "Bleak [[house|House]] — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-“She is not well, ma’am,” says a groom in Mrs. Rouncewell’s
+“She is not [[Well|well]], ma’am,” says a groom in Mrs. Rouncewell’s
 audience-chamber.
 
-“My Lady not well! What’s the matter?”
+“My Lady not [[Well|well]]! What’s the matter?”
 
 “Why, my Lady has been but poorly, ma’am, since she was last here—I
 don’t mean with the family, ma’am, but when she was here as a bird of
@@ -47,63 +47,63 @@ better man than the Honourable Bob Stables to meet the Hunt at
 dinner, there could not possibly be. Better got up gentlemen than the
 other cousins to ride over to polling-booths and hustings here and
 there, and show themselves on the side of England, it would be hard
-to find. Volumnia is a little dim, but she is of the true descent;
+to find. [[Volumnia]] is a little dim, but she is of the true descent;
 and there are many who appreciate her sprightly conversation, her
-French conundrums so old as to have become in the cycles of time
-almost new again, the honour of taking the fair Dedlock in to dinner,
-or even the privilege of her hand in the dance. On these national
-occasions dancing may be a patriotic service, and Volumnia is
+French conundrums so old as to have become in the cycles of [[Time|time]]
+almost new again, the [[Honour|honour]] of taking the fair Dedlock in to dinner,
+or even the privilege of her hand in the [[Dance|dance]]. On these national
+occasions dancing may be a patriotic service, and [[Volumnia]] is
 constantly seen hopping about for the good of an ungrateful and
 unpensioning country.
 
 My Lady takes no great pains to entertain the numerous guests, and
 being still unwell, rarely appears until late in the day. But at all
 the dismal dinners, leaden lunches, basilisk balls, and other
-melancholy pageants, her mere appearance is a relief. As to Sir
+[[Melancholy|melancholy]] pageants, her mere appearance is a relief. As to Sir
 Leicester, he conceives it utterly impossible that anything can be
 wanting, in any direction, by any one who has the good fortune to be
-received under that roof; and in a state of sublime satisfaction, he
+received under that roof; and in a state of [[Sublime|sublime]] satisfaction, he
 moves among the company, a magnificent refrigerator.
 
-Daily the cousins trot through dust and canter over roadside turf,
+Daily the cousins trot through [[Dust|dust]] and canter over roadside turf,
 away to hustings and polling-booths (with leather gloves and
 hunting-whips for the counties and kid gloves and riding-canes for
 the boroughs), and daily bring back reports on which Sir Leicester
 holds forth after dinner. Daily the restless men who have no
 occupation in life present the appearance of being rather busy. Daily
-Volumnia has a little cousinly talk with Sir Leicester on the state
+[[Volumnia]] has a little cousinly talk with Sir Leicester on the state
 of the nation, from which Sir Leicester is disposed to conclude that
-Volumnia is a more reflecting woman than he had thought her.
+[[Volumnia]] is a more reflecting woman than he had thought her.
 
-“How are we getting on?” says Miss Volumnia, clasping her hands. “ARE
+“How are we getting on?” says Miss [[Volumnia]], clasping her hands. “ARE
 we safe?”
 
-The mighty business is nearly over by this time, and Doodle will
+The mighty business is nearly over by this [[Time|time]], and Doodle will
 throw himself off the country in a few days more. Sir Leicester has
 just appeared in the long drawing-room after dinner, a bright
 particular star surrounded by clouds of cousins.
 
-“Volumnia,” replies Sir Leicester, who has a list in his hand, “we
+“[[Volumnia]],” replies Sir Leicester, who has a list in his hand, “we
 are doing tolerably.”
 
 “Only tolerably!”
 
-Although it is summer weather, Sir Leicester always has his own
-particular fire in the evening. He takes his usual screened seat near
+Although it is [[Summer|summer]] weather, Sir Leicester always has his own
+particular [[Fire|fire]] in the evening. He takes his usual screened seat near
 it and repeats with much firmness and a little displeasure, as who
-should say, I am not a common man, and when I say tolerably, it must
-not be understood as a common expression, “Volumnia, we are doing
+should say, I am not a [[Common Man|common man]], and when I say tolerably, it must
+not be understood as a common expression, “[[Volumnia]], we are doing
 tolerably.”
 
-“At least there is no opposition to YOU,” Volumnia asserts with
+“At least there is no opposition to YOU,” [[Volumnia]] asserts with
 confidence.
 
-“No, Volumnia. This distracted country has lost its senses in many
+“No, [[Volumnia]]. This distracted country has lost its senses in many
 respects, I grieve to say, but—”
 
 “It is not so mad as that. I am glad to hear it!”
 
-Volumnia’s finishing the sentence restores her to favour. Sir
+[[Volumnia]]’s finishing the sentence restores her to favour. Sir
 Leicester, with a gracious inclination of his head, seems to say to
 himself, “A sensible woman this, on the whole, though occasionally
 precipitate.”
@@ -115,17 +115,17 @@ order to be promptly executed. Two other little seats that belong to
 him he treats as retail orders of less importance, merely sending
 down the men and signifying to the tradespeople, “You will have the
 goodness to make these materials into two members of Parliament and
-to send them home when done.”
+to send them [[Home|home]] when done.”
 
-“I regret to say, Volumnia, that in many places the people have shown
-a bad spirit, and that this opposition to the government has been of
+“I regret to say, [[Volumnia]], that in many places the people have shown
+a bad spirit, and that this opposition to the [[government]] has been of
 a most determined and most implacable description.”
 
-“W-r-retches!” says Volumnia.
+“W-r-retches!” says [[Volumnia]].
 
 “Even,” proceeds Sir Leicester, glancing at the circumjacent cousins
 on sofas and ottomans, “even in many—in fact, in most—of those
-places in which the government has carried it against a faction—”
+places in which the [[government]] has carried it against a faction—”
 
 (Note, by the way, that the Coodleites are always a faction with the
 Doodleites, and that the Doodleites occupy exactly the same position
@@ -137,7 +137,7 @@ being put to an enormous expense. Hundreds,” says Sir Leicester,
 eyeing the cousins with increasing dignity and swelling indignation,
 “hundreds of thousands of pounds!”
 
-If Volumnia have a fault, it is the fault of being a trifle too
-innocent, seeing that the innocence which would go extremely well
+If [[Volumnia]] have a fault, it is the fault of being a trifle too
+[[Innocent|innocent]], seeing that the [[innocence]] which would go extremely [[Well|well]]
 with a sash and tucker is a little out of keeping with the rouge and
-pearl necklace. Howbeit, impelled by innocence, she asks, “What for?”
+pearl necklace. Howbeit, impelled by [[innocence]], she asks, “What for?”

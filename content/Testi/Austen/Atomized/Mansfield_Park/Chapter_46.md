@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 46"
+title: "[[Mansfield Park]] — Chapter 46"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER XLVI
 
 
-As Fanny could not doubt that her answer was conveying a real
+As Fanny could not [[Doubt|doubt]] that her answer was conveying a real
 disappointment, she was rather in expectation, from her knowledge of
 Miss Crawford’s temper, of being urged again; and though no second
 letter arrived for the space of a week, she had still the same feeling
@@ -42,7 +42,7 @@ Henry is blameless, and in spite of a moment’s _etourderie_, thinks of
 nobody but you. Say not a word of it; hear nothing, surmise nothing,
 whisper nothing till I write again. I am sure it will be all hushed up,
 and nothing proved but Rushworth’s folly. If they are gone, I would lay
-my life they are only gone to Mansfield Park, and Julia with them. But
+my life they are only gone to [[Mansfield Park]], and [[Julia]] with them. But
 why would not you let us come for you? I wish you may not repent
 it.—Yours, etc.”
 
@@ -51,7 +51,7 @@ her, it was impossible for her to understand much of this strange
 letter. She could only perceive that it must relate to Wimpole Street
 and Mr. Crawford, and only conjecture that something very imprudent had
 just occurred in that quarter to draw the notice of the world, and to
-excite her jealousy, in Miss Crawford’s apprehension, if she heard it.
+excite her [[Jealousy|jealousy]], in Miss Crawford’s apprehension, if she heard it.
 Miss Crawford need not be alarmed for her. She was only sorry for the
 parties concerned and for Mansfield, if the report should spread so
 far; but she hoped it might not. If the Rushworths were gone themselves
@@ -89,12 +89,12 @@ that room, of her father and his newspaper, came across her. No candle
 was now wanted. The sun was yet an hour and half above the horizon. She
 felt that she had, indeed, been three months there; and the sun’s rays
 falling strongly into the parlour, instead of cheering, made her still
-more melancholy, for sunshine appeared to her a totally different thing
+more [[Melancholy|melancholy]], for sunshine appeared to her a totally different thing
 in a town and in the country. Here, its power was only a glare: a
 stifling, sickly glare, serving but to bring forward stains and dirt
 that might otherwise have slept. There was neither health nor gaiety in
 sunshine in a town. She sat in a blaze of oppressive heat, in a cloud
-of moving dust, and her eyes could only wander from the walls, marked
+of moving [[Dust|dust]], and her eyes could only wander from the walls, marked
 by her father’s head, to the table cut and notched by her brothers,
 where stood the tea-board never thoroughly cleaned, the cups and
 saucers wiped in streaks, the milk a mixture of motes floating in thin
@@ -125,7 +125,7 @@ had to announce to the world a matrimonial _fracas_ in the family of
 Mr. R. of Wimpole Street; the beautiful Mrs. R., whose name had not
 long been enrolled in the lists of Hymen, and who had promised to
 become so brilliant a leader in the fashionable world, having quitted
-her husband’s roof in company with the well-known and captivating Mr.
+her husband’s roof in company with the [[Well|well]]-known and captivating Mr.
 C., the intimate friend and associate of Mr. R., and it was not known
 even to the editor of the newspaper whither they were gone.”
 
@@ -133,10 +133,10 @@ even to the editor of the newspaper whither they were gone.”
 cannot be true; it must mean some other people.”
 
 She spoke from the instinctive wish of delaying shame; she spoke with a
-resolution which sprung from despair, for she spoke what she did not,
+resolution which sprung from [[Despair|despair]], for she spoke what she did not,
 could not believe herself. It had been the shock of conviction as she
-read. The truth rushed on her; and how she could have spoken at all,
-how she could even have breathed, was afterwards matter of wonder to
+read. The [[Truth|truth]] rushed on her; and how she could have spoken at all,
+how she could even have breathed, was afterwards matter of [[Wonder|wonder]] to
 herself.
 
 Mr. Price cared too little about the report to make her much answer.
@@ -144,81 +144,81 @@ Mr. Price cared too little about the report to make her much answer.
 going to the devil nowadays that way, that there was no answering for
 anybody.”
 
-“Indeed, I hope it is not true,” said Mrs. Price plaintively; “it would
+“Indeed, I [[Hope|hope]] it is not true,” said Mrs. Price plaintively; “it would
 be so very shocking! If I have spoken once to Rebecca about that
 carpet, I am sure I have spoke at least a dozen times; have not I,
 Betsey? And it would not be ten minutes’ work.”
 
 The horror of a mind like Fanny’s, as it received the conviction of
-such guilt, and began to take in some part of the misery that must
+such [[Guilt|guilt]], and began to take in some part of the misery that must
 ensue, can hardly be described. At first, it was a sort of
 stupefaction; but every moment was quickening her perception of the
-horrible evil. She could not doubt, she dared not indulge a hope, of
+horrible evil. She could not [[Doubt|doubt]], she dared not indulge a [[Hope|hope]], of
 the paragraph being false. Miss Crawford’s letter, which she had read
 so often as to make every line her own, was in frightful conformity
-with it. Her eager defence of her brother, her hope of its being
+with it. Her eager defence of her brother, her [[Hope|hope]] of its being
 _hushed_ _up_, her evident agitation, were all of a piece with
 something very bad; and if there was a woman of character in existence,
 who could treat as a trifle this sin of the first magnitude, who would
-try to gloss it over, and desire to have it unpunished, she could
+try to gloss it over, and [[Desire|desire]] to have it unpunished, she could
 believe Miss Crawford to be the woman! Now she could see her own
 mistake as to _who_ were gone, or _said_ to be gone. It was not Mr. and
 Mrs. Rushworth; it was Mrs. Rushworth and Mr. Crawford.
 
 Fanny seemed to herself never to have been shocked before. There was no
 possibility of rest. The evening passed without a pause of misery, the
-night was totally sleepless. She passed only from feelings of sickness
+[[Night|night]] was totally sleepless. She passed only from feelings of sickness
 to shudderings of horror; and from hot fits of fever to cold. The event
 was so shocking, that there were moments even when her heart revolted
 from it as impossible: when she thought it could not be. A woman
 married only six months ago; a man professing himself devoted, even
 _engaged_ to another; that other her near relation; the whole family,
 both families connected as they were by tie upon tie; all friends, all
-intimate together! It was too horrible a confusion of guilt, too gross
-a complication of evil, for human nature, not in a state of utter
+intimate together! It was too horrible a confusion of [[Guilt|guilt]], too gross
+a complication of evil, for human [[Nature|nature]], not in a state of utter
 barbarism, to be capable of! yet her judgment told her it was so. _His_
-unsettled affections, wavering with his vanity, _Maria’s_ decided
+unsettled affections, wavering with his [[Vanity|vanity]], _Maria’s_ decided
 attachment, and no sufficient principle on either side, gave it
 possibility: Miss Crawford’s letter stampt it a fact.
 
 What would be the consequence? Whom would it not injure? Whose views
 might it not affect? Whose peace would it not cut up for ever? Miss
-Crawford, herself, Edmund; but it was dangerous, perhaps, to tread such
+Crawford, herself, [[Edmund]]; but it was dangerous, perhaps, to tread such
 ground. She confined herself, or tried to confine herself, to the
 simple, indubitable family misery which must envelop all, if it were
-indeed a matter of certified guilt and public exposure. The mother’s
-sufferings, the father’s; there she paused. Julia’s, Tom’s, Edmund’s;
+indeed a matter of certified [[Guilt|guilt]] and public exposure. The mother’s
+sufferings, the father’s; there she paused. [[Julia]]’s, Tom’s, [[Edmund]]’s;
 there a yet longer pause. They were the two on whom it would fall most
-horribly. Sir Thomas’s parental solicitude and high sense of honour and
-decorum, Edmund’s upright principles, unsuspicious temper, and genuine
+horribly. Sir Thomas’s parental solicitude and high sense of [[Honour|honour]] and
+decorum, [[Edmund]]’s upright principles, unsuspicious temper, and genuine
 strength of feeling, made her think it scarcely possible for them to
 support life and reason under such disgrace; and it appeared to her
-that, as far as this world alone was concerned, the greatest blessing
+that, as far as this world [[Alone|alone]] was concerned, the greatest blessing
 to every one of kindred with Mrs. Rushworth would be instant
 annihilation.
 
 Nothing happened the next day, or the next, to weaken her terrors. Two
 posts came in, and brought no refutation, public or private. There was
 no second letter to explain away the first from Miss Crawford; there
-was no intelligence from Mansfield, though it was now full time for her
+was no intelligence from Mansfield, though it was now full [[Time|time]] for her
 to hear again from her aunt. This was an evil omen. She had, indeed,
-scarcely the shadow of a hope to soothe her mind, and was reduced to so
+scarcely the [[Shadow|shadow]] of a [[Hope|hope]] to soothe her mind, and was reduced to so
 low and wan and trembling a condition, as no mother, not unkind, except
 Mrs. Price could have overlooked, when the third day did bring the
 sickening knock, and a letter was again put into her hands. It bore the
-London postmark, and came from Edmund.
+[[London]] postmark, and came from [[Edmund]].
 
 “Dear Fanny,—You know our present wretchedness. May God support you
 under your share! We have been here two days, but there is nothing to
 be done. They cannot be traced. You may not have heard of the last
-blow—Julia’s elopement; she is gone to Scotland with Yates. She left
-London a few hours before we entered it. At any other time this would
+blow—[[Julia]]’s elopement; she is gone to Scotland with Yates. She left
+[[London]] a few hours before we entered it. At any other [[Time|time]] this would
 have been felt dreadfully. Now it seems nothing; yet it is an heavy
 aggravation. My father is not overpowered. More cannot be hoped. He is
-still able to think and act; and I write, by his desire, to propose
-your returning home. He is anxious to get you there for my mother’s
+still able to think and act; and I write, by his [[Desire|desire]], to propose
+your returning [[Home|home]]. He is anxious to get you there for my mother’s
 sake. I shall be at Portsmouth the morning after you receive this, and
-hope to find you ready to set off for Mansfield. My father wishes you
+[[Hope|hope]] to find you ready to set off for Mansfield. My father wishes you
 to invite Susan to go with you for a few months. Settle it as you like;
 say what is proper; I am sure you will feel such an instance of his
 kindness at such a moment! Do justice to his meaning, however I may
@@ -233,9 +233,9 @@ happy, while so many were miserable. The evil which brought such good
 to her! She dreaded lest she should learn to be insensible of it. To be
 going so soon, sent for so kindly, sent for as a comfort, and with
 leave to take Susan, was altogether such a combination of blessings as
-set her heart in a glow, and for a time seemed to distance every pain,
+set her heart in a glow, and for a [[Time|time]] seemed to distance every [[Pain|pain]],
 and make her incapable of suitably sharing the distress even of those
-whose distress she thought of most. Julia’s elopement could affect her
+whose distress she thought of most. [[Julia]]’s elopement could affect her
 comparatively but little; she was amazed and shocked; but it could not
 occupy her, could not dwell on her mind. She was obliged to call
 herself to think of it, and acknowledge it to be terrible and grievous,
@@ -243,10 +243,10 @@ or it was escaping her, in the midst of all the agitating pressing
 joyful cares attending this summons to herself.
 
 There is nothing like employment, active indispensable employment, for
-relieving sorrow. Employment, even melancholy, may dispel melancholy,
+relieving sorrow. Employment, even [[Melancholy|melancholy]], may dispel [[Melancholy|melancholy]],
 and her occupations were hopeful. She had so much to do, that not even
 the horrible story of Mrs. Rushworth (now fixed to the last point of
-certainty), could affect her as it had done before. She had not time to
+certainty), could affect her as it had done before. She had not [[Time|time]] to
 be miserable. Within twenty-four hours she was hoping to be gone; her
 father and mother must be spoken to, Susan prepared, everything got
 ready. Business followed business; the day was hardly long enough. The
@@ -267,27 +267,27 @@ much as ought to be expected from human virtue at fourteen.
 
 As nothing was really left for the decision of Mrs. Price, or the good
 offices of Rebecca, everything was rationally and duly accomplished,
-and the girls were ready for the morrow. The advantage of much sleep to
-prepare them for their journey was impossible. The cousin who was
+and the girls were ready for the morrow. The advantage of much [[Sleep|sleep]] to
+prepare them for their [[Journey|journey]] was impossible. The cousin who was
 travelling towards them could hardly have less than visited their
 agitated spirits—one all happiness, the other all varying and
 indescribable perturbation.
 
-By eight in the morning Edmund was in the house. The girls heard his
+By eight in the morning [[Edmund]] was in the [[house]]. The girls heard his
 entrance from above, and Fanny went down. The idea of immediately
-seeing him, with the knowledge of what he must be suffering, brought
+seeing him, with the knowledge of what he must be [[Suffering|suffering]], brought
 back all her own first feelings. He so near her, and in misery. She was
-ready to sink as she entered the parlour. He was alone, and met her
+ready to sink as she entered the parlour. He was [[Alone|alone]], and met her
 instantly; and she found herself pressed to his heart with only these
 words, just articulate, “My Fanny, my only sister; my only comfort
 now!” She could say nothing; nor for some minutes could he say more.
 
 He turned away to recover himself, and when he spoke again, though his
-voice still faltered, his manner shewed the wish of self-command, and
+voice still faltered, his manner shewed the wish of [[Self|self]]-command, and
 the resolution of avoiding any farther allusion. “Have you breakfasted?
 When shall you be ready? Does Susan go?” were questions following each
 other rapidly. His great object was to be off as soon as possible. When
-Mansfield was considered, time was precious; and the state of his own
+Mansfield was considered, [[Time|time]] was precious; and the state of his own
 mind made him find relief only in motion. It was settled that he should
 order the carriage to the door in half an hour. Fanny answered for
 their having breakfasted and being quite ready in half an hour. He had
@@ -295,17 +295,17 @@ already ate, and declined staying for their meal. He would walk round
 the ramparts, and join them with the carriage. He was gone again; glad
 to get away even from Fanny.
 
-He looked very ill; evidently suffering under violent emotions, which
+He looked very ill; evidently [[Suffering|suffering]] under violent emotions, which
 he was determined to suppress. She knew it must be so, but it was
 terrible to her.
 
-The carriage came; and he entered the house again at the same moment,
-just in time to spend a few minutes with the family, and be a
+The carriage came; and he entered the [[house]] again at the same moment,
+just in [[Time|time]] to spend a few minutes with the family, and be a
 witness—but that he saw nothing—of the tranquil manner in which the
-daughters were parted with, and just in time to prevent their sitting
+daughters were parted with, and just in [[Time|time]] to prevent their sitting
 down to the breakfast-table, which, by dint of much unusual activity,
 was quite and completely ready as the carriage drove from the door.
-Fanny’s last meal in her father’s house was in character with her
+Fanny’s last meal in her father’s [[house]] was in character with her
 first: she was dismissed from it as hospitably as she had been
 welcomed.
 
@@ -314,31 +314,31 @@ of Portsmouth, and how Susan’s face wore its broadest smiles, may be
 easily conceived. Sitting forwards, however, and screened by her
 bonnet, those smiles were unseen.
 
-The journey was likely to be a silent one. Edmund’s deep sighs often
-reached Fanny. Had he been alone with her, his heart must have opened
+The [[Journey|journey]] was likely to be a silent one. [[Edmund]]’s deep sighs often
+reached Fanny. Had he been [[Alone|alone]] with her, his heart must have opened
 in spite of every resolution; but Susan’s presence drove him quite into
 himself, and his attempts to talk on indifferent subjects could never
 be long supported.
 
 Fanny watched him with never-failing solicitude, and sometimes catching
 his eye, revived an affectionate smile, which comforted her; but the
-first day’s journey passed without her hearing a word from him on the
+first day’s [[Journey|journey]] passed without her hearing a word from him on the
 subjects that were weighing him down. The next morning produced a
-little more. Just before their setting out from Oxford, while Susan was
-stationed at a window, in eager observation of the departure of a large
-family from the inn, the other two were standing by the fire; and
-Edmund, particularly struck by the alteration in Fanny’s looks, and
-from his ignorance of the daily evils of her father’s house,
+little more. Just before their setting out from [[Oxford]], while Susan was
+stationed at a [[Window|window]], in eager observation of the departure of a large
+family from the inn, the other two were standing by the [[Fire|fire]]; and
+[[Edmund]], particularly struck by the alteration in Fanny’s looks, and
+from his ignorance of the daily evils of her father’s [[house]],
 attributing an undue share of the change, attributing _all_ to the
 recent event, took her hand, and said in a low, but very expressive
-tone, “No wonder—you must feel it—you must suffer. How a man who had
-once loved, could desert you! But _yours_—your regard was new compared
+tone, “No [[Wonder|wonder]]—you must feel it—you must suffer. How a man who had
+once loved, could [[Desert|desert]] you! But _yours_—your regard was new compared
 with——Fanny, think of _me_!”
 
-The first division of their journey occupied a long day, and brought
-them, almost knocked up, to Oxford; but the second was over at a much
+The first division of their [[Journey|journey]] occupied a long day, and brought
+them, almost knocked up, to [[Oxford]]; but the second was over at a much
 earlier hour. They were in the environs of Mansfield long before the
-usual dinner-time, and as they approached the beloved place, the hearts
+usual dinner-[[Time|time]], and as they approached the beloved place, the hearts
 of both sisters sank a little. Fanny began to dread the meeting with
 her aunts and Tom, under so dreadful a humiliation; and Susan to feel
 with some anxiety, that all her best manners, all her lately acquired
@@ -349,22 +349,22 @@ silver forks, napkins, and finger-glasses. Fanny had been everywhere
 awake to the difference of the country since February; but when they
 entered the Park her perceptions and her pleasures were of the keenest
 sort. It was three months, full three months, since her quitting it,
-and the change was from winter to summer. Her eye fell everywhere on
+and the change was from [[Winter|winter]] to [[Summer|summer]]. Her eye fell everywhere on
 lawns and plantations of the freshest green; and the trees, though not
-fully clothed, were in that delightful state when farther beauty is
+fully clothed, were in that delightful state when farther [[Beauty|beauty]] is
 known to be at hand, and when, while much is actually given to the
-sight, more yet remains for the imagination. Her enjoyment, however,
-was for herself alone. Edmund could not share it. She looked at him,
+sight, more yet remains for the [[Imagination|imagination]]. Her enjoyment, however,
+was for herself [[Alone|alone]]. [[Edmund]] could not share it. She looked at him,
 but he was leaning back, sunk in a deeper gloom than ever, and with
 eyes closed, as if the view of cheerfulness oppressed him, and the
-lovely scenes of home must be shut out.
+lovely scenes of [[Home|home]] must be shut out.
 
-It made her melancholy again; and the knowledge of what must be
-enduring there, invested even the house, modern, airy, and well
-situated as it was, with a melancholy aspect.
+It made her [[Melancholy|melancholy]] again; and the knowledge of what must be
+enduring there, invested even the [[house]], modern, airy, and [[Well|well]]
+situated as it was, with a [[Melancholy|melancholy]] aspect.
 
-By one of the suffering party within they were expected with such
+By one of the [[Suffering|suffering]] party within they were expected with such
 impatience as she had never known before. Fanny had scarcely passed the
-solemn-looking servants, when Lady Bertram came from the drawing-room
+solemn-looking servants, when Lady [[Bertram]] came from the drawing-room
 to meet her; came with no indolent step; and falling on her neck, said,
 “Dear Fanny! now I shall be comfortable.”

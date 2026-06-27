@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 12)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -18,9 +18,9 @@ sake, they seem to me rather artistic. As a form of practical social
 
 work they seem to me stark stupid waste. If Mr. Bilge is rich enough to
 
-build a tower four hundred feet high and give it a crown of golden
+build a tower four hundred feet high and give it a [[Crown|crown]] of golden
 
-crescents and crimson stars, in order to draw attention to his
+crescents and crimson [[Stars|stars]], in order to draw attention to his
 
 manufacture of the Paradise Tooth Paste or The Seventh Heaven Cigar, I
 
@@ -28,9 +28,9 @@ do not feel the least disposition to thank him for any serious form of
 
 social service. I have never tried the Seventh Heaven Cigar; indeed a
 
-premonition moves me towards the belief that I shall go down to the dust
+premonition moves me towards the belief that I shall go down to the [[Dust|dust]]
 
-without trying it. I have every reason to doubt whether it does any
+without trying it. I have every reason to [[Doubt|doubt]] whether it does any
 
 particular good to those who smoke it, or any good to anybody except
 
@@ -40,27 +40,27 @@ useful to Mr. Bilge, and all the rest is illusion and sentimentalism.
 
 But because I know that Bilge is only Bilge, shall I stoop to the
 
-profanity of saying that fire is only fire? Shall I blaspheme crimson
+profanity of saying that [[Fire|fire]] is only [[Fire|fire]]? Shall I blaspheme crimson
 
-stars any more than crimson sunsets, or deny that those moons are golden
+[[Stars|stars]] any more than crimson sunsets, or deny that those moons are golden
 
-any more than that this grass is green? If a child saw these coloured
+any more than that this grass is green? If a [[Child|child]] saw these coloured
 
-lights, he would dance with as much delight as at any other coloured
+lights, he would [[Dance|dance]] with as much delight as at any other coloured
 
 toys; and it is the duty of every poet, and even of every critic, to
 
-dance in respectful imitation of the child. Indeed I am in a mood of so
+[[Dance|dance]] in respectful [[Imitation|imitation]] of the [[Child|child]]. Indeed I am in a mood of so
 
-much sympathy with the fairy lights of this pantomime city, that I
+much sympathy with the fairy lights of this pantomime [[City|city]], that I
 
-should be almost sorry to see social sanity and a sense of proportion
+should be almost sorry to see social [[Sanity|sanity]] and a sense of proportion
 
-return to extinguish them. I fear the day is breaking, and the broad
+return to extinguish them. I [[Fear|fear]] the day is breaking, and the broad
 
-daylight of tradition and ancient truth is coming to end all this
+daylight of tradition and ancient [[Truth|truth]] is coming to end all this
 
-delightful nightmare of New York at night. Peasants and priests and all
+delightful [[nightmare]] of [[New York]] at [[Night|night]]. Peasants and priests and all
 
 sorts of practical and sensible people are coming back into power, and
 
@@ -68,7 +68,7 @@ their stern realism may wither all these beautiful, unsubstantial,
 
 useless things. They will not believe in the Seventh Heaven Cigar, even
 
-when they see it shining as with stars in the seventh heaven. They will
+when they see it shining as with [[Stars|stars]] in the seventh heaven. They will
 
 not be affected by advertisements, any more than the priests and
 
@@ -82,7 +82,7 @@ a little more hard-headed, humorous, and intellectually independent, see
 
 the rather simple joke; and are not impressed by this or any other form
 
-of self-praise. Almost any other men in almost any other age would have
+of [[Self|self]]-praise. Almost any other men in almost any other age would have
 
 seen the joke. If you had said to a man in the Stone Age, 'Ugg says Ugg
 
@@ -92,17 +92,17 @@ detachment and disinterestedness about the testimonial. If you had said
 
 to a medieval peasant, 'Robert the Bowyer proclaims, with three blasts
 
-of a horn, that he makes good bows,' the peasant would have said, 'Well,
+of a horn, that he makes good bows,' the peasant would have said, '[[Well]],
 
 of course he does,' and thought about something more important. It is
 
-only among people whose minds have been weakened by a sort of mesmerism
+only among people whose minds have been weakened by a sort of [[Mesmerism|mesmerism]]
 
 that so transparent a trick as that of advertisement could ever have
 
 been tried at all. And if ever we have again, as for other reasons I
 
-cannot but hope we shall, a more democratic distribution of property and
+cannot but [[Hope|hope]] we shall, a more democratic distribution of property and
 
 a more agricultural basis of national life, it would seem at first sight
 
@@ -110,7 +110,7 @@ only too likely that all this beautiful superstition will perish, and
 
 the fairyland of Broadway with all its varied rainbows fade away. For
 
-such people the Seventh Heaven Cigar, like the nineteenth-century city,
+such people the Seventh Heaven Cigar, like the nineteenth-century [[City|city]],
 
 will have ended in smoke. And even the smoke of it will have vanished.
 
@@ -120,7 +120,7 @@ But the next stage of reflection brings us back to the peasant looking
 
 at the lights of Broadway. It is not true to say in the strict sense
 
-that the peasant has never seen such things before. The truth is that he
+that the peasant has never seen such things before. The [[Truth|truth]] is that he
 
 has seen them on a much smaller scale, but for a much larger purpose.
 
@@ -128,9 +128,9 @@ Peasants also have their ritual and ornament, but it is to adorn more
 
 real things. Apart from our first fancy about the peasant who could not
 
-read, there is no doubt about what would be apparent to a peasant who
+read, there is no [[Doubt|doubt]] about what would be apparent to a peasant who
 
-could read, and who could understand. For him also fire is sacred, for
+could read, and who could understand. For him also [[Fire|fire]] is sacred, for
 
 him also colour is symbolic. But where he sets up a candle to light the
 
@@ -142,7 +142,7 @@ windows showing red for martyrs or blue for madonnas; but here he can
 
 only conclude that all the colours of the rainbow belong to Mr. Bilge.
 
-Now upon the aesthetic side he might well be impressed; but it is
+Now upon the aesthetic side he might [[Well|well]] be impressed; but it is
 
 exactly on the social and even scientific side that he has a right to
 
@@ -154,9 +154,9 @@ arrive at a great firework display in celebration of something; perhaps
 
 the Sacred Emperor's birthday, or rather birthnight. It would gradually
 
-dawn on the Chinese philosopher that the Emperor could hardly be born
+[[Dawn|dawn]] on the Chinese philosopher that the Emperor could hardly be born
 
-every night. And when he learnt the truth the philosopher, if he was a
+every [[Night|night]]. And when he learnt the [[Truth|truth]] the philosopher, if he was a
 
 philosopher, would be a little disappointed ... possibly a little
 
@@ -168,9 +168,9 @@ Compare, for instance, these everlasting fireworks with the damp squibs
 
 and dying bonfires of Guy Fawkes Day. That quaint and even queer
 
-national festival has been fading for some time out of English life.
+national festival has been fading for some [[Time|time]] out of English life.
 
-Still, it was a national festival, in the double sense that it
+Still, it was a national festival, in the [[Double|double]] sense that it
 
 represented some sort of public spirit pursued by some sort of popular
 

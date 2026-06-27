@@ -43,7 +43,7 @@ tone of low and earnest entreaty, “that nothing but the—I have some
 difficulty in expressing myself—the dubiousness of the result would
 have induced me to take so great a liberty: ‘Welcome, Master Dombey,’
 would have been much more congenial to my feelings, as I am sure you
-know. But the uncertainty attendant on angelic strangers, will, I hope,
+know. But the uncertainty attendant on angelic strangers, will, I [[Hope|hope]],
 excuse what must otherwise appear an unwarrantable familiarity.” Miss
 Tox made a graceful bend as she spoke, in favour of Mr Dombey, which
 that gentleman graciously acknowledged. Even the sort of recognition of
@@ -57,7 +57,7 @@ contemplating his features for a few moments, “I don’t know whether to
 laugh or cry when I look at you, I declare, you do so remind me of that
 dear baby upstairs.”
 
-“Well!” said Mrs Chick, with a sweet smile, “after this, I forgive
+“[[Well]]!” said Mrs Chick, with a sweet smile, “after this, I forgive
 Fanny everything!”
 
 It was a declaration in a Christian spirit, and Mrs Chick felt that it
@@ -70,7 +70,7 @@ her, and was not a pleasant return for all the attention and
 distinction she had met with.
 
 Mr Dombey being hastily summoned out of the room at this moment, the
-two ladies were left alone together. Miss Tox immediately became
+two ladies were left [[Alone|alone]] together. Miss Tox immediately became
 spasmodic.
 
 “I knew you would admire my brother. I told you so beforehand, my
@@ -85,7 +85,7 @@ as to his property, my dear!”
 dignity! No portrait that I have ever seen of anyone has been half so
 replete with those qualities. Something so stately, you know: so
 uncompromising: so very wide across the chest: so upright! A pecuniary
-Duke of York, my love, and nothing short of it!” said Miss Tox. “That’s
+[[Duke of York]], my [[Love|love]], and nothing short of it!” said Miss Tox. “That’s
 what _I_ should designate him.”
 
 “Why, my dear Paul!” exclaimed his sister, as he returned, “you look
@@ -99,10 +99,10 @@ importance you are to society, and do not allow yourself to be worried
 by what is so very inconsiderately told you by people who ought to know
 better. Really I’m surprised at them.”
 
-“I hope I know, Louisa,” said Mr Dombey, stiffly, “how to bear myself
+“I [[Hope|hope]] I know, Louisa,” said Mr Dombey, stiffly, “how to bear myself
 before the world.”
 
-“Nobody better, my dear Paul. Nobody half so well. They would be
+“Nobody better, my dear Paul. Nobody half so [[Well|well]]. They would be
 ignorant and base indeed who doubted it.”
 
 “Ignorant and base indeed!” echoed Miss Tox softly.
@@ -115,12 +115,12 @@ bonnet, and adjusting her cap and gloves, in a business-like manner,
 my dear Paul, come upstairs with me.”
 
 Mr Dombey, who, besides being generally influenced by his sister for
-the reason already mentioned, had really faith in her as an experienced
+the reason already mentioned, had really [[Faith|faith]] in her as an experienced
 and bustling matron, acquiesced; and followed her, at once, to the sick
 chamber.
 
 The lady lay upon her bed as he had left her, clasping her little
-daughter to her breast. The child clung close about her, with the same
+daughter to her breast. The [[Child|child]] clung close about her, with the same
 intensity as before, and never raised her head, or moved her soft cheek
 from her mother’s face, or looked on those who stood around, or spoke,
 or moved, or shed a tear.
@@ -140,13 +140,13 @@ breathed.
 
 There was such a solemn stillness round the bed; and the two medical
 attendants seemed to look on the impassive form with so much compassion
-and so little hope, that Mrs Chick was for the moment diverted from her
-purpose. But presently summoning courage, and what she called presence
+and so little [[Hope|hope]], that Mrs Chick was for the moment diverted from her
+purpose. But presently summoning [[Courage|courage]], and what she called presence
 of mind, she sat down by the bedside, and said in the low precise tone
 of one who endeavours to awaken a sleeper:
 
 “Fanny! Fanny!”
 
 There was no sound in answer but the loud ticking of Mr Dombey’s watch
-and Doctor Parker Peps’s watch, which seemed in the silence to be
+and Doctor Parker Peps’s watch, which seemed in the [[Silence|silence]] to be
 running a race.

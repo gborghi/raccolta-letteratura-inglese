@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 54: FIFTY THREE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 54: FIFTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-When they reached home, Tom left John and his sister in the parlour, and
+When they reached [[Home|home]], Tom left John and his sister in the parlour, and
 went upstairs into his own room, under pretence of seeking a book. And
 Tom actually winked to himself when he got upstairs; he thought it such
 a deep thing to have done.
 
 ‘They like to be by themselves, of course,’ said Tom; ‘and I came away
-so naturally, that I have no doubt they are expecting me, every moment,
+so naturally, that I have no [[Doubt|doubt]] they are expecting me, every moment,
 to return. That’s capital!’
 
 But he had not sat reading very long, when he heard a tap at his door.
@@ -30,14 +30,14 @@ But he had not sat reading very long, when he heard a tap at his door.
 ‘Oh, surely!’ Tom replied.
 
 ‘Don’t leave us, Tom. Don’t sit by yourself. We want to make you merry;
-not melancholy.’
+not [[Melancholy|melancholy]].’
 
 ‘My dear friend,’ said Tom, with a cheerful smile.
 
 ‘Brother, Tom. Brother.’
 
-‘My dear brother,’ said Tom; ‘there is no danger of my being melancholy,
-how can I be melancholy, when I know that you and Ruth are so blest in
+‘My dear brother,’ said Tom; ‘there is no danger of my being [[Melancholy|melancholy]],
+how can I be [[Melancholy|melancholy]], when I know that you and Ruth are so blest in
 each other! I think I can find my tongue tonight, John,’ he added, after
 a moment’s pause. ‘But I never can tell you what unutterable joy this
 day has given me. It would be unjust to you to speak of your having
@@ -46,24 +46,24 @@ you know her worth. Nor will it diminish in your estimation, John, which
 money might.’
 
 ‘Which money would, Tom,’ he returned. ‘Her worth! Oh, who could see her
-here, and not love her! Who could know her, Tom, and not honour her! Who
+here, and not [[Love|love]] her! Who could know her, Tom, and not [[Honour|honour]] her! Who
 could ever stand possessed of such a heart as hers, and grow indifferent
-to the treasure! Who could feel the rapture that I feel to-day, and love
-as I love her, Tom, without knowing something of her worth! Your joy
+to the treasure! Who could feel the rapture that I feel to-day, and [[Love|love]]
+as I [[Love|love]] her, Tom, without knowing something of her worth! Your joy
 unutterable! No, no, Tom. It’s mine, it’s mine.
 
 ‘No, no, John,’ said Tom. ‘It’s mine, it’s mine.’
 
 Their friendly contention was brought to a close by little Ruth herself,
 who came peeping in at the door. And oh, the look, the glorious,
-half-proud, half-timid look she gave Tom, when her lover drew her to his
+half-proud, half-timid look she gave Tom, when her [[Lover|lover]] drew her to his
 side! As much as to say, ‘Yes, indeed, Tom, he will do it. But then he
 has a right, you know. Because I AM fond of him, Tom.’
 
 As to Tom, he was perfectly delighted. He could have sat and looked at
 them, just as they were, for hours.
 
-‘I have told Tom, love, as we agreed, that we are not going to permit
+‘I have told Tom, [[Love|love]], as we agreed, that we are not going to permit
 him to run away, and that we cannot possibly allow it. The loss of one
 person, and such a person as Tom, too, out of our small household of
 three, is not to be endured; and so I have told him. Whether he is
@@ -71,13 +71,13 @@ considerate, or whether he is only selfish, I don’t know. But he needn’t
 be considerate, for he is not the least restraint upon us. Is he,
 dearest Ruth?’
 
-Well! He really did not seem to be any particular restraint upon them.
+[[Well]]! He really did not seem to be any particular restraint upon them.
 Judging from what ensued.
 
 Was it folly in Tom to be so pleased by their remembrance of him at
-such a time? Was their graceful love a folly, were their dear caresses
+such a [[Time|time]]? Was their graceful [[Love|love]] a folly, were their dear caresses
 follies, was their lengthened parting folly? Was it folly in him to
-watch her window from the street, and rate its scantiest gleam of light
+watch her [[Window|window]] from the street, and rate its scantiest gleam of light
 above all diamonds; folly in her to breathe his name upon her knees, and
 pour out her pure heart before that Being from whom such hearts and such
 affections come?

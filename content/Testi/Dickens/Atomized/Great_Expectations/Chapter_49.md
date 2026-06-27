@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 49"
+title: "[[Great Expectations]] — Chapter 49"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,46 +17,46 @@ tags:
 Chapter XLIX.
 
 
-Putting Miss Havisham’s note in my pocket, that it might serve as my
-credentials for so soon reappearing at Satis House, in case her
+Putting [[Miss Havisham]]’s note in my pocket, that it might serve as my
+credentials for so soon reappearing at Satis [[house|House]], in case her
 waywardness should lead her to express any surprise at seeing me, I
 went down again by the coach next day. But I alighted at the Halfway
-House, and breakfasted there, and walked the rest of the distance; for
+[[house|House]], and breakfasted there, and walked the rest of the distance; for
 I sought to get into the town quietly by the unfrequented ways, and to
 leave it in the same manner.
 
 The best light of the day was gone when I passed along the quiet
 echoing courts behind the High Street. The nooks of ruin where the old
-monks had once had their refectories and gardens, and where the strong
+[[Monks|monks]] had once had their refectories and gardens, and where the strong
 walls were now pressed into the service of humble sheds and stables,
-were almost as silent as the old monks in their graves. The cathedral
+were almost as silent as the old [[Monks|monks]] in their graves. The [[Cathedral|cathedral]]
 chimes had at once a sadder and a more remote sound to me, as I hurried
 on avoiding observation, than they had ever had before; so, the swell
 of the old organ was borne to my ears like funeral music; and the
 rooks, as they hovered about the grey tower and swung in the bare high
-trees of the priory garden, seemed to call to me that the place was
-changed, and that Estella was gone out of it for ever.
+trees of the priory [[Garden|garden]], seemed to call to me that the place was
+changed, and that [[Estella]] was gone out of it for ever.
 
 An elderly woman, whom I had seen before as one of the servants who
-lived in the supplementary house across the back courtyard, opened the
+lived in the supplementary [[house]] across the back courtyard, opened the
 gate. The lighted candle stood in the dark passage within, as of old,
-and I took it up and ascended the staircase alone. Miss Havisham was
+and I took it up and ascended the staircase [[Alone|alone]]. [[Miss Havisham]] was
 not in her own room, but was in the larger room across the landing.
 Looking in at the door, after knocking in vain, I saw her sitting on
 the hearth in a ragged chair, close before, and lost in the
-contemplation of, the ashy fire.
+contemplation of, the ashy [[Fire|fire]].
 
 Doing as I had often done, I went in, and stood touching the old
 chimney-piece, where she could see me when she raised her eyes. There
-was an air of utter loneliness upon her, that would have moved me to
+was an air of utter [[Loneliness|loneliness]] upon her, that would have moved me to
 pity though she had wilfully done me a deeper injury than I could
 charge her with. As I stood compassionating her, and thinking how, in
-the progress of time, I too had come to be a part of the wrecked
-fortunes of that house, her eyes rested on me. She stared, and said in
+the progress of [[Time|time]], I too had come to be a part of the wrecked
+fortunes of that [[house]], her eyes rested on me. She stared, and said in
 a low voice, “Is it real?”
 
 “It is I, Pip. Mr. Jaggers gave me your note yesterday, and I have lost
-no time.”
+no [[Time|time]].”
 
 “Thank you. Thank you.”
 
@@ -80,7 +80,7 @@ not?”
 
 “What is it?”
 
-I began explaining to her that secret history of the partnership. I had
+I began explaining to her that secret [[history]] of the partnership. I had
 not got far into it, when I judged from her looks that she was thinking
 in a discursive way of me, rather than of what I said. It seemed to be
 so; for, when I stopped speaking, many moments passed before she showed
@@ -89,19 +89,19 @@ that she was conscious of the fact.
 “Do you break off,” she asked then, with her former air of being afraid
 of me, “because you hate me too much to bear to speak to me?”
 
-“No, no,” I answered, “how can you think so, Miss Havisham! I stopped
+“No, no,” I answered, “how can you think so, [[Miss Havisham]]! I stopped
 because I thought you were not following what I said.”
 
 “Perhaps I was not,” she answered, putting a hand to her head. “Begin
 again, and let me look at something else. Stay! Now tell me.”
 
 She set her hand upon her stick in the resolute way that sometimes was
-habitual to her, and looked at the fire with a strong expression of
+habitual to her, and looked at the [[Fire|fire]] with a strong expression of
 forcing herself to attend. I went on with my explanation, and told her
 how I had hoped to complete the transaction out of my means, but how in
 this I was disappointed. That part of the subject (I reminded her)
 involved matters which could form no part of my explanation, for they
-were the weighty secrets of another.
+were the weighty [[Secrets|secrets]] of another.
 
 “So!” said she, assenting with her head, but not looking at me. “And
 how much money is wanting to complete the purchase?”
@@ -125,10 +125,10 @@ unwonted tone of sympathy. I could not reply at the moment, for my
 voice failed me. She put her left arm across the head of her stick, and
 softly laid her forehead on it.
 
-“I am far from happy, Miss Havisham; but I have other causes of
-disquiet than any you know of. They are the secrets I have mentioned.”
+“I am far from happy, [[Miss Havisham]]; but I have other causes of
+disquiet than any you know of. They are the [[Secrets|secrets]] I have mentioned.”
 
-After a little while, she raised her head, and looked at the fire
+After a little while, she raised her head, and looked at the [[Fire|fire]]
 again.
 
 “It is noble in you to tell me that you have other causes of
@@ -142,7 +142,7 @@ done, is there nothing I can do for you yourself?”
 “Nothing. I thank you for the question. I thank you even more for the
 tone of the question. But there is nothing.”
 
-She presently rose from her seat, and looked about the blighted room
+She presently [[Rose|rose]] from her seat, and looked about the blighted room
 for the means of writing. There were none there, and she took from her
 pocket a yellow set of ivory tablets, mounted in tarnished gold, and
 wrote upon them with a pencil in a case of tarnished gold that hung
@@ -157,7 +157,7 @@ irresponsible discretion for your friend. I keep no money here; but if
 you would rather Mr. Jaggers knew nothing of the matter, I will send it
 to you.”
 
-“Thank you, Miss Havisham; I have not the least objection to receiving
+“Thank you, [[Miss Havisham]]; I have not the least objection to receiving
 it from him.”
 
 She read me what she had written; and it was direct and clear, and
@@ -168,14 +168,14 @@ pencil was attached, and put it in mine. All this she did without
 looking at me.
 
 “My name is on the first leaf. If you can ever write under my name, “I
-forgive her,” though ever so long after my broken heart is dust pray do
+forgive her,” though ever so long after my broken heart is [[Dust|dust]] pray do
 it!”
 
-“O Miss Havisham,” said I, “I can do it now. There have been sore
+“O [[Miss Havisham]],” said I, “I can do it now. There have been sore
 mistakes; and my life has been a blind and thankless one; and I want
-forgiveness and direction far too much, to be bitter with you.”
+[[Forgiveness|forgiveness]] and direction far too much, to be bitter with you.”
 
-She turned her face to me for the first time since she had averted it,
+She turned her face to me for the first [[Time|time]] since she had averted it,
 and, to my amazement, I may even add to my terror, dropped on her knees
 at my feet; with her folded hands raised to me in the manner in which,
 when her poor heart was young and fresh and whole, they must often have
@@ -185,19 +185,19 @@ To see her with her white hair and her worn face kneeling at my feet
 gave me a shock through all my frame. I entreated her to rise, and got
 my arms about her to help her up; but she only pressed that hand of
 mine which was nearest to her grasp, and hung her head over it and
-wept. I had never seen her shed a tear before, and, in the hope that
+wept. I had never seen her shed a tear before, and, in the [[Hope|hope]] that
 the relief might do her good, I bent over her without speaking. She was
 not kneeling now, but was down upon the ground.
 
 “O!” she cried, despairingly. “What have I done! What have I done!”
 
-“If you mean, Miss Havisham, what have you done to injure me, let me
+“If you mean, [[Miss Havisham]], what have you done to injure me, let me
 answer. Very little. I should have loved her under any circumstances.
 Is she married?”
 
 “Yes.”
 
-It was a needless question, for a new desolation in the desolate house
+It was a needless question, for a new desolation in the desolate [[house]]
 had told me so.
 
 “What have I done! What have I done!” She wrung her hands, and crushed
@@ -205,18 +205,18 @@ her white hair, and returned to this cry over and over again. “What
 have I done!”
 
 I knew not how to answer, or how to comfort her. That she had done a
-grievous thing in taking an impressionable child to mould into the form
-that her wild resentment, spurned affection, and wounded pride found
-vengeance in, I knew full well. But that, in shutting out the light of
+grievous thing in taking an impressionable [[Child|child]] to mould into the form
+that her wild resentment, spurned affection, and wounded [[Pride|pride]] found
+vengeance in, I knew full [[Well|well]]. But that, in shutting out the light of
 day, she had shut out infinitely more; that, in seclusion, she had
 secluded herself from a thousand natural and healing influences; that,
 her mind, brooding solitary, had grown diseased, as all minds do and
 must and will that reverse the appointed order of their Maker, I knew
-equally well. And could I look upon her without compassion, seeing her
+equally [[Well|well]]. And could I look upon her without compassion, seeing her
 punishment in the ruin she was, in her profound unfitness for this
-earth on which she was placed, in the vanity of sorrow which had become
-a master mania, like the vanity of penitence, the vanity of remorse,
-the vanity of unworthiness, and other monstrous vanities that have been
+earth on which she was placed, in the [[Vanity|vanity]] of sorrow which had become
+a master mania, like the [[Vanity|vanity]] of penitence, the [[Vanity|vanity]] of remorse,
+the [[Vanity|vanity]] of unworthiness, and other monstrous vanities that have been
 curses in this world?
 
 “Until you spoke to her the other day, and until I saw in you a
@@ -224,10 +224,10 @@ looking-glass that showed me what I once felt myself, I did not know
 what I had done. What have I done! What have I done!” And so again,
 twenty, fifty times over, What had she done!
 
-“Miss Havisham,” I said, when her cry had died away, “you may dismiss
-me from your mind and conscience. But Estella is a different case, and
+“[[Miss Havisham]],” I said, when her cry had died away, “you may dismiss
+me from your mind and [[Conscience|conscience]]. But [[Estella]] is a different case, and
 if you can ever undo any scrap of what you have done amiss in keeping a
-part of her right nature away from her, it will be better to do that
+part of her right [[Nature|nature]] away from her, it will be better to do that
 than to bemoan the past through a hundred years.”
 
 “Yes, yes, I know it. But, Pip—my dear!” There was an earnest womanly
@@ -235,7 +235,7 @@ compassion for me in her new affection. “My dear! Believe this: when
 she first came to me, I meant to save her from misery like my own. At
 first, I meant no more.”
 
-“Well, well!” said I. “I hope so.”
+“[[Well]], [[Well|well]]!” said I. “I [[Hope|hope]] so.”
 
 “But as she grew, and promised to be very beautiful, I gradually did
 worse, and with my praises, and with my jewels, and with my teachings,
@@ -245,24 +245,24 @@ point my lessons, I stole her heart away, and put ice in its place.”
 “Better,” I could not help saying, “to have left her a natural heart,
 even to be bruised or broken.”
 
-With that, Miss Havisham looked distractedly at me for a while, and
+With that, [[Miss Havisham]] looked distractedly at me for a while, and
 then burst out again, What had she done!
 
 “If you knew all my story,” she pleaded, “you would have some
 compassion for me and a better understanding of me.”
 
-“Miss Havisham,” I answered, as delicately as I could, “I believe I may
+“[[Miss Havisham]],” I answered, as delicately as I could, “I believe I may
 say that I do know your story, and have known it ever since I first
 left this neighbourhood. It has inspired me with great commiseration,
-and I hope I understand it and its influences. Does what has passed
+and I [[Hope|hope]] I understand it and its influences. Does what has passed
 between us give me any excuse for asking you a question relative to
-Estella? Not as she is, but as she was when she first came here?”
+[[Estella]]? Not as she is, but as she was when she first came here?”
 
 She was seated on the ground, with her arms on the ragged chair, and
 her head leaning on them. She looked full at me when I said this, and
 replied, “Go on.”
 
-“Whose child was Estella?”
+“Whose [[Child|child]] was [[Estella]]?”
 
 She shook her head.
 
@@ -277,26 +277,26 @@ She shook her head again.
 “Will you tell me how that came about?”
 
 She answered in a low whisper and with caution: “I had been shut up in
-these rooms a long time (I don’t know how long; you know what time the
+these rooms a long [[Time|time]] (I don’t know how long; you know what [[Time|time]] the
 clocks keep here), when I told him that I wanted a little girl to rear
-and love, and save from my fate. I had first seen him when I sent for
+and [[Love|love]], and save from my fate. I had first seen him when I sent for
 him to lay this place waste for me; having read of him in the
 newspapers, before I and the world parted. He told me that he would
-look about him for such an orphan child. One night he brought her here
-asleep, and I called her Estella.”
+look about him for such an [[Orphan|orphan]] [[Child|child]]. One [[Night|night]] he brought her here
+asleep, and I called her [[Estella]].”
 
 “Might I ask her age then?”
 
 “Two or three. She herself knows nothing, but that she was left an
-orphan and I adopted her.”
+[[Orphan|orphan]] and I adopted her.”
 
 So convinced I was of that woman’s being her mother, that I wanted no
 evidence to establish the fact in my own mind. But, to any mind, I
 thought, the connection here was clear and straight.
 
-What more could I hope to do by prolonging the interview? I had
-succeeded on behalf of Herbert, Miss Havisham had told me all she knew
-of Estella, I had said and done what I could to ease her mind. No
+What more could I [[Hope|hope]] to do by prolonging the interview? I had
+succeeded on behalf of Herbert, [[Miss Havisham]] had told me all she knew
+of [[Estella]], I had said and done what I could to ease her mind. No
 matter with what other words we parted; we parted.
 
 Twilight was closing in when I went downstairs into the natural air. I
@@ -307,40 +307,40 @@ and I felt that the dying light was suited to my last view of it.
 
 By the wilderness of casks that I had walked on long ago, and on which
 the rain of years had fallen since, rotting them in many places, and
-leaving miniature swamps and pools of water upon those that stood on
-end, I made my way to the ruined garden. I went all round it; round by
+leaving miniature swamps and pools of [[Water|water]] upon those that stood on
+end, I made my way to the ruined [[Garden|garden]]. I went all round it; round by
 the corner where Herbert and I had fought our battle; round by the
-paths where Estella and I had walked. So cold, so lonely, so dreary
+paths where [[Estella]] and I had walked. So cold, so lonely, so dreary
 all!
 
 Taking the brewery on my way back, I raised the rusty latch of a little
-door at the garden end of it, and walked through. I was going out at
+door at the [[Garden|garden]] end of it, and walked through. I was going out at
 the opposite door,—not easy to open now, for the damp wood had started
 and swelled, and the hinges were yielding, and the threshold was
 encumbered with a growth of fungus,—when I turned my head to look back.
 A childish association revived with wonderful force in the moment of
-the slight action, and I fancied that I saw Miss Havisham hanging to
+the slight action, and I fancied that I saw [[Miss Havisham]] hanging to
 the beam. So strong was the impression, that I stood under the beam
 shuddering from head to foot before I knew it was a fancy,—though to be
 sure I was there in an instant.
 
-The mournfulness of the place and time, and the great terror of this
+The mournfulness of the place and [[Time|time]], and the great terror of this
 illusion, though it was but momentary, caused me to feel an
 indescribable awe as I came out between the open wooden gates where I
-had once wrung my hair after Estella had wrung my heart. Passing on
+had once wrung my hair after [[Estella]] had wrung my heart. Passing on
 into the front courtyard, I hesitated whether to call the woman to let
 me out at the locked gate of which she had the key, or first to go
-upstairs and assure myself that Miss Havisham was as safe and well as I
+upstairs and assure myself that [[Miss Havisham]] was as safe and [[Well|well]] as I
 had left her. I took the latter course and went up.
 
 I looked into the room where I had left her, and I saw her seated in
-the ragged chair upon the hearth close to the fire, with her back
+the ragged chair upon the hearth close to the [[Fire|fire]], with her back
 towards me. In the moment when I was withdrawing my head to go quietly
-away, I saw a great flaming light spring up. In the same moment I saw
-her running at me, shrieking, with a whirl of fire blazing all about
+away, I saw a great flaming light [[spring]] up. In the same moment I saw
+her running at me, shrieking, with a whirl of [[Fire|fire]] blazing all about
 her, and soaring at least as many feet above her head as she was high.
 
-I had a double-caped great-coat on, and over my arm another thick coat.
+I had a [[Double|double]]-caped great-coat on, and over my arm another thick coat.
 That I got them off, closed with her, threw her down, and got them over
 her; that I dragged the great cloth from the table for the same
 purpose, and with it dragged down the heap of rottenness in the midst,
@@ -356,14 +356,14 @@ bridal dress.
 Then, I looked round and saw the disturbed beetles and spiders running
 away over the floor, and the servants coming in with breathless cries
 at the door. I still held her forcibly down with all my strength, like
-a prisoner who might escape; and I doubt if I even knew who she was, or
+a prisoner who might escape; and I [[Doubt|doubt]] if I even knew who she was, or
 why we had struggled, or that she had been in flames, or that the
 flames were out, until I saw the patches of tinder that had been her
 garments no longer alight but falling in a black shower around us.
 
 She was insensible, and I was afraid to have her moved, or even
 touched. Assistance was sent for, and I held her until it came, as if I
-unreasonably fancied (I think I did) that, if I let her go, the fire
+unreasonably fancied (I think I did) that, if I let her go, the [[Fire|fire]]
 would break out again and consume her. When I got up, on the surgeon’s
 coming to her with other aid, I was astonished to see that both my
 hands were burnt; for, I had no knowledge of it through the sense of
@@ -373,19 +373,19 @@ On examination it was pronounced that she had received serious hurts,
 but that they of themselves were far from hopeless; the danger lay
 mainly in the nervous shock. By the surgeon’s directions, her bed was
 carried into that room and laid upon the great table, which happened to
-be well suited to the dressing of her injuries. When I saw her again,
+be [[Well|well]] suited to the dressing of her injuries. When I saw her again,
 an hour afterwards, she lay, indeed, where I had seen her strike her
 stick, and had heard her say that she would lie one day.
 
 Though every vestige of her dress was burnt, as they told me, she still
 had something of her old ghastly bridal appearance; for, they had
 covered her to the throat with white cotton-wool, and as she lay with a
-white sheet loosely overlying that, the phantom air of something that
+white sheet loosely overlying that, the [[Phantom|phantom]] air of something that
 had been and was changed was still upon her.
 
-I found, on questioning the servants, that Estella was in Paris, and I
+I found, on questioning the servants, that [[Estella]] was in [[Paris]], and I
 got a promise from the surgeon that he would write to her by the next
-post. Miss Havisham’s family I took upon myself; intending to
+post. [[Miss Havisham]]’s family I took upon myself; intending to
 communicate with Mr. Matthew Pocket only, and leave him to do as he
 liked about informing the rest. This I did next day, through Herbert,
 as soon as I returned to town.
@@ -400,11 +400,11 @@ her!’” She never changed the order of these three sentences, but she
 sometimes left out a word in one or other of them; never putting in
 another word, but always leaving a blank and going on to the next word.
 
-As I could do no service there, and as I had, nearer home, that
-pressing reason for anxiety and fear which even her wanderings could
-not drive out of my mind, I decided, in the course of the night that I
+As I could do no service there, and as I had, nearer [[Home|home]], that
+pressing reason for anxiety and [[Fear|fear]] which even her wanderings could
+not drive out of my mind, I decided, in the course of the [[Night|night]] that I
 would return by the early morning coach, walking on a mile or so, and
-being taken up clear of the town. At about six o’clock of the morning,
+being taken up clear of the town. At about six o’[[Clock|clock]] of the morning,
 therefore, I leaned over her and touched her lips with mine, just as
 they said, not stopping for being touched, “Take the pencil and write
 under my name, ‘I forgive her.’”

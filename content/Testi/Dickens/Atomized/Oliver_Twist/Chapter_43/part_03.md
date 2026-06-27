@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 43 (part 3)"
+title: "[[Oliver Twist]] — Chapter 43 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,17 +15,17 @@ tags:
 
 
 These arrangements completed, he was informed of the necessary signs
-and tokens by which to recognise the Artful Dodger, and was conveyed by
+and tokens by which to recognise the [[Artful Dodger]], and was conveyed by
 Master Bates through dark and winding ways to within a very short
 distance of Bow Street. Having described the precise situation of the
 office, and accompanied it with copious directions how he was to walk
 straight up the passage, and when he got into the side, and pull off
 his hat as he went into the room, Charley Bates bade him hurry on
-alone, and promised to bide his return on the spot of their parting.
+[[Alone|alone]], and promised to bide his return on the spot of their parting.
 
 Noah Claypole, or Morris Bolter as the reader pleases, punctually
 followed the directions he had received, which—Master Bates being
-pretty well acquainted with the locality—were so exact that he was
+pretty [[Well|well]] acquainted with the locality—were so exact that he was
 enabled to gain the magisterial presence without asking any question,
 or meeting with any interruption by the way.
 
@@ -43,19 +43,19 @@ their admiring friends, while the clerk read some depositions to a
 couple of policemen and a man in plain clothes who leant over the
 table. A jailer stood reclining against the dock-rail, tapping his nose
 listlessly with a large key, except when he repressed an undue tendency
-to conversation among the idlers, by proclaiming silence; or looked
+to conversation among the idlers, by proclaiming [[Silence|silence]]; or looked
 sternly up to bid some woman “Take that baby out,” when the gravity of
 justice was disturbed by feeble cries, half-smothered in the mother’s
 shawl, from some meagre infant. The room smelt close and unwholesome;
 the walls were dirt-discoloured; and the ceiling blackened. There was
-an old smoky bust over the mantel-shelf, and a dusty clock above the
+an old smoky bust over the mantel-shelf, and a dusty [[Clock|clock]] above the
 dock—the only thing present, that seemed to go on as it ought; for
-depravity, or poverty, or an habitual acquaintance with both, had left
+depravity, or [[Poverty|poverty]], or an habitual acquaintance with both, had left
 a taint on all the animate matter, hardly less unpleasant than the
 thick greasy scum on every inanimate object that frowned upon it.
 
 Noah looked eagerly about him for the Dodger; but although there were
-several women who would have done very well for that distinguished
+several women who would have done very [[Well|well]] for that distinguished
 character’s mother or sister, and more than one man who might be
 supposed to bear a strong resemblance to his father, nobody at all
 answering the description given him of Mr. Dawkins was to be seen. He
@@ -66,7 +66,7 @@ could be no other than the object of his visit.
 
 It was indeed Mr. Dawkins, who, shuffling into the office with the big
 coat sleeves tucked up as usual, his left hand in his pocket, and his
-hat in his right hand, preceded the jailer, with a rolling gait
+hat in his right hand, preceded the jailer, with a [[rolling]] gait
 altogether indescribable, and, taking his place in the dock, requested
 in an audible voice to know what he was placed in that ’ere disgraceful
 sitivation for.
@@ -79,13 +79,13 @@ priwileges?”
 “You’ll get your privileges soon enough,” retorted the jailer, “and
 pepper with ’em.”
 
-“We’ll see wot the Secretary of State for the Home Affairs has got to
+“We’ll see wot the Secretary of State for the [[Home]] Affairs has got to
 say to the beaks, if I don’t,” replied Mr. Dawkins. “Now then! Wot is
 this here business? I shall thank the madg’strates to dispose of this
 here little affair, and not to keep me while they read the paper, for
-I’ve got an appointment with a genelman in the City, and as I am a man
+I’ve got an appointment with a genelman in the [[City]], and as I am a man
 of my word and wery punctual in business matters, he’ll go away if I
-ain’t there to my time, and then pr’aps ther won’t be an action for
+ain’t there to my [[Time|time]], and then pr’aps ther won’t be an action for
 damage against them as kep me away. Oh no, certainly not!”
 
 At this point, the Dodger, with a show of being very particular with a
@@ -94,7 +94,7 @@ communicate “the names of them two files as was on the bench.” Which so
 tickled the spectators, that they laughed almost as heartily as Master
 Bates could have done if he had heard the request.
 
-“Silence there!” cried the jailer.
+“[[Silence]] there!” cried the jailer.
 
 “What is this?” inquired one of the magistrates.
 
@@ -103,13 +103,13 @@ Bates could have done if he had heard the request.
 “Has the boy ever been here before?”
 
 “He ought to have been, a many times,” replied the jailer. “He has been
-pretty well everywhere else. _I_ know him well, your worship.”
+pretty [[Well|well]] everywhere else. _I_ know him [[Well|well]], your worship.”
 
 “Oh! you know me, do you?” cried the Artful, making a note of the
 statement. “Wery good. That’s a case of deformation of character, any
 way.”
 
-Here there was another laugh, and another cry of silence.
+Here there was another laugh, and another cry of [[Silence|silence]].
 
 “Now then, where are the witnesses?” said the clerk.
 
@@ -123,7 +123,7 @@ old one, he deliberately put back again, after trying it on his own
 countenance. For this reason, he took the Dodger into custody as soon
 as he could get near him, and the said Dodger, being searched, had upon
 his person a silver snuff-box, with the owner’s name engraved upon the
-lid. This gentleman had been discovered on reference to the Court
+lid. This gentleman had been discovered on reference to the [[Court]]
 Guide, and being then and there present, swore that the snuff-box was
 his, and that he had missed it on the previous day, the moment he had
 disengaged himself from the crowd before referred to. He had also
@@ -149,7 +149,7 @@ young shaver?”
 
 “No,” replied the Dodger, “not here, for this ain’t the shop for
 justice: besides which, my attorney is a-breakfasting this morning with
-the Wice President of the House of Commons; but I shall have something
+the Wice President of the [[house|House]] of Commons; but I shall have something
 to say elsewhere, and so will he, and so will a wery numerous and
 ’spectable circle of acquaintance as’ll make them beaks wish they’d
 never been born, or that they’d got their footmen to hang ’em up to
@@ -162,23 +162,23 @@ on upon me. I’ll—”
 
 “Oh ah! I’ll come on,” replied the Dodger, brushing his hat with the
 palm of his hand. “Ah! (to the Bench) it’s no use your looking
-frightened; I won’t show you no mercy, not a ha’porth of it. _You’ll_
+frightened; I won’t show you no [[Mercy|mercy]], not a ha’porth of it. _You’ll_
 pay for this, my fine fellers. I wouldn’t be you for something! I
 wouldn’t go free, now, if you was to fall down on your knees and ask
-me. Here, carry me off to prison! Take me away!”
+me. Here, carry me off to [[Prison|prison]]! Take me away!”
 
 With these last words, the Dodger suffered himself to be led off by the
 collar; threatening, till he got into the yard, to make a parliamentary
 business of it; and then grinning in the officer’s face, with great
-glee and self-approval.
+glee and [[Self|self]]-approval.
 
 Having seen him locked up by himself in a little cell, Noah made the
 best of his way back to where he had left Master Bates. After waiting
-here some time, he was joined by that young gentleman, who had
+here some [[Time|time]], he was joined by that young gentleman, who had
 prudently abstained from showing himself until he had looked carefully
 abroad from a snug retreat, and ascertained that his new friend had not
 been followed by any impertinent person.
 
-The two hastened back together, to bear to Mr. Fagin the animating news
+The two hastened back together, to bear to Mr. [[Fagin]] the animating news
 that the Dodger was doing full justice to his bringing-up, and
 establishing for himself a glorious reputation.

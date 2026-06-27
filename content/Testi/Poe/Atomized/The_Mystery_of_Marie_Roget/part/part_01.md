@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 1)"
+title: "[[The Mystery of Marie Roget]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
+A SEQUEL TO “[[The Murders in the Rue Morgue|THE MURDERS IN THE RUE MORGUE]].”
 
 
 
@@ -26,7 +26,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
   unvollkommen erscheint, und ihre Folgen gleichfalls unvollkommen
 
-  sind. So bei der Reformation; statt des Protestantismus kam das
+  sind. So bei der [[Reformation]]; statt des Protestantismus kam das
 
   Lutherthum hervor.
 
@@ -38,7 +38,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       its consequences are equally imperfect. Thus with the
 
-      Reformation; instead of Protestantism came
+      [[Reformation]]; instead of Protestantism came
 
       Lutheranism.—_Novalis_.(*2) _Moral Ansichten_.
 
@@ -48,7 +48,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       not occasionally been startled into a vague yet thrilling
 
-      half-credence in the supernatural, by coincidences of so
+      half-credence in the [[Supernatural|supernatural]], by coincidences of so
 
       seemingly marvellous a character that, as mere coincidences, the
 
@@ -64,7 +64,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       its essence, purely mathematical; and thus we have the anomaly of
 
-      the most rigidly exact in science applied to the shadow and
+      the most rigidly exact in science applied to the [[Shadow|shadow]] and
 
       spirituality of the most intangible in speculation.
 
@@ -72,17 +72,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       The extraordinary details which I am now called upon to make
 
-      public, will be found to form, as regards sequence of time, the
+      public, will be found to form, as regards sequence of [[Time|time]], the
 
       primary branch of a series of scarcely intelligible coincidences,
 
       whose secondary or concluding branch will be recognized by all
 
-      readers in the late murder of Mary Cecila Rogers, at New York.
+      readers in the late murder of Mary Cecila Rogers, at [[New York]].
 
 
 
-      When, in an article entitled “The Murders in the Rue Morgue,” I
+      When, in an article entitled “[[The Murders in the Rue Morgue]],” I
 
       endeavored, about a year ago, to depict some very remarkable
 
@@ -110,7 +110,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      Upon the winding up of the tragedy involved in the deaths of
+      Upon the winding up of the [[Tragedy|tragedy]] involved in the deaths of
 
       Madame L’Espanaye and her daughter, the Chevalier dismissed the
 
@@ -124,11 +124,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       winds, and slumbered tranquilly in the Present, weaving the dull
 
-      world around us into dreams.
+      world around us into [[Dreams|dreams]].
 
 
 
-      But these dreams were not altogether uninterrupted. It may
+      But these [[Dreams|dreams]] were not altogether uninterrupted. It may
 
       readily be supposed that the part played by my friend, in the
 
@@ -174,9 +174,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       unfortunate “cigar girl,” was the only daughter of the widow
 
-      Estelle Rogêt. The father had died during the child’s infancy,
+      Estelle Rogêt. The father had died during the [[Child|child]]’s infancy,
 
-      and from the period of his death, until within eighteen months
+      and from the period of his [[Death|death]], until within eighteen months
 
       before the assassination which forms the subject of our
 
@@ -186,7 +186,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       by Marie. Affairs went on thus until the latter had attained her
 
-      twenty-second year, when her great beauty attracted the notice of
+      twenty-second year, when her great [[Beauty|beauty]] attracted the notice of
 
       a perfumer, who occupied one of the shops in the basement of the
 

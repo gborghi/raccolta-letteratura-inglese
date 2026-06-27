@@ -32,7 +32,7 @@ CHAPTER 19
 
       which joined us, as if by accident, at different turns of the
 
-      road. There appeared so much of system in this that I could not
+      [[Road|road]]. There appeared so much of system in this that I could not
 
       help feeling distrust, and I spoke to Captain Guy of my
 
@@ -40,7 +40,7 @@ CHAPTER 19
 
       concluded that our best security lay in evincing a perfect
 
-      confidence in the good faith of Too-wit. We accordingly went on,
+      confidence in the good [[Faith|faith]] of Too-wit. We accordingly went on,
 
       keeping a wary eye upon the manoeuvres of the savages, and not
 
@@ -120,23 +120,23 @@ CHAPTER 19
 
       access in other directions. Through the middle of the valley ran
 
-      a brawling stream of the same magical-looking water which has
+      a brawling stream of the same magical-looking [[Water|water]] which has
 
-      been described. We saw several strange animals about the
+      been described. We saw several strange [[Animals|animals]] about the
 
       dwellings, all appearing to be thoroughly domesticated. The
 
       largest of these creatures resembled our common hog in the
 
-      structure of the body and snout; the tail, however, was bushy,
+      structure of the [[Body|body]] and snout; the tail, however, was bushy,
 
       and the legs slender as those of the antelope. Its motion was
 
       exceedingly awkward and indecisive, and we never saw it attempt
 
-      to run. We noticed also several animals very similar in
+      to run. We noticed also several [[Animals|animals]] very similar in
 
-      appearance, but of a greater length of body, and covered with a
+      appearance, but of a greater length of [[Body|body]], and covered with a
 
       black wool. There were a great variety of tame fowls running
 
@@ -144,11 +144,11 @@ CHAPTER 19
 
       natives. To our astonishment we saw black albatross among these
 
-      birds in a state of entire domestication, going to sea
+      [[Birds|birds]] in a state of entire domestication, going to sea
 
       periodically for food, but always returning to the village as a
 
-      home, and using the southern shore in the vicinity as a place of
+      [[Home|home]], and using the southern shore in the vicinity as a place of
 
       incubation. There they were joined by their friends the pelicans
 
@@ -178,7 +178,7 @@ CHAPTER 19
 
       Gallipago tortoise was also very plentiful. We saw but few wild
 
-      animals, and none of a large size, or of a species with which we
+      [[Animals|animals]], and none of a large size, or of a species with which we
 
       were familiar. One or two serpents of a formidable aspect crossed
 
@@ -206,9 +206,9 @@ CHAPTER 19
 
       were a great many women and children, the former not altogether
 
-      wanting in what might be termed personal beauty. They were
+      wanting in what might be termed personal [[Beauty|beauty]]. They were
 
-      straight, tall, and well formed, with a grace and freedom of
+      straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
 
       carriage not to be found in civilized society. Their lips,
 
@@ -244,9 +244,9 @@ CHAPTER 19
 
       skins fastened together with wooden skewers, was secured at the
 
-      bottom with pegs driven through it and into the ground. The floor
+      [[Bottom|bottom]] with pegs driven through it and into the ground. The floor
 
-      was strewed with a quantity of dry leaves by way of carpet.
+      was strewed with a quantity of dry [[Leaves|leaves]] by way of carpet.
 
 
 
@@ -254,7 +254,7 @@ CHAPTER 19
 
       of the natives crowded in after us as possible. Too-wit seated
 
-      himself on the leaves, and made signs that we should follow his
+      himself on the [[Leaves|leaves]], and made signs that we should follow his
 
       example. This we did, and presently found ourselves in a
 
@@ -272,7 +272,7 @@ CHAPTER 19
 
       probably was every individual on the whole island, the crowd
 
-      being prevented from trampling us to death only by the incessant
+      being prevented from trampling us to [[Death|death]] only by the incessant
 
       exertions and vociferations of Too-wit. Our chief security lay,
 
@@ -296,11 +296,11 @@ CHAPTER 19
 
       strenuously insisted upon than the Lama-Lamas! We listened in
 
-      profound silence until the conclusion of this harangue, when
+      profound [[Silence|silence]] until the conclusion of this harangue, when
 
       Captain Guy replied by assuring the chief of his eternal
 
-      friendship and goodwill, concluding what he had to say by a
+      [[Friendship|friendship]] and goodwill, concluding what he had to say by a
 
       present of several strings of blue beads and a knife. At the
 
@@ -340,7 +340,7 @@ CHAPTER 19
 
       When the monarch had made an end of his meal, we commenced a
 
-      series of cross-questioning in every ingenious manner we could
+      series of [[Cross|cross]]-questioning in every ingenious manner we could
 
       devise, with a view of discovering what were the chief
 

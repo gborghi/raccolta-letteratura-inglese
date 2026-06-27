@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 5)"
+title: "[[Shirley]] — Chapter 6 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,13 +20,13 @@ mill. Only he feared they would scarcely suit her, as they were most of
 
 them, he was informed, completely ignorant of household work; and pert
 
-and self-willed as Sarah was, she was, perhaps, no worse than the
+and [[Self|self]]-willed as Sarah was, she was, perhaps, no worse than the
 
 majority of the women of her class.
 
 
 
-Mademoiselle admitted the truth of this conjecture: according to her,
+Mademoiselle admitted the [[Truth|truth]] of this conjecture: according to her,
 
 "ces paysannes anglaises étaient tout insupportables." What would she
 
@@ -74,7 +74,7 @@ in Antwerp. Domestics are in all countries a spoiled and unruly set."
 
 Mr. Moore had also certain reminiscences about the trials of his revered
 
-mother. A good mother she had been to him, and he honoured her memory;
+mother. A good mother she had been to him, and he honoured her [[Memory|memory]];
 
 but he recollected that she kept a hot kitchen of it in Antwerp, just as
 
@@ -90,11 +90,11 @@ fraternal kindness he knew to be all-powerful in soothing her most
 
 ruffled moods, he asked her to give him some of their mother's favourite
 
-songs.
+[[songs]].
 
 
 
-Nothing refines like affection. Family jarring vulgarizes; family union
+Nothing refines like affection. Family jarring vulgarizes; family [[Union|union]]
 
 elevates. Hortense, pleased with her brother, and grateful to him,
 
@@ -102,15 +102,15 @@ looked, as she touched her guitar, almost graceful, almost handsome; her
 
 everyday fretful look was gone for a moment, and was replaced by a
 
-"sourire plein de bonté." She sang the songs he asked for, with feeling;
+"sourire plein de bonté." She sang the [[songs]] he asked for, with feeling;
 
 they reminded her of a parent to whom she had been truly attached; they
 
 reminded her of her young days. She observed, too, that Caroline
 
-listened with naïve interest; this augmented her good-humour; and the
+listened with naïve interest; this augmented her good-[[Humour|humour]]; and the
 
-exclamation at the close of the song, "I wish I could sing and play like
+exclamation at the close of the [[Song|song]], "I wish I could sing and play like
 
 Hortense!" achieved the business, and rendered her charming for the
 
@@ -118,13 +118,13 @@ evening.
 
 
 
-It is true a little lecture to Caroline followed, on the vanity of
+It is true a little lecture to Caroline followed, on the [[Vanity|vanity]] of
 
 _wishing_ and the duty of _trying_. "As Rome," it was suggested, "had
 
 not been built in a day, so neither had Mademoiselle Gérard Moore's
 
-education been completed in a week, or by merely _wishing_ to be clever.
+[[Education|education]] been completed in a week, or by merely _wishing_ to be clever.
 
 It was effort that had accomplished that great work. She was ever
 
@@ -138,9 +138,9 @@ her own merits, mademoiselle was fluent.
 
 
 
-Cradled at last in blissful self-complacency, she took her knitting, and
+Cradled at last in blissful [[Self|self]]-complacency, she took her knitting, and
 
-sat down tranquil. Drawn curtains, a clear fire, a softly-shining lamp,
+sat down tranquil. Drawn curtains, a clear [[Fire|fire]], a softly-shining lamp,
 
 gave now to the little parlour its best, its evening charm. It is
 
@@ -216,7 +216,7 @@ and tell us their thoughts, and impart their ideas."
 
 "Your French forefathers don't speak so sweetly, nor so solemnly, nor so
 
-impressively as your English ancestors, Robert. To-night you shall be
+impressively as your English ancestors, Robert. To-[[Night|night]] you shall be
 
 entirely English. You shall read an English book."
 
@@ -230,7 +230,7 @@ entirely English. You shall read an English book."
 
 of it that is toned quite in harmony with something in you. It shall
 
-waken your nature, fill your mind with music; it shall pass like a
+waken your [[Nature|nature]], fill your mind with music; it shall pass like a
 
 skilful hand over your heart, and make its strings sound. Your heart is
 
@@ -250,7 +250,7 @@ of its chords."
 
 "You must have his spirit before you; you must hear his voice with your
 
-mind's ear; you must take some of his soul into yours."
+mind's ear; you must take some of his [[Soul|soul]] into yours."
 
 
 

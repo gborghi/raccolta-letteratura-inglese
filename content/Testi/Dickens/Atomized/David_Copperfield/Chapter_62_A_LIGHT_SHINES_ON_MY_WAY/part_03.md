@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)"
+title: "[[David Copperfield]] — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,22 +15,22 @@ tags:
 
 
 Closer in my arms, nearer to my heart, her trembling hand upon my
-shoulder, her sweet eyes shining through her tears, on mine!
+shoulder, her sweet eyes shining through her [[Tears|tears]], on mine!
 
 ‘I went away, dear Agnes, loving you. I stayed away, loving you. I
-returned home, loving you!’
+returned [[Home|home]], loving you!’
 
 And now, I tried to tell her of the struggle I had had, and the
 conclusion I had come to. I tried to lay my mind before her, truly, and
 entirely. I tried to show her how I had hoped I had come into the better
 knowledge of myself and of her; how I had resigned myself to what that
 better knowledge brought; and how I had come there, even that day, in my
-fidelity to this. If she did so love me (I said) that she could take me
+fidelity to this. If she did so [[Love|love]] me (I said) that she could take me
 for her husband, she could do so, on no deserving of mine, except upon
-the truth of my love for her, and the trouble in which it had ripened to
+the [[Truth|truth]] of my [[Love|love]] for her, and the trouble in which it had ripened to
 be what it was; and hence it was that I revealed it. And O, Agnes, even
-out of thy true eyes, in that same time, the spirit of my child-wife
-looked upon me, saying it was well; and winning me, through thee, to
+out of thy true eyes, in that same [[Time|time]], the spirit of my [[Child|child]]-wife
+looked upon me, saying it was [[Well|well]]; and winning me, through thee, to
 tenderest recollections of the Blossom that had withered in its bloom!
 
 ‘I am so blest, Trotwood--my heart is so overcharged--but there is one
@@ -47,35 +47,35 @@ face.
 
 ‘I have loved you all my life!’
 
-O, we were happy, we were happy! Our tears were not for the trials (hers
+O, we were happy, we were happy! Our [[Tears|tears]] were not for the trials (hers
 so much the greater) through which we had come to be thus, but for the
 rapture of being thus, never to be divided more!
 
-We walked, that winter evening, in the fields together; and the blessed
-calm within us seemed to be partaken by the frosty air. The early stars
+We walked, that [[Winter|winter]] evening, in the fields together; and the blessed
+calm within us seemed to be partaken by the frosty air. The early [[Stars|stars]]
 began to shine while we were lingering on, and looking up to them, we
 thanked our GOD for having guided us to this tranquillity.
 
-We stood together in the same old-fashioned window at night, when the
-moon was shining; Agnes with her quiet eyes raised up to it; I following
-her glance. Long miles of road then opened out before my mind; and,
+We stood together in the same old-fashioned [[Window|window]] at [[Night|night]], when the
+[[Moon|moon]] was shining; Agnes with her quiet eyes raised up to it; I following
+her glance. Long miles of [[Road|road]] then opened out before my mind; and,
 toiling on, I saw a ragged way-worn boy, forsaken and neglected, who
 should come to call even the heart now beating against mine, his own.
 
 
-It was nearly dinner-time next day when we appeared before my aunt. She
-was up in my study, Peggotty said: which it was her pride to keep in
+It was nearly dinner-[[Time|time]] next day when we appeared before my aunt. She
+was up in my study, Peggotty said: which it was her [[Pride|pride]] to keep in
 readiness and order for me. We found her, in her spectacles, sitting by
-the fire.
+the [[Fire|fire]].
 
 ‘Goodness me!’ said my aunt, peering through the dusk, ‘who’s this
-you’re bringing home?’
+you’re bringing [[Home|home]]?’
 
 ‘Agnes,’ said I.
 
 As we had arranged to say nothing at first, my aunt was not a little
 discomfited. She darted a hopeful glance at me, when I said ‘Agnes’; but
-seeing that I looked as usual, she took off her spectacles in despair,
+seeing that I looked as usual, she took off her spectacles in [[Despair|despair]],
 and rubbed her nose with them.
 
 She greeted Agnes heartily, nevertheless; and we were soon in the
@@ -99,7 +99,7 @@ As my aunt appeared to be annoyed, I thought the best way was to cut her
 annoyance short. I took Agnes in my arm to the back of her chair, and we
 both leaned over her. My aunt, with one clap of her hands, and one look
 through her spectacles, immediately went into hysterics, for the first
-and only time in all my knowledge of her.
+and only [[Time|time]] in all my knowledge of her.
 
 The hysterics called up Peggotty. The moment my aunt was restored, she
 flew at Peggotty, and calling her a silly old creature, hugged her with
@@ -117,16 +117,16 @@ it was.
 We were married within a fortnight. Traddles and Sophy, and Doctor and
 Mrs. Strong, were the only guests at our quiet wedding. We left them
 full of joy; and drove away together. Clasped in my embrace, I held the
-source of every worthy aspiration I had ever had; the centre of myself,
-the circle of my life, my own, my wife; my love of whom was founded on a
+source of every worthy [[Aspiration|aspiration]] I had ever had; the centre of myself,
+the circle of my life, my own, my wife; my [[Love|love]] of whom was founded on a
 rock!
 
 ‘Dearest husband!’ said Agnes. ‘Now that I may call you by that name, I
 have one thing more to tell you.’
 
-‘Let me hear it, love.’
+‘Let me hear it, [[Love|love]].’
 
-‘It grows out of the night when Dora died. She sent you for me.’
+‘It grows out of the [[Night|night]] when Dora died. She sent you for me.’
 
 ‘She did.’
 

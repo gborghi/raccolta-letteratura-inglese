@@ -1,5 +1,5 @@
 ---
-title: "Othello — Act V, Scene 2 — exchange (dialogue) [1]"
+title: "[[Othello]] — Act V, Scene 2 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/OTHELLO-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Othello with a light. He draws back a curtain, revealing Desdemona asleep in her bed |
+| *(didascalia)* | Enter [[Othello]] with a light. He draws back a curtain, revealing [[Desdemona]] asleep in her bed |

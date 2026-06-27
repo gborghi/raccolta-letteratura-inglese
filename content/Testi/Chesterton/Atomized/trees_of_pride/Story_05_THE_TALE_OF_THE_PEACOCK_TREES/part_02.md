@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE TALE OF THE PEACOCK TREES (part 2)"
+title: "trees of [[Pride|pride]] — THE TALE OF THE PEACOCK TREES (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -21,7 +21,7 @@ the sunset, was itself almost as fantastic as a sunset cloud.
 It was cut out against the emerald or indigo of the sea in graven
 horns and crescents that might be the cast or mold of some such
 crested serpents; and, beneath, was pierced and fretted by caves
-and crevices, as if by the boring of some such titanic worms.
+and crevices, as if by the boring of some such [[titanic]] worms.
 Over and above this draconian architecture of the earth a veil
 of gray woods hung thinner like a vapor; woods which the witchcraft
 of the sea had, as usual, both blighted and blown out of shape.
@@ -33,14 +33,14 @@ It was here that the sight appeared to which so many eyes and minds
 seemed to be almost automatically turning.
 
 Out of the middle of this low, and more or less level wood,
-rose three separate stems that shot up and soared into the sky like a
+[[Rose|rose]] three separate stems that shot up and soared into the sky like a
 lighthouse out of the waves or a church spire out of the village roofs.
 They formed a clump of three columns close together, which might
-well be the mere bifurcation, or rather trifurcation, of one tree,
+[[Well|well]] be the mere bifurcation, or rather trifurcation, of one tree,
 the lower part being lost or sunken in the thick wood around.
 Everything about them suggested something stranger and more southern
 than anything even in that last peninsula of Britain which pushes
-out farthest toward Spain and Africa and the southern stars.
+out farthest toward Spain and Africa and the southern [[Stars|stars]].
 Their leathery leafage had sprouted in advance of the faint mist
 of yellow-green around them, and it was of another and less
 natural green, tinged with blue, like the colors of a kingfisher.
@@ -48,10 +48,10 @@ But one might fancy it the scales of some three-headed dragon
 towering over a herd of huddled and fleeing cattle.
 
 "I am exceedingly sorry your girl is so unwell," said Vane shortly.
-"But really--" and he strode down the steep road with plunging strides.
+"But really--" and he strode down the steep [[Road|road]] with plunging strides.
 
 The boat was already secured to the little stone jetty,
-and the boatman, a younger shadow of the woodcutter--and, indeed,
+and the boatman, a younger [[Shadow|shadow]] of the [[Woodcutter|woodcutter]]--and, indeed,
 a nephew of that useful malcontent--saluted his territorial lord
 with the sullen formality of the family.  The Squire acknowledged
 it casually and had soon forgotten all such things in shaking hands
@@ -65,12 +65,12 @@ straight from a considerable sea voyage; and he carried something
 in his hand which in his long European travels, and even longer
 European visits, he had almost forgotten to call a gripsack.
 
-Mr. Cyprian Paynter was an American who lived in Italy.
+Mr. Cyprian Paynter was an American who lived in [[Italy]].
 There was a good deal more to be said about him, for he was a
 very acute and cultivated gentleman; but those two facts would,
 perhaps, cover most of the others.  Storing his mind like a museum
-with the wonder of the Old World, but all lit up as by a window
-with the wonder of the New, he had fallen heir to some thing
+with the [[Wonder|wonder]] of the Old World, but all lit up as by a [[Window|window]]
+with the [[Wonder|wonder]] of the New, he had fallen heir to some thing
 of the unique critical position of Ruskin or Pater, and was further
 famous as a discoverer of minor poets.  He was a judicious discoverer,
 and he did not turn all his minor poets into major prophets.
@@ -82,7 +82,7 @@ He had a more humane sympathy with the modern flame kindled from
 the embers of Celtic mythology, and it was in reality the recent
 appearance of a Cornish poet, a sort of parallel to the new
 Irish poets, which had brought him on this occasion to Cornwall.
-He was, indeed, far too well-mannered to allow a host to guess
+He was, indeed, far too [[Well|well]]-mannered to allow a host to guess
 that any pleasure was being sought outside his own hospitality.
 He had a long standing invitation from Vane, whom he had met in Cyprus
 in the latter's days of undiplomatic diplomacy; and Vane was not aware
@@ -94,12 +94,12 @@ to lunch on the very day of the American critic's arrival.
 
 Mr. Paynter was still standing with his gripsack, gazing in a trance
 of true admiration at the hollowed crags, topped by the gray,
-grotesque wood, and crested finally by the three fantastic trees.
+[[Grotesque|grotesque]] wood, and crested finally by the three fantastic trees.
 
 "It is like being shipwrecked on the coast of fairyland," he said,
 
-"I hope you haven't been shipwrecked much," replied his host, smiling.
-"I fancy Jake here can look after you very well."
+"I [[Hope|hope]] you haven't been shipwrecked much," replied his host, smiling.
+"I fancy Jake here can look after you very [[Well|well]]."
 
 Mr. Paynter looked across at the boatman and smiled also.
 "I am afraid," he said, "our friend is not quite so enthusiastic
@@ -107,13 +107,13 @@ for this landscape as I am."
 
 "Oh, the trees, I suppose!" said the Squire wearily.
 
-The boatman was by normal trade a fisherman; but as his house,
+The boatman was by normal trade a fisherman; but as his [[house]],
 built of black tarred timber, stood right on the foreshore a few yards
 from the pier, he was employed in such cases as a sort of ferryman.
 He was a big, black-browed youth generally silent, but something
 seemed now to sting him into speech.
 
-"Well, sir," he said, "everybody knows it's not natural.
+"[[Well]], sir," he said, "everybody knows it's not natural.
 Everybody knows the sea blights trees and beats them under,
 when they're only just trees.  These things thrive like some
 unholy great seaweed that don't belong to the land at all.
@@ -121,4 +121,4 @@ It's like the--the blessed sea serpent got on shore, Squire,
 and eating everything up."
 
 "There is some stupid legend," said Squire Vane gruffly.
-"But come up into the garden; I want to introduce you to my daughter."
+"But come up into the [[Garden|garden]]; I want to introduce you to my daughter."

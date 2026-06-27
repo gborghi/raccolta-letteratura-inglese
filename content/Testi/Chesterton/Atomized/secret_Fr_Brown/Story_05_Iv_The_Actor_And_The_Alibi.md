@@ -33,7 +33,7 @@ Palace, or portions of the Enchanted Grove of Golden Orange Trees,
 leaning up against the wall to be festooned with cobwebs or nibbled by
 mice, did not give him that soothing sense of a return to simplicity
 which we all ought to have when given a glimpse of that wonderland of
-our childhood. Nor had he any time to drop a tear where he had dropped
+our [[Childhood|childhood]]. Nor had he any [[Time|time]] to drop a tear where he had dropped
 the money, or to dream of this Paradise of Peter Pan; for he had been
 summoned hurriedly to settle a practical problem, not of the past but of
 the moment. It was the sort of thing that does sometimes happen in that
@@ -48,7 +48,7 @@ seemed unlikely, for the present, that he would. Mr. Mundon Mandeville
 was sufficiently British to explain it by murmuring that all foreigners
 were mad; but the thought of his good fortune in inhabiting the only
 sane island of the planet did not suffice to soothe him any more than
-the memory of the Enchanted Grove. All these things, and many more, were
+the [[Memory|memory]] of the Enchanted Grove. All these things, and many more, were
 annoying; and yet a very intimate observer might have suspected that
 something was wrong with Mr. Mandeville that went beyond annoyance.
 
@@ -58,7 +58,7 @@ twitched as if it were always trying to bite the black strip of
 moustache that was just too short to be bitten. He might have been a man
 who had begun to take drugs; but even on that assumption there was
 something that suggested that he had a reason for doing it; that the
-drug was not the cause of the tragedy, but the tragedy the cause of the
+drug was not the cause of the [[Tragedy|tragedy]], but the [[Tragedy|tragedy]] the cause of the
 drug. Whatever was his deeper secret, it seemed to inhabit that dark end
 of the long passage where was the entrance to his own little study; and
 as he went along the empty corridor, he threw back a nervous glance now
@@ -69,9 +69,9 @@ of the passage where the blank green door of Miss Maroni defied the
 world. A group of actors and other people involved were already standing
 in front of it, conferring and considering, one might almost fancy, the
 advisability of a battering-ram. The group contained one figure, at
-least, who was already well enough known; whose photograph was on many
+least, who was already [[Well|well]] enough known; whose photograph was on many
 mantelpieces and his autograph in many albums. For though Norman Knight
-was playing the hero in a theatre that was still a little provincial and
+was playing the [[Hero|hero]] in a theatre that was still a little provincial and
 old-fashioned and capable of calling him the first walking gentleman,
 he, at least, was certainly on the way to wider triumphs. He was a good
 -looking man with a long cleft chin and fair hair low on his forehead,
@@ -119,13 +119,13 @@ Two more figures appeared in that subterranean passage under the stage:
 the first was Ashton Jarvis, a jolly fellow who generally acted
 villains, but who had surrendered that high vocation for the moment to
 the curly-headed youth with the nose. The other figure was short and
-square and clad all in black; it was Father Brown from the church round
+square and clad all in black; it was [[Father Brown]] from the church round
 the corner.
 
-Father Brown seemed to take it quite naturally and even casually, that
+[[Father Brown]] seemed to take it quite naturally and even casually, that
 he should be called in to consider the queer conduct of one of his
 flock, whether she was to be regarded as a black sheep or only as a lost
-lamb. But he did not seem to think much of the suggestion of suicide.
+[[Lamb|lamb]]. But he did not seem to think much of the suggestion of [[suicide]].
 
 "I suppose there was some reason for her flying off the handle like
 that," he said. "Does anybody know what it was?"
@@ -138,7 +138,7 @@ would look after those arrangements."
 "I can only say," said Mrs. Mundon Mandeville rather wearily, "that I
 gave her what ought to be the best part. It's supposed to be what stage
 -struck young women want, isn't it--to act the beautiful young heroine
-and marry the beautiful young hero in a shower of bouquets and cheers
+and marry the beautiful young [[Hero|hero]] in a shower of bouquets and cheers
 from the gallery? Women of my age naturally have to fall back on acting
 respectable matrons, and I was careful to confine myself to that."
 
@@ -148,30 +148,30 @@ Randall.
 "It's not to be thought of," declared Norman Knight firmly. "Why, I
 could hardly act -- but anyhow it's much too late."
 
-Father Brown had slipped forward and was standing outside the locked
+[[Father Brown]] had slipped forward and was standing outside the locked
 door listening.
 
 "Is there no sound?" asked the manager anxiously; and then added in a
 lower voice: "Do you think she can have done herself in?"
 
-"There is a certain sound," replied Father Brown calmly. "I should be
+"There is a certain sound," replied [[Father Brown]] calmly. "I should be
 inclined to deduce from the sound that she is engaged in breaking
 windows or looking-glasses, probably with her feet. No; I do not think
 there is much danger of her going on to destroy herself. Breaking
-looking-glasses with your feet is a very unusual prelude to suicide.
+looking-glasses with your feet is a very unusual prelude to [[suicide]].
 If she had been a German, gone away to think quietly about metaphysics
 and weltschmerz, I should be all for breaking the door down. These
 Italians don't really die so easily; and are not liable to kill
 themselves in a rage. Somebody else, perhaps-yes, possibly-it might
-be well to take ordinary precautions if she comes out with a leap."
+be [[Well|well]] to take ordinary precautions if she comes out with a leap."
 
 "So you're not in favour of forcing the door?" asked Mandeville.
 
-"Not if you want her to act in your play," replied Father Brown. "If you
+"Not if you want her to act in your play," replied [[Father Brown]]. "If you
 do that, she'll raise the roof and refuse to stay in the place; if you
-leave her alone-she'll probably come out from mere curiosity. If I
+leave her [[Alone|alone]]-she'll probably come out from mere curiosity. If I
 were you, I should just leave somebody to guard the door, more or less,
-and trust to time for an hour or two."
+and trust to [[Time|time]] for an hour or two."
 
 "In that case," said Mandeville, "we can only get on with rehearsing the
 scenes where she doesn't appear. My wife will arrange all that is
@@ -180,7 +180,7 @@ business. You had better get on with that."
 
 "Not a dress rehearsal," said Mandeville's wife to the others.
 
-"Very well," said Knight, "not a dress rehearsal, of course. I wish the
+"Very [[Well|well]]," said Knight, "not a dress rehearsal, of course. I wish the
 dresses of the infernal period weren't so elaborate."
 
 "What is the play?" asked the priest with a touch of curiosity.
@@ -192,12 +192,12 @@ sight more classic than comic."
 At this moment, the old doorkeeper known as Sam, and the solitary
 inhabitant of the theatre during off-hours, came waddling up to the
 manager with a card, to say that Lady Miriam Marden wished to see him.
-He turned away, but Father Brown continued to blink steadily for a few
+He turned away, but [[Father Brown]] continued to blink steadily for a few
 seconds in the direction of the manager's wife, and saw that her wan
 face wore a faint smile; not altogether a cheerful smile.
 
-Father Brown moved off in company with the man who had brought him in,
-who happened, indeed, to be a friend and person of a similar persuasion,
+[[Father Brown]] moved off in company with the man who had brought him in,
+who happened, indeed, to be a friend and person of a similar [[Persuasion|persuasion]],
 which is not uncommon among actors. As he moved off, however, he heard
 Mrs. Mandeville give quiet directions to Mrs. Sands that she should take
 up the post of watcher beside the closed door.
@@ -214,7 +214,7 @@ that to act as a pantomime boy? Admitted that she was a fine actress,
 but said pantomimes paid better. That will give you about a measure of
 his psychological insight and sensibility. But she never complained. As
 she said to me once: 'Complaint always comes back in an echo from the
-ends of the world; but silence strengthens us.' If only she were married
+ends of the world; but [[Silence|silence]] strengthens us.' If only she were married
 to somebody who understood her ideas she might have been one of the
 great actresses of the age; indeed, the highbrow critics still think a
 lot of her. As it is, she is married to that."
@@ -236,62 +236,62 @@ one's never seen."
 
 "Now, Mr. Mandeville," said Miss Talbot, tapping him on the arm with
 animated persistence, "you simply must let us see that rehearsal. We
-can't come to-night, and we don't want to. We want to see all the
+can't come to-[[Night|night]], and we don't want to. We want to see all the
 funny people in the wrong clothes."
 
 "Of course I can give you a box if you wish it," said Mandeville
 hastily. "Perhaps your ladyship would come this way." And he led them
 off down another corridor.
 
-"I wonder," said Jarvis in a meditative manner, "whether even Mandeville
+"I [[Wonder|wonder]]," said Jarvis in a meditative manner, "whether even Mandeville
 prefers that sort of woman."
 
-"Well," asked his clerical companion, "have you any reason to suppose
+"[[Well]]," asked his clerical companion, "have you any reason to suppose
 that Mandeville does prefer her?"
 
 Jarvis looked at him steadily for an instant before answering.
 
 "Mandeville is a mystery," he said gravely. "Oh, yes, I know that he
 looks about as commonplace a cad as ever walked down Piccadilly. But he
-really is a mystery for all that. There's something on his conscience.
-There's a shadow in his life. And I doubt whether it has anything more
+really is a mystery for all that. There's something on his [[Conscience|conscience]].
+There's a [[Shadow|shadow]] in his life. And I [[Doubt|doubt]] whether it has anything more
 to do with a few fashionable flirtations than it has with his poor
 neglected wife. If it has, there's something more in them than meets the
 eye. As a matter of fact, I happen to know rather more about it than
 anyone else does, merely by accident. But even I can't make anything of
 what I know, except a mystery."
 
-He looked around him in the vestibule to see that they were alone and
+He looked around him in the vestibule to see that they were [[Alone|alone]] and
 then added, lowering his voice:
 
-"I don't mind telling you, because I know you are a tower of silence
-where secrets are concerned. But I had a curious shock the other day;
+"I don't mind telling you, because I know you are a tower of [[Silence|silence]]
+where [[Secrets|secrets]] are concerned. But I had a curious shock the other day;
 and it has been repeated several times since. You know that Mandeville
 always works in that little room at the end of the passage, just under
-the stage. Well, twice over I happened to pass by there when everyone
-thought he was alone; and what's more, when I myself happened to be able
+the stage. [[Well]], twice over I happened to pass by there when everyone
+thought he was [[Alone|alone]]; and what's more, when I myself happened to be able
 to account for all the women in the company, and all the women likely to
 have to do with him, being absent or at their usual posts."
 
-"All the women?" remarked Father Brown inquiringly.
+"All the women?" remarked [[Father Brown]] inquiringly.
 
 "There was a woman with him," said Jarvis almost in a whisper. "There is
 some woman who is always visiting him; somebody that none of us knows. I
 don't even know how she comes there, since it isn't down the passage to
 the door; but I think I once saw a veiled or cloaked figure passing out
-into the twilight at the back of the theatre, like a ghost. But she
-can't be a ghost. And I don't believe she's even an ordinary 'affair'. I
-don't think it's love-making. I think it's blackmail."
+into the twilight at the back of the theatre, like a [[Ghost|ghost]]. But she
+can't be a [[Ghost|ghost]]. And I don't believe she's even an ordinary 'affair'. I
+don't think it's [[Love|love]]-making. I think it's blackmail."
 
 "What makes you think that?" asked the other.
 
-"Because," said Jarvis, his face turning from grave to grim, "I once
+"Because," said Jarvis, his face turning from [[Grave|grave]] to grim, "I once
 heard sounds like a quarrel; and then the strange woman said in a
 metallic, menacing voice, four words: 'I am your wife.'"
 
-"You think he's a bigamist," said Father Brown reflectively. "Well,
+"You think he's a bigamist," said [[Father Brown]] reflectively. "[[Well]],
 bigamy and blackmail often go together, of course. But she may be
-bluffing as well as blackmailing. She may be mad. These theatrical
+bluffing as [[Well|well]] as blackmailing. She may be mad. These theatrical
 people often have monomaniacs running after them. You may be right, but
 I shouldn't jump to conclusions. . . . And talking about theatrical
 people, isn't the rehearsal going to begin, and aren't you a theatrical
@@ -328,7 +328,7 @@ to the stage.
 The lady followed him, still pale and calm, to take up her own position
 there.
 
-"Somebody else knows it," said the priest quietly; "but I doubt whether
+"Somebody else knows it," said the priest quietly; "but I [[Doubt|doubt]] whether
 it is any business of ours."
 
 "Yes," muttered Jarvis; "it seems as if everybody knows it and nobody
@@ -341,7 +341,7 @@ attendant sat outside the Italian's door.
 ain't dead, for I heard her moving about now and then. I dunno what
 tricks she's up to."
 
-"Do you happen to know, ma'am," said Father Brown with abrupt
+"Do you happen to know, ma'am," said [[Father Brown]] with abrupt
 politeness, "where Mr. Mandeville is just now?"
 
 "Yes," she replied promptly. "Saw him go into his little room at the end
@@ -349,21 +349,21 @@ of the passage a minute or two ago; just before the prompter called and
 the curtain went up-Must be there still, for I ain't seen him come
 out."
 
-"There's no other door to his office, you mean," said Father Brown in an
-off-hand way. "Well, I suppose the rehearsal's going in full swing
+"There's no other door to his office, you mean," said [[Father Brown]] in an
+off-hand way. "[[Well]], I suppose the rehearsal's going in full swing
 now, for all the Signora's sulking."
 
-"Yrs," said Jarvis after a moment's silence; "I can just hear the voices
+"Yrs," said Jarvis after a moment's [[Silence|silence]]; "I can just hear the voices
 on the stage from here. Old Randall has a splendid carrying voice."
 
 They both remained for an instant in a listening attitude, so that the
-booming voice of the actor on the stage could indeed be heard rolling
+booming voice of the actor on the stage could indeed be heard [[rolling]]
 faintly down the stairs and along the passage. Before they had spoken
 again or resumed their normal poise, their ears were filled with another
 sound. It was a dull but heavy crash and it came from behind the closed
 door of Mundon Mandeville's private room.
 
-Father Brown went racing along the passage like an arrow from the bow
+[[Father Brown]] went racing along the passage like an arrow from the bow
 and was struggling with the door-handle before Jarvis had wakened with
 a start and begun to follow him.
 
@@ -378,10 +378,10 @@ I know the fastening on these doors."
 He knelt down and pulled out a pocket-knife with a long steel
 implement, manipulated it for a moment, and the door swung open on the
 manager's study. Almost the first thing they noticed was that there was
-no other door and even no window, but a great electric lamp stood on the
+no other door and even no [[Window|window]], but a great electric lamp stood on the
 table. But it was not quite the first thing that they noticed; for even
 before that they had seen that Mandeville was lying flat on his face in
-the middle of the room and the blood was crawling out from under his
+the middle of the room and the [[Blood|blood]] was crawling out from under his
 fallen face like a pattern of scarlet snakes that glittered evilly in
 that unnatural subterranean light.
 
@@ -391,7 +391,7 @@ his breath:
 
 "If the stranger got in somehow, she has gone somehow."
 
-"Perhaps we think too much about the stranger," said Father Brown.
+"Perhaps we think too much about the stranger," said [[Father Brown]].
 "There are so many strange things in this strange theatre that you
 rather tend to forget some of them."
 
@@ -402,7 +402,7 @@ instance."
 
 "But the other door is locked," cried Jarvis staring.
 
-"But you forgot it all the same," said Father Brown. A few moments
+"But you forgot it all the same," said [[Father Brown]]. A few moments
 afterwards he said thoughtfully: "That Mrs. Sands is a grumpy and gloomy
 sort of card."
 
@@ -414,18 +414,18 @@ detached study of character."
 
 "You can't mean," cried the actor, "that Mrs. Sands did it herself?"
 
-"I didn't mean a study of her character," said Father Brown.
+"I didn't mean a study of her character," said [[Father Brown]].
 
-While they had been exchanging these abrupt reflections, Father Brown
-had knelt down by the body and ascertained that it was beyond any hope
-or question a dead body. Lying beside it, though not immediately visible
+While they had been exchanging these abrupt reflections, [[Father Brown]]
+had knelt down by the [[Body|body]] and ascertained that it was beyond any [[Hope|hope]]
+or question a dead [[Body|body]]. Lying beside it, though not immediately visible
 from the doorway, was a dagger of the theatrical sort; lying as if it
 had fallen from the wound or from the hand of the assassin. According to
 Jarvis, who recognized the instrument, there was not very much to be
 learned from it, unless the experts could find some finger-prints. It
 was a property dagger; that is, it was nobody's property; it had been
-kicking about the theatre for a long time, and anybody might have picked
-it up. Then the priest rose and looked gravely round the room.
+kicking about the theatre for a long [[Time|time]], and anybody might have picked
+it up. Then the priest [[Rose|rose]] and looked gravely round the room.
 
 "We must send for the police," he said; "and for a doctor, though the
 doctor comes too late. Looking at this room, by the way, I don't see how
@@ -436,19 +436,19 @@ thought she had an alibi, if anybody had. Two separate rooms, both
 locked, at opposite ends of a long passage, with a fixed witness
 watching it."
 
-"No," said Father Brown. "Not quite. The difficulty is how she could
+"No," said [[Father Brown]]. "Not quite. The difficulty is how she could
 have got in this end. I think she might have got out the other end."
 
 "And why?" asked the other.
 
-"I told you," said Father Brown, "that it sounded as if she was breaking
+"I told you," said [[Father Brown]], "that it sounded as if she was breaking
 glass--mirrors or windows. Stupidly enough I forgot something I knew
-quite well; that she is pretty superstitious. She wouldn't be likely to
-break a mirror; so I suspect she broke a window. It's true that all this
-is under the ground floor; but it might be a skylight or a window
+quite [[Well|well]]; that she is pretty superstitious. She wouldn't be likely to
+break a [[Mirror|mirror]]; so I suspect she broke a [[Window|window]]. It's true that all this
+is under the ground floor; but it might be a skylight or a [[Window|window]]
 opening on an area. But there don't seem to be any skylights or areas
 here." And he stared at the ceiling very intently for a considerable
-time.
+[[Time|time]].
 
 Suddenly he came back to conscious life again with a start. "We must go
 upstairs and telephone and tell everybody, It is pretty painful ... My
@@ -456,21 +456,21 @@ God, can you hear those actors still shouting and ranting upstairs? The
 play is still going on. I suppose that's what they mean by tragic
 irony."
 
-When it was fated that the theatre should be turned into a house of
+When it was fated that the theatre should be turned into a [[house]] of
 mourning, an opportunity was given to the actors to show many of the
 real virtues of their type and trade. They did, as the phrase goes,
 behave like gentlemen; and not only like first walking gentlemen. They
 had not all of them liked or trusted Mandeville, but they knew exactly
 the right things to say about him; they showed not only sympathy but
 delicacy in their attitude to his widow. She had become, in a new and
-very different sense, a tragedy queen--her lightest word was law and
+very different sense, a [[Tragedy|tragedy]] [[Queen|queen]]--her lightest word was law and
 while she moved about slowly and sadly, they ran her many errands.
 
 "She was always a strong character," said old Randall rather huskily;
 "and had the best brains of any of us. Of course poor Mandeville was
-never on her level in education and so on; but she always did her duty
+never on her level in [[Education|education]] and so on; but she always did her duty
 splendidly. It was quite pathetic the way she would sometimes say she
-wished she had more intellectual life; but Mandeville--well, nil nisi
+wished she had more intellectual life; but Mandeville--[[Well|well]], nil nisi
 bonum, as they say." And the old gentleman went away wagging his head
 sadly.
 
@@ -483,21 +483,21 @@ don't you think it probably was the strange woman?"
 "Oh! I don't mean the Italian woman," said Jarvis hastily. "Though, as a
 matter of fact, you were quite right about her, too. When they went in
 the skylight was smashed and the room was empty; but so far as the
-police can discover, she simply went home in the most harmless fashion.
+police can discover, she simply went [[Home|home]] in the most harmless fashion.
 No, I mean the woman who was heard threatening him at that secret
 meeting; the woman who said she was his wife. Do you think she really
 was his wife?"
 
-"It is possible," said Father Brown, staring blankly into the void,
+"It is possible," said [[Father Brown]], staring blankly into the void,
 "that she really was his wife."
 
-"That would give us the motive of jealousy over his bigamous
-remarriage," reflected Jarvis, "for the body was not robbed in any way.
+"That would give us the motive of [[Jealousy|jealousy]] over his bigamous
+remarriage," reflected Jarvis, "for the [[Body|body]] was not robbed in any way.
 No need to poke about for thieving servants or even impecunious actors.
 But as for that, of course, you've noticed the outstanding and peculiar
 thing about the case?"
 
-"I have noticed several peculiar things," said Father Brown. "Which one
+"I have noticed several peculiar things," said [[Father Brown]]. "Which one
 do you mean?"
 
 "I mean the corporate alibi," said Jarvis gravely. "It's not often that
@@ -506,21 +506,21 @@ lighted stage and all witnessing to each other. As it turns out it is
 jolly lucky for our friends here that poor Mandeville did put those two
 silly society women in the box to watch the rehearsal. They can bear
 witness that the whole act was performed without a hitch, with the
-characters on the stage all the time. They began long before Mandeville
+characters on the stage all the [[Time|time]]. They began long before Mandeville
 was last seen going into his room. They went on at least five or ten
-minutes after you and I found his dead body. And, by a lucky
-coincidence, the moment we actually heard him fall was during the time
+minutes after you and I found his dead [[Body|body]]. And, by a lucky
+coincidence, the moment we actually heard him fall was during the [[Time|time]]
 when all the characters were on the stage together."
 
 "Yes, that is certainly very important and simplifies everything,"
-agreed Father Brown. "Let us count the people covered by the alibi.
+agreed [[Father Brown]]. "Let us count the people covered by the alibi.
 There was Randall: I rather fancy Randall practically hated the manager,
 though he is very properly covering his feelings just now. But he is
 ruled out; it was his voice we heard thundering over our heads from the
 stage. There is our jeune premier, Mr. Knight: I have rather good reason
-to suppose he was in love with Mandeville's wife and not concealing that
+to suppose he was in [[Love|love]] with Mandeville's wife and not concealing that
 sentiment so much as he might; but he is out of it, for he was on the
-stage at the same time, being thundered at. There was that amiable Jew
+stage at the same [[Time|time]], being thundered at. There was that amiable Jew
 who calls himself Aubrey Vernon, he's out of it; and there's Mrs.
 Mandeville, she's out of it. Their corporate alibi, as you say, depends
 chiefly on Lady Miriam and her friend in the box; though there is the
@@ -534,22 +534,22 @@ that she looks a queer sort of vamp. But you've no notion what even the
 ladies of the best families are looking like nowadays. Besides, is there
 any particular reason for doubting their evidence?"
 
-"Only that it brings us up against a blank wall," said Father Brown.
+"Only that it brings us up against a blank wall," said [[Father Brown]].
 "Don't you see that this collective alibi practically covers everybody?
-Those four were the only performers in the theatre at the time; and
+Those four were the only performers in the theatre at the [[Time|time]]; and
 there were scarcely any servants in the theatre; none indeed, except old
 Sam, who guards the only regular entrance, and the woman who guarded
 Miss Maroni's door. There is nobody else left available but you and me.
 We certainly might be accused of the crime, especially as we found the
-body. There seems nobody else who can be accused. You didn't happen to
+[[Body|body]]. There seems nobody else who can be accused. You didn't happen to
 kill him when I wasn't looking, I suppose?"
 
 Jarvis looked up with a slight start and stared a moment, then the broad
 grin returned to his swarthy face. He shook his head.
 
-"You didn't do it," said Father Brown; "and we will assume for the
+"You didn't do it," said [[Father Brown]]; "and we will assume for the
 moment, merely for the sake of argument, that I didn't do it. The people
-on the stage being out of it, it really leaves the Signora behind her
+on the stage being out of it, it really [[Leaves|leaves]] the Signora behind her
 locked door, the sentinel in front other door, and old Sam. Or are you
 thinking of the two ladies in the box? Of course they might have slipped
 out of the box."
@@ -557,30 +557,30 @@ out of the box."
 "No," said Jarvis; "I am thinking of the unknown woman who came and told
 Mandeville she was his wife."
 
-"Perhaps she was," said the priest; and this time there was a note in
+"Perhaps she was," said the priest; and this [[Time|time]] there was a note in
 his steady voice that made his companion start to his feet once more and
 lean across the table.
 
 "We said," he observed in a low, eager voice, "that this first wife
 might have been jealous of the other wife."
 
-"No," said Father Brown; "she might have been jealous of the Italian
+"No," said [[Father Brown]]; "she might have been jealous of the Italian
 girl, perhaps, or of Lady Miriam Marden. But she was not jealous of the
 other wife."
 
 "And why not?"
 
-"Because there was no other wife," said Father Brown. "So far from being
+"Because there was no other wife," said [[Father Brown]]. "So far from being
 a bigamist, Mr. Mandeville seems to me to have been a highly monogamous
 person. His wife was almost too much with him; so much with him that you
 all charitably suppose that she must be somebody else. But I don't see
 how she could have been with him when he was killed, for we agree that
-she was acting all the time in front of the footlights. Acting an
+she was acting all the [[Time|time]] in front of the footlights. Acting an
 important part, too. ..."
 
 "Do you really mean," cried Jarvis, "that the strange woman who haunted
-him like a ghost was only the Mrs. Mandeville we know?" But he received
-no answer; for Father Brown was staring into vacancy with a blank
+him like a [[Ghost|ghost]] was only the Mrs. Mandeville we know?" But he received
+no answer; for [[Father Brown]] was staring into vacancy with a blank
 expression almost like an idiot's. He always did look most idiotic at
 the instant when he was most intelligent.
 
@@ -592,8 +592,8 @@ and ask Mrs. Mandeville if I may speak to her in private?"
 "Oh, certainly," said Jarvis, as he turned towards the door. "But what's
 the matter with you?"
 
-"Only being a born fool," said Father Brown; "a very common complaint in
-this vale of tears. I was fool enough to forget altogether that the play
+"Only being a born [[Fool|fool]]," said [[Father Brown]]; "a very common complaint in
+this vale of [[Tears|tears]]. I was [[Fool|fool]] enough to forget altogether that the play
 was The School For Scandal."
 
 He walked restlessly up and down the room until Jarvis re-appeared at
@@ -601,8 +601,8 @@ the door with an altered and even alarmed face.
 
 "I can't find her anywhere," he said. "Nobody seems to have seen her."
 
-"They haven't seen Norman Knight either, have they?" asked Father Brown
-dryly. "Well, it saves me the most painful interview of my life. Saving
+"They haven't seen Norman Knight either, have they?" asked [[Father Brown]]
+dryly. "[[Well]], it saves me the most painful interview of my life. Saving
 the grace of God, I was very nearly frightened of that woman. But she
 was frightened of me, too; frightened of something I'd seen or said.
 Knight was always begging her to bolt with him. Now she's done it; and
@@ -610,14 +610,14 @@ I'm devilish sorry for him."
 
 "For him?" inquired Jarvis.
 
-"Well, it can't be very nice to elope with a murderess," said the other
+"[[Well]], it can't be very nice to elope with a murderess," said the other
 dispassionately. "But as a matter of fact she was something very much
 worse than a murderess."
 
 "And what is that?"
 
-"An egoist," said Father Brown. "She was the sort of person who had
-looked in the mirror before looking out of the window, and it is the
+"An egoist," said [[Father Brown]]. "She was the sort of person who had
+looked in the [[Mirror|mirror]] before looking out of the [[Window|window]], and it is the
 worst calamity of mortal life. The looking-glass was unlucky for her,
 all right; but rather because it wasn't broken."
 
@@ -649,12 +649,12 @@ realized it when I knew that the play was The School for Scandal.'
 "You are going rather too fast for me," said Jarvis in some
 bewilderment. "What does it matter what the play was?"
 
-"Well," said the priest, "she said she had given the girl the part of
+"[[Well]]," said the priest, "she said she had given the girl the part of
 the beautiful heroine and had retired into the background herself with
 the older part of a matron. Now that might have applied to almost any
 play; but it falsifies the facts about that particular play. She can
-only have meant that she gave the other actress the part of Maria, which
-is hardly a part at all. And the part of the obscure and self-effacing
+only have meant that she gave the other actress the part of [[Maria]], which
+is hardly a part at all. And the part of the obscure and [[Self|self]]-effacing
 married woman, if you please, must have been the part of Lady Teazle,
 which is the only part any actress wants to act. If the Italian was a
 first-rate actress who had been promised a first-rate part, there
@@ -668,7 +668,7 @@ true. If you want to know what a lady is really like, don't look at her;
 for she may be too clever for you. Don't look at the men round her, for
 they may be too silly about her. But look at some other woman who is
 always near to her, and especially one who is under her. You will see in
-that mirror her real face, and the face mirrored in Mrs. Sands was very
+that [[Mirror|mirror]] her real face, and the face mirrored in Mrs. Sands was very
 ugly.
 
 "And as for all the other impressions, what were they? I heard a lot
@@ -676,19 +676,19 @@ about the unworthiness of poor old Mandeville; but it was all about his
 being unworthy other, and I am pretty certain it came indirectly from
 her. And, even so, it betrayed itself. Obviously, from what every man
 said, she had confided in every man about her confounded intellectual
-loneliness. You yourself said she never complained; and then quoted her
-about how her uncomplaining silence strengthened her soul. And that is
+[[Loneliness|loneliness]]. You yourself said she never complained; and then quoted her
+about how her uncomplaining [[Silence|silence]] strengthened her [[Soul|soul]]. And that is
 just the note; that's the unmistakable style. People who complain are
 just jolly, human Christian nuisances; I don't mind them. But people who
 complain that they never complain are the devil. They are really the
 devil; isn't that swagger of stoicism the whole point of the Byronic
-cult of Satan? I heard all this; but for the life of me I couldn't hear
+cult of [[Satan]]? I heard all this; but for the life of me I couldn't hear
 of anything tangible she had to complain of. Nobody pretended that her
 husband drank, or beat her, or left her without money, or even was
 unfaithful, until the rumour about the secret meetings, which were
 simply her own melodramatic habit of pestering him with curtain-
 lectures in his own business office. And when one looked at the facts,
-apart from the atmospheric impression of martyrdom she contrived to
+apart from the atmospheric impression of [[Martyrdom|martyrdom]] she contrived to
 spread, the facts were really quite the other way. Mandeville left off
 making money on pantomimes to please her; he started losing money on
 classical drama to please her. She arranged the scenery and furniture as
@@ -703,16 +703,16 @@ seem to have got a long way from the murder in all this psychological
 business. She may have eloped with Knight; she may have bamboozled
 Randall; she may have bamboozled me. But she can't have murdered her
 husband--for everyone agrees she was on the stage through the whole
-scene. She may be wicked; but she isn't a witch."
+scene. She may be wicked; but she isn't a [[Witch|witch]]."
 
-"Well, I wouldn't be so sure," said Father Brown, with a smile. "But she
+"[[Well]], I wouldn't be so sure," said [[Father Brown]], with a smile. "But she
 didn't need to use any witchcraft in this case. I know now that she did
 it, and very simply indeed."
 
 "Why are you so sure of that?" asked Jarvis, looking at him in a puzzled
 way.
 
-"Because the play was The School for Scandal," replied Father Brown,
+"Because the play was The School for Scandal," replied [[Father Brown]],
 "and that particular act of The School for Scandal. I should like to
 remind you, as I said just now, that she always arranged the furniture
 how she liked. I should also like to remind you that this stage was
@@ -720,12 +720,12 @@ built and used for pantomimes; it would naturally have trap-doors and
 trick exits of that sort. And when you say that witnesses could attest
 to having seen all the performers on the stage, I should like to remind
 you that in the principal scene of The School for Scandal one of the
-principal performers remains for a considerable time on the stage, but
+principal performers remains for a considerable [[Time|time]] on the stage, but
 is not seen. She is technically 'on,' but she might practically be very
 much 'off.' That is the Screen of Lady Teazle and the Alibi of Mrs.
 Mandeville."
 
-There was a silence and then the actor said: "You think she slipped
+There was a [[Silence|silence]] and then the actor said: "You think she slipped
 through a trap-door behind a screen down to the floor below, where the
 manager's room was?"
 
@@ -735,16 +735,16 @@ because she took the opportunity of an undress rehearsal, and even
 indeed arranged for one. It is a guess; but I fancy if it had been a
 dress rehearsal it might have been more difficult to get through a trap
 -door in the hoops of the eighteenth century. There are many little
-difficulties, of course, but I think they could all be met in time and
+difficulties, of course, but I think they could all be met in [[Time|time]] and
 in turn."
 
 "What I can't meet is the big difficulty," said Jarvis, putting his head
 on his hand with a sort of groan. "I simply can't bring myself to
 believe that a radiant and serene creature like that could so lose, so
 to speak, her bodily balance, to say nothing of her moral balance. Was
-any motive strong enough? Was she very much in love with Knight?"
+any motive strong enough? Was she very much in [[Love|love]] with Knight?"
 
-"I hope so," replied his companion; "for really it would be the most
+"I [[Hope|hope]] so," replied his companion; "for really it would be the most
 human excuse. But I'm sorry to say that I have my doubts. She wanted to
 get rid of her husband, who was an old-fashioned, provincial hack, not
 even making much money. She wanted to have a career as the brilliant
@@ -752,14 +752,14 @@ wife of a brilliant and rapidly-rising actor. But she didn't want in
 that sense to act in The School for Scandal. She wouldn't have run away
 with a man except in the last resort. It wasn't a human passion with
 her, but a sort of hellish respectability. She was always dogging her
-husband in secret and badgering him to divorce himself or otherwise get
+husband in secret and badgering him to [[divorce]] himself or otherwise get
 out of the way; and as he refused he paid at last for his refusal.
 There's another thing you've got to remember. You talk about these
 highbrows having a higher art and a more philosophical drama. But
-remember what a lot of the philosophy is! Remember what sort of conduct
+remember what a lot of the [[philosophy]] is! Remember what sort of conduct
 those highbrows often present to the highest! All about the Will to
 Power and the Right to Live and the Right to Experience-damned
 nonsense and more than damned nonsense--nonsense that can damn."
 
-Father Brown frowned, which he did very rarely; and there was still a
-cloud on his brow as he put on his hat and went out into the night.
+[[Father Brown]] frowned, which he did very rarely; and there was still a
+cloud on his brow as he put on his hat and went out into the [[Night|night]].

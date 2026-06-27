@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 18"
+title: "[[Emma]] — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,14 +17,14 @@ tags:
 CHAPTER XVIII
 
 
-Time passed on. A few more to-morrows, and the party from London would
-be arriving. It was an alarming change; and Emma was thinking of it one
+[[Time]] passed on. A few more to-morrows, and the party from [[London]] would
+be arriving. It was an alarming change; and [[Emma]] was thinking of it one
 morning, as what must bring a great deal to agitate and grieve her,
 when Mr. Knightley came in, and distressing thoughts were put by. After
 the first chat of pleasure he was silent; and then, in a graver tone,
 began with,
 
-“I have something to tell you, Emma; some news.”
+“I have something to tell you, [[Emma]]; some news.”
 
 “Good or bad?” said she, quickly, looking up in his face.
 
@@ -34,15 +34,15 @@ began with,
 to smile.”
 
 “I am afraid,” said he, composing his features, “I am very much afraid,
-my dear Emma, that you will not smile when you hear it.”
+my dear [[Emma]], that you will not smile when you hear it.”
 
 “Indeed! but why so?—I can hardly imagine that any thing which pleases
 or amuses you, should not please and amuse me too.”
 
-“There is one subject,” he replied, “I hope but one, on which we do not
+“There is one subject,” he replied, “I [[Hope|hope]] but one, on which we do not
 think alike.” He paused a moment, again smiling, with his eyes fixed on
 her face. “Does nothing occur to you?—Do not you recollect?—Harriet
-Smith.”
+[[smith|Smith]].”
 
 Her cheeks flushed at the name, and she felt afraid of something,
 though she knew not what.
@@ -53,9 +53,9 @@ believe, and know the whole.”
 “No, I have not; I know nothing; pray tell me.”
 
 “You are prepared for the worst, I see—and very bad it is. Harriet
-Smith marries Robert Martin.”
+[[smith|Smith]] marries [[Robert Martin]].”
 
-Emma gave a start, which did not seem like being prepared—and her eyes,
+[[Emma]] gave a start, which did not seem like being prepared—and her eyes,
 in eager gaze, said, “No, this is impossible!” but her lips were
 closed.
 
@@ -64,24 +64,24 @@ Martin himself. He left me not half an hour ago.”
 
 She was still looking at him with the most speaking amazement.
 
-“You like it, my Emma, as little as I feared.—I wish our opinions were
-the same. But in time they will. Time, you may be sure, will make one
+“You like it, my [[Emma]], as little as I feared.—I wish our opinions were
+the same. But in [[Time|time]] they will. [[Time]], you may be sure, will make one
 or the other of us think differently; and, in the meanwhile, we need
 not talk much on the subject.”
 
 “You mistake me, you quite mistake me,” she replied, exerting herself.
 “It is not that such a circumstance would now make me unhappy, but I
 cannot believe it. It seems an impossibility!—You cannot mean to say,
-that Harriet Smith has accepted Robert Martin. You cannot mean that he
+that [[Harriet Smith]] has accepted [[Robert Martin]]. You cannot mean that he
 has even proposed to her again—yet. You only mean, that he intends it.”
 
 “I mean that he has done it,” answered Mr. Knightley, with smiling but
 determined decision, “and been accepted.”
 
-“Good God!” she cried.—“Well!”—Then having recourse to her workbasket,
+“Good God!” she cried.—“[[Well]]!”—Then having recourse to her workbasket,
 in excuse for leaning down her face, and concealing all the exquisite
 feelings of delight and entertainment which she knew she must be
-expressing, she added, “Well, now tell me every thing; make this
+expressing, she added, “[[Well]], now tell me every thing; make this
 intelligible to me. How, where, when?—Let me know it all. I never was
 more surprized—but it does not make me unhappy, I assure you.—How—how
 has it been possible?”
@@ -91,7 +91,7 @@ and I got him to take charge of some papers which I was wanting to send
 to John.—He delivered these papers to John, at his chambers, and was
 asked by him to join their party the same evening to Astley’s. They
 were going to take the two eldest boys to Astley’s. The party was to be
-our brother and sister, Henry, John—and Miss Smith. My friend Robert
+our brother and sister, Henry, John—and Miss [[smith|Smith]]. My friend Robert
 could not resist. They called for him in their way; were all extremely
 amused; and my brother asked him to dine with them the next day—which
 he did—and in the course of that visit (as I understand) he found an
@@ -101,36 +101,36 @@ deserving. He came down by yesterday’s coach, and was with me this
 morning immediately after breakfast, to report his proceedings, first
 on my affairs, and then on his own. This is all that I can relate of
 the how, where, and when. Your friend Harriet will make a much longer
-history when you see her.—She will give you all the minute particulars,
+[[history]] when you see her.—She will give you all the minute particulars,
 which only woman’s language can make interesting.—In our communications
-we deal only in the great.—However, I must say, that Robert Martin’s
+we deal only in the great.—However, I must say, that [[Robert Martin]]’s
 heart seemed for _him_, and to _me_, very overflowing; and that he did
 mention, without its being much to the purpose, that on quitting their
 box at Astley’s, my brother took charge of Mrs. John Knightley and
-little John, and he followed with Miss Smith and Henry; and that at one
-time they were in such a crowd, as to make Miss Smith rather uneasy.”
+little John, and he followed with Miss [[smith|Smith]] and Henry; and that at one
+[[Time|time]] they were in such a crowd, as to make Miss [[smith|Smith]] rather uneasy.”
 
-He stopped.—Emma dared not attempt any immediate reply. To speak, she
+He stopped.—[[Emma]] dared not attempt any immediate reply. To speak, she
 was sure would be to betray a most unreasonable degree of happiness.
-She must wait a moment, or he would think her mad. Her silence
+She must wait a moment, or he would think her mad. Her [[Silence|silence]]
 disturbed him; and after observing her a little while, he added,
 
-“Emma, my love, you said that this circumstance would not now make you
-unhappy; but I am afraid it gives you more pain than you expected. His
+“[[Emma]], my [[Love|love]], you said that this circumstance would not now make you
+unhappy; but I am afraid it gives you more [[Pain|pain]] than you expected. His
 situation is an evil—but you must consider it as what satisfies your
 friend; and I will answer for your thinking better and better of him as
 you know him more. His good sense and good principles would delight
 you.—As far as the man is concerned, you could not wish your friend in
 better hands. His rank in society I would alter if I could, which is
-saying a great deal I assure you, Emma.—You laugh at me about William
-Larkins; but I could quite as ill spare Robert Martin.”
+saying a great deal I assure you, [[Emma]].—You laugh at me about William
+Larkins; but I could quite as ill spare [[Robert Martin]].”
 
 He wanted her to look up and smile; and having now brought herself not
 to smile too broadly—she did—cheerfully answering,
 
 “You need not be at any pains to reconcile me to the match. I think
-Harriet is doing extremely well. _Her_ connexions may be worse than
-_his_. In respectability of character, there can be no doubt that they
+Harriet is doing extremely [[Well|well]]. _Her_ connexions may be worse than
+_his_. In respectability of character, there can be no [[Doubt|doubt]] that they
 are. I have been silent from surprize merely, excessive surprize. You
 cannot imagine how suddenly it has come on me! how peculiarly
 unprepared I was!—for I had reason to believe her very lately more
@@ -140,20 +140,20 @@ determined against him, much more, than she was before.”
 should say she was a good-tempered, soft-hearted girl, not likely to be
 very, very determined against any young man who told her he loved her.”
 
-Emma could not help laughing as she answered, “Upon my word, I believe
-you know her quite as well as I do.—But, Mr. Knightley, are you
+[[Emma]] could not help laughing as she answered, “Upon my word, I believe
+you know her quite as [[Well|well]] as I do.—But, Mr. Knightley, are you
 perfectly sure that she has absolutely and downright _accepted_ him. I
-could suppose she might in time—but can she already?—Did not you
+could suppose she might in [[Time|time]]—but can she already?—Did not you
 misunderstand him?—You were both talking of other things; of business,
 shows of cattle, or new drills—and might not you, in the confusion of
 so many subjects, mistake him?—It was not Harriet’s hand that he was
 certain of—it was the dimensions of some famous ox.”
 
 The contrast between the countenance and air of Mr. Knightley and
-Robert Martin was, at this moment, so strong to Emma’s feelings, and so
+[[Robert Martin]] was, at this moment, so strong to [[Emma]]’s feelings, and so
 strong was the recollection of all that had so recently passed on
 Harriet’s side, so fresh the sound of those words, spoken with such
-emphasis, “No, I hope I know better than to think of Robert Martin,”
+emphasis, “No, I [[Hope|hope]] I know better than to think of [[Robert Martin]],”
 that she was really expecting the intelligence to prove, in some
 measure, premature. It could not be otherwise.
 
@@ -175,33 +175,33 @@ her relations or friends. Could I mention any thing more fit to be
 done, than to go to Mrs. Goddard? I assured him that I could not. Then,
 he said, he would endeavour to see her in the course of this day.”
 
-“I am perfectly satisfied,” replied Emma, with the brightest smiles,
+“I am perfectly satisfied,” replied [[Emma]], with the brightest smiles,
 “and most sincerely wish them happy.”
 
 “You are materially changed since we talked on this subject before.”
 
-“I hope so—for at that time I was a fool.”
+“I [[Hope|hope]] so—for at that [[Time|time]] I was a [[Fool|fool]].”
 
 “And I am changed also; for I am now very willing to grant you all
 Harriet’s good qualities. I have taken some pains for your sake, and
-for Robert Martin’s sake, (whom I have always had reason to believe as
-much in love with her as ever,) to get acquainted with her. I have
+for [[Robert Martin]]’s sake, (whom I have always had reason to believe as
+much in [[Love|love]] with her as ever,) to get acquainted with her. I have
 often talked to her a good deal. You must have seen that I did.
 Sometimes, indeed, I have thought you were half suspecting me of
 pleading poor Martin’s cause, which was never the case; but, from all
 my observations, I am convinced of her being an artless, amiable girl,
 with very good notions, very seriously good principles, and placing her
 happiness in the affections and utility of domestic life.—Much of this,
-I have no doubt, she may thank you for.”
+I have no [[Doubt|doubt]], she may thank you for.”
 
-“Me!” cried Emma, shaking her head.—“Ah! poor Harriet!”
+“Me!” cried [[Emma]], shaking her head.—“Ah! poor Harriet!”
 
 She checked herself, however, and submitted quietly to a little more
 praise than she deserved.
 
 Their conversation was soon afterwards closed by the entrance of her
-father. She was not sorry. She wanted to be alone. Her mind was in a
-state of flutter and wonder, which made it impossible for her to be
+father. She was not sorry. She wanted to be [[Alone|alone]]. Her mind was in a
+state of flutter and [[Wonder|wonder]], which made it impossible for her to be
 collected. She was in dancing, singing, exclaiming spirits; and till
 she had moved about, and talked to herself, and laughed and reflected,
 she could be fit for nothing rational.
@@ -216,7 +216,7 @@ Harriet’s welfare, she was really in danger of becoming too happy for
 security.—What had she to wish for? Nothing, but to grow more worthy of
 him, whose intentions and judgment had been ever so superior to her
 own. Nothing, but that the lessons of her past folly might teach her
-humility and circumspection in future.
+[[Humility|humility]] and circumspection in future.
 
 Serious she was, very serious in her thankfulness, and in her
 resolutions; and yet there was no preventing a laugh, sometimes in the
@@ -224,7 +224,7 @@ very midst of them. She must laugh at such a close! Such an end of the
 doleful disappointment of five weeks back! Such a heart—such a Harriet!
 
 Now there would be pleasure in her returning—Every thing would be a
-pleasure. It would be a great pleasure to know Robert Martin.
+pleasure. It would be a great pleasure to know [[Robert Martin]].
 
 High in the rank of her most serious and heartfelt felicities, was the
 reflection that all necessity of concealment from Mr. Knightley would
@@ -235,50 +235,50 @@ to welcome as a duty.
 
 In the gayest and happiest spirits she set forward with her father; not
 always listening, but always agreeing to what he said; and, whether in
-speech or silence, conniving at the comfortable persuasion of his being
+speech or [[Silence|silence]], conniving at the comfortable [[Persuasion|persuasion]] of his being
 obliged to go to Randalls every day, or poor Mrs. Weston would be
 disappointed.
 
-They arrived.—Mrs. Weston was alone in the drawing-room:—but hardly had
+They arrived.—Mrs. Weston was [[Alone|alone]] in the drawing-room:—but hardly had
 they been told of the baby, and Mr. Woodhouse received the thanks for
 coming, which he asked for, when a glimpse was caught through the
-blind, of two figures passing near the window.
+blind, of two figures passing near the [[Window|window]].
 
 “It is Frank and Miss Fairfax,” said Mrs. Weston. “I was just going to
 tell you of our agreeable surprize in seeing him arrive this morning.
 He stays till to-morrow, and Miss Fairfax has been persuaded to spend
-the day with us.—They are coming in, I hope.”
+the day with us.—They are coming in, I [[Hope|hope]].”
 
-In half a minute they were in the room. Emma was extremely glad to see
+In half a minute they were in the room. [[Emma]] was extremely glad to see
 him—but there was a degree of confusion—a number of embarrassing
 recollections on each side. They met readily and smiling, but with a
 consciousness which at first allowed little to be said; and having all
-sat down again, there was for some time such a blank in the circle,
-that Emma began to doubt whether the wish now indulged, which she had
-long felt, of seeing Frank Churchill once more, and of seeing him with
+sat down again, there was for some [[Time|time]] such a blank in the circle,
+that [[Emma]] began to [[Doubt|doubt]] whether the wish now indulged, which she had
+long felt, of seeing [[Frank Churchill]] once more, and of seeing him with
 Jane, would yield its proportion of pleasure. When Mr. Weston joined
 the party, however, and when the baby was fetched, there was no longer
-a want of subject or animation—or of courage and opportunity for Frank
+a want of subject or animation—or of [[Courage|courage]] and opportunity for Frank
 Churchill to draw near her and say,
 
 “I have to thank you, Miss Woodhouse, for a very kind forgiving message
-in one of Mrs. Weston’s letters. I hope time has not made you less
-willing to pardon. I hope you do not retract what you then said.”
+in one of Mrs. Weston’s letters. I [[Hope|hope]] [[Time|time]] has not made you less
+willing to pardon. I [[Hope|hope]] you do not retract what you then said.”
 
-“No, indeed,” cried Emma, most happy to begin, “not in the least. I am
+“No, indeed,” cried [[Emma]], most happy to begin, “not in the least. I am
 particularly glad to see and shake hands with you—and to give you joy
 in person.”
 
-He thanked her with all his heart, and continued some time to speak
+He thanked her with all his heart, and continued some [[Time|time]] to speak
 with serious feeling of his gratitude and happiness.
 
-“Is not she looking well?” said he, turning his eyes towards Jane.
+“Is not she looking [[Well|well]]?” said he, turning his eyes towards Jane.
 “Better than she ever used to do?—You see how my father and Mrs. Weston
 doat upon her.”
 
 But his spirits were soon rising again, and with laughing eyes, after
 mentioning the expected return of the Campbells, he named the name of
-Dixon.—Emma blushed, and forbade its being pronounced in her hearing.
+Dixon.—[[Emma]] blushed, and forbade its being pronounced in her hearing.
 
 “I can never think of it,” she cried, “without extreme shame.”
 
@@ -294,26 +294,26 @@ they were very bad wrong things, and such as did me no service.—It
 would have been a much better transgression had I broken the bond of
 secrecy and told you every thing.”
 
-“It is not now worth a regret,” said Emma.
+“It is not now worth a regret,” said [[Emma]].
 
-“I have some hope,” resumed he, “of my uncle’s being persuaded to pay a
+“I have some [[Hope|hope]],” resumed he, “of my uncle’s being persuaded to pay a
 visit at Randalls; he wants to be introduced to her. When the Campbells
-are returned, we shall meet them in London, and continue there, I
+are returned, we shall meet them in [[London]], and continue there, I
 trust, till we may carry her northward.—But now, I am at such a
 distance from her—is not it hard, Miss Woodhouse?—Till this morning, we
-have not once met since the day of reconciliation. Do not you pity me?”
+have not once met since the day of [[Reconciliation|reconciliation]]. Do not you pity me?”
 
-Emma spoke her pity so very kindly, that with a sudden accession of gay
+[[Emma]] spoke her pity so very kindly, that with a sudden accession of gay
 thought, he cried,
 
 “Ah! by the bye,” then sinking his voice, and looking demure for the
-moment—“I hope Mr. Knightley is well?” He paused.—She coloured and
+moment—“I [[Hope|hope]] Mr. Knightley is [[Well|well]]?” He paused.—She coloured and
 laughed.—“I know you saw my letter, and think you may remember my wish
 in your favour. Let me return your congratulations.—I assure you that I
 have heard the news with the warmest interest and satisfaction.—He is a
 man whom I cannot presume to praise.”
 
-Emma was delighted, and only wanted him to go on in the same style; but
+[[Emma]] was delighted, and only wanted him to go on in the same style; but
 his mind was the next moment in his own concerns and with his own Jane,
 and his next words were,
 
@@ -321,18 +321,18 @@ and his next words were,
 without being actually fair.—One cannot call her fair. It is a most
 uncommon complexion, with her dark eye-lashes and hair—a most
 distinguishing complexion! So peculiarly the lady in it.—Just colour
-enough for beauty.”
+enough for [[Beauty|beauty]].”
 
-“I have always admired her complexion,” replied Emma, archly; “but do
-not I remember the time when you found fault with her for being so
+“I have always admired her complexion,” replied [[Emma]], archly; “but do
+not I remember the [[Time|time]] when you found fault with her for being so
 pale?—When we first began to talk of her.—Have you quite forgotten?”
 
 “Oh! no—what an impudent dog I was!—How could I dare—”
 
-But he laughed so heartily at the recollection, that Emma could not
+But he laughed so heartily at the recollection, that [[Emma]] could not
 help saying,
 
-“I do suspect that in the midst of your perplexities at that time, you
+“I do suspect that in the midst of your perplexities at that [[Time|time]], you
 had very great amusement in tricking us all.—I am sure you had.—I am
 sure it was a consolation to you.”
 
@@ -342,7 +342,7 @@ miserable wretch!”
 “Not quite so miserable as to be insensible to mirth. I am sure it was
 a source of high entertainment to you, to feel that you were taking us
 all in.—Perhaps I am the readier to suspect, because, to tell you the
-truth, I think it might have been some amusement to myself in the same
+[[Truth|truth]], I think it might have been some amusement to myself in the same
 situation. I think there is a little likeness between us.”
 
 He bowed.
@@ -361,37 +361,37 @@ uncle means to give her all my aunt’s jewels. They are to be new set. I
 am resolved to have some in an ornament for the head. Will not it be
 beautiful in her dark hair?”
 
-“Very beautiful, indeed,” replied Emma; and she spoke so kindly, that
+“Very beautiful, indeed,” replied [[Emma]]; and she spoke so kindly, that
 he gratefully burst out,
 
 “How delighted I am to see you again! and to see you in such excellent
 looks!—I would not have missed this meeting for the world. I should
 certainly have called at Hartfield, had you failed to come.”
 
-The others had been talking of the child, Mrs. Weston giving an account
+The others had been talking of the [[Child|child]], Mrs. Weston giving an account
 of a little alarm she had been under, the evening before, from the
-infant’s appearing not quite well. She believed she had been foolish,
+infant’s appearing not quite [[Well|well]]. She believed she had been foolish,
 but it had alarmed her, and she had been within half a minute of
 sending for Mr. Perry. Perhaps she ought to be ashamed, but Mr. Weston
 had been almost as uneasy as herself.—In ten minutes, however, the
-child had been perfectly well again. This was her history; and
+[[Child|child]] had been perfectly [[Well|well]] again. This was her [[history]]; and
 particularly interesting it was to Mr. Woodhouse, who commended her
 very much for thinking of sending for Perry, and only regretted that
-she had not done it. “She should always send for Perry, if the child
+she had not done it. “She should always send for Perry, if the [[Child|child]]
 appeared in the slightest degree disordered, were it only for a moment.
 She could not be too soon alarmed, nor send for Perry too often. It was
-a pity, perhaps, that he had not come last night; for, though the child
-seemed well now, very well considering, it would probably have been
+a pity, perhaps, that he had not come last [[Night|night]]; for, though the [[Child|child]]
+seemed [[Well|well]] now, very [[Well|well]] considering, it would probably have been
 better if Perry had seen it.”
 
-Frank Churchill caught the name.
+[[Frank Churchill]] caught the name.
 
-“Perry!” said he to Emma, and trying, as he spoke, to catch Miss
+“Perry!” said he to [[Emma]], and trying, as he spoke, to catch Miss
 Fairfax’s eye. “My friend Mr. Perry! What are they saying about Mr.
 Perry?—Has he been here this morning?—And how does he travel now?—Has
 he set up his carriage?”
 
-Emma soon recollected, and understood him; and while she joined in the
+[[Emma]] soon recollected, and understood him; and while she joined in the
 laugh, it was evident from Jane’s countenance that she too was really
 hearing him, though trying to seem deaf.
 
@@ -408,13 +408,13 @@ remained as she turned towards him, and said in a conscious, low, yet
 steady voice,
 
 “How you can bear such recollections, is astonishing to me!—They _will_
-sometimes obtrude—but how you can court them!”
+sometimes obtrude—but how you can [[Court|court]] them!”
 
 He had a great deal to say in return, and very entertainingly; but
-Emma’s feelings were chiefly with Jane, in the argument; and on leaving
+[[Emma]]’s feelings were chiefly with Jane, in the argument; and on leaving
 Randalls, and falling naturally into a comparison of the two men, she
-felt, that pleased as she had been to see Frank Churchill, and really
-regarding him as she did with friendship, she had never been more
+felt, that pleased as she had been to see [[Frank Churchill]], and really
+regarding him as she did with [[Friendship|friendship]], she had never been more
 sensible of Mr. Knightley’s high superiority of character. The
 happiness of this most happy day, received its completion, in the
 animated contemplation of his worth which this comparison produced.

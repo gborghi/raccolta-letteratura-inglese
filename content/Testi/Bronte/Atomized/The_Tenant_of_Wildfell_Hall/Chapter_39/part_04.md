@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 39 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -50,7 +50,7 @@ Here the door was thrown open, and Messrs. Huntingdon and Hattersley
 
 appeared without. The latter remained in the hall, busy with his ramrod
 
-and his gun; the former walked in, and stood with his back to the fire,
+and his gun; the former walked in, and stood with his back to the [[Fire|fire]],
 
 surveying Mr. Hargrave and me, particularly the former, with a smile of
 
@@ -60,13 +60,13 @@ brazen brow, and the sly, malicious, twinkle of his eye.
 
 
 
-“Well, sir?” said Hargrave, interrogatively, and with the air of one
+“[[Well]], sir?” said Hargrave, interrogatively, and with the air of one
 
 prepared to stand on the defensive.
 
 
 
-“Well, sir,” returned his host.
+“[[Well]], sir,” returned his host.
 
 
 
@@ -80,11 +80,11 @@ that.”
 
 
 
-Walter did not answer, but walked to the window to collect his
+Walter did not answer, but walked to the [[Window|window]] to collect his
 
-faculties. Arthur uttered a low whistle, and followed him with his
+faculties. [[arthur|Arthur]] uttered a low whistle, and followed him with his
 
-eyes. A slight flush of anger rose to Hargrave’s cheek; but in a moment
+eyes. A slight flush of anger [[Rose|rose]] to Hargrave’s cheek; but in a moment
 
 he turned calmly round, and said carelessly:
 
@@ -116,7 +116,7 @@ shoulder against the mantel-piece, turned to me, and, addressing me in
 
 a low voice, scarcely above his breath, poured forth a volley of the
 
-vilest and grossest abuse it was possible for the imagination to
+vilest and grossest abuse it was possible for the [[Imagination|imagination]] to
 
 conceive or the tongue to utter. I did not attempt to interrupt him;
 
@@ -134,7 +134,7 @@ arm, and attempted to drag him away. “Come, my lad,” he muttered; “true
 
 or false, _you’ve_ no right to blame her, you _know_, nor him either;
 
-after what you said last night. So come along.”
+after what you said last [[Night|night]]. So come along.”
 
 
 
@@ -194,7 +194,7 @@ without.
 
 
 
-He turned and looked at me in grave surprise.
+He turned and looked at me in [[Grave|grave]] surprise.
 
 
 
@@ -218,7 +218,7 @@ yielded to your solicitations.”
 
 
 
-“You _do_ understand me, sir; and I charge you, upon your honour as a
+“You _do_ understand me, sir; and I charge you, upon your [[Honour|honour]] as a
 
 gentleman (if you have any), to answer truly. Did I, or did I not?”
 
@@ -290,7 +290,7 @@ from being blackened and aspersed among this nest of boon companions,
 
 and through them, perhaps, into the world; and beside my abandoned
 
-wretch of a husband, the base, malignant Grimsby, and the false villain
+wretch of a husband, the base, malignant Grimsby, and the false [[Villain|villain]]
 
 Hargrave, this boorish ruffian, coarse and brutal as he was, shone like
 

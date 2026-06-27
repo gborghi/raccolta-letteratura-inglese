@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17 (part 5)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,19 +15,19 @@ tags:
 
 
 It was midnight when he returned from his solitary expedition and
-climbed his staircase. The night was hot, and the windows of the
+climbed his staircase. The [[Night|night]] was hot, and the windows of the
 staircase were all wide open. Coming to the top, it gave him a passing
 chill of surprise (there being no rooms but his up there) to find a
-stranger sitting on the window-sill, more after the manner of a
+stranger sitting on the [[Window|window]]-sill, more after the manner of a
 venturesome glazier than an amateur ordinarily careful of his neck; in
-fact, so much more outside the window than inside, as to suggest the
-thought that he must have come up by the water-spout instead of the
+fact, so much more outside the [[Window|window]] than inside, as to suggest the
+thought that he must have come up by the [[Water|water]]-spout instead of the
 stairs.
 
 The stranger said nothing until Neville put his key in his door; then,
-seeming to make sure of his identity from the action, he spoke:
+seeming to make sure of his [[Identity|identity]] from the action, he spoke:
 
-“I beg your pardon,” he said, coming from the window with a frank and
+“I beg your pardon,” he said, coming from the [[Window|window]] with a frank and
 smiling air, and a prepossessing address; “the beans.”
 
 Neville was quite at a loss.
@@ -56,20 +56,20 @@ clustering brown hair, and laughing teeth.
 Neville inclined his head.
 
 “I have noticed (excuse me) that you shut yourself up a good deal, and
-that you seem to like my garden aloft here. If you would like a little
+that you seem to like my [[Garden|garden]] aloft here. If you would like a little
 more of it, I could throw out a few lines and stays between my windows
 and yours, which the runners would take to directly. And I have some
 boxes, both of mignonette and wall-flower, that I could shove on along
 the gutter (with a boathook I have by me) to your windows, and draw
 back again when they wanted watering or gardening, and shove on again
-when they were ship-shape; so that they would cause you no trouble. I
+when they were [[Ship|ship]]-shape; so that they would cause you no trouble. I
 couldn’t take this liberty without asking your permission, so I venture
 to ask it. Tartar, corresponding set, next door.”
 
 “You are very kind.”
 
 “Not at all. I ought to apologise for looking in so late. But having
-noticed (excuse me) that you generally walk out at night, I thought I
+noticed (excuse me) that you generally walk out at [[Night|night]], I thought I
 should inconvenience you least by awaiting your return. I am always
 afraid of inconveniencing busy men, being an idle man.”
 
@@ -82,12 +82,12 @@ Navy, I accepted the fortune, and resigned my commission.”
 
 “Lately, I presume?”
 
-“Well, I had had twelve or fifteen years of knocking about first. I
+“[[Well]], I had had twelve or fifteen years of knocking about first. I
 came here some nine months before you; I had had one crop before you
 came. I chose this place, because, having served last in a little
-corvette, I knew I should feel more at home where I had a constant
+corvette, I knew I should feel more at [[Home|home]] where I had a constant
 opportunity of knocking my head against the ceiling. Besides, it would
-never do for a man who had been aboard ship from his boyhood to turn
+never do for a man who had been aboard [[Ship|ship]] from his boyhood to turn
 luxurious all at once. Besides, again; having been accustomed to a very
 short allowance of land all my life, I thought I’d feel my way to the
 command of a landed estate, by beginning in boxes.”
@@ -96,9 +96,9 @@ Whimsically as this was said, there was a touch of merry earnestness in
 it that made it doubly whimsical.
 
 “However,” said the Lieutenant, “I have talked quite enough about
-myself. It is not my way, I hope; it has merely been to present myself
+myself. It is not my way, I [[Hope|hope]]; it has merely been to present myself
 to you naturally. If you will allow me to take the liberty I have
-described, it will be a charity, for it will give me something more to
+described, it will be a [[Charity|charity]], for it will give me something more to
 do. And you are not to suppose that it will entail any interruption or
 intrusion on you, for that is far from my intention.”
 
@@ -123,10 +123,10 @@ an emergency, and were setting a bright example.
 “For Heaven’s sake,” cried Neville, “don’t do that! Where are you going
 Mr. Tartar? You’ll be dashed to pieces!”
 
-“All well!” said the Lieutenant, coolly looking about him on the
+“All [[Well|well]]!” said the Lieutenant, coolly looking about him on the
 housetop. “All taut and trim here. Those lines and stays shall be
 rigged before you turn out in the morning. May I take this short cut
-home, and say good-night?”
+[[Home|home]], and say good-[[Night|night]]?”
 
 “Mr. Tartar!” urged Neville. “Pray! It makes me giddy to see you!”
 
@@ -134,14 +134,14 @@ But Mr. Tartar, with a wave of his hand and the deftness of a cat, had
 already dipped through his scuttle of scarlet runners without breaking
 a leaf, and “gone below.”
 
-Mr. Grewgious, his bedroom window-blind held aside with his hand,
+Mr. Grewgious, his bedroom [[Window|window]]-blind held aside with his hand,
 happened at the moment to have Neville’s chambers under his eye for the
-last time that night. Fortunately his eye was on the front of the house
+last [[Time|time]] that [[Night|night]]. Fortunately his eye was on the front of the [[house]]
 and not the back, or this remarkable appearance and disappearance might
 have broken his rest as a phenomenon. But Mr. Grewgious seeing nothing
 there, not even a light in the windows, his gaze wandered from the
-windows to the stars, as if he would have read in them something that
+windows to the [[Stars|stars]], as if he would have read in them something that
 was hidden from him. Many of us would, if we could; but none of us so
-much as know our letters in the stars yet—or seem likely to do it, in
+much as know our letters in the [[Stars|stars]] yet—or seem likely to do it, in
 this state of existence—and few languages can be read until their
 alphabets are mastered.

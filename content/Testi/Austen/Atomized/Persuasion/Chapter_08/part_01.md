@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 8 (part 1)"
+title: "[[Persuasion]] — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER VIII.
 
 
 
-From this time Captain Wentworth and Anne Elliot were repeatedly in the
+From this [[Time|time]] [[Captain Wentworth]] and [[Anne Elliot]] were repeatedly in the
 
 same circle. They were soon dining in company together at Mr
 
@@ -58,7 +58,7 @@ unvisited by remembrance any more than herself. There must be the same
 
 immediate association of thought, though she was very far from
 
-conceiving it to be of equal pain.
+conceiving it to be of equal [[Pain|pain]].
 
 
 
@@ -66,7 +66,7 @@ They had no conversation together, no intercourse but what the
 
 commonest civility required. Once so much to each other! Now nothing!
 
-There _had_ been a time, when of all the large party now filling the
+There _had_ been a [[Time|time]], when of all the large party now filling the
 
 drawing-room at Uppercross, they would have found it most difficult to
 
@@ -118,7 +118,7 @@ Musgrove’s who, overcome by fond regrets, could not help saying—
 
 “Ah! Miss Anne, if it had pleased Heaven to spare my poor son, I dare
 
-say he would have been just such another by this time.”
+say he would have been just such another by this [[Time|time]].”
 
 
 
@@ -138,7 +138,7 @@ list, the first that had ever been at Uppercross), and sitting down
 
 together to pore over it, with the professed view of finding out the
 
-ships that Captain Wentworth had commanded.
+ships that [[Captain Wentworth]] had commanded.
 
 
 
@@ -150,7 +150,7 @@ ships that Captain Wentworth had commanded.
 
 last man who commanded her. Hardly fit for service then. Reported fit
 
-for home service for a year or two, and so I was sent off to the West
+for [[Home|home]] service for a year or two, and so I was sent off to the West
 
 Indies.”
 
@@ -162,11 +162,11 @@ The girls looked all amazement.
 
 “The Admiralty,” he continued, “entertain themselves now and then, with
 
-sending a few hundred men to sea, in a ship not fit to be employed. But
+sending a few hundred men to sea, in a [[Ship|ship]] not fit to be employed. But
 
 they have a great many to provide for; and among the thousands that may
 
-just as well go to the bottom as not, it is impossible for them to
+just as [[Well|well]] go to the [[Bottom|bottom]] as not, it is impossible for them to
 
 distinguish the very set who may be least missed.”
 
@@ -180,17 +180,17 @@ sloop, you would not see her equal. Lucky fellow to get her! He knows
 
 there must have been twenty better men than himself applying for her at
 
-the same time. Lucky fellow to get anything so soon, with no more
+the same [[Time|time]]. Lucky fellow to get anything so soon, with no more
 
 interest than his.”
 
 
 
-“I felt my luck, Admiral, I assure you;” replied Captain Wentworth,
+“I felt my luck, Admiral, I assure you;” replied [[Captain Wentworth]],
 
-seriously. “I was as well satisfied with my appointment as you can
+seriously. “I was as [[Well|well]] satisfied with my appointment as you can
 
-desire. It was a great object with me at that time to be at sea; a very
+[[Desire|desire]]. It was a great object with me at that [[Time|time]] to be at sea; a very
 
 great object, I wanted to be doing something.”
 
@@ -204,13 +204,13 @@ afloat again.”
 
 
 
-“But, Captain Wentworth,” cried Louisa, “how vexed you must have been
+“But, [[Captain Wentworth]],” cried Louisa, “how vexed you must have been
 
 when you came to the Asp, to see what an old thing they had given you.”
 
 
 
-“I knew pretty well what she was before that day;” said he, smiling. “I
+“I knew pretty [[Well|well]] what she was before that day;” said he, smiling. “I
 
 had no more discoveries to make than you would have as to the fashion
 
@@ -222,13 +222,13 @@ last, on some very wet day, is lent to yourself. Ah! she was a dear old
 
 Asp to me. She did all that I wanted. I knew she would. I knew that we
 
-should either go to the bottom together, or that she would be the
+should either go to the [[Bottom|bottom]] together, or that she would be the
 
-making of me; and I never had two days of foul weather all the time I
+making of me; and I never had two days of foul weather all the [[Time|time]] I
 
 was at sea in her; and after taking privateers enough to be very
 
-entertaining, I had the good luck in my passage home the next autumn,
+entertaining, I had the good luck in my passage [[Home|home]] the next [[Autumn|autumn]],
 
 to fall in with the very French frigate I wanted. I brought her into
 

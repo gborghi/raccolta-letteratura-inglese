@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 19 (part 3)"
+title: "[[Great Expectations]] — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -22,11 +22,11 @@ was, that it had morally laid upon his back Trabb’s boy.
 After this memorable event, I went to the hatter’s, and the
 bootmaker’s, and the hosier’s, and felt rather like Mother Hubbard’s
 dog whose outfit required the services of so many trades. I also went
-to the coach-office and took my place for seven o’clock on Saturday
+to the coach-office and took my place for seven o’[[Clock|clock]] on Saturday
 morning. It was not necessary to explain everywhere that I had come
 into a handsome property; but whenever I said anything to that effect,
 it followed that the officiating tradesman ceased to have his attention
-diverted through the window by the High Street, and concentrated his
+diverted through the [[Window|window]] by the High Street, and concentrated his
 mind upon me. When I had ordered everything I wanted, I directed my
 steps towards Pumblechook’s, and, as I approached that gentleman’s
 place of business, I saw him standing at his door.
@@ -37,8 +37,8 @@ prepared a collation for me in the Barnwell parlour, and he too ordered
 his shopman to “come out of the gangway” as my sacred person passed.
 
 “My dear friend,” said Mr. Pumblechook, taking me by both hands, when
-he and I and the collation were alone, “I give you joy of your good
-fortune. Well deserved, well deserved!”
+he and I and the collation were [[Alone|alone]], “I give you joy of your good
+fortune. [[Well]] deserved, [[Well|well]] deserved!”
 
 This was coming to the point, and I thought it a sensible way of
 expressing himself.
@@ -65,7 +65,7 @@ Joseph.
 “But my dear young friend,” said Mr. Pumblechook, “you must be hungry,
 you must be exhausted. Be seated. Here is a chicken had round from the
 Boar, here is a tongue had round from the Boar, here’s one or two
-little things had round from the Boar, that I hope you may not despise.
+little things had round from the Boar, that I [[Hope|hope]] you may not despise.
 But do I,” said Mr. Pumblechook, getting up again the moment after he
 had sat down, “see afore me, him as I ever sported with in his times of
 happy infancy? And may I—_may_ I—?”
@@ -97,8 +97,8 @@ did it at once. How he ever did it so often without wounding himself
 with my knife, I don’t know.
 
 “And your sister,” he resumed, after a little steady eating, “which had
-the honour of bringing you up by hand! It’s a sad picter, to reflect
-that she’s no longer equal to fully understanding the honour. May—”
+the [[Honour|honour]] of bringing you up by hand! It’s a sad picter, to reflect
+that she’s no longer equal to fully understanding the [[Honour|honour]]. May—”
 
 I saw he was about to come at me again, and I stopped him.
 
@@ -114,13 +114,13 @@ common person, have the appearance of repeating—but _may_ I—?”
 
 When he had done it, he resumed his seat and drank to my sister. “Let
 us never be blind,” said Mr. Pumblechook, “to her faults of temper, but
-it is to be hoped she meant well.”
+it is to be hoped she meant [[Well|well]].”
 
-At about this time, I began to observe that he was getting flushed in
+At about this [[Time|time]], I began to observe that he was getting flushed in
 the face; as to myself, I felt all face, steeped in wine and smarting.
 
 I mentioned to Mr. Pumblechook that I wished to have my new clothes
-sent to his house, and he was ecstatic on my so distinguishing him. I
+sent to his [[house]], and he was ecstatic on my so distinguishing him. I
 mentioned my reason for desiring to avoid observation in the village,
 and he lauded it to the skies. There was nobody but himself, he
 intimated, worthy of my confidence, and—in short, might he? Then he

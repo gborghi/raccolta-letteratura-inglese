@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 9)"
+title: "[[The Gold-Bug]] (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -30,15 +30,15 @@ tags:
 
       solid gold ornaments; nearly two hundred massive finger and
 
-      earrings; rich chains—thirty of these, if I remember;
+      earrings; rich [[Chains|chains]]—thirty of these, if I remember;
 
       eighty-three very large and heavy crucifixes; five gold censers
 
       of great value; a prodigious golden punch bowl, ornamented with
 
-      richly chased vine-leaves and Bacchanalian figures; with two
+      richly chased vine-[[Leaves|leaves]] and Bacchanalian figures; with two
 
-      sword-handles exquisitely embossed, and many other smaller
+      [[Sword|sword]]-handles exquisitely embossed, and many other smaller
 
       articles which I cannot recollect. The weight of these valuables
 
@@ -54,7 +54,7 @@ tags:
 
       corrosion—but all were richly jewelled and in cases of great
 
-      worth. We estimated the entire contents of the chest, that night,
+      worth. We estimated the entire contents of the chest, that [[Night|night]],
 
       at a million and a half of dollars; and upon the subsequent
 
@@ -68,23 +68,23 @@ tags:
 
       When, at length, we had concluded our examination, and the
 
-      intense excitement of the time had, in some measure, subsided,
+      intense excitement of the [[Time|time]] had, in some measure, subsided,
 
       Legrand, who saw that I was dying with impatience for a solution
 
-      of this most extraordinary riddle, entered into a full detail of
+      of this most extraordinary [[Riddle|riddle]], entered into a full detail of
 
       all the circumstances connected with it.
 
 
 
-      “You remember;” said he, “the night when I handed you the rough
+      “You remember;” said he, “the [[Night|night]] when I handed you the rough
 
-      sketch I had made of the _scarabæus_. You recollect also, that I
+      [[Sketch|sketch]] I had made of the _scarabæus_. You recollect also, that I
 
       became quite vexed at you for insisting that my drawing resembled
 
-      a death’s-head. When you first made this assertion I thought you
+      a [[Death|death]]’s-head. When you first made this assertion I thought you
 
       were jesting; but afterwards I called to mind the peculiar spots
 
@@ -94,9 +94,9 @@ tags:
 
       graphic powers irritated me—for I am considered a good
 
-      artist—and, therefore, when you handed me the scrap of parchment,
+      [[Artist|artist]]—and, therefore, when you handed me the scrap of parchment,
 
-      I was about to crumple it up and throw it angrily into the fire.”
+      I was about to crumple it up and throw it angrily into the [[Fire|fire]].”
 
 
 
@@ -110,13 +110,13 @@ tags:
 
       discovered it, at once, to be a piece of very thin parchment. It
 
-      was quite dirty, you remember. Well, as I was in the very act of
+      was quite dirty, you remember. [[Well]], as I was in the very act of
 
-      crumpling it up, my glance fell upon the sketch at which you had
+      crumpling it up, my glance fell upon the [[Sketch|sketch]] at which you had
 
       been looking, and you may imagine my astonishment when I
 
-      perceived, in fact, the figure of a death’s-head just where, it
+      perceived, in fact, the figure of a [[Death|death]]’s-head just where, it
 
       seemed to me, I had made the drawing of the beetle. For a moment
 
@@ -130,7 +130,7 @@ tags:
 
       proceeded to scrutinize the parchment more closely. Upon turning
 
-      it over, I saw my own sketch upon the reverse, just as I had made
+      it over, I saw my own [[Sketch|sketch]] upon the reverse, just as I had made
 
       it. My first idea, now, was mere surprise at the really
 
@@ -146,7 +146,7 @@ tags:
 
       say the singularity of this coincidence absolutely stupefied me
 
-      for a time. This is the usual effect of such coincidences. The
+      for a [[Time|time]]. This is the usual effect of such coincidences. The
 
       mind struggles to establish a connexion—a sequence of cause and
 
@@ -160,7 +160,7 @@ tags:
 
       that there had been no drawing upon the parchment when I made my
 
-      sketch of the _scarabæus_. I became perfectly certain of this;
+      [[Sketch|sketch]] of the _scarabæus_. I became perfectly certain of this;
 
       for I recollected turning up first one side and then the other,
 
@@ -174,13 +174,13 @@ tags:
 
       remote and secret chambers of my intellect, a glow-worm-like
 
-      conception of that truth which last night’s adventure brought to
+      conception of that [[Truth|truth]] which last [[Night|night]]’s adventure brought to
 
       so magnificent a demonstration. I arose at once, and putting the
 
       parchment securely away, dismissed all farther reflection until I
 
-      should be alone.
+      should be [[Alone|alone]].
 
 
 
@@ -194,7 +194,7 @@ tags:
 
       _scarabæus_ was on the coast of the main land, about a mile
 
-      eastward of the island, and but a short distance above high water
+      eastward of the island, and but a short distance above high [[Water|water]]
 
       mark. Upon my taking hold of it, it gave me a sharp bite, which
 

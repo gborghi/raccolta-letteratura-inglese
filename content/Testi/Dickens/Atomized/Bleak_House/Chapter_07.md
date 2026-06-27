@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 7"
+title: "Bleak [[house|House]] — Chapter 7"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,49 +16,49 @@ tags:
 
 CHAPTER VII
 
-The Ghost’s Walk
+The [[Ghost]]’s Walk
 
 
 While Esther sleeps, and while Esther wakes, it is still wet weather
 down at the place in Lincolnshire. The rain is ever falling—drip,
-drip, drip—by day and night upon the broad flagged terrace-pavement,
-the Ghost’s Walk. The weather is so very bad down in Lincolnshire
-that the liveliest imagination can scarcely apprehend its ever being
-fine again. Not that there is any superabundant life of imagination
+drip, drip—by day and [[Night|night]] upon the broad flagged terrace-pavement,
+the [[Ghost]]’s Walk. The weather is so very bad down in Lincolnshire
+that the liveliest [[Imagination|imagination]] can scarcely apprehend its ever being
+fine again. Not that there is any superabundant life of [[Imagination|imagination]]
 on the spot, for Sir Leicester is not here (and, truly, even if he
-were, would not do much for it in that particular), but is in Paris
-with my Lady; and solitude, with dusky wings, sits brooding upon
+were, would not do much for it in that particular), but is in [[Paris]]
+with my Lady; and [[Solitude|solitude]], with dusky wings, sits brooding upon
 Chesney Wold.
 
-There may be some motions of fancy among the lower animals at Chesney
+There may be some motions of fancy among the lower [[Animals|animals]] at Chesney
 Wold. The horses in the stables—the long stables in a barren,
-red-brick court-yard, where there is a great bell in a turret, and a
-clock with a large face, which the pigeons who live near it and who
-love to perch upon its shoulders seem to be always consulting—THEY
+red-brick [[Court|court]]-yard, where there is a great bell in a turret, and a
+[[Clock|clock]] with a large face, which the pigeons who live near it and who
+[[Love|love]] to perch upon its shoulders seem to be always consulting—THEY
 may contemplate some mental pictures of fine weather on occasions,
 and may be better artists at them than the grooms. The old roan, so
-famous for cross-country work, turning his large eyeball to the
-grated window near his rack, may remember the fresh leaves that
+famous for [[Cross|cross]]-country work, turning his large eyeball to the
+grated [[Window|window]] near his rack, may remember the fresh [[Leaves|leaves]] that
 glisten there at other times and the scents that stream in, and may
 have a fine run with the hounds, while the human helper, clearing out
 the next stall, never stirs beyond his pitchfork and birch-broom. The
 grey, whose place is opposite the door and who with an impatient
 rattle of his halter pricks his ears and turns his head so wistfully
 when it is opened, and to whom the opener says, “Woa grey, then,
-steady! Noabody wants you to-day!” may know it quite as well as the
+steady! Noabody wants you to-day!” may know it quite as [[Well|well]] as the
 man. The whole seemingly monotonous and uncompanionable half-dozen,
 stabled together, may pass the long wet hours when the door is shut
 in livelier communication than is held in the servants’ hall or at
-the Dedlock Arms, or may even beguile the time by improving (perhaps
+the Dedlock Arms, or may even beguile the [[Time|time]] by improving (perhaps
 corrupting) the pony in the loose-box in the corner.
 
-So the mastiff, dozing in his kennel in the court-yard with his large
+So the mastiff, dozing in his kennel in the [[Court|court]]-yard with his large
 head on his paws, may think of the hot sunshine when the shadows of
 the stable-buildings tire his patience out by changing and leave him
-at one time of the day no broader refuge than the shadow of his own
-house, where he sits on end, panting and growling short, and very
+at one [[Time|time]] of the day no broader refuge than the [[Shadow|shadow]] of his own
+[[house]], where he sits on end, panting and growling short, and very
 much wanting something to worry besides himself and his chain. So
-now, half-waking and all-winking, he may recall the house full of
+now, half-waking and all-winking, he may recall the [[house]] full of
 company, the coach-houses full of vehicles, the stables full of
 horses, and the out-buildings full of attendants upon horses, until
 he is undecided about the present and comes forth to see how it is.
@@ -66,27 +66,27 @@ Then, with that impatient shake of himself, he may growl in the
 spirit, “Rain, rain, rain! Nothing but rain—and no family here!” as
 he goes in again and lies down with a gloomy yawn.
 
-So with the dogs in the kennel-buildings across the park, who have
-their restless fits and whose doleful voices when the wind has been
-very obstinate have even made it known in the house itself—upstairs,
+So with the [[dogs]] in the kennel-buildings across the park, who have
+their restless fits and whose doleful voices when the [[Wind|wind]] has been
+very obstinate have even made it known in the [[house]] itself—upstairs,
 downstairs, and in my Lady’s chamber. They may hunt the whole
 country-side, while the raindrops are pattering round their
-inactivity. So the rabbits with their self-betraying tails, frisking
+inactivity. So the rabbits with their [[Self|self]]-betraying tails, frisking
 in and out of holes at roots of trees, may be lively with ideas of
-the breezy days when their ears are blown about or of those seasons
+the breezy days when their ears are blown about or of those [[Seasons|seasons]]
 of interest when there are sweet young plants to gnaw. The turkey in
 the poultry-yard, always troubled with a class-grievance (probably
-Christmas), may be reminiscent of that summer morning wrongfully
+Christmas), may be reminiscent of that [[Summer|summer]] morning wrongfully
 taken from him when he got into the lane among the felled trees,
 where there was a barn and barley. The discontented goose, who stoops
 to pass under the old gateway, twenty feet high, may gabble out, if
 we only knew it, a waddling preference for weather when the gateway
-casts its shadow on the ground.
+casts its [[Shadow|shadow]] on the ground.
 
 Be this as it may, there is not much fancy otherwise stirring at
 Chesney Wold. If there be a little at any odd moment, it goes, like a
 little noise in that old echoing place, a long way and usually leads
-off to ghosts and mystery.
+off to [[Ghosts|ghosts]] and mystery.
 
 It has rained so hard and rained so long down in Lincolnshire that
 Mrs. Rouncewell, the old housekeeper at Chesney Wold, has several
@@ -96,27 +96,27 @@ sufficiently assured by hearing the rain, but that she is rather
 deaf, which nothing will induce her to believe. She is a fine old
 lady, handsome, stately, wonderfully neat, and has such a back and
 such a stomacher that if her stays should turn out when she dies to
-have been a broad old-fashioned family fire-grate, nobody who knows
+have been a broad old-fashioned family [[Fire|fire]]-grate, nobody who knows
 her would have cause to be surprised. Weather affects Mrs. Rouncewell
-little. The house is there in all weathers, and the house, as she
+little. The [[house]] is there in all weathers, and the [[house]], as she
 expresses it, “is what she looks at.” She sits in her room (in a side
-passage on the ground floor, with an arched window commanding a
+passage on the ground floor, with an arched [[Window|window]] commanding a
 smooth quadrangle, adorned at regular intervals with smooth round
 trees and smooth round blocks of stone, as if the trees were going to
-play at bowls with the stones), and the whole house reposes on her
+play at bowls with the stones), and the whole [[house]] reposes on her
 mind. She can open it on occasion and be busy and fluttered, but it
 is shut up now and lies on the breadth of Mrs. Rouncewell’s
-iron-bound bosom in a majestic sleep.
+iron-bound bosom in a majestic [[Sleep|sleep]].
 
 It is the next difficult thing to an impossibility to imagine Chesney
 Wold without Mrs. Rouncewell, but she has only been here fifty years.
 Ask her how long, this rainy day, and she shall answer “fifty year,
 three months, and a fortnight, by the blessing of heaven, if I live
-till Tuesday.” Mr. Rouncewell died some time before the decease of
+till Tuesday.” Mr. Rouncewell died some [[Time|time]] before the decease of
 the pretty fashion of pig-tails, and modestly hid his own (if he took
 it with him) in a corner of the churchyard in the park near the
 mouldy porch. He was born in the market-town, and so was his young
-widow. Her progress in the family began in the time of the last Sir
+widow. Her progress in the family began in the [[Time|time]] of the last Sir
 Leicester and originated in the still-room.
 
 The present representative of the Dedlocks is an excellent master. He
@@ -143,34 +143,34 @@ about her in an agitated manner as she says what a likely lad, what a
 fine lad, what a gay, good-humoured, clever lad he was! Her second
 son would have been provided for at Chesney Wold and would have been
 made steward in due season, but he took, when he was a schoolboy, to
-constructing steam-engines out of saucepans and setting birds to draw
-their own water with the least possible amount of labour, so
+constructing steam-engines out of saucepans and setting [[Birds|birds]] to draw
+their own [[Water|water]] with the least possible amount of labour, so
 assisting them with artful contrivance of hydraulic pressure that a
 thirsty canary had only, in a literal sense, to put his shoulder to
-the wheel and the job was done. This propensity gave Mrs. Rouncewell
+the [[Wheel|wheel]] and the job was done. This propensity gave Mrs. Rouncewell
 great uneasiness. She felt it with a mother’s anguish to be a move in
-the Wat Tyler direction, well knowing that Sir Leicester had that
+the Wat Tyler direction, [[Well|well]] knowing that Sir Leicester had that
 general impression of an aptitude for any art to which smoke and a
 tall chimney might be considered essential. But the doomed young
-rebel (otherwise a mild youth, and very persevering), showing no sign
+[[Rebel|rebel]] (otherwise a mild youth, and very persevering), showing no sign
 of grace as he got older but, on the contrary, constructing a model
-of a power-loom, she was fain, with many tears, to mention his
+of a power-loom, she was fain, with many [[Tears|tears]], to mention his
 backslidings to the baronet. “Mrs. Rouncewell,” said Sir Leicester,
 “I can never consent to argue, as you know, with any one on any
 subject. You had better get rid of your boy; you had better get him
 into some Works. The iron country farther north is, I suppose, the
 congenial direction for a boy with these tendencies.” Farther north
-he went, and farther north he grew up; and if Sir Leicester Dedlock
+he went, and farther north he grew up; and if [[Sir Leicester Dedlock]]
 ever saw him when he came to Chesney Wold to visit his mother, or
 ever thought of him afterwards, it is certain that he only regarded
-him as one of a body of some odd thousand conspirators, swarthy and
+him as one of a [[Body|body]] of some odd thousand conspirators, swarthy and
 grim, who were in the habit of turning out by torchlight two or three
 nights in the week for unlawful purposes.
 
-Nevertheless, Mrs. Rouncewell’s son has, in the course of nature and
+Nevertheless, Mrs. Rouncewell’s son has, in the course of [[Nature|nature]] and
 art, grown up, and established himself, and married, and called unto
 him Mrs. Rouncewell’s grandson, who, being out of his apprenticeship,
-and home from a journey in far countries, whither he was sent to
+and [[Home|home]] from a [[Journey|journey]] in far countries, whither he was sent to
 enlarge his knowledge and complete his preparations for the venture
 of this life, stands leaning against the chimney-piece this very day
 in Mrs. Rouncewell’s room at Chesney Wold.
@@ -184,7 +184,7 @@ Rouncewell’s hands unquiet, as usual, on this reference.
 
 “Like him, also, my dear—but most like your poor uncle George! And
 your dear father.” Mrs. Rouncewell folds her hands again. “He is
-well?”
+[[Well|well]]?”
 
 “Thriving, grandmother, in every way.”
 
@@ -197,7 +197,7 @@ soldier who had gone over to the enemy.
 “Quite.”
 
 “I am thankful! So he has brought you up to follow in his ways and
-has sent you into foreign countries and the like? Well, he knows
+has sent you into foreign countries and the like? [[Well]], he knows
 best. There may be a world beyond Chesney Wold that I don’t
 understand. Though I am not young, either. And I have seen a quantity
 of good company too!”
@@ -205,12 +205,12 @@ of good company too!”
 “Grandmother,” says the young man, changing the subject, “what a very
 pretty girl that was I found with you just now. You called her Rosa?”
 
-“Yes, child. She is daughter of a widow in the village. Maids are so
+“Yes, [[Child|child]]. She is daughter of a widow in the village. Maids are so
 hard to teach, now-a-days, that I have put her about me young. She’s
-an apt scholar and will do well. She shows the house already, very
+an apt scholar and will do [[Well|well]]. She shows the [[house]] already, very
 pretty. She lives with me at my table here.”
 
-“I hope I have not driven her away?”
+“I [[Hope|hope]] I have not driven her away?”
 
 “She supposes we have family affairs to speak about, I dare say. She
 is very modest. It is a fine quality in a young woman. And scarcer,”
@@ -225,13 +225,13 @@ of her companion. “What wheels on such a day as this, for gracious
 sake?”
 
 After a short interval, a tap at the door. “Come in!” A dark-eyed,
-dark-haired, shy, village beauty comes in—so fresh in her rosy and
+dark-haired, shy, village [[Beauty|beauty]] comes in—so fresh in her rosy and
 yet delicate bloom that the drops of rain which have beaten on her
 hair look like the dew upon a flower fresh gathered.
 
 “What company is this, Rosa?” says Mrs. Rouncewell.
 
-“It’s two young men in a gig, ma’am, who want to see the house—yes,
+“It’s two young men in a gig, ma’am, who want to see the [[house]]—yes,
 and if you please, I told them so!” in quick reply to a gesture of
 dissent from the housekeeper. “I went to the hall-door and told them
 it was the wrong day and the wrong hour, but the young man who was
@@ -250,27 +250,27 @@ shyer than before.
 of him!”
 
 “If you please, he told ME that!” says Rosa. “But he said that he and
-the other young gentleman came from London only last night by the
+the other young gentleman came from [[London]] only last [[Night|night]] by the
 mail, on business at the magistrates’ meeting, ten miles off, this
 morning, and that as their business was soon over, and they had heard
 a great deal said of Chesney Wold, and really didn’t know what to do
 with themselves, they had come through the wet to see it. They are
 lawyers. He says he is not in Mr. Tulkinghorn’s office, but he is
 sure he may make use of Mr. Tulkinghorn’s name if necessary.”
-Finding, now she leaves off, that she has been making quite a long
+Finding, now she [[Leaves|leaves]] off, that she has been making quite a long
 speech, Rosa is shyer than ever.
 
 Now, Mr. Tulkinghorn is, in a manner, part and parcel of the place,
 and besides, is supposed to have made Mrs. Rouncewell’s will. The old
 lady relaxes, consents to the admission of the visitors as a favour,
 and dismisses Rosa. The grandson, however, being smitten by a sudden
-wish to see the house himself, proposes to join the party. The
+wish to see the [[house]] himself, proposes to join the party. The
 grandmother, who is pleased that he should have that interest,
 accompanies him—though to do him justice, he is exceedingly
 unwilling to trouble her.
 
 “Much obliged to you, ma’am!” says Mr. Guppy, divesting himself of
-his wet dreadnought in the hall. “Us London lawyers don’t often get
+his wet dreadnought in the hall. “Us [[London]] lawyers don’t often get
 an out, and when we do, we like to make the most of it, you know.”
 
 The old housekeeper, with a gracious severity of deportment, waves
@@ -279,33 +279,33 @@ Rosa; Mrs. Rouncewell and her grandson follow them; a young gardener
 goes before to open the shutters.
 
 As is usually the case with people who go over houses, Mr. Guppy and
-his friend are dead beat before they have well begun. They straggle
+his friend are dead beat before they have [[Well|well]] begun. They straggle
 about in wrong places, look at wrong things, don’t care for the right
 things, gape when more rooms are opened, exhibit profound depression
 of spirits, and are clearly knocked up. In each successive chamber
-that they enter, Mrs. Rouncewell, who is as upright as the house
-itself, rests apart in a window-seat or other such nook and listens
+that they enter, Mrs. Rouncewell, who is as upright as the [[house]]
+itself, rests apart in a [[Window|window]]-seat or other such nook and listens
 with stately approval to Rosa’s exposition. Her grandson is so
 attentive to it that Rosa is shyer than ever—and prettier. Thus they
 pass on from room to room, raising the pictured Dedlocks for a few
 brief minutes as the young gardener admits the light, and
 reconsigning them to their graves as he shuts it out again. It
 appears to the afflicted Mr. Guppy and his inconsolable friend that
-there is no end to the Dedlocks, whose family greatness seems to
+there is no end to the Dedlocks, whose family [[Greatness|greatness]] seems to
 consist in their never having done anything to distinguish themselves
 for seven hundred years.
 
 Even the long drawing-room of Chesney Wold cannot revive Mr. Guppy’s
 spirits. He is so low that he droops on the threshold and has hardly
 strength of mind to enter. But a portrait over the chimney-piece,
-painted by the fashionable artist of the day, acts upon him like a
+painted by the fashionable [[artist]] of the day, acts upon him like a
 charm. He recovers in a moment. He stares at it with uncommon
 interest; he seems to be fixed and fascinated by it.
 
 “Dear me!” says Mr. Guppy. “Who’s that?”
 
-“The picture over the fire-place,” says Rosa, “is the portrait of the
-present Lady Dedlock. It is considered a perfect likeness, and the
+“The picture over the [[Fire|fire]]-place,” says Rosa, “is the portrait of the
+present [[Lady Dedlock]]. It is considered a perfect likeness, and the
 best work of the master.”
 
 “Blest,” says Mr. Guppy, staring in a kind of dismay at his friend,
@@ -315,33 +315,33 @@ engraved, miss?”
 “The picture has never been engraved. Sir Leicester has always
 refused permission.”
 
-“Well!” says Mr. Guppy in a low voice. “I’ll be shot if it ain’t very
-curious how well I know that picture! So that’s Lady Dedlock, is it!”
+“[[Well]]!” says Mr. Guppy in a low voice. “I’ll be shot if it ain’t very
+curious how [[Well|well]] I know that picture! So that’s [[Lady Dedlock]], is it!”
 
-“The picture on the right is the present Sir Leicester Dedlock. The
+“The picture on the right is the present [[Sir Leicester Dedlock]]. The
 picture on the left is his father, the late Sir Leicester.”
 
 Mr. Guppy has no eyes for either of these magnates. “It’s
 unaccountable to me,” he says, still staring at the portrait, “how
-well I know that picture! I’m dashed,” adds Mr. Guppy, looking round,
-“if I don’t think I must have had a dream of that picture, you know!”
+[[Well|well]] I know that picture! I’m dashed,” adds Mr. Guppy, looking round,
+“if I don’t think I must have had [[A Dream|a dream]] of that picture, you know!”
 
-As no one present takes any especial interest in Mr. Guppy’s dreams,
+As no one present takes any especial interest in Mr. Guppy’s [[Dreams|dreams]],
 the probability is not pursued. But he still remains so absorbed by
 the portrait that he stands immovable before it until the young
 gardener has closed the shutters, when he comes out of the room in a
 dazed state that is an odd though a sufficient substitute for
 interest and follows into the succeeding rooms with a confused stare,
-as if he were looking everywhere for Lady Dedlock again.
+as if he were looking everywhere for [[Lady Dedlock]] again.
 
 He sees no more of her. He sees her rooms, which are the last shown,
 as being very elegant, and he looks out of the windows from which she
-looked out, not long ago, upon the weather that bored her to death.
+looked out, not long ago, upon the weather that bored her to [[Death|death]].
 All things have an end, even houses that people take infinite pains
 to see and are tired of before they begin to see them. He has come to
-the end of the sight, and the fresh village beauty to the end of her
+the end of the sight, and the fresh village [[Beauty|beauty]] to the end of her
 description; which is always this: “The terrace below is much
-admired. It is called, from an old story in the family, the Ghost’s
+admired. It is called, from an old story in the family, the [[Ghost]]’s
 Walk.”
 
 “No?” says Mr. Guppy, greedily curious. “What’s the story, miss? Is
@@ -368,23 +368,23 @@ to drive away. It is now dusk. Mrs. Rouncewell can trust to the
 discretion of her two young hearers and may tell THEM how the terrace
 came to have that ghostly name.
 
-She seats herself in a large chair by the fast-darkening window and
-tells them: “In the wicked days, my dears, of King Charles the
+She seats herself in a large chair by the fast-darkening [[Window|window]] and
+tells them: “In the wicked days, my dears, of [[King]] Charles the
 First—I mean, of course, in the wicked days of the rebels who
-leagued themselves against that excellent king—Sir Morbury Dedlock
+leagued themselves against that excellent [[King|king]]—Sir Morbury Dedlock
 was the owner of Chesney Wold. Whether there was any account of a
-ghost in the family before those days, I can’t say. I should think it
+[[Ghost|ghost]] in the family before those days, I can’t say. I should think it
 very likely indeed.”
 
 Mrs. Rouncewell holds this opinion because she considers that a
-family of such antiquity and importance has a right to a ghost. She
-regards a ghost as one of the privileges of the upper classes, a
+family of such antiquity and importance has a right to a [[Ghost|ghost]]. She
+regards a [[Ghost|ghost]] as one of the privileges of the upper classes, a
 genteel distinction to which the common people have no claim.
 
 “Sir Morbury Dedlock,” says Mrs. Rouncewell, “was, I have no occasion
 to say, on the side of the blessed martyr. But it IS supposed that
-his Lady, who had none of the family blood in her veins, favoured the
-bad cause. It is said that she had relations among King Charles’s
+his Lady, who had none of the family [[Blood|blood]] in her veins, favoured the
+bad cause. It is said that she had relations among [[King]] Charles’s
 enemies, that she was in correspondence with them, and that she gave
 them information. When any of the country gentlemen who followed his
 Majesty’s cause met here, it is said that my Lady was always nearer
@@ -400,17 +400,17 @@ step.”
 The housekeeper gravely nods and continues: “Partly on account of
 this division between them, and partly on other accounts, Sir Morbury
 and his Lady led a troubled life. She was a lady of a haughty temper.
-They were not well suited to each other in age or character, and they
+They were not [[Well|well]] suited to each other in age or character, and they
 had no children to moderate between them. After her favourite
 brother, a young gentleman, was killed in the civil wars (by Sir
 Morbury’s near kinsman), her feeling was so violent that she hated
 the race into which she had married. When the Dedlocks were about to
-ride out from Chesney Wold in the king’s cause, she is supposed to
-have more than once stolen down into the stables in the dead of night
+ride out from Chesney Wold in the [[King|king]]’s cause, she is supposed to
+have more than once stolen down into the stables in the dead of [[Night|night]]
 and lamed their horses; and the story is that once at such an hour,
 her husband saw her gliding down the stairs and followed her into the
-stall where his own favourite horse stood. There he seized her by the
-wrist, and in a struggle or in a fall or through the horse being
+stall where his own favourite [[Horse|horse]] stood. There he seized her by the
+wrist, and in a struggle or in a fall or through the [[Horse|horse]] being
 frightened and lashing out, she was lamed in the hip and from that
 hour began to pine away.”
 
@@ -419,16 +419,16 @@ whisper.
 
 “She had been a lady of a handsome figure and a noble carriage. She
 never complained of the change; she never spoke to any one of being
-crippled or of being in pain, but day by day she tried to walk upon
+crippled or of being in [[Pain|pain]], but day by day she tried to walk upon
 the terrace, and with the help of the stone balustrade, went up and
-down, up and down, up and down, in sun and shadow, with greater
+down, up and down, up and down, in sun and [[Shadow|shadow]], with greater
 difficulty every day. At last, one afternoon her husband (to whom she
-had never, on any persuasion, opened her lips since that night),
-standing at the great south window, saw her drop upon the pavement.
+had never, on any [[Persuasion|persuasion]], opened her lips since that [[Night|night]]),
+standing at the great south [[Window|window]], saw her drop upon the pavement.
 He hastened down to raise her, but she repulsed him as he bent over
 her, and looking at him fixedly and coldly, said, ‘I will die here
-where I have walked. And I will walk here, though I am in my grave. I
-will walk here until the pride of this house is humbled. And when
+where I have walked. And I will walk here, though I am in my [[Grave|grave]]. I
+will walk here until the [[Pride|pride]] of this [[house]] is humbled. And when
 calamity or when disgrace is coming to it, let the Dedlocks listen
 for my step!’”
 
@@ -436,10 +436,10 @@ Watt looks at Rosa. Rosa in the deepening gloom looks down upon the
 ground, half frightened and half shy.
 
 “There and then she died. And from those days,” says Mrs. Rouncewell,
-“the name has come down—the Ghost’s Walk. If the tread is an echo,
+“the name has come down—the [[Ghost]]’s Walk. If the tread is an echo,
 it is an echo that is only heard after dark, and is often unheard for
-a long while together. But it comes back from time to time; and so
-sure as there is sickness or death in the family, it will be heard
+a long while together. But it comes back from [[Time|time]] to [[Time|time]]; and so
+sure as there is sickness or [[Death|death]] in the family, it will be heard
 then.”
 
 “And disgrace, grandmother—” says Watt.
@@ -452,17 +452,17 @@ Her grandson apologizes with “True. True.”
 says Mrs. Rouncewell, getting up from her chair; “and what is to be
 noticed in it is that it MUST BE HEARD. My Lady, who is afraid of
 nothing, admits that when it is there, it must be heard. You cannot
-shut it out. Watt, there is a tall French clock behind you (placed
+shut it out. Watt, there is a tall French [[Clock|clock]] behind you (placed
 there, ’a purpose) that has a loud beat when it is in motion and can
 play music. You understand how those things are managed?”
 
-“Pretty well, grandmother, I think.”
+“Pretty [[Well|well]], grandmother, I think.”
 
 “Set it a-going.”
 
 Watt sets it a-going—music and all.
 
-“Now, come hither,” says the housekeeper. “Hither, child, towards my
+“Now, come hither,” says the housekeeper. “Hither, [[Child|child]], towards my
 Lady’s pillow. I am not sure that it is dark enough yet, but listen!
 Can you hear the sound upon the terrace, through the music, and the
 beat, and everything?”

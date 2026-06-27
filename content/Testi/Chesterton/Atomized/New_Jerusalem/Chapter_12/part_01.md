@@ -23,7 +23,7 @@ the first page of it a phrase about the necessity of going back
 to the old even to find the new, as a man retraces his steps
 to a sign-post. The common sense of that process is indeed most
 mysteriously misunderstood.  Any suggestion that progress has at
-any time taken the wrong turning is always answered by the argument
+any [[Time|time]] taken the wrong turning is always answered by the argument
 that men idealise the past, and make a myth of the Age of Gold.
 If my progressive guide has led me into a morass or a man-trap
 by turning to the left by the red pillar-box, instead of to
@@ -49,12 +49,12 @@ the wrong one.
 
 Now it is quite true that there is less general human testimony
 to the notion of a New Jerusalem in the future than to the notion
-of a Golden Age in the past.  But neither of those ideas, whether or
+of a [[Golden Age]] in the past.  But neither of those ideas, whether or
 no they are illusions, are any answer to the question of a plain
-man in the plain position of this parable; a man who has to find
+man in the plain position of this [[Parable|parable]]; a man who has to find
 some guidance in the past if he is to get any good in the future.
 What he positively knows, in any case, is the complete collapse
-of the present.  Now that is the exact truth about the thing so often
+of the present.  Now that is the exact [[Truth|truth]] about the thing so often
 rebuked as a romantic and unreal return of modern men to medieval things.
 They suppose they have taken the wrong turning, because they know
 they are in the wrong place.  To know that, it is necessary not to
@@ -64,25 +64,25 @@ the average as that they feel sure the modern world is below the average.
 They do not start either with the idea that man is meant to live
 in a New Jerusalem of pearl and sapphire in the future, or that a man
 was meant to live in a picturesque and richly-painted tavern of the past;
-but with a strong inward and personal persuasion that a man was
+but with a strong inward and personal [[Persuasion|persuasion]] that a man was
 not meant to live in a man-trap.
 
 For there is and will be more and more a turn of total change
-in all our talk and writing about history.  Everything in the past
+in all our talk and writing about [[history]].  Everything in the past
 was praised if it had led up to the present, and blamed if it
 would have led up to anything else.  In short everybody has been
-searching the past for the secret of our success.  Very soon
+searching the past for the secret of our [[success]].  Very soon
 everybody may be searching the past for the secret of our failure.
 They may be talking in such terms as they use after a motor smash
 or a bankruptcy; where was the blunder?  They may be writing such books
 as generals write after a military defeat; whose was the fault?
 The failure will be assumed even in being explained.
 
-For industrialism is no longer a vulgar success.
+For industrialism is no longer a vulgar [[success]].
 On the contrary, it is now too tragic even to be vulgar.
-Under the cloud of doom the modern city has taken on something
+Under the cloud of doom the modern [[City|city]] has taken on something
 of the dignity of Babel or Babylon.  Whether we call it the nemesis
-of Capitalism or the nightmare of Bolshevism makes no difference;
+of Capitalism or the [[nightmare]] of Bolshevism makes no difference;
 the rich grumble as much as the poor; every one is discontented, and none
 more than those who are chiefly discontented with the discontent.
 About that discord we are in perfect harmony; about that disease we
@@ -95,16 +95,16 @@ that we may or may not await another century or another world
 to see the New Jerusalem rebuilt and shining on our fields;
 but in the flesh we shall see Babylon fall.
 
-But there is another way in which that metaphor of the forked road
+But there is another way in which that metaphor of the forked [[Road|road]]
 will make the position plain.  Medieval society was not the right place;
-it was only the right turning.  It was only the right road;
-or perhaps only the beginning of the right road.  The medieval age
+it was only the right turning.  It was only the right [[Road|road]];
+or perhaps only the beginning of the right [[Road|road]].  The medieval age
 was very far from being the age in which everything went right.
-It would be nearer the truth I mean to call it the age in which
+It would be nearer the [[Truth|truth]] I mean to call it the age in which
 everything went wrong.  It was the moment when things might have
-developed well, and did develop badly.  Or rather, to be yet
-more exact, it was the moment when they were developing well,
-and yet they were driven to develop badly.  This was the history
+developed [[Well|well]], and did develop badly.  Or rather, to be yet
+more exact, it was the moment when they were developing [[Well|well]],
+and yet they were driven to develop badly.  This was the [[history]]
 of all the medieval states and of none more than medieval Jerusalem;
 indeed there were signs of some serious idea of making it the model
 medieval state.  Of this notion of Jerusalem as the New Jerusalem,
@@ -113,7 +113,7 @@ something may be said in a moment.  But meanwhile there was a more
 important part played by Jerusalem, I think, in all that great
 progress and reaction which has left us the problem of modern Europe.
 And the suggestion of it is bound up with the former suggestion,
-about the difference between the goal and the right road that
+about the difference between the goal and the right [[Road|road]] that
 might have led to it.  It is bound up with that quality of the
 civilisation in question, that it was potential rather than perfect;
 and there is no need to idealise it in order to regret it.

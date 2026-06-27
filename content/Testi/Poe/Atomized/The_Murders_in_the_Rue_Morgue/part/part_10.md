@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 10)"
+title: "[[The Murders in the Rue Morgue]] (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -20,7 +20,7 @@ tags:
 
       appeared the circumstances attending the nails. A careful search
 
-      soon brought to light the hidden spring. I pressed it, and,
+      soon brought to light the hidden [[Spring|spring]]. I pressed it, and,
 
       satisfied with the discovery, forbore to upraise the sash.
 
@@ -28,15 +28,15 @@ tags:
 
       “I now replaced the nail and regarded it attentively. A person
 
-      passing out through this window might have reclosed it, and the
+      passing out through this [[Window|window]] might have reclosed it, and the
 
-      spring would have caught—but the nail could not have been
+      [[Spring|spring]] would have caught—but the nail could not have been
 
       replaced. The conclusion was plain, and again narrowed in the
 
       field of my investigations. The assassins _must_ have escaped
 
-      through the other window. Supposing, then, the springs upon each
+      through the other [[Window|window]]. Supposing, then, the springs upon each
 
       sash to be the same, as was probable, there _must_ be found a
 
@@ -48,7 +48,7 @@ tags:
 
       hand down behind the board, I readily discovered and pressed the
 
-      spring, which was, as I had supposed, identical in character with
+      [[Spring|spring]], which was, as I had supposed, identical in character with
 
       its neighbor. I now looked at the nail. It was as stout as the
 
@@ -60,7 +60,7 @@ tags:
 
       “You will say that I was puzzled; but, if you think so, you must
 
-      have misunderstood the nature of the inductions. To use a
+      have misunderstood the [[Nature|nature]] of the inductions. To use a
 
       sporting phrase, I had not been once ‘at fault.’ The scent had
 
@@ -70,7 +70,7 @@ tags:
 
       that result was _the nail._ It had, I say, in every respect, the
 
-      appearance of its fellow in the other window; but this fact was
+      appearance of its fellow in the other [[Window|window]]; but this fact was
 
       an absolute nullity (conclusive as it might seem to be) when
 
@@ -88,7 +88,7 @@ tags:
 
       rust), and had apparently been accomplished by the blow of a
 
-      hammer, which had partially imbedded, in the top of the bottom
+      hammer, which had partially imbedded, in the top of the [[Bottom|bottom]]
 
       sash, the head portion of the nail. I now carefully replaced this
 
@@ -96,23 +96,23 @@ tags:
 
       resemblance to a perfect nail was complete—the fissure was
 
-      invisible. Pressing the spring, I gently raised the sash for a
+      invisible. Pressing the [[Spring|spring]], I gently raised the sash for a
 
       few inches; the head went up with it, remaining firm in its bed.
 
-      I closed the window, and the semblance of the whole nail was
+      I closed the [[Window|window]], and the semblance of the whole nail was
 
       again perfect.
 
 
 
-      “The riddle, so far, was now unriddled. The assassin had escaped
+      “The [[Riddle|riddle]], so far, was now unriddled. The assassin had escaped
 
-      through the window which looked upon the bed. Dropping of its own
+      through the [[Window|window]] which looked upon the bed. Dropping of its own
 
       accord upon his exit (or perhaps purposely closed), it had become
 
-      fastened by the spring; and it was the retention of this spring
+      fastened by the [[Spring|spring]]; and it was the retention of this [[Spring|spring]]
 
       which had been mistaken by the police for that of the
 
@@ -126,9 +126,9 @@ tags:
 
       building. About five feet and a half from the casement in
 
-      question there runs a lightning-rod. From this rod it would have
+      question there runs a [[Lightning|lightning]]-rod. From this rod it would have
 
-      been impossible for any one to reach the window itself, to say
+      been impossible for any one to reach the [[Window|window]] itself, to say
 
       nothing of entering it. I observed, however, that the shutters of
 
@@ -146,11 +146,11 @@ tags:
 
       present instance these shutters are fully three feet and a half
 
-      broad. When we saw them from the rear of the house, they were
+      broad. When we saw them from the rear of the [[house]], they were
 
       both about half open—that is to say, they stood off at right
 
-      angles from the wall. It is probable that the police, as well as
+      angles from the wall. It is probable that the police, as [[Well|well]] as
 
       myself, examined the back of the tenement; but, if so, in looking
 
@@ -166,15 +166,15 @@ tags:
 
       cursory examination. It was clear to me, however, that the
 
-      shutter belonging to the window at the head of the bed, would, if
+      shutter belonging to the [[Window|window]] at the head of the bed, would, if
 
       swung fully back to the wall, reach to within two feet of the
 
-      lightning-rod. It was also evident that, by exertion of a very
+      [[Lightning|lightning]]-rod. It was also evident that, by exertion of a very
 
-      unusual degree of activity and courage, an entrance into the
+      unusual degree of activity and [[Courage|courage]], an entrance into the
 
-      window, from the rod, might have been thus effected. By reaching
+      [[Window|window]], from the rod, might have been thus effected. By reaching
 
       to the distance of two feet and a half (we now suppose the
 
@@ -186,7 +186,7 @@ tags:
 
       springing boldly from it, he might have swung the shutter so as
 
-      to close it, and, if we imagine the window open at the time,
+      to close it, and, if we imagine the [[Window|window]] open at the [[Time|time]],
 
       might even have swung himself into the room.
 
@@ -194,7 +194,7 @@ tags:
 
       “I wish you to bear especially in mind that I have spoken of a
 
-      _very_ unusual degree of activity as requisite to success in so
+      _very_ unusual degree of activity as requisite to [[success]] in so
 
       hazardous and so difficult a feat. It is my design to show you,
 

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 7 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -30,7 +30,7 @@ nervous, I would have been more cautious; but—”
 
 
 
-“Well, never mind. What did you come for? are they all coming?”
+“[[Well]], never mind. What did you come for? are they all coming?”
 
 
 
@@ -42,7 +42,7 @@ nervous, I would have been more cautious; but—”
 
 
 
-“Well, then, I won’t talk. I’ll only sit and watch your drawing.”
+“[[Well]], then, I won’t talk. I’ll only sit and watch your drawing.”
 
 
 
@@ -54,9 +54,9 @@ nervous, I would have been more cautious; but—”
 
 
 
-She made no objection to this; and, for some time, sketched away in
+She made no objection to this; and, for some [[Time|time]], sketched away in
 
-silence. But I could not help stealing a glance, now and then, from the
+[[Silence|silence]]. But I could not help stealing a glance, now and then, from the
 
 splendid view at our feet to the elegant white hand that held the
 
@@ -68,13 +68,13 @@ the paper.
 
 “Now,” thought I, “if I had but a pencil and a morsel of paper, I could
 
-make a lovelier sketch than hers, admitting I had the power to
+make a lovelier [[Sketch|sketch]] than hers, admitting I had the power to
 
 delineate faithfully what is before me.”
 
 
 
-But, though this satisfaction was denied me, I was very well content to
+But, though this satisfaction was denied me, I was very [[Well|well]] content to
 
 sit beside her there, and say nothing.
 
@@ -90,13 +90,13 @@ cliff.—“Why don’t you go and amuse yourself with your friends?”
 
 “Because I am tired of them, like you; and I shall have enough of them
 
-to-morrow—or at any time hence; but you I may not have the pleasure of
+to-morrow—or at any [[Time|time]] hence; but you I may not have the pleasure of
 
 seeing again for I know not how long.”
 
 
 
-“What was Arthur doing when you came away?”
+“What was [[arthur|Arthur]] doing when you came away?”
 
 
 
@@ -104,7 +104,7 @@ seeing again for I know not how long.”
 
 mamma would not be long away. You didn’t intrust him to me, by-the-by,”
 
-I grumbled, “though I had the honour of a much longer acquaintance; but
+I grumbled, “though I had the [[Honour|honour]] of a much longer acquaintance; but
 
 Miss Millward has the art of conciliating and amusing children,” I
 
@@ -114,7 +114,7 @@ carelessly added, “if she is good for nothing else.”
 
 “Miss Millward has many estimable qualities, which such as you cannot
 
-be expected to perceive or appreciate. Will you tell Arthur that I
+be expected to perceive or appreciate. Will you tell [[arthur|Arthur]] that I
 
 shall come in a few minutes?”
 
@@ -134,13 +134,13 @@ assistance.”
 
 
 
-“But, at least, I can carry your stool and sketch-book.”
+“But, at least, I can carry your stool and [[Sketch|sketch]]-book.”
 
 
 
 She did not deny me this favour; but I was rather offended at her
 
-evident desire to be rid of me, and was beginning to repent of my
+evident [[Desire|desire]] to be rid of me, and was beginning to repent of my
 
 pertinacity, when she somewhat appeased me by consulting my taste and
 
@@ -170,11 +170,11 @@ exposes us.”
 
 
 
-“True,” said she; and again we relapsed into silence.
+“True,” said she; and again we relapsed into [[Silence|silence]].
 
 
 
-About two minutes after, however, she declared her sketch completed,
+About two minutes after, however, she declared her [[Sketch|sketch]] completed,
 
 and closed the book.
 
@@ -182,9 +182,9 @@ and closed the book.
 
 On returning to the scene of our repast we found all the company had
 
-deserted it, with the exception of three—Mary Millward, Richard Wilson,
+deserted it, with the exception of three—Mary Millward, [[Richard]] Wilson,
 
-and Arthur Graham. The younger gentleman lay fast asleep with his head
+and [[arthur|Arthur]] Graham. The younger gentleman lay fast asleep with his head
 
 pillowed on the lady’s lap; the other was seated beside her with a
 
@@ -192,19 +192,19 @@ pocket edition of some classic author in his hand. He never went
 
 anywhere without such a companion wherewith to improve his leisure
 
-moments: all time seemed lost that was not devoted to study, or
+moments: all [[Time|time]] seemed lost that was not devoted to study, or
 
-exacted, by his physical nature, for the bare support of life. Even now
+exacted, by his physical [[Nature|nature]], for the bare support of life. Even now
 
 he could not abandon himself to the enjoyment of that pure air and
 
 balmy sunshine—that splendid prospect, and those soothing sounds, the
 
-music of the waves and of the soft wind in the sheltering trees above
+music of the waves and of the soft [[Wind|wind]] in the sheltering trees above
 
 him—not even with a lady by his side (though not a very charming one, I
 
-will allow)—he must pull out his book, and make the most of his time
+will allow)—he must pull out his book, and make the most of his [[Time|time]]
 
 while digesting his temperate meal, and reposing his weary limbs,
 
@@ -224,7 +224,7 @@ thoughtful face with great complacency when we arrived.
 
 
 
-The journey homeward was by no means so agreeable to me as the former
+The [[Journey|journey]] homeward was by no means so agreeable to me as the former
 
 part of the day: for now Mrs. Graham was in the carriage, and Eliza
 
@@ -234,15 +234,15 @@ for the young widow, and evidently felt herself neglected. She did not
 
 manifest her chagrin by keen reproaches, bitter sarcasms, or pouting
 
-sullen silence—any or all of these I could easily have endured, or
+sullen [[Silence|silence]]—any or all of these I could easily have endured, or
 
-lightly laughed away; but she showed it by a kind of gentle melancholy,
+lightly laughed away; but she showed it by a kind of gentle [[Melancholy|melancholy]],
 
 a mild, reproachful sadness that cut me to the heart. I tried to cheer
 
 her up, and apparently succeeded in some degree, before the walk was
 
-over; but in the very act my conscience reproved me, knowing, as I did,
+over; but in the very act my [[Conscience|conscience]] reproved me, knowing, as I did,
 
 that, sooner or later, the tie must be broken, and this was only
 
@@ -250,25 +250,25 @@ nourishing false hopes and putting off the evil day.
 
 
 
-When the pony-carriage had approached as near Wildfell Hall as the road
+When the pony-carriage had approached as near Wildfell Hall as the [[Road|road]]
 
 would permit—unless, indeed, it proceeded up the long rough lane, which
 
 Mrs. Graham would not allow—the young widow and her son alighted,
 
-relinquishing the driver’s seat to Rose; and I persuaded Eliza to take
+relinquishing the driver’s seat to [[Rose]]; and I persuaded Eliza to take
 
 the latter’s place. Having put her comfortably in, bid her take care of
 
-the evening air, and wished her a kind good-night, I felt considerably
+the evening air, and wished her a kind good-[[Night|night]], I felt considerably
 
 relieved, and hastened to offer my services to Mrs. Graham to carry her
 
 apparatus up the fields, but she had already hung her camp-stool on her
 
-arm and taken her sketch-book in her hand, and insisted upon bidding me
+arm and taken her [[Sketch|sketch]]-book in her hand, and insisted upon bidding me
 
-adieu then and there, with the rest of the company. But this time she
+adieu then and there, with the rest of the company. But this [[Time|time]] she
 
 declined my proffered aid in so kind and friendly a manner that I
 

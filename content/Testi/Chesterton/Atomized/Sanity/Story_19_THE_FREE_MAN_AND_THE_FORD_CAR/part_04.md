@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE FREE MAN AND THE FORD CAR (part 4)"
+title: "[[Sanity]] — THE FREE MAN AND THE FORD CAR (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -18,12 +18,12 @@ I remarked in an earlier part of this particular meditation
 that machinery was not necessarily evil, and that there were
 some who valued it in the right spirit, but that most of those
 who had to do with it never had a chance of valuing it at all.
-A poet might enjoy a clock as a child enjoys a musical-box. But
-the actual clerk who looks at the actual clock, to see that he is
-just in time to catch the train for the city, is no more enjoying
+A poet might enjoy a [[Clock|clock]] as a [[Child|child]] enjoys a musical-box. But
+the actual clerk who looks at the actual [[Clock|clock]], to see that he is
+just in [[Time|time]] to catch the train for the [[City|city]], is no more enjoying
 machinery than he is enjoying music.  There may be something to be said
 for mechanical toys; but modern society is a mechanism and not a toy.
-The child indeed is a good test in these matters; and illustrates
+The [[Child|child]] indeed is a good test in these matters; and illustrates
 both the fact that there is an interest in machinery and the fact
 that machinery itself generally prevents us from being interested.
 It is almost a proverb that every little boy wants to be an engine-driver.
@@ -36,8 +36,8 @@ of passengers; and of passengers a little too like packages.
 In other words, its only effect on the visionary or potential
 engine-driver is to put him inside the train, where he cannot
 see the engine, instead of outside the train where he can.
-And though he grows up to the greatest and most glorious success
-in life, and swindles the widow and orphan till he can travel
+And though he grows up to the greatest and most glorious [[success]]
+in life, and swindles the widow and [[Orphan|orphan]] till he can travel
 in a first-class carriage specially reserved, with a permanent
 pass to the International Congress of Cosmopolitan World Peace
 for Wire-Pullers, he will never perhaps enjoy a railway train again,
@@ -45,15 +45,15 @@ he will never even see a railway train again, as he saw it when
 he stood as a ragged urchin and waved wildly from a grassy bank
 at the passage of the Scotch Express.
 
-We may transfer the parable from engine-drivers to engineers.
+We may transfer the [[Parable|parable]] from engine-drivers to engineers.
 It may be that the driver of the Scotch Express hurls himself
-forward in a fury of speed because his heart is in the Highlands,
+forward in a fury of [[Speed|speed]] because his heart is in the Highlands,
 his heart is not here; that he spurns the Border behind him
 with a gesture and hails the Grampians before him with a cheer.
 And whether or no it is true that the engine-driver's heart is
 in the Highlands, it is sometimes true that the little boy's heart
 is in the engine.  But it is by no means true that passengers
-as a whole, travelling behind engines as a whole, enjoy the speed
+as a whole, travelling behind engines as a whole, enjoy the [[Speed|speed]]
 in a positive sense, though they may approve of it in a negative sense.
 I mean that they wish to travel swiftly, not because swift
 travelling is enjoyable, but because it is not enjoyable.
@@ -62,11 +62,11 @@ is a rapture, but because being in the railway-carriage is a bore.
 In the same way, if we consider the joy of engineers, we must
 remember that there is only one joyful engineer to a thousand bored
 victims of engineering.  The discussion that raged between Mr. Penty
-and others at one time threatened to resolve itself into a feud
+and others at one [[Time|time]] threatened to resolve itself into a feud
 between engineers and architects.  But when the engineer asks us
 to forget all the monotony and materialism of a mechanical age
 because his own science has some of the inspiration of an art,
-the architect may well be ready with a reply.  For this is very much
+the architect may [[Well|well]] be ready with a reply.  For this is very much
 as if architects were never engaged in anything but the building
 of prisons and lunatic asylums.  It is as if they told us proudly
 with what passionate and poetical enthusiasm they had themselves
@@ -78,14 +78,14 @@ call the practical way, but should rather be called the immediate way,
 beyond the better distribution of the ownership of such machines
 as are really found to be necessary.  But when we come to the larger
 question of machinery in a fundamentally different sort of society,
-governed by our philosophy and religion, there is a great deal
+governed by our [[philosophy]] and religion, there is a great deal
 more to be said.  The best and shortest way of saying it is that
-instead of the machine being a giant to which the man is a pygmy,
+instead of the [[Machine|machine]] being a giant to which the man is a pygmy,
 we must at least reverse the proportions until man is a giant
-to whom the machine is a toy.  Granted that idea, and we have no
+to whom the [[Machine|machine]] is a toy.  Granted that idea, and we have no
 reason to deny that it might be a legitimate and enlivening toy.
-In that sense it would not matter if every child were an
-engine-driver or (better still) every engine-driver a child.
+In that sense it would not matter if every [[Child|child]] were an
+engine-driver or (better still) every engine-driver a [[Child|child]].
 But those who were always taunting us with unpracticality will at
 least admit that this is not practical.
 
@@ -103,9 +103,9 @@ to be a joy to other people seeing it, or there would be no point
 in letting it be seen.  But though the engine may be a great joy
 to the engineer and of great use to the other people, it is not, and it
 is not meant to be, in the same sense a great joy to the other people.
-Nor is this because of a deficiency in education, as some of
+Nor is this because of a deficiency in [[Education|education]], as some of
 the artists might allege in the case of art.  It is involved in
-the very nature of machinery; which, when once it is established,
+the very [[Nature|nature]] of machinery; which, when once it is established,
 consists of repetitions and not of variations and surprises.
 A man can see something in the limbs of a statue which he never
 saw before; they may seem to toss or sweep as they never did before;

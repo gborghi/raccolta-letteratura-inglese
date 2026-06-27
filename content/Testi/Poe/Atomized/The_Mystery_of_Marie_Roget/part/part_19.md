@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 19)"
+title: "[[The Mystery of Marie Roget]] (part 19)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -24,9 +24,9 @@ tags:
 
       arising, as we have imagined, after quitting the thicket, (if the
 
-      thicket it was), and on the road between the thicket and the
+      thicket it was), and on the [[Road|road]] between the thicket and the
 
-      river.
+      [[River|river]].
 
 
 
@@ -36,11 +36,11 @@ tags:
 
       thicket, at or about the epoch of the murder. This I grant. I
 
-      doubt if there were not a dozen gangs, such as described by
+      [[Doubt|doubt]] if there were not a dozen gangs, such as described by
 
       Madame Deluc, in and about the vicinity of the Barrière du Roule
 
-      at or about the period of this tragedy. But the gang which has
+      at or about the period of this [[Tragedy|tragedy]]. But the gang which has
 
       drawn upon itself the pointed animadversion, although the
 
@@ -64,7 +64,7 @@ tags:
 
       man and girl, returned to the inn about dusk, and recrossed the
 
-      river as if in great haste.’
+      [[River|river]] as if in great haste.’
 
 
 
@@ -74,27 +74,27 @@ tags:
 
       upon her violated cakes and ale—cakes and ale for which she might
 
-      still have entertained a faint hope of compensation. Why,
+      still have entertained a faint [[Hope|hope]] of compensation. Why,
 
       otherwise, since it was about dusk, should she make a point of
 
-      the haste? It is no cause for wonder, surely, that even a gang of
+      the haste? It is no cause for [[Wonder|wonder]], surely, that even a gang of
 
-      blackguards should make haste to get home, when a wide river is
+      blackguards should make haste to get [[Home|home]], when a wide [[River|river]] is
 
-      to be crossed in small boats, when storm impends, and when night
+      to be crossed in small boats, when [[Storm|storm]] impends, and when [[Night|night]]
 
       approaches.
 
 
 
-      “I say approaches; for the night had not yet arrived. It was only
+      “I say approaches; for the [[Night|night]] had not yet arrived. It was only
 
       about dusk that the indecent haste of these ‘miscreants’ offended
 
       the sober eyes of Madame Deluc. But we are told that it was upon
 
-      this very evening that Madame Deluc, as well as her eldest son,
+      this very evening that Madame Deluc, as [[Well|well]] as her eldest son,
 
       ‘heard the screams of a female in the vicinity of the inn.’ And
 
@@ -128,11 +128,11 @@ tags:
 
       irresistible. Under the circumstances of large reward offered,
 
-      and full pardon to any king’s evidence, it is not to be imagined,
+      and full pardon to any [[King|king]]’s evidence, it is not to be imagined,
 
       for a moment, that some member of a gang of low ruffians, or of
 
-      any body of men, would not long ago have betrayed his
+      any [[Body|body]] of men, would not long ago have betrayed his
 
       accomplices. Each one of a gang so placed, is not so much greedy
 
@@ -154,7 +154,7 @@ tags:
 
       under the roof of Madame Deluc, or of a murder perpetrated, in
 
-      the thicket at the Barrière du Roule, by a lover, or at least by
+      the thicket at the Barrière du Roule, by a [[Lover|lover]], or at least by
 
       an intimate and secret associate of the deceased. This associate
 
@@ -166,7 +166,7 @@ tags:
 
       gay, but not an abject young girl, designates him as above the
 
-      grade of the common sailor. Here the well written and urgent
+      grade of the common sailor. Here the [[Well|well]] written and urgent
 
       communications to the journals are much in the way of
 

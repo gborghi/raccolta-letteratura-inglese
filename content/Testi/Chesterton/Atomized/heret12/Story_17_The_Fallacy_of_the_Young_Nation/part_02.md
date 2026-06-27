@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Fallacy of the Young Nation (part 2)"
+title: "[[heret12]] — The Fallacy of the Young Nation (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -31,10 +31,10 @@ But the modern politician does not say, "It would be a good thing
 if there were a British Imperialism dominating the world."
 He says, "It is a good thing that there is a British Imperialism
 dominating the world;" whereas clearly there is nothing of the kind.
-The old Liberal would say "There ought to be a good Irish government
+The old Liberal would say "There ought to be a good Irish [[government]]
 in Ireland."  But the ordinary modern Unionist does not say,
-"There ought to be a good English government in Ireland."  He says,
-"There is a good English government in Ireland;" which is absurd.
+"There ought to be a good English [[government]] in Ireland."  He says,
+"There is a good English [[government]] in Ireland;" which is absurd.
 In short, the modern politicians seem to think that a man becomes
 practical merely by making assertions entirely about practical things.
 Apparently, a delusion does not matter as long as it is a
@@ -55,23 +55,23 @@ And when we come actually to examine the main stock notions of our
 modern practical politicians, we find that those main stock notions are
 mainly delusions.  A great many instances might be given of the fact.
 We might take, for example, the case of that strange class of notions
-which underlie the word "union," and all the eulogies heaped upon it.
-Of course, union is no more a good thing in itself than separation
-is a good thing in itself.  To have a party in favour of union
+which underlie the word "[[Union|union]]," and all the eulogies heaped upon it.
+Of course, [[Union|union]] is no more a good thing in itself than separation
+is a good thing in itself.  To have a party in favour of [[Union|union]]
 and a party in favour of separation is as absurd as to have a party
 in favour of going upstairs and a party in favour of going downstairs.
 The question is not whether we go up or down stairs, but where we
-are going to, and what we are going for?  Union is strength; union is
+are going to, and what we are going for?  [[Union]] is strength; [[Union|union]] is
 also weakness.  It is a good thing to harness two horses to a cart;
 but it is not a good thing to try and turn two hansom cabs into
 one four-wheeler. Turning ten nations into one empire may happen
 to be as feasible as turning ten shillings into one half-sovereign.
 Also it may happen to be as preposterous as turning ten terriers
 into one mastiff.  The question in all cases is not a question of
-union or absence of union, but of identity or absence of identity.
+[[Union|union]] or absence of [[Union|union]], but of [[Identity|identity]] or absence of [[Identity|identity]].
 Owing to certain historical and moral causes, two nations may be
 so united as upon the whole to help each other.  Thus England
-and Scotland pass their time in paying each other compliments;
+and Scotland pass their [[Time|time]] in paying each other compliments;
 but their energies and atmospheres run distinct and parallel,
 and consequently do not clash.  Scotland continues to be educated
 and Calvinistic; England continues to be uneducated and happy.
@@ -80,39 +80,39 @@ two nations may be so united as only to hamper each other;
 their lines do clash and do not run parallel.  Thus, for instance,
 England and Ireland are so united that the Irish can sometimes
 rule England, but can never rule Ireland.  The educational systems,
-including the last Education Act, are here, as in the case of Scotland,
+including the last [[Education]] Act, are here, as in the case of Scotland,
 a very good test of the matter.  The overwhelming majority of Irishmen
 believe in a strict Catholicism; the overwhelming majority of Englishmen
 believe in a vague Protestantism.  The Irish party in the Parliament
-of Union is just large enough to prevent the English education
+of [[Union]] is just large enough to prevent the English [[Education|education]]
 being indefinitely Protestant, and just small enough to prevent
-the Irish education being definitely Catholic.  Here we have a state
+the Irish [[Education|education]] being definitely Catholic.  Here we have a state
 of things which no man in his senses would ever dream of wishing
 to continue if he had not been bewitched by the sentimentalism
-of the mere word "union."
+of the mere word "[[Union|union]]."
 
-This example of union, however, is not the example which I propose
-to take of the ingrained futility and deception underlying
+This example of [[Union|union]], however, is not the example which I propose
+to take of the ingrained futility and [[Deception|deception]] underlying
 all the assumptions of the modern practical politician.
 I wish to speak especially of another and much more general delusion.
 It pervades the minds and speeches of all the practical men of all parties;
 and it is a childish blunder built upon a single false metaphor.
 I refer to the universal modern talk about young nations and new nations;
-about America being young, about New Zealand being new.  The whole thing
-is a trick of words.  America is not young, New Zealand is not new.
+about [[America]] being young, about New Zealand being new.  The whole thing
+is a trick of words.  [[America]] is not young, New Zealand is not new.
 It is a very discussable question whether they are not both much
 older than England or Ireland.
 
-Of course we may use the metaphor of youth about America or
+Of course we may use the metaphor of youth about [[America]] or
 the colonies, if we use it strictly as implying only a recent origin.
 But if we use it (as we do use it) as implying vigour, or vivacity,
-or crudity, or inexperience, or hope, or a long life before them
+or crudity, or inexperience, or [[Hope|hope]], or a long life before them
 or any of the romantic attributes of youth, then it is surely
 as clear as daylight that we are duped by a stale figure of speech.
 We can easily see the matter clearly by applying it to any other
 institution parallel to the institution of an independent nationality.
 If a club called "The Milk and Soda League" (let us say)
-was set up yesterday, as I have no doubt it was, then, of course,
+was set up yesterday, as I have no [[Doubt|doubt]] it was, then, of course,
 "The Milk and Soda League" is a young club in the sense that it
 was set up yesterday, but in no other sense.  It may consist
 entirely of moribund old gentlemen.  It may be moribund itself.
@@ -122,26 +122,26 @@ of the fact that it will most probably go bankrupt to-morrow.
 All this appears very obvious when we put it in this form.
 Any one who adopted the young-community delusion with regard
 to a bank or a butcher's shop would be sent to an asylum.
-But the whole modern political notion that America and the colonies
+But the whole modern political notion that [[America]] and the colonies
 must be very vigorous because they are very new, rests upon no
-better foundation.  That America was founded long after England does
-not make it even in the faintest degree more probable that America
-will not perish a long time before England.  That England existed
+better foundation.  That [[America]] was founded long after England does
+not make it even in the faintest degree more probable that [[America]]
+will not perish a long [[Time|time]] before England.  That England existed
 before her colonies does not make it any the less likely that she
 will exist after her colonies.  And when we look at the actual
-history of the world, we find that great European nations almost
+[[history]] of the world, we find that great European nations almost
 invariably have survived the vitality of their colonies.
-When we look at the actual history of the world, we find, that if
+When we look at the actual [[history]] of the world, we find, that if
 there is a thing that is born old and dies young, it is a colony.
 The Greek colonies went to pieces long before the Greek civilization.
 The Spanish colonies have gone to pieces long before the nation of Spain--
-nor does there seem to be any reason to doubt the possibility or even
+nor does there seem to be any reason to [[Doubt|doubt]] the possibility or even
 the probability of the conclusion that the colonial civilization,
 which owes its origin to England, will be much briefer and much less
 vigorous than the civilization of England itself.  The English nation
 will still be going the way of all European nations when the Anglo-Saxon
 race has gone the way of all fads.  Now, of course, the interesting
-question is, have we, in the case of America and the colonies,
+question is, have we, in the case of [[America]] and the colonies,
 any real evidence of a moral and intellectual youth as opposed
 to the indisputable triviality of a merely chronological youth?
 Consciously or unconsciously, we know that we have no such evidence,

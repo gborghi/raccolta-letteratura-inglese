@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATH. VERNON."
+title: "[[Lady Susan]] — ATH. VERNON."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -46,19 +46,19 @@ Little did I imagine, my dear Mother, when I sent off my last letter,
 
 that the delightful perturbation of spirits I was then in would undergo
 
-so speedy, so melancholy a reverse. I never can sufficiently regret
+so speedy, so [[Melancholy|melancholy]] a reverse. I never can sufficiently regret
 
 that I wrote to you at all. Yet who could have foreseen what has
 
-happened? My dear mother, every hope which made me so happy only two
+happened? My dear mother, every [[Hope|hope]] which made me so happy only two
 
-hours ago has vanished. The quarrel between Lady Susan and Reginald is
+hours ago has vanished. The quarrel between [[Lady Susan]] and Reginald is
 
 made up, and we are all as we were before. One point only is gained.
 
 Sir James Martin is dismissed. What are we now to look forward to? I am
 
-indeed disappointed; Reginald was all but gone, his horse was ordered
+indeed disappointed; Reginald was all but gone, his [[Horse|horse]] was ordered
 
 and all but brought to the door; who would not have felt safe? For half
 
@@ -76,11 +76,11 @@ going—Mr. De Courcy is going, and it is all my fault. I am afraid you
 
 will be very angry with me, but indeed I had no idea it would end so.”
 
-“My love,” I replied, “do not think it necessary to apologize to me on
+“My [[Love|love]],” I replied, “do not think it necessary to apologize to me on
 
 that account. I shall feel myself under an obligation to anyone who is
 
-the means of sending my brother home, because,” recollecting myself, “I
+the means of sending my brother [[Home|home]], because,” recollecting myself, “I
 
 know my father wants very much to see him. But what is it you have done
 
@@ -100,7 +100,7 @@ him—I did indeed, I got up this morning before it was light, and was
 
 two hours about it; and when my letter was done I thought I never
 
-should have courage to give it. After breakfast however, as I was going
+should have [[Courage|courage]] to give it. After breakfast however, as I was going
 
 to my room, I met him in the passage, and then, as I knew that
 
@@ -118,7 +118,7 @@ me a friend always ready to assist you. Do you think that your uncle or
 
 I should not have espoused your cause as warmly as my brother?”
 
-“Indeed, I did not doubt your kindness,” said she, colouring again,
+“Indeed, I did not [[Doubt|doubt]] your kindness,” said she, colouring again,
 
 “but I thought Mr. De Courcy could do anything with my mother; but I
 
@@ -138,7 +138,7 @@ good to all parties. I believe it is best as it is. Depend upon it that
 
 you shall not be made unhappy any longer.” At that moment how great was
 
-my astonishment at seeing Reginald come out of Lady Susan’s
+my astonishment at seeing Reginald come out of [[Lady Susan]]’s
 
 dressing-room. My heart misgave me instantly. His confusion at seeing
 
@@ -152,15 +152,15 @@ moment?” We went into my room. “I find,” he continued, his confusion
 
 increasing as he spoke, “that I have been acting with my usual foolish
 
-impetuosity. I have entirely misunderstood Lady Susan, and was on the
+impetuosity. I have entirely misunderstood [[Lady Susan]], and was on the
 
-point of leaving the house under a false impression of her conduct.
+point of leaving the [[house]] under a false impression of her conduct.
 
 There has been some very great mistake; we have been all mistaken, I
 
-fancy. Frederica does not know her mother. Lady Susan means nothing but
+fancy. Frederica does not know her mother. [[Lady Susan]] means nothing but
 
-her good, but she will not make a friend of her. Lady Susan does not
+her good, but she will not make a friend of her. [[Lady Susan]] does not
 
 always know, therefore, what will make her daughter happy. Besides, I
 
@@ -168,7 +168,7 @@ could have no right to interfere. Miss Vernon was mistaken in applying
 
 to me. In short, Catherine, everything has gone wrong, but it is now
 
-all happily settled. Lady Susan, I believe, wishes to speak to you
+all happily settled. [[Lady Susan]], I believe, wishes to speak to you
 
 about it, if you are at leisure.” “Certainly,” I replied, deeply
 
@@ -178,7 +178,7 @@ for words would have been vain.
 
 
 
-Reginald was glad to get away, and I went to Lady Susan, curious,
+Reginald was glad to get away, and I went to [[Lady Susan]], curious,
 
 indeed, to hear her account of it. “Did I not tell you,” said she with
 
@@ -202,13 +202,13 @@ dispute, in which I might probably be as much to blame as himself,
 
 should not deprive you of your brother. If you remember, I left the
 
-room almost immediately. I was resolved to lose no time in clearing up
+room almost immediately. I was resolved to lose no [[Time|time]] in clearing up
 
 those mistakes as far as I could. The case was this—Frederica had set
 
 herself violently against marrying Sir James.” “And can your ladyship
 
-wonder that she should?” cried I with some warmth; “Frederica has an
+[[Wonder|wonder]] that she should?” cried I with some warmth; “Frederica has an
 
 excellent understanding, and Sir James has none.” “I am at least very
 
@@ -224,13 +224,13 @@ have wished in my daughter, or had I even known her to possess as much
 
 as she does, I should not have been anxious for the match.” “It is odd
 
-that you should alone be ignorant of your daughter’s sense!” “Frederica
+that you should [[Alone|alone]] be ignorant of your daughter’s sense!” “Frederica
 
 never does justice to herself; her manners are shy and childish, and
 
 besides she is afraid of me. During her poor father’s life she was a
 
-spoilt child; the severity which it has since been necessary for me to
+spoilt [[Child|child]]; the severity which it has since been necessary for me to
 
 show has alienated her affection; neither has she any of that
 
@@ -238,11 +238,11 @@ brilliancy of intellect, that genius or vigour of mind which will force
 
 itself forward.” “Say rather that she has been unfortunate in her
 
-education!” “Heaven knows, my dearest Mrs. Vernon, how fully I am aware
+[[Education|education]]!” “Heaven knows, my dearest Mrs. Vernon, how fully I am aware
 
 of that; but I would wish to forget every circumstance that might throw
 
-blame on the memory of one whose name is sacred with me.” Here she
+blame on the [[Memory|memory]] of one whose name is sacred with me.” Here she
 
 pretended to cry; I was out of patience with her. “But what,” said I,
 
@@ -262,9 +262,9 @@ God!” she exclaimed, “what an opinion you must have of me! Can you
 
 possibly suppose that I was aware of her unhappiness! that it was my
 
-object to make my own child miserable, and that I had forbidden her
+object to make my own [[Child|child]] miserable, and that I had forbidden her
 
-speaking to you on the subject from a fear of your interrupting the
+speaking to you on the subject from a [[Fear|fear]] of your interrupting the
 
 diabolical scheme? Do you think me destitute of every honest, every
 
@@ -274,7 +274,7 @@ whose welfare it is my first earthly duty to promote? The idea is
 
 horrible!” “What, then, was your intention when you insisted on her
 
-silence?” “Of what use, my dear sister, could be any application to
+[[Silence|silence]]?” “Of what use, my dear sister, could be any application to
 
 you, however the affair might stand? Why should I subject you to
 
@@ -316,7 +316,7 @@ of his folly; and why should your ladyship, at any rate, quarrel with
 
 my brother for an interference which, you must know, it is not in his
 
-nature to refuse when urged in such a manner?”
+[[Nature|nature]] to refuse when urged in such a manner?”
 
 
 
@@ -336,7 +336,7 @@ and of course both to blame. His resolution of leaving Churchhill is
 
 consistent with his general eagerness. When I understood his intention,
 
-however, and at the same time began to think that we had been perhaps
+however, and at the same [[Time|time]] began to think that we had been perhaps
 
 equally mistaken in each other’s meaning, I resolved to have an
 
@@ -350,7 +350,7 @@ gloomily. I have now only to say further, that as I am convinced of
 
 Frederica’s having a reasonable dislike to Sir James, I shall instantly
 
-inform him that he must give up all hope of her. I reproach myself for
+inform him that he must give up all [[Hope|hope]] of her. I reproach myself for
 
 having, even though innocently, made her unhappy on that score. She
 
@@ -360,13 +360,13 @@ own happiness as much as I do, if she judge wisely, and command herself
 
 as she ought, she may now be easy. Excuse me, my dearest sister, for
 
-thus trespassing on your time, but I owe it to my own character; and
+thus trespassing on your [[Time|time]], but I owe it to my own character; and
 
 after this explanation I trust I am in no danger of sinking in your
 
 opinion.” I could have said, “Not much, indeed!” but I left her almost
 
-in silence. It was the greatest stretch of forbearance I could
+in [[Silence|silence]]. It was the greatest stretch of forbearance I could
 
 practise. I could not have stopped myself had I begun. Her assurance!
 
@@ -378,7 +378,7 @@ tolerably composed I returned to the parlour. Sir James’s carriage was
 
 at the door, and he, merry as usual, soon afterwards took his leave.
 
-How easily does her ladyship encourage or dismiss a lover! In spite of
+How easily does her ladyship encourage or dismiss a [[Lover|lover]]! In spite of
 
 this release, Frederica still looks unhappy: still fearful, perhaps, of
 
@@ -386,13 +386,13 @@ her mother’s anger; and though dreading my brother’s departure,
 
 jealous, it may be, of his staying. I see how closely she observes him
 
-and Lady Susan, poor girl! I have now no hope for her. There is not a
+and [[Lady Susan]], poor girl! I have now no [[Hope|hope]] for her. There is not a
 
 chance of her affection being returned. He thinks very differently of
 
 her from what he used to do; he does her some justice, but his
 
-reconciliation with her mother precludes every dearer hope. Prepare, my
+[[Reconciliation|reconciliation]] with her mother precludes every dearer [[Hope|hope]]. Prepare, my
 
 dear mother, for the worst! The probability of their marrying is surely
 

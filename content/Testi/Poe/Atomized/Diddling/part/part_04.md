@@ -1,5 +1,5 @@
 ---
-title: "Diddling (part 4)"
+title: "[[Diddling]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Diddling-(Poe)"
@@ -20,11 +20,11 @@ tags:
 
       would be paid instanter, without a single question being asked.
 
-      During the lady’s absence from home, a day or two afterwards, a
+      During the lady’s absence from [[Home|home]], a day or two afterwards, a
 
       ring is heard at the door of No. so and so, in such and such
 
-      Avenue; a servant appears; the lady of the house is asked for and
+      Avenue; a servant appears; the lady of the [[house]] is asked for and
 
       is declared to be out, at which astounding information, the
 
@@ -34,7 +34,7 @@ tags:
 
       good fortune to find her diamond ring. But perhaps it would be as
 
-      well that he should call again. “By no means!” says the servant;
+      [[Well|well]] that he should call again. “By no means!” says the servant;
 
       and “By no means!” says the lady’s sister and the lady’s
 
@@ -54,9 +54,9 @@ tags:
 
 
 
-      But as there is really no end to diddling, so there would be none
+      But as there is really no end to [[Diddling|diddling]], so there would be none
 
-      to this essay, were I even to hint at half the variations, or
+      to this [[Essay|essay]], were I even to hint at half the variations, or
 
       inflections, of which this science is susceptible. I must bring
 
@@ -64,11 +64,11 @@ tags:
 
       better than by a summary notice of a very decent, but rather
 
-      elaborate diddle, of which our own city was made the theatre, not
+      elaborate diddle, of which our own [[City|city]] was made the theatre, not
 
-      very long ago, and which was subsequently repeated with success,
+      very long ago, and which was subsequently repeated with [[success]],
 
-      in other still more verdant localities of the Union. A
+      in other still more verdant localities of the [[Union]]. A
 
       middle-aged gentleman arrives in town from parts unknown. He is
 
@@ -78,11 +78,11 @@ tags:
 
       unostentatious. He wears a white cravat, an ample waistcoat, made
 
-      with an eye to comfort alone; thick-soled cosy-looking shoes, and
+      with an eye to comfort [[Alone|alone]]; thick-soled cosy-looking shoes, and
 
       pantaloons without straps. He has the whole air, in fact, of your
 
-      well-to-do, sober-sided, exact, and respectable “man of
+      [[Well|well]]-to-do, sober-sided, exact, and respectable “man of
 
       business,” _par excellence_—one of the stern and outwardly hard,
 
@@ -90,7 +90,7 @@ tags:
 
       comedies—fellows whose words are so many bonds, and who are noted
 
-      for giving away guineas, in charity, with the one hand, while, in
+      for giving away guineas, in [[Charity|charity]], with the one hand, while, in
 
       the way of mere bargain, they exact the uttermost fraction of a
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-      He makes much ado before he can get suited with a boarding house.
+      He makes much ado before he can get suited with a boarding [[house]].
 
       He dislikes children. He has been accustomed to quiet. His habits
 
@@ -114,7 +114,7 @@ tags:
 
       account to forget his instructions upon this point—but to send in
 
-      a bill, and receipt, precisely at ten o’clock, on the first day
+      a bill, and receipt, precisely at ten o’[[Clock|clock]], on the first day
 
       of every month, and under no circumstances to put it off to the
 
@@ -134,25 +134,25 @@ tags:
 
       that she makes a pencil memorandum of it forthwith, in her great
 
-      family Bible, on the broad margin of the Proverbs of Solomon.
+      family [[Bible]], on the broad margin of the Proverbs of Solomon.
 
 
 
       The next step is to advertise, after some such fashion as this,
 
-      in the principal business six-pennies of the city—the pennies are
+      in the principal business six-pennies of the [[City|city]]—the pennies are
 
       eschewed as not “respectable”—and as demanding payment for all
 
       advertisements in advance. Our man of business holds it as a
 
-      point of his faith that work should never be paid for until done.
+      point of his [[Faith|faith]] that work should never be paid for until done.
 
 
 
       “WANTED.—The advertisers, being about to commence extensive
 
-      business operations in this city, will require the services of
+      business operations in this [[City|city]], will require the services of
 
       three or four intelligent and competent clerks, to whom a liberal
 
@@ -172,7 +172,7 @@ tags:
 
       possession of the advertisers, and who cannot furnish the most
 
-      satisfactory testimonials of morality. Young gentlemen piously
+      satisfactory testimonials of [[morality]]. Young gentlemen piously
 
       inclined will be preferred. Application should be made between
 
@@ -212,7 +212,7 @@ tags:
 
       promise—a piece of neglect for which the comfortable head of the
 
-      house ending in ogs would no doubt have chided her severely,
+      [[house]] ending in ogs would no [[Doubt|doubt]] have chided her severely,
 
       could he have been prevailed upon to remain in town a day or two
 
@@ -220,7 +220,7 @@ tags:
 
 
 
-      As it is, the constables have had a sad time of it, running
+      As it is, the constables have had a sad [[Time|time]] of it, running
 
       hither and thither, and all they can do is to declare the man of
 
@@ -238,6 +238,6 @@ tags:
 
       rubber, and very carefully obliterates the pencil memorandum that
 
-      some fool has made in her great family Bible, on the broad margin
+      some [[Fool|fool]] has made in her great family [[Bible]], on the broad margin
 
       of the Proverbs of Solomon.

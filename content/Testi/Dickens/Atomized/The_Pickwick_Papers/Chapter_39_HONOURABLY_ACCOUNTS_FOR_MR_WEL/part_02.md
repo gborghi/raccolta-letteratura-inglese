@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -30,14 +30,14 @@ first, you know, but they’ll soon come round.’
 
 ‘That’s wery kind on ‘em,’ replied Sam.
 
-‘And you know,’ resumed Mr. John Smauker, with an air of sublime
+‘And you know,’ resumed Mr. John Smauker, with an air of [[Sublime|sublime]]
 protection--‘you know, as you’re a stranger, perhaps, they’ll be rather
 hard upon you at first.’
 
 ‘They won’t be wery cruel, though, will they?’ inquired Sam.
 
 ‘No, no,’ replied Mr. John Smauker, pulling forth the fox’s head, and
-taking a gentlemanly pinch. ‘There are some funny dogs among us, and
+taking a gentlemanly pinch. ‘There are some funny [[dogs]] among us, and
 they will have their joke, you know; but you mustn’t mind ‘em, you
 mustn’t mind ‘em.’
 
@@ -47,7 +47,7 @@ Sam.
 ‘That’s right,’ said Mr. John Smauker, putting forth his fox’s head, and
 elevating his own; ‘I’ll stand by you.’
 
-By this time they had reached a small greengrocer’s shop, which Mr. John
+By this [[Time|time]] they had reached a small greengrocer’s shop, which Mr. John
 Smauker entered, followed by Sam, who, the moment he got behind him,
 relapsed into a series of the very broadest and most unmitigated grins,
 and manifested other demonstrations of being in a highly enviable state
@@ -67,7 +67,7 @@ exceedingly striking. Plates for a corresponding number of guests were
 warming behind the fender; and the guests themselves were warming before
 it: the chief and most important of whom appeared to be a stoutish
 gentleman in a bright crimson coat with long tails, vividly red
-breeches, and a cocked hat, who was standing with his back to the fire,
+breeches, and a cocked hat, who was standing with his back to the [[Fire|fire]],
 and had apparently just entered, for besides retaining his cocked hat on
 his head, he carried in his hand a high stick, such as gentlemen of his
 profession usually elevate in a sloping position over the roofs of
@@ -77,10 +77,10 @@ carriages.
 
 Mr. Smauker dovetailed the top joint of his right-hand little finger
 into that of the gentleman with the cocked hat, and said he was charmed
-to see him looking so well.
+to see him looking so [[Well|well]].
 
-‘Well, they tell me I am looking pretty blooming,’ said the man with the
-cocked hat, ‘and it’s a wonder, too. I’ve been following our old woman
+‘[[Well]], they tell me I am looking pretty blooming,’ said the man with the
+cocked hat, ‘and it’s a [[Wonder|wonder]], too. I’ve been following our old woman
 about, two hours a day, for the last fortnight; and if a constant
 contemplation of the manner in which she hooks-and-eyes that infernal
 lavender-coloured old gown of hers behind, isn’t enough to throw anybody
@@ -88,7 +88,7 @@ into a low state of despondency for life, stop my quarter’s salary.’
 
 At this, the assembled selections laughed very heartily; and one
 gentleman in a yellow waistcoat, with a coach-trimming border, whispered
-a neighbour in green-foil smalls, that Tuckle was in spirits to-night.
+a neighbour in green-foil smalls, that Tuckle was in spirits to-[[Night|night]].
 
 ‘By the bye,’ said Mr. Tuckle, ‘Smauker, my boy, you--’ The remainder of
 the sentence was forwarded into Mr. John Smauker’s ear, by whisper.
@@ -96,8 +96,8 @@ the sentence was forwarded into Mr. John Smauker’s ear, by whisper.
 ‘Oh, dear me, I quite forgot,’ said Mr. John Smauker. ‘Gentlemen, my
 friend Mr. Weller.’
 
-‘Sorry to keep the fire off you, Weller,’ said Mr. Tuckle, with a
-familiar nod. ‘Hope you’re not cold, Weller.’
+‘Sorry to keep the [[Fire|fire]] off you, Weller,’ said Mr. Tuckle, with a
+familiar nod. ‘[[Hope]] you’re not cold, Weller.’
 
 ‘Not by no means, Blazes,’ replied Sam. ‘It ‘ud be a wery chilly subject
 as felt cold wen you stood opposite. You’d save coals if they put you
@@ -105,7 +105,7 @@ behind the fender in the waitin’-room at a public office, you would.’
 
 As this retort appeared to convey rather a personal allusion to Mr.
 Tuckle’s crimson livery, that gentleman looked majestic for a few
-seconds, but gradually edging away from the fire, broke into a forced
+seconds, but gradually edging away from the [[Fire|fire]], broke into a forced
 smile, and said it wasn’t bad.
 
 ‘Wery much obliged for your good opinion, sir,’ replied Sam. ‘We shall
@@ -136,20 +136,20 @@ Yes, Sir.’
 
 ‘Yes, Sir.’
 
-The greengrocer did as he was told, with a show of great humility, and
+The greengrocer did as he was told, with a show of great [[Humility|humility]], and
 obsequiously handed Mr. Tuckle the carving-knife; in doing which, he
 accidentally gaped.
 
 ‘What do you mean by that, Sir?’ said Mr. Tuckle, with great asperity.
 
 ‘I beg your pardon, Sir,’ replied the crestfallen greengrocer, ‘I didn’t
-mean to do it, Sir; I was up very late last night, Sir.’
+mean to do it, Sir; I was up very late last [[Night|night]], Sir.’
 
 ‘I tell you what my opinion of you is, Harris,’ said Mr. Tuckle, with a
 most impressive air, ‘you’re a wulgar beast.’
 
-‘I hope, gentlemen,’ said Harris, ‘that you won’t be severe with me,
+‘I [[Hope|hope]], gentlemen,’ said Harris, ‘that you won’t be severe with me,
 gentlemen. I am very much obliged to you indeed, gentlemen, for your
 patronage, and also for your recommendations, gentlemen, whenever
-additional assistance in waiting is required. I hope, gentlemen, I give
+additional assistance in waiting is required. I [[Hope|hope]], gentlemen, I give
 satisfaction.’

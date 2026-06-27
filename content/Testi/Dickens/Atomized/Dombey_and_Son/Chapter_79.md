@@ -18,33 +18,33 @@ CHAPTER XXIII.
 Florence solitary, and the Midshipman mysterious
 
 
-Florence lived alone in the great dreary house, and day succeeded day,
-and still she lived alone; and the blank walls looked down upon her
+Florence lived [[Alone|alone]] in the great dreary [[house]], and day succeeded day,
+and still she lived [[Alone|alone]]; and the blank walls looked down upon her
 with a vacant stare, as if they had a Gorgon-like mind to stare her
-youth and beauty into stone.
+youth and [[Beauty|beauty]] into stone.
 
-No magic dwelling-place in magic story, shut up in the heart of a thick
+No [[Magic|magic]] dwelling-place in [[Magic|magic]] story, shut up in the heart of a thick
 wood, was ever more solitary and deserted to the fancy, than was her
 father’s mansion in its grim reality, as it stood lowering on the
-street: always by night, when lights were shining from neighbouring
+street: always by [[Night|night]], when lights were shining from neighbouring
 windows, a blot upon its scanty brightness; always by day, a frown upon
 its never-smiling face.
 
 There were not two dragon sentries keeping ward before the gate of this
-above, as in magic legend are usually found on duty over the wronged
-innocence imprisoned; but besides a glowering visage, with its thin
+above, as in [[Magic|magic]] legend are usually found on duty over the wronged
+[[innocence]] imprisoned; but besides a glowering visage, with its thin
 lips parted wickedly, that surveyed all comers from above the archway
 of the door, there was a monstrous fantasy of rusty iron, curling and
 twisting like a petrifaction of an arbour over threshold, budding in
 spikes and corkscrew points, and bearing, one on either side, two
 ominous extinguishers, that seemed to say, “Who enter here, leave light
 behind!” There were no talismanic characters engraven on the portal,
-but the house was now so neglected in appearance, that boys chalked the
+but the [[house]] was now so neglected in appearance, that boys chalked the
 railings and the pavement—particularly round the corner where the side
-wall was—and drew ghosts on the stable door; and being sometimes driven
+wall was—and drew [[Ghosts|ghosts]] on the stable door; and being sometimes driven
 off by Mr Towlinson, made portraits of him, in return, with his ears
 growing out horizontally from under his hat. Noise ceased to be, within
-the shadow of the roof. The brass band that came into the street once a
+the [[Shadow|shadow]] of the roof. The brass band that came into the street once a
 week, in the morning, never brayed a note in at those windows; but all
 such company, down to a poor little piping organ of weak intellect,
 with an imbecile party of automaton dancers, waltzing in and out at
@@ -52,7 +52,7 @@ folding-doors, fell off from it with one accord, and shunned it as a
 hopeless place.
 
 The spell upon it was more wasting than the spell that used to set
-enchanted houses sleeping once upon a time, but left their waking
+enchanted houses sleeping once upon a [[Time|time]], but left their waking
 freshness unimpaired.
 
 The passive desolation of disuse was everywhere silently manifest about
@@ -61,73 +61,73 @@ shapes, and hung like cumbrous palls. Hecatombs of furniture, still
 piled and covered up, shrunk like imprisoned and forgotten men, and
 changed insensibly. Mirrors were dim as with the breath of years.
 Patterns of carpets faded and became perplexed and faint, like the
-memory of those years’ trifling incidents. Boards, starting at unwonted
+[[Memory|memory]] of those years’ trifling incidents. Boards, starting at unwonted
 footsteps, creaked and shook. Keys rusted in the locks of doors. Damp
 started on the walls, and as the stains came out, the pictures seemed
 to go in and secrete themselves. Mildew and mould began to lurk in
-closets. Fungus trees grew in corners of the cellars. Dust accumulated,
+closets. Fungus trees grew in corners of the cellars. [[Dust]] accumulated,
 nobody knew whence nor how; spiders, moths, and grubs were heard of
 every day. An exploratory blackbeetle now and then was found immovable
 upon the stairs, or in an upper room, as wondering how he got there.
-Rats began to squeak and scuffle in the night time, through dark
+Rats began to squeak and scuffle in the [[Night|night]] [[Time|time]], through dark
 galleries they mined behind the panelling.
 
 The dreary magnificence of the state rooms, seen imperfectly by the
 doubtful light admitted through closed shutters, would have answered
-well enough for an enchanted abode. Such as the tarnished paws of
+[[Well|well]] enough for an enchanted abode. Such as the tarnished paws of
 gilded lions, stealthily put out from beneath their wrappers; the
 marble lineaments of busts on pedestals, fearfully revealing themselves
-through veils; the clocks that never told the time, or, if wound up by
+through veils; the clocks that never told the [[Time|time]], or, if wound up by
 any chance, told it wrong, and struck unearthly numbers, which are not
 upon the dial; the accidental tinklings among the pendant lustres, more
-startling than alarm-bells; the softened sounds and laggard air that
-made their way among these objects, and a phantom crowd of others,
+startling than alarm-[[Bells|bells]]; the softened sounds and laggard air that
+made their way among these objects, and a [[Phantom|phantom]] crowd of others,
 shrouded and hooded, and made spectral of shape. But, besides, there
 was the great staircase, where the lord of the place so rarely set his
-foot, and by which his little child had gone up to Heaven. There were
+foot, and by which his little [[Child|child]] had gone up to Heaven. There were
 other staircases and passages where no one went for weeks together;
 there were two closed rooms associated with dead members of the family,
-and with whispered recollections of them; and to all the house but
-Florence, there was a gentle figure moving through the solitude and
+and with whispered recollections of them; and to all the [[house]] but
+Florence, there was a gentle figure moving through the [[Solitude|solitude]] and
 gloom, that gave to every lifeless thing a touch of present human
-interest and wonder.
+interest and [[Wonder|wonder]].
 
-For Florence lived alone in the deserted house, and day succeeded day,
-and still she lived alone, and the cold walls looked down upon her with
+For Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
+and still she lived [[Alone|alone]], and the cold walls looked down upon her with
 a vacant stare, as if they had a Gorgon-like mind to stare her youth
-and beauty into stone.
+and [[Beauty|beauty]] into stone.
 
 The grass began to grow upon the roof, and in the crevices of the
 basement paving. A scaly crumbling vegetation sprouted round the
-window-sills. Fragments of mortar lost their hold upon the insides of
+[[Window|window]]-sills. Fragments of mortar lost their hold upon the insides of
 the unused chimneys, and came dropping down. The two trees with the
 smoky trunks were blighted high up, and the withered branches
-domineered above the leaves, Through the whole building white had
-turned yellow, yellow nearly black; and since the time when the poor
+domineered above the [[Leaves|leaves]], Through the whole building white had
+turned yellow, yellow nearly black; and since the [[Time|time]] when the poor
 lady died, it had slowly become a dark gap in the long monotonous
 street.
 
-But Florence bloomed there, like the king’s fair daughter in the story.
+But Florence bloomed there, like the [[King|king]]’s fair daughter in the story.
 Her books, her music, and her daily teachers, were her only real
-companions, Susan Nipper and Diogenes excepted: of whom the former, in
+companions, [[Susan Nipper]] and Diogenes excepted: of whom the former, in
 her attendance on the studies of her young mistress, began to grow
 quite learned herself, while the latter, softened possibly by the same
-influences, would lay his head upon the window-ledge, and placidly open
-and shut his eyes upon the street, all through a summer morning;
+influences, would lay his head upon the [[Window|window]]-ledge, and placidly open
+and shut his eyes upon the street, all through a [[Summer|summer]] morning;
 sometimes pricking up his head to look with great significance after
 some noisy dog in a cart, who was barking his way along, and sometimes,
 with an exasperated and unaccountable recollection of his supposed
 enemy in the neighbourhood, rushing to the door, whence, after a
 deafening disturbance, he would come jogging back with a ridiculous
-complacency that belonged to him, and lay his jaw upon the window-ledge
+complacency that belonged to him, and lay his jaw upon the [[Window|window]]-ledge
 again, with the air of a dog who had done a public service.
 
-So Florence lived in her wilderness of a home, within the circle of her
-innocent pursuits and thoughts, and nothing harmed her. She could go
+So Florence lived in her wilderness of a [[Home|home]], within the circle of her
+[[Innocent|innocent]] pursuits and thoughts, and nothing harmed her. She could go
 down to her father’s rooms now, and think of him, and suffer her loving
-heart humbly to approach him, without fear of repulse. She could look
+heart humbly to approach him, without [[Fear|fear]] of repulse. She could look
 upon the objects that had surrounded him in his sorrow, and could
-nestle near his chair, and not dread the glance that she so well
+nestle near his chair, and not dread the glance that she so [[Well|well]]
 remembered. She could render him such little tokens of her duty and
 service, as putting everything in order for him with her own hands,
 binding little nosegays for table, changing them as one by one they
@@ -135,10 +135,10 @@ withered and he did not come back, preparing something for him every
 day, and leaving some timid mark of her presence near his usual seat.
 Today, it was a little painted stand for his watch; tomorrow she would
 be afraid to leave it, and would substitute some other trifle of her
-making not so likely to attract his eye. Waking in the night, perhaps,
-she would tremble at the thought of his coming home and angrily
+making not so likely to attract his eye. Waking in the [[Night|night]], perhaps,
+she would tremble at the thought of his coming [[Home|home]] and angrily
 rejecting it, and would hurry down with slippered feet and quickly
-beating heart, and bring it away. At another time, she would only lay
+beating heart, and bring it away. At another [[Time|time]], she would only lay
 her face upon his desk, and leave a kiss there, and a tear.
 
 Still no one knew of this. Unless the household found it out when she
@@ -149,49 +149,49 @@ were served downstairs. And although they were in every nook the better
 and the brighter for her care, she entered and passed out as quietly as
 any sunbeam, opting that she left her light behind.
 
-Shadowy company attended Florence up and down the echoing house, and
+Shadowy company attended Florence up and down the echoing [[house]], and
 sat with her in the dismantled rooms. As if her life were an enchanted
-vision, there arose out of her solitude ministering thoughts, that made
+vision, there arose out of her [[Solitude|solitude]] ministering thoughts, that made
 it fanciful and unreal. She imagined so often what her life would have
 been if her father could have loved her and she had been a favourite
-child, that sometimes, for the moment, she almost believed it was so,
+[[Child|child]], that sometimes, for the moment, she almost believed it was so,
 and, borne on by the current of that pensive fiction, seemed to
-remember how they had watched her brother in his grave together; how
+remember how they had watched her brother in his [[Grave|grave]] together; how
 they had freely shared his heart between them; how they were united in
 the dear remembrance of him; how they often spoke about him yet; and
-her kind father, looking at her gently, told her of their common hope
+her kind father, looking at her gently, told her of their common [[Hope|hope]]
 and trust in God. At other times she pictured to herself her mother yet
 alive. And oh the happiness of falling on her neck, and clinging to her
-with the love and confidence of all her soul! And oh the desolation of
-the solitary house again, with evening coming on, and no one there!
+with the [[Love|love]] and confidence of all her [[Soul|soul]]! And oh the desolation of
+the solitary [[house]] again, with evening coming on, and no one there!
 
 But there was one thought, scarcely shaped out to herself, yet fervent
 and strong within her, that upheld Florence when she strove and filled
 her true young heart, so sorely tried, with constancy of purpose. Into
 her mind, as into all others contending with the great affliction of
-our mortal nature, there had stolen solemn wonderings and hopes,
+our mortal [[Nature|nature]], there had stolen solemn wonderings and hopes,
 arising in the dim world beyond the present life, and murmuring, like
 faint music, of recognition in the far-off land between her brother and
-her mother: of some present consciousness in both of her: some love and
+her mother: of some present consciousness in both of her: some [[Love|love]] and
 commiseration for her: and some knowledge of her as she went her way
 upon the earth. It was a soothing consolation to Florence to give
 shelter to these thoughts, until one day—it was soon after she had last
-seen her father in his own room, late at night—the fancy came upon her,
+seen her father in his own room, late at [[Night|night]]—the fancy came upon her,
 that, in weeping for his alienated heart, she might stir the spirits of
 the dead against him. Wild, weak, childish, as it may have been to
 think so, and to tremble at the half-formed thought, it was the impulse
-of her loving nature; and from that hour Florence strove against the
+of her loving [[Nature|nature]]; and from that hour Florence strove against the
 cruel wound in her breast, and tried to think of him whose hand had
-made it, only with hope.
+made it, only with [[Hope|hope]].
 
-Her father did not know—she held to it from that time—how much she
+Her father did not know—she held to it from that [[Time|time]]—how much she
 loved him. She was very young, and had no mother, and had never
 learned, by some fault or misfortune, how to express to him that she
 loved him. She would be patient, and would try to gain that art in
-time, and win him to a better knowledge of his only child.
+[[Time|time]], and win him to a better knowledge of his only [[Child|child]].
 
 This became the purpose of her life. The morning sun shone down upon
-the faded house, and found the resolution bright and fresh within the
+the faded [[house]], and found the resolution bright and fresh within the
 bosom of its solitary mistress, Through all the duties of the day, it
 animated her; for Florence hoped that the more she knew, and the more
 accomplished she became, the more glad he would be when he came to know
@@ -201,15 +201,15 @@ when they should become companions. Sometimes she tried to think if
 there were any kind of knowledge that would bespeak his interest more
 readily than another. Always: at her books, her music, and her work: in
 her morning walks, and in her nightly prayers: she had her engrossing
-aim in view. Strange study for a child, to learn the road to a hard
+aim in view. Strange study for a [[Child|child]], to learn the [[Road|road]] to a hard
 parent’s heart!
 
-There were many careless loungers through the street, as the summer
-evening deepened into night, who glanced across the road at the sombre
-house, and saw the youthful figure at the window, such a contrast to
-it, looking upward at the stars as they began to shine, who would have
+There were many careless loungers through the street, as the [[Summer|summer]]
+evening deepened into [[Night|night]], who glanced across the [[Road|road]] at the sombre
+[[house]], and saw the youthful figure at the [[Window|window]], such a contrast to
+it, looking upward at the [[Stars|stars]] as they began to shine, who would have
 slept the worse if they had known on what design she mused so
-steadfastly. The reputation of the mansion as a haunted house, would
+steadfastly. The reputation of the mansion as a haunted [[house]], would
 not have been the gayer with some humble dwellers elsewhere, who were
 struck by its external gloom in passing and repassing on their daily
 avocations, and so named it, if they could have read its story in the
@@ -218,12 +218,12 @@ unaided: and studied only how to bring her father to the understanding
 that she loved him, and made no appeal against him in any wandering
 thought.
 
-Thus Florence lived alone in the deserted house, and day succeeded day,
-and still she lived alone, and the monotonous walls looked down upon
+Thus Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
+and still she lived [[Alone|alone]], and the monotonous walls looked down upon
 her with a stare, as if they had a Gorgon-like intent to stare her
-youth and beauty into stone.
+youth and [[Beauty|beauty]] into stone.
 
-Susan Nipper stood opposite to her young mistress one morning, as she
+[[Susan Nipper]] stood opposite to her young mistress one morning, as she
 folded and sealed a note she had been writing: and showed in her looks
 an approving knowledge of its contents.
 
@@ -253,15 +253,15 @@ better.”
 head.
 
 “And so,” said Florence, “though I would prefer to have gone when there
-was no one there, instead of in this vacation time, when it seems there
-are some young people staying in the house, I have thankfully said
+was no one there, instead of in this vacation [[Time|time]], when it seems there
+are some young people staying in the [[house]], I have thankfully said
 yes.”
 
 “For which _I_ say, Miss Floy, Oh be joyful!” returned Susan, “Ah!
 h—h!”
 
 This last ejaculation, with which Miss Nipper frequently wound up a
-sentence, at about that epoch of time, was supposed below the level of
+sentence, at about that epoch of [[Time|time]], was supposed below the level of
 the hall to have a general reference to Mr Dombey, and to be expressive
 of a yearning in Miss Nipper to favour that gentleman with a piece of
 her mind. But she never explained it; and it had, in consequence, the
@@ -269,7 +269,7 @@ charm of mystery, in addition to the advantage of the sharpest
 expression.
 
 “How long it is before we have any news of Walter, Susan!” observed
-Florence, after a moment’s silence.
+Florence, after a moment’s [[Silence|silence]].
 
 “Long indeed, Miss Floy!” replied her maid. “And Perch said, when he
 came just now to see for letters—but what signifies what he says!”
@@ -277,15 +277,15 @@ exclaimed Susan, reddening and breaking off. “Much he knows about it!”
 
 Florence raised her eyes quickly, and a flush overspread her face.
 
-“If I hadn’t,” said Susan Nipper, evidently struggling with some latent
+“If I hadn’t,” said [[Susan Nipper]], evidently struggling with some latent
 anxiety and alarm, and looking full at her young mistress, while
 endeavouring to work herself into a state of resentment with the
 unoffending Mr Perch’s image, “if I hadn’t more manliness than that
-insipidest of his sex, I’d never take pride in my hair again, but turn
+insipidest of his sex, I’d never take [[Pride|pride]] in my hair again, but turn
 it up behind my ears, and wear coarse caps, without a bit of border,
-until death released me from my insignificance. I may not be a Amazon,
+until [[Death|death]] released me from my insignificance. I may not be a Amazon,
 Miss Floy, and wouldn’t so demean myself by such disfigurement, but
-anyways I’m not a giver up, I hope.”
+anyways I’m not a giver up, I [[Hope|hope]].”
 
 “Give up! What?” cried Florence, with a face of terror.
 
@@ -295,13 +295,13 @@ with, with a touch, and really it would be a blessed event for all
 parties if someone would take pity on him, and would have the
 goodness!”
 
-“Does he give up the ship, Susan?” inquired Florence, very pale.
+“Does he give up the [[Ship|ship]], Susan?” inquired Florence, very pale.
 
 “No, Miss,” returned Susan, “I should like to see him make so bold as
 do it to my face! No, Miss, but he goes on about some bothering ginger
 that Mr Walter was to send to Mrs Perch, and shakes his dismal head,
 and says he hopes it may be coming; anyhow, he says, it can’t come now
-in time for the intended occasion, but may do for next, which really,”
+in [[Time|time]] for the intended occasion, but may do for next, which really,”
 said Miss Nipper, with aggravated scorn, “puts me out of patience with
 the man, for though I can bear a great deal, I am not a camel, neither
 am I,” added Susan, after a moment’s consideration, “if I know myself,
@@ -312,47 +312,47 @@ you tell me?”
 
 “As if I wouldn’t tell you anything, Miss Floy, and everything!” said
 Susan. “Why, nothing Miss, he says that there begins to be a general
-talk about the ship, and that they have never had a ship on that voyage
+talk about the [[Ship|ship]], and that they have never had a [[Ship|ship]] on that voyage
 half so long unheard of, and that the Captain’s wife was at the office
 yesterday, and seemed a little put out about it, but anyone could say
 that, we knew nearly that before.”
 
 “I must visit Walter’s uncle,” said Florence, hurriedly, “before I
-leave home. I will go and see him this morning. Let us walk there,
+leave [[Home|home]]. I will go and see him this morning. Let us walk there,
 directly, Susan.”
 
 Miss Nipper having nothing to urge against the proposal, but being
 perfectly acquiescent, they were soon equipped, and in the streets, and
 on their way towards the little Midshipman.
 
-The state of mind in which poor Walter had gone to Captain Cuttle’s, on
+The state of mind in which poor Walter had gone to [[Captain Cuttle]]’s, on
 the day when Brogley the broker came into possession, and when there
 seemed to him to be an execution in the very steeples, was pretty much
 the same as that in which Florence now took her way to Uncle Sol’s;
-with this difference, that Florence suffered the added pain of thinking
-that she had been, perhaps, the innocent occasion of involving Walter
+with this difference, that Florence suffered the added [[Pain|pain]] of thinking
+that she had been, perhaps, the [[Innocent|innocent]] occasion of involving Walter
 in peril, and all to whom he was dear, herself included, in an agony of
 suspense. For the rest, uncertainty and danger seemed written upon
 everything. The weathercocks on spires and housetops were mysterious
-with hints of stormy wind, and pointed, like so many ghostly fingers,
+with hints of stormy [[Wind|wind]], and pointed, like so many ghostly fingers,
 out to dangerous seas, where fragments of great wrecks were drifting,
-perhaps, and helpless men were rocked upon them into a sleep as deep as
-the unfathomable waters. When Florence came into the City, and passed
+perhaps, and helpless men were rocked upon them into a [[Sleep|sleep]] as deep as
+the unfathomable waters. When Florence came into the [[City]], and passed
 gentlemen who were talking together, she dreaded to hear them speaking
-of the ship, and saying it was lost. Pictures and prints of vessels
-fighting with the rolling waves filled her with alarm. The smoke and
+of the [[Ship|ship]], and saying it was lost. Pictures and prints of vessels
+fighting with the [[rolling]] waves filled her with alarm. The smoke and
 clouds, though moving gently, moved too fast for her apprehensions, and
-made her fear there was a tempest blowing at that moment on the ocean.
+made her [[Fear|fear]] there was a tempest blowing at that moment on the ocean.
 
-Susan Nipper may or may not have been affected similarly, but having
+[[Susan Nipper]] may or may not have been affected similarly, but having
 her attention much engaged in struggles with boys, whenever there was
 any press of people—for, between that grade of human kind and herself,
 there was some natural animosity that invariably broke out, whenever
 they came together—it would seem that she had not much leisure on the
-road for intellectual operations.
+[[Road|road]] for intellectual operations.
 
-Arriving in good time abreast of the wooden Midshipman on the opposite
-side of the way, and waiting for an opportunity to cross the street,
+Arriving in good [[Time|time]] abreast of the wooden Midshipman on the opposite
+side of the way, and waiting for an opportunity to [[Cross|cross]] the street,
 they were a little surprised at first to see, at the Instrument-maker’s
 door, a round-headed lad, with his chubby face addressed towards the
 sky, who, as they looked at him, suddenly thrust into his capacious
@@ -369,11 +369,11 @@ moment presenting itself, they both hastened across, without any
 further contemplation of Mrs Richards’s bane. That sporting character,
 unconscious of their approach, again whistled with his utmost might,
 and then yelled in a rapture of excitement, “Strays! Whoo-oop! Strays!”
-which identification had such an effect upon the conscience-stricken
+which identification had such an effect upon the [[Conscience|conscience]]-stricken
 pigeons, that instead of going direct to some town in the North of
 England, as appeared to have been their original intention, they began
-to wheel and falter; whereupon Mrs Richards’s first born pierced them
-with another whistle, and again yelled, in a voice that rose above the
+to [[Wheel|wheel]] and falter; whereupon Mrs Richards’s first born pierced them
+with another whistle, and again yelled, in a voice that [[Rose|rose]] above the
 turmoil of the street, “Strays! Whoo-oop! Strays!”
 
 From this transport, he was abruptly recalled to terrestrial objects,
@@ -384,10 +384,10 @@ fretting for you months and months?” said Susan, following the poke.
 “Where’s Mr Gills?”
 
 Rob, who smoothed his first rebellious glance at Miss Nipper when he
-saw Florence following, put his knuckles to his hair, in honour of the
+saw Florence following, put his knuckles to his hair, in [[Honour|honour]] of the
 latter, and said to the former, that Mr Gills was out.”
 
-“Fetch him home,” said Miss Nipper, with authority, “and say that my
+“Fetch him [[Home|home]],” said Miss Nipper, with authority, “and say that my
 young lady’s here.”
 
 “I don’t know where he’s gone,” said Rob.
@@ -397,10 +397,10 @@ young lady’s here.”
 “Why how can I go and fetch him when I don’t know where to go?”
 whimpered the baited Rob. “How can you be so unreasonable?”
 
-“Did Mr Gills say when he should be home?” asked Florence.
+“Did Mr Gills say when he should be [[Home|home]]?” asked Florence.
 
 “Yes, Miss,” replied Rob, with another application of his knuckles to
-his hair. “He said he should be home early in the afternoon; in about a
+his hair. “He said he should be [[Home|home]] early in the afternoon; in about a
 couple of hours from now, Miss.”
 
 “Is he very anxious about his nephew?” inquired Susan.
@@ -409,11 +409,11 @@ couple of hours from now, Miss.”
 and slighting Nipper; “I should say he was, very much so. He ain’t
 indoors, Miss, not a quarter of an hour together. He can’t settle in
 one place five minutes. He goes about, like a—just like a stray,” said
-Rob, stooping to get a glimpse of the pigeons through the window, and
+Rob, stooping to get a glimpse of the pigeons through the [[Window|window]], and
 checking himself, with his fingers half-way to his mouth, on the verge
 of another whistle.
 
-“Do you know a friend of Mr Gills, called Captain Cuttle?” inquired
+“Do you know a friend of Mr Gills, called [[Captain Cuttle]]?” inquired
 Florence, after a moment’s reflection.
 
 “Him with a hook, Miss?” rejoined Rob, with an illustrative twist of
@@ -426,12 +426,12 @@ his left hand. Yes, Miss. He was here the day before yesterday.”
 “Perhaps Walter’s Uncle has gone there, Susan,” observed Florence,
 turning to her.
 
-“To Captain Cuttle’s, Miss?” interposed Rob; “no, he’s not gone there,
-Miss. Because he left particular word that if Captain Cuttle called, I
+“To [[Captain Cuttle]]’s, Miss?” interposed Rob; “no, he’s not gone there,
+Miss. Because he left particular word that if [[Captain Cuttle]] called, I
 should tell him how surprised he was, not to have seen him yesterday,
 and should make him stop till he came back.”
 
-“Do you know where Captain Cuttle lives?” asked Florence.
+“Do you know where [[Captain Cuttle]] lives?” asked Florence.
 
 Rob replied in the affirmative, and turning to a greasy parchment book
 on the shop desk, read the address aloud.
@@ -439,7 +439,7 @@ on the shop desk, read the address aloud.
 Florence again turned to her maid and took counsel with her in a low
 voice, while Rob the round-eyed, mindful of his patron’s secret charge,
 looked on and listened. Florence proposed that they could go to Captain
-Cuttle’s house; hear from his own lips, what he thought of the absence
+Cuttle’s [[house]]; hear from his own lips, what he thought of the absence
 of any tidings of the Son and Heir; and bring him, if they could, to
 comfort Uncle Sol. Susan at first objected slightly, on the score of
 distance; but a hackney-coach being mentioned by her mistress, withdrew
@@ -449,7 +449,7 @@ which the staring Rob paid close attention to both speakers, and
 inclined his ear to each by turns, as if he were appointed arbitrator
 of the argument.
 
-In time, Rob was despatched for a coach, the visitors keeping shop
+In [[Time|time]], Rob was despatched for a coach, the visitors keeping shop
 meanwhile; and when he brought it, they got into it, leaving word for
 Uncle Sol that they would be sure to call again, on their way back. Rob
 having stared after the coach until it was as invisible as the pigeons
@@ -472,16 +472,16 @@ Cuttle.
 It happened by evil chance to be one of Mrs MacStinger’s great cleaning
 days. On these occasions, Mrs MacStinger was knocked up by the
 policeman at a quarter before three in the morning, and rarely
-succumbed before twelve o’clock next night. The chief object of this
+succumbed before twelve o’[[Clock|clock]] next [[Night|night]]. The chief object of this
 institution appeared to be, that Mrs MacStinger should move all the
-furniture into the back garden at early dawn, walk about the house in
+furniture into the back [[Garden|garden]] at early [[Dawn|dawn]], walk about the [[house]] in
 pattens all day, and move the furniture back again after dark. These
 ceremonies greatly fluttered those doves the young MacStingers, who
 were not only unable at such times to find any resting-place for the
 soles of their feet, but generally came in for a good deal of pecking
 from the maternal bird during the progress of the solemnities.
 
-At the moment when Florence and Susan Nipper presented themselves at
+At the moment when Florence and [[Susan Nipper]] presented themselves at
 Mrs MacStinger’s door, that worthy but redoubtable female was in the
 act of conveying Alexander MacStinger, aged two years and three months,
 along the passage, for forcible deposition in a sitting posture on the
@@ -492,12 +492,12 @@ act as a powerful restorative in such cases.
 The feelings of Mrs MacStinger, as a woman and a mother, were outraged
 by the look of pity for Alexander which she observed on Florence’s
 face. Therefore, Mrs MacStinger asserting those finest emotions of our
-nature, in preference to weakly gratifying her curiosity, shook and
+[[Nature|nature]], in preference to weakly gratifying her curiosity, shook and
 buffeted Alexander both before and during the application of the
 paving-stone, and took no further notice of the strangers.
 
-“I beg your pardon, Ma’am,” said Florence, when the child had found his
-breath again, and was using it. “Is this Captain Cuttle’s house?”
+“I beg your pardon, Ma’am,” said Florence, when the [[Child|child]] had found his
+breath again, and was using it. “Is this [[Captain Cuttle]]’s [[house]]?”
 
 “No,” said Mrs MacStinger.
 
@@ -505,23 +505,23 @@ breath again, and was using it. “Is this Captain Cuttle’s house?”
 
 “Who said it wasn’t Number Nine?” said Mrs MacStinger.
 
-Susan Nipper instantly struck in, and begged to inquire what Mrs
+[[Susan Nipper]] instantly struck in, and begged to inquire what Mrs
 MacStinger meant by that, and if she knew whom she was talking to.
 
 Mrs MacStinger in retort, looked at her all over. “What do you want
-with Captain Cuttle, I should wish to know?” said Mrs MacStinger.
+with [[Captain Cuttle]], I should wish to know?” said Mrs MacStinger.
 
 “Should you? Then I’m sorry that you won’t be satisfied,” returned Miss
 Nipper.
 
 “Hush, Susan! If you please!” said Florence. “Perhaps you can have the
-goodness to tell us where Captain Cuttle lives, Ma’am as he don’t live
+goodness to tell us where [[Captain Cuttle]] lives, Ma’am as he don’t live
 here.”
 
 “Who says he don’t live here?” retorted the implacable MacStinger. “I
-said it wasn’t Cap’en Cuttle’s house—and it ain’t his house—and forbid
-it, that it ever should be his house—for Cap’en Cuttle don’t know how
-to keep a house—and don’t deserve to have a house—it’s my house—and
+said it wasn’t Cap’en Cuttle’s [[house]]—and it ain’t his [[house]]—and forbid
+it, that it ever should be his [[house]]—for Cap’en Cuttle don’t know how
+to keep a [[house]]—and don’t deserve to have a [[house]]—it’s my [[house]]—and
 when I let the upper floor to Cap’en Cuttle, oh I do a thankless thing,
 and cast pearls before swine!”
 
@@ -542,7 +542,7 @@ of the prospect, terminating in the hackney-coach.
 
 The Captain in his own apartment was sitting with his hands in his
 pockets and his legs drawn up under his chair, on a very small desolate
-island, lying about midway in an ocean of soap and water. The Captain’s
+island, lying about midway in an ocean of soap and [[Water|water]]. The Captain’s
 windows had been cleaned, the walls had been cleaned, the stove had
 been cleaned, and everything the stove excepted, was wet, and shining
 with soft soap and sand: the smell of which dry-saltery impregnated the
@@ -560,14 +560,14 @@ appeared, and coming to the confines of the island, put her hand in
 his, the Captain stood up, aghast, as if he supposed her, for the
 moment, to be some young member of the Flying Dutchman’s family.
 
-Instantly recovering his self-possession, however, the Captain’s first
+Instantly recovering his [[Self|self]]-possession, however, the Captain’s first
 care was to place her on dry land, which he happily accomplished, with
 one motion of his arm. Issuing forth, then, upon the main, Captain
 Cuttle took Miss Nipper round the waist, and bore her to the island
-also. Captain Cuttle, then, with great respect and admiration, raised
+also. [[Captain Cuttle]], then, with great respect and admiration, raised
 the hand of Florence to his lips, and standing off a little (for the
 island was not large enough for three), beamed on her from the soap and
-water like a new description of Triton.
+[[Water|water]] like a new description of Triton.
 
 “You are amazed to see us, I am sure,” said Florence, with a smile.
 
@@ -577,10 +577,10 @@ words, “Stand by! Stand by!”
 
 “But I couldn’t rest,” said Florence, “without coming to ask you what
 you think about dear Walter—who is my brother now—and whether there is
-anything to fear, and whether you will not go and console his poor
+anything to [[Fear|fear]], and whether you will not go and console his poor
 Uncle every day, until we have some intelligence of him?”
 
-At these words Captain Cuttle, as by an involuntary gesture, clapped
+At these words [[Captain Cuttle]], as by an involuntary gesture, clapped
 his hand to his head, on which the hard glazed hat was not, and looked
 discomfited.
 
@@ -589,9 +589,9 @@ face the Captain (so enraptured he was with it) could not take his
 eyes: while she, in her turn, looked earnestly at him, to be assured of
 the sincerity of his reply.
 
-“No, Heart’s-delight,” said Captain Cuttle, “I am not afeard. Wal”r is
+“No, Heart’s-delight,” said [[Captain Cuttle]], “I am not afeard. Wal”r is
 a lad as’ll go through a deal o’ hard weather. Wal”r is a lad as’ll
-bring as much success to that “ere brig as a lad is capable on. Wal”r,”
+bring as much [[success]] to that “ere brig as a lad is capable on. Wal”r,”
 said the Captain, his eyes glistening with the praise of his young
 friend, and his hook raised to announce a beautiful quotation, “is what
 you may call a out’ard and visible sign of an in’ard and spirited
@@ -604,7 +604,7 @@ looked to him for something more.
 “I am not afeard, my Heart’s-delight,” resumed the Captain, “There’s
 been most uncommon bad weather in them latitudes, there’s no denyin’,
 and they have drove and drove and been beat off, may be t’other side
-the world. But the ship’s a good ship, and the lad’s a good lad; and it
+the world. But the [[Ship|ship]]’s a good [[Ship|ship]], and the lad’s a good lad; and it
 ain’t easy, thank the Lord,” the Captain made a little bow, “to break
 up hearts of oak, whether they’re in brigs or buzzums. Here we have ’em
 both ways, which is bringing it up with a round turn, and so I ain’t a
@@ -613,17 +613,17 @@ bit afeard as yet.”
 “As yet?” repeated Florence.
 
 “Not a bit,” returned the Captain, kissing his iron hand; “and afore I
-begin to be, my Hearts-delight, Wal”r will have wrote home from the
+begin to be, my Hearts-delight, Wal”r will have wrote [[Home|home]] from the
 island, or from some port or another, and made all taut and
-ship-shape.” And with regard to old Sol Gills, here the Captain became
-solemn, “who I’ll stand by, and not desert until death do us part, and
+[[Ship|ship]]-shape.” And with regard to old Sol Gills, here the Captain became
+solemn, “who I’ll stand by, and not [[Desert|desert]] until [[Death|death]] do us part, and
 when the stormy winds do blow, do blow, do blow—overhaul the
 Catechism,” said the Captain parenthetically, “and there you’ll find
 them expressions—if it would console Sol Gills to have the opinion of a
 seafaring man as has got a mind equal to any undertaking that he puts
 it alongside of, and as was all but smashed in his “prenticeship, and
 of which the name is Bunsby, that “ere man shall give him such an
-opinion in his own parlour as’ll stun him. Ah!” said Captain Cuttle,
+opinion in his own parlour as’ll stun him. Ah!” said [[Captain Cuttle]],
 vauntingly, “as much as if he’d gone and knocked his head again a
 door!”
 
@@ -638,7 +638,7 @@ skimmed into the room like a bird, and alighted heavily at the
 Captain’s feet. The door then shut as violently as it had opened, and
 nothing ensued in explanation of the prodigy.
 
-Captain Cuttle picked up his hat, and having turned it over with a look
+[[Captain Cuttle]] picked up his hat, and having turned it over with a look
 of interest and welcome, began to polish it on his sleeve. While doing
 so, the Captain eyed his visitors intently, and said in a low voice,
 
@@ -646,9 +646,9 @@ so, the Captain eyed his visitors intently, and said in a low voice,
 morning, but she—she took it away and kept it. That’s the long and
 short of the subject.”
 
-“Who did, for goodness sake?” asked Susan Nipper.
+“Who did, for goodness sake?” asked [[Susan Nipper]].
 
-“The lady of the house, my dear,” returned the Captain, in a gruff
+“The lady of the [[house]], my dear,” returned the Captain, in a gruff
 whisper, and making signals of secrecy. “We had some words about the
 swabbing of these here planks, and she—In short,” said the Captain,
 eyeing the door, and relieving himself with a long breath, “she stopped
@@ -658,7 +658,7 @@ my liberty.”
 energy of the wish. “I’d stop her!”
 
 “Would you, do you, my dear?” rejoined the Captain, shaking his head
-doubtfully, but regarding the desperate courage of the fair aspirant
+doubtfully, but regarding the desperate [[Courage|courage]] of the fair aspirant
 with obvious admiration. “I don’t know. It’s difficult navigation.
 She’s very hard to carry on with, my dear. You never can tell how
 she’ll head, you see. She’s full one minute, and round upon you next.
@@ -670,10 +670,10 @@ recurring to his admiration of Miss Nipper’s devoted bravery, timidly
 repeated, “Would you, do you think, my dear?”
 
 Susan only replied with a bridling smile, but that was so very full of
-defiance, that there is no knowing how long Captain Cuttle might have
+defiance, that there is no knowing how long [[Captain Cuttle]] might have
 stood entranced in its contemplation, if Florence in her anxiety had
 not again proposed their immediately resorting to the oracular Bunsby.
-Thus reminded of his duty, Captain Cuttle put on the glazed hat firmly,
+Thus reminded of his duty, [[Captain Cuttle]] put on the glazed hat firmly,
 took up another knobby stick, with which he had supplied the place of
 that one given to Walter, and offering his arm to Florence, prepared to
 cut his way through the enemy.
@@ -682,28 +682,28 @@ It turned out, however, that Mrs MacStinger had already changed her
 course, and that she headed, as the Captain had remarked she often did,
 in quite a new direction. For when they got downstairs, they found that
 exemplary woman beating the mats on the doorsteps, with Alexander,
-still upon the paving-stone, dimly looming through a fog of dust; and
+still upon the paving-stone, dimly looming through a fog of [[Dust|dust]]; and
 so absorbed was Mrs MacStinger in her household occupation, that when
-Captain Cuttle and his visitors passed, she beat the harder, and
+[[Captain Cuttle]] and his visitors passed, she beat the harder, and
 neither by word nor gesture showed any consciousness of their vicinity.
-The Captain was so well pleased with this easy escape—although the
+The Captain was so [[Well|well]] pleased with this easy escape—although the
 effect of the door-mats on him was like a copious administration of
-snuff, and made him sneeze until the tears ran down his face—that he
+snuff, and made him sneeze until the [[Tears|tears]] ran down his face—that he
 could hardly believe his good fortune; but more than once, between the
 door and the hackney-coach, looked over his shoulder, with an obvious
 apprehension of Mrs MacStinger’s giving chase yet.
 
 However, they got to the corner of Brig Place without any molestation
-from that terrible fire-ship; and the Captain mounting the
+from that terrible [[Fire|fire]]-[[Ship|ship]]; and the Captain mounting the
 coach-box—for his gallantry would not allow him to ride inside with the
 ladies, though besought to do so—piloted the driver on his course for
 Captain Bunsby’s vessel, which was called the Cautious Clara, and was
 lying hard by Ratcliffe.
 
-Arrived at the wharf off which this great commander’s ship was jammed
+Arrived at the wharf off which this great commander’s [[Ship|ship]] was jammed
 in among some five hundred companions, whose tangled rigging looked
-like monstrous cobwebs half swept down, Captain Cuttle appeared at the
-coach-window, and invited Florence and Miss Nipper to accompany him on
+like monstrous cobwebs half swept down, [[Captain Cuttle]] appeared at the
+coach-[[Window|window]], and invited Florence and Miss Nipper to accompany him on
 board; observing that Bunsby was to the last degree soft-hearted in
 respect of ladies, and that nothing would so much tend to bring his
 expansive intellect into a state of harmony as their presentation to
@@ -711,13 +711,13 @@ the Cautious Clara.
 
 Florence readily consented; and the Captain, taking her little hand in
 his prodigious palm, led her, with a mixed expression of patronage,
-paternity, pride, and ceremony, that was pleasant to see, over several
+paternity, [[Pride|pride]], and ceremony, that was pleasant to see, over several
 very dirty decks, until, coming to the Clara, they found that cautious
 craft (which lay outside the tier) with her gangway removed, and
-half-a-dozen feet of river interposed between herself and her nearest
-neighbour. It appeared, from Captain Cuttle’s explanation, that the
+half-a-dozen feet of [[River|river]] interposed between herself and her nearest
+neighbour. It appeared, from [[Captain Cuttle]]’s explanation, that the
 great Bunsby, like himself, was cruelly treated by his landlady, and
-that when her usage of him for the time being was so hard that he could
+that when her usage of him for the [[Time|time]] being was so hard that he could
 bear it no longer, he set this gulf between them as a last resource.
 
 “Clara a-hoy!” cried the Captain, putting a hand to each side of his
@@ -730,7 +730,7 @@ voice, as if he were half-a-mile off instead of two yards.
 
 “Ay, ay!” cried the boy, in the same tone.
 
-The boy then shoved out a plank to Captain Cuttle, who adjusted it
+The boy then shoved out a plank to [[Captain Cuttle]], who adjusted it
 carefully, and led Florence across: returning presently for Miss
 Nipper. So they stood upon the deck of the Cautious Clara, in whose
 standing rigging, divers fluttering articles of dress were curing, in
@@ -742,20 +742,20 @@ in the mahogany face, and one revolving one, on the principle of some
 lighthouses. This head was decorated with shaggy hair, like oakum,
 which had no governing inclination towards the north, east, west, or
 south, but inclined to all four quarters of the compass, and to every
-point upon it. The head was followed by a perfect desert of chin, and
+point upon it. The head was followed by a perfect [[Desert|desert]] of chin, and
 by a shirt-collar and neckerchief, and by a dreadnought pilot-coat, and
 by a pair of dreadnought pilot-trousers, whereof the waistband was so
 very broad and high, that it became a succedaneum for a waistcoat:
 being ornamented near the wearer’s breastbone with some massive wooden
 buttons, like backgammon men. As the lower portions of these pantaloons
 became revealed, Bunsby stood confessed; his hands in their pockets,
-which were of vast size; and his gaze directed, not to Captain Cuttle
+which were of vast size; and his gaze directed, not to [[Captain Cuttle]]
 or the ladies, but the mast-head.
 
 The profound appearance of this philosopher, who was bulky and strong,
 and on whose extremely red face an expression of taciturnity sat
 enthroned, not inconsistent with his character, in which that quality
-was proudly conspicuous, almost daunted Captain Cuttle, though on
+was proudly conspicuous, almost daunted [[Captain Cuttle]], though on
 familiar terms with him. Whispering to Florence that Bunsby had never
 in his life expressed surprise, and was considered not to know what it
 meant, the Captain watched him as he eyed his mast-head, and afterwards
@@ -766,11 +766,11 @@ in his direction, said:
 
 A deep, gruff, husky utterance, which seemed to have no connexion with
 Bunsby, and certainly had not the least effect upon his face, replied,
-“Ay, ay, shipmet, how goes it?” At the same time Bunsby’s right hand
+“Ay, ay, shipmet, how goes it?” At the same [[Time|time]] Bunsby’s right hand
 and arm, emerging from a pocket, shook the Captain’s, and went back
 again.
 
-“Bunsby,” said the Captain, striking home at once, “here you are; a man
+“Bunsby,” said the Captain, striking [[Home|home]] at once, “here you are; a man
 of mind, and a man as can give an opinion. Here’s a young lady as wants
 to take that opinion, in regard of my friend Wal”r; likewise my t’other
 friend, Sol Gills, which is a character for you to come within hail of,
@@ -787,7 +787,7 @@ whatever.
 “Here is a man,” said the Captain, addressing himself to his fair
 auditors, and indicating the commander with his outstretched hook,
 “that has fell down, more than any man alive; that has had more
-accidents happen to his own self than the Seamen’s Hospital to all
+accidents happen to his own [[Self|self]] than the Seamen’s Hospital to all
 hands; that took as many spars and bars and bolts about the outside of
 his head when he was young, as you’d want a order for on Chatham-yard
 to build a pleasure yacht with; and yet that his opinions in that way,
@@ -802,14 +802,14 @@ thoughts.
 “Shipmet,” said Bunsby, all of a sudden, and stooping down to look out
 under some interposing spar, “what’ll the ladies drink?”
 
-Captain Cuttle, whose delicacy was shocked by such an inquiry in
+[[Captain Cuttle]], whose delicacy was shocked by such an inquiry in
 connection with Florence, drew the sage aside, and seeming to explain
 in his ear, accompanied him below; where, that he might not take
 offence, the Captain drank a dram himself, which Florence and Susan,
 glancing down the open skylight, saw the sage, with difficulty finding
 room for himself between his berth and a very little brass fireplace,
-serve out for self and friend. They soon reappeared on deck, and
-Captain Cuttle, triumphing in the success of his enterprise, conducted
+serve out for [[Self|self]] and friend. They soon reappeared on deck, and
+[[Captain Cuttle]], triumphing in the [[success]] of his enterprise, conducted
 Florence back to the coach, while Bunsby followed, escorting Miss
 Nipper, whom he hugged upon the way (much to that young lady’s
 indignation) with his pilot-coated arm, like a blue bear.
@@ -817,28 +817,28 @@ indignation) with his pilot-coated arm, like a blue bear.
 The Captain put his oracle inside, and gloried so much in having
 secured him, and having got that mind into a hackney-coach, that he
 could not refrain from often peeping in at Florence through the little
-window behind the driver, and testifying his delight in smiles, and
+[[Window|window]] behind the driver, and testifying his delight in smiles, and
 also in taps upon his forehead, to hint to her that the brain of Bunsby
 was hard at it. In the meantime, Bunsby, still hugging Miss Nipper (for
 his friend, the Captain, had not exaggerated the softness of his
 heart), uniformly preserved his gravity of deportment, and showed no
 other consciousness of her or anything.
 
-Uncle Sol, who had come home, received them at the door, and ushered
+Uncle Sol, who had come [[Home|home]], received them at the door, and ushered
 them immediately into the little back parlour: strangely altered by the
 absence of Walter. On the table, and about the room, were the charts
 and maps on which the heavy-hearted Instrument-maker had again and
 again tracked the missing vessel across the sea, and on which, with a
 pair of compasses that he still had in his hand, he had been measuring,
 a minute before, how far she must have driven, to have driven here or
-there: and trying to demonstrate that a long time must elapse before
-hope was exhausted.
+there: and trying to demonstrate that a long [[Time|time]] must elapse before
+[[Hope|hope]] was exhausted.
 
 “Whether she can have run,” said Uncle Sol, looking wistfully over the
 chart; “but no, that’s almost impossible or whether she can have been
 forced by stress of weather,—but that’s not reasonably likely. Or
-whether there is any hope she so far changed her course as—but even I
-can hardly hope that!” With such broken suggestions, poor old Uncle Sol
+whether there is any [[Hope|hope]] she so far changed her course as—but even I
+can hardly [[Hope|hope]] that!” With such broken suggestions, poor old Uncle Sol
 roamed over the great sheet before him, and could not find a speck of
 hopeful probability in it large enough to set one small point of the
 compasses upon.
@@ -865,25 +865,25 @@ arm.
 “Did I say ‘before?’” replied old Sol. “If I did, I must have meant
 before we should have news of my dear boy.”
 
-“You are not well,” said Florence, tenderly. “You have been so very
-anxious I am sure you are not well.”
+“You are not [[Well|well]],” said Florence, tenderly. “You have been so very
+anxious I am sure you are not [[Well|well]].”
 
-“I am as well,” returned the old man, shutting up his right hand, and
-holding it out to show her: “as well and firm as any man at my time of
-life can hope to be. See! It’s steady. Is its master not as capable of
+“I am as [[Well|well]],” returned the old man, shutting up his right hand, and
+holding it out to show her: “as [[Well|well]] and firm as any man at my [[Time|time]] of
+life can [[Hope|hope]] to be. See! It’s steady. Is its master not as capable of
 resolution and fortitude as many a younger man? I think so. We shall
 see.”
 
 There was that in his manner more than in his words, though they
 remained with her too, which impressed Florence so much, that she would
-have confided her uneasiness to Captain Cuttle at that moment, if the
+have confided her uneasiness to [[Captain Cuttle]] at that moment, if the
 Captain had not seized that moment for expounding the state of
 circumstance, on which the opinion of the sagacious Bunsby was
 requested, and entreating that profound authority to deliver the same.
 
 Bunsby, whose eye continued to be addressed to somewhere about the
-half-way house between London and Gravesend, two or three times put out
-his rough right arm, as seeking to wind it for inspiration round the
+half-way [[house]] between [[London]] and Gravesend, two or three times put out
+his rough right arm, as seeking to [[Wind|wind]] it for inspiration round the
 fair form of Miss Nipper; but that young female having withdrawn
 herself, in displeasure, to the opposite side of the table, the soft
 heart of the Commander of the Cautious Clara met with no response to
@@ -894,7 +894,7 @@ were possessed by a gruff spirit:
 
 “My name’s Jack Bunsby!”
 
-“He was christened John,” cried the delighted Captain Cuttle. “Hear
+“He was christened John,” cried the delighted [[Captain Cuttle]]. “Hear
 him!”
 
 “And what I says,” pursued the voice, after some deliberation, “I
@@ -927,14 +927,14 @@ The students of the sage’s precepts, left to their own application of
 his wisdom—upon a principle which was the main leg of the Bunsby
 tripod, as it is perchance of some other oracular stools—looked upon
 one another in a little uncertainty; while Rob the Grinder, who had
-taken the innocent freedom of peering in, and listening, through the
+taken the [[Innocent|innocent]] [[Freedom|freedom]] of peering in, and listening, through the
 skylight in the roof, came softly down from the leads, in a state of
-very dense confusion. Captain Cuttle, however, whose admiration of
+very dense confusion. [[Captain Cuttle]], however, whose admiration of
 Bunsby was, if possible, enhanced by the splendid manner in which he
 had justified his reputation and come through this solemn reference,
 proceeded to explain that Bunsby meant nothing but confidence; that
 Bunsby had no misgivings; and that such an opinion as that man had
-given, coming from such a mind as his, was Hope’s own anchor, with good
+given, coming from such a mind as his, was [[Hope]]’s own anchor, with good
 roads to cast it in. Florence endeavoured to believe that the Captain
 was right; but the Nipper, with her arms tight folded, shook her head
 in resolute denial, and had no more trust in Bunsby than in Mr Perch
@@ -944,22 +944,22 @@ The philosopher seemed to have left Uncle Sol pretty much where he had
 found him, for he still went roaming about the watery world, compasses
 in hand, and discovering no rest for them. It was in pursuance of a
 whisper in his ear from Florence, while the old man was absorbed in
-this pursuit, that Captain Cuttle laid his heavy hand upon his
+this pursuit, that [[Captain Cuttle]] laid his heavy hand upon his
 shoulder.
 
 “What cheer, Sol Gills?” cried the Captain, heartily.
 
 “But so-so, Ned,” returned the Instrument-maker. “I have been
 remembering, all this afternoon, that on the very day when my boy
-entered Dombey’s House, and came home late to dinner, sitting just
-there where you stand, we talked of storm and shipwreck, and I could
+entered Dombey’s [[house|House]], and came [[Home|home]] late to dinner, sitting just
+there where you stand, we talked of [[Storm|storm]] and shipwreck, and I could
 hardly turn him from the subject.”
 
 But meeting the eyes of Florence, which were fixed with earnest
 scrutiny upon his face, the old man stopped and smiled.
 
 “Stand by, old friend!” cried the Captain. “Look alive! I tell you
-what, Sol Gills; arter I’ve convoyed Heart’s-delight safe home,” here
+what, Sol Gills; arter I’ve convoyed Heart’s-delight safe [[Home|home]],” here
 the Captain kissed his hook to Florence, “I’ll come back and take you
 in tow for the rest of this blessed day. You’ll come and eat your
 dinner along with me, Sol, somewheres or another.”
@@ -971,7 +971,7 @@ it!”
 “Why not?” returned the Captain, gazing at him in astonishment.
 
 “I—I have so much to do. I—I mean to think of, and arrange. I couldn’t
-do it, Ned, indeed. I must go out again, and be alone, and turn my mind
+do it, Ned, indeed. I must go out again, and be [[Alone|alone]], and turn my mind
 to many things today.”
 
 The Captain looked at the Instrument-maker, and looked at Florence, and
@@ -989,28 +989,28 @@ good-bye, Ned Cuttle, and God bless you!”
 Squeezing both the Captain’s hands, with uncommon fervour, as he said
 it, the old man turned to Florence, folded hers in his own, and put
 them to his lips; then hurried her out to the coach with very singular
-precipitation. Altogether, he made such an effect on Captain Cuttle
+precipitation. Altogether, he made such an effect on [[Captain Cuttle]]
 that the Captain lingered behind, and instructed Rob to be particularly
 gentle and attentive to his master until the morning: which injunction
 he strengthened with the payment of one shilling down, and the promise
-of another sixpence before noon next day. This kind office performed,
-Captain Cuttle, who considered himself the natural and lawful
-body-guard of Florence, mounted the box with a mighty sense of his
-trust, and escorted her home. At parting, he assured her that he would
+of another sixpence before [[Noon|noon]] next day. This kind office performed,
+[[Captain Cuttle]], who considered himself the natural and lawful
+[[Body|body]]-guard of Florence, mounted the box with a mighty sense of his
+trust, and escorted her [[Home|home]]. At parting, he assured her that he would
 stand by Sol Gills, close and true; and once again inquired of Susan
 Nipper, unable to forget her gallant words in reference to Mrs
 MacStinger, “Would you, do you think my dear, though?”
 
-When the desolate house had closed upon the two, the Captain’s thoughts
+When the desolate [[house]] had closed upon the two, the Captain’s thoughts
 reverted to the old Instrument-maker, and he felt uncomfortable.
-Therefore, instead of going home, he walked up and down the street
+Therefore, instead of going [[Home|home]], he walked up and down the street
 several times, and, eking out his leisure until evening, dined late at
-a certain angular little tavern in the City, with a public parlour like
+a certain angular little tavern in the [[City]], with a public parlour like
 a wedge, to which glazed hats much resorted. The Captain’s principal
 intention was to pass Sol Gills’s, after dark, and look in through the
-window: which he did, The parlour door stood open, and he could see his
+[[Window|window]]: which he did, The parlour door stood open, and he could see his
 old friend writing busily and steadily at the table within, while the
-little Midshipman, already sheltered from the night dews, watched him
+little Midshipman, already sheltered from the [[Night|night]] dews, watched him
 from the counter; under which Rob the Grinder made his own bed,
 preparatory to shutting the shop. Reassured by the tranquillity that
 reigned within the precincts of the wooden mariner, the Captain headed

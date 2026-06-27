@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31 (part 1)"
+title: "[[Shirley]] — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ UNCLE AND NIECE.
 
 
 
-The die was cast. Sir Philip Nunnely knew it; Shirley knew it; Mr.
+The die was cast. Sir Philip Nunnely knew it; [[Shirley]] knew it; Mr.
 
 Sympson knew it. That evening, when all the Fieldhead family dined at
 
@@ -38,9 +38,9 @@ observed that Miss Keeldar looked pensive and delicate. This new phase
 
 in her demeanour smote him on his weak or poetic side. A spontaneous
 
-sonnet brewed in his brain; and while it was still working there, one of
+[[Sonnet|sonnet]] brewed in his brain; and while it was still working there, one of
 
-his sisters persuaded his lady-love to sit down to the piano and sing a
+his sisters persuaded his lady-[[Love|love]] to sit down to the piano and sing a
 
 ballad--one of Sir Philip's own ballads. It was the least elaborate, the
 
@@ -48,9 +48,9 @@ least affected--out of all comparison the best of his numerous efforts.
 
 
 
-It chanced that Shirley, the moment before, had been gazing from a
+It chanced that [[Shirley]], the moment before, had been gazing from a
 
-window down on the park. She had seen that stormy moonlight which "le
+[[Window|window]] down on the park. She had seen that stormy moonlight which "le
 
 Professeur Louis" was perhaps at the same instant contemplating from her
 
@@ -60,7 +60,7 @@ domain--broad, strong, spreading oaks, and high-towering heroic
 
 beeches--wrestling with the gale. Her ear had caught the full roar of
 
-the forest lower down; the swift rushing of clouds, the moon, to the
+the forest lower down; the swift rushing of clouds, the [[Moon|moon]], to the
 
 eye, hasting swifter still, had crossed her vision. She turned from
 
@@ -68,17 +68,17 @@ sight and sound--touched, if not rapt; wakened, if not inspired.
 
 
 
-She sang, as requested. There was much about love in the
+She sang, as requested. There was much about [[Love|love]] in the
 
-ballad--faithful love that refused to abandon its object; love that
+ballad--faithful [[Love|love]] that refused to abandon its object; [[Love|love]] that
 
-disaster could not shake; love that in calamity waxed fonder, in poverty
+disaster could not shake; [[Love|love]] that in calamity waxed fonder, in [[Poverty|poverty]]
 
 clung closer. The words were set to a fine old air; in themselves they
 
 were simple and sweet. Perhaps, when read, they wanted force; when
 
-_well_ sung, they wanted nothing. Shirley sang them well. She breathed
+_well_ sung, they wanted nothing. [[Shirley]] sang them [[Well|well]]. She breathed
 
 into the feeling softness; she poured round the passion force. Her voice
 
@@ -88,7 +88,7 @@ charmed one.
 
 
 
-On leaving the instrument she went to the fire, and sat down on a
+On leaving the instrument she went to the [[Fire|fire]], and sat down on a
 
 seat--semi-stool, semi-cushion. The ladies were round her; none of them
 
@@ -104,7 +104,7 @@ school-girl? Decidedly not. It was strange, it was unusual. What was
 
 _strange_ must be _wrong_; what was _unusual_ must be _improper_.
 
-Shirley was judged.
+[[Shirley]] was judged.
 
 
 
@@ -126,7 +126,7 @@ The room they were in had once been a picture-gallery. Sir Philip's
 
 father--Sir Monckton--had converted it into a saloon; but still it had a
 
-shadowy, long-withdrawing look. A deep recess with a window--a recess
+shadowy, long-withdrawing look. A deep recess with a [[Window|window]]--a recess
 
 that held one couch, one table, and a fairy cabinet--formed a room
 
@@ -140,11 +140,11 @@ Sir Philip induced two of his sisters to perpetrate a duet. He gave
 
 occupation to the Misses Sympson. The elder ladies were conversing
 
-together. He was pleased to remark that meantime Shirley rose to look at
+together. He was pleased to remark that meantime [[Shirley]] [[Rose|rose]] to look at
 
 the pictures. He had a tale to tell about one ancestress, whose dark
 
-beauty seemed as that of a flower of the south. He joined her, and began
+[[Beauty|beauty]] seemed as that of a flower of the south. He joined her, and began
 
 to tell it.
 
@@ -152,7 +152,7 @@ to tell it.
 
 There were mementoes of the same lady in the cabinet adorning the
 
-recess; and while Shirley was stooping to examine the missal and the
+recess; and while [[Shirley]] was stooping to examine the missal and the
 
 rosary on the inlaid shelf, and while the Misses Nunnely indulged in a
 
@@ -166,7 +166,7 @@ so still you might have fancied that whisper a charm which had changed
 
 her to a statue; but she presently looked up and answered. They parted.
 
-Miss Keeldar returned to the fire, and resumed her seat. The baronet
+Miss Keeldar returned to the [[Fire|fire]], and resumed her seat. The baronet
 
 gazed after her, then went and stood behind his sisters. Mr.
 
@@ -180,11 +180,11 @@ meddling, as profound as he was prying, he might have found that in Sir
 
 Philip's face whereby to correct his inference. Ever shallow, hasty, and
 
-positive, he went home quite cock-a-hoop.
+positive, he went [[Home|home]] quite cock-a-hoop.
 
 
 
-He was not a man that kept secrets well. When elate on a subject, he
+He was not a man that kept [[Secrets|secrets]] [[Well|well]]. When elate on a subject, he
 
 could not avoid talking about it. The next morning, having occasion to
 
@@ -200,13 +200,13 @@ in Yorkshire was now on the eve of fortunate completion. His anxious and
 
 laborious efforts were likely, at last, to be crowned with the happiest
 
-success. A truly eligible addition was about to be made to the family
+[[success]]. A truly eligible addition was about to be made to the family
 
 connections.
 
 
 
-"In Sir Philip Nunnely?" Louis Moore conjectured.
+"In Sir Philip Nunnely?" [[Louis Moore]] conjectured.
 
 
 
@@ -222,7 +222,7 @@ For a day or two Mr. Sympson continued as bland as oil, but also he
 
 seemed to sit on pins, and his gait, when he walked, emulated that of a
 
-hen treading a hot girdle. He was for ever looking out of the window and
+hen treading a hot girdle. He was for ever looking out of the [[Window|window]] and
 
 listening for chariot-wheels. Bluebeard's wife--Sisera's mother--were
 

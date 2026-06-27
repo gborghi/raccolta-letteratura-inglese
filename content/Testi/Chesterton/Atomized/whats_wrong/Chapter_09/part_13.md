@@ -18,11 +18,11 @@ tags:
 
 XIV
 
-FOLLY AND FEMALE EDUCATION
+FOLLY AND FEMALE [[Education|EDUCATION]]
 
 It is the same in the case of girls.  I am often solemnly
-asked what I think of the new ideas about female education.
-But there are no new ideas about female education.
+asked what I think of the new ideas about female [[Education|education]].
+But there are no new ideas about female [[Education|education]].
 There is not, there never has been, even the vestige of a new idea.
 All the educational reformers did was to ask what was being done to
 boys and then go and do it to girls; just as they asked what was being
@@ -31,21 +31,21 @@ What they call new ideas are very old ideas in the wrong place.
 Boys play football, why shouldn't girls play football;
 boys have school colors, why shouldn't girls have school-colors;
 boys go in hundreds to day-schools, why shouldn't girls go
-in hundreds to day-schools; boys go to Oxford, why shouldn't
-girls go to Oxford--in short, boys grow mustaches, why shouldn't
+in hundreds to day-schools; boys go to [[Oxford]], why shouldn't
+girls go to [[Oxford]]--in short, boys grow mustaches, why shouldn't
 girls grow mustaches--that is about their notion of a new idea.
 There is no brain-work in the thing at all; no root query
 of what sex is, of whether it alters this or that, and why,
 anymore than there is any imaginative grip of the humor
-and heart of the populace in the popular education.
-There is nothing but plodding, elaborate, elephantine imitation.
+and heart of the populace in the popular [[Education|education]].
+There is nothing but plodding, elaborate, elephantine [[Imitation|imitation]].
 And just as in the case of elementary teaching, the cases are
 of a cold and reckless inappropriateness.  Even a savage could see
 that bodily things, at least, which are good for a man are very likely
 to be bad for a woman.  Yet there is no boy's game, however brutal,
 which these mild lunatics have not promoted among girls.
-To take a stronger case, they give girls very heavy home-work;
-never reflecting that all girls have home-work already in
+To take a stronger case, they give girls very heavy [[Home|home]]-work;
+never reflecting that all girls have [[Home|home]]-work already in
 their homes.  It is all a part of the same silly subjugation;
 there must be a hard stick-up collar round the neck of a woman,
 because it is already a nuisance round the neck of a man.
@@ -54,11 +54,11 @@ would ask for his collar of brass.
 
 It will then be answered, not without a sneer, "And what would
 you prefer?  Would you go back to the elegant early Victorian female,
-with ringlets and smelling-bottle, doing a little in water colors,
+with ringlets and smelling-bottle, doing a little in [[Water|water]] colors,
 dabbling a little in Italian, playing a little on the harp,
 writing in vulgar albums and painting on senseless screens?
 Do you prefer that?"  To which I answer, "Emphatically, yes."
-I solidly prefer it to the new female education, for this reason,
+I solidly prefer it to the new female [[Education|education]], for this reason,
 that I can see in it an intellectual design, while there is
 none in the other.  I am by no means sure that even in point
 of practical fact that elegant female would not have been
@@ -74,14 +74,14 @@ duchesses who were scarcely successful when they painted
 Melrose Abbey, were so much more weak-minded than the modern
 duchesses who paint only their own faces, and are bad at that.
 But that is not the point.  What was the theory, what was the idea,
-in their old, weak water-colors and their shaky Italian?  The idea
-was the same which in a ruder rank expressed itself in home-made
+in their old, weak [[Water|water]]-colors and their shaky Italian?  The idea
+was the same which in a ruder rank expressed itself in [[Home|home]]-made
 wines and hereditary recipes; and which still, in a thousand
 unexpected ways, can be found clinging to the women of the poor.
 It was the idea I urged in the second part of this book:
 that the world must keep one great amateur, lest we all become
 artists and perish.  Somebody must renounce all specialist conquests,
-that she may conquer all the conquerors.  That she may be a queen
+that she may conquer all the conquerors.  That she may be a [[Queen|queen]]
 of life, she must not be a private soldier in it.  I do not think
 the elegant female with her bad Italian was a perfect product,
 any more than I think the slum woman talking gin and funerals
@@ -91,38 +91,38 @@ from nothing and nowhere.  It is right to have an ideal, it is
 right to have the right ideal, and these two have the right ideal.
 The slum mother with her funerals is the degenerate daughter
 of Antigone, the obstinate priestess of the household gods.
-The lady talking bad Italian was the decayed tenth cousin of Portia,
+The lady talking bad Italian was the decayed tenth cousin of [[Portia]],
 the great and golden Italian lady, the Renascence amateur of life,
 who could be a barrister because she could be anything.
-Sunken and neglected in the sea of modern monotony and imitation,
+Sunken and neglected in the sea of modern monotony and [[Imitation|imitation]],
 the types hold tightly to their original truths.  Antigone, ugly,
 dirty and often drunken, will still bury her father.
 The elegant female, vapid and fading away to nothing, still feels
 faintly the fundamental difference between herself and her husband:
-that he must be Something in the City, that she may be everything
+that he must be Something in the [[City]], that she may be everything
 in the country.
 
-There was a time when you and I and all of us were all very close to God;
+There was a [[Time|time]] when you and I and all of us were all very close to God;
 so that even now the color of a pebble (or a paint), the smell of a flower
 (or a firework), comes to our hearts with a kind of authority
 and certainty; as if they were fragments of a muddled message,
 or features of a forgotten face.  To pour that fiery simplicity
-upon the whole of life is the only real aim of education;
-and closest to the child comes the woman--she understands.
+upon the whole of life is the only real aim of [[Education|education]];
+and closest to the [[Child|child]] comes the woman--she understands.
 To say what she understands is beyond me; save only this, that it
 is not a solemnity.  Rather it is a towering levity, an uproarious
 amateurishness of the universe, such as we felt when we were little,
-and would as soon sing as garden, as soon paint as run.  To smatter
+and would as soon sing as [[Garden|garden]], as soon paint as run.  To smatter
 the tongues of men and angels, to dabble in the dreadful sciences,
 to juggle with pillars and pyramids and toss up the planets like balls,
-this is that inner audacity and indifference which the human soul,
+this is that inner audacity and indifference which the human [[Soul|soul]],
 like a conjurer catching oranges, must keep up forever.
-This is that insanely frivolous thing we call sanity.
-And the elegant female, drooping her ringlets over her water-colors, knew
+This is that insanely frivolous thing we call [[Sanity|sanity]].
+And the elegant female, drooping her ringlets over her [[Water|water]]-colors, knew
 it and acted on it.  She was juggling with frantic and flaming suns.
 She was maintaining the bold equilibrium of inferiorities which is
-the most mysterious of superiorities and perhaps the most unattainable.
-She was maintaining the prime truth of woman, the universal mother:
+the most mysterious of superiorities and perhaps the most [[Unattainable|unattainable]].
+She was maintaining the prime [[Truth|truth]] of woman, the universal mother:
 that if a thing is worth doing, it is worth doing badly.
 
 * * *

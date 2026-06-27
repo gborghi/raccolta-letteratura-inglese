@@ -18,14 +18,14 @@ tags:
 
 ‘Certainly,’ replied Budden, adding in an under-tone to Minns right
 across the table, ‘Devilish sharp fellow that: you’ll be very much
-pleased with his speech. He talks equally well on any subject.’ Minns
-bowed, and Mr. Jones proceeded:
+pleased with his speech. He talks equally [[Well|well]] on any subject.’ Minns
+bowed, and Mr. [[Jones]] proceeded:
 
 ‘It has on several occasions, in various instances, under many
 circumstances, and in different companies, fallen to my lot to propose
-a toast to those by whom, at the time, I have had the honour to be
+a toast to those by whom, at the [[Time|time]], I have had the [[Honour|honour]] to be
 surrounded, I have sometimes, I will cheerfully own—for why should I
-deny it?—felt the overwhelming nature of the task I have undertaken,
+deny it?—felt the overwhelming [[Nature|nature]] of the task I have undertaken,
 and my own utter incapability to do justice to the subject. If such
 have been my feelings, however, on former occasions, what must they be
 now—now—under the extraordinary circumstances in which I am placed.
@@ -36,11 +36,11 @@ mind at the moment. On one occasion, when that truly great and
 illustrious man, Sheridan, was—’
 
 Now, there is no knowing what new villainy in the form of a joke would
-have been heaped on the grave of that very ill-used man, Mr. Sheridan,
+have been heaped on the [[Grave|grave]] of that very ill-used man, Mr. Sheridan,
 if the boy in drab had not at that moment entered the room in a
-breathless state, to report that, as it was a very wet night, the nine
-o’clock stage had come round, to know whether there was anybody going
-to town, as, in that case, he (the nine o’clock) had room for one
+breathless state, to report that, as it was a very wet [[Night|night]], the nine
+o’[[Clock|clock]] stage had come round, to know whether there was anybody going
+to town, as, in that case, he (the nine o’[[Clock|clock]]) had room for one
 inside.
 
 Mr. Minns started up; and, despite countless exclamations of surprise,
@@ -50,13 +50,13 @@ as the coachman couldn’t wait, he drove back to the Swan, leaving word
 for Mr. Minns to ‘run round’ and catch him. However, as it did not
 occur to Mr. Minns for some ten minutes or so, that he had left the
 brown silk umbrella with the ivory handle in the other coach, coming
-down; and, moreover, as he was by no means remarkable for speed, it is
+down; and, moreover, as he was by no means remarkable for [[Speed|speed]], it is
 no matter of surprise that when he accomplished the feat of ‘running
 round’ to the Swan, the coach—the last coach—had gone without him.
 
-It was somewhere about three o’clock in the morning, when Mr. Augustus
+It was somewhere about three o’[[Clock|clock]] in the morning, when Mr. Augustus
 Minns knocked feebly at the street-door of his lodgings in
-Tavistock-street, cold, wet, cross, and miserable. He made his will
+Tavistock-street, cold, wet, [[Cross|cross]], and miserable. He made his will
 next morning, and his professional man informs us, in that strict
 confidence in which we inform the public, that neither the name of Mr.
 Octavius Budden, nor of Mrs. Amelia Budden, nor of Master Alexander

@@ -18,28 +18,28 @@ Public opinion! what class of men have an immense preponderance over the
 rest of the community, in their power of representing public opinion in
 the legislature? the slave-owners.  They send from their twelve States
 one hundred members, while the fourteen free States, with a free
-population nearly double, return but a hundred and forty-two.  Before
+population nearly [[Double|double]], return but a hundred and forty-two.  Before
 whom do the presidential candidates bow down the most humbly, on whom do
 they fawn the most fondly, and for whose tastes do they cater the most
 assiduously in their servile protestations?  The slave-owners always.
 
 Public opinion! hear the public opinion of the free South, as expressed
-by its own members in the House of Representatives at Washington.  ‘I
+by its own members in the [[house|House]] of Representatives at Washington.  ‘I
 have a great respect for the chair,’ quoth North Carolina, ‘I have a
-great respect for the chair as an officer of the house, and a great
+great respect for the chair as an officer of the [[house]], and a great
 respect for him personally; nothing but that respect prevents me from
 rushing to the table and tearing that petition which has just been
-presented for the abolition of slavery in the district of Columbia, to
+presented for the abolition of [[Slavery|slavery]] in the district of Columbia, to
 pieces.’—‘I warn the abolitionists,’ says South Carolina, ‘ignorant,
 infuriated barbarians as they are, that if chance shall throw any of them
-into our hands, he may expect a felon’s death.’—‘Let an abolitionist come
+into our hands, he may expect a felon’s [[Death|death]].’—‘Let an abolitionist come
 within the borders of South Carolina,’ cries a third; mild Carolina’s
 colleague; ‘and if we can catch him, we will try him, and notwithstanding
 the interference of all the governments on earth, including the Federal
-government, we will HANG him.’
+[[government]], we will HANG him.’
 
 Public opinion has made this law.—It has declared that in Washington, in
-that city which takes its name from the father of American liberty, any
+that [[City|city]] which takes its name from the father of American liberty, any
 justice of the peace may bind with fetters any negro passing down the
 street and thrust him into jail: no offence on the black man’s part is
 necessary.  The justice says, ‘I choose to think this man a runaway:’ and
@@ -49,11 +49,11 @@ claim him, or he will be sold to pay the jail fees.  But supposing he is
 a free black, and has no owner, it may naturally be presumed that he is
 set at liberty.  No: HE IS SOLD TO RECOMPENSE HIS JAILER.  This has been
 done again, and again, and again.  He has no means of proving his
-freedom; has no adviser, messenger, or assistance of any sort or kind; no
+[[Freedom|freedom]]; has no adviser, messenger, or assistance of any sort or kind; no
 investigation into his case is made, or inquiry instituted.  He, a free
 man, who may have served for years, and bought his liberty, is thrown
 into jail on no process, for no crime, and on no pretence of crime: and
-is sold to pay the jail fees.  This seems incredible, even of America,
+is sold to pay the jail fees.  This seems incredible, even of [[America]],
 but it is the law.
 
 Public opinion is deferred to, in such cases as the following: which is
@@ -61,10 +61,10 @@ headed in the newspapers:—
 
                            ‘_Interesting Law-Case_.
 
-    ‘An interesting case is now on trial in the Supreme Court, arising
+    ‘An interesting case is now on trial in the Supreme [[Court]], arising
     out of the following facts.  A gentleman residing in Maryland had
     allowed an aged pair of his slaves, substantial though not legal
-    freedom for several years.  While thus living, a daughter was born to
+    [[Freedom|freedom]] for several years.  While thus living, a daughter was born to
     them, who grew up in the same liberty, until she married a free
     negro, and went with him to reside in Pennsylvania.  They had several
     children, and lived unmolested until the original owner died, when
@@ -79,9 +79,9 @@ crowded journals.  Woodcuts of a runaway negro with manacled hands,
 crouching beneath a bluff pursuer in top boots, who, having caught him,
 grasps him by the throat, agreeably diversify the pleasant text.  The
 leading article protests against ‘that abominable and hellish doctrine of
-abolition, which is repugnant alike to every law of God and nature.’  The
+abolition, which is repugnant alike to every law of God and [[Nature|nature]].’  The
 delicate mamma, who smiles her acquiescence in this sprightly writing as
-she reads the paper in her cool piazza, quiets her youngest child who
+she reads the paper in her cool piazza, quiets her youngest [[Child|child]] who
 clings about her skirts, by promising the boy ‘a whip to beat the little
 niggers with.’—But the negroes, little and big, are protected by public
 opinion.
@@ -91,13 +91,13 @@ three points of view: first, as showing how desperately timid of the
 public opinion slave-owners are, in their delicate descriptions of
 fugitive slaves in widely circulated newspapers; secondly, as showing how
 perfectly contented the slaves are, and how very seldom they run away;
-thirdly, as exhibiting their entire freedom from scar, or blemish, or any
+thirdly, as exhibiting their entire [[Freedom|freedom]] from scar, or blemish, or any
 mark of cruel infliction, as their pictures are drawn, not by lying
 abolitionists, but by their own truthful masters.
 
 The following are a few specimens of the advertisements in the public
 papers.  It is only four years since the oldest among them appeared; and
-others of the same nature continue to be published every day, in shoals.
+others of the same [[Nature|nature]] continue to be published every day, in shoals.
 
     ‘Ran away, Negress Caroline.  Had on a collar with one prong turned
     down.’

@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 16 (part 2)"
+title: "[[Emma]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“I went only to the post-office,” said she, “and reached home before
+“I went only to the post-office,” said she, “and reached [[Home|home]] before
 the rain was much. It is my daily errand. I always fetch the letters
 when I am here. It saves trouble, and is a something to get me out. A
 walk before breakfast does me good.”
@@ -34,7 +34,7 @@ going through the rain for.”
 
 There was a little blush, and then this answer,
 
-“I must not hope to be ever situated as you are, in the midst of every
+“I must not [[Hope|hope]] to be ever situated as you are, in the midst of every
 dearest connexion, and therefore I cannot expect that simply growing
 older should make me indifferent about letters.”
 
@@ -43,27 +43,27 @@ Letters are no matter of indifference; they are generally a very
 positive curse.”
 
 “You are speaking of letters of business; mine are letters of
-friendship.”
+[[Friendship|friendship]].”
 
 “I have often thought them the worst of the two,” replied he coolly.
-“Business, you know, may bring money, but friendship hardly ever does.”
+“Business, you know, may bring money, but [[Friendship|friendship]] hardly ever does.”
 
-“Ah! you are not serious now. I know Mr. John Knightley too well—I am
-very sure he understands the value of friendship as well as any body. I
+“Ah! you are not serious now. I know Mr. John Knightley too [[Well|well]]—I am
+very sure he understands the value of [[Friendship|friendship]] as [[Well|well]] as any [[Body|body]]. I
 can easily believe that letters are very little to you, much less than
 to me, but it is not your being ten years older than myself which makes
-the difference, it is not age, but situation. You have every body
+the difference, it is not age, but situation. You have every [[Body|body]]
 dearest to you always at hand, I, probably, never shall again; and
 therefore till I have outlived all my affections, a post-office, I
 think, must always have power to draw me out, in worse weather than
 to-day.”
 
-“When I talked of your being altered by time, by the progress of
+“When I talked of your being altered by [[Time|time]], by the progress of
 years,” said John Knightley, “I meant to imply the change of situation
-which time usually brings. I consider one as including the other. Time
+which [[Time|time]] usually brings. I consider one as including the other. [[Time]]
 will generally lessen the interest of every attachment not within the
 daily circle—but that is not the change I had in view for you. As an
-old friend, you will allow me to hope, Miss Fairfax, that ten years
+old friend, you will allow me to [[Hope|hope]], Miss Fairfax, that ten years
 hence you may have as many concentrated objects as I have.”
 
 It was kindly said, and very far from giving offence. A pleasant “thank
@@ -83,16 +83,16 @@ complexion. My dear, did you change your stockings?”
 solicitude about me.”
 
 “My dear Miss Fairfax, young ladies are very sure to be cared for.—I
-hope your good grand-mama and aunt are well. They are some of my very
+[[Hope|hope]] your good grand-mama and aunt are [[Well|well]]. They are some of my very
 old friends. I wish my health allowed me to be a better neighbour. You
-do us a great deal of honour to-day, I am sure. My daughter and I are
+do us a great deal of [[Honour|honour]] to-day, I am sure. My daughter and I are
 both highly sensible of your goodness, and have the greatest
 satisfaction in seeing you at Hartfield.”
 
 The kind-hearted, polite old man might then sit down and feel that he
 had done his duty, and made every fair lady welcome and easy.
 
-By this time, the walk in the rain had reached Mrs. Elton, and her
+By this [[Time|time]], the walk in the rain had reached Mrs. Elton, and her
 remonstrances now opened upon Jane.
 
 “My dear Jane, what is this I hear?—Going to the post-office in the
@@ -109,7 +109,7 @@ authority.”
 “My advice,” said Mrs. Weston kindly and persuasively, “I certainly do
 feel tempted to give. Miss Fairfax, you must not run such risks.—Liable
 as you have been to severe colds, indeed you ought to be particularly
-careful, especially at this time of year. The spring I always think
+careful, especially at this [[Time|time]] of year. The [[spring]] I always think
 requires more than common care. Better wait an hour or two, or even
 half a day for your letters, than run the risk of bringing on your
 cough again. Now do not you feel that you had? Yes, I am sure you are

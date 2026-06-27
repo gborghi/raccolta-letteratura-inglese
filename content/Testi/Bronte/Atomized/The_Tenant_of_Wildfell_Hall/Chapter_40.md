@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 40"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 40"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -38,7 +38,7 @@ wrested it from me, and, drawing a chair to the table, composedly sat
 
 down to examine it: turning back leaf after leaf to find an explanation
 
-of what he had read. Unluckily for me, he was more sober that night
+of what he had read. Unluckily for me, he was more sober that [[Night|night]]
 
 than he usually is at such an hour.
 
@@ -54,11 +54,11 @@ mean and dishonourable conduct, but that had no effect upon him; and,
 
 finally, I extinguished both the candles, but he only wheeled round to
 
-the fire, and raising a blaze sufficient for his purposes, calmly
+the [[Fire|fire]], and raising a blaze sufficient for his purposes, calmly
 
 continued the investigation. I had serious thoughts of getting a
 
-pitcher of water and extinguishing that light too; but it was evident
+pitcher of [[Water|water]] and extinguishing that light too; but it was evident
 
 his curiosity was too keenly excited to be quenched by that, and the
 
@@ -68,11 +68,11 @@ be his determination to persist in it, besides it was too late.
 
 
 
-“It seems very interesting, love,” said he, lifting his head and
+“It seems very interesting, [[Love|love]],” said he, lifting his head and
 
 turning to where I stood, wringing my hands in silent rage and anguish;
 
-“but it’s rather long; I’ll look at it some other time; and meanwhile
+“but it’s rather long; I’ll look at it some other [[Time|time]]; and meanwhile
 
 I’ll trouble you for your keys, my dear.”
 
@@ -114,7 +114,7 @@ upon them, and taking them from the desk, as I thought, unobserved.
 
 rudely abstracting them from it. He then took up one of the candles and
 
-relighted it by thrusting it into the fire.
+relighted it by thrusting it into the [[Fire|fire]].
 
 
 
@@ -134,7 +134,7 @@ together on the corner table, ready for to-morrow’s use, and only
 
 covered with a cloth. He soon spied them out, and putting down the
 
-candle, deliberately proceeded to cast them into the fire: palette,
+candle, deliberately proceeded to cast them into the [[Fire|fire]]: palette,
 
 paints, bladders, pencils, brushes, varnish: I saw them all consumed:
 
@@ -146,7 +146,7 @@ and roaring up the chimney. He then rang the bell.
 
 “Benson, take those things away,” said he, pointing to the easel,
 
-canvas, and stretcher; “and tell the housemaid she may kindle the fire
+canvas, and stretcher; “and tell the housemaid she may kindle the [[Fire|fire]]
 
 with them: your mistress won’t want them any more.”
 
@@ -190,7 +190,7 @@ Did _ever_ any mortal see such eyes?—they shine in the dark like a
 
 cat’s. _Oh_, you’re a sweet one!” So saying, he gathered up the candle
 
-and the candlestick. The former being broken as well as extinguished,
+and the candlestick. The former being broken as [[Well|well]] as extinguished,
 
 he rang for another.
 
@@ -224,7 +224,7 @@ future, for your own private expenses; and you needn’t trouble yourself
 
 any more about my concerns; I shall look out for a steward, my dear—I
 
-won’t expose you to the temptation. And as for the household matters,
+won’t expose you to the [[Temptation|temptation]]. And as for the household matters,
 
 Mrs. Greaves must be very particular in keeping her accounts; we must
 
@@ -240,21 +240,21 @@ attempted to defraud you?”
 
 “Not in money matters, exactly, it seems; but it’s best to keep out of
 
-the way of temptation.”
+the way of [[Temptation|temptation]].”
 
 
 
 Here Benson entered with the candles, and there followed a brief
 
-interval of silence; I sitting still in my chair, and he standing with
+interval of [[Silence|silence]]; I sitting still in my chair, and he standing with
 
-his back to the fire, silently triumphing in my despair.
+his back to the [[Fire|fire]], silently triumphing in my [[Despair|despair]].
 
 
 
 “And so,” said he at length, “you thought to disgrace me, did you, by
 
-running away and turning artist, and supporting yourself by the labour
+running away and turning [[artist]], and supporting yourself by the labour
 
 of your hands, forsooth? And you thought to rob me of my son, too, and
 
@@ -268,13 +268,13 @@ painter?”
 
 
 
-“It’s well you couldn’t keep your own secret—ha, ha! It’s well these
+“It’s [[Well|well]] you couldn’t keep your own secret—ha, ha! It’s [[Well|well]] these
 
 women must be blabbing. If they haven’t a friend to talk to, they must
 
-whisper their secrets to the fishes, or write them on the sand, or
+whisper their [[Secrets|secrets]] to the fishes, or write them on the sand, or
 
-something; and it’s well, too, I wasn’t over full to-night, now I think
+something; and it’s [[Well|well]], too, I wasn’t over full to-[[Night|night]], now I think
 
 of it, or I might have snoozed away and never dreamt of looking what my
 
@@ -284,7 +284,7 @@ carry my point like a man, as I have done.”
 
 
 
-Leaving him to his self-congratulations, I rose to secure my
+Leaving him to his [[Self|self]]-congratulations, I [[Rose|rose]] to secure my
 
 manuscript, for I now remembered it had been left upon the drawing-room
 
@@ -298,17 +298,17 @@ he would find little good of himself therein indited, except in the
 
 former part; and oh, I would sooner burn it all than he should read
 
-what I had written when I was such a fool as to love him!
+what I had written when I was such a [[Fool|fool]] as to [[Love|love]] him!
 
 
 
 “And by-the-by,” cried he, as I was leaving the room, “you’d better
 
-tell that d—d old sneak of a nurse to keep out of my way for a day or
+tell that d—d old sneak of a [[Nurse|nurse]] to keep out of my way for a day or
 
 two; I’d pay her her wages and send her packing to-morrow, but I know
 
-she’d do more mischief out of the house than in it.”
+she’d do more mischief out of the [[house]] than in it.”
 
 
 
@@ -320,17 +320,17 @@ I went to her as soon as I had put away my book, and told her how our
 
 project was defeated. She was as much distressed and horrified as I
 
-was—and more so than I was that night, for I was partly stunned by the
+was—and more so than I was that [[Night|night]], for I was partly stunned by the
 
 blow, and partly excited and supported against it by the bitterness of
 
-my wrath. But in the morning, when I woke without that cheering hope
+my wrath. But in the morning, when I woke without that cheering [[Hope|hope]]
 
 that had been my secret comfort and support so long, and all this day,
 
 when I have wandered about restless and objectless, shunning my
 
-husband, shrinking even from my child, knowing that I am unfit to be
+husband, shrinking even from my [[Child|child]], knowing that I am unfit to be
 
 his teacher or companion, hoping nothing for his future life, and
 
@@ -340,17 +340,17 @@ calamity, and I feel it now. I know that day after day such feelings
 
 will return upon me. I am a slave—a prisoner—but that is nothing; if it
 
-were myself alone I would not complain, but I am forbidden to rescue my
+were myself [[Alone|alone]] I would not complain, but I am forbidden to rescue my
 
 son from ruin, and what was once my only consolation is become the
 
-crowning source of my despair.
+crowning source of my [[Despair|despair]].
 
 
 
-Have I no faith in God? I try to look to Him and raise my heart to
+Have I no [[Faith|faith]] in God? I try to look to Him and raise my heart to
 
-heaven, but it will cleave to the dust. I can only say, “He hath hedged
+heaven, but it will cleave to the [[Dust|dust]]. I can only say, “He hath hedged
 
 me about, that I cannot get out: He hath made my chain heavy. He hath
 
@@ -364,9 +364,9 @@ willingly nor grieve the children of men.” I ought to think of this;
 
 and if there be nothing but sorrow for me in this world, what is the
 
-longest life of misery to a whole eternity of peace? And for my little
+longest life of misery to a whole [[Eternity|eternity]] of peace? And for my little
 
-Arthur—has he no friend but me? Who was it said, “It is not the will of
+[[arthur|Arthur]]—has he no friend but me? Who was it said, “It is not the will of
 
 your Father which is in heaven that one of these little ones should
 

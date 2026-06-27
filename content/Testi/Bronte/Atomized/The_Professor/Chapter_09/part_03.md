@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 8 (part 3)"
+title: "[[The Professor]] — Chapter 8 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ step over this afternoon, and sound Madame Pelet as to the possibility
 
 of engaging you. Zoraide is a wary general; she never advances without
 
-first examining well her ground. I don’t think she would be pleased
+first examining [[Well|well]] her ground. I don’t think she would be pleased
 
 if she knew I had already disclosed her intentions to you; she did not
 
@@ -50,7 +50,7 @@ Pelet will mention the subject of your giving lessons in my daughter’s
 
 establishment to her son, and he will speak to you; and then to-morrow,
 
-you will step over to our house, and ask to see my daughter, and you
+you will step over to our [[house]], and ask to see my daughter, and you
 
 will introduce the subject as if the first intimation of it had reached
 
@@ -64,7 +64,7 @@ would not displease Zoraide on any account.”
 
 began to bore me very much; “I will consult M. Pelet, and the thing
 
-shall be settled as you desire. Good evening, mesdames--I am infinitely
+shall be settled as you [[Desire|desire]]. Good evening, mesdames--I am infinitely
 
 obliged to you.”
 
@@ -102,6 +102,6 @@ would be an occupation so interesting--to be admitted at all into a
 
 ladies’ boarding-school would be an incident so new in my life. Besides,
 
-thought I, as I glanced at the boarded window, “I shall now at last see
+thought I, as I glanced at the boarded [[Window|window]], “I shall now at last see
 
-the mysterious garden: I shall gaze both on the angels and their Eden.”
+the mysterious [[Garden|garden]]: I shall gaze both on the angels and their Eden.”

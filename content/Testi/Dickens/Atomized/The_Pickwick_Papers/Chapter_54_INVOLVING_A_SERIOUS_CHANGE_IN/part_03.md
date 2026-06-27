@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -24,7 +24,7 @@ was followed by a louder one.
 ‘Hollo!’ said the elder Mr. Weller, dropping the poker as he looked
 round, and hastily drew his chair away. ‘Wot’s the matter now?’
 
-‘Have a cup of tea, there’s a good soul,’ replied the buxom female
+‘Have a cup of tea, there’s a good [[Soul|soul]],’ replied the buxom female
 coaxingly.
 
 ‘I von’t,’ replied Mr. Weller, in a somewhat boisterous manner. ‘I’ll
@@ -37,7 +37,7 @@ looking upwards.
 ‘It’s the only thing ‘twixt this and the doctor as shall change my
 condition,’ muttered Mr. Weller.
 
-‘I really never saw a man so cross,’ said the buxom female.
+‘I really never saw a man so [[Cross|cross]],’ said the buxom female.
 
 ‘Never mind. It’s all for my own good; vich is the reflection vith vich
 the penitent school-boy comforted his feelin’s ven they flogged him,’
@@ -58,10 +58,10 @@ speaker, putting her hand before her mouth, coughed again, and looked
 affectionately at the elder Mr. Weller.
 
 ‘As I don’t rekvire any o’ your conversation just now, mum, vill you
-have the goodness to re-tire?’ inquired Mr. Weller, in a grave and
+have the goodness to re-tire?’ inquired Mr. Weller, in a [[Grave|grave]] and
 steady voice.
 
-‘Well, Mr. Weller,’ said the buxom female, ‘I’m sure I only spoke to you
+‘[[Well]], Mr. Weller,’ said the buxom female, ‘I’m sure I only spoke to you
 out of kindness.’
 
 ‘Wery likely, mum,’ replied Mr. Weller. ‘Samivel, show the lady out, and
@@ -71,7 +71,7 @@ This hint was not lost upon the buxom female; for she at once left the
 room, and slammed the door behind her, upon which Mr. Weller, senior,
 falling back in his chair in a violent perspiration, said--
 
-‘Sammy, if I wos to stop here alone vun week--only vun week, my boy--
+‘Sammy, if I wos to stop here [[Alone|alone]] vun week--only vun week, my boy--
 that ‘ere ‘ooman ‘ud marry me by force and wiolence afore it was over.’
 
 ‘Wot! is she so wery fond on you?’ inquired Sam.
@@ -82,10 +82,10 @@ to get at me, Sammy.’
 
 ‘Wot a thing it is to be so sought arter!’ observed Sam, smiling.
 
-‘I don’t take no pride out on it, Sammy,’ replied Mr. Weller, poking the
-fire vehemently, ‘it’s a horrid sitiwation. I’m actiwally drove out o’
-house and home by it. The breath was scarcely out o’ your poor mother-
-in-law’s body, ven vun old ‘ooman sends me a pot o’ jam, and another a
+‘I don’t take no [[Pride|pride]] out on it, Sammy,’ replied Mr. Weller, poking the
+[[Fire|fire]] vehemently, ‘it’s a horrid sitiwation. I’m actiwally drove out o’
+[[house]] and [[Home|home]] by it. The breath was scarcely out o’ your poor mother-
+in-law’s [[Body|body]], ven vun old ‘ooman sends me a pot o’ jam, and another a
 pot o’ jelly, and another brews a blessed large jug o’ camomile-tea,
 vich she brings in vith her own hands.’ Mr. Weller paused with an aspect
 of intense disgust, and looking round, added in a whisper, ‘They wos all
@@ -144,7 +144,7 @@ more summoning up a meditative expression of countenance, continued as
 follows--
 
 ‘Therefore, my boy, as I do not see the adwisability o’ stoppin here to
-be married vether I vant to or not, and as at the same time I do not
+be married vether I vant to or not, and as at the same [[Time|time]] I do not
 vish to separate myself from them interestin’ members o’ society
 altogether, I have come to the determination o’ driving the Safety, and
 puttin’ up vunce more at the Bell Savage, vich is my nat’ral born

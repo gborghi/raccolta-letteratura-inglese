@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act III, Scene 6 — exchange (KING HARRY) [4]"
+title: "[[Henry V]] — Act III, Scene 6 — exchange ([[King|KING]] HARRY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING HARRY | What is thy name? I know thy quality. |
+| [[King|KING]] HARRY | What is thy name? I know thy quality. |
 | MONTJOY | Montjoy. |

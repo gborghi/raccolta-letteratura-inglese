@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act III, Scene 1 — exchange (dialogue) [1]"
+title: "[[Richard II]] — Act III, Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Bolingbroke Duke of Lancaster and Hereford, the Duke of York, the Earl of Northumberland, Lord Ross, Harry Percy, and Lord Willoughby |
+| *(didascalia)* | Enter Bolingbroke Duke of Lancaster and Hereford, the [[Duke of York]], the [[Earl of Northumberland]], Lord Ross, Harry Percy, and Lord Willoughby |

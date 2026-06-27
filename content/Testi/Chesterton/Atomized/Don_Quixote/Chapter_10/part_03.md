@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 9 (part 3)"
+title: "[[Don Quixote]] — Chapter 9 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,7 +21,7 @@ helped you a great deal in making these colours?"
 
 The old gentleman shook his head thoughtfully.
 
-"Chemistry alone would hardly have taught me all I know," he said.
+"Chemistry [[Alone|alone]] would hardly have taught me all I know," he said.
 "It is a question of optics.  It is a question of physiology."
 He suddenly thrust his beard across the table and said rapidly in a
 hissing voice, "It is even more a question of pathological psychology."
@@ -74,7 +74,7 @@ Colour-blindness. You mean that all this has arisen because
 nearly everybody is colour-blind."
 
 "Nearly everybody subjected to the peculiar conditions of this period
-of the earth's history," corrected the doctor in a kindly manner.
+of the earth's [[history]]," corrected the doctor in a kindly manner.
 "As to the duration of the epidemic, or its possible periodicity,
 that is another matter.  If you would care to see a number of notes
 I have compiled--"
@@ -88,7 +88,7 @@ to celebrate the occasion of his becoming colour-blind."
 said Dr. Hendry, "and it seems to me that my hypothesis holds the field."
 
 "It seems to me that the big shop holds the field," said Murrel,
-"and I wonder whether that shop girl who offered me chalks and red
+"and I [[Wonder|wonder]] whether that shop girl who offered me chalks and red
 ink knows about her scientific origin."
 
 "I remember my old friend Potter used to say," observed the other,
@@ -113,9 +113,9 @@ He was moving towards the door, when he was suddenly stopped
 by an almost startling transformation in the young lady.
 She still stood in a rather rigid fashion behind her father's chair.
 But her eyes, which were both dark and bright, shifted and shot,
-as it were, in a shining obliquity towards the window; and every line in
+as it were, in a shining obliquity towards the [[Window|window]]; and every line in
 her not ungraceful figure turned into a straight line like a steel rod.
-In the dead silence a sound could be heard through the half-open window.
+In the dead [[Silence|silence]] a sound could be heard through the half-open [[Window|window]].
 It was the sound of the large and lumbering wheels of the antiquated
 hansom cab drawing up at the door.
 
@@ -132,7 +132,7 @@ which in practice only swept over the poor streets, had given medical
 and other officials very abrupt and arbitrary powers over people supposed
 to fall short of the full efficiency of the manager of the stores.
 He thought it only too likely that the discoverer of the remarkable
-scientific theory of colour-blindness as a cause of social decay
+scientific theory of colour-blindness as a cause of social [[Decay|decay]]
 might appear to fall short of that efficiency.  Indeed, it would
 even seem that his own daughter thought so, from her desperate
 efforts to steer the poor old gentleman away from the topic.

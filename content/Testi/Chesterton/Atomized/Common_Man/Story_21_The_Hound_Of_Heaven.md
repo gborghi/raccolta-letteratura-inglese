@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Hound Of Heaven"
+title: "[[Common Man]] — The Hound Of Heaven"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -39,7 +39,7 @@ that he calls a spade a spade, and generally calls it a spyde.
 But even he may have to deal with the learned and sophisticated man,
 who will prove to him, that even in the case of the ace of spades
 which he planks down in playing poker, the spade is not really
-a spade; being derived from the Spanish espada, a sword.
+a spade; being derived from the Spanish espada, a [[Sword|sword]].
 If once we begin to quibble and quarrel about what words ought to mean
 or can be made to mean we shall find ourselves in a mere world
 of words, most wearisome to those who are concerned with thoughts.
@@ -68,7 +68,7 @@ but a personal Creator in relation to a personal creature.
 It may be, and indeed is, a generous and charitable mood to look
 out on all the multitudes of men with sympathy and social loyalty.
 But it was not the multitudes of men that were pursuing
-the hero of this poem "down the nights and down the days".
+the [[Hero|hero]] of this poem "down the nights and down the days".
 It may be a good thing for men to look forward to mankind
 someday producing a superior being, thousands of years hence,
 who will be like a god compared with the common mass of men.
@@ -88,7 +88,7 @@ This is where the practical habit of speech, among our religious
 ancestors of all religions, proves its validity and veracity.
 Francis Thompson was a Catholic, and a very Catholic Catholic.
 In some aspects of art, poetry and pomp, the Catholic is more akin to
-the pagan; in some aspects of philosophy and logic (though this is little
+the pagan; in some aspects of [[philosophy]] and [[logic]] (though this is little
 understood), he has more sympathy with the sceptic or the agnostic.
 But in the solid central fact of the subject or subject-matter he is
 still something utterly separate from sceptics and even from pagans;
@@ -102,7 +102,7 @@ for he has never been near enough to God to run away from Him.
 
 Now the next point of interest is that this poem of purely
 personal religion, so directly devotional, so dogmatically orthodox,
-appeared at a time when it might least be expected, and at the end
+appeared at a [[Time|time]] when it might least be expected, and at the end
 of an historical process that might have seemed to make it impossible.
 The nineteenth century had been, at least on the surface, one triumphal
 procession of progress, away from these theological relations,
@@ -111,8 +111,8 @@ living which seemed to be more and more broad.  We might say
 that the poets had led the procession, for even at the beginning
 of the nineteenth century Shelley and Landor and Byron and Keats had
 moved in various ways towards a pantheistic paganism; and the tendency
-was continued by Victor Hugo in Europe and by Walt Whitman in America.
-There were, of course, continual cross-currents and confusions.
+was continued by Victor Hugo in Europe and by Walt Whitman in [[america|America]].
+There were, of course, continual [[Cross|cross]]-currents and confusions.
 Even an appeal to pantheism is something like an appeal to theism,
 and it was difficult to imitate the pagans without discovering,
 like St. Paul, that they were very religious.  The contradiction
@@ -120,40 +120,40 @@ came out quaintly in the case of Swinburne, who was always trying
 to prove that he was an atheist by invoking about ten different
 gods in a style exactly copied from the Old Testament.
 
-Roughly speaking, however, I myself remember fairly well the curious
+Roughly speaking, however, I myself remember fairly [[Well|well]] the curious
 cultural conditions in which the genius of Francis Thompson arose;
-for, though I was a boy at the time, a boy can sometimes absorb
+for, though I was a boy at the [[Time|time]], a boy can sometimes absorb
 the atmosphere of a society, with the same subtle subconscious
-instinct with which a child can absorb the atmosphere of a house.
+instinct with which a [[Child|child]] can absorb the atmosphere of a [[house]].
 I read all the minor poets; and it was specially an age of minor poets.
 The curious thing is that Francis Thompson was considered,
 criticised, appreciated or admired as one of the minor poets.
-I can remember Mr. Richard Le Gallienne, who is one of the survivors
+I can remember Mr. [[Richard]] Le Gallienne, who is one of the survivors
 of that epoch, defending himself with spirit, but with a certain air
 of audacity, against the charge of fulsome exaggeration in saying
-that there was in the poems of this Mr. Thompson an Elizabethan
+that there was in the [[Poems|poems]] of this Mr. Thompson an Elizabethan
 richness and sometimes almost a Shakespearian splendour.
 Mr. Le Gallienne was quite right; but the main point is that his defence
 was a general defence of minor poets, and of this poet as a minor poet.
 It had hardly occurred to the world in general that Francis Thompson
-was a major poet; we might almost say a major prophet.
+was a major poet; we might almost say a major [[Prophet|prophet]].
 There was in all that world of culture an atmosphere of paganism
 that had worn rather thin.  But hardly anybody thought that
 the future of poetry could be anything but a future of paganism.
-It was then, in the slowly deepening silence, as in the poem
+It was then, in the slowly deepening [[Silence|silence]], as in the poem
 of Coventry Patmore, that there was first heard, afar off,
 the baying of a hound.
 
 That is the primary point about the work of Francis Thompson;
 even before its many-coloured pageant of images and words.
-The awakening of the domini canes, the Dogs of God, meant that
+The awakening of the domini canes, the [[dogs|Dogs]] of God, meant that
 the hunt was up once more; the hunt for the souls of men;
 and that religion of that realistic sort was anything but dead.
 In Patmore's poem the dog is "an old guard-hound"; and we may say,
 without irreverence, that the first impression or lesson was that there
-is life in the old dog yet.  In any case, it was an event of history,
+is life in the old dog yet.  In any case, it was an event of [[history]],
 as much as an event of literature, when personal religion returned
-suddenly with something of the power of Dante or the Dies Irae,
+suddenly with something of the power of [[Dante]] or the Dies Irae,
 after a century in which such religion had seemed to grow more weak
 and provincial, and more and more impersonal religions appeared
 to possess the future.  And those who best understand the world

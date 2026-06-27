@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T has already been explained that Pavonia was governed on enlightened (part 1)"
+title: "[[FourFaultlessFelons]] — T has already been explained that Pavonia was governed on enlightened (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 IT has already been explained that Pavonia was governed on enlightened
 
-modern principles. That is to say, the King was popular and powerless;
+modern principles. That is to say, the [[King]] was popular and powerless;
 
 the popularly elected Premier was unpopular and moderately powerful; the
 
@@ -34,11 +34,11 @@ growing problems of the State.
 
 
 
-The King, whose historical title was Clovis the Third, was a lank and
+The [[King]], whose historical title was Clovis the Third, was a lank and
 
-rather melancholy man with yellow moustaches and imperial and rather
+rather [[Melancholy|melancholy]] man with yellow moustaches and imperial and rather
 
-hollow eyes; well-bred enough to make his weariness appear impersonal
+hollow eyes; [[Well|well]]-bred enough to make his weariness appear impersonal
 
 rather than personal in its application, but not otherwise exciting
 
@@ -78,7 +78,7 @@ limbs seemed to repeat his streaks of hair, and only when he carefully
 
 fitted on a pair of tortoise-shell goggles, did his eyes seem suddenly to
 
-stand out and come to life, as if he were a monster who put his eyes on
+stand out and come to life, as if he were a [[Monster|monster]] who put his eyes on
 
 and off like a mask. This was Isidor Simon, the banker, and he had never
 
@@ -88,7 +88,7 @@ their special meeting was that the wild and hitherto rather vague
 
 movement called the Brotherhood of The Word had suddenly received support
 
-from a very unexpected quarter. The poet Sebastian was only a poor
+from a very unexpected quarter. The poet [[Sebastian]] was only a poor
 
 Bohemian freelance, of obscure origin and apparently illegitimate birth.
 
@@ -104,7 +104,7 @@ social situation had changed. Phocus was quite another matter; he was the
 
 scientific world: the world of colleges and committees. He was a name; he
 
-was not indeed very well known personally, being much of a recluse, but
+was not indeed very [[Well|well]] known personally, being much of a recluse, but
 
 his quaint figure with high and narrow top-hat, more like a pipe than a
 
@@ -132,13 +132,13 @@ gone mad, or there was really something in it.
 
 
 
-For some time the banker had succeeded in allaying the fears of the
+For some [[Time|time]] the banker had succeeded in allaying the fears of the
 
 Council, by what might seem a professional, but is in these days a
 
 practical argument. A popular poet might set all the crowds in the
 
-streets singing his songs, and a learned man of European reputation might
+streets singing his [[songs]], and a learned man of European reputation might
 
 induce all the dons in the world to read his book. But the salary of the
 
@@ -150,15 +150,15 @@ unknown quantity that was frequently a minus quantity. You cannot make a
 
 modern revolution, or anything modern, without money. It was difficult to
 
-see how the poet and the professor managed to pay for the occasional
+see how the poet and [[The Professor|the professor]] managed to pay for the occasional
 
 leaflets they circulated or the printing of the poem about The Word; let
 
-alone for munitions or commissariat or soldiers' pay or anything that is
+[[Alone|alone]] for munitions or commissariat or soldiers' pay or anything that is
 
 necessary for the higher purposes of civil war. Mr. Simon, the financial
 
-adviser, therefore, had advised the King to disregard the movement until
+adviser, therefore, had advised the [[King]] to disregard the movement until
 
 its backing was a little more financial. But to this Council the Chief of
 
@@ -176,7 +176,7 @@ into the pawnbroker's."
 
 rather missed the schoolgirl giggle with which his joke would have been
 
-greeted at a public meeting, for the King's face was blank and sad and
+greeted at a public meeting, for the [[King]]'s face was blank and sad and
 
 the banker's careless and inattentive. No change ever appeared on Grimm's
 

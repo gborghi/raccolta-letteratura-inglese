@@ -18,14 +18,14 @@ tags:
 
      1.  Fellow Travellers
      2.  Mrs General
-     3.  On the Road
+     3.  On the [[Road]]
      4.  A Letter from Little Dorrit
      5.  Something Wrong Somewhere
      6.  Something Right Somewhere
      7.  Mostly, Prunes and Prism
      8.  The Dowager Mrs Gowan is reminded that ‘It Never Does’
      9.  Appearance and Disappearance
-     10.  The Dreams of Mrs Flintwinch thicken
+     10.  The [[Dreams]] of Mrs Flintwinch thicken
      11.  A Letter from Little Dorrit
      12.  In which a Great Patriotic Conference is holden
      13.  The Progress of an Epidemic
@@ -34,13 +34,13 @@ tags:
           not be joined together
      16.  Getting on
      17.  Missing
-     18.  A Castle in the Air
-     19.  The Storming of the Castle in the Air
+     18.  A [[Castle]] in the Air
+     19.  The Storming of the [[Castle]] in the Air
      20.  Introduces the next
-     21.  The History of a Self-Tormentor
-     22.  Who Passes by this Road so late?
+     21.  The [[history|History]] of a [[Self]]-Tormentor
+     22.  Who Passes by this [[Road]] so late?
      23.  Mistress Affery makes a Conditional Promise, respecting her
-          Dreams
+          [[Dreams]]
      24.  The Evening of a Long Day
      25.  The Chief Butler Resigns the Seals of Office
      26.  Reaping the Whirlwind
@@ -72,8 +72,8 @@ If I might offer any apology for so exaggerated a fiction as the
 Barnacles and the Circumlocution Office, I would seek it in the
 common experience of an Englishman, without presuming to mention the
 unimportant fact of my having done that violence to good manners, in the
-days of a Russian war, and of a Court of Inquiry at Chelsea. If I might
-make so bold as to defend that extravagant conception, Mr Merdle, I
+days of a Russian war, and of a [[Court]] of Inquiry at Chelsea. If I might
+make so bold as to defend that extravagant conception, [[Mr Merdle]], I
 would hint that it originated after the Railroad-share epoch, in the
 times of a certain Irish bank, and of one or two other equally
 laudable enterprises. If I were to plead anything in mitigation of the
@@ -86,39 +86,39 @@ if need be, and to accept the assurance (on good authority) that nothing
 like them was ever known in this land.
 
 Some of my readers may have an interest in being informed whether or no
-any portions of the Marshalsea Prison are yet standing. I did not know,
+any portions of the Marshalsea [[Prison]] are yet standing. I did not know,
 myself, until the sixth of this present month, when I went to look. I
 found the outer front courtyard, often mentioned here, metamorphosed
 into a butter shop; and I then almost gave up every brick of the jail
-for lost. Wandering, however, down a certain adjacent ‘Angel Court,
+for lost. Wandering, however, down a certain adjacent ‘Angel [[Court]],
 leading to Bermondsey’, I came to ‘Marshalsea Place:’ the houses in
-which I recognised, not only as the great block of the former prison,
+which I recognised, not only as the great block of the former [[Prison|prison]],
 but as preserving the rooms that arose in my mind’s-eye when I became
 Little Dorrit’s biographer. The smallest boy I ever conversed with,
 carrying the largest baby I ever saw, offered a supernaturally
 intelligent explanation of the locality in its old uses, and was very
 nearly correct. How this young Newton (for such I judge him to be) came
 by his information, I don’t know; he was a quarter of a century too
-young to know anything about it of himself. I pointed to the window of
+young to know anything about it of himself. I pointed to the [[Window|window]] of
 the room where Little Dorrit was born, and where her father lived so
 long, and asked him what was the name of the lodger who tenanted that
 apartment at present? He said, ‘Tom Pythick.’ I asked him who was Tom
 Pythick? and he said, ‘Joe Pythick’s uncle.’
 
 A little further on, I found the older and smaller wall, which used
-to enclose the pent-up inner prison where nobody was put, except for
+to enclose the pent-up inner [[Prison|prison]] where nobody was put, except for
 ceremony. But, whosoever goes into Marshalsea Place, turning out of
-Angel Court, leading to Bermondsey, will find his feet on the very
+Angel [[Court]], leading to Bermondsey, will find his feet on the very
 paving-stones of the extinct Marshalsea jail; will see its narrow yard
 to the right and to the left, very little altered if at all, except that
 the walls were lowered when the place got free; will look upon rooms
-in which the debtors lived; and will stand among the crowding ghosts of
+in which the debtors lived; and will stand among the crowding [[Ghosts|ghosts]] of
 many miserable years.
 
-In the Preface to Bleak House I remarked that I had never had so many
+In the Preface to Bleak [[house|House]] I remarked that I had never had so many
 readers. In the Preface to its next successor, Little Dorrit, I have
 still to repeat the same words. Deeply sensible of the affection and
 confidence that have grown up between us, I add to this Preface, as I
 added to that, May we meet again!
 
-London May 1857
+[[London]] May 1857

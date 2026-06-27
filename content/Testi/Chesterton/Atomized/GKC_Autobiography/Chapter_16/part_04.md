@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 16 (part 4)"
+title: "[[GKC-Autobiography]] — Chapter 16 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -22,24 +22,24 @@ omnibuses although they were ugly.  I have ended by denouncing modern
 advertisements or American films even when they are beautiful.
 The thing that I was trying to say then is the same thing that I
 am trying to say now; and even the deepest revolution of religion
-has only confirmed me in the desire to say it.  For indeed, I never
-saw the two sides of this single truth stated together anywhere,
+has only confirmed me in the [[Desire|desire]] to say it.  For indeed, I never
+saw the two sides of this single [[Truth|truth]] stated together anywhere,
 until I happened to open the Penny Catechism and read the words,
-"The two sins against Hope are presumption and despair."
+"The two sins against [[Hope]] are presumption and [[Despair|despair]]."
 
 I began in my boyhood to grope for it from quite the other end;
-the end of the earth most remote from purely supernatural hopes.  But even
-about the dimmest earthly hope, or the smallest earthly happiness,
+the end of the earth most remote from purely [[Supernatural|supernatural]] hopes.  But even
+about the dimmest earthly [[Hope|hope]], or the smallest earthly happiness,
 I had from the first an almost violently vivid sense of those two dangers;
 the sense that the experience must not be spoilt by presumption
-or despair.  To take a convenient tag out of my first juvenile book
+or [[Despair|despair]].  To take a convenient tag out of my first juvenile book
 of rhymes, I asked through what incarnations or prenatal purgatories
 I must have passed, to earn the reward of looking at a dandelion.
 Now it would be easy enough, if the thing were worth while even
 for a commentator, to date that phrase by certain details,
-or guess that it might have been worded otherwise at a later time.
+or guess that it might have been worded otherwise at a later [[Time|time]].
 I do not believe in Reincarnation, if indeed I ever did; and since I
-have owned a garden (for I cannot say since I have been a gardener)
+have owned a [[Garden|garden]] (for I cannot say since I have been a gardener)
 I have realised better than I did that there really is a case
 against weeds.  But in substance what I said about the dandelion
 is exactly what I should say about the sunflower or the sun,
@@ -52,12 +52,12 @@ because the same thing is right.  The pessimists of my boyhood,
 when confronted with the dandelion, said with Swinburne:
 
   I am weary of all hours
-  Blown buds and barren flowers
-  Desires and dreams and powers
-  And everything but sleep.
+  Blown buds and barren [[Flowers|flowers]]
+  Desires and [[Dreams|dreams]] and powers
+  And everything but [[Sleep|sleep]].
 
 And at this I cursed them and kicked at them and made an exhibition
-of myself; having made myself the champion of the Lion's Tooth,
+of myself; having made myself the champion of the [[Lion]]'s Tooth,
 with a dandelion rampant on my crest.  But there is a way of
 despising the dandelion which is not that of the dreary pessimist,
 but of the more offensive optimist.  It can be done in various ways;
@@ -66,7 +66,7 @@ at Selfridge's," or "You can get much cheaper dandelions at Woolworth's."
 Another way is to observe with a casual drawl, "Of course nobody
 but Gamboli in Vienna really understands dandelions," or saying
 that nobody would put up with the old-fashioned dandelion since
-the super-dandelion has been grown in the Frankfurt Palm Garden;
+the super-dandelion has been grown in the Frankfurt Palm [[Garden]];
 or merely sneering at the stinginess of providing dandelions,
 when all the best hostesses give you an orchid for your
 buttonhole and a bouquet of rare exotics to take away with you.
@@ -75,18 +75,18 @@ for it is not familiarity but comparison that breeds contempt.
 And all such captious comparisons are ultimately based on the strange
 and staggering heresy that a human being has a right to dandelions;
 that in some extraordinary fashion we can demand the very pick
-of all the dandelions in the garden of Paradise; that we owe
-no thanks for them at all and need feel no wonder at them at all;
-and above all no wonder at being thought worthy to receive them.
+of all the dandelions in the [[Garden|garden]] of Paradise; that we owe
+no thanks for them at all and need feel no [[Wonder|wonder]] at them at all;
+and above all no [[Wonder|wonder]] at being thought worthy to receive them.
 Instead of saying, like the old religious poet, "What is man that
 Thou carest for him, or the son of man that Thou regardest him?"
-we are to say like the discontented cabman, "What's this?"
+we are to say like the discontented [[cabman]], "What's this?"
 or like the bad-tempered Major in the club, "Is this a chop fit
 for a gentleman?"  Now I not only dislike this attitude quite
 as much as the Swinburnian pessimistic attitude, but I think it
 comes to very much the same thing; to the actual loss of appetite
 for the chop or the dish of dandelion-tea. And the name of it
-is Presumption and the name of its twin brother is Despair.
+is Presumption and the name of its twin brother is [[Despair]].
 
 This is the principle I was maintaining when I seemed an optimist
 to Mr. Max Beerbohm; and this is the principle I am still maintaining
@@ -120,7 +120,7 @@ the practical problem which the philosopher has to solve.
 And it seemed to me at the beginning, as it seems to me now in
 the end, that the pessimists and optimists of the modern world
 have alike missed and muddled this matter; through leaving out
-the ancient conception of humility and the thanks of the unworthy.
+the ancient conception of [[Humility|humility]] and the thanks of the unworthy.
 This is a matter much more important and interesting than my opinions;
 but, in point of fact, it was by following this thin thread
 of a fancy about thankfulness, as slight as any of those dandelion

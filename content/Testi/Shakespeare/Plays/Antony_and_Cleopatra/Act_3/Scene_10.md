@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act III, Scene 10"
+title: "Antony and [[Cleopatra]] — Act III, Scene 10"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -20,18 +20,18 @@ tags:
 | NOBARBUS | Naught, naught, all naught! I can behold no longer.<br>Th’Antoniad, the Egyptian admiral,<br>With all their sixty, fly and turn the rudder.<br>To see’t mine eyes are blasted. |
 | *(didascalia)* | Enter Scarus |
 | SCARUS | Gods and goddesses—<br>All the whole synod of them! |
-| ENOBARBUS | What’s thy passion? |
+| [[Enobarbus|ENOBARBUS]] | What’s thy passion? |
 | SCARUS | The greater cantle of the world is lost<br>With very ignorance; we have kissed away<br>Kingdoms and provinces. |
-| ENOBARBUS | How appears the fight? |
-| SCARUS | On our side like the tokened pestilence,<br>Where death is sure. Yon riband-red nag of Egypt—<br>Whom leprosy o‘ertake!-i’th’ midst o’th’ fight—<br>When vantage like a pair of twins appeared,<br>Both as the same, or rather ours the elder—<br>The breese upon her, like a cow in June,<br>Hoists sails and flies. |
-| ENOBARBUS | That I beheld.<br>Mine eyes did sicken at the sight, and could not<br>Endure a further view. |
-| SCARUS | She once being luffed,<br>The noble ruin of her magic, Antony,<br>Claps on his sea-wing and, like a doting mallard,<br>Leaving the fight in height, flies after her.<br>I never saw an action of such shame.<br>Experience, manhood, honour, ne’er before<br>Did violate so itself. |
-| ENOBARBUS | Alack, alack! |
+| [[Enobarbus|ENOBARBUS]] | How appears the fight? |
+| SCARUS | On our side like the tokened pestilence,<br>Where [[Death|death]] is sure. Yon riband-red nag of [[Egypt]]—<br>Whom leprosy o‘ertake!-i’th’ midst o’th’ fight—<br>When vantage like a pair of twins appeared,<br>Both as the same, or rather ours the elder—<br>The breese upon her, like a cow in June,<br>Hoists sails and flies. |
+| [[Enobarbus|ENOBARBUS]] | That I beheld.<br>Mine eyes did sicken at the sight, and could not<br>Endure a further view. |
+| SCARUS | She once being luffed,<br>The noble ruin of her [[Magic|magic]], Antony,<br>Claps on his sea-wing and, like a doting mallard,<br>Leaving the fight in height, flies after her.<br>I never saw an action of such shame.<br>Experience, manhood, [[Honour|honour]], ne’er before<br>Did violate so itself. |
+| [[Enobarbus|ENOBARBUS]] | Alack, alack! |
 | *(didascalia)* | Enter Camidius |
-| CAMIDIUS | Our fortune on the sea is out of breath,<br>And sinks most lamentably. Had our general<br>Been what he knew himself, it had gone well.<br>O, he has given example for our flight<br>Most grossly by his own. |
-| ENOBARBUS | Ay, are you thereabouts? Why then, good night indeed! |
+| CAMIDIUS | Our fortune on the sea is out of breath,<br>And sinks most lamentably. Had our general<br>Been what he knew himself, it had gone [[Well|well]].<br>O, he has given example for our flight<br>Most grossly by his own. |
+| [[Enobarbus|ENOBARBUS]] | Ay, are you thereabouts? Why then, good [[Night|night]] indeed! |
 | CAMIDIUS | Toward Peloponnesus are they fled. |
 | SCARUS | ’Tis easy to’t, and there I will attend<br>What further comes. |
-| CAMIDIUS | To Caesar will I render<br>My legions and my horse. Six kings already<br>Show me the way of yielding. |
-| ENOBARBUS | I’ll yet follow<br>The wounded chance of Antony, though my reason<br>Sits in the wind against me. |
+| CAMIDIUS | To Caesar will I render<br>My legions and my [[Horse|horse]]. Six kings already<br>Show me the way of yielding. |
+| [[Enobarbus|ENOBARBUS]] | I’ll yet follow<br>The wounded chance of Antony, though my reason<br>Sits in the [[Wind|wind]] against me. |
 | *(didascalia)* | Exeunt severally |

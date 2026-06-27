@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Dagger with Wings (part 2)"
+title: "[[Incredulity]] — The Dagger with Wings (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -25,18 +25,18 @@ You are the compromise.'
 `Very well,' said Father Brown simply.  `I'll go and call on him
 now if you like.'
 
-The rolling country round the little town was sealed and bound with frost,
+The [[rolling]] country round the little town was sealed and bound with [[Frost|frost]],
 and the sky was as clear and cold as steel, except in the north--
 east where clouds with lurid haloes were beginning to climb up the sky.
-It was against these darker and more sinister colours that the house
-on the hill gleamed with a row of pale pillars, forming a short
-colonnade of the classical sort.  A winding road led up to it across
+It was against these darker and more sinister colours that the [[house]]
+on the [[Hill|hill]] gleamed with a row of pale pillars, forming a short
+colonnade of the classical sort.  A winding [[Road|road]] led up to it across
 the curve of the down, and plunged into a mass of dark bushes.
 Just before it reached the bushes the air seemed to grow colder
-and colder, as if he were approaching an ice--house or the North Pole.
+and colder, as if he were approaching an ice--[[house]] or the North Pole.
 But he was a highly practical person, never entertaining such fancies
 except as fancies.  And he merely cocked his eye at the great
-livid cloud crawling up over the house, and remarked cheerfully:
+livid cloud crawling up over the [[house]], and remarked cheerfully:
 `It's going to snow.'
 
 Through a low ornamental iron gateway of the Italianate pattern
@@ -117,8 +117,8 @@ The door opened and a gentleman in a peacock--green dressing--gown came
 out with an inquiring look.  His hair was rather rough and untidy,
 as if he had been in bed or lived in a state of slowly getting up, but his
 eyes were not only awake but alert, and some would have said alarmed.
-Father Brown knew that the contradiction was likely enough in a man who
-had rather run to seed under the shadow either of a delusion or a danger.
+[[Father Brown]] knew that the contradiction was likely enough in a man who
+had rather run to seed under the [[Shadow|shadow]] either of a delusion or a danger.
 He had a fine aquiline face when seen in profile, but when seen full face
 the first impression was that of the untidiness and even the wilderness
 of his loose brown beard.

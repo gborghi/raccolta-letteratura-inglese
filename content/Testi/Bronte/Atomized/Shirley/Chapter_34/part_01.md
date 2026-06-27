@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 34 (part 1)"
+title: "[[Shirley]] — Chapter 34 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,7 +32,7 @@ having felt the dignity of power, he loathed to relinquish it. Miss
 
 Helstone--that girl he had always called ugly, and whose face was now
 
-perpetually before his eyes, by day and by night, in dark and in
+perpetually before his eyes, by day and by [[Night|night]], in dark and in
 
 sunshine--had once come within his sphere. It fretted him to think the
 
@@ -50,7 +50,7 @@ never succeeded; an unique stamp marked him always. He now sat idle at
 
 his desk in the grammar school, casting about in his mind for the means
 
-of adding another chapter to his commenced romance. He did not yet know
+of adding another chapter to his commenced [[Romance|romance]]. He did not yet know
 
 how many commenced life-romances are doomed never to get beyond the
 
@@ -58,13 +58,13 @@ first, or at most the second chapter. His Saturday half-holiday he spent
 
 in the wood with his book of fairy legends, and that other unwritten
 
-book of his imagination.
+book of his [[Imagination|imagination]].
 
 
 
 Martin harboured an irreligious reluctance to see the approach of
 
-Sunday. His father and mother, while disclaiming community with the
+[[Sunday]]. His father and mother, while disclaiming community with the
 
 Establishment, failed not duly, once on the sacred day, to fill their
 
@@ -74,13 +74,13 @@ Theoretically, Mr. Yorke placed all sects and churches on a level. Mrs.
 
 Yorke awarded the palm to Moravians and Quakers, on account of that
 
-crown of humility by these worthies worn. Neither of them were ever
+[[Crown|crown]] of [[Humility|humility]] by these worthies worn. Neither of them were ever
 
 known, however, to set foot in a conventicle.
 
 
 
-Martin, I say, disliked Sunday, because the morning service was long,
+Martin, I say, disliked [[Sunday]], because the morning service was long,
 
 and the sermon usually little to his taste. This Saturday afternoon,
 
@@ -90,13 +90,13 @@ coming day.
 
 
 
-It proved a day of deep snow--so deep that Mrs. Yorke during breakfast
+It proved a day of deep [[Snow|snow]]--so deep that Mrs. Yorke during breakfast
 
 announced her conviction that the children, both boys and girls, would
 
-be better at home; and her decision that, instead of going to church,
+be better at [[Home|home]]; and her decision that, instead of going to church,
 
-they should sit silent for two hours in the back parlour, while Rose and
+they should sit silent for two hours in the back parlour, while [[Rose]] and
 
 Martin alternately read a succession of sermons--John Wesley's
 
@@ -106,7 +106,7 @@ both in her own and her husband's favour.
 
 
 
-"Rose will do as she pleases," said Martin, not looking up from the book
+"[[Rose]] will do as she pleases," said Martin, not looking up from the book
 
 which, according to his custom then and in after-life, he was studying
 
@@ -114,7 +114,7 @@ over his bread and milk.
 
 
 
-"Rose will do as she is told, and Martin too," observed the mother.
+"[[Rose]] will do as she is told, and Martin too," observed the mother.
 
 
 
@@ -126,7 +126,7 @@ So her son replied, with the ineffable quietude of a true Yorke, who
 
 knows his will and means to have it, and who, if pushed to the wall,
 
-will let himself be crushed to death, provided no way of escape can be
+will let himself be crushed to [[Death|death]], provided no way of escape can be
 
 found, but will never capitulate.
 
@@ -174,21 +174,21 @@ exhibit the internal machinery of my frame."
 
 "Hear Martin! hear him!" cried Mr. Yorke. "I must see and have this lad
 
-of mine brought up to the bar. Nature meant him to live by his tongue.
+of mine brought up to the bar. [[Nature]] meant him to live by his tongue.
 
 Hesther, your third son must certainly be a lawyer; he has the
 
-stock-in-trade--brass, self-conceit, and words--words--words."
+stock-in-trade--brass, [[Self|self]]-conceit, and words--words--words."
 
 
 
-"Some bread, Rose, if you please," requested Martin, with intense
+"Some bread, [[Rose]], if you please," requested Martin, with intense
 
 gravity, serenity, phlegm. The boy had naturally a low, plaintive voice,
 
-which in his "dour moods" rose scarcely above a lady's whisper. The more
+which in his "dour moods" [[Rose|rose]] scarcely above a lady's whisper. The more
 
-inflexibly stubborn the humour, the softer, the sadder the tone. He
+inflexibly stubborn the [[Humour|humour]], the softer, the sadder the tone. He
 
 rang the bell, and gently asked for his walking-shoes.
 
@@ -198,11 +198,11 @@ rang the bell, and gently asked for his walking-shoes.
 
 hardly wade through it. However, lad," he continued, seeing that the boy
 
-rose as the church bell began to toll, "this is a case wherein I would
+[[Rose|rose]] as the church bell began to toll, "this is a case wherein I would
 
 by no means balk the obdurate chap of his will. Go to church by all
 
-means. There is a pitiless wind, and a sharp, frozen sleet, besides the
+means. There is a pitiless [[Wind|wind]], and a sharp, frozen sleet, besides the
 
 depth under foot. Go out into it, since thou prefers it to a warm
 

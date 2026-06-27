@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE SHADOW OF THE SHARK (part 3)"
+title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -19,7 +19,7 @@ try to put in an hour or so looking for specimens at high tide:
 I suppose most people think I'm shrimping or only paddling and doing
 it for my health.  But I've got a pretty good nucleus of that museum
 we were talking about, or at least the aquarium part of it.
-I put in most of the rest of the time arranging the exhibits;
+I put in most of the rest of the [[Time|time]] arranging the exhibits;
 so I deny the implication of idleness.  Gale was on the sea-shore, too.
 He was doing nothing as usual; and now he's saying nothing,
 which is much more uncommon."
@@ -28,7 +28,7 @@ which is much more uncommon."
 "but letters are not always trivial.  Sometimes they
 are rather tremendous."
 
-Sir Owen glanced at him for a moment, and a silence followed,
+Sir Owen glanced at him for a moment, and a [[Silence|silence]] followed,
 which was broken by a thud and a rattle of glasses as Gale
 brought his fist down on the table like a man who had thought
 of something suddenly.
@@ -46,7 +46,7 @@ is so fond of the Philistines."
 In answer to a general stare of inquiry, he said smoothly:
 "The Philistines were a people from Crete, probably of Hellenic origin,
 who settled on the coast of Palestine, carrying with them
-a worship which may very well have been that of Poseidon,
+a worship which may very [[Well|well]] have been that of Poseidon,
 but which their enemies, the Israelites, described as that of Dagon.
 The relevant matter here is that the carved or painted symbol
 of the god seems always to have been a fish."
@@ -73,9 +73,9 @@ way from the outside is that you can..."
 
 He stopped a moment and remained quite still, as if he were
 watching something.  Some even fancied that his pale, aquiline face
-looked paler as well as sharper.
+looked paler as [[Well|well]] as sharper.
 
-"What was that at the window?" he asked.  "Is anybody outside this house?"
+"What was that at the [[Window|window]]?" he asked.  "Is anybody outside this [[house]]?"
 
 "What's the matter?  What did you see?" asked his host,
 in abrupt agitation.
@@ -89,7 +89,7 @@ the poet had already leapt to his feet with his hand on the back
 of the chair, when he stiffened where he stood; for he had seen it.
 The faces of the others showed that they had seen it too.
 
-Pressed against the dark window-pane, but only wanly luminous as it
+Pressed against the dark [[Window|window]]-pane, but only wanly luminous as it
 protruded out of the darkness, was a large face looking at first rather
 like a green goblin mask in a pantomime.  Yet it was in no sense human;
 its eyes were set in large circles, rather in the fashion of an owl.
@@ -104,7 +104,7 @@ its way across the foam, and the flat sand and the spire and roofs
 of the fishing village.  He had half-imagined the moist sea air
 thickening in some strange way to a greener and more liquid atmosphere
 in which the marine monsters could swim about in the streets.
-He had entertained the fancy that the house itself stood in the depths
+He had entertained the fancy that the [[house]] itself stood in the depths
 of the sea, and that the great goblin-headed fishes were nosing
 round it, as round the cabin windows of a wreck.
 
@@ -136,7 +136,7 @@ in which he showed a dry and somewhat cynical dexterity.
 Sir Owen continued to paint with all the passion of an amateur.
 Gale continued to neglect to paint, with all the nonchalance of
 a painter.  Mr. Boon was presumably still as busy with his wicked
-Bible and his good Philistines as Dr. Wilkes with his museum
-and his microscopic marine animals, when the little seaside town
+[[Bible]] and his good Philistines as Dr. Wilkes with his museum
+and his microscopic marine [[Animals|animals]], when the little seaside town
 was shaken as by an earthquake with the incomprehensible calamity
 which spread its name over all the newspapers of the country.

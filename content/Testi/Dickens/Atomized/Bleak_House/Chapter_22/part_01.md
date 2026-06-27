@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 22 (part 1)"
+title: "Bleak [[house|House]] — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,33 +19,33 @@ CHAPTER XXII
 Mr. Bucket
 
 
-Allegory looks pretty cool in Lincoln’s Inn Fields, though the
+[[Allegory]] looks pretty cool in [[Lincoln]]’s Inn Fields, though the
 evening is hot, for both Mr. Tulkinghorn’s windows are wide open, and
 the room is lofty, gusty, and gloomy. These may not be desirable
 characteristics when November comes with fog and sleet or January
-with ice and snow, but they have their merits in the sultry long
-vacation weather. They enable Allegory, though it has cheeks like
+with ice and [[Snow|snow]], but they have their merits in the sultry long
+vacation weather. They enable [[Allegory]], though it has cheeks like
 peaches, and knees like bunches of blossoms, and rosy swellings for
 calves to its legs and muscles to its arms, to look tolerably cool
-to-night.
+to-[[Night|night]].
 
-Plenty of dust comes in at Mr. Tulkinghorn’s windows, and plenty more
+Plenty of [[Dust|dust]] comes in at Mr. Tulkinghorn’s windows, and plenty more
 has generated among his furniture and papers. It lies thick
 everywhere. When a breeze from the country that has lost its way
 takes fright and makes a blind hurry to rush out again, it flings as
-much dust in the eyes of Allegory as the law—or Mr. Tulkinghorn, one
+much [[Dust|dust]] in the eyes of [[Allegory]] as the law—or Mr. Tulkinghorn, one
 of its trustiest representatives—may scatter, on occasion, in the
 eyes of the laity.
 
-In his lowering magazine of dust, the universal article into which
+In his lowering magazine of [[Dust|dust]], the universal article into which
 his papers and himself, and all his clients, and all things of earth,
 animate and inanimate, are resolving, Mr. Tulkinghorn sits at one of
 the open windows enjoying a bottle of old port. Though a hard-grained
 man, close, dry, and silent, he can enjoy old wine with the best. He
 has a priceless bin of port in some artful cellar under the Fields,
-which is one of his many secrets. When he dines alone in chambers, as
+which is one of his many [[Secrets|secrets]]. When he dines [[Alone|alone]] in chambers, as
 he has dined to-day, and has his bit of fish and his steak or chicken
-brought in from the coffee-house, he descends with a candle to the
+brought in from the coffee-[[house]], he descends with a candle to the
 echoing regions below the deserted mansion, and heralded by a remote
 reverberation of thundering doors, comes gravely back encircled by an
 earthy atmosphere and carrying a bottle from which he pours a radiant
@@ -53,22 +53,22 @@ nectar, two score and ten years old, that blushes in the glass to
 find itself so famous and fills the whole room with the fragrance of
 southern grapes.
 
-Mr. Tulkinghorn, sitting in the twilight by the open window, enjoys
-his wine. As if it whispered to him of its fifty years of silence and
+Mr. Tulkinghorn, sitting in the twilight by the open [[Window|window]], enjoys
+his wine. As if it whispered to him of its fifty years of [[Silence|silence]] and
 seclusion, it shuts him up the closer. More impenetrable than ever,
 he sits, and drinks, and mellows as it were in secrecy, pondering at
 that twilight hour on all the mysteries he knows, associated with
 darkening woods in the country, and vast blank shut-up houses in
 town, and perhaps sparing a thought or two for himself, and his
-family history, and his money, and his will—all a mystery to every
+family [[history]], and his money, and his will—all a mystery to every
 one—and that one bachelor friend of his, a man of the same mould and
 a lawyer too, who lived the same kind of life until he was
 seventy-five years old, and then suddenly conceiving (as it is
 supposed) an impression that it was too monotonous, gave his gold
-watch to his hair-dresser one summer evening and walked leisurely
-home to the Temple and hanged himself.
+watch to his hair-dresser one [[Summer|summer]] evening and walked leisurely
+[[Home|home]] to the Temple and hanged himself.
 
-But Mr. Tulkinghorn is not alone to-night to ponder at his usual
+But Mr. Tulkinghorn is not [[Alone|alone]] to-[[Night|night]] to ponder at his usual
 length. Seated at the same table, though with his chair modestly and
 uncomfortably drawn a little way from it, sits a bald, mild, shining
 man who coughs respectfully behind his hand when the lawyer bids him
@@ -80,7 +80,7 @@ again.”
 “If you please, sir.”
 
 “You told me when you were so good as to step round here last
-night—”
+[[Night|night]]—”
 
 “For which I must ask you to excuse me if it was a liberty, sir; but
 I remember that you had taken a sort of an interest in that person,
@@ -96,7 +96,7 @@ put on your hat and came round without mentioning your intention to
 your wife. That was prudent I think, because it’s not a matter of
 such importance that it requires to be mentioned.”
 
-“Well, sir,” returns Mr. Snagsby, “you see, my little woman is—not
+“[[Well]], sir,” returns Mr. Snagsby, “you see, my little woman is—not
 to put too fine a point upon it—inquisitive. She’s inquisitive. Poor
 little thing, she’s liable to spasms, and it’s good for her to have
 her mind employed. In consequence of which she employs it—I should
@@ -107,10 +107,10 @@ active mind, sir.”
 Mr. Snagsby drinks and murmurs with an admiring cough behind his
 hand, “Dear me, very fine wine indeed!”
 
-“Therefore you kept your visit to yourself last night?” says Mr.
-Tulkinghorn. “And to-night too?”
+“Therefore you kept your visit to yourself last [[Night|night]]?” says Mr.
+Tulkinghorn. “And to-[[Night|night]] too?”
 
-“Yes, sir, and to-night, too. My little woman is at present in—not
+“Yes, sir, and to-[[Night|night]], too. My little woman is at present in—not
 to put too fine a point on it—in a pious state, or in what she
 considers such, and attends the Evening Exertions (which is the name
 they go by) of a reverend party of the name of Chadband. He has a
@@ -139,7 +139,7 @@ smallclothes and leaning quietly back in his chair.
 “With pleasure, sir.”
 
 Then, with fidelity, though with some prolixity, the law-stationer
-repeats Jo’s statement made to the assembled guests at his house. On
+repeats Jo’s statement made to the assembled guests at his [[house]]. On
 coming to the end of his narrative, he gives a great start and breaks
 off with, “Dear me, sir, I wasn’t aware there was any other gentleman
 present!”

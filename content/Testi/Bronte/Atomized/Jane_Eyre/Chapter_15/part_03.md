@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 15 (part 3)"
+title: "[[Jane Eyre]] — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-It was not till after I had withdrawn to my own chamber for the night,
+It was not till after I had withdrawn to my own chamber for the [[Night|night]],
 that I steadily reviewed the tale Mr. Rochester had told me. As he had
 said, there was probably nothing at all extraordinary in the substance
 of the narrative itself: a wealthy Englishman’s passion for a French
 dancer, and her treachery to him, were every-day matters enough, no
-doubt, in society; but there was something decidedly strange in the
+[[Doubt|doubt]], in society; but there was something decidedly strange in the
 paroxysm of emotion which had suddenly seized him when he was in the
 act of expressing the present contentment of his mood, and his newly
 revived pleasure in the old hall and its environs. I meditated
@@ -37,7 +37,7 @@ to amuse him, and that these evening conferences were sought as much
 for his pleasure as for my benefit.
 
 I, indeed, talked comparatively little, but I heard him talk with
-relish. It was his nature to be communicative; he liked to open to a
+relish. It was his [[Nature|nature]] to be communicative; he liked to open to a
 mind unacquainted with the world glimpses of its scenes and ways (I do
 not mean its corrupt scenes and wicked ways, but such as derived their
 interest from the great scale on which they were acted, the strange
@@ -58,62 +58,62 @@ up; my bodily health improved; I gathered flesh and strength.
 And was Mr. Rochester now ugly in my eyes? No, reader: gratitude, and
 many associations, all pleasurable and genial, made his face the object
 I best liked to see; his presence in a room was more cheering than the
-brightest fire. Yet I had not forgotten his faults; indeed, I could
+brightest [[Fire|fire]]. Yet I had not forgotten his faults; indeed, I could
 not, for he brought them frequently before me. He was proud, sardonic,
-harsh to inferiority of every description: in my secret soul I knew
+harsh to inferiority of every description: in my secret [[Soul|soul]] I knew
 that his great kindness to me was balanced by unjust severity to many
 others. He was moody, too; unaccountably so; I more than once, when
-sent for to read to him, found him sitting in his library alone, with
+sent for to read to him, found him sitting in his library [[Alone|alone]], with
 his head bent on his folded arms; and, when he looked up, a morose,
 almost a malignant, scowl blackened his features. But I believed that
-his moodiness, his harshness, and his former faults of morality (I say
+his moodiness, his harshness, and his former faults of [[morality]] (I say
 _former_, for now he seemed corrected of them) had their source in some
-cruel cross of fate. I believed he was naturally a man of better
+cruel [[Cross|cross]] of fate. I believed he was naturally a man of better
 tendencies, higher principles, and purer tastes than such as
-circumstances had developed, education instilled, or destiny
+circumstances had developed, [[Education|education]] instilled, or destiny
 encouraged. I thought there were excellent materials in him; though for
 the present they hung together somewhat spoiled and tangled. I cannot
 deny that I grieved for his grief, whatever that was, and would have
 given much to assuage it.
 
 Though I had now extinguished my candle and was laid down in bed, I
-could not sleep for thinking of his look when he paused in the avenue,
+could not [[Sleep|sleep]] for thinking of his look when he paused in the avenue,
 and told how his destiny had risen up before him, and dared him to be
 happy at Thornfield.
 
-“Why not?” I asked myself. “What alienates him from the house? Will he
+“Why not?” I asked myself. “What alienates him from the [[house]]? Will he
 leave it again soon? Mrs. Fairfax said he seldom stayed here longer
-than a fortnight at a time; and he has now been resident eight weeks.
+than a fortnight at a [[Time|time]]; and he has now been resident eight weeks.
 If he does go, the change will be doleful. Suppose he should be absent
-spring, summer, and autumn: how joyless sunshine and fine days will
+[[Spring|spring]], [[Summer|summer]], and [[Autumn|autumn]]: how joyless sunshine and fine days will
 seem!”
 
 I hardly know whether I had slept or not after this musing; at any
 rate, I started wide awake on hearing a vague murmur, peculiar and
 lugubrious, which sounded, I thought, just above me. I wished I had
-kept my candle burning: the night was drearily dark; my spirits were
-depressed. I rose and sat up in bed, listening. The sound was hushed.
+kept my candle burning: the [[Night|night]] was drearily dark; my spirits were
+depressed. I [[Rose|rose]] and sat up in bed, listening. The sound was hushed.
 
-I tried again to sleep; but my heart beat anxiously: my inward
-tranquillity was broken. The clock, far down in the hall, struck two.
+I tried again to [[Sleep|sleep]]; but my heart beat anxiously: my inward
+tranquillity was broken. The [[Clock|clock]], far down in the hall, struck two.
 Just then it seemed my chamber-door was touched; as if fingers had
 swept the panels in groping a way along the dark gallery outside. I
-said, “Who is there?” Nothing answered. I was chilled with fear.
+said, “Who is there?” Nothing answered. I was chilled with [[Fear|fear]].
 
 All at once I remembered that it might be Pilot, who, when the
 kitchen-door chanced to be left open, not unfrequently found his way up
 to the threshold of Mr. Rochester’s chamber: I had seen him lying there
 myself in the mornings. The idea calmed me somewhat: I lay down.
-Silence composes the nerves; and as an unbroken hush now reigned again
-through the whole house, I began to feel the return of slumber. But it
-was not fated that I should sleep that night. A dream had scarcely
+[[Silence]] composes the nerves; and as an unbroken hush now reigned again
+through the whole [[house]], I began to feel the return of slumber. But it
+was not fated that I should [[Sleep|sleep]] that [[Night|night]]. [[A Dream|A dream]] had scarcely
 approached my ear, when it fled affrighted, scared by a marrow-freezing
 incident enough.
 
 This was a demoniac laugh—low, suppressed, and deep—uttered, as it
 seemed, at the very keyhole of my chamber door. The head of my bed was
 near the door, and I thought at first the goblin-laugher stood at my
-bedside—or rather, crouched by my pillow: but I rose, looked round, and
+bedside—or rather, crouched by my pillow: but I [[Rose|rose]], looked round, and
 could see nothing; while, as I still gazed, the unnatural sound was
 reiterated: and I knew it came from behind the panels. My first impulse
 was to rise and fasten the bolt; my next, again to cry out, “Who is

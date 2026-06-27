@@ -16,7 +16,7 @@ tags:
 
 There is one comment, in this connexion, which occurred to me
 while reading Mr. Eliot's book.  The Beatific Vision is described
-by Dante about as well as it could be described by anybody--
+by [[Dante]] about as [[Well|well]] as it could be described by anybody--
 that is, chiefly by saying that it cannot be described at all.
 But Mr. Eliot has noticed, as I have often noticed, the very
 extraordinary effect of the ending, when, after a few grand hints
@@ -25,34 +25,34 @@ introduces the vast but seemingly very distant simile about
 how Neptune must have felt when the Argo first sailed over him.
 At first sight it seems quite out of the picture; and yet for
 the imaginative it is right on the spot.  Now there seem to be a
-number of these abrupt and abysmal irrelevancies in Dante's poetry,
+number of these abrupt and abysmal irrelevancies in [[Dante]]'s poetry,
 and, indeed, in all great poetry.  They seem to be suggesting
 a vivid image by suddenly introducing a totally different image.
-Instead of saying that Beatrice looked beautiful, Dante says that he felt
+Instead of saying that [[Beatrice]] looked beautiful, [[Dante]] says that he felt
 like Glaucus when he ate the grass that made him seafellow of the gods.
 I do not know why that dim heathen dream delights me, but it does;
 much more, probably, than the best direct description of
-Beatrice's beauty.  It seems as if the sudden presentation of some
+[[Beatrice]]'s [[Beauty|beauty]].  It seems as if the sudden presentation of some
 quite remote vision, as imaginative as the main image, completes it
 and makes it convincing.  There are many examples in other poets,
 including the rather hackneyed example of Keats, when he broke
-off a reasonably intelligent discourse on the nightingale to talk
-about perilous seas and magic casements, with which nightingales
-have nothing whatever to do.  Like Dante, he had got beyond himself,
-and irrelevancy was the only expression of imagination.
+off a reasonably intelligent discourse on the [[Nightingale|nightingale]] to talk
+about perilous seas and [[Magic|magic]] casements, with which nightingales
+have nothing whatever to do.  Like [[Dante]], he had got beyond himself,
+and irrelevancy was the only expression of [[Imagination|imagination]].
 But there is something else in it relevant to Mr. Eliot's thesis.
 This summoning of remote symbols, this calling of spirits from the
-vasty deep, like the sea-green Glaucus into the presence of Beatrice,
+vasty deep, like the sea-green Glaucus into the presence of [[Beatrice]],
 does suggest something involved in the theology of the matter.
-It suggests that all beautiful images are shadows of the one real beauty,
+It suggests that all beautiful images are shadows of the one real [[Beauty|beauty]],
 and can be, in a sense, shifted or interchanged for its service.
-It prevents mere fixed idolatry of one shadow in one minor,
-as if it were the origin of all.  Beatrice is to be loved because she
+It prevents mere fixed idolatry of one [[Shadow|shadow]] in one minor,
+as if it were the origin of all.  [[Beatrice]] is to be loved because she
 is beautiful; but she is beautiful because there is behind her a many
-sided mystery of beauty, to be seen also in the grass and the sea,
+sided mystery of [[Beauty|beauty]], to be seen also in the grass and the sea,
 and even in the dead gods.  There is a promise in and yet beyond
 all such pictures; and the poet can see grass or the great sea
-or the great ship going over it, hearing a sort of whisper:
+or the great [[Ship|ship]] going over it, hearing a sort of whisper:
 `Thine eyes shall see the King in his beauty.'
 
 XXI.  On Quacks in the Home
@@ -126,11 +126,11 @@ The instructor informs us that there can be between parent and child
 a negative transference (the intense italics arc his), which seems
 to mean, not merely that the child will hate the parent, but that
 the child will love somebody who is the opposite of the hated parent.
-`Thus a child who is treated coldly by his mother will come
+`Thus a [[Child|child]] who is treated coldly by his mother will come
 to reject all people like his mother and seek for her opposite.
 We will say the mother is good, honest, moral, even pious.
 The boy will gravitate to some one crooked, immoral, or even wicked,
 in short, his mother's goodness may send him to the devil,
-though all the time she may be wondering why her excellent precepts,
+though all the [[Time|time]] she may be wondering why her excellent precepts,
 her discipline, her goodness are failing to develop like traits
 in her son.'

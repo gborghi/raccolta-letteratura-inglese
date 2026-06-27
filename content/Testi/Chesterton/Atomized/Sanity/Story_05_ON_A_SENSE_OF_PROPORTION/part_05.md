@@ -1,5 +1,5 @@
 ---
-title: "Sanity — ON A SENSE OF PROPORTION (part 5)"
+title: "[[Sanity]] — ON A SENSE OF PROPORTION (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -32,9 +32,9 @@ it hardly seems worth while to go forward.
 
 There is nothing in front but a flat wilderness of standardization
 either by Bolshevism or Big Business.  But it is strange that some
-of us should have seen sanity, if only in a vision, while the rest
+of us should have seen [[Sanity|sanity]], if only in a vision, while the rest
 go forward chained eternally to enlargement without liberty and
-progress without hope.
+progress without [[Hope|hope]].
 
 = = = = = = = = = = = = = = = =
 
@@ -77,14 +77,14 @@ had somehow or other got it into his head that the Isles of Greece
 were less glorious in arts and arms in the last days of Turkish rule
 than in the days of the battle of Salamis or the Republic of Plato.
 So again Wordsworth, in an equally sentimental fashion, seems to
-insinuate that the Republic of Venice was not quite so powerful
+insinuate that the Republic of [[Venice]] was not quite so powerful
 when Napoleon trod it out like a dying ember as when its commerce
 and art filled the seas of the world with a conflagration of colour.
 So many writers in the eighteenth and nineteenth centuries
 have even gone so far as to suggest that modern Spain played
 a less predominant part than Spain in the days of the discovery
-of America or the victory of Lepanto.  Some, even more lacking
-in that Optimism which is the soul of commerce, have made an equally
+of [[america|America]] or the victory of [[lepanto|Lepanto]].  Some, even more lacking
+in that Optimism which is the [[Soul|soul]] of commerce, have made an equally
 perverse comparison between the earlier and the later conditions
 of the commercial aristocracy of Holland.  Some have even maintained
 that Tyre and Sidon are not quite so fashionable as they used to be;
@@ -97,16 +97,16 @@ even advancing," it is permissible to reply, "Yes, and people were
 probably as optimistic as you are in societies which really declined."
 For, after all, there were societies which really declined.
 It is true that Horace said that every generation seemed to be
-worse than the last, and implied that Rome was going to the dogs,
+worse than the last, and implied that Rome was going to the [[dogs]],
 at the very moment when all the external world was being brought
 under the eagles.  But it is quite likely that the last forgotten
-court poet, praising the last forgotten Augustulus at the stiff
-court of Byzantium, contradicted all the seditious rumours
+[[Court|court]] poet, praising the last forgotten Augustulus at the stiff
+[[Court|court]] of Byzantium, contradicted all the seditious rumours
 of social decline, exactly as our newspapers do, by saying that,
 after all, Horace had said the same thing.  And it is also possible
-that Horace was right; that it was in his time that the turn was taken
+that Horace was right; that it was in his [[Time|time]] that the turn was taken
 which led from Horatius on the bridge to Heracleius in the palace;
-that if Rome was not immediately going to the dogs, the dogs were
+that if Rome was not immediately going to the [[dogs]], the [[dogs]] were
 coming to Rome, and their distant howling could first be heard
 in that hour of the uplifted eagles; that there had begun a long
 advance that was also a long decline, but ended in the Dark Ages.

@@ -1,5 +1,5 @@
 ---
-title: "Ms. Found in a Bottle (part 2)"
+title: "[[Ms. Found in a Bottle]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
@@ -20,11 +20,11 @@ tags:
 
       overboard;—the captain and mates must have perished as they
 
-      slept, for the cabins were deluged with water. Without
+      slept, for the cabins were deluged with [[Water|water]]. Without
 
       assistance, we could expect to do little for the security of the
 
-      ship, and our exertions were at first paralyzed by the momentary
+      [[Ship|ship]], and our exertions were at first paralyzed by the momentary
 
       expectation of going down. Our cable had, of course, parted like
 
@@ -32,7 +32,7 @@ tags:
 
       have been instantaneously overwhelmed. We scudded with frightful
 
-      velocity before the sea, and the water made clear breaches over
+      velocity before the sea, and the [[Water|water]] made clear breaches over
 
       us. The frame-work of our stern was shattered excessively, and,
 
@@ -44,9 +44,9 @@ tags:
 
       had already blown over, and we apprehended little danger from the
 
-      violence of the wind; but we looked forward to its total
+      violence of the [[Wind|wind]]; but we looked forward to its total
 
-      cessation with dismay; well believing, that, in our shattered
+      cessation with dismay; [[Well|well]] believing, that, in our shattered
 
       condition, we should inevitably perish in the tremendous swell
 
@@ -60,7 +60,7 @@ tags:
 
       hulk flew at a rate defying computation, before rapidly
 
-      succeeding flaws of wind, which, without equalling the first
+      succeeding flaws of [[Wind|wind]], which, without equalling the first
 
       violence of the Simoom, were still more terrific than any tempest
 
@@ -70,17 +70,17 @@ tags:
 
       down the coast of New Holland. On the fifth day the cold became
 
-      extreme, although the wind had hauled round a point more to the
+      extreme, although the [[Wind|wind]] had hauled round a point more to the
 
       northward. The sun arose with a sickly yellow lustre, and
 
       clambered a very few degrees above the horizon—emitting no
 
-      decisive light. There were no clouds apparent, yet the wind was
+      decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
 
       upon the increase, and blew with a fitful and unsteady fury.
 
-      About noon, as nearly as we could guess, our attention was again
+      About [[Noon|noon]], as nearly as we could guess, our attention was again
 
       arrested by the appearance of the sun. It gave out no light,
 
@@ -92,7 +92,7 @@ tags:
 
       out, as if hurriedly extinguished by some unaccountable power. It
 
-      was a dim, sliver-like rim, alone, as it rushed down the
+      was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
 
       unfathomable ocean.
 
@@ -104,7 +104,7 @@ tags:
 
       we were enshrouded in patchy darkness, so that we could not have
 
-      seen an object at twenty paces from the ship. Eternal night
+      seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
 
       continued to envelop us, all unrelieved by the phosphoric
 
@@ -118,19 +118,19 @@ tags:
 
       around were horror, and thick gloom, and a black sweltering
 
-      desert of ebony. Superstitious terror crept by degrees into the
+      [[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
 
-      spirit of the old Swede, and my own soul was wrapped up in silent
+      spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
 
-      wonder. We neglected all care of the ship, as worse than useless,
+      [[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
 
-      and securing ourselves, as well as possible, to the stump of the
+      and securing ourselves, as [[Well|well]] as possible, to the stump of the
 
       mizen-mast, looked out bitterly into the world of ocean. We had
 
-      no means of calculating time, nor could we form any guess of our
+      no means of calculating [[Time|time]], nor could we form any guess of our
 
-      situation. We were, however, well aware of having made farther to
+      situation. We were, however, [[Well|well]] aware of having made farther to
 
       the southward than any previous navigators, and felt great
 
@@ -144,15 +144,15 @@ tags:
 
       buried is a miracle. My companion spoke of the lightness of our
 
-      cargo, and reminded me of the excellent qualities of our ship;
+      cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
 
-      but I could not help feeling the utter hopelessness of hope
+      but I could not help feeling the utter hopelessness of [[Hope|hope]]
 
-      itself, and prepared myself gloomily for that death which I
+      itself, and prepared myself gloomily for that [[Death|death]] which I
 
       thought nothing could defer beyond an hour, as, with every knot
 
-      of way the ship made, the swelling of the black stupendous seas
+      of way the [[Ship|ship]] made, the swelling of the black stupendous seas
 
       became more dismally appalling. At times we gasped for breath at
 
@@ -164,9 +164,9 @@ tags:
 
 
 
-      We were at the bottom of one of these abysses, when a quick
+      We were at the [[Bottom|bottom]] of one of these abysses, when a quick
 
-      scream from my companion broke fearfully upon the night. “See!
+      scream from my companion broke fearfully upon the [[Night|night]]. “See!
 
       see!” cried he, shrieking in my ears, “Almighty God! see! see!”
 
@@ -176,18 +176,18 @@ tags:
 
       threw a fitful brilliancy upon our deck. Casting my eyes upwards,
 
-      I beheld a spectacle which froze the current of my blood. At a
+      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
 
       terrific height directly above us, and upon the very verge of the
 
-      precipitous descent, hovered a gigantic ship of, perhaps, four
+      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
 
       thousand tons. Although upreared upon the summit of a wave more
 
       than a hundred times her own altitude, her apparent size exceeded
 
-      that of any ship of the line or East Indiaman in existence. Her
+      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
 
       huge hull was of a deep dingy black, unrelieved by any of the
 
-      customary carvings of a ship. A single row of brass cannon
+      customary carvings of a [[Ship|ship]]. A single row of brass cannon

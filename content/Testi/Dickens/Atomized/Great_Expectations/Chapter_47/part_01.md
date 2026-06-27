@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 47 (part 1)"
+title: "[[Great Expectations]] — Chapter 47 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,7 +20,7 @@ Chapter XLVII.
 Some weeks passed without bringing any change. We waited for Wemmick,
 and he made no sign. If I had never known him out of Little Britain,
 and had never enjoyed the privilege of being on a familiar footing at
-the Castle, I might have doubted him; not so for a moment, knowing him
+the [[Castle]], I might have doubted him; not so for a moment, knowing him
 as I did.
 
 My worldly affairs began to wear a gloomy appearance, and I was pressed
@@ -34,32 +34,32 @@ to hold in his own keeping, and I felt a kind of satisfaction—whether
 it was a false kind or a true, I hardly know—in not having profited by
 his generosity since his revelation of himself.
 
-As the time wore on, an impression settled heavily upon me that Estella
+As the [[Time|time]] wore on, an impression settled heavily upon me that [[Estella]]
 was married. Fearful of having it confirmed, though it was all but a
 conviction, I avoided the newspapers, and begged Herbert (to whom I had
 confided the circumstances of our last interview) never to speak of her
 to me. Why I hoarded up this last wretched little rag of the robe of
-hope that was rent and given to the winds, how do I know? Why did you
+[[Hope|hope]] that was rent and given to the winds, how do I know? Why did you
 who read this, commit that not dissimilar inconsistency of your own
 last year, last month, last week?
 
 It was an unhappy life that I lived; and its one dominant anxiety,
 towering over all its other anxieties, like a high mountain above a
-range of mountains, never disappeared from my view. Still, no new cause
-for fear arose. Let me start from my bed as I would, with the terror
+range of [[Mountains|mountains]], never disappeared from my view. Still, no new cause
+for [[Fear|fear]] arose. Let me start from my bed as I would, with the terror
 fresh upon me that he was discovered; let me sit listening, as I would
-with dread, for Herbert’s returning step at night, lest it should be
+with dread, for Herbert’s returning step at [[Night|night]], lest it should be
 fleeter than ordinary, and winged with evil news,—for all that, and
 much more to like purpose, the round of things went on. Condemned to
 inaction and a state of constant restlessness and suspense, I rowed
 about in my boat, and waited, waited, waited, as I best could.
 
-There were states of the tide when, having been down the river, I could
-not get back through the eddy-chafed arches and starlings of old London
-Bridge; then, I left my boat at a wharf near the Custom House, to be
+There were states of the tide when, having been down the [[River|river]], I could
+not get back through the eddy-chafed arches and starlings of old [[London]]
+Bridge; then, I left my boat at a wharf near the Custom [[house|House]], to be
 brought up afterwards to the Temple stairs. I was not averse to doing
 this, as it served to make me and my boat a commoner incident among the
-water-side people there. From this slight occasion sprang two meetings
+[[Water|water]]-side people there. From this slight occasion sprang two meetings
 that I have now to tell of.
 
 One afternoon, late in the month of February, I came ashore at the
@@ -67,26 +67,26 @@ wharf at dusk. I had pulled down as far as Greenwich with the ebb tide,
 and had turned with the tide. It had been a fine bright day, but had
 become foggy as the sun dropped, and I had had to feel my way back
 among the shipping, pretty carefully. Both in going and returning, I
-had seen the signal in his window, All well.
+had seen the signal in his [[Window|window]], All [[Well|well]].
 
 As it was a raw evening, and I was cold, I thought I would comfort
 myself with dinner at once; and as I had hours of dejection and
-solitude before me if I went home to the Temple, I thought I would
+[[Solitude|solitude]] before me if I went [[Home|home]] to the Temple, I thought I would
 afterwards go to the play. The theatre where Mr. Wopsle had achieved
-his questionable triumph was in that water-side neighbourhood (it is
+his questionable triumph was in that [[Water|water]]-side neighbourhood (it is
 nowhere now), and to that theatre I resolved to go. I was aware that
 Mr. Wopsle had not succeeded in reviving the Drama, but, on the
 contrary, had rather partaken of its decline. He had been ominously
 heard of, through the play-bills, as a faithful Black, in connection
 with a little girl of noble birth, and a monkey. And Herbert had seen
 him as a predatory Tartar of comic propensities, with a face like a red
-brick, and an outrageous hat all over bells.
+brick, and an outrageous hat all over [[Bells|bells]].
 
-I dined at what Herbert and I used to call a geographical chop-house,
+I dined at what Herbert and I used to call a geographical chop-[[house]],
 where there were maps of the world in porter-pot rims on every
 half-yard of the tablecloths, and charts of gravy on every one of the
-knives,—to this day there is scarcely a single chop-house within the
-Lord Mayor’s dominions which is not geographical,—and wore out the time
+knives,—to this day there is scarcely a single chop-[[house]] within the
+[[Lord Mayor]]’s dominions which is not geographical,—and wore out the [[Time|time]]
 in dozing over crumbs, staring at gas, and baking in a hot blast of
 dinners. By and by, I roused myself, and went to the play.
 
@@ -106,18 +106,18 @@ stated (by the boatswain) to be as black as his figure-head, proposed
 to two other Swabs to get all mankind into difficulties; which was so
 effectually done (the Swab family having considerable political
 influence) that it took half the evening to set things right, and then
-it was only brought about through an honest little grocer with a white
-hat, black gaiters, and red nose, getting into a clock, with a
+it was only brought about through an honest little [[grocer]] with a white
+hat, black gaiters, and red nose, getting into a [[Clock|clock]], with a
 gridiron, and listening, and coming out, and knocking everybody down
 from behind with the gridiron whom he couldn’t confute with what he had
 overheard. This led to Mr. Wopsle’s (who had never been heard of
 before) coming in with a star and garter on, as a plenipotentiary of
 great power direct from the Admiralty, to say that the Swabs were all
-to go to prison on the spot, and that he had brought the boatswain down
-the Union Jack, as a slight acknowledgment of his public services. The
-boatswain, unmanned for the first time, respectfully dried his eyes on
+to go to [[Prison|prison]] on the spot, and that he had brought the boatswain down
+the [[Union]] Jack, as a slight acknowledgment of his public services. The
+boatswain, unmanned for the first [[Time|time]], respectfully dried his eyes on
 the Jack, and then cheering up, and addressing Mr. Wopsle as Your
-Honour, solicited permission to take him by the fin. Mr. Wopsle,
+[[Honour]], solicited permission to take him by the fin. Mr. Wopsle,
 conceding his fin with a gracious dignity, was immediately shoved into
 a dusty corner, while everybody danced a hornpipe; and from that
 corner, surveying the public with a discontented eye, became aware of

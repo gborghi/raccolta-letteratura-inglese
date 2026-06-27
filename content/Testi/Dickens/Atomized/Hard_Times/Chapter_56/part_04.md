@@ -24,16 +24,16 @@ up-stairs, that she might appear, if needful, with the greater dignity.
 with his light eye at Mrs. Sparsit’s keyhole.  So, Mrs. Sparsit, who had
 improved the interval by touching up her cap, took her classical features
 down-stairs again, and entered the board-room in the manner of a Roman
-matron going outside the city walls to treat with an invading general.
+matron going outside the [[City|city]] walls to treat with an invading general.
 
-The visitor having strolled to the window, and being then engaged in
+The visitor having strolled to the [[Window|window]], and being then engaged in
 looking carelessly out, was as unmoved by this impressive entry as man
 could possibly be.  He stood whistling to himself with all imaginable
 coolness, with his hat still on, and a certain air of exhaustion upon
-him, in part arising from excessive summer, and in part from excessive
+him, in part arising from excessive [[Summer|summer]], and in part from excessive
 gentility.  For it was to be seen with half an eye that he was a thorough
-gentleman, made to the model of the time; weary of everything, and
-putting no more faith in anything than Lucifer.
+gentleman, made to the model of the [[Time|time]]; weary of everything, and
+putting no more [[Faith|faith]] in anything than [[Lucifer]].
 
 ‘I believe, sir,’ quoth Mrs. Sparsit, ‘you wished to see me.’
 
@@ -42,9 +42,9 @@ me.’
 
 ‘Humph!’ thought Mrs. Sparsit, as she made a stately bend.  ‘Five and
 thirty, good-looking, good figure, good teeth, good voice, good breeding,
-well-dressed, dark hair, bold eyes.’  All which Mrs. Sparsit observed in
+[[Well|well]]-dressed, dark hair, bold eyes.’  All which Mrs. Sparsit observed in
 her womanly way—like the Sultan who put his head in the pail of
-water—merely in dipping down and coming up again.
+[[Water|water]]—merely in dipping down and coming up again.
 
 ‘Please to be seated, sir,’ said Mrs. Sparsit.
 
@@ -94,21 +94,21 @@ something fluffy, which I assume to be the raw material—’
 Mrs. Sparsit inclined her head.
 
 ‘—Raw material—where Mr. Bounderby, the banker, might reside.  Upon
-which, misled no doubt by the word Banker, he directed me to the Bank.
+which, misled no [[Doubt|doubt]] by the word Banker, he directed me to the Bank.
 Fact being, I presume, that Mr. Bounderby the Banker does _not_ reside in
-the edifice in which I have the honour of offering this explanation?’
+the edifice in which I have the [[Honour|honour]] of offering this explanation?’
 
 ‘No, sir,’ returned Mrs. Sparsit, ‘he does not.’
 
 ‘Thank you.  I had no intention of delivering my letter at the present
-moment, nor have I. But strolling on to the Bank to kill time, and having
-the good fortune to observe at the window,’ towards which he languidly
+moment, nor have I. But strolling on to the Bank to kill [[Time|time]], and having
+the good fortune to observe at the [[Window|window]],’ towards which he languidly
 waved his hand, then slightly bowed, ‘a lady of a very superior and
 agreeable appearance, I considered that I could not do better than take
 the liberty of asking that lady where Mr. Bounderby the Banker _does_
 live.  Which I accordingly venture, with all suitable apologies, to do.’
 
-The inattention and indolence of his manner were sufficiently relieved,
+The inattention and [[Indolence|indolence]] of his manner were sufficiently relieved,
 to Mrs. Sparsit’s thinking, by a certain gallantry at ease, which offered
 her homage too.  Here he was, for instance, at this moment, all but
 sitting on the table, and yet lazily bending over her, as if he
@@ -120,22 +120,22 @@ likewise; suggesting matter far more sensible and humorous than it ever
 contained—which was perhaps a shrewd device of the founder of this
 numerous sect, whosoever may have been that great man: ‘therefore I may
 observe that my letter—here it is—is from the member for this
-place—Gradgrind—whom I have had the pleasure of knowing in London.’
+place—Gradgrind—whom I have had the pleasure of knowing in [[London]].’
 
 Mrs. Sparsit recognized the hand, intimated that such confirmation was
 quite unnecessary, and gave Mr. Bounderby’s address, with all needful
 clues and directions in aid.
 
 ‘Thousand thanks,’ said the stranger.  ‘Of course you know the Banker
-well?’
+[[Well|well]]?’
 
 ‘Yes, sir,’ rejoined Mrs. Sparsit.  ‘In my dependent relation towards
 him, I have known him ten years.’
 
-‘Quite an eternity!  I think he married Gradgrind’s daughter?’
+‘Quite an [[Eternity|eternity]]!  I think he married Gradgrind’s daughter?’
 
 ‘Yes,’ said Mrs. Sparsit, suddenly compressing her mouth, ‘he had
-that—honour.’
+that—[[Honour|honour]].’
 
 ‘The lady is quite a philosopher, I am told?’
 
@@ -146,7 +146,7 @@ Mrs. Sparsit’s eyebrows, with a propitiatory air, ‘but you know the
 family, and know the world.  I am about to know the family, and may have
 much to do with them.  Is the lady so very alarming?  Her father gives
 her such a portentously hard-headed reputation, that I have a burning
-desire to know.  Is she absolutely unapproachable?  Repellently and
+[[Desire|desire]] to know.  Is she absolutely unapproachable?  Repellently and
 stunningly clever?  I see, by your meaning smile, you think not.  You
-have poured balm into my anxious soul.  As to age, now.  Forty?  Five and
+have poured balm into my anxious [[Soul|soul]].  As to age, now.  Forty?  Five and
 thirty?’

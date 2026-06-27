@@ -30,11 +30,11 @@ man with—“’
 
 ‘N—not exactly so, sir,’ said Mr Wegg.
 
-‘Why, you know every one of these songs by name and by tune, and if you
+‘Why, you know every one of these [[songs]] by name and by tune, and if you
 want to read or to sing any one on ’em off straight, you’ve only to whip
 on your spectacles and do it!’ cried Mr Boffin. ‘I see you at it!’
 
-‘Well, sir,’ returned Mr Wegg, with a conscious inclination of the head;
+‘[[Well]], sir,’ returned Mr Wegg, with a conscious inclination of the head;
 ‘we’ll say literary, then.’
 
 ‘“A literary man—WITH a wooden leg—and all Print is open to him!”
@@ -54,8 +54,8 @@ collaring and throwing.’
 ‘I know’d it! Then consider this. Here am I, a man without a wooden leg,
 and yet all print is shut to me.’
 
-‘Indeed, sir?’ Mr Wegg returned with increasing self-complacency.
-‘Education neglected?’
+‘Indeed, sir?’ Mr Wegg returned with increasing [[Self|self]]-complacency.
+‘[[Education]] neglected?’
 
 ‘Neg—lected!’ repeated Boffin, with emphasis. ‘That ain’t no word for
 it. I don’t mean to say but what if you showed me a B, I could so far
@@ -83,7 +83,7 @@ I’m getting to be a old bird, and I want to take it easy. But I want
 some reading—some fine bold reading, some splendid book in a gorging
 Lord-Mayor’s-Show of wollumes’ (probably meaning gorgeous, but misled
 by association of ideas); ‘as’ll reach right down your pint of view, and
-take time to go by you. How can I get that reading, Wegg? By,’ tapping
+take [[Time|time]] to go by you. How can I get that reading, Wegg? By,’ tapping
 him on the breast with the head of his thick stick, ‘paying a man truly
 qualified to do it, so much an hour (say twopence) to come and do it.’
 
@@ -97,21 +97,21 @@ in quite a new light. ‘Hew! This is the offer you mentioned, sir?’
 ‘I don’t,’ said Boffin, in a free-handed manner, ‘want to tie a literary
 man—WITH a wooden leg—down too tight. A halfpenny an hour shan’t part
 us. The hours are your own to choose, after you’ve done for the day
-with your house here. I live over Maiden Lane way—out Holloway
+with your [[house]] here. I live over Maiden Lane way—out Holloway
 direction—and you’ve only got to go East-and-by-North when you’ve
 finished here, and you’re there. Twopence halfpenny an hour,’ said
-Boffin, taking a piece of chalk from his pocket and getting off the
+Boffin, taking a piece of [[chalk]] from his pocket and getting off the
 stool to work the sum on the top of it in his own way; ‘two long’uns and
 a short’un—twopence halfpenny; two short’uns is a long’un and two two
 long’uns is four long’uns—making five long’uns; six nights a week at
-five long’uns a night,’ scoring them all down separately, ‘and you mount
-up to thirty long’uns. A round’un! Half a crown!’
+five long’uns a [[Night|night]],’ scoring them all down separately, ‘and you mount
+up to thirty long’uns. A round’un! Half a [[Crown|crown]]!’
 
 Pointing to this result as a large and satisfactory one, Mr Boffin
 smeared it out with his moistened glove, and sat down on the remains.
 
-‘Half a crown,’ said Wegg, meditating. ‘Yes. (It ain’t much, sir.) Half
-a crown.’
+‘Half a [[Crown|crown]],’ said Wegg, meditating. ‘Yes. (It ain’t much, sir.) Half
+a [[Crown|crown]].’
 
 ‘Per week, you know.’
 
@@ -121,10 +121,10 @@ you thinking at all of poetry?’ Mr Wegg inquired, musing.
 ‘Would it come dearer?’ Mr Boffin asked.
 
 ‘It would come dearer,’ Mr Wegg returned. ‘For when a person comes to
-grind off poetry night after night, it is but right he should expect to
+grind off poetry [[Night|night]] after [[Night|night]], it is but right he should expect to
 be paid for its weakening effect on his mind.’
 
-‘To tell you the truth Wegg,’ said Boffin, ‘I wasn’t thinking of poetry,
+‘To tell you the [[Truth|truth]] Wegg,’ said Boffin, ‘I wasn’t thinking of poetry,
 except in so fur as this:—If you was to happen now and then to feel
 yourself in the mind to tip me and Mrs Boffin one of your ballads, why
 then we should drop into poetry.’
@@ -142,14 +142,14 @@ took it very kindly indeed.
 unconcealed anxiety.
 
 Silas, who had stimulated this anxiety by his hard reserve of manner,
-and who had begun to understand his man very well, replied with an air;
+and who had begun to understand his man very [[Well|well]], replied with an air;
 as if he were saying something extraordinarily generous and great:
 
 ‘Mr Boffin, I never bargain.’
 
 ‘So I should have thought of you!’ said Mr Boffin, admiringly. ‘No, sir.
 I never did ’aggle and I never will ’aggle. Consequently I meet you at
-once, free and fair, with—Done, for double the money!’
+once, free and fair, with—Done, for [[Double|double]] the money!’
 
 Mr Boffin seemed a little unprepared for this conclusion, but assented,
 with the remark, ‘You know better what it ought to be than I do, Wegg,’

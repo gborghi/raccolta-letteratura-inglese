@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 46 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 46 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-And yet Nicholas was in the Rules of the King’s Bench Prison! If he
-had been in Italy indeed, and the time had been sunset, and the scene
+And yet Nicholas was in the Rules of the [[King]]’s Bench [[Prison]]! If he
+had been in [[Italy]] indeed, and the [[Time|time]] had been sunset, and the scene
 a stately terrace! But, there is one broad sky over all the world, and
 whether it be blue or cloudy, the same heaven beyond it; so, perhaps, he
 had no need of compunction for thinking as he did.
@@ -30,13 +30,13 @@ His features presented the remains of a handsome countenance, but one
 in which the embers of strong and impetuous passions were easier to be
 traced than any expression which would have rendered a far plainer face
 much more prepossessing. His looks were very haggard, and his limbs and
-body literally worn to the bone, but there was something of the old fire
+[[Body|body]] literally worn to the bone, but there was something of the old [[Fire|fire]]
 in the large sunken eye notwithstanding, and it seemed to kindle afresh
 as he struck a thick stick, with which he seemed to have supported
 himself in his seat, impatiently on the floor twice or thrice, and
 called his daughter by her name.
 
-‘Madeline, who is this? What does anybody want here? Who told a stranger
+‘[[Madeline]], who is this? What does anybody want here? Who told a stranger
 we could be seen? What is it?’
 
 ‘I believe--’ the young lady began, as she inclined her head with an air
@@ -44,26 +44,26 @@ of some confusion, in reply to the salutation of Nicholas.
 
 ‘You always believe,’ returned her father, petulantly. ‘What is it?’
 
-By this time Nicholas had recovered sufficient presence of mind to speak
+By this [[Time|time]] Nicholas had recovered sufficient presence of mind to speak
 for himself, so he said (as it had been agreed he should say) that he
 had called about a pair of hand-screens, and some painted velvet for an
 ottoman, both of which were required to be of the most elegant design
-possible, neither time nor expense being of the smallest consideration.
+possible, neither [[Time|time]] nor expense being of the smallest consideration.
 He had also to pay for the two drawings, with many thanks, and,
 advancing to the little table, he laid upon it a bank note, folded in an
 envelope and sealed.
 
-‘See that the money is right, Madeline,’ said the father. ‘Open the
+‘See that the money is right, [[Madeline]],’ said the father. ‘Open the
 paper, my dear.’
 
 ‘It’s quite right, papa, I’m sure.’
 
 ‘Here!’ said Mr. Bray, putting out his hand, and opening and shutting
 his bony fingers with irritable impatience. ‘Let me see. What are you
-talking about, Madeline? You’re sure? How can you be sure of any such
-thing? Five pounds--well, is THAT right?’
+talking about, [[Madeline]]? You’re sure? How can you be sure of any such
+thing? Five pounds--[[Well|well]], is THAT right?’
 
-‘Quite,’ said Madeline, bending over him. She was so busily employed in
+‘Quite,’ said [[Madeline]], bending over him. She was so busily employed in
 arranging the pillows that Nicholas could not see her face, but as she
 stooped he thought he saw a tear fall.
 
@@ -72,7 +72,7 @@ eagerness, and motioning towards it with such a quivering hand that the
 bank note rustled in the air. ‘Tell her to get it changed, to get me a
 newspaper, to buy me some grapes, another bottle of the wine that I had
 last week--and--and--I forget half I want just now, but she can go out
-again. Let her get those first, those first. Now, Madeline, my love,
+again. Let her get those first, those first. Now, [[Madeline]], my [[Love|love]],
 quick, quick! Good God, how slow you are!’
 
 ‘He remembers nothing that SHE wants!’ thought Nicholas. Perhaps
@@ -85,9 +85,9 @@ he waited for a receipt.
 ‘No matter! what do you mean, sir?’ was the tart rejoinder. ‘No matter!
 Do you think you bring your paltry money here as a favour or a gift;
 or as a matter of business, and in return for value received? D--n you,
-sir, because you can’t appreciate the time and taste which are bestowed
+sir, because you can’t appreciate the [[Time|time]] and taste which are bestowed
 upon the goods you deal in, do you think you give your money away? Do
-you know that you are talking to a gentleman, sir, who at one time
+you know that you are talking to a gentleman, sir, who at one [[Time|time]]
 could have bought up fifty such men as you and all you have? What do you
 mean?’
 
@@ -99,13 +99,13 @@ Nicholas.
 returned the father. ‘My daughter, sir, requires no kindness from you
 or anybody else. Have the goodness to confine your dealings strictly to
 trade and business, and not to travel beyond it. Every petty tradesman
-is to begin to pity her now, is he? Upon my soul! Very pretty. Madeline,
+is to begin to pity her now, is he? Upon my [[Soul|soul]]! Very pretty. [[Madeline]],
 my dear, give him a receipt; and mind you always do so.’
 
 While she was feigning to write it, and Nicholas was ruminating upon the
 extraordinary but by no means uncommon character thus presented to his
 observation, the invalid, who appeared at times to suffer great bodily
-pain, sank back in his chair and moaned out a feeble complaint that the
+[[Pain|pain]], sank back in his chair and moaned out a feeble complaint that the
 girl had been gone an hour, and that everybody conspired to goad him.
 
 ‘When,’ said Nicholas, as he took the piece of paper, ‘when shall I call
@@ -114,27 +114,27 @@ again?’
 This was addressed to the daughter, but the father answered immediately.
 
 ‘When you’re requested to call, sir, and not before. Don’t worry and
-persecute. Madeline, my dear, when is this person to call again?’
+persecute. [[Madeline]], my dear, when is this person to call again?’
 
-‘Oh, not for a long time, not for three or four weeks; it is not
+‘Oh, not for a long [[Time|time]], not for three or four weeks; it is not
 necessary, indeed; I can do without,’ said the young lady, with great
 eagerness.
 
 ‘Why, how are we to do without?’ urged her father, not speaking above
-his breath. ‘Three or four weeks, Madeline! Three or four weeks!’
+his breath. ‘Three or four weeks, [[Madeline]]! Three or four weeks!’
 
 ‘Then sooner, sooner, if you please,’ said the young lady, turning to
 Nicholas.
 
-‘Three or four weeks!’ muttered the father. ‘Madeline, what on earth--do
+‘Three or four weeks!’ muttered the father. ‘[[Madeline]], what on earth--do
 nothing for three or four weeks!’
 
-‘It is a long time, ma’am,’ said Nicholas.
+‘It is a long [[Time|time]], ma’am,’ said Nicholas.
 
 ‘YOU think so, do you?’ retorted the father, angrily. ‘If I chose to
 beg, sir, and stoop to ask assistance from people I despise, three or
-four months would not be a long time; three or four years would not be a
-long time. Understand, sir, that is if I chose to be dependent; but as I
+four months would not be a long [[Time|time]]; three or four years would not be a
+long [[Time|time]]. Understand, sir, that is if I chose to be dependent; but as I
 don’t, you may call in a week.’
 
 Nicholas bowed low to the young lady and retired, pondering upon Mr
@@ -148,7 +148,7 @@ timidly towards him, seemed to hesitate whether she should call him back
 or no. The best way of settling the question was to turn back at once,
 which Nicholas did.
 
-‘I don’t know whether I do right in asking you, sir,’ said Madeline,
+‘I don’t know whether I do right in asking you, sir,’ said [[Madeline]],
 hurriedly, ‘but pray, pray, do not mention to my poor mother’s dear
 friends what has passed here today. He has suffered much, and is worse
 this morning. I beg you, sir, as a boon, a favour to myself.’
@@ -161,7 +161,7 @@ hazard my life to gratify it.’
 ‘Truly and sincerely,’ rejoined Nicholas, his lips trembling as he
 formed the words, ‘if ever man spoke truly yet. I am not skilled in
 disguising my feelings, and if I were, I could not hide my heart from
-you. Dear madam, as I know your history, and feel as men and angels must
+you. Dear madam, as I know your [[history]], and feel as men and angels must
 who hear and see such things, I do entreat you to believe that I would
 die to serve you.’
 
@@ -171,12 +171,12 @@ The young lady turned away her head, and was plainly weeping.
 say too much, or to presume upon the confidence which has been intrusted
 to me. But I could not leave you as if my interest and sympathy expired
 with the commission of the day. I am your faithful servant, humbly
-devoted to you from this hour, devoted in strict truth and honour to him
+devoted to you from this hour, devoted in strict [[Truth|truth]] and [[Honour|honour]] to him
 who sent me here, and in pure integrity of heart, and distant respect
 for you. If I meant more or less than this, I should be unworthy his
-regard, and false to the very nature that prompts the honest words I
+regard, and false to the very [[Nature|nature]] that prompts the honest words I
 utter.’
 
 She waved her hand, entreating him to be gone, but answered not a word.
 Nicholas could say no more, and silently withdrew. And thus ended his
-first interview with Madeline Bray.
+first interview with [[Madeline Bray]].

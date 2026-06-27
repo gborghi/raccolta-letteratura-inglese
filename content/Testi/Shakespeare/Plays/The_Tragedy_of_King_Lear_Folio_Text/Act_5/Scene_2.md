@@ -1,5 +1,5 @@
 ---
-title: "The Tragedy of King Lear (Folio Text) — Act V, Scene 2"
+title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act V, Scene 2"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)"
@@ -16,13 +16,13 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Alarum within. Enter with a drummer and colours King Lear, Queen Cordelia, and soldiers over the stage; and exeunt. Enter Edgar disguised as a peasant, guiding the blind Duke of Gloucester |
-| EDGAR | Here, father, take the shadow of this tree<br>For your good host; pray that the right may thrive.<br>If ever I return to you again<br>I’ll bring you comfort. |
-| GLOUCESTER | Grace go with you, sir. |
-| *(didascalia)* | Exit Edgar |
-| *(didascalia)* | Alarum and retreat within. Enter Edgar |
-| EDGAR | Away, old man. Give me thy hand. Away.<br>King Lear hath lost, he and his daughter ta’en.<br>Give me thy hand. Come on. |
-| GLOUCESTER | No further, sir. A man may rot even here. |
-| EDGAR | What, in ill thoughts again? Men must endure<br>Their going hence even as their coming hither.<br>Ripeness is all. Come on. |
-| GLOUCESTER | And that’s true, too. |
-| *(didascalia)* | Exit Edgar guiding Gloucester |
+| *(didascalia)* | Alarum within. Enter with a drummer and colours [[King Lear]], [[Queen]] [[Cordelia]], and soldiers over the stage; and exeunt. Enter [[Edgar]] disguised as a peasant, guiding the blind [[Duke of Gloucester]] |
+| [[Edgar|EDGAR]] | Here, father, take the [[Shadow|shadow]] of this tree<br>For your good host; pray that the right may thrive.<br>If ever I return to you again<br>I’ll bring you comfort. |
+| [[Gloucester|GLOUCESTER]] | Grace go with you, sir. |
+| *(didascalia)* | Exit [[Edgar]] |
+| *(didascalia)* | Alarum and retreat within. Enter [[Edgar]] |
+| [[Edgar|EDGAR]] | Away, old man. Give me thy hand. Away.<br>[[King Lear]] hath lost, he and his daughter ta’en.<br>Give me thy hand. Come on. |
+| [[Gloucester|GLOUCESTER]] | No further, sir. A man may rot even here. |
+| [[Edgar|EDGAR]] | What, in ill thoughts again? Men must endure<br>Their going hence even as their coming hither.<br>Ripeness is all. Come on. |
+| [[Gloucester|GLOUCESTER]] | And that’s true, too. |
+| *(didascalia)* | Exit [[Edgar]] guiding [[Gloucester]] |

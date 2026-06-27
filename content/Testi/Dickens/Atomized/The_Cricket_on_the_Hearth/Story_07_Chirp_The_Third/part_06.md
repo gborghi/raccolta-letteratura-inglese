@@ -25,37 +25,37 @@ and the soft cheek against her face. "No, I am not so blind as that."
 Her father went on one side of her, while Dot remained upon the other,
 holding her hand.
 
-"I know you all," said Bertha, "better than you think. But none so well
+"I know you all," said Bertha, "better than you think. But none so [[Well|well]]
 as her. Not even you, father. There is nothing half so real and so true
 about me as she is. If I could be restored to sight this instant, and
 not a word were spoken, I could choose her from a crowd! My sister!"
 
 "Bertha, my dear!" said Caleb. "I have something on my mind I want to
-tell you while we three are alone. Hear me kindly! I have a confession
+tell you while we three are [[Alone|alone]]. Hear me kindly! I have a confession
 to make to you, my darling!"
 
 "A confession, father?"
 
-"I have wandered from the truth, and lost myself, my child," said Caleb
+"I have wandered from the [[Truth|truth]], and lost myself, my [[Child|child]]," said Caleb
 with a pitiable expression in his bewildered face. "I have wandered from
-the truth, intending to be kind to you; and have been cruel."
+the [[Truth|truth]], intending to be kind to you; and have been cruel."
 
-She turned her wonder-stricken face towards him, and repeated "Cruel!"
+She turned her [[Wonder|wonder]]-stricken face towards him, and repeated "Cruel!"
 
 "He accuses himself too strongly, Bertha," said Dot. "You'll say so
 presently. You'll be the first to tell him so."
 
-"He cruel to me!" cried Bertha with a smile of incredulity.
+"He cruel to me!" cried Bertha with a smile of [[Incredulity|incredulity]].
 
-"Not meaning it, my child," said Caleb. "But I have been: though I never
+"Not meaning it, my [[Child|child]]," said Caleb. "But I have been: though I never
 suspected it till yesterday. My dear blind daughter, hear me and forgive
 me. The world you live in, heart of mine, doesn't exist as I have
 represented it. The eyes you have trusted in have been false to you."
 
-She turned her wonder-stricken face towards him still; but drew back,
+She turned her [[Wonder|wonder]]-stricken face towards him still; but drew back,
 and clung closer to her friend.
 
-"Your road in life was rough, my poor one," said Caleb, "and I meant to
+"Your [[Road|road]] in life was rough, my poor one," said Caleb, "and I meant to
 smooth it for you. I have altered objects, changed the characters of
 people, invented many things that never have been, to make you happier.
 I have had concealments from you, put deceptions on you, God forgive me!
@@ -75,39 +75,39 @@ In the anguish of her heart, she stretched out her hands, as if she were
 groping her way; then spread them, in a manner most forlorn and sad,
 upon her face.
 
-"The marriage that takes place to-day," said Caleb, "is with a stern,
+"The [[Marriage|marriage]] that takes place to-day," said Caleb, "is with a stern,
 sordid, grinding man. A hard master to you and me, my dear, for many
-years. Ugly in his looks, and in his nature. Cold and callous always.
-Unlike what I have painted him to you in everything, my child. In
+years. Ugly in his looks, and in his [[Nature|nature]]. Cold and callous always.
+Unlike what I have painted him to you in everything, my [[Child|child]]. In
 everything."
 
 "Oh, why," cried the Blind Girl, tortured, as it seemed, almost beyond
-endurance, "why did you ever do this? Why did you ever fill my heart so
-full, and then come in like Death, and tear away the objects of my love?
-O Heaven, how blind I am! How helpless and alone!"
+[[Endurance|endurance]], "why did you ever do this? Why did you ever fill my heart so
+full, and then come in like [[Death]], and tear away the objects of my [[Love|love]]?
+O Heaven, how blind I am! How helpless and [[Alone|alone]]!"
 
 Her afflicted father hung his head, and offered no reply but in his
 penitence and sorrow.
 
-She had been but a short time in this passion of regret when the Cricket
+She had been but a short [[Time|time]] in this passion of regret when the Cricket
 on the Hearth, unheard by all but her, began to chirp. Not merrily, but
-in a low, faint, sorrowing way. It was so mournful, that her tears began
+in a low, faint, sorrowing way. It was so mournful, that her [[Tears|tears]] began
 to flow; and, when the Presence which had been beside the Carrier all
-night, appeared behind her, pointing to her father, they fell down like
+[[Night|night]], appeared behind her, pointing to her father, they fell down like
 rain.
 
 She heard the Cricket-voice more plainly soon, and was conscious,
 through her blindness, of the Presence hovering about her father.
 
-"Mary," said the Blind Girl, "tell me what my home is. What it truly
+"Mary," said the Blind Girl, "tell me what my [[Home|home]] is. What it truly
 is."
 
-"It is a poor place, Bertha; very poor and bare indeed. The house will
-scarcely keep out wind and rain another winter. It is as roughly
+"It is a poor place, Bertha; very poor and bare indeed. The [[house]] will
+scarcely keep out [[Wind|wind]] and rain another [[Winter|winter]]. It is as roughly
 shielded from the weather, Bertha," Dot continued in a low, clear voice,
 "as your poor father in his sackcloth coat."
 
-The Blind Girl, greatly agitated, rose, and led the Carrier's little
+The Blind Girl, greatly agitated, [[Rose|rose]], and led the Carrier's little
 wife aside.
 
 "Those presents that I took such care of; that came almost at my wish,
@@ -130,9 +130,9 @@ are true I know. You'd not deceive me now; would you?"
 across the room to where we were just now--to where my father is--my
 father, so compassionate and loving to me--and tell me what you see."
 
-"I see," said Dot, who understood her well, "an old man sitting in a
+"I see," said Dot, who understood her [[Well|well]], "an old man sitting in a
 chair, and leaning sorrowfully on the back, with his face resting on his
-hand. As if his child should comfort him, Bertha."
+hand. As if his [[Child|child]] should comfort him, Bertha."
 
 "Yes, yes. She will. Go on."
 
@@ -140,7 +140,7 @@ hand. As if his child should comfort him, Bertha."
 thoughtful, grey-haired man. I see him now, despondent and bowed down,
 and striving against nothing. But, Bertha, I have seen him many times
 before, and striving hard in many ways, for one great sacred object. And
-I honour his grey head, and bless him!"
+I [[Honour|honour]] his grey head, and bless him!"
 
 The Blind Girl broke away from her; and, throwing herself upon her
 knees before him, took the grey head to her breast.
@@ -152,7 +152,7 @@ died, and never truly seen the father who has been so loving to me!"
 There were no words for Caleb's emotion.
 
 "There is not a gallant figure on this earth," exclaimed the Blind Girl,
-holding him in her embrace, "that I would love so dearly, and would
+holding him in her embrace, "that I would [[Love|love]] so dearly, and would
 cherish so devotedly, as this! The greyer, and more worn, the dearer,
 father! Never let them say I am blind again. There's not a furrow in his
 face, there's not a hair upon his head, that shall be forgotten in my

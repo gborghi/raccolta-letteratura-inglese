@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 4 (part 1)"
+title: "[[history]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/history-(Chesterton)"
@@ -28,12 +28,12 @@ But it is as disastrously long-sighted to be interested only
 in what is prehistoric.  And this disaster has befallen a large
 proportion of the learned who grope in the darkness of unrecorded
 epochs for the roots of their favourite race or races.
-The wars, the enslavements, the primitive marriage customs,
+The wars, the enslavements, the primitive [[Marriage|marriage]] customs,
 the colossal migrations and massacres upon which their
-theories repose, are no part of history or even of legend.
+theories repose, are no part of [[history]] or even of legend.
 And rather than trust with entire simplicity to these it would
 be infinitely wiser to trust to legend of the loosest and most
-local sort.  In any case, it is well to record even so simple
+local sort.  In any case, it is [[Well|well]] to record even so simple
 a conclusion as that what is prehistoric is unhistorical.
 
 But there is another way in which common sense can be brought
@@ -50,15 +50,15 @@ They could show how the long-sighted people were always cut
 to pieces in hand-to-hand struggles with axe and knife;
 until, with the invention of bows and arrows, the advantage veered
 to the long-sighted, and their enemies were shot down in droves.
-I could easily write a ruthless romance about it, and still more
+I could easily write a ruthless [[Romance|romance]] about it, and still more
 easily a ruthless anthropological theory.  According to that thesis
 which refers all moral to material changes, they could explain
 the tradition that old people grow conservative in politics
-by the well-known fact that old people grow more long-sighted.
+by the [[Well|well]]-known fact that old people grow more long-sighted.
 But I think there might be one thing about this theory which
 would stump us, and might even, if it be possible, stump them.
 Suppose it were pointed out that through all the three thousand
-years of recorded history, abounding in literature of every
+years of recorded [[history]], abounding in literature of every
 conceivable kind, there was not so much as a mention of
 the oculist question for which all had been dared and done.
 Suppose not one of the living or dead languages of mankind
@@ -67,19 +67,19 @@ Suppose, in short, the question that had torn the whole world
 in two was never even asked at all, until some spectacle-maker
 suggested it somewhere about 1750.  In that case I think we
 should find it hard to believe that this physical difference
-had really played so fundamental a part in human history.
+had really played so fundamental a part in human [[history]].
 And that is exactly the case with the physical difference
 between the Celts, the Teutons and the Latins.
 
 I know of no way in which fair-haired people can be prevented
-from falling in love with dark-haired people; and I do not believe
+from falling in [[Love|love]] with dark-haired people; and I do not believe
 that whether a man was long-headed or round-headed ever made
 much difference to any one who felt inclined to break his head.
 To all mortal appearance, in all mortal records and experience,
 people seem to have killed or spared, married or refrained
-from marriage, made kings or made slaves, with reference
+from [[Marriage|marriage]], made kings or made slaves, with reference
 to almost any other consideration except this one.
-There was the love of a valley or a village, a site or a family;
+There was the [[Love|love]] of a valley or a village, a site or a family;
 there were enthusiasms for a prince and his hereditary office;
 there were passions rooted in locality, special emotions about
 sea-fold or mountain-fold; there were historic memories of a cause
@@ -92,7 +92,7 @@ they never had a cause; and it was only a few years ago that they
 began even to have a cant.
 
 The orthodox modern historian, notably Green, remarks on
-the singularity of Britain in being alone of all Roman
+the singularity of Britain in being [[Alone|alone]] of all Roman
 provinces wholly cleared and repeopled by a Germanic race.
 He does not entertain, as an escape from the singularity of this even,
 the possibility that it never happened.  In the same spirit he deals
@@ -111,7 +111,7 @@ British chronicler, does not describe the great Teutonic system.
 In the opinion of Gildas, a modification of that of Gregory,
 it was a case of non Angli sed diaboli.  The modern Teutonist
 is `disappointed' that the contemporary authority saw nothing in his
-Teutons except wolves, dogs, and whelps from the kennel of barbarism.
+Teutons except wolves, [[dogs]], and whelps from the kennel of barbarism.
 But it is at least faintly tenable that there was nothing else
 to be seen.
 
@@ -121,24 +121,24 @@ visitations which civilized these islands, he did not see any
 ethnological problems, whatever there may have been to be seen.
 With him or his converts the chain of literary testimony is
 taken up again; and we must look at the world as they saw it.
-He found a king ruling in Kent, beyond whose borders lay other
+He found a [[King|king]] ruling in [[Kent]], beyond whose borders lay other
 kingdoms of about the same size, the kings of which were all
 apparently heathen.  The names of these kings were mostly what we
 call Teutonic names; but those who write the almost entirely
 hagiological records did not say, and apparently did not ask,
-whether the populations were in this sense of unmixed blood.
+whether the populations were in this sense of unmixed [[Blood|blood]].
 It is at least possible that, as on the Continent,
 the kings and courts were almost the only Teutonic element.
 The Christians found converts, they found patrons,
 they found persecutors; but they did not find Ancient Britons
 because they did not look for them; and if they moved
 among pure Anglo-Saxons they had not the gratification
-of knowing it.  There was, indeed, what all history attests,
+of knowing it.  There was, indeed, what all [[history]] attests,
 a marked change of feeling towards the marches of Wales.
-But all history also attests that this is always found,
+But all [[history]] also attests that this is always found,
 apart from any difference in race, in the transition from
 the lowlands to the mountain country.  But of all the things they
-found the thing that counts most in English history is this:
+found the thing that counts most in English [[history]] is this:
 that some of the kingdoms at least did correspond to genuine
 human divisions, which not only existed then but which exist now.
 Northumbria is still a truer thing than Northumberland.

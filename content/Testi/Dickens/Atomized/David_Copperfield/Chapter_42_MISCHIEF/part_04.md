@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 42: MISCHIEF (part 4)"
+title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -39,9 +39,9 @@ being among friends, that I have called Doctor Strong’s attention to the
 goings-on of Mrs. Strong. It’s much against the grain with me, I assure
 you, Copperfield, to be concerned in anything so unpleasant; but really,
 as it is, we’re all mixing ourselves up with what oughtn’t to be. That
-was what my meaning was, sir, when you didn’t understand me.’ I wonder
+was what my meaning was, sir, when you didn’t understand me.’ I [[Wonder|wonder]]
 now, when I recall his leer, that I did not collar him, and try to shake
-the breath out of his body.
+the breath out of his [[Body|body]].
 
 ‘I dare say I didn’t make myself very clear,’ he went on, ‘nor you
 neither. Naturally, we was both of us inclined to give such a subject
@@ -53,14 +53,14 @@ heart, I thought, but it had no effect upon Uriah’s.
 
 ‘--mentioned to Doctor Strong,’ he proceeded, ‘that anyone may see that
 Mr. Maldon, and the lovely and agreeable lady as is Doctor Strong’s
-wife, are too sweet on one another. Really the time is come (we being at
+wife, are too sweet on one another. Really the [[Time|time]] is come (we being at
 present all mixing ourselves up with what oughtn’t to be), when Doctor
 Strong must be told that this was full as plain to everybody as the sun,
 before Mr. Maldon went to India; that Mr. Maldon made excuses to come
 back, for nothing else; and that he’s always here, for nothing else.
 When you come in, sir, I was just putting it to my fellow-partner,’
 towards whom he turned, ‘to say to Doctor Strong upon his word and
-honour, whether he’d ever been of this opinion long ago, or not. Come,
+[[Honour|honour]], whether he’d ever been of this opinion long ago, or not. Come,
 Mr. Wickfield, sir! Would you be so good as tell us? Yes or no, sir?
 Come, partner!’
 
@@ -68,8 +68,8 @@ Come, partner!’
 irresolute hand upon the Doctor’s arm, ‘don’t attach too much weight to
 any suspicions I may have entertained.’
 
-‘There!’ cried Uriah, shaking his head. ‘What a melancholy confirmation:
-ain’t it? Him! Such an old friend! Bless your soul, when I was nothing
+‘There!’ cried Uriah, shaking his head. ‘What a [[Melancholy|melancholy]] confirmation:
+ain’t it? Him! Such an old friend! Bless your [[Soul|soul]], when I was nothing
 but a clerk in his office, Copperfield, I’ve seen him twenty times, if
 I’ve seen him once, quite in a taking about it--quite put out, you know
 (and very proper in him as a father; I’m sure I can’t blame him), to
@@ -85,17 +85,17 @@ his head. ‘You have had doubts.’
 
 ‘Speak up, fellow-partner,’ urged Uriah.
 
-‘I had, at one time, certainly,’ said Mr. Wickfield. ‘I--God forgive
+‘I had, at one [[Time|time]], certainly,’ said Mr. Wickfield. ‘I--God forgive
 me--I thought YOU had.’
 
 ‘No, no, no!’ returned the Doctor, in a tone of most pathetic grief.
-‘I thought, at one time,’ said Mr. Wickfield, ‘that you wished to send
+‘I thought, at one [[Time|time]],’ said Mr. Wickfield, ‘that you wished to send
 Maldon abroad to effect a desirable separation.’
 
 ‘No, no, no!’ returned the Doctor. ‘To give Annie pleasure, by making
-some provision for the companion of her childhood. Nothing else.’
+some provision for the companion of her [[Childhood|childhood]]. Nothing else.’
 
-‘So I found,’ said Mr. Wickfield. ‘I couldn’t doubt it, when you told
+‘So I found,’ said Mr. Wickfield. ‘I couldn’t [[Doubt|doubt]] it, when you told
 me so. But I thought--I implore you to remember the narrow construction
 which has been my besetting sin--that, in a case where there was so much
 disparity in point of years--’
@@ -119,7 +119,7 @@ what it was; I am forced to confess now, having no escape-’
 ‘when it’s got to this.’
 
 ‘--that I did,’ said Mr. Wickfield, glancing helplessly and distractedly
-at his partner, ‘that I did doubt her, and think her wanting in her
+at his partner, ‘that I did [[Doubt|doubt]] her, and think her wanting in her
 duty to you; and that I did sometimes, if I must say all, feel averse
 to Agnes being in such a familiar relation towards her, as to see what I
 saw, or in my diseased theory fancied that I saw. I never mentioned
@@ -128,10 +128,10 @@ is terrible to you to hear,’ said Mr. Wickfield, quite subdued, ‘if you
 knew how terrible it is for me to tell, you would feel compassion for
 me!’
 
-The Doctor, in the perfect goodness of his nature, put out his hand. Mr.
+The Doctor, in the perfect goodness of his [[Nature|nature]], put out his hand. Mr.
 Wickfield held it for a little while in his, with his head bowed down.
 
-‘I am sure,’ said Uriah, writhing himself into the silence like a
+‘I am sure,’ said Uriah, writhing himself into the [[Silence|silence]] like a
 Conger-eel, ‘that this is a subject full of unpleasantness to everybody.
 But since we have got so far, I ought to take the liberty of mentioning
 that Copperfield has noticed it too.’

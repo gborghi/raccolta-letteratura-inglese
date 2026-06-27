@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 2"
+title: "[[longbow2]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 Chapter II
 
-The Improbable Success of Mr. Owen Hood
+The Improbable [[success|Success]] of Mr. Owen Hood
 
 
 Heroes who have endured the heavy labour of reading to the end the story
@@ -28,7 +28,7 @@ that he was long known and respected, before his last escapade, as a
 respectable and retired military man in a residential part of Surrey,
 with a sunburnt complexion and an interest in savage mythology. 
 As a fact, however, he had gathered the sunburn and the savage
-myths some time before he had managed to collect the respectability
+myths some [[Time|time]] before he had managed to collect the respectability
 and the suburban myths.  In his early youth he had been a traveller
 of the adventurous and even restless sort; and he only concerns
 this story because he was a member of a sort of club or clique
@@ -36,7 +36,7 @@ of young men whose adventurousness verged on extravagance.
 They were all eccentrics of one kind or another, some professing
 extreme revolutionary and some extreme reactionary opinions,
 and some both.  Among the latter may be classed Mr. Robert Owen Hood,
-the somewhat unlegal lawyer who is the hero of this tale.
+the somewhat unlegal lawyer who is the [[Hero|hero]] of this tale.
 
 Robert Owen Hood was Crane's most intimate and incongruous friend. 
 Hood was from the first as sedentary as Crane was adventurous. 
@@ -46,7 +46,7 @@ his family; but he inherited along with it a little money that allowed
 him to neglect the law and to cultivate a taste for liberty and for
 drifting and dreaming in lost corners of the country, especially in
 the little hills between the Severn and the Thames.  In the upper
-reaches of the latter river is an islet in which he especially loved
+reaches of the latter [[River|river]] is an islet in which he especially loved
 to sit fishing, a shabby but not commonplace figure clad in grey,
 with a mane of rust-coloured hair and a long face with a large chin,
 rather like Napoleon.  Beside him, on the occasion now in question,
@@ -54,7 +54,7 @@ stood the striking contrast of his alert military friend in full
 travelling kit; being on the point of starting for one of his odysseys
 in the South Seas.
 
-"Well," demanded the impatient traveller in a tone of remonstrance,
+"[[Well]]," demanded the impatient traveller in a tone of remonstrance,
 "have you caught anything?"
 
 "You once asked me," replied the angler placidly, "what I meant
@@ -65,25 +65,25 @@ a materialist."
 "give me materialism."
 
 "On the contrary," replied his friend, "your fad is far madder
-than mine.  And I doubt if it's any more fruitful.  The moment men
-like you see a man sitting by a river with a rod, they are insanely
+than mine.  And I [[Doubt|doubt]] if it's any more fruitful.  The moment men
+like you see a man sitting by a [[River|river]] with a rod, they are insanely
 impelled to ask him what he has caught.  But when you go off to shoot
 big game, as you call it, nobody ask you what you have caught. 
-Nobody expects you to bring home a hippopotamus for supper. 
+Nobody expects you to bring [[Home|home]] a hippopotamus for supper. 
 Nobody has ever seen you walking up Pall Mall, followed respectfully
 by a captive giraffe.  Your bag of elephants, though enormous,
-seems singularly unobtrusive; left in the cloak-room, no doubt. 
-Personally, I doubt if you ever catch anything.  It's all decorously
-hidden in desert sand and doubt and distance.  But what I catch
+seems singularly unobtrusive; left in the cloak-room, no [[Doubt|doubt]]. 
+Personally, I [[Doubt|doubt]] if you ever catch anything.  It's all decorously
+hidden in [[Desert|desert]] sand and [[Doubt|doubt]] and distance.  But what I catch
 is something far more elusive, and as slippery as any fish. 
-It is the soul of England."
+It is the [[Soul|soul]] of England."
 
 "I should think you'd catch a cold if not a fish," answered Crane,
 "sitting dangling your feet in a pool like that.  I like to move
-about a little more.  Dreaming is all very well in its way."
+about a little more.  Dreaming is all very [[Well|well]] in its way."
 
 At this point a symbolic cloud ought to have come across the sun,
-and a certain shadow of mystery and silence must rest for a moment
+and a certain [[Shadow|shadow]] of mystery and [[Silence|silence]] must rest for a moment
 upon the narrative.  For it was at this moment that James Crane,
 being blind with inspiration, uttered his celebrated Prophecy,
 upon which this improbable narrative turns.  As was commonly the case
@@ -92,35 +92,35 @@ ominous about what he said.  A moment after he would probably not
 know that he had said it.  A moment after, it was as if a cloud
 of strange shape had indeed passed from the face of the sun.
 
-The prophecy has taken the form of a proverb.  In due time the patient,
-all-suffering reader, may learn what proverb.  As it happened,
+The prophecy has taken the form of a proverb.  In due [[Time|time]] the patient,
+all-[[Suffering|suffering]] reader, may learn what proverb.  As it happened,
 indeed, the conversation had largely consisted of proverbs;
 as is often the case with men like Hood, whose hearts are with
 that old English country life from which all the proverbs came. 
 But it was Crane who said:
 
-"It's all very well to be fond of England; but a man who wants
+"It's all very [[Well|well]] to be fond of England; but a man who wants
 to help England mustn't let the grass grow under his feet."
 
 "And that's just what I want to do," answered Hood.  "That's exactly
 what even your poor tired people in big towns really want to do. 
 When a wretched clerk walks down Threadneedle Street, wouldn't he
 really be delighted if he could look down and see the grass growing
-under his feet; a magic green carpet in the middle of the pavement? 
+under his feet; a [[Magic|magic]] green carpet in the middle of the pavement? 
 It would be like a fairy-tale."
 
-"Well, but he wouldn't sit like a stone as you do," replied the other. 
+"[[Well]], but he wouldn't sit like a stone as you do," replied the other. 
 "A man might let the grass grow under his feet without actually
 letting the ivy grow up his legs.  That sounds like a fairy-tale, too,
 if you like, but there's no proverb to recommend it."
 
 "Oh, there are proverbs on my side, if you come to that,"
-answered Hood laughing.  "I might remind you about the rolling
+answered Hood laughing.  "I might remind you about the [[rolling]]
 stone that gathers no moss."
 
-"Well, who wants to gather moss except a few fussy old ladies?"
-demanded Crane.  "Yes, I'm a rolling stone, I suppose; and I go
-rolling round the earth as the earth goes rolling round the sun. 
+"[[Well]], who wants to gather moss except a few fussy old ladies?"
+demanded Crane.  "Yes, I'm a [[rolling]] stone, I suppose; and I go
+[[rolling]] round the earth as the earth goes [[rolling]] round the sun. 
 But I'll tell you what; there's only one kind of stone that does really
 gather moss."
 
@@ -128,7 +128,7 @@ gather moss."
 
 "A gravestone," said Crane.
 
-There was a silence, and Hood sat gazing with his owlish face at
+There was a [[Silence|silence]], and Hood sat gazing with his owlish face at
 the dim pools in which the dark woods were mirrored.  At last he said:
 
 "Moss isn't the only thing found on that.  Sometimes there
@@ -473,7 +473,7 @@ The general public never heard very much about it; at least until
 one catastrophic scene which was to follow.  There was some faint
 ripple of the question some months later, when Dr. Horace Hunter
 was standing for Parliament in that division.  One or two questions
-were asked about his duties in relation to river pollution;
+were asked about his duties in relation to [[River|river]] pollution;
 but it was soon apparent that no party particularly wished to force
 the issue against the best opinions advanced on the other side. 
 The greatest living authority on hygiene, Professor Hake,
@@ -498,26 +498,26 @@ Hood took no interest in the election; but while it was proceeding
 he followed the matter a little further in another form.  He was
 a lawyer, a lazy, but in some ways a learned one; for, his tastes
 being studious, he had originally learned the trade he had never used. 
-More in defiance than in hope, he once carried the matter into
+More in defiance than in [[Hope|hope]], he once carried the matter into
 the Courts, pleading his own cause on the basis of a law of Henry
-the Third against frightening the fish of the King's liege
+the Third against frightening the fish of the [[King]]'s liege
 subjects in the Thames Valley.  The judge, in giving judgement,
 complimented him on the ability and plausibility of his contention,
 but ultimately rejected it on grounds equally historic and remote. 
 His lordship argued that no test seemed to be provided for ascertaining
-the degree of fear in the fish, or whether it amounted to that bodily
-fear of which the law took cognizance.  But the learned judge pointed
-out the precedent of a law of Richard the Second against certain
+the degree of [[Fear|fear]] in the fish, or whether it amounted to that bodily
+[[Fear|fear]] of which the law took cognizance.  But the learned judge pointed
+out the precedent of a law of [[Richard]] the Second against certain
 witches who had frightened children; which had been interpreted
-by so great an authority as Coke in the sense that the child "must
-return and of his own will testify to his fear."  It did not seem
+by so great an authority as Coke in the sense that the [[Child|child]] "must
+return and of his own will testify to his [[Fear|fear]]."  It did not seem
 to be alleged that any one of the fish in question had returned
 and laid any such testimony before any proper authority; and he
 therefore gave judgement for the defendants.  And when the learned
-judge happened to meet Lord Normantowers (as he was by this time)
+judge happened to meet Lord Normantowers (as he was by this [[Time|time]])
 out at dinner that evening, he was gaily rallied and congratulated
 by that new nobleman on the lucidity and finality of his judgement. 
-Indeed, the learned judge had really relished the logic both of his
+Indeed, the learned judge had really relished the [[logic]] both of his
 own and Hood's contention; but the conclusion was what he would
 have come to in any case.  For our judges are not hampered by any
 hide-bound code; they are progressive, like Dr. Hunter, and ally
@@ -529,7 +529,7 @@ altogether obliterated it in a blaze of glory, so far as Mr. Owen
 Hood was concerned.  He had just left the courts, and turning
 down the streets that led in the direction of the station, he made
 his way thither in something of a brown study, as was his wont. 
-The streets were filled with faces; it struck him for the first time
+The streets were filled with faces; it struck him for the first [[Time|time]]
 that there were thousands and thousands of people in the world. 
 There were more faces at the railway station, and then, when he
 had glanced idly at four or five of them, he saw one that was to him
@@ -537,32 +537,32 @@ as incredible as the face of the dead.
 
 She was coming casually out of the tea-room, carrying a handbag,
 just like anybody else.  That mystical perversity of his mind,
-which had insisted on sealing up the sacred memory like something
+which had insisted on sealing up the sacred [[Memory|memory]] like something
 hardly to be sought in mere curiosity, had fixed it in its original
 colours and setting, like something of which no detail could be
 changed without the vision dissolving.  He would have conceived it
 almost impossible that she could appear in anything but white or out
 of anything but a wood.  And he found himself turned topsy-turvy by
-an old and common incredulity of men in his condition; being startled
-by the coincidence that blue suited her as well as white; and that
+an old and common [[Incredulity|incredulity]] of men in his condition; being startled
+by the coincidence that blue suited her as [[Well|well]] as white; and that
 in what he remembered of that woodland there was something else;
 something to be said even for teashops and railway stations.
 
 She stopped in front of him and her pale, fluttering eyelids lifted
 from her blue-grey eyes.
 
-"Why," she said, "you are the boy that jumped in the river!"
+"Why," she said, "you are the boy that jumped in the [[River|river]]!"
 
 "I'm no longer a boy," answered Hood, "but I'm ready to jump
-in the river again."
+in the [[River|river]] again."
 
-"Well, don't jump on the railway-line," she said, as he turned
+"[[Well]], don't jump on the railway-line," she said, as he turned
 with a swiftness suggestive of something of the kind.
 
-"To tell you the truth," he said, "I was thinking of jumping into
+"To tell you the [[Truth|truth]]," he said, "I was thinking of jumping into
 a railway-train. Do you mind if I jump into your railway-train?"
 
-"Well, I'm going to Birkstead," she said rather doubtfully.
+"[[Well]], I'm going to Birkstead," she said rather doubtfully.
 
 Mr. Owen Hood did not in the least care where she was going, as he
 had resolved to go there; but as a matter of fact, he remembered a
@@ -576,25 +576,25 @@ of the absurdity of the thing.
 on us soon after it happened; at least that was when he first came. 
 You know Dr. Hunter, don't you?"
 
-"Yes," replied Owen, a shadow coming over his shining hour.  "Do you--
-do you know him well?"
+"Yes," replied Owen, a [[Shadow|shadow]] coming over his shining hour.  "Do you--
+do you know him [[Well|well]]?"
 
-"I know him pretty well now," said Miss Elizabeth Seymour.
+"I know him pretty [[Well|well]] now," said Miss Elizabeth Seymour.
 
-The shadow on his spirit blackened swiftly; he suspected something
+The [[Shadow|shadow]] on his spirit blackened swiftly; he suspected something
 quite suddenly and savagely.  Hunter, in Crane's old phrase, was not
 a man who let the grass grow under his feet.  It was so like him
 to have somehow used the incident as an introduction to the Seymours. 
 Things were always stepping-stones for Hunter, and the little rock
-in the river had been a stepping-stone to the country-house. But was
-the country-house a stepping-stone to something else?  Suddenly Hood
+in the [[River|river]] had been a stepping-stone to the country-[[house]]. But was
+the country-[[house]] a stepping-stone to something else?  Suddenly Hood
 realized that all his angers had been very abstracted angers. 
 He had never hated a man before.
 
 At that moment the train stopped at the station of Cowford.
 
 "I wish you'd get out here with me," he said abruptly, "only for
-a little--and it might be the last time.  I want you to do something."
+a little--and it might be the last [[Time|time]].  I want you to do something."
 
 She looked at him with a curious expression and said in a rather
 low voice, "What do you want me to do?"
@@ -602,22 +602,22 @@ low voice, "What do you want me to do?"
 "I want you to come and pick bluebells," he said harshly.
 
 She stepped out of the train, and they went up a winding country
-road without a word.
+[[Road|road]] without a word.
 
 "I remember!" she said suddenly.  "When you get to the top of this
-hill you see the wood where the bluebells were, and your little
+[[Hill|hill]] you see the wood where the bluebells were, and your little
 island beyond."
 
 "Come on and see it," said Owen.
 
-They stepped on the crest of the hill and stood.  Below them the black
+They stepped on the crest of the [[Hill|hill]] and stood.  Below them the black
 factory belched its livid smoke into the air; and where the wood had
 been were rows of little houses like boxes, built of dirty yellow brick.
 
 Hood spoke.  "And when you shall see the abomination of desolation
 sitting in the Holy of Holies--isn't that when the world is supposed
 to end?  I wish the world would end now; with you and me standing
-on a hill."
+on a [[Hill|hill]]."
 
 She was staring at the place with parted lips and more than her
 ordinary pallor; he knew she understood something monstrous and
@@ -631,26 +631,26 @@ of the election.  But the girl had already found her voice.
 "Is that Dr. Hunter?" she asked with commonplace curiosity;
 "is he standing for parliament?"
 
-A load that lay on Hood's mind like a rock suddenly rose like an eagle;
-and he felt as if the hill he stood on were higher than Everest. 
-By the insight of his own insanity, he knew well enough that SHE
-would have known well enough whether Hunter was standing, if--
+A load that lay on Hood's mind like a rock suddenly [[Rose|rose]] like an eagle;
+and he felt as if the [[Hill|hill]] he stood on were higher than Everest. 
+By the insight of his own insanity, he knew [[Well|well]] enough that SHE
+would have known [[Well|well]] enough whether Hunter was standing, if--
 if there had been anything like what he supposed.  The removal
 of the steadying weight staggered him, and he had said something
 quite indefensible.
 
 "I thought you would know.  I thought you and he were probably--
-well, the truth is I thought you were engaged, though I really
+[[Well|well]], the [[Truth|truth]] is I thought you were engaged, though I really
 don't know why."
 
 "I can't imagine why," said Elizabeth Seymour.  "I heard he was engaged
 to Lord Normantower's daughter.  They've got our old place now,
 you know."
 
-There was a silence and then Hood spoke suddenly in a loud
+There was a [[Silence|silence]] and then Hood spoke suddenly in a loud
 and cheerful voice.
 
-"Well, what I say is, `Vote for Hunter,'" he said heartily. 
+"[[Well]], what I say is, `Vote for Hunter,'" he said heartily. 
 "After all, why not vote for Hunter?  Good old Hunter!  I hope
 he'll be a member of Parliament.  I hope he'll be Prime Minister. 
 I hope he'll be President of the World State that Wells talks about. 
@@ -897,8 +897,8 @@ Do you realize that the hearts of a whole people have spontaneously
 stirred and chosen him?  That the suffering poor murmured in their
 sleep `Vote for Hunter' long before the Caucus came by a providential
 coincidence to the same conclusion?  Would not the people in The Hole
-set fire to their last poor sticks of furniture to do him honour? 
-Why, from this chair alone--"
+set [[Fire|fire]] to their last poor sticks of furniture to do him [[Honour|honour]]? 
+Why, from this chair [[Alone|alone]]--"
 
 He caught up the chair on which Hunter had been sitting and began
 to break it enthusiastically.  In this he was hastily checked; but he
@@ -908,18 +908,18 @@ thus urged at the eleventh hour.
 By nightfall he had actually organized his torchlight procession,
 escorting the triumphant Hunter, covered with blue ribbons,
 to the riverside, rather as if the worthy doctor were to be
-baptized like a convert or drowned like a witch.  For that matter,
-Hood might possibly intend to burn the witch; for he brandished
+baptized like a [[convert]] or drowned like a [[Witch|witch]].  For that matter,
+Hood might possibly intend to burn the [[Witch|witch]]; for he brandished
 the blazing torch he carried so as to make a sort of halo round
 Hunter's astonished countenance.  Then, springing on the scrap-heap
-by the brink of the river, he addressed the crowd for the last time.
+by the brink of the [[River|river]], he addressed the crowd for the last [[Time|time]].
 
 "Fellow-citizens, we meet upon the shore of the Thames, the Thames
 which is to Englishmen all that the Tiber ever was to Romans. 
 We meet in a valley which has been almost as much the haunt of
-English poets as of English birds.  Never was there an art so native
+English poets as of English [[Birds|birds]].  Never was there an art so native
 to our island as our old national tradition of landscape-painting
-in water-colour; never was that water-colour so luminous or so
+in [[Water|water]]-colour; never was that [[Water|water]]-colour so luminous or so
 delicate as when dedicated to these holy waters.  It was in such
 a scene that one of the most exquisite of our elder poets repeated
 as a burden to his meditations the single line, `Sweet Thames,
@@ -975,11 +975,11 @@ Is he something like Old Moore?"
 It's what he said that's so important.  He didn't like my moping
 about with books and a fishing-rod, and he said, standing on that
 very island, `You may know a lot; but I don't think you'll ever set
-the Thames on fire.  I'll eat my hat if you do.'"
+the Thames on [[Fire|fire]].  I'll eat my hat if you do.'"
 
 But the story of how Old Crane ate his hat is one upon which some readers
-at least can look back as on labour and suffering bravely endured. 
-And if it be possible for any of them to desire to know any more
+at least can look back as on labour and [[Suffering|suffering]] bravely endured. 
+And if it be possible for any of them to [[Desire|desire]] to know any more
 either about Mr. Crane or Mr. Hood, then they must gird themselves
 for the ordeal of reading the story of The Unobtrusive Traffic
-of Captain Pierce, and their trials are for a time deferred.
+of Captain Pierce, and their trials are for a [[Time|time]] deferred.

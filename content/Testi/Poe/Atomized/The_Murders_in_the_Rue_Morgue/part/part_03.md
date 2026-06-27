@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 3)"
+title: "[[The Murders in the Rue Morgue]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -26,15 +26,15 @@ tags:
 
       frigid and abstract; his eyes were vacant in expression; while
 
-      his voice, usually a rich tenor, rose into a treble which would
+      his voice, usually a rich tenor, [[Rose|rose]] into a treble which would
 
       have sounded petulantly but for the deliberateness and entire
 
       distinctness of the enunciation. Observing him in these moods, I
 
-      often dwelt meditatively upon the old philosophy of the Bi-Part
+      often dwelt meditatively upon the old [[philosophy]] of the Bi-Part
 
-      Soul, and amused myself with the fancy of a double Dupin—the
+      [[Soul]], and amused myself with the fancy of a [[Double|double]] Dupin—the
 
       creative and the resolvent.
 
@@ -42,7 +42,7 @@ tags:
 
       Let it not be supposed, from what I have just said, that I am
 
-      detailing any mystery, or penning any romance. What I have
+      detailing any mystery, or penning any [[Romance|romance]]. What I have
 
       described in the Frenchman, was merely the result of an excited,
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-      We were strolling one night down a long dirty street in the
+      We were strolling one [[Night|night]] down a long dirty street in the
 
       vicinity of the Palais Royal. Being both, apparently, occupied
 
@@ -70,7 +70,7 @@ tags:
 
 
 
-      “There can be no doubt of that,” I replied unwittingly, and not
+      “There can be no [[Doubt|doubt]] of that,” I replied unwittingly, and not
 
       at first observing (so much had I been absorbed in reflection)
 
@@ -88,7 +88,7 @@ tags:
 
       senses. How was it possible you should know I was thinking of
 
-      ——?” Here I paused, to ascertain beyond a doubt whether he really
+      ——?” Here I paused, to ascertain beyond a [[Doubt|doubt]] whether he really
 
       knew of whom I thought.
 
@@ -96,7 +96,7 @@ tags:
 
       “—— of Chantilly,” said he, “why do you pause? You were remarking
 
-      to yourself that his diminutive figure unfitted him for tragedy.”
+      to yourself that his diminutive figure unfitted him for [[Tragedy|tragedy]].”
 
 
 
@@ -106,7 +106,7 @@ tags:
 
       becoming stage-mad, had attempted the _rôle_ of Xerxes, in
 
-      Crébillon’s tragedy so called, and been notoriously Pasquinaded
+      Crébillon’s [[Tragedy|tragedy]] so called, and been notoriously Pasquinaded
 
       for his pains.
 
@@ -114,7 +114,7 @@ tags:
 
       “Tell me, for Heaven’s sake,” I exclaimed, “the method—if method
 
-      there is—by which you have been enabled to fathom my soul in this
+      there is—by which you have been enabled to fathom my [[Soul|soul]] in this
 
       matter.” In fact I was even more startled than I would have been
 
@@ -176,7 +176,7 @@ tags:
 
       occupation is often full of interest; and he who attempts it for
 
-      the first time is astonished by the apparently illimitable
+      the first [[Time|time]] is astonished by the apparently illimitable
 
       distance and incoherence between the starting-point and the goal.
 
@@ -184,7 +184,7 @@ tags:
 
       Frenchman speak what he had just spoken, and when I could not
 
-      help acknowledging that he had spoken the truth. He continued:
+      help acknowledging that he had spoken the [[Truth|truth]]. He continued:
 
 
 
@@ -204,7 +204,7 @@ tags:
 
       muttered a few words, turned to look at the pile, and then
 
-      proceeded in silence. I was not particularly attentive to what
+      proceeded in [[Silence|silence]]. I was not particularly attentive to what
 
       you did; but observation has become with me, of late, a species
 
@@ -224,7 +224,7 @@ tags:
 
       countenance brightened up, and, perceiving your lips move, I
 
-      could not doubt that you murmured the word ‘stereotomy,’ a term
+      could not [[Doubt|doubt]] that you murmured the word ‘stereotomy,’ a term
 
       very affectedly applied to this species of pavement. I knew that
 

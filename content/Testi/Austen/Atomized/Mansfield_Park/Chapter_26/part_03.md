@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 26 (part 3)"
+title: "[[Mansfield Park]] — Chapter 26 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -27,18 +27,18 @@ a brother too, impossible! it must not be! and with an eagerness and
 embarrassment quite diverting to her companion, she laid down the
 necklace again on its cotton, and seemed resolved either to take
 another or none at all. Miss Crawford thought she had never seen a
-prettier consciousness. “My dear child,” said she, laughing, “what are
+prettier consciousness. “My dear [[Child|child]],” said she, laughing, “what are
 you afraid of? Do you think Henry will claim the necklace as mine, and
 fancy you did not come honestly by it? or are you imagining he would be
 too much flattered by seeing round your lovely throat an ornament which
 his money purchased three years ago, before he knew there was such a
 throat in the world? or perhaps”—looking archly—“you suspect a
 confederacy between us, and that what I am now doing is with his
-knowledge and at his desire?”
+knowledge and at his [[Desire|desire]]?”
 
 With the deepest blushes Fanny protested against such a thought.
 
-“Well, then,” replied Miss Crawford more seriously, but without at all
+“[[Well]], then,” replied Miss Crawford more seriously, but without at all
 believing her, “to convince me that you suspect no trick, and are as
 unsuspicious of compliment as I have always found you, take the
 necklace and say no more about it. Its being a gift of my brother’s
@@ -69,5 +69,5 @@ friend.
 
 Reflecting and doubting, and feeling that the possession of what she
 had so much wished for did not bring much satisfaction, she now walked
-home again, with a change rather than a diminution of cares since her
+[[Home|home]] again, with a change rather than a diminution of cares since her
 treading that path before.

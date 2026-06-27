@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 12)"
+title: "[[The Murders in the Rue Morgue]] (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -78,7 +78,7 @@ tags:
 
       “I have not asserted that it is,” said he; “but, before we decide
 
-      this point, I wish you to glance at the little sketch I have here
+      this point, I wish you to glance at the little [[Sketch|sketch]] I have here
 
       traced upon this paper. It is a _fac-simile_ drawing of what has
 
@@ -100,11 +100,11 @@ tags:
 
       firm and fixed hold. There is no _slipping_ apparent. Each finger
 
-      has retained—possibly until the death of the victim—the fearful
+      has retained—possibly until the [[Death|death]] of the victim—the fearful
 
       grasp by which it originally imbedded itself. Attempt, now, to
 
-      place all your fingers, at the same time, in the respective
+      place all your fingers, at the same [[Time|time]], in the respective
 
       impressions as you see them.”
 
@@ -144,7 +144,7 @@ tags:
 
       ferocity, and the imitative propensities of these mammalia are
 
-      sufficiently well known to all. I understood the full horrors of
+      sufficiently [[Well|well]] known to all. I understood the full horrors of
 
       the murder at once.
 
@@ -182,11 +182,11 @@ tags:
 
       Upon these two words, therefore, I have mainly built my hopes of
 
-      a full solution of the riddle. A Frenchman was cognizant of the
+      a full solution of the [[Riddle|riddle]]. A Frenchman was cognizant of the
 
       murder. It is possible—indeed it is far more than probable—that
 
-      he was innocent of all participation in the bloody transactions
+      he was [[Innocent|innocent]] of all participation in the bloody transactions
 
       which took place. The Ourang-Outang may have escaped from him. He
 
@@ -206,11 +206,11 @@ tags:
 
       call them guesses then, and speak of them as such. If the
 
-      Frenchman in question is indeed, as I suppose, innocent of this
+      Frenchman in question is indeed, as I suppose, [[Innocent|innocent]] of this
 
-      atrocity, this advertisement which I left last night, upon our
+      atrocity, this advertisement which I left last [[Night|night]], upon our
 
-      return home, at the office of ‘Le Monde’ (a paper devoted to the
+      return [[Home|home]], at the office of ‘Le Monde’ (a paper devoted to the
 
       shipping interest, and much sought by sailors), will bring him to
 

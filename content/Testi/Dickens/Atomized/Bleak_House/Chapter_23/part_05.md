@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 23 (part 5)"
+title: "Bleak [[house|House]] — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Old Mr. Turveydrop then became so very gallant, in honour of the
+Old Mr. Turveydrop then became so very gallant, in [[Honour|honour]] of the
 occasion, that I told Caddy we must really go to Thavies Inn at once
 if we were to go at all that day. So we took our departure after a
 very loving farewell between Caddy and her betrothed, and during our
@@ -22,7 +22,7 @@ walk she was so happy and so full of old Mr. Turveydrop’s praises
 that I would not have said a word in his disparagement for any
 consideration.
 
-The house in Thavies Inn had bills in the windows announcing that it
+The [[house]] in Thavies Inn had bills in the windows announcing that it
 was to let, and it looked dirtier and gloomier and ghastlier than
 ever. The name of poor Mr. Jellyby had appeared in the list of
 bankrupts but a day or two before, and he was shut up in the
@@ -43,14 +43,14 @@ know me, though she sat looking at me with that curious, bright-eyed,
 far-off look of hers.
 
 “Ah! Miss Summerson!” she said at last. “I was thinking of something
-so different! I hope you are well. I am happy to see you. Mr.
-Jarndyce and Miss Clare quite well?”
+so different! I [[Hope|hope]] you are [[Well|well]]. I am happy to see you. Mr.
+Jarndyce and Miss Clare quite [[Well|well]]?”
 
-I hoped in return that Mr. Jellyby was quite well.
+I hoped in return that Mr. Jellyby was quite [[Well|well]].
 
 “Why, not quite, my dear,” said Mrs. Jellyby in the calmest manner.
 “He has been unfortunate in his affairs and is a little out of
-spirits. Happily for me, I am so much engaged that I have no time to
+spirits. Happily for me, I am so much engaged that I have no [[Time|time]] to
 think about it. We have, at the present moment, one hundred and
 seventy families, Miss Summerson, averaging five persons in each,
 either gone or going to the left bank of the Niger.”
@@ -96,7 +96,7 @@ looking far away into Africa straight through my bonnet and head, I
 thought it a good opportunity to come to the subject of my visit and
 to attract Mrs. Jellyby’s attention.
 
-“Perhaps,” I began, “you will wonder what has brought me here to
+“Perhaps,” I began, “you will [[Wonder|wonder]] what has brought me here to
 interrupt you.”
 
 “I am always delighted to see Miss Summerson,” said Mrs. Jellyby,
@@ -117,7 +117,7 @@ Caddy untied the strings of her bonnet, took her bonnet off, and
 letting it dangle on the floor by the strings, and crying heartily,
 said, “Ma, I am engaged.”
 
-“Oh, you ridiculous child!” observed Mrs. Jellyby with an abstracted
+“Oh, you ridiculous [[Child|child]]!” observed Mrs. Jellyby with an abstracted
 air as she looked over the dispatch last opened; “what a goose you
 are!”
 
@@ -130,19 +130,19 @@ of everything but her natural affection.
 
 “You see again, Miss Summerson,” observed Mrs. Jellyby serenely,
 “what a happiness it is to be so much occupied as I am and to have
-this necessity for self-concentration that I have. Here is Caddy
+this necessity for [[Self|self]]-concentration that I have. Here is Caddy
 engaged to a dancing-master’s son—mixed up with people who have no
 more sympathy with the destinies of the human race than she has
 herself! This, too, when Mr. Quale, one of the first philanthropists
-of our time, has mentioned to me that he was really disposed to be
+of our [[Time|time]], has mentioned to me that he was really disposed to be
 interested in her!”
 
 “Ma, I always hated and detested Mr. Quale!” sobbed Caddy.
 
 “Caddy, Caddy!” returned Mrs. Jellyby, opening another letter with
-the greatest complacency. “I have no doubt you did. How could you do
+the greatest complacency. “I have no [[Doubt|doubt]] you did. How could you do
 otherwise, being totally destitute of the sympathies with which he
-overflows! Now, if my public duties were not a favourite child to me,
+overflows! Now, if my public duties were not a favourite [[Child|child]] to me,
 if I were not occupied with large measures on a vast scale, these
 petty details might grieve me very much, Miss Summerson. But can I
 permit the film of a silly proceeding on the part of Caddy (from whom

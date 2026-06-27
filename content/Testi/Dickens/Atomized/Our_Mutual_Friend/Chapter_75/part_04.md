@@ -19,25 +19,25 @@ tags:
 
 
 But, the greatest event of all, in the new life of Mr and Mrs John
-Harmon, was a visit from Mr and Mrs Eugene Wrayburn. Sadly wan and worn
+Harmon, was a visit from Mr and Mrs [[Eugene Wrayburn]]. Sadly wan and worn
 was the once gallant Eugene, and walked resting on his wife’s arm, and
 leaning heavily upon a stick. But, he was daily growing stronger and
 better, and it was declared by the medical attendants that he might not
 be much disfigured by-and-by. It was a grand event, indeed, when Mr
-and Mrs Eugene Wrayburn came to stay at Mr and Mrs John Harmon’s house:
+and Mrs [[Eugene Wrayburn]] came to stay at Mr and Mrs [[John Harmon]]’s [[house]]:
 where, by the way, Mr and Mrs Boffin (exquisitely happy, and daily
 cruising about, to look at shops,) were likewise staying indefinitely.
 
-To Mr Eugene Wrayburn, in confidence, did Mrs John Harmon impart what
+To Mr [[Eugene Wrayburn]], in confidence, did Mrs [[John Harmon]] impart what
 she had known of the state of his wife’s affections, in his reckless
-time. And to Mrs John Harmon, in confidence, did Mr Eugene Wrayburn
+[[Time|time]]. And to Mrs [[John Harmon]], in confidence, did Mr [[Eugene Wrayburn]]
 impart that, please God, she should see how his wife had changed him!
 
 ‘I make no protestations,’ said Eugene; ‘—who does, who means them!—I
 have made a resolution.’
 
 ‘But would you believe, Bella,’ interposed his wife, coming to resume
-her nurse’s place at his side, for he never got on well without her:
+her [[Nurse|nurse]]’s place at his side, for he never got on [[Well|well]] without her:
 ‘that on our wedding day he told me he almost thought the best thing he
 could do, was to die?’
 
@@ -50,29 +50,29 @@ ride. ‘Nothing short of force will make her go,’ Eugene had said; so,
 Bella had playfully forced her.
 
 ‘Dear old fellow,’ Eugene began with Lightwood, reaching up his hand,
-‘you couldn’t have come at a better time, for my mind is full, and I
+‘you couldn’t have come at a better [[Time|time]], for my mind is full, and I
 want to empty it. First, of my present, before I touch upon my future.
 M. R. F., who is a much younger cavalier than I, and a professed admirer
-of beauty, was so affable as to remark the other day (he paid us a visit
-of two days up the river there, and much objected to the accommodation
+of [[Beauty|beauty]], was so affable as to remark the other day (he paid us a visit
+of two days up the [[River|river]] there, and much objected to the accommodation
 of the hotel), that Lizzie ought to have her portrait painted. Which,
 coming from M. R. F., may be considered equivalent to a melodramatic
 blessing.’
 
-‘You are getting well,’ said Mortimer, with a smile.
+‘You are getting [[Well|well]],’ said Mortimer, with a smile.
 
 ‘Really,’ said Eugene, ‘I mean it. When M. R. F. said that, and followed
-it up by rolling the claret (for which he called, and I paid), in his
+it up by [[rolling]] the claret (for which he called, and I paid), in his
 mouth, and saying, “My dear son, why do you drink this trash?” it was
-tantamount in him—to a paternal benediction on our union, accompanied
-with a gush of tears. The coolness of M. R. F. is not to be measured by
+tantamount in him—to a paternal benediction on our [[Union|union]], accompanied
+with a gush of [[Tears|tears]]. The coolness of M. R. F. is not to be measured by
 ordinary standards.’
 
 ‘True enough,’ said Lightwood.
 
 ‘That’s all,’ pursued Eugene, ‘that I shall ever hear from M. R. F. on
 the subject, and he will continue to saunter through the world with
-his hat on one side. My marriage being thus solemnly recognized at the
+his hat on one side. My [[Marriage|marriage]] being thus solemnly recognized at the
 family altar, I have no further trouble on that score. Next, you really
 have done wonders for me, Mortimer, in easing my money-perplexities, and
 with such a guardian and steward beside me, as the preserver of my life
@@ -102,7 +102,7 @@ himself greatly surprised.
 
 ‘You think this thumped head of mine is excited?’ Eugene went on, with a
 high look; ‘not so, believe me. I can say to you of the healthful music
-of my pulse what Hamlet said of his. My blood is up, but wholesomely up,
+of my pulse what [[Hamlet]] said of his. My [[Blood|blood]] is up, but wholesomely up,
 when I think of it. Tell me! Shall I turn coward to Lizzie, and sneak
 away with her, as if I were ashamed of her! Where would your friend’s
 part in this world be, Mortimer, if she had turned coward to him, and on
@@ -115,24 +115,24 @@ immeasurably better occasion?’
 ‘And yet, are you sure that you might not feel (for her sake, I say for
 her sake) any slight coldness towards her on the part of—Society?’
 
-‘O! You and I may well stumble at the word,’ returned Eugene, laughing.
+‘O! You and I may [[Well|well]] stumble at the word,’ returned Eugene, laughing.
 ‘Do we mean our Tippins?’
 
 ‘Perhaps we do,’ said Mortimer, laughing also.
 
-‘Faith, we DO!’ returned Eugene, with great animation. ‘We may hide
+‘[[Faith]], we DO!’ returned Eugene, with great animation. ‘We may hide
 behind the bush and beat about it, but we DO! Now, my wife is something
 nearer to my heart, Mortimer, than Tippins is, and I owe her a little
 more than I owe to Tippins, and I am rather prouder of her than I ever
 was of Tippins. Therefore, I will fight it out to the last gasp, with
 her and for her, here, in the open field. When I hide her, or strike
-for her, faint-heartedly, in a hole or a corner, do you whom I love next
+for her, faint-heartedly, in a hole or a corner, do you whom I [[Love|love]] next
 best upon earth, tell me what I shall most righteously deserve to be
-told:—that she would have done well to turn me over with her foot that
-night when I lay bleeding to death, and spat in my dastard face.’
+told:—that she would have done [[Well|well]] to turn me over with her foot that
+[[Night|night]] when I lay bleeding to [[Death|death]], and spat in my dastard face.’
 
 The glow that shone upon him as he spoke the words, so irradiated his
-features that he looked, for the time, as though he had never been
+features that he looked, for the [[Time|time]], as though he had never been
 mutilated. His friend responded as Eugene would have had him respond,
 and they discoursed of the future until Lizzie came back. After resuming
 her place at his side, and tenderly touching his hands and his head, she
@@ -147,9 +147,9 @@ been doing?’
 ‘And talking to Mr Lightwood,’ said Lizzie, turning to him with a smile.
 ‘But it cannot have been Society that disturbed you.’
 
-‘Faith, my dear love!’ retorted Eugene, in his old airy manner, as he
+‘[[Faith]], my dear [[Love|love]]!’ retorted Eugene, in his old airy manner, as he
 laughed and kissed her, ‘I rather think it WAS Society though!’
 
-The word ran so much in Mortimer Lightwood’s thoughts as he went home to
-the Temple that night, that he resolved to take a look at Society, which
+The word ran so much in Mortimer Lightwood’s thoughts as he went [[Home|home]] to
+the Temple that [[Night|night]], that he resolved to take a look at Society, which
 he had not seen for a considerable period.

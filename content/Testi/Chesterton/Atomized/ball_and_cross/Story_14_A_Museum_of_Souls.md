@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Museum of Souls"
+title: "ball and [[Cross|cross]] — A Museum of Souls"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -20,17 +20,17 @@ The man with the good hat and the jumping elbow went by very quickly;
 yet the man with the bad hat, who thought he was God, overtook him.
 He ran after him and jumped over a bed of geraniums to catch him.
 
-"I beg your Majesty's pardon," he said, with mock humility,
+"I beg your Majesty's pardon," he said, with mock [[Humility|humility]],
 "but here is a quarrel which you ought really to judge."
 
 Then as he led the heavy, silk-hatted man back towards the group,
 he caught MacIan's ear in order to whisper:  "This poor gentleman is mad;
-he thinks he is Edward VII."  At this the self-appointed Creator
+he thinks he is Edward VII."  At this the [[Self|self]]-appointed Creator
 slightly winked.  "Of course you won't trust him much; come to me
 for everything.  But in my position one has to meet so many people.
 One has to be broadminded."
 
-The big banker in the black frock-coat and hat was standing quite grave
+The big banker in the black frock-coat and hat was standing quite [[Grave|grave]]
 and dignified on the lawn, save for his slight twitch of one limb,
 and he did not seem by any means unworthy of the part which the other
 promptly forced upon him.
@@ -42,7 +42,7 @@ us as the proper seconds.  Seconds--yes, seconds----" and here
 the speaker was once more shaken with his old malady of laughter.
 
 "Yes, you and I are both seconds--and these two gentlemen can
-obviously fight in front of us.  You, he-he, are the king.
+obviously fight in front of us.  You, he-he, are the [[King|king]].
 I am God; really, they could hardly have better supporters.
 They have come to the right place."
 
@@ -57,15 +57,15 @@ And MacIan answered, with an adamantine stupidity:
 
 There was a long stillness, and their eyes involuntarily took
 in the landscape, as they had taken in all the landscapes of their
-everlasting combat; the bright, square garden behind the shop;
+everlasting combat; the bright, square [[Garden|garden]] behind the shop;
 the whole lift and leaning of the side of Hampstead Heath; the little
-garden of the decadent choked with flowers; the square of sand
+[[Garden|garden]] of the decadent choked with [[Flowers|flowers]]; the square of sand
 beside the sea at sunrise.  They both felt at the same moment all
-the breadth and blossoming beauty of that paradise, the coloured trees,
+the breadth and blossoming [[Beauty|beauty]] of that paradise, the coloured trees,
 the natural and restful nooks and also the great wall of stone--
 more awful than the wall of China--from which no flesh could flee.
 
-Turnbull was moodily balancing his sword in his hand as the other spoke;
+Turnbull was moodily balancing his [[Sword|sword]] in his hand as the other spoke;
 then he started, for a mouth whispered quite close to his ear.
 With a softness incredible in any cat, the huge, heavy man in the black
 hat and frock-coat had crept across the lawn from his own side
@@ -78,12 +78,12 @@ and I expect we're watched, but----"
 
 Something in Turnbull made him want suddenly to be sick on the grass;
 the mere healthy and heathen horror of the unclean; the mere inhumane
-hatred of the inhuman state of madness.  He seemed to hear all round
-him the hateful whispers of that place, innumerable as leaves
-whispering in the wind, and each of them telling eagerly some evil
+hatred of the inhuman state of [[Madness|madness]].  He seemed to hear all round
+him the hateful whispers of that place, innumerable as [[Leaves|leaves]]
+whispering in the [[Wind|wind]], and each of them telling eagerly some evil
 that had not happened or some terrific secret which was not true.
 All the rationalist and plain man revolted within him against bowing
-down for a moment in that forest of deception and egotistical darkness.
+down for a moment in that forest of [[Deception|deception]] and egotistical darkness.
 He wanted to blow up that palace of delusions with dynamite;
 and in some wild way, which I will not defend, he tried to do it.
 
@@ -106,7 +106,7 @@ he said, abruptly, "why do we have two sets of teeth?"
 
 "Yes," cried Turnbull, advancing on him swiftly and with animated
 gestures, "why does teething hurt?  Why do growing pains hurt?
-Why are measles catching?  Why does a rose have thorns?
+Why are measles catching?  Why does a [[Rose|rose]] have thorns?
 Why do rhinoceroses have horns?  Why is the horn on the top of the nose?
 Why haven't I a horn on the top of my nose, eh?"  And he struck
 the bridge of his nose smartly with his forefinger to indicate
@@ -119,27 +119,27 @@ and meaningless world of yours.  You make a hundred seeds and only one
 bears fruit.  You make a million worlds and only one seems inhabited.
 What do you mean by it, eh?  What do you mean by it?"
 
-The unhappy lunatic had fallen back before this quite novel form
+The unhappy lunatic had fallen back before this quite [[Novel|novel]] form
 of attack, and lifted his burnt-out cigarette almost like one warding
 off a blow.  Turnbull went on like a torrent.
 
 "A man died yesterday in Ealing.  You murdered him.
 A girl had the toothache in Croydon.  You gave it her.
-Fifty sailors were drowned off Selsey Bill.  You scuttled their ship.
+Fifty sailors were drowned off Selsey Bill.  You scuttled their [[Ship|ship]].
 What have you got to say for yourself, eh?"
 
 The representative of omnipotence looked as if he had left most of
 these things to his subordinates; he passed a hand over his wrinkling
 brow and said in a voice much saner than any he had yet used:
 
-"Well, if you dislike my assistance, of course--perhaps the
+"[[Well]], if you dislike my assistance, of course--perhaps the
 other gentleman----"
 
 "The other gentleman," cried Turnbull, scornfully, "is a
 submissive and loyal and obedient gentleman.  He likes
-the people who wear crowns, whether of diamonds or of stars.
+the people who wear crowns, whether of diamonds or of [[Stars|stars]].
 He believes in the divine right of kings, and it is appropriate
-enough that he should have the king for his second.  But it
+enough that he should have the [[King|king]] for his second.  But it
 is not appropriate to me that I should have God for my second.
 God is not good enough.  I dislike and I deny the divine right of kings.
 But I dislike more and I deny more the divine right of divinity."
@@ -152,20 +152,20 @@ with one long and heavy thought.  Then at last he turned abruptly
 to his second in the silk hat and said:  "Who are you?"
 
 The man in the silk hat blinked and bridled in affected surprise,
-like one who was in truth accustomed to be doubted.
+like one who was in [[Truth|truth]] accustomed to be doubted.
 
-"I am King Edward VII," he said, with shaky arrogance.
-"Do you doubt my word?"
+"I am [[King]] Edward VII," he said, with shaky arrogance.
+"Do you [[Doubt|doubt]] my word?"
 
-"I do not doubt it in the least," answered MacIan.
+"I do not [[Doubt|doubt]] it in the least," answered MacIan.
 
 "Then, why," said the large man in the silk hat, trembling from head
-to foot, "why do you wear your hat before the king?"
+to foot, "why do you wear your hat before the [[King|king]]?"
 
 "Why should I take it off," retorted MacIan, with equal heat,
-"before a usurper?"
+"before a [[Usurper|usurper]]?"
 
-Turnbull swung round on his heel.  "Well, really," he said,
+Turnbull swung round on his heel.  "[[Well]], really," he said,
 "I thought at least you were a loyal subject."
 
 "I am the only loyal subject," answered the Gael.  "For nearly thirty
@@ -174,7 +174,7 @@ years I have walked these islands and have not found another."
 "You are always hard to follow," remarked Turnbull, genially,
 "and sometimes so much so as to be hardly worth following."
 
-"I alone am loyal," insisted MacIan; "for I alone am in rebellion.
+"I [[Alone|alone]] am loyal," insisted MacIan; "for I [[Alone|alone]] am in rebellion.
 I am ready at any instant to restore the Stuarts.  I am ready at any
 instant to defy the Hanoverian brood--and I defy it now even when face
 to face with the actual ruler of the enormous British Empire!"
@@ -188,17 +188,17 @@ in a quarrel between Scotch and English and Irish gentlemen?
 Who made you, whose fathers could not splutter English while they
 walked in Whitehall, who made you the judge between the republic
 of Sidney and the monarchy of Montrose?  What had your sires to do
-with England that they should have the foul offering of the blood
+with England that they should have the foul offering of the [[Blood|blood]]
 of Derwentwater and the heart of Jimmy Dawson?  Where are the corpses
-of Culloden?  Where is the blood of Lochiel?"  MacIan advanced
+of Culloden?  Where is the [[Blood|blood]] of Lochiel?"  MacIan advanced
 upon his opponent with a bony and pointed finger, as if indicating
-the exact pocket in which the blood of that Cameron was probably kept;
+the exact pocket in which the [[Blood|blood]] of that Cameron was probably kept;
 and Edward VII fell back a few paces in considerable confusion.
 
 "What good have you ever done to us?" he continued in harsher
 and harsher accents, forcing the other back towards the flower-beds.
 "What good have you ever done, you race of German sausages?  Yards of
-barbarian etiquette, to throttle the freedom of aristocracy!  Gas of
+barbarian etiquette, to throttle the [[Freedom|freedom]] of aristocracy!  Gas of
 northern metaphysics to blow up Broad Church bishops like balloons.
 Bad pictures and bad manners and pantheism and the Albert Memorial.
 Go back to Hanover, you humbug!  Go to----"
@@ -249,7 +249,7 @@ on his face.
 Turnbull's eyes did not move, but he realized that the man in the panama
 hat had lost all his ease of a landed proprietor and had withdrawn
 to a distance of thirty yards, where he stood glaring with all
-the contraction of fear and hatred that can stiffen a cat.
+the contraction of [[Fear|fear]] and hatred that can stiffen a cat.
 
 * * *
 
@@ -259,8 +259,8 @@ when Turnbull strode up to him chewing a cigarette.  He did not look up,
 but his comrade and enemy addressed him like one who must free
 himself of his feelings.
 
-"Well, I hope, at any rate," he said, "that you like your precious
-religion now.  I hope you like the society of this poor devil whom
+"[[Well]], I [[Hope|hope]], at any rate," he said, "that you like your precious
+religion now.  I [[Hope|hope]] you like the society of this poor devil whom
 your damned tracts and hymns and priests have driven out of his wits.
 Five men in this place, they tell me, five men in this place who might
 have been fathers of families, and every one of them thinks he is
@@ -270,19 +270,19 @@ but there is no one here who thinks he is Protoplasm."
 "They naturally prefer a bright part," said MacIan, wearily.
 "Protoplasm is not worth going mad about."
 
-"At least," said Turnbull, savagely, "it was your Jesus Christ
+"At least," said Turnbull, savagely, "it was your Jesus [[Christ]]
 who started all this bosh about being God."
 
 For one instant MacIan opened the eyes of battle; then his tightened
 lips took a crooked smile and he said, quite calmly:
 
-"No, the idea is older; it was Satan who first said that he was God."
+"No, the idea is older; it was [[Satan]] who first said that he was God."
 
 "Then, what," asked Turnbull, very slowly, as he softly picked a flower,
-"what is the difference between Christ and Satan?"
+"what is the difference between [[Christ]] and [[Satan]]?"
 
-"It is quite simple," replied the Highlander.  "Christ descended
-into hell; Satan fell into it."
+"It is quite simple," replied the Highlander.  "[[Christ]] descended
+into hell; [[Satan]] fell into it."
 
 "Does it make much odds?" asked the free-thinker.
 
@@ -294,24 +294,24 @@ A god can be humble, a devil can only be humbled."
 knitting his brows.  "It affects me as ungenerous."
 
 "Why were you wanting to humble a god when you found him in
-this garden?" asked MacIan.
+this [[Garden|garden]]?" asked MacIan.
 
 "That was an extreme case of impudence," said Turnbull.
 
 "Granting the man his almighty pretensions, I think he was very modest,"
 said MacIan.  "It is we who are arrogant, who know we are only men.
-The ordinary man in the street is more of a monster than that
+The ordinary man in the street is more of a [[Monster|monster]] than that
 poor fellow; for the man in the street treats himself as God Almighty
 when he knows he isn't. He expects the universe to turn round him,
 though he knows he isn't the centre."
 
-"Well," said Turnbull, sitting down on the grass, "this is
-a digression, anyhow.  What I want to point out is, that your faith
+"[[Well]]," said Turnbull, sitting down on the grass, "this is
+a digression, anyhow.  What I want to point out is, that your [[Faith|faith]]
 does end in asylums and my science doesn't."
 
 "Doesn't it, by George!" cried MacIan, scornfully.  "There are a few
-men here who are mad on God and a few who are mad on the Bible.
-But I bet there are many more who are simply mad on madness."
+men here who are mad on God and a few who are mad on the [[Bible]].
+But I bet there are many more who are simply mad on [[Madness|madness]]."
 
 "Do you really believe it?" asked the other.
 
@@ -323,17 +323,17 @@ hereditary in their heads--the whole air they breathe is mad."
 a madman of that sort."
 
 "I bet I have!" cried Evan, with unusual animation.  "I've been
-walking about the garden talking to a poor chap all the morning.
+walking about the [[Garden|garden]] talking to a poor chap all the morning.
 He's simply been broken down and driven raving by your damned science.
 Talk about believing one is God--why, it's quite an old, comfortable,
 fireside fancy compared with the sort of things this fellow believes.
 He believes that there is a God, but that he is better than God.
 He says God will be afraid to face him.  He says one is always
 progressing beyond the best.  He put his arm in mine and whispered
-in my ear, as if it were the apocalypse:  'Never trust a God that you
+in my ear, as if it were the [[Apocalypse|apocalypse]]:  'Never trust a God that you
 can't improve on.'"
 
-"What can he have meant?" said the atheist, with all his logic awake.
+"What can he have meant?" said the atheist, with all his [[logic]] awake.
 "Obviously one should not trust any God that one can improve on."
 
 "It is the way he talks," said MacIan, almost indifferently;
@@ -345,14 +345,14 @@ partiality will then distort the judgement of the educator."
 "Oh, dear!" said Turnbull, laughing, "you have certainly come
 across a pretty bad case, and incidentally proved your own.
 I suppose some men do lose their wits through science as through
-love and other good things."
+[[Love|love]] and other good things."
 
 "And he says," went on MacIan, monotonously, "that he cannot see
 why anyone should suppose that a triangle is a three-sided figure.
 He says that on some higher plane----"
 
 Turnbull leapt to his feet as by an electric shock.  "I never could
-have believed," he cried, "that you had humour enough to tell a lie.
+have believed," he cried, "that you had [[Humour|humour]] enough to tell a lie.
 You've gone a bit too far, old man, with your little joke.
 Even in a lunatic asylum there can't be anybody who, having thought
 about the matter, thinks that a triangle has not got three sides.
@@ -364,12 +364,12 @@ fellow wandering about by the nasturtium bed."
 
 MacIan vanished, and in a few moments returned, trailing with
 him his own discovery among lunatics, who was a slender
-man with a fixed smile and an unfixed and rolling head.
-He had a goatlike beard just long enough to be shaken in a strong wind.
+man with a fixed smile and an unfixed and [[rolling]] head.
+He had a goatlike beard just long enough to be shaken in a strong [[Wind|wind]].
 Turnbull sprang to his feet and was like one who is speechless
 through choking a sudden shout of laughter.
 
-"Why, you great donkey," he shouted, in an ear-shattering whisper,
+"Why, you great [[donkey]]," he shouted, in an ear-shattering whisper,
 "that's not one of the patients at all.  That's one of the doctors."
 
 Evan looked back at the leering head with the long-pointed beard
@@ -385,13 +385,13 @@ creature behind him.
 
 "Quite so," said MacIan.
 
-After a rather restless silence Turnbull plucked MacIan by the elbow
+After a rather restless [[Silence|silence]] Turnbull plucked MacIan by the elbow
 and pulled him aside.
 
 "For goodness sake," he said, "don't offend this fellow; he may be as mad
 as ten hatters, if you like, but he has us between his finger and thumb.
-This is the very time he appointed to talk with us about our--
-well, our exeat."
+This is the very [[Time|time]] he appointed to talk with us about our--
+[[Well|well]], our exeat."
 
 "But what can it matter?" asked the wondering MacIan.
 "He can't keep us in the asylum.  We're not mad."
@@ -412,19 +412,19 @@ Mr. Turnbull; you must be patient with me."
 
 Turnbull caught Evan's elbow again with quite another gesture.
 "Come," he cried, with the harsh voice of one who hides emotion,
-"come and let us be tactful in chorus."
+"come and let us be tactful in [[Chorus|chorus]]."
 
 The doctor with the pointed beard was already slanting it
 forward at a more than usually acute angle, with the smile
 that expressed expectancy.
 
-"I hope I do not hurry you, gentlemen," he said, with the faintest
+"I [[Hope|hope]] I do not hurry you, gentlemen," he said, with the faintest
 suggestion of a sneer at their hurried consultation, "but I believe
 you wanted to see me at half-past eleven."
 
 "I am most awfully sorry, Doctor," said Turnbull, with ready amiability;
 "I never meant to keep you waiting; but the silly accident that has
-landed us in your garden may have some rather serious consequences
+landed us in your [[Garden|garden]] may have some rather serious consequences
 to our friends elsewhere, and my friend here was just drawing
 my attention to some of them."
 
@@ -446,7 +446,7 @@ MacIan remained standing, but Turnbull threw himself almost with
 luxury into a hard wooden arm-chair.
 
 "This is a most absurd business, Doctor," he said, "and I am ashamed to
-take up the time of busy professional men with such pranks from outside.
+take up the [[Time|time]] of busy professional men with such pranks from outside.
 The plain fact is, that he and I and a pack of silly men and girls have
 organized a game across this part of the country--a sort of combination
 of hare and hounds and hide and seek--I dare say you've heard of it.
@@ -462,7 +462,7 @@ of the new exhilarating game, and who were the male and female
 enthusiasts who had brought it to such perfection; in fact,
 Turnbull was busy making up these personal and topographical particulars.
 As the doctor did not ask the question, he grew slightly uneasy,
-and risked the question:  "I hope you will accept my assurance
+and risked the question:  "I [[Hope|hope]] you will accept my assurance
 that the thing was an accident and that no intrusion was meant."
 
 "Oh, yes, sir," replied the doctor, smiling, "I accept everything
@@ -481,9 +481,9 @@ to let us out?"
 that would be in a place like this."
 
 "Then, how the devil are we to get out?" cried Turnbull, losing his
-manners for the first time.
+manners for the first [[Time|time]].
 
-"It is a question of time, of receptivity, and treatment,"
+"It is a question of [[Time|time]], of receptivity, and treatment,"
 said the doctor, arching his eyebrows indifferently.
 "I do not regard either of your cases as incurable."
 
@@ -528,9 +528,9 @@ my mother was."
 
 Then he compressed his temples with his hands, as if to crush them.
 And then lifted suddenly a face that looked fresh and young,
-as if he had dipped and washed it in some holy well.
+as if he had dipped and washed it in some holy [[Well|well]].
 
-"Very well," he cried; "I will take the sour with the sweet.
+"Very [[Well|well]]," he cried; "I will take the sour with the sweet.
 I will pay the penalty of having enjoyed God in this
 monstrous modern earth that cannot enjoy man or beast.
 I will die happy in your madhouse, only because I know what I know.
@@ -551,7 +551,7 @@ large letters:  "Turnbull, James."
 
 Hitherto Turnbull himself had somewhat scornfully surrendered his part
 in the whole business; but he was too honest and unaffected not to start
-at his own name.  After the name, the inscription appeared to run:
+at his own name.  After the name, the [[Inscription|inscription]] appeared to run:
 "Unique case of Eleutheromania.  Parentage, as so often in such cases,
 prosaic and healthy.  Eleutheromaniac signs occurred early, however,
 leading him to attach himself to the individualist Bradlaugh.
@@ -563,18 +563,18 @@ even about getting out of the madhouse, if only we get out of
 this room.  You were right enough, MacIan, when you spoke about--
 about mad doctors."
 
-Somehow they found themselves outside in the cool, green garden,
-and then, after a stunned silence, Turnbull said:  "There is one
-thing that was puzzling me all the time, and I understand it now."
+Somehow they found themselves outside in the cool, green [[Garden|garden]],
+and then, after a stunned [[Silence|silence]], Turnbull said:  "There is one
+thing that was puzzling me all the [[Time|time]], and I understand it now."
 
 "What do you mean?" asked Evan.
 
-"No man by will or wit," answered Turnbull, "can get out of this garden;
-and yet we got into it merely by jumping over a garden wall.
+"No man by will or wit," answered Turnbull, "can get out of this [[Garden|garden]];
+and yet we got into it merely by jumping over a [[Garden|garden]] wall.
 The whole thing explains itself easily enough.  That undefended wall
 was an open trap.  It was a trap laid for two celebrated lunatics.
 They saw us get in right enough.  And they will see that we do
 not get out."
 
-Evan gazed at the garden wall, gravely for more than a minute,
+Evan gazed at the [[Garden|garden]] wall, gravely for more than a minute,
 and then he nodded without a word.

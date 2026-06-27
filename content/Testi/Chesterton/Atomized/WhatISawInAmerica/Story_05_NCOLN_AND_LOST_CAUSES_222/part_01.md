@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 1)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-LINCOLN AND LOST CAUSES              222
+[[Lincoln|LINCOLN]] AND LOST CAUSES              222
 
 
 
@@ -22,11 +22,11 @@ WELLS AND THE WORLD STATE            235
 
 
 
-A NEW MARTIN CHUZZLEWIT              253
+A NEW [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]              253
 
 
 
-THE SPIRIT OF AMERICA                267
+THE SPIRIT OF [[America|AMERICA]]                267
 
 
 
@@ -34,7 +34,7 @@ THE SPIRIT OF ENGLAND                281
 
 
 
-THE FUTURE OF DEMOCRACY              295
+THE FUTURE OF [[democracy|DEMOCRACY]]              295
 
 
 
@@ -44,7 +44,7 @@ THE FUTURE OF DEMOCRACY              295
 
 
 
-_What is America?_
+_What is [[America]]?_
 
 
 
@@ -52,13 +52,13 @@ _What is America?_
 
 I have never managed to lose my old conviction that travel narrows the
 
-mind. At least a man must make a double effort of moral humility and
+mind. At least a man must make a [[Double|double]] effort of moral [[Humility|humility]] and
 
 imaginative energy to prevent it from narrowing his mind. Indeed there
 
 is something touching and even tragic about the thought of the
 
-thoughtless tourist, who might have stayed at home loving Laplanders,
+thoughtless tourist, who might have stayed at [[Home|home]] loving Laplanders,
 
 embracing Chinamen, and clasping Patagonians to his heart in Hampstead
 
@@ -68,7 +68,7 @@ they looked like. This is not meant for nonsense; still less is it meant
 
 for the silliest sort of nonsense, which is cynicism. The human bond
 
-that he feels at home is not an illusion. On the contrary, it is rather
+that he feels at [[Home|home]] is not an illusion. On the contrary, it is rather
 
 an inner reality. Man is inside all men. In a real sense any man may be
 
@@ -78,9 +78,9 @@ dangerously near the outside. So long as he thought of men in the
 
 abstract, like naked toiling figures in some classic frieze, merely as
 
-those who labour and love their children and die, he was thinking the
+those who labour and [[Love|love]] their children and die, he was thinking the
 
-fundamental truth about them. By going to look at their unfamiliar
+fundamental [[Truth|truth]] about them. By going to look at their unfamiliar
 
 manners and customs he is inviting them to disguise themselves in
 
@@ -118,7 +118,7 @@ international relations there is far too little laughing, and far too
 
 much sneering. But I believe that there is a better way which largely
 
-consists of laughter; a form of friendship between nations which is
+consists of laughter; a form of [[Friendship|friendship]] between nations which is
 
 actually founded on differences. To hint at some such better way is the
 
@@ -128,7 +128,7 @@ only excuse of this book.
 
 Let me begin my American impressions with two impressions I had before I
 
-went to America. One was an incident and the other an idea; and when
+went to [[America]]. One was an incident and the other an idea; and when
 
 taken together they illustrate the attitude I mean. The first principle
 
@@ -154,7 +154,7 @@ is proportionally even more preferable to laugh rather than judge in
 
 dealing with highly civilised peoples. Therefore I put at the beginning
 
-two working examples of what I felt about America before I saw it; the
+two working examples of what I felt about [[America]] before I saw it; the
 
 sort of thing that a man has a right to enjoy as a joke, and the sort of
 
@@ -170,13 +170,13 @@ capable of expecting the American consulate to be American. Embassies
 
 and consulates are by tradition like islands of the soil for which they
 
-stand; and I have often found the tradition corresponding to a truth. I
+stand; and I have often found the tradition corresponding to a [[Truth|truth]]. I
 
 have seen the unmistakable French official living on omelettes and a
 
 little wine and serving his sacred abstractions under the last
 
-palm-trees fringing a desert. In the heat and noise of quarrelling Turks
+palm-trees fringing a [[Desert|desert]]. In the heat and noise of quarrelling Turks
 
 and Egyptians, I have come suddenly, as with the cool shock of his own
 
@@ -200,11 +200,11 @@ called 'Confessions' which my friends and I invented in our youth; an
 
 examination paper containing questions like, 'If you saw a rhinoceros
 
-in the front garden, what would you do?' One of my friends, I remember,
+in the front [[Garden|garden]], what would you do?' One of my friends, I remember,
 
 wrote, 'Take the pledge.' But that is another story, and might bring Mr.
 
-Pussyfoot Johnson on the scene before his time.
+Pussyfoot Johnson on the scene before his [[Time|time]].
 
 
 
@@ -214,11 +214,11 @@ a detached philosopher would naturally feel inclined to answer, 'What
 
 the devil has that to do with you? Are you an atheist?' along with some
 
-playful efforts to cross-examine the official about what constitutes an
+playful efforts to [[Cross|cross]]-examine the official about what constitutes an
 
 [Greek: archê]. Then there was the question, 'Are you in favour of
 
-subverting the government of the United States by force?' Against this I
+subverting the [[government]] of the United States by force?' Against this I
 
 should write, 'I prefer to answer that question at the end of my tour
 

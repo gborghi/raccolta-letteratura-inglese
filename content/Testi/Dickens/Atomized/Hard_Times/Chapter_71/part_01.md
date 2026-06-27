@@ -28,7 +28,7 @@ her mission with infinite relish, this high-minded woman then fainted
 away on Mr. Bounderby’s coat-collar.
 
 Mr. Bounderby’s first procedure was to shake Mrs. Sparsit off, and leave
-her to progress as she might through various stages of suffering on the
+her to progress as she might through various stages of [[Suffering|suffering]] on the
 floor.  He next had recourse to the administration of potent
 restoratives, such as screwing the patient’s thumbs, smiting her hands,
 abundantly watering her face, and inserting salt in her mouth.  When
@@ -37,29 +37,29 @@ her into a fast train without offering any other refreshment, and carried
 her back to Coketown more dead than alive.
 
 Regarded as a classical ruin, Mrs. Sparsit was an interesting spectacle
-on her arrival at her journey’s end; but considered in any other light,
-the amount of damage she had by that time sustained was excessive, and
+on her arrival at her [[Journey|journey]]’s end; but considered in any other light,
+the amount of damage she had by that [[Time|time]] sustained was excessive, and
 impaired her claims to admiration.  Utterly heedless of the wear and tear
 of her clothes and constitution, and adamant to her pathetic sneezes, Mr.
 Bounderby immediately crammed her into a coach, and bore her off to Stone
 Lodge.
 
-‘Now, Tom Gradgrind,’ said Bounderby, bursting into his father-in-law’s
-room late at night; ‘here’s a lady here—Mrs. Sparsit—you know Mrs.
+‘Now, [[Tom Gradgrind]],’ said Bounderby, bursting into his father-in-law’s
+room late at [[Night|night]]; ‘here’s a lady here—Mrs. Sparsit—you know Mrs.
 Sparsit—who has something to say to you that will strike you dumb.’
 
 ‘You have missed my letter!’ exclaimed Mr. Gradgrind, surprised by the
 apparition.
 
-‘Missed your letter, sir!’ bawled Bounderby.  ‘The present time is no
-time for letters.  No man shall talk to Josiah Bounderby of Coketown
+‘Missed your letter, sir!’ bawled Bounderby.  ‘The present [[Time|time]] is no
+[[Time|time]] for letters.  No man shall talk to [[Josiah Bounderby]] of Coketown
 about letters, with his mind in the state it’s in now.’
 
 ‘Bounderby,’ said Mr. Gradgrind, in a tone of temperate remonstrance, ‘I
 speak of a very special letter I have written to you, in reference to
 Louisa.’
 
-‘Tom Gradgrind,’ replied Bounderby, knocking the flat of his hand several
+‘[[Tom Gradgrind]],’ replied Bounderby, knocking the flat of his hand several
 times with great vehemence on the table, ‘I speak of a very special
 messenger that has come to me, in reference to Louisa.  Mrs. Sparsit,
 ma’am, stand forward!’
@@ -70,11 +70,11 @@ so aggravating and underwent so many facial contortions, that Mr.
 Bounderby, unable to bear it, seized her by the arm and shook her.
 
 ‘If you can’t get it out, ma’am,’ said Bounderby, ‘leave _me_ to get it
-out.  This is not a time for a lady, however highly connected, to be
-totally inaudible, and seemingly swallowing marbles.  Tom Gradgrind, Mrs.
+out.  This is not a [[Time|time]] for a lady, however highly connected, to be
+totally inaudible, and seemingly swallowing marbles.  [[Tom Gradgrind]], Mrs.
 Sparsit latterly found herself, by accident, in a situation to overhear a
 conversation out of doors between your daughter and your precious
-gentleman-friend, Mr. James Harthouse.’
+gentleman-friend, Mr. [[James Harthouse]].’
 
 ‘Indeed!’ said Mr. Gradgrind.
 
@@ -85,7 +85,7 @@ passed.’
 
 ‘You do?  Perhaps,’ said Bounderby, staring with all his might at his so
 quiet and assuasive father-in-law, ‘you know where your daughter is at
-the present time!’
+the present [[Time|time]]!’
 
 ‘Undoubtedly.  She is here.’
 
@@ -95,9 +95,9 @@ the present time!’
 all accounts.  Louisa is here.  The moment she could detach herself from
 that interview with the person of whom you speak, and whom I deeply
 regret to have been the means of introducing to you, Louisa hurried here,
-for protection.  I myself had not been at home many hours, when I
+for protection.  I myself had not been at [[Home|home]] many hours, when I
 received her—here, in this room.  She hurried by the train to town, she
-ran from town to this house, through a raging storm, and presented
+ran from town to this [[house]], through a raging [[Storm|storm]], and presented
 herself before me in a state of distraction.  Of course, she has remained
 here ever since.  Let me entreat you, for your own sake and for hers, to
 be more quiet.’
@@ -112,25 +112,25 @@ other luggage than a Cock-and-a-Bull, ma’am!’
 
 ‘Sir,’ whispered Mrs. Sparsit, ‘my nerves are at present too much shaken,
 and my health is at present too much impaired, in your service, to admit
-of my doing more than taking refuge in tears.’  (Which she did.)
+of my doing more than taking refuge in [[Tears|tears]].’  (Which she did.)
 
-‘Well, ma’am,’ said Bounderby, ‘without making any observation to you
+‘[[Well]], ma’am,’ said Bounderby, ‘without making any observation to you
 that may not be made with propriety to a woman of good family, what I
 have got to add to that, is that there is something else in which it
 appears to me you may take refuge, namely, a coach.  And the coach in
 which we came here being at the door, you’ll allow me to hand you down to
-it, and pack you home to the Bank: where the best course for you to
-pursue, will be to put your feet into the hottest water you can bear, and
+it, and pack you [[Home|home]] to the Bank: where the best course for you to
+pursue, will be to put your feet into the hottest [[Water|water]] you can bear, and
 take a glass of scalding rum and butter after you get into bed.’  With
 these words, Mr. Bounderby extended his right hand to the weeping lady,
 and escorted her to the conveyance in question, shedding many plaintive
-sneezes by the way.  He soon returned alone.
+sneezes by the way.  He soon returned [[Alone|alone]].
 
-‘Now, as you showed me in your face, Tom Gradgrind, that you wanted to
+‘Now, as you showed me in your face, [[Tom Gradgrind]], that you wanted to
 speak to me,’ he resumed, ‘here I am.  But, I am not in a very agreeable
 state, I tell you plainly: not relishing this business, even as it is,
-and not considering that I am at any time as dutifully and submissively
-treated by your daughter, as Josiah Bounderby of Coketown ought to be
+and not considering that I am at any [[Time|time]] as dutifully and submissively
+treated by your daughter, as [[Josiah Bounderby]] of Coketown ought to be
 treated by his wife.  You have your opinion, I dare say; and I have mine,
-I know.  If you mean to say anything to me to-night, that goes against
-this candid remark, you had better let it alone.’
+I know.  If you mean to say anything to me to-[[Night|night]], that goes against
+this candid remark, you had better let it [[Alone|alone]].’

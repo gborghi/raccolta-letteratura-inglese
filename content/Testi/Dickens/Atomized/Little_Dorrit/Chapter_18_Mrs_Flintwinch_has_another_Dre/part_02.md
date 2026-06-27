@@ -24,7 +24,7 @@ obstinacy: ‘I mean dropped down upon me.’
 
 ‘I dropped down upon you, then, you ill-conditioned man,’ (Jeremiah
 chuckled at having forced her to adopt his phrase,) ‘for having been
-needlessly significant to Arthur that morning. I have a right to
+needlessly significant to [[Arthur]] that morning. I have a right to
 complain of it as almost a breach of confidence. You did not mean it--’
 
 ‘I won’t have it!’ interposed the contradictory Jeremiah, flinging back
@@ -53,19 +53,19 @@ The old man seemed to think so. There was another pause, and he had
 altered his position in the room, when he spoke again more mildly:
 
 ‘I was going to tell you why it was. Because, before you took your own
-part, I thought you ought to have taken the part of Arthur’s father.
-Arthur’s father! I had no particular love for Arthur’s father. I served
-Arthur’s father’s uncle, in this house, when Arthur’s father was not
+part, I thought you ought to have taken the part of [[Arthur]]’s father.
+[[Arthur]]’s father! I had no particular [[Love|love]] for [[Arthur]]’s father. I served
+[[Arthur]]’s father’s uncle, in this [[house]], when [[Arthur]]’s father was not
 much above me--was poorer as far as his pocket went--and when his uncle
 might as soon have left me his heir as have left him. He starved in the
 parlour, and I starved in the kitchen; that was the principal difference
 in our positions; there was not much more than a flight of breakneck
 stairs between us. I never took to him in those times; I don’t know that
-I ever took to him greatly at any time. He was an undecided, irresolute
-chap, who had everything but his orphan life scared out of him when he
-was young. And when he brought you home here, the wife his uncle
+I ever took to him greatly at any [[Time|time]]. He was an undecided, irresolute
+chap, who had everything but his [[Orphan|orphan]] life scared out of him when he
+was young. And when he brought you [[Home|home]] here, the wife his uncle
 had named for him, I didn’t need to look at you twice (you were a
-good-looking woman at that time) to know who’d be master. You have stood
+good-looking woman at that [[Time|time]]) to know who’d be master. You have stood
 of your own strength ever since. Stand of your own strength now. Don’t
 lean against the dead.’
 
@@ -74,7 +74,7 @@ lean against the dead.’
 ‘But you had a mind to do it, if I had submitted,’ growled Jeremiah,
 ‘and that’s why you drop down upon me. You can’t forget that I didn’t
 submit. I suppose you are astonished that I should consider it worth my
-while to have justice done to Arthur’s father? Hey? It doesn’t matter
+while to have justice done to [[Arthur]]’s father? Hey? It doesn’t matter
 whether you answer or not, because I know you are, and you know you are.
 Come, then, I’ll tell you how it is. I may be a bit of an oddity in
 point of temper, but this is my temper--I can’t let anybody have
@@ -98,13 +98,13 @@ question at present. However that may be, you carry out your purposes,
 and you make everything go down before them. Now, I won’t go down before
 them. I have been faithful to you, and useful to you, and I am attached
 to you. But I can’t consent, and I won’t consent, and I never did
-consent, and I never will consent to be lost in you. Swallow up
+consent, and I never will consent to be lost in you. [[Swallow]] up
 everybody else, and welcome. The peculiarity of my temper is, ma’am,
 that I won’t be swallowed up alive.’
 
 Perhaps this had originally been the mainspring of the understanding
 between them. Descrying thus much of force of character in Mr
-Flintwinch, perhaps Mrs Clennam had deemed alliance with him worth her
+Flintwinch, perhaps [[Mrs Clennam]] had deemed alliance with him worth her
 while.
 
 ‘Enough and more than enough of the subject,’ said she gloomily.
@@ -115,13 +115,13 @@ Flintwinch, ‘and then you must expect to hear of it again.’
 Mistress Affery dreamed that the figure of her lord here began walking
 up and down the room, as if to cool his spleen, and that she ran away;
 but that, as he did not issue forth when she had stood listening and
-trembling in the shadowy hall a little time, she crept up-stairs again,
-impelled as before by ghosts and curiosity, and once more cowered
+trembling in the shadowy hall a little [[Time|time]], she crept up-stairs again,
+impelled as before by [[Ghosts|ghosts]] and curiosity, and once more cowered
 outside the door.
 
-‘Please to light the candle, Flintwinch,’ Mrs Clennam was saying,
+‘Please to light the candle, Flintwinch,’ [[Mrs Clennam]] was saying,
 apparently wishing to draw him back into their usual tone. ‘It is nearly
-time for tea. Little Dorrit is coming, and will find me in the dark.’
+[[Time|time]] for tea. Little Dorrit is coming, and will find me in the dark.’
 
 Mr Flintwinch lighted the candle briskly, and said as he put it down
 upon the table:
@@ -138,7 +138,7 @@ gathered into the barn?’
 ‘Ay, ay! But since you have been lying here--not near dead--nothing like
 it--numbers of children and young people, blooming women, strong men,
 and what not, have been cut down and carried; and still here are you,
-you see, not much changed after all. Your time and mine may be a long
+you see, not much changed after all. Your [[Time|time]] and mine may be a long
 one yet. When I say for ever, I mean (though I am not poetical) through
-all our time.’ Mr Flintwinch gave this explanation with great calmness,
+all our [[Time|time]].’ Mr Flintwinch gave this explanation with great calmness,
 and calmly waited for an answer.

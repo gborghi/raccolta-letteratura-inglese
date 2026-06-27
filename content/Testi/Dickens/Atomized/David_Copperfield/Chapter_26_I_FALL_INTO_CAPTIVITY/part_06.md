@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 6)"
+title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -30,7 +30,7 @@ encouragement. ‘Never say die, sir! If She don’t smile upon you,
 there’s a many as will. You are a young gentleman to be smiled on, Mr.
 Copperfull, and you must learn your walue, sir.’
 
-Mrs. Crupp always called me Mr. Copperfull: firstly, no doubt, because
+Mrs. Crupp always called me Mr. Copperfull: firstly, no [[Doubt|doubt]], because
 it was not my name; and secondly, I am inclined to think, in some
 indistinct association with a washing-day.
 
@@ -40,8 +40,8 @@ Crupp?’ said I.
 ‘Mr. Copperfull,’ said Mrs. Crupp, with a great deal of feeling, ‘I’m a
 mother myself.’
 
-For some time Mrs. Crupp could only lay her hand upon her nankeen bosom,
-and fortify herself against returning pain with sips of her medicine. At
+For some [[Time|time]] Mrs. Crupp could only lay her hand upon her nankeen bosom,
+and fortify herself against returning [[Pain|pain]] with sips of her medicine. At
 length she spoke again.
 
 ‘When the present set were took for you by your dear aunt, Mr.
@@ -63,7 +63,7 @@ Mrs. Crupp shook her head in such a determined manner, that I had not an
 inch of vantage-ground left.
 
 ‘It was but the gentleman which died here before yourself,’ said Mrs.
-Crupp, ‘that fell in love--with a barmaid--and had his waistcoats took
+Crupp, ‘that fell in [[Love|love]]--with a barmaid--and had his waistcoats took
 in directly, though much swelled by drinking.’
 
 ‘Mrs. Crupp,’ said I, ‘I must beg you not to connect the young lady in
@@ -81,6 +81,6 @@ With these words, Mrs. Crupp, affecting to be very careful of the
 brandy--which was all gone--thanked me with a majestic curtsey, and
 retired. As her figure disappeared into the gloom of the entry, this
 counsel certainly presented itself to my mind in the light of a slight
-liberty on Mrs. Crupp’s part; but, at the same time, I was content
+liberty on Mrs. Crupp’s part; but, at the same [[Time|time]], I was content
 to receive it, in another point of view, as a word to the wise, and a
 warning in future to keep my secret better.

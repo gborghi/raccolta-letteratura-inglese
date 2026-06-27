@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 12 (part 4)"
+title: "[[GKC-Autobiography]] — Chapter 12 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -15,20 +15,20 @@ tags:
 
 
 There was a small row or scandal, connected with Cunninghame Graham
-and his candour in politics, which has always stuck in my memory
+and his candour in politics, which has always stuck in my [[Memory|memory]]
 as a symbol.  It explains why I, for one, have always got on much
 better with revolutionists than with reformers; even when I entirely
 disagreed with the revolutions or entirely agreed with the reforms.
 In Ireland it would have been different; but in England,
 during most of my life, the revolutionists were always Socialists;
 and in theory, almost always State Socialists.  And I had early
-begun to doubt, and later to deny, the Socialist or any other
+begun to [[Doubt|doubt]], and later to deny, the Socialist or any other
 assumption that involved a complete confidence in the State.
-I think I had begun to doubt it ever since I met the statesmen.
+I think I had begun to [[Doubt|doubt]] it ever since I met the statesmen.
 On the other hand, I really did agree with the Liberals on many
 definite points that had become part of the Liberal programme;
-such as Home Rule for Ireland and a democratic decentralisation many held
-to be the death of the Empire.  But I always felt, and I still feel,
+such as [[Home]] Rule for Ireland and a democratic decentralisation many held
+to be the [[Death|death]] of the Empire.  But I always felt, and I still feel,
 more personal sympathy with a Communist like Conrad Noel than with a
 Liberal like John Simon; while recognising that both are in their own
 way sincere.  I think the reason is that the revolutionists did,
@@ -49,11 +49,11 @@ and keen and bitter countenance, will pretend that his own spirit
 was not supremely critical.  He was one of the most independent
 and intelligent of the Liberal critics of Imperialism, and on
 that point I was wholly with the Liberals; I disliked Imperialism;
-and yet I almost liked it by the time that Hobson had finished
+and yet I almost liked it by the [[Time|time]] that Hobson had finished
 speaking against it.  And I remember one occasion when he took
 the chair at some meeting of or about Aborigines or the native
 races of the Empire; and he had Cunninghame Graham on his right,
-while I had the honour of sitting on the other side.
+while I had the [[Honour|honour]] of sitting on the other side.
 Hobson made a very able political speech, but somehow it seemed to me
 to be a party speech; concerned more for Liberalism than Liberty.
 I may be wrong; anyhow, I missed something, as he picked holes
@@ -63,7 +63,7 @@ and I realised what was wanting.  He painted a picture, a historical
 picture, like a pageant of Empires; talking of the Spanish Empire
 and the British Empire as things to be reviewed with an equal eye;
 as things which brave and brilliant men had often served with
-double or doubtful effects; he poured scorn on the provincial
+[[Double|double]] or doubtful effects; he poured scorn on the provincial
 ignorance which supposes that Spanish Empire-builders or proconsuls
 had all been vultures of rapine or vampires of superstition;
 he declared that many of the Spanish, like many of the English,
@@ -81,8 +81,8 @@ fuss about these words; that they were the only words of the speech
 that anybody bothered to remember; that these were only remembered
 as an execrable example of the frenzy of the foes of the Empire;
 and that all the funny people on that platform were lumped together
-as gory regicides who went about drinking the blood of kings?
-And all the time, I had been saying to myself that Cunninghame Graham
+as gory regicides who went about drinking the [[Blood|blood]] of kings?
+And all the [[Time|time]], I had been saying to myself that Cunninghame Graham
 at least had been fair to Empires as Empires--whereas
 J. A. Hobson had not been fair to the British Empire at all.
 There was nothing particularly unprecedented or preposterous in
@@ -90,14 +90,14 @@ what the Scottish Socialist had said about tyrannicide, though we
 may disagree with it for particular moral or religious reasons.
 He only said what practically all the great Pagans would have said;
 what all the admirers of Hermodius and Aristogiton would have said;
-what many Renaissance theorists, Catholic and non-Catholic,
+what many [[Renaissance]] theorists, Catholic and non-Catholic,
 would have said; what all the great French Revolutionists would have said;
 what practically all the classic poets and tragedians down to modern
 times would have said.  It was no more than was implied in a hundred
-sacred pictures of Judith or a hundred secular praises of Brutus.
-But Mr. Hobson would have been shocked, I fear, at the faintest
-suggestion of the killing of an evil king; but he was not in the least
-shocked at the implied impossibility of the power of a good king,
+sacred pictures of Judith or a hundred secular praises of [[Brutus]].
+But Mr. Hobson would have been shocked, I [[Fear|fear]], at the faintest
+suggestion of the killing of an evil [[King|king]]; but he was not in the least
+shocked at the implied impossibility of the power of a good [[King|king]],
 or the modern ignorance of all that men have meant by kingship.
 
 It was the irritant of this irritation, which seemed to me a little
@@ -106,7 +106,7 @@ or liberty, that slowly estranged me from political liberalism.
 But it would not be fair to say so, without adding that I did
 know men, capable of working with the party, who were really
 full of something that was not liberalism but liberality.
-Two men of that type remain in my memory; and it is for their
+Two men of that type remain in my [[Memory|memory]]; and it is for their
 sake and in their sense that I say I am a Liberal.  One was
 Augustine Birrell, who enlivened his politics through literature;
 and the other was the last Gladstonian, G. W. E. Russell,
@@ -117,11 +117,11 @@ which covered a great variety.  Birrell was a Nonconformist
 with a very rich comprehension of Newman.  Russell was a
 High Churchman with a quite detached admiration of Matthew Arnold.
 And they both drew out of these deeper and wider things a certain
-rich repose in humour denied to the mere men of the Party System.
+rich repose in [[Humour|humour]] denied to the mere men of the Party System.
 I shall never forget the occasion when old Birrell, roused by the rather
 vulgar refinement of the popular Puritan press, as expressed by a
 suave editor who patronised the polysyllabic style of Dr. Johnson,
-rose like a white-maned lion at the dinner-table where the editor
+[[Rose|rose]] like a white-maned [[Lion|lion]] at the dinner-table where the editor
 had spoken, and told him that if he wanted to understand the style
 of Dr. Johnson, he should consult the passage in which Dr. Johnson
 called somebody the son of a bitch.  It was spat out with such
@@ -133,11 +133,11 @@ but he was never afraid of being in a minority; and he took
 the chair at a Pro-Boer dinner when Pro-Boers were most unpopular.
 At the end his health was proposed by Sir Wilfrid Lawson, the celebrated
 teetotal fanatic, or shall we say enthusiast, who was also a brave man,
-and could fight for the few.  He was by this time an old man;
+and could fight for the few.  He was by this [[Time|time]] an old man;
 and anyhow, by some accident, he confused the terms of the toast;
 calling it a vote of thanks; or what not.  I only know that,
 for some reason, the last scene of this dinner is also astonishingly
-vivid in my memory.  For Russell rose like some vast fish,
+vivid in my [[Memory|memory]].  For Russell [[Rose|rose]] like some vast fish,
 gazing upwards insolently at the ceiling as he always did, and began:
 "This toast, which Sir Wilfrid Lawson seems to have a post-prandial
 difficulty in enunciating ..."
@@ -145,10 +145,10 @@ difficulty in enunciating ..."
 There were many others, of course, who were complete exceptions to
 anything I have said here about the atmosphere of political Liberalism.
 One to whom I owe more than to most other people was Philip Wicksteed,
-the Dante lecturer; but there again, the modern mind had been
+the [[Dante]] lecturer; but there again, the modern mind had been
 broadened by a study of narrow mediaeval dogmas.  But on the whole,
 I must confess that I reached a point of practical separation;
-I did not in the least desire to come any nearer to the imperialism
+I did not in the least [[Desire|desire]] to come any nearer to the imperialism
 of Curzon, or the cynical patriotism of Balfour, or the patriotic
 pacifism of Cecil; I am not a Conservative, whatever I am;
 I am certainly not a Unionist, whatever I am; but the general

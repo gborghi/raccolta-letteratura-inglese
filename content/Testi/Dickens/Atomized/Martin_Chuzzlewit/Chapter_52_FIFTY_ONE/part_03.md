@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 52: FIFTY ONE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 52: FIFTY ONE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,7 +20,7 @@ Where is the other woman?’
 ‘The other person’s with him now,’ she answered.
 
 ‘That’s right,’ said Jonas. ‘He is not fit to be left to himself. Why,
-he fastened on me to-night; here, upon my coat; like a savage dog. Old
+he fastened on me to-[[Night|night]]; here, upon my coat; like a savage dog. Old
 as he is, and feeble as he is usually, I had some trouble to shake him
 off. You--Hush!--It’s nothing. You told me the other woman’s name. I
 forget it.’
@@ -51,27 +51,27 @@ certain times to her existence, and which came on very strong when that
 remedy was not at hand, Jonas merely supposed her to be the victim of
 one of these attacks.
 
-‘Well!’ he said, hastily, for he felt how incapable he was of confining
+‘[[Well]]!’ he said, hastily, for he felt how incapable he was of confining
 his wandering attention to the subject. ‘You and she have arranged to
 take care of him, have you?’
 
 Mrs Gamp replied in the affirmative, and softly discharged herself of
 her familiar phrase, ‘Turn and turn about; one off, one on.’ But
 she spoke so tremulously that she felt called upon to add, ‘which
-fiddle-strings is weakness to expredge my nerves this night!’
+fiddle-strings is weakness to expredge my nerves this [[Night|night]]!’
 
 Jonas stopped to listen. Then said, hurriedly:
 
 ‘We shall not quarrel about terms. Let them be the same as they were
 before. Keep him close, and keep him quiet. He must be restrained.
-He has got it in his head to-night that my wife’s dead, and has been
+He has got it in his head to-[[Night|night]] that my wife’s dead, and has been
 attacking me as if I had killed her. It’s--it’s common with mad people
 to take the worst fancies of those they like best. Isn’t it?’
 
 Mrs Gamp assented with a short groan.
 
 ‘Keep him close, then, or in one of his fits he’ll be doing me a
-mischief. And don’t trust him at any time; for when he seems most
+mischief. And don’t trust him at any [[Time|time]]; for when he seems most
 rational, he’s wildest in his talk. But that you know already. Let me
 see the other.’
 
@@ -90,12 +90,12 @@ already seen. Before she could look round towards the door, she was put
 aside by old Martin’s hand; and Chuffey and John Westlock entered with
 him.
 
-‘Let no one leave the house,’ said Martin. ‘This man is my brother’s
+‘Let no one leave the [[house]],’ said Martin. ‘This man is my brother’s
 son. Ill-met, ill-trained, ill-begotten. If he moves from the spot on
 which he stands, or speaks a word above his breath to any person here,
-open the window, and call for help!’
+open the [[Window|window]], and call for help!’
 
-‘What right have you to give such directions in this house?’ asked Jonas
+‘What right have you to give such directions in this [[house]]?’ asked Jonas
 faintly.
 
 ‘The right of your wrong-doing. Come in there!’
@@ -103,8 +103,8 @@ faintly.
 An irrepressible exclamation burst from the lips of Jonas, as Lewsome
 entered at the door. It was not a groan, or a shriek, or a word, but was
 wholly unlike any sound that had ever fallen on the ears of those who
-heard it, while at the same time it was the most sharp and terrible
-expression of what was working in his guilty breast, that nature could
+heard it, while at the same [[Time|time]] it was the most sharp and terrible
+expression of what was working in his guilty breast, that [[Nature|nature]] could
 have invented.
 
 He had done murder for this! He had girdled himself about with perils,
@@ -121,11 +121,11 @@ required the chair for his support. But he made a struggle for it.
 ‘I know that fellow,’ he said, fetching his breath at every word, and
 pointing his trembling finger towards Lewsome. ‘He’s the greatest liar
 alive. What’s his last tale? Ha, ha! You’re rare fellows, too! Why, that
-uncle of mine is childish; he’s even a greater child than his brother,
+uncle of mine is childish; he’s even a greater [[Child|child]] than his brother,
 my father, was, in his old age; or than Chuffey is. What the devil do
-you mean,’ he added, looking fiercely at John Westlock and Mark Tapley
+you mean,’ he added, looking fiercely at John Westlock and [[Mark Tapley]]
 (the latter had entered with Lewsome), ‘by coming here, and bringing
-two idiots and a knave with you to take my house by storm? Hallo, there!
+two idiots and a knave with you to take my [[house]] by [[Storm|storm]]? Hallo, there!
 Open the door! Turn these strangers out!’
 
 ‘I tell you what,’ cried Mr Tapley, coming forward, ‘if it wasn’t
@@ -134,11 +134,11 @@ single-handed I would! Ah, I would! Don’t try and look bold at me.
 You can’t do it! Now go on, sir,’ this was to old Martin. ‘Bring the
 murderin’ wagabond upon his knees! If he wants noise, he shall have
 enough of it; for as sure as he’s a shiverin’ from head to foot I’ll
-raise a uproar at this winder that shall bring half London in. Go on,
+raise a uproar at this winder that shall bring half [[London]] in. Go on,
 sir! Let him try me once, and see whether I’m a man of my word or not.’
 
 With that, Mark folded his arms, and took his seat upon the
-window-ledge, with an air of general preparation for anything, which
+[[Window|window]]-ledge, with an air of general preparation for anything, which
 seemed to imply that he was equally ready to jump out himself, or to
 throw Jonas out, upon receiving the slightest hint that it would be
 agreeable to the company.
@@ -148,4 +148,4 @@ Old Martin turned to Lewsome:
 ‘This is the man,’ he said, extending his hand towards Jonas. ‘Is it?’
 
 ‘You need do no more than look at him to be sure of that, or of the
-truth of what I have said,’ was the reply. ‘He is my witness.’
+[[Truth|truth]] of what I have said,’ was the reply. ‘He is my witness.’

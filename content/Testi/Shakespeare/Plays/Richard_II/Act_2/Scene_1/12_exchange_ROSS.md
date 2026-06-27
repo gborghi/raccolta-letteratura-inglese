@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act II, Scene 1 — exchange (ROSS) [12]"
+title: "[[Richard II]] — Act II, Scene 1 — exchange (ROSS) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ROSS | To horse, to horse! Urge doubts to them that fear. |
-| WILLOUGHBY | Hold out my horse, and I will first be there. Exeunt |
+| ROSS | To [[Horse|horse]], to [[Horse|horse]]! Urge doubts to them that [[Fear|fear]]. |
+| WILLOUGHBY | Hold out my [[Horse|horse]], and I will first be there. Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog (part 7)"
+title: "[[Incredulity]] — The Oracle of the Dog (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -48,14 +48,14 @@ old walking--stick.'
 Fiennes said nothing, but continued to stare; and it was the priest
 who continued:  `It had sunk because it was not really a stick,
 but a rod of steel with a very thin shell of cane and a sharp point.
-In other words, it was a sword stick.  I suppose a murderer never gets
+In other words, it was a [[Sword|sword]] stick.  I suppose a murderer never gets
 rid of a bloody weapon so oddly and yet so naturally as by throwing
 it into the sea for a retriever.'
 
 `I begin to see what you mean,' admitted Fiennes;' but even if a sword--
 stick was used, I have no guess of how it was used.'
 
-`I had a sort of guess,' said Father Brown, `right at the beginning when
+`I had a sort of guess,' said [[Father Brown]], `right at the beginning when
 you said the word summer--house.  And another when you said that Druce
 wore a white coat.  As long as everybody was looking for a short dagger,
 nobody thought of it; but if we admit a rather long blade like a rapier,
@@ -64,18 +64,18 @@ it's not so impossible.'
 He was leaning back, looking at the ceiling, and began like one going
 back to his own first thoughts and fundamentals.
 
-`All that discussion about detective stories like the Yellow Room,
+`All that discussion about [[Detective|detective]] stories like the Yellow Room,
 about a man found dead in sealed chambers which no one
 could enter, does not apply to the present case, because it
-is a summer--house.  When we talk of a Yellow Room, or any room,
+is a [[Summer|summer]]--[[house]].  When we talk of a Yellow Room, or any room,
 we imply walls that are really homogeneous and impenetrable.
-But a summer--house is not made like that; it is often made,
+But a [[Summer|summer]]--[[house]] is not made like that; it is often made,
 as it was in this case, of closely interlaced but separate boughs
 and strips of wood, in which there are chinks here and there.
 There was one of them just behind Druce's back as he sat in his
-chair up against the wall.  But just as the room was a summer--
-house, so the chair was a basket--chair.  That also was a lattice
-of loopholes.  Lastly, the summer--house was close up under the hedge;
+chair up against the wall.  But just as the room was a [[Summer|summer]]--
+[[house]], so the chair was a basket--chair.  That also was a lattice
+of loopholes.  Lastly, the [[Summer|summer]]--[[house]] was close up under the hedge;
 and you have just told me that it was really a thin hedge.
 A man standing outside it could easily see, amid a network
 of twigs and branches and canes, one white spot of the Colonel's
@@ -98,7 +98,7 @@ But surely it was a very odd chance and a very sudden choice.
 Besides, he couldn't be certain the old man's money had passed
 to him, and as a fact it hadn't.'
 
-Father Brown's face became animated.  `You misunderstand
+[[Father Brown]]'s face became animated.  `You misunderstand
 the man's character,' he said, as if he himself had known the man
 all his life.  `A curious but not unknown type of character.
 If he had really known the money would come to him, I seriously
@@ -117,15 +117,15 @@ will be wonderful in retrospect.  He wants to say, `Nobody but I
 could have seized that chance or seen that it was then or never.
 What a wild and wonderful guess it was, when I put all those
 things together; Donald in disgrace; and the lawyer being sent for;
-and Herbert and I sent for at the same time--and then nothing
+and Herbert and I sent for at the same [[Time|time]]--and then nothing
 more but the way the old man grinned at me and shook hands.
 Anybody would say I was mad to risk it; but that is how fortunes
 are made, by the man mad enough to have a little foresight.'  In short,
-it is the vanity of guessing.  It is the megalomania of the gambler.
+it is the [[Vanity|vanity]] of guessing.  It is the megalomania of the gambler.
 The more incongruous the coincidence, the more instantaneous
 the decision, the more likely he is to snatch the chance.
 The accident, the very triviality of the white speck and the hole
-in the hedge intoxicated him like a vision of the world's desire.
+in the hedge intoxicated him like a vision of the world's [[Desire|desire]].
 Nobody clever enough to see such a combination of accidents
 could be cowardly enough not to use them!  That is how the devil
 talks to the gambler.  But the devil himself would hardly have

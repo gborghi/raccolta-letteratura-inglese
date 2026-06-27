@@ -17,17 +17,17 @@ tags:
 ‘Unquestionably. And also that you are his favourite companion.’
 
 ‘That makes it,’ said Bella, ‘so very difficult to speak of him. But—.
-Does he treat you well?’
+Does he treat you [[Well|well]]?’
 
 ‘You see how he treats me,’ the Secretary answered, with a patient and
 yet proud air.
 
-‘Yes, and I see it with pain,’ said Bella, very energetically.
+‘Yes, and I see it with [[Pain|pain]],’ said Bella, very energetically.
 
 The Secretary gave her such a radiant look, that if he had thanked her a
 hundred times, he could not have said as much as the look said.
 
-‘I see it with pain,’ repeated Bella, ‘and it often makes me miserable.
+‘I see it with [[Pain|pain]],’ repeated Bella, ‘and it often makes me miserable.
 Miserable, because I cannot bear to be supposed to approve of it, or
 have any indirect share in it. Miserable, because I cannot bear to be
 forced to admit to myself that Fortune is spoiling Mr Boffin.’
@@ -38,7 +38,7 @@ YOU, you would know that it more than compensates me for any slight at
 any other hands.’
 
 ‘Oh, don’t speak of ME,’ said Bella, giving herself an impatient little
-slap with her glove. ‘You don’t know me as well as—’
+slap with her glove. ‘You don’t know me as [[Well|well]] as—’
 
 ‘As you know yourself?’ suggested the Secretary, finding that she
 stopped. ‘DO you know yourself?’
@@ -52,7 +52,7 @@ used to be,’ observed the Secretary, ‘must be admitted. It is too plain
 to be denied.’
 
 ‘Are you disposed to deny it, Mr Rokesmith?’ asked Bella, with a look of
-wonder.
+[[Wonder|wonder]].
 
 ‘Ought I not to be glad to do so, if I could: though it were only for my
 own sake?’
@@ -70,11 +70,11 @@ Assenting with a movement of his head, though not at all looking as if
 it did, the Secretary replied:
 
 ‘I have very strong reasons, Miss Wilfer, for bearing with the drawbacks
-of my position in the house we both inhabit. Believe that they are not
+of my position in the [[house]] we both inhabit. Believe that they are not
 all mercenary, although I have, through a series of strange fatalities,
 faded out of my place in life. If what you see with such a gracious
-and good sympathy is calculated to rouse my pride, there are other
-considerations (and those you do not see) urging me to quiet endurance.
+and good sympathy is calculated to rouse my [[Pride|pride]], there are other
+considerations (and those you do not see) urging me to quiet [[Endurance|endurance]].
 The latter are by far the stronger.’
 
 ‘I think I have noticed, Mr Rokesmith,’ said Bella, looking at him with
@@ -84,9 +84,9 @@ force yourself, to act a passive part.’
 ‘You are right. I repress myself and force myself to act a part. It is
 not in tameness of spirit that I submit. I have a settled purpose.’
 
-‘And a good one, I hope,’ said Bella.
+‘And a good one, I [[Hope|hope]],’ said Bella.
 
-‘And a good one, I hope,’ he answered, looking steadily at her.
+‘And a good one, I [[Hope|hope]],’ he answered, looking steadily at her.
 
 ‘Sometimes I have fancied, sir,’ said Bella, turning away her eyes,
 ‘that your great regard for Mrs Boffin is a very powerful motive with
@@ -103,9 +103,9 @@ woman.’
 ‘Of course you see that she really suffers, when Mr Boffin shows how he
 is changing?’
 
-‘I see it, every day, as you see it, and am grieved to give her pain.’
+‘I see it, every day, as you see it, and am grieved to give her [[Pain|pain]].’
 
-‘To give her pain?’ said Bella, repeating the phrase quickly, with her
+‘To give her [[Pain|pain]]?’ said Bella, repeating the phrase quickly, with her
 eyebrows raised.
 
 ‘I am generally the unfortunate cause of it.’
@@ -124,32 +124,32 @@ Life, heaved a little sigh, and gave up things in general for a bad job,
 as she had previously been inclined to give up herself.
 
 But, for all that, they had a very pleasant walk. The trees were bare of
-leaves, and the river was bare of water-lilies; but the sky was not bare
-of its beautiful blue, and the water reflected it, and a delicious
-wind ran with the stream, touching the surface crisply. Perhaps the old
-mirror was never yet made by human hands, which, if all the images it
-has in its time reflected could pass across its surface again, would
+[[Leaves|leaves]], and the [[River|river]] was bare of [[Water|water]]-lilies; but the sky was not bare
+of its beautiful blue, and the [[Water|water]] reflected it, and a delicious
+[[Wind|wind]] ran with the stream, touching the surface crisply. Perhaps the old
+[[Mirror|mirror]] was never yet made by human hands, which, if all the images it
+has in its [[Time|time]] reflected could pass across its surface again, would
 fail to reveal some scene of horror or distress. But the great serene
-mirror of the river seemed as if it might have reproduced all it had
+[[Mirror|mirror]] of the [[River|river]] seemed as if it might have reproduced all it had
 ever reflected between those placid banks, and brought nothing to the
-light save what was peaceful, pastoral, and blooming.
+light save what was peaceful, [[Pastoral|pastoral]], and blooming.
 
-So, they walked, speaking of the newly filled-up grave, and of Johnny,
+So, they walked, speaking of the newly filled-up [[Grave|grave]], and of Johnny,
 and of many things. So, on their return, they met brisk Mrs Milvey
 coming to seek them, with the agreeable intelligence that there was no
-fear for the village children, there being a Christian school in the
+[[Fear|fear]] for the village children, there being a Christian school in the
 village, and no worse Judaical interference with it than to plant its
-garden. So, they got back to the village as Lizzie Hexam was coming from
+[[Garden|garden]]. So, they got back to the village as [[Lizzie Hexam]] was coming from
 the paper-mill, and Bella detached herself to speak with her in her own
-home.
+[[Home|home]].
 
 ‘I am afraid it is a poor room for you,’ said Lizzie, with a smile of
-welcome, as she offered the post of honour by the fireside.
+welcome, as she offered the post of [[Honour|honour]] by the fireside.
 
 ‘Not so poor as you think, my dear,’ returned Bella, ‘if you knew all.’
 Indeed, though attained by some wonderful winding narrow stairs, which
 seemed to have been erected in a pure white chimney, and though very low
 in the ceiling, and very rugged in the floor, and rather blinking as
-to the proportions of its lattice window, it was a pleasanter room than
-that despised chamber once at home, in which Bella had first bemoaned
+to the proportions of its lattice [[Window|window]], it was a pleasanter room than
+that despised chamber once at [[Home|home]], in which Bella had first bemoaned
 the miseries of taking lodgers.

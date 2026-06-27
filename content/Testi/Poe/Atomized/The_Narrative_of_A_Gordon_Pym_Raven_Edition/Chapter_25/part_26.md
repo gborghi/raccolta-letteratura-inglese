@@ -42,7 +42,7 @@ tags:
 
       take for dese fifty-five year. Ven I go marry my segonde usbande,
 
-      Monsieur Lalande, at dat time I had de portraite take for my
+      Monsieur Lalande, at dat [[Time|time]] I had de portraite take for my
 
       daughter by my first usbande, Monsieur Moissart!”
 
@@ -54,7 +54,7 @@ tags:
 
       “Yes, Moissart,” said she, mimicking my pronunciation, which, to
 
-      speak the truth, was none of the best,—“and vat den? Vat you know
+      speak the [[Truth|truth]], was none of the best,—“and vat den? Vat you know
 
       about de Moissart?”
 
@@ -62,7 +62,7 @@ tags:
 
       “Nothing, you old fright!—I know nothing about him at all; only I
 
-      had an ancestor of that name, once upon a time.”
+      had an ancestor of that name, once upon a [[Time|time]].”
 
 
 
@@ -110,7 +110,7 @@ tags:
 
       and Voissart, and Croissart, and Froissart. But Monsieur
 
-      Froissart, he vas von _ver_ big vat you call fool—he vas von ver
+      Froissart, he vas von _ver_ big vat you call [[Fool|fool]]—he vas von ver
 
       great big donce like yourself—for he lef _la belle France_ for
 
@@ -128,7 +128,7 @@ tags:
 
 
 
-      Either the length or the nature of this speech, had the effect of
+      Either the length or the [[Nature|nature]] of this speech, had the effect of
 
       working up Mrs. Simpson into a very extraordinary passion indeed;
 
@@ -186,7 +186,7 @@ tags:
 
       pearl-powder, of rouge, of false hair, false teeth, and false
 
-      tournure, as well as of the most skilful modistes of Paris, she
+      tournure, as [[Well|well]] as of the most skilful modistes of [[Paris]], she
 
       contrived to hold a respectable footing among the beauties _en
 
@@ -198,11 +198,11 @@ tags:
 
 
 
-      She was immensely wealthy, and being left, for the second time, a
+      She was immensely wealthy, and being left, for the second [[Time|time]], a
 
       widow without children, she bethought herself of my existence in
 
-      America, and for the purpose of making me her heir, paid a visit
+      [[America]], and for the purpose of making me her heir, paid a visit
 
       to the United States, in company with a distant and exceedingly
 
@@ -220,7 +220,7 @@ tags:
 
       herself. Thus interested, and knowing that the heir she sought
 
-      was actually in the city, she made inquiries of her party
+      was actually in the [[City|city]], she made inquiries of her party
 
       respecting me. The gentleman who attended her knew my person, and
 
@@ -232,6 +232,6 @@ tags:
 
       returned my bow, however, under the impression that, by some odd
 
-      accident, I had discovered her identity. When, deceived by my
+      accident, I had discovered her [[Identity|identity]]. When, deceived by my
 
       weakness of vision, and the arts of the toilet, in respect to the

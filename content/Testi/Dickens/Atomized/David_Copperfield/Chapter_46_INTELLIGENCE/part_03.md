@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 46: INTELLIGENCE (part 3)"
+title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -31,7 +31,7 @@ I felt it due to my character to leave him. I could bear, and I have
 borne, a great deal from Mr. James; but he insulted me too far. He hurt
 me. Knowing the unfortunate difference between himself and his mother,
 and what her anxiety of mind was likely to be, I took the liberty of
-coming home to England, and relating--’
+coming [[Home|home]] to England, and relating--’
 
 ‘For money which I paid him,’ said Miss Dartle to me.
 
@@ -46,7 +46,7 @@ occurred to my mind, I said in reply:
 
 ‘I could wish to know from this--creature,’ I could not bring myself
 to utter any more conciliatory word, ‘whether they intercepted a letter
-that was written to her from home, or whether he supposes that she
+that was written to her from [[Home|home]], or whether he supposes that she
 received it.’
 
 He remained calm and silent, with his eyes fixed on the ground, and the
@@ -79,7 +79,7 @@ going.’
 I indicated that I had nothing more to say. ‘Except,’ I added, as I
 saw him moving off, ‘that I understand this fellow’s part in the wicked
 story, and that, as I shall make it known to the honest man who has been
-her father from her childhood, I would recommend him to avoid going too
+her father from her [[Childhood|childhood]], I would recommend him to avoid going too
 much into public.’
 
 He had stopped the moment I began, and had listened with his usual
@@ -93,21 +93,21 @@ speaking, I am not at all afraid of going wherever I may wish, sir.’
 
 With that, he made a polite bow; and, with another to Miss Dartle, went
 away through the arch in the wall of holly by which he had come. Miss
-Dartle and I regarded each other for a little while in silence; her
+Dartle and I regarded each other for a little while in [[Silence|silence]]; her
 manner being exactly what it was, when she had produced the man.
 
 ‘He says besides,’ she observed, with a slow curling of her lip, ‘that
 his master, as he hears, is coasting Spain; and this done, is away
 to gratify his seafaring tastes till he is weary. But this is of no
 interest to you. Between these two proud persons, mother and son, there
-is a wider breach than before, and little hope of its healing, for they
-are one at heart, and time makes each more obstinate and imperious.
+is a wider breach than before, and little [[Hope|hope]] of its healing, for they
+are one at heart, and [[Time|time]] makes each more obstinate and imperious.
 Neither is this of any interest to you; but it introduces what I wish to
 say. This devil whom you make an angel of. I mean this low girl whom he
 picked out of the tide-mud,’ with her black eyes full upon me, and her
 passionate finger up, ‘may be alive,--for I believe some common things
-are hard to die. If she is, you will desire to have a pearl of such
-price found and taken care of. We desire that, too; that he may not
+are hard to die. If she is, you will [[Desire|desire]] to have a pearl of such
+price found and taken care of. We [[Desire|desire]] that, too; that he may not
 by any chance be made her prey again. So far, we are united in one
 interest; and that is why I, who would do her any mischief that so
 coarse a wretch is capable of feeling, have sent for you to hear what
@@ -117,11 +117,11 @@ I saw, by the change in her face, that someone was advancing behind me.
 It was Mrs. Steerforth, who gave me her hand more coldly than of yore,
 and with an augmentation of her former stateliness of manner, but still,
 I perceived--and I was touched by it--with an ineffaceable remembrance
-of my old love for her son. She was greatly altered. Her fine figure was
+of my old [[Love|love]] for her son. She was greatly altered. Her fine figure was
 far less upright, her handsome face was deeply marked, and her hair was
 almost white. But when she sat down on the seat, she was a handsome lady
-still; and well I knew the bright eye with its lofty look, that had been
-a light in my very dreams at school.
+still; and [[Well|well]] I knew the bright eye with its lofty look, that had been
+a light in my very [[Dreams|dreams]] at school.
 
 ‘Is Mr. Copperfield informed of everything, Rosa?’
 
@@ -135,4 +135,4 @@ me, ‘but it has not restored his sense of duty or natural obligation.
 Therefore I have no other object in this, than what Rosa has mentioned.
 If, by the course which may relieve the mind of the decent man you
 brought here (for whom I am sorry--I can say no more), my son may be
-saved from again falling into the snares of a designing enemy, well!’
+saved from again falling into the snares of a designing enemy, [[Well|well]]!’

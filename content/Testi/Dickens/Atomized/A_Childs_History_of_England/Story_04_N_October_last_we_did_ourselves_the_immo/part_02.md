@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — N October last, we did ourselves the immortal credit of recording, at an (part 2)"
+title: "A [[Child]]'s [[history|History]] of England — N October last, we did ourselves the immortal credit of recording, at an (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-‘As I anticipated, the knobs of cheese were provided for the passengers’
+‘As I anticipated, the knobs of [[cheese]] were provided for the passengers’
 supper, and are now in course of consumption.  Your readers will be
-surprised to hear that Professor Woodensconce has abstained from cheese
+surprised to hear that Professor Woodensconce has abstained from [[cheese]]
 for eight years, although he takes butter in considerable quantities.
 Professor Grime having lost several teeth, is unable, I observe, to eat
 his crusts without previously soaking them in his bottled porter.  How
@@ -24,7 +24,7 @@ interesting are these peculiarities!’
 
                                                       ‘_Half-past eleven_.
 
-‘PROFESSORS Woodensconce and Grime, with a degree of good humour that
+‘PROFESSORS Woodensconce and Grime, with a degree of good [[Humour|humour]] that
 delights us all, have just arranged to toss for a bottle of mulled port.
 There has been some discussion whether the payment should be decided by
 the first toss or the best out of three.  Eventually the latter course
@@ -36,13 +36,13 @@ that gentleman to the amount of eighteenpence.’
 
                                               ‘_Twenty minutes to twelve_.
 
-‘PROFESSOR Grime has inadvertently tossed his half-crown out of one of
+‘PROFESSOR Grime has inadvertently tossed his half-[[Crown|crown]] out of one of
 the cabin-windows, and it has been arranged that the steward shall toss
 for him.  Bets are offered on any side to any amount, but there are no
 takers.
 
 ‘Professor Woodensconce has just called “woman;” but the coin having
-lodged in a beam, is a long time coming down again.  The interest and
+lodged in a beam, is a long [[Time|time]] coming down again.  The interest and
 suspense of this one moment are beyond anything that can be imagined.’
 
                                                         ‘_Twelve o’clock_.
@@ -52,18 +52,18 @@ has won.  Tossing is a game of chance; but on every ground, whether of
 public or private character, intellectual endowments, or scientific
 attainments, I cannot help expressing my opinion that Professor
 Woodensconce _ought_ to have come off victorious.  There is an exultation
-about Professor Grime incompatible, I fear, with true greatness.’
+about Professor Grime incompatible, I [[Fear|fear]], with true [[Greatness|greatness]].’
 
                                                  ‘_A quarter past twelve_.
 
 ‘PROFESSOR Grime continues to exult, and to boast of his victory in no
 very measured terms, observing that he always does win, and that he knew
 it would be a “head” beforehand, with many other remarks of a similar
-nature.  Surely this gentleman is not so lost to every feeling of decency
+[[Nature|nature]].  Surely this gentleman is not so lost to every feeling of decency
 and propriety as not to feel and know the superiority of Professor
 Woodensconce?  Is Professor Grime insane? or does he wish to be reminded
 in plain language of his true position in society, and the precise level
-of his acquirements and abilities?  Professor Grime will do well to look
+of his acquirements and abilities?  Professor Grime will do [[Well|well]] to look
 to this.’
 
                                                            ‘_One o’clock_.
@@ -72,10 +72,10 @@ to this.’
 of a flickering lamp suspended from the ceiling; Professor Grime is lying
 on the opposite shelf on the broad of his back, with his mouth wide open.
 The scene is indescribably solemn.  The rippling of the tide, the noise
-of the sailors’ feet overhead, the gruff voices on the river, the dogs on
+of the sailors’ feet overhead, the gruff voices on the [[River|river]], the [[dogs]] on
 the shore, the snoring of the passengers, and a constant creaking of
 every plank in the vessel, are the only sounds that meet the ear.  With
-these exceptions, all is profound silence.
+these exceptions, all is profound [[Silence|silence]].
 
 ‘My curiosity has been within the last moment very much excited.  Mr.
 Slug, who lies above Professor Grime, has cautiously withdrawn the
@@ -119,7 +119,7 @@ his shelf head foremost, and, gaining his feet with all the rapidity of
 extreme terror, ran wildly into the ladies’ cabin, under the impression
 that we were sinking, and uttering loud cries for aid.  I am assured that
 the scene which ensued baffles all description.  There were one hundred
-and forty-seven ladies in their respective berths at the time.
+and forty-seven ladies in their respective berths at the [[Time|time]].
 
 ‘Mr. Slug has remarked, as an additional instance of the extreme
 ingenuity of the steam-engine as applied to purposes of navigation, that

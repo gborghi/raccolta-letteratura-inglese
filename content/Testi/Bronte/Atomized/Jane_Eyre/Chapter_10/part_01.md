@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 10 (part 1)"
+title: "[[Jane Eyre]] — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -20,9 +20,9 @@ CHAPTER X
 Hitherto I have recorded in detail the events of my insignificant
 existence: to the first ten years of my life I have given almost as
 many chapters. But this is not to be a regular autobiography: I am only
-bound to invoke Memory where I know her responses will possess some
+bound to invoke [[Memory]] where I know her responses will possess some
 degree of interest; therefore I now pass a space of eight years almost
-in silence: a few lines only are necessary to keep up the links of
+in [[Silence|silence]]: a few lines only are necessary to keep up the links of
 connection.
 
 When the typhus fever had fulfilled its mission of devastation at
@@ -30,8 +30,8 @@ Lowood, it gradually disappeared from thence; but not till its
 virulence and the number of its victims had drawn public attention on
 the school. Inquiry was made into the origin of the scourge, and by
 degrees various facts came out which excited public indignation in a
-high degree. The unhealthy nature of the site; the quantity and quality
-of the children’s food; the brackish, fetid water used in its
+high degree. The unhealthy [[Nature|nature]] of the site; the quantity and quality
+of the children’s food; the brackish, fetid [[Water|water]] used in its
 preparation; the pupils’ wretched clothing and accommodations—all these
 things were discovered, and the discovery produced a result mortifying
 to Mr. Brocklehurst, but beneficial to the institution.
@@ -46,24 +46,24 @@ treasurer; but he was aided in the discharge of his duties by gentlemen
 of rather more enlarged and sympathising minds: his office of
 inspector, too, was shared by those who knew how to combine reason with
 strictness, comfort with economy, compassion with uprightness. The
-school, thus improved, became in time a truly useful and noble
-institution. I remained an inmate of its walls, after its regeneration,
+school, thus improved, became in [[Time|time]] a truly useful and noble
+institution. I remained an inmate of its walls, after its [[Regeneration|regeneration]],
 for eight years: six as pupil, and two as teacher; and in both
 capacities I bear my testimony to its value and importance.
 
 During these eight years my life was uniform: but not unhappy, because
-it was not inactive. I had the means of an excellent education placed
-within my reach; a fondness for some of my studies, and a desire to
+it was not inactive. I had the means of an excellent [[Education|education]] placed
+within my reach; a fondness for some of my studies, and a [[Desire|desire]] to
 excel in all, together with a great delight in pleasing my teachers,
 especially such as I loved, urged me on: I availed myself fully of the
-advantages offered me. In time I rose to be the first girl of the first
+advantages offered me. In [[Time|time]] I [[Rose|rose]] to be the first girl of the first
 class; then I was invested with the office of teacher; which I
-discharged with zeal for two years: but at the end of that time I
+discharged with zeal for two years: but at the end of that [[Time|time]] I
 altered.
 
 Miss Temple, through all changes, had thus far continued superintendent
 of the seminary: to her instruction I owed the best part of my
-acquirements; her friendship and society had been my continual solace;
+acquirements; her [[Friendship|friendship]] and society had been my continual solace;
 she had stood me in the stead of mother, governess, and, latterly,
 companion. At this period she married, removed with her husband (a
 clergyman, an excellent man, almost worthy of such a wife) to a distant
@@ -71,7 +71,7 @@ county, and consequently was lost to me.
 
 From the day she left I was no longer the same: with her was gone every
 settled feeling, every association that had made Lowood in some degree
-a home to me. I had imbibed from her something of her nature and much
+a [[Home|home]] to me. I had imbibed from her something of her [[Nature|nature]] and much
 of her habits: more harmonious thoughts: what seemed better regulated
 feelings had become the inmates of my mind. I had given in allegiance
 to duty and order; I was quiet; I believed I was content: to the eyes
@@ -80,12 +80,12 @@ character.
 
 But destiny, in the shape of the Rev. Mr. Nasmyth, came between me and
 Miss Temple: I saw her in her travelling dress step into a post-chaise,
-shortly after the marriage ceremony; I watched the chaise mount the
-hill and disappear beyond its brow; and then retired to my own room,
-and there spent in solitude the greatest part of the half-holiday
-granted in honour of the occasion.
+shortly after the [[Marriage|marriage]] ceremony; I watched the chaise mount the
+[[Hill|hill]] and disappear beyond its brow; and then retired to my own room,
+and there spent in [[Solitude|solitude]] the greatest part of the half-holiday
+granted in [[Honour|honour]] of the occasion.
 
-I walked about the chamber most of the time. I imagined myself only to
+I walked about the chamber most of the [[Time|time]]. I imagined myself only to
 be regretting my loss, and thinking how to repair it; but when my
 reflections were concluded, and I looked up and found that the
 afternoon was gone, and evening far advanced, another discovery dawned
@@ -100,18 +100,18 @@ for tranquillity was no more. My world had for some years been in
 Lowood: my experience had been of its rules and systems; now I
 remembered that the real world was wide, and that a varied field of
 hopes and fears, of sensations and excitements, awaited those who had
-courage to go forth into its expanse, to seek real knowledge of life
+[[Courage|courage]] to go forth into its expanse, to seek real knowledge of life
 amidst its perils.
 
-I went to my window, opened it, and looked out. There were the two
-wings of the building; there was the garden; there were the skirts of
+I went to my [[Window|window]], opened it, and looked out. There were the two
+wings of the building; there was the [[Garden|garden]]; there were the skirts of
 Lowood; there was the hilly horizon. My eye passed all other objects to
 rest on those most remote, the blue peaks; it was those I longed to
 surmount; all within their boundary of rock and heath seemed
-prison-ground, exile limits. I traced the white road winding round the
+[[Prison|prison]]-ground, [[Exile|exile]] limits. I traced the white [[Road|road]] winding round the
 base of one mountain, and vanishing in a gorge between two; how I
-longed to follow it farther! I recalled the time when I had travelled
-that very road in a coach; I remembered descending that hill at
+longed to follow it farther! I recalled the [[Time|time]] when I had travelled
+that very [[Road|road]] in a coach; I remembered descending that [[Hill|hill]] at
 twilight; an age seemed to have elapsed since the day which brought me
 first to Lowood, and I had never quitted it since. My vacations had all
 been spent at school: Mrs. Reed had never sent for me to Gateshead;
@@ -121,8 +121,8 @@ school-rules, school-duties, school-habits and notions, and voices, and
 faces, and phrases, and costumes, and preferences, and antipathies—such
 was what I knew of existence. And now I felt that it was not enough; I
 tired of the routine of eight years in one afternoon. I desired
-liberty; for liberty I gasped; for liberty I uttered a prayer; it
-seemed scattered on the wind then faintly blowing. I abandoned it and
+liberty; for liberty I gasped; for liberty I uttered a [[prayer]]; it
+seemed scattered on the [[Wind|wind]] then faintly blowing. I abandoned it and
 framed a humbler supplication; for change, stimulus: that petition,
 too, seemed swept off into vague space: “Then,” I cried, half
 desperate, “grant me at least a new servitude!”

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 29"
+title: "[[Sense and Sensibility]] — Chapter 29"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,17 +20,17 @@ CHAPTER XXIX.
 
 
 
-Before the housemaid had lit their fire the next day, or the sun gained
+Before the housemaid had lit their [[Fire|fire]] the next day, or the sun gained
 
 any power over a cold, gloomy morning in January, Marianne, only half
 
-dressed, was kneeling against one of the window-seats for the sake of
+dressed, was kneeling against one of the [[Window|window]]-seats for the sake of
 
 all the little light she could command from it, and writing as fast as
 
-a continual flow of tears would permit her. In this situation, Elinor,
+a continual flow of [[Tears|tears]] would permit her. In this situation, Elinor,
 
-roused from sleep by her agitation and sobs, first perceived her; and
+roused from [[Sleep|sleep]] by her agitation and sobs, first perceived her; and
 
 after observing her for a few moments with silent anxiety, said, in a
 
@@ -58,7 +58,7 @@ obliged her, at intervals, to withhold her pen, were proofs enough of
 
 her feeling how more than probable it was that she was writing for the
 
-last time to Willoughby.
+last [[Time|time]] to Willoughby.
 
 
 
@@ -76,9 +76,9 @@ restless state of Marianne’s mind not only prevented her from remaining
 
 in the room a moment after she was dressed, but requiring at once
 
-solitude and continual change of place, made her wander about the house
+[[Solitude|solitude]] and continual change of place, made her wander about the [[house]]
 
-till breakfast time, avoiding the sight of every body.
+till breakfast [[Time|time]], avoiding the sight of every [[Body|body]].
 
 
 
@@ -94,13 +94,13 @@ engage Mrs. Jennings’s notice entirely to herself.
 
 As this was a favourite meal with Mrs. Jennings, it lasted a
 
-considerable time, and they were just setting themselves, after it,
+considerable [[Time|time]], and they were just setting themselves, after it,
 
 round the common working table, when a letter was delivered to
 
 Marianne, which she eagerly caught from the servant, and, turning of a
 
-death-like paleness, instantly ran out of the room. Elinor, who saw as
+[[Death|death]]-like paleness, instantly ran out of the room. Elinor, who saw as
 
 plainly by this, as if she had seen the direction, that it must come
 
@@ -108,7 +108,7 @@ from Willoughby, felt immediately such a sickness at heart as made her
 
 hardly able to hold up her head, and sat in such a general tremour as
 
-made her fear it impossible to escape Mrs. Jennings’s notice. That good
+made her [[Fear|fear]] it impossible to escape Mrs. Jennings’s notice. That good
 
 lady, however, saw only that Marianne had received a letter from
 
@@ -124,13 +124,13 @@ calmly continuing her talk, as soon as Marianne disappeared, she said,
 
 
 
-“Upon my word, I never saw a young woman so desperately in love in my
+“Upon my word, I never saw a young woman so desperately in [[Love|love]] in my
 
 life! _My_ girls were nothing to her, and yet they used to be foolish
 
 enough; but as for Miss Marianne, she is quite an altered creature. I
 
-hope, from the bottom of my heart, he won’t keep her waiting much
+[[Hope|hope]], from the [[Bottom|bottom]] of my heart, he won’t keep her waiting much
 
 longer, for it is quite grievous to see her look so ill and forlorn.
 
@@ -144,7 +144,7 @@ obliged herself to answer such an attack as this, and, therefore,
 
 trying to smile, replied, “And have you really, Ma’am, talked yourself
 
-into a persuasion of my sister’s being engaged to Mr. Willoughby? I
+into a [[Persuasion|persuasion]] of my sister’s being engaged to Mr. Willoughby? I
 
 thought it had been only a joke, but so serious a question seems to
 
@@ -158,7 +158,7 @@ more than to hear of their being going to be married.”
 
 “For shame, for shame, Miss Dashwood! how can you talk so? Don’t we all
 
-know that it must be a match, that they were over head and ears in love
+know that it must be a match, that they were over head and ears in [[Love|love]]
 
 with each other from the first moment they met? Did not I see them
 
@@ -172,7 +172,7 @@ yourself, you think nobody else has any senses; but it is no such
 
 thing, I can tell you, for it has been known all over town this ever so
 
-long. I tell every body of it and so does Charlotte.”
+long. I tell every [[Body|body]] of it and so does Charlotte.”
 
 
 
@@ -198,11 +198,11 @@ saying a word; and seating herself on the bed, took her hand, kissed
 
 her affectionately several times, and then gave way to a burst of
 
-tears, which at first was scarcely less violent than Marianne’s. The
+[[Tears|tears]], which at first was scarcely less violent than Marianne’s. The
 
 latter, though unable to speak, seemed to feel all the tenderness of
 
-this behaviour, and after some time thus spent in joint affliction, she
+this behaviour, and after some [[Time|time]] thus spent in joint affliction, she
 
 put all the letters into Elinor’s hands; and then covering her face
 
@@ -210,7 +210,7 @@ with her handkerchief, almost screamed with agony. Elinor, who knew
 
 that such grief, shocking as it was to witness it, must have its
 
-course, watched by her till this excess of suffering had somewhat spent
+course, watched by her till this excess of [[Suffering|suffering]] had somewhat spent
 
 itself, and then turning eagerly to Willoughby’s letter, read as
 
@@ -226,17 +226,17 @@ follows:
 
         MY DEAR MADAM,
 
-    “I have just had the honour of receiving your letter, for which I
+    “I have just had the [[Honour|honour]] of receiving your letter, for which I
 
     beg to return my sincere acknowledgments. I am much concerned to
 
-    find there was anything in my behaviour last night that did not
+    find there was anything in my behaviour last [[Night|night]] that did not
 
     meet your approbation; and though I am quite at a loss to discover
 
     in what point I could be so unfortunate as to offend you, I entreat
 
-    your forgiveness of what I can assure you to have been perfectly
+    your [[Forgiveness|forgiveness]] of what I can assure you to have been perfectly
 
     unintentional. I shall never reflect on my former acquaintance with
 
@@ -276,7 +276,7 @@ follows:
 
 “humble servant,
 
-“JOHN WILLOUGHBY.”
+“[[John Willoughby|JOHN WILLOUGHBY]].”
 
 
 
@@ -298,9 +298,9 @@ delicate feeling—so far from the common decorum of a gentleman, as to
 
 send a letter so impudently cruel: a letter which, instead of bringing
 
-with his desire of a release any professions of regret, acknowledged no
+with his [[Desire|desire]] of a release any professions of regret, acknowledged no
 
-breach of faith, denied all peculiar affection whatever—a letter of
+breach of [[Faith|faith]], denied all peculiar affection whatever—a letter of
 
 which every line was an insult, and which proclaimed its writer to be
 
@@ -308,7 +308,7 @@ deep in hardened villainy.
 
 
 
-She paused over it for some time with indignant astonishment; then read
+She paused over it for some [[Time|time]] with indignant astonishment; then read
 
 it again and again; but every perusal only served to increase her
 
@@ -340,7 +340,7 @@ sister, forgot that she had three letters on her lap yet unread, and so
 
 entirely forgot how long she had been in the room, that when on hearing
 
-a carriage drive up to the door, she went to the window to see who
+a carriage drive up to the door, she went to the [[Window|window]] to see who
 
 could be coming so unreasonably early, she was all astonishment to
 
@@ -358,7 +358,7 @@ its cause, admitted the excuse most readily, and Elinor, after seeing
 
 her safe off, returned to Marianne, whom she found attempting to rise
 
-from the bed, and whom she reached just in time to prevent her from
+from the bed, and whom she reached just in [[Time|time]] to prevent her from
 
 falling on the floor, faint and giddy from a long want of proper rest
 
@@ -398,13 +398,13 @@ miserable, indeed,” before her voice was entirely lost in sobs.
 
 Elinor could no longer witness this torrent of unresisted grief in
 
-silence.
+[[Silence|silence]].
 
 
 
 “Exert yourself, dear Marianne,” she cried, “if you would not kill
 
-yourself and all who love you. Think of your mother; think of her
+yourself and all who [[Love|love]] you. Think of your mother; think of her
 
 misery while _you_ suffer: for her sake you must exert yourself.”
 
@@ -460,7 +460,7 @@ can do away.”
 
 “You must not talk so, Marianne. Have you no comforts? no friends? Is
 
-your loss such as leaves no opening for consolation? Much as you suffer
+your loss such as [[Leaves|leaves]] no opening for consolation? Much as you suffer
 
 now, think of what you would have suffered if the discovery of his
 
@@ -482,7 +482,7 @@ on your side, would have made the blow more dreadful.”
 
 
 
-“No, he is not so unworthy as you believe him. He has broken no faith
+“No, he is not so unworthy as you believe him. He has broken no [[Faith|faith]]
 
 with me.”
 
@@ -532,9 +532,9 @@ you will feel something more than surprise, when you know that I am in
 
 town. An opportunity of coming hither, though with Mrs. Jennings, was a
 
-temptation we could not resist. I wish you may receive this in time to
+[[Temptation|temptation]] we could not resist. I wish you may receive this in [[Time|time]] to
 
-come here to-night, but I will not depend on it. At any rate I shall
+come here to-[[Night|night]], but I will not depend on it. At any rate I shall
 
 expect you to-morrow. For the present, adieu.
 
@@ -548,7 +548,7 @@ expect you to-morrow. For the present, adieu.
 
 
 
-Her second note, which had been written on the morning after the dance
+Her second note, which had been written on the morning after the [[Dance|dance]]
 
 at the Middletons’, was in these words:—
 
@@ -564,17 +564,17 @@ from you, and still more to see you, every hour of the day. Pray call
 
 again as soon as possible, and explain the reason of my having expected
 
-this in vain. You had better come earlier another time, because we are
+this in vain. You had better come earlier another [[Time|time]], because we are
 
-generally out by one. We were last night at Lady Middleton’s, where
+generally out by one. We were last [[Night|night]] at Lady Middleton’s, where
 
-there was a dance. I have been told that you were asked to be of the
+there was a [[Dance|dance]]. I have been told that you were asked to be of the
 
 party. But could it be so? You must be very much altered indeed since
 
 we parted, if that could be the case, and you not there. But I will not
 
-suppose this possible, and I hope very soon to receive your personal
+suppose this possible, and I [[Hope|hope]] very soon to receive your personal
 
 assurance of its being otherwise.
 
@@ -592,7 +592,7 @@ The contents of her last note to him were these:—
 
 
 
-“What am I to imagine, Willoughby, by your behaviour last night? Again
+“What am I to imagine, Willoughby, by your behaviour last [[Night|night]]? Again
 
 I demand an explanation of it. I was prepared to meet you with the
 
@@ -600,7 +600,7 @@ pleasure which our separation naturally produced, with the familiarity
 
 which our intimacy at Barton appeared to me to justify. I was repulsed
 
-indeed! I have passed a wretched night in endeavouring to excuse a
+indeed! I have passed a wretched [[Night|night]] in endeavouring to excuse a
 
 conduct which can scarcely be called less than insulting; but though I
 
@@ -680,7 +680,7 @@ he did. Whatever may have changed him now, (and nothing but the
 
 blackest art employed against me can have done it), I was once as dear
 
-to him as my own soul could wish. This lock of hair, which now he can
+to him as my own [[Soul|soul]] could wish. This lock of hair, which now he can
 
 so readily give up, was begged of me with the most earnest
 
@@ -716,15 +716,15 @@ instigated?”
 
 every creature of my acquaintance leagued together to ruin me in his
 
-opinion, than believe his nature capable of such cruelty. This woman of
+opinion, than believe his [[Nature|nature]] capable of such cruelty. This woman of
 
 whom he writes—whoever she be—or any one, in short, but your own dear
 
-self, mama, and Edward, may have been so barbarous to bely me. Beyond
+[[Self|self]], mama, and Edward, may have been so barbarous to bely me. Beyond
 
 you three, is there a creature in the world whom I would not rather
 
-suspect of evil than Willoughby, whose heart I know so well?”
+suspect of evil than Willoughby, whose heart I know so [[Well|well]]?”
 
 
 
@@ -734,13 +734,13 @@ detestably your enemy, let them be cheated of their malignant triumph,
 
 my dear sister, by seeing how nobly the consciousness of your own
 
-innocence and good intentions supports your spirits. It is a reasonable
+[[innocence]] and good intentions supports your spirits. It is a reasonable
 
-and laudable pride which resists such malevolence.”
+and laudable [[Pride|pride]] which resists such malevolence.”
 
 
 
-“No, no,” cried Marianne, “misery such as mine has no pride. I care not
+“No, no,” cried Marianne, “misery such as mine has no [[Pride|pride]]. I care not
 
 who knows that I am wretched. The triumph of seeing me so may be open
 
@@ -766,7 +766,7 @@ miserable—Oh! who can require it?”
 
 Again they were both silent. Elinor was employed in walking
 
-thoughtfully from the fire to the window, from the window to the fire,
+thoughtfully from the [[Fire|fire]] to the [[Window|window]], from the [[Window|window]] to the [[Fire|fire]],
 
 without knowing that she received warmth from one, or discerning
 
@@ -818,7 +818,7 @@ Another pause ensued; Marianne was greatly agitated, and it ended thus.
 
 
 
-“Elinor, I must go home. I must go and comfort mama. Can not we be gone
+“Elinor, I must go [[Home|home]]. I must go and comfort mama. Can not we be gone
 
 to-morrow?”
 
@@ -842,7 +842,7 @@ hasty removal as that.”
 
 
 
-“Well then, another day or two, perhaps; but I cannot stay here long, I
+“[[Well]] then, another day or two, perhaps; but I cannot stay here long, I
 
 cannot stay to endure the questions and remarks of all these people.
 
@@ -854,16 +854,16 @@ such a woman as Lady Middleton! Oh, what would _he_ say to that!”
 
 Elinor advised her to lie down again, and for a moment she did so; but
 
-no attitude could give her ease; and in restless pain of mind and body
+no attitude could give her ease; and in restless [[Pain|pain]] of mind and [[Body|body]]
 
 she moved from one posture to another, till growing more and more
 
 hysterical, her sister could with difficulty keep her on the bed at
 
-all, and for some time was fearful of being constrained to call for
+all, and for some [[Time|time]] was fearful of being constrained to call for
 
 assistance. Some lavender drops, however, which she was at length
 
-persuaded to take, were of use; and from that time till Mrs. Jennings
+persuaded to take, were of use; and from that [[Time|time]] till Mrs. Jennings
 
 returned, she continued on the bed quiet and motionless.

@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — The Largest Window in the World"
+title: "Wild Ducks — The Largest [[Window]] in the World"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-The Largest Window in the World
+The Largest [[Window]] in the World
 
 
 It is a terrible thing to have trod on battlefields before
 they were fought.  It gives a man a cold and ghostly shiver,
-as of being the babe unborn.  But I was a boy, and almost
+as of being the babe [[unborn]].  But I was a boy, and almost
 a babe, when I was first in Belgium; and I can only write
 down the reality that impressed me then.  Beyond some streets
 burning with brassware, which seemed perpetually on sale,
@@ -27,7 +27,7 @@ almost out of sight of the great Belfry, there is (or was)
 a sort of museum of the great Memlinc.  Among the pictures
 was one which even as a boy I could not forget; and very few
 poets or prophets can even imagine how much a boy can forget.
-It was a picture in which the window seemed hardly wider than
+It was a picture in which the [[Window|window]] seemed hardly wider than
 the crack of a door.  Yet through that crack the human eye
 could almost, in the strong Scripture rhetoric, take the wings
 of the morning and abide in the uttermost parts of the sea.
@@ -49,29 +49,29 @@ strike something slightly depressing.  But any strip of Belgium
 will be a string of jewels.  Note, thirdly, that the thinness
 of the outlook is largely due to the thickness of the walls.
 There is no trace of what vulgar people call `a vista':
-the house does not open up indefinitely to the world outside.
-The man of Memlinc sees the world from his window.
-But it is still the final fact that the window was his window
+the [[house]] does not open up indefinitely to the world outside.
+The man of Memlinc sees the world from his [[Window|window]].
+But it is still the final fact that the [[Window|window]] was his [[Window|window]]
 and the world is not his world.  I should have thought it, then,
 quite inconceivable that any one would assail that turret.
 But I should have thought it equally inconceivable that any one
-should fail to defend it.  A man living in such a house might
-almost shut the front door to protect the beauty of the window.
+should fail to defend it.  A man living in such a [[house]] might
+almost shut the front door to protect the [[Beauty|beauty]] of the [[Window|window]].
 
 I have never been in Belgium since; I have never met any who would
 possibly be in connection with any revolutionary or anti-national idea.
 Yet for me Belgium has continued to mean that small field of vision,
 making certain so vast a field of prosperity.  That keyhole is still
-the largest window in the world.
+the largest [[Window|window]] in the world.
 
 Since then I have not seen the country, except in frightful photographs.
 I have gradually begun to understand what was meant by my alien friend
-when he spoke of the needless narrowness of the medieval window.
+when he spoke of the needless narrowness of the medieval [[Window|window]].
 To judge by the photographs, he has broadened architectural effects
-very much; he has blown window into window and enlarged the premises;
+very much; he has blown [[Window|window]] into [[Window|window]] and enlarged the premises;
 he has left long lines of street in which it is impossible to say
 whether he has combined the windows that exist, or spared the windows
-that never existed.  He cannot make anything except a window;
-for a window is simply a hole.  When he has blown everything to atoms,
+that never existed.  He cannot make anything except a [[Window|window]];
+for a [[Window|window]] is simply a hole.  When he has blown everything to atoms,
 when no stack or stone stands about us for many miles, he will say,
-with an insane simplicity:  `I have made the largest window in the world.'
+with an insane simplicity:  `I have made the largest [[Window|window]] in the world.'

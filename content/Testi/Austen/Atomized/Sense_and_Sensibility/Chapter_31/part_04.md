@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 31 (part 4)"
+title: "[[Sense and Sensibility]] — Chapter 31 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,17 +16,17 @@ tags:
 
 being assured that she was to marry him: guess what I must have felt
 
-for all your sakes. When I came to you last week and found you alone, I
+for all your sakes. When I came to you last week and found you [[Alone|alone]], I
 
-came determined to know the truth; though irresolute what to do when it
+came determined to know the [[Truth|truth]]; though irresolute what to do when it
 
 _was_ known. My behaviour must have seemed strange to you then; but now
 
 you will comprehend it. To suffer you all to be so deceived; to see
 
-your sister—but what could I do? I had no hope of interfering with
+your sister—but what could I do? I had no [[Hope|hope]] of interfering with
 
-success; and sometimes I thought your sister’s influence might yet
+[[success]]; and sometimes I thought your sister’s influence might yet
 
 reclaim him. But now, after such dishonorable usage, who can tell what
 
@@ -40,7 +40,7 @@ considers the wretched and hopeless situation of this poor girl, and
 
 pictures her to herself, with an affection for him so strong, still as
 
-strong as her own, and with a mind tormented by self-reproach, which
+strong as her own, and with a mind tormented by [[Self|self]]-reproach, which
 
 must attend her through life. Surely this comparison must have its use
 
@@ -84,7 +84,7 @@ perfect conviction of his unworthiness can do. Now, though at first she
 
 will suffer much, I am sure she will soon become easier. Have you,” she
 
-continued, after a short silence, “ever seen Mr. Willoughby since you
+continued, after a short [[Silence|silence]], “ever seen Mr. Willoughby since you
 
 left him at Barton?”
 
@@ -104,7 +104,7 @@ Elinor, startled by his manner, looked at him anxiously, saying,
 
 “I could meet him no other way. Eliza had confessed to me, though most
 
-reluctantly, the name of her lover; and when he returned to town, which
+reluctantly, the name of her [[Lover|lover]]; and when he returned to town, which
 
 was within a fortnight after myself, we met by appointment, he to
 
@@ -120,7 +120,7 @@ soldier she presumed not to censure it.
 
 
 
-“Such,” said Colonel Brandon, after a pause, “has been the unhappy
+“Such,” said [[Colonel Brandon]], after a pause, “has been the unhappy
 
 resemblance between the fate of mother and daughter! and so imperfectly
 
@@ -134,7 +134,7 @@ have I discharged my trust!”
 
 “No; as soon as she recovered from her lying-in, for I found her near
 
-her delivery, I removed her and her child into the country, and there
+her delivery, I removed her and her [[Child|child]] into the country, and there
 
 she remains.”
 

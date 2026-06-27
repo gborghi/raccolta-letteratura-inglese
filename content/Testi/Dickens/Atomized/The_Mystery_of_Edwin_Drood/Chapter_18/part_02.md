@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 17 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 17 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -23,7 +23,7 @@ murder, and then leave off.
 Crisparkle.
 
 “Enough!” bellowed Mr. Honeythunder, with a solemnity and severity that
-would have brought the house down at a meeting, “E—e—nough! My late
+would have brought the [[house]] down at a meeting, “E—e—nough! My late
 wards being now of age, and I being released from a trust which I
 cannot contemplate without a thrill of horror, there are the accounts
 which you have undertaken to accept on their behalf, and there is a
@@ -33,7 +33,7 @@ that, as a man and a Minor Canon, you were better employed,” with a
 nod. “Better employed,” with another nod. “Bet—ter em—ployed!” with
 another and the three nods added up.
 
-Mr. Crisparkle rose; a little heated in the face, but with perfect
+Mr. Crisparkle [[Rose|rose]]; a little heated in the face, but with perfect
 command of himself.
 
 “Mr. Honeythunder,” he said, taking up the papers referred to: “my
@@ -49,7 +49,7 @@ that long ago!”
 
 “Or,” said Mr. Honeythunder, shaking his head again, “I might think one
 of your profession better employed in devoting himself to the discovery
-and punishment of guilt than in leaving that duty to be undertaken by a
+and punishment of [[Guilt|guilt]] than in leaving that duty to be undertaken by a
 layman.”
 
 “I may regard my profession from a point of view which teaches me that
@@ -59,7 +59,7 @@ have quite clearly satisfied myself that it is no part of my profession
 to make professions, I say no more of that. But I owe it to Mr.
 Neville, and to Mr. Neville’s sister (and in a much lower degree to
 myself), to say to you that I _know_ I was in the full possession and
-understanding of Mr. Neville’s mind and heart at the time of this
+understanding of Mr. Neville’s mind and heart at the [[Time|time]] of this
 occurrence; and that, without in the least colouring or concealing what
 was to be deplored in him and required to be corrected, I feel certain
 that his tale is true. Feeling that certainty, I befriend him. As long
@@ -69,16 +69,16 @@ myself for my meanness, that no man’s good opinion—no, nor no
 woman’s—so gained, could compensate me for the loss of my own.”
 
 Good fellow! manly fellow! And he was so modest, too. There was no more
-self-assertion in the Minor Canon than in the schoolboy who had stood
+[[Self|self]]-assertion in the Minor Canon than in the schoolboy who had stood
 in the breezy playing-fields keeping a wicket. He was simply and
 staunchly true to his duty alike in the large case and in the small. So
-all true souls ever are. So every true soul ever was, ever is, and ever
+all true souls ever are. So every true [[Soul|soul]] ever was, ever is, and ever
 will be. There is nothing little to the really great in spirit.
 
 “Then who do you make out did the deed?” asked Mr. Honeythunder,
 turning on him abruptly.
 
-“Heaven forbid,” said Mr. Crisparkle, “that in my desire to clear one
+“Heaven forbid,” said Mr. Crisparkle, “that in my [[Desire|desire]] to clear one
 man I should lightly criminate another! I accuse no one.”
 
 “Tcha!” ejaculated Mr. Honeythunder with great disgust; for this was by
@@ -95,7 +95,7 @@ may have warped your judgment a bit,” said Mr. Honeythunder, coarsely.
 “Perhaps I expect to retain it still?” Mr. Crisparkle returned,
 enlightened; “do you mean that too?”
 
-“Well, sir,” returned the professional Philanthropist, getting up and
+“[[Well]], sir,” returned the professional Philanthropist, getting up and
 thrusting his hands down into his trousers-pockets, “I don’t go about
 measuring people for caps. If people find I have any about me that fit
 ’em, they can put ’em on and wear ’em, if they like. That’s their look
@@ -118,26 +118,26 @@ detestable.”
 Christians, and the restraints that should belong to gentlemen. You
 assume a great crime to have been committed by one whom I, acquainted
 with the attendant circumstances, and having numerous reasons on my
-side, devoutly believe to be innocent of it. Because I differ from you
+side, devoutly believe to be [[Innocent|innocent]] of it. Because I differ from you
 on that vital point, what is your platform resource? Instantly to turn
 upon me, charging that I have no sense of the enormity of the crime
-itself, but am its aider and abettor! So, another time—taking me as
+itself, but am its aider and abettor! So, another [[Time|time]]—taking me as
 representing your opponent in other cases—you set up a platform
 credulity; a moved and seconded and carried-unanimously profession of
-faith in some ridiculous delusion or mischievous imposition. I decline
+[[Faith|faith]] in some ridiculous delusion or mischievous imposition. I decline
 to believe it, and you fall back upon your platform resource of
 proclaiming that I believe nothing; that because I will not bow down to
-a false God of your making, I deny the true God! Another time you make
+a false God of your making, I deny the true God! Another [[Time|time]] you make
 the platform discovery that War is a calamity, and you propose to
 abolish it by a string of twisted resolutions tossed into the air like
 the tail of a kite. I do not admit the discovery to be yours in the
-least, and I have not a grain of faith in your remedy. Again, your
+least, and I have not a grain of [[Faith|faith]] in your remedy. Again, your
 platform resource of representing me as revelling in the horrors of a
-battle-field like a fiend incarnate! Another time, in another of your
+battle-field like a fiend incarnate! Another [[Time|time]], in another of your
 undiscriminating platform rushes, you would punish the sober for the
 drunken. I claim consideration for the comfort, convenience, and
 refreshment of the sober; and you presently make platform proclamation
-that I have a depraved desire to turn Heaven’s creatures into swine and
+that I have a depraved [[Desire|desire]] to turn Heaven’s creatures into swine and
 wild beasts! In all such cases your movers, and your seconders, and
 your supporters—your regular Professors of all degrees, run amuck like
 so many mad Malays; habitually attributing the lowest and basest

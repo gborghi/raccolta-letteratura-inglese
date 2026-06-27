@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"An't he beautiful, John? Don't he look precious in his sleep?"
+"An't he beautiful, John? Don't he look precious in his [[Sleep|sleep]]?"
 
 "Very precious," said John. "Very much so. He generally _is_ asleep,
 an't he?"
@@ -39,8 +39,8 @@ pinched her husband's ear, laughing.
 
 "No," said John, pulling off his outer coat. "It's very true, Dot. I
 don't know much about it. I only know that I've been fighting pretty
-stiffly with the wind to-night. It's been blowing north-east, straight
-into the cart, the whole way home."
+stiffly with the [[Wind|wind]] to-[[Night|night]]. It's been blowing north-east, straight
+into the cart, the whole way [[Home|home]]."
 
 "Poor old man, so it has!" cried Mrs. Peerybingle, instantly becoming
 very active. "Here, take the precious darling, Tilly, while I make
@@ -58,27 +58,27 @@ should only have spoilt it, I dare say."
 
 Not at all disputing this position, John went out to see that the boy
 with the lantern, which had been dancing to and fro before the door and
-window, like a Will of the Wisp, took due care of the horse; who was
+[[Window|window]], like a Will of the Wisp, took due care of the [[Horse|horse]]; who was
 fatter than you would quite believe, if I gave you his measure, and so
 old that his birthday was lost in the mists of antiquity. Boxer, feeling
 that his attentions were due to the family in general, and must be
 impartially distributed, dashed in and out with bewildering inconstancy;
-now describing a circle of short barks round the horse, where he was
+now describing a circle of short barks round the [[Horse|horse]], where he was
 being rubbed down at the stable door; now feigning to make savage rushes
 at his mistress, and facetiously bringing himself to sudden stops; now
-eliciting a shriek from Tilly Slowboy, in the low nursing-chair near the
-fire, by the unexpected application of his moist nose to her
+eliciting a shriek from [[Tilly Slowboy]], in the low nursing-chair near the
+[[Fire|fire]], by the unexpected application of his moist nose to her
 countenance; now exhibiting an obtrusive interest in the baby; now going
 round and round upon the hearth, and lying down as if he had established
-himself for the night; now getting up again, and taking that nothing of
+himself for the [[Night|night]]; now getting up again, and taking that nothing of
 a fag-end of a tail of his out into the weather, as if he had just
 remembered an appointment, and was off at a round trot, to keep it.
 
 "There! There's the teapot, ready on the hob!" said Dot; as briskly busy
-as a child at play at keeping house. "And there's the cold knuckle of
+as a [[Child|child]] at play at keeping [[house]]. "And there's the cold knuckle of
 ham; and there's the butter; and there's the crusty loaf, and all!
 Here's a clothes basket for the small parcels, John, if you've got any
-there. Where are you, John? Don't let the dear child fall under the
+there. Where are you, John? Don't let the dear [[Child|child]] fall under the
 grate, Tilly, whatever you do!"
 
 It may be noted of Miss Slowboy, in spite of her rejecting the caution
@@ -94,14 +94,14 @@ back, of a corset, or a pair of stays, in colour a dead green. Being
 always in a state of gaping admiration at everything, and absorbed,
 besides, in the perpetual contemplation of her mistress's perfections
 and the baby's, Miss Slowboy, in her little errors of judgment, may be
-said to have done equal honour to her head and to her heart; and though
-these did less honour to the baby's head, which they were the occasional
+said to have done equal [[Honour|honour]] to her head and to her heart; and though
+these did less [[Honour|honour]] to the baby's head, which they were the occasional
 means of bringing into contact with deal doors, dressers, stair-rails,
 bed-posts, and other foreign substances, still they were the honest
-results of Tilly Slowboy's constant astonishment at finding herself so
-kindly treated, and installed in such a comfortable home. For the
+results of [[Tilly Slowboy]]'s constant astonishment at finding herself so
+kindly treated, and installed in such a comfortable [[Home|home]]. For the
 maternal and paternal Slowboy were alike unknown to Fame, and Tilly had
-been bred by public charity, a foundling; which word, though only
+been bred by public [[Charity|charity]], a foundling; which word, though only
 differing from fondling by one vowel's length, is very different in
 meaning, and expresses quite another thing.
 
@@ -113,7 +113,7 @@ anything I know; but, certainly, it now began to chirp again vehemently.
 
 [Illustration: _Tilly Slowboy._]
 
-"Heyday!" said John in his slow way. "It's merrier than ever to-night, I
+"Heyday!" said John in his slow way. "It's merrier than ever to-[[Night|night]], I
 think."
 
 "And it's sure to bring us good fortune, John! It always has done so. To
@@ -123,6 +123,6 @@ John looked at her as if he had very nearly got the thought into his
 head that she was his Cricket in chief, and he quite agreed with her.
 But it was probably one of his narrow escapes, for he said nothing.
 
-"The first time I heard its cheerful little note, John, was on that
-night when you brought me home--when you brought me to my new home here;
+"The first [[Time|time]] I heard its cheerful little note, John, was on that
+[[Night|night]] when you brought me [[Home|home]]--when you brought me to my new [[Home|home]] here;
 its little mistress. Nearly a year ago. You recollect, John?"

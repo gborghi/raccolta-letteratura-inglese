@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 3)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -68,11 +68,11 @@ tags:
 
       have been done under the Act for the “Prevention of Cruelty to
 
-      Animals.” As for “Oppodeldoc,” (whoever he was), I had by this
+      [[Animals]].” As for “Oppodeldoc,” (whoever he was), I had by this
 
-      time lost all patience with the fellow, and sympathized with him
+      [[Time|time]] lost all patience with the fellow, and sympathized with him
 
-      no longer. He was a fool, beyond doubt, (whoever he was,) and got
+      no longer. He was a [[Fool|fool]], beyond [[Doubt|doubt]], (whoever he was,) and got
 
       not a kick more than he deserved.
 
@@ -82,7 +82,7 @@ tags:
 
       the first place, that “honesty is the best policy,” and, in the
 
-      second, that if I could not write better than Mr. Dante, and the
+      second, that if I could not write better than Mr. [[Dante]], and the
 
       two blind men, and the rest of the old set, it would, at least,
 
@@ -96,7 +96,7 @@ tags:
 
       stanzas on “The Oil-of-Bob” by the editor of the “Gad-Fly,” and
 
-      resolved to construct an ode on the same sublime theme, in
+      resolved to construct an ode on the same [[Sublime|sublime]] theme, in
 
       rivalry of what had already been done.
 
@@ -138,7 +138,7 @@ tags:
 
       impossible to see the sense of it. Upon the whole, therefore, I
 
-      was satisfied with the success of my maiden attempt, and now the
+      was satisfied with the [[success]] of my maiden attempt, and now the
 
       only question regarded the disposal I should make of it. My
 
@@ -146,7 +146,7 @@ tags:
 
       were two reasons which operated to prevent me from so doing. I
 
-      dreaded the jealousy of the editor—and I had ascertained that he
+      dreaded the [[Jealousy|jealousy]] of the editor—and I had ascertained that he
 
       did not pay for original contributions. I therefore, after due
 
@@ -154,7 +154,7 @@ tags:
 
       of the “Lollipop,” and awaited the event in anxiety, but with
 
-      resignation.
+      [[Resignation|resignation]].
 
 
 
@@ -174,17 +174,17 @@ tags:
 
       sublimity, or their pathos:—it is impossible to peruse them
 
-      without tears. Those who have been nauseated with a sad dose on
+      without [[Tears|tears]]. Those who have been nauseated with a sad dose on
 
       the same august topic from the goose quill of the editor of the
 
-      “Gad Fly” will do well to compare the two compositions._
+      “Gad Fly” will do [[Well|well]] to compare the two compositions._
 
 
 
       P. S.—We are consumed with anxiety to probe the mystery which
 
-      envelops the evident pseudonym “Snob.” May we hope for a personal
+      envelops the evident pseudonym “Snob.” May we [[Hope|hope]] for a personal
 
       interview?
 
@@ -196,15 +196,15 @@ tags:
 
       observed, to the everlasting disgrace of my country and of
 
-      mankind. I lost no time, however, in calling upon the editor of
+      mankind. I lost no [[Time|time]], however, in calling upon the editor of
 
       the “Lollipop,” and had the good fortune to find this gentleman
 
-      at home. He saluted me with an air of profound respect, slightly
+      at [[Home|home]]. He saluted me with an air of profound respect, slightly
 
       blended with a fatherly and patronizing admiration, wrought in
 
-      him, no doubt, by my appearance of extreme youth and
+      him, no [[Doubt|doubt]], by my appearance of extreme youth and
 
       inexperience. Begging me to be seated, he entered at once upon
 
@@ -216,7 +216,7 @@ tags:
 
       means fulsomely indiscriminate. He analyzed my composition with
 
-      much freedom and great ability—not hesitating to point out a few
+      much [[Freedom|freedom]] and great ability—not hesitating to point out a few
 
       trivial defects—a circumstance which elevated him highly in my
 

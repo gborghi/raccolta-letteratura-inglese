@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 12 (part 1)"
+title: "[[The Professor]] — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,11 +34,11 @@ there was metal in it, both lead and iron.
 
 
 
-Let the idealists, the dreamers about earthly angel and human flowers,
+Let the idealists, the dreamers about earthly angel and human [[Flowers|flowers]],
 
-just look here while I open my portfolio and show them a sketch or
+just look here while I open my portfolio and show them a [[Sketch|sketch]] or
 
-two, pencilled after nature. I took these sketches in the second-class
+two, pencilled after [[Nature|nature]]. I took these sketches in the second-class
 
 schoolroom of Mdlle. Reuter’s establishment, where about a hundred
 
@@ -54,7 +54,7 @@ Belgians, Austrians, and Prussians. The majority belonged to the class
 
 bourgeois; but there were many countesses, there were the daughters of
 
-two generals and of several colonels, captains, and government EMPLOYES;
+two generals and of several colonels, captains, and [[government]] EMPLOYES;
 
 these ladies sat side by side with young females destined to be
 
@@ -88,11 +88,11 @@ friendships were forbidden by the rules of the school, and no one girl
 
 seemed to cultivate more regard for another than was just necessary to
 
-secure a companion when solitude would have been irksome. They were each
+secure a companion when [[Solitude|solitude]] would have been irksome. They were each
 
 and all supposed to have been reared in utter unconsciousness of vice.
 
-The precautions used to keep them ignorant, if not innocent, were
+The precautions used to keep them ignorant, if not [[Innocent|innocent]], were
 
 innumerable. How was it, then, that scarcely one of those girls having
 
@@ -124,9 +124,9 @@ The first picture is a full length of Aurelia Koslow, a German fraulein,
 
 or rather a half-breed between German and Russian. She is eighteen years
 
-of age, and has been sent to Brussels to finish her education; she is
+of age, and has been sent to Brussels to finish her [[Education|education]]; she is
 
-of middle size, stiffly made, body long, legs short, bust much developed
+of middle size, stiffly made, [[Body|body]] long, legs short, bust much developed
 
 but not compactly moulded, waist disproportionately compressed by an
 
@@ -160,7 +160,7 @@ observing her at all times; but from what I see of the state of her
 
 desk, books, and papers, I should say she is slovenly and even dirty;
 
-her outward dress, as I have said, is well attended to, but in passing
+her outward dress, as I have said, is [[Well|well]] attended to, but in passing
 
 behind her bench, I have remarked that her neck is gray for want of
 
@@ -170,7 +170,7 @@ one feels tempted to pass the hand over, much less to run the fingers
 
 through. Aurelia’s conduct in class, at least when I am present, is
 
-something extraordinary, considered as an index of girlish innocence.
+something extraordinary, considered as an index of girlish [[innocence]].
 
 The moment I enter the room, she nudges her next neighbour and indulges
 

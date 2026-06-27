@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 46"
+title: "[[Great Expectations]] — Chapter 46"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,11 +17,11 @@ tags:
 Chapter XLVI.
 
 
-Eight o’clock had struck before I got into the air, that was scented,
+Eight o’[[Clock|clock]] had struck before I got into the air, that was scented,
 not disagreeably, by the chips and shavings of the long-shore
-boat-builders, and mast, oar, and block makers. All that water-side
+boat-builders, and mast, oar, and block makers. All that [[Water|water]]-side
 region of the upper and lower Pool below Bridge was unknown ground to
-me; and when I struck down by the river, I found that the spot I wanted
+me; and when I struck down by the [[River|river]], I found that the spot I wanted
 was not where I had supposed it to be, and was anything but easy to
 find. It was called Mill Pond Bank, Chinks’s Basin; and I had no other
 guide to Chinks’s Basin than the Old Green Copper Rope-walk.
@@ -29,35 +29,35 @@ guide to Chinks’s Basin than the Old Green Copper Rope-walk.
 It matters not what stranded ships repairing in dry docks I lost myself
 among, what old hulls of ships in course of being knocked to pieces,
 what ooze and slime and other dregs of tide, what yards of
-ship-builders and ship-breakers, what rusty anchors blindly biting into
+[[Ship|ship]]-builders and [[Ship|ship]]-breakers, what rusty anchors blindly biting into
 the ground, though for years off duty, what mountainous country of
 accumulated casks and timber, how many rope-walks that were not the Old
 Green Copper. After several times falling short of my destination and
 as often overshooting it, I came unexpectedly round a corner, upon Mill
 Pond Bank. It was a fresh kind of place, all circumstances considered,
-where the wind from the river had room to turn itself round; and there
+where the [[Wind|wind]] from the [[River|river]] had room to turn itself round; and there
 were two or three trees in it, and there was the stump of a ruined
 windmill, and there was the Old Green Copper Rope-walk,—whose long and
 narrow vista I could trace in the moonlight, along a series of wooden
 frames set in the ground, that looked like superannuated
 haymaking-rakes which had grown old and lost most of their teeth.
 
-Selecting from the few queer houses upon Mill Pond Bank a house with a
-wooden front and three stories of bow-window (not bay-window, which is
+Selecting from the few queer houses upon Mill Pond Bank a [[house]] with a
+wooden front and three stories of bow-[[Window|window]] (not bay-[[Window|window]], which is
 another thing), I looked at the plate upon the door, and read there,
 Mrs. Whimple. That being the name I wanted, I knocked, and an elderly
 woman of a pleasant and thriving appearance responded. She was
 immediately deposed, however, by Herbert, who silently led me into the
 parlour and shut the door. It was an odd sensation to see his very
-familiar face established quite at home in that very unfamiliar room
+familiar face established quite at [[Home|home]] in that very unfamiliar room
 and region; and I found myself looking at him, much as I looked at the
 corner-cupboard with the glass and china, the shells upon the
 chimney-piece, and the coloured engravings on the wall, representing
-the death of Captain Cook, a ship-launch, and his Majesty King George
+the [[Death|death]] of Captain Cook, a [[Ship|ship]]-launch, and his Majesty [[King]] George
 the Third in a state coachman’s wig, leather-breeches, and top-boots,
 on the terrace at Windsor.
 
-“All is well, Handel,” said Herbert, “and he is quite satisfied, though
+“All is [[Well|well]], Handel,” said Herbert, “and he is quite satisfied, though
 eager to see you. My dear girl is with her father; and if you’ll wait
 till she comes down, I’ll make you known to her, and then we’ll go
 upstairs. _That’s_ her father.”
@@ -79,8 +79,8 @@ While he thus spoke, the growling noise became a prolonged roar, and
 then died away.
 
 “What else can be the consequence,” said Herbert, in explanation, “if
-he _will_ cut the cheese? A man with the gout in his right hand—and
-everywhere else—can’t expect to get through a Double Gloucester without
+he _will_ cut the [[cheese]]? A man with the gout in his right hand—and
+everywhere else—can’t expect to get through a [[Double]] [[Gloucester]] without
 hurting himself.”
 
 He seemed to have hurt himself very much, for he gave another furious
@@ -90,7 +90,7 @@ roar.
 Whimple,” said Herbert, “for of course people in general won’t stand
 that noise. A curious place, Handel; isn’t it?”
 
-It was a curious place, indeed; but remarkably well kept and clean.
+It was a curious place, indeed; but remarkably [[Well|well]] kept and clean.
 
 “Mrs. Whimple,” said Herbert, when I told him so, “is the best of
 housewives, and I really do not know what my Clara would do without her
@@ -101,16 +101,16 @@ relation in the world but old Gruffandgrim.”
 
 “No, no,” said Herbert, “that’s my name for him. His name is Mr.
 Barley. But what a blessing it is for the son of my father and mother
-to love a girl who has no relations, and who can never bother herself
+to [[Love|love]] a girl who has no relations, and who can never bother herself
 or anybody else about her family!”
 
 Herbert had told me on former occasions, and now reminded me, that he
-first knew Miss Clara Barley when she was completing her education at
-an establishment at Hammersmith, and that on her being recalled home to
-nurse her father, he and she had confided their affection to the
+first knew Miss Clara Barley when she was completing her [[Education|education]] at
+an establishment at Hammersmith, and that on her being recalled [[Home|home]] to
+[[Nurse|nurse]] her father, he and she had confided their affection to the
 motherly Mrs. Whimple, by whom it had been fostered and regulated with
 equal kindness and discretion, ever since. It was understood that
-nothing of a tender nature could possibly be confided to old Barley, by
+nothing of a tender [[Nature|nature]] could possibly be confided to old Barley, by
 reason of his being totally unequal to the consideration of any subject
 more psychological than Gout, Rum, and Purser’s stores.
 
@@ -124,8 +124,8 @@ truculent Ogre, Old Barley, had pressed into his service.
 
 “Look here,” said Herbert, showing me the basket, with a compassionate
 and tender smile, after we had talked a little; “here’s poor Clara’s
-supper, served out every night. Here’s her allowance of bread, and
-here’s her slice of cheese, and here’s her rum,—which I drink. This is
+supper, served out every [[Night|night]]. Here’s her allowance of bread, and
+here’s her slice of [[cheese]], and here’s her rum,—which I drink. This is
 Mr. Barley’s breakfast for to-morrow, served out to be cooked. Two
 mutton-chops, three potatoes, some split peas, a little flour, two
 ounces of butter, a pinch of salt, and all this black pepper. It’s
@@ -134,7 +134,7 @@ I should think!”
 
 There was something so natural and winning in Clara’s resigned way of
 looking at these stores in detail, as Herbert pointed them out; and
-something so confiding, loving, and innocent in her modest manner of
+something so confiding, loving, and [[Innocent|innocent]] in her modest manner of
 yielding herself to Herbert’s embracing arm; and something so gentle in
 her, so much needing protection on Mill Pond Bank, by Chinks’s Basin,
 and the Old Green Copper Rope-walk, with Old Barley growling in the
@@ -156,13 +156,13 @@ you suppose he wants now, Handel?”
 merit. “He keeps his grog ready mixed in a little tub on the table.
 Wait a moment, and you’ll hear Clara lift him up to take some. There he
 goes!” Another roar, with a prolonged shake at the end. “Now,” said
-Herbert, as it was succeeded by silence, “he’s drinking. Now,” said
+Herbert, as it was succeeded by [[Silence|silence]], “he’s drinking. Now,” said
 Herbert, as the growl resounded in the beam once more, “he’s down again
 on his back!”
 
 Clara returned soon afterwards, and Herbert accompanied me upstairs to
 see our charge. As we passed Mr. Barley’s door, he was heard hoarsely
-muttering within, in a strain that rose and fell like wind, the
+muttering within, in a strain that [[Rose|rose]] and fell like [[Wind|wind]], the
 following Refrain, in which I substitute good wishes for something
 quite the reverse:—
 
@@ -172,11 +172,11 @@ Lord. Lying on the flat of his back like a drifting old dead flounder,
 here’s your old Bill Barley, bless your eyes. Ahoy! Bless you.”
 
 In this strain of consolation, Herbert informed me the invisible Barley
-would commune with himself by the day and night together; Often, while
-it was light, having, at the same time, one eye at a telescope which
-was fitted on his bed for the convenience of sweeping the river.
+would commune with himself by the day and [[Night|night]] together; Often, while
+it was light, having, at the same [[Time|time]], one eye at a telescope which
+was fitted on his bed for the convenience of sweeping the [[River|river]].
 
-In his two cabin rooms at the top of the house, which were fresh and
+In his two cabin rooms at the top of the [[house]], which were fresh and
 airy, and in which Mr. Barley was less audible than below, I found
 Provis comfortably settled. He expressed no alarm, and seemed to feel
 none that was worth mentioning; but it struck me that he was
@@ -188,20 +188,20 @@ resulted in my fully determining to say nothing to him respecting
 Compeyson. For anything I knew, his animosity towards the man might
 otherwise lead to his seeking him out and rushing on his own
 destruction. Therefore, when Herbert and I sat down with him by his
-fire, I asked him first of all whether he relied on Wemmick’s judgment
+[[Fire|fire]], I asked him first of all whether he relied on Wemmick’s judgment
 and sources of information?
 
-“Ay, ay, dear boy!” he answered, with a grave nod, “Jaggers knows.”
+“Ay, ay, dear boy!” he answered, with a [[Grave|grave]] nod, “Jaggers knows.”
 
 “Then, I have talked with Wemmick,” said I, “and have come to tell you
 what caution he gave me and what advice.”
 
 This I did accurately, with the reservation just mentioned; and I told
-him how Wemmick had heard, in Newgate prison (whether from officers or
+him how Wemmick had heard, in Newgate [[Prison|prison]] (whether from officers or
 prisoners I could not say), that he was under some suspicion, and that
 my chambers had been watched; how Wemmick had recommended his keeping
-close for a time, and my keeping away from him; and what Wemmick had
-said about getting him abroad. I added, that of course, when the time
+close for a [[Time|time]], and my keeping away from him; and what Wemmick had
+said about getting him abroad. I added, that of course, when the [[Time|time]]
 came, I should go with him, or should follow close upon him, as might
 be safest in Wemmick’s judgment. What was to follow that I did not
 touch upon; neither, indeed, was I at all clear or comfortable about it
@@ -214,17 +214,17 @@ were no worse?
 He could not deny this, and indeed was very reasonable throughout. His
 coming back was a venture, he said, and he had always known it to be a
 venture. He would do nothing to make it a desperate venture, and he had
-very little fear of his safety with such good help.
+very little [[Fear|fear]] of his safety with such good help.
 
-Herbert, who had been looking at the fire and pondering, here said that
+Herbert, who had been looking at the [[Fire|fire]] and pondering, here said that
 something had come into his thoughts arising out of Wemmick’s
 suggestion, which it might be worth while to pursue. “We are both good
-watermen, Handel, and could take him down the river ourselves when the
-right time comes. No boat would then be hired for the purpose, and no
+watermen, Handel, and could take him down the [[River|river]] ourselves when the
+right [[Time|time]] comes. No boat would then be hired for the purpose, and no
 boatmen; that would save at least a chance of suspicion, and any chance
 is worth saving. Never mind the season; don’t you think it might be a
 good thing if you began at once to keep a boat at the Temple stairs,
-and were in the habit of rowing up and down the river? You fall into
+and were in the habit of rowing up and down the [[River|river]]? You fall into
 that habit, and then who notices or minds? Do it twenty or fifty times,
 and there is nothing special in your doing it the twenty-first or
 fifty-first.”
@@ -233,25 +233,25 @@ I liked this scheme, and Provis was quite elated by it. We agreed that
 it should be carried into execution, and that Provis should never
 recognise us if we came below Bridge, and rowed past Mill Pond Bank.
 But we further agreed that he should pull down the blind in that part
-of his window which gave upon the east, whenever he saw us and all was
+of his [[Window|window]] which gave upon the east, whenever he saw us and all was
 right.
 
-Our conference being now ended, and everything arranged, I rose to go;
-remarking to Herbert that he and I had better not go home together, and
+Our conference being now ended, and everything arranged, I [[Rose|rose]] to go;
+remarking to Herbert that he and I had better not go [[Home|home]] together, and
 that I would take half an hour’s start of him. “I don’t like to leave
-you here,” I said to Provis, “though I cannot doubt your being safer
+you here,” I said to Provis, “though I cannot [[Doubt|doubt]] your being safer
 here than near me. Good-bye!”
 
 “Dear boy,” he answered, clasping my hands, “I don’t know when we may
-meet again, and I don’t like good-bye. Say good-night!”
+meet again, and I don’t like good-bye. Say good-[[Night|night]]!”
 
-“Good-night! Herbert will go regularly between us, and when the time
-comes you may be certain I shall be ready. Good-night, good-night!”
+“Good-[[Night|night]]! Herbert will go regularly between us, and when the [[Time|time]]
+comes you may be certain I shall be ready. Good-[[Night|night]], good-[[Night|night]]!”
 
 We thought it best that he should stay in his own rooms; and we left
 him on the landing outside his door, holding a light over the
 stair-rail to light us downstairs. Looking back at him, I thought of
-the first night of his return, when our positions were reversed, and
+the first [[Night|night]] of his return, when our positions were reversed, and
 when I little supposed my heart could ever be as heavy and anxious at
 parting from him as it was now.
 
@@ -261,42 +261,42 @@ foot of the stairs, I asked Herbert whether he had preserved the name
 of Provis. He replied, certainly not, and that the lodger was Mr.
 Campbell. He also explained that the utmost known of Mr. Campbell there
 was, that he (Herbert) had Mr. Campbell consigned to him, and felt a
-strong personal interest in his being well cared for, and living a
+strong personal interest in his being [[Well|well]] cared for, and living a
 secluded life. So, when we went into the parlour where Mrs. Whimple and
 Clara were seated at work, I said nothing of my own interest in Mr.
 Campbell, but kept it to myself.
 
 When I had taken leave of the pretty, gentle, dark-eyed girl, and of
 the motherly woman who had not outlived her honest sympathy with a
-little affair of true love, I felt as if the Old Green Copper Rope-walk
+little affair of true [[Love|love]], I felt as if the Old Green Copper Rope-walk
 had grown quite a different place. Old Barley might be as old as the
 hills, and might swear like a whole field of troopers, but there were
-redeeming youth and trust and hope enough in Chinks’s Basin to fill it
-to overflowing. And then I thought of Estella, and of our parting, and
-went home very sadly.
+redeeming youth and trust and [[Hope|hope]] enough in Chinks’s Basin to fill it
+to overflowing. And then I thought of [[Estella]], and of our parting, and
+went [[Home|home]] very sadly.
 
 All things were as quiet in the Temple as ever I had seen them. The
 windows of the rooms on that side, lately occupied by Provis, were dark
-and still, and there was no lounger in Garden Court. I walked past the
+and still, and there was no lounger in [[Garden]] [[Court]]. I walked past the
 fountain twice or thrice before I descended the steps that were between
-me and my rooms, but I was quite alone. Herbert, coming to my bedside
+me and my rooms, but I was quite [[Alone|alone]]. Herbert, coming to my bedside
 when he came in,—for I went straight to bed, dispirited and
 fatigued,—made the same report. Opening one of the windows after that,
 he looked out into the moonlight, and told me that the pavement was as
-solemnly empty as the pavement of any cathedral at that same hour.
+solemnly empty as the pavement of any [[Cathedral|cathedral]] at that same hour.
 
 Next day I set myself to get the boat. It was soon done, and the boat
 was brought round to the Temple stairs, and lay where I could reach her
 within a minute or two. Then, I began to go out as for training and
-practice: sometimes alone, sometimes with Herbert. I was often out in
+practice: sometimes [[Alone|alone]], sometimes with Herbert. I was often out in
 cold, rain, and sleet, but nobody took much note of me after I had been
 out a few times. At first, I kept above Blackfriars Bridge; but as the
-hours of the tide changed, I took towards London Bridge. It was Old
-London Bridge in those days, and at certain states of the tide there
-was a race and fall of water there which gave it a bad reputation. But
-I knew well enough how to ‘shoot’ the bridge after seeing it done, and
+hours of the tide changed, I took towards [[London]] Bridge. It was Old
+[[London]] Bridge in those days, and at certain states of the tide there
+was a race and fall of [[Water|water]] there which gave it a bad reputation. But
+I knew [[Well|well]] enough how to ‘shoot’ the bridge after seeing it done, and
 so began to row about among the shipping in the Pool, and down to
-Erith. The first time I passed Mill Pond Bank, Herbert and I were
+Erith. The first [[Time|time]] I passed Mill Pond Bank, Herbert and I were
 pulling a pair of oars; and, both in going and returning, we saw the
 blind towards the east come down. Herbert was rarely there less
 frequently than three times in a week, and he never brought me a single

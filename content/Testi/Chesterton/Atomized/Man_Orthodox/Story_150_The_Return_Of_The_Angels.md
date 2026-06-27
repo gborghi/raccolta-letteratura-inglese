@@ -16,7 +16,7 @@ tags:
 
 THE RETURN OF THE ANGELS
 
-I write these remarks with one great hope, that of arousing controversy.
+I write these remarks with one great [[Hope|hope]], that of arousing controversy.
 It is really a singular matter that amid all the talk of the great work
 of physical science and its alleged victory over religious dogmatism,
 no one has noticed what the greatest of all the triumphs of science
@@ -47,20 +47,20 @@ that this is the method on which we base all our real beliefs
 and that on this, above all, we base our belief in evolution.
 Of the thousands of brilliant and elegant persons like ourselves
 who believe roughly in the Darwinian doctrine, how many are
-there who know which fossil or skeleton, which parrot's tail
+there who know which fossil or [[skeleton]], which parrot's tail
 or which cuttle-fish's stomach, is really believed to be
 the conclusive example and absolute datum of natural selection?
 We know scarcely anything of the Darwinian facts that lead
-to conversion.  What we know is much more important:
-the Darwinian facts that come after conversion.  What we know,
+to [[Conversion|conversion]].  What we know is much more important:
+the Darwinian facts that come after [[Conversion|conversion]].  What we know,
 to use a higher language, are the fruits of the spirit.
 We know that with this idea once inside our heads a million
 things become transparent as if a lamp were lit behind them:
 we see the thing in the dog in the street, in the pear on
-the wall, in the book of history we are reading, in the baby
+the wall, in the book of [[history]] we are reading, in the baby
 in the perambulator and in the last news from Borneo.
 And the fulfilments pour in upon us in so natural and
-continual a cataract that at last is reached that paradox
+continual a cataract that at last is reached that [[Paradox|paradox]]
 of the condition which is called belief.  We have seen so many
 evidences of the theory that we have forgotten them all.
 The theory is so clear to us that we can scarcely even defend it,
@@ -91,8 +91,8 @@ as they fancy, as they do, that we are hanging on to religion
 by sticks and straws.  ... The return to the spiritual theory
 rests on none of these things.  It rests, like the movement
 towards evolution, on the fact that the thing works out.
-We put on the theory like a magic hat and history becomes
-translucent like a house of glass.
+We put on the theory like a [[Magic|magic]] hat and [[history]] becomes
+translucent like a [[house]] of glass.
 
 Let us begin at the beginning.  A startling and sensational event
 occurred recently; I allude to the emergence of the creature
@@ -102,7 +102,7 @@ headlined in the evening papers.  The newness, suddenness and utter
 uniqueness of the rise of man reminds one of Japan in the East;
 only it is more so.  ... There may be a hundred explanations of this.
 No sane man would say that it involved a spiritual deduction.
-But it fits in with it, and fits in with it very well, to suppose that
+But it fits in with it, and fits in with it very [[Well|well]], to suppose that
 there is another atmosphere of life besides the animal and that this
 spiritual world irrupted in some way into that creature at the moment.
 The phenomenon does not prove Religion, but religion explains
@@ -116,7 +116,7 @@ their fathers have had dealings with a darker or more wonderful being.
 If human evidence means anything at all, this is perhaps the only
 thing on which we have overwhelming evidence.
 
-We have nearly overwhelming human witness to the necessity of morality;
+We have nearly overwhelming human witness to the necessity of [[morality]];
 we have quite overwhelming human witness to the reality of the
 spiritual life.  We are ready enough to quote the evidence of all
 mankind in support of police regulations or the data of ethics;

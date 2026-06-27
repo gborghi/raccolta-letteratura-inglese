@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 33 (part 2)"
+title: "[[Great Expectations]] — Chapter 33 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 As she gave it to me playfully,—for her darker mood had been but
 momentary—I held it and put it to my lips. “You ridiculous boy,” said
-Estella, “will you never take warning? Or do you kiss my hand in the
+[[Estella]], “will you never take warning? Or do you kiss my hand in the
 same spirit in which I once let you kiss my cheek?”
 
 “What spirit was that?” said I.
@@ -30,17 +30,17 @@ plotters.”
 like.”
 
 I leaned down, and her calm face was like a statue’s. “Now,” said
-Estella, gliding away the instant I touched her cheek, “you are to take
+[[Estella]], gliding away the instant I touched her cheek, “you are to take
 care that I have some tea, and you are to take me to Richmond.”
 
 Her reverting to this tone as if our association were forced upon us,
-and we were mere puppets, gave me pain; but everything in our
-intercourse did give me pain. Whatever her tone with me happened to be,
-I could put no trust in it, and build no hope on it; and yet I went on
-against trust and against hope. Why repeat it a thousand times? So it
+and we were mere puppets, gave me [[Pain|pain]]; but everything in our
+intercourse did give me [[Pain|pain]]. Whatever her tone with me happened to be,
+I could put no trust in it, and build no [[Hope|hope]] on it; and yet I went on
+against trust and against [[Hope|hope]]. Why repeat it a thousand times? So it
 always was.
 
-I rang for the tea, and the waiter, reappearing with his magic clue,
+I rang for the tea, and the waiter, reappearing with his [[Magic|magic]] clue,
 brought in by degrees some fifty adjuncts to that refreshment, but of
 tea not a glimpse. A teaboard, cups and saucers, plates, knives and
 forks (including carvers), spoons (various), salt-cellars, a meek
@@ -49,20 +49,20 @@ cover, Moses in the bulrushes typified by a soft bit of butter in a
 quantity of parsley, a pale loaf with a powdered head, two proof
 impressions of the bars of the kitchen fireplace on triangular bits of
 bread, and ultimately a fat family urn; which the waiter staggered in
-with, expressing in his countenance burden and suffering. After a
+with, expressing in his countenance burden and [[Suffering|suffering]]. After a
 prolonged absence at this stage of the entertainment, he at length came
 back with a casket of precious appearance containing twigs. These I
-steeped in hot water, and so from the whole of these appliances
-extracted one cup of I don’t know what for Estella.
+steeped in hot [[Water|water]], and so from the whole of these appliances
+extracted one cup of I don’t know what for [[Estella]].
 
 The bill paid, and the waiter remembered, and the ostler not forgotten,
 and the chambermaid taken into consideration,—in a word, the whole
-house bribed into a state of contempt and animosity, and Estella’s
+[[house]] bribed into a state of contempt and animosity, and [[Estella]]’s
 purse much lightened,—we got into our post-coach and drove away.
 Turning into Cheapside and rattling up Newgate Street, we were soon
 under the walls of which I was so ashamed.
 
-“What place is that?” Estella asked me.
+“What place is that?” [[Estella]] asked me.
 
 I made a foolish pretence of not at first recognising it, and then told
 her. As she looked at it, and drew in her head again, murmuring,
@@ -70,10 +70,10 @@ her. As she looked at it, and drew in her head again, murmuring,
 consideration.
 
 “Mr. Jaggers,” said I, by way of putting it neatly on somebody else,
-“has the reputation of being more in the secrets of that dismal place
-than any man in London.”
+“has the reputation of being more in the [[Secrets|secrets]] of that dismal place
+than any man in [[London]].”
 
-“He is more in the secrets of every place, I think,” said Estella, in a
+“He is more in the [[Secrets|secrets]] of every place, I think,” said [[Estella]], in a
 low voice.
 
 “You have been accustomed to see him often, I suppose?”
@@ -84,13 +84,13 @@ speak plainly. What is your own experience of him? Do you advance with
 him?”
 
 “Once habituated to his distrustful manner,” said I, “I have done very
-well.”
+[[Well|well]].”
 
 “Are you intimate?”
 
-“I have dined with him at his private house.”
+“I have dined with him at his private [[house]].”
 
-“I fancy,” said Estella, shrinking “that must be a curious place.”
+“I fancy,” said [[Estella]], shrinking “that must be a curious place.”
 
 “It is a curious place.”
 
@@ -100,13 +100,13 @@ the dinner in Gerrard Street, if we had not then come into a sudden
 glare of gas. It seemed, while it lasted, to be all alight and alive
 with that inexplicable feeling I had had before; and when we were out
 of it, I was as much dazed for a few moments as if I had been in
-lightning.
+[[Lightning|lightning]].
 
 So we fell into other talk, and it was principally about the way by
-which we were travelling, and about what parts of London lay on this
-side of it, and what on that. The great city was almost new to her, she
-told me, for she had never left Miss Havisham’s neighbourhood until she
-had gone to France, and she had merely passed through London then in
+which we were travelling, and about what parts of [[London]] lay on this
+side of it, and what on that. The great [[City|city]] was almost new to her, she
+told me, for she had never left [[Miss Havisham]]’s neighbourhood until she
+had gone to France, and she had merely passed through [[London]] then in
 going and returning. I asked her if my guardian had any charge of her
 while she remained here? To that she emphatically said “God forbid!”
 and no more.
@@ -131,45 +131,45 @@ I inquired was it a large household she was going to be a member of?
 “No; there are only two; mother and daughter. The mother is a lady of
 some station, though not averse to increasing her income.”
 
-“I wonder Miss Havisham could part with you again so soon.”
+“I [[Wonder|wonder]] [[Miss Havisham]] could part with you again so soon.”
 
-“It is a part of Miss Havisham’s plans for me, Pip,” said Estella, with
+“It is a part of [[Miss Havisham]]’s plans for me, Pip,” said [[Estella]], with
 a sigh, as if she were tired; “I am to write to her constantly and see
 her regularly and report how I go on,—I and the jewels,—for they are
 nearly all mine now.”
 
-It was the first time she had ever called me by my name. Of course she
+It was the first [[Time|time]] she had ever called me by my name. Of course she
 did so purposely, and knew that I should treasure it up.
 
-We came to Richmond all too soon, and our destination there was a house
-by the green,—a staid old house, where hoops and powder and patches,
+We came to Richmond all too soon, and our destination there was a [[house]]
+by the green,—a staid old [[house]], where hoops and powder and patches,
 embroidered coats, rolled stockings, ruffles and swords, had had their
-court days many a time. Some ancient trees before the house were still
+[[Court|court]] days many a [[Time|time]]. Some ancient trees before the [[house]] were still
 cut into fashions as formal and unnatural as the hoops and wigs and
 stiff skirts; but their own allotted places in the great procession of
 the dead were not far off, and they would soon drop into them and go
 the silent way of the rest.
 
-A bell with an old voice—which I dare say in its time had often said to
-the house, Here is the green farthingale, Here is the diamond-hilted
-sword, Here are the shoes with red heels and the blue solitaire—sounded
+A bell with an old voice—which I dare say in its [[Time|time]] had often said to
+the [[house]], Here is the green farthingale, Here is the diamond-hilted
+[[Sword|sword]], Here are the shoes with red heels and the blue solitaire—sounded
 gravely in the moonlight, and two cherry-coloured maids came fluttering
-out to receive Estella. The doorway soon absorbed her boxes, and she
-gave me her hand and a smile, and said good-night, and was absorbed
-likewise. And still I stood looking at the house, thinking how happy I
+out to receive [[Estella]]. The doorway soon absorbed her boxes, and she
+gave me her hand and a smile, and said good-[[Night|night]], and was absorbed
+likewise. And still I stood looking at the [[house]], thinking how happy I
 should be if I lived there with her, and knowing that I never was happy
 with her, but always miserable.
 
 I got into the carriage to be taken back to Hammersmith, and I got in
 with a bad heart-ache, and I got out with a worse heart-ache. At our
-own door, I found little Jane Pocket coming home from a little party
-escorted by her little lover; and I envied her little lover, in spite
+own door, I found little Jane Pocket coming [[Home|home]] from a little party
+escorted by her little [[Lover|lover]]; and I envied her little [[Lover|lover]], in spite
 of his being subject to Flopson.
 
 Mr. Pocket was out lecturing; for, he was a most delightful lecturer on
 domestic economy, and his treatises on the management of children and
 servants were considered the very best text-books on those themes. But
-Mrs. Pocket was at home, and was in a little difficulty, on account of
+Mrs. Pocket was at [[Home|home]], and was in a little difficulty, on account of
 the baby’s having been accommodated with a needle-case to keep him
 quiet during the unaccountable absence (with a relative in the Foot
 Guards) of Millers. And more needles were missing than it could be
@@ -181,4 +181,4 @@ advice, and for having a clear and sound perception of things and a
 highly judicious mind, I had some notion in my heart-ache of begging
 him to accept my confidence. But happening to look up at Mrs. Pocket as
 she sat reading her book of dignities after prescribing Bed as a
-sovereign remedy for baby, I thought—Well—No, I wouldn’t.
+sovereign remedy for baby, I thought—[[Well]]—No, I wouldn’t.

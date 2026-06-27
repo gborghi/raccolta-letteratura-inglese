@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 1 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 1 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,21 +20,21 @@ tags:
 Parkes. ‘It’s a better business than you think for, Tom, and highwaymen
 don’t need or use to be shabby, take my word for it.’
 
-Meanwhile the subject of their speculations had done due honour to the
-house by calling for some drink, which was promptly supplied by the
+Meanwhile the subject of their speculations had done due [[Honour|honour]] to the
+[[house]] by calling for some drink, which was promptly supplied by the
 landlord’s son Joe, a broad-shouldered strapping young fellow of twenty,
 whom it pleased his father still to consider a little boy, and to treat
-accordingly. Stretching out his hands to warm them by the blazing fire,
+accordingly. Stretching out his hands to warm them by the blazing [[Fire|fire]],
 the man turned his head towards the company, and after running his eye
-sharply over them, said in a voice well suited to his appearance:
+sharply over them, said in a voice [[Well|well]] suited to his appearance:
 
-‘What house is that which stands a mile or so from here?’
+‘What [[house]] is that which stands a mile or so from here?’
 
-‘Public-house?’ said the landlord, with his usual deliberation.
+‘Public-[[house]]?’ said the landlord, with his usual deliberation.
 
-‘Public-house, father!’ exclaimed Joe, ‘where’s the public-house
-within a mile or so of the Maypole? He means the great house--the
-Warren--naturally and of course. The old red brick house, sir, that
+‘Public-[[house]], father!’ exclaimed Joe, ‘where’s the public-[[house]]
+within a mile or so of the Maypole? He means the [[Great House|great house]]--the
+Warren--naturally and of course. The old red brick [[house]], sir, that
 stands in its own grounds--?’
 
 ‘Aye,’ said the stranger.
@@ -48,9 +48,9 @@ has been I don’t care to know, and what it is I can see for myself.’
 
 The heir-apparent to the Maypole pressed his finger on his lips, and
 glancing at the young gentleman already noticed, who had changed his
-attitude when the house was first mentioned, replied in a lower tone:
+attitude when the [[house]] was first mentioned, replied in a lower tone:
 
-‘The owner’s name is Haredale, Mr Geoffrey Haredale, and’--again
+‘The owner’s name is Haredale, Mr [[Geoffrey Haredale]], and’--again
 he glanced in the same direction as before--‘and a worthy gentleman
 too--hem!’
 
@@ -64,14 +64,14 @@ daughter?’
 ‘Why, how should I know, honest man?’ replied Joe, contriving in the
 course of some arrangements about the hearth, to advance close to his
 questioner and pluck him by the sleeve, ‘I didn’t see the young lady,
-you know. Whew! There’s the wind again--AND rain--well it IS a night!’
+you know. Whew! There’s the [[Wind|wind]] again--AND rain--[[Well|well]] it IS a [[Night|night]]!’
 
 Rough weather indeed!’ observed the strange man.
 
 ‘You’re used to it?’ said Joe, catching at anything which seemed to
 promise a diversion of the subject.
 
-‘Pretty well,’ returned the other. ‘About the young lady--has Mr
+‘Pretty [[Well|well]],’ returned the other. ‘About the young lady--has Mr
 Haredale a daughter?’
 
 ‘No, no,’ said the young fellow fretfully, ‘he’s a single
@@ -89,9 +89,9 @@ him again, ‘You’ll come in for it presently, I know you will!’
 
 ‘I mean no harm’--returned the traveller boldly, ‘and have said none
 that I know of. I ask a few questions--as any stranger may, and not
-unnaturally--about the inmates of a remarkable house in a neighbourhood
+unnaturally--about the inmates of a remarkable [[house]] in a neighbourhood
 which is new to me, and you are as aghast and disturbed as if I were
-talking treason against King George. Perhaps you can tell me why, sir,
+talking treason against [[King]] George. Perhaps you can tell me why, sir,
 for (as I say) I am a stranger, and this is Greek to me?’
 
 The latter observation was addressed to the obvious cause of Joe
@@ -100,12 +100,12 @@ preparatory to sallying abroad. Briefly replying that he could give him
 no information, the young man beckoned to Joe, and handing him a piece
 of money in payment of his reckoning, hurried out attended by young
 Willet himself, who taking up a candle followed to light him to the
-house-door.
+[[house]]-door.
 
 While Joe was absent on this errand, the elder Willet and his three
 companions continued to smoke with profound gravity, and in a deep
-silence, each having his eyes fixed on a huge copper boiler that was
-suspended over the fire. After some time John Willet slowly shook his
+[[Silence|silence]], each having his eyes fixed on a huge copper boiler that was
+suspended over the [[Fire|fire]]. After some [[Time|time]] John Willet slowly shook his
 head, and thereupon his friends slowly shook theirs; but no man withdrew
 his eyes from the boiler, or altered the solemn expression of his
 countenance in the slightest degree.
@@ -113,22 +113,22 @@ countenance in the slightest degree.
 At length Joe returned--very talkative and conciliatory, as though with
 a strong presentiment that he was going to be found fault with.
 
-‘Such a thing as love is!’ he said, drawing a chair near the fire, and
-looking round for sympathy. ‘He has set off to walk to London,--all
-the way to London. His nag gone lame in riding out here this blessed
+‘Such a thing as [[Love|love]] is!’ he said, drawing a chair near the [[Fire|fire]], and
+looking round for sympathy. ‘He has set off to walk to [[London]],--all
+the way to [[London]]. His nag gone lame in riding out here this blessed
 afternoon, and comfortably littered down in our stable at this minute;
 and he giving up a good hot supper and our best bed, because Miss
 Haredale has gone to a masquerade up in town, and he has set his heart
 upon seeing her! I don’t think I could persuade myself to do that,
-beautiful as she is,--but then I’m not in love (at least I don’t think I
+beautiful as she is,--but then I’m not in [[Love|love]] (at least I don’t think I
 am) and that’s the whole difference.’
 
-‘He is in love then?’ said the stranger.
+‘He is in [[Love|love]] then?’ said the stranger.
 
-‘Rather,’ replied Joe. ‘He’ll never be more in love, and may very easily
+‘Rather,’ replied Joe. ‘He’ll never be more in [[Love|love]], and may very easily
 be less.’
 
-‘Silence, sir!’ cried his father.
+‘[[Silence]], sir!’ cried his father.
 
 ‘What a chap you are, Joe!’ said Long Parkes.
 
@@ -139,15 +139,15 @@ face!’ exclaimed the parish-clerk, metaphorically.
 
 ‘What HAVE I done?’ reasoned poor Joe.
 
-‘Silence, sir!’ returned his father, ‘what do you mean by talking, when
+‘[[Silence]], sir!’ returned his father, ‘what do you mean by talking, when
 you see people that are more than two or three times your age, sitting
 still and silent and not dreaming of saying a word?’
 
-‘Why that’s the proper time for me to talk, isn’t it?’ said Joe
+‘Why that’s the proper [[Time|time]] for me to talk, isn’t it?’ said Joe
 rebelliously.
 
-‘The proper time, sir!’ retorted his father, ‘the proper time’s no
-time.’
+‘The proper [[Time|time]], sir!’ retorted his father, ‘the proper [[Time|time]]’s no
+[[Time|time]].’
 
 ‘Ah to be sure!’ muttered Parkes, nodding gravely to the other two who
 nodded likewise, observing under their breaths that that was the point.

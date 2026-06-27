@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 20"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ supplied with fresh provision. We found the tortoises as fine as we had
 
 ever seen, and the ducks surpassed our best species of wild fowl, being
 
-exceedingly tender, juicy, and well-flavoured. Besides these, the
+exceedingly tender, juicy, and [[Well|well]]-flavoured. Besides these, the
 
 savages brought us, upon our making them comprehend our wishes, a vast
 
@@ -36,7 +36,7 @@ fish and some dried. The celery was a treat indeed, and the scurvy
 
 grass proved of incalculable benefit in restoring those of our men who
 
-had shown symptoms of disease. In a very short time we had not a single
+had shown symptoms of disease. In a very short [[Time|time]] we had not a single
 
 person on the sick-list. We had also plenty of other kinds of fresh
 
@@ -44,7 +44,7 @@ provision, among which may be mentioned a species of shellfish
 
 resembling the muscle in shape, but with the taste of an oyster.
 
-Shrimps, too, and prawns were abundant, and albatross and other birds'
+Shrimps, too, and prawns were abundant, and albatross and other [[Birds|birds]]'
 
 eggs with dark shells. We took in, too, a plentiful stock of the flesh
 
@@ -60,7 +60,7 @@ fully delighted in the exchange. We established a regular market on
 
 shore, just under the guns of the schooner, where our barterings were
 
-carried on with every appearance of good faith, and a degree of order
+carried on with every appearance of good [[Faith|faith]], and a degree of order
 
 which their conduct at the village of _Klock-klock_ had not led us to
 
@@ -118,7 +118,7 @@ should be ready on our return.
 
 
 
-A description of the nature of this important article of commerce, and
+A description of the [[Nature|nature]] of this important article of commerce, and
 
 the method of preparing it, may prove of some interest to my readers,
 
@@ -126,7 +126,7 @@ and I can find no more suitable place than this for introducing an
 
 account of it. The following comprehensive notice of the substance is
 
-taken from a modern history of a voyage to the South Seas.
+taken from a modern [[history]] of a voyage to the South Seas.
 
 
 
@@ -144,7 +144,7 @@ commands a great price, perhaps as much as their much-talked of edible
 
 bird's nests, which are probably made up of the gelatinous matter
 
-picked up by a species of swallow from the body of these molluscæ. They
+picked up by a species of [[Swallow|swallow]] from the [[Body|body]] of these molluscæ. They
 
 have no shell, no legs, nor any prominent part, except an _absorbing_
 
@@ -152,7 +152,7 @@ and an _excretory_, opposite organs; but, by their elastic wings, like
 
 caterpillars or worms, they creep in shallow waters, in which, when
 
-low, they can be seen by a kind of swallow, the sharp bill of which,
+low, they can be seen by a kind of [[Swallow|swallow]], the sharp bill of which,
 
 inserted in the soft animal, draws a gummy and filamentous substance,
 
@@ -168,13 +168,13 @@ eighteen inches in length; and I have seen a few that were not less
 
 than two feet long. They are nearly round, a little flattish on one
 
-side, which lies next the bottom of the sea; and they are from one to
+side, which lies next the [[Bottom|bottom]] of the sea; and they are from one to
 
-eight inches thick. They crawl up into shallow water at particular
+eight inches thick. They crawl up into shallow [[Water|water]] at particular
 
-seasons of the year, probably for the purpose of gendering, as we often
+[[Seasons|seasons]] of the year, probably for the purpose of gendering, as we often
 
-find them in pairs. It is when the sun has the most power on the water,
+find them in pairs. It is when the sun has the most power on the [[Water|water]],
 
 rendering it tepid, that they approach the shore; and they often go up
 
@@ -182,15 +182,15 @@ into places so shallow, that, on the tide's receding, they are left
 
 dry, exposed to the heat of the sun. But they do not bring forth their
 
-young in shallow water, as we never see any of their progeny, and the
+young in shallow [[Water|water]], as we never see any of their progeny, and the
 
-full-grown ones are always observed coming in from deep water. They
+full-grown ones are always observed coming in from deep [[Water|water]]. They
 
 feed principally on that class of zoophytes which produce the coral.
 
 
 
-"The _biche de mer_ is generally taken in three or four feet water;
+"The _biche de mer_ is generally taken in three or four feet [[Water|water]];
 
 after which they are brought on shore, and split at one end with a
 
@@ -204,13 +204,13 @@ deep. The article is then washed, and afterward boiled to a certain
 
 degree, which must not be too much or too little. They are then buried
 
-in the ground for four hours, then boiled again for a short time, after
+in the ground for four hours, then boiled again for a short [[Time|time]], after
 
-which they are dried, either by the fire or the sun. Those cured by the
+which they are dried, either by the [[Fire|fire]] or the sun. Those cured by the
 
 sun are worth the most; but where one picul (133-1/3 lbs.) can be cured
 
-that way, I can cure thirty piculs by the fire. When once properly
+that way, I can cure thirty piculs by the [[Fire|fire]]. When once properly
 
 cured, they can be kept in a dry place for two or three years without
 
@@ -246,7 +246,7 @@ land everything necessary for preparing the buildings and clearing the
 
 ground. A large flat space near the eastern shore of the bay was
 
-selected, where there was plenty both of wood and water, and within a
+selected, where there was plenty both of wood and [[Water|water]], and within a
 
 convenient distance of the principal reefs on which the _biche de mer_
 
@@ -262,7 +262,7 @@ way that we could safely trust the rest of the work to the three men
 
 whom we intended to leave behind. These were John Carson, Alfred
 
-Harris, and ---- Peterson (all natives of London, I believe), who
+Harris, and ---- Peterson (all natives of [[London]], I believe), who
 
 volunteered their services in this respect.
 
@@ -278,7 +278,7 @@ promise, that we did not think it advisable to run the risk of
 
 offending him by a final refusal. I believe that not one of us had at
 
-this time the slightest suspicion of the good faith of the savages.
+this [[Time|time]] the slightest suspicion of the good [[Faith|faith]] of the savages.
 
 They had uniformly behaved with the greatest decorum, aiding us with
 
@@ -296,7 +296,7 @@ respect, and, upon the whole, we should have been the most suspicious
 
 of human beings had we entertained a single thought of perfidy on the
 
-part of a people who treated us so well. A very short while sufficed to
+part of a people who treated us so [[Well|well]]. A very short while sufficed to
 
 prove that this apparent kindness of disposition was only the result of
 
@@ -322,13 +322,13 @@ savages to approach the vessel during our absence, under any pretence
 
 whatever, and to remain constantly on deck. The boarding-nettings were
 
-up, the guns double-shotted with grape and canister, and the swivels
+up, the guns [[Double|double]]-shotted with grape and canister, and the swivels
 
 loaded with canisters of musket-balls. She lay, with her anchor apeak,
 
 about a mile from the shore, and no canoe could approach her in any
 
-direction without being distinctly seen and exposed to the full fire of
+direction without being distinctly seen and exposed to the full [[Fire|fire]] of
 
 our swivels immediately.
 
@@ -358,7 +358,7 @@ good part, and proceeded.
 
 
 
-We had passed the spring and rivulet of which I before spoke, and were
+We had passed the [[spring]] and rivulet of which I before spoke, and were
 
 now entering upon a narrow gorge leading through the chain of soapstone
 
@@ -406,11 +406,11 @@ this ravine. Yet such was the order we blindly took up, trusting
 
 foolishly to the force of our party, the unarmed condition of Too-wit
 
-and his men, the certain efficacy of our fire-arms (whose effect was
+and his men, the certain efficacy of our [[Fire|fire]]-arms (whose effect was
 
 yet a secret to the natives), and, more than all, to the long-sustained
 
-pretension of friendship kept up by these infamous wretches. Five or
+pretension of [[Friendship|friendship]] kept up by these infamous wretches. Five or
 
 six of them went on before, as if to lead the way, ostentatiously
 
@@ -418,7 +418,7 @@ busying themselves in removing the larger stones and rubbish from the
 
 path. Next came our own party. We walked closely together, taking care
 
-only to prevent separation. Behind followed the main body of the
+only to prevent separation. Behind followed the main [[Body|body]] of the
 
 savages, observing unusual order and decorum.
 
@@ -432,7 +432,7 @@ stratification of the precipice which overhung us. A fissure in the
 
 soft rock attracted our attention. It was about wide enough for one
 
-person to enter without squeezing, and extended back into the hill some
+person to enter without squeezing, and extended back into the [[Hill|hill]] some
 
 eighteen or twenty feet in a straight course, sloping afterward to the
 

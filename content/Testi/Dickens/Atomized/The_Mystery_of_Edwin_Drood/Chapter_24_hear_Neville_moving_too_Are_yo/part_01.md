@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)"
+title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -31,18 +31,18 @@ uneasy, dear. I shall be sure to be somewhere.”
 
 (It did seem likely.)
 
-“And I shall hear of my Rosebud from Mr. Tartar?” inquired Helena.
+“And I shall hear of my Rosebud from Mr. Tartar?” inquired [[Helena]].
 
 “Yes, I suppose so; from—” Rosa looked back again in a flutter, instead
 of supplying the name. “But tell me one thing before we part, dearest
-Helena. Tell me—that you are sure, sure, sure, I couldn’t help it.”
+[[Helena]]. Tell me—that you are sure, sure, sure, I couldn’t help it.”
 
-“Help it, love?”
+“Help it, [[Love|love]]?”
 
 “Help making him malicious and revengeful. I couldn’t hold any terms
 with him, could I?”
 
-“You know how I love you, darling,” answered Helena, with indignation;
+“You know how I [[Love|love]] you, darling,” answered [[Helena]], with indignation;
 “but I would sooner see you dead at his wicked feet.”
 
 “That’s a great comfort to me! And you will tell your poor brother so,
@@ -50,17 +50,17 @@ won’t you? And you will give him my remembrance and my sympathy? And
 you will ask him not to hate me?”
 
 With a mournful shake of the head, as if that would be quite a
-superfluous entreaty, Helena lovingly kissed her two hands to her
+superfluous entreaty, [[Helena]] lovingly kissed her two hands to her
 friend, and her friend’s two hands were kissed to her; and then she saw
-a third hand (a brown one) appear among the flowers and leaves, and
+a third hand (a brown one) appear among the [[Flowers|flowers]] and [[Leaves|leaves]], and
 help her friend out of sight.
 
 The refection that Mr. Tartar produced in the Admiral’s Cabin by merely
-touching the spring knob of a locker and the handle of a drawer, was a
+touching the [[spring]] knob of a locker and the handle of a drawer, was a
 dazzling enchanted repast. Wonderful macaroons, glittering liqueurs,
 magically-preserved tropical spices, and jellies of celestial tropical
 fruits, displayed themselves profusely at an instant’s notice. But Mr.
-Tartar could not make time stand still; and time, with his hard-hearted
+Tartar could not make [[Time|time]] stand still; and [[Time|time]], with his hard-hearted
 fleetness, strode on so fast, that Rosa was obliged to come down from
 the bean-stalk country to earth and her guardian’s chambers.
 
@@ -70,13 +70,13 @@ put the same thought in another form; what is to be done with you?”
 Rosa could only look apologetically sensible of being very much in her
 own way and in everybody else’s. Some passing idea of living,
 fireproof, up a good many stairs in Furnival’s Inn for the rest of her
-life, was the only thing in the nature of a plan that occurred to her.
+life, was the only thing in the [[Nature|nature]] of a plan that occurred to her.
 
 “It has come into my thoughts,” said Mr. Grewgious, “that as the
-respected lady, Miss Twinkleton, occasionally repairs to London in the
+respected lady, Miss Twinkleton, occasionally repairs to [[London]] in the
 recess, with the view of extending her connection, and being available
 for interviews with metropolitan parents, if any—whether, until we have
-time in which to turn ourselves round, we might invite Miss Twinkleton
+[[Time|time]] in which to turn ourselves round, we might invite Miss Twinkleton
 to come and stay with you for a month?”
 
 “Stay where, sir?”
@@ -96,8 +96,8 @@ we are now.”
 lodging. Nothing could be more acceptable to me than the sweet presence
 of last evening, for all the remaining evenings of my existence; but
 these are not fit surroundings for a young lady. Let us set out in
-quest of adventures, and look for a furnished lodging. In the meantime,
-Mr. Crisparkle here, about to return home immediately, will no doubt
+[[Quest|quest]] of adventures, and look for a furnished lodging. In the meantime,
+Mr. Crisparkle here, about to return [[Home|home]] immediately, will no [[Doubt|doubt]]
 kindly see Miss Twinkleton, and invite that lady to co-operate in our
 plan.”
 
@@ -105,10 +105,10 @@ Mr. Crisparkle, willingly accepting the commission, took his departure;
 Mr. Grewgious and his ward set forth on their expedition.
 
 As Mr. Grewgious’s idea of looking at a furnished lodging was to get on
-the opposite side of the street to a house with a suitable bill in the
-window, and stare at it; and then work his way tortuously to the back
-of the house, and stare at that; and then not go in, but make similar
-trials of another house, with the same result; their progress was but
+the opposite side of the street to a [[house]] with a suitable bill in the
+[[Window|window]], and stare at it; and then work his way tortuously to the back
+of the [[house]], and stare at that; and then not go in, but make similar
+trials of another [[house]], with the same result; their progress was but
 slow. At length he bethought himself of a widowed cousin, divers times
 removed, of Mr. Bazzard’s, who had once solicited his influence in the
 lodger world, and who lived in Southampton Street, Bloomsbury Square.
@@ -122,12 +122,12 @@ languishing out of her own exclusive back parlour, with the air of
 having been expressly brought-to for the purpose, from an accumulation
 of several swoons.
 
-“I hope I see you well, sir,” said Mrs. Billickin, recognising her
+“I [[Hope|hope]] I see you [[Well|well]], sir,” said Mrs. Billickin, recognising her
 visitor with a bend.
 
-“Thank you, quite well. And you, ma’am?” returned Mr. Grewgious.
+“Thank you, quite [[Well|well]]. And you, ma’am?” returned Mr. Grewgious.
 
-“I am as well,” said Mrs. Billickin, becoming aspirational with excess
+“I am as [[Well|well]],” said Mrs. Billickin, becoming aspirational with excess
 of faintness, “as I hever ham.”
 
 “My ward and an elderly lady,” said Mr. Grewgious, “wish to find a

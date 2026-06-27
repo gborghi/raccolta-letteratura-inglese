@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 5)"
+title: "[[MrPond]] — The Unmentionable Man (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ because he's a blackmailer."
 
 
 
-For the first time the rage of Marcus seemed mixed with a sort of
+For the first [[Time|time]] the rage of Marcus seemed mixed with a sort of
 
 embarrassment, almost amounting to shame, as he looked down
 
@@ -30,7 +30,7 @@ scowling at the table.
 
 
 
-"It has no doubt occurred to you," proceeded Pond placidly, "that
+"It has no [[Doubt|doubt]] occurred to you," proceeded Pond placidly, "that
 
 the second inference involves some suggestions that are rather
 
@@ -38,7 +38,7 @@ delicate; especially if I may say so, for a man in your position."
 
 
 
-Marcus remained in a silence swollen with anger; then at last he
+Marcus remained in a [[Silence|silence]] swollen with anger; then at last he
 
 broke out abruptly, as if beyond control:  "I'll swear the Prime
 
@@ -76,11 +76,11 @@ saying:  "Oh, you don't understand."
 
 
 
-There was a lengthy silence and then Pond resumed:
+There was a lengthy [[Silence|silence]] and then Pond resumed:
 
 
 
-"I understand the horrid truth that you yourself are a perfectly
+"I understand the horrid [[Truth|truth]] that you yourself are a perfectly
 
 honourable and high-minded person and that your own problem is
 
@@ -112,7 +112,7 @@ Socialist?"
 
 
 
-"Well," replied Marcus, after a spasm of concentration, "I suppose
+"[[Well]]," replied Marcus, after a spasm of concentration, "I suppose
 
 one ought to imagine.  I suppose he might hold that, the Republic
 
@@ -126,7 +126,7 @@ contracts."
 
 I wanted.  It is an important contribution to Pond's Law of
 
-Paradox, if I may be pardoned for expressing myself so playfully.
+[[Paradox]], if I may be pardoned for expressing myself so playfully.
 
 And now let us go and talk to M. Louis."
 
@@ -140,7 +140,7 @@ Some vivacious and talkative young men were taking leave of M.
 
 Louis, who courteously invited the newcomers to the empty chairs,
 
-saying something about "my young friends often enliven my solitude
+saying something about "my young friends often enliven my [[Solitude|solitude]]
 
 with their rather Socialistic views."
 
@@ -162,7 +162,7 @@ pretend that a bargain between a starving man and a man with all
 
 the food is anything but a leonine contract."  He glanced up at the
 
-fire-escape, a ladder leading up to the balcony of a very high
+[[Fire|fire]]-escape, a ladder leading up to the balcony of a very high
 
 attic above.  "I live in that garret; or rather on that balcony.
 
@@ -178,7 +178,7 @@ for his hundred million.  Hell, indeed, is not out of the picture;
 
 for it is a sin of injustice to force an advantage against the
 
-desperate.  Well, all those poor men are desperate; they all hang
+desperate.  [[Well]], all those poor men are desperate; they all hang
 
 starving on spikes.  If they must not bargain collectively, they
 
@@ -194,9 +194,9 @@ Pond's eye followed it and found the balcony fitted out with what
 
 looked like a bedstead, a screen, and an old looking-glass, all
 
-very shabby.  The only other object was a dusty old cross-hilted
+very shabby.  The only other object was a dusty old [[Cross|cross]]-hilted
 
-sword, such as might have come from a curiosity shop.  Mr. Pond
+[[Sword|sword]], such as might have come from a curiosity shop.  Mr. Pond
 
 eyed this last object with considerable curiosity.
 
@@ -230,15 +230,15 @@ turned for an instant and fired.
 
 
 
-"A little reminder, perhaps, that it is time to go to bed," said M.
+"A little reminder, perhaps, that it is [[Time|time]] to go to bed," said M.
 
-Louis gaily.  "I go up by the fire-escape and I sleep on the
+Louis gaily.  "I go up by the [[Fire|fire]]-escape and I [[Sleep|sleep]] on the
 
-balcony.  Doctors think so much of this open-air treatment.  Well,
+balcony.  Doctors think so much of this open-air treatment.  [[Well]],
 
 my people have always gone to bed in public; so many tramps do,
 
-don't they?  Good night, gentlemen."
+don't they?  Good [[Night|night]], gentlemen."
 
 
 
@@ -250,7 +250,7 @@ prepare for slumber.
 
 
 
-"Pond," said Marcus, "we are in a nightmare of nonsense."
+"Pond," said Marcus, "we are in a [[nightmare]] of nonsense."
 
 
 

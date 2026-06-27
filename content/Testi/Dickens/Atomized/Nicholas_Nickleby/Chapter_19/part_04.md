@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 19 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘’Gad, so he has,’ replied the young man; ‘deyvle take me if I know
-which is master in my house, he or I.’
+which is master in my [[house]], he or I.’
 
 ‘I know,’ muttered Ralph.
 
@@ -39,9 +39,9 @@ original genius, he had struck out an entirely new course of treatment
 quite opposed to the usual method; his custom being, when he had gained
 the ascendancy over those he took in hand, rather to keep them down
 than to give them their own way; and to exercise his vivacity upon
-them openly, and without reserve. Thus, he made them butts, in a double
+them openly, and without reserve. Thus, he made them butts, in a [[Double|double]]
 sense, and while he emptied them with great address, caused them to ring
-with sundry well-administered taps, for the diversion of society.
+with sundry [[Well|well]]-administered taps, for the diversion of society.
 
 The dinner was as remarkable for the splendour and completeness of its
 appointments as the mansion itself, and the company were remarkable
@@ -52,11 +52,11 @@ truly astonishing. They were remarkably fresh, too, notwithstanding
 their great exertions: for, on the appearance of the dessert, they broke
 out again, as if nothing serious had taken place since breakfast.
 
-‘Well,’ said Lord Frederick, sipping his first glass of port, ‘if this
+‘[[Well]],’ said Lord Frederick, sipping his first glass of port, ‘if this
 is a discounting dinner, all I have to say is, deyvle take me, if it
 wouldn’t be a good pla-an to get discount every day.’
 
-‘You’ll have plenty of it, in your time,’ returned Sir Mulberry Hawk;
+‘You’ll have plenty of it, in your [[Time|time]],’ returned Sir Mulberry Hawk;
 ‘Nickleby will tell you that.’
 
 ‘What do you say, Nickleby?’ inquired the young man; ‘am I to be a good
@@ -70,13 +70,13 @@ Militia--and the race-courses.
 The gallant colonel glanced at Messrs Pyke and Pluck as if he thought
 they ought to laugh at his joke; but those gentlemen, being only engaged
 to laugh for Sir Mulberry Hawk, were, to his signal discomfiture, as
-grave as a pair of undertakers. To add to his defeat, Sir Mulberry,
+[[Grave|grave]] as a pair of undertakers. To add to his defeat, Sir Mulberry,
 considering any such efforts an invasion of his peculiar privilege,
 eyed the offender steadily, through his glass, as if astonished at his
 presumption, and audibly stated his impression that it was an ‘infernal
 liberty,’ which being a hint to Lord Frederick, he put up HIS glass,
 and surveyed the object of censure as if he were some extraordinary wild
-animal then exhibiting for the first time. As a matter of course, Messrs
+animal then exhibiting for the first [[Time|time]]. As a matter of course, Messrs
 Pyke and Pluck stared at the individual whom Sir Mulberry Hawk stared
 at; so, the poor colonel, to hide his confusion, was reduced to the
 necessity of holding his port before his right eye and affecting to
@@ -89,7 +89,7 @@ looks of his friend Sir Mulberry. The latter gentleman was obliging
 enough to direct general attention towards her.
 
 ‘Here is Miss Nickleby,’ observed Sir Mulberry, ‘wondering why the deuce
-somebody doesn’t make love to her.’
+somebody doesn’t make [[Love|love]] to her.’
 
 ‘No, indeed,’ said Kate, looking hastily up, ‘I--’ and then she stopped,
 feeling it would have been better to have said nothing at all.
@@ -100,8 +100,8 @@ can’t look in my face, and tell me she wasn’t thinking so.’
 ‘Done!’ cried the noble gull. ‘Within ten minutes.’
 
 ‘Done!’ responded Sir Mulberry. The money was produced on both sides,
-and the Honourable Mr. Snobb was elected to the double office of
-stake-holder and time-keeper.
+and the Honourable Mr. Snobb was elected to the [[Double|double]] office of
+stake-holder and [[Time|time]]-keeper.
 
 ‘Pray,’ said Kate, in great confusion, while these preliminaries were
 in course of completion. ‘Pray do not make me the subject of any bets.
@@ -125,7 +125,7 @@ youth.
 ‘Horrid cruel,’ said Mr. Pluck.
 
 ‘I don’t care if I do lose,’ said Sir Mulberry; ‘for one tolerable look
-at Miss Nickleby’s eyes is worth double the money.’
+at Miss Nickleby’s eyes is worth [[Double|double]] the money.’
 
 ‘More,’ said Mr. Pyke.
 
@@ -142,7 +142,7 @@ Frederick, after a short interval.
 
 ‘You needn’t trouble yourself to inquire, my buck,’ said Sir Mulberry;
 ‘Miss Nickleby and I understand each other; she declares on my side, and
-shows her taste. You haven’t a chance, old fellow. Time, Snobb?’
+shows her taste. You haven’t a chance, old fellow. [[Time]], Snobb?’
 
 ‘Eight minutes gone.’
 

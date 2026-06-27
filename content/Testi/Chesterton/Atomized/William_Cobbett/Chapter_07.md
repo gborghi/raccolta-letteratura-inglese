@@ -16,13 +16,13 @@ tags:
 
 CHAPTER VII
 
-LAST DAYS AND DEATH
+LAST DAYS AND [[Death|DEATH]]
 
 A MERE outline of the career of Cobbett has been broken or interrupted
 here for the sake of two studies of his literary personality.
 That outline left him in England after his second return
-from the United States.  The time of his return was largely
-the time of his triumph; in spite of, or rather because of,
+from the United States.  The [[Time|time]] of his return was largely
+the [[Time|time]] of his triumph; in spite of, or rather because of,
 the tumultuous hour in which he returned.  In this period
 he received all the highest compliments which he was ever
 likely to receive.  He was hailed as a democratic deliverer,
@@ -32,20 +32,20 @@ the Trades Unions of the Midlands and the North.  He was given
 a great public banquet and toasted with tremendous enthusiasm.
 He was invited, in many times and places daring these later years,
 to stand for Parliament.  He was eventually elected to Parliament.
-If the Reform Government had really been a Reform Government,
-he might have been a Minister in it or received any honour
-that popular government could bestow.  In any case he received,
-in this his time of honour, the highest of all these honours.
-He was prosecuted by the Government for sedition.
+If the [[Reform]] [[government|Government]] had really been a [[Reform]] [[government|Government]],
+he might have been a Minister in it or received any [[Honour|honour]]
+that popular [[government]] could bestow.  In any case he received,
+in this his [[Time|time]] of [[Honour|honour]], the highest of all these honours.
+He was prosecuted by the [[government|Government]] for sedition.
 
 But the man in the dock was a very different person from the dazed
 and disillusioned Tory farmer who had once stood distracted between
 the doom hanging over his farm and the doom hanging over his country.
 He stood in the dock like a man risen from the dead.
-He was an incarnate and historic revenge that had renewed its youth
+He was an incarnate and historic [[Revenge|revenge]] that had renewed its youth
 like the eagle's. He was far younger than when he was young.
 If it was foolish of the politicians to have prosecuted him on the
-first occasion, there is something of the madness that marks the wrath
+first occasion, there is something of the [[Madness|madness]] that marks the wrath
 of the gods in their repetition of the folly so long afterwards.
 They were actually silly enough to attempt to make him responsible
 for the Luddites smashing the machines.  He had not, of course,
@@ -63,28 +63,28 @@ sort of elemental rage had been dwelling among them.
 He browbeat the browbeating judges; he bullied the bullies
 of the bar; he raised the jury against them like a mob;
 it was the hour of his life.  For once at least he could make
-men understand that he did well to be angry; and he did.
+men understand that he did [[Well|well]] to be angry; and he did.
 He spat out his passionate contempt for all that cold
 and cowardly world which had gone about to trap him lest
-he should somewhere let out the truth.  He gave its own name
+he should somewhere let out the [[Truth|truth]].  He gave its own name
 to all that bottomless baseness in the comfortable classes,
 that would destroy a man for his sympathy with the poor.
 He swept away all the ridiculous relevancies of whether
-he had said this or that about an election or a trade union,
+he had said this or that about an election or a trade [[Union|union]],
 and attacked the' thing his enemies were really attacking.
 He accused them of their accusation.  He charged them
 with charging, a man with having a heart for the oppressed.
 He told them why they hated him; and showed them the face
-of their own fear.  It was not because he was blatant
+of their own [[Fear|fear]].  It was not because he was blatant
 or inconsistent or coarse or reckless; even if he was.
 It was not because he raged or ranted or made a noise.
 It was because of those silent on whose behalf he made a noise;
 of the dumb for whom he ranted and the impotent for whom he raged.
-It was his love of the poor that made him horrible to his enemies;
+It was his [[Love|love]] of the poor that made him horrible to his enemies;
 and in that hour he made them feed on the full horrors that such
-love reveals.  When he had done shaking the court of justice
+[[Love|love]] reveals.  When he had done shaking the [[Court|court]] of justice
 with his voice, everything around him seemed shrunken and silent;
-the jury acquitted him almost mechanically, and he left the court,
+the jury acquitted him almost mechanically, and he left the [[Court|court]],
 if not without a stain on his character, at least with a smile
 on his face broader than the grim smile he wore during his
 sentence to Newgate.  He might have been dismounting after
@@ -93,17 +93,17 @@ of his youth.  And indeed he had been doing the same thing;
 he had been enjoying himself.
 
 That hour in the dock was the supreme moment of his life; and though
-in one sense it was followed by more success and popularity than
+in one sense it was followed by more [[success]] and popularity than
 he had hitherto, he was never again so near to his own vision of triumph.
 He became more and more identified with the great movement against
 the rotten boroughs, which culminated (or collapsed) with the great Act
-of 1830.  The Reform movement united him with many who had once been
+of 1830.  The [[Reform]] movement united him with many who had once been
 his friends and with many who would always have been his enemies.
-But the Reform movement was very different from the Reform Bill.
-Cobbett lived to see Reform, but not the Reform he had longed to see.
+But the [[Reform]] movement was very different from the [[Reform]] Bill.
+Cobbett lived to see [[Reform]], but not the [[Reform]] he had longed to see.
 He sat in Parliament, but not in the Parliament where he wished to sit.
 The atmosphere he hated most of all, more than any smoke of destruction
-or any smell of decay, the Whig atmosphere, was what prevailed
+or any smell of [[Decay|decay]], the Whig atmosphere, was what prevailed
 in the new Parliament and the new Ministry.  If he watched with too
 harsh a sneer its first act of emancipating the niggers by an enormous
 bribe to the nigger-drivers, we may imagine (or fail to imagine)
@@ -119,16 +119,16 @@ in several other fields.  He had taken a seed-farm in Kensington:
 where he conducted an experiment in bartering goods for labour,
 and sold all sorts of things.  His Register still sold like hot cakes;
 the cakes continued to be very hot indeed.  Some of them were more
-than most people could swallow, in the way of absolute assertions,
-positive prophecies, and personal threats.  He was by this time a great
+than most people could [[Swallow|swallow]], in the way of absolute assertions,
+positive prophecies, and personal threats.  He was by this [[Time|time]] a great
 public character; from some points of view a great comic character.
 It is possible that some people tried to take a rise out of him.
 Sometimes the laugh was on his side; sometimes on the other.
 But this could always be said of him, that he stood in the same
-swaggering attitude whether he stood alone or backed by a whole nation.
+swaggering attitude whether he stood [[Alone|alone]] or backed by a whole nation.
 Two examples will serve:  of the former, the joke about the gridiron;
 of the latter, an affair that had happened earlier-that of
-the Royal Divorce.
+the Royal [[divorce|Divorce]].
 
 Certainly Cobbett had a way of brazening things out, whether we
 think him right or wrong; indeed, we cannot but feel a sort
@@ -137,12 +137,12 @@ The story of the gridiron which he came to carry like a coat-of-arms
 is an excellent illustration of his invincible impudence.
 It arose out of a trifle, or at anyrate out of a detail;
 a detail which was very doubtful and not at all decisive.
-The Government had declared, in connection with the crisis
+The [[government|Government]] had declared, in connection with the crisis
 which necessitated paper money, that things would improve,
 and that certain payments would be made in coin.
 Cobbett, contradicting flatly and flying into a passion,
 as was his habit about a hundred things large and small,
-had said he would be broiled on a gridiron if the Government
+had said he would be broiled on a gridiron if the [[government|Government]]
 could do any such thing.  It was of course only one of his
 characteristic idioms; which were at once homely and extravagant.
 He meant no more by this singular fireside fantasy than he would
@@ -257,7 +257,7 @@ worth recording.  It might be typified very tersely in what he said
 in answer to one of the leading statesmen, who said that we
 might look with confidence to the future, `because all the great
 interests are prospering.'  Cobbett wrote in large letters
-like a man scrawling on a great wall or the side of a hill:
+like a man scrawling on a great wall or the side of a [[Hill|hill]]:
 `The working classes, then, are not a great interest.'
 
 He added grimly that perhaps they might be some day.
@@ -509,11 +509,11 @@ the wild justice of the Luddite fires?  Orator Hunt had been
 his ally; but who could expect Hunt to know what Cobbett
 was talking about when he praised the spires of the Gothic
 churches or the saints of the Dark Ages?  This uneducated
-man was too well educated for all his contemporaries.
+man was too [[Well|well]] educated for all his contemporaries.
 He stood in a world which believed that it was broadening;
 and the whole mind of that world was narrower than his own.
 It believed itself to be growing modern and many-sided;
-and he alone saw that it was growing monomaniac and mean.
+and he [[Alone|alone]] saw that it was growing monomaniac and mean.
 And that larger vision died with him:  and vanished for
 a hundred years.
 
@@ -522,7 +522,7 @@ language of the comic landlady, a piece of his mind.
 But the accidental phrase is after all an accurate phrase.
 It was only a piece of his mind that was ever given to anybody;
 a rather ragged piece often torn off in a rather random fashion:
-but not the whole truth that he really meant, for that he had
+but not the whole [[Truth|truth]] that he really meant, for that he had
 great difficulty in giving to anybody, perhaps even to himself.
 Talkative as he was, it may be that he never said enough;
 and lucid as he was, it may be that he never quite got
@@ -539,9 +539,9 @@ A friend would not deny that he contradicted himself;
 but a friend would be able to guess when and where he would
 probably contradict himself.  Only in this sense it is true
 to say that he never had a friend.  He had affections,
-and he had alliances; but not one true intellectual friendship.
+and he had alliances; but not one true intellectual [[Friendship|friendship]].
 
-There was this true distinction in the mind of the self-taught farmer:
+There was this true distinction in the mind of the [[Self|self]]-taught farmer:
 that his mind is a place where extremes meet.  When it can be said
 of a man that the Tories thought him a Radical, and the Radicals
 thought him a Tory, the first thing that will occur to us is that
@@ -553,7 +553,7 @@ He was more Tory than most Tories, and more Radical than most Radicals.
 In other words, it was because he was original; but it was also because
 he was universal.  He did not altogether understand his own universality;
 and he expressed it mostly in the form of inconsistency.
-He was fanatical, but he was not narrow.  With all his fanaticism,
+He was fanatical, but he was not narrow.  With all his [[Fanaticism|fanaticism]],
 he was really looking at things from too many points of view at once to be
 understood by those who wore the blinkers of a party or even a theory.
 He seemed to be at all extremes, because he had in some sense encircled
@@ -564,7 +564,7 @@ He was there after they were all dead, in the crowded congresses
 of the Trades Unions.  It was not knowledge, but it was understanding,
 in the sense of sympathy.  When we find this sort of universality we find,
 I think, a thing on the heroic scale.  It would surely be no bad
-definition of greatness in a man, to say that we can strike out in any
+definition of [[Greatness|greatness]] in a man, to say that we can strike out in any
 direction and still find the circumference of his mind.
 
 There was never a Cobbettite except Cobbett.  That gives
@@ -576,15 +576,15 @@ determining test, a great man.  He was large enough to be lonely.
 He had more inside him than he could easily find satisfied outside him.
 He meant more by what he said even than the other men who said it.
 He was one of the rare men to whom the truisms are truths.
-This union of different things in his thoughts was not sufficiently
-thought out; but it was a union.  It was not a compromise; it was a man.
+This [[Union|union]] of different things in his thoughts was not sufficiently
+thought out; but it was a [[Union|union]].  It was not a compromise; it was a man.
 That is what is meant by saying that it was also a great man.
 There was something in him that the world had not taught him;
 even if it was too vast and vague for him to teach it to the world.
 Things were part of that thing that could not be parts of any
 other thing.  That is why he had no real intellectual friendships
 among the intellectuals of his day, when all allowance is made
-for his real faults of vanity and violence and readiness to quarrel.
+for his real faults of [[Vanity|vanity]] and violence and readiness to quarrel.
 It is easy to argue about how he came to quarrel with his best friends.
 It is more penetrating to ask how he could ever come to agree with them.
 Even to the best of them his whole outlook, which seemed to him
@@ -593,13 +593,13 @@ understand that the great empty churches with their gaping mouths
 cried aloud that they also belonged to the future, because they
 belonged to the past?  How was the Right Honourable William Windham
 to understand that riotous artisans in the Black Country were
-also appealing to the past, as well as threatening the future?
+also appealing to the past, as [[Well|well]] as threatening the future?
 How was Mr. Carlile the atheist bookseller to know that a ruined
 abbey and a raging mob were one thing; and that thing liberty?
 How was Lord Brougham to understand that a field of clover and a
-grotesque gridiron were one thing; and that thing England?
+[[Grotesque|grotesque]] gridiron were one thing; and that thing England?
 
-That is the paradox of Cobbett; that in a sense he quarrelled
+That is the [[Paradox|paradox]] of Cobbett; that in a sense he quarrelled
 with everybody because he reconciled everything.
 From him, at least, so many men were divided, because in him
 so many things were unified.  He appeared inconsistent enough
@@ -607,9 +607,9 @@ in the thousand things that he reviled; but he would have
 appeared far more inconsistent in the things that he accepted.
 The breadth of his sympathy would have been stranger than all
 his antipathies; and his peace was more provocative than war.
-Therefore it is that our last impression of him is of a loneliness
+Therefore it is that our last impression of him is of a [[Loneliness|loneliness]]
 not wholly due to his hatreds, but partly also to his loves.
-For the desires of his intellect and imagination never
+For the desires of his intellect and [[Imagination|imagination]] never
 met anything but thwarting and wounding in this world;
 and though the ordinary part of him was often happy enough,
 the superior part was never satisfied.  He never came quite
@@ -617,31 +617,31 @@ near enough to a religion that might have satisfied him.
 But with philosophies he would never have been satisfied,
 especially the mean and meagre philosophies of his day.
 The cause he felt within him was too mighty and multiform
-to have been fed with anything less than the Faith.
+to have been fed with anything less than the [[Faith]].
 Therefore it was that when he lay dying in his farmhouse on the hills,
 those he had loved best in his simple fashion were near to his heart;
 but of all the millions of the outer world there was none near
 to his mind, and all that he meant escaped and went its way,
-like a great wind that roars over the rolling downs.
+like a great [[Wind|wind]] that roars over the [[rolling]] downs.
 
 This book began with an indefensible piece of personal recollection,
-and I fear it will have to end with another.  Perhaps I might plead
+and I [[Fear|fear]] it will have to end with another.  Perhaps I might plead
 the influence of the man I have been studying and trying to understand;
 who has been called egotistical, though I should be content to call
-him autobiographical.  As Mr. Cole pointed out in his admirable biography,
+him autobiographical.  As Mr. Cole pointed out in his admirable [[Biography|biography]],
 Cobbett treated his ego as an emblematic figure of England, as Whitman
-did his of America.  My own memories can have no such symbolic excuse;
-but I passed much of my childhood along that main thoroughfare
+did his of [[america|America]].  My own memories can have no such symbolic excuse;
+but I passed much of my [[Childhood|childhood]] along that main thoroughfare
 where Cobbett had his seed farm at Kensington; and one of the last
 things my own fattier told me was a tale of a strange object hanging
-above the road, before alterations and destructions removed it;
+above the [[Road|road]], before alterations and destructions removed it;
 one glimpse of a symbolic shape more ugly and ungainly than a gallows
 in the sunlight:  the Gridiron.
 
 All that he hated has triumphed on that spot.
 The ordinary shop that he thought a nuisance has swelled
-into the big emporium he would have thought a nightmare;
-the suburb has sunk deep into the new London; but the road still
+into the big emporium he would have thought a [[nightmare]];
+the suburb has sunk deep into the new [[London]]; but the [[Road|road]] still
 runs westward down which he went riding so often, heading for
 the open country, and leaving the Wen as far as possible behind.
 The Wen has pursued him, shooting out further and further
@@ -650,14 +650,14 @@ and Richmond; and still I seem to see the back of that vanishing
 rider ever ahead, and lessening amid changing scenery;
 hills turning about him like a transformation scene, away almost
 to the stormy wall of Wales.  It was as if he were riding further
-and further westward, following towards the sunset the road
+and further westward, following towards the sunset the [[Road|road]]
 of the fallen kings; where a low red light glows for ever
 upon things forgotten and the last ruins of the Round Table.
-And yet I am not sure of such a view of history; it seems
+And yet I am not sure of such a view of [[history]]; it seems
 to me that with us also things change and even change places;
 and the war does not always go one way.  When I used to go
 out as a boy into the green twilight, having written nonsense
-all night (fortunately unpublished), and drink coffee at a stall
+all [[Night|night]] (fortunately unpublished), and drink coffee at a stall
 in the street, brooding upon all these things, it seemed then
 as if the tide were running high enough in the one direction;
 but I have since had a notion that high tides can turn.
@@ -665,9 +665,9 @@ The enormous buildings, seen in outline like uncouth drawings,
 seem to stand up more insecurely against an altered sky;
 with some change in it too subtle yet to be called the twilight.
 I discovered, at least, that even in all that labyrinth of the new
-London by night there is an unvisited hour of almost utter stillness,
+[[London]] by [[Night|night]] there is an unvisited hour of almost utter stillness,
 before the creaking carts begin to come in from the market-gardens,
 to remind us that there is still somewhere a countryside.
 And in that stillness I have sometimes fancied I heard,
 tiny and infinitely far away, something like a faint voice
-hallooing and the sound of horse-hoofs that return.
+hallooing and the sound of [[Horse|horse]]-hoofs that return.

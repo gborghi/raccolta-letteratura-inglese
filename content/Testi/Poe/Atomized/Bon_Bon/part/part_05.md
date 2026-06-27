@@ -1,5 +1,5 @@
 ---
-title: "Bon-Bon (part 5)"
+title: "[[Bon-Bon]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Bon-Bon-(Poe)"
@@ -20,14 +20,14 @@ tags:
 
       “There was Plato, too,” continued his Majesty, modestly
       declining the snuff-box and the compliment it implied—“there
-      was Plato, too, for whom I, at one time, felt all the affection of a
-      friend. You knew Plato, Bon-Bon?—ah, no, I beg a thousand pardons.
+      was Plato, too, for whom I, at one [[Time|time]], felt all the affection of a
+      friend. You knew Plato, [[Bon-Bon]]?—ah, no, I beg a thousand pardons.
       He met me at Athens, one day, in the Parthenon, and told me he was
       distressed for an idea. I bade him write, down that δ
       υοῦς εστιν
       αυλος. He said that he would do so, and went
-      home, while I stepped over to the pyramids. But my conscience smote me
-      for having uttered a truth, even to aid a friend, and hastening back to
+      [[Home|home]], while I stepped over to the pyramids. But my [[Conscience|conscience]] smote me
+      for having uttered a [[Truth|truth]], even to aid a friend, and hastening back to
       Athens, I arrived behind the philosopher’s chair as he was inditing
       the ‘αυλος.’
 
@@ -43,13 +43,13 @@ tags:
       bottle of Mousseux, and drew from the closet a larger supply of
       Chambertin.
 
-      “But once, Monsieur Bon-Bon, but once. There was a time,” said the devil,
-      as if reciting some passage from a book—“there was a time when
+      “But once, Monsieur [[Bon-Bon]], but once. There was a [[Time|time]],” said the devil,
+      as if reciting some passage from a book—“there was a [[Time|time]] when
       occurred an anarchy of five years, during which the republic, bereft of
       all its officers, had no magistracy besides the tribunes of the people,
       and these were not legally vested with any degree of executive power—at
-      that time, Monsieur Bon-Bon—at that time only I was in Rome, and I
-      have no earthly acquaintance, consequently, with any of its philosophy.”
+      that [[Time|time]], Monsieur [[Bon-Bon]]—at that [[Time|time]] only I was in Rome, and I
+      have no earthly acquaintance, consequently, with any of its [[philosophy]].”
        (*2)
 
      {*2} Ils ecrivaient sur la Philosophie (_Cicero, Lucretius,
@@ -62,30 +62,30 @@ tags:
       surely mean to find any fault with Epicurus! What do I think of Epicurus!
       Do you mean me, sir?—I am Epicurus! I am the same philosopher who
       wrote each of the three hundred treatises commemorated by Diogenes
-      Laertes.”
+      [[Laertes]].”
 
 
       “That’s a lie!” said the metaphysician, for the wine had gotten a little
       into his head.
 
-      “Very well!—very well, sir!—very well, indeed, sir!” said his
+      “Very [[Well|well]]!—very [[Well|well]], sir!—very [[Well|well]], indeed, sir!” said his
       Majesty, apparently much flattered.
 
       “That’s a lie!” repeated the restaurateur, dogmatically; “that’s a—hiccup!—a
       lie!”
 
 
-      “Well, well, have it your own way!” said the devil, pacifically, and
-      Bon-Bon, having beaten his Majesty at argument, thought it his duty to
+      “[[Well]], [[Well|well]], have it your own way!” said the devil, pacifically, and
+      [[Bon-Bon]], having beaten his Majesty at argument, thought it his duty to
       conclude a second bottle of Chambertin.
 
       “As I was saying,” resumed the visitor—“as I was observing a little
       while ago, there are some very _outré_ notions in that book of yours
-      Monsieur Bon-Bon. What, for instance, do you mean by all that humbug about
-      the soul? Pray, sir, what is the soul?”
+      Monsieur [[Bon-Bon]]. What, for instance, do you mean by all that humbug about
+      the [[Soul|soul]]? Pray, sir, what is the [[Soul|soul]]?”
 
 
-      “The—hiccup!—soul,” replied the metaphysician, referring to
+      “The—hiccup!—[[Soul|soul]],” replied the metaphysician, referring to
       his MS., “is undoubtedly—”
 
 
@@ -125,14 +125,14 @@ tags:
       “And beyond all question, a—”
 
 
-      “No sir, the soul is no such thing!” (Here the philosopher, looking
+      “No sir, the [[Soul|soul]] is no such thing!” (Here the philosopher, looking
       daggers, took occasion to make an end, upon the spot, of his third bottle
       of Chambertin.)
 
       “Then—hic-cup!—pray, sir—what—what is it?”
 
 
-      “That is neither here nor there, Monsieur Bon-Bon,” replied his Majesty,
+      “That is neither here nor there, Monsieur [[Bon-Bon]],” replied his Majesty,
       musingly. “I have tasted—that is to say, I have known some very bad
       souls, and some too—pretty good ones.” Here he smacked his lips,
       and, having unconsciously let fall his hand upon the volume in his pocket,
@@ -140,7 +140,7 @@ tags:
 
       He continued.
 
-      “There was the soul of Cratinus—passable: Aristophanes—racy:
+      “There was the [[Soul|soul]] of Cratinus—passable: Aristophanes—racy:
       Plato—exquisite—not _your_ Plato, but Plato the comic poet; your
       Plato would have turned the stomach of Cerberus—faugh! Then let me
       see! there were Naevius, and Andronicus, and Plautus, and Terentius. Then
@@ -151,7 +151,7 @@ tags:
       which cannot be said of a Quirite. Let us taste your Sauterne.”
 
 
-      Bon-Bon had by this time made up his mind to the _nil admirari_ and endeavored
+      [[Bon-Bon]] had by this [[Time|time]] made up his mind to the _nil admirari_ and endeavored
       to hand down the bottles in question. He was, however, conscious of a
       strange sound in the room like the wagging of a tail. Of this, although
       extremely indecent in his Majesty, the philosopher took no notice:—simply
@@ -164,9 +164,9 @@ tags:
       Livius was positively Polybius and none other.”
 
 
-      “Hic-cup!” here replied Bon-Bon, and his majesty proceeded:
+      “Hic-cup!” here replied [[Bon-Bon]], and his majesty proceeded:
 
-      “But if I have a penchant, Monsieur Bon-Bon—if I have a penchant, it
+      “But if I have a penchant, Monsieur [[Bon-Bon]]—if I have a penchant, it
       is for a philosopher. Yet, let me tell you, sir, it is not every dev—I
       mean it is not every gentleman who knows how to choose a philosopher. Long
       ones are not good; and the best, if not carefully shelled, are apt to be a

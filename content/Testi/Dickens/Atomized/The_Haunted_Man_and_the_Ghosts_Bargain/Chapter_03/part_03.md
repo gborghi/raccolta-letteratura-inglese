@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 3 (part 3)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-The tempers of the little Tetterbys had sadly changed with a few hours.
+The tempers of the little [[Tetterbys]] had sadly changed with a few hours.
 Mr. and Mrs. Tetterby themselves were not more altered than their
 offspring. Usually they were an unselfish, good-natured, yielding little
 race, sharing short commons when it happened (which was pretty often)
 contentedly and even generously, and taking a great deal of enjoyment out
 of a very little meat. But they were fighting now, not only for the soap
-and water, but even for the breakfast which was yet in perspective. The
-hand of every little Tetterby was against the other little Tetterbys; and
-even Johnny’s hand—the patient, much-enduring, and devoted Johnny—rose
+and [[Water|water]], but even for the breakfast which was yet in perspective. The
+hand of every little Tetterby was against the other little [[Tetterbys]]; and
+even Johnny’s hand—the patient, much-enduring, and devoted Johnny—[[Rose|rose]]
 against the baby! Yes, Mrs. Tetterby, going to the door by mere
 accident, saw him viciously pick out a weak place in the suit of armour
-where a slap would tell, and slap that blessed child.
+where a slap would tell, and slap that blessed [[Child|child]].
 
 Mrs. Tetterby had him into the parlour by the collar, in that same flash
-of time, and repaid him the assault with usury thereto.
+of [[Time|time]], and repaid him the assault with usury thereto.
 
 “You brute, you murdering little boy,” said Mrs. Tetterby. “Had you the
 heart to do it?”
@@ -45,17 +45,17 @@ me, you’d go for a soldier. I will, too. There an’t no babies in the
 Army.”
 
 Mr. Tetterby, who had arrived upon the scene of action, rubbed his chin
-thoughtfully, instead of correcting the rebel, and seemed rather struck
+thoughtfully, instead of correcting the [[Rebel|rebel]], and seemed rather struck
 by this view of a military life.
 
-“I wish I was in the Army myself, if the child’s in the right,” said Mrs.
+“I wish I was in the Army myself, if the [[Child|child]]’s in the right,” said Mrs.
 Tetterby, looking at her husband, “for I have no peace of my life here.
 I’m a slave—a Virginia slave:” some indistinct association with their
 weak descent on the tobacco trade perhaps suggested this aggravated
 expression to Mrs. Tetterby. “I never have a holiday, or any pleasure at
-all, from year’s end to year’s end! Why, Lord bless and save the child,”
+all, from year’s end to year’s end! Why, Lord bless and save the [[Child|child]],”
 said Mrs. Tetterby, shaking the baby with an irritability hardly suited
-to so pious an aspiration, “what’s the matter with her now?”
+to so pious an [[Aspiration|aspiration]], “what’s the matter with her now?”
 
 Not being able to discover, and not rendering the subject much clearer by
 shaking it, Mrs. Tetterby put the baby away in a cradle, and, folding her
@@ -126,13 +126,13 @@ ruminated dejectedly, and passed his hand across and across his forehead.
 or happier either. Better, is it?”
 
 He turned to the screen, and traced about it with his finger, until he
-found a certain paragraph of which he was in quest.
+found a certain paragraph of which he was in [[Quest|quest]].
 
 “This used to be one of the family favourites, I recollect,” said
-Tetterby, in a forlorn and stupid way, “and used to draw tears from the
+Tetterby, in a forlorn and stupid way, “and used to draw [[Tears|tears]] from the
 children, and make ’em good, if there was any little bickering or
 discontent among ’em, next to the story of the robin redbreasts in the
-wood. ‘Melancholy case of destitution. Yesterday a small man, with a
+wood. ‘[[Melancholy]] case of destitution. Yesterday a small man, with a
 baby in his arms, and surrounded by half-a-dozen ragged little ones, of
 various ages between ten and two, the whole of whom were evidently in a
 famishing condition, appeared before the worthy magistrate, and made the
@@ -146,5 +146,5 @@ a sacrifice!”
 “What was a sacrifice?” her husband sourly inquired.
 
 Mrs. Tetterby shook her head; and without replying in words, raised a
-complete sea-storm about the baby, by her violent agitation of the
+complete sea-[[Storm|storm]] about the baby, by her violent agitation of the
 cradle.

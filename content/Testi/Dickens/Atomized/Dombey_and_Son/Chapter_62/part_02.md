@@ -18,7 +18,7 @@ To this unhallowed spot, the very name of which had hitherto been
 carefully concealed from Mr Dombey by his sister, was little Paul now
 borne by Fate and Richards
 
-“That’s my house, Susan,” said Polly, pointing it out.
+“That’s my [[house]], Susan,” said Polly, pointing it out.
 
 “Is it, indeed, Mrs Richards?” said Susan, condescendingly.
 
@@ -28,11 +28,11 @@ borne by Fate and Richards
 The sight added such an extensive pair of wings to Polly’s impatience,
 that she set off down the Gardens at a run, and bouncing on Jemima,
 changed babies with her in a twinkling; to the unutterable astonishment
-of that young damsel, on whom the heir of the Dombeys seemed to have
+of that young [[Damsel|damsel]], on whom the heir of the Dombeys seemed to have
 fallen from the clouds.
 
 “Why, Polly!” cried Jemima. “You! what a turn you have given me! who’d
-have thought it! come along in Polly! How well you do look to be sure!
+have thought it! come along in Polly! How [[Well|well]] you do look to be sure!
 The children will go half wild to see you Polly, that they will.”
 
 That they did, if one might judge from the noise they made, and the way
@@ -60,7 +60,7 @@ misgiving that she had been already slighted.
 
 “Oh do come in and sit down a minute, Susan, please,” said Polly. “This
 is my sister Jemima, this is. Jemima, I don’t know what I should ever
-do with myself, if it wasn’t for Susan Nipper; I shouldn’t be here now
+do with myself, if it wasn’t for [[Susan Nipper]]; I shouldn’t be here now
 but for her.”
 
 “Oh do sit down, Miss Nipper, if you please,” quoth Jemima.
@@ -73,13 +73,13 @@ was, Miss Nipper,” said Jemima.
 
 Susan relaxing, took a little more of the chair, and smiled graciously.
 
-“Do untie your bonnet-strings, and make yourself at home, Miss Nipper,
+“Do untie your bonnet-strings, and make yourself at [[Home|home]], Miss Nipper,
 please,” entreated Jemima. “I am afraid it’s a poorer place than you’re
 used to; but you’ll make allowances, I’m sure.”
 
 The black-eyed was so softened by this deferential behaviour, that she
 caught up little Miss Toodle who was running past, and took her to
-Banbury Cross immediately.
+Banbury [[Cross]] immediately.
 
 “But where’s my pretty boy?” said Polly. “My poor fellow? I came all
 this way to see him in his new clothes.”
@@ -89,14 +89,14 @@ his mother has been here. He’s at school, Polly.”
 
 “Gone already!”
 
-“Yes. He went for the first time yesterday, for fear he should lose any
+“Yes. He went for the first [[Time|time]] yesterday, for [[Fear|fear]] he should lose any
 learning. But it’s half-holiday, Polly: if you could only stop till he
-comes home—you and Miss Nipper, leastways,” said Jemima, mindful in
-good time of the dignity of the black-eyed.
+comes [[Home|home]]—you and Miss Nipper, leastways,” said Jemima, mindful in
+good [[Time|time]] of the dignity of the black-eyed.
 
 “And how does he look, Jemima, bless him!” faltered Polly.
 
-“Well, really he don’t look so bad as you’d suppose,” returned Jemima.
+“[[Well]], really he don’t look so bad as you’d suppose,” returned Jemima.
 
 “Ah!” said Polly, with emotion, “I knew his legs must be too short.”
 
@@ -104,17 +104,17 @@ good time of the dignity of the black-eyed.
 get longer, Polly, every day.”
 
 It was a slow, prospective kind of consolation; but the cheerfulness
-and good nature with which it was administered, gave it a value it did
-not intrinsically possess. After a moment’s silence, Polly asked, in a
+and good [[Nature|nature]] with which it was administered, gave it a value it did
+not intrinsically possess. After a moment’s [[Silence|silence]], Polly asked, in a
 more sprightly manner:
 
 “And where’s Father, Jemima dear?”—for by that patriarchal appellation,
 Mr Toodle was generally known in the family.
 
 “There again!” said Jemima. “What a pity! Father took his dinner with
-him this morning, and isn’t coming home till night. But he’s always
+him this morning, and isn’t coming [[Home|home]] till [[Night|night]]. But he’s always
 talking of you, Polly, and telling the children about you; and is the
-peaceablest, patientest, best-temperedest soul in the world, as he
+peaceablest, patientest, best-temperedest [[Soul|soul]] in the world, as he
 always was and will be!”
 
 “Thankee, Jemima,” cried the simple Polly; delighted by the speech, and
@@ -124,12 +124,12 @@ disappointed by the absence.
 sounding kiss upon the cheek, and then dancing little Paul cheerfully.
 “I say the same of you sometimes, and think it too.”
 
-In spite of the double disappointment, it was impossible to regard in
+In spite of the [[Double|double]] disappointment, it was impossible to regard in
 the light of a failure a visit which was greeted with such a reception;
 so the sisters talked hopefully about family matters, and about Biler,
 and about all his brothers and sisters: while the black-eyed, having
-performed several journeys to Banbury Cross and back, took sharp note
-of the furniture, the Dutch clock, the cupboard, the castle on the
+performed several journeys to Banbury [[Cross]] and back, took sharp note
+of the furniture, the Dutch [[Clock|clock]], the cupboard, the [[Castle|castle]] on the
 mantel-piece with red and green windows in it, susceptible of
 illumination by a candle-end within; and the pair of small black velvet
 kittens, each with a lady’s reticule in its mouth; regarded by the
@@ -140,4 +140,4 @@ she knew concerning Mr Dombey, his prospects, family, pursuits, and
 character. Also an exact inventory of her personal wardrobe, and some
 account of her principal relations and friends. Having relieved her
 mind of these disclosures, she partook of shrimps and porter, and
-evinced a disposition to swear eternal friendship.
+evinced a disposition to swear eternal [[Friendship|friendship]].

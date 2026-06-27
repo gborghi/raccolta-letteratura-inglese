@@ -19,7 +19,7 @@ is somewhat too genuinely savage to be settled by black and white
 civilised definitions.  To express something deeper and older
 than language itself in mere language is a thing to be attempted
 humbly and tentatively; it is, on the whole, rather like trying
-to convey the text of "Hamlet" by a code of naval signals.
+to convey the text of "[[Hamlet]]" by a code of naval signals.
 As far as we can see, the chances are that a savage's religion existed
 long before the oldest ancestor-worship or the simplest teleology.
 Long before he said that the thing which plagued him and
@@ -45,14 +45,14 @@ that he thought Jehovah was his great-uncle. But suppose that Moses said
 (or rather felt), not "Jehovah is the ultimate cause of all things"
 or "Jehovah is my family god," but simply "Jehovah is with me:
 there was one who drove down the great lions so that I could slay them
-and who smote me with the evil pain when I ate the unlawful berries."
+and who smote me with the evil [[Pain|pain]] when I ate the unlawful berries."
 At the beginning and at the end of all life, learned and ignorant,
-there is the abiding truth, that in the inmost theatre of the soul of man,
+there is the abiding [[Truth|truth]], that in the inmost theatre of the [[Soul|soul]] of man,
 with a scenery of bottomless infinities and appalling abstractions,
 there is always going forward one ancient mystery-play, in which there
 are only two characters.
 
-There is one aspect of the thesis of gods against ghosts which we
+There is one aspect of the thesis of gods against [[Ghosts|ghosts]] which we
 should be inclined to suggest to Mr. Andrew Lang rather as a query
 than a divergence of opinion.  Both Mr. Lang and his opponents seem
 to assume that the terminology of ancestor-worship must indicate
@@ -62,9 +62,9 @@ a race of mere tribal heroes forgot the humble Deity who, in creating
 all things, had become the servant of all.  The case of Mr. Spencer
 and the rest of Mr. Lang's opponents is, we imagine, that the title
 of "Creator of all Things" was ultimately bestowed on some ancestral
-hero somewhat as the title of "Brother of the Sun and Moon" might be
+[[Hero|hero]] somewhat as the title of "Brother of the Sun and [[Moon]]" might be
 bestowed on the Emperor of Japan.  In both cases terms of paternity
-and procreation are assumed to represent a tribal superstition.
+and [[Procreation|procreation]] are assumed to represent a tribal superstition.
 But surely it is not impossible that the title of "father" or "procreator"
 might be a higher title for a cosmic creator, instead of "creator"
 being a higher title for a father.  This is at least supported
@@ -76,7 +76,7 @@ This was surely not a degradation:  it was one of the three or four
 dazzling strokes of religious genius which made Jesus what he was.
 By thus raising before all men the vast and generous conception,
 not of a Creator, but of a Begetter of all things, he touched with one
-hand the oldest and with the other the newest philosophy.  He embraced
+hand the oldest and with the other the newest [[philosophy]].  He embraced
 ancestor-worship by propounding a Deity with a touch of kinship.
 He reached out to evolution by announcing a creation by natural causes.
 Surely, even in dealing with the unquestionable superiority of the idea
@@ -100,9 +100,9 @@ legends of shades and spirits might be much better understood
 if we took them in conjunction with recent psychical research.
 We should not complain if Mr. Andrew Lang wrote two books:
 indeed we should rejoice if he wrote twenty.  But we cannot see
-sufficient organic connection between the thesis that ghosts
-might be explained by modern philosophy and the thesis that
-original savage philosophy had nothing to do with ghosts at all.
+sufficient organic connection between the thesis that [[Ghosts|ghosts]]
+might be explained by modern [[philosophy]] and the thesis that
+original savage [[philosophy]] had nothing to do with [[Ghosts|ghosts]] at all.
 We must admit, however, that we think Mr. Andrew Lang's protest
 against the tone of many scientists towards psychical inquiry
 very reasonable.  Spiritualism in itself may be a very poor religion:
@@ -115,9 +115,9 @@ a dull science in considering it an entirely genuine one.
 Huxley was surely amazingly illogical when he declined to hear
 messages from the dead on the ground of their general futility,
 saying that he would take no trouble "to hear the conversation
-of curates and old women in the nearest cathedral town."
+of curates and old women in the nearest [[Cathedral|cathedral]] town."
 The answer is almost staringly obvious.  However low may be
-the mental level of a cathedral town, it can hardly be lower than
+the mental level of a [[Cathedral|cathedral]] town, it can hardly be lower than
 that of the animal world, which Huxley spent his life in studying:
 even a curate is probably wittier than a jelly-fish; and an old woman
 would probably be more fertile in information than an aged amoeba.
@@ -130,7 +130,7 @@ we cannot conceive.  It is true that, for all we ourselves know
 been found in this department.  But no honest man can deny
 that the old, common-sense hypothesis has been as much upset
 by hypnotism and suggestion as it could be by a thousand spectres.
-If any rationalist of the dawn of the century had been asked
+If any rationalist of the [[Dawn|dawn]] of the century had been asked
 to believe that a hypnotist, by thinking hard at another man,
 could produce a blister on his leg, he would have said immediately
-that he would as soon believe in the ghost of Banquo at once.
+that he would as soon believe in the [[Ghost|ghost]] of [[Banquo]] at once.

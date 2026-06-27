@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-“We, in the City, know you better,” replied Carker, with a smile from
+“We, in the [[City]], know you better,” replied Carker, with a smile from
 ear to ear.
 
-“You know me better,” said Mr Dombey. “I hope so. Though, indeed, I am
+“You know me better,” said Mr Dombey. “I [[Hope|hope]] so. Though, indeed, I am
 bound to do Mrs Dombey the justice of saying, however inconsistent it
 may seem with her subsequent conduct (which remains unchanged), that on
 my expressing my disapprobation and determination to her, with some
@@ -47,7 +47,7 @@ eyed it keenly.
 
 “I have approached a painful subject,” he said, in a soft regretful
 tone of voice, irreconcilable with his eager eye. “Pray forgive me. I
-forget these chains of association in the interest I have. Pray forgive
+forget these [[Chains|chains]] of association in the interest I have. Pray forgive
 me.”
 
 But for all he said, his eager eye scanned Mr Dombey’s downcast face
@@ -81,20 +81,20 @@ wife has any superfluous gentleness, and duty over and above her proper
 submission to me, she may bestow them where she pleases, perhaps; but I
 will have submission first!—Carker,” said Mr Dombey, checking the
 unusual emotion with which he had spoken, and falling into a tone more
-like that in which he was accustomed to assert his greatness, “you will
+like that in which he was accustomed to assert his [[Greatness|greatness]], “you will
 have the goodness not to omit or slur this point, but to consider it a
 very important part of your instructions.”
 
 Mr Carker bowed his head, and rising from the table, and standing
-thoughtfully before the fire, with his hand to his smooth chin, looked
+thoughtfully before the [[Fire|fire]], with his hand to his smooth chin, looked
 down at Mr Dombey with the evil slyness of some monkish carving, half
-human and half brute; or like a leering face on an old water-spout. Mr
+human and half brute; or like a leering face on an old [[Water|water]]-spout. Mr
 Dombey, recovering his composure by degrees, or cooling his emotion in
 his sense of having taken a high position, sat gradually stiffening
 again, and looking at the parrot as she swung to and fro, in her great
 wedding ring.
 
-“I beg your pardon,” said Carker, after a silence, suddenly resuming
+“I beg your pardon,” said Carker, after a [[Silence|silence]], suddenly resuming
 his chair, and drawing it opposite to Mr Dombey’s, “but let me
 understand. Mrs Dombey is aware of the probability of your making me
 the organ of your displeasure?”
@@ -111,7 +111,7 @@ with a smile, and softly laying his velvet hand, as a cat might have
 laid its sheathed claws, on Mr Dombey’s arm; “if I perfectly understand
 what is in your mind, I am so much more likely to be useful, and to
 have the happiness of being effectually employed. I think I do
-understand. I have not the honour of Mrs Dombey’s good opinion. In my
+understand. I have not the [[Honour|honour]] of Mrs Dombey’s good opinion. In my
 position, I have no reason to expect it; but I take the fact to be,
 that I have not got it?”
 
@@ -127,9 +127,9 @@ part of it as it presents itself to you and me, Carker. But it may be
 so.”
 
 “And—pardon me—do I misconceive you,” said Carker, “when I think you
-descry in this, a likely means of humbling Mrs Dombey’s pride—I use the
+descry in this, a likely means of humbling Mrs Dombey’s [[Pride|pride]]—I use the
 word as expressive of a quality which, kept within due bounds, adorns
-and graces a lady so distinguished for her beauty and
+and graces a lady so distinguished for her [[Beauty|beauty]] and
 accomplishments—and, not to say of punishing her, but of reducing her
 to the submission you so naturally and justly require?”
 

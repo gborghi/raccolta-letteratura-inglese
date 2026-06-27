@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act III, Scene 3"
+title: "[[Julius Caesar]] — Act III, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
@@ -28,7 +28,7 @@ tags:
 | FOURTH PLEBEIAN | Ay, and wisely. |
 | THIRD PLEBEIAN | Ay, and truly, you were best. |
 | CINNA | What is my name? Whither am I going? Where do I dwell? Am I a married man or a bachelor? Then to answer every man directly and briefly, wisely and truly: wisely, I say, I am a bachelor. |
-| SECOND PLEBEIAN | That’s as much as to say they are fools that marry. You’ll bear me a bang for that, I fear. Proceed directly. |
+| SECOND PLEBEIAN | That’s as much as to say they are fools that marry. You’ll bear me a bang for that, I [[Fear|fear]]. Proceed directly. |
 | CINNA | Directly I am going to Caesar’s funeral. |
 | FIRST PLEBEIAN | As a friend or an enemy? |
 | CINNA | As a friend. |
@@ -44,5 +44,5 @@ tags:
 | FOURTH PLEBEIAN | It is no matter, his name’s Cinna. Pluck but his name out of his heart, and turn him going. |
 | THIRD PLEBEIAN | Tear him, tear him! |
 | *(didascalia)* | They set upon Cinna |
-| THIRD PLEBEIAN | Come, brands, ho! Firebrands! To Brutus’, to Cassius’!<br>Burn all! Some to Decius’ house, and some to Casca’s;<br>some to Ligarius‘. Away, go! |
+| THIRD PLEBEIAN | Come, brands, ho! Firebrands! To [[Brutus]]’, to [[Cassius]]’!<br>Burn all! Some to Decius’ [[house]], and some to [[Casca]]’s;<br>some to Ligarius‘. Away, go! |
 | *(didascalia)* | Exeunt all the Plebeians, with Cinna |

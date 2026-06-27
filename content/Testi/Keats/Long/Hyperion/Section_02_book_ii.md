@@ -1,5 +1,5 @@
 ---
-title: "Hyperion — Book II"
+title: "[[Hyperion]] — Book II"
 author: "Keats"
 unitType: section
 parentWork: "Works/Hyperion-(Keats)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-## HYPERION BOOK II
+## [[Hyperion|HYPERION]] BOOK II
 
-Just at the self-same beat of Time’s wide wings  
-Hyperion slid into the rustled air,  
-And Saturn gain’d with Thea that sad place  
+Just at the [[Self|self]]-same beat of [[Time]]’s wide wings  
+[[Hyperion]] slid into the rustled air,  
+And [[Saturn]] gain’d with Thea that sad place  
 Where Cybele and the bruised Titans mourn’d.  
 It was a den where no insulting light  
-Could glimmer on their tears; where their own groans  
+Could glimmer on their [[Tears|tears]]; where their own groans  
 They felt, but heard not, for the solid roar  
 Of thunderous waterfalls and torrents hoarse,  
 Pouring a constant bulk, uncertain where.  
 Crag jutting forth to crag, and rocks that seem’d  10  
-Ever as if just rising from a sleep,  
+Ever as if just rising from a [[Sleep|sleep]],  
 Forehead to forehead held their monstrous horns;  
 And thus in thousand hugest phantasies  
 Made a fit roofing to this nest of woe.  
@@ -42,10 +42,10 @@ Dungeon’d in opaque element, to keep
 Their clenched teeth still clench’d, and all their limbs  
 Lock’d up like veins of metal, crampt and screw’d;  
 Without a motion, save of their big hearts  
-Heaving in pain, and horribly convuls’d  
+Heaving in [[Pain|pain]], and horribly convuls’d  
 With sanguine feverous boiling gurge of pulse.  
 Mnemosyne was straying in the world;  
-Far from her moon had Phoebe wandered;  30  
+Far from her [[Moon|moon]] had [[Phoebe]] wandered;  30  
 And many else were free to roam abroad,  
 But for the main, here found they covert drear.  
 Scarce images of life, one here, one there,  
@@ -53,9 +53,9 @@ Lay vast and edgeways; like a dismal cirque
 Of Druid stones, upon a forlorn moor,  
 When the chill rain begins at shut of eve,  
 In dull November, and their chancel vault,  
-The Heaven itself, is blinded throughout night.  
+The Heaven itself, is blinded throughout [[Night|night]].  
 Each one kept shroud, nor to his neighbour gave  
-Or word, or look, or action of despair.  40  
+Or word, or look, or action of [[Despair|despair]].  40  
 Creüs was one; his ponderous iron mace  
 Lay by him, and a shatter’d rib of rock  
 Told of his rage, ere he thus sank and pined.  
@@ -63,9 +63,9 @@ Iäpetus another; in his grasp,
 A serpent’s plashy neck; its barbed tongue  
 Squeez’d from the gorge, and all its uncurl’d length  
 Dead; and because the creature could not spit  
-Its poison in the eyes of conquering Jove.  
+Its [[Poison|poison]] in the eyes of conquering Jove.  
 Next Cottus: prone he lay, chin uppermost,  
-As though in pain; for still upon the flint  50  
+As though in [[Pain|pain]]; for still upon the flint  50  
 He ground severe his skull, with open mouth  
 And eyes at horrid working. Nearest him  
 Asia, born of most enormous Caf,  
@@ -73,19 +73,19 @@ Who cost her mother Tellus keener pangs,
 Though feminine, than any of her sons:  
 More thought than woe was in her dusky face,  
 For she was prophesying of her glory;  
-And in her wide imagination stood  
+And in her wide [[Imagination|imagination]] stood  
 Palm-shaded temples, and high rival fanes,  
 By Oxus or in Ganges’ sacred isles.  60  
-Even as Hope upon her anchor leans,  
+Even as [[Hope]] upon her anchor leans,  
 So leant she, not so fair, upon a tusk  
 Shed from the broadest of her elephants.  
 Above her, on a crag’s uneasy shelve,  
 Upon his elbow rais’d, all prostrate else,  
-Shadow’d Enceladus; once tame and mild  
+[[Shadow]]’d Enceladus; once tame and mild  
 As grazing ox unworried in the meads;  
-Now tiger-passion’d, lion-thoughted, wroth,  
+Now tiger-passion’d, [[Lion|lion]]-thoughted, wroth,  
 He meditated, plotted, and even now  
-Was hurling mountains in that second war,  70  
+Was hurling [[Mountains|mountains]] in that second war,  70  
 Not long delay’d, that scar’d the younger Gods  
 To hide themselves in forms of beast and bird.  
 Not far hence Atlas; and beside him prone  
@@ -93,35 +93,35 @@ Phorcus, the sire of Gorgons. Neighbour’d close
 Oceanus, and Tethys, in whose lap  
 Sobb’d Clymene among her tangled hair.  
 In midst of all lay Themis, at the feet  
-Of Ops the queen all clouded round from sight;  
+Of Ops the [[Queen|queen]] all clouded round from sight;  
 No shape distinguishable, more than when  
-Thick night confounds the pine-tops with the clouds:  80  
+Thick [[Night|night]] confounds the pine-tops with the clouds:  80  
 And many else whose names may not be told.  
 For when the Muse’s wings are air-ward spread,  
 Who shall delay her flight? And she must chaunt  
-Of Saturn, and his guide, who now had climb’d  
+Of [[Saturn]], and his guide, who now had climb’d  
 With damp and slippery footing from a depth  
 More horrid still. Above a sombre cliff  
 Their heads appear’d, and up their stature grew  
 Till on the level height their steps found ease:  
 Then Thea spread abroad her trembling arms  
-Upon the precincts of this nest of pain, 90  
-And sidelong fix’d her eye on Saturn’s face:  
+Upon the precincts of this nest of [[Pain|pain]], 90  
+And sidelong fix’d her eye on [[Saturn]]’s face:  
 There saw she direst strife; the supreme God  
 At war with all the frailty of grief,  
-Of rage, of fear, anxiety, revenge,  
-Remorse, spleen, hope, but most of all despair.  
+Of rage, of [[Fear|fear]], anxiety, [[Revenge|revenge]],  
+Remorse, spleen, [[Hope|hope]], but most of all [[Despair|despair]].  
 Against these plagues he strove in vain; for Fate  
 Had pour’d a mortal oil upon his head,  
-A disanointing poison: so that Thea,  
+A disanointing [[Poison|poison]]: so that Thea,  
 Affrighted, kept her still, and let him pass  
 First onwards in, among the fallen tribe.  100  
 
 As with us mortal men, the laden heart  
 Is persecuted more, and fever’d more,  
-When it is nighing to the mournful house  
+When it is nighing to the mournful [[house]]  
 Where other hearts are sick of the same bruise;  
-So Saturn, as he walk’d into the midst,  
+So [[Saturn]], as he walk’d into the midst,  
 Felt faint, and would have sunk among the rest,  
 But that he met Enceladus’s eye,  
 Whose mightiness, and awe of him, at once  
@@ -133,7 +133,7 @@ And Ops, uplifting her black folded veil,
 Show’d her pale cheeks, and all her forehead wan,  
 Her eye-brows thin and jet, and hollow eyes.  
 There is a roaring in the bleak-grown pines  
-When Winter lifts his voice; there is a noise  
+When [[Winter]] lifts his voice; there is a noise  
 Among immortals when a God gives sign,  
 With hushing finger, how he means to load  
 His tongue with the full weight of utterless thought, 120  
@@ -141,7 +141,7 @@ With thunder, and with music, and with pomp:
 Such noise is like the roar of bleak-grown pines;  
 Which, when it ceases in this mountain’d world,  
 No other sound succeeds; but ceasing here,  
-Among these fallen, Saturn’s voice therefrom  
+Among these fallen, [[Saturn]]’s voice therefrom  
 Grew up like organ, that begins anew  
 Its strain, when other harmonies, stopt short,  
 Leave the dinn’d air vibrating silverly.  
@@ -156,18 +156,18 @@ Low-ebb’d still hid it up in shallow gloom;--
 And the which book ye know I ever kept  
 For my firm-based footstool:--Ah, infirm!  
 Not there, nor in sign, symbol, or portent  
-Of element, earth, water, air, and fire,--  140  
+Of element, earth, [[Water|water]], air, and [[Fire|fire]],--  140  
 At war, at peace, or inter-quarreling  
 One against one, or two, or three, or all  
 Each several one against the other three,  
-As fire with air loud warring when rain-floods  
+As [[Fire|fire]] with air loud warring when rain-floods  
 Drown both, and press them both against earth’s face,  
 Where, finding sulphur, a quadruple wrath  
 Unhinges the poor world;--not in that strife,  
 Wherefrom I take strange lore, and read it deep,  
 Can I find reason why ye should be thus:  
 No, no-where can unriddle, though I search,  150  
-And pore on Nature’s universal scroll  
+And pore on [[Nature]]’s universal scroll  
 Even to swooning, why ye, Divinities,  
 The first-born of all shap’d and palpable Gods,  
 Should cower beneath what, in comparison,  
@@ -178,33 +178,33 @@ Shall I say ‘Crouch!’--Ye groan. What can I then?
 O Heaven wide! O unseen parent dear!  
 What can I? Tell me, all ye brethren Gods,  160  
 How we can war, how engine our great wrath!  
-O speak your counsel now, for Saturn’s ear  
+O speak your counsel now, for [[Saturn]]’s ear  
 Is all a-hunger’d. Thou, Oceanus,  
 Ponderest high and deep; and in thy face  
 I see, astonied, that severe content  
 Which comes of thought and musing: give us help!”  
 
-So ended Saturn; and the God of the Sea,  
+So ended [[Saturn]]; and the God of the Sea,  
 Sophist and sage, from no Athenian grove,  
 But cogitation in his watery shades,  
 Arose, with locks not oozy, and began,  170  
 In murmurs, which his first-endeavouring tongue  
 Caught infant-like from the far-foamed sands.  
 “O ye, whom wrath consumes! who, passion-stung,  
-Writhe at defeat, and nurse your agonies!  
+Writhe at defeat, and [[Nurse|nurse]] your agonies!  
 Shut up your senses, stifle up your ears,  
 My voice is not a bellows unto ire.  
 Yet listen, ye who will, whilst I bring proof  
 How ye, perforce, must be content to stoop:  
 And in the proof much comfort will I give,  
-If ye will take that comfort in its truth.  180  
-We fall by course of Nature’s law, not force  
-Of thunder, or of Jove. Great Saturn, thou  
-Hast sifted well the atom-universe;  
-But for this reason, that thou art the King,  
+If ye will take that comfort in its [[Truth|truth]].  180  
+We fall by course of [[Nature]]’s law, not force  
+Of thunder, or of Jove. Great [[Saturn]], thou  
+Hast sifted [[Well|well]] the atom-universe;  
+But for this reason, that thou art the [[King]],  
 And only blind from sheer supremacy,  
 One avenue was shaded from thine eyes,  
-Through which I wandered to eternal truth.  
+Through which I wandered to eternal [[Truth|truth]].  
 And first, as thou wast not the first of powers,  
 So art thou not the last; it cannot be:  
 Thou art not the beginning nor the end. 190  
@@ -219,10 +219,10 @@ Upon that very hour, our parentage,
 The Heavens and the Earth, were manifest:  
 Then thou first-born, and we the giant-race,  200  
 Found ourselves ruling new and beauteous realms.  
-Now comes the pain of truth, to whom ’tis pain;  
+Now comes the [[Pain|pain]] of [[Truth|truth]], to whom ’tis [[Pain|pain]];  
 O folly! for to bear all naked truths,  
 And to envisage circumstance, all calm,  
-That is the top of sovereignty. Mark well!  
+That is the top of sovereignty. Mark [[Well|well]]!  
 As Heaven and Earth are fairer, fairer far  
 Than Chaos and blank Darkness, though once chiefs;  
 And as we show beyond that Heaven and Earth  
@@ -230,7 +230,7 @@ In form and shape compact and beautiful,
 In will, in action free, companionship, 210  
 And thousand other signs of purer life;  
 So on our heels a fresh perfection treads,  
-A power more strong in beauty, born of us  
+A power more strong in [[Beauty|beauty]], born of us  
 And fated to excel us, as we pass  
 In glory that old Darkness: nor are we  
 Thereby more conquer’d, than by us the rule  
@@ -244,9 +244,9 @@ To wander wherewithal and find its joys?
 We are such forest-trees, and our fair boughs  
 Have bred forth, not pale solitary doves,  
 But eagles golden-feather’d, who do tower  
-Above us in their beauty, and must reign  
+Above us in their [[Beauty|beauty]], and must reign  
 In right thereof; for ’tis the eternal law  
-That first in beauty should be first in might:  
+That first in [[Beauty|beauty]] should be first in might:  
 Yea, by that law, another race may drive  230  
 Our conquerors to mourn as we do now.  
 Have ye beheld the young God of the Seas,  
@@ -254,16 +254,16 @@ My dispossessor? Have ye seen his face?
 Have ye beheld his chariot, foam’d along  
 By noble winged creatures he hath made?  
 I saw him on the calmed waters scud,  
-With such a glow of beauty in his eyes,  
+With such a glow of [[Beauty|beauty]] in his eyes,  
 That it enforc’d me to bid sad farewell  
 To all my empire: farewell sad I took,  
 And hither came, to see how dolorous fate  240  
 Had wrought upon ye; and how I might best  
 Give consolation in this woe extreme.  
-Receive the truth, and let it be your balm.”  
+Receive the [[Truth|truth]], and let it be your balm.”  
 
 Whether through poz’d conviction, or disdain,  
-They guarded silence, when Oceanus  
+They guarded [[Silence|silence]], when Oceanus  
 Left murmuring, what deepest thought can tell?  
 But so it was, none answer’d for a space,  
 Save one whom none regarded, Clymene;  
@@ -273,33 +273,33 @@ Thus wording timidly among the fierce:
 “O Father, I am here the simplest voice,  
 And all my knowledge is that joy is gone,  
 And this thing woe crept in among our hearts,  
-There to remain for ever, as I fear:  
+There to remain for ever, as I [[Fear|fear]]:  
 I would not bode of evil, if I thought  
 So weak a creature could turn off the help  
 Which by just right should come of mighty Gods;  
 Yet let me tell my sorrow, let me tell  
 Of what I heard, and how it made me weep,  260  
-And know that we had parted from all hope.  
+And know that we had parted from all [[Hope|hope]].  
 I stood upon a shore, a pleasant shore,  
 Where a sweet clime was breathed from a land  
-Of fragrance, quietness, and trees, and flowers.  
+Of fragrance, quietness, and trees, and [[Flowers|flowers]].  
 Full of calm joy it was, as I of grief;  
 Too full of joy and soft delicious warmth;  
 So that I felt a movement in my heart  
-To chide, and to reproach that solitude  
-With songs of misery, music of our woes;  
+To chide, and to reproach that [[Solitude|solitude]]  
+With [[songs]] of misery, music of our woes;  
 And sat me down, and took a mouthed shell  270  
 And murmur’d into it, and made melody--  
 O melody no more! for while I sang,  
 And with poor skill let pass into the breeze  
 The dull shell’s echo, from a bowery strand  
 Just opposite, an island of the sea,  
-There came enchantment with the shifting wind,  
+There came enchantment with the shifting [[Wind|wind]],  
 That did both drown and keep alive my ears.  
 I threw my shell away upon the sand,  
 And a wave fill’d it, as my sense was fill’d  
 With that new blissful golden melody.  280  
-A living death was in each gush of sounds,  
+A living [[Death|death]] was in each gush of sounds,  
 Each family of rapturous hurried notes,  
 That fell, one after one, yet all at once,  
 Like pearl beads dropping sudden from their string:  
@@ -311,19 +311,19 @@ Of joy and grief at once. Grief overcame,
 And I was stopping up my frantic ears,  290  
 When, past all hindrance of my trembling hands,  
 A voice came sweeter, sweeter than all tune,  
-And still it cried, ‘Apollo! young Apollo!  
-The morning-bright Apollo! young Apollo!’  
-I fled, it follow’d me, and cried ‘Apollo!’  
+And still it cried, ‘[[Apollo]]! young [[Apollo]]!  
+The morning-bright [[Apollo]]! young [[Apollo]]!’  
+I fled, it follow’d me, and cried ‘[[Apollo]]!’  
 O Father, and O Brethren, had ye felt  
-Those pains of mine; O Saturn, hadst thou felt,  
+Those pains of mine; O [[Saturn]], hadst thou felt,  
 Ye would not call this too indulged tongue  
 Presumptuous, in thus venturing to be heard.”  
 
 So far her voice flow’d on, like timorous brook  300  
 That, lingering along a pebbled coast,  
-Doth fear to meet the sea: but sea it met,  
+Doth [[Fear|fear]] to meet the sea: but sea it met,  
 And shudder’d; for the overwhelming voice  
-Of huge Enceladus swallow’d it in wrath:  
+Of huge Enceladus [[Swallow|swallow]]’d it in wrath:  
 The ponderous syllables, like sullen waves  
 In the half-glutted hollows of reef-rocks,  
 Came booming thus, while still upon his arm  
@@ -331,7 +331,7 @@ He lean’d; not rising, from supreme contempt.
 “Or shall we listen to the over-wise,  
 Or to the over-foolish, Giant-Gods?  310  
 Not thunderbolt on thunderbolt, till all  
-That rebel Jove’s whole armoury were spent,  
+That [[Rebel|rebel]] Jove’s whole armoury were spent,  
 Not world on world upon these shoulders piled,  
 Could agonize me more than baby-words  
 In midst of this dethronement horrible.  
@@ -343,40 +343,40 @@ Thy scalding in the seas? What, have I rous’d  320
 Your spleens with so few simple words as these?  
 O joy! for now I see ye are not lost:  
 O joy! for now I see a thousand eyes  
-Wide glaring for revenge!”--As this he said,  
+Wide glaring for [[Revenge|revenge]]!”--As this he said,  
 He lifted up his stature vast, and stood,  
 Still without intermission speaking thus:  
 “Now ye are flames, I’ll tell you how to burn,  
 And purge the ether of our enemies;  
-How to feed fierce the crooked stings of fire,  
+How to feed fierce the crooked stings of [[Fire|fire]],  
 And singe away the swollen clouds of Jove,  330  
 Stifling that puny essence in its tent.  
 O let him feel the evil he hath done;  
 For though I scorn Oceanus’s lore,  
-Much pain have I for more than loss of realms:  
+Much [[Pain|pain]] have I for more than loss of realms:  
 The days of peace and slumberous calm are fled;  
-Those days, all innocent of scathing war,  
+Those days, all [[Innocent|innocent]] of scathing war,  
 When all the fair Existences of heaven  
 Came open-eyed to guess what we would speak:--  
 That was before our brows were taught to frown,  
 Before our lips knew else but solemn sounds;  340  
 That was before we knew the winged thing,  
 Victory, might be lost, or might be won.  
-And be ye mindful that Hyperion,  
+And be ye mindful that [[Hyperion]],  
 Our brightest brother, still is undisgraced--  
-Hyperion, lo! his radiance is here!”  
+[[Hyperion]], lo! his radiance is here!”  
 
 All eyes were on Enceladus’s face,  
-And they beheld, while still Hyperion’s name  
+And they beheld, while still [[Hyperion]]’s name  
 Flew from his lips up to the vaulted rocks,  
 A pallid gleam across his features stern:  
 Not savage, for he saw full many a God  350  
 Wroth as himself. He look’d upon them all,  
 And in each face he saw a gleam of light,  
-But splendider in Saturn’s, whose hoar locks  
+But splendider in [[Saturn]]’s, whose hoar locks  
 Shone like the bubbling foam about a keel  
 When the prow sweeps into a midnight cove.  
-In pale and silver silence they remain’d,  
+In pale and silver [[Silence|silence]] they remain’d,  
 Till suddenly a splendour, like the morn,  
 Pervaded all the beetling gloomy steeps,  
 All the sad spaces of oblivion,  
@@ -387,7 +387,7 @@ And all the everlasting cataracts,
 And all the headlong torrents far and near,  
 Mantled before in darkness and huge shade,  
 Now saw the light and made it terrible.  
-It was Hyperion:--a granite peak  
+It was [[Hyperion]]:--a granite peak  
 His bright feet touch’d, and there he stay’d to view  
 The misery his brilliance had betray’d  
 To the most hateful seeing of itself.  370  
@@ -398,17 +398,17 @@ Of Memnon’s image at the set of sun
 To one who travels from the dusking East:  
 Sighs, too, as mournful as that Memnon’s harp  
 He utter’d, while his hands contemplative  
-He press’d together, and in silence stood.  
+He press’d together, and in [[Silence|silence]] stood.  
 Despondence seiz’d again the fallen Gods  
-At sight of the dejected King of Day,  380  
+At sight of the dejected [[King]] of Day,  380  
 And many hid their faces from the light:  
 But fierce Enceladus sent forth his eyes  
 Among the brotherhood; and, at their glare,  
 Uprose Iäpetus, and Creüs too,  
 And Phorcus, sea-born, and together strode  
 To where he towered on his eminence.  
-There those four shouted forth old Saturn’s name;  
-Hyperion from the peak loud answered, “Saturn!”  
-Saturn sat near the Mother of the Gods,  
+There those four shouted forth old [[Saturn]]’s name;  
+[[Hyperion]] from the peak loud answered, “[[Saturn]]!”  
+[[Saturn]] sat near the Mother of the Gods,  
 In whose face was no joy, though all the Gods  390  
-Gave from their hollow throats the name of “Saturn!”  
+Gave from their hollow throats the name of “[[Saturn]]!”  

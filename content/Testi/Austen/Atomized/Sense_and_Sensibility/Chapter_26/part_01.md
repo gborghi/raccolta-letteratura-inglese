@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 26 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XXVI.
 
 Elinor could not find herself in the carriage with Mrs. Jennings, and
 
-beginning a journey to London under her protection, and as her guest,
+beginning a [[Journey|journey]] to [[London]] under her protection, and as her guest,
 
 without wondering at her own situation, so short had their acquaintance
 
@@ -34,11 +34,11 @@ only a few days before! But these objections had all, with that happy
 
 ardour of youth which Marianne and her mother equally shared, been
 
-overcome or overlooked; and Elinor, in spite of every occasional doubt
+overcome or overlooked; and Elinor, in spite of every occasional [[Doubt|doubt]]
 
 of Willoughby’s constancy, could not witness the rapture of delightful
 
-expectation which filled the whole soul and beamed in the eyes of
+expectation which filled the whole [[Soul|soul]] and beamed in the eyes of
 
 Marianne, without feeling how blank was her own prospect, how cheerless
 
@@ -46,9 +46,9 @@ her own state of mind in the comparison, and how gladly she would
 
 engage in the solicitude of Marianne’s situation to have the same
 
-animating object in view, the same possibility of hope. A short, a very
+animating object in view, the same possibility of [[Hope|hope]]. A short, a very
 
-short time however must now decide what Willoughby’s intentions were;
+short [[Time|time]] however must now decide what Willoughby’s intentions were;
 
 in all probability he was already in town. Marianne’s eagerness to be
 
@@ -68,7 +68,7 @@ observations be unfavourable, she was determined at all events to open
 
 the eyes of her sister; should it be otherwise, her exertions would be
 
-of a different nature—she must then learn to avoid every selfish
+of a different [[Nature|nature]]—she must then learn to avoid every selfish
 
 comparison, and banish every regret which might lessen her satisfaction
 
@@ -76,15 +76,15 @@ in the happiness of Marianne.
 
 
 
-They were three days on their journey, and Marianne’s behaviour as they
+They were three days on their [[Journey|journey]], and Marianne’s behaviour as they
 
 travelled was a happy specimen of what future complaisance and
 
 companionableness to Mrs. Jennings might be expected to be. She sat in
 
-silence almost all the way, wrapt in her own meditations, and scarcely
+[[Silence|silence]] almost all the way, wrapt in her own meditations, and scarcely
 
-ever voluntarily speaking, except when any object of picturesque beauty
+ever voluntarily speaking, except when any object of picturesque [[Beauty|beauty]]
 
 within their view drew from her an exclamation of delight exclusively
 
@@ -106,15 +106,15 @@ own dinners at the inn, nor extort a confession of their preferring
 
 salmon to cod, or boiled fowls to veal cutlets. They reached town by
 
-three o’clock the third day, glad to be released, after such a journey,
+three o’[[Clock|clock]] the third day, glad to be released, after such a [[Journey|journey]],
 
 from the confinement of a carriage, and ready to enjoy all the luxury
 
-of a good fire.
+of a good [[Fire|fire]].
 
 
 
-The house was handsome, and handsomely fitted up, and the young ladies
+The [[house]] was handsome, and handsomely fitted up, and the young ladies
 
 were immediately put in possession of a very comfortable apartment. It
 
@@ -132,7 +132,7 @@ arrival, Elinor determined to employ the interval in writing to her
 
 mother, and sat down for that purpose. In a few moments Marianne did
 
-the same. “_I_ am writing home, Marianne,” said Elinor; “had not you
+the same. “_I_ am writing [[Home|home]], Marianne,” said Elinor; “had not you
 
 better defer your letter for a day or two?”
 
@@ -186,7 +186,7 @@ things were brought in, and already had Marianne been disappointed more
 
 than once by a rap at a neighbouring door, when a loud one was suddenly
 
-heard which could not be mistaken for one at any other house, Elinor
+heard which could not be mistaken for one at any other [[house]], Elinor
 
 felt secure of its announcing Willoughby’s approach, and Marianne,
 
@@ -204,7 +204,7 @@ she could not help exclaiming, “Oh, Elinor, it is Willoughby, indeed it
 
 is!” and seemed almost ready to throw herself into his arms, when
 
-Colonel Brandon appeared.
+[[Colonel Brandon]] appeared.
 
 
 

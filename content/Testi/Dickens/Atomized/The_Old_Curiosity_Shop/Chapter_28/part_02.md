@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-‘It’ll look well enough when it comes to be finished,’ observed Mrs
+‘It’ll look [[Well|well]] enough when it comes to be finished,’ observed Mrs
 Jarley.
 
-‘Well enough!’ said Mr Slum.  ‘Will you believe me when I say it’s the
+‘[[Well]] enough!’ said Mr Slum.  ‘Will you believe me when I say it’s the
 delight of my life to have dabbled in poetry, when I think I’ve
 exercised my pen upon this charming theme?  By the way--any orders?  Is
 there any little thing I can do for you?’
@@ -41,14 +41,14 @@ Jarley?’
 
 ‘Yes, surely.’
 
-‘Then upon my soul and honour, ma’am, you’ll find in a certain angle of
+‘Then upon my [[Soul|soul]] and [[Honour|honour]], ma’am, you’ll find in a certain angle of
 that dreary pile, called Poets’ Corner, a few smaller names than Slum,’
 retorted that gentleman, tapping himself expressively on the forehead
 to imply that there was some slight quantity of brain behind it.  ‘I’ve
 got a little trifle here, now,’ said Mr Slum, taking off his hat which
 was full of scraps of paper, ‘a little trifle here, thrown off in the
 heat of the moment, which I should say was exactly the thing you wanted
-to set this place on fire with.  It’s an acrostic--the name at this
+to set this place on [[Fire|fire]] with.  It’s an acrostic--the name at this
 moment is Warren, and the idea’s a convertible one, and a positive
 inspiration for Jarley.  Have the acrostic.’
 
@@ -85,15 +85,15 @@ intensely nowhere, and staring with extraordinary earnestness at
 nothing.
 
 When Nell had exhausted her first raptures at this glorious sight, Mrs
-Jarley ordered the room to be cleared of all but herself and the child,
+Jarley ordered the room to be cleared of all but herself and the [[Child|child]],
 and, sitting herself down in an arm-chair in the centre, formally
 invested Nell with a willow wand, long used by herself for pointing out
 the characters, and was at great pains to instruct her in her duty.
 
 ‘That,’ said Mrs Jarley in her exhibition tone, as Nell touched a
 figure at the beginning of the platform, ‘is an unfortunate Maid of
-Honour in the Time of Queen Elizabeth, who died from pricking her
-finger in consequence of working upon a Sunday.  Observe the blood
+[[Honour]] in the [[Time]] of [[Queen Elizabeth]], who died from pricking her
+finger in consequence of working upon a [[Sunday]].  Observe the [[Blood|blood]]
 which is trickling from her finger; also the gold-eyed needle of the
 period, with which she is at work.’
 
@@ -101,9 +101,9 @@ All this, Nell repeated twice or thrice: pointing to the finger and the
 needle at the right times: and then passed on to the next.
 
 ‘That, ladies and gentlemen,’ said Mrs Jarley, ‘is Jasper Packlemerton
-of atrocious memory, who courted and married fourteen wives, and
+of atrocious [[Memory|memory]], who courted and married fourteen wives, and
 destroyed them all, by tickling the soles of their feet when they were
-sleeping in the consciousness of innocence and virtue.  On being
+sleeping in the consciousness of [[innocence]] and virtue.  On being
 brought to the scaffold and asked if he was sorry for what he had done,
 he replied yes, he was sorry for having let ‘em off so easy, and hoped
 all Christian husbands would pardon him the offence.  Let this be a
@@ -117,22 +117,22 @@ faltering, Mrs Jarley passed on to the fat man, and then to the thin
 man, the tall man, the short man, the old lady who died of dancing at a
 hundred and thirty-two, the wild boy of the woods, the woman who
 poisoned fourteen families with pickled walnuts, and other historical
-characters and interesting but misguided individuals.  And so well did
+characters and interesting but misguided individuals.  And so [[Well|well]] did
 Nell profit by her instructions, and so apt was she to remember them,
-that by the time they had been shut up together for a couple of hours,
-she was in full possession of the history of the whole establishment,
+that by the [[Time|time]] they had been shut up together for a couple of hours,
+she was in full possession of the [[history]] of the whole establishment,
 and perfectly competent to the enlightenment of visitors.
 
 Mrs Jarley was not slow to express her admiration at this happy result,
 and carried her young friend and pupil to inspect the remaining
 arrangements within doors, by virtue of which the passage had been
-already converted into a grove of green-baize hung with the inscription
+already converted into a grove of green-baize hung with the [[Inscription|inscription]]
 she had already seen (Mr Slum’s productions), and a highly ornamented
 table placed at the upper end for Mrs Jarley herself, at which she was
-to preside and take the money, in company with his Majesty King George
-the Third, Mr Grimaldi as clown, Mary Queen of Scots, an anonymous
-gentleman of the Quaker persuasion, and Mr Pitt holding in his hand a
-correct model of the bill for the imposition of the window duty.  The
+to preside and take the money, in company with his Majesty [[King]] George
+the Third, Mr Grimaldi as clown, Mary [[Queen]] of Scots, an anonymous
+gentleman of the Quaker [[Persuasion|persuasion]], and Mr Pitt holding in his hand a
+correct model of the bill for the imposition of the [[Window|window]] duty.  The
 preparations without doors had not been neglected either; a nun of
 great personal attractions was telling her beads on the little portico
 over the door; and a brigand with the blackest possible head of hair,
@@ -141,8 +141,8 @@ the town in a cart, consulting the miniature of a lady.
 
 It now only remained that Mr Slum’s compositions should be judiciously
 distributed; that the pathetic effusions should find their way to all
-private houses and tradespeople; and that the parody commencing ‘If I
-know’d a donkey,’ should be confined to the taverns, and circulated
+private houses and tradespeople; and that the [[Parody|parody]] commencing ‘If I
+know’d a [[donkey]],’ should be confined to the taverns, and circulated
 only among the lawyers’ clerks and choice spirits of the place.  When
 this had been done, and Mrs Jarley had waited upon the boarding-schools
 in person, with a handbill composed expressly for them, in which it was

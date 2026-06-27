@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 15: FIFTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,48 +19,48 @@ CHAPTER FIFTEEN
 THE BURDEN WHEREOF, IS HAIL COLUMBIA!
 
 
-A dark and dreary night; people nestling in their beds or circling
-late about the fire; Want, colder than Charity, shivering at the street
+A dark and dreary [[Night|night]]; people nestling in their beds or circling
+late about the [[Fire|fire]]; Want, colder than [[Charity]], shivering at the street
 corners; church-towers humming with the faint vibration of their own
 tongues, but newly resting from the ghostly preachment ‘One!’ The earth
 covered with a sable pall as for the burial of yesterday; the clumps of
 dark trees, its giant plumes of funeral feathers, waving sadly to and
 fro: all hushed, all noiseless, and in deep repose, save the swift
-clouds that skim across the moon, and the cautious wind, as, creeping
+clouds that skim across the [[Moon|moon]], and the cautious [[Wind|wind]], as, creeping
 after them upon the ground, it stops to listen, and goes rustling on,
 and stops again, and follows, like a savage on the trail.
 
-Whither go the clouds and wind so eagerly? If, like guilty spirits, they
+Whither go the clouds and [[Wind|wind]] so eagerly? If, like guilty spirits, they
 repair to some dread conference with powers like themselves, in what
 wild regions do the elements hold council, or where unbend in terrible
 disport?
 
-Here! Free from that cramped prison called the earth, and out upon the
-waste of waters. Here, roaring, raging, shrieking, howling, all night
+Here! Free from that cramped [[Prison|prison]] called the earth, and out upon the
+waste of waters. Here, roaring, raging, shrieking, howling, all [[Night|night]]
 long. Hither come the sounding voices from the caverns on the coast of
 that small island, sleeping, a thousand miles away, so quietly in the
 midst of angry waves; and hither, to meet them, rush the blasts from
-unknown desert places of the world. Here, in the fury of their unchecked
-liberty, they storm and buffet with each other, until the sea, lashed
+unknown [[Desert|desert]] places of the world. Here, in the fury of their unchecked
+liberty, they [[Storm|storm]] and buffet with each other, until the sea, lashed
 into passion like their own, leaps up, in ravings mightier than theirs,
-and the whole scene is madness.
+and the whole scene is [[Madness|madness]].
 
 On, on, on, over the countless miles of angry space roll the long
-heaving billows. Mountains and caves are here, and yet are not; for
+heaving billows. [[Mountains]] and caves are here, and yet are not; for
 what is now the one, is now the other; then all is but a boiling heap of
-rushing water. Pursuit, and flight, and mad return of wave on wave, and
+rushing [[Water|water]]. Pursuit, and flight, and mad return of wave on wave, and
 savage struggle, ending in a spouting-up of foam that whitens the
-black night; incessant change of place, and form, and hue; constancy in
+black [[Night|night]]; incessant change of place, and form, and hue; constancy in
 nothing, but eternal strife; on, on, on, they roll, and darker grows the
-night, and louder howls the wind, and more clamorous and fierce become
+[[Night|night]], and louder howls the [[Wind|wind]], and more clamorous and fierce become
 the million voices in the sea, when the wild cry goes forth upon the
-storm ‘A ship!’
+[[Storm|storm]] ‘A [[Ship|ship]]!’
 
 Onward she comes, in gallant combat with the elements, her tall masts
 trembling, and her timbers starting on the strain; onward she comes, now
 high upon the curling billows, now low down in the hollows of the sea,
-as hiding for the moment from its fury; and every storm-voice in the air
-and water cries more loudly yet, ‘A ship!’
+as hiding for the moment from its fury; and every [[Storm|storm]]-voice in the air
+and [[Water|water]] cries more loudly yet, ‘A [[Ship|ship]]!’
 
 Still she comes striving on; and at her boldness and the spreading cry,
 the angry waves rise up above each other’s hoary heads to look; and
@@ -70,38 +70,38 @@ and rushing forward from afar, in dreadful curiosity. High over her
 they break; and round her surge and roar; and giving place to others,
 moaningly depart, and dash themselves to fragments in their baffled
 anger. Still she comes onward bravely. And though the eager multitude
-crowd thick and fast upon her all the night, and dawn of day discovers
-the untiring train yet bearing down upon the ship in an eternity of
-troubled water, onward she comes, with dim lights burning in her hull,
+crowd thick and fast upon her all the [[Night|night]], and [[Dawn|dawn]] of day discovers
+the untiring train yet bearing down upon the [[Ship|ship]] in an [[Eternity|eternity]] of
+troubled [[Water|water]], onward she comes, with dim lights burning in her hull,
 and people there, asleep; as if no deadly element were peering in at
-every seam and chink, and no drowned seaman’s grave, with but a plank to
+every seam and chink, and no drowned seaman’s [[Grave|grave]], with but a plank to
 cover it, were yawning in the unfathomable depths below.
 
-Among these sleeping voyagers were Martin and Mark Tapley, who, rocked
+Among these sleeping voyagers were Martin and [[Mark Tapley]], who, rocked
 into a heavy drowsiness by the unaccustomed motion, were as insensible
 to the foul air in which they lay, as to the uproar without. It was
 broad day when the latter awoke with a dim idea that he was dreaming
-of having gone to sleep in a four-post bedstead which had turned bottom
-upwards in the course of the night. There was more reason in this too,
+of having gone to [[Sleep|sleep]] in a four-post bedstead which had turned [[Bottom|bottom]]
+upwards in the course of the [[Night|night]]. There was more reason in this too,
 than in the roasting of eggs; for the first objects Mr Tapley recognized
 when he opened his eyes were his own heels--looking down to him, as he
 afterwards observed, from a nearly perpendicular elevation.
 
-‘Well!’ said Mark, getting himself into a sitting posture, after various
-ineffectual struggles with the rolling of the ship. ‘This is the first
-time as ever I stood on my head all night.’
+‘[[Well]]!’ said Mark, getting himself into a sitting posture, after various
+ineffectual struggles with the [[rolling]] of the [[Ship|ship]]. ‘This is the first
+[[Time|time]] as ever I stood on my head all [[Night|night]].’
 
-‘You shouldn’t go to sleep upon the ground with your head to leeward
+‘You shouldn’t go to [[Sleep|sleep]] upon the ground with your head to leeward
 then,’ growled a man in one of the berths.
 
 ‘With my head to WHERE?’ asked Mark.
 
 The man repeated his previous sentiment.
 
-‘No, I won’t another time,’ said Mark, ‘when I know whereabouts on the
+‘No, I won’t another [[Time|time]],’ said Mark, ‘when I know whereabouts on the
 map that country is. In the meanwhile I can give you a better piece of
-advice. Don’t you nor any other friend of mine never go to sleep with
-his head in a ship any more.’
+advice. Don’t you nor any other friend of mine never go to [[Sleep|sleep]] with
+his head in a [[Ship|ship]] any more.’
 
 The man gave a grunt of discontented acquiescence, turned over in his
 berth, and drew his blanket over his head.

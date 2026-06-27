@@ -48,7 +48,7 @@ tags:
 
       what business ye have here, rigged off like the foul fiends, and
 
-      swilling the snug blue ruin stowed away for the winter by my
+      swilling the snug blue ruin stowed away for the [[Winter|winter]] by my
 
       honest shipmate, Will Wimble, the undertaker!”
 
@@ -74,15 +74,15 @@ tags:
 
       that in these dominions I am monarch, and here rule with
 
-      undivided empire under the title of ‘King Pest the First.’
+      undivided empire under the title of ‘[[King]] Pest the First.’
 
 
 
-      “This apartment, which you no doubt profanely suppose to be the
+      “This apartment, which you no [[Doubt|doubt]] profanely suppose to be the
 
       shop of Will Wimble the undertaker—a man whom we know not, and
 
-      whose plebeian appellation has never before this night thwarted
+      whose plebeian appellation has never before this [[Night|night]] thwarted
 
       our royal ears—this apartment, I say, is the Dais-Chamber of our
 
@@ -92,11 +92,11 @@ tags:
 
 
 
-      “The noble lady who sits opposite is Queen Pest, our Serene
+      “The noble lady who sits opposite is [[Queen]] Pest, our Serene
 
       Consort. The other exalted personages whom you behold are all of
 
-      our family, and wear the insignia of the blood royal under the
+      our family, and wear the insignia of the [[Blood|blood]] royal under the
 
       respective titles of ‘His Grace the Arch Duke Pest-Iferous’—‘His
 
@@ -110,7 +110,7 @@ tags:
 
       which we sit here in council, we might be pardoned for replying
 
-      that it concerns, and concerns alone, our own private and regal
+      that it concerns, and concerns [[Alone|alone]], our own private and regal
 
       interest, and is in no manner important to any other than
 
@@ -118,13 +118,13 @@ tags:
 
       and strangers you may feel yourselves entitled, we will
 
-      furthermore explain that we are here this night, prepared by deep
+      furthermore explain that we are here this [[Night|night]], prepared by deep
 
       research and accurate investigation, to examine, analyze, and
 
       thoroughly determine the indefinable spirit—the incomprehensible
 
-      qualities and nature—of those inestimable treasures of the
+      qualities and [[Nature|nature]]—of those inestimable treasures of the
 
       palate, the wines, ales, and liqueurs of this goodly metropolis:
 
@@ -132,11 +132,11 @@ tags:
 
       welfare of that unearthly sovereign whose reign is over us all,
 
-      whose dominions are unlimited, and whose name is ‘Death’.”
+      whose dominions are unlimited, and whose name is ‘[[Death]]’.”
 
 
 
-      “Whose name is Davy Jones!” ejaculated Tarpaulin, helping the
+      “Whose name is Davy [[Jones]]!” ejaculated Tarpaulin, helping the
 
       lady by his side to a skull of liqueur, and pouring out a second
 
@@ -172,7 +172,7 @@ tags:
 
       “It would be a matter of utter impossibility,” replied Legs, whom
 
-      the assumptions and dignity of King Pest the First had evidently
+      the assumptions and dignity of [[King]] Pest the First had evidently
 
       inspired some feelings of respect, and who arose and steadied
 
@@ -194,9 +194,9 @@ tags:
 
       please your majesty, be so good as to take the will for the
 
-      deed—for by no manner of means either can I or will I swallow
+      deed—for by no manner of means either can I or will I [[Swallow|swallow]]
 
-      another drop—least of all a drop of that villainous bilge-water
+      another drop—least of all a drop of that villainous bilge-[[Water|water]]
 
       that answers to the name of ‘Black Strap.’”
 
@@ -204,7 +204,7 @@ tags:
 
       “Belay that!” interrupted Tarpaulin, astonished not more at the
 
-      length of his companion’s speech than at the nature of his
+      length of his companion’s speech than at the [[Nature|nature]] of his
 
       refusal—“Belay that you lubber!—and I say, Legs, none of your
 

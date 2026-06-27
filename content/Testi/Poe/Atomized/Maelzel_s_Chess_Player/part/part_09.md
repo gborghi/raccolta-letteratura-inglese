@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 9)"
+title: "[[Maelzel's Chess-Player]] (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       require it. This occasion we have already stated to occur when
 
-      the man concealed within brings his body into an erect position
+      the man concealed within brings his [[Body|body]] into an erect position
 
       upon the closing of the back door.
 
@@ -28,7 +28,7 @@ tags:
 
       Nothing is more easy than to err in our notions of magnitude. The
 
-      body of the Automaton is generally insulated, and, having no
+      [[Body|body]] of the Automaton is generally insulated, and, having no
 
       means of immediately comparing it with any human form, we suffer
 
@@ -38,7 +38,7 @@ tags:
 
       is sometimes the case, the exhibiter approaches it. Mr. Maelzel,
 
-      to be sure, is not very tall, but upon drawing near the machine,
+      to be sure, is not very tall, but upon drawing near the [[Machine|machine]],
 
       his head will be found at least eighteen inches below the head of
 
@@ -56,7 +56,7 @@ tags:
 
       the accommodation of a man very much above the common size—and
 
-      the main compartment alone is capable of holding any ordinary man
+      the main compartment [[Alone|alone]] is capable of holding any ordinary man
 
       in the position we have mentioned as assumed by the person
 
@@ -78,7 +78,7 @@ tags:
 
       three inches between the top of the drawer as seen from the
 
-      exterior, and the bottom of the cupboard—a space which must be
+      exterior, and the [[Bottom|bottom]] of the cupboard—a space which must be
 
       included in the height of the drawer. These contrivances to make
 
@@ -124,13 +124,13 @@ tags:
 
       to play at the board of the Automaton, but is seated at some
 
-      distance from the machine. The reason which, most probably, would
+      distance from the [[Machine|machine]]. The reason which, most probably, would
 
       be assigned for this circumstance, if the question were demanded,
 
       is, that were the antagonist otherwise situated, his person would
 
-      intervene between the machine and the spectators, and preclude
+      intervene between the [[Machine|machine]] and the spectators, and preclude
 
       the latter from a distinct view. But this difficulty might be
 
@@ -150,7 +150,7 @@ tags:
 
       14. Although M. Maelzel, in disclosing the interior of the
 
-      machine, sometimes slightly deviates from the _routine _which we
+      [[Machine|machine]], sometimes slightly deviates from the _routine _which we
 
       have pointed out, yet _reeler in _any instance does he _so
 
@@ -168,7 +168,7 @@ tags:
 
       cupboard No. 1 while the main compartment is open—and the game of
 
-      chess is never commenced until the whole machine is closed. Now
+      chess is never commenced until the whole [[Machine|machine]] is closed. Now
 
       if it were observed that _never, in any single instance, _did M.
 
@@ -194,10 +194,10 @@ tags:
 
       been amply sufficient to afford the spectators a clear view of
 
-      the board, in a room otherwise so well lit up as the exhibition
+      the board, in a room otherwise so [[Well|well]] lit up as the exhibition
 
-      room always is—when, moreover, if we suppose the machine a _pure
+      room always is—when, moreover, if we suppose the [[Machine|machine]] a _pure
 
-      machine, _there can be no necessity for so much light, or indeed
+      [[Machine|machine]], _there can be no necessity for so much light, or indeed
 
       any light at all, to enable _it _to perform its operations—and

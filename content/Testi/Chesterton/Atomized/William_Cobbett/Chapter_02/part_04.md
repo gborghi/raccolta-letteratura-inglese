@@ -15,7 +15,7 @@ tags:
 
 
 Cobbett was eminently and emphatically a respectable man.
-He was denounced as a demagogue, he was thrown in prison like a felon,
+He was denounced as a demagogue, he was thrown in [[Prison|prison]] like a felon,
 he was all his life in the midst of riot and abuse, he was regarded
 as the inaugurator of red ruin and the breaking up of laws;
 but he remained to the last a highly respectable person,
@@ -35,12 +35,12 @@ It is his great glory that having taken the first steps in the successful
 life as it has been lived by so many successful men, he preferred
 to make himself a mockery and a cockshy for every worldly wit
 or comfortable critic to laugh at as a failure for a hundred years.
-He might have been a self-made man; but he died unfinished,
+He might have been a [[Self-Made Man|self-made man]]; but he died unfinished,
 trying to make something better than himself.
 
-Finally, he was by nature a traditionalist and he was by tradition
+Finally, he was by [[Nature|nature]] a traditionalist and he was by tradition
 a Tory.  He appeared first as a solid and loyal supporter
-of Church and King; and he appeared with complete success.
+of Church and [[King]]; and he appeared with complete [[success]].
 As we shall see, his place was prepared for him as a good party man;
 his path was straight before him to the position of a great party leader.
 It seemed to most honest people, it seemed to him quite honestly,
@@ -48,13 +48,13 @@ his logical and legitimate goal.  It is his glory that he never
 reached his goal.  It is his merit that his fallen figure was found
 far astray, and picked up, so to speak, like a dead vagabond;
 a puzzle for pedants and a sort of suicidal wreck to politicians;
-when he had set out on his journey stiff with so many strict
+when he had set out on his [[Journey|journey]] stiff with so many strict
 loyalties and so many respectable conventions.  For there dwelt
 within him a divine spirit more restless than a devil; a spirit
-that could not feed on fictions or sleep at the dictation of any drug;
+that could not feed on fictions or [[Sleep|sleep]] at the dictation of any drug;
 an insomnia of intelligence that could not choose but understand;
 a lidless eye that could not escape from seeing a surge of spontaneous
 protest almost as involuntary as vomiting and stronger than
-the strength of fear, a voice not to be strangled, which forever,
+the strength of [[Fear|fear]], a voice not to be strangled, which forever,
 in a fashion so fierce and unfamiliar that it startled men like
 the roar of a blind beast, appealed from tyranny to God.

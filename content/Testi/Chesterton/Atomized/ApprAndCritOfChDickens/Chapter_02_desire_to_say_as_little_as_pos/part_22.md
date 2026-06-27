@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 22)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -18,7 +18,7 @@ his own fist. It is indeed a perfect symbol; for Quilp is always
 
 fighting himself for want of anybody else. He is energy, and energy by
 
-itself is always suicidal; he is that primordial energy which tears and
+itself is always suicidal; he is that primordial energy which [[Tears|tears]] and
 
 which destroys itself.
 
@@ -30,23 +30,23 @@ which destroys itself.
 
 
 
-BARNABY RUDGE
+[[Barnaby Rudge|BARNABY RUDGE]]
 
 
 
 
 
-_Barnaby Rudge_ was written by Dickens in the spring and first flowing
+_Barnaby Rudge_ was written by Dickens in the [[spring]] and first flowing
 
 tide of his popularity; it came immediately after _The Old Curiosity
 
-Shop_, and only a short time after _Pickwick_. Dickens was one of those
+Shop_, and only a short [[Time|time]] after _Pickwick_. Dickens was one of those
 
-rare but often very sincere men in whom the high moment of success
+rare but often very sincere men in whom the high moment of [[success]]
 
 almost coincides with the high moment of youth. The calls upon him at
 
-this time were insistent and overwhelming; this necessarily happens at a
+this [[Time|time]] were insistent and overwhelming; this necessarily happens at a
 
 certain stage of a successful writer's career. He was just successful
 
@@ -62,17 +62,17 @@ throw himself into anything else. But there was an intervening period,
 
 early in his life, when there was almost too much work for his
 
-imagination, and yet not quite enough work for his housekeeping. To this
+[[Imagination|imagination]], and yet not quite enough work for his housekeeping. To this
 
 period _Barnaby Rudge_ belongs. And it is a curious tribute to the quite
 
-curious greatness of Dickens that in this period of youthful strain we
+curious [[Greatness|greatness]] of Dickens that in this period of youthful strain we
 
 do not feel the strain but feel only the youth. His own amazing wish to
 
 write equalled or outstripped even his readers' amazing wish to read.
 
-Working too hard did not cure him of his abstract love of work.
+Working too hard did not cure him of his abstract [[Love|love]] of work.
 
 Unreasonable publishers asked him to write ten novels at once; but he
 
@@ -90,7 +90,7 @@ _Barnaby Rudge_ marks this epoch because it marks the fact that he is
 
 still confused about what kind of person he is going to be. He has
 
-already struck the note of the normal romance in _Nicholas Nickleby_; he
+already struck the note of the normal [[Romance|romance]] in _Nicholas Nickleby_; he
 
 has already created some of his highest comic characters in _Pickwick_
 
@@ -98,15 +98,15 @@ and _The Old Curiosity Shop_, but here he betrays the fact that it is
 
 still a question what ultimate guide he shall follow. _Barnaby Rudge_ is
 
-a romantic, historical novel. Its design reminds us of Scott; some parts
+a romantic, [[Historical Novel|historical novel]]. Its design reminds us of Scott; some parts
 
 of its fulfilment remind us, alas! of Harrison Ainsworth. It is a very
 
-fine romantic historical novel; Scott would have been proud of it. But
+fine romantic [[Historical Novel|historical novel]]; Scott would have been proud of it. But
 
 it is still so far different from the general work of Dickens that it is
 
-permissible to wonder how far Dickens was proud of it. The book,
+permissible to [[Wonder|wonder]] how far Dickens was proud of it. The book,
 
 effective as it is, is almost entirely devoted to dealings with a
 
@@ -136,57 +136,57 @@ Shakespeare, for instance, delighted in certain merely pictorial
 
 contrasts which are quite distinct from, even when they are akin to, the
 
-spiritual view involved. For instance, there is admirable satire in the
+spiritual view involved. For instance, there is admirable [[Satire|satire]] in the
 
-idea of Touchstone teaching worldly wisdom and worldly honour to the
+idea of [[Touchstone]] teaching worldly wisdom and worldly [[Honour|honour]] to the
 
-woodland yokels. There is excellent philosophy in the idea of the fool
+woodland yokels. There is excellent [[philosophy]] in the idea of the [[Fool|fool]]
 
 being the representative of civilisation in the forest. But quite apart
 
 from this deeper meaning in the incident, the mere figure of the jester,
 
-in his bright motley and his cap and bells, against the green background
+in his bright motley and his cap and [[Bells|bells]], against the green background
 
 of the forest and the rude forms of the shepherds, is a strong example
 
 of the purely picturesque. There is excellent tragic irony in the
 
-confrontation of the melancholy philosopher among the tombs with the
+confrontation of the [[Melancholy|melancholy]] philosopher among the tombs with the
 
 cheerful digger of the graves. It sums up the essential point, that dead
 
 bodies can be comic; it is only dead souls that can be tragic. But quite
 
-apart from such irony, the mere picture of the grotesque gravedigger,
+apart from such irony, the mere picture of the [[Grotesque|grotesque]] gravedigger,
 
 the black-clad prince, and the skull is a picture in the strongest sense
 
-picturesque. Caliban and the two shipwrecked drunkards are an admirable
+picturesque. [[Caliban]] and the two shipwrecked drunkards are an admirable
 
-symbol; but they are also an admirable scene. Bottom, with the ass's
+symbol; but they are also an admirable scene. [[Bottom]], with the ass's
 
-head, sitting in a ring of elves, is excellent moving comedy, but also
+head, sitting in a ring of elves, is excellent moving [[Comedy|comedy]], but also
 
-excellent still life. Falstaff with his huge body, Bardolph with his
+excellent still life. [[Falstaff]] with his huge [[Body|body]], Bardolph with his
 
 burning nose, are masterpieces of the pen; but they would be fine
 
-sketches even for the pencil. King Lear, in the storm, is a landscape as
+sketches even for the pencil. [[King Lear]], in the [[Storm|storm]], is a landscape as
 
-well as a character study. There is something decorative even about the
+[[Well|well]] as a character study. There is something decorative even about the
 
-insistence on the swarthiness of Othello, or the deformity of Richard
+insistence on the swarthiness of [[Othello]], or the deformity of [[Richard]]
 
 III. Shakespeare's work is much more than picturesque; but it is
 
 picturesque. And the same which is said here of him by way of example is
 
-largely true of the highest class of literature. Dante's _Divine Comedy_
+largely true of the highest class of literature. [[Dante]]'s _Divine Comedy_
 
-is supremely important as a philosophy; but it is important merely as a
+is supremely important as a [[philosophy]]; but it is important merely as a
 
-panorama. Spenser's _Faery Queen_ pleases us as an allegory; but it
+panorama. Spenser's _Faery Queen_ pleases us as an [[Allegory|allegory]]; but it
 
 would please us even as a wall-paper. Stronger still is the case of
 

@@ -16,26 +16,26 @@ tags:
 
 Chapter 12
 
-MORE BIRDS OF PREY
+MORE [[Birds|BIRDS]] OF PREY
 
 
 Rogue Riderhood dwelt deep and dark in Limehouse Hole, among the
 riggers, and the mast, oar and block makers, and the boat-builders, and
-the sail-lofts, as in a kind of ship’s hold stored full of waterside
+the sail-lofts, as in a kind of [[Ship|ship]]’s hold stored full of waterside
 characters, some no better than himself, some very much better, and
 none much worse. The Hole, albeit in a general way not over nice in
-its choice of company, was rather shy in reference to the honour of
+its choice of company, was rather shy in reference to the [[Honour|honour]] of
 cultivating the Rogue’s acquaintance; more frequently giving him the
 cold shoulder than the warm hand, and seldom or never drinking with him
 unless at his own expense. A part of the Hole, indeed, contained so
 much public spirit and private virtue that not even this strong leverage
 could move it to good fellowship with a tainted accuser. But, there may
-have been the drawback on this magnanimous morality, that its exponents
+have been the drawback on this magnanimous [[morality]], that its exponents
 held a true witness before Justice to be the next unneighbourly and
 accursed character to a false one.
 
 Had it not been for the daughter whom he often mentioned, Mr Riderhood
-might have found the Hole a mere grave as to any means it would yield
+might have found the Hole a mere [[Grave|grave]] as to any means it would yield
 him of getting a living. But Miss Pleasant Riderhood had some little
 position and connection in Limehouse Hole. Upon the smallest of small
 scales, she was an unlicensed pawnbroker, keeping what was popularly
@@ -51,7 +51,7 @@ dropsical conditions of snuff and gin, incompatible equally with
 coherence and existence.
 
 Why christened Pleasant, the late Mrs Riderhood might possibly have
-been at some time able to explain, and possibly not. Her daughter had no
+been at some [[Time|time]] able to explain, and possibly not. Her daughter had no
 information on that point. Pleasant she found herself, and she couldn’t
 help it. She had not been consulted on the question, any more than on
 the question of her coming into these terrestrial parts, to want a name.
@@ -61,9 +61,9 @@ declined if her sentiments on the subject had been taken. She was not
 otherwise positively ill-looking, though anxious, meagre, of a muddy
 complexion, and looking as old again as she really was.
 
-As some dogs have it in the blood, or are trained, to worry certain
+As some [[dogs]] have it in the [[Blood|blood]], or are trained, to worry certain
 creatures to a certain point, so—not to make the comparison
-disrespectfully—Pleasant Riderhood had it in the blood, or had been
+disrespectfully—Pleasant Riderhood had it in the [[Blood|blood]], or had been
 trained, to regard seamen, within certain limits, as her prey. Show
 her a man in a blue jacket, and, figuratively speaking, she pinned him
 instantly. Yet, all things considered, she was not of an evil mind or an
@@ -76,7 +76,7 @@ it, inasmuch as it would be commonly addressed by some abusive epithet:
 which little personage was not in the least wanted by anybody, and would
 be shoved and banged out of everybody’s way, until it should grow
 big enough to shove and bang. Show her a Funeral, and she saw an
-unremunerative ceremony in the nature of a black masquerade, conferring
+unremunerative ceremony in the [[Nature|nature]] of a black masquerade, conferring
 a temporary gentility on the performers, at an immense expense, and
 representing the only formal party ever given by the deceased. Show her
 a live father, and she saw but a duplicate of her own father, who from
@@ -84,8 +84,8 @@ her infancy had been taken with fits and starts of discharging his duty
 to her, which duty was always incorporated in the form of a fist or a
 leathern strap, and being discharged hurt her. All things considered,
 therefore, Pleasant Riderhood was not so very, very bad. There was even
-a touch of romance in her—of such romance as could creep into Limehouse
-Hole—and maybe sometimes of a summer evening, when she stood with
+a touch of [[Romance|romance]] in her—of such [[Romance|romance]] as could creep into Limehouse
+Hole—and maybe sometimes of a [[Summer|summer]] evening, when she stood with
 folded arms at her shop-door, looking from the reeking street to the
 sky where the sun was setting, she may have had some vaporous visions
 of far-off islands in the southern seas or elsewhere (not being
@@ -94,8 +94,8 @@ congenial partner among groves of bread-fruit, waiting for ships to be
 wafted from the hollow ports of civilization. For, sailors to be got the
 better of, were essential to Miss Pleasant’s Eden.
 
-Not on a summer evening did she come to her little shop-door, when a
-certain man standing over against the house on the opposite side of
+Not on a [[Summer|summer]] evening did she come to her little shop-door, when a
+certain man standing over against the [[house]] on the opposite side of
 the street took notice of her. That was on a cold shrewd windy evening,
 after dark. Pleasant Riderhood shared with most of the lady inhabitants
 of the Hole, the peculiarity that her hair was a ragged knot, constantly
@@ -109,24 +109,24 @@ twisting their back-hair as they came along, and many of them, in the
 hurry of the moment, carrying their back-combs in their mouths.
 
 It was a wretched little shop, with a roof that any man standing in it
-could touch with his hand; little better than a cellar or cave, down
-three steps. Yet in its ill-lighted window, among a flaring handkerchief
+could touch with his hand; little better than a cellar or [[Cave|cave]], down
+three steps. Yet in its ill-lighted [[Window|window]], among a flaring handkerchief
 or two, an old peacoat or so, a few valueless watches and compasses, a
 jar of tobacco and two crossed pipes, a bottle of walnut ketchup, and
 some horrible sweets these—creature discomforts serving as a blind to
-the main business of the Leaving Shop—was displayed the inscription
-SEAMAN’S BOARDING-HOUSE.
+the main business of the Leaving Shop—was displayed the [[Inscription|inscription]]
+SEAMAN’S BOARDING-[[house|HOUSE]].
 
 Taking notice of Pleasant Riderhood at the door, the man crossed so
 quickly that she was still winding herself up, when he stood close
 before her.
 
-‘Is your father at home?’ said he.
+‘Is your father at [[Home|home]]?’ said he.
 
 ‘I think he is,’ returned Pleasant, dropping her arms; ‘come in.’
 
 It was a tentative reply, the man having a seafaring appearance. Her
-father was not at home, and Pleasant knew it. ‘Take a seat by the fire,’
+father was not at [[Home|home]], and Pleasant knew it. ‘Take a seat by the [[Fire|fire]],’
 were her hospitable words when she had got him in; ‘men of your calling
 are always welcome here.’
 
@@ -141,8 +141,8 @@ thrown across his left leg a little above the knee, and the right arm
 as carelessly thrown over the elbow of the wooden chair, with the hand
 curved, half open and half shut, as if it had just let go a rope.
 
-‘Might you be looking for a Boarding-House?’ Pleasant inquired, taking
-her observant stand on one side of the fire.
+‘Might you be looking for a Boarding-[[house|House]]?’ Pleasant inquired, taking
+her observant stand on one side of the [[Fire|fire]].
 
 ‘I don’t rightly know my plans yet,’ returned the man.
 
@@ -169,8 +169,8 @@ a view to principal and interest.
 don’t remember you.’
 
 ‘It’s not at all likely you should. I only stood at the door, one
-night—on the lower step there—while a shipmate of mine looked in to
-speak to your father. I remember the place well.’ Looking very curiously
+[[Night|night]]—on the lower step there—while a shipmate of mine looked in to
+speak to your father. I remember the place [[Well|well]].’ Looking very curiously
 round it.
 
 ‘Might that have been long ago?’
@@ -196,15 +196,15 @@ threatening.
 
 ‘I don’t know. I can’t say.’
 
-‘As you supposed he was at home, it would seem that he has just gone
+‘As you supposed he was at [[Home|home]], it would seem that he has just gone
 out? How’s that?’
 
-‘I supposed he had come home,’ Pleasant explained.
+‘I supposed he had come [[Home|home]],’ Pleasant explained.
 
-‘Oh! You supposed he had come home? Then he has been some time out?
+‘Oh! You supposed he had come [[Home|home]]? Then he has been some [[Time|time]] out?
 How’s that?’
 
-‘I don’t want to deceive you. Father’s on the river in his boat.’
+‘I don’t want to deceive you. Father’s on the [[River|river]] in his boat.’
 
 ‘At the old work?’ asked the man.
 
@@ -213,9 +213,9 @@ How’s that?’
 
 ‘I don’t want to hurt your father. I don’t want to say I might, if I
 chose. I want to speak to him. Not much in that, is there? There shall
-be no secrets from you; you shall be by. And plainly, Miss Riderhood,
+be no [[Secrets|secrets]] from you; you shall be by. And plainly, Miss Riderhood,
 there’s nothing to be got out of me, or made of me. I am not good for
-the Leaving Shop, I am not good for the Boarding-House, I am not good
+the Leaving Shop, I am not good for the Boarding-[[house|House]], I am not good
 for anything in your way to the extent of sixpenn’orth of halfpence. Put
 the idea aside, and we shall get on together.’
 
@@ -241,11 +241,11 @@ appearance.
 
 Pleasant answered with a short dumb nod. He rejoined with another short
 dumb nod. Then he got up and stood with his arms folded, in front of
-the fire, looking down into it occasionally, as she stood with her arms
+the [[Fire|fire]], looking down into it occasionally, as she stood with her arms
 folded, leaning against the side of the chimney-piece.
 
-‘To wile away the time till your father comes,’ he said,—‘pray is there
-much robbing and murdering of seamen about the water-side now?’
+‘To wile away the [[Time|time]] till your father comes,’ he said,—‘pray is there
+much robbing and murdering of seamen about the [[Water|water]]-side now?’
 
 ‘No,’ said Pleasant.
 
@@ -263,13 +263,13 @@ without it.’
 ‘You’re right. Their money may be soon got out of them, without
 violence,’ said the man.
 
-‘Of course it may,’ said Pleasant; ‘and then they ship again and get
-more. And the best thing for ’em, too, to ship again as soon as ever
-they can be brought to it. They’re never so well off as when they’re
+‘Of course it may,’ said Pleasant; ‘and then they [[Ship|ship]] again and get
+more. And the best thing for ’em, too, to [[Ship|ship]] again as soon as ever
+they can be brought to it. They’re never so [[Well|well]] off as when they’re
 afloat.’
 
 ‘I’ll tell you why I ask,’ pursued the visitor, looking up from the
-fire. ‘I was once beset that way myself, and left for dead.’
+[[Fire|fire]]. ‘I was once beset that way myself, and left for dead.’
 
 ‘No?’ said Pleasant. ‘Where did it happen?’
 
@@ -283,7 +283,7 @@ think it can have been a mile from here.’
 ‘I was muddled, but not with fair drinking. I had not been drinking, you
 understand. A mouthful did it.’
 
-Pleasant with a grave look shook her head; importing that she understood
+Pleasant with a [[Grave|grave]] look shook her head; importing that she understood
 the process, but decidedly disapproved.
 
 ‘Fair trade is one thing,’ said she, ‘but that’s another. No one has a
@@ -291,7 +291,7 @@ right to carry on with Jack in THAT way.’
 
 ‘The sentiment does you credit,’ returned the man, with a grim smile;
 and added, in a mutter, ‘the more so, as I believe it’s not your
-father’s.—Yes, I had a bad time of it, that time. I lost everything,
+father’s.—Yes, I had a bad [[Time|time]] of it, that [[Time|time]]. I lost everything,
 and had a sharp struggle for my life, weak as I was.’
 
 ‘Did you get the parties punished?’ asked Pleasant.
@@ -302,12 +302,12 @@ it was not of my bringing about.’
 ‘Of whose, then?’ asked Pleasant.
 
 The man pointed upward with his forefinger, and, slowly recovering that
-hand, settled his chin in it again as he looked at the fire. Bringing
+hand, settled his chin in it again as he looked at the [[Fire|fire]]. Bringing
 her inherited eye to bear upon him, Pleasant Riderhood felt more
 and more uncomfortable, his manner was so mysterious, so stern, so
-self-possessed.
+[[Self|self]]-possessed.
 
-‘Anyways,’ said the damsel, ‘I am glad punishment followed, and I say
+‘Anyways,’ said the [[Damsel|damsel]], ‘I am glad punishment followed, and I say
 so. Fair trade with seafaring men gets a bad name through deeds of
 violence. I am as much against deeds of violence being done to seafaring
 men, as seafaring men can be themselves. I am of the same opinion as my
@@ -316,7 +316,7 @@ no robbery and no blows.’ In the way of trade Miss Pleasant would have
 taken—and indeed did take when she could—as much as thirty shillings
 a week for board that would be dear at five, and likewise conducted the
 Leaving business upon correspondingly equitable principles; yet she had
-that tenderness of conscience and those feelings of humanity, that the
+that tenderness of [[Conscience|conscience]] and those feelings of humanity, that the
 moment her ideas of trade were overstepped, she became the seaman’s
 champion, even against her father whom she seldom otherwise resisted.
 
@@ -332,12 +332,12 @@ heated by verbal or fistic altercation.
 speak!’ growled Mr Riderhood, stooping to pick up his hat, and making
 a feint at her with his head and right elbow; for he took the delicate
 subject of robbing seamen in extraordinary dudgeon, and was out of
-humour too. ‘What are you Poll Parroting at now? Ain’t you got nothing
-to do but fold your arms and stand a Poll Parroting all night?’
+[[Humour|humour]] too. ‘What are you Poll Parroting at now? Ain’t you got nothing
+to do but fold your arms and stand a Poll Parroting all [[Night|night]]?’
 
-‘Let her alone,’ urged the man. ‘She was only speaking to me.’
+‘Let her [[Alone|alone]],’ urged the man. ‘She was only speaking to me.’
 
-‘Let her alone too!’ retorted Mr Riderhood, eyeing him all over. ‘Do you
+‘Let her [[Alone|alone]] too!’ retorted Mr Riderhood, eyeing him all over. ‘Do you
 know she’s my daughter?’
 
 ‘Yes.’
@@ -348,7 +348,7 @@ man? And who may YOU be, and what may YOU want?’
 
 ‘How can I tell you until you are silent?’ returned the other fiercely.
 
-‘Well,’ said Mr Riderhood, quailing a little, ‘I am willing to be silent
+‘[[Well]],’ said Mr Riderhood, quailing a little, ‘I am willing to be silent
 for the purpose of hearing. But don’t Poll Parrot me.’
 
 ‘Are you thirsty, you?’ the man asked, in the same fierce short way,
@@ -375,14 +375,14 @@ one another surlily enough, until Pleasant came back.
 
 ‘There’s small glasses on the shelf,’ said Riderhood to his daughter.
 ‘Give me the one without a foot. I gets my living by the sweat of my
-brow, and it’s good enough for ME.’ This had a modest self-denying
+brow, and it’s good enough for ME.’ This had a modest [[Self|self]]-denying
 appearance; but it soon turned out that as, by reason of the
 impossibility of standing the glass upright while there was anything in
 it, it required to be emptied as soon as filled, Mr Riderhood managed to
 drink in the proportion of three to one.
 
 With his Fortunatus’s goblet ready in his hand, Mr Riderhood sat down on
-one side of the table before the fire, and the strange man on the other:
+one side of the table before the [[Fire|fire]], and the strange man on the other:
 Pleasant occupying a stool between the latter and the fireside. The
 background, composed of handkerchiefs, coats, shirts, hats, and other
 old articles ‘On Leaving,’ had a general dim resemblance to human
@@ -403,7 +403,7 @@ great deliberation.
 
 At first Riderhood had sat with his footless glass extended at arm’s
 length for filling, while the very deliberate stranger seemed absorbed
-in his preparations. But, gradually his arm reverted home to him, and
+in his preparations. But, gradually his arm reverted [[Home|home]] to him, and
 his glass was lowered and lowered until he rested it upside down upon
 the table. By the same degrees his attention became concentrated on
 the knife. And now, as the man held out the bottle to fill all round,
@@ -428,13 +428,13 @@ daughter. Your health, Miss Riderhood.’
 
 ‘It was.’
 
-‘That seaman was well beknown to me.’
+‘That seaman was [[Well|well]] beknown to me.’
 
 ‘He was.’
 
 ‘What’s come to him?’
 
-‘Death has come to him. Death came to him in an ugly shape. He looked,’
+‘[[Death]] has come to him. [[Death]] came to him in an ugly shape. He looked,’
 said the man, ‘very horrible after it.’
 
 ‘Arter what?’ said Riderhood, with a frowning stare.
@@ -453,8 +453,8 @@ touched the sleeve, turned the cuff to look at the sleeve-lining (the
 man, in his perfect composure, offering not the least objection), and
 exclaimed, ‘It’s my belief as this here coat was George Radfoot’s too!’
 
-‘You are right. He wore it the last time you ever saw him, and the last
-time you ever will see him—in this world.’
+‘You are right. He wore it the last [[Time|time]] you ever saw him, and the last
+[[Time|time]] you ever will see him—in this world.’
 
 ‘It’s my belief you mean to tell me to my face you killed him!’
 exclaimed Riderhood; but, nevertheless, allowing his glass to be filled
@@ -470,7 +470,7 @@ throat. ‘Let’s know what to make of you. Say something plain.’
 ‘I will,’ returned the other, leaning forward across the table, and
 speaking in a low impressive voice. ‘What a liar you are!’
 
-The honest witness rose, and made as though he would fling his glass in
+The honest witness [[Rose|rose]], and made as though he would fling his glass in
 the man’s face. The man not wincing, and merely shaking his forefinger
 half knowingly, half menacingly, the piece of honesty thought better of
 it and sat down again, putting the glass down too.
@@ -509,8 +509,8 @@ my suspicions of him?’
 
 ‘Because you knew him,’ replied the man; ‘because you had been one with
 him, and knew his real character under a fair outside; because on the
-night which you had afterwards reason to believe to be the very night of
-the murder, he came in here, within an hour of his having left his ship
+[[Night|night]] which you had afterwards reason to believe to be the very [[Night|night]] of
+the murder, he came in here, within an hour of his having left his [[Ship|ship]]
 in the docks, and asked you in what lodgings he could find room. Was
 there no stranger with him?’
 
@@ -538,13 +538,13 @@ brow as a honest man ought.’ Here he filled the footless goblet again,
 and stood chewing one half of its contents and looking down into the
 other as he slowly rolled the wine about in the glass; while Pleasant,
 whose sympathetic hair had come down on her being apostrophised,
-rearranged it, much in the style of the tail of a horse when proceeding
+rearranged it, much in the style of the tail of a [[Horse|horse]] when proceeding
 to market to be sold.
 
-‘Well? Have you finished?’ asked the strange man.
+‘[[Well]]? Have you finished?’ asked the strange man.
 
 ‘No,’ said Riderhood, ‘I ain’t. Far from it. Now then! I want to know
-how George Radfoot come by his death, and how you come by his kit?’
+how George Radfoot come by his [[Death|death]], and how you come by his kit?’
 
 ‘If you ever do know, you won’t know now.’
 
@@ -562,10 +562,10 @@ George Radfoot?’
 ‘Perhaps you done it yourself?’ said Riderhood, with a threatening
 action.
 
-‘I alone know,’ returned the man, sternly shaking his head, ‘the
-mysteries of that crime. I alone know that your trumped-up story cannot
-possibly be true. I alone know that it must be altogether false, and
-that you must know it to be altogether false. I come here to-night to
+‘I [[Alone|alone]] know,’ returned the man, sternly shaking his head, ‘the
+mysteries of that crime. I [[Alone|alone]] know that your trumped-up story cannot
+possibly be true. I [[Alone|alone]] know that it must be altogether false, and
+that you must know it to be altogether false. I come here to-[[Night|night]] to
 tell you so much of what I know, and no more.’
 
 Mr Riderhood, with his crooked eye upon his visitor, meditated for some
@@ -577,20 +577,20 @@ suddenly down. ‘And turn the key and stand by it! If you know all this,
 you sir,’ getting, as he spoke, between the visitor and the door, ‘why
 han’t you gone to Lawyer Lightwood?’
 
-‘That, also, is alone known to myself,’ was the cool answer.
+‘That, also, is [[Alone|alone]] known to myself,’ was the cool answer.
 
 ‘Don’t you know that, if you didn’t do the deed, what you say you could
 tell is worth from five to ten thousand pound?’ asked Riderhood.
 
-‘I know it very well, and when I claim the money you shall share it.’
+‘I know it very [[Well|well]], and when I claim the money you shall share it.’
 
 The honest man paused, and drew a little nearer to the visitor, and a
 little further from the door.
 
-‘I know it,’ repeated the man, quietly, ‘as well as I know that you and
+‘I know it,’ repeated the man, quietly, ‘as [[Well|well]] as I know that you and
 George Radfoot were one together in more than one dark business; and as
-well as I know that you, Roger Riderhood, conspired against an innocent
-man for blood-money; and as well as I know that I can—and that I swear
+[[Well|well]] as I know that you, Roger Riderhood, conspired against an [[Innocent|innocent]]
+man for [[Blood|blood]]-money; and as [[Well|well]] as I know that I can—and that I swear
 I will!—give you up on both scores, and be the proof against you in my
 own person, if you defy me!’
 
@@ -604,10 +604,10 @@ it worthy of yourself, to talk of my defying you afore ever you say what
 you want of me?’
 
 ‘I don’t want much,’ said the man. ‘This accusation of yours must not be
-left half made and half unmade. What was done for the blood-money must
+left half made and half unmade. What was done for the [[Blood|blood]]-money must
 be thoroughly undone.’
 
-‘Well; but Shipmate—’
+‘[[Well]]; but Shipmate—’
 
 ‘Don’t call me Shipmate,’ said the man.
 
@@ -615,19 +615,19 @@ be thoroughly undone.’
 Captain. It’s a honourable title, and you fully look it. Captain! Ain’t
 the man dead? Now I ask you fair. Ain’t Gaffer dead?’
 
-‘Well,’ returned the other, with impatience, ‘yes, he is dead. What
+‘[[Well]],’ returned the other, with impatience, ‘yes, he is dead. What
 then?’
 
 ‘Can words hurt a dead man, Captain? I only ask you fair.’
 
-‘They can hurt the memory of a dead man, and they can hurt his living
+‘They can hurt the [[Memory|memory]] of a dead man, and they can hurt his living
 children. How many children had this man?’
 
 ‘Meaning Gaffer, Captain?’
 
 ‘Of whom else are we speaking?’ returned the other, with a movement of
 his foot, as if Rogue Riderhood were beginning to sneak before him in
-the body as well as the spirit, and he spurned him off. ‘I have heard
+the [[Body|body]] as [[Well|well]] as the spirit, and he spurned him off. ‘I have heard
 of a daughter, and a son. I ask for information; I ask YOUR daughter; I
 prefer to speak to her. What children did Hexam leave?’
 
@@ -641,22 +641,22 @@ Thus encouraged, Pleasant explained that there were only Lizzie, the
 daughter in question, and the youth. Both very respectable, she added.
 
 ‘It is dreadful that any stigma should attach to them,’ said the
-visitor, whom the consideration rendered so uneasy that he rose, and
+visitor, whom the consideration rendered so uneasy that he [[Rose|rose]], and
 paced to and fro, muttering, ‘Dreadful! Unforeseen? How could it be
 foreseen!’ Then he stopped, and asked aloud: ‘Where do they live?’
 
 Pleasant further explained that only the daughter had resided with the
-father at the time of his accidental death, and that she had immediately
+father at the [[Time|time]] of his accidental [[Death|death]], and that she had immediately
 afterwards quitted the neighbourhood.
 
 ‘I know that,’ said the man, ‘for I have been to the place they dwelt
-in, at the time of the inquest. Could you quietly find out for me where
+in, at the [[Time|time]] of the inquest. Could you quietly find out for me where
 she lives now?’
 
-Pleasant had no doubt she could do that. Within what time, did she
-think? Within a day. The visitor said that was well, and he would return
+Pleasant had no [[Doubt|doubt]] she could do that. Within what [[Time|time]], did she
+think? Within a day. The visitor said that was [[Well|well]], and he would return
 for the information, relying on its being obtained. To this dialogue
-Riderhood had attended in silence, and he now obsequiously bespake the
+Riderhood had attended in [[Silence|silence]], and he now obsequiously bespake the
 Captain.
 
 ‘Captain! Mentioning them unfort’net words of mine respecting Gaffer,
@@ -718,9 +718,9 @@ such words as ‘you dog,’ very distinctly understood, ‘you shall share
 it.’
 
 Looking stedfastly at Riderhood, he once more said in a low voice, this
-time with a grim sort of admiration of him as a perfect piece of evil,
+[[Time|time]] with a grim sort of admiration of him as a perfect piece of evil,
 ‘What a liar you are!’ and, nodding his head twice or thrice over the
-compliment, passed out of the shop. But, to Pleasant he said good-night
+compliment, passed out of the shop. But, to Pleasant he said good-[[Night|night]]
 kindly.
 
 The honest man who gained his living by the sweat of his brow remained

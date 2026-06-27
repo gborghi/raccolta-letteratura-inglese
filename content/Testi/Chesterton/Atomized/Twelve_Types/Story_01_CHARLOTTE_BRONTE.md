@@ -20,7 +20,7 @@ CHARLOTTE BRONTE
 
 
 
-Objection is often raised against realistic biography because it reveals
+Objection is often raised against realistic [[Biography|biography]] because it reveals
 
 so much that is important and even sacred about a man's life. The real
 
@@ -36,11 +36,11 @@ his ancestry, the place of his present location. These are things which
 
 do not, properly speaking, ever arise before the human vision. They do
 
-not occur to a man's mind; it may be said, with almost equal truth, that
+not occur to a man's mind; it may be said, with almost equal [[Truth|truth]], that
 
 they do not occur in a man's life. A man no more thinks about himself as
 
-the inhabitant of the third house in a row of Brixton villas than he
+the inhabitant of the third [[house]] in a row of Brixton villas than he
 
 thinks about himself as a strange animal with two legs. What a man's
 
@@ -54,7 +54,7 @@ A very strong case of this is the case of the Brontes. The Bronte is in
 
 the position of the mad lady in a country village; her eccentricities
 
-form an endless source of innocent conversation to that exceedingly mild
+form an endless source of [[Innocent|innocent]] conversation to that exceedingly mild
 
 and bucolic circle, the literary world. The truly glorious gossips of
 
@@ -66,33 +66,33 @@ and sticks and straws which will go to make a Bronte museum. They are
 
 the most personally discussed of all Victorian authors, and the
 
-limelight of biography has left few darkened corners in the dark old
+limelight of [[Biography|biography]] has left few darkened corners in the dark old
 
-Yorkshire house. And yet the whole of this biographical investigation,
+Yorkshire [[house]]. And yet the whole of this biographical investigation,
 
 though natural and picturesque, is not wholly suitable to the Brontes.
 
 For the Bronte genius was above all things deputed to assert the supreme
 
-unimportance of externals. Up to that point truth had always been
+unimportance of externals. Up to that point [[Truth|truth]] had always been
 
-conceived as existing more or less in the novel of manners. Charlotte
+conceived as existing more or less in the [[Novel|novel]] of manners. Charlotte
 
 Bronte electrified the world by showing that an infinitely older and
 
-more elemental truth could be conveyed by a novel in which no person,
+more elemental [[Truth|truth]] could be conveyed by a [[Novel|novel]] in which no person,
 
 good or bad, had any manners at all. Her work represents the first great
 
 assertion that the humdrum life of modern civilisation is a disguise as
 
-tawdry and deceptive as the costume of a 'bal masque.' She showed that
+tawdry and deceptive as the costume of a 'bal [[Masque|masque]].' She showed that
 
-abysses may exist inside a governess and eternities inside a
+abysses may exist inside a governess and [[eternities]] inside a
 
 manufacturer; her heroine is the commonplace spinster, with the dress of
 
-merino and the soul of flame. It is significant to notice that Charlotte
+merino and the [[Soul|soul]] of flame. It is significant to notice that Charlotte
 
 Bronte, following consciously or unconsciously the great trend of her
 
@@ -100,15 +100,15 @@ genius, was the first to take away from the heroine not only the
 
 artificial gold and diamonds of wealth and fashion, but even the natural
 
-gold and diamonds of physical beauty and grace. Instinctively she felt
+gold and diamonds of physical [[Beauty|beauty]] and grace. Instinctively she felt
 
 that the whole of the exterior must be made ugly that the whole of the
 
-interior might be made sublime. She chose the ugliest of women in the
+interior might be made [[Sublime|sublime]]. She chose the ugliest of women in the
 
 ugliest of centuries, and revealed within them all the hells and heavens
 
-of Dante.
+of [[Dante]].
 
 
 
@@ -132,7 +132,7 @@ But the whole aim and purport and meaning of the work of the Brontes is
 
 that the most futile thing in the whole universe is fact. Such a story
 
-as 'Jane Eyre' is in itself so monstrous a fable that it ought to be
+as '[[Jane Eyre]]' is in itself so monstrous a [[Fable|fable]] that it ought to be
 
 excluded from a book of fairy tales. The characters do not do what they
 
@@ -154,11 +154,11 @@ found in any other branch of art, except in the end of the pantomime,
 
 where the Emperor turns into a pantaloon. Yet, despite this vast
 
-nightmare of illusion and morbidity and ignorance of the world, 'Jane
+[[nightmare]] of illusion and morbidity and ignorance of the world, 'Jane
 
 Eyre' is perhaps the truest book that was ever written. Its essential
 
-truth to life sometimes makes one catch one's breath. For it is not true
+[[Truth|truth]] to life sometimes makes one catch one's breath. For it is not true
 
 to manners, which are constantly false, or to facts, which are almost
 
@@ -168,17 +168,17 @@ emotion, the irreducible minimum, the indestructible germ. It would not
 
 matter a single straw if a Bronte story were a hundred times more
 
-moonstruck and improbable than 'Jane Eyre,' or a hundred times more
+moonstruck and improbable than '[[Jane Eyre]],' or a hundred times more
 
-moonstruck and improbable than 'Wuthering Heights.' It would not matter
+moonstruck and improbable than '[[Wuthering Heights]].' It would not matter
 
 if George Read stood on his head, and Mrs Read rode on a dragon, if
 
-Fairfax Rochester had four eyes and St John Rivers three legs, the story
+Fairfax Rochester had four eyes and [[St John Rivers]] three legs, the story
 
 would still remain the truest story in the world. The typical Bronte
 
-character is, indeed, a kind of monster. Everything in him except the
+character is, indeed, a kind of [[Monster|monster]]. Everything in him except the
 
 essential is dislocated. His hands are on his legs and his feet on his
 
@@ -186,17 +186,17 @@ arms, his nose is above his eyes, but his heart is in the right place.
 
 
 
-The great and abiding truth for which the Bronte cycle of fiction stands
+The great and abiding [[Truth|truth]] for which the Bronte cycle of fiction stands
 
-is a certain most important truth about the enduring spirit of youth,
+is a certain most important [[Truth|truth]] about the enduring spirit of youth,
 
-the truth of the near kinship between terror and joy. The Bronte
+the [[Truth|truth]] of the near kinship between terror and joy. The Bronte
 
 heroine, dingily dressed, badly educated, hampered by a humiliating
 
-inexperience, a kind of ugly innocence, is yet, by the very fact of her
+inexperience, a kind of ugly [[innocence]], is yet, by the very fact of her
 
-solitude and her gaucherie, full of the greatest delight that is
+[[Solitude|solitude]] and her gaucherie, full of the greatest delight that is
 
 possible to a human being, the delight of expectation, the delight of an
 
@@ -206,11 +206,11 @@ humanity to suppose that pleasure can be attained chiefly by putting on
 
 evening dress every evening, and having a box at the theatre every first
 
-night. It is not the man of pleasure who has pleasure; it is not the man
+[[Night|night]]. It is not the man of pleasure who has pleasure; it is not the man
 
 of the world who appreciates the world. The man who has learnt to do all
 
-conventional things perfectly has at the same time learnt to do them
+conventional things perfectly has at the same [[Time|time]] learnt to do them
 
 prosaically. It is the awkward man, whose evening dress does not fit
 
@@ -220,13 +220,13 @@ who is really full of the ancient ecstasies of youth. He is frightened
 
 enough of society actually to enjoy his triumphs. He has that element
 
-of fear which is one of the eternal ingredients of joy. This spirit is
+of [[Fear|fear]] which is one of the eternal ingredients of joy. This spirit is
 
-the central spirit of the Bronte novel. It is the epic of the
+the central spirit of the Bronte [[Novel|novel]]. It is the [[Epic|epic]] of the
 
 exhilaration of the shy man. As such it is of incalculable value in our
 
-time, of which the curse is that it does not take joy reverently because
+[[Time|time]], of which the curse is that it does not take joy reverently because
 
 it does not take it fearfully. The shabby and inconspicuous governess of
 
@@ -236,15 +236,15 @@ commerce with the awful and elemental forces which drive the world than
 
 a legion of lawless minor poets. She approached the universe with real
 
-simplicity, and, consequently, with real fear and delight. She was, so
+simplicity, and, consequently, with real [[Fear|fear]] and delight. She was, so
 
-to speak, shy before the multitude of the stars, and in this she had
+to speak, shy before the multitude of the [[Stars|stars]], and in this she had
 
 possessed herself of the only force which can prevent enjoyment being
 
 as black and barren as routine. The faculty of being shy is the first
 
-and the most delicate of the powers of enjoyment. The fear of the Lord
+and the most delicate of the powers of enjoyment. The [[Fear|fear]] of the Lord
 
 is the beginning of pleasure.
 
@@ -252,7 +252,7 @@ is the beginning of pleasure.
 
 Upon the whole, therefore, I think it may justifiably be said that the
 
-dark wild youth of the Brontes in their dark wild Yorkshire home has
+dark wild youth of the Brontes in their dark wild Yorkshire [[Home|home]] has
 
 been somewhat exaggerated as a necessary factor in their work and their
 
@@ -266,15 +266,15 @@ midnight dream of nameless obstacle and unutterable menace, in which
 
 there was, under whatever imbecile forms, all the deadly stress and
 
-panic of 'Wuthering Heights.' Every one of us has had a day-dream of our
+panic of '[[Wuthering Heights]].' Every one of us has had a day-dream of our
 
-own potential destiny not one atom more reasonable than 'Jane Eyre.' And
+own potential destiny not one atom more reasonable than '[[Jane Eyre]].' And
 
-the truth which the Brontes came to tell us is the truth that many
+the [[Truth|truth]] which the Brontes came to tell us is the [[Truth|truth]] that many
 
-waters cannot quench love, and that suburban respectability cannot touch
+waters cannot quench [[Love|love]], and that suburban respectability cannot touch
 
-or damp a secret enthusiasm. Clapham, like every other earthly city, is
+or damp a secret enthusiasm. Clapham, like every other earthly [[City|city]], is
 
 built upon a volcano. Thousands of people go to and fro in the
 
@@ -282,7 +282,7 @@ wilderness of bricks and mortar, earning mean wages, professing a mean
 
 religion, wearing a mean attire, thousands of women who have never found
 
-any expression for their exaltation or their tragedy but to go on
+any expression for their exaltation or their [[Tragedy|tragedy]] but to go on
 
 working harder and yet harder at dull and automatic employments, at
 
@@ -294,13 +294,13 @@ name was Charlotte Bronte. Spreading around us upon every side to-day
 
 like a huge and radiating geometrical figure are the endless branches of
 
-the great city. There are times when we are almost stricken crazy, as
+the great [[City|city]]. There are times when we are almost stricken crazy, as
 
-well we may be, by the multiplicity of those appalling perspectives, the
+[[Well|well]] we may be, by the multiplicity of those appalling perspectives, the
 
 frantic arithmetic of that unthinkable population. But this thought of
 
-ours is in truth nothing but a fancy. There are no chains of houses;
+ours is in [[Truth|truth]] nothing but a fancy. There are no [[Chains|chains]] of houses;
 
 there are no crowds of men. The colossal diagram of streets and houses
 
@@ -310,6 +310,6 @@ men is supremely solitary and supremely important to himself. Each of
 
 these houses stands in the centre of the world. There is no single
 
-house of all those millions which has not seemed to some one at some
+[[house]] of all those millions which has not seemed to some one at some
 
-time the heart of all things and the end of travel.
+[[Time|time]] the heart of all things and the end of travel.

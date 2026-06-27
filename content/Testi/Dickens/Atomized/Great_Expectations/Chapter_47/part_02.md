@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 47 (part 2)"
+title: "[[Great Expectations]] — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,18 +19,18 @@ the first scene of which, it pained me to suspect that I detected Mr.
 Wopsle with red worsted legs under a highly magnified phosphoric
 countenance and a shock of red curtain-fringe for his hair, engaged in
 the manufacture of thunderbolts in a mine, and displaying great
-cowardice when his gigantic master came home (very hoarse) to dinner.
+cowardice when his gigantic master came [[Home|home]] (very hoarse) to dinner.
 But he presently presented himself under worthier circumstances; for,
-the Genius of Youthful Love being in want of assistance,—on account of
+the Genius of Youthful [[Love]] being in want of assistance,—on account of
 the parental brutality of an ignorant farmer who opposed the choice of
 his daughter’s heart, by purposely falling upon the object, in a
-flour-sack, out of the first-floor window,—summoned a sententious
+flour-sack, out of the first-floor [[Window|window]],—summoned a sententious
 Enchanter; and he, coming up from the antipodes rather unsteadily,
-after an apparently violent journey, proved to be Mr. Wopsle in a
+after an apparently violent [[Journey|journey]], proved to be Mr. Wopsle in a
 high-crowned hat, with a necromantic work in one volume under his arm.
 The business of this enchanter on earth being principally to be talked
 at, sung at, butted at, danced at, and flashed at with fires of various
-colours, he had a good deal of time on his hands. And I observed, with
+colours, he had a good deal of [[Time|time]] on his hands. And I observed, with
 great surprise, that he devoted it to staring in my direction as if he
 were lost in amazement.
 
@@ -60,7 +60,7 @@ said Mr. Wopsle, going on in the same lost way, “I can’t be positive;
 yet I think I should.”
 
 Involuntarily I looked round me, as I was accustomed to look round me
-when I went home; for these mysterious words gave me a chill.
+when I went [[Home|home]]; for these mysterious words gave me a chill.
 
 “Oh! He can’t be in sight,” said Mr. Wopsle. “He went out before I went
 off. I saw him go.”
@@ -72,30 +72,30 @@ said nothing.
 
 “I had a ridiculous fancy that he must be with you, Mr. Pip, till I saw
 that you were quite unconscious of him, sitting behind you there like a
-ghost.”
+[[Ghost|ghost]].”
 
 My former chill crept over me again, but I was resolved not to speak
 yet, for it was quite consistent with his words that he might be set on
 to induce me to connect these references with Provis. Of course, I was
 perfectly sure and safe that Provis had not been there.
 
-“I dare say you wonder at me, Mr. Pip; indeed, I see you do. But it is
+“I dare say you [[Wonder|wonder]] at me, Mr. Pip; indeed, I see you do. But it is
 so very strange! You’ll hardly believe what I am going to tell you. I
 could hardly believe it myself, if you told me.”
 
 “Indeed?” said I.
 
 “No, indeed. Mr. Pip, you remember in old times a certain Christmas
-Day, when you were quite a child, and I dined at Gargery’s, and some
+Day, when you were quite a [[Child|child]], and I dined at Gargery’s, and some
 soldiers came to the door to get a pair of handcuffs mended?”
 
-“I remember it very well.”
+“I remember it very [[Well|well]].”
 
 “And you remember that there was a chase after two convicts, and that
 we joined in it, and that Gargery took you on his back, and that I took
-the lead, and you kept up with me as well as you could?”
+the lead, and you kept up with me as [[Well|well]] as you could?”
 
-“I remember it all very well.” Better than he thought,—except the last
+“I remember it all very [[Well|well]].” Better than he thought,—except the last
 clause.
 
 “And you remember that we came up with the two in a ditch, and that
@@ -108,7 +108,7 @@ severely handled and much mauled about the face by the other?”
 and that we went on to see the last of them, over the black marshes,
 with the torchlight shining on their faces,—I am particular about
 that,—with the torchlight shining on their faces, when there was an
-outer ring of dark night all about us?”
+outer ring of dark [[Night|night]] all about us?”
 
 “Yes,” said I. “I remember all that.”
 
@@ -126,20 +126,20 @@ of its being nothing more to me. “Very curious indeed!”
 
 I cannot exaggerate the enhanced disquiet into which this conversation
 threw me, or the special and peculiar terror I felt at Compeyson’s
-having been behind me “like a ghost.” For if he had ever been out of my
+having been behind me “like a [[Ghost|ghost]].” For if he had ever been out of my
 thoughts for a few moments together since the hiding had begun, it was
 in those very moments when he was closest to me; and to think that I
 should be so unconscious and off my guard after all my care was as if I
 had shut an avenue of a hundred doors to keep him out, and then had
-found him at my elbow. I could not doubt, either, that he was there,
+found him at my elbow. I could not [[Doubt|doubt]], either, that he was there,
 because I was there, and that, however slight an appearance of danger
 there might be about us, danger was always near and active.
 
 I put such questions to Mr. Wopsle as, When did the man come in? He
 could not tell me that; he saw me, and over my shoulder he saw the man.
-It was not until he had seen him for some time that he began to
+It was not until he had seen him for some [[Time|time]] that he began to
 identify him; but he had from the first vaguely associated him with me,
-and known him as somehow belonging to me in the old village time. How
+and known him as somehow belonging to me in the old village [[Time|time]]. How
 was he dressed? Prosperously, but not noticeably otherwise; he thought,
 in black. Was his face at all disfigured? No, he believed not. I
 believed not too, for, although in my brooding state I had taken no
@@ -149,14 +149,14 @@ face at all disfigured would have attracted my attention.
 When Mr. Wopsle had imparted to me all that he could recall or I
 extract, and when I had treated him to a little appropriate
 refreshment, after the fatigues of the evening, we parted. It was
-between twelve and one o’clock when I reached the Temple, and the gates
-were shut. No one was near me when I went in and went home.
+between twelve and one o’[[Clock|clock]] when I reached the Temple, and the gates
+were shut. No one was near me when I went in and went [[Home|home]].
 
-Herbert had come in, and we held a very serious council by the fire.
+Herbert had come in, and we held a very serious council by the [[Fire|fire]].
 But there was nothing to be done, saving to communicate to Wemmick what
-I had that night found out, and to remind him that we waited for his
+I had that [[Night|night]] found out, and to remind him that we waited for his
 hint. As I thought that I might compromise him if I went too often to
-the Castle, I made this communication by letter. I wrote it before I
+the [[Castle]], I made this communication by letter. I wrote it before I
 went to bed, and went out and posted it; and again no one was near me.
 Herbert and I agreed that we could do nothing else but be very
 cautious. And we were very cautious indeed,—more cautious than before,

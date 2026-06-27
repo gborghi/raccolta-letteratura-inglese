@@ -21,7 +21,7 @@ THE GOLDEN DUSTMAN RISES A LITTLE
 
 Mr and Mrs Lammle had come to breakfast with Mr and Mrs Boffin. They
 were not absolutely uninvited, but had pressed themselves with so much
-urgency on the golden couple, that evasion of the honour and pleasure
+urgency on the golden couple, that evasion of the [[Honour|honour]] and pleasure
 of their company would have been difficult, if desired. They were in a
 charming state of mind, were Mr and Mrs Lammle, and almost as fond of Mr
 and Mrs Boffin as of one another.
@@ -33,7 +33,7 @@ force of character, such natural sagacity united to such amiability and
 gentleness—these are the distinguishing characteristics of both.’
 
 This being said aloud, gave Mr Lammle an opportunity, as he came with Mr
-Boffin from the window to the breakfast table, of taking up his dear and
+Boffin from the [[Window|window]] to the breakfast table, of taking up his dear and
 honoured wife.
 
 ‘My Sophronia,’ said that gentleman, ‘your too partial estimate of your
@@ -42,7 +42,7 @@ husband’s character—’
 ‘No! Not too partial, Alfred,’ urged the lady, tenderly moved; ‘never
 say that.’
 
-‘My child, your favourable opinion, then, of your husband—you don’t
+‘My [[Child|child]], your favourable opinion, then, of your husband—you don’t
 object to that phrase, darling?’
 
 ‘How can I, Alfred?’
@@ -61,7 +61,7 @@ than I could.’
 
 ‘Far more than you could for yourself, Alfred?’
 
-‘My love, that is not the question.’
+‘My [[Love|love]], that is not the question.’
 
 ‘Not the question, Lawyer?’ said Mrs Lammle, archly.
 
@@ -74,8 +74,8 @@ when I see them in action.’
 ‘Alfred!’
 
 ‘They rouse my indignation, my dear, against the unworthy persons,
-and give me a combative desire to stand between Mr Boffin and all such
-persons. Why? Because, in my lower nature I am more worldly and less
+and give me a combative [[Desire|desire]] to stand between Mr Boffin and all such
+persons. Why? Because, in my lower [[Nature|nature]] I am more worldly and less
 delicate. Not being so magnanimous as Mr Boffin, I feel his injuries
 more than he does himself, and feel more capable of opposing his
 injurers.’
@@ -84,7 +84,7 @@ It struck Mrs Lammle that it appeared rather difficult this morning
 to bring Mr and Mrs Boffin into agreeable conversation. Here had been
 several lures thrown out, and neither of them had uttered a word. Here
 were she, Mrs Lammle, and her husband discoursing at once affectingly
-and effectively, but discoursing alone. Assuming that the dear old
+and effectively, but discoursing [[Alone|alone]]. Assuming that the dear old
 creatures were impressed by what they heard, still one would like to be
 sure of it, the more so, as at least one of the dear old creatures
 was somewhat pointedly referred to. If the dear old creatures were too
@@ -93,15 +93,15 @@ why then it would seem desirable that the dear old creatures should be
 taken by their heads and shoulders and brought into it.
 
 ‘But is not my husband saying in effect,’ asked Mrs Lammle, therefore,
-with an innocent air, of Mr and Mrs Boffin, ‘that he becomes unmindful
+with an [[Innocent|innocent]] air, of Mr and Mrs Boffin, ‘that he becomes unmindful
 of his own temporary misfortunes in his admiration of another whom he is
-burning to serve? And is not that making an admission that his nature is
+burning to serve? And is not that making an admission that his [[Nature|nature]] is
 a generous one? I am wretched in argument, but surely this is so, dear
 Mr and Mrs Boffin?’
 
 Still, neither Mr and Mrs Boffin said a word. He sat with his eyes on
 his plate, eating his muffins and ham, and she sat shyly looking at the
-teapot. Mrs Lammle’s innocent appeal was merely thrown into the air, to
+teapot. Mrs Lammle’s [[Innocent|innocent]] appeal was merely thrown into the air, to
 mingle with the steam of the urn. Glancing towards Mr and Mrs Boffin,
 she very slightly raised her eyebrows, as though inquiring of her
 husband: ‘Do I notice anything wrong here?’
@@ -111,11 +111,11 @@ manoeuvred his capacious shirt front into the largest demonstration
 possible, and then smiling retorted on his wife, thus:
 
 ‘Sophronia, darling, Mr and Mrs Boffin will remind you of the old adage,
-that self-praise is no recommendation.’
+that [[Self|self]]-praise is no recommendation.’
 
-‘Self-praise, Alfred? Do you mean because we are one and the same?’
+‘[[Self]]-praise, Alfred? Do you mean because we are one and the same?’
 
-‘No, my dear child. I mean that you cannot fail to remember, if you
+‘No, my dear [[Child|child]]. I mean that you cannot fail to remember, if you
 reflect for a single moment, that what you are pleased to compliment me
 upon feeling in the case of Mr Boffin, you have yourself confided to me
 as your own feeling in the case of Mrs Boffin.’
@@ -133,37 +133,37 @@ again.
 tone.
 
 ‘Really, I think,’ said Mrs Lammle, still gaily, ‘I must throw myself
-on the protection of the Court. Am I bound to answer that question, my
+on the protection of the [[Court]]. Am I bound to answer that question, my
 Lord?’ To Mr Boffin.
 
 ‘You needn’t, if you don’t like, ma’am,’ was his answer. ‘It’s not of
 the least consequence.’
 
 Both husband and wife glanced at him, very doubtfully. His manner was
-grave, but not coarse, and derived some dignity from a certain repressed
+[[Grave|grave]], but not coarse, and derived some dignity from a certain repressed
 dislike of the tone of the conversation.
 
 Again Mrs Lammle raised her eyebrows for instruction from her husband.
 He replied in a slight nod, ‘Try ’em again.’
 
-‘To protect myself against the suspicion of covert self-laudation, my
+‘To protect myself against the suspicion of covert [[Self|self]]-laudation, my
 dear Mrs Boffin,’ said the airy Mrs Lammle therefore, ‘I must tell you
 how it was.’
 
 ‘No. Pray don’t,’ Mr Boffin interposed.
 
-Mrs Lammle turned to him laughingly. ‘The Court objects?’
+Mrs Lammle turned to him laughingly. ‘The [[Court]] objects?’
 
-‘Ma’am,’ said Mr Boffin, ‘the Court (if I am the Court) does object. The
-Court objects for two reasons. First, because the Court don’t think it
-fair. Secondly, because the dear old lady, Mrs Court (if I am Mr) gets
+‘Ma’am,’ said Mr Boffin, ‘the [[Court]] (if I am the [[Court]]) does object. The
+[[Court]] objects for two reasons. First, because the [[Court]] don’t think it
+fair. Secondly, because the dear old lady, Mrs [[Court]] (if I am Mr) gets
 distressed by it.’
 
 A very remarkable wavering between two bearings—between her
 propitiatory bearing there, and her defiant bearing at Mr Twemlow’s—was
 observable on the part of Mrs Lammle as she said:
 
-‘What does the Court not consider fair?’
+‘What does the [[Court]] not consider fair?’
 
 ‘Letting you go on,’ replied Mr Boffin, nodding his head soothingly, as
 who should say, We won’t be harder on you than we can help; we’ll make
@@ -200,8 +200,8 @@ However, what I have to say, I will say with as little offence as
 possible; if I can say it without any, I shall be heartily glad. You two
 have done me a service, a very great service, in doing what you did (my
 old lady knows what it was), and I have put into this envelope a bank
-note for a hundred pound. I consider the service well worth a hundred
-pound, and I am well pleased to pay the money. Would you do me the
+note for a hundred pound. I consider the service [[Well|well]] worth a hundred
+pound, and I am [[Well|well]] pleased to pay the money. Would you do me the
 favour to take it, and likewise to accept my thanks?’
 
 With a haughty action, and without looking towards him, Mrs Lammle held
@@ -213,20 +213,20 @@ transferred out of Mr Boffin’s keeping into his own Sophronia’s.
 
 ‘It is not impossible,’ said Mr Boffin, addressing Alfred, ‘that you
 have had some general idea, sir, of replacing Rokesmith, in course of
-time?’
+[[Time|time]]?’
 
 ‘It is not,’ assented Alfred, with a glittering smile and a great deal
 of nose, ‘not impossible.’
 
 ‘And perhaps, ma’am,’ pursued Mr Boffin, addressing Sophronia, ‘you have
 been so kind as to take up my old lady in your own mind, and to do her
-the honour of turning the question over whether you mightn’t one of
+the [[Honour|honour]] of turning the question over whether you mightn’t one of
 these days have her in charge, like? Whether you mightn’t be a sort of
-Miss Bella Wilfer to her, and something more?’
+Miss [[Bella Wilfer]] to her, and something more?’
 
-‘I should hope,’ returned Mrs Lammle, with a scornful look and in a loud
+‘I should [[Hope|hope]],’ returned Mrs Lammle, with a scornful look and in a loud
 voice, ‘that if I were anything to your wife, sir, I could hardly fail
-to be something more than Miss Bella Wilfer, as you call her.’
+to be something more than Miss [[Bella Wilfer]], as you call her.’
 
 ‘What do YOU call her, ma’am?’ asked Mr Boffin.
 
@@ -242,12 +242,12 @@ Boffin, turning to Alfred.
 single word that might be afterwards remembered as unpleasant; but it
 won’t do.’
 
-‘Sophronia, my love,’ her husband repeated in a bantering manner, ‘you
+‘Sophronia, my [[Love|love]],’ her husband repeated in a bantering manner, ‘you
 hear? It won’t do.’
 
 ‘No,’ said Mr Boffin, with his voice still dropped, ‘it really won’t.
 You positively must excuse us. If you’ll go your way, we’ll go ours, and
-so I hope this affair ends to the satisfaction of all parties.’
+so I [[Hope|hope]] this affair ends to the satisfaction of all parties.’
 
 Mrs Lammle gave him the look of a decidedly dissatisfied party demanding
 exemption from the category; but said nothing.
@@ -261,7 +261,7 @@ Mr and Mrs Lammle looked at one another across the table, but neither
 could say that there was. Mr Lammle shrugged his shoulders, and Mrs
 Lammle sat rigid.
 
-‘Very good,’ said Mr Boffin. ‘We hope (my old lady and me) that you’ll
+‘Very good,’ said Mr Boffin. ‘We [[Hope|hope]] (my old lady and me) that you’ll
 give us credit for taking the plainest and honestest short-cut that
 could be taken under the circumstances. We have talked it over with a
 deal of care (my old lady and me), and we have felt that at all to lead
@@ -270,25 +270,25 @@ the right thing. So, I have openly given you to understand that—’
 Mr Boffin sought for a new turn of speech, but could find none so
 expressive as his former one, repeated in a confidential tone, ‘—that
 it won’t do. If I could have put the case more pleasantly I would; but
-I hope I haven’t put it very unpleasantly; at all events I haven’t meant
-to. So,’ said Mr Boffin, by way of peroration, ‘wishing you well in the
+I [[Hope|hope]] I haven’t put it very unpleasantly; at all events I haven’t meant
+to. So,’ said Mr Boffin, by way of peroration, ‘wishing you [[Well|well]] in the
 way you go, we now conclude with the observation that perhaps you’ll go
 it.’
 
-Mr Lammle rose with an impudent laugh on his side of the table, and Mrs
-Lammle rose with a disdainful frown on hers. At this moment a hasty foot
+Mr Lammle [[Rose|rose]] with an impudent laugh on his side of the table, and Mrs
+Lammle [[Rose|rose]] with a disdainful frown on hers. At this moment a hasty foot
 was heard on the staircase, and Georgiana Podsnap broke into the room,
-unannounced and in tears.
+unannounced and in [[Tears|tears]].
 
 ‘Oh, my dear Sophronia,’ cried Georgiana, wringing her hands as she ran
 up to embrace her, ‘to think that you and Alfred should be ruined! Oh,
 my poor dear Sophronia, to think that you should have had a Sale at your
-house after all your kindness to me! Oh, Mr and Mrs Boffin, pray forgive
+[[house]] after all your kindness to me! Oh, Mr and Mrs Boffin, pray forgive
 me for this intrusion, but you don’t know how fond I was of Sophronia
 when Pa wouldn’t let me go there any more, or what I have felt for
 Sophronia since I heard from Ma of her having been brought low in the
 world. You don’t, you can’t, you never can, think, how I have lain awake
-at night and cried for my good Sophronia, my first and only friend!’
+at [[Night|night]] and cried for my good Sophronia, my first and only friend!’
 
 Mrs Lammle’s manner changed under the poor silly girl’s embraces, and
 she turned extremely pale: directing one appealing look, first to Mrs
@@ -314,7 +314,7 @@ I came to see my poor Sophronia, my only friend. Oh! how I felt the
 separation, my dear Sophronia, before I knew you were brought low in the
 world, and how much more I feel it now!’
 
-There were actually tears in the bold woman’s eyes, as the soft-headed
+There were actually [[Tears|tears]] in the bold woman’s eyes, as the soft-headed
 and soft-hearted girl twined her arms about her neck.
 
 ‘But I’ve come on business,’ said Georgiana, sobbing and drying her
@@ -325,7 +325,7 @@ kept waiting on the doorsteps of that dreadful turban, and there never
 were such pawing horses as ours unsettling my mind every moment more
 and more when I want more mind than I have got, by pawing up Mr Boffin’s
 street where they have no business to be. Oh! where is, where is it?
-Oh! I can’t find it!’ All this time sobbing, and searching in the little
+Oh! I can’t find it!’ All this [[Time|time]] sobbing, and searching in the little
 reticule.
 
 ‘What do you miss, my dear?’ asked Mr Boffin, stepping forward.
@@ -333,7 +333,7 @@ reticule.
 ‘Oh! it’s little enough,’ replied Georgiana, ‘because Ma always treats
 me as if I was in the nursery (I am sure I wish I was!), but I hardly
 ever spend it and it has mounted up to fifteen pounds, Sophronia, and I
-hope three five-pound notes are better than nothing, though so little,
+[[Hope|hope]] three five-pound notes are better than nothing, though so little,
 so little! And now I have found that—oh, my goodness! there’s the other
 gone next! Oh no, it isn’t, here it is!’
 
@@ -343,7 +343,7 @@ produced a necklace.
 ‘Ma says chits and jewels have no business together,’ pursued Georgiana,
 ‘and that’s the reason why I have no trinkets except this, but I suppose
 my aunt Hawkinson was of a different opinion, because she left me this,
-though I used to think she might just as well have buried it, for it’s
+though I used to think she might just as [[Well|well]] have buried it, for it’s
 always kept in jewellers’ cotton. However, here it is, I am thankful
 to say, and of use at last, and you’ll sell it, dear Sophronia, and buy
 things with it.’
@@ -366,7 +366,7 @@ will you?’
 ‘No, no,’ said Mr Boffin, ‘it shall be seen to.’
 
 ‘Oh, thank you, thank you!’ cried Georgiana. ‘If my maid had a little
-note and half a crown, I could run round to the pastrycook’s to sign
+note and half a [[Crown|crown]], I could run round to the pastrycook’s to sign
 something, or I could sign something in the Square if somebody would
 come and cough for me to let ’em in with the key, and would bring a pen
 and ink with ’em and a bit of blotting-paper. Oh, my gracious! I must
@@ -397,7 +397,7 @@ Mrs Lammle had taken up her parasol from a side table, and stood
 sketching with it on the pattern of the damask cloth, as she had
 sketched on the pattern of Mr Twemlow’s papered wall.
 
-‘You will not undeceive her I hope, Mr Boffin?’ she said, turning her
+‘You will not undeceive her I [[Hope|hope]], Mr Boffin?’ she said, turning her
 head towards him, but not her eyes.
 
 ‘No,’ said Mr Boffin.
@@ -405,7 +405,7 @@ head towards him, but not her eyes.
 ‘I mean, as to the worth and value of her friend,’ Mrs Lammle explained,
 in a measured voice, and with an emphasis on her last word.
 
-‘No,’ he returned. ‘I may try to give a hint at her home that she is in
+‘No,’ he returned. ‘I may try to give a hint at her [[Home|home]] that she is in
 want of kind and careful protection, but I shall say no more than that
 to her parents, and I shall say nothing to the young lady herself.’
 
@@ -415,15 +415,15 @@ under the circumstances, would have been so considerate and sparing as
 you have been to me just now. Do you care to be thanked?’
 
 ‘Thanks are always worth having,’ said Mrs Boffin, in her ready good
-nature.
+[[Nature|nature]].
 
 ‘Then thank you both.’
 
 ‘Sophronia,’ asked her husband, mockingly, ‘are you sentimental?’
 
-‘Well, well, my good sir,’ Mr Boffin interposed, ‘it’s a very good
-thing to think well of another person, and it’s a very good thing to be
-thought well of BY another person. Mrs Lammle will be none the worse for
+‘[[Well]], [[Well|well]], my good sir,’ Mr Boffin interposed, ‘it’s a very good
+thing to think [[Well|well]] of another person, and it’s a very good thing to be
+thought [[Well|well]] of BY another person. Mrs Lammle will be none the worse for
 it, if she is.’
 
 ‘Much obliged. But I asked Mrs Lammle if she was.’
@@ -443,11 +443,11 @@ until they vanished into Mr Boffin’s waistcoat pocket. Then he directed
 a look, half exasperated and half jeering, at his wife. She still stood
 sketching; but, as she sketched, there was a struggle within her, which
 found expression in the depth of the few last lines the parasol point
-indented into the table-cloth, and then some tears fell from her eyes.
+indented into the table-cloth, and then some [[Tears|tears]] fell from her eyes.
 
 ‘Why, confound the woman,’ exclaimed Lammle, ‘she _is_ sentimental.’
 
-She walked to the window, flinching under his angry stare, looked out
+She walked to the [[Window|window]], flinching under his angry stare, looked out
 for a moment, and turned round quite coldly.
 
 ‘You have had no former cause of complaint on the sentimental score,
@@ -456,7 +456,7 @@ We go abroad soon, with the money we have earned here?’
 
 ‘You know we do; you know we must.’
 
-‘There is no fear of my taking any sentiment with me. I should soon be
+‘There is no [[Fear|fear]] of my taking any sentiment with me. I should soon be
 eased of it, if I did. But it will be all left behind. It IS all left
 behind. Are you ready, Alfred?’
 
@@ -465,7 +465,7 @@ behind. Are you ready, Alfred?’
 ‘Let us go then. I am sorry I have delayed our dignified departure.’
 
 She passed out and he followed her. Mr and Mrs Boffin had the curiosity
-softly to raise a window and look after them as they went down the long
+softly to raise a [[Window|window]] and look after them as they went down the long
 street. They walked arm-in-arm, showily enough, but without appearing
 to interchange a syllable. It might have been fanciful to suppose that
 under their outer bearing there was something of the shamed air of two

@@ -25,7 +25,7 @@ re-passing the shop every minute, by scores, I feel half tempted to
 rush out, collar somebody, bring him in, and make him buy fifty pounds’
 worth of instruments for ready money. What are you looking in at the
 door for?—” continued Walter, apostrophizing an old gentleman with a
-powdered head (inaudibly to him of course), who was staring at a ship’s
+powdered head (inaudibly to him of course), who was staring at a [[Ship|ship]]’s
 telescope with all his might and main. “That’s no use. I could do that.
 Come in and buy it!”
 
@@ -39,7 +39,7 @@ spirits, Uncle. When orders do come, they’ll come in such a crowd, you
 won’t be able to execute ’em.”
 
 “I shall be past executing ’em, whenever they come, my boy,” returned
-Solomon Gills. “They’ll never come to this shop again, till I am out of
+[[Solomon Gills]]. “They’ll never come to this shop again, till I am out of
 t.”
 
 “I say, Uncle! You musn’t really, you know!” urged Walter. “Don’t!”
@@ -89,29 +89,29 @@ have been fonder of her than I am of you.”
 
 “I know that, Uncle Sol,” returned Walter. “Lord bless you, I know
 that. But you wouldn’t have had the whole weight of any uncomfortable
-secrets if she had been with you, because she would have known how to
+[[Secrets|secrets]] if she had been with you, because she would have known how to
 relieve you of ’em, and I don’t.”
 
 “Yes, yes, you do,” returned the Instrument-maker.
 
-“Well then, what’s the matter, Uncle Sol?” said Walter, coaxingly.
+“[[Well]] then, what’s the matter, Uncle Sol?” said Walter, coaxingly.
 “Come! What’s the matter?”
 
-Solomon Gills persisted that there was nothing the matter; and
+[[Solomon Gills]] persisted that there was nothing the matter; and
 maintained it so resolutely, that his nephew had no resource but to
-make a very indifferent imitation of believing him.
+make a very indifferent [[Imitation|imitation]] of believing him.
 
 “All I can say is, Uncle Sol, that if there is—”
 
 “But there isn’t,” said Solomon.
 
-“Very well,” said Walter. “Then I’ve no more to say; and that’s lucky,
-for my time’s up for going to business. I shall look in by-and-by when
+“Very [[Well|well]],” said Walter. “Then I’ve no more to say; and that’s lucky,
+for my [[Time|time]]’s up for going to business. I shall look in by-and-by when
 I’m out, to see how you get on, Uncle. And mind, Uncle! I’ll never
 believe you again, and never tell you anything more about Mr Carker the
 Junior, if I find out that you have been deceiving me!”
 
-Solomon Gills laughingly defied him to find out anything of the kind;
+[[Solomon Gills]] laughingly defied him to find out anything of the kind;
 and Walter, revolving in his thoughts all sorts of impracticable ways
 of making fortunes and placing the wooden Midshipman in a position of
 independence, betook himself to the offices of Dombey and Son with a
@@ -129,11 +129,11 @@ dining-tables, were among its most reasonable arrangements. A banquet
 array of dish-covers, wine-glasses, and decanters was generally to be
 seen, spread forth upon the bosom of a four-post bedstead, for the
 entertainment of such genial company as half-a-dozen pokers, and a hall
-lamp. A set of window curtains with no windows belonging to them, would
+lamp. A set of [[Window|window]] curtains with no windows belonging to them, would
 be seen gracefully draping a barricade of chests of drawers, loaded
 with little jars from chemists’ shops; while a homeless hearthrug
 severed from its natural companion the fireside, braved the shrewd east
-wind in its adversity, and trembled in melancholy accord with the
+[[Wind|wind]] in its adversity, and trembled in [[Melancholy|melancholy]] accord with the
 shrill complainings of a cabinet piano, wasting away, a string a day,
 and faintly resounding to the noises of the street in its jangling and
 distracted brain. Of motionless clocks that never stirred a finger, and

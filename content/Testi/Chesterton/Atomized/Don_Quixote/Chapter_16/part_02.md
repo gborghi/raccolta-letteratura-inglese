@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 15 (part 2)"
+title: "[[Don Quixote]] — Chapter 15 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -30,7 +30,7 @@ an unnatural simplicity.
 
 "What can I say?" she said.  "I believe now that we must part."
 
-So, for the first time, it was really admitted between them that they
+So, for the first [[Time|time]], it was really admitted between them that they
 had come together.
 
 There is a great deal of fallacy and folly about the ordinary
@@ -42,7 +42,7 @@ in talking about themselves.  But people tell a great deal
 so long as they talk about everything except themselves.
 These two had talked so often and so long about all the things
 that they cared for so much less than for each other,
-that they had come to an almost uncanny omniscience, and could
+that they had come to an almost [[Uncanny|uncanny]] omniscience, and could
 sometimes have deduced what one or the other thought about
 cookery from remarks about Confucius.  And, therefore, at this
 unprepared and apparently pointless crisis, they talked
@@ -62,11 +62,11 @@ I suppose God does belong to you, like so many other good things?"
 "And yet I suppose there is something in one's mind one cannot
 give up to anybody."
 
-"If I did not love you I could lie," he said; and again neither
-of them noticed that a word had been said for the first time.
+"If I did not [[Love|love]] you I could lie," he said; and again neither
+of them noticed that a word had been said for the first [[Time|time]].
 "God, what a gorgeous feast of lying I could have just now,
 explaining how much you mystified me by your incomprehensible attitude;
-and what had I done to forfeit our beautiful intellectual friendship;
+and what had I done to forfeit our beautiful intellectual [[Friendship|friendship]];
 and had I not at least a right to an explanation;
 and all the rest.  Lord, if I were only a real politician!
 It takes a real politician to say that politics do not matter.
@@ -79,7 +79,7 @@ destroy that essential good feeling--oh, hell and the devil
 and all the dung-heaps of the world!  I know what we mean.
 You and I are people who cannot help caring about right and wrong."
 
-Then after a long silence he said:  "I suppose you believe in Herne
+Then after a long [[Silence|silence]] he said:  "I suppose you believe in Herne
 and all his revival of chivalry?  I suppose you really believe it
 is chivalrous; and even know what you mean by it?"
 
@@ -93,7 +93,7 @@ already come to be symbols of something else with our people."
 
 "I might answer your people," she said, "rather as you have
 answered me.  I know I am called old-fashioned; and your
-people have all the new fashions.  I feel cross with them;
+people have all the new fashions.  I feel [[Cross|cross]] with them;
 I feel inclined to insult them by calling them fashionable.
 But they really are.  Don't they take up all this business
 about a woman living for herself and sex making no difference
@@ -102,7 +102,7 @@ They would all say that I was behind the times, and talk of me
 as if I were a slave in a harem.  And yet I will challenge them
 on that, out of the tragic and hateful tangle in which I am
 standing to-day. They talk about a woman thinking for herself!
-They talk about a woman standing alone!  How many of the wives
+They talk about a woman standing [[Alone|alone]]!  How many of the wives
 of your Socialists are out attacking Socialism?  How many women
 engaged to Labour Members are voting against them at the polls
 or speaking against them on the platform?  Nine-tenths of your
@@ -111,24 +111,24 @@ But I _am_ independent.  I am thinking for myself.  I am living
 my own life, as they call it; and a most miserable life it is.
 I am not going along with a revolutionary man."
 
-There was again a long silence; the sort of silence which endures
+There was again a long [[Silence|silence]]; the sort of [[Silence|silence]] which endures
 because it is unnecessary, or rather impossible, to ask questions;
-and then Braintree took a step nearer and said:  "Well, I am
-miserable enough, if that is part of the logic of the case;
+and then Braintree took a step nearer and said:  "[[Well]], I am
+miserable enough, if that is part of the [[logic]] of the case;
 and yet again it is just part of this infernal furnace of reality
-that I cannot attack logic.  How easy it is to attack logic!
+that I cannot attack [[logic]].  How easy it is to attack [[logic]]!
 How impossible to find anything else except lying!
 And then they say that women are not logical; because they
-never waste logic on things that do not matter.  My God,
-is there any way _out_ of logic?"
+never waste [[logic]] on things that do not matter.  My God,
+is there any way _out_ of [[logic]]?"
 
 To anyone who had not known their knowledge of each other,
 this conversation would have seemed a series of riddles;
 but Braintree knew the answers before the riddles were asked.
 He knew that this woman had got hold of a religion
-and that a religion is often a renunciation.
-She would not go with him without helping him to the death.
-And she would not help him; she would resist him to the death.
+and that a religion is often a [[Renunciation|renunciation]].
+She would not go with him without helping him to the [[Death|death]].
+And she would not help him; she would resist him to the [[Death|death]].
 That antagonism between them, as it had arisen in silly remarks
 and random _repartees_ in their first interview in the long
 room at Seawood, that antagonism, transfigured, enlightened,
@@ -137,4 +137,4 @@ of each other, was risen again to a noble height of reason,
 which he was the last man in the world to despise.
 People laugh at these things when they find them in the old
 stories of Roman virtue.  They are people who have never loved
-at the same time a truth and a friend.
+at the same [[Time|time]] a [[Truth|truth]] and a friend.

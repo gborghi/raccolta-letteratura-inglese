@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 37 (part 2)"
+title: "[[Mansfield Park]] — Chapter 37 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,7 +17,7 @@ tags:
 It was a medicinal project upon his niece’s understanding, which he
 must consider as at present diseased. A residence of eight or nine
 years in the abode of wealth and plenty had a little disordered her
-powers of comparing and judging. Her father’s house would, in all
+powers of comparing and judging. Her father’s [[house]] would, in all
 probability, teach her the value of a good income; and he trusted that
 she would be the wiser and happier woman, all her life, for the
 experiment he had devised.
@@ -27,48 +27,48 @@ attack of them when she first understood what was intended, when her
 uncle first made her the offer of visiting the parents, and brothers,
 and sisters, from whom she had been divided almost half her life; of
 returning for a couple of months to the scenes of her infancy, with
-William for the protector and companion of her journey, and the
+William for the protector and companion of her [[Journey|journey]], and the
 certainty of continuing to see William to the last hour of his
 remaining on land. Had she ever given way to bursts of delight, it must
 have been then, for she was delighted, but her happiness was of a
 quiet, deep, heart-swelling sort; and though never a great talker, she
-was always more inclined to silence when feeling most strongly. At the
+was always more inclined to [[Silence|silence]] when feeling most strongly. At the
 moment she could only thank and accept. Afterwards, when familiarised
 with the visions of enjoyment so suddenly opened, she could speak more
-largely to William and Edmund of what she felt; but still there were
+largely to William and [[Edmund]] of what she felt; but still there were
 emotions of tenderness that could not be clothed in words. The
 remembrance of all her earliest pleasures, and of what she had suffered
 in being torn from them, came over her with renewed strength, and it
-seemed as if to be at home again would heal every pain that had since
+seemed as if to be at [[Home|home]] again would heal every [[Pain|pain]] that had since
 grown out of the separation. To be in the centre of such a circle,
 loved by so many, and more loved by all than she had ever been before;
-to feel affection without fear or restraint; to feel herself the equal
+to feel affection without [[Fear|fear]] or restraint; to feel herself the equal
 of those who surrounded her; to be at peace from all mention of the
 Crawfords, safe from every look which could be fancied a reproach on
 their account. This was a prospect to be dwelt on with a fondness that
 could be but half acknowledged.
 
-Edmund, too—to be two months from _him_ (and perhaps she might be
+[[Edmund]], too—to be two months from _him_ (and perhaps she might be
 allowed to make her absence three) must do her good. At a distance,
 unassailed by his looks or his kindness, and safe from the perpetual
 irritation of knowing his heart, and striving to avoid his confidence,
 she should be able to reason herself into a properer state; she should
-be able to think of him as in London, and arranging everything there,
+be able to think of him as in [[London]], and arranging everything there,
 without wretchedness. What might have been hard to bear at Mansfield
 was to become a slight evil at Portsmouth.
 
-The only drawback was the doubt of her aunt Bertram’s being comfortable
+The only drawback was the [[Doubt|doubt]] of her aunt [[Bertram]]’s being comfortable
 without her. She was of use to no one else; but _there_ she might be
 missed to a degree that she did not like to think of; and that part of
 the arrangement was, indeed, the hardest for Sir Thomas to accomplish,
 and what only _he_ could have accomplished at all.
 
-But he was master at Mansfield Park. When he had really resolved on any
+But he was master at [[Mansfield Park]]. When he had really resolved on any
 measure, he could always carry it through; and now by dint of long
 talking on the subject, explaining and dwelling on the duty of Fanny’s
 sometimes seeing her family, he did induce his wife to let her go;
 obtaining it rather from submission, however, than conviction, for Lady
-Bertram was convinced of very little more than that Sir Thomas thought
+[[Bertram]] was convinced of very little more than that Sir Thomas thought
 Fanny ought to go, and therefore that she must. In the calmness of her
 own dressing-room, in the impartial flow of her own meditations,
 unbiased by his bewildering statements, she could not acknowledge any
@@ -78,28 +78,28 @@ not missing her, which under Mrs. Norris’s discussion was the point
 attempted to be proved, she set herself very steadily against admitting
 any such thing.
 
-Sir Thomas had appealed to her reason, conscience, and dignity. He
-called it a sacrifice, and demanded it of her goodness and self-command
+Sir Thomas had appealed to her reason, [[Conscience|conscience]], and dignity. He
+called it a sacrifice, and demanded it of her goodness and [[Self|self]]-command
 as such. But Mrs. Norris wanted to persuade her that Fanny could be
-very well spared—_she_ being ready to give up all her own time to her
+very [[Well|well]] spared—_she_ being ready to give up all her own [[Time|time]] to her
 as requested—and, in short, could not really be wanted or missed.
 
-“That may be, sister,” was all Lady Bertram’s reply. “I dare say you
+“That may be, sister,” was all Lady [[Bertram]]’s reply. “I dare say you
 are very right; but I am sure I shall miss her very much.”
 
 The next step was to communicate with Portsmouth. Fanny wrote to offer
 herself; and her mother’s answer, though short, was so kind—a few
 simple lines expressed so natural and motherly a joy in the prospect of
-seeing her child again, as to confirm all the daughter’s views of
+seeing her [[Child|child]] again, as to confirm all the daughter’s views of
 happiness in being with her—convincing her that she should now find a
 warm and affectionate friend in the “mama” who had certainly shewn no
 remarkable fondness for her formerly; but this she could easily suppose
 to have been her own fault or her own fancy. She had probably alienated
-love by the helplessness and fretfulness of a fearful temper, or been
+[[Love|love]] by the helplessness and fretfulness of a fearful temper, or been
 unreasonable in wanting a larger share than any one among so many could
 deserve. Now, when she knew better how to be useful, and how to
 forbear, and when her mother could be no longer occupied by the
-incessant demands of a house full of little children, there would be
+incessant demands of a [[house]] full of little children, there would be
 leisure and inclination for every comfort, and they should soon be what
 mother and daughter ought to be to each other.
 
@@ -111,12 +111,12 @@ before she went out of harbour—the Thrush was certainly the finest
 sloop in the service—and there were several improvements in the
 dockyard, too, which he quite longed to shew her.
 
-He did not scruple to add that her being at home for a while would be a
+He did not scruple to add that her being at [[Home|home]] for a while would be a
 great advantage to everybody.
 
 “I do not know how it is,” said he; “but we seem to want some of your
-nice ways and orderliness at my father’s. The house is always in
+nice ways and orderliness at my father’s. The [[house]] is always in
 confusion. You will set things going in a better way, I am sure. You
 will tell my mother how it all ought to be, and you will be so useful
-to Susan, and you will teach Betsey, and make the boys love and mind
+to Susan, and you will teach Betsey, and make the boys [[Love|love]] and mind
 you. How right and comfortable it will all be!”

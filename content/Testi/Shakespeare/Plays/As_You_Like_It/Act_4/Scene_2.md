@@ -16,9 +16,9 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Jaques and Lords dressed as foresters JAQUES Which is he that killed the deer? FIRST LORD Sir, it was I. |
-| JAQUES | (to the others) Let’s present him to the Duke like a Roman conqueror. And it would do well to set the deer’s horns upon his head for a branch of victory. Have you no song, forester, for this purpose? |
+| *(didascalia)* | Enter [[Jaques]] and Lords dressed as foresters [[Jaques|JAQUES]] Which is he that killed the deer? FIRST LORD Sir, it was I. |
+| [[Jaques|JAQUES]] | (to the others) Let’s present him to the Duke like a Roman conqueror. And it would do [[Well|well]] to set the deer’s horns upon his head for a branch of victory. Have you no [[Song|song]], forester, for this purpose? |
 | SECOND LORD | Yes, sir. |
-| JAQUES | Sing it. ’Tis no matter how it be in tune, so it make noise enough. |
-| LORDS | (sing)<br>What shall he have that killed the deer?<br>His leather skin and horns to wear.<br>Then sing him home; the rest shall bear<br>This burden.<br>Take thou no scorn to wear the horn;<br>It was a crest ere thou wast born.<br>Thy father’s father wore it,<br>And thy father bore it.<br>The horn, the horn, the lusty horn<br>Is not a thing to laugh to scorn. |
+| [[Jaques|JAQUES]] | Sing it. ’Tis no matter how it be in tune, so it make noise enough. |
+| LORDS | (sing)<br>What shall he have that killed the deer?<br>His leather skin and horns to wear.<br>Then sing him [[Home|home]]; the rest shall bear<br>This burden.<br>Take thou no scorn to wear the horn;<br>It was a crest ere thou wast born.<br>Thy father’s father wore it,<br>And thy father bore it.<br>The horn, the horn, the lusty horn<br>Is not a thing to laugh to scorn. |
 | *(didascalia)* | Exeunt |

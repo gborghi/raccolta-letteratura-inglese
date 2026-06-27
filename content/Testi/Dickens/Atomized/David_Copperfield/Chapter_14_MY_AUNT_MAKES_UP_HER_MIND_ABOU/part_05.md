@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)"
+title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -31,7 +31,7 @@ to propitiate, induces me to think it possible. Now I must caution you
 that if you abet him once, you abet him for good and all; if you step
 in between him and me, now, you must step in, Miss Trotwood, for ever.
 I cannot trifle, or be trifled with. I am here, for the first and last
-time, to take him away. Is he ready to go? If he is not--and you tell me
+[[Time|time]], to take him away. Is he ready to go? If he is not--and you tell me
 he is not; on any pretence; it is indifferent to me what--my doors are
 shut against him henceforth, and yours, I take it for granted, are open
 to him.’
@@ -42,10 +42,10 @@ looking grimly on the speaker. When he had finished, she turned her
 eyes so as to command Miss Murdstone, without otherwise disturbing her
 attitude, and said:
 
-‘Well, ma’am, have YOU got anything to remark?’
+‘[[Well]], ma’am, have YOU got anything to remark?’
 
 ‘Indeed, Miss Trotwood,’ said Miss Murdstone, ‘all that I could say has
-been so well said by my brother, and all that I know to be the fact
+been so [[Well|well]] said by my brother, and all that I know to be the fact
 has been so plainly stated by him, that I have nothing to add except my
 thanks for your politeness. For your very great politeness, I am sure,’
 said Miss Murdstone; with an irony which no more affected my aunt, than
@@ -56,13 +56,13 @@ it discomposed the cannon I had slept by at Chatham.
 I answered no, and entreated her not to let me go. I said that neither
 Mr. nor Miss Murdstone had ever liked me, or had ever been kind to me.
 That they had made my mama, who always loved me dearly, unhappy about
-me, and that I knew it well, and that Peggotty knew it. I said that I
+me, and that I knew it [[Well|well]], and that Peggotty knew it. I said that I
 had been more miserable than I thought anybody could believe, who only
 knew how young I was. And I begged and prayed my aunt--I forget in
 what terms now, but I remember that they affected me very much then--to
 befriend and protect me, for my father’s sake.
 
-‘Mr. Dick,’ said my aunt, ‘what shall I do with this child?’
+‘Mr. Dick,’ said my aunt, ‘what shall I do with this [[Child|child]]?’
 
 Mr. Dick considered, hesitated, brightened, and rejoined, ‘Have him
 measured for a suit of clothes directly.’
@@ -76,7 +76,7 @@ you say he is, at least I can do as much for him then, as you have done.
 But I don’t believe a word of it.’
 
 ‘Miss Trotwood,’ rejoined Mr. Murdstone, shrugging his shoulders, as he
-rose, ‘if you were a gentleman--’
+[[Rose|rose]], ‘if you were a gentleman--’
 
 ‘Bah! Stuff and nonsense!’ said my aunt. ‘Don’t talk to me!’
 
@@ -93,19 +93,19 @@ couldn’t say boh! to a goose!’
 
 ‘I never heard anything so elegant!’ said Miss Murdstone.
 
-‘Do you think I can’t understand you as well as if I had seen you,’
+‘Do you think I can’t understand you as [[Well|well]] as if I had seen you,’
 pursued my aunt, ‘now that I DO see and hear you--which, I tell you
 candidly, is anything but a pleasure to me? Oh yes, bless us! who so
-smooth and silky as Mr. Murdstone at first! The poor, benighted innocent
+smooth and silky as Mr. Murdstone at first! The poor, benighted [[Innocent|innocent]]
 had never seen such a man. He was made of sweetness. He worshipped her.
 He doted on her boy--tenderly doted on him! He was to be another father
-to him, and they were all to live together in a garden of roses, weren’t
+to him, and they were all to live together in a [[Garden|garden]] of roses, weren’t
 they? Ugh! Get along with you, do!’ said my aunt.
 
 ‘I never heard anything like this person in my life!’ exclaimed Miss
 Murdstone.
 
-‘And when you had made sure of the poor little fool,’ said my aunt--‘God
+‘And when you had made sure of the poor little [[Fool|fool]],’ said my aunt--‘God
 forgive me that I should call her so, and she gone where YOU won’t go in
 a hurry--because you had not done wrong enough to her and hers, you
 must begin to train her, must you? begin to break her, like a poor
@@ -120,11 +120,11 @@ Miss Betsey, without taking the least notice of the interruption,
 continued to address herself to Mr. Murdstone as if there had been no
 such thing.
 
-‘Mr. Murdstone,’ she said, shaking her finger at him, ‘you were a tyrant
+‘Mr. Murdstone,’ she said, shaking her finger at him, ‘you were a [[Tyrant|tyrant]]
 to the simple baby, and you broke her heart. She was a loving baby--I
 know that; I knew it, years before you ever saw her--and through the
 best part of her weakness you gave her the wounds she died of. There
-is the truth for your comfort, however you like it. And you and your
+is the [[Truth|truth]] for your comfort, however you like it. And you and your
 instruments may make the most of it.’
 
 ‘Allow me to inquire, Miss Trotwood,’ interposed Miss Murdstone,
@@ -132,12 +132,12 @@ instruments may make the most of it.’
 experienced, my brother’s instruments?’
 
 ‘It was clear enough, as I have told you, years before YOU ever saw
-her--and why, in the mysterious dispensations of Providence, you ever
+her--and why, in the mysterious dispensations of [[Providence]], you ever
 did see her, is more than humanity can comprehend--it was clear enough
-that the poor soft little thing would marry somebody, at some time or
-other; but I did hope it wouldn’t have been as bad as it has turned out.
-That was the time, Mr. Murdstone, when she gave birth to her boy here,’
-said my aunt; ‘to the poor child you sometimes tormented her through
+that the poor soft little thing would marry somebody, at some [[Time|time]] or
+other; but I did [[Hope|hope]] it wouldn’t have been as bad as it has turned out.
+That was the [[Time|time]], Mr. Murdstone, when she gave birth to her boy here,’
+said my aunt; ‘to the poor [[Child|child]] you sometimes tormented her through
 afterwards, which is a disagreeable remembrance and makes the sight of
 him odious now. Aye, aye! you needn’t wince!’ said my aunt. ‘I know it’s
 true without that.’

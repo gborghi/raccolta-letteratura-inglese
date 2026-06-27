@@ -17,7 +17,7 @@ tags:
 ‘If you’re not an idiot,’ said Miss Brass harshly, ‘hold your peace.’
 
 ‘Sarah, my dear,’ returned her brother, ‘thank you.  But I know what I
-am about, my love, and will take the liberty of expressing myself
+am about, my [[Love|love]], and will take the liberty of expressing myself
 accordingly.  Mr Witherden, Sir, your handkerchief is hanging out of
 your pocket--would you allow me to--,
 
@@ -28,9 +28,9 @@ eye, and a hat grievously crushed, stopped short, and looked round with
 a pitiful smile.
 
 ‘He shuns me,’ said Sampson, ‘even when I would, as I may say, heap
-coals of fire upon his head.  Well!  Ah! But I am a falling house, and
+coals of [[Fire|fire]] upon his head.  [[Well]]!  Ah! But I am a falling [[house]], and
 the rats (if I may be allowed the expression in reference to a
-gentleman I respect and love beyond everything) fly from me!
+gentleman I respect and [[Love|love]] beyond everything) fly from me!
 Gentlemen--regarding your conversation just now, I happened to see my
 sister on her way here, and, wondering where she could be going to, and
 being--may I venture to say?--naturally of a suspicious turn, followed
@@ -41,7 +41,7 @@ more.’
 
 ‘Sarah, my dear,’ rejoined Brass with undiminished politeness, ‘I thank
 you kindly, but will still proceed.  Mr Witherden, sir, as we have the
-honour to be members of the same profession--to say nothing of that
+[[Honour|honour]] to be members of the same profession--to say nothing of that
 other gentleman having been my lodger, and having partaken, as one may
 say, of the hospitality of my roof--I think you might have given me the
 refusal of this offer in the first instance.  I do indeed.  Now, my
@@ -53,7 +53,7 @@ Mr Witherden was silent, and Brass went on.
 ‘If you will do me the favour,’ he said, holding up the green shade,
 and revealing an eye most horribly discoloured, ‘to look at this, you
 will naturally inquire, in your own minds, how did I get it.  If you
-look from that, to my face, you will wonder what could have been the
+look from that, to my face, you will [[Wonder|wonder]] what could have been the
 cause of all these scratches.  And if from them to my hat, how it came
 into the state in which you see it.  Gentlemen,’ said Brass, striking
 the hat fiercely with his clenched hand, ‘to all these questions I
@@ -82,10 +82,10 @@ at all near the mark?’
 Nobody spoke.  Brass stood smirking for a little while, as if he had
 propounded some choice conundrum; and then said:
 
-‘To be short with you, then, it leads me to this.  If the truth has
+‘To be short with you, then, it leads me to this.  If the [[Truth|truth]] has
 come out, as it plainly has in a manner that there’s no standing up
-against--and a very sublime and grand thing is Truth, gentlemen, in its
-way, though like other sublime and grand things, such as thunder-storms
+against--and a very [[Sublime|sublime]] and grand thing is [[Truth]], gentlemen, in its
+way, though like other [[Sublime|sublime]] and grand things, such as thunder-storms
 and that, we’re not always over and above glad to see it--I had better
 turn upon this man than let this man turn upon me.  It’s clear to me
 that I am done for.  Therefore, if anybody is to split, I had better be
@@ -102,11 +102,11 @@ for a penny, I am ready, as the saying is, to be in for a pound.  You
 must do with me what you please, and take me where you please.  If you
 wish to have this in writing, we’ll reduce it into manuscript
 immediately.  You will be tender with me, I am sure.  I am quite
-confident you will be tender with me.  You are men of honour, and have
+confident you will be tender with me.  You are men of [[Honour|honour]], and have
 feeling hearts.  I yielded from necessity to Quilp, for though
 necessity has no law, she has her lawyers.  I yield to you from
 necessity too; from policy besides; and because of feelings that have
-been a pretty long time working within me.  Punish Quilp, gentlemen.
+been a pretty long [[Time|time]] working within me.  Punish Quilp, gentlemen.
 Weigh heavily upon him.  Grind him down.  Tread him under foot.  He has
 done as much by me, for many and many a day.’
 
@@ -124,7 +124,7 @@ of the man in him!’
 disturb our friends.  Besides you--you’re disappointed, Sarah, and, not
 knowing what you say, expose yourself.’
 
-‘Yes, you pitiful dastard,’ retorted the lovely damsel, ‘I understand
+‘Yes, you pitiful dastard,’ retorted the lovely [[Damsel|damsel]], ‘I understand
 you.  You feared that I should be beforehand with you.  But do you
 think that I would have been enticed to say a word!  I’d have scorned
 it, if they had tried and tempted me for twenty years.’

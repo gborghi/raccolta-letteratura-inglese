@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Other Philosopher (part 2)"
+title: "ball and [[Cross|cross]] — The Other Philosopher (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 Turnbull said nothing, but turned and looked out of the foolish
 lattice of the little windows, then he said, "We must have food
-and sleep first."
+and [[Sleep|sleep]] first."
 
 When the last echo of their eluded pursuers had died in the distant
 uplands, Turnbull began to unpack the provisions with the easy air
 of a man at a picnic.  He had just laid out the last items, put a
-bottle of wine on the floor, and a tin of salmon on the window-ledge,
-when the bottomless silence of that forgotten place was broken.
+bottle of wine on the floor, and a tin of salmon on the [[Window|window]]-ledge,
+when the bottomless [[Silence|silence]] of that forgotten place was broken.
 And it was broken by three heavy blows of a stick delivered
 upon the door.
 
@@ -46,7 +46,7 @@ with a kind of stagger, put his hand out and caught one of the swords.
 "You're overdone, MacIan," said Turnbull, putting him on one side.
 "It's only someone playing the goat.  Let me open the door."
 
-But he also picked up a sword as he stepped to open it.
+But he also picked up a [[Sword|sword]] as he stepped to open it.
 
 He paused one moment with his hand on the handle and then flung
 the door open.  Almost as he did so the ferrule of an ordinary
@@ -76,7 +76,7 @@ same blandness.  "Who are we?"
 
 "Come out," screamed the little man with the stick.
 
-"Certainly," said Turnbull, and went outside with the sword,
+"Certainly," said Turnbull, and went outside with the [[Sword|sword]],
 MacIan following.
 
 Seen more fully, with the evening light on his face,
@@ -92,18 +92,18 @@ like a monkey's.
 
 "What are you doing here?" he said, in a sharp small voice.
 
-"Well," said MacIan, in his grave childish way, "what are
+"[[Well]]," said MacIan, in his [[Grave|grave]] childish way, "what are
 _you_ doing here?"
 
-"I," said the man, indignantly, "I'm in my own garden."
+"I," said the man, indignantly, "I'm in my own [[Garden|garden]]."
 
 "Oh," said MacIan, simply, "I apologize."
 
 Turnbull was coolly curling his red moustache, and the stranger stared
-from one to the other, temporarily stunned by their innocent assurance.
+from one to the other, temporarily stunned by their [[Innocent|innocent]] assurance.
 
 "But, may I ask," he said at last, "what the devil you are doing
-in my summer-house?"
+in my [[Summer|summer]]-[[house]]?"
 
 "Certainly," said MacIan.  "We were just going to fight."
 
@@ -112,8 +112,8 @@ in my summer-house?"
 "We had better tell this gentleman the whole business,"
 broke in Turnbull.  Then turning to the stranger he said firmly,
 "I am sorry, sir, but we have something to do that must be done.
-And I may as well tell you at the beginning and to avoid waste
-of time or language, that we cannot admit any interference."
+And I may as [[Well|well]] tell you at the beginning and to avoid waste
+of [[Time|time]] or language, that we cannot admit any interference."
 
 "We were just going to take some slight refreshment when
 you interrupted us..."
@@ -124,29 +124,29 @@ and picked up the unused bottle of wine, eyeing it curiously.
 Turnbull continued:
 
 "But that refreshment was preparatory to something which I
-fear you will find less comprehensible, but on which our minds
+[[Fear|fear]] you will find less comprehensible, but on which our minds
 are entirely fixed, sir.  We are forced to fight a duel.
-We are forced by honour and an internal intellectual need.
+We are forced by [[Honour|honour]] and an internal intellectual need.
 Do not, for your own sake, attempt to stop us.  I know all
 the excellent and ethical things that you will want to say to us.
 I know all about the essential requirements of civil order:
 I have written leading articles about them all my life.  I know all about
 the sacredness of human life; I have bored all my friends with it.
-Try and understand our position.  This man and I are alone in the
+Try and understand our position.  This man and I are [[Alone|alone]] in the
 modern world in that we think that God is essentially important.
 I think He does not exist; that is where the importance comes
 in for me.  But this man thinks that He does exist, and thinking
 that very properly thinks Him more important than anything else.
 Now we wish to make a great demonstration and assertion--something that
-will set the world on fire like the first Christian persecutions.
-If you like, we are attempting a mutual martyrdom.  The papers
+will set the world on [[Fire|fire]] like the first Christian persecutions.
+If you like, we are attempting a mutual [[Martyrdom|martyrdom]].  The papers
 have posted up every town against us.  Scotland Yard has fortified
 every police station with our enemies; we are driven therefore
 to the edge of a lonely lane, and indirectly to taking liberties
-with your summer-house in order to arrange our..."
+with your [[Summer|summer]]-[[house]] in order to arrange our..."
 
 "Stop!" roared the little man in the butterfly necktie.
 "Put me out of my intellectual misery.  Are you really the two
 tomfools I have read of in all the papers?  Are you the two people
-who wanted to spit each other in the Police Court?  Are you?
+who wanted to spit each other in the Police [[Court]]?  Are you?
 Are you?"

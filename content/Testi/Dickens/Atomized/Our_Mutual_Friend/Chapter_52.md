@@ -19,11 +19,11 @@ Chapter 11
 IN THE DARK
 
 
-There was no sleep for Bradley Headstone on that night when Eugene
-Wrayburn turned so easily in his bed; there was no sleep for little
+There was no [[Sleep|sleep]] for [[Bradley Headstone]] on that [[Night|night]] when Eugene
+Wrayburn turned so easily in his bed; there was no [[Sleep|sleep]] for little
 Miss Peecher. Bradley consumed the lonely hours, and consumed himself in
 haunting the spot where his careless rival lay a dreaming; little Miss
-Peecher wore them away in listening for the return home of the master
+Peecher wore them away in listening for the return [[Home|home]] of the master
 of her heart, and in sorrowfully presaging that much was amiss with him.
 Yet more was amiss with him than Miss Peecher’s simply arranged little
 work-box of thoughts, fitted with no gloomy and dark recesses, could
@@ -31,35 +31,35 @@ hold. For, the state of the man was murderous.
 
 The state of the man was murderous, and he knew it. More; he irritated
 it, with a kind of perverse pleasure akin to that which a sick man
-sometimes has in irritating a wound upon his body. Tied up all day with
+sometimes has in irritating a wound upon his [[Body|body]]. Tied up all day with
 his disciplined show upon him, subdued to the performance of his routine
 of educational tricks, encircled by a gabbling crowd, he broke loose at
-night like an ill-tamed wild animal. Under his daily restraint, it was
+[[Night|night]] like an ill-tamed wild animal. Under his daily restraint, it was
 his compensation, not his trouble, to give a glance towards his state at
-night, and to the freedom of its being indulged. If great criminals told
-the truth—which, being great criminals, they do not—they would very
+[[Night|night]], and to the [[Freedom|freedom]] of its being indulged. If great criminals told
+the [[Truth|truth]]—which, being great criminals, they do not—they would very
 rarely tell of their struggles against the crime. Their struggles are
 towards it. They buffet with opposing waves, to gain the bloody shore,
 not to recede from it. This man perfectly comprehended that he hated his
 rival with his strongest and worst forces, and that if he tracked him to
-Lizzie Hexam, his so doing would never serve himself with her, or serve
+[[Lizzie Hexam]], his so doing would never serve himself with her, or serve
 her. All his pains were taken, to the end that he might incense himself
 with the sight of the detested figure in her company and favour, in her
-place of concealment. And he knew as well what act of his would follow
+place of concealment. And he knew as [[Well|well]] what act of his would follow
 if he did, as he knew that his mother had borne him. Granted, that he
 may not have held it necessary to make express mention to himself of the
-one familiar truth any more than of the other.
+one familiar [[Truth|truth]] any more than of the other.
 
-He knew equally well that he fed his wrath and hatred, and that he
-accumulated provocation and self-justification, by being made the
+He knew equally [[Well|well]] that he fed his wrath and hatred, and that he
+accumulated provocation and [[Self|self]]-justification, by being made the
 nightly sport of the reckless and insolent Eugene. Knowing all
-this,—and still always going on with infinite endurance, pains, and
-perseverance, could his dark soul doubt whither he went?
+this,—and still always going on with infinite [[Endurance|endurance]], pains, and
+perseverance, could his dark [[Soul|soul]] [[Doubt|doubt]] whither he went?
 
 Baffled, exasperated, and weary, he lingered opposite the Temple gate
 when it closed on Wrayburn and Lightwood, debating with himself should
-he go home for that time or should he watch longer. Possessed in his
-jealousy by the fixed idea that Wrayburn was in the secret, if it were
+he go [[Home|home]] for that [[Time|time]] or should he watch longer. Possessed in his
+[[Jealousy|jealousy]] by the fixed idea that Wrayburn was in the secret, if it were
 not altogether of his contriving, Bradley was as confident of getting
 the better of him at last by sullenly sticking to him, as he would have
 been—and often had been—of mastering any piece of study in the way
@@ -73,7 +73,7 @@ Chambers. It would furnish another reason for Wrayburn’s purposeless
 walks, and it might be. He thought of it and thought of it, until
 he resolved to steal up the stairs, if the gatekeeper would let him
 through, and listen. So, the haggard head suspended in the air flitted
-across the road, like the spectre of one of the many heads erst hoisted
+across the [[Road|road]], like the spectre of one of the many heads erst hoisted
 upon neighbouring Temple Bar, and stopped before the watchman.
 
 The watchman looked at it, and asked: ‘Who for?’
@@ -98,8 +98,8 @@ distinguishable, but they were both the voices of men. In a few moments
 the voices were silent, and there was no sound of footstep, and the
 inner light went out. If Lightwood could have seen the face which kept
 him awake, staring and listening in the darkness outside the door as
-he spoke of it, he might have been less disposed to sleep, through the
-remainder of the night.
+he spoke of it, he might have been less disposed to [[Sleep|sleep]], through the
+remainder of the [[Night|night]].
 
 ‘Not there,’ said Bradley; ‘but she might have been.’ The head arose to
 its former height from the ground, floated down the stair-case again,
@@ -139,7 +139,7 @@ his right thumb, ‘the T’other Governor?’
 ‘Why look here,’ hooking his proposition on his left-hand fingers with
 the forefinger of his right. ‘There’s two Governors, ain’t there? One
 and one, two—Lawyer Lightwood, my first finger, he’s one, ain’t he?
-Well; might you be acquainted with my middle finger, the T’other?’
+[[Well]]; might you be acquainted with my middle finger, the T’other?’
 
 ‘I know quite as much of him,’ said Bradley, with a frown and a distant
 look before him, ‘as I want to know.’
@@ -147,7 +147,7 @@ look before him, ‘as I want to know.’
 ‘Hooroar!’ cried the man. ‘Hooroar T’other t’other Governor. Hooroar
 T’otherest Governor! I am of your way of thinkin’.’
 
-‘Don’t make such a noise at this dead hour of the night. What are you
+‘Don’t make such a noise at this dead hour of the [[Night|night]]. What are you
 talking about?’
 
 ‘Look here, T’otherest Governor,’ replied the man, becoming hoarsely
@@ -157,7 +157,7 @@ sweat of my brow. Which he ain’t, and he don’t.’
 
 ‘What is that to me?’
 
-‘T’otherest Governor,’ returned the man in a tone of injured innocence,
+‘T’otherest Governor,’ returned the man in a tone of injured [[innocence]],
 ‘if you don’t care to hear no more, don’t hear no more. You begun it.
 You said, and likeways showed pretty plain, as you warn’t by no means
 friendly to him. But I don’t seek to force my company nor yet my
@@ -169,13 +169,13 @@ coat-cuff; I kisses the book.’
 
 It was not so much in deference to these strong testimonials to
 character, as in his restless casting about for any way or help towards
-the discovery on which he was concentrated, that Bradley Headstone
+the discovery on which he was concentrated, that [[Bradley Headstone]]
 replied: ‘You needn’t take offence. I didn’t mean to stop you. You were
 too—loud in the open street; that was all.’
 
 ‘’Totherest Governor,’ replied Mr Riderhood, mollified and mysterious,
 ‘I know wot it is to be loud, and I know wot it is to be soft. Nat’rally
-I do. It would be a wonder if I did not, being by the Chris’en name of
+I do. It would be a [[Wonder|wonder]] if I did not, being by the Chris’en name of
 Roger, which took it arter my own father, which took it from his own
 father, though which of our fam’ly fust took it nat’ral I will not in
 any ways mislead you by undertakin’ to say. And wishing that your elth
@@ -192,22 +192,22 @@ prove to be a messenger between those two.
 ease.
 
 ‘Wish I may die,’ cried Mr Riderhood, with a hoarse laugh, ‘if I warn’t
-a goin’ to say the self-same words to you, T’otherest Governor!’
+a goin’ to say the [[Self|self]]-same words to you, T’otherest Governor!’
 
 ‘It chanced so with me,’ said Bradley, looking disconcertedly about him.
 
 ‘And it chanced so with me,’ said Riderhood. ‘But I don’t mind telling
 you how. Why should I mind telling you? I’m a Deputy Lock-keeper up the
-river, and I was off duty yes’day, and I shall be on to-morrow.’
+[[River|river]], and I was off duty yes’day, and I shall be on to-morrow.’
 
 ‘Yes?’
 
-‘Yes, and I come to London to look arter my private affairs. My private
+‘Yes, and I come to [[London]] to look arter my private affairs. My private
 affairs is to get appinted to the Lock as reg’lar keeper at fust hand,
 and to have the law of a busted B’low-Bridge steamer which drownded of
 me. I ain’t a goin’ to be drownded and not paid for it!’
 
-Bradley looked at him, as though he were claiming to be a Ghost.
+Bradley looked at him, as though he were claiming to be a [[Ghost]].
 
 ‘The steamer,’ said Mr Riderhood, obstinately, ‘run me down and drownded
 of me. Interference on the part of other parties brought me round; but
@@ -215,7 +215,7 @@ I never asked ’em to bring me round, nor yet the steamer never asked ’em
 to it. I mean to be paid for the life as the steamer took.’
 
 ‘Was that your business at Mr Lightwood’s chambers in the middle of the
-night?’ asked Bradley, eyeing him with distrust.
+[[Night|night]]?’ asked Bradley, eyeing him with distrust.
 
 ‘That and to get a writing to be fust-hand Lock Keeper. A recommendation
 in writing being looked for, who else ought to give it to me? As I says
@@ -226,15 +226,15 @@ agin the Steamer? For (as I says under my mark) I have had trouble
 enough along of you and your friend. If you, Lawyer Lightwood, had
 backed me good and true, and if the T’other Governor had took me down
 correct (I says under my mark), I should have been worth money at the
-present time, instead of having a barge-load of bad names chucked at me,
+present [[Time|time]], instead of having a barge-load of bad names chucked at me,
 and being forced to eat my words, which is a unsatisfying sort of food
-wotever a man’s appetite! And when you mention the middle of the night,
+wotever a man’s appetite! And when you mention the middle of the [[Night|night]],
 T’otherest Governor,’ growled Mr Riderhood, winding up his monotonous
 summary of his wrongs, ‘throw your eye on this here bundle under my arm,
 and bear in mind that I’m a walking back to my Lock, and that the Temple
-laid upon my line of road.’
+laid upon my line of [[Road|road]].’
 
-Bradley Headstone’s face had changed during this latter recital, and he
+[[Bradley Headstone]]’s face had changed during this latter recital, and he
 had observed the speaker with a more sustained attention.
 
 ‘Do you know,’ said he, after a pause, during which they walked on side
@@ -258,7 +258,7 @@ Pump.’ The purport of the meditating was: ‘Here is an instrument. Can I
 use it?’
 
 They had walked along the Strand, and into Pall Mall, and had turned
-up-hill towards Hyde Park Corner; Bradley Headstone waiting on the pace
+up-[[Hill|hill]] towards Hyde Park Corner; [[Bradley Headstone]] waiting on the pace
 and lead of Riderhood, and leaving him to indicate the course. So slow
 were the schoolmaster’s thoughts, and so indistinct his purposes when
 they were but tributary to the one absorbing purpose or rather when,
@@ -286,20 +286,20 @@ a convenient doorstep to ring them both, before acknowledging their
 receipt.
 
 ‘There’s one thing about you, T’otherest Governor,’ said Riderhood,
-faring on again, ‘as looks well and goes fur. You’re a ready money man.
+faring on again, ‘as looks [[Well|well]] and goes fur. You’re a ready money man.
 Now;’ when he had carefully pocketed the coins on that side of himself
 which was furthest from his new friend; ‘what’s this for?’
 
 ‘For you.’
 
 ‘Why, o’ course I know THAT,’ said Riderhood, as arguing something that
-was self-evident. ‘O’ course I know very well as no man in his right
+was [[Self|self]]-evident. ‘O’ course I know very [[Well|well]] as no man in his right
 senses would suppose as anythink would make me give it up agin when I’d
 once got it. But what do you want for it?’
 
 ‘I don’t know that I want anything for it. Or if I do want anything
 for it, I don’t know what it is.’ Bradley gave this answer in a stolid,
-vacant, and self-communing manner, which Mr Riderhood found very
+vacant, and [[Self|self]]-communing manner, which Mr Riderhood found very
 extraordinary.
 
 ‘You have no goodwill towards this Wrayburn,’ said Bradley, coming to
@@ -327,11 +327,11 @@ no cause for it?’
 ‘Haven’t you yourself declared that the fellow has heaped provocations,
 insults, and affronts on you, or something to that effect? He has done
 the same by me. He is made of venomous insults and affronts, from the
-crown of his head to the sole of his foot. Are you so hopeful or so
+[[Crown|crown]] of his head to the sole of his foot. Are you so hopeful or so
 stupid, as not to know that he and the other will treat your application
 with contempt, and light their cigars with it?’
 
-‘I shouldn’t wonder if they did, by George!’ said Riderhood, turning
+‘I shouldn’t [[Wonder|wonder]] if they did, by George!’ said Riderhood, turning
 angry.
 
 ‘If they did! They will. Let me ask you a question. I know something
@@ -349,13 +349,13 @@ hand. Looking perplexedly at the passionate face, as if he were trying
 to work out a sum in his mind, he slowly answered:
 
 ‘I ain’t set eyes upon her—never once—not since the day of Gaffer’s
-death.’
+[[Death|death]].’
 
-‘You know her well, by sight?’
+‘You know her [[Well|well]], by sight?’
 
 ‘I should think I did! No one better.’
 
-‘And you know him as well?’
+‘And you know him as [[Well|well]]?’
 
 ‘Who’s him?’ asked Riderhood, taking off his hat and rubbing his
 forehead, as he directed a dull look at his questioner.
@@ -382,7 +382,7 @@ of the ignorant Riderhood the withheld question next in his breast.
 ‘You shall put it plain if you want it answered,’ thought the Rogue,
 doggedly; ‘I ain’t a-going a wolunteering.’
 
-‘Well! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
+‘[[Well]]! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
 did he make a show of being kind to her?’
 
 ‘He made a show of being most uncommon kind to her,’ said Riderhood. ‘By
@@ -422,9 +422,9 @@ if it were paid for? He would be very willing indeed. He was ‘agin ’em
 both,’ he said with an oath, and for why? ’Cause they had both stood
 betwixt him and his getting his living by the sweat of his brow.
 
-‘It will not be long then,’ said Bradley Headstone, after some more
+‘It will not be long then,’ said [[Bradley Headstone]], after some more
 discourse to this effect, ‘before we see one another again. Here is the
-country road, and here is the day. Both have come upon me by surprise.’
+country [[Road|road]], and here is the day. Both have come upon me by surprise.’
 
 ‘But, T’otherest Governor,’ urged Mr Riderhood, ‘I don’t know where to
 find you.’
@@ -436,20 +436,20 @@ your Lock.’
 come yet of a dry acquaintance. Let’s wet it, in a mouth-fill of rum and
 milk, T’otherest Governor.’
 
-Bradley assenting, went with him into an early public-house, haunted by
+Bradley assenting, went with him into an early public-[[house]], haunted by
 unsavoury smells of musty hay and stale straw, where returning carts,
-farmers’ men, gaunt dogs, fowls of a beery breed, and certain human
-nightbirds fluttering home to roost, were solacing themselves after
+farmers’ men, gaunt [[dogs]], fowls of a beery breed, and certain human
+nightbirds fluttering [[Home|home]] to roost, were solacing themselves after
 their several manners; and where not one of the nightbirds hovering
 about the sloppy bar failed to discern at a glance in the passion-wasted
 nightbird with respectable feathers, the worst nightbird of all.
 
 An inspiration of affection for a half-drunken carter going his way led
 to Mr Riderhood’s being elevated on a high heap of baskets on a waggon,
-and pursuing his journey recumbent on his back with his head on his
+and pursuing his [[Journey|journey]] recumbent on his back with his head on his
 bundle. Bradley then turned to retrace his steps, and by-and-by struck
 off through little-traversed ways, and by-and-by reached school and
-home. Up came the sun to find him washed and brushed, methodically
+[[Home|home]]. Up came the sun to find him washed and brushed, methodically
 dressed in decent black coat and waistcoat, decent formal black tie, and
 pepper-and-salt pantaloons, with his decent silver watch in its pocket,
 and its decent hair-guard round his neck: a scholastic huntsman clad for
@@ -458,7 +458,7 @@ the field, with his fresh pack yelping and barking around him.
 Yet more really bewitched than the miserable creatures of the
 much-lamented times, who accused themselves of impossibilities under a
 contagion of horror and the strongly suggestive influences of Torture,
-he had been ridden hard by Evil Spirits in the night that was newly
+he had been ridden hard by Evil Spirits in the [[Night|night]] that was newly
 gone. He had been spurred and whipped and heavily sweated. If a record
 of the sport had usurped the places of the peaceful texts from Scripture
 on the wall, the most advanced of the scholars might have taken fright

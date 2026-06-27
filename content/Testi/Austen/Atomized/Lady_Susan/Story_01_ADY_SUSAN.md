@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ADY SUSAN"
+title: "[[Lady Susan]] — ADY SUSAN"
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-LADY SUSAN
+[[Lady Susan|LADY SUSAN]]
 
 
 

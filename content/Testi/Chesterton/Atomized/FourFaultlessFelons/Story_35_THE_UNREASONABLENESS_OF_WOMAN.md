@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE UNREASONABLENESS OF WOMAN"
+title: "[[FourFaultlessFelons]] — THE UNREASONABLENESS OF WOMAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -34,7 +34,7 @@ He was of the usual size and shape of fairly imposing flunkeys. His face
 
 had the sort of solid good looks, at once wooden and waxen, which went
 
-well with the powder of the old regime of flunkeydom; there was nothing
+[[Well|well]] with the powder of the old regime of flunkeydom; there was nothing
 
 notable except perhaps that, while his blank, blue eyes expressed
 
@@ -44,9 +44,9 @@ depressing regularity of his features was rather relieved by a length of
 
 chin that suggested some sort of obscure obstinacy. And, indeed, the
 
-police who had questioned and cross-questioned him came to the conclusion
+police who had questioned and [[Cross|cross]]-questioned him came to the conclusion
 
-that they had to deal with a case of stubbornness as well as stupidity.
+that they had to deal with a case of stubbornness as [[Well|well]] as stupidity.
 
 
 
@@ -56,7 +56,7 @@ sorts of entirely illegal things, according to the method which the
 
 police of all modern and civilized countries apply on principle to all
 
-servants, cabmen, costers and other persons supposed by their poverty to
+servants, cabmen, costers and other persons supposed by their [[Poverty|poverty]] to
 
 be an outlying province of the criminal classes; though every now and
 
@@ -64,13 +64,13 @@ then those methods startle all Europe and are held up in flaming
 
 headlines of horror to the whole civilized world, when they happen to
 
-have been applied, by some fool or other, to a wealthy Jew or a heavily
+have been applied, by some [[Fool|fool]] or other, to a wealthy Jew or a heavily
 
 financed journalist. But the police had got nothing out of him that threw
 
 the least light on the meaning of his master's meetings and projects, and
 
-the weary investigators were beginning to attribute his silence to
+the weary investigators were beginning to attribute his [[Silence|silence]] to
 
 ignorance or idiocy. Only the Chief of Police himself, a man not
 
@@ -82,7 +82,7 @@ taciturnity was tinged with fidelity.
 
 Anyhow, the servant in his capacity of prisoner was drearily accustomed
 
-by this time to see the door of his cell open and some uniformed official
+by this [[Time|time]] to see the door of his cell open and some uniformed official
 
 come in with a notebook or a menacing forefinger, trying to collect more
 
@@ -94,7 +94,7 @@ see the same door open and introduce, not a policeman in uniform, but a
 
 beautiful lady in jewels and flaming fashionable colour scheme, who
 
-entered his prison as if it were the most natural thing in the world.
+entered his [[Prison|prison]] as if it were the most natural thing in the world.
 
 Only dimly did he perceive the lowering and lumpish visage of a policeman
 
@@ -110,7 +110,7 @@ resolute smile.
 
 He knew who she was, of course; he had seen her in the illustrated papers
 
-and even driving about the city in her car. In reply to her first
+and even driving about the [[City|city]] in her car. In reply to her first
 
 question he attempted some stumbling expressions of respect, but she
 
@@ -122,13 +122,13 @@ more.
 
 "Don't let us worry about all that," she said. "We are both subjects of
 
-the King and patriots of Pavonia. At least I'm sure you must be really a
+the [[King]] and patriots of Pavonia. At least I'm sure you must be really a
 
 patriot and I want to know why you don't behave like one."
 
 
 
-There was a long silence, and then he said, looking at the floor and in a
+There was a long [[Silence|silence]], and then he said, looking at the floor and in a
 
 rather hang-dog fashion: "I don't want any misunderstandings, Your
 
@@ -138,15 +138,15 @@ always good to me."
 
 
 
-"Why, what did they do for you?" she demanded. "Gave you tips from time
+"Why, what did they do for you?" she demanded. "Gave you tips from [[Time|time]]
 
-to time, I suppose. Paid you some sort of salary, probably much too
+to [[Time|time]], I suppose. Paid you some sort of salary, probably much too
 
 small. What is that compared with what the country has done for us all?
 
 You can't eat bread without eating the corn of Pavonia; you can't drink
 
-water without drinking it from the rivers of your own land; you can't
+[[Water|water]] without drinking it from the rivers of your own land; you can't
 
 walk down the street in safety or liberty, without relying on the law
 
@@ -200,9 +200,9 @@ intonation: "You see, these things go a bit by comparison. At the only
 
 school I was ever sent to they had hardly any meals at all; my family
 
-never had any money and I was often hungry all night, and out in the cold
+never had any money and I was often hungry all [[Night|night]], and out in the cold
 
-as well. You see, it's all very well to talk about the State and
+as [[Well|well]]. You see, it's all very [[Well|well]] to talk about the State and
 
 patriotism and the rest. Suppose when I was freezing in the gutter I had
 
@@ -212,9 +212,9 @@ Fountain Square and said, 'Pavonia, give me food', I suppose the great
 
 statue would have stepped down from its pedestal at once and brought me a
 
-tray of hot cakes or a pile of ham sandwiches. Suppose it began to snow
+tray of hot cakes or a pile of ham sandwiches. Suppose it began to [[Snow|snow]]
 
-when I had hardly a rag on my back; I suppose the Flag of Pavonia, flying
+when I had hardly a rag on my back; I suppose the [[Flag]] of Pavonia, flying
 
 on the top of the palace, would have come down off its pole to wrap me up
 
@@ -232,7 +232,7 @@ rather indescribable turn or change.
 
 "But I did get food at Peacock Crescent. Those horrible revolutionists,
 
-who you say are destroying the whole city, at least prevented me from
+who you say are destroying the whole [[City|city]], at least prevented me from
 
 being destroyed. Suppose, if you like that they treated me like a dog;
 
@@ -272,7 +272,7 @@ She spoke in a lowered voice. "If you are really an educated man and a
 
 gentleman, you ought to be all the more ashamed to work with this gang of
 
-wreckers. It's all very well to talk about a dog, but it's not fair. A
+wreckers. It's all very [[Well|well]] to talk about a dog, but it's not fair. A
 
 dog has only got a master, and naturally he sticks to the only duty
 
@@ -282,7 +282,7 @@ any general sense of right. But can you, as an educated man, reconcile it
 
 with any general sense of right to say you are a dog, and on that excuse
 
-fill the whole town with mad dogs?"
+fill the whole town with mad [[dogs]]?"
 
 
 
@@ -294,7 +294,7 @@ on the heat of intellectual incompatibility, just as she had tried to
 
 wave it away with a gesture when she first made her amazing entry to the
 
-prison. As he looked at her a slow and singular change seemed to pass
+[[Prison|prison]]. As he looked at her a slow and singular change seemed to pass
 
 over his face and he seemed to realize some meaning to the situation he
 
@@ -334,13 +334,13 @@ it for pleasure."
 
 "Oh, I hate that obstinate expression you've got!" she cried with a
 
-curious uncontrollable petulance. "I don't mind dogs, but I hate
+curious uncontrollable petulance. "I don't mind [[dogs]], but I hate
 
 bulldogs. They're always so ugly." Then, suddenly altering her tone, the
 
 Princess added: "I don't see why you should be kept kicking your heels in
 
-this prison, all for your silly prejudices. They're bound to give you a
+this [[Prison|prison]], all for your silly prejudices. They're bound to give you a
 
 long sentence for treason, if they do nothing else, if you will protect
 
@@ -348,21 +348,21 @@ these devils who want to blow us all up tomorrow."
 
 
 
-"Very well," he said in a hard voice. "Then I must make up my mind to be
+"Very [[Well|well]]," he said in a hard voice. "Then I must make up my mind to be
 
 punished for treason because I will not be a traitor."
 
 
 
-Something compact in his curt epigram seemed to savour almost of
+Something compact in his curt [[Epigram|epigram]] seemed to savour almost of
 
-contempt, and her self-control suddenly gave way before a blaze of really
+contempt, and her [[Self|self]]-control suddenly gave way before a blaze of really
 
 royal anger.
 
 
 
-"Very well, then," she cried, turning furiously towards the door, "you
+"Very [[Well|well]], then," she cried, turning furiously towards the door, "you
 
 can lie and rot there for treason, because you won't listen to reason;
 
@@ -374,7 +374,7 @@ suppose you know, what these blasphemous brutes are going to do to us
 
 all. And perhaps God cares, but you don't. You don't care for anything or
 
-anybody but your own chin and your own brutal pride. I've done with you."
+anybody but your own chin and your own brutal [[Pride|pride]]. I've done with you."
 
 
 
@@ -382,13 +382,13 @@ And she flung open the door, incongruously giving another glimpse of the
 
 pudding-faced policeman outside; then she vanished through the opening
 
-and the door clanged again and the prisoner was left alone in his cell.
+and the door clanged again and the prisoner was left [[Alone|alone]] in his cell.
 
 
 
 He sat down on the plank-bed and put his head in his hands, remaining in
 
-this rigid ruminating posture for a long time. Then he rose with a sigh
+this rigid ruminating posture for a long [[Time|time]]. Then he [[Rose|rose]] with a sigh
 
 and approached the door once more, for he heard outside it the heavy
 
@@ -404,7 +404,7 @@ character.
 
 
 
-A few hours afterwards, when the Princess was declining, and the King
+A few hours afterwards, when the Princess was declining, and the [[King]]
 
 accepting, a glass of Italian vermouth from a tray handed by a footman of
 
@@ -458,7 +458,7 @@ capacity for surprise at the mystery of feminine psychology may be
 
 surprised to learn that, at her next interview with the prisoner, in the
 
-prison, she was very harsh and scornful towards him for having decided
+[[Prison|prison]], she was very harsh and scornful towards him for having decided
 
 upon betraying all that she had told him to betray.
 
@@ -480,7 +480,7 @@ them of vertigo and the empty air, making the spectator dizzy.
 
 
 
-"Well," he said, "I certainly didn't suppose you regarded them with so
+"[[Well]]," he said, "I certainly didn't suppose you regarded them with so
 
 much sympathy."
 
@@ -522,13 +522,13 @@ had never heard before from him or from any man.
 
 "Do you suppose I don't know that it's all utterly unfair? Why should you
 
-have that power, as well as all the other kinds? Why should you have the
+have that power, as [[Well|well]] as all the other kinds? Why should you have the
 
 only unanswerable thing, the face that is unanswerable like God on the
 
 Judgement Day? We can call up ignorance against science and impotence
 
-against power, but who is going to raise up ugliness against beauty?
+against power, but who is going to raise up ugliness against [[Beauty|beauty]]?
 
 Who--?"
 
@@ -538,7 +538,7 @@ He had taken a stride forward, but, what was much stranger, she had
 
 herself started and moved forward in response. She was staring into his
 
-face as if it had been blasted by a lightning-flash.
+face as if it had been blasted by a [[Lightning|lightning]]-flash.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7"
+title: "[[Shirley]] — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,51 +24,51 @@ The Curates at Tea.
 
 
 
-Caroline Helstone was just eighteen years old, and at eighteen the true
+[[Caroline Helstone]] was just eighteen years old, and at eighteen the true
 
-narrative of life is yet to be commenced. Before that time we sit
+narrative of life is yet to be commenced. Before that [[Time|time]] we sit
 
 listening to a tale, a marvellous fiction, delightful sometimes, and sad
 
-sometimes, almost always unreal. Before that time our world is heroic,
+sometimes, almost always unreal. Before that [[Time|time]] our world is heroic,
 
 its inhabitants half-divine or semi-demon; its scenes are dream-scenes;
 
 darker woods and stranger hills, brighter skies, more dangerous waters,
 
-sweeter flowers, more tempting fruits, wider plains, drearier deserts,
+sweeter [[Flowers|flowers]], more tempting fruits, wider plains, drearier deserts,
 
-sunnier fields than are found in nature, overspread our enchanted globe.
+sunnier fields than are found in [[Nature|nature]], overspread our enchanted globe.
 
-What a moon we gaze on before that time! How the trembling of our hearts
+What a [[Moon|moon]] we gaze on before that [[Time|time]]! How the trembling of our hearts
 
-at her aspect bears witness to its unutterable beauty! As to our sun, it
+at her aspect bears witness to its unutterable [[Beauty|beauty]]! As to our sun, it
 
 is a burning heaven--the world of gods.
 
 
 
-At that time, at eighteen, drawing near the confines of illusive, void
+At that [[Time|time]], at eighteen, drawing near the confines of illusive, void
 
-dreams, Elf-land lies behind us, the shores of Reality rise in front.
+[[Dreams|dreams]], Elf-land lies behind us, the shores of Reality rise in front.
 
 These shores are yet distant; they look so blue, soft, gentle, we long
 
 to reach them. In sunshine we see a greenness beneath the azure, as of
 
-spring meadows; we catch glimpses of silver lines, and imagine the roll
+[[Spring|spring]] meadows; we catch glimpses of silver lines, and imagine the roll
 
 of living waters. Could we but reach this land, we think to hunger and
 
-thirst no more; whereas many a wilderness, and often the flood of death,
+thirst no more; whereas many a wilderness, and often the flood of [[Death|death]],
 
-or some stream of sorrow as cold and almost as black as death, is to be
+or some stream of sorrow as cold and almost as black as [[Death|death]], is to be
 
 crossed ere true bliss can be tasted. Every joy that life gives must be
 
 earned ere it is secured; and how hardly earned, those only know who
 
-have wrestled for great prizes. The heart's blood must gem with red
+have wrestled for great prizes. The heart's [[Blood|blood]] must gem with red
 
 beads the brow of the combatant, before the wreath of victory rustles
 
@@ -76,15 +76,15 @@ over it.
 
 
 
-At eighteen we are not aware of this. Hope, when she smiles on us, and
+At eighteen we are not aware of this. [[Hope]], when she smiles on us, and
 
-promises happiness to-morrow, is implicitly believed; Love, when he
+promises happiness to-morrow, is implicitly believed; [[Love]], when he
 
 comes wandering like a lost angel to our door, is at once admitted,
 
 welcomed, embraced. His quiver is not seen; if his arrows penetrate,
 
-their wound is like a thrill of new life. There are no fears of poison,
+their wound is like a thrill of new life. There are no fears of [[Poison|poison]],
 
 none of the barb which no leech's hand can extract. That perilous
 
@@ -100,7 +100,7 @@ learned.
 
 
 
-Alas, Experience! No other mentor has so wasted and frozen a face as
+Alas, Experience! No other [[Mentor|mentor]] has so wasted and frozen a face as
 
 yours, none wears a robe so black, none bears a rod so heavy, none with
 
@@ -108,7 +108,7 @@ hand so inexorable draws the novice so sternly to his task, and forces
 
 him with authority so resistless to its acquirement. It is by your
 
-instructions alone that man or woman can ever find a safe track through
+instructions [[Alone|alone]] that man or woman can ever find a safe track through
 
 life's wilds; without it, how they stumble, how they stray! On what
 
@@ -118,11 +118,11 @@ hurled!
 
 
 
-Caroline, having been convoyed home by Robert, had no wish to pass what
+Caroline, having been convoyed [[Home|home]] by Robert, had no wish to pass what
 
 remained of the evening with her uncle. The room in which he sat was
 
-very sacred ground to her; she seldom intruded on it; and to-night she
+very sacred ground to her; she seldom intruded on it; and to-[[Night|night]] she
 
 kept aloof till the bell rang for prayers. Part of the evening church
 
@@ -134,7 +134,7 @@ over, his niece, according to her wont, stepped up to him.
 
 
 
-"Good-night, uncle."
+"Good-[[Night|night]], uncle."
 
 
 
@@ -164,7 +164,7 @@ not!"
 
 
 
-"Well, that will do. Stick to the needle, learn shirt-making and
+"[[Well]], that will do. Stick to the needle, learn shirt-making and
 
 gown-making and piecrust-making, and you'll be a clever woman some day.
 
@@ -180,7 +180,7 @@ thick, soft, and wavy to her waist; and as, resting from the task of
 
 combing it out, she leaned her check on her hand and fixed her eyes on
 
-the carpet, before her rose, and close around her drew, the visions we
+the carpet, before her [[Rose|rose]], and close around her drew, the visions we
 
 see at eighteen years.
 
@@ -192,11 +192,11 @@ for she smiled as she listened. She looked pretty meditating thus; but a
 
 brighter thing than she was in that apartment--the spirit of youthful
 
-Hope. According to this flattering prophet, she was to know
+[[Hope]]. According to this flattering [[Prophet|prophet]], she was to know
 
-disappointment, to feel chill no more; she had entered on the dawn of a
+disappointment, to feel chill no more; she had entered on the [[Dawn|dawn]] of a
 
-summer day--no false dawn, but the true spring of morning--and her sun
+[[Summer|summer]] day--no false [[Dawn|dawn]], but the true [[Spring|spring]] of morning--and her sun
 
 would quickly rise. Impossible for her now to suspect that she was the
 
@@ -206,15 +206,15 @@ which they rested appeared solid.
 
 
 
-"When people love, the next step is they marry," was her argument. "Now,
+"When people [[Love|love]], the next step is they marry," was her argument. "Now,
 
-I love Robert, and I feel sure that Robert loves me. I have thought so
+I [[Love|love]] Robert, and I feel sure that Robert loves me. I have thought so
 
-many a time before; to-day I _felt_ it. When I looked up at him after
+many a [[Time|time]] before; to-day I _felt_ it. When I looked up at him after
 
 repeating Chénier's poem, his eyes (what handsome eyes he has!) sent the
 
-truth through my heart. Sometimes I am afraid to speak to him, lest I
+[[Truth|truth]] through my heart. Sometimes I am afraid to speak to him, lest I
 
 should be too frank, lest I should seem forward--for I have more than
 
@@ -222,15 +222,15 @@ once regretted bitterly overflowing, superfluous words, and feared I had
 
 said more than he expected me to say, and that he would disapprove what
 
-he might deem my indiscretion; now, to-night I could have ventured to
+he might deem my indiscretion; now, to-[[Night|night]] I could have ventured to
 
 express any thought, he was so indulgent. How kind he was as we walked
 
-up the lane! He does not flatter or say foolish things; his love-making
+up the lane! He does not flatter or say foolish things; his [[Love|love]]-making
 
-(friendship, I mean; of course I don't yet account him my lover, but I
+([[Friendship|friendship]], I mean; of course I don't yet account him my [[Lover|lover]], but I
 
-hope he will be so some day) is not like what we read of in books,--it
+[[Hope|hope]] he will be so some day) is not like what we read of in books,--it
 
 is far better--original, quiet, manly, sincere. I _do_ like him; I would
 
@@ -246,7 +246,7 @@ will either come here, or ask me to go there."
 
 
 
-She recommenced combing her hair, long as a mermaid's. Turning her head
+She recommenced combing her hair, long as a [[Mermaid|mermaid]]'s. Turning her head
 
 as she arranged it she saw her own face and form in the glass. Such
 
@@ -268,7 +268,7 @@ undiminished gladness she sought her couch.
 
 
 
-And in undiminished gladness she rose the next day. As she entered her
+And in undiminished gladness she [[Rose|rose]] the next day. As she entered her
 
 uncle's breakfast-room, and with soft cheerfulness wished him
 
@@ -278,13 +278,13 @@ instant, his niece was growing "a fine girl." Generally she was quiet
 
 and timid with him--very docile, but not communicative; this morning,
 
-however, she found many things to say. Slight topics alone might be
+however, she found many things to say. Slight topics [[Alone|alone]] might be
 
 discussed between them; for with a woman--a girl--Mr. Helstone would
 
-touch on no other. She had taken an early walk in the garden, and she
+touch on no other. She had taken an early walk in the [[Garden|garden]], and she
 
-told him what flowers were beginning to spring there; she inquired when
+told him what [[Flowers|flowers]] were beginning to [[Spring|spring]] there; she inquired when
 
 the gardener was to come and trim the borders; she informed him that
 
@@ -292,7 +292,7 @@ certain starlings were beginning to build their nests in the
 
 church-tower (Briarfield church was close to Briarfield rectory); she
 
-wondered the tolling of the bells in the belfry did not scare them.
+wondered the tolling of [[The Bells|the bells]] in the belfry did not scare them.
 
 
 
@@ -308,7 +308,7 @@ observations dropped by her revered relative.
 
 
 
-"Uncle," said she, "whenever you speak of marriage you speak of it
+"Uncle," said she, "whenever you speak of [[Marriage|marriage]] you speak of it
 
 scornfully. Do you think people shouldn't marry?"
 
@@ -324,7 +324,7 @@ women."
 
 
 
-"Millions of marriages are unhappy. If everybody confessed the truth,
+"Millions of marriages are unhappy. If everybody confessed the [[Truth|truth]],
 
 perhaps all are more or less so."
 
@@ -428,9 +428,9 @@ custom of uncle and niece to separate, and not to meet again till
 
 dinner; but to-day the niece, instead of quitting the room, went to the
 
-window-seat, and sat down there. Mr. Helstone looked round uneasily once
+[[Window|window]]-seat, and sat down there. Mr. Helstone looked round uneasily once
 
-or twice, as if he wished her away; but she was gazing from the window,
+or twice, as if he wished her away; but she was gazing from the [[Window|window]],
 
 and did not seem to mind him: so he continued the perusal of his morning
 
@@ -444,7 +444,7 @@ little knew, meantime, what thoughts were busy in his niece's
 
 mind--thoughts the conversation of the past half-hour had revived but
 
-not generated; tumultuous were they now, as disturbed bees in a hive,
+not generated; tumultuous were they now, as disturbed [[Bees|bees]] in a hive,
 
 but it was years since they had first made their cells in her brain.
 
@@ -452,7 +452,7 @@ but it was years since they had first made their cells in her brain.
 
 She was reviewing his character, his disposition, repeating his
 
-sentiments on marriage. Many a time had she reviewed them before, and
+sentiments on [[Marriage|marriage]]. Many a [[Time|time]] had she reviewed them before, and
 
 sounded the gulf between her own mind and his; and then, on the other
 
@@ -476,19 +476,19 @@ it was--some weeks that she had spent with him in a great town
 
 somewhere, when she had had no maid to dress her or take care of her;
 
-when she had been shut up, day and night, in a high garret-room, without
+when she had been shut up, day and [[Night|night]], in a high garret-room, without
 
 a carpet, with a bare uncurtained bed, and scarcely any other furniture;
 
 when he went out early every morning, and often forgot to return and
 
-give her her dinner during the day, and at night, when he came back, was
+give her her dinner during the day, and at [[Night|night]], when he came back, was
 
 like a madman, furious, terrible, or--still more painful--like an idiot,
 
 imbecile, senseless. She knew she had fallen ill in this place, and that
 
-one night, when she was very sick he had come raving into the room, and
+one [[Night|night]], when she was very sick he had come raving into the room, and
 
 said he would kill her, for she was a burden to him. Her screams had
 
@@ -504,17 +504,17 @@ spoke to her of that mother, though she could not remember having seen
 
 her; but that she was alive she knew. This mother was then the
 
-drunkard's wife. What had _their_ marriage been? Caroline, turning from
+drunkard's wife. What had _their_ [[Marriage|marriage]] been? Caroline, turning from
 
 the lattice, whence she had been watching the starlings (though without
 
 seeing them), in a low voice, and with a sad, bitter tone, thus broke
 
-the silence of the room,--
+the [[Silence|silence]] of the room,--
 
 
 
-"You term marriage miserable, I suppose, from what you saw of my father
+"You term [[Marriage|marriage]] miserable, I suppose, from what you saw of my father
 
 and mother's. If my mother suffered what I suffered when I was with
 
@@ -532,7 +532,7 @@ Her father and mother! What had put it into her head to mention her
 
 father and mother, of whom he had never, during the twelve years she had
 
-lived with him, spoken to her? That the thoughts were self-matured, that
+lived with him, spoken to her? That the thoughts were [[Self|self]]-matured, that
 
 she had any recollections or speculations about her parents, he could
 
@@ -562,9 +562,9 @@ her. I have not heard from her for years: but wherever she is, she
 
 thinks nothing of you; she never inquires about you. I have reason to
 
-believe she does not wish to see you. Come, it is school-time. You go to
+believe she does not wish to see you. Come, it is school-[[Time|time]]. You go to
 
-your cousin at ten, don't you? The clock has struck."
+your cousin at ten, don't you? The [[Clock|clock]] has struck."
 
 
 
@@ -578,7 +578,7 @@ cottage.
 
 
 
-The road from the rectory to Hollow's Mill inclined downwards; she ran,
+The [[Road|road]] from the rectory to Hollow's Mill inclined downwards; she ran,
 
 therefore, almost all the way. Exercise, the fresh air, the thought of
 
@@ -586,9 +586,9 @@ seeing Robert, at least of being on his premises, in his vicinage,
 
 revived her somewhat depressed spirits quickly. Arriving in sight of the
 
-white house, and within hearing of the thundering mill and its rushing
+white [[house]], and within hearing of the thundering mill and its rushing
 
-watercourse, the first thing she saw was Moore at his garden gate. There
+watercourse, the first thing she saw was Moore at his [[Garden|garden]] gate. There
 
 he stood, in his belted Holland blouse, a light cap covering his head,
 
@@ -616,17 +616,17 @@ She sought "bonny Robert's" presence speedily. For his part, when she
 
 challenged his sight, I believe he would have passed from before her
 
-eyes like a phantom, if he could; but being a tall fact, and no fiction,
+eyes like a [[Phantom|phantom]], if he could; but being a tall fact, and no fiction,
 
 he was obliged to stand the greeting. He made it brief. It was
 
-cousin-like, brother-like, friend-like, anything but lover-like. The
+cousin-like, brother-like, friend-like, anything but [[Lover|lover]]-like. The
 
-nameless charm of last night had left his manner: he was no longer the
+nameless charm of last [[Night|night]] had left his manner: he was no longer the
 
 same man: or, at any rate, the same heart did not beat in his breast.
 
-Rude disappointment, sharp cross! At first the eager girl would not
+Rude disappointment, sharp [[Cross|cross]]! At first the eager girl would not
 
 believe in the change, though she saw and felt it. It was difficult to
 
@@ -640,15 +640,15 @@ welcome.
 
 
 
-A lover masculine so disappointed can speak and urge explanation, a
+A [[Lover|lover]] masculine so disappointed can speak and urge explanation, a
 
-lover feminine can say nothing; if she did, the result would be shame
+[[Lover|lover]] feminine can say nothing; if she did, the result would be shame
 
-and anguish, inward remorse for self-treachery. Nature would brand such
+and anguish, inward remorse for [[Self|self]]-treachery. [[Nature]] would brand such
 
 demonstration as a rebellion against her instincts, and would
 
-vindictively repay it afterwards by the thunderbolt of self-contempt
+vindictively repay it afterwards by the thunderbolt of [[Self|self]]-contempt
 
 smiting suddenly in secret. Take the matter as you find it: ask no
 
@@ -656,7 +656,7 @@ questions, utter no remonstrances; it is your best wisdom. You expected
 
 bread, and you have got a stone: break your teeth on it, and don't
 
-shriek because the nerves are martyrized; do not doubt that your mental
+shriek because the nerves are martyrized; do not [[Doubt|doubt]] that your mental
 
 stomach--if you have such a thing--is strong as an ostrich's; the stone
 
@@ -664,7 +664,7 @@ will digest. You held out your hand for an egg, and fate put into it a
 
 scorpion. Show no consternation: close your fingers firmly upon the
 
-gift; let it sting through your palm. Never mind; in time, after your
+gift; let it sting through your palm. Never mind; in [[Time|time]], after your
 
 hand and arm have swelled and quivered long with torture, the squeezed
 
@@ -674,9 +674,9 @@ endure without a sob. For the whole remnant of your life, if you survive
 
 the test--some, it is said, die under it--you will be stronger, wiser,
 
-less sensitive. This you are not aware of, perhaps, at the time, and so
+less sensitive. This you are not aware of, perhaps, at the [[Time|time]], and so
 
-cannot borrow courage of that hope. Nature, however, as has been
+cannot borrow [[Courage|courage]] of that [[Hope|hope]]. [[Nature]], however, as has been
 
 intimated, is an excellent friend in such cases, sealing the lips,
 
@@ -684,7 +684,7 @@ interdicting utterance, commanding a placid dissimulation--a
 
 dissimulation often wearing an easy and gay mien at first, settling down
 
-to sorrow and paleness in time, then passing away, and leaving a
+to sorrow and paleness in [[Time|time]], then passing away, and leaving a
 
 convenient stoicism, not the less fortifying because it is half-bitter.
 
@@ -692,7 +692,7 @@ convenient stoicism, not the less fortifying because it is half-bitter.
 
 Half-bitter! Is that wrong? No; it should be bitter: bitterness is
 
-strength--it is a tonic. Sweet, mild force following acute suffering you
+strength--it is a tonic. Sweet, mild force following acute [[Suffering|suffering]] you
 
 find nowhere; to talk of it is delusion. There may be apathetic
 
@@ -706,9 +706,9 @@ Who has read the ballad of "Puir Mary Lee"--that old Scotch ballad,
 
 written I know not in what generation nor by what hand? Mary had been
 
-ill-used--probably in being made to believe that truth which was
+ill-used--probably in being made to believe that [[Truth|truth]] which was
 
-falsehood. She is not complaining, but she is sitting alone in the
+falsehood. She is not complaining, but she is sitting [[Alone|alone]] in the
 
 snowstorm, and you hear her thoughts. They are not the thoughts of a
 
@@ -716,11 +716,11 @@ model heroine under her circumstances, but they are those of a
 
 deeply-feeling, strongly-resentful peasant-girl. Anguish has driven her
 
-from the ingle-nook of home to the white-shrouded and icy hills.
+from the ingle-nook of [[Home|home]] to the white-shrouded and icy hills.
 
 Crouched under the "cauld drift," she recalls every image of
 
-horror--"the yellow-wymed ask," "the hairy adder," "the auld moon-bowing
+horror--"the yellow-wymed ask," "the hairy adder," "the auld [[Moon|moon]]-bowing
 
 tyke," "the ghaist at e'en,", "the sour bullister," "the milk on the
 
@@ -730,7 +730,7 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
     "Oh, ance I lived happily by yon bonny burn--
 
-       The warld was in love wi' me;
+       The warld was in [[Love|love]] wi' me;
 
      But now I maun sit 'neath the cauld drift and mourn,
 
@@ -760,15 +760,15 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
 But what has been said in the last page or two is not germane to
 
-Caroline Helstone's feelings, or to the state of things between her and
+[[Caroline Helstone]]'s feelings, or to the state of things between her and
 
-Robert Moore. Robert had done her no wrong; he had told her no lie; it
+[[Robert Moore]]. Robert had done her no wrong; he had told her no lie; it
 
 was she that was to blame, if any one was. What bitterness her mind
 
 distilled should and would be poured on her own head. She had loved
 
-without being asked to love--a natural, sometimes an inevitable chance,
+without being asked to [[Love|love]]--a natural, sometimes an inevitable chance,
 
 but big with misery.
 
@@ -786,7 +786,7 @@ intimate communication with her, because he did not choose to have his
 
 affections inextricably entangled, nor to be drawn, despite his reason,
 
-into a marriage he believed imprudent. Now, what was she to do? To give
+into a [[Marriage|marriage]] he believed imprudent. Now, what was she to do? To give
 
 way to her feelings, or to vanquish them? To pursue him, or to turn
 
@@ -810,11 +810,11 @@ without complaint or question, without the alteration of a muscle or the
 
 shedding of a tear, betook herself to her studies under Hortense as
 
-usual, and at dinner-time went home without lingering.
+usual, and at dinner-[[Time|time]] went [[Home|home]] without lingering.
 
 
 
-When she had dined, and found herself in the rectory drawing-room alone,
+When she had dined, and found herself in the rectory drawing-room [[Alone|alone]],
 
 having left her uncle over his temperate glass of port wine, the
 
@@ -824,7 +824,7 @@ through this day?"
 
 
 
-Last night she had hoped it would be spent as yesterday was, that the
+Last [[Night|night]] she had hoped it would be spent as yesterday was, that the
 
 evening would be again passed with happiness and Robert. She had learned
 
@@ -850,9 +850,9 @@ her relentingly as he sat opposite her work-table during his stay. The
 
 few words he had spoken to her were comforting; his manner on bidding
 
-her good-night was genial. Now, he might come this evening, said False
+her good-[[Night|night]] was genial. Now, he might come this evening, said False
 
-Hope. She almost knew it was False Hope which breathed the whisper, and
+[[Hope]]. She almost knew it was False [[Hope]] which breathed the whisper, and
 
 yet she listened.
 
@@ -886,7 +886,7 @@ doubtless, he speedily helped his rector to empty the decanters.
 
 
 
-It was a fact to be noted, that at whatever house in Briarfield,
+It was a fact to be noted, that at whatever [[house]] in Briarfield,
 
 Whinbury, or Nunnely one curate dropped in to a meal--dinner or tea, as,
 
@@ -894,11 +894,11 @@ the case might be--another presently followed, often two more. Not that
 
 they gave each other the rendezvous, but they were usually all on the
 
-run at the same time; and when Donne, for instance, sought Malone at his
+run at the same [[Time|time]]; and when Donne, for instance, sought Malone at his
 
 lodgings and found him not, he inquired whither he had posted, and
 
-having learned of the landlady his destination, hastened with all speed
+having learned of the landlady his destination, hastened with all [[Speed|speed]]
 
 after him. The same causes operated in the same way with Sweeting. Thus
 
@@ -918,7 +918,7 @@ liked to treat them to a glass of his best), and through the closed
 
 doors Caroline heard their boyish laughter, and the vacant cackle of
 
-their voices. Her fear was lest they should stay to tea, for she had no
+their voices. Her [[Fear|fear]] was lest they should stay to tea, for she had no
 
 pleasure in making tea for that particular trio. What distinctions
 
@@ -934,13 +934,13 @@ Not only was she destined to be favoured with their clerical company,
 
 but Fortune was at this moment bringing her four other guests--lady
 
-guests, all packed in a pony-phaeton now rolling somewhat heavily along
+guests, all packed in a pony-phaeton now [[rolling]] somewhat heavily along
 
-the road from Whinbury: an elderly lady and three of her buxom daughters
+the [[Road|road]] from Whinbury: an elderly lady and three of her buxom daughters
 
 were coming to see her "in a friendly way," as the custom of that
 
-neighbourhood was. Yes, a fourth time the bell clanged. Fanny brought
+neighbourhood was. Yes, a fourth [[Time|time]] the bell clanged. Fanny brought
 
 the present announcement to the drawing-room,--
 
@@ -972,7 +972,7 @@ not altogether insincere profession of piety, and was greatly given to
 
 hospitality towards the clergy. In sailed her three daughters, a showy
 
-trio, being all three well-grown, and more or less handsome.
+trio, being all three [[Well|well]]-grown, and more or less handsome.
 
 
 
@@ -996,13 +996,13 @@ are wrong."
 
 Mrs. and Misses Sykes, far from being exceptions to this observation,
 
-were pointed illustrations of its truth. Miss Mary--a well-looked,
+were pointed illustrations of its [[Truth|truth]]. Miss Mary--a [[Well|well]]-looked,
 
-well-meant, and, on the whole, well-dispositioned girl--wore her
+[[Well|well]]-meant, and, on the whole, [[Well|well]]-dispositioned girl--wore her
 
 complacency with some state, though without harshness. Miss Harriet--a
 
-beauty--carried it more overbearingly; she looked high and cold. Miss
+[[Beauty|beauty]]--carried it more overbearingly; she looked high and cold. Miss
 
 Hannah, who was conceited, dashing, pushing, flourished hers consciously
 
@@ -1014,11 +1014,11 @@ religious fame.
 
 The reception was got through somehow. Caroline "was glad to see them"
 
-(an unmitigated fib), hoped they were well, hoped Mrs. Sykes's cough was
+(an unmitigated fib), hoped they were [[Well|well]], hoped Mrs. Sykes's cough was
 
 better (Mrs. Sykes had had a cough for the last twenty years), hoped the
 
-Misses Sykes had left their sisters at home well; to which inquiry the
+Misses Sykes had left their sisters at [[Home|home]] [[Well|well]]; to which inquiry the
 
 Misses Sykes, sitting on three chairs opposite the music-stool, whereon
 
@@ -1032,17 +1032,17 @@ her the trouble by depositing herself therein--the Misses Sykes replied
 
 to Caroline by one simultaneous bow, very majestic and mighty awful. A
 
-pause followed. This bow was of a character to ensure silence for the
+pause followed. This bow was of a character to ensure [[Silence|silence]] for the
 
 next five minutes, and it did. Mrs. Sykes then inquired after Mr.
 
 Helstone, and whether he had had any return of rheumatism, and whether
 
-preaching twice on a Sunday fatigued him, and if he was capable of
+preaching twice on a [[Sunday]] fatigued him, and if he was capable of
 
 taking a full service now; and on being assured he was, she and all her
 
-daughters, combining in chorus, expressed their opinion that he was "a
+daughters, combining in [[Chorus|chorus]], expressed their opinion that he was "a
 
 wonderful man of his years."
 
@@ -1054,13 +1054,13 @@ Pause second.
 
 Miss Mary, getting up the steam in her turn, asked whether Caroline had
 
-attended the Bible Society meeting which had been held at Nunnely last
+attended the [[Bible]] Society meeting which had been held at Nunnely last
 
-Thursday night. The negative answer which truth compelled Caroline to
+[[thursday|Thursday]] [[Night|night]]. The negative answer which [[Truth|truth]] compelled Caroline to
 
-utter--for last Thursday evening she had been sitting at home, reading a
+utter--for last [[thursday|Thursday]] evening she had been sitting at [[Home|home]], reading a
 
-novel which Robert had lent her--elicited a simultaneous expression of
+[[Novel|novel]] which Robert had lent her--elicited a simultaneous expression of
 
 surprise from the lips of the four ladies.
 
@@ -1102,7 +1102,7 @@ Broadbent, she could not give her opinion. Pause third came on. During
 
 its continuance, Caroline was feeling at her heart's core what a
 
-dreaming fool she was, what an unpractical life she led, how little
+dreaming [[Fool|fool]] she was, what an unpractical life she led, how little
 
 fitness there was in her for ordinary intercourse with the ordinary
 
@@ -1116,7 +1116,7 @@ not do, and that some day she would be forced to make an alteration. It
 
 could not be said that she exactly wished to resemble the ladies before
 
-her, but she wished to become superior to her present self, so as to
+her, but she wished to become superior to her present [[Self|self]], so as to
 
 feel less scared by their dignity.
 
@@ -1180,7 +1180,7 @@ who are not _au fait_ to the mysteries of the "Jew-basket" and
 
 the capacity of a good-sized family clothes-basket, dedicated to the
 
-purpose of conveying from house to house a monster collection of
+purpose of conveying from [[house]] to [[house]] a [[Monster|monster]] collection of
 
 pin-cushions, needle-books, card-racks, workbags, articles of infant
 
@@ -1190,15 +1190,15 @@ Christian ladies of a parish, and sold perforce to the heathenish
 
 gentlemen thereof, at prices unblushingly exorbitant. The proceeds of
 
-such compulsory sales are applied to the conversion of the Jews, the
+such compulsory sales are applied to the [[Conversion|conversion]] of the Jews, the
 
-seeking up of the ten missing tribes, or to the regeneration of the
+seeking up of the ten missing tribes, or to the [[Regeneration|regeneration]] of the
 
 interesting coloured population of the globe. Each lady contributor
 
 takes it in her turn to keep the basket a month, to sew for it, and to
 
-foist off its contents on a shrinking male public. An exciting time it
+foist off its contents on a shrinking male public. An exciting [[Time|time]] it
 
 is when that turn comes round. Some active-minded woman, with a good
 
@@ -1210,7 +1210,7 @@ hundred per cent. above cost price, for articles quite useless to them;
 
 other feebler souls object to it, and would rather see the prince of
 
-darkness himself at their door any morning than that phantom basket,
+darkness himself at their door any morning than that [[Phantom|phantom]] basket,
 
 brought with "Mrs. Rouse's compliments; and please, ma'am, she says it's
 
@@ -1238,7 +1238,7 @@ morning. We shall never have enow."
 
 
 
-"Only three and a loaf. I wish these fine folk would stay at home till
+"Only three and a loaf. I wish these fine folk would stay at [[Home|home]] till
 
 they're asked; and I want to finish trimming my hat" (bonnet she meant).
 
@@ -1248,7 +1248,7 @@ they're asked; and I want to finish trimming my hat" (bonnet she meant).
 
 a certain energy, "Fanny must run down to Briarfield and buy some
 
-muffins and crumpets and some biscuits. And don't be cross, Eliza; we
+muffins and crumpets and some biscuits. And don't be [[Cross|cross]], Eliza; we
 
 can't help it now."
 
@@ -1272,7 +1272,7 @@ cream-ewer, and sugar-basin.
 
 "Yes; and now get it ready as quickly as you can, for the sooner we have
 
-tea over the sooner they will go--at least, I hope so. Heigh-ho! I wish
+tea over the sooner they will go--at least, I [[Hope|hope]] so. Heigh-ho! I wish
 
 they were gone," she sighed, as she returned to the drawing-room.
 
@@ -1290,9 +1290,9 @@ interest in hearing any of them, or in speaking to them. How they will
 
 gabble when the curates come in, and how weary I shall grow with
 
-listening to them! But I suppose I am a selfish fool. These are very
+listening to them! But I suppose I am a selfish [[Fool|fool]]. These are very
 
-respectable gentlefolks. I ought, no doubt, to be proud of their
+respectable gentlefolks. I ought, no [[Doubt|doubt]], to be proud of their
 
 countenance. I don't say they are not as good as I am--far from it--but
 
@@ -1306,7 +1306,7 @@ She went in.
 
 Yorkshire people in those days took their tea round the table, sitting
 
-well into it, with their knees duly introduced under the mahogany. It
+[[Well|well]] into it, with their knees duly introduced under the mahogany. It
 
 was essential to have a multitude of plates of bread and butter, varied
 
@@ -1324,11 +1324,11 @@ with green parsley, so much the better.
 
 Eliza, the rector's cook, fortunately knew her business as provider. She
 
-had been put out of humour a little at first, when the invaders came so
+had been put out of [[Humour|humour]] a little at first, when the invaders came so
 
 unexpectedly in such strength; but it appeared that she regained her
 
-cheerfulness with action, for in due time the tea was spread forth in
+cheerfulness with action, for in due [[Time|time]] the tea was spread forth in
 
 handsome style, and neither ham, tarts, nor marmalade were wanting among
 
@@ -1388,7 +1388,7 @@ Caroline's elbow, to her unmitigated annoyance, for she had a peculiar
 
 antipathy to Donne, on account of his stultified and immovable
 
-self-conceit and his incurable narrowness of mind. Malone, grinning most
+[[Self|self]]-conceit and his incurable narrowness of mind. Malone, grinning most
 
 unmeaningly, inducted himself into the corresponding seat on the other
 
@@ -1420,13 +1420,13 @@ he had ready cut and dried, which he never failed to produce:--
 
 
 
-3rdly. "Does your class at the Sunday school keep up its number?"
+3rdly. "Does your class at the [[Sunday]] school keep up its number?"
 
 
 
 These three questions being put and responded to, between Caroline and
 
-Malone reigned silence.
+Malone reigned [[Silence|silence]].
 
 
 
@@ -1434,7 +1434,7 @@ With Donne it was otherwise; he was troublesome, exasperating. He had a
 
 stock of small-talk on hand, at once the most trite and perverse that
 
-can well be imagined--abuse of the people of Briarfield; of the natives
+can [[Well|well]] be imagined--abuse of the people of Briarfield; of the natives
 
 of Yorkshire generally; complaints of the want of high society; of the
 
@@ -1472,7 +1472,7 @@ he had entered the church for, since he complained there were only
 
 cottages to visit, and poor people to preach to--whether he had been
 
-ordained to the ministry merely to wear soft clothing and sit in king's
+ordained to the ministry merely to wear soft clothing and sit in [[King|king]]'s
 
 houses. These questions were considered by all the curates as, to the
 
@@ -1480,7 +1480,7 @@ last degree, audacious and impious.
 
 
 
-Tea was a long time in progress; all the guests gabbled as their hostess
+Tea was a long [[Time|time]] in progress; all the guests gabbled as their hostess
 
 had expected they would. Mr. Helstone, being in excellent spirits--when,
 
@@ -1510,15 +1510,15 @@ thrown away.
 
 Hannah was his favourite. Harriet, though beautiful, egotistical, and
 
-self-satisfied, was not quite weak enough for him. She had some genuine
+[[Self|self]]-satisfied, was not quite weak enough for him. She had some genuine
 
-self-respect amidst much false pride, and if she did not talk like an
+[[Self|self]]-respect amidst much false [[Pride|pride]], and if she did not talk like an
 
 oracle, neither would she babble like one crazy; she would not permit
 
-herself to be treated quite as a doll, a child, a plaything; she
+herself to be treated quite as a doll, a [[Child|child]], a plaything; she
 
-expected to be bent to like a queen.
+expected to be bent to like a [[Queen|queen]].
 
 
 
@@ -1532,11 +1532,11 @@ very silly did she become when besieged with attention, flattered and
 
 admired to the proper degree, that there were moments when Helstone
 
-actually felt tempted to commit matrimony a second time, and to try the
+actually felt tempted to commit matrimony a second [[Time|time]], and to try the
 
 experiment of taking her for his second helpmeet; but fortunately the
 
-salutary recollection of the _ennuis_ of his first marriage, the
+salutary recollection of the _ennuis_ of his first [[Marriage|marriage]], the
 
 impression still left on him of the weight of the millstone he had once
 
@@ -1558,7 +1558,7 @@ parents would have quite approved the match. To them his fifty-five
 
 years, his bend-leather heart, could have presented no obstacles; and as
 
-he was a rector, held an excellent living, occupied a good house, and
+he was a rector, held an excellent living, occupied a good [[house]], and
 
 was supposed even to have private property (though in that the world was
 
@@ -1620,11 +1620,11 @@ tea before him, long after the rest had finished and after he himself
 
 had discussed such allowance of viands as he felt competent to
 
-swallow--long, indeed, after signs of impatience had been manifested
+[[Swallow|swallow]]--long, indeed, after signs of impatience had been manifested
 
 all round the board, till chairs were pushed back, till the talk
 
-flagged, till silence fell. Vainly did Caroline inquire repeatedly if he
+flagged, till [[Silence|silence]] fell. Vainly did Caroline inquire repeatedly if he
 
 would have another cup, if he would take a little hot tea, as that must
 
@@ -1660,7 +1660,7 @@ movements.
 
 he; which he did forthwith, and all quitted the table. Donne, nothing
 
-abashed, still sat ten minutes quite alone, whereupon Mr. Helstone rang
+abashed, still sat ten minutes quite [[Alone|alone]], whereupon Mr. Helstone rang
 
 the bell for the things to be removed. The curate at length saw himself
 
@@ -1680,7 +1680,7 @@ was asked for. This was Mr. Sweeting's chance for showing off. He was
 
 eager to commence. He undertook, therefore, the arduous task of
 
-persuading the young ladies to favour the company with an air--a song.
+persuading the young ladies to favour the company with an air--a [[Song|song]].
 
 _Con amore_ he went through the whole business of begging, praying,
 
@@ -1712,7 +1712,7 @@ all at once assuming the character of a swain (which character he had
 
 endeavoured to enact once or twice before, but in which he had not
 
-hitherto met with the success he doubtless opined his merits deserved),
+hitherto met with the [[success]] he doubtless opined his merits deserved),
 
 approached a sofa on which Miss Helstone was seated, and depositing his
 
@@ -1724,7 +1724,7 @@ incomprehensible. In the course of his efforts to render himself
 
 agreeable, he contrived to possess himself of the two long sofa cushions
 
-and a square one; with which, after rolling them about for some time
+and a square one; with which, after [[rolling]] them about for some [[Time|time]]
 
 with strange gestures, he managed to erect a sort of barrier between
 
@@ -1758,7 +1758,7 @@ his niece. Gérard Moore was better instructed on this point: he had seen
 
 the neat church that owed its origin to the rector's zeal and cash, and
 
-more than once, in his inmost soul, had cursed an expensive caprice
+more than once, in his inmost [[Soul|soul]], had cursed an expensive caprice
 
 which crossed his wishes.
 
@@ -1796,9 +1796,9 @@ Tired at length to exhaustion, she embraced the opportunity of Mr.
 
 Sweeting coming up to speak to Mrs. Sykes to slip quietly out of the
 
-apartment, and seek a moment's respite in solitude. She repaired to the
+apartment, and seek a moment's respite in [[Solitude|solitude]]. She repaired to the
 
-dining-room, where the clear but now low remnant of a fire still burned
+dining-room, where the clear but now low remnant of a [[Fire|fire]] still burned
 
 in the grate. The place was empty and quiet, glasses and decanters were
 
@@ -1814,15 +1814,15 @@ vacancy. As to her mind, that flew directly to the Hollow. It stood on
 
 the threshold of the parlour there, then it passed to the
 
-counting-house, and wondered which spot was blessed by the presence of
+counting-[[house]], and wondered which spot was blessed by the presence of
 
-Robert. It so happened that neither locality had that honour; for Robert
+Robert. It so happened that neither locality had that [[Honour|honour]]; for Robert
 
 was half a mile away from both, and much nearer to Caroline than her
 
 deadened spirit suspected. He was at this moment crossing the
 
-churchyard, approaching the rectory garden-gate--not, however, coming to
+churchyard, approaching the rectory [[Garden|garden]]-gate--not, however, coming to
 
 see his cousin, but intent solely on communicating a brief piece of
 
@@ -1832,7 +1832,7 @@ intelligence to the rector.
 
 Yes, Caroline; you hear the wire of the bell vibrate; it rings again for
 
-the fifth time this afternoon. You start, and you are certain now that
+the fifth [[Time|time]] this afternoon. You start, and you are certain now that
 
 this must be he of whom you dream. Why you are so certain you cannot
 
@@ -1886,7 +1886,7 @@ which she said this, any one might perceive that some saddening change
 
 had lately passed over her prospects, and that the faculty of cheerful
 
-self-possession had left her. Mr. Moore, probably, remembered how she
+[[Self|self]]-possession had left her. Mr. Moore, probably, remembered how she
 
 had formerly been accustomed to meet him with gentle ardour and hopeful
 
@@ -1928,13 +1928,13 @@ messenger?"
 
 
 
-"Then you may just inform him that I have got a clue to the identity of
+"Then you may just inform him that I have got a clue to the [[Identity|identity]] of
 
 one, at least, of the men who broke my frames; that he belongs to the
 
 same gang who attacked Sykes and Pearson's dressing-shop, and that I
 
-hope to have him in custody to-morrow. You can remember that?"
+[[Hope|hope]] to have him in custody to-morrow. You can remember that?"
 
 
 
@@ -1970,13 +1970,13 @@ perpetrating further mischief."
 
 
 
-"But his accomplices will take revenge on you. You do not know how the
+"But his accomplices will take [[Revenge|revenge]] on you. You do not know how the
 
 people of this country bear malice. It is the boast of some of them that
 
 they can keep a stone in their pocket seven years, turn it at the end of
 
-that time, keep it seven years longer, and hurl it and hit their mark
+that [[Time|time]], keep it seven years longer, and hurl it and hit their mark
 
 'at last.'"
 
@@ -1988,9 +1988,9 @@ Moore laughed.
 
 "A most pithy vaunt," said he--"one that redounds vastly to the credit
 
-of your dear Yorkshire friends. But don't fear for me, Lina. I am on my
+of your dear Yorkshire friends. But don't [[Fear|fear]] for me, Lina. I am on my
 
-guard against these lamb-like compatriots of yours. Don't make yourself
+guard against these [[Lamb|lamb]]-like compatriots of yours. Don't make yourself
 
 uneasy about me."
 
@@ -2004,7 +2004,7 @@ stopped.
 
 "Nothing will happen, Lina. To speak in your own language, there is a
 
-Providence above all--is there not?"
+[[Providence]] above all--is there not?"
 
 
 
@@ -2028,17 +2028,17 @@ remembered."
 
 I have myself gone to bed like a heathen, that another had asked
 
-forgiveness for my day, and safety for my night. I don't suppose such
+[[Forgiveness|forgiveness]] for my day, and safety for my [[Night|night]]. I don't suppose such
 
 vicarial piety will avail much, but the petitions come out of a sincere
 
-breast, from innocent lips. They should be acceptable as Abel's
+breast, from [[Innocent|innocent]] lips. They should be acceptable as Abel's
 
 offering; and doubtless would be, if the object deserved them."
 
 
 
-"Annihilate that doubt. It is groundless."
+"Annihilate that [[Doubt|doubt]]. It is groundless."
 
 
 
@@ -2046,7 +2046,7 @@ offering; and doubtless would be, if the object deserved them."
 
 it, and for nothing else, and scarcely breathes any other air than that
 
-of mills and markets, it seems odd to utter his name in a prayer, or to
+of mills and markets, it seems odd to utter his name in a [[prayer]], or to
 
 mix his idea with anything divine; and very strange it seems that a
 
@@ -2102,7 +2102,7 @@ seem friendly. You misunderstood me this morning, did you not?"
 
 "Yet I am the same, except that I have left the tradesman behind me in
 
-the Hollow. Your kinsman alone stands before you."
+the Hollow. Your kinsman [[Alone|alone]] stands before you."
 
 
 
@@ -2130,10 +2130,10 @@ Mr. Helstone called for his niece.
 
 than meet all that host in the passage, will take my departure through
 
-the window. Luckily it opens like a door. One minute only--put down the
+the [[Window|window]]. Luckily it opens like a door. One minute only--put down the
 
-candle an instant--good-night. I kiss you because we are cousins, and,
+candle an instant--good-[[Night|night]]. I kiss you because we are cousins, and,
 
 being cousins, one--two--three kisses are allowable. Caroline,
 
-good-night."
+good-[[Night|night]]."

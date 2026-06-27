@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 34 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,20 +14,20 @@ tags:
 </nav>
 
 
-‘But it will come soon enough,’ thought Ralph; ‘all love--bah! that I
+‘But it will come soon enough,’ thought Ralph; ‘all [[Love|love]]--bah! that I
 should use the cant of boys and girls--is fleeting enough; though that
 which has its sole root in the admiration of a whiskered face like that
 of yonder baboon, perhaps lasts the longest, as it originates in the
-greater blindness and is fed by vanity. Meantime the fools bring grist
+greater blindness and is fed by [[Vanity|vanity]]. Meantime the fools bring grist
 to my mill, so let them live out their day, and the longer it is, the
 better.’
 
-These agreeable reflections occurred to Ralph Nickleby, as sundry small
+These agreeable reflections occurred to [[Ralph Nickleby]], as sundry small
 caresses and endearments, supposed to be unseen, were exchanged between
 the objects of his thoughts.
 
 ‘If you have nothing more to say, my dear, to Mr. Nickleby,’ said Madame
-Mantalini, ‘we will take our leaves. I am sure we have detained him much
+Mantalini, ‘we will take our [[Leaves|leaves]]. I am sure we have detained him much
 too long already.’
 
 Mr. Mantalini answered, in the first instance, by tapping Madame
@@ -42,7 +42,7 @@ demd extraordinary out-of-the-way kind of thing as never was--eh?’
 
 ‘Don’t you know, demmit?’ asked Mr. Mantalini.
 
-‘I see by the paper that he was thrown from his cabriolet last night,
+‘I see by the paper that he was thrown from his cabriolet last [[Night|night]],
 and severely injured, and that his life is in some danger,’ answered
 Ralph with great composure; ‘but I see nothing extraordinary in
 that--accidents are not miraculous events, when men live hard, and drive
@@ -58,12 +58,12 @@ that he had no curiosity upon the subject.
 ‘Demmit, you amaze me,’ cried Mantalini.
 
 Ralph shrugged his shoulders again, as if it were no great feat to amaze
-Mr. Mantalini, and cast a wistful glance at the face of Newman Noggs,
+Mr. Mantalini, and cast a wistful glance at the face of [[Newman Noggs]],
 which had several times appeared behind a couple of panes of glass in
 the room door; it being a part of Newman’s duty, when unimportant people
 called, to make various feints of supposing that the bell had rung for
 him to show them out: by way of a gentle hint to such visitors that it
-was time to go.
+was [[Time|time]] to go.
 
 ‘Don’t you know,’ said Mr. Mantalini, taking Ralph by the button, ‘that
 it wasn’t an accident at all, but a demd, furious, manslaughtering
@@ -79,7 +79,7 @@ told you? Speak,’ growled Ralph. ‘Do you hear me?’
 
 ‘’Gad, Nickleby,’ said Mr. Mantalini, retreating towards his wife, ‘what
 a demneble fierce old evil genius you are! You’re enough to frighten the
-life and soul out of her little delicious wits--flying all at once into
+life and [[Soul|soul]] out of her little delicious wits--flying all at once into
 such a blazing, ravaging, raging passion as never was, demmit!’
 
 ‘Pshaw,’ rejoined Ralph, forcing a smile. ‘It is but manner.’
@@ -97,9 +97,9 @@ Mantalini. ‘Demnition pleasant, and a tip-top sawyer.’
 
 ‘That it happened this way--that your nephew met him at a coffeehouse,
 fell upon him with the most demneble ferocity, followed him to his cab,
-swore he would ride home with him, if he rode upon the horse’s back or
-hooked himself on to the horse’s tail; smashed his countenance, which
-is a demd fine countenance in its natural state; frightened the horse,
+swore he would ride [[Home|home]] with him, if he rode upon the [[Horse|horse]]’s back or
+hooked himself on to the [[Horse|horse]]’s tail; smashed his countenance, which
+is a demd fine countenance in its natural state; frightened the [[Horse|horse]],
 pitched out Sir Mulberry and himself, and--’
 
 ‘And was killed?’ interposed Ralph with gleaming eyes. ‘Was he? Is he
@@ -129,11 +129,11 @@ niece--the softest, sweetest, prettiest--’
 ‘Alfred!’ interposed Madame Mantalini.
 
 ‘She is always right,’ rejoined Mr. Mantalini soothingly, ‘and when she
-says it is time to go, it is time, and go she shall; and when she walks
+says it is [[Time|time]] to go, it is [[Time|time]], and go she shall; and when she walks
 along the streets with her own tulip, the women shall say, with envy,
 she has got a demd fine husband; and the men shall say with rapture,
 he has got a demd fine wife; and they shall both be right and neither
-wrong, upon my life and soul--oh demmit!’
+wrong, upon my life and [[Soul|soul]]--oh demmit!’
 
 With which remarks, and many more, no less intellectual and to the
 purpose, Mr. Mantalini kissed the fingers of his gloves to Ralph
@@ -143,12 +143,12 @@ away.
 ‘So, so,’ muttered Ralph, dropping into his chair; ‘this devil is loose
 again, and thwarting me, as he was born to do, at every turn. He told
 me once there should be a day of reckoning between us, sooner or later.
-I’ll make him a true prophet, for it shall surely come.’
+I’ll make him a true [[Prophet|prophet]], for it shall surely come.’
 
-‘Are you at home?’ asked Newman, suddenly popping in his head.
+‘Are you at [[Home|home]]?’ asked Newman, suddenly popping in his head.
 
 ‘No,’ replied Ralph, with equal abruptness.
 
 Newman withdrew his head, but thrust it in again.
 
-‘You’re quite sure you’re not at home, are you?’ said Newman.
+‘You’re quite sure you’re not at [[Home|home]], are you?’ said Newman.

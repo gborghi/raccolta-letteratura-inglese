@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -24,7 +24,7 @@ jemmy.’
 
 ‘No?’ said Steerforth.
 
-‘Not the ghost of one,’ replied Miss Mowcher.
+‘Not the [[Ghost|ghost]] of one,’ replied Miss Mowcher.
 
 ‘We could show her the substance of one, I think?’ said Steerforth,
 addressing his eyes to mine. ‘Eh, Daisy?’
@@ -66,7 +66,7 @@ to be married to a most worthy and deserving man in her own station of
 life. I esteem her for her good sense, as much as I admire her for her
 good looks.’
 
-‘Well said!’ cried Steerforth. ‘Hear, hear, hear! Now I’ll quench the
+‘[[Well]] said!’ cried Steerforth. ‘Hear, hear, hear! Now I’ll quench the
 curiosity of this little Fatima, my dear Daisy, by leaving her nothing
 to guess at. She is at present apprenticed, Miss Mowcher, or articled,
 or whatever it may be, to Omer and Joram, Haberdashers, Milliners, and
@@ -88,9 +88,9 @@ brisk again in an instant, and rattled away with surprising volubility.
 
 ‘Oh! And that’s all about it, is it?’ she exclaimed, trimming his
 whiskers with a little restless pair of scissors, that went glancing
-round his head in all directions. ‘Very well: very well! Quite a long
+round his head in all directions. ‘Very [[Well|well]]: very [[Well|well]]! Quite a long
 story. Ought to end “and they lived happy ever afterwards”; oughtn’t
-it? Ah! What’s that game at forfeits? I love my love with an E, because
+it? Ah! What’s that game at forfeits? I [[Love|love]] my [[Love|love]] with an E, because
 she’s enticing; I hate her with an E, because she’s engaged. I took her
 to the sign of the exquisite, and treated her with an elopement, her
 name’s Emily, and she lives in the east? Ha! ha! ha! Mr. Copperfield,
@@ -103,7 +103,7 @@ reply, she continued, without drawing breath:
 you are, Steerforth. If I understand any noddle in the world, I
 understand yours. Do you hear me when I tell you that, my darling? I
 understand yours,’ peeping down into his face. ‘Now you may mizzle,
-jemmy (as we say at Court), and if Mr. Copperfield will take the chair
+jemmy (as we say at [[Court]]), and if Mr. Copperfield will take the chair
 I’ll operate on him.’
 
 ‘What do you say, Daisy?’ inquired Steerforth, laughing, and resigning
@@ -114,7 +114,7 @@ his seat. ‘Will you be improved?’
 ‘Don’t say no,’ returned the little woman, looking at me with the aspect
 of a connoisseur; ‘a little bit more eyebrow?’
 
-‘Thank you,’ I returned, ‘some other time.’
+‘Thank you,’ I returned, ‘some other [[Time|time]].’
 
 ‘Have it carried half a quarter of an inch towards the temple,’ said
 Miss Mowcher. ‘We can do it in a fortnight.’
@@ -127,11 +127,11 @@ for a pair of whiskers. Come!’
 I could not help blushing as I declined, for I felt we were on my weak
 point, now. But Miss Mowcher, finding that I was not at present disposed
 for any decoration within the range of her art, and that I was, for the
-time being, proof against the blandishments of the small bottle which
+[[Time|time]] being, proof against the blandishments of the small bottle which
 she held up before one eye to enforce her persuasions, said we would
 make a beginning on an early day, and requested the aid of my hand to
 descend from her elevated station. Thus assisted, she skipped down with
-much agility, and began to tie her double chin into her bonnet.
+much agility, and began to tie her [[Double|double]] chin into her bonnet.
 
 ‘The fee,’ said Steerforth, ‘is--’
 
@@ -152,5 +152,5 @@ your hearts, but I am forced to leave you. You must call up all your
 fortitude, and try to bear it. Good-bye, Mr. Copperfield! Take care of
 yourself, jockey of Norfolk! How I have been rattling on! It’s all
 the fault of you two wretches. I forgive you! “Bob swore!”--as the
-Englishman said for “Good night”, when he first learnt French, and
+Englishman said for “Good [[Night|night]]”, when he first learnt French, and
 thought it so like English. “Bob swore,” my ducks!’

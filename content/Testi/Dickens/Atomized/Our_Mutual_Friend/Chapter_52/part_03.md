@@ -33,20 +33,20 @@ a convenient doorstep to ring them both, before acknowledging their
 receipt.
 
 ‘There’s one thing about you, T’otherest Governor,’ said Riderhood,
-faring on again, ‘as looks well and goes fur. You’re a ready money man.
+faring on again, ‘as looks [[Well|well]] and goes fur. You’re a ready money man.
 Now;’ when he had carefully pocketed the coins on that side of himself
 which was furthest from his new friend; ‘what’s this for?’
 
 ‘For you.’
 
 ‘Why, o’ course I know THAT,’ said Riderhood, as arguing something that
-was self-evident. ‘O’ course I know very well as no man in his right
+was [[Self|self]]-evident. ‘O’ course I know very [[Well|well]] as no man in his right
 senses would suppose as anythink would make me give it up agin when I’d
 once got it. But what do you want for it?’
 
 ‘I don’t know that I want anything for it. Or if I do want anything
 for it, I don’t know what it is.’ Bradley gave this answer in a stolid,
-vacant, and self-communing manner, which Mr Riderhood found very
+vacant, and [[Self|self]]-communing manner, which Mr Riderhood found very
 extraordinary.
 
 ‘You have no goodwill towards this Wrayburn,’ said Bradley, coming to
@@ -74,11 +74,11 @@ no cause for it?’
 ‘Haven’t you yourself declared that the fellow has heaped provocations,
 insults, and affronts on you, or something to that effect? He has done
 the same by me. He is made of venomous insults and affronts, from the
-crown of his head to the sole of his foot. Are you so hopeful or so
+[[Crown|crown]] of his head to the sole of his foot. Are you so hopeful or so
 stupid, as not to know that he and the other will treat your application
 with contempt, and light their cigars with it?’
 
-‘I shouldn’t wonder if they did, by George!’ said Riderhood, turning
+‘I shouldn’t [[Wonder|wonder]] if they did, by George!’ said Riderhood, turning
 angry.
 
 ‘If they did! They will. Let me ask you a question. I know something
@@ -96,13 +96,13 @@ hand. Looking perplexedly at the passionate face, as if he were trying
 to work out a sum in his mind, he slowly answered:
 
 ‘I ain’t set eyes upon her—never once—not since the day of Gaffer’s
-death.’
+[[Death|death]].’
 
-‘You know her well, by sight?’
+‘You know her [[Well|well]], by sight?’
 
 ‘I should think I did! No one better.’
 
-‘And you know him as well?’
+‘And you know him as [[Well|well]]?’
 
 ‘Who’s him?’ asked Riderhood, taking off his hat and rubbing his
 forehead, as he directed a dull look at his questioner.
@@ -129,7 +129,7 @@ of the ignorant Riderhood the withheld question next in his breast.
 ‘You shall put it plain if you want it answered,’ thought the Rogue,
 doggedly; ‘I ain’t a-going a wolunteering.’
 
-‘Well! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
+‘[[Well]]! was he insolent to her too?’ asked Bradley after a struggle. ‘Or
 did he make a show of being kind to her?’
 
 ‘He made a show of being most uncommon kind to her,’ said Riderhood. ‘By
@@ -169,9 +169,9 @@ if it were paid for? He would be very willing indeed. He was ‘agin ’em
 both,’ he said with an oath, and for why? ’Cause they had both stood
 betwixt him and his getting his living by the sweat of his brow.
 
-‘It will not be long then,’ said Bradley Headstone, after some more
+‘It will not be long then,’ said [[Bradley Headstone]], after some more
 discourse to this effect, ‘before we see one another again. Here is the
-country road, and here is the day. Both have come upon me by surprise.’
+country [[Road|road]], and here is the day. Both have come upon me by surprise.’
 
 ‘But, T’otherest Governor,’ urged Mr Riderhood, ‘I don’t know where to
 find you.’
@@ -183,20 +183,20 @@ your Lock.’
 come yet of a dry acquaintance. Let’s wet it, in a mouth-fill of rum and
 milk, T’otherest Governor.’
 
-Bradley assenting, went with him into an early public-house, haunted by
+Bradley assenting, went with him into an early public-[[house]], haunted by
 unsavoury smells of musty hay and stale straw, where returning carts,
-farmers’ men, gaunt dogs, fowls of a beery breed, and certain human
-nightbirds fluttering home to roost, were solacing themselves after
+farmers’ men, gaunt [[dogs]], fowls of a beery breed, and certain human
+nightbirds fluttering [[Home|home]] to roost, were solacing themselves after
 their several manners; and where not one of the nightbirds hovering
 about the sloppy bar failed to discern at a glance in the passion-wasted
 nightbird with respectable feathers, the worst nightbird of all.
 
 An inspiration of affection for a half-drunken carter going his way led
 to Mr Riderhood’s being elevated on a high heap of baskets on a waggon,
-and pursuing his journey recumbent on his back with his head on his
+and pursuing his [[Journey|journey]] recumbent on his back with his head on his
 bundle. Bradley then turned to retrace his steps, and by-and-by struck
 off through little-traversed ways, and by-and-by reached school and
-home. Up came the sun to find him washed and brushed, methodically
+[[Home|home]]. Up came the sun to find him washed and brushed, methodically
 dressed in decent black coat and waistcoat, decent formal black tie, and
 pepper-and-salt pantaloons, with his decent silver watch in its pocket,
 and its decent hair-guard round his neck: a scholastic huntsman clad for
@@ -205,7 +205,7 @@ the field, with his fresh pack yelping and barking around him.
 Yet more really bewitched than the miserable creatures of the
 much-lamented times, who accused themselves of impossibilities under a
 contagion of horror and the strongly suggestive influences of Torture,
-he had been ridden hard by Evil Spirits in the night that was newly
+he had been ridden hard by Evil Spirits in the [[Night|night]] that was newly
 gone. He had been spurred and whipped and heavily sweated. If a record
 of the sport had usurped the places of the peaceful texts from Scripture
 on the wall, the most advanced of the scholars might have taken fright

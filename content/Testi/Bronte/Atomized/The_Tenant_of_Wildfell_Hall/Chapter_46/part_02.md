@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 46 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ should think too much of her, than lest you should forget her.”
 
 
 
-“But I fear _your_ anxiety is quite the other way respecting her.”
+“But I [[Fear|fear]] _your_ anxiety is quite the other way respecting her.”
 
 
 
@@ -30,9 +30,9 @@ should think too much of her, than lest you should forget her.”
 
 me altogether. She knows it is impossible that I should forget _her;_
 
-and she is right to wish me not to remember her too well. I should not
+and she is right to wish me not to remember her too [[Well|well]]. I should not
 
-desire her to regret me _too_ deeply; but I can scarcely imagine she
+[[Desire|desire]] her to regret me _too_ deeply; but I can scarcely imagine she
 
 will make herself very unhappy about me, because I know I am not worthy
 
@@ -42,11 +42,11 @@ of it, except in my appreciation of her.”
 
 “You are neither of you worthy of a broken heart,—nor of all the sighs,
 
-and tears, and sorrowful thoughts that have been, and I fear will be,
+and [[Tears|tears]], and sorrowful thoughts that have been, and I [[Fear|fear]] will be,
 
 wasted upon you both; but, at present, each has a more exalted opinion
 
-of the other than, I fear, he or she deserves; and my sister’s feelings
+of the other than, I [[Fear|fear]], he or she deserves; and my sister’s feelings
 
 are naturally full as keen as yours, and I believe _more_ constant; but
 
@@ -72,7 +72,7 @@ her thoughts—” he hesitated.
 
 “No; the question was not broached between us: there was no necessity
 
-for it, for I had no doubt that such was her determination.”
+for it, for I had no [[Doubt|doubt]] that such was her determination.”
 
 
 
@@ -84,7 +84,7 @@ for it, for I had no doubt that such was her determination.”
 
 
 
-“Oh, well!” was my only audible reply; but I internally answered,—“No,
+“Oh, [[Well|well]]!” was my only audible reply; but I internally answered,—“No,
 
 Lawrence, you’re wrong there: she is _not_ determined to forget me. It
 
@@ -118,7 +118,7 @@ displeasure which is so commonly the reward of those who give
 
 disagreeable information, or tender their advice unasked. In this,
 
-believe me, I was actuated by no motives of revenge for the occasional
+believe me, I was actuated by no motives of [[Revenge|revenge]] for the occasional
 
 annoyances I had lately sustained from him,—nor yet by any feeling of
 
@@ -126,11 +126,11 @@ malevolent enmity towards Miss Wilson, but purely by the fact that I
 
 could not endure that such a woman should be Mrs. Huntingdon’s sister,
 
-and that, as well for his own sake as for hers, I could not bear to
+and that, as [[Well|well]] for his own sake as for hers, I could not bear to
 
-think of his being deceived into a union with one so unworthy of him,
+think of his being deceived into a [[Union|union]] with one so unworthy of him,
 
-and so utterly unfitted to be the partner of his quiet home, and the
+and so utterly unfitted to be the partner of his quiet [[Home|home]], and the
 
 companion of his life. He had had uncomfortable suspicions on that head
 
@@ -138,11 +138,11 @@ himself, I imagined; but such was his inexperience, and such were the
 
 lady’s powers of attraction, and her skill in bringing them to bear
 
-upon his young imagination, that they had not disturbed him long; and I
+upon his young [[Imagination|imagination]], that they had not disturbed him long; and I
 
 believe the only effectual causes of the vacillating indecision that
 
-had preserved him hitherto from making an actual declaration of love,
+had preserved him hitherto from making an actual declaration of [[Love|love]],
 
 was the consideration of her connections, and especially of her mother,
 
@@ -200,11 +200,11 @@ not as you choose—only please to remember that it is not my custom to
 
 speak falsely, and that in this case I can have no motive for
 
-misrepresenting the truth—”
+misrepresenting the [[Truth|truth]]—”
 
 
 
-“Well, Markham, what now?”
+“[[Well]], Markham, what now?”
 
 
 
@@ -246,11 +246,11 @@ indignation.
 
 
 
-“Well, as I cannot prove it, I must content myself with asserting that
+“[[Well]], as I cannot prove it, I must content myself with asserting that
 
 it is so to the best of my belief; but as you would not willingly marry
 
-Miss Wilson if it _were_ so, you will do well to be cautious, till you
+Miss Wilson if it _were_ so, you will do [[Well|well]] to be cautious, till you
 
 have proved it to be otherwise.”
 

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 8 (part 1)"
+title: "[[The Professor]] — Chapter 8 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER VIII.
 
 
 
-AND Pelet himself? How did I continue to like him? Oh, extremely well!
+AND Pelet himself? How did I continue to like him? Oh, extremely [[Well|well]]!
 
 Nothing could be more smooth, gentlemanlike, and even friendly, than
 
@@ -26,7 +26,7 @@ his demeanour to me. I had to endure from him neither cold neglect,
 
 irritating interference, nor pretentious assumption of superiority. I
 
-fear, however, two poor, hard-worked Belgian ushers in the establishment
+[[Fear|fear]], however, two poor, hard-worked Belgian ushers in the establishment
 
 could not have said as much; to them the director’s manner was
 
@@ -98,7 +98,7 @@ intelligent and really fond of intellectual subjects of discourse, he
 
 and I always found enough to talk about, without seeking themes in the
 
-mire. I hated his fashion of mentioning love; I abhorred, from my soul,
+mire. I hated his fashion of mentioning [[Love|love]]; I abhorred, from my [[Soul|soul]],
 
 mere licentiousness. He felt the difference of our notions, and, by
 
@@ -106,7 +106,7 @@ mutual consent, we kept off ground debateable.
 
 
 
-Pelet’s house was kept and his kitchen managed by his mother, a real
+Pelet’s [[house]] was kept and his kitchen managed by his mother, a real
 
 old Frenchwoman; she had been handsome--at least she told me so, and I
 
@@ -116,7 +116,7 @@ can be; perhaps, though, her style of dress made her look uglier than
 
 she really was. Indoors she would go about without cap, her grey hair
 
-strangely dishevelled; then, when at home, she seldom wore a gown--only
+strangely dishevelled; then, when at [[Home|home]], she seldom wore a gown--only
 
 a shabby cotton camisole; shoes, too, were strangers to her feet, and in
 
@@ -126,7 +126,7 @@ the other hand, whenever it was her pleasure to appear abroad, as on
 
 Sundays and fete-days, she would put on some very brilliant-coloured
 
-dress, usually of thin texture, a silk bonnet with a wreath of flowers,
+dress, usually of thin texture, a silk bonnet with a wreath of [[Flowers|flowers]],
 
 and a very fine shawl. She was not, in the main, an ill-natured old
 
@@ -168,9 +168,9 @@ ears, but Belgium is not England, and its ways are not our ways.
 
 Madame Pelet’s habits of life, then, being taken into consideration,
 
-I was a good deal surprised when, one Thursday evening (Thursday was
+I was a good deal surprised when, one [[thursday|Thursday]] evening ([[thursday|Thursday]] was
 
-always a half-holiday), as I was sitting all alone in my apartment,
+always a half-holiday), as I was sitting all [[Alone|alone]] in my apartment,
 
 correcting a huge pile of English and Latin exercises, a servant
 
@@ -198,7 +198,7 @@ door, a queer idea glanced across my mind.
 
 
 
-“Surely she’s not going to make love to me,” said I. “I’ve heard of
+“Surely she’s not going to make [[Love|love]] to me,” said I. “I’ve heard of
 
 old Frenchwomen doing odd things in that line; and the gouter? They
 
@@ -206,4 +206,4 @@ generally begin such affairs with eating and drinking, I believe.”
 
 
 
-There was a fearful dismay in this suggestion of my excited imagination,
+There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],

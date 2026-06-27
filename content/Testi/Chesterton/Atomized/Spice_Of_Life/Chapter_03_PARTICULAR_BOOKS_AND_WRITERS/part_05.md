@@ -17,35 +17,35 @@ tags:
 Now length in the case of the Arabian Nights is not a mere
 material accident; it is one of the essential qualities,
 one of the essential virtues of the book.  A short Arabian Nights
-is as unthinkable as a neat wilderness or a snug cathedral.
+is as unthinkable as a neat wilderness or a snug [[Cathedral|cathedral]].
 The whole plan of the book is one vast conspiracy to entrap the reader
 into a condition of everlasting attention.  By a supreme stroke of genius
 the compiler expressed this in the primary framework and outline.
 He made the teller of the stories a person inspired to prolong
-the stories infinitely by the devouring desire of life.
+the stories infinitely by the devouring [[Desire|desire]] of life.
 It made the wish for an everlasting story one with the wish for an
 everlasting earthly existence.  He made Scheherezade suddenly paralyze
-the tyrant when the sword was uplifted by a vision of all the stories
+the [[Tyrant|tyrant]] when the [[Sword|sword]] was uplifted by a vision of all the stories
 that remained to be told in the world.  She lured him into the golden
 and enchanted chamber of the first story and then the work was done.
 He could not get away from the puzzling and alluring sequence
 of that chain of tales, that endless series of delightful mantraps.
 Rooms within rooms opened their tempting and tantalizing doors, stories
 within stories promised a complicated and even confusing pleasure.
-The tyrant can sway kingdoms, and command multitudes,
+The [[Tyrant|tyrant]] can sway kingdoms, and command multitudes,
 but he cannot discover exactly what happened to a fabulous
 prince or princess unless he asks for it.  He has to wait,
 almost to fawn upon a wretched slave for the fag-end of an old tale.
 Never in any other book, perhaps, has such a splendid tribute been
-offered to the pride and omnipotence of art.
+offered to the [[Pride|pride]] and omnipotence of art.
 
 This is the real idea behind the Arabian Nights.  The richness
-which first strikes the imagination in reading it is a mere symbol.
+which first strikes the [[Imagination|imagination]] in reading it is a mere symbol.
 The richness of gold, silver and jewels is a mere figure and
 representation of that which is the essential idea, the deep
 and enduring richness of life.  The preciousness of emerald
-and amethyst and sandalwood is only the parable and expression of
-the preciousness of stones, dust, and dogs running in the streets.
+and amethyst and sandalwood is only the [[Parable|parable]] and expression of
+the preciousness of stones, [[Dust|dust]], and [[dogs]] running in the streets.
 In the Arabian Nights everything has a story to tell.  Three men
 come together; one is leading a gazelle, another a dog, another a mule.
 But the gazelle is an enchanted human being, the dog is a transformed
@@ -62,10 +62,10 @@ sat down to teach.  There are not, perhaps, many points of resemblance
 between two such products of Oriental literature as The Book of Job
 and the Arabian Nights.  But there is this in common between them,
 that we feel that both must have been narrated by somebody who was
-sitting down, while Ulysses the typical Greek, was toiling with oar
+sitting down, while [[Ulysses]] the typical Greek, was toiling with oar
 and rudder to discover new isles and peninsulas, Job, the typical Jew,
 was reviewing the whole of heaven and earth while sitting on
-a dust-heap. Similarly, the Sultan of the Indies heard the tales
+a [[Dust|dust]]-heap. Similarly, the Sultan of the Indies heard the tales
 of the four quarters of the earth while sitting on a cushion.
 The essential point, the essential lesson of these Oriental
 literatures is the clear and most moral lesson of idleness.
@@ -111,7 +111,7 @@ really connected with the most fighting Christianity of falling Rome
 or with the most heathen traditions hidden in the hills of Wales.
 But the word `Mappe' or `Malory' will always mean King Arthur;
 even though we find older and better origins than the Mabinogian;
-or write later and worse versions than the `Idylls of the King.'
+or write later and worse versions than the `Idylls of the [[King]].'
 The nursery fairy-tales may have come out of Asia with the
 Indo-European race, now fortunately extinct; they may have been
 invented by some fine French lady or gentlemen like Perrault:

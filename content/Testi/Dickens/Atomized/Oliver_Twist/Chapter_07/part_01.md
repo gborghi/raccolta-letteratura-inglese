@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 7 (part 1)"
+title: "[[Oliver Twist]] — Chapter 7 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,41 +15,41 @@ tags:
 
 
  CHAPTER VII.
-OLIVER CONTINUES REFRACTORY
+[[Oliver|OLIVER]] CONTINUES REFRACTORY
 
 
 Noah Claypole ran along the streets at his swiftest pace, and paused
 not once for breath, until he reached the workhouse-gate. Having rested
 here, for a minute or so, to collect a good burst of sobs and an
-imposing show of tears and terror, he knocked loudly at the wicket; and
+imposing show of [[Tears|tears]] and terror, he knocked loudly at the wicket; and
 presented such a rueful face to the aged pauper who opened it, that
 even he, who saw nothing but rueful faces about him at the best of
 times, started back in astonishment.
 
 “Why, what’s the matter with the boy!” said the old pauper.
 
-“Mr. Bumble! Mr. Bumble!” cried Noah, with well-affected dismay, and in
+“Mr. Bumble! Mr. Bumble!” cried Noah, with [[Well|well]]-affected dismay, and in
 tones so loud and agitated, that they not only caught the ear of Mr.
 Bumble himself, who happened to be hard by, but alarmed him so much
 that he rushed into the yard without his cocked hat,—which is a very
 curious and remarkable circumstance, as showing that even a beadle,
 acted upon a sudden and powerful impulse, may be afflicted with a
-momentary visitation of loss of self-possession, and forgetfulness of
+momentary visitation of loss of [[Self|self]]-possession, and forgetfulness of
 personal dignity.
 
-“Oh, Mr. Bumble, sir!” said Noah: “Oliver, sir,—Oliver has—”
+“Oh, Mr. Bumble, sir!” said Noah: “[[Oliver]], sir,—[[Oliver]] has—”
 
 “What? What?” interposed Mr. Bumble: with a gleam of pleasure in his
 metallic eyes. “Not run away; he hasn’t run away, has he, Noah?”
 
 “No, sir, no. Not run away, sir, but he’s turned wicious,” replied
 Noah. “He tried to murder me, sir; and then he tried to murder
-Charlotte; and then missis. Oh! what dreadful pain it is! Such agony,
-please, sir!” And here, Noah writhed and twisted his body into an
+Charlotte; and then missis. Oh! what dreadful [[Pain|pain]] it is! Such agony,
+please, sir!” And here, Noah writhed and twisted his [[Body|body]] into an
 extensive variety of eel-like positions; thereby giving Mr. Bumble to
-understand that, from the violent and sanguinary onset of Oliver Twist,
+understand that, from the violent and sanguinary onset of [[Oliver Twist]],
 he had sustained severe internal injury and damage, from which he was
-at that moment suffering the acutest torture.
+at that moment [[Suffering|suffering]] the acutest torture.
 
 When Noah saw that the intelligence he communicated perfectly paralysed
 Mr. Bumble, he imparted additional effect thereunto, by bewailing his
@@ -86,7 +86,7 @@ he wanted to.”
 white waistcoat.
 
 “Yes, sir,” replied Noah. “And please, sir, missis wants to know
-whether Mr. Bumble can spare time to step up there, directly, and flog
+whether Mr. Bumble can spare [[Time|time]] to step up there, directly, and flog
 him—’cause master’s out.”
 
 “Certainly, my boy; certainly,” said the gentleman in the white
@@ -96,30 +96,30 @@ Here’s a penny for you. Bumble, just step up to Sowerberry’s with your
 cane, and see what’s best to be done. Don’t spare him, Bumble.”
 
 “No, I will not, sir,” replied the beadle. And the cocked hat and cane
-having been, by this time, adjusted to their owner’s satisfaction, Mr.
-Bumble and Noah Claypole betook themselves with all speed to the
+having been, by this [[Time|time]], adjusted to their owner’s satisfaction, Mr.
+Bumble and Noah Claypole betook themselves with all [[Speed|speed]] to the
 undertaker’s shop.
 
 Here the position of affairs had not at all improved. Sowerberry had
-not yet returned, and Oliver continued to kick, with undiminished
+not yet returned, and [[Oliver]] continued to kick, with undiminished
 vigour, at the cellar-door. The accounts of his ferocity as related by
-Mrs. Sowerberry and Charlotte, were of so startling a nature, that Mr.
+Mrs. Sowerberry and Charlotte, were of so startling a [[Nature|nature]], that Mr.
 Bumble judged it prudent to parley, before opening the door. With this
 view he gave a kick at the outside, by way of prelude; and, then,
 applying his mouth to the keyhole, said, in a deep and impressive tone:
 
-“Oliver!”
+“[[Oliver]]!”
 
-“Come; you let me out!” replied Oliver, from the inside.
+“Come; you let me out!” replied [[Oliver]], from the inside.
 
-“Do you know this here voice, Oliver?” said Mr. Bumble.
+“Do you know this here voice, [[Oliver]]?” said Mr. Bumble.
 
-“Yes,” replied Oliver.
+“Yes,” replied [[Oliver]].
 
 “Ain’t you afraid of it, sir? Ain’t you a-trembling while I speak,
 sir?” said Mr. Bumble.
 
-“No!” replied Oliver, boldly.
+“No!” replied [[Oliver]], boldly.
 
 An answer so different from the one he had expected to elicit, and was
 in the habit of receiving, staggered Mr. Bumble not a little. He
@@ -131,25 +131,25 @@ astonishment.
 
 “No boy in half his senses could venture to speak so to you.”
 
-“It’s not madness, ma’am,” replied Mr. Bumble, after a few moments of
+“It’s not [[Madness|madness]], ma’am,” replied Mr. Bumble, after a few moments of
 deep meditation. “It’s meat.”
 
 “What?” exclaimed Mrs. Sowerberry.
 
 “Meat, ma’am, meat,” replied Bumble, with stern emphasis. “You’ve
-overfed him, ma’am. You’ve raised a artificial soul and spirit in him,
+overfed him, ma’am. You’ve raised a artificial [[Soul|soul]] and spirit in him,
 ma’am unbecoming a person of his condition: as the board, Mrs.
 Sowerberry, who are practical philosophers, will tell you. What have
-paupers to do with soul or spirit? It’s quite enough that we let ’em
+paupers to do with [[Soul|soul]] or spirit? It’s quite enough that we let ’em
 have live bodies. If you had kept the boy on gruel, ma’am, this would
 never have happened.”
 
 “Dear, dear!” ejaculated Mrs. Sowerberry, piously raising her eyes to
 the kitchen ceiling: “this comes of being liberal!”
 
-The liberality of Mrs. Sowerberry to Oliver, had consisted of a profuse
+The liberality of Mrs. Sowerberry to [[Oliver]], had consisted of a profuse
 bestowal upon him of all the dirty odds and ends which nobody else
-would eat; so there was a great deal of meekness and self-devotion in
+would eat; so there was a great deal of meekness and [[Self|self]]-devotion in
 her voluntarily remaining under Mr. Bumble’s heavy accusation, of
-which, to do her justice, she was wholly innocent, in thought, word, or
+which, to do her justice, she was wholly [[Innocent|innocent]], in thought, word, or
 deed.

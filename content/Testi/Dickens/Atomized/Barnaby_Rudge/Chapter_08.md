@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 8"
+title: "[[Barnaby Rudge]] — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter 8
 
 
-Clear of the locksmith’s house, Sim Tappertit laid aside his cautious
+Clear of the locksmith’s [[house]], Sim Tappertit laid aside his cautious
 manner, and assuming in its stead that of a ruffling, swaggering, roving
 blade, who would rather kill a man than otherwise, and eat him too if
 needful, made the best of his way along the darkened streets.
@@ -28,13 +28,13 @@ turning into one of the narrowest of the narrow streets which diverged
 from that centre, slackened his pace and wiped his heated brow, as if
 the termination of his walk were near at hand.
 
-It was not a very choice spot for midnight expeditions, being in truth
+It was not a very choice spot for midnight expeditions, being in [[Truth|truth]]
 one of more than questionable character, and of an appearance by no
 means inviting. From the main street he had entered, itself little
-better than an alley, a low-browed doorway led into a blind court, or
+better than an alley, a low-browed doorway led into a blind [[Court|court]], or
 yard, profoundly dark, unpaved, and reeking with stagnant odours. Into
 this ill-favoured pit, the locksmith’s vagrant ‘prentice groped his way;
-and stopping at a house from whose defaced and rotten front the rude
+and stopping at a [[house]] from whose defaced and rotten front the rude
 effigy of a bottle swung to and fro like some gibbeted malefactor,
 struck thrice upon an iron grating with his foot. After listening in
 vain for some response to his signal, Mr Tappertit became impatient, and
@@ -57,12 +57,12 @@ when I require you. Forward!’
 This latter word of command was perhaps somewhat theatrical and
 unnecessary, inasmuch as the descent was by a very narrow, steep, and
 slippery flight of steps, and any rashness or departure from the beaten
-track must have ended in a yawning water-butt. But Mr Tappertit being,
+track must have ended in a yawning [[Water|water]]-butt. But Mr Tappertit being,
 like some other great commanders, favourable to strong effects, and
 personal display, cried ‘Forward!’ again, in the hoarsest voice he could
 assume; and led the way, with folded arms and knitted brows, to the
 cellar down below, where there was a small copper fixed in one corner,
-a chair or two, a form and table, a glimmering fire, and a truckle-bed,
+a chair or two, a form and table, a glimmering [[Fire|fire]], and a truckle-bed,
 covered with a ragged patchwork rug.
 
 ‘Welcome, noble captain!’ cried a lanky figure, rising as from a nap.
@@ -70,7 +70,7 @@ covered with a ragged patchwork rug.
 The captain nodded. Then, throwing off his outer coat, he stood composed
 in all his dignity, and eyed his follower over.
 
-‘What news to-night?’ he asked, when he had looked into his very soul.
+‘What news to-[[Night|night]]?’ he asked, when he had looked into his very [[Soul|soul]].
 
 ‘Nothing particular,’ replied the other, stretching himself--and he was
 so long already that it was quite alarming to see him do it--‘how come
@@ -87,7 +87,7 @@ prepared?’
 
 ‘Playing skittles!’ said the captain moodily. ‘Light-hearted revellers!’
 
-There was no doubt respecting the particular amusement in which these
+There was no [[Doubt|doubt]] respecting the particular amusement in which these
 heedless spirits were indulging, for even in the close and stifling
 atmosphere of the vault, the noise sounded like distant thunder. It
 certainly appeared, at first sight, a singular spot to choose, for that
@@ -104,9 +104,9 @@ fungus sprung from every mouldering corner.
 
 The proprietor of this charming retreat, and owner of the ragged head
 before mentioned--for he wore an old tie-wig as bare and frowzy as a
-stunted hearth-broom--had by this time joined them; and stood a little
+stunted hearth-broom--had by this [[Time|time]] joined them; and stood a little
 apart, rubbing his hands, wagging his hoary bristled chin, and smiling
-in silence. His eyes were closed; but had they been wide open, it would
+in [[Silence|silence]]. His eyes were closed; but had they been wide open, it would
 have been easy to tell, from the attentive expression of the face he
 turned towards them--pale and unwholesome as might be expected in one
 of his underground existence--and from a certain anxious raising and
@@ -118,7 +118,7 @@ this person.
 ‘Sound, captain, sound!’ cried the blind man; ‘what does my noble
 captain drink--is it brandy, rum, usquebaugh? Is it soaked gunpowder, or
 blazing oil? Give it a name, heart of oak, and we’d get it for you, if
-it was wine from a bishop’s cellar, or melted gold from King George’s
+it was wine from a bishop’s cellar, or melted gold from [[King]] George’s
 mint.’
 
 ‘See,’ said Mr Tappertit haughtily, ‘that it’s something strong, and
@@ -148,8 +148,8 @@ tone, approach, and hold his peace.
 ‘I obey you, captain,’ cried Stagg, drawing close to him and filling
 out a bumper without spilling a drop, by reason that he held his little
 finger at the brim of the glass, and stopped at the instant the liquor
-touched it, ‘drink, noble governor. Death to all masters, life to all
-‘prentices, and love to all fair damsels. Drink, brave general, and warm
+touched it, ‘drink, noble governor. [[Death]] to all masters, life to all
+‘prentices, and [[Love|love]] to all fair damsels. Drink, brave general, and warm
 your gallant heart!’
 
 Mr Tappertit condescended to take the glass from his outstretched hand.
@@ -180,7 +180,7 @@ The vault they entered, strewn with sawdust and dimly lighted, was
 between the outer one from which they had just come, and that in which
 the skittle-players were diverting themselves; as was manifested by
 the increased noise and clamour of tongues, which was suddenly stopped,
-however, and replaced by a dead silence, at a signal from the long
+however, and replaced by a dead [[Silence|silence]], at a signal from the long
 comrade. Then, this young gentleman, going to a little cupboard,
 returned with a thigh-bone, which in former times must have been part
 and parcel of some individual at least as long as himself, and placed
@@ -218,7 +218,7 @@ the ‘prentice bowed once more, and so withdrew as he had come.
 There soon appeared at the same door, two other ‘prentices, having
 between them a third, whose eyes were bandaged, and who was attired in a
 bag-wig, and a broad-skirted coat, trimmed with tarnished lace; and who
-was girded with a sword, in compliance with the laws of the Institution
+was girded with a [[Sword|sword]], in compliance with the laws of the Institution
 regulating the introduction of candidates, which required them to
 assume this courtly dress, and kept it constantly in lavender, for
 their convenience. One of the conductors of this novice held a rusty
@@ -243,12 +243,12 @@ probable. Curzon pulled his ears last Tuesday week.’
 
 ‘For looking at his daughter, please you,’ said the novice.
 
-‘Write Curzon down, Denounced,’ said the captain. ‘Put a black cross
+‘Write Curzon down, Denounced,’ said the captain. ‘Put a black [[Cross|cross]]
 against the name of Curzon.’
 
 ‘So please you,’ said the novice, ‘that’s not the worst--he calls his
 ‘prentice idle dog, and stops his beer unless he works to his liking. He
-gives Dutch cheese, too, eating Cheshire, sir, himself; and Sundays out,
+gives Dutch [[cheese]], too, eating Cheshire, sir, himself; and Sundays out,
 are only once a month.’
 
 ‘This,’ said Mr Tappert gravely, ‘is a flagrant case. Put two black
@@ -256,15 +256,15 @@ crosses to the name of Curzon.’
 
 ‘If the society,’ said the novice, who was an ill-looking, one-sided,
 shambling lad, with sunken eyes set close together in his head--‘if the
-society would burn his house down--for he’s not insured--or beat him
-as he comes home from his club at night, or help me to carry off his
+society would burn his [[house]] down--for he’s not insured--or beat him
+as he comes [[Home|home]] from his club at [[Night|night]], or help me to carry off his
 daughter, and marry her at the Fleet, whether she gave consent or no--’
 
 Mr Tappertit waved his grizzly truncheon as an admonition to him not to
 interrupt, and ordered three black crosses to the name of Curzon.
 
 ‘Which means,’ he said in gracious explanation, ‘vengeance, complete and
-terrible. ‘Prentice, do you love the Constitution?’
+terrible. ‘Prentice, do you [[Love|love]] the Constitution?’
 
 To which the novice (being to that end instructed by his attendant
 sponsors) replied ‘I do!’
@@ -288,18 +288,18 @@ and how they united therefore to resist all change, except such change
 as would restore those good old English customs, by which they would
 stand or fall. After illustrating the wisdom of going backward, by
 reference to that sagacious fish, the crab, and the not unfrequent
-practice of the mule and donkey, he described their general objects;
-which were briefly vengeance on their Tyrant Masters (of whose grievous
+practice of the mule and [[donkey]], he described their general objects;
+which were briefly vengeance on their [[Tyrant]] Masters (of whose grievous
 and insupportable oppression no ‘prentice could entertain a moment’s
-doubt) and the restoration, as aforesaid, of their ancient rights and
+[[Doubt|doubt]]) and the restoration, as aforesaid, of their ancient rights and
 holidays; for neither of which objects were they now quite ripe, being
 barely twenty strong, but which they pledged themselves to pursue with
-fire and sword when needful. Then he described the oath which every
-member of that small remnant of a noble body took, and which was of a
+[[Fire|fire]] and [[Sword|sword]] when needful. Then he described the oath which every
+member of that small remnant of a noble [[Body|body]] took, and which was of a
 dreadful and impressive kind; binding him, at the bidding of his chief,
-to resist and obstruct the Lord Mayor, sword-bearer, and chaplain; to
-despise the authority of the sheriffs; and to hold the court of aldermen
-as nought; but not on any account, in case the fulness of time should
+to resist and obstruct the [[Lord Mayor]], [[Sword|sword]]-bearer, and chaplain; to
+despise the authority of the sheriffs; and to hold the [[Court|court]] of aldermen
+as nought; but not on any account, in case the fulness of [[Time|time]] should
 bring a general rising of ‘prentices, to damage or in any way disfigure
 Temple Bar, which was strictly constitutional and always to be
 approached with reverence. Having gone over these several heads with
@@ -313,7 +313,7 @@ To this the novice made rejoinder, that he would take the vow, though
 it should choke him; and it was accordingly administered with many
 impressive circumstances, among which the lighting up of the two skulls
 with a candle-end inside of each, and a great many flourishes with
-the bone, were chiefly conspicuous; not to mention a variety of grave
+the bone, were chiefly conspicuous; not to mention a variety of [[Grave|grave]]
 exercises with the blunderbuss and sabre, and some dismal groaning by
 unseen ‘prentices without. All these dark and direful ceremonies
 being at length completed, the table was put aside, the chair of state
@@ -321,8 +321,8 @@ removed, the sceptre locked up in its usual cupboard, the doors of
 communication between the three cellars thrown freely open, and the
 ‘Prentice Knights resigned themselves to merriment.
 
-But Mr Tappertit, who had a soul above the vulgar herd, and who, on
-account of his greatness, could only afford to be merry now and then,
+But Mr Tappertit, who had a [[Soul|soul]] above the vulgar herd, and who, on
+account of his [[Greatness|greatness]], could only afford to be merry now and then,
 threw himself on a bench with the air of a man who was faint with
 dignity. He looked with an indifferent eye, alike on skittles, cards,
 and dice, thinking only of the locksmith’s daughter, and the base
@@ -340,26 +340,26 @@ restrained the ardent ball, and held his little shins in dumb respect.
 or patriot--and they’re the same thing,’ thought Mr Tappertit, musing
 among the nine-pins, ‘I should have been all right. But to drag out a
 ignoble existence unbeknown to mankind in general--patience! I will be
-famous yet. A voice within me keeps on whispering Greatness. I shall
+famous yet. A voice within me keeps on whispering [[Greatness]]. I shall
 burst out one of these days, and when I do, what power can keep me down?
-I feel my soul getting into my head at the idea. More drink there!’
+I feel my [[Soul|soul]] getting into my head at the idea. More drink there!’
 
 ‘The novice,’ pursued Mr Tappertit, not exactly in a voice of thunder,
-for his tones, to say the truth were rather cracked and shrill--but very
+for his tones, to say the [[Truth|truth]] were rather cracked and shrill--but very
 impressively, notwithstanding--‘where is he?’
 
 ‘Here, noble captain!’ cried Stagg. ‘One stands beside me who I feel is
 a stranger.’
 
 ‘Have you,’ said Mr Tappertit, letting his gaze fall on the party
-indicated, who was indeed the new knight, by this time restored to his
+indicated, who was indeed the new knight, by this [[Time|time]] restored to his
 own apparel; ‘Have you the impression of your street-door key in wax?’
 
 The long comrade anticipated the reply, by producing it from the shelf
 on which it had been deposited.
 
 ‘Good,’ said Mr Tappertit, scrutinising it attentively, while a
-breathless silence reigned around; for he had constructed secret
+breathless [[Silence|silence]] reigned around; for he had constructed secret
 door-keys for the whole society, and perhaps owed something of his
 influence to that mean and trivial circumstance--on such slight
 accidents do even men of mind depend!--‘This is easily made. Come
@@ -369,9 +369,9 @@ With that, he beckoned the new knight apart, and putting the pattern in
 his pocket, motioned to him to walk by his side.
 
 ‘And so,’ he said, when they had taken a few turns up and down, you--you
-love your master’s daughter?’
+[[Love|love]] your master’s daughter?’
 
-‘I do,’ said the ‘prentice. ‘Honour bright. No chaff, you know.’
+‘I do,’ said the ‘prentice. ‘[[Honour]] bright. No chaff, you know.’
 
 ‘Have you,’ rejoined Mr Tappertit, catching him by the wrist, and
 giving him a look which would have been expressive of the most deadly
@@ -392,18 +392,18 @@ after taking a few hasty turns by himself, bade him immediately write
 and post against the wall, a notice, proscribing one Joseph Willet
 (commonly known as Joe) of Chigwell; forbidding all ‘Prentice Knights
 to succour, comfort, or hold communion with him; and requiring them,
-on pain of excommunication, to molest, hurt, wrong, annoy, and pick
+on [[Pain|pain]] of excommunication, to molest, hurt, wrong, annoy, and pick
 quarrels with the said Joseph, whensoever and wheresoever they, or any
 of them, should happen to encounter him.
 
 Having relieved his mind by this energetic proceeding, he condescended
 to approach the festive board, and warming by degrees, at length deigned
-to preside, and even to enchant the company with a song. After this,
-he rose to such a pitch as to consent to regale the society with a
+to preside, and even to enchant the company with a [[Song|song]]. After this,
+he [[Rose|rose]] to such a pitch as to consent to regale the society with a
 hornpipe, which he actually performed to the music of a fiddle (played
 by an ingenious member) with such surpassing agility and brilliancy of
 execution, that the spectators could not be sufficiently enthusiastic in
-their admiration; and their host protested, with tears in his eyes, that
+their admiration; and their host protested, with [[Tears|tears]] in his eyes, that
 he had never truly felt his blindness until that moment.
 
 But the host withdrawing--probably to weep in secret--soon returned with
@@ -411,22 +411,22 @@ the information that it wanted little more than an hour of day, and that
 all the cocks in Barbican had already begun to crow, as if their lives
 depended on it. At this intelligence, the ‘Prentice Knights arose in
 haste, and marshalling into a line, filed off one by one and dispersed
-with all speed to their several homes, leaving their leader to pass the
+with all [[Speed|speed]] to their several homes, leaving their leader to pass the
 grating last.
 
-‘Good night, noble captain,’ whispered the blind man as he held it open
+‘Good [[Night|night]], noble captain,’ whispered the blind man as he held it open
 for his passage out; ‘Farewell, brave general. Bye, bye, illustrious
 commander. Good luck go with you for a--conceited, bragging,
 empty-headed, duck-legged idiot.’
 
 With which parting words, coolly added as he listened to his receding
 footsteps and locked the grate upon himself, he descended the steps,
-and lighting the fire below the little copper, prepared, without
+and lighting the [[Fire|fire]] below the little copper, prepared, without
 any assistance, for his daily occupation; which was to retail at the
 area-head above pennyworths of broth and soup, and savoury puddings,
 compounded of such scraps as were to be bought in the heap for the least
-money at Fleet Market in the evening time; and for the sale of which
+money at Fleet Market in the evening [[Time|time]]; and for the sale of which
 he had need to have depended chiefly on his private connection, for the
-court had no thoroughfare, and was not that kind of place in which
+[[Court|court]] had no thoroughfare, and was not that kind of place in which
 many people were likely to take the air, or to frequent as an agreeable
 promenade.

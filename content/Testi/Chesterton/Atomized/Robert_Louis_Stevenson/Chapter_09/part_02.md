@@ -14,32 +14,32 @@ tags:
 </nav>
 
 
-Among the many unreasonable objections to the Stevensonian romance,
+Among the many unreasonable objections to the Stevensonian [[Romance|romance]],
 I admit that there is a reasonable objection that may be advanced here.
 It may be said that he was guilty of externality in this sense;
 that he sometimes began with externals, in so far as he saw in some
 scene or other setting the suggestion or rather the provocation
-of romance.  "Certain dank gardens cry aloud for a murder,"
+of [[Romance|romance]].  "Certain dank gardens cry aloud for a murder,"
 he very truly observed; and he was often moved to commit
 the murder in a vicarious literary manner.  He wished sometimes,
 he said, to fit every such place with its appropriate legend.
 Superficially there is sense in this objection; but in a deeper and more
 sympathetic sense I do not admit that it contradicts what I have said
-of the deep spring of gesture or the deliberation of craftsmanship.
+of the deep [[spring]] of gesture or the deliberation of craftsmanship.
 It merely means that there was from the first, in any such work
-of art, the unity of mood that there always ought to be.  It means
-that he had decided what sort of novel he would write, before he had
-decided what novel he would write; and this is right and inevitable.
-The dank garden cannot cry aloud immediately, in so many words,
+of art, the [[unity]] of mood that there always ought to be.  It means
+that he had decided what sort of [[Novel|novel]] he would write, before he had
+decided what [[Novel|novel]] he would write; and this is right and inevitable.
+The dank [[Garden|garden]] cannot cry aloud immediately, in so many words,
 "In this place the sinister tutor with one eye larger than
 the other buried the old sailor's cutlass with which he had killed
 the horribly but secretly wicked admiral who was really his brother."
-No dank garden ever expressed itself with such accuracy when crying
+No dank [[Garden|garden]] ever expressed itself with such accuracy when crying
 aloud to anybody; but it is none the less true that the exact shade
 of gloom and the exact outline of disorder may have suggested,
 not merely a vulgar murder, but a murder having certain special qualities
 of the unnatural or the strange.  This does not prove that they were
-not _deep_ feelings which thus rose up at the sight of the strange
+not _deep_ feelings which thus [[Rose|rose]] up at the sight of the strange
 landscape and groped to find their appropriate images of doom.
 It only proves that the origin of the story was of the same sort
 as the origin of a poem.  We can call Stevenson a prose poet,
@@ -64,31 +64,31 @@ platitudinous or merely sentimental about the moral of the picture.
 On the contrary, he was very much drawn towards difficult and perplexing
 moral themes and liked to put puzzles to himself in the possible
 relations of human souls.  Only, as we have seen, he liked to make
-the human soul come to a conclusion in some fashion and announce
+the human [[Soul|soul]] come to a conclusion in some fashion and announce
 its conclusion in some way.  Hence all the abrupt signals and bodily
 departures which the sensitive so much lament; hence the coin hurled
-through the windowpane at Durrisdeer; the banjo flung into the fire
+through the windowpane at Durrisdeer; the banjo flung into the [[Fire|fire]]
 on Midway Island; the knife sticking in the mast or the diamond
-tossed into the river.  In short, Stevenson's stories were often
+tossed into the [[River|river]].  In short, Stevenson's stories were often
 problem stories, in the style of what were called problem plays.
 But by one crime he disqualified himself for the company of the really
 realistic and earnest authors of problem plays or problem novels.
 He had a weakness for solving the problem.
 
 There is in this merit the other side of a fault; and a fault
-of which he has often been accused.  He was called self-conscious;
-and in his work he was perhaps a little too self-conscious,
+of which he has often been accused.  He was called [[Self|self]]-conscious;
+and in his work he was perhaps a little too [[Self|self]]-conscious,
 as compared with some writers whose fundamental and even almost
 forgotten impulses were allowed to flow forth more freely,
 and perhaps more naturally.  But these things are a matter of degree
 and balance; and some may hold that it is the opposite type that has
 now become unbalanced.  Walking the world to-day, I am not sure
-that I do not prefer the self-conscious to the subconscious.
+that I do not prefer the [[Self|self]]-conscious to the subconscious.
 Stevenson felt a responsibility in art which was like his
 vivid and almost morbid sense of responsibility in conduct.
 His problems of conduct were indeed sometimes a little anarchical;
 and his ethical decision in them perhaps a little amateurish.
-Like Ibsen and Bernard Shaw and many men of his time, he had not quite
+Like Ibsen and Bernard [[Shaw]] and many men of his [[Time|time]], he had not quite
 discovered the pressing practical necessity of having a general rule,
 in the absence of which the world becomes a welter of exceptions.
 But he was intensely interested in the right moral solution whatever it
@@ -111,14 +111,14 @@ when the general sense of those doctrines seemed challenged
 by a special necessity.  We may say, therefore, that, in life
 and in literature, he was essentially a conscientious person.
 And a conscientious person is presumably a conscious person;
-and sometimes perhaps a self-conscious person.  He committed
+and sometimes perhaps a [[Self|self]]-conscious person.  He committed
 a great many crimes vicariously in his books; and delivered batches
 of corpses to his publishers in the style required of all writers
-of sensational romance.  But his deaths had the delicacy and fine
+of sensational [[Romance|romance]].  But his deaths had the delicacy and fine
 distinction of murder; and nothing of the vulgar communism of massacre.
 In the one episode in his stories that might be called a massacre,
 the butchery of the old crew of _The Flying Scud_ by Wicks and his men,
-the whole horror of the incident is in its intense individualism.
+the whole horror of the incident is in its intense [[Individualism|individualism]].
 It is in the fact that the men have to be slain one by one;
 in the fact that the massacre is not a massacre but a series of murders.
 He went so far, in his correspondence, as to say cheerfully of
@@ -150,13 +150,13 @@ of which the most dogmatic expression is what is called monism;
 but which can be more lightly expressed in a hundred forms,
 as that all life is one, or that everything is heredity
 and environment, or that the impersonal is higher than the personal,
-or that men live by the herd instinct or the soul of the hive.
+or that men live by the herd instinct or the [[Soul|soul]] of the hive.
 Our fathers called the general atmosphere fatalism; but it has
 now any number of more idealistic names.  Stevenson felt all this,
 without exactly defining it; he felt it in the realism of
 nineteenth-century literature, in the pessimism of contemporary poetry,
 in the timidity of hygienic precaution, in the smugness of
-middle-class uniformity.  And while he was entirely of that time
+middle-class uniformity.  And while he was entirely of that [[Time|time]]
 and society, while he read all the realists, knew all the artists,
 doubted with the doubters and even denied with the deniers,
 he had that within him which could not but break out in a sort

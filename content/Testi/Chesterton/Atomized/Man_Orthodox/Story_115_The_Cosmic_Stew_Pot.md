@@ -18,17 +18,17 @@ THE COSMIC STEW-POT
 
 There has crept into our thoughts, through a thousand
 small openings, a curious and unnatural idea.
-I mean the idea that unity is itself a good thing; that there
+I mean the idea that [[unity]] is itself a good thing; that there
 is something high and spiritual about things being blended
 and absorbed into each other.  That all rivers should run
-into one river, that all vegetables should go into one pot--
+into one [[River|river]], that all vegetables should go into one pot--
 that is spoken of as the last and best fulfilment of being.
 Boys are to be `at one' with girls; ... all sects are to be `at one'
 in the New Theology; beasts fade into men and men fade into God;
-union in itself is a noble thing.  Now union in itself is not
-a noble thing.  Love is a noble thing; but love is not union.
-Nay, it is rather a vivid sense of separation and identity.
-Maudlin, inferior love poetry does, indeed, talk of lovers
+[[Union|union]] in itself is a noble thing.  Now [[Union|union]] in itself is not
+a noble thing.  [[Love]] is a noble thing; but [[Love|love]] is not [[Union|union]].
+Nay, it is rather a vivid sense of separation and [[Identity|identity]].
+Maudlin, inferior [[Love|love]] poetry does, indeed, talk of [[lovers]]
 being `one soul' just as maudlin, inferior religious poetry
 talks of being lost in God; but the best poetry does not.
 When Dante meets Beatrice, he feels his distance from her,
@@ -65,7 +65,7 @@ While a few prigs on platforms are talking about `oneness'
 and absorption in `The All', the folk that dwell in all the valleys
 of this ancient earth are renewing the varieties for ever.  With them
 a woman is loved for being unmanly, and a man loved for being unwomanly.
-With them the church and the home are both beautiful, because they
+With them the church and the [[Home|home]] are both beautiful, because they
 are both different; with them fields are personal and flags are sacred;
 they are the virtue of existence, for they are not mankind but man.
 

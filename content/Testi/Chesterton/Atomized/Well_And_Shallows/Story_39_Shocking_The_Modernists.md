@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Shocking The Modernists"
+title: "[[Well]] And Shallows — Shocking The Modernists"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -22,7 +22,7 @@ fireworks every day in the daily papers?  The writers in those
 papers who so often remind us, with never-failing freshness,
 that things that were once rare luxuries are now multiplied
 and minutely and exactly imitated everywhere, surely will not fail
-to apply this same striking truth to the intellectual world.
+to apply this same striking [[Truth|truth]] to the intellectual world.
 They will doubtless point out that those perfect and pointed epigrams,
 which were once heard only from exceptional individuals,
 like Voltaire and Talleyrand, are now invented by the hundred
@@ -31,7 +31,7 @@ to find a single dull sentence wedged between the witty repartees
 and immortal jests, which can now, like everything else of any value,
 be produced in any quantity by mass production.
 
-However this may be, there can be no doubt that our journalism,
+However this may be, there can be no [[Doubt|doubt]] that our journalism,
 and the world it describes, has reached an acute sensibility
 to wit and verbal brilliance, which has never been known before;
 and is so vividly alert and alive to any such ringing and
@@ -55,11 +55,11 @@ in their seats.
 "The speaker was the attractive daughter of a Portsmouth
 naval chaplain.  Her most telling passage was this:  'I don't
 think public worship has any attraction whatsoever for the young.
-Religion is supposed to express God through truth and beauty,
+Religion is supposed to express God through [[Truth|truth]] and [[Beauty|beauty]],
 we are told, but in this age of specialisation people turn
-to science, art and philosophy to satisfy those needs'."
+to science, art and [[philosophy]] to satisfy those needs'."
 
-I wonder what her least telling passage was.
+I [[Wonder|wonder]] what her least telling passage was.
 
 Of course the fun really begins with the astounding and staggering
 effect produced by the original thunderbolt of thought
@@ -98,7 +98,7 @@ still less did anyone ever propose that a simplified and modernised
 version of Virgil must be substituted for the old one.
 Nobody proposed that passages from Kipling about the British Empire
 should be substituted for the more austere salutations of
-Virgil to the Roman Empire, because such education would be
+Virgil to the Roman Empire, because such [[Education|education]] would be
 more modern, compact and convenient to a truly National Church.
 Nobody proposed that a really smart and snappy up-to-date description
 of the Derby, taken from an evening paper, should be regarded
@@ -107,8 +107,8 @@ the very earth shakes with the horsehoofs of the charioteers.
 And, if I may venture to hint a disagreement with the Prophetess
 of Girton College, Cambridge, I think it will be found that the same
 argument applies even to the substitutes that she herself proposes.
-She says that people turn to science, art and philosophy.
-Will she swear by the Death of Nelson, or whatever oath binds
+She says that people turn to science, art and [[philosophy]].
+Will she swear by the [[Death]] of Nelson, or whatever oath binds
 the daughter of a Portsmouth naval chaplain, that no science
 student ever shirks or plays truant in a science school?
 It will be vain for her to swear any such thing in the case
@@ -118,7 +118,7 @@ students who found application to art a bore as there could
 possibly be divinity students who found divinity a bore.
 As for young philosophers, I have known a good many of them;
 at an age when nearly all of them were much more fond of philosophising
-than of learning philosophy.  And I might hint that there
+than of learning [[philosophy]].  And I might hint that there
 are other young agitators, of the sort that seem to agitate
 so strangely the Modern Churchmen and the modern newspapers,
 who seem to have a certain spirited and spontaneous preference
@@ -129,7 +129,7 @@ people to work when they naturally want to play, before we even begin
 to discuss the mature problem of the relation of doctrine to the mind?
 It is perfectly natural that the boy should find the church a bore.
 But why are we bound to treat what is natural as something actually
-superior to what is supernatural; as something which is not even
-merely supernatural, but is in the exact sense super-supernatural?
+superior to what is [[Supernatural|supernatural]]; as something which is not even
+merely [[Supernatural|supernatural]], but is in the exact sense super-[[Supernatural|supernatural]]?
 
 -/-

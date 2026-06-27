@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE FREE MAN AND THE FORD CAR"
+title: "[[Sanity]] — THE FREE MAN AND THE FORD CAR"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -18,7 +18,7 @@ tags:
 
 = = = = = = = = = = = = = = = =
 
-I THE WHEEL OF FATE
+I THE [[Wheel|WHEEL]] OF FATE
 
 The evil we are seeking to destroy clings about in corners especially
 in the form of catch-phrases by which even the intelligent can easily
@@ -30,10 +30,10 @@ wireless apparatus has come to stay?  What is meant, for that matter,
 even by saying that the Eiffel Tower has come to stay?  To begin with,
 we obviously do not mean what we mean when we use the words naturally;
 as in the expression, "Uncle Humphrey has come to stay."
-That last sentence may be uttered in tones of joy, or of resignation,
-or even of despair; but not of despair in the sense that Uncle Humphrey
+That last sentence may be uttered in tones of joy, or of [[Resignation|resignation]],
+or even of [[Despair|despair]]; but not of [[Despair|despair]] in the sense that Uncle Humphrey
 is really a monument that can never be moved.  Uncle Humphrey did come;
-and Uncle Humphrey will presumably at some time go; it is even possible
+and Uncle Humphrey will presumably at some [[Time|time]] go; it is even possible
 (however painful it may be to imagine such domestic relations)
 that in the last resort he should be made to go.  The fact that the figure
 breaks down, even apart from the reality it is supposed to represent,
@@ -41,17 +41,17 @@ illustrates how loosely these catch-words are used.  But when we say,
 "The Eiffel Tower has come to stay," we are still more inaccurate.
 For, to begin with, the Eiffel Tower has not come at all.
 There was never a moment when the Eiffel Tower was seen striding
-towards Paris on its long iron legs across the plains of France,
-as the giant in the glorious nightmare of Rabelais came to tower
-over Paris and carry away the bells of Notre-Dame. The figure of
-Uncle Humphrey seen coming up the road may possibly strike as much terror
+towards [[Paris]] on its long iron legs across the plains of France,
+as the giant in the glorious [[nightmare]] of Rabelais came to tower
+over [[Paris]] and carry away [[The Bells|the bells]] of Notre-Dame. The figure of
+Uncle Humphrey seen coming up the [[Road|road]] may possibly strike as much terror
 as any walking tower or towering giant; and the question that may leap
 into every mind may be the question of whether he has come to stay.
 But whether or no he has come to stay he has certainly come.
-He has willed; he has propelled or precipitated his body in a
+He has willed; he has propelled or precipitated his [[Body|body]] in a
 certain direction; he has agitated his own legs; it is even possible
 (for we all know what Uncle Humphrey is like) that he has insisted
-on carrying his own portmanteau, to show the lazy young dogs
+on carrying his own portmanteau, to show the lazy young [[dogs]]
 what he can still do at seventy-three.
 
 Now suppose that what had really happened was something
@@ -59,10 +59,10 @@ like this; something like a weird story of Hawthorne or Poe.
 Suppose we ourselves had actually manufactured Uncle Humphrey;
 had put him together, piece by piece, like a mechanical doll.
 Suppose we had so ardently felt at the moment the need of an uncle
-in our home life that we had constructed him out of domestic materials,
+in our [[Home|home]] life that we had constructed him out of domestic materials,
 like a Guy for the fifth of November.  Taking, it may be, a turnip
-from the kitchen-garden to represent his bald and venerable head;
-permitting the water-butt, as it were, to suggest the lines
+from the kitchen-[[Garden|garden]] to represent his bald and venerable head;
+permitting the [[Water|water]]-butt, as it were, to suggest the lines
 of his figure; stuffing a pair of trousers and attaching a pair
 of boots, we could produce a complete and convincing uncle
 of whom any family might be proud.  Under those conditions,
@@ -75,8 +75,8 @@ if we were then forbidden to take him to pieces again; if every
 effort in that direction were met with the resolute answer, "No, no;
 Uncle Humphrey has come to stay."  Surely we should be tempted
 to retort that Uncle Humphrey never came at all.  Suppose all
-the turnips were wanted for the self-support of the peasant home.
-Suppose the water-butts were wanted; let us hope for the purpose
+the turnips were wanted for the [[Self|self]]-support of the peasant [[Home|home]].
+Suppose the [[Water|water]]-butts were wanted; let us [[Hope|hope]] for the purpose
 of holding beer.  Suppose the male members of the family refused
 any longer to lend their trousers to an entirely imaginary relative.
 Surely we should then see through the polite fiction that led us
@@ -85,21 +85,21 @@ had remained with a purpose, and all the rest.  The thing we
 made did not come, and certainly did not come to do anything,
 either to stay or to depart.
 
-Now no doubt most people even in the logical city of Paris would say
-that the Eiffel Tower has come to stay.  And no doubt most people
-in the same city rather more than a hundred years before would
+Now no [[Doubt|doubt]] most people even in the logical [[City|city]] of [[Paris]] would say
+that the Eiffel Tower has come to stay.  And no [[Doubt|doubt]] most people
+in the same [[City|city]] rather more than a hundred years before would
 have said that the Bastille had come to stay.  But it did not stay;
 it left the neighbourhood quite abruptly.  In plain words, the Bastille
 was something that man had made and, therefore, man could unmake.
 The Eiffel Tower is something that man has made and man could unmake;
-though perhaps we may think it practically probable that some time
+though perhaps we may think it practically probable that some [[Time|time]]
 will elapse before man will have the good taste or good sense
-or even the common sanity to unmake it.  But this one little phrase
-about the thing "coming" is alone enough to indicate something
+or even the common [[Sanity|sanity]] to unmake it.  But this one little phrase
+about the thing "coming" is [[Alone|alone]] enough to indicate something
 profoundly wrong about the very working of men's minds on the subject.
 Obviously a man ought to be saying, "I have made an electric battery.
 Shall I smash it, or shall I make another?"  Instead of that,
-he seems to be bewitched by a sort of magic and stand staring at
+he seems to be bewitched by a sort of [[Magic|magic]] and stand staring at
 the thing as if it were a seven-headed dragon; and he can only say,
 "The electric battery has come.  Has it come to stay?"
 
@@ -107,19 +107,19 @@ Before we begin any talk of the practical problem of machinery,
 it is necessary to leave off thinking like machines.
 It is necessary to begin at the beginning and consider the end.
 Now we do not necessarily wish to destroy every sort of machinery.
-But we do desire to destroy a certain sort of mentality.
+But we do [[Desire|desire]] to destroy a certain sort of mentality.
 And that is precisely the sort of mentality that begins by telling
 us that nobody can destroy machinery.  Those who begin by saying
-that we cannot abolish the machine, that we must use the machine,
+that we cannot abolish the [[Machine|machine]], that we must use the [[Machine|machine]],
 are themselves refusing to use the mind.
 
 The aim of human polity is human happiness.  For those holding
-certain beliefs it is conditioned by the hope of a larger happiness,
+certain beliefs it is conditioned by the [[Hope|hope]] of a larger happiness,
 which it must not imperil.  But happiness, the making glad of
 the heart of man, is the secular test and the only realistic test.
 So far from this test, by the talisman of the heart, being merely
 sentimental, it is the only test that is in the least practical.
-There is no law of logic or nature or anything else forcing us
+There is no law of [[logic]] or [[Nature|nature]] or anything else forcing us
 to prefer anything else.  There is no obligation on us to be richer,
 or busier, or more efficient, or more productive, or more progressive,
 or in any way worldlier or wealthier, if it does not make us happier.
@@ -135,22 +135,22 @@ if we have really come to the conclusion that the powers do us harm.
 The mere fact that we shall be missing a number of interesting
 things would apply equally to any number of impossible things.
 Machinery may be a magnificent sight, but not so magnificent as a
-Great Fire of London; yet we resist that vision and avert our eyes from
+Great [[Fire]] of [[London]]; yet we resist that vision and avert our eyes from
 all that potential splendour.  Machinery may not yet be at its best;
 and perhaps lions and tigers will never be at their best, will never
 make their most graceful leaps or show all their natural splendours,
 until we erect an amphitheatre and give them a few live people to eat.
 Yet that sight also is one which we forbid ourselves, with whatever
-austere self-denial. We give up so many glorious possibilities,
-in our stern and strenuous and self-sacrificing preference for having
-a tolerable time.  Happiness, in a sense, is a hard taskmaster.
+austere [[Self|self]]-denial. We give up so many glorious possibilities,
+in our stern and strenuous and [[Self|self]]-sacrificing preference for having
+a tolerable [[Time|time]].  Happiness, in a sense, is a hard taskmaster.
 It tells us not to get entangled with many things that are much
 more superficially attractive than machinery.  But, anyhow, it is
 necessary to clear our minds at the start of any mere vague association
 or assumption to the effect that we must go by the quickest
 train or cannot help using the most productive instrument.
 Granted Mr. Penty's thesis of the evil of machinery, as something
-like the evil of black magic, and there is nothing in the least
+like the evil of black [[Magic|magic]], and there is nothing in the least
 unpractical about Mr. Penty's proposal that it should simply stop.
 A process of invention would cease that might have gone further.
 But its relative imperfection would be nothing compared with
@@ -160,16 +160,16 @@ of torture are clumsy compared with the finished products that
 modern knowledge of physiology and mechanics might have given us.
 Many a talented torturer is left in obscurity by the moral prejudices
 of modern society.  Nay, his budding promise is now nipped even
-in childhood, when he attempts to develop his natural genius on
+in [[Childhood|childhood]], when he attempts to develop his natural genius on
 the flies or the tail of the dog.  Our own strong sentimental bias
 against torture represses his noble rage and freezes the genial
-current of his soul.  But we reconcile ourselves to this;
+current of his [[Soul|soul]].  But we reconcile ourselves to this;
 though it be undoubtedly the loss of a whole science for which
 many ingenious persons might have sought out many inventions.
 If we really conclude that machinery is hostile to happiness,
 then it is no more inevitable that all ploughing should be done
 by machinery than it is inevitable that a shop should do a roaring
-trade on Ludgate Hill by selling the instruments of Chinese tortures.
+trade on Ludgate [[Hill]] by selling the instruments of Chinese tortures.
 
 Let it be clearly understood that I note this only to make
 the primary problem clear; I am not now saying, nor perhaps
@@ -202,15 +202,15 @@ The real answer to the mechanical problem for the present is of a
 different sort; and I will proceed to suggest it, having once made
 clear the only methods of judgment by which it can be judged.
 And having begun at the right end, which is the ultimate
-spiritual standard by which a man or a machine is to be valued,
+spiritual standard by which a man or a [[Machine|machine]] is to be valued,
 I will now begin at the other end; I might say at the wrong end;
 but it will be more respectful to our practical friends to call it
 the business end.
 
-If I am asked what I should immediately do with a machine,
-I have no doubt about the sort of practical programme that could
+If I am asked what I should immediately do with a [[Machine|machine]],
+I have no [[Doubt|doubt]] about the sort of practical programme that could
 be a preliminary to a possible spiritual revolution of a much
-wider sort.  In so far as the machine cannot be shared, I would
+wider sort.  In so far as the [[Machine|machine]] cannot be shared, I would
 have the ownership of it shared; that is, the direction of it
 shared and the profits of it shared.  But when I say "shared"
 I mean it in the modern mercantile sense of the word "shares."
@@ -218,7 +218,7 @@ That is, I mean something divided and not merely something pooled.
 Our business friends bustle forward to tell us that all this
 is impossible; completely unconscious, apparently, that all this part
 of the business exists already.  You cannot distribute a steam-engine,
-in the sense of giving one wheel to each shareholder to take home
+in the sense of giving one [[Wheel|wheel]] to each shareholder to take [[Home|home]]
 with him, clasped in his arms.  But you not only can, but you
 already do distribute the ownership and profit of the steam-engine;
 and you distribute it in the form of private property.
@@ -227,19 +227,19 @@ or to the people who really require it or could really do work for it.
 Now there are many schemes having this normal and general character;
 almost any one of which I should prefer to the concentration
 presented by capitalism or promised by communism.  My own preference,
-on the whole, would be that any such necessary machine should be owned
+on the whole, would be that any such necessary [[Machine|machine]] should be owned
 by a small local guild, on principles of profit-sharing, or rather
 profit-dividing: but of real profit-sharing and real profit-dividing,
 not to be confounded with capitalist patronage.
 
-Touching the last point, it may be well to say in passing that
+Touching the last point, it may be [[Well|well]] to say in passing that
 what I say about the problem of profit-sharing is in that respect
 parallel to what I say also about the problem of emigration.
 The real difficulty of starting it in the right way is that it has so
 often been started in the wrong way; and especially in the wrong spirit.
 There is a certain amount of prejudice against profit-sharing,
 just as there is a certain amount of prejudice against emigration,
-in the industrial democracy of to-day. It is due in both cases
+in the industrial [[Democracy|democracy]] of to-day. It is due in both cases
 to the type and especially the tone of the proposals.  I entirely
 sympathize with the Trade Unionist who dislikes a certain sort of
 condescending capitalist concession; and the spirit which gives every
@@ -248,7 +248,7 @@ Similarly, I quite sympathize with Mr. Kirkwood when he resented being
 lectured about emigration by Sir Alfred Mond, to the extent of saying,
 "The Scots will leave Scotland when the German Jews leave England."
 But I think it would be possible to have a more genuinely
-egalitarian emigration, with a positive policy of self-government
+egalitarian emigration, with a positive policy of [[Self|self]]-[[government]]
 for the poor, to which Mr. Kirkwood might be kind; and I think
 that profit-sharing that began at the popular end, establishing first
 the property of a guild and not merely the caprice of an employer,
@@ -259,13 +259,13 @@ ideal about the position of machinery in an ideal social state.
 I understand what is meant by saying that the ideal in both
 cases depends upon the wrong ideals.  But I do not understand
 what our critics mean by saying that it is impossible to divide
-the shares and profits in a machine among definite individuals.
+the shares and profits in a [[Machine|machine]] among definite individuals.
 Any healthy man in any historical period would have thought it
 a project far more practicable than a Milk Trust.
 
 = = = = = = = = = = = = = = = =
 
-II THE ROMANCE OF MACHINERY
+II THE [[Romance|ROMANCE]] OF MACHINERY
 
 I have repeatedly asked the reader to remember that my general
 view of our potential future divides itself into two parts.
@@ -314,15 +314,15 @@ Why should I have my toys taken away any more than you?"
 And of the various positions that I have to meet, I will begin with his.
 Now on a previous page I said I agreed with Mr. Penty that it would
 be a human right to abandon machinery altogether.  I will add here
-that I do not agree with Mr. Penty in thinking machinery like magic--
+that I do not agree with Mr. Penty in thinking machinery like [[Magic|magic]]--
 a mere malignant power or origin of evils.  It seems to me quite
-as materialistic to be damned by a machine as saved by a machine.
+as materialistic to be damned by a [[Machine|machine]] as saved by a [[Machine|machine]].
 It seems to me quite as idolatrous to blaspheme it as to worship it.
 But even supposing that somebody, without worshipping it,
 is yet enjoying it imaginatively and in some sense mystically,
 the case as we state it still stands.
 
-Nobody would be more really unsuitable to the machine age than a man
+Nobody would be more really unsuitable to the [[Machine|machine]] age than a man
 who really admired machines.  The modern system presupposes people
 who will take mechanism mechanically; not people who will take
 it mystically.  An amusing story might be written about a poet
@@ -335,7 +335,7 @@ some appropriate form of words such as vox et praeterea nihil),
 he were to act as if he really valued the significance of the instrument.
 Suppose he were to fall into a trembling ecstasy on hearing from a
 distant exchange the voice of an unknown young woman in a remote town,
-were to linger upon the very real wonder of that momentary meeting
+were to linger upon the very real [[Wonder|wonder]] of that momentary meeting
 in mid-air with a human spirit whom he would never see on earth,
 were to speculate on her life and personality, so real and yet
 so remote from his own, were to pause to ask a few personal questions
@@ -349,10 +349,10 @@ about to put him on to 666 Upper Tooting.  He would be really and
 truly expressing the sentiment, "Wonderful thing, the telephone!";
 and, unlike the thousands who say it, he would actually mean it.
 He would be really and truly justifying the great scientific
-discoveries and doing honour to the great scientific inventors.
+discoveries and doing [[Honour|honour]] to the great scientific inventors.
 He would indeed be the worthy son of a scientific age.  And yet I
-fear that in a scientific age he would possibly be misunderstood,
-and even suffer from lack of sympathy.  I fear that he would, in fact,
+[[Fear|fear]] that in a scientific age he would possibly be misunderstood,
+and even suffer from lack of sympathy.  I [[Fear|fear]] that he would, in fact,
 be in practice an opponent of all that he desired to uphold.  He would
 be a worse enemy of machinery than any Luddite smashing machines.
 He would obstruct the activities of the telephone exchange,
@@ -361,34 +361,34 @@ like a more normal and traditional poet, to tell all those bustling
 business people about the beauties of a wayside flower.
 
 It would of course be the same with any adventure of the same
-luckless admiration.  If a philosopher, when taken for the first time
+luckless admiration.  If a philosopher, when taken for the first [[Time|time]]
 for a ride in a motor-car, were to fall into such an enthusiasm for
 the marvel that he insisted on understanding the whole of the mechanism
 on the spot, it is probable that he would have got to his destination
 rather quicker if he had walked.  If he were, in his simple zeal,
-to insist on the machine being taken to pieces in the road,
-that he might rejoice in the inmost secrets of its structure, he might
+to insist on the [[Machine|machine]] being taken to pieces in the [[Road|road]],
+that he might rejoice in the inmost [[Secrets|secrets]] of its structure, he might
 even lose his popularity with the garage taxi-driver or chauffeur.
 Now we have all known children, for instance, who did really in this
 fashion want to see wheels go round.  But though their attitude may
 bring them nearest to the kingdom of heaven, it does not necessarily
-bring them nearer to the end of the journey.  They are admiring motors;
+bring them nearer to the end of the [[Journey|journey]].  They are admiring motors;
 but they are not motoring--that is, they are not necessarily moving.
 They are not serving that purpose which motoring was meant to serve.
 Now as a matter of fact this contradiction has ended in a congestion;
 and a sort of stagnant state of the spirit in which there is
 rather less real appreciation of the marvels of man's invention
 than if the poet confined himself to making a penny whistle
-(on which to pipe in the woods of Arcady) or the child confined
-himself to making a toy bow or a catapult.  The child really is
-happy with a beautiful happiness every time he lets fly an arrow.
-It is by no means certain that the business man is happy
-with a beautiful happiness every time he sends off a telegram.
+(on which to pipe in the woods of Arcady) or the [[Child|child]] confined
+himself to making a toy bow or a catapult.  The [[Child|child]] really is
+happy with a beautiful happiness every [[Time|time]] he lets fly an arrow.
+It is by no means certain that [[The Business Man|the business man]] is happy
+with a beautiful happiness every [[Time|time]] he sends off a telegram.
 The very name of a telegram is a poem, even more magical
 than the arrow; for it means a dart, and a dart that writes.
-Think what the child would feel if he could shoot a pencil-arrow
+Think what the [[Child|child]] would feel if he could shoot a pencil-arrow
 that drew a picture at the other end of the valley or the long street.
-Yet the business man but seldom dances and claps his hands for joy,
+Yet [[The Business Man|the business man]] but seldom dances and claps his hands for joy,
 at the thought of this, whenever he sends a telegram.
 
 Now this has a considerable relevancy to the real criticism of the modern
@@ -403,12 +403,12 @@ a luxury."  And I always feel disposed to answer, "Yes, and it
 would be better for people like you if it were still a luxury;
 if that would induce you to look at it, and not only to look through it.
 Do you ever consider how magical a thing is that invisible film standing
-between you and the birds and the wind?  Do you ever think of it as water
+between you and the [[Birds|birds]] and the [[Wind|wind]]?  Do you ever think of it as [[Water|water]]
 hung in the air or a flattened diamond too clear to be even valued?
-Do you ever feel a window as a sudden opening in a wall?
+Do you ever feel a [[Window|window]] as a sudden opening in a wall?
 And if you do not, what is the good of glass to you?"
 This may be a little exaggerated, in the heat of the moment, but it
-is really true that in these things invention outstrips imagination.
+is really true that in these things invention outstrips [[Imagination|imagination]].
 Humanity has not got the good out of its own inventions;
 and by making more and more inventions, it is only leaving its own
 power of happiness further and further behind.
@@ -417,12 +417,12 @@ I remarked in an earlier part of this particular meditation
 that machinery was not necessarily evil, and that there were
 some who valued it in the right spirit, but that most of those
 who had to do with it never had a chance of valuing it at all.
-A poet might enjoy a clock as a child enjoys a musical-box. But
-the actual clerk who looks at the actual clock, to see that he is
-just in time to catch the train for the city, is no more enjoying
+A poet might enjoy a [[Clock|clock]] as a [[Child|child]] enjoys a musical-box. But
+the actual clerk who looks at the actual [[Clock|clock]], to see that he is
+just in [[Time|time]] to catch the train for the [[City|city]], is no more enjoying
 machinery than he is enjoying music.  There may be something to be said
 for mechanical toys; but modern society is a mechanism and not a toy.
-The child indeed is a good test in these matters; and illustrates
+The [[Child|child]] indeed is a good test in these matters; and illustrates
 both the fact that there is an interest in machinery and the fact
 that machinery itself generally prevents us from being interested.
 It is almost a proverb that every little boy wants to be an engine-driver.
@@ -435,8 +435,8 @@ of passengers; and of passengers a little too like packages.
 In other words, its only effect on the visionary or potential
 engine-driver is to put him inside the train, where he cannot
 see the engine, instead of outside the train where he can.
-And though he grows up to the greatest and most glorious success
-in life, and swindles the widow and orphan till he can travel
+And though he grows up to the greatest and most glorious [[success]]
+in life, and swindles the widow and [[Orphan|orphan]] till he can travel
 in a first-class carriage specially reserved, with a permanent
 pass to the International Congress of Cosmopolitan World Peace
 for Wire-Pullers, he will never perhaps enjoy a railway train again,
@@ -444,15 +444,15 @@ he will never even see a railway train again, as he saw it when
 he stood as a ragged urchin and waved wildly from a grassy bank
 at the passage of the Scotch Express.
 
-We may transfer the parable from engine-drivers to engineers.
+We may transfer the [[Parable|parable]] from engine-drivers to engineers.
 It may be that the driver of the Scotch Express hurls himself
-forward in a fury of speed because his heart is in the Highlands,
+forward in a fury of [[Speed|speed]] because his heart is in the Highlands,
 his heart is not here; that he spurns the Border behind him
 with a gesture and hails the Grampians before him with a cheer.
 And whether or no it is true that the engine-driver's heart is
 in the Highlands, it is sometimes true that the little boy's heart
 is in the engine.  But it is by no means true that passengers
-as a whole, travelling behind engines as a whole, enjoy the speed
+as a whole, travelling behind engines as a whole, enjoy the [[Speed|speed]]
 in a positive sense, though they may approve of it in a negative sense.
 I mean that they wish to travel swiftly, not because swift
 travelling is enjoyable, but because it is not enjoyable.
@@ -461,11 +461,11 @@ is a rapture, but because being in the railway-carriage is a bore.
 In the same way, if we consider the joy of engineers, we must
 remember that there is only one joyful engineer to a thousand bored
 victims of engineering.  The discussion that raged between Mr. Penty
-and others at one time threatened to resolve itself into a feud
+and others at one [[Time|time]] threatened to resolve itself into a feud
 between engineers and architects.  But when the engineer asks us
 to forget all the monotony and materialism of a mechanical age
 because his own science has some of the inspiration of an art,
-the architect may well be ready with a reply.  For this is very much
+the architect may [[Well|well]] be ready with a reply.  For this is very much
 as if architects were never engaged in anything but the building
 of prisons and lunatic asylums.  It is as if they told us proudly
 with what passionate and poetical enthusiasm they had themselves
@@ -477,14 +477,14 @@ call the practical way, but should rather be called the immediate way,
 beyond the better distribution of the ownership of such machines
 as are really found to be necessary.  But when we come to the larger
 question of machinery in a fundamentally different sort of society,
-governed by our philosophy and religion, there is a great deal
+governed by our [[philosophy]] and religion, there is a great deal
 more to be said.  The best and shortest way of saying it is that
-instead of the machine being a giant to which the man is a pygmy,
+instead of the [[Machine|machine]] being a giant to which the man is a pygmy,
 we must at least reverse the proportions until man is a giant
-to whom the machine is a toy.  Granted that idea, and we have no
+to whom the [[Machine|machine]] is a toy.  Granted that idea, and we have no
 reason to deny that it might be a legitimate and enlivening toy.
-In that sense it would not matter if every child were an
-engine-driver or (better still) every engine-driver a child.
+In that sense it would not matter if every [[Child|child]] were an
+engine-driver or (better still) every engine-driver a [[Child|child]].
 But those who were always taunting us with unpracticality will at
 least admit that this is not practical.
 
@@ -502,9 +502,9 @@ to be a joy to other people seeing it, or there would be no point
 in letting it be seen.  But though the engine may be a great joy
 to the engineer and of great use to the other people, it is not, and it
 is not meant to be, in the same sense a great joy to the other people.
-Nor is this because of a deficiency in education, as some of
+Nor is this because of a deficiency in [[Education|education]], as some of
 the artists might allege in the case of art.  It is involved in
-the very nature of machinery; which, when once it is established,
+the very [[Nature|nature]] of machinery; which, when once it is established,
 consists of repetitions and not of variations and surprises.
 A man can see something in the limbs of a statue which he never
 saw before; they may seem to toss or sweep as they never did before;
@@ -517,10 +517,10 @@ but merely a monotony for the consumer.
 This being so, it seems to me that in an ideal state engineering would
 be the exception, just as the delight in engines is the exception.
 As it is, engineering and engines are the rule; and are even a
-grinding and oppressive rule.  The lifelessness which the machine
+grinding and oppressive rule.  The lifelessness which the [[Machine|machine]]
 imposes on the masses is an infinitely bigger and more obvious
 fact than the individual interest of the man who makes machines.
-Having reached this point in the argument, we may well compare
+Having reached this point in the argument, we may [[Well|well]] compare
 it with what may be called the practical aspect of the problem
 of machinery.  Now it seems to me obvious that machinery,
 as it exists to-day, has gone almost as much beyond its practical
@@ -544,15 +544,15 @@ stand as solid as an apple tree.  In so far as men can produce
 their own goods on the spot, they are saving the community a vast
 expenditure which is often quite out of proportion to the return.
 In so far as we can establish a considerable proportion of simple
-and self-supporting people, we are relieving the pressure
-of what is often a wasteful as well as a harassing process.
-And taking this as a general outline of the reform, it does appear
+and [[Self|self]]-supporting people, we are relieving the pressure
+of what is often a wasteful as [[Well|well]] as a harassing process.
+And taking this as a general outline of the [[Reform|reform]], it does appear
 true that a simpler life in large areas of the community might leave
-machinery more or less as an exceptional thing; as it may well be
-to the exceptional man who really puts his soul into it.
+machinery more or less as an exceptional thing; as it may [[Well|well]] be
+to the exceptional man who really puts his [[Soul|soul]] into it.
 
 There are difficulties in this view; but for the moment I may
-well take as an illustration the parallel of the particular sort
+[[Well|well]] take as an illustration the parallel of the particular sort
 of modern engineering which moderns are very fond of denouncing.
 They often forget that most of their praise of scientific instruments
 applies most vividly to scientific weapons.  If we are to have so much
@@ -563,7 +563,7 @@ is there not imaginative interest in the making of a submarine?
 Yet many modern admirers of science would be very anxious to abolish
 these machines altogether; even in the very act of telling us
 that we cannot abolish machines at all.  As I believe in the right
-of national self-defence, I would not abolish them altogether.
+of national [[Self|self]]-defence, I would not abolish them altogether.
 But I think they may give us a hint of how exceptional things may be
 treated exceptionally.  For the moment I will leave the progressive
 to laugh at my absurd notion of a limitation of machines, and go
@@ -581,11 +581,11 @@ for savages to hunt and fish in, so a higher civilization might
 leave a patch of factories for those who are still at such a stage
 of intellectual infancy as really to want to see the wheels go round.
 And as the Red Indians could still, I suppose, tell their quaint
-old legends of a red god who smoked a pipe or a red hero who stole
-the sun and moon, so the simple folk in the industrial enclosure
-could go on talking of their own Outline of History and discussing
+old legends of a red god who smoked a pipe or a red [[Hero|hero]] who stole
+the sun and [[Moon|moon]], so the simple folk in the industrial enclosure
+could go on talking of their own Outline of [[history|History]] and discussing
 the evolution of ethics, while all around them a more mature
-civilization was dealing with real history and serious philosophy.
+civilization was dealing with real [[history]] and serious [[philosophy]].
 I hesitate to repeat this fancy here; for, after all, machinery is
 their religion, or at any rate superstition, and they do not like it
 to be treated with levity.  But I do think there is something to be said
@@ -604,7 +604,7 @@ In practice we already know what is meant by a holiday in a world
 of machinery and mass production.  It means that a man, when he has done
 turning a handle, has a choice of certain pleasures offered to him.
 He can, if he likes, read a newspaper and discover with interest
-how the Crown Prince of Fontarabia landed from the magnificent
+how the [[Crown]] Prince of Fontarabia landed from the magnificent
 yacht Atlantis amid a cheering crowd; how certain great American
 millionaires are making great financial consolidations; how the
 Modern Girl is a delightful creature, in spite of (or because of)
@@ -614,7 +614,7 @@ progress and marrying, divorcing, or burying everybody without
 reference to the precise meaning of the ceremony.  On the other hand,
 if he prefers some other amusement, he may go to the Cinema,
 where he will see a very vivid and animated scene of the crowds cheering
-the Crown Prince of Fontarabia after the arrival of the yacht Atlantis;
+the [[Crown]] Prince of Fontarabia after the arrival of the yacht Atlantis;
 where he will see an American film featuring the features of
 American millionaires, with all those resolute contortions of visage
 which accompany their making of great financial consolidations;
@@ -625,14 +625,14 @@ with the aid of a few printed sentences, that true religion is social
 sympathy and progress and marrying and burying people at random.
 But supposing the man's tastes to be detached from the drama
 and from the kindred arts, he may prefer the reading of fiction;
-and he will have no difficulty in finding a popular novel about
+and he will have no difficulty in finding a popular [[Novel|novel]] about
 the doubts and difficulties of a good and kind clergyman slowly
 discovering that true religion consists of progress and social sympathy,
 with the assistance of a Modern Girl whose shingled hair and short
 skirts proclaim her indifference to all fine distinctions about
 who should be buried and who divorced; nor, probably, will the story
 fail to contain an American millionaire making vast financial
-consolidations, and certainly a yacht and possibly a Crown Prince.
+consolidations, and certainly a yacht and possibly a [[Crown]] Prince.
 But there are yet other tastes that are catered for under the conditions
 of modern publicity and pleasure-seeking. There is the great
 institution of wireless or broadcasting; and the holiday-maker,
@@ -645,9 +645,9 @@ the very accents of some great popular preacher proclaiming
 to the world that revelation of true religion which consists
 of sympathy and social progress rather than of dogma and creed;
 and in which he will certainly hear the very thunder of cheering
-which welcomes His Royal Highness the Crown Prince of Fontarabia
+which welcomes His Royal Highness the [[Crown]] Prince of Fontarabia
 when he lands from the magnificent yacht Atlantis.  There is thus
-indeed a very elaborate and well-ordered choice placed before him,
+indeed a very elaborate and [[Well|well]]-ordered choice placed before him,
 in the matter of the means of entertainment.
 
 But even the rich variety of method and approach unfolded before us
@@ -661,8 +661,8 @@ If the pleasure-seeker himself were really a pleasure-maker for himself,
 if he were forced to amuse himself instead of being amused,
 if he were, in short, obliged to sit down in an old tavern and talk--
 I am really very doubtful about whether he would confine
-his conversation entirely to the Crown Prince of Fontarabia,
-the shingling of hair, the greatness of certain rich Yankees,
+his conversation entirely to the [[Crown]] Prince of Fontarabia,
+the shingling of hair, the [[Greatness|greatness]] of certain rich Yankees,
 and so on; and then begin the same round of subjects all over again.
 His interests might be more local, but they would be more lively;
 his experience of men more personal but more mixed; his likes
@@ -694,9 +694,9 @@ deafening din of megaphones that drowns their voices, this deathly
 glare of limelight which kills the colours of their complexions,
 this plangent yell of platitudes which stuns and stops their minds.
 All this sort of thing is killing thoughts as they grow,
-as a great white death-ray might kill plants as they grow.
+as a great white [[Death|death]]-ray might kill plants as they grow.
 When, therefore, people tell me that making a great part of England
-rustic and self-supporting would mean making it rude and senseless,
+rustic and [[Self|self]]-supporting would mean making it rude and senseless,
 I do not agree with them; and I do not think they understand
 the alternative or the problem.  Nobody wants all men to be rustics
 even in normal times; it is very tenable that some of the most
@@ -715,17 +715,17 @@ If by machinery saving labour, and therefore producing leisure,
 be meant the machinery that now achieves what is called
 mass production, I cannot see any vital value in the leisure;
 because there is in that leisure nothing of liberty.  The man may
-only work for an hour with his machine-made tools, but he can only
-run away and play for twenty-three hours with machine-made toys.
-Everything he handles has to come from a huge machine that
+only work for an hour with his [[Machine|machine]]-made tools, but he can only
+run away and play for twenty-three hours with [[Machine|machine]]-made toys.
+Everything he handles has to come from a huge [[Machine|machine]] that
 he cannot handle.  Everything must come from something to which,
 in the current capitalist phrase, he can only lend "a hand."
-Now as this would apply to intellectual and artistic toys as well as to
-merely material toys, it seems to me that the machine would dominate
-him for a much longer time than his hand had to turn the handle.
+Now as this would apply to intellectual and artistic toys as [[Well|well]] as to
+merely material toys, it seems to me that the [[Machine|machine]] would dominate
+him for a much longer [[Time|time]] than his hand had to turn the handle.
 It is practically admitted that much fewer men are needed to work
-the machine.  The answer of the mechanical collectivists is that though
-the machine might give work to the few, it could give food to the many.
+the [[Machine|machine]].  The answer of the mechanical collectivists is that though
+the [[Machine|machine]] might give work to the few, it could give food to the many.
 But it could only give food to the many by an operation that had
 to be presided over by the few.  Or even if we suppose that
 some work, subdivided into small sections, were given to the many,
@@ -737,35 +737,35 @@ of us might be intermittent or occasional officials.  But the general
 character of the system would remain; and whatever else it is like,
 nothing can make it like a population pottering about in its own several
 fields or practising small creative crafts in its own little workshops.
-The man who has helped to produce a machine-made article may
+The man who has helped to produce a [[Machine|machine]]-made article may
 indeed leave off working, in the sense of leaving off turning one
-particular wheel.  He may have an opportunity to do as he likes,
+particular [[Wheel|wheel]].  He may have an opportunity to do as he likes,
 in so far as he likes using what the system likes producing.
 He may have a power of choice--in the sense that he may choose
 between one thing it produces and another thing it produces.
 He may choose to pass his leisure hours in sitting in a
-machine-made chair or lying on a machine-made bed or resting
-in a machine-made hammock or swinging on a machine-made trapeze.
+[[Machine|machine]]-made chair or lying on a [[Machine|machine]]-made bed or resting
+in a [[Machine|machine]]-made hammock or swinging on a [[Machine|machine]]-made trapeze.
 But he will not be in the same position as a man who carves his
-own hobby-horse out of his own wood or his own hobby out of his
+own hobby-[[Horse|horse]] out of his own wood or his own hobby out of his
 own will.  For that introduces another principle or purpose;
 which there is no warrant for supposing will coexist with
 the principle or purpose of using all the wood so as to save
 labour or simplifying all the wills so as to save leisure.
 If our ideal is to produce things as rapidly and easily as possible,
-we must have a definite number of things that we desire to produce.
-If we desire to produce them as freely and variously as possible,
-we must not at the same time try to produce them as quickly
+we must have a definite number of things that we [[Desire|desire]] to produce.
+If we [[Desire|desire]] to produce them as freely and variously as possible,
+we must not at the same [[Time|time]] try to produce them as quickly
 as possible.  I think it most probable that the result of saving
 labour by machinery would be then what it is now, only more so:
 the limitation of the type of thing produced; standardization.
 
 Now it may be that some of the supporters of the Leisure State
 have in mind some system of distributed machinery, which shall
-really make each man the master of his machine; and in that case
+really make each man the master of his [[Machine|machine]]; and in that case
 I agree that the problem becomes different and that a great part
 of the problem is resolved.  There would still remain the question
-of whether a man with a free soul would want to use a machine upon
+of whether a man with a free [[Soul|soul]] would want to use a [[Machine|machine]] upon
 about three-quarters of the things for which machines are now used.
 In other words, there would remain the whole problem of the craftsman
 in the sense of the creator.  But I should agree that if the small
@@ -774,8 +774,8 @@ of his small property, its claim would be very considerable.
 But it is necessary to make it clear, that if the holidays provided
 for the mechanic are provided as mechanically as at present,
 and with the merely mechanical alternative offered at present,
-I think that even the slavery of his labour would be light compared
-to the grinding slavery of his leisure.
+I think that even the [[Slavery|slavery]] of his labour would be light compared
+to the grinding [[Slavery|slavery]] of his leisure.
 
 = = = = = = = = = = = = = = = =
 
@@ -784,14 +784,14 @@ IV THE FREE MAN AND THE FORD CAR
 I am not a fanatic; and I think that machines may be of considerable
 use in destroying machinery.  I should generously accord them a
 considerable value in the work of exterminating all that they represent.
-But to put the truth in those terms is to talk in terms of
+But to put the [[Truth|truth]] in those terms is to talk in terms of
 the remote conclusion of our slow and reasonable revolution.
-In the immediate situation the same truth may be stated in a more
-moderate way.  Towards all typical things of our time we should have
-a rational charity.  Machinery is not wrong; it is only absurd.
+In the immediate situation the same [[Truth|truth]] may be stated in a more
+moderate way.  Towards all typical things of our [[Time|time]] we should have
+a rational [[Charity|charity]].  Machinery is not wrong; it is only absurd.
 Perhaps we should say it is merely childish, and can even be taken
-in the right spirit by a child.  If, therefore, we find that
-some machine enables us to escape from an inferno of machinery,
+in the right spirit by a [[Child|child]].  If, therefore, we find that
+some [[Machine|machine]] enables us to escape from an inferno of machinery,
 we cannot be committing a sin though we may be cutting a silly figure,
 like a dragoon rejoining his regiment on an old bicycle.
 What is essential is to realize that there is something ridiculous
@@ -799,13 +799,13 @@ about the present position, something wilder than any Utopia.
 For instance, I shall have occasion here to note the proposal
 of centralized electricity, and we could justify the use of it
 so long as we see the joke of it.  But, in fact, we do not
-even see the joke of the waterworks and the water company.
+even see the joke of the waterworks and the [[Water|water]] company.
 It is almost too broadly comic that an essential of life
-like water should be pumped to us from nobody knows where,
+like [[Water|water]] should be pumped to us from nobody knows where,
 by nobody knows whom, sometimes nearly a hundred miles away.
 It is every bit as funny as if air were pumped to us from miles away,
-and we all walked about like divers at the bottom of the sea.
-The only reasonable person is the peasant who owns his own well.
+and we all walked about like divers at the [[Bottom|bottom]] of the sea.
+The only reasonable person is the peasant who owns his own [[Well|well]].
 But we have a long way to go before we begin to think
 about being reasonable.
 
@@ -814,20 +814,20 @@ may work for decentralization.  An obvious case is that recently
 discussed in connection with a common plant of electricity.
 I think it is broadly true that if electricity could be cheapened,
 the chances of a very large number of small independent shops,
-especially workshops, would be greatly improved.  At the same time,
-there is no doubt at all that such dependence for essential power
+especially workshops, would be greatly improved.  At the same [[Time|time]],
+there is no [[Doubt|doubt]] at all that such dependence for essential power
 on a central plant is a real dependence, and is therefore a defect
 in any complete scheme of independence.  On this point I imagine that
 many Distributists might differ considerably; but, speaking for myself,
 I am inclined to follow the more moderate and provisional
 policy that I have suggested more than once in this place.
 I think the first necessity is to make sure of any small properties
-obtaining any success in any decisive or determining degree.
+obtaining any [[success]] in any decisive or determining degree.
 Above all, I think it is vital to create the experience of
 small property, the psychology of small property, the sort of man
 who is a small proprietor.  When once men of that sort exist,
 they will decide, in a manner very different from any modern mob,
-how far the central power-house is to dominate their own private house,
+how far the central power-[[house]] is to dominate their own private [[house]],
 or whether it need dominate at all.  They will perhaps discover
 the way of breaking up and individualizing that power.
 They will sacrifice, if there is any need to sacrifice,
@@ -837,7 +837,7 @@ and machinery can give in creating small property, without in the least
 bowing down to such superstitions where they only destroy it.
 But we must keep in mind the peasant ideal as the motive and the goal;
 and most of those who offer us mechanical help seem to be blankly
-ignorant of what we regard it as helping.  A well-known name will
+ignorant of what we regard it as helping.  A [[Well|well]]-known name will
 illustrate both the thing being done and the man being ignorant
 of what he is doing.
 
@@ -855,13 +855,13 @@ about a man catching a Ford like a fly or possibly a flea.
 But nobody seems to notice how this popularization of motoring
 (however wrong in motive or in method) really is a complete contradiction
 to the fatalistic talk about inevitable combination and concentration.
-The railway is fading before our eyes--birds nesting, as it were,
+The railway is fading before our eyes--[[Birds|birds]] nesting, as it were,
 in the railway signals, and wolves howling, so to speak,
 in the waiting-room. And the railway really was a communal and
 concentrated mode of travel like that in a Utopia of the Socialists.
 The free and solitary traveller is returning before our very eyes;
 not always (it is true) equipped with scrip or scallop, but having
-recovered to some extent the freedom of the King's highway
+recovered to some extent the [[Freedom|freedom]] of the [[King]]'s highway
 in the manner of Merry England.  Nor is this the only ancient
 thing such travel has revived.  While Mugby Junction neglected
 its refreshment-rooms, Hugby-in-the-Hole has revived its inns.
@@ -889,7 +889,7 @@ in the reflection that if another motorist from the United States
 did happen to come along, it would be possible to exchange wheels
 or footbrakes in token of amity.  I may not have got the details
 of the argument quite correct; but the general point of it is that
-if anything goes wrong with parts of a machine, they can be replaced
+if anything goes wrong with parts of a [[Machine|machine]], they can be replaced
 with identical machinery.  And anyhow the argument could be carried
 much further; and used to explain a great many other things.
 I am not sure that it is not the clue to many mysteries of the age.
@@ -915,7 +915,7 @@ from other millionaires, who are exactly similarly constituted.
 
 Such are the advantages of standardization; but, as may be suspected,
 I think the advantages are exaggerated; and I agree with Mr. Penty in
-doubting whether all this repetition really corresponds to human nature.
+doubting whether all this repetition really corresponds to human [[Nature|nature]].
 But a very interesting question was raised by Mr. Ford's remarks
 on the difference between men and men; and his suggestion that
 most men preferred mechanical action or were only fitted for it.
@@ -926,7 +926,7 @@ and inferiority, when I find a man classifying himself as inferior.
 It will be noted that Mr. Ford does not say that he is only fitted
 to mind machines; he confesses frankly that he is too fine and free
 and fastidious a being for such tasks.  I shall believe the doctrine
-when I hear somebody say:  "I have only got the wits to turn a wheel."
+when I hear somebody say:  "I have only got the wits to turn a [[Wheel|wheel]]."
 That would be real, that would be realistic, that would be scientific.
 That would be independent testimony that could not easily be disputed.
 It is exactly the same, of course, with all the other
@@ -935,7 +935,7 @@ characteristic of a scientific age.  It is so with the men who talk
 about superior and inferior races; I never heard a man say:
 "Anthropology shows that I belong to an inferior race."
 If he did, he might be talking like an anthropologist; as it is,
-he is talking like a man, and not unfrequently like a fool.
+he is talking like a man, and not unfrequently like a [[Fool|fool]].
 I have long hoped that I might some day hear a man explaining
 on scientific principles his own unfitness for any important
 post or privilege, say:  "The world should belong to the free
@@ -954,20 +954,20 @@ for work the sort of work he happens to prefer--I have come
 to the conclusion that there is a simpler explanation.
 
 Now Mr. Ford is a good man, so far as it is consistent with being
-a good millionaire.  But he himself will very well illustrate
+a good millionaire.  But he himself will very [[Well|well]] illustrate
 where the fallacy of his argument lies.  It is probably quite
 true that, in the making of motors, there are a hundred men
 who can work a motor and only one man who can design a motor.
 But of the hundred men who could work a motor, it is very probable
-that one could design a garden, another design a charade,
+that one could design a [[Garden|garden]], another design a charade,
 another design a practical joke or a derisive picture of Mr. Ford.
 I do not mean, of course, in anything I say here, to deny
 differences of intelligence, or to suggest that equality
 (a thing wholly religious) depends on any such impossible denial.
 But I do mean that men are nearer to a level than anybody will discover
-by setting them all to make one particular kind of run-about clock.
+by setting them all to make one particular kind of run-about [[Clock|clock]].
 Now Mr. Ford himself is a man of defiant limitations.
-He is so indifferent to history, for example, that he calmly admitted
+He is so indifferent to [[history]], for example, that he calmly admitted
 in the witness-box that he had never heard of Benedict Arnold.
 An American who has never heard of Benedict Arnold is like a
 Christian who has never heard of Judas Iscariot.  He is rare.
@@ -983,21 +983,21 @@ in the Daily Express was old enough to be the widow of Benedict Arnold,
 the lady might bring an action.  Now it is not impossible that among
 the workmen whom Mr. Ford perceives (probably quite truly) to be only
 suited to the mechanical part of the construction of mechanical things,
-there might be a man who was fond of reading all the history
+there might be a man who was fond of reading all the [[history]]
 he could lay his hands on; and who had advanced step by step,
-by painful efforts of self-education, until the difference between
+by painful efforts of [[Self|self]]-[[Education|education]], until the difference between
 Benedict Arnold and Arnold Bennett was quite clear in his mind.
 If his employer did not care about the difference, of course,
 he would not consult him about the difference, and the man would
-remain to all appearance a mere cog in the machine; there would
+remain to all appearance a mere cog in the [[Machine|machine]]; there would
 be no reason for finding out that he was a rather cogitating cog.
 Anybody who knows anything of modern business knows that there
 are any number of such men who remain in subordinate and obscure
 positions because their private tastes and talents have no
 relation to the very stupid business in which they are engaged.
 If Mr. Ford extends his business over the Solar System, and gives cars
-to the Martians and the Man in the Moon, he will not be an inch nearer
-to the mind of the man who is working his machine for him, and thinking
+to the Martians and the Man in the [[Moon]], he will not be an inch nearer
+to the mind of the man who is working his [[Machine|machine]] for him, and thinking
 about something more sensible.  Now all human things are imperfect;
 but the condition in which such hobbies and secondary talents do
 to some extent come out is the condition of small independence.
@@ -1005,9 +1005,9 @@ The peasant almost always runs two or three sideshows and lives
 on a variety of crafts and expedients.  The village shopkeeper
 will shave travellers and stuff weasels and grow cabbages and do
 half a dozen such things, keeping a sort of balance in his life
-like the balance of sanity in the soul.  The method is not perfect;
-but it is more intelligent than turning him into a machine in order
-to find out whether he has a soul above machinery.
+like the balance of [[Sanity|sanity]] in the [[Soul|soul]].  The method is not perfect;
+but it is more intelligent than turning him into a [[Machine|machine]] in order
+to find out whether he has a [[Soul|soul]] above machinery.
 
 Upon this point of immediate compromise with machinery, therefore, I am
 inclined to conclude that it is quite right to use the existing machines
@@ -1016,7 +1016,7 @@ but not if they create a psychology that respects them.
 The Ford car is an excellent illustration of the question;
 even better than the other illustration I have given of an electrical
 supply for small workshops.  If possessing a Ford car means
-rejoicing in a Ford car, it is melancholy enough; it does not bring
+rejoicing in a Ford car, it is [[Melancholy|melancholy]] enough; it does not bring
 us much farther than Tooting or rejoicing in a Tooting tramcar.
 But if possessing a Ford car means rejoicing in a field of corn
 or clover, in a fresh landscape and a free atmosphere, it may be
@@ -1027,23 +1027,23 @@ of Mr. Ford is not when the man gets into the car, but when he
 enthusiastically falls out of the car.  It is when he finds somewhere,
 in remote and rural corners that he could not normally have reached,
 that perfect poise and combination of hedge and tree and meadow
-in the presence of which any modern machine seems suddenly
+in the presence of which any modern [[Machine|machine]] seems suddenly
 to look an absurdity; yes, even an antiquated absurdity.
-Probably that happy man, having found the place of his true home,
+Probably that happy man, having found the place of his true [[Home|home]],
 will proceed joyfully to break up the car with a large hammer,
-putting its iron fragments for the first time to some real use,
-as kitchen utensils or garden tools.  That is using a scientific
+putting its iron fragments for the first [[Time|time]] to some real use,
+as kitchen utensils or [[Garden|garden]] tools.  That is using a scientific
 instrument in the proper way; for it is using it as an instrument.
 The man has used modern machinery to escape from modern society;
 and the reason and rectitude of such a course commends itself instantly
 to the mind.  It is not so with the weaker brethren who are not
 content to trust Mr. Ford's car, but also trust Mr. Ford's creed.
-If accepting the car means accepting the philosophy I have
+If accepting the car means accepting the [[philosophy]] I have
 just criticized, the notion that some men are born to make cars,
 or rather small bits of cars, then it will be far more worthy of a
 philosopher to say frankly that men never needed to have cars at all.
-It is only because the man had been sent into exile in a
-railway-train that he has to be brought back home in a motor-car.
+It is only because the man had been sent into [[Exile|exile]] in a
+railway-train that he has to be brought back [[Home|home]] in a motor-car.
 It is only because all machinery has been used to put things wrong
 that some machinery may now rightly be used to put things right.
 But I conclude upon the whole that it may so be used; and my reason
@@ -1061,7 +1061,7 @@ that he is not fitted to be a lord of land, a rider of horses,
 or a ruler of cattle; since his deficient intellect and degraded
 anthropological type fit him only for mean and mechanical operations.
 If anyone will try saying this (tenderly, of course) to any
-considerable number of large farmers, who have lived for some time
+considerable number of large farmers, who have lived for some [[Time|time]]
 on their own farms with their own families, he will discover
 the defects of the approach.
 

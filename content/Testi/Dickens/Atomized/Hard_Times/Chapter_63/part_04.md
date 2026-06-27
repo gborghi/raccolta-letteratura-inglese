@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-When the time drew near for retiring, Mr. Bounderby took a glass of
-water.  ‘Oh, sir?’ said Mrs. Sparsit.  ‘Not your sherry warm, with
+When the [[Time|time]] drew near for retiring, Mr. Bounderby took a glass of
+[[Water|water]].  ‘Oh, sir?’ said Mrs. Sparsit.  ‘Not your sherry warm, with
 lemon-peel and nutmeg?’  ‘Why, I have got out of the habit of taking it
 now, ma’am,’ said Mr. Bounderby.  ‘The more’s the pity, sir,’ returned
 Mrs. Sparsit; ‘you are losing all your good old habits.  Cheer up, sir!
@@ -28,14 +28,14 @@ Bounderby.  ‘It will do you good, sir.  It will warm your heart.  It is
 the sort of thing you want, and ought to take, sir.’  And when Mr.
 Bounderby said, ‘Your health, ma’am!’ she answered with great feeling,
 ‘Thank you, sir.  The same to you, and happiness also.’  Finally, she
-wished him good night, with great pathos; and Mr. Bounderby went to bed,
-with a maudlin persuasion that he had been crossed in something tender,
+wished him good [[Night|night]], with great pathos; and Mr. Bounderby went to bed,
+with a maudlin [[Persuasion|persuasion]] that he had been crossed in something tender,
 though he could not, for his life, have mentioned what it was.
 
 Long after Louisa had undressed and lain down, she watched and waited for
-her brother’s coming home.  That could hardly be, she knew, until an hour
-past midnight; but in the country silence, which did anything but calm
-the trouble of her thoughts, time lagged wearily.  At last, when the
+her brother’s coming [[Home|home]].  That could hardly be, she knew, until an hour
+past midnight; but in the country [[Silence|silence]], which did anything but calm
+the trouble of her thoughts, [[Time|time]] lagged wearily.  At last, when the
 darkness and stillness had seemed for hours to thicken one another, she
 heard the bell at the gate.  She felt as though she would have been glad
 that it rang on until daylight; but it ceased, and the circles of its
@@ -63,20 +63,20 @@ and have anything concealed from every one besides, tell it to me.’
 flowed over him as if she would hide him from every one but herself: ‘is
 there nothing that you have to tell me?  Is there nothing you can tell me
 if you will?  You can tell me nothing that will change me.  O Tom, tell
-me the truth!’
+me the [[Truth|truth]]!’
 
 ‘I don’t know what you mean, Loo!’
 
-‘As you lie here alone, my dear, in the melancholy night, so you must lie
-somewhere one night, when even I, if I am living then, shall have left
+‘As you lie here [[Alone|alone]], my dear, in the [[Melancholy|melancholy]] [[Night|night]], so you must lie
+somewhere one [[Night|night]], when even I, if I am living then, shall have left
 you.  As I am here beside you, barefoot, unclothed, undistinguishable in
-darkness, so must I lie through all the night of my decay, until I am
-dust.  In the name of that time, Tom, tell me the truth now!’
+darkness, so must I lie through all the [[Night|night]] of my [[Decay|decay]], until I am
+[[Dust|dust]].  In the name of that [[Time|time]], Tom, tell me the [[Truth|truth]] now!’
 
 ‘What is it you want to know?’
 
-‘You may be certain;’ in the energy of her love she took him to her bosom
-as if he were a child; ‘that I will not reproach you.  You may be certain
+‘You may be certain;’ in the energy of her [[Love|love]] she took him to her bosom
+as if he were a [[Child|child]]; ‘that I will not reproach you.  You may be certain
 that I will be compassionate and true to you.  You may be certain that I
 will save you at whatever cost.  O Tom, have you nothing to tell me?
 Whisper very softly.  Say only “yes,” and I shall understand you!’
@@ -135,29 +135,29 @@ a pause, for he had hesitated and stopped.
 ‘In short,’ resumed Tom, as if he had made up his mind, ‘if you come to
 that, perhaps I was so far from being altogether in his favour, that I
 took him outside the door to tell him quietly, that I thought he might
-consider himself very well off to get such a windfall as he had got from
+consider himself very [[Well|well]] off to get such a windfall as he had got from
 my sister, and that I hoped he would make good use of it.  You remember
 whether I took him out or not.  I say nothing against the man; he may be
-a very good fellow, for anything I know; I hope he is.’
+a very good fellow, for anything I know; I [[Hope|hope]] he is.’
 
 ‘Was he offended by what you said?’
 
-‘No, he took it pretty well; he was civil enough.  Where are you, Loo?’
-He sat up in bed and kissed her.  ‘Good night, my dear, good night.’
+‘No, he took it pretty [[Well|well]]; he was civil enough.  Where are you, Loo?’
+He sat up in bed and kissed her.  ‘Good [[Night|night]], my dear, good [[Night|night]].’
 
 ‘You have nothing more to tell me?’
 
 ‘No.  What should I have?  You wouldn’t have me tell you a lie!’
 
-‘I wouldn’t have you do that to-night, Tom, of all the nights in your
-life; many and much happier as I hope they will be.’
+‘I wouldn’t have you do that to-[[Night|night]], Tom, of all the nights in your
+life; many and much happier as I [[Hope|hope]] they will be.’
 
-‘Thank you, my dear Loo.  I am so tired, that I am sure I wonder I don’t
-say anything to get to sleep.  Go to bed, go to bed.’
+‘Thank you, my dear Loo.  I am so tired, that I am sure I [[Wonder|wonder]] I don’t
+say anything to get to [[Sleep|sleep]].  Go to bed, go to bed.’
 
 Kissing her again, he turned round, drew the coverlet over his head, and
-lay as still as if that time had come by which she had adjured him.  She
-stood for some time at the bedside before she slowly moved away.  She
+lay as still as if that [[Time|time]] had come by which she had adjured him.  She
+stood for some [[Time|time]] at the bedside before she slowly moved away.  She
 stopped at the door, looked back when she had opened it, and asked him if
 he had called her?  But he lay still, and she softly closed the door and
 returned to her room.

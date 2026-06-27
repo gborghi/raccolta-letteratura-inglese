@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 23 (part 1)"
+title: "[[The Professor]] — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXIII
 
 
 
-IT was two o’clock when I returned to my lodgings; my dinner, just
+IT was two o’[[Clock|clock]] when I returned to my lodgings; my dinner, just
 
 brought in from a neighbouring hotel, smoked on the table; I sat down
 
@@ -36,9 +36,9 @@ be vain to seek the Rue Notre Dame aux Neiges; its inhabitant (for me
 
 it had but one) was detained by her vocation elsewhere. I walked in the
 
-streets of Brussels, and I walked in my own room from two o’clock
+streets of Brussels, and I walked in my own room from two o’[[Clock|clock]]
 
-till six; never once in that space of time did I sit down. I was in my
+till six; never once in that space of [[Time|time]] did I sit down. I was in my
 
 chamber when the last-named hour struck; I had just bathed my face and
 
@@ -50,7 +50,7 @@ calm. Descending swiftly the stair and stepping out, I was glad to see
 
 Twilight drawing on in clouds; such shade was to me like a grateful
 
-screen, and the chill of latter Autumn, breathing in a fitful wind from
+screen, and the chill of latter [[Autumn]], breathing in a fitful [[Wind|wind]] from
 
 the north-west, met me as a refreshing coolness. Still I saw it was cold
 
@@ -80,9 +80,9 @@ attach her destiny to mine by the slightest thread; if doomed to split
 
 on the rock, or run aground on the sand-bank, I was resolved no other
 
-vessel should share my disaster: but six weeks was a long time; and
+vessel should share my disaster: but six weeks was a long [[Time|time]]; and
 
-could it be that she was still well and doing well? Were not all sages
+could it be that she was still [[Well|well]] and doing [[Well|well]]? Were not all sages
 
 agreed in declaring that happiness finds no climax on earth? Dared
 
@@ -92,7 +92,7 @@ contentment--the draught drawn from waters said to flow only in heaven?
 
 
 
-I was at the door; I entered the quiet house; I mounted the stairs; the
+I was at the door; I entered the quiet [[house]]; I mounted the stairs; the
 
 lobby was void and still, all the doors closed; I looked for the neat
 
@@ -100,7 +100,7 @@ green mat; it lay duly in its place.
 
 
 
-“Signal of hope!” I said, and advanced. “But I will be a little calmer;
+“Signal of [[Hope|hope]]!” I said, and advanced. “But I will be a little calmer;
 
 I am not going to rush in, and get up a scene directly.” Forcibly
 
@@ -112,7 +112,7 @@ staying my eager step, I paused on the mat.
 
 myself. A little tinkle, as of cinders falling from a grate, replied;
 
-a movement--a fire was gently stirred; and the slight rustle of life
+a movement--a [[Fire|fire]] was gently stirred; and the slight rustle of life
 
 continuing, a step paced equably backwards and forwards, backwards and
 
@@ -120,11 +120,11 @@ forwards, in the apartment. Fascinated, I stood, more fixedly fascinated
 
 when a voice rewarded the attention of my strained ear--so low, so
 
-self-addressed, I never fancied the speaker otherwise than alone;
+[[Self|self]]-addressed, I never fancied the speaker otherwise than [[Alone|alone]];
 
-solitude might speak thus in a desert, or in the hall of a forsaken
+[[Solitude|solitude]] might speak thus in a [[Desert|desert]], or in the hall of a forsaken
 
-house.
+[[house]].
 
 
 
@@ -144,7 +144,7 @@ house.
 
       And oft he stopp’d and turn’d his head,
 
-       As by fits the night-winds blew.
+       As by fits the [[Night|night]]-winds blew.
 
       For trampling round by Cheviot-edge
 
@@ -152,7 +152,7 @@ house.
 
       And frequent from the Whitelaw ridge
 
-       The death-shot flash’d between.’” etc. etc.
+       The [[Death|death]]-shot flash’d between.’” etc. etc.
 
 
 
@@ -170,7 +170,7 @@ translated, ran as follows:--
 
       Then interest warm ensued;
 
-     From interest, as improvement rose,
+     From interest, as improvement [[Rose|rose]],
 
       Succeeded gratitude.
 
@@ -178,9 +178,9 @@ translated, ran as follows:--
 
      Obedience was no effort soon,
 
-      And labour was no pain;
+      And labour was no [[Pain|pain]];
 
-     If tired, a word, a glance alone
+     If tired, a word, a glance [[Alone|alone]]
 
       Would give me strength again.
 
@@ -232,17 +232,17 @@ voice, to her a foreign, far-off sound, a mountain echo, had uttered
 
 itself in the first stanzas; the second, I thought, from the style and
 
-the substance, was the language of her own heart. Her face was grave,
+the substance, was the language of her own heart. Her face was [[Grave|grave]],
 
 its expression concentrated; she bent on me an unsmiling eye--an eye
 
-just returning from abstraction, just awaking from dreams: well-arranged
+just returning from abstraction, just awaking from [[Dreams|dreams]]: [[Well|well]]-arranged
 
 was her simple attire, smooth her dark hair, orderly her tranquil room;
 
-but what--with her thoughtful look, her serious self-reliance, her
+but what--with her thoughtful look, her serious [[Self-Reliance|self-reliance]], her
 
-bent to meditation and haply inspiration--what had she to do with love?
+bent to meditation and haply inspiration--what had she to do with [[Love|love]]?
 
 “Nothing,” was the answer of her own sad, though gentle countenance; it
 

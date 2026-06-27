@@ -20,24 +20,24 @@ NO WAY OUT
 
 THE Fairy palaces burst into illumination, before pale morning showed the
 monstrous serpents of smoke trailing themselves over Coketown.  A
-clattering of clogs upon the pavement; a rapid ringing of bells; and all
-the melancholy mad elephants, polished and oiled up for the day’s
+clattering of clogs upon the pavement; a rapid ringing of [[Bells|bells]]; and all
+the [[Melancholy|melancholy]] mad elephants, polished and oiled up for the day’s
 monotony, were at their heavy exercise again.
 
 Stephen bent over his loom, quiet, watchful, and steady.  A special
 contrast, as every man was in the forest of looms where Stephen worked,
 to the crashing, smashing, tearing piece of mechanism at which he
-laboured.  Never fear, good people of an anxious turn of mind, that Art
-will consign Nature to oblivion.  Set anywhere, side by side, the work of
+laboured.  Never [[Fear|fear]], good people of an anxious turn of mind, that Art
+will consign [[Nature]] to oblivion.  Set anywhere, side by side, the work of
 GOD and the work of man; and the former, even though it be a troop of
 Hands of very small account, will gain in dignity from the comparison.
 
-So many hundred Hands in this Mill; so many hundred horse Steam Power.
+So many hundred Hands in this Mill; so many hundred [[Horse|horse]] Steam Power.
 It is known, to the force of a single pound weight, what the engine will
 do; but, not all the calculators of the National Debt can tell me the
-capacity for good or evil, for love or hatred, for patriotism or
+capacity for good or evil, for [[Love|love]] or hatred, for patriotism or
 discontent, for the decomposition of virtue into vice, or the reverse, at
-any single moment in the soul of one of these its quiet servants, with
+any single moment in the [[Soul|soul]] of one of these its quiet servants, with
 the composed faces and the regulated actions.  There is no mystery in it;
 there is an unfathomable mystery in the meanest of them, for
 ever.—Supposing we were to reverse our arithmetic for material objects,
@@ -51,23 +51,23 @@ steam from the escape pipe, the litter of barrels and old iron, the
 shining heaps of coals, the ashes everywhere, were shrouded in a veil of
 mist and rain.
 
-The work went on, until the noon-bell rang.  More clattering upon the
+The work went on, until the [[Noon|noon]]-bell rang.  More clattering upon the
 pavements.  The looms, and wheels, and Hands all out of gear for an hour.
 
-Stephen came out of the hot mill into the damp wind and cold wet streets,
+Stephen came out of the hot mill into the damp [[Wind|wind]] and cold wet streets,
 haggard and worn.  He turned from his own class and his own quarter,
-taking nothing but a little bread as he walked along, towards the hill on
-which his principal employer lived, in a red house with black outside
+taking nothing but a little bread as he walked along, towards the [[Hill|hill]] on
+which his principal employer lived, in a red [[house]] with black outside
 shutters, green inside blinds, a black street door, up two white steps,
 BOUNDERBY (in letters very like himself) upon a brazen plate, and a round
 brazen door-handle underneath it, like a brazen full-stop.
 
 Mr. Bounderby was at his lunch.  So Stephen had expected.  Would his
 servant say that one of the Hands begged leave to speak to him?  Message
-in return, requiring name of such Hand.  Stephen Blackpool.  There was
-nothing troublesome against Stephen Blackpool; yes, he might come in.
+in return, requiring name of such Hand.  [[Stephen Blackpool]].  There was
+nothing troublesome against [[Stephen Blackpool]]; yes, he might come in.
 
-Stephen Blackpool in the parlour.  Mr. Bounderby (whom he just knew by
+[[Stephen Blackpool]] in the parlour.  Mr. Bounderby (whom he just knew by
 sight), at lunch on chop and sherry.  Mrs. Sparsit netting at the
 fireside, in a side-saddle attitude, with one foot in a cotton stirrup.
 It was a part, at once of Mrs. Sparsit’s dignity and service, not to
@@ -93,13 +93,13 @@ complaint.  Now, you know, I am certain of that, beforehand.’
 ‘No, sir, sure I ha’ not coom for nowt o’ th’ kind.’
 
 Mr. Bounderby seemed agreeably surprised, notwithstanding his previous
-strong conviction.  ‘Very well,’ he returned.  ‘You’re a steady Hand, and
+strong conviction.  ‘Very [[Well|well]],’ he returned.  ‘You’re a steady Hand, and
 I was not mistaken.  Now, let me hear what it’s all about.  As it’s not
 that, let me hear what it is.  What have you got to say?  Out with it,
 lad!’
 
 Stephen happened to glance towards Mrs. Sparsit.  ‘I can go, Mr.
-Bounderby, if you wish it,’ said that self-sacrificing lady, making a
+Bounderby, if you wish it,’ said that [[Self|self]]-sacrificing lady, making a
 feint of taking her foot out of the stirrup.
 
 Mr. Bounderby stayed her, by holding a mouthful of chop in suspension
@@ -107,22 +107,22 @@ before swallowing it, and putting out his left hand.  Then, withdrawing
 his hand and swallowing his mouthful of chop, he said to Stephen:
 
 ‘Now you know, this good lady is a born lady, a high lady.  You are not
-to suppose because she keeps my house for me, that she hasn’t been very
+to suppose because she keeps my [[house]] for me, that she hasn’t been very
 high up the tree—ah, up at the top of the tree!  Now, if you have got
 anything to say that can’t be said before a born lady, this lady will
 leave the room.  If what you have got to say _can_ be said before a born
 lady, this lady will stay where she is.’
 
-‘Sir, I hope I never had nowt to say, not fitten for a born lady to year,
+‘Sir, I [[Hope|hope]] I never had nowt to say, not fitten for a born lady to year,
 sin’ I were born mysen’,’ was the reply, accompanied with a slight flush.
 
-‘Very well,’ said Mr. Bounderby, pushing away his plate, and leaning
-back.  ‘Fire away!’
+‘Very [[Well|well]],’ said Mr. Bounderby, pushing away his plate, and leaning
+back.  ‘[[Fire]] away!’
 
 ‘I ha’ coom,’ Stephen began, raising his eyes from the floor, after a
 moment’s consideration, ‘to ask yo yor advice.  I need ’t overmuch.  I
 were married on Eas’r Monday nineteen year sin, long and dree.  She were
-a young lass—pretty enow—wi’ good accounts of herseln.  Well!  She went
+a young lass—pretty enow—wi’ good accounts of herseln.  [[Well]]!  She went
 bad—soon.  Not along of me.  Gonnows I were not a unkind husband to her.’
 
 ‘I have heard all this before,’ said Mr. Bounderby.  ‘She took to

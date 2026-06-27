@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 44"
+title: "Bleak [[house|House]] — Chapter 44"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,18 +20,18 @@ The Letter and the Answer
 
 
 My guardian called me into his room next morning, and then I told him
-what had been left untold on the previous night. There was nothing to
+what had been left untold on the previous [[Night|night]]. There was nothing to
 be done, he said, but to keep the secret and to avoid another such
 encounter as that of yesterday. He understood my feeling and entirely
 shared it. He charged himself even with restraining Mr. Skimpole from
 improving his opportunity. One person whom he need not name to me, it
 was not now possible for him to advise or help. He wished it were,
 but no such thing could be. If her mistrust of the lawyer whom she
-had mentioned were well-founded, which he scarcely doubted, he
+had mentioned were [[Well|well]]-founded, which he scarcely doubted, he
 dreaded discovery. He knew something of him, both by sight and by
 reputation, and it was certain that he was a dangerous man. Whatever
 happened, he repeatedly impressed upon me with anxious affection and
-kindness, I was as innocent of as himself and as unable to influence.
+kindness, I was as [[Innocent|innocent]] of as himself and as unable to influence.
 
 “Nor do I understand,” said he, “that any doubts tend towards you, my
 dear. Much suspicion may exist without that connexion.”
@@ -39,10 +39,10 @@ dear. Much suspicion may exist without that connexion.”
 “With the lawyer,” I returned. “But two other persons have come into
 my mind since I have been anxious. Then I told him all about Mr.
 Guppy, who I feared might have had his vague surmises when I little
-understood his meaning, but in whose silence after our last interview
+understood his meaning, but in whose [[Silence|silence]] after our last interview
 I expressed perfect confidence.”
 
-“Well,” said my guardian. “Then we may dismiss him for the present.
+“[[Well]],” said my guardian. “Then we may dismiss him for the present.
 Who is the other?”
 
 I called to his recollection the French maid and the eager offer of
@@ -58,7 +58,7 @@ herself for your maid, you know. She did nothing more.”
 
 “Yes, and her manner was strange when she took her shoes off and
 showed that cool relish for a walk that might have ended in her
-death-bed,” said my guardian. “It would be useless self-distress and
+[[Death|death]]-bed,” said my guardian. “It would be useless [[Self|self]]-distress and
 torment to reckon up such chances and possibilities. There are very
 few harmless circumstances that would not seem full of perilous
 meaning, so considered. Be hopeful, little woman. You can be nothing
@@ -69,7 +69,7 @@ sharing the secret with you—”
 “And lightening it, guardian, so much,” said I.
 
 “—will be attentive to what passes in that family, so far as I can
-observe it from my distance. And if the time should come when I can
+observe it from my distance. And if the [[Time|time]] should come when I can
 stretch out a hand to render the least service to one whom it is
 better not to name even here, I will not fail to do it for her dear
 daughter’s sake.”
@@ -92,11 +92,11 @@ considered. Would you object to my writing it?”
 “Dear guardian, how could I object to your writing anything for ME to
 read?”
 
-“Then see, my love,” said he with his cheery smile, “am I at this
+“Then see, my [[Love|love]],” said he with his cheery smile, “am I at this
 moment quite as plain and easy—do I seem as open, as honest and
-old-fashioned—as I am at any time?”
+old-fashioned—as I am at any [[Time|time]]?”
 
-I answered in all earnestness, “Quite.” With the strictest truth, for
+I answered in all earnestness, “Quite.” With the strictest [[Truth|truth]], for
 his momentary hesitation was gone (it had not lasted a minute), and
 his fine, sensible, cordial, sterling manner was restored.
 
@@ -115,12 +115,12 @@ Esther?”
 
 He took it in his, holding me lightly with his arm, and looking down
 into my face with the same genuine freshness and faithfulness of
-manner—the old protecting manner which had made that house my home
+manner—the old protecting manner which had made that [[house]] my [[Home|home]]
 in a moment—said, “You have wrought changes in me, little woman,
-since the winter day in the stage-coach. First and last you have done
-me a world of good since that time.”
+since the [[Winter|winter]] day in the stage-coach. First and last you have done
+me a world of good since that [[Time|time]].”
 
-“Ah, guardian, what have you done for me since that time!”
+“Ah, guardian, what have you done for me since that [[Time|time]]!”
 
 “But,” said he, “that is not to be remembered now.”
 
@@ -136,10 +136,10 @@ assured of that, my dear?”
 “That’s much,” he answered. “That’s everything. But I must not take
 that at a word. I will not write this something in my thoughts until
 you have quite resolved within yourself that nothing can change me as
-you know me. If you doubt that in the least degree, I will never
+you know me. If you [[Doubt|doubt]] that in the least degree, I will never
 write it. If you are sure of that, on good consideration, send
-Charley to me this night week—‘for the letter.’ But if you are not
-quite certain, never send. Mind, I trust to your truth, in this thing
+Charley to me this [[Night|night]] week—‘for the letter.’ But if you are not
+quite certain, never send. Mind, I trust to your [[Truth|truth]], in this thing
 as in everything. If you are not quite certain on that one point,
 never send!”
 
@@ -149,68 +149,68 @@ Charley for the letter.”
 
 He shook my hand and said no more. Nor was any more said in reference
 to this conversation, either by him or me, through the whole week.
-When the appointed night came, I said to Charley as soon as I was
-alone, “Go and knock at Mr. Jarndyce’s door, Charley, and say you
+When the appointed [[Night|night]] came, I said to Charley as soon as I was
+[[Alone|alone]], “Go and knock at Mr. Jarndyce’s door, Charley, and say you
 have come from me—‘for the letter.’” Charley went up the stairs, and
 down the stairs, and along the passages—the zig-zag way about the
-old-fashioned house seemed very long in my listening ears that
-night—and so came back, along the passages, and down the stairs, and
+old-fashioned [[house]] seemed very long in my listening ears that
+[[Night|night]]—and so came back, along the passages, and down the stairs, and
 up the stairs, and brought the letter. “Lay it on the table,
 Charley,” said I. So Charley laid it on the table and went to bed,
 and I sat looking at it without taking it up, thinking of many
 things.
 
-I began with my overshadowed childhood, and passed through those
-timid days to the heavy time when my aunt lay dead, with her resolute
+I began with my overshadowed [[Childhood|childhood]], and passed through those
+timid days to the heavy [[Time|time]] when my aunt lay dead, with her resolute
 face so cold and set, and when I was more solitary with Mrs. Rachael
 than if I had had no one in the world to speak to or to look at. I
 passed to the altered days when I was so blest as to find friends in
-all around me, and to be beloved. I came to the time when I first saw
+all around me, and to be beloved. I came to the [[Time|time]] when I first saw
 my dear girl and was received into that sisterly affection which was
-the grace and beauty of my life. I recalled the first bright gleam of
+the grace and [[Beauty|beauty]] of my life. I recalled the first bright gleam of
 welcome which had shone out of those very windows upon our expectant
-faces on that cold bright night, and which had never paled. I lived
+faces on that cold bright [[Night|night]], and which had never paled. I lived
 my happy life there over again, I went through my illness and
 recovery, I thought of myself so altered and of those around me so
 unchanged; and all this happiness shone like a light from one central
 figure, represented before me by the letter on the table.
 
-I opened it and read it. It was so impressive in its love for me, and
+I opened it and read it. It was so impressive in its [[Love|love]] for me, and
 in the unselfish caution it gave me, and the consideration it showed
 for me in every word, that my eyes were too often blinded to read
-much at a time. But I read it through three times before I laid it
+much at a [[Time|time]]. But I read it through three times before I laid it
 down. I had thought beforehand that I knew its purport, and I did. It
-asked me, would I be the mistress of Bleak House.
+asked me, would I be the mistress of Bleak [[house|House]].
 
-It was not a love letter, though it expressed so much love, but was
-written just as he would at any time have spoken to me. I saw his
+It was not a [[Love|love]] letter, though it expressed so much [[Love|love]], but was
+written just as he would at any [[Time|time]] have spoken to me. I saw his
 face, and heard his voice, and felt the influence of his kind
 protecting manner in every line. It addressed me as if our places
 were reversed, as if all the good deeds had been mine and all the
 feelings they had awakened his. It dwelt on my being young, and he
 past the prime of life; on his having attained a ripe age, while I
-was a child; on his writing to me with a silvered head, and knowing
-all this so well as to set it in full before me for mature
-deliberation. It told me that I would gain nothing by such a marriage
+was a [[Child|child]]; on his writing to me with a silvered head, and knowing
+all this so [[Well|well]] as to set it in full before me for mature
+deliberation. It told me that I would gain nothing by such a [[Marriage|marriage]]
 and lose nothing by rejecting it, for no new relation could enhance
 the tenderness in which he held me, and whatever my decision was, he
 was certain it would be right. But he had considered this step anew
 since our late confidence and had decided on taking it, if it only
 served to show me through one poor instance that the whole world
-would readily unite to falsify the stern prediction of my childhood.
+would readily unite to falsify the stern prediction of my [[Childhood|childhood]].
 I was the last to know what happiness I could bestow upon him, but of
 that he said no more, for I was always to remember that I owed him
 nothing and that he was my debtor, and for very much. He had often
-thought of our future, and foreseeing that the time must come, and
+thought of our future, and foreseeing that the [[Time|time]] must come, and
 fearing that it might come soon, when Ada (now very nearly of age)
 would leave us, and when our present mode of life must be broken up,
 had become accustomed to reflect on this proposal. Thus he made it.
 If I felt that I could ever give him the best right he could have to
 be my protector, and if I felt that I could happily and justly become
 the dear companion of his remaining life, superior to all lighter
-chances and changes than death, even then he could not have me bind
+chances and changes than [[Death|death]], even then he could not have me bind
 myself irrevocably while this letter was yet so new to me, but even
-then I must have ample time for reconsideration. In that case, or in
+then I must have ample [[Time|time]] for reconsideration. In that case, or in
 the opposite case, let him be unchanged in his old relation, in his
 old manner, in the old name by which I called him. And as to his
 bright Dame Durden and little housekeeper, she would ever be the
@@ -224,16 +224,16 @@ integrity he stated the full case.
 But he did not hint to me that when I had been better looking he had
 had this same proceeding in his thoughts and had refrained from it.
 That when my old face was gone from me, and I had no attractions, he
-could love me just as well as in my fairer days. That the discovery
-of my birth gave him no shock. That his generosity rose above my
+could [[Love|love]] me just as [[Well|well]] as in my fairer days. That the discovery
+of my birth gave him no shock. That his generosity [[Rose|rose]] above my
 disfigurement and my inheritance of shame. That the more I stood in
 need of such fidelity, the more firmly I might trust in him to the
 last.
 
-But I knew it, I knew it well now. It came upon me as the close of
-the benignant history I had been pursuing, and I felt that I had but
+But I knew it, I knew it [[Well|well]] now. It came upon me as the close of
+the benignant [[history]] I had been pursuing, and I felt that I had but
 one thing to do. To devote my life to his happiness was to thank him
-poorly, and what had I wished for the other night but some new means
+poorly, and what had I wished for the other [[Night|night]] but some new means
 of thanking him?
 
 Still I cried very much, not only in the fullness of my heart after
@@ -250,7 +250,7 @@ finger at it, and it stopped.
 
 “That is more like the composed look you comforted me with, my dear,
 when you showed me such a change!” said I, beginning to let down my
-hair. “When you are mistress of Bleak House, you are to be as
+hair. “When you are mistress of Bleak [[house|House]], you are to be as
 cheerful as a bird. In fact, you are always to be cheerful; so let us
 begin for once and for all.”
 
@@ -259,8 +259,8 @@ still, but that was because I had been crying, not because I was
 crying then.
 
 “And so Esther, my dear, you are happy for life. Happy with your best
-friends, happy in your old home, happy in the power of doing a great
-deal of good, and happy in the undeserved love of the best of men.”
+friends, happy in your old [[Home|home]], happy in the power of doing a great
+deal of good, and happy in the undeserved [[Love|love]] of the best of men.”
 
 I thought, all at once, if my guardian had married some one else, how
 should I have felt, and what should I have done! That would have been
@@ -272,18 +272,18 @@ Then I went on to think, as I dressed my hair before the glass, how
 often had I considered within myself that the deep traces of my
 illness and the circumstances of my birth were only new reasons why I
 should be busy, busy, busy—useful, amiable, serviceable, in all
-honest, unpretending ways. This was a good time, to be sure, to sit
+honest, unpretending ways. This was a good [[Time|time]], to be sure, to sit
 down morbidly and cry! As to its seeming at all strange to me at
 first (if that were any excuse for crying, which it was not) that I
-was one day to be the mistress of Bleak House, why should it seem
+was one day to be the mistress of Bleak [[house|House]], why should it seem
 strange? Other people had thought of such things, if I had not.
 “Don’t you remember, my plain dear,” I asked myself, looking at the
 glass, “what Mrs. Woodcourt said before those scars were there about
 your marrying—”
 
 Perhaps the name brought them to my remembrance. The dried remains of
-the flowers. It would be better not to keep them now. They had only
-been preserved in memory of something wholly past and gone, but it
+the [[Flowers|flowers]]. It would be better not to keep them now. They had only
+been preserved in [[Memory|memory]] of something wholly past and gone, but it
 would be better not to keep them now.
 
 They were in a book, and it happened to be in the next room—our
@@ -294,10 +294,10 @@ I stole in to kiss her.
 
 It was weak in me, I know, and I could have no reason for crying; but
 I dropped a tear upon her dear face, and another, and another. Weaker
-than that, I took the withered flowers out and put them for a moment
-to her lips. I thought about her love for Richard, though, indeed,
-the flowers had nothing to do with that. Then I took them into my own
-room and burned them at the candle, and they were dust in an instant.
+than that, I took the withered [[Flowers|flowers]] out and put them for a moment
+to her lips. I thought about her [[Love|love]] for [[Richard]], though, indeed,
+the [[Flowers|flowers]] had nothing to do with that. Then I took them into my own
+room and burned them at the candle, and they were [[Dust|dust]] in an instant.
 
 On entering the breakfast-room next morning, I found my guardian just
 as usual, quite as frank, as open, and free. There being not the
@@ -308,20 +308,20 @@ not unlikely that he might speak to me about the letter, but he did
 not say a word.
 
 So, on the next morning, and the next, and for at least a week, over
-which time Mr. Skimpole prolonged his stay. I expected, every day,
+which [[Time|time]] Mr. Skimpole prolonged his stay. I expected, every day,
 that my guardian might speak to me about the letter, but he never
 did.
 
 I thought then, growing uneasy, that I ought to write an answer. I
-tried over and over again in my own room at night, but I could not
+tried over and over again in my own room at [[Night|night]], but I could not
 write an answer that at all began like a good answer, so I thought
-each night I would wait one more day. And I waited seven more days,
+each [[Night|night]] I would wait one more day. And I waited seven more days,
 and he never said a word.
 
 At last, Mr. Skimpole having departed, we three were one afternoon
 going out for a ride; and I, being dressed before Ada and going down,
 came upon my guardian, with his back towards me, standing at the
-drawing-room window looking out.
+drawing-room [[Window|window]] looking out.
 
 He turned on my coming in and said, smiling, “Aye, it’s you, little
 woman, is it?” and looked out again.
@@ -340,6 +340,6 @@ for?”
 “No. I have brought it myself, guardian,” I returned.
 
 I put my two arms round his neck and kissed him, and he said was this
-the mistress of Bleak House, and I said yes; and it made no
+the mistress of Bleak [[house|House]], and I said yes; and it made no
 difference presently, and we all went out together, and I said
 nothing to my precious pet about it.

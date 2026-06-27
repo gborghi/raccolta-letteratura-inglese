@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATH. VERNON. (part 1)"
+title: "[[Lady Susan]] — ATH. VERNON. (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -46,19 +46,19 @@ Little did I imagine, my dear Mother, when I sent off my last letter,
 
 that the delightful perturbation of spirits I was then in would undergo
 
-so speedy, so melancholy a reverse. I never can sufficiently regret
+so speedy, so [[Melancholy|melancholy]] a reverse. I never can sufficiently regret
 
 that I wrote to you at all. Yet who could have foreseen what has
 
-happened? My dear mother, every hope which made me so happy only two
+happened? My dear mother, every [[Hope|hope]] which made me so happy only two
 
-hours ago has vanished. The quarrel between Lady Susan and Reginald is
+hours ago has vanished. The quarrel between [[Lady Susan]] and Reginald is
 
 made up, and we are all as we were before. One point only is gained.
 
 Sir James Martin is dismissed. What are we now to look forward to? I am
 
-indeed disappointed; Reginald was all but gone, his horse was ordered
+indeed disappointed; Reginald was all but gone, his [[Horse|horse]] was ordered
 
 and all but brought to the door; who would not have felt safe? For half
 
@@ -76,11 +76,11 @@ going—Mr. De Courcy is going, and it is all my fault. I am afraid you
 
 will be very angry with me, but indeed I had no idea it would end so.”
 
-“My love,” I replied, “do not think it necessary to apologize to me on
+“My [[Love|love]],” I replied, “do not think it necessary to apologize to me on
 
 that account. I shall feel myself under an obligation to anyone who is
 
-the means of sending my brother home, because,” recollecting myself, “I
+the means of sending my brother [[Home|home]], because,” recollecting myself, “I
 
 know my father wants very much to see him. But what is it you have done
 
@@ -100,7 +100,7 @@ him—I did indeed, I got up this morning before it was light, and was
 
 two hours about it; and when my letter was done I thought I never
 
-should have courage to give it. After breakfast however, as I was going
+should have [[Courage|courage]] to give it. After breakfast however, as I was going
 
 to my room, I met him in the passage, and then, as I knew that
 
@@ -118,7 +118,7 @@ me a friend always ready to assist you. Do you think that your uncle or
 
 I should not have espoused your cause as warmly as my brother?”
 
-“Indeed, I did not doubt your kindness,” said she, colouring again,
+“Indeed, I did not [[Doubt|doubt]] your kindness,” said she, colouring again,
 
 “but I thought Mr. De Courcy could do anything with my mother; but I
 
@@ -138,7 +138,7 @@ good to all parties. I believe it is best as it is. Depend upon it that
 
 you shall not be made unhappy any longer.” At that moment how great was
 
-my astonishment at seeing Reginald come out of Lady Susan’s
+my astonishment at seeing Reginald come out of [[Lady Susan]]’s
 
 dressing-room. My heart misgave me instantly. His confusion at seeing
 
@@ -152,15 +152,15 @@ moment?” We went into my room. “I find,” he continued, his confusion
 
 increasing as he spoke, “that I have been acting with my usual foolish
 
-impetuosity. I have entirely misunderstood Lady Susan, and was on the
+impetuosity. I have entirely misunderstood [[Lady Susan]], and was on the
 
-point of leaving the house under a false impression of her conduct.
+point of leaving the [[house]] under a false impression of her conduct.
 
 There has been some very great mistake; we have been all mistaken, I
 
-fancy. Frederica does not know her mother. Lady Susan means nothing but
+fancy. Frederica does not know her mother. [[Lady Susan]] means nothing but
 
-her good, but she will not make a friend of her. Lady Susan does not
+her good, but she will not make a friend of her. [[Lady Susan]] does not
 
 always know, therefore, what will make her daughter happy. Besides, I
 
@@ -168,7 +168,7 @@ could have no right to interfere. Miss Vernon was mistaken in applying
 
 to me. In short, Catherine, everything has gone wrong, but it is now
 
-all happily settled. Lady Susan, I believe, wishes to speak to you
+all happily settled. [[Lady Susan]], I believe, wishes to speak to you
 
 about it, if you are at leisure.” “Certainly,” I replied, deeply
 
@@ -178,7 +178,7 @@ for words would have been vain.
 
 
 
-Reginald was glad to get away, and I went to Lady Susan, curious,
+Reginald was glad to get away, and I went to [[Lady Susan]], curious,
 
 indeed, to hear her account of it. “Did I not tell you,” said she with
 
@@ -202,13 +202,13 @@ dispute, in which I might probably be as much to blame as himself,
 
 should not deprive you of your brother. If you remember, I left the
 
-room almost immediately. I was resolved to lose no time in clearing up
+room almost immediately. I was resolved to lose no [[Time|time]] in clearing up
 
 those mistakes as far as I could. The case was this—Frederica had set
 
 herself violently against marrying Sir James.” “And can your ladyship
 
-wonder that she should?” cried I with some warmth; “Frederica has an
+[[Wonder|wonder]] that she should?” cried I with some warmth; “Frederica has an
 
 excellent understanding, and Sir James has none.” “I am at least very
 

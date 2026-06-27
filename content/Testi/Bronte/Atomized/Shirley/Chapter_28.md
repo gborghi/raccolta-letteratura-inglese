@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28"
+title: "[[Shirley]] — Chapter 28"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,15 +24,15 @@ PHŒBE.
 
 
 
-Shirley probably got on pleasantly with Sir Philip that evening, for the
+[[Shirley]] probably got on pleasantly with Sir Philip that evening, for the
 
 next morning she came down in one of her best moods.
 
 
 
-"Who will take a walk with me?" she asked, after breakfast. "Isabella
+"Who will take a walk with me?" she asked, after breakfast. "[[Isabella]]
 
-and Gertrude, will you?"
+and [[Gertrude]], will you?"
 
 
 
@@ -50,7 +50,7 @@ It did not suit these three young persons to be thrown much together.
 
 Miss Keeldar liked the society of few ladies; indeed, she had a cordial
 
-pleasure in that of none except Mrs. Pryor and Caroline Helstone. She
+pleasure in that of none except Mrs. Pryor and [[Caroline Helstone]]. She
 
 was civil, kind, attentive even to her cousins; but still she usually
 
@@ -68,13 +68,13 @@ spirit glanced along her phrases.
 
 What made her so joyous? All the cause must have been in herself. The
 
-day was not bright. It was dim--a pale, waning autumn day. The walks
+day was not bright. It was dim--a pale, waning [[Autumn|autumn]] day. The walks
 
 through the dun woods were damp; the atmosphere was heavy, the sky
 
-overcast; and yet it seemed that in Shirley's heart lived all the light
+overcast; and yet it seemed that in [[Shirley]]'s heart lived all the light
 
-and azure of Italy, as all its fervour laughed in her gray English eye.
+and azure of [[Italy]], as all its fervour laughed in her gray English eye.
 
 
 
@@ -84,7 +84,7 @@ behind her cousins as they neared Fieldhead on their return. Perhaps an
 
 interval of twenty minutes elapsed between her separation from them and
 
-her re-entrance into the house. In the meantime she had spoken to John,
+her re-entrance into the [[house]]. In the meantime she had spoken to John,
 
 and then she had lingered in the lane at the gate. A summons to
 
@@ -94,7 +94,7 @@ upstairs.
 
 
 
-"Is not Shirley coming to luncheon?" asked Isabella. "She said she was
+"Is not [[Shirley]] coming to luncheon?" asked [[Isabella]]. "She said she was
 
 hungry."
 
@@ -128,7 +128,7 @@ This change, accounted for only by those three words, explained no
 
 otherwise; this change--whencesoever springing, effected in a brief ten
 
-minutes--passed like no light summer cloud. She talked when she joined
+minutes--passed like no light [[Summer|summer]] cloud. She talked when she joined
 
 her friends at dinner, talked as usual. She remained with them during
 
@@ -138,17 +138,17 @@ herself perfectly recovered. It had been a mere passing faintness, a
 
 momentary sensation, not worth a thought; yet it was felt there was a
 
-difference in Shirley.
+difference in [[Shirley]].
 
 
 
 The next day--the day, the week, the fortnight after--this new and
 
-peculiar shadow lingered on the countenance, in the manner of Miss
+peculiar [[Shadow|shadow]] lingered on the countenance, in the manner of Miss
 
 Keeldar. A strange quietude settled over her look, her movements, her
 
-very voice. The alteration was not so marked as to court or permit
+very voice. The alteration was not so marked as to [[Court|court]] or permit
 
 frequent questioning, yet it _was_ there, and it would not pass away. It
 
@@ -194,7 +194,7 @@ on the subject?"
 
 
 
-She peremptorily requested to be let alone.
+She peremptorily requested to be let [[Alone|alone]].
 
 
 
@@ -202,7 +202,7 @@ Then she would make every effort to appear quite gay, and she seemed
 
 indignant at herself that she could not perfectly succeed. Brief
 
-self-spurning epithets burst from her lips when alone. "Fool! coward!"
+[[Self|self]]-spurning epithets burst from her lips when [[Alone|alone]]. "[[Fool]]! coward!"
 
 she would term herself. "Poltroon!" she would say, "if you must tremble,
 
@@ -222,21 +222,21 @@ And to hide them she did her best. She once more became resolutely
 
 lively in company. When weary of effort and forced to relax, she sought
 
-solitude--not the solitude of her chamber (she refused to mope, shut up
+[[Solitude|solitude]]--not the [[Solitude|solitude]] of her chamber (she refused to mope, shut up
 
-between four walls), but that wilder solitude which lies out of doors,
+between four walls), but that wilder [[Solitude|solitude]] which lies out of doors,
 
 and which she could chase, mounted on Zoë, her mare. She took long rides
 
 of half a day. Her uncle disapproved, but he dared not remonstrate. It
 
-was never pleasant to face Shirley's anger, even when she was healthy
+was never pleasant to face [[Shirley]]'s anger, even when she was healthy
 
 and gay; but now that her face showed thin, and her large eye looked
 
 hollow, there was something in the darkening of that face and kindling
 
-of that eye which touched as well as alarmed.
+of that eye which touched as [[Well|well]] as alarmed.
 
 
 
@@ -246,13 +246,13 @@ spirits, commented on the alteration in her looks, she had one reply,--
 
 
 
-"I am perfectly well; I have not an ailment."
+"I am perfectly [[Well|well]]; I have not an ailment."
 
 
 
 And health, indeed, she must have had, to be able to bear the exposure
 
-to the weather she now encountered. Wet or fair, calm or storm, she took
+to the weather she now encountered. Wet or fair, calm or [[Storm|storm]], she took
 
 her daily ride over Stilbro' Moor, Tartar keeping up at her side, with
 
@@ -262,7 +262,7 @@ his wolf-like gallop, long and untiring.
 
 Twice, three times, the eyes of gossips--those eyes which are
 
-everywhere, in the closet and on the hill-top--noticed that instead of
+everywhere, in the closet and on the [[Hill|hill]]-top--noticed that instead of
 
 turning on Rushedge, the top ridge of Stilbro' Moor, she rode forwards
 
@@ -354,7 +354,7 @@ his head, and wept.
 
 
 
-"This distress is not occasioned by physical pain, you say, Harry? You
+"This distress is not occasioned by physical [[Pain|pain]], you say, Harry? You
 
 have a grief; tell it me."
 
@@ -372,7 +372,7 @@ cause? Whom does it concern?"
 
 
 
-"The cause, sir, is Shirley; it concerns Shirley."
+"The cause, sir, is [[Shirley]]; it concerns [[Shirley]]."
 
 
 
@@ -388,11 +388,11 @@ cause? Whom does it concern?"
 
 might repair in a few weeks; besides, her own word must go for
 
-something: she says she is well."
+something: she says she is [[Well|well]]."
 
 
 
-"There it is, sir. As long as she maintained she was well, I believed
+"There it is, sir. As long as she maintained she was [[Well|well]], I believed
 
 her. When I was sad out of her sight, I soon recovered spirits in her
 
@@ -400,9 +400,9 @@ presence. Now----"
 
 
 
-"Well, Harry, now. Has she said anything to you? You and she were
+"[[Well]], Harry, now. Has she said anything to you? You and she were
 
-together in the garden two hours this morning. I saw her talking, and
+together in the [[Garden|garden]] two hours this morning. I saw her talking, and
 
 you listening. Now, my dear Harry, if Miss Keeldar has said she is ill,
 
@@ -456,11 +456,11 @@ provisions."
 
 "'Because,' she said, looking down on me with her beautiful eyes--oh!
 
-they _are_ beautiful, Mr. Moore! I love them! I love her! She is my
+they _are_ beautiful, Mr. Moore! I [[Love|love]] them! I [[Love|love]] her! She is my
 
 star! Heaven must not claim her! She is lovely in this world, and fitted
 
-for this world. Shirley is not an angel; she is a woman, and she shall
+for this world. [[Shirley]] is not an angel; she is a woman, and she shall
 
 live with men. Seraphs shall not have her! Mr. Moore, if one of the
 
@@ -484,19 +484,19 @@ so, though your father would like it. But you,' she said, 'will have his
 
 whole estate, which is large--larger than Fieldhead. Your sisters will
 
-have nothing; so I have left them some money, though I do not love them,
+have nothing; so I have left them some money, though I do not [[Love|love]] them,
 
-both together, half so much as I love one lock of your fair hair.' She
+both together, half so much as I [[Love|love]] one lock of your fair hair.' She
 
 said these words, and she called me her 'darling,' and let me kiss her.
 
-She went on to tell me that she had left Caroline Helstone some money
+She went on to tell me that she had left [[Caroline Helstone]] some money
 
-too; that this manor house, with its furniture and books, she had
+too; that this manor [[house]], with its furniture and books, she had
 
 bequeathed to me, as she did not choose to take the old family place
 
-from her own blood; and that all the rest of her property, amounting to
+from her own [[Blood|blood]]; and that all the rest of her property, amounting to
 
 about twelve thousand pounds, exclusive of the legacies to my sisters
 
@@ -510,13 +510,13 @@ and merciful--a man that might not profess to be pious, but she knew he
 
 had the secret of religion pure and undefiled before God. The spirit of
 
-love and peace was with him. He visited the fatherless and widows in
+[[Love|love]] and peace was with him. He visited the fatherless and widows in
 
 their affliction, and kept himself unspotted from the world. Then she
 
 asked, 'Do you approve what I have done, Harry?' I could not answer. My
 
-tears choked me, as they do now."
+[[Tears|tears]] choked me, as they do now."
 
 
 
@@ -534,9 +534,9 @@ added, 'in case anything should happen, you will know what to say to
 
 Malice when she comes whispering hard things in your ear, insinuating
 
-that Shirley has wronged you, that she did not love you. You will know
+that [[Shirley]] has wronged you, that she did not [[Love|love]] you. You will know
 
-that I _did_ love you, Harry; that no sister could have loved you
+that I _did_ [[Love|love]] you, Harry; that no sister could have loved you
 
 better--my own treasure.' Mr. Moore, sir, when I remember her voice, and
 
@@ -546,11 +546,11 @@ _may_ go to heaven before me--if God commands it, she _must_; but the
 
 rest of my life--and my life will not be long, I am glad of that
 
-now--shall be a straight, quick, thoughtful journey in the path her step
+now--shall be a straight, quick, thoughtful [[Journey|journey]] in the path her step
 
 has pressed. I thought to enter the vault of the Keeldars before her.
 
-Should it be otherwise, lay my coffin by Shirley's side."
+Should it be otherwise, lay my coffin by [[Shirley]]'s side."
 
 
 
@@ -578,7 +578,7 @@ What more did she say? Anything more?"
 
 
 
-"But, Mr. Moore, you smile. _I_ could not smile to see Shirley in such a
+"But, Mr. Moore, you smile. _I_ could not smile to see [[Shirley]] in such a
 
 mood."
 
@@ -602,17 +602,17 @@ matters."
 
 
 
-"Well?"
+"[[Well]]?"
 
 
 
-"Well, sir, that if I lived to inherit my father's estate, and her
+"[[Well]], sir, that if I lived to inherit my father's estate, and her
 
-house, I was to take the name of Keeldar, and to make Fieldhead my
+[[house]], I was to take the name of Keeldar, and to make Fieldhead my
 
-residence. Henry Shirley Keeldar I said I would be called; and I will.
+residence. Henry [[Shirley Keeldar]] I said I would be called; and I will.
 
-Her name and her manor house are ages old, and Sympson and Sympson Grove
+Her name and her manor [[house]] are ages old, and Sympson and Sympson Grove
 
 are of yesterday."
 
@@ -628,7 +628,7 @@ into words."
 
 
 
-"That Shirley thinks she is going to die."
+"That [[Shirley]] thinks she is going to die."
 
 
 
@@ -654,7 +654,7 @@ Amazon, and yet lifting her head above both help and sympathy."
 
 
 
-"Do you know where she is now, Henry? Is she in the house, or riding
+"Do you know where she is now, Henry? Is she in the [[house]], or riding
 
 out?"
 
@@ -738,7 +738,7 @@ lessons."
 
 
 
-He departed. Mr. Moore, left alone, rose from his desk.
+He departed. Mr. Moore, left [[Alone|alone]], [[Rose|rose]] from his desk.
 
 
 
@@ -758,7 +758,7 @@ tyranny, when my tongue faltered, and I have almost let the mantle drop,
 
 and stood in her presence, not master--no--but something else. I trust I
 
-shall never so play the fool. It is well for a Sir Philip Nunnely to
+shall never so play the [[Fool|fool]]. It is [[Well|well]] for a Sir Philip Nunnely to
 
 redden when he meets her eye. He may permit himself the indulgence of
 
@@ -768,7 +768,7 @@ when it touches hers; but if one of her farmers were to show himself
 
 susceptible and sentimental, he would merely prove his need of a strait
 
-waistcoat. So far I have always done very well. She has sat near me, and
+waistcoat. So far I have always done very [[Well|well]]. She has sat near me, and
 
 I have not shaken--more than my desk. I have encountered her looks and
 
@@ -778,7 +778,7 @@ touched--never underwent that test. Her farmer or her footman I am
 
 not--no serf nor servant of hers have I ever been; but I am poor, and it
 
-behoves me to look to my self-respect--not to compromise an inch of it.
+behoves me to look to my [[Self|self]]-respect--not to compromise an inch of it.
 
 What did she mean by that allusion to the cold people who petrify flesh
 
@@ -788,13 +788,13 @@ to inquire. I never do indulge in scrutiny either of her language or
 
 countenance; for if I did, I should sometimes forget common sense and
 
-believe in romance. A strange, secret ecstasy steals through my veins at
+believe in [[Romance|romance]]. A strange, secret ecstasy steals through my veins at
 
 moments. I'll not encourage--I'll not remember it. I am resolved, as
 
 long as may be, to retain the right to say with Paul, 'I am not mad, but
 
-speak forth the words of truth and soberness.'"
+speak forth the words of [[Truth|truth]] and soberness.'"
 
 
 
@@ -804,17 +804,17 @@ He paused, listening.
 
 "Will she come, or will she not come?" he inquired. "How will she take
 
-the message? Naïvely or disdainfully? Like a child or like a queen? Both
+the message? Naïvely or disdainfully? Like a [[Child|child]] or like a [[Queen|queen]]? Both
 
-characters are in her nature.
+characters are in her [[Nature|nature]].
 
 
 
 "If she comes, what shall I say to her? How account, firstly, for the
 
-freedom of the request? Shall I apologize to her? I could in all
+[[Freedom|freedom]] of the request? Shall I apologize to her? I could in all
 
-humility; but would an apology tend to place us in the positions we
+[[Humility|humility]]; but would an apology tend to place us in the positions we
 
 ought relatively to occupy in this matter? I _must_ keep up the
 
@@ -832,9 +832,9 @@ petition is presumption in her eyes. Let her _only_ come, I can teach
 
 her to the contrary. I would rather she were a little perverse; it will
 
-steel me. I prefer her cuirassed in pride, armed with a taunt. Her scorn
+steel me. I prefer her cuirassed in [[Pride|pride]], armed with a taunt. Her scorn
 
-startles me from my dreams; I stand up myself. A sarcasm from her eyes
+startles me from my [[Dreams|dreams]]; I stand up myself. A sarcasm from her eyes
 
 or lips puts strength into every nerve and sinew I have. Some step
 
@@ -882,7 +882,7 @@ She waited; she plied her needle.
 
 
 
-"Well, sir" (not lifting her eyes), "what about?"
+"[[Well]], sir" (not lifting her eyes), "what about?"
 
 
 
@@ -900,7 +900,7 @@ of your health I would speak."
 
 
 
-"I am quite well," she said briefly.
+"I am quite [[Well|well]]," she said briefly.
 
 
 
@@ -926,7 +926,7 @@ Latin grammar, and let us proclaim a truce to all sanitary discussions."
 
 
 
-"No, no. It is time there were discussions."
+"No, no. It is [[Time|time]] there were discussions."
 
 
 
@@ -942,19 +942,19 @@ untrue?"
 
 
 
-"I say I am well. I have neither cough, pain, nor fever."
+"I say I am [[Well|well]]. I have neither cough, [[Pain|pain]], nor fever."
 
 
 
-"Is there no equivocation in that assertion? Is it the direct truth?"
+"Is there no equivocation in that assertion? Is it the direct [[Truth|truth]]?"
 
 
 
-"The direct truth."
+"The direct [[Truth|truth]]."
 
 
 
-Louis Moore looked at her earnestly.
+[[Louis Moore]] looked at her earnestly.
 
 
 
@@ -976,7 +976,7 @@ why, then, are you altered?"
 
 
 
-"I ask, in the first place, do you sleep as you used to?"
+"I ask, in the first place, do you [[Sleep|sleep]] as you used to?"
 
 
 
@@ -996,7 +996,7 @@ why, then, are you altered?"
 
 mother's, and is too small to pass the joint of my little finger. You
 
-have many a time sportively purloined it. It fitted your fore-finger.
+have many a [[Time|time]] sportively purloined it. It fitted your fore-finger.
 
 Try now."
 
@@ -1006,11 +1006,11 @@ She permitted the test. The ring dropped from the wasted little hand.
 
 Louis picked it up, and reattached it to the chain. An uneasy flush
 
-coloured his brow. Shirley again said, "It is not because I am ill."
+coloured his brow. [[Shirley]] again said, "It is not because I am ill."
 
 
 
-"Not only have you lost sleep, appetite, and flesh," proceeded Moore,
+"Not only have you lost [[Sleep|sleep]], appetite, and flesh," proceeded Moore,
 
 "but your spirits are always at ebb. Besides, there is a nervous alarm
 
@@ -1034,7 +1034,7 @@ cause. Let me reach it. Let me look nearer. The ailment is not physical.
 
 I have suspected that. It came in one moment. I know the day. I noticed
 
-the change. Your pain is mental."
+the change. Your [[Pain|pain]] is mental."
 
 
 
@@ -1048,13 +1048,13 @@ topic."
 
 communicated, that they may be dissipated. I wish I had the gift of
 
-persuasion, and could incline you to speak willingly. I believe
+[[Persuasion|persuasion]], and could incline you to speak willingly. I believe
 
 confession, in your case, would be half equivalent to cure."
 
 
 
-"No," said Shirley abruptly. "I wish that were at all probable; but I am
+"No," said [[Shirley]] abruptly. "I wish that were at all probable; but I am
 
 afraid it is not."
 
@@ -1076,11 +1076,11 @@ The tutor allowed her some minutes for repose and reflection ere he
 
 returned to the charge. Once his lips moved to speak, but he thought
 
-better of it, and prolonged the pause. Shirley lifted her eye to his.
+better of it, and prolonged the pause. [[Shirley]] lifted her eye to his.
 
 Had he betrayed injudicious emotion, perhaps obstinate persistence in
 
-silence would have been the result; but he looked calm, strong,
+[[Silence|silence]] would have been the result; but he looked calm, strong,
 
 trustworthy.
 
@@ -1138,13 +1138,13 @@ Moore, though tortured with suspense, did not demand a quick
 
 explanation. He suffered neither gesture, glance, nor word to betray
 
-impatience. His tranquillity tranquillized Shirley; his confidence
+impatience. His tranquillity tranquillized [[Shirley]]; his confidence
 
 reassured her.
 
 
 
-"Great effects may spring from trivial causes," she remarked, as she
+"Great effects may [[Spring|spring]] from trivial causes," she remarked, as she
 
 loosened a bracelet from her wrist. Then, unfastening her sleeve, and
 
@@ -1164,13 +1164,13 @@ take it quietly."
 
 
 
-"Certainly there is nothing in the little mark to shock. Its history
+"Certainly there is nothing in the little mark to shock. Its [[history]]
 
 will explain."
 
 
 
-"Small as it is, it has taken my sleep away, and made me nervous, thin,
+"Small as it is, it has taken my [[Sleep|sleep]] away, and made me nervous, thin,
 
 and foolish; because, on account of that little mark, I am obliged to
 
@@ -1190,7 +1190,7 @@ man, but my pulse is quickening."
 
 "Whatever happens, you will befriend me, Mr. Moore? You will give me the
 
-benefit of your self-possession, and not leave me at the mercy of
+benefit of your [[Self|self]]-possession, and not leave me at the [[Mercy|mercy]] of
 
 agitated cowards?"
 
@@ -1202,9 +1202,9 @@ will."
 
 
 
-"It is a very short tale. I took a walk with Isabella and Gertrude one
+"It is a very short tale. I took a walk with [[Isabella]] and [[Gertrude]] one
 
-day, about three weeks ago. They reached home before me; I stayed behind
+day, about three weeks ago. They reached [[Home|home]] before me; I stayed behind
 
 to speak to John. After leaving him, I pleased myself with lingering in
 
@@ -1228,19 +1228,19 @@ parenthetically.
 
 "I heard a panting sound; a dog came running up the lane. I know most of
 
-the dogs in this neighbourhood. It was Phœbe, one of Mr. Sam Wynne's
+the [[dogs]] in this neighbourhood. It was Phœbe, one of Mr. Sam Wynne's
 
 pointers. The poor creature ran with her head down, her tongue hanging
 
 out; she looked as if bruised and beaten all over. I called her. I meant
 
-to coax her into the house and give her some water and dinner. I felt
+to coax her into the [[house]] and give her some [[Water|water]] and dinner. I felt
 
 sure she had been ill-used. Mr. Sam often flogs his pointers cruelly.
 
 She was too flurried to know me; and when I attempted to pat her head,
 
-she turned and snatched at my arm. She bit it so as to draw blood, then
+she turned and snatched at my arm. She bit it so as to draw [[Blood|blood]], then
 
 ran panting on. Directly after, Mr. Wynne's keeper came up, carrying a
 
@@ -1250,7 +1250,7 @@ gun. He asked if I had seen a dog. I told him I had seen Phœbe.
 
 "'You had better chain up Tartar, ma'am,' he said, 'and tell your people
 
-to keep within the house. I am after Phœbe to shoot her, and the groom
+to keep within the [[house]]. I am after Phœbe to shoot her, and the groom
 
 is gone another way. She is raging mad.'"
 
@@ -1270,7 +1270,7 @@ me?"
 
 
 
-"I got as far as the schoolroom door; there my courage failed. I
+"I got as far as the schoolroom door; there my [[Courage|courage]] failed. I
 
 preferred to cushion the matter."
 
@@ -1290,11 +1290,11 @@ preferred to cushion the matter."
 
 "Yes. I walked straight into the laundry, where they are ironing most of
 
-the week, now that I have so many guests in the house. While the maid
+the week, now that I have so many guests in the [[house]]. While the maid
 
-was busy crimping or starching, I took an Italian iron from the fire,
+was busy crimping or starching, I took an Italian iron from the [[Fire|fire]],
 
-and applied the light scarlet glowing tip to my arm. I bored it well
+and applied the light scarlet glowing tip to my arm. I bored it [[Well|well]]
 
 in. It cauterized the little wound. Then I went upstairs."
 
@@ -1310,7 +1310,7 @@ all, I think. There was no calm in my mind."
 
 
 
-"There was calm in your person. I remember listening the whole time we
+"There was calm in your person. I remember listening the whole [[Time|time]] we
 
 sat at luncheon, to hear if you moved in the room above. All was quiet."
 
@@ -1322,7 +1322,7 @@ me."
 
 
 
-"And alone. You like solitude."
+"And [[Alone|alone]]. You like [[Solitude|solitude]]."
 
 
 
@@ -1380,7 +1380,7 @@ voice, "how is it, then?"
 
 "Because nobody can give the high price you require for your confidence.
 
-Nobody is rich enough to purchase it. Nobody has the honour, the
+Nobody is rich enough to purchase it. Nobody has the [[Honour|honour]], the
 
 intellect, the power you demand in your adviser. There is not a shoulder
 
@@ -1388,13 +1388,13 @@ in England on which you would rest your hand for support, far less a
 
 bosom which you would permit to pillow your head. Of course you must
 
-live alone."
+live [[Alone|alone]]."
 
 
 
-"I _can_ live alone, if need be. But the question is not how to live,
+"I _can_ live [[Alone|alone]], if need be. But the question is not how to live,
 
-but how to die alone. That strikes me in a more grisly light."
+but how to die [[Alone|alone]]. That strikes me in a more grisly light."
 
 
 
@@ -1430,7 +1430,7 @@ sweet."
 
 
 
-"How can it be otherwise than sweet with your endowments and nature? Do
+"How can it be otherwise than sweet with your endowments and [[Nature|nature]]? Do
 
 you truly expect that you will be seized with hydrophobia, and die
 
@@ -1438,13 +1438,13 @@ raving mad?"
 
 
 
-"I _expect_ it, and have _feared_ it. Just now I fear nothing."
+"I _expect_ it, and have _feared_ it. Just now I [[Fear|fear]] nothing."
 
 
 
-"Nor do I, on your account. I doubt whether the smallest particle of
+"Nor do I, on your account. I [[Doubt|doubt]] whether the smallest particle of
 
-virus mingled with your blood; and if it did, let me assure you that,
+virus mingled with your [[Blood|blood]]; and if it did, let me assure you that,
 
 young, healthy, faultlessly sound as you are, no harm will ensue. For
 
@@ -1462,7 +1462,7 @@ not mad."
 
 penknife? Make yourself easy. _I_ am easy, though I value your life as
 
-much as I do my own chance of happiness in eternity. Look up."
+much as I do my own chance of happiness in [[Eternity|eternity]]. Look up."
 
 
 
@@ -1482,7 +1482,7 @@ much as I do my own chance of happiness in eternity. Look up."
 
 
 
-"I fear nothing."
+"I [[Fear|fear]] nothing."
 
 
 
@@ -1504,9 +1504,9 @@ smother me. You need not smile. They will; they always do. My uncle will
 
 be full of horror, weakness, precipitation; and that is the only
 
-expedient which will suggest itself to him. Nobody in the house will be
+expedient which will suggest itself to him. Nobody in the [[house]] will be
 
-self-possessed but you. Now promise to befriend me--to keep Mr. Sympson
+[[Self|self]]-possessed but you. Now promise to befriend me--to keep Mr. Sympson
 
 away from me, not to let Henry come near, lest I should hurt him.
 
@@ -1528,7 +1528,7 @@ _Promise to do this._"
 
 Moore left his desk, and permitted himself the recreation of one or two
 
-turns through the room. Stopping behind Shirley's chair, he bent over
+turns through the room. Stopping behind [[Shirley]]'s chair, he bent over
 
 her, and said, in a low, emphatic voice, "I promise all you ask--without
 
@@ -1546,7 +1546,7 @@ not defraud me of a pin. Confidence has made her honest; forbearance has
 
 made her kind-hearted. At this day I can trust both her integrity, her
 
-courage, and her affection. Call her; but keep my good aunt and my timid
+[[Courage|courage]], and her affection. Call her; but keep my good aunt and my timid
 
 cousins away. Once more, promise."
 
@@ -1594,13 +1594,13 @@ meddle."
 
 
 
-"In fact, I am neither so strong, nor have I such pride in my strength,
+"In fact, I am neither so strong, nor have I such [[Pride|pride]] in my strength,
 
 as people think, Mr. Moore; nor am I so regardless of sympathy. But when
 
-I have any grief, I fear to impart it to those I love, lest it should
+I have any grief, I [[Fear|fear]] to impart it to those I [[Love|love]], lest it should
 
-pain them; and to those whom I view with indifference I cannot
+[[Pain|pain]] them; and to those whom I view with indifference I cannot
 
 condescend to complain. After all, you should not taunt me with being
 
@@ -1618,7 +1618,7 @@ weeks, you too would want some friend."
 
 
 
-"Well, you have Caroline Helstone."
+"[[Well]], you have [[Caroline Helstone]]."
 
 
 
@@ -1652,7 +1652,7 @@ than she is to her own sons. You have, besides, your sister Hortense."
 
 
 
-"It appears we are both well provided."
+"It appears we are both [[Well|well]] provided."
 
 
 
@@ -1690,7 +1690,7 @@ Still leaning on the back of Miss Keeldar's chair, Moore watched the
 
 rapid motion of her fingers, as the green and purple garland grew
 
-beneath them. After a prolonged pause, he again asked, "Is the shadow
+beneath them. After a prolonged pause, he again asked, "Is the [[Shadow|shadow]]
 
 _quite_ gone?"
 
@@ -1700,11 +1700,11 @@ _quite_ gone?"
 
 different states of existence. I believe, Mr. Moore, griefs and fears
 
-nursed in silence grow like Titan infants."
+nursed in [[Silence|silence]] grow like Titan infants."
 
 
 
-"You will cherish such feelings no more in silence?"
+"You will cherish such feelings no more in [[Silence|silence]]?"
 
 
 
@@ -1744,7 +1744,7 @@ nursed in silence grow like Titan infants."
 
 
 
-"Perhaps, because I am poor, for one reason. Poverty and pride often go
+"Perhaps, because I am poor, for one reason. [[Poverty]] and [[Pride|pride]] often go
 
 together."
 
@@ -1756,7 +1756,7 @@ that would pair with it. Mate that turtle, Mr. Moore."
 
 
 
-"Immediately. What do you think of marrying to sober Poverty many-tinted
+"Immediately. What do you think of marrying to sober [[Poverty]] many-tinted
 
 Caprice?"
 
@@ -1782,11 +1782,11 @@ of life. An hour afterwards I look again: half the arch is gone, and the
 
 rest is faded. Still later, the stern sky denies that it ever wore so
 
-benign a symbol of hope."
+benign a symbol of [[Hope|hope]]."
 
 
 
-"Well, Mr. Moore, you should contend against these changeful humours.
+"[[Well]], Mr. Moore, you should contend against these changeful humours.
 
 They are your besetting sin. One never knows where to have you."
 
@@ -1796,7 +1796,7 @@ They are your besetting sin. One never knows where to have you."
 
 me. Henry is dear, but she was dearer. Henry never gives me trouble;
 
-she--well, she did. I think she vexed me twenty-three hours out of the
+she--[[Well|well]], she did. I think she vexed me twenty-three hours out of the
 
 twenty-four----"
 
@@ -1804,7 +1804,7 @@ twenty-four----"
 
 "She was never with you above three hours, or at the most six at a
 
-time."
+[[Time|time]]."
 
 
 
@@ -1822,15 +1822,15 @@ creature comforts)----"
 
 "I know you do. I can tell what sort of dinners you like best--perfectly
 
-well. I know precisely the dishes you prefer----"
+[[Well|well]]. I know precisely the dishes you prefer----"
 
 
 
-"She robbed these dishes of flavour, and made a fool of me besides. I
+"She robbed these dishes of flavour, and made a [[Fool|fool]] of me besides. I
 
-like to sleep well. In my quiet days, when I was my own man, I never
+like to [[Sleep|sleep]] [[Well|well]]. In my quiet days, when I was my own man, I never
 
-quarrelled with the night for being long, nor cursed my bed for its
+quarrelled with the [[Night|night]] for being long, nor cursed my bed for its
 
 thorns. She changed all this."
 
@@ -1844,7 +1844,7 @@ thorns. She changed all this."
 
 me herself--quite coolly, just as if, when she was gone, the world would
 
-be all the same to me. I knew I should see her again at some time. At
+be all the same to me. I knew I should see her again at some [[Time|time]]. At
 
 the end of two years, it fell out that we encountered again under her
 
@@ -1854,7 +1854,7 @@ towards me, Miss Keeldar?"
 
 
 
-"Like one who had profited well by lessons learned from yourself."
+"Like one who had profited [[Well|well]] by lessons learned from yourself."
 
 
 
@@ -1874,7 +1874,7 @@ improvement on your own coolness."
 
 
 
-"Conscience, and honour, and the most despotic necessity dragged me
+"[[Conscience]], and [[Honour|honour]], and the most despotic necessity dragged me
 
 apart from her, and kept me sundered with ponderous fetters. She was
 
@@ -1882,7 +1882,7 @@ free: she might have been clement."
 
 
 
-"Never free to compromise her self-respect, to seek where she had been
+"Never free to compromise her [[Self|self]]-respect, to seek where she had been
 
 shunned."
 
@@ -1910,7 +1910,7 @@ get a notion into her head, on a cold, wet day, that the schoolroom was
 
 no cheerful place, and feel it incumbent on her to go and see if you and
 
-Henry kept up a good fire; and once there, she liked to stay."
+Henry kept up a good [[Fire|fire]]; and once there, she liked to stay."
 
 
 
@@ -1932,21 +1932,21 @@ oftener."
 
 
 
-"I am not mad, most noble Berenice! We may give one day to dreaming, but
+"I am not mad, most noble [[Berenice]]! We may give one day to dreaming, but
 
 the next we must awake; and I shall awake to purpose the morning you are
 
-married to Sir Philip Nunnely. The fire shines on you and me, and shows
+married to Sir Philip Nunnely. The [[Fire|fire]] shines on you and me, and shows
 
 us very clearly in the glass, Miss Keeldar; and I have been gazing on
 
-the picture all the time I have been talking. Look up! What a difference
+the picture all the [[Time|time]] I have been talking. Look up! What a difference
 
 between your head and mine! I look old for thirty!"
 
 
 
-"You are so grave; you have such a square brow; and your face is sallow.
+"You are so [[Grave|grave]]; you have such a square brow; and your face is sallow.
 
 I never regard you as a young man, nor as Robert's junior."
 
@@ -1962,7 +1962,7 @@ expecting that wire to vibrate this last half-hour."
 
 
 
-The dinner-bell rang, and Shirley rose.
+The dinner-bell rang, and [[Shirley]] [[Rose|rose]].
 
 
 
@@ -1976,13 +1976,13 @@ so long? Does he talk of returning?"
 
 "He talks of returning; but what has caused his long absence I cannot
 
-tell. To speak the truth, I thought none in Yorkshire knew better than
+tell. To speak the [[Truth|truth]], I thought none in Yorkshire knew better than
 
-yourself why he was reluctant to come home."
+yourself why he was reluctant to come [[Home|home]]."
 
 
 
-A crimson shadow passed across Miss Keeldar's cheek.
+A crimson [[Shadow|shadow]] passed across Miss Keeldar's cheek.
 
 
 
@@ -2002,9 +2002,9 @@ countenance, or _tried_ to read it. He turned from me. I divined that he
 
 would be long away. Some fine, slight fingers have a wondrous knack at
 
-pulverizing a man's brittle pride. I suppose Robert put too much trust
+pulverizing a man's brittle [[Pride|pride]]. I suppose Robert put too much trust
 
-in his manly beauty and native gentlemanhood. Those are better off who,
+in his manly [[Beauty|beauty]] and native gentlemanhood. Those are better off who,
 
 being destitute of advantage, cannot cherish delusion. But I will write,
 

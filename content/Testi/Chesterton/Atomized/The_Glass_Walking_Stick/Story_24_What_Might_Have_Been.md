@@ -29,9 +29,9 @@ By the things that never happened, I mean the things
 that nearly happened.  I do not mean fables or romances
 or legends that are obviously legendary.  I mean the things
 that might have been, but which for some reason could not be.
-I mean the alternative history of England or France or Rome.
+I mean the alternative [[history]] of England or France or Rome.
 Now the provincial person, even when he is a provincial
-professor, lives in a prison of what really happened.
+professor, lives in a [[Prison|prison]] of what really happened.
 He may be prodigiously learned about what really happened;
 but because of his dense and disgusting ignorance on
 the subject of what never happened, he is doomed always
@@ -43,7 +43,7 @@ an English patriot; for loyalty and affection naturally
 belong to the department of the thing that really exists.
 But the English professor is often much more than an
 English patriot.  The English professor is an English prisoner;
-the walls of the national castle, when once it has been built,
+the walls of the national [[Castle|castle]], when once it has been built,
 shut off from him altogether the wide plains of the world,
 in which other things might have been built.
 
@@ -51,8 +51,8 @@ Thus we hear a great deal of discussion for and against the Middle Ages.
 One fact, which is not especially for or against, must surely be
 obvious to anybody who knows anything at all about the Middle Ages.
 And that is that one of the things that nearly happened was a single,
-solid United Kingdom of Anglo-France. From the time when the first Norman
-soldier disembarked before Hastings, to the time when the last English
+solid United Kingdom of Anglo-France. From the [[Time|time]] when the first Norman
+soldier disembarked before [[Hastings]], to the [[Time|time]] when the last English
 soldier marched out of Calais, it appeared a perfectly natural thing
 to thousands of people that the two nations might be one nation.
 At this moment the two nations are rather less like one nation than
@@ -60,18 +60,18 @@ any two nations of the world.  Most English internationalists seem
 to interpret universal brotherhood as the duty of loving Humanity and
 hating France.  I, not being an English internationalist (thank God),
 am very fond of France and the French.  I am capable of loving foreigners;
-but I love the French as the most foreign of all foreigners.
+but I [[Love|love]] the French as the most foreign of all foreigners.
 The sharp and abrupt difference between the English and the French
-is rather more obvious to those who really love the French than to
+is rather more obvious to those who really [[Love|love]] the French than to
 those who only stupidly hate them.
 
 The educated English all talked and thought in French almost
-down to the time of Agincourt; and even after Agincourt whole
+down to the [[Time|time]] of Agincourt; and even after Agincourt whole
 sections of the French supported the attempt of the English
 to unite the two crowns by conquest.  The other spirit was
-already in the field, and I doubt not it was the better spirit;
-the spirit of St Joan that was like a flaming sword;
-the sword of an angel but a sword that smote asunder.
+already in the field, and I [[Doubt|doubt]] not it was the better spirit;
+the spirit of St Joan that was like a flaming [[Sword|sword]];
+the [[Sword|sword]] of an angel but a [[Sword|sword]] that smote asunder.
 I, for one, am national and rejoice that the nations were born.
 But a man is not merely national, but also narrow, if he cannot
 realize that something larger and more imperial might have
@@ -79,7 +79,7 @@ been born; a great Western State that would have been no
 more French than English, and no more English than French.
 It might have made all sorts of extraordinary differences
 to the subsequent story of mankind; and heaven knows what would
-have happened to the Puritans and the French Revolution and
+have happened to the Puritans and the [[French Revolution]] and
 the British Empire, and all sorts of things to which we pay
 such solemn respect merely because they have managed to happen.
 It is a good thing, every now and then, to turn from them
@@ -99,34 +99,34 @@ And that is why the ordinary Englishman who speculates about Waterloo
 has hardly ever heard of Wattignies.
 
 Now these speculations affect one aspect of a current controversy:
-the perpetual debate in the newspapers about Progress and
+the perpetual [[debate]] in the newspapers about Progress and
 Decadence or the Decline of the West.  One class of popular
 writers are perpetually telling us that the world has always
 been growing better and better; others, rather less popular,
-that it has for some time been growing steadily worse.
+that it has for some [[Time|time]] been growing steadily worse.
 Personally, I cannot understand anybody thinking it has ever
 grown steadily anything.  If Humanism was an advance, I cannot
 see how Calvinism can have been an advance on that advance.
 If the crowds rushing to the Amphitheatre were rushing in the
-right direction, the hermits rushing to the desert cannot have been
+right direction, the hermits rushing to the [[Desert|desert]] cannot have been
 rushing in the same direction.  But, anyhow, in this dispute,
 the disputants generally compare some old cause with some
 new cause, or some hypothetical good old times with some equally
 hypothetical good new times.  But the general impression
-which history produces on my own mind is neither of these.
+which [[history]] produces on my own mind is neither of these.
 In most cases, it seems to me, the right thing was not the thing
 that ruled and not the thing that rebelled, but a third thing
-that was never quite strong enough either to rebel or rule.
-The thing that haunts the historical imagination most, I think,
-is not Atlantis or Utopia, not the Golden Age or the New Jerusalem,
-not the Good Old Days or the Good Time Coming, but the gold that
-men missed or rejected and the good time that might have come.
+that was never quite strong enough either to [[Rebel|rebel]] or rule.
+The thing that haunts the historical [[Imagination|imagination]] most, I think,
+is not Atlantis or Utopia, not the [[Golden Age]] or the New Jerusalem,
+not the Good Old Days or the Good [[Time]] Coming, but the gold that
+men missed or rejected and the good [[Time|time]] that might have come.
 
 Whether or no the world is travelling towards the right goal,
 it seems to me to have almost invariably taken the wrong turning.
 Whether or no it is now rather nearer to it, I am sure it has come
 nearer by a vast needless detour, and missed any number of short
-cuts that were much nearer.  I doubt if any thinking person,
+cuts that were much nearer.  I [[Doubt|doubt]] if any thinking person,
 of any belief or unbelief, does not wish in his heart that the end
 of medievalism had meant the triumph of the Humanists like Erasmus
 and More, rather than of the rabid Puritans like Calvin and Knox.

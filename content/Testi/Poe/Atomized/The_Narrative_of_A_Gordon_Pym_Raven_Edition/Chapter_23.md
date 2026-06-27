@@ -22,15 +22,15 @@ CHAPTER 23
 
       During the six or seven days immediately following we remained in
 
-      our hiding-place upon the hill, going out only occasionally, and
+      our hiding-place upon the [[Hill|hill]], going out only occasionally, and
 
-      then with the greatest precaution, for water and filberts. We had
+      then with the greatest precaution, for [[Water|water]] and filberts. We had
 
       made a kind of penthouse on the platform, furnishing it with a
 
-      bed of dry leaves, and placing in it three large flat stones,
+      bed of dry [[Leaves|leaves]], and placing in it three large flat stones,
 
-      which served us for both fireplace and table. We kindled a fire
+      which served us for both fireplace and table. We kindled a [[Fire|fire]]
 
       without difficulty by rubbing two pieces of dry wood together,
 
@@ -62,7 +62,7 @@ CHAPTER 23
 
       in, with violent headache. We had seen several large tortoises
 
-      near the seashore to the eastward of the hill, and perceived they
+      near the seashore to the eastward of the [[Hill|hill]], and perceived they
 
       might be easily taken, if we could get at them without the
 
@@ -98,13 +98,13 @@ CHAPTER 23
 
       necks, we discovered that we had merely descended into a vast pit
 
-      of black granite, with fine dust at the bottom, and whence the
+      of black granite, with fine [[Dust|dust]] at the [[Bottom|bottom]], and whence the
 
       only egress was by the rugged path in which we had come down.
 
       Toiling again up this path, we now tried the northern edge of the
 
-      hill. Here we were obliged to use the greatest possible caution
+      [[Hill|hill]]. Here we were obliged to use the greatest possible caution
 
       in our maneuvers, as the least indiscretion would expose us to
 
@@ -128,13 +128,13 @@ CHAPTER 23
 
       way back to the platform, and throwing ourselves upon the bed of
 
-      leaves, slept sweetly and soundly for some hours.
+      [[Leaves|leaves]], slept sweetly and soundly for some hours.
 
 
 
       For several days after this fruitless search we were occupied in
 
-      exploring every part of the summit of the hill, in order to
+      exploring every part of the summit of the [[Hill|hill]], in order to
 
       inform ourselves of its actual resources. We found that it would
 
@@ -152,7 +152,7 @@ CHAPTER 23
 
       lamentable. {*5} On the sixteenth we again went round the walls
 
-      of our prison, in hope of finding some avenue of escape; but to
+      of our [[Prison|prison]], in [[Hope|hope]] of finding some avenue of escape; but to
 
       no purpose. We also descended the chasm in which we had been
 
@@ -178,7 +178,7 @@ CHAPTER 23
 
 
 
-      We found no great difficulty in reaching the bottom of the hollow
+      We found no great difficulty in reaching the [[Bottom|bottom]] of the hollow
 
       as before, and were now sufficiently calm to survey it with some
 
@@ -186,7 +186,7 @@ CHAPTER 23
 
       places imaginable, and we could scarcely bring ourselves to
 
-      believe it altogether the work of nature. The pit, from its
+      believe it altogether the work of [[Nature|nature]]. The pit, from its
 
       eastern to its western extremity, was about five hundred yards in
 
@@ -198,11 +198,11 @@ CHAPTER 23
 
       yards. Upon first descending into the chasm, that is to say, for
 
-      a hundred feet downward from the summit of the hill, the sides of
+      a hundred feet downward from the summit of the [[Hill|hill]], the sides of
 
       the abyss bore little resemblance to each other, and, apparently,
 
-      had at no time been connected, the one surface being of the
+      had at no [[Time|time]] been connected, the one surface being of the
 
       soapstone, and the other of marl, granulated with some metallic
 
@@ -218,7 +218,7 @@ CHAPTER 23
 
       still dissimilar in their material and form of surface. Upon
 
-      arriving within fifty feet of the bottom, a perfect regularity
+      arriving within fifty feet of the [[Bottom|bottom]], a perfect regularity
 
       commenced. The sides were now entirely uniform in substance, in
 
@@ -248,7 +248,7 @@ CHAPTER 23
 
       there were several, each cavity having a corresponding
 
-      protuberance opposite. The bottom of the gulf was covered to the
+      protuberance opposite. The [[Bottom|bottom]] of the gulf was covered to the
 
       depth of three or four inches with a powder almost impalpable,
 
@@ -272,7 +272,7 @@ CHAPTER 23
 
       for about thirty feet, and found that the aperture was a low and
 
-      regularly formed arch, having a bottom of the same impalpable
+      regularly formed arch, having a [[Bottom|bottom]] of the same impalpable
 
       powder as that in the main chasm. A strong light now broke upon
 
@@ -320,7 +320,7 @@ CHAPTER 23
 
       surface of the marl forming the termination of the _cul-de-sac_.
 
-      With a very slight exertion of the imagination, the left, or most
+      With a very slight exertion of the [[Imagination|imagination]], the left, or most
 
       northern of these indentures might have been taken for the
 
@@ -344,15 +344,15 @@ CHAPTER 23
 
       projecting points exactly fitting the indentures; thus proving
 
-      them to have been the work of nature.
+      them to have been the work of [[Nature|nature]].
 
 
 
       After satisfying ourselves that these singular caverns afforded
 
-      us no means of escape from our prison, we made our way back,
+      us no means of escape from our [[Prison|prison]], we made our way back,
 
-      dejected and dispirited, to the summit of the hill. Nothing worth
+      dejected and dispirited, to the summit of the [[Hill|hill]]. Nothing worth
 
       mentioning occurred during the next twenty-four hours, except
 
@@ -366,6 +366,6 @@ CHAPTER 23
 
       wells, without outlet. They were each about twenty yards in
 
-      circumference, and their shape, as well as relative position in
+      circumference, and their shape, as [[Well|well]] as relative position in
 
       regard to the third chasm, is shown in figure 5. {image}

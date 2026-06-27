@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 1: INTRODUCTORY (part 2)"
+title: "[[The Professor]] — Chapter 1: INTRODUCTORY (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,17 +16,17 @@ tags:
 
 Seacombe, and some reproach to me for living, as he said, on the bounty
 
-of that house. At first, while still in boyhood, I could not understand
+of that [[house]]. At first, while still in boyhood, I could not understand
 
 why, as I had no parents, I should not be indebted to my uncles Tynedale
 
-and Seacombe for my education; but as I grew up, and heard by degrees of
+and Seacombe for my [[Education|education]]; but as I grew up, and heard by degrees of
 
-the persevering hostility, the hatred till death evinced by them against
+the persevering hostility, the hatred till [[Death|death]] evinced by them against
 
 my father--of the sufferings of my mother--of all the wrongs, in short,
 
-of our house--then did I conceive shame of the dependence in which I
+of our [[house]]--then did I conceive shame of the dependence in which I
 
 lived, and form a resolution no more to take bread from hands which had
 
@@ -34,7 +34,7 @@ refused to minister to the necessities of my dying mother. It was by
 
 these feelings I was influenced when I refused the Rectory of Seacombe,
 
-and the union with one of my patrician cousins.
+and the [[Union|union]] with one of my patrician cousins.
 
 
 
@@ -76,11 +76,11 @@ habitation designated to me as my brother’s. As I advanced up the
 
 avenue, I could see through the shades of twilight, and the dark gloomy
 
-mists which deepened those shades, that the house was large, and the
+mists which deepened those shades, that the [[house]] was large, and the
 
 grounds surrounding it sufficiently spacious. I paused a moment on the
 
-lawn in front, and leaning my back against a tall tree which rose in the
+lawn in front, and leaning my back against a tall tree which [[Rose|rose]] in the
 
 centre, I gazed with interest on the exterior of Crimsworth Hall.
 
@@ -88,7 +88,7 @@ centre, I gazed with interest on the exterior of Crimsworth Hall.
 
 “Edward is rich,” thought I to myself. ‘I believed him to be doing
 
-well--but I did not know he was master of a mansion like this.’ Cutting
+[[Well|well]]--but I did not know he was master of a mansion like this.’ Cutting
 
 short all marvelling; speculation, conjecture, &c., I advanced to the
 
@@ -96,11 +96,11 @@ front door and rang. A man-servant opened it--I announced myself--he
 
 relieved me of my wet cloak and carpet-bag, and ushered me into a
 
-room furnished as a library, where there was a bright fire and candles
+room furnished as a library, where there was a bright [[Fire|fire]] and candles
 
 burning on the table; he informed me that his master was not yet
 
-returned from X----market, but that he would certainly be at home in the
+returned from X----market, but that he would certainly be at [[Home|home]] in the
 
 course of half an hour.
 
@@ -142,27 +142,27 @@ Edward’s indifference would equal the cold disdain I had always
 
 experienced from them, I heard the avenue gates open: wheels approached
 
-the house; Mr. Crimsworth was arrived; and after the lapse of some
+the [[house]]; Mr. Crimsworth was arrived; and after the lapse of some
 
 minutes, and a brief dialogue between himself and his servant in the
 
-hall, his tread drew near the library door--that tread alone announced
+hall, his tread drew near the library door--that tread [[Alone|alone]] announced
 
-the master of the house.
+the master of the [[house]].
 
 
 
 “I still retained some confused recollection of Edward as he was ten
 
-years ago--a tall, wiry, raw youth; NOW, as I rose from my seat and
+years ago--a tall, wiry, raw youth; NOW, as I [[Rose|rose]] from my seat and
 
 turned towards the library door, I saw a fine-looking and powerful man,
 
-light-complexioned, well-made, and of athletic proportions; the first
+light-complexioned, [[Well|well]]-made, and of athletic proportions; the first
 
 glance made me aware of an air of promptitude and sharpness, shown
 
-as well in his movements as in his port, his eye, and the general
+as [[Well|well]] in his movements as in his port, his eye, and the general
 
 expression of his face. He greeted me with brevity, and, in the moment
 
@@ -172,7 +172,7 @@ morocco covered arm-chair, and motioned me to another seat.
 
 
 
-“‘I expected you would have called at the counting-house in the Close,’
+“‘I expected you would have called at the counting-[[house]] in the Close,’
 
 said he; and his voice, I noticed, had an abrupt accent, probably
 
@@ -194,15 +194,15 @@ aware that you had such a residence as this.’
 
 “‘Oh, it is all right!’ he replied, ‘only I was kept half an hour behind
 
-time, waiting for you--that is all. I thought you must be coming by the
+[[Time|time]], waiting for you--that is all. I thought you must be coming by the
 
-eight o’clock coach.’
+eight o’[[Clock|clock]] coach.’
 
 
 
 “I expressed regret that he had had to wait; he made no answer, but
 
-stirred the fire, as if to cover a movement of impatience; then he
+stirred the [[Fire|fire]], as if to cover a movement of impatience; then he
 
 scanned me again.
 

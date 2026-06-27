@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 26"
+title: "[[Wuthering Heights]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,11 +17,11 @@ tags:
 CHAPTER XXVI
 
 
-Summer was already past its prime, when Edgar reluctantly yielded his
+[[Summer]] was already past its prime, when [[Edgar]] reluctantly yielded his
 assent to their entreaties, and Catherine and I set out on our first
 ride to join her cousin. It was a close, sultry day: devoid of
 sunshine, but with a sky too dappled and hazy to threaten rain: and our
-place of meeting had been fixed at the guide-stone, by the cross-roads.
+place of meeting had been fixed at the guide-stone, by the [[Cross|cross]]-roads.
 On arriving there, however, a little herd-boy, despatched as a
 messenger, told us that,—“Maister Linton wer just o’ this side th’
 Heights: and he’d be mitch obleeged to us to gang on a bit further.”
@@ -30,15 +30,15 @@ Heights: and he’d be mitch obleeged to us to gang on a bit further.”
 observed: “he bid us keep on the Grange land, and here we are off at
 once.”
 
-“Well, we’ll turn our horses’ heads round when we reach him,” answered
-my companion; “our excursion shall lie towards home.”
+“[[Well]], we’ll turn our horses’ heads round when we reach him,” answered
+my companion; “our excursion shall lie towards [[Home|home]].”
 
 But when we reached him, and that was scarcely a quarter of a mile from
-his own door, we found he had no horse; and we were forced to dismount,
+his own door, we found he had no [[Horse|horse]]; and we were forced to dismount,
 and leave ours to graze. He lay on the heath, awaiting our approach,
 and did not rise till we came within a few yards. Then he walked so
 feebly, and looked so pale, that I immediately exclaimed,—“Why, Master
-Heathcliff, you are not fit for enjoying a ramble this morning. How ill
+[[Heathcliff]], you are not fit for enjoying a ramble this morning. How ill
 you do look!”
 
 Catherine surveyed him with grief and astonishment: she changed the
@@ -74,10 +74,10 @@ to contribute to her entertainment, were so obvious that she could not
 conceal her disappointment. An indefinite alteration had come over his
 whole person and manner. The pettishness that might be caressed into
 fondness, had yielded to a listless apathy; there was less of the
-peevish temper of a child which frets and teases on purpose to be
-soothed, and more of the self-absorbed moroseness of a confirmed
+peevish temper of a [[Child|child]] which frets and teases on purpose to be
+soothed, and more of the [[Self|self]]-absorbed moroseness of a confirmed
 invalid, repelling consolation, and ready to regard the good-humoured
-mirth of others as an insult. Catherine perceived, as well as I did,
+mirth of others as an insult. Catherine perceived, as [[Well|well]] as I did,
 that he held it rather a punishment, than a gratification, to endure
 our company; and she made no scruple of proposing, presently, to
 depart. That proposal, unexpectedly, roused Linton from his lethargy,
@@ -85,9 +85,9 @@ and threw him into a strange state of agitation. He glanced fearfully
 towards the Heights, begging she would remain another half-hour, at
 least.
 
-“But I think,” said Cathy, “you’d be more comfortable at home than
+“But I think,” said Cathy, “you’d be more comfortable at [[Home|home]] than
 sitting here; and I cannot amuse you to-day, I see, by my tales, and
-songs, and chatter: you have grown wiser than I, in these six months;
+[[songs]], and chatter: you have grown wiser than I, in these six months;
 you have little taste for my diversions now: or else, if I could amuse
 you, I’d willingly stay.”
 
@@ -100,7 +100,7 @@ uncle I’m in tolerable health, will you?”
 are,” observed my young lady, wondering at his pertinacious assertion
 of what was evidently an untruth.
 
-“And be here again next Thursday,” continued he, shunning her puzzled
+“And be here again next [[thursday|Thursday]],” continued he, shunning her puzzled
 gaze. “And give him my thanks for permitting you to come—my best
 thanks, Catherine. And—and, if you _did_ meet my father, and he asked
 you about me, don’t lead him to suppose that I’ve been extremely silent
@@ -113,13 +113,13 @@ its object.
 “But I do,” said her cousin, shuddering. “_Don’t_ provoke him against
 me, Catherine, for he is very hard.”
 
-“Is he severe to you, Master Heathcliff?” I inquired. “Has he grown
+“Is he severe to you, Master [[Heathcliff]]?” I inquired. “Has he grown
 weary of indulgence, and passed from passive to active hatred?”
 
 Linton looked at me, but did not answer; and, after keeping her seat by
 his side another ten minutes, during which his head fell drowsily on
 his breast, and he uttered nothing except suppressed moans of
-exhaustion or pain, Cathy began to seek solace in looking for
+exhaustion or [[Pain|pain]], Cathy began to seek solace in looking for
 bilberries, and sharing the produce of her researches with me: she did
 not offer them to him, for she saw further notice would only weary and
 annoy.
@@ -128,15 +128,15 @@ annoy.
 can’t tell why we should stay. He’s asleep, and papa will be wanting us
 back.”
 
-“Well, we must not leave him asleep,” I answered; “wait till he wakes,
-and be patient. You were mighty eager to set off, but your longing to
+“[[Well]], we must not leave him asleep,” I answered; “wait till he wakes,
+and be patient. You were mighty eager to set off, but your [[Longing|longing]] to
 see poor Linton has soon evaporated!”
 
 “Why did _he_ wish to see me?” returned Catherine. “In his crossest
 humours, formerly, I liked him better than I do in his present curious
 mood. It’s just as if it were a task he was compelled to perform—this
-interview—for fear his father should scold him. But I’m hardly going to
-come to give Mr. Heathcliff pleasure; whatever reason he may have for
+interview—for [[Fear|fear]] his father should scold him. But I’m hardly going to
+come to give Mr. [[Heathcliff]] pleasure; whatever reason he may have for
 ordering Linton to undergo this penance. And, though I’m glad he’s
 better in health, I’m sorry he’s so much less pleasant, and so much
 less affectionate to me.”
@@ -144,7 +144,7 @@ less affectionate to me.”
 “You think _he is_ better in health, then?” I said.
 
 “Yes,” she answered; “because he always made such a great deal of his
-sufferings, you know. He is not tolerably well, as he told me to tell
+sufferings, you know. He is not tolerably [[Well|well]], as he told me to tell
 papa; but he’s better, very likely.”
 
 “There you differ with me, Miss Cathy,” I remarked; “I should
@@ -153,7 +153,7 @@ conjecture him to be far worse.”
 Linton here started from his slumber in bewildered terror, and asked if
 any one had called his name.
 
-“No,” said Catherine; “unless in dreams. I cannot conceive how you
+“No,” said Catherine; “unless in [[Dreams|dreams]]. I cannot conceive how you
 manage to doze out of doors, in the morning.”
 
 “I thought I heard my father,” he gasped, glancing up to the frowning
@@ -161,34 +161,34 @@ nab above us. “You are sure nobody spoke?”
 
 “Quite sure,” replied his cousin. “Only Ellen and I were disputing
 concerning your health. Are you truly stronger, Linton, than when we
-separated in winter? If you be, I’m certain one thing is not
+separated in [[Winter|winter]]? If you be, I’m certain one thing is not
 stronger—your regard for me: speak,—are you?”
 
-The tears gushed from Linton’s eyes as he answered, “Yes, yes, I am!”
+The [[Tears|tears]] gushed from Linton’s eyes as he answered, “Yes, yes, I am!”
 And, still under the spell of the imaginary voice, his gaze wandered up
 and down to detect its owner.
 
-Cathy rose. “For to-day we must part,” she said. “And I won’t conceal
+Cathy [[Rose|rose]]. “For to-day we must part,” she said. “And I won’t conceal
 that I have been sadly disappointed with our meeting; though I’ll
 mention it to nobody but you: not that I stand in awe of Mr.
-Heathcliff.”
+[[Heathcliff]].”
 
 “Hush,” murmured Linton; “for God’s sake, hush! He’s coming.” And he
 clung to Catherine’s arm, striving to detain her; but at that
 announcement she hastily disengaged herself, and whistled to Minny, who
 obeyed her like a dog.
 
-“I’ll be here next Thursday,” she cried, springing to the saddle.
+“I’ll be here next [[thursday|Thursday]],” she cried, springing to the saddle.
 “Good-bye. Quick, Ellen!”
 
 And so we left him, scarcely conscious of our departure, so absorbed
 was he in anticipating his father’s approach.
 
-Before we reached home, Catherine’s displeasure softened into a
+Before we reached [[Home|home]], Catherine’s displeasure softened into a
 perplexed sensation of pity and regret, largely blended with vague,
 uneasy doubts about Linton’s actual circumstances, physical and social:
 in which I partook, though I counselled her not to say much; for a
-second journey would make us better judges. My master requested an
+second [[Journey|journey]] would make us better judges. My master requested an
 account of our ongoings. His nephew’s offering of thanks was duly
 delivered, Miss Cathy gently touching on the rest: I also threw little
 light on his inquiries, for I hardly knew what to hide and what to

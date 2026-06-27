@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -22,7 +22,7 @@ though he would, in vulgar parlance, ‘punch his head.’
 
 ‘They’ve been carrying on this game,’ thought Jonas in a brown study,
 ‘for the last two or three weeks. I never saw my father take so much
-notice of him as he has in that time. What! You’re legacy hunting, are
+notice of him as he has in that [[Time|time]]. What! You’re legacy hunting, are
 you, Mister Chuff? Eh?’
 
 But Chuffey was as little conscious of the thought as of the bodily
@@ -31,7 +31,7 @@ When he had scowled at him to his heart’s content, Jonas took the candle
 from the table, and walking into the glass office, produced a bunch of
 keys from his pocket. With one of these he opened a secret drawer in the
 desk; peeping stealthily out, as he did so, to be certain that the two
-old men were still before the fire.
+old men were still before the [[Fire|fire]].
 
 ‘All as right as ever,’ said Jonas, propping the lid of the desk open
 with his forehead, and unfolding a paper. ‘Here’s the will, Mister
@@ -45,9 +45,9 @@ hand. For the eyes were attentively cast down upon the writing, and were
 swiftly raised when he cried out. Then they met his own, and were as the
 eyes of Mr Pecksniff.
 
-Suffering the lid of the desk to fall with a loud noise, but not
+[[Suffering]] the lid of the desk to fall with a loud noise, but not
 forgetting even then to lock it, Jonas, pale and breathless, gazed upon
-this phantom. It moved, opened the door, and walked in.
+this [[Phantom|phantom]]. It moved, opened the door, and walked in.
 
 ‘What’s the matter?’ cried Jonas, falling back. ‘Who is it? Where do you
 come from? What do you want?’
@@ -66,20 +66,20 @@ curious,’ he added in his gentle way as he laid his hand upon the young
 man’s shoulder, ‘to find out what part of the newspaper interested you
 so much; but the glass was too dim and dirty.’
 
-Jonas glanced in haste at the partition. Well. It wasn’t very clean. So
-far he spoke the truth.
+Jonas glanced in haste at the partition. [[Well]]. It wasn’t very clean. So
+far he spoke the [[Truth|truth]].
 
 ‘Was it poetry now?’ said Mr Pecksniff, shaking the forefinger of his
 right hand with an air of cheerful banter. ‘Or was it politics? Or was
 it the price of stock? The main chance, Mr Jonas, the main chance, I
 suspect.’
 
-‘You ain’t far from the truth,’ answered Jonas, recovering himself and
-snuffing the candle; ‘but how the deuce do you come to be in London
+‘You ain’t far from the [[Truth|truth]],’ answered Jonas, recovering himself and
+snuffing the candle; ‘but how the deuce do you come to be in [[London]]
 again? Ecod! it’s enough to make a man stare, to see a fellow looking at
 him all of a sudden, who he thought was sixty or seventy mile away.’
 
-‘So it is,’ said Mr Pecksniff. ‘No doubt of it, my dear Mr Jonas. For
+‘So it is,’ said Mr Pecksniff. ‘No [[Doubt|doubt]] of it, my dear Mr Jonas. For
 while the human mind is constituted as it is--’
 
 ‘Oh, bother the human mind,’ interrupted Jonas with impatience ‘what
@@ -88,7 +88,7 @@ have you come up for?’
 ‘A little matter of business,’ said Mr Pecksniff, ‘which has arisen
 quite unexpectedly.’
 
-‘Oh!’ cried Jonas, ‘is that all? Well. Here’s father in the next room.
+‘Oh!’ cried Jonas, ‘is that all? [[Well]]. Here’s father in the next room.
 Hallo father, here’s Pecksniff! He gets more addle-pated every day
 he lives, I do believe,’ muttered Jonas, shaking his honoured parent
 roundly. ‘Don’t I tell you Pecksniff’s here, stupid-head?’
@@ -98,13 +98,13 @@ awoke the old man, who gave Mr Pecksniff a chuckling welcome which was
 attributable in part to his being glad to see that gentleman, and in
 part to his unfading delight in the recollection of having called him a
 hypocrite. As Mr Pecksniff had not yet taken tea (indeed he had, but an
-hour before, arrived in London) the remains of the late collation, with
+hour before, arrived in [[London]]) the remains of the late collation, with
 a rasher of bacon, were served up for his entertainment; and as Mr Jonas
 had a business appointment in the next street, he stepped out to keep
 it; promising to return before Mr Pecksniff could finish his repast.
 
 ‘And now, my good sir,’ said Mr Pecksniff to Anthony; ‘now that we
-are alone, pray tell me what I can do for you. I say alone, because I
+are [[Alone|alone]], pray tell me what I can do for you. I say [[Alone|alone]], because I
 believe that our dear friend Mr Chuffey is, metaphysically speaking,
 a--shall I say a dummy?’ asked Mr Pecksniff with his sweetest smile, and
 his head very much on one side.
@@ -113,7 +113,7 @@ his head very much on one side.
 
 ‘Why, then,’ said Mr Pecksniff, ‘I will be bold to say, with the utmost
 sympathy for his afflictions, and the greatest admiration of those
-excellent qualities which do equal honour to his head and to his heart,
+excellent qualities which do equal [[Honour|honour]] to his head and to his heart,
 that he is what is playfully termed a dummy. You were going to observe,
 my dear sir--?’
 
@@ -128,9 +128,9 @@ old man.
 door was shut, and arranging his chair when he came back, so that it
 could not be opened in the least without his immediately becoming aware
 of the circumstance; ‘that I never in my life was so astonished as by
-the receipt of your letter yesterday. That you should do me the honour
+the receipt of your letter yesterday. That you should do me the [[Honour|honour]]
 to wish to take counsel with me on any matter, amazed me; but that you
-should desire to do so, to the exclusion even of Mr Jonas, showed an
+should [[Desire|desire]] to do so, to the exclusion even of Mr Jonas, showed an
 amount of confidence in one to whom you had done a verbal injury--merely
 a verbal injury, you were anxious to repair--which gratified, which
 moved, which overcame me.’

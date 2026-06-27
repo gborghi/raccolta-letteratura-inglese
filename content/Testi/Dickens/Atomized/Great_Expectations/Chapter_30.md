@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 30"
+title: "[[Great Expectations]] — Chapter 30"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,9 +17,9 @@ tags:
 Chapter XXX.
 
 
-After well considering the matter while I was dressing at the Blue Boar
+After [[Well|well]] considering the matter while I was dressing at the Blue Boar
 in the morning, I resolved to tell my guardian that I doubted Orlick’s
-being the right sort of man to fill a post of trust at Miss Havisham’s.
+being the right sort of man to fill a post of trust at [[Miss Havisham]]’s.
 “Why of course he is not the right sort of man, Pip,” said my guardian,
 comfortably satisfied beforehand on the general head, “because the man
 who fills the post of trust never is the right sort of man.” It seemed
@@ -33,10 +33,10 @@ himself might be difficult to deal with. “Oh no he won’t,” said my
 guardian, making his pocket-handkerchief-point, with perfect
 confidence; “I should like to see him argue the question with _me_.”
 
-As we were going back together to London by the midday coach, and as I
+As we were going back together to [[London]] by the midday coach, and as I
 breakfasted under such terrors of Pumblechook that I could scarcely
 hold my cup, this gave me an opportunity of saying that I wanted a
-walk, and that I would go on along the London road while Mr. Jaggers
+walk, and that I would go on along the [[London]] [[Road|road]] while Mr. Jaggers
 was occupied, if he would let the coachman know that I would get into
 my place when overtaken. I was thus enabled to fly from the Blue Boar
 immediately after breakfast. By then making a loop of about a couple of
@@ -59,13 +59,13 @@ beheld Trabb’s boy approaching, lashing himself with an empty blue bag.
 Deeming that a serene and unconscious contemplation of him would best
 beseem me, and would be most likely to quell his evil mind, I advanced
 with that expression of countenance, and was rather congratulating
-myself on my success, when suddenly the knees of Trabb’s boy smote
+myself on my [[success]], when suddenly the knees of Trabb’s boy smote
 together, his hair uprose, his cap fell off, he trembled violently in
-every limb, staggered out into the road, and crying to the populace,
+every limb, staggered out into the [[Road|road]], and crying to the populace,
 “Hold me! I’m so frightened!” feigned to be in a paroxysm of terror and
 contrition, occasioned by the dignity of my appearance. As I passed
 him, his teeth loudly chattered in his head, and with every mark of
-extreme humiliation, he prostrated himself in the dust.
+extreme humiliation, he prostrated himself in the [[Dust|dust]].
 
 This was a hard thing to bear, but this was nothing. I had not advanced
 another two hundred yards when, to my inexpressible terror, amazement,
@@ -73,24 +73,24 @@ and indignation, I again beheld Trabb’s boy approaching. He was coming
 round a narrow corner. His blue bag was slung over his shoulder, honest
 industry beamed in his eyes, a determination to proceed to Trabb’s with
 cheerful briskness was indicated in his gait. With a shock he became
-aware of me, and was severely visited as before; but this time his
+aware of me, and was severely visited as before; but this [[Time|time]] his
 motion was rotatory, and he staggered round and round me with knees
-more afflicted, and with uplifted hands as if beseeching for mercy. His
+more afflicted, and with uplifted hands as if beseeching for [[Mercy|mercy]]. His
 sufferings were hailed with the greatest joy by a knot of spectators,
 and I felt utterly confounded.
 
 I had not got as much further down the street as the post-office, when
-I again beheld Trabb’s boy shooting round by a back way. This time, he
+I again beheld Trabb’s boy shooting round by a back way. This [[Time|time]], he
 was entirely changed. He wore the blue bag in the manner of my
 great-coat, and was strutting along the pavement towards me on the
 opposite side of the street, attended by a company of delighted young
-friends to whom he from time to time exclaimed, with a wave of his
+friends to whom he from [[Time|time]] to [[Time|time]] exclaimed, with a wave of his
 hand, “Don’t know yah!” Words cannot state the amount of aggravation
 and injury wreaked upon me by Trabb’s boy, when passing abreast of me,
 he pulled up his shirt-collar, twined his side-hair, stuck an arm
-akimbo, and smirked extravagantly by, wriggling his elbows and body,
+akimbo, and smirked extravagantly by, wriggling his elbows and [[Body|body]],
 and drawling to his attendants, “Don’t know yah, don’t know yah, ’pon
-my soul don’t know yah!” The disgrace attendant on his immediately
+my [[Soul|soul]] don’t know yah!” The disgrace attendant on his immediately
 afterwards taking to crowing and pursuing me across the bridge with
 crows, as from an exceedingly dejected fowl who had known me when I was
 a blacksmith, culminated the disgrace with which I left the town, and
@@ -101,7 +101,7 @@ was, so to speak, ejected by it into the open country.
 But unless I had taken the life of Trabb’s boy on that occasion, I
 really do not even now see what I could have done save endure. To have
 struggled with him in the street, or to have exacted any lower
-recompense from him than his heart’s best blood, would have been futile
+recompense from him than his heart’s best [[Blood|blood]], would have been futile
 and degrading. Moreover, he was a boy whom no man could hurt; an
 invulnerable and dodging serpent who, when chased into a corner, flew
 out again between his captor’s legs, scornfully yelping. I wrote,
@@ -110,22 +110,22 @@ decline to deal further with one who could so far forget what he owed
 to the best interests of society, as to employ a boy who excited
 Loathing in every respectable mind.
 
-The coach, with Mr. Jaggers inside, came up in due time, and I took my
-box-seat again, and arrived in London safe,—but not sound, for my heart
+The coach, with Mr. Jaggers inside, came up in due [[Time|time]], and I took my
+box-seat again, and arrived in [[London]] safe,—but not sound, for my heart
 was gone. As soon as I arrived, I sent a penitential codfish and barrel
 of oysters to Joe (as reparation for not having gone myself), and then
 went on to Barnard’s Inn.
 
 I found Herbert dining on cold meat, and delighted to welcome me back.
-Having despatched The Avenger to the coffee-house for an addition to
+Having despatched The [[Avenger]] to the coffee-[[house]] for an addition to
 the dinner, I felt that I must open my breast that very evening to my
-friend and chum. As confidence was out of the question with The Avenger
+friend and chum. As confidence was out of the question with The [[Avenger]]
 in the hall, which could merely be regarded in the light of an
 antechamber to the keyhole, I sent him to the Play. A better proof of
 the severity of my bondage to that taskmaster could scarcely be
 afforded, than the degrading shifts to which I was constantly driven to
 find him employment. So mean is extremity, that I sometimes sent him to
-Hyde Park corner to see what o’clock it was.
+Hyde Park corner to see what o’[[Clock|clock]] it was.
 
 Dinner done and we sitting with our feet upon the fender, I said to
 Herbert, “My dear Herbert, I have something very particular to tell
@@ -136,17 +136,17 @@ confidence.”
 
 “It concerns myself, Herbert,” said I, “and one other person.”
 
-Herbert crossed his feet, looked at the fire with his head on one side,
-and having looked at it in vain for some time, looked at me because I
+Herbert crossed his feet, looked at the [[Fire|fire]] with his head on one side,
+and having looked at it in vain for some [[Time|time]], looked at me because I
 didn’t go on.
 
-“Herbert,” said I, laying my hand upon his knee, “I love—I
-adore—Estella.”
+“Herbert,” said I, laying my hand upon his knee, “I [[Love|love]]—I
+adore—[[Estella]].”
 
 Instead of being transfixed, Herbert replied in an easy
-matter-of-course way, “Exactly. Well?”
+matter-of-course way, “Exactly. [[Well]]?”
 
-“Well, Herbert? Is that all you say? Well?”
+“[[Well]], Herbert? Is that all you say? [[Well]]?”
 
 “What next, I mean?” said Herbert. “Of course I know _that_.”
 
@@ -161,23 +161,23 @@ have had senses to perceive it. You have always adored her, ever since
 I have known you. You brought your adoration and your portmanteau here
 together. Told me! Why, you have always told me all day long. When you
 told me your own story, you told me plainly that you began adoring her
-the first time you saw her, when you were very young indeed.”
+the first [[Time|time]] you saw her, when you were very young indeed.”
 
-“Very well, then,” said I, to whom this was a new and not unwelcome
+“Very [[Well|well]], then,” said I, to whom this was a new and not unwelcome
 light, “I have never left off adoring her. And she has come back, a
 most beautiful and most elegant creature. And I saw her yesterday. And
 if I adored her before, I now doubly adore her.”
 
 “Lucky for you then, Handel,” said Herbert, “that you are picked out
 for her and allotted to her. Without encroaching on forbidden ground,
-we may venture to say that there can be no doubt between ourselves of
-that fact. Have you any idea yet, of Estella’s views on the adoration
+we may venture to say that there can be no [[Doubt|doubt]] between ourselves of
+that fact. Have you any idea yet, of [[Estella]]’s views on the adoration
 question?”
 
 I shook my head gloomily. “Oh! She is thousands of miles away, from
 me,” said I.
 
-“Patience, my dear Handel: time enough, time enough. But you have
+“Patience, my dear Handel: [[Time|time]] enough, [[Time|time]] enough. But you have
 something more to say?”
 
 “I am ashamed to say it,” I returned, “and yet it’s no worse to say it
@@ -195,11 +195,11 @@ analysis, but thought it not worth disputing.
 
 “When I ask what I am to call myself to-day, Herbert,” I went on, “I
 suggest what I have in my thoughts. You say I am lucky. I know I have
-done nothing to raise myself in life, and that Fortune alone has raised
-me; that is being very lucky. And yet, when I think of Estella—”
+done nothing to raise myself in life, and that Fortune [[Alone|alone]] has raised
+me; that is being very lucky. And yet, when I think of [[Estella]]—”
 
 (“And when don’t you, you know?” Herbert threw in, with his eyes on the
-fire; which I thought kind and sympathetic of him.)
+[[Fire|fire]]; which I thought kind and sympathetic of him.)
 
 “—Then, my dear Herbert, I cannot tell you how dependent and uncertain
 I feel, and how exposed to hundreds of chances. Avoiding forbidden
@@ -207,26 +207,26 @@ ground, as you did just now, I may still say that on the constancy of
 one person (naming no person) all my expectations depend. And at the
 best, how indefinite and unsatisfactory, only to know so vaguely what
 they are!” In saying this, I relieved my mind of what had always been
-there, more or less, though no doubt most since yesterday.
+there, more or less, though no [[Doubt|doubt]] most since yesterday.
 
 “Now, Handel,” Herbert replied, in his gay, hopeful way, “it seems to
 me that in the despondency of the tender passion, we are looking into
-our gift-horse’s mouth with a magnifying-glass. Likewise, it seems to
+our gift-[[Horse|horse]]’s mouth with a magnifying-glass. Likewise, it seems to
 me that, concentrating our attention on the examination, we altogether
 overlook one of the best points of the animal. Didn’t you tell me that
 your guardian, Mr. Jaggers, told you in the beginning, that you were
 not endowed with expectations only? And even if he had not told you
 so,—though that is a very large If, I grant,—could you believe that of
-all men in London, Mr. Jaggers is the man to hold his present relations
+all men in [[London]], Mr. Jaggers is the man to hold his present relations
 towards you unless he were sure of his ground?”
 
 I said I could not deny that this was a strong point. I said it (people
-often do so, in such cases) like a rather reluctant concession to truth
+often do so, in such cases) like a rather reluctant concession to [[Truth|truth]]
 and justice;—as if I wanted to deny it!
 
 “I should think it _was_ a strong point,” said Herbert, “and I should
 think you would be puzzled to imagine a stronger; as to the rest, you
-must bide your guardian’s time, and he must bide his client’s time.
+must bide your guardian’s [[Time|time]], and he must bide his client’s [[Time|time]].
 You’ll be one-and-twenty before you know where you are, and then
 perhaps you’ll get some further enlightenment. At all events, you’ll be
 nearer getting it, for it must come at last.”
@@ -248,30 +248,30 @@ moment,—positively repulsive.”
 “O yes I shall!” said he. “One, two, three, and now I am in for it.
 Handel, my good fellow;”—though he spoke in this light tone, he was
 very much in earnest,—“I have been thinking since we have been talking
-with our feet on this fender, that Estella surely cannot be a condition
+with our feet on this fender, that [[Estella]] surely cannot be a condition
 of your inheritance, if she was never referred to by your guardian. Am
 I right in so understanding what you have told me, as that he never
 referred to her, directly or indirectly, in any way? Never even hinted,
-for instance, that your patron might have views as to your marriage
+for instance, that your patron might have views as to your [[Marriage|marriage]]
 ultimately?”
 
 “Never.”
 
 “Now, Handel, I am quite free from the flavour of sour grapes, upon my
-soul and honour! Not being bound to her, can you not detach yourself
+[[Soul|soul]] and [[Honour|honour]]! Not being bound to her, can you not detach yourself
 from her?—I told you I should be disagreeable.”
 
 I turned my head aside, for, with a rush and a sweep, like the old
 marsh winds coming up from the sea, a feeling like that which had
 subdued me on the morning when I left the forge, when the mists were
 solemnly rising, and when I laid my hand upon the village finger-post,
-smote upon my heart again. There was silence between us for a little
+smote upon my heart again. There was [[Silence|silence]] between us for a little
 while.
 
 “Yes; but my dear Handel,” Herbert went on, as if we had been talking,
 instead of silent, “its having been so strongly rooted in the breast of
-a boy whom nature and circumstances made so romantic, renders it very
-serious. Think of her bringing-up, and think of Miss Havisham. Think of
+a boy whom [[Nature|nature]] and circumstances made so romantic, renders it very
+serious. Think of her bringing-up, and think of [[Miss Havisham]]. Think of
 what she is herself (now I am repulsive and you abominate me). This may
 lead to miserable things.”
 
@@ -286,14 +286,14 @@ can’t help it.”
 
 “No. Impossible!”
 
-“Well!” said Herbert, getting up with a lively shake as if he had been
-asleep, and stirring the fire, “now I’ll endeavour to make myself
+“[[Well]]!” said Herbert, getting up with a lively shake as if he had been
+asleep, and stirring the [[Fire|fire]], “now I’ll endeavour to make myself
 agreeable again!”
 
 So he went round the room and shook the curtains out, put the chairs in
 their places, tidied the books and so forth that were lying about,
 looked into the hall, peeped into the letter-box, shut the door, and
-came back to his chair by the fire: where he sat down, nursing his left
+came back to his chair by the [[Fire|fire]]: where he sat down, nursing his left
 leg in both arms.
 
 “I was going to say a word or two, Handel, concerning my father and my
@@ -306,9 +306,9 @@ encouraging.
 
 “O yes! and so the dustman says, I believe, with the strongest
 approval, and so does the marine-store shop in the back street.
-Gravely, Handel, for the subject is grave enough, you know how it is as
-well as I do. I suppose there was a time once when my father had not
-given matters up; but if ever there was, the time is gone. May I ask
+Gravely, Handel, for the subject is [[Grave|grave]] enough, you know how it is as
+[[Well|well]] as I do. I suppose there was a [[Time|time]] once when my father had not
+given matters up; but if ever there was, the [[Time|time]] is gone. May I ask
 you if you have ever had an opportunity of remarking, down in your part
 of the country, that the children of not exactly suitable marriages are
 always most particularly anxious to be married?”
@@ -319,10 +319,10 @@ so?”
 “I don’t know,” said Herbert, “that’s what I want to know. Because it
 is decidedly the case with us. My poor sister Charlotte, who was next
 me and died before she was fourteen, was a striking example. Little
-Jane is the same. In her desire to be matrimonially established, you
+Jane is the same. In her [[Desire|desire]] to be matrimonially established, you
 might suppose her to have passed her short existence in the perpetual
 contemplation of domestic bliss. Little Alick in a frock has already
-made arrangements for his union with a suitable young person at Kew.
+made arrangements for his [[Union|union]] with a suitable young person at Kew.
 And indeed, I think we are all engaged, except the baby.”
 
 “Then you are?” said I.
@@ -337,7 +337,7 @@ weakness that I wanted to know something about his strength.
 
 “Name of Clara,” said Herbert.
 
-“Live in London?”
+“Live in [[London]]?”
 
 “Yes, perhaps I ought to mention,” said Herbert, who had become
 curiously crestfallen and meek, since we entered on the interesting
@@ -356,7 +356,7 @@ for I had intended my question to apply to his means. “I have never
 seen him, for he has always kept his room overhead, since I have known
 Clara. But I have heard him constantly. He makes tremendous
 rows,—roars, and pegs at the floor with some frightful instrument.” In
-looking at me and then laughing heartily, Herbert for the time
+looking at me and then laughing heartily, Herbert for the [[Time|time]]
 recovered his usual lively manner.
 
 “Don’t you expect to see him?” said I.
@@ -367,17 +367,17 @@ ceiling. But I don’t know how long the rafters may hold.”
 
 When he had once more laughed heartily, he became meek again, and told
 me that the moment he began to realise Capital, it was his intention to
-marry this young lady. He added as a self-evident proposition,
+marry this young lady. He added as a [[Self|self]]-evident proposition,
 engendering low spirits, “But you _can’t_ marry, you know, while you’re
 looking about you.”
 
-As we contemplated the fire, and as I thought what a difficult vision
+As we contemplated the [[Fire|fire]], and as I thought what a difficult vision
 to realise this same Capital sometimes was, I put my hands in my
 pockets. A folded piece of paper in one of them attracting my
 attention, I opened it and found it to be the play-bill I had received
 from Joe, relative to the celebrated provincial amateur of Roscian
 renown. “And bless my heart,” I involuntarily added aloud, “it’s
-to-night!”
+to-[[Night|night]]!”
 
 This changed the subject in an instant, and made us hurriedly resolve
 to go to the play. So, when I had pledged myself to comfort and abet
@@ -385,5 +385,5 @@ Herbert in the affair of his heart by all practicable and impracticable
 means, and when Herbert had told me that his affianced already knew me
 by reputation and that I should be presented to her, and when we had
 warmly shaken hands upon our mutual confidence, we blew out our
-candles, made up our fire, locked our door, and issued forth in quest
-of Mr. Wopsle and Denmark.
+candles, made up our [[Fire|fire]], locked our door, and issued forth in [[Quest|quest]]
+of Mr. Wopsle and [[Denmark]].

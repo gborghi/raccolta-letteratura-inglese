@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 9 (part 2)"
+title: "[[GKC-Autobiography]] — Chapter 9 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -19,8 +19,8 @@ upon me, grew much more swiftly on my brother and my friend Belloc;
 because they were by temperament of a more rapid and resolute sort.
 They entered into a sort of partnership for the study of the question;
 and the outcome of that partnership was a book which had a
-considerable effect; though at that time, of course, it was mostly
-an effect of irritation or incredulity.  They collaborated in a work
+considerable effect; though at that [[Time|time]], of course, it was mostly
+an effect of irritation or [[Incredulity|incredulity]].  They collaborated in a work
 called The Party System; of which the general thesis was that there
 were really no Parties, though there certainly was a system.
 The system, according to this view, was essentially one of rotation;
@@ -28,13 +28,13 @@ but of rotation revolving on a central group, which really
 consisted of the leading politicians on both sides; or, as they
 were called for convenience in the book, "The Front Benches."
 An unreal conflict was kept up for the benefit of the public,
-and to a certain extent with the innocent assistance of the rank
-and file; but the Leader of the House was more truly in partnership
+and to a certain extent with the [[Innocent|innocent]] assistance of the rank
+and file; but the Leader of the [[house|House]] was more truly in partnership
 with the Leader of the Opposition than either of them were
-with their own followers, let alone their own constituents.
+with their own followers, let [[Alone|alone]] their own constituents.
 This was the thesis maintained in the book; and for the moment
 its immediate importance in this narrative is not so much concerned
-with its truth or falsehood as with the personal results arising
+with its [[Truth|truth]] or falsehood as with the personal results arising
 from the alliance of its two authors.  For the point of view attracted
 sufficient attention to lead a few supporters to launch a weekly paper;
 of which Belloc was the editor and Cecil Chesterton the sub-editor;
@@ -42,14 +42,14 @@ and to which I contributed first an occasional and eventually
 a weekly article.
 
 There had never been anything like the Eye-Witness in England before;
-certainly not within the memory of the oldest men then living.
+certainly not within the [[Memory|memory]] of the oldest men then living.
 Nor indeed has there ever been anything like it in England since.
 But its novelty and originality cannot be measured by those who
 can only compare it with what has happened in England since.
-It is a paradox palpably true that an original thing cannot at once
+It is a [[Paradox|paradox]] palpably true that an original thing cannot at once
 be successful and still seem original.  We can never appreciate
 how startling it might sound to be told that the earth was round,
-if we had really and invariably thought it was flat.  By this time,
+if we had really and invariably thought it was flat.  By this [[Time|time]],
 so to speak, its roundness has become more flat than its flatness.  It has
 become a dull platitude and only the denial of it would disturb us.
 So it is with political revolutions; and so it was with the considerable
@@ -62,24 +62,24 @@ or the virtue of the Victorian Age.  It is enough to say that it rested
 solidly on some social convictions, that were not only conventions.
 One of them was the belief that English politics were not only
 free from political corruption, but almost entirely free from
-personal motives about money.  It was a point of patriotic pride
+personal motives about money.  It was a point of patriotic [[Pride|pride]]
 that set a limit to the fiercest movements of party anger.
 I can remember that old Tories like my grandfather would actually
 pause in the full sweep of their denunciations of the demoniac
 conduct of Mr. Gladstone, to wave away the faintest suggestion
 that there could be any fiends rending the souls of our statesmen
-less erected, as Milton says, than the fiends of ambition
-or jealousy; "Heaven forbid that I should suggest that any
+less erected, as [[Milton]] says, than the fiends of [[Ambition|ambition]]
+or [[Jealousy|jealousy]]; "Heaven forbid that I should suggest that any
 English Prime Minister ..." No; Frenchmen might have discovered
 the negotiable value of coins of the realm; Italians and Austrians
-might think it well worthwhile to double their income; the statesmen
+might think it [[Well|well]] worthwhile to [[Double|double]] their income; the statesmen
 of Bulgaria or Bolivia might have some notion of the meaning of money;
 but English politicians passed their lives in an absent-minded trance,
-like that of Mr. Skimpole; kept their eyes fixed on the fixed stars,
+like that of Mr. Skimpole; kept their eyes fixed on the fixed [[Stars|stars]],
 never enquired whether politics had made them richer or poorer;
 and received their salaries with a start of surprise.
 
-Well, for good or evil, that is all dead.  And what killed it
+[[Well]], for good or evil, that is all dead.  And what killed it
 was primarily the journalistic explosion called the Eye-Witness;
 and especially its dealing with the Marconi Case and the question
 of the Sale of Peerages.  In one sense indeed, as I shall
@@ -96,7 +96,7 @@ For that is the weak side of the ultimate result of the revelations.
 The object of the Eye-Witness was to make the English public
 know and care about the peril of political corruption.
 It is now certain that the public does know.  It is not so certain
-that the public does care.  And we may well warn the more cynical
+that the public does care.  And we may [[Well|well]] warn the more cynical
 and realistic generation around us not to be too confident in its
 superiority to the hoodwinked and humbug-ridden nineteenth century.
 I know that my Victorian uncles did not know how England is
@@ -105,17 +105,17 @@ uncles had known, they would have been horrified and not amused;
 and they would have put a stop to it somehow.  Nobody is trying
 to put a stop to it now.
 
-It is the fashion to divide recent history into Pre-War and
+It is the fashion to divide recent [[history]] into Pre-War and
 Post-War conditions.  I believe it is almost as essential to divide
 them into the Pre-Marconi and Post-Marconi days.  It was during
 the agitations upon that affair that the ordinary English citizen lost
-his invincible ignorance; or, in ordinary language, his innocence.
+his invincible ignorance; or, in ordinary language, his [[innocence]].
 And as I happened to play a part, secondary indeed, but definite,
 in the quarrel about this affair, and as in any case anything that my
 brother did was of considerable importance to me and my affairs,
-it will be well to pause for a moment upon this peculiar business;
-which was at the time, of course, systematically misrepresented and which
+it will be [[Well|well]] to pause for a moment upon this peculiar business;
+which was at the [[Time|time]], of course, systematically misrepresented and which
 is still very widely misunderstood.  I think it probable that centuries
 will pass before it is seen clearly and in its right perspective;
 and that then it will be seen as one of the turning-points in the whole
-history of England and the world.
+[[history]] of England and the world.

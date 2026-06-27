@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 11 (part 2)"
+title: "Bleak [[house|House]] — Chapter 11 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,13 +21,13 @@ stands, ever, near the old portmanteau.
 
 Mr. Snagsby arrives hastily in his grey coat and his black sleeves.
 “Dear me, dear me,” he says; “and it has come to this, has it! Bless
-my soul!”
+my [[Soul|soul]]!”
 
-“Can you give the person of the house any information about this
+“Can you give the person of the [[house]] any information about this
 unfortunate creature, Snagsby?” inquires Mr. Tulkinghorn. “He was in
 arrears with his rent, it seems. And he must be buried, you know.”
 
-“Well, sir,” says Mr. Snagsby, coughing his apologetic cough behind
+“[[Well]], sir,” says Mr. Snagsby, coughing his apologetic cough behind
 his hand, “I really don’t know what advice I could offer, except
 sending for the beadle.”
 
@@ -54,10 +54,10 @@ with his mouth open, looking for somebody to speak next.
 say to me, ‘Snagsby, here’s twenty thousand pound down, ready for you
 in the Bank of England if you’ll only name one of ’em,’ I couldn’t do
 it, sir! About a year and a half ago—to the best of my belief, at
-the time when he first came to lodge at the present rag and bottle
+the [[Time|time]] when he first came to lodge at the present rag and bottle
 shop—”
 
-“That was the time!” says Krook with a nod.
+“That was the [[Time|time]]!” says Krook with a nod.
 
 “About a year and a half ago,” says Mr. Snagsby, strengthened, “he
 came into our place one morning after breakfast, and finding my
@@ -80,11 +80,11 @@ haven’t found Nimrod any work yet!’ or ‘Mr. Snagsby, why didn’t you
 give that eight and thirty Chancery folio in Jarndyce to Nimrod?’ or
 such like. And that is the way he gradually fell into job-work at our
 place; and that is the most I know of him except that he was a quick
-hand, and a hand not sparing of night-work, and that if you gave him
-out, say, five and forty folio on the Wednesday night, you would have
-it brought in on the Thursday morning. All of which—” Mr. Snagsby
+hand, and a hand not sparing of [[Night|night]]-work, and that if you gave him
+out, say, five and forty folio on the Wednesday [[Night|night]], you would have
+it brought in on the [[thursday|Thursday]] morning. All of which—” Mr. Snagsby
 concludes by politely motioning with his hat towards the bed, as much
-as to add, “I have no doubt my honourable friend would confirm if he
+as to add, “I have no [[Doubt|doubt]] my honourable friend would confirm if he
 were in a condition to do it.”
 
 “Hadn’t you better see,” says Mr. Tulkinghorn to Krook, “whether he
@@ -112,14 +112,14 @@ chimney-piece; Miss Flite peeps and trembles just within the door.
 The apt old scholar of the old school, with his dull black breeches
 tied with ribbons at the knees, his large black waistcoat, his
 long-sleeved black coat, and his wisp of limp white neckerchief tied
-in the bow the peerage knows so well, stands in exactly the same
+in the bow the peerage knows so [[Well|well]], stands in exactly the same
 place and attitude.
 
 There are some worthless articles of clothing in the old portmanteau;
 there is a bundle of pawnbrokers’ duplicates, those turnpike tickets
-on the road of poverty; there is a crumpled paper, smelling of opium,
+on the [[Road|road]] of [[Poverty|poverty]]; there is a crumpled paper, smelling of opium,
 on which are scrawled rough memoranda—as, took, such a day, so many
-grains; took, such another day, so many more—begun some time ago, as
+grains; took, such another day, so many more—begun some [[Time|time]] ago, as
 if with the intention of being regularly continued, but soon left
 off. There are a few dirty scraps of newspapers, all referring to
 coroners’ inquests; there is nothing else. They search the cupboard

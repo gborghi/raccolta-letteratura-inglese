@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 5)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -28,17 +28,17 @@ observation, Scott still retains a certain purely poetical right--a
 
 right to make his heroes and outlaws and great kings speak at the great
 
-moments with a rhetoric so rhythmical that it partakes of the nature of
+moments with a rhetoric so rhythmical that it partakes of the [[Nature|nature]] of
 
-song, the same quite metrical rhetoric which is used in the metrical
+[[Song|song]], the same quite metrical rhetoric which is used in the metrical
 
 speeches of Marmion or Roderick Dhu. In the same way, although _Don
 
-Quixote_ is a modern novel in its irony and subtlety, we can see that it
+Quixote_ is a modern [[Novel|novel]] in its irony and subtlety, we can see that it
 
 comes from the old long romances of chivalry. In the same way, although
 
-_Clarissa_ is a modern novel in its intimacy and actuality, we can see
+_Clarissa_ is a modern [[Novel|novel]] in its intimacy and actuality, we can see
 
 that it comes from the old polite letter-writing and polite essays of
 
@@ -58,9 +58,9 @@ the style, the rather fragmentary style, in which he was to write
 
 _Vanity Fair_. In most modern cases, in short (until very lately, at any
 
-rate), the novel is an enormous outgrowth from something that was not a
+rate), the [[Novel|novel]] is an enormous outgrowth from something that was not a
 
-novel. And in Dickens this is very important. All his novels are
+[[Novel|novel]]. And in Dickens this is very important. All his novels are
 
 outgrowths of the original notion of taking notes, splendid and
 
@@ -78,9 +78,9 @@ Dickens as a modern novelist and expecting all his books to be modern
 
 novels. Dickens did not know at what exact point he really turned into a
 
-novelist. Nor do we. Dickens did not know, in his deepest soul, whether
+novelist. Nor do we. Dickens did not know, in his deepest [[Soul|soul]], whether
 
-he ever really did turn into a novelist. Nor do we. The novel being a
+he ever really did turn into a novelist. Nor do we. The [[Novel|novel]] being a
 
 modern product is one of the few things to which we really can apply
 
@@ -104,7 +104,7 @@ constructor of fiction in the serious sense. Before _Dombey and Son_
 
 even his pathos had been really frivolous. After _Dombey and Son_ even
 
-his absurdity was intentional and grave.
+his absurdity was intentional and [[Grave|grave]].
 
 
 
@@ -126,23 +126,23 @@ _Nicholas Nickleby_, in _Dombey and Son_, and in _David Copperfield_.
 
 But the difference is enormous. Dotheboys Hall does not exist to tell us
 
-anything about Nicholas Nickleby. Rather Nicholas Nickleby exists
+anything about [[Nicholas Nickleby]]. Rather [[Nicholas Nickleby]] exists
 
 entirely in order to tell us about Dotheboys Hall. It does not in any
 
-way affect his history or psychology; he enters Mr. Squeers's school and
+way affect his [[history]] or psychology; he enters Mr. Squeers's school and
 
-leaves Mr. Squeers's school with the same character, or rather absence
+[[Leaves|leaves]] Mr. Squeers's school with the same character, or rather absence
 
 of character. It is a mere episode, existing for itself. But when little
 
-Paul Dombey goes to an old-fashioned but kindly school, it is in a very
+[[Paul Dombey]] goes to an old-fashioned but kindly school, it is in a very
 
 different sense and for a very different reason from that for which
 
-Nicholas Nickleby goes to an old-fashioned and cruel school. The sending
+[[Nicholas Nickleby]] goes to an old-fashioned and cruel school. The sending
 
-of little Paul to Dr. Blimber's is a real part of the history of little
+of little Paul to Dr. Blimber's is a real part of the [[history]] of little
 
 Paul, such as it is. Dickens deliberately invents all that elderly
 
@@ -150,7 +150,7 @@ pedantry in order to show up Paul's childishness. Dickens deliberately
 
 invents all that rather heavy kindness in order to show up Paul's
 
-predestination and tragedy. Dotheboys Hall is not meant to show up
+predestination and [[Tragedy|tragedy]]. Dotheboys Hall is not meant to show up
 
 anything except Dotheboys Hall. But although Dickens doubtless enjoyed
 
@@ -162,21 +162,21 @@ foil to Nicholas; Nicholas is merely a lame excuse for Squeers. The
 
 change can be seen continued in the school, or rather the two schools,
 
-to which David Copperfield goes. The whole idea of David Copperfield's
+to which [[David Copperfield]] goes. The whole idea of [[David Copperfield]]'s
 
 life is that he had the dregs of life before the wine of it. He knew
 
-the worst of the world before he knew the best of it. His childhood at
+the worst of the world before he knew the best of it. His [[Childhood|childhood]] at
 
-Dr. Strong's is a second childhood. Now for this purpose the two schools
+Dr. Strong's is a second [[Childhood|childhood]]. Now for this purpose the two schools
 
-are perfectly well adapted. Mr. Creakle's school is not only, like Mr.
+are perfectly [[Well|well]] adapted. Mr. Creakle's school is not only, like Mr.
 
 Squeers's school, a bad school, it is a bad influence upon David
 
 Copperfield. Dr. Strong's school is not only a good school, it is a good
 
-influence upon David Copperfield. I have taken this case of the schools
+influence upon [[David Copperfield]]. I have taken this case of the schools
 
 as a case casual but concrete. The same, however, can be seen in any of
 
@@ -184,4 +184,4 @@ the groups or incidents of the novels on both sides of the boundary. Mr.
 
 Crummles's theatrical company is only a society that Nicholas happens to
 
-fall into. America is only a place to which Martin Chuzzlewit happens to
+fall into. [[america|America]] is only a place to which [[Martin Chuzzlewit]] happens to

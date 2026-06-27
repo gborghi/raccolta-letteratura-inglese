@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act III, Scene 2 — exchange (ORLANDO) [8]"
+title: "As You Like It — Act III, Scene 2 — exchange ([[Orlando|ORLANDO]]) [8]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/AS-YOU-LIKE-IT-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ORLANDO | With all my heart, good youth. |
-| ROSALIND | Nay, you must call me Rosalind.—Come, sister. Will you go? Exeunt |
+| [[Orlando|ORLANDO]] | With all my heart, good youth. |
+| [[Rosalind|ROSALIND]] | Nay, you must call me [[Rosalind]].—Come, sister. Will you go? Exeunt |

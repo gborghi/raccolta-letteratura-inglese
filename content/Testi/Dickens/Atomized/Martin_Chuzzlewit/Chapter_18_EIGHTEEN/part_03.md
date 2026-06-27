@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,11 +15,11 @@ tags:
 
 
 Although he paused for a reply, and truly said that he was there at
-Anthony’s request, the old man sat gazing at him in profound silence and
-with a perfectly blank face. Nor did he seem to have the least desire or
+Anthony’s request, the old man sat gazing at him in profound [[Silence|silence]] and
+with a perfectly blank face. Nor did he seem to have the least [[Desire|desire]] or
 impulse to pursue the conversation, though Mr Pecksniff looked towards
 the door, and pulled out his watch, and gave him many other hints that
-their time was short, and Jonas, if he kept his word, would soon return.
+their [[Time|time]] was short, and Jonas, if he kept his word, would soon return.
 But the strangest incident in all this strange behaviour was, that of a
 sudden, in a moment, so swiftly that it was impossible to trace how,
 or to observe any process of change, his features fell into their old
@@ -78,18 +78,18 @@ that be saved at least; let there be something gained, and kept fast
 hold of, when so much is lost.’
 
 ‘My dear Mr Chuzzlewit,’ said Pecksniff, ‘these are unwholesome fancies;
-quite unnecessary, sir, quite uncalled for, I am sure. The truth is, my
-dear sir, that you are not well!’
+quite unnecessary, sir, quite uncalled for, I am sure. The [[Truth|truth]] is, my
+dear sir, that you are not [[Well|well]]!’
 
 ‘Not dying though!’ cried Anthony, with something like the snarl of a
 wild animal. ‘Not yet! There are years of life in me. Why, look at him,’
-pointing to his feeble clerk. ‘Death has no right to leave him standing,
+pointing to his feeble clerk. ‘[[Death]] has no right to leave him standing,
 and to mow me down!’
 
 Mr Pecksniff was so much afraid of the old man, and so completely taken
 aback by the state in which he found him, that he had not even presence
-of mind enough to call up a scrap of morality from the great storehouse
-within his own breast. Therefore he stammered out that no doubt it was,
+of mind enough to call up a scrap of [[morality]] from the great storehouse
+within his own breast. Therefore he stammered out that no [[Doubt|doubt]] it was,
 in fairness and decency, Mr Chuffey’s turn to expire; and that from
 all he had heard of Mr Chuffey, and the little he had the pleasure of
 knowing of that gentleman, personally, he felt convinced in his own
@@ -112,19 +112,19 @@ Pecksniff; bind him. You’re too deep. In your way of leading him on,
 you’ll leave him miles behind. Bah, you man of oil, have I no eyes to
 see how you have angled with him from the first?’
 
-‘Now I wonder,’ thought Mr Pecksniff, looking at him with a wistful
+‘Now I [[Wonder|wonder]],’ thought Mr Pecksniff, looking at him with a wistful
 face, ‘whether this is all he has to say?’
 
 Old Anthony rubbed his hands and muttered to himself; complained again
-that he was cold; drew his chair before the fire; and, sitting with his
+that he was cold; drew his chair before the [[Fire|fire]]; and, sitting with his
 back to Mr Pecksniff, and his chin sunk down upon his breast, was, in
 another minute, quite regardless or forgetful of his presence.
 
 Uncouth and unsatisfactory as this short interview had been, it had
 furnished Mr Pecksniff with a hint which, supposing nothing further
-were imparted to him, repaid the journey up and home again. For the good
+were imparted to him, repaid the [[Journey|journey]] up and [[Home|home]] again. For the good
 gentleman had never (for want of an opportunity) dived into the depths
-of Mr Jonas’s nature; and any recipe for catching such a son-in-law
+of Mr Jonas’s [[Nature|nature]]; and any recipe for catching such a son-in-law
 (much more one written on a leaf out of his own father’s book) was worth
 the having. In order that he might lose no chance of improving so fair
 an opportunity by allowing Anthony to fall asleep before he had finished

@@ -29,7 +29,7 @@ This was respectful and becoming on the Major’s part, and Mr Dombey
 plainly felt it so. Although embarrassed in his own frigid way, by the
 Major’s allusions, Mr Dombey had no objection to such rallying, it was
 clear, but rather courted it. Perhaps the Major had been pretty near
-the truth, when he had divined that morning that the great man who was
+the [[Truth|truth]], when he had divined that morning that the great man who was
 too haughty formally to consult with, or confide in his prime minister,
 on such a matter, yet wished him to be fully possessed of it. Let this
 be how it may, he often glanced at Mr Carker while the Major plied his
@@ -45,12 +45,12 @@ stories, and cracking regimental jokes, which he did with such prodigal
 exuberance, that Carker was (or feigned to be) quite exhausted with
 laughter and admiration: while Mr Dombey looked on over his starched
 cravat, like the Major’s proprietor, or like a stately showman who was
-glad to see his bear dancing well.
+glad to see his bear dancing [[Well|well]].
 
 When the Major was too hoarse with meat and drink, and the display of
 his social powers, to render himself intelligible any longer, they
 adjourned to coffee. After which, the Major inquired of Mr Carker the
-Manager, with little apparent hope of an answer in the affirmative, if
+Manager, with little apparent [[Hope|hope]] of an answer in the affirmative, if
 he played picquet.
 
 “Yes, I play picquet a little,” said Mr Carker.
@@ -61,7 +61,7 @@ he played picquet.
 
 “Carker plays at all games, I believe,” said Mr Dombey, laying himself
 on a sofa like a man of wood, without a hinge or a joint in him; “and
-plays them well.”
+plays them [[Well|well]].”
 
 In sooth, he played the two in question, to such perfection, that the
 Major was astonished, and asked him, at random, if he played chess.
@@ -76,25 +76,25 @@ who plays nothing.”
 
 “Oh! He!” returned the Manager. “He has never had occasion to acquire
 such little arts. To men like me, they are sometimes useful. As at
-present, Major Bagstock, when they enable me to take a hand with you.”
+present, [[Major Bagstock]], when they enable me to take a hand with you.”
 
 It might be only the false mouth, so smooth and wide; and yet there
-seemed to lurk beneath the humility and subserviency of this short
+seemed to lurk beneath the [[Humility|humility]] and subserviency of this short
 speech, a something like a snarl; and, for a moment, one might have
 thought that the white teeth were prone to bite the hand they fawned
 upon. But the Major thought nothing about it; and Mr Dombey lay
 meditating with his eyes half shut, during the whole of the play, which
-lasted until bed-time.
+lasted until bed-[[Time|time]].
 
-By that time, Mr Carker, though the winner, had mounted high into the
+By that [[Time|time]], Mr Carker, though the winner, had mounted high into the
 Major’s good opinion, insomuch that when he left the Major at his own
 room before going to bed, the Major as a special attention, sent the
 Native—who always rested on a mattress spread upon the ground at his
 master’s door—along the gallery, to light him to his room in state.
 
-There was a faint blur on the surface of the mirror in Mr Carker’s
+There was a faint blur on the surface of the [[Mirror|mirror]] in Mr Carker’s
 chamber, and its reflection was, perhaps, a false one. But it showed,
-that night, the image of a man, who saw, in his fancy, a crowd of
+that [[Night|night]], the image of a man, who saw, in his fancy, a crowd of
 people slumbering on the ground at his feet, like the poor Native at
 his master’s door: who picked his way among them: looking down,
 maliciously enough: but trod upon no upturned face—as yet.

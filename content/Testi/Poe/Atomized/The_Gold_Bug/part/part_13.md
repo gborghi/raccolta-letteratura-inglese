@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 13)"
+title: "[[The Gold-Bug]] (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -136,7 +136,7 @@ tags:
 
 
 
-      “It is now time that we arrange our key, as far as discovered, in
+      “It is now [[Time|time]] that we arrange our key, as far as discovered, in
 
       a tabular form, to avoid confusion. It will stand thus:
 
@@ -172,7 +172,7 @@ tags:
 
       the details of the solution. I have said enough to convince you
 
-      that ciphers of this nature are readily soluble, and to give you
+      that ciphers of this [[Nature|nature]] are readily soluble, and to give you
 
       some insight into the rationale of their development. But be
 
@@ -180,7 +180,7 @@ tags:
 
       simplest species of cryptograph. It now only remains to give you
 
-      the full translation of the characters upon the parchment, as
+      the full [[Translation|translation]] of the characters upon the parchment, as
 
       unriddled. Here it is:
 
@@ -192,7 +192,7 @@ tags:
 
       main branch seventh limb east side shoot from the left eye of the
 
-      death’s-head a bee line from the tree through the shot fifty feet
+      [[Death|death]]’s-head a bee line from the tree through the shot fifty feet
 
       out_.’”
 
@@ -202,7 +202,7 @@ tags:
 
       ever. How is it possible to extort a meaning from all this jargon
 
-      about ‘devil’s seats,’ ‘death’s heads,’ and ‘bishop’s hotels?’”
+      about ‘devil’s seats,’ ‘[[Death|death]]’s heads,’ and ‘bishop’s hotels?’”
 
 
 
@@ -254,13 +254,13 @@ tags:
 
       north—main branch seventh limb east side—shoot from the left eye
 
-      of the death’s-head—a bee-line from the tree through the shot
+      of the [[Death|death]]’s-head—a bee-line from the tree through the shot
 
       fifty feet out.’”
 
 
 
-      “Even this division,” said I, “leaves me still in the dark.”
+      “Even this division,” said I, “[[Leaves|leaves]] me still in the dark.”
 
 
 
@@ -280,9 +280,9 @@ tags:
 
       quite suddenly, that this ‘Bishop’s Hostel’ might have some
 
-      reference to an old family, of the name of Bessop, which, time
+      reference to an old family, of the name of Bessop, which, [[Time|time]]
 
-      out of mind, had held possession of an ancient manor-house, about
+      out of mind, had held possession of an ancient manor-[[house]], about
 
       four miles to the northward of the island. I accordingly went
 
@@ -290,4 +290,4 @@ tags:
 
       older negroes of the place. At length one of the most aged of the
 
-      women said that she had heard of such a place as Bessop’s Castle,
+      women said that she had heard of such a place as Bessop’s [[Castle]],

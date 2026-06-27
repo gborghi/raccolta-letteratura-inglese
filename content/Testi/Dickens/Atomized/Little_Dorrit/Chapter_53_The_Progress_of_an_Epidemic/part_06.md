@@ -18,53 +18,53 @@ tags:
 on Clennam’s knee, ‘brings me back, sir, to the Investments! I don’t
 say anything of your making yourself poor to repair a wrong you never
 committed. That’s you. A man must be himself. But I say this,
-fearing you may want money to save your own blood from exposure and
+fearing you may want money to save your own [[Blood|blood]] from exposure and
 disgrace--make as much as you can!’
 
-Arthur shook his head, but looked at him thoughtfully too.
+[[arthur|Arthur]] shook his head, but looked at him thoughtfully too.
 
 ‘Be as rich as you can, sir,’ Pancks adjured him with a powerful
 concentration of all his energies on the advice. ‘Be as rich as you
 honestly can. It’s your duty. Not for your sake, but for the sake of
-others. Take time by the forelock. Poor Mr Doyce (who really _is_ growing
+others. Take [[Time|time]] by the forelock. Poor Mr Doyce (who really _is_ growing
 old) depends upon you. Your relative depends upon you. You don’t know
 what depends upon you.’
 
-‘Well, well, well!’ returned Arthur. ‘Enough for to-night.’
+‘[[Well]], [[Well|well]], [[Well|well]]!’ returned [[arthur|Arthur]]. ‘Enough for to-[[Night|night]].’
 
 ‘One word more, Mr Clennam,’ retorted Pancks, ‘and then enough for
-to-night. Why should you leave all the gains to the gluttons, knaves,
+to-[[Night|night]]. Why should you leave all the gains to the gluttons, knaves,
 and impostors? Why should you leave all the gains that are to be got to
 my proprietor and the like of him? Yet you’re always doing it. When I
 say you, I mean such men as you. You know you are. Why, I see it
 every day of my life. I see nothing else. It’s my business to see it.
 Therefore I say,’ urged Pancks, ‘Go in and win!’
 
-‘But what of Go in and lose?’ said Arthur.
+‘But what of Go in and lose?’ said [[arthur|Arthur]].
 
 ‘Can’t be done, sir,’ returned Pancks. ‘I have looked into it. Name up
 everywhere--immense resources--enormous capital--great position--high
-connection--government influence. Can’t be done!’
+connection--[[government]] influence. Can’t be done!’
 
-Gradually, after this closing exposition, Mr Pancks subsided; allowed
+Gradually, after this closing exposition, [[Mr Pancks]] subsided; allowed
 his hair to droop as much as it ever would droop on the utmost
-persuasion; reclaimed the pipe from the fire-irons, filled it anew, and
+[[Persuasion|persuasion]]; reclaimed the pipe from the [[Fire|fire]]-irons, filled it anew, and
 smoked it out. They said little more; but were company to one another in
 silently pursuing the same subjects, and did not part until midnight.
-On taking his leave, Mr Pancks, when he had shaken hands with Clennam,
+On taking his leave, [[Mr Pancks]], when he had shaken hands with Clennam,
 worked completely round him before he steamed out at the door. This,
-Arthur received as an assurance that he might implicitly rely on Pancks,
+[[arthur|Arthur]] received as an assurance that he might implicitly rely on Pancks,
 if he ever should come to need assistance; either in any of the matters
-of which they had spoken that night, or any other subject that could in
+of which they had spoken that [[Night|night]], or any other subject that could in
 any way affect himself.
 
 At intervals all next day, and even while his attention was fixed on
-other things, he thought of Mr Pancks’s investment of his thousand
-pounds, and of his having ‘looked into it.’ He thought of Mr Pancks’s
+other things, he thought of [[Mr Pancks]]’s investment of his thousand
+pounds, and of his having ‘looked into it.’ He thought of [[Mr Pancks]]’s
 being so sanguine in this matter, and of his not being usually of a
 sanguine character. He thought of the great National Department, and of
 the delight it would be to him to see Doyce better off. He thought
-of the darkly threatening place that went by the name of Home in his
+of the darkly threatening place that went by the name of [[Home]] in his
 remembrance, and of the gathering shadows which made it yet more darkly
 threatening than of old. He observed anew that wherever he went, he
 saw, or heard, or touched, the celebrated name of Merdle; he found it

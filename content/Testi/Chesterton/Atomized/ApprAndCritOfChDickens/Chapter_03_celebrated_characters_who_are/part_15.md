@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 15)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 impressive challenge. Let anyone who thinks that Dickens could not
 
-describe the semi-tones and the abrupt instincts of real human nature
+describe the semi-tones and the abrupt instincts of real human [[Nature|nature]]
 
 simply take the trouble to read the stretch of chapters which detail the
 
@@ -26,7 +26,7 @@ Chancery. Let him note the manner in which the mere masculinity of
 
 Carstone is caught; how as he grows more mad he grows more logical, nay,
 
-more rational. Good women who love him come to him, and point out the
+more rational. Good women who [[Love|love]] him come to him, and point out the
 
 fact that Jarndyce is a good man, a fact to them solid like an object of
 
@@ -44,7 +44,7 @@ beats itself like battering waves against the thin smooth wall of his
 
 insane consistency. I repeat: let any one who thinks that Dickens was a
 
-gross and indelicate artist read that part of the book. If Dickens had
+gross and indelicate [[artist]] read that part of the book. If Dickens had
 
 been the clumsy journalist that such people represent, he never could
 
@@ -52,7 +52,7 @@ have written such an episode at all. A clumsy journalist would have
 
 made Rick Carstone in his mad career cast off Esther and Ada and the
 
-others. The great artist knew better. He knew that even if all the good
+others. The great [[artist]] knew better. He knew that even if all the good
 
 in a man is dying, the last sense that dies is the sense that knows a
 
@@ -66,29 +66,29 @@ Jarndyce with an explosion of hatred, as of one who had made an
 
 exposure--who had found out what low people call "a false friend" in
 
-what they call "his true colours." The great artist knew better; he knew
+what they call "his true colours." The great [[artist]] knew better; he knew
 
-that a good man going wrong tries to salve his soul to the last with the
+that a good man going wrong tries to salve his [[Soul|soul]] to the last with the
 
-sense of generosity and intellectual justice. He will try to love his
+sense of generosity and intellectual justice. He will try to [[Love|love]] his
 
-enemy if only out of mere love of himself. As the wolf dies fighting,
+enemy if only out of mere [[Love|love]] of himself. As the wolf dies fighting,
 
 the good man gone wrong dies arguing. This is what constitutes the true
 
-and real tragedy of Richard Carstone. It is strictly the one and only
+and real [[Tragedy|tragedy]] of [[Richard Carstone]]. It is strictly the one and only
 
-great tragedy that Dickens wrote. It is like the tragedy of Hamlet. The
+great [[Tragedy|tragedy]] that Dickens wrote. It is like the [[Tragedy|tragedy]] of [[Hamlet]]. The
 
 others are not tragedies because they deal almost with dead men. The
 
-tragedy of old Dorrit is merely the sad spectacle of a dotard dragged
+[[Tragedy|tragedy]] of old Dorrit is merely the sad spectacle of a dotard dragged
 
-about Europe in his last childhood. The tragedy of Steerforth is only
+about Europe in his last [[Childhood|childhood]]. The [[Tragedy|tragedy]] of Steerforth is only
 
-that of one who dies suddenly; the tragedy of old Dombey only that of
+that of one who dies suddenly; the [[Tragedy|tragedy]] of old Dombey only that of
 
-one who was dead all the time. But Rick is a real tragedy, for he is
+one who was dead all the [[Time|time]]. But Rick is a real [[Tragedy|tragedy]], for he is
 
 still alive when the quicksand sucks him down.
 
@@ -112,13 +112,13 @@ things, certainly meant us to read this story in terms of his protest
 
 and his insurrection against the emptiness and arrogance of law, against
 
-the folly and the pride of judges. Everything else that there is in this
+the folly and the [[Pride|pride]] of judges. Everything else that there is in this
 
 story entered into it through the unconscious or accidental energy of
 
-his genius, which broke in at every gap. But it was the tragedy of
+his genius, which broke in at every gap. But it was the [[Tragedy|tragedy]] of
 
-Richard Carstone that he meant, not the comedy of Harold Skimpole. He
+[[Richard Carstone]] that he meant, not the [[Comedy|comedy]] of [[Harold Skimpole]]. He
 
 could not help being amusing; but he meant to be depressing.
 
@@ -132,11 +132,11 @@ Dickens at his best in his old and more familiar satiric manner. But in
 
 the midst of the Jellyby pandemonium, which is in itself described with
 
-the same _abandon_ and irrelevance as the boarding-house of Mrs. Todgers
+the same _abandon_ and irrelevance as the boarding-[[house]] of Mrs. Todgers
 
 or the travelling theatre of Mr. Crummles, the elder Dickens introduced
 
-another piece of pure truth and even tenderness. I mean the account of
+another piece of pure [[Truth|truth]] and even tenderness. I mean the account of
 
 Caddy Jellyby. If Carstone is a truly masculine study of how a man goes
 
@@ -144,7 +144,7 @@ wrong, Caddy is a perfectly feminine study of how a girl goes right.
 
 Nowhere else perhaps in fiction, and certainly nowhere else in Dickens,
 
-is the mere female paradox so well epitomised, the unjust use of words
+is the mere female [[Paradox|paradox]] so [[Well|well]] epitomised, the unjust use of words
 
 covering so much capacity for a justice of ultimate estimate; the
 
@@ -154,9 +154,9 @@ pitiless sense of responsibility about things; the air of being always
 
 at daggers-drawn with her own kindred, yet the confession of incurable
 
-kinship implied in pride and shame; and, above all, that thirst for
+kinship implied in [[Pride|pride]] and shame; and, above all, that thirst for
 
-order and beauty as for something physical; that strange female power of
+order and [[Beauty|beauty]] as for something physical; that strange female power of
 
 hating ugliness and waste as good men can only hate sin and bad men
 
@@ -178,13 +178,13 @@ With one or two exceptions, all the effects in this story are of this
 
 somewhat quieter kind, though none of them are so subtly successful as
 
-Rick Carstone and Caddy. Harold Skimpole begins as a sketch drawn with a
+Rick Carstone and Caddy. [[Harold Skimpole]] begins as a [[Sketch|sketch]] drawn with a
 
-pencil almost as airy and fanciful as his own. The humour of the earlier
+pencil almost as airy and fanciful as his own. The [[Humour|humour]] of the earlier
 
 scenes is delightful--the scenes in which Skimpole looks on at other
 
-people paying his debts with the air of a kindly outsider, and suggests
+people paying his debts with the air of a kindly [[Outsider|outsider]], and suggests
 
 in formless legal phraseology that they might "sign something" or "make
 

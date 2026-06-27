@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Discussion Somewhat in the Air"
+title: "ball and [[Cross|cross]] — A Discussion Somewhat in the Air"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,21 +16,21 @@ tags:
 
 I. A DISCUSSION SOMEWHAT IN THE AIR
 
-The flying ship of Professor Lucifer sang through the skies like a
+The flying [[Ship|ship]] of Professor [[Lucifer]] sang through the skies like a
 silver arrow; the bleak white steel of it, gleaming in the bleak blue
 emptiness of the evening.  That it was far above the earth was no
 expression for it; to the two men in it, it seemed to be far above
-the stars.  The professor had himself invented the flying machine,
+the [[Stars|stars]].  [[The Professor|The professor]] had himself invented the flying [[Machine|machine]],
 and had also invented nearly everything in it.  Every sort of tool
 or apparatus had, in consequence, to the full, that fantastic
 and distorted look which belongs to the miracles of science.
 For the world of science and evolution is far more nameless and
-elusive and like a dream than the world of poetry and religion;
+elusive and like [[A Dream|a dream]] than the world of poetry and religion;
 since in the latter images and ideas remain themselves eternally,
 while it is the whole idea of evolution that identities melt into
-each other as they do in a nightmare.
+each other as they do in a [[nightmare]].
 
-All the tools of Professor Lucifer were the ancient human tools
+All the tools of Professor [[Lucifer]] were the ancient human tools
 gone mad, grown into unrecognizable shapes, forgetful of their origin,
 forgetful of their names.  That thing which looked like an enormous
 key with three wheels was really a patent and very deadly revolver.
@@ -38,20 +38,20 @@ That object which seemed to be created by the entanglement of two
 corkscrews was really the key.  The thing which might have been
 mistaken for a tricycle turned upside-down was the inexpressibly
 important instrument to which the corkscrew was the key.
-All these things, as I say, the professor had invented; he had invented
-everything in the flying ship, with the exception, perhaps, of himself.
+All these things, as I say, [[The Professor|the professor]] had invented; he had invented
+everything in the flying [[Ship|ship]], with the exception, perhaps, of himself.
 This he had been born too late actually to inaugurate, but he believed
 at least, that he had considerably improved it.
 
 There was, however, another man on board, so to speak,
-at the time.  Him, also, by a curious coincidence, the professor
+at the [[Time|time]].  Him, also, by a curious coincidence, [[The Professor|the professor]]
 had not invented, and him he had not even very greatly improved,
-though he had fished him up with a lasso out of his own back garden,
+though he had fished him up with a lasso out of his own back [[Garden|garden]],
 in Western Bulgaria, with the pure object of improving him.
 He was an exceedingly holy man, almost entirely covered with white hair.
 You could see nothing but his eyes, and he seemed to talk with them.
 A monk of immense learning and acute intellect he had made himself
-happy in a little stone hut and a little stony garden in the Balkans,
+happy in a little stone hut and a little stony [[Garden|garden]] in the Balkans,
 chiefly by writing the most crushing refutations of exposures
 of certain heresies, the last professors of which had been burnt
 (generally by each other) precisely 1,119 years previously.
@@ -60,40 +60,40 @@ and it was really a creditable or even glorious circumstance,
 that the old monk had been intellectual enough to detect
 their fallacy; the only misfortune was that nobody in the modern
 world was intellectual enough even to understand their argument.
-The old monk, one of whose names was Michael, and the other a name
+The old monk, one of whose names was [[Michael]], and the other a name
 quite impossible to remember or repeat in our Western civilization,
 had, however, as I have said, made himself quite happy while
-he was in a mountain hermitage in the society of wild animals.
-And now that his luck had lifted him above all the mountains
+he was in a mountain hermitage in the society of wild [[Animals|animals]].
+And now that his luck had lifted him above all the [[Mountains|mountains]]
 in the society of a wild physicist, he made himself happy still.
 
-"I have no intention, my good Michael," said Professor Lucifer,
-"of endeavouring to convert you by argument.  The imbecility of your
+"I have no intention, my good [[Michael]]," said Professor [[Lucifer]],
+"of endeavouring to [[convert]] you by argument.  The imbecility of your
 traditions can be quite finally exhibited to anybody with mere
 ordinary knowledge of the world, the same kind of knowledge which
 teaches us not to sit in draughts or not to encourage friendliness
 in impecunious people.  It is folly to talk of this or that
-demonstrating the rationalist philosophy.  Everything demonstrates it.
+demonstrating the rationalist [[philosophy]].  Everything demonstrates it.
 Rubbing shoulders with men of all kinds----"
 
 "You will forgive me," said the monk, meekly from under loads
-of white beard, "but I fear I do not understand; was it in order
+of white beard, "but I [[Fear|fear]] I do not understand; was it in order
 that I might rub my shoulder against men of all kinds that you put
 me inside this thing?"
 
 "An entertaining retort, in the narrow and deductive manner
-of the Middle Ages," replied the Professor, calmly, "but even upon
+of the Middle Ages," replied [[The Professor|the Professor]], calmly, "but even upon
 your own basis I will illustrate my point.  We are up in the sky.
 In your religion and all the religions, as far as I know (and I
 know everything), the sky is made the symbol of everything that is
-sacred and merciful.  Well, now you are in the sky, you know better.
+sacred and merciful.  [[Well]], now you are in the sky, you know better.
 Phrase it how you like, twist it how you like, you know that you
 know better.  You know what are a man's real feelings about the heavens,
-when he finds himself alone in the heavens, surrounded by the heavens.
-You know the truth, and the truth is this.  The heavens are evil,
-the sky is evil, the stars are evil.  This mere space, this mere
+when he finds himself [[Alone|alone]] in the heavens, surrounded by the heavens.
+You know the [[Truth|truth]], and the [[Truth|truth]] is this.  The heavens are evil,
+the sky is evil, the [[Stars|stars]] are evil.  This mere space, this mere
 quantity, terrifies a man more than tigers or the terrible plague.
-You know that since our science has spoken, the bottom has fallen
+You know that since our science has spoken, the [[Bottom|bottom]] has fallen
 out of the Universe.  Now, heaven is the hopeless thing, more hopeless
 than any hell.  Now, if there be any comfort for all your miserable
 progeny of morbid apes, it must be in the earth, underneath you,
@@ -101,54 +101,54 @@ under the roots of the grass, in the place where hell was of old.
 The fiery crypts, the lurid cellars of the underworld,
 to which you once condemned the wicked, are hideous enough,
 but at least they are more homely than the heaven in which we ride.
-And the time will come when you will all hide in them, to escape
-the horror of the stars."
+And the [[Time|time]] will come when you will all hide in them, to escape
+the horror of the [[Stars|stars]]."
 
-"I hope you will excuse my interrupting you," said Michael,
+"I [[Hope|hope]] you will excuse my interrupting you," said [[Michael]],
 with a slight cough, "but I have always noticed----"
 
-"Go on, pray go on," said Professor Lucifer, radiantly, "I really
+"Go on, pray go on," said Professor [[Lucifer]], radiantly, "I really
 like to draw out your simple ideas."
 
-"Well, the fact is," said the other, "that much as I admire your rhetoric
+"[[Well]], the fact is," said the other, "that much as I admire your rhetoric
 and the rhetoric of your school, from a purely verbal point of view,
-such little study of you and your school in human history as I have
+such little study of you and your school in human [[history]] as I have
 been enabled to make has led me to--er--rather singular conclusion,
 which I find great difficulty in expressing, especially in
 a foreign language."
 
-"Come, come," said the Professor, encouragingly, "I'll help you out.
+"Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
 How did my view strike you?"
 
-"Well, the truth is, I know I don't express it properly, but somehow
+"[[Well]], the [[Truth|truth]] is, I know I don't express it properly, but somehow
 it seemed to me that you always convey ideas of that kind with
 most eloquence, when--er--when-- --"
 
-"Oh! get on," cried Lucifer, boisterously.
+"Oh! get on," cried [[Lucifer]], boisterously.
 
-"Well, in point of fact when your flying ship is just going to run
+"[[Well]], in point of fact when your flying [[Ship|ship]] is just going to run
 into something.  I thought you wouldn't mind my mentioning it,
 but it's running into something now."
 
-Lucifer exploded with an oath and leapt erect, leaning hard
+[[Lucifer]] exploded with an oath and leapt erect, leaning hard
 upon the handle that acted as a helm to the vessel.
 For the last ten minutes they had been shooting downwards into great
 cracks and caverns of cloud.  Now, through a sort of purple haze,
 could be seen comparatively near to them what seemed to be the upper
 part of a huge, dark orb or sphere, islanded in a sea of cloud.
-The Professor's eyes were blazing like a maniac's.
+[[The Professor]]'s eyes were blazing like a maniac's.
 
 "It is a new world," he cried, with a dreadful mirth.
 "It is a new planet and it shall bear my name.  This star and not
-that other vulgar one shall be 'Lucifer, sun of the morning.'
+that other vulgar one shall be '[[Lucifer]], sun of the morning.'
 Here we will have no chartered lunacies, here we will have no gods.
-Here man shall be as innocent as the daisies, as innocent and as cruel--
+Here man shall be as [[Innocent|innocent]] as the daisies, as [[Innocent|innocent]] and as cruel--
 here the intellect----"
 
-"There seems," said Michael, timidly, "to be something sticking up
+"There seems," said [[Michael]], timidly, "to be something sticking up
 in the middle of it."
 
-"So there is," said the Professor, leaning over the side of the ship,
+"So there is," said [[The Professor|the Professor]], leaning over the side of the [[Ship|ship]],
 his spectacles shining with intellectual excitement.  "What can it be?
 It might of course be merely a----"
 
@@ -156,106 +156,106 @@ Then a shriek indescribable broke out of him of a sudden, and he flung
 up his arms like a lost spirit.  The monk took the helm in a tired way;
 he did not seem much astonished for he came from an ignorant part
 of the world in which it is not uncommon for lost spirits to shriek
-when they see the curious shape which the Professor had just seen
+when they see the curious shape which [[The Professor|the Professor]] had just seen
 on the top of the mysterious ball, but he took the helm only just
-in time, and by driving it hard to the left he prevented the flying
-ship from smashing into St. Paul's Cathedral.
+in [[Time|time]], and by driving it hard to the left he prevented the flying
+[[Ship|ship]] from smashing into St. Paul's [[Cathedral]].
 
 A plain of sad-coloured cloud lay along the level of the top of
-the Cathedral dome, so that the ball and the cross looked like a buoy
-riding on a leaden sea.  As the flying ship swept towards it, this plain
-of cloud looked as dry and definite and rocky as any grey desert.
-Hence it gave to the mind and body a sharp and unearthly sensation
-when the ship cut and sank into the cloud as into any common mist,
+the [[Cathedral]] dome, so that the ball and the [[Cross|cross]] looked like a buoy
+riding on a leaden sea.  As the flying [[Ship|ship]] swept towards it, this plain
+of cloud looked as dry and definite and rocky as any grey [[Desert|desert]].
+Hence it gave to the mind and [[Body|body]] a sharp and unearthly sensation
+when the [[Ship|ship]] cut and sank into the cloud as into any common mist,
 a thing without resistance.  There was, as it were, a deadly shock
 in the fact that there was no shock.  It was as if they had cloven
 into ancient cliffs like so much butter.  But sensations awaited them
 which were much stranger than those of sinking through the solid earth.
 For a moment their eyes and nostrils were stopped with darkness
 and opaque cloud; then the darkness warmed into a kind of brown fog.
-And far, far below them the brown fog fell until it warmed into fire.
-Through the dense London atmosphere they could see below them
-the flaming London lights; lights which lay beneath them in
-squares and oblongs of fire.  The fog and fire were mixed in a
+And far, far below them the brown fog fell until it warmed into [[Fire|fire]].
+Through the dense [[London]] atmosphere they could see below them
+the flaming [[London]] lights; lights which lay beneath them in
+squares and oblongs of [[Fire|fire]].  The fog and [[Fire|fire]] were mixed in a
 passionate vapour; you might say that the fog was drowning the flames;
-or you might say that the flames had set the fog on fire.
-Beside the ship and beneath it (for it swung just under the ball),
+or you might say that the flames had set the fog on [[Fire|fire]].
+Beside the [[Ship|ship]] and beneath it (for it swung just under the ball),
 the immeasurable dome itself shot out and down into the dark like a
 combination of voiceless cataracts.  Or it was like some cyclopean
-sea-beast sitting above London and letting down its tentacles
+sea-beast sitting above [[London]] and letting down its tentacles
 bewilderingly on every side, a monstrosity in that starless heaven.
-For the clouds that belonged to London had closed over the heads
+For the clouds that belonged to [[London]] had closed over the heads
 of the voyagers sealing up the entrance of the upper air.
 They had broken through a roof and come into a temple of twilight.
 
-They were so near to the ball that Lucifer leaned his hand against it,
+They were so near to the ball that [[Lucifer]] leaned his hand against it,
 holding the vessel away, as men push a boat off from a bank.
-Above it the cross already draped in the dark mists of the borderland
+Above it the [[Cross|cross]] already draped in the dark mists of the borderland
 was shadowy and more awful in shape and size.
 
-Professor Lucifer slapped his hand twice upon the surface
+Professor [[Lucifer]] slapped his hand twice upon the surface
 of the great orb as if he were caressing some enormous animal.
 "This is the fellow," he said, "this is the one for my money."
 
 "May I with all respect inquire," asked the old monk, "what on earth
 you are talking about?"
 
-"Why this," cried Lucifer, smiting the ball again, "here is
+"Why this," cried [[Lucifer]], smiting the ball again, "here is
 the only symbol, my boy.  So fat.  So satisfied.  Not like that
 scraggy individual, stretching his arms in stark weariness."
-And he pointed up to the cross, his face dark with a grin.
-"I was telling you just now, Michael, that I can prove the best
+And he pointed up to the [[Cross|cross]], his face dark with a grin.
+"I was telling you just now, [[Michael]], that I can prove the best
 part of the rationalist case and the Christian humbug from any
 symbol you liked to give me, from any instance I came across.
 Here is an instance with a vengeance.  What could possibly express
-your philosophy and my philosophy better than the shape of that cross
-and the shape of this ball?  This globe is reasonable; that cross
+your [[philosophy]] and my [[philosophy]] better than the shape of that [[Cross|cross]]
+and the shape of this ball?  This globe is reasonable; that [[Cross|cross]]
 is unreasonable.  It is a four-legged animal, with one leg longer
-than the others.  The globe is inevitable.  The cross is arbitrary.
-Above all the globe is at unity with itself; the cross is primarily
-and above all things at enmity with itself.  The cross is
+than the others.  The globe is inevitable.  The [[Cross|cross]] is arbitrary.
+Above all the globe is at [[unity]] with itself; the [[Cross|cross]] is primarily
+and above all things at enmity with itself.  The [[Cross|cross]] is
 the conflict of two hostile lines, of irreconcilable direction.
 That silent thing up there is essentially a collision, a crash,
 a struggle in stone.  Pah! that sacred symbol of yours has actually
 given its name to a description of desperation and muddle.
 When we speak of men at once ignorant of each other and frustrated
-by each other, we say they are at cross-purposes. Away with the thing!
+by each other, we say they are at [[Cross|cross]]-purposes. Away with the thing!
 The very shape of it is a contradiction in terms."
 
-"What you say is perfectly true," said Michael, with serenity.
+"What you say is perfectly true," said [[Michael]], with serenity.
 "But we like contradictions in terms.  Man is a contradiction
 in terms; he is a beast whose superiority to other beasts
-consists in having fallen.  That cross is, as you say,
+consists in having fallen.  That [[Cross|cross]] is, as you say,
 an eternal collision; so am I. That is a struggle in stone.
-Every form of life is a struggle in flesh.  The shape of the cross
+Every form of life is a struggle in flesh.  The shape of the [[Cross|cross]]
 is irrational, just as the shape of the human animal is irrational.
-You say the cross is a quadruped with one limb longer than the rest.
+You say the [[Cross|cross]] is a quadruped with one limb longer than the rest.
 I say man is a quadruped who only uses two of his legs."
 
-The Professor frowned thoughtfully for an instant, and said:
+[[The Professor]] frowned thoughtfully for an instant, and said:
 "Of course everything is relative, and I would not deny that
-the element of struggle and self-contradiction, represented by
-that cross, has a necessary place at a certain evolutionary stage.
-But surely the cross is the lower development and the sphere the higher.
+the element of struggle and [[Self|self]]-contradiction, represented by
+that [[Cross|cross]], has a necessary place at a certain evolutionary stage.
+But surely the [[Cross|cross]] is the lower development and the sphere the higher.
 After all it is easy enough to see what is really wrong with
 Wren's architectural arrangement."
 
-"And what is that, pray?" inquired Michael, meekly.
+"And what is that, pray?" inquired [[Michael]], meekly.
 
-"The cross is on top of the ball," said Professor Lucifer, simply.
-"That is surely wrong.  The ball should be on top of the cross.
-The cross is a mere barbaric prop; the ball is perfection.
-The cross at its best is but the bitter tree of man's history;
+"The [[Cross|cross]] is on top of the ball," said Professor [[Lucifer]], simply.
+"That is surely wrong.  The ball should be on top of the [[Cross|cross]].
+The [[Cross|cross]] is a mere barbaric prop; the ball is perfection.
+The [[Cross|cross]] at its best is but the bitter tree of man's [[history]];
 the ball is the rounded, the ripe and final fruit.  And the fruit
-should be at the top of the tree, not at the bottom of it."
+should be at the top of the tree, not at the [[Bottom|bottom]] of it."
 
 "Oh!" said the monk, a wrinkle coming into his forehead, "so you
 think that in a rationalistic scheme of symbolism the ball should
-be on top of the cross?"
+be on top of the [[Cross|cross]]?"
 
-"It sums up my whole allegory," said the professor.
+"It sums up my whole [[Allegory|allegory]]," said [[The Professor|the professor]].
 
-"Well, that is really very interesting," resumed Michael slowly,
+"[[Well]], that is really very interesting," resumed [[Michael]] slowly,
 "because I think in that case you would see a most singular effect,
 an effect that has generally been achieved by all those able and
 powerful systems which rationalism, or the religion of the ball,
@@ -263,59 +263,59 @@ has produced to lead or teach mankind.  You would see, I think,
 that thing happen which is always the ultimate embodiment and logical
 outcome of your logical scheme."
 
-"What are you talking about?" asked Lucifer.  "What would happen?"
+"What are you talking about?" asked [[Lucifer]].  "What would happen?"
 
 "I mean it would fall down," said the monk, looking wistfully
 into the void.
 
-Lucifer made an angry movement and opened his mouth to speak,
-but Michael, with all his air of deliberation, was proceeding
+[[Lucifer]] made an angry movement and opened his mouth to speak,
+but [[Michael]], with all his air of deliberation, was proceeding
 before he could bring out a word.
 
-"I once knew a man like you, Lucifer," he said, with a maddening
+"I once knew a man like you, [[Lucifer]]," he said, with a maddening
 monotony and slowness of articulation.  "He took this----"
 
-"There is no man like me," cried Lucifer, with a violence that
-shook the ship.
+"There is no man like me," cried [[Lucifer]], with a violence that
+shook the [[Ship|ship]].
 
-"As I was observing," continued Michael, "this man also took
-the view that the symbol of Christianity was a symbol of
-savagery and all unreason.  His history is rather amusing.
-It is also a perfect allegory of what happens to rationalists
+"As I was observing," continued [[Michael]], "this man also took
+the view that the symbol of [[Christianity]] was a symbol of
+savagery and all unreason.  His [[history]] is rather amusing.
+It is also a perfect [[Allegory|allegory]] of what happens to rationalists
 like yourself.  He began, of course, by refusing to allow a crucifix
-in his house, or round his wife's neck, or even in a picture.
+in his [[house]], or round his wife's neck, or even in a picture.
 He said, as you say, that it was an arbitrary and fantastic shape,
 that it was a monstrosity, loved because it was paradoxical.
 Then he began to grow fiercer and more eccentric; he would batter
 the crosses by the roadside; for he lived in a Roman Catholic country.
 Finally in a height of frenzy he climbed the steeple of the
-Parish Church and tore down the cross, waving it in the air,
-and uttering wild soliloquies up there under the stars.
-Then one still summer evening as he was wending his way homewards,
-along a lane, the devil of his madness came upon him with a violence
+Parish Church and tore down the [[Cross|cross]], waving it in the air,
+and uttering wild soliloquies up there under the [[Stars|stars]].
+Then one still [[Summer|summer]] evening as he was wending his way homewards,
+along a lane, the devil of his [[Madness|madness]] came upon him with a violence
 and transfiguration which changes the world.  He was standing smoking,
 for a moment, in the front of an interminable line of palings,
 when his eyes were opened.  Not a light shifted, not a leaf stirred,
 but he saw as if by a sudden change in the eyesight that this paling
-was an army of innumerable crosses linked together over hill and dale.
+was an army of innumerable crosses linked together over [[Hill|hill]] and dale.
 And he whirled up his heavy stick and went at it as if at an army.
 Mile after mile along his homeward path he broke it down and tore it up.
-For he hated the cross and every paling is a wall of crosses.
-When he returned to his house he was a literal madman.
+For he hated the [[Cross|cross]] and every paling is a wall of crosses.
+When he returned to his [[house]] he was a literal madman.
 He sat upon a chair and then started up from it for the
-cross-bars of the carpentry repeated the intolerable image.
+[[Cross|cross]]-bars of the carpentry repeated the intolerable image.
 He flung himself upon a bed only to remember that this, too,
 like all workmanlike things, was constructed on the accursed plan.
 He broke his furniture because it was made of crosses.
-He burnt his house because it was made of crosses.  He was found
-in the river."
+He burnt his [[house]] because it was made of crosses.  He was found
+in the [[River|river]]."
 
-Lucifer was looking at him with a bitten lip.
+[[Lucifer]] was looking at him with a bitten lip.
 
 "Is that story really true?" he asked.
 
-"Oh, no," said Michael, airily.  "It is a parable.  It is a parable
-of you and all your rationalists.  You begin by breaking up the Cross;
+"Oh, no," said [[Michael]], airily.  "It is a [[Parable|parable]].  It is a [[Parable|parable]]
+of you and all your rationalists.  You begin by breaking up the [[Cross]];
 but you end by breaking up the habitable world.  We leave you
 saying that nobody ought to join the Church against his will.
 When we meet you again you are saying that no one has any will to join
@@ -324,55 +324,55 @@ We find you saying that there is no such place as Ireland.
 You start by hating the irrational and you come to hate everything,
 for everything is irrational and so----"
 
-Lucifer leapt upon him with a cry like a wild beast's. "Ah,"
-he screamed, "to every man his madness.  You are mad on the cross.
+[[Lucifer]] leapt upon him with a cry like a wild beast's. "Ah,"
+he screamed, "to every man his [[Madness|madness]].  You are mad on the [[Cross|cross]].
 Let it save you."
 
 And with a herculean energy he forced the monk backwards out
 of the reeling car on to the upper part of the stone ball.
-Michael, with as abrupt an agility, caught one of the beams of the cross
-and saved himself from falling.  At the same instant Lucifer drove
-down a lever and the ship shot up with him in it alone.
+[[Michael]], with as abrupt an agility, caught one of the beams of the [[Cross|cross]]
+and saved himself from falling.  At the same instant [[Lucifer]] drove
+down a lever and the [[Ship|ship]] shot up with him in it [[Alone|alone]].
 
 "Ha! ha!" he yelled, "what sort of a support do you find it, old fellow?"
 
-"For practical purposes of support," replied Michael grimly,
+"For practical purposes of support," replied [[Michael]] grimly,
 "it is at any rate a great deal better than the ball.
 May I ask if you are going to leave me here?"
 
-"Yes, yes.  I mount!  I mount!" cried the professor in
+"Yes, yes.  I mount!  I mount!" cried [[The Professor|the professor]] in
 ungovernable excitement.  "_Altiora peto_.  My path is upward."
 
 "How often have you told me, Professor, that there is really no
 up or down in space?" said the monk.  "I shall mount up as much
 as you will."
 
-"Indeed," said Lucifer, leering over the side of the flying ship.
+"Indeed," said [[Lucifer]], leering over the side of the flying [[Ship|ship]].
 "May I ask what you are going to do?"
 
-The monk pointed downward at Ludgate Hill.  "I am going," he said,
+The monk pointed downward at Ludgate [[Hill]].  "I am going," he said,
 "to climb up into a star."
 
-Those who look at the matter most superficially regard paradox
+Those who look at the matter most superficially regard [[Paradox|paradox]]
 as something which belongs to jesting and light journalism.
-Paradox of this kind is to be found in the saying of the dandy, in the
-decadent comedy, "Life is much too important to be taken seriously."
+[[Paradox]] of this kind is to be found in the saying of the dandy, in the
+decadent [[Comedy|comedy]], "Life is much too important to be taken seriously."
 Those who look at the matter a little more deeply or delicately see
-that paradox is a thing which especially belongs to all religions.
-Paradox of this kind is to be found in such a saying as "The meek
+that [[Paradox|paradox]] is a thing which especially belongs to all religions.
+[[Paradox]] of this kind is to be found in such a saying as "The meek
 shall inherit the earth."  But those who see and feel the fundamental
-fact of the matter know that paradox is a thing which belongs not
+fact of the matter know that [[Paradox|paradox]] is a thing which belongs not
 to religion only, but to all vivid and violent practical crises
-of human living.  This kind of paradox may be clearly perceived
+of human living.  This kind of [[Paradox|paradox]] may be clearly perceived
 by anybody who happens to be hanging in mid-space, clinging to one
-arm of the Cross of St. Paul's.
+arm of the [[Cross]] of St. Paul's.
 
-Father Michael in spite of his years, and in spite of his asceticism
+Father [[Michael]] in spite of his years, and in spite of his asceticism
 (or because of it, for all I know), was a very healthy and happy
 old gentleman.  And as he swung on a bar above the sickening
 emptiness of air, he realized, with that sort of dead detachment
 which belongs to the brains of those in peril, the deathless and
-hopeless contradiction which is involved in the mere idea of courage.
+hopeless contradiction which is involved in the mere idea of [[Courage|courage]].
 He was a happy and healthy old gentleman and therefore he was quite
 careless about it.  And he felt as every man feels in the taut
 moment of such terror that his chief danger was terror itself;
@@ -382,38 +382,38 @@ His one wild chance of coming out safely would be in not too desperately
 desiring to be safe.  There might be footholds down that awful facade,
 if only he could not care whether they were footholds or no.
 If he were foolhardy he might escape; if he were wise he would
-stop where he was till he dropped from the cross like a stone.
+stop where he was till he dropped from the [[Cross|cross]] like a stone.
 And this antinomy kept on repeating itself in his mind, a contradiction
-as large and staring as the immense contradiction of the Cross;
+as large and staring as the immense contradiction of the [[Cross]];
 he remembered having often heard the words, "Whosoever shall lose
 his life the same shall save it."  He remembered with a sort
 of strange pity that this had always been made to mean that
 whoever lost his physical life should save his spiritual life.
-Now he knew the truth that is known to all fighters, and hunters,
+Now he knew the [[Truth|truth]] that is known to all fighters, and hunters,
 and climbers of cliffs.  He knew that even his animal life could
 only be saved by a considerable readiness to lose it.
 
-Some will think it improbable that a human soul swinging desperately
+Some will think it improbable that a human [[Soul|soul]] swinging desperately
 in mid-air should think about philosophical inconsistencies.
 But such extreme states are dangerous things to dogmatize about.
 Frequently they produce a certain useless and joyless activity
-of the mere intellect, thought not only divorced from hope
-but even from desire.  And if it is impossible to dogmatize
+of the mere intellect, thought not only divorced from [[Hope|hope]]
+but even from [[Desire|desire]].  And if it is impossible to dogmatize
 about such states, it is still more impossible to describe them.
-To this spasm of sanity and clarity in Michael's mind succeeded a spasm
+To this spasm of [[Sanity|sanity]] and clarity in [[Michael]]'s mind succeeded a spasm
 of the elemental terror; the terror of the animal in us which regards
 the whole universe as its enemy; which, when it is victorious,
-has no pity, and so, when it is defeated has no imaginable hope.
+has no pity, and so, when it is defeated has no imaginable [[Hope|hope]].
 Of that ten minutes of terror it is not possible to speak in human words.
 But then again in that damnable darkness there began to grow a strange
-dawn as of grey and pale silver.  And of this ultimate resignation
+[[Dawn|dawn]] as of grey and pale silver.  And of this ultimate [[Resignation|resignation]]
 or certainty it is even less possible to write; it is something stranger
-than hell itself; it is perhaps the last of the secrets of God.
+than hell itself; it is perhaps the last of the [[Secrets|secrets]] of God.
 At the highest crisis of some incurable anguish there will suddenly
 fall upon the man the stillness of an insane contentment.
-It is not hope, for hope is broken and romantic and concerned
+It is not [[Hope|hope]], for [[Hope|hope]] is broken and romantic and concerned
 with the future; this is complete and of the present.
-It is not faith, for faith by its very nature is fierce, and as it
+It is not [[Faith|faith]], for [[Faith|faith]] by its very [[Nature|nature]] is fierce, and as it
 were at once doubtful and defiant; but this is simply a satisfaction.
 It is not knowledge, for the intellect seems to have no particular part
 in it.  Nor is it (as the modern idiots would certainly say it is)
@@ -425,82 +425,82 @@ contingencies which we are not permitted to know lest we should learn
 indifference to good and evil, but which is sometimes shown to us
 for an instant as a last aid in our last agony.
 
-Michael certainly could not have given any sort of rational account
+[[Michael]] certainly could not have given any sort of rational account
 of this vast unmeaning satisfaction which soaked through him
 and filled him to the brim.  He felt with a sort of half-witted
-lucidity that the cross was there, and the ball was there,
+lucidity that the [[Cross|cross]] was there, and the ball was there,
 and the dome was there, that he was going to climb down from them,
 and that he did not mind in the least whether he was killed or not.
 This mysterious mood lasted long enough to start him on his
 dreadful descent and to force him to continue it.  But six times
 before he reached the highest of the outer galleries terror had
-returned on him like a flying storm of darkness and thunder.
-By the time he had reached that place of safety he almost felt
+returned on him like a flying [[Storm|storm]] of darkness and thunder.
+By the [[Time|time]] he had reached that place of safety he almost felt
 (as in some impossible fit of drunkenness) that he had two heads;
 one was calm, careless, and efficient; the other saw the danger like a
 deadly map, was wise, careful, and useless.  He had fancied that he would
 have to let himself vertically down the face of the whole building.
 When he dropped into the upper gallery he still felt as far from the
-terrestrial globe as if he had only dropped from the sun to the moon.
+terrestrial globe as if he had only dropped from the sun to the [[Moon|moon]].
 He paused a little, panting in the gallery under the ball,
 and idly kicked his heels, moving a few yards along it.
-And as he did so a thunderbolt struck his soul.  A man, a heavy,
+And as he did so a thunderbolt struck his [[Soul|soul]].  A man, a heavy,
 ordinary man, with a composed indifferent face, and a prosaic sort
-of uniform, with a row of buttons, blocked his way.  Michael had no
-mind to wonder whether this solid astonished man, with the brown
-moustache and the nickel buttons, had also come on a flying ship.
+of uniform, with a row of buttons, blocked his way.  [[Michael]] had no
+mind to [[Wonder|wonder]] whether this solid astonished man, with the brown
+moustache and the nickel buttons, had also come on a flying [[Ship|ship]].
 He merely let his mind float in an endless felicity about the man.
 He thought how nice it would be if he had to live up in that gallery
 with that one man for ever.  He thought how he would luxuriate
-in the nameless shades of this man's soul and then hear with an
+in the nameless shades of this man's [[Soul|soul]] and then hear with an
 endless excitement about the nameless shades of the souls of all
-his aunts and uncles.  A moment before he had been dying alone.
+his aunts and uncles.  A moment before he had been dying [[Alone|alone]].
 Now he was living in the same world with a man; an inexhaustible ecstasy.
-In the gallery below the ball Father Michael had found that man
+In the gallery below the ball Father [[Michael]] had found that man
 who is the noblest and most divine and most lovable of all men,
 better than all the saints, greater than all the heroes--man Friday.
 
 In the confused colour and music of his new paradise,
-Michael heard only in a faint and distant fashion some remarks
+[[Michael]] heard only in a faint and distant fashion some remarks
 that this beautiful solid man seemed to be making to him;
 remarks about something or other being after hours and against orders.
-He also seemed to be asking how Michael "got up" there.  This beautiful
-man evidently felt as Michael did that the earth was a star and was
+He also seemed to be asking how [[Michael]] "got up" there.  This beautiful
+man evidently felt as [[Michael]] did that the earth was a star and was
 set in heaven.
 
-At length Michael sated himself with the mere sensual music of the voice
+At length [[Michael]] sated himself with the mere sensual music of the voice
 of the man in buttons.  He began to listen to what he said, and even
 to make some attempt at answering a question which appeared to have
 been put several times and was now put with some excess of emphasis.
-Michael realized that the image of God in nickel buttons was asking him
-how he had come there.  He said that he had come in Lucifer's ship.
+[[Michael]] realized that the image of God in nickel buttons was asking him
+how he had come there.  He said that he had come in [[Lucifer]]'s [[Ship|ship]].
 On his giving this answer the demeanour of the image of God
-underwent a remarkable change.  From addressing Michael gruffly,
+underwent a remarkable change.  From addressing [[Michael]] gruffly,
 as if he were a malefactor, he began suddenly to speak to him
-with a sort of eager and feverish amiability as if he were a child.
+with a sort of eager and feverish amiability as if he were a [[Child|child]].
 He seemed particularly anxious to coax him away from the balustrade.
 He led him by the arm towards a door leading into the building itself,
-soothing him all the time.  He gave what even Michael (slight as was
+soothing him all the [[Time|time]].  He gave what even [[Michael]] (slight as was
 his knowledge of the world) felt to be an improbable account of the
 sumptuous pleasures and varied advantages awaiting him downstairs.
-Michael followed him, however, if only out of politeness,
+[[Michael]] followed him, however, if only out of politeness,
 down an apparently interminable spiral of staircase.
-At one point a door opened.  Michael stepped through it,
+At one point a door opened.  [[Michael]] stepped through it,
 and the unaccountable man in buttons leapt after him and pinioned him
 where he stood.  But he only wished to stand; to stand and stare.
 He had stepped as it were into another infinity, out under the dome
 of another heaven.  But this was a dome of heaven made by man.
 The gold and green and crimson of its sunset were not in the shapeless
 clouds but in shapes of cherubim and seraphim, awful human shapes
-with a passionate plumage.  Its stars were not above but far below,
-like fallen stars still in unbroken constellations; the dome itself
+with a passionate plumage.  Its [[Stars|stars]] were not above but far below,
+like fallen [[Stars|stars]] still in unbroken constellations; the dome itself
 was full of darkness.  And far below, lower even than the lights,
 could be seen creeping or motionless, great black masses of men.
 The tongue of a terrible organ seemed to shake the very air in
-the whole void; and through it there came up to Michael the sound
+the whole void; and through it there came up to [[Michael]] the sound
 of a tongue more terrible; the dreadful everlasting voice of man,
 calling to his gods from the beginning to the end of the world.
-Michael felt almost as if he were a god, and all the voices were
+[[Michael]] felt almost as if he were a god, and all the voices were
 hurled at him.
 
 "No, the pretty things aren't here," said the demi-god
@@ -508,7 +508,7 @@ in buttons, caressingly.  "The pretty things are downstairs.
 You come along with me.  There's something that will surprise
 you downstairs; something you want very much to see."
 
-Evidently the man in buttons did not feel like a god, so Michael
+Evidently the man in buttons did not feel like a god, so [[Michael]]
 made no attempt to explain his feelings to him, but followed
 him meekly enough down the trail of the serpentine staircase.
 He had no notion where or at what level he was.  He was still
@@ -518,13 +518,13 @@ when another door opened, and with a shock indescribable he found
 himself on the familiar level, in a street full of faces,
 with the houses and even the lamp-posts above his head.
 He felt suddenly happy and suddenly indescribably small.
-He fancied he had been changed into a child again; his eyes
+He fancied he had been changed into a [[Child|child]] again; his eyes
 sought the pavement seriously as children's do, as if it
 were a thing with which something satisfactory could be done.
 He felt the full warmth of that pleasure from which the proud shut
 themselves out; the pleasure which not only goes with humiliation,
-but which almost is humiliation.  Men who have escaped death by a hair
-have it, and men whose love is returned by a woman unexpectedly,
+but which almost is humiliation.  Men who have escaped [[Death|death]] by a hair
+have it, and men whose [[Love|love]] is returned by a woman unexpectedly,
 and men whose sins are forgiven them.  Everything his eye fell on it
 feasted on, not aesthetically, but with a plain, jolly appetite
 as of a boy eating buns.  He relished the squareness of the houses;
@@ -544,37 +544,37 @@ the right direction, a dingy office, next to the shop of the potted meat.
 The pane of glass was lying in splinters about the pavement.
 And the police already had their hands on a very tall young man,
 with dark, lank hair and dark, dazed eyes, with a grey plaid over
-his shoulder, who had just smashed the shop window with a single
+his shoulder, who had just smashed the shop [[Window|window]] with a single
 blow of his stick.
 
 "I'd do it again," said the young man, with a furious white face.
 "Anybody would have done it.  Did you see what it said?
 I swear I'd do it again."  Then his eyes encountered the monkish
-habit of Michael, and he pulled off his grey tam o'shanter with
+habit of [[Michael]], and he pulled off his grey tam o'shanter with
 the gesture of a Catholic.
 
 "Father, did you see what they said?" he cried, trembling.
 "Did you see what they dared to say?  I didn't understand it at first.
-I read it half through before I broke the window."
+I read it half through before I broke the [[Window|window]]."
 
-Michael felt he knew not how.  The whole peace of the world was pent
+[[Michael]] felt he knew not how.  The whole peace of the world was pent
 up painfully in his heart.  The new and childlike world which he had
 seen so suddenly, men had not seen at all.  Here they were still
 at their old bewildering, pardonable, useless quarrels, with so much
 to be said on both sides, and so little that need be said at all.
 A fierce inspiration fell on him suddenly; he would strike
-them where they stood with the love of God.  They should not
+them where they stood with the [[Love|love]] of God.  They should not
 move till they saw their own sweet and startling existence.
-They should not go from that place till they went home embracing
-like brothers and shouting like men delivered.  From the Cross
-from which he had fallen fell the shadow of its fantastic mercy;
+They should not go from that place till they went [[Home|home]] embracing
+like brothers and shouting like men delivered.  From the [[Cross]]
+from which he had fallen fell the [[Shadow|shadow]] of its fantastic [[Mercy|mercy]];
 and the first three words he spoke in a voice like a silver trumpet,
 held men as still as stones.  Perhaps if he had spoken there for an hour
-in his illumination he might have founded a religion on Ludgate Hill.
+in his illumination he might have founded a religion on Ludgate [[Hill]].
 But the heavy hand of his guide fell suddenly on his shoulder.
 
 "This poor fellow is dotty," he said good-humouredly to the crowd.
-"I found him wandering in the Cathedral.  Says he came in a flying ship.
+"I found him wandering in the [[Cathedral]].  Says he came in a flying [[Ship|ship]].
 Is there a constable to spare to take care of him?"
 
 There was a constable to spare.  Two other constables attended

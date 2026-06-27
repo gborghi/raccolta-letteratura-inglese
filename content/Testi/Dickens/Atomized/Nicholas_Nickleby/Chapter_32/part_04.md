@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 32 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 32 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,22 +17,22 @@ tags:
 It will be very readily supposed that to one in the condition of
 Nicholas, the minutes appeared to move with leaden wings indeed, and
 that their progress did not seem the more rapid from the monotonous
-ticking of a French clock, or the shrill sound of its little bell which
+ticking of a French [[Clock|clock]], or the shrill sound of its little bell which
 told the quarters. But there he sat; and in his old seat on the opposite
 side of the room reclined Sir Mulberry Hawk, with his legs upon the
 cushion, and his handkerchief thrown negligently over his knees:
 finishing his magnum of claret with the utmost coolness and
 indifference.
 
-Thus they remained in perfect silence for upwards of an hour--Nicholas
+Thus they remained in perfect [[Silence|silence]] for upwards of an hour--Nicholas
 would have thought for three hours at least, but that the little
 bell had only gone four times. Twice or thrice he looked angrily and
 impatiently round; but there was Sir Mulberry in the same attitude,
-putting his glass to his lips from time to time, and looking vacantly
+putting his glass to his lips from [[Time|time]] to [[Time|time]], and looking vacantly
 at the wall, as if he were wholly ignorant of the presence of any living
 person.
 
-At length he yawned, stretched himself, and rose; walked coolly to the
+At length he yawned, stretched himself, and [[Rose|rose]]; walked coolly to the
 glass, and having surveyed himself therein, turned round and honoured
 Nicholas with a long and contemptuous stare. Nicholas stared again with
 right good-will; Sir Mulberry shrugged his shoulders, smiled slightly,
@@ -40,10 +40,10 @@ rang the bell, and ordered the waiter to help him on with his greatcoat.
 
 The man did so, and held the door open.
 
-‘Don’t wait,’ said Sir Mulberry; and they were alone again.
+‘Don’t wait,’ said Sir Mulberry; and they were [[Alone|alone]] again.
 
 Sir Mulberry took several turns up and down the room, whistling
-carelessly all the time; stopped to finish the last glass of claret
+carelessly all the [[Time|time]]; stopped to finish the last glass of claret
 which he had poured out a few minutes before, walked again, put on his
 hat, adjusted it by the glass, drew on his gloves, and, at last, walked
 slowly out. Nicholas, who had been fuming and chafing until he was
@@ -52,7 +52,7 @@ before the door had swung upon its hinges after Sir Mulberry’s passing
 out, they stood side by side in the street together.
 
 There was a private cabriolet in waiting; the groom opened the apron,
-and jumped out to the horse’s head.
+and jumped out to the [[Horse|horse]]’s head.
 
 ‘Will you make yourself known to me?’ asked Nicholas in a suppressed
 voice.
@@ -60,18 +60,18 @@ voice.
 ‘No,’ replied the other fiercely, and confirming the refusal with an
 oath. ‘No.’
 
-‘If you trust to your horse’s speed, you will find yourself mistaken,’
+‘If you trust to your [[Horse|horse]]’s [[Speed|speed]], you will find yourself mistaken,’
 said Nicholas. ‘I will accompany you. By Heaven I will, if I hang on to
 the foot-board.’
 
 ‘You shall be horsewhipped if you do,’ returned Sir Mulberry.
 
-‘You are a villain,’ said Nicholas.
+‘You are a [[Villain|villain]],’ said Nicholas.
 
 ‘You are an errand-boy for aught I know,’ said Sir Mulberry Hawk.
 
 ‘I am the son of a country gentleman,’ returned Nicholas, ‘your equal in
-birth and education, and your superior I trust in everything besides.
+birth and [[Education|education]], and your superior I trust in everything besides.
 I tell you again, Miss Nickleby is my sister. Will you or will you not
 answer for your unmanly and brutal conduct?’
 
@@ -81,7 +81,7 @@ head.’
 
 ‘You had better not,’ cried Nicholas, springing on the step as Sir
 Mulberry jumped in, and catching at the reins. ‘He has no command over
-the horse, mind. You shall not go--you shall not, I swear--till you have
+the [[Horse|horse]], mind. You shall not go--you shall not, I swear--till you have
 told me who you are.’
 
 The groom hesitated, for the mare, who was a high-spirited animal and
@@ -102,7 +102,7 @@ place and his hold upon the reins.
 
 ‘No!’
 
-In less time than the quickest tongue could tell it, these words were
+In less [[Time|time]] than the quickest tongue could tell it, these words were
 exchanged, and Sir Mulberry shortening his whip, applied it furiously
 to the head and shoulders of Nicholas. It was broken in the struggle;
 Nicholas gained the heavy handle, and with it laid open one side of his
@@ -115,12 +115,12 @@ loud shouts of the men who were tearing up the street, and screaming to
 those ahead to clear the way. He was conscious of a torrent of people
 rushing quickly by--looking up, could discern the cabriolet whirled
 along the foot-pavement with frightful rapidity--then heard a loud cry,
-the smashing of some heavy body, and the breaking of glass--and then the
+the smashing of some heavy [[Body|body]], and the breaking of glass--and then the
 crowd closed in in the distance, and he could see or hear no more.
 
 The general attention had been entirely directed from himself to the
-person in the carriage, and he was quite alone. Rightly judging that
-under such circumstances it would be madness to follow, he turned down a
+person in the carriage, and he was quite [[Alone|alone]]. Rightly judging that
+under such circumstances it would be [[Madness|madness]] to follow, he turned down a
 bye-street in search of the nearest coach-stand, finding after a minute
 or two that he was reeling like a drunken man, and aware for the first
-time of a stream of blood that was trickling down his face and breast.
+[[Time|time]] of a stream of [[Blood|blood]] that was trickling down his face and breast.

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 5 (part 3)"
+title: "Bleak [[house|House]] — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,13 +23,13 @@ stateliness. The old man overheard, and laughed.
 they call me the Lord Chancellor and call my shop Chancery. And why
 do you think they call me the Lord Chancellor and my shop Chancery?”
 
-“I don’t know, I am sure!” said Richard rather carelessly.
+“I don’t know, I am sure!” said [[Richard]] rather carelessly.
 
 “You see,” said the old man, stopping and turning round, “they—Hi!
 Here’s lovely hair! I have got three sacks of ladies’ hair below, but
 none so beautiful and fine as this. What colour, and what texture!”
 
-“That’ll do, my good friend!” said Richard, strongly disapproving of
+“That’ll do, my good friend!” said [[Richard]], strongly disapproving of
 his having drawn one of Ada’s tresses through his yellow hand. “You
 can admire as the rest of us do without taking that liberty.”
 
@@ -38,7 +38,7 @@ attention from Ada, who, startled and blushing, was so remarkably
 beautiful that she seemed to fix the wandering attention of the
 little old lady herself. But as Ada interposed and laughingly said
 she could only feel proud of such genuine admiration, Mr. Krook
-shrunk into his former self as suddenly as he had leaped out of it.
+shrunk into his former [[Self|self]] as suddenly as he had leaped out of it.
 
 “You see, I have so many things here,” he resumed, holding up the
 lantern, “of so many kinds, and all as the neighbours think (but THEY
@@ -50,7 +50,7 @@ can’t abear to part with anything I once lay hold of (or so my
 neighbours think, but what do THEY know?) or to alter anything, or to
 have any sweeping, nor scouring, nor cleaning, nor repairing going on
 about me. That’s the way I’ve got the ill name of Chancery. I don’t
-mind. I go to see my noble and learned brother pretty well every day,
+mind. I go to see my noble and learned brother pretty [[Well|well]] every day,
 when he sits in the Inn. He don’t notice me, but I notice him.
 There’s no great odds betwixt us. We both grub on in a muddle. Hi,
 Lady Jane!”
@@ -69,12 +69,12 @@ offered to me. It’s a very fine skin, as you may see, but I didn’t
 have it stripped off! THAT warn’t like Chancery practice though, says
 you!”
 
-He had by this time led us across the shop, and now opened a door in
-the back part of it, leading to the house-entry. As he stood with his
+He had by this [[Time|time]] led us across the shop, and now opened a door in
+the back part of it, leading to the [[house]]-entry. As he stood with his
 hand upon the lock, the little old lady graciously observed to him
-before passing out, “That will do, Krook. You mean well, but are
-tiresome. My young friends are pressed for time. I have none to spare
-myself, having to attend court very soon. My young friends are the
+before passing out, “That will do, Krook. You mean [[Well|well]], but are
+tiresome. My young friends are pressed for [[Time|time]]. I have none to spare
+myself, having to attend [[Court|court]] very soon. My young friends are the
 wards in Jarndyce.”
 
 “Jarndyce!” said the old man with a start.
@@ -85,13 +85,13 @@ wards in Jarndyce.”
 with a wider stare than before. “Think of it!”
 
 He seemed so rapt all in a moment and looked so curiously at us that
-Richard said, “Why, you appear to trouble yourself a good deal about
+[[Richard]] said, “Why, you appear to trouble yourself a good deal about
 the causes before your noble and learned brother, the other
 Chancellor!”
 
 “Yes,” said the old man abstractedly. “Sure! YOUR name now will be—”
 
-“Richard Carstone.”
+“[[Richard Carstone]].”
 
 “Carstone,” he repeated, slowly checking off that name upon his
 forefinger; and each of the others he went on to mention upon a
@@ -99,17 +99,17 @@ separate finger. “Yes. There was the name of Barbary, and the name of
 Clare, and the name of Dedlock, too, I think.”
 
 “He knows as much of the cause as the real salaried Chancellor!” said
-Richard, quite astonished, to Ada and me.
+[[Richard]], quite astonished, to Ada and me.
 
 “Aye!” said the old man, coming slowly out of his abstraction. “Yes!
 Tom Jarndyce—you’ll excuse me, being related; but he was never known
-about court by any other name, and was as well known there as—she is
+about [[Court|court]] by any other name, and was as [[Well|well]] known there as—she is
 now,” nodding slightly at his lodger. “Tom Jarndyce was often in
 here. He got into a restless habit of strolling about when the cause
 was on, or expected, talking to the little shopkeepers and telling
 ’em to keep out of Chancery, whatever they did. ‘For,’ says he, ‘it’s
 being ground to bits in a slow mill; it’s being roasted at a slow
-fire; it’s being stung to death by single bees; it’s being drowned by
+[[Fire|fire]]; it’s being stung to [[Death|death]] by single [[Bees|bees]]; it’s being drowned by
 drops; it’s going mad by grains.’ He was as near making away with
 himself, just where the young lady stands, as near could be.”
 
@@ -123,10 +123,10 @@ walked along there, and sat himself on a bench that stood there, and
 asked me (you’ll judge I was a mortal sight younger then) to fetch
 him a pint of wine. ‘For,’ says he, ‘Krook, I am much depressed; my
 cause is on again, and I think I’m nearer judgment than I ever was.’
-I hadn’t a mind to leave him alone; and I persuaded him to go to the
+I hadn’t a mind to leave him [[Alone|alone]]; and I persuaded him to go to the
 tavern over the way there, t’other side my lane (I mean Chancery
-Lane); and I followed and looked in at the window, and saw him,
-comfortable as I thought, in the arm-chair by the fire, and company
+Lane); and I followed and looked in at the [[Window|window]], and saw him,
+comfortable as I thought, in the arm-chair by the [[Fire|fire]], and company
 with him. I hadn’t hardly got back here when I heard a shot go
 echoing and rattling right away into the inn. I ran out—neighbours
 ran out—twenty of us cried at once, ‘Tom Jarndyce!’”
@@ -135,7 +135,7 @@ The old man stopped, looked hard at us, looked down into the lantern,
 blew the light out, and shut the lantern up.
 
 “We were right, I needn’t tell the present hearers. Hi! To be sure,
-how the neighbourhood poured into court that afternoon while the
+how the neighbourhood poured into [[Court|court]] that afternoon while the
 cause was on! How my noble and learned brother, and all the rest of
 ’em, grubbed and muddled away as usual and tried to look as if they
 hadn’t heard a word of the last fact in the case or as if they

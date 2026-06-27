@@ -24,47 +24,47 @@ had a mind?’
 
 ‘To be sure,’ rejoined Daniel. ‘Why not?’
 
-‘There’s nothing dishonest or wrong in a supper, I hope?’ said Mrs
+‘There’s nothing dishonest or wrong in a supper, I [[Hope|hope]]?’ said Mrs
 Jiniwin.
 
-‘Surely not,’ returned the dwarf. ‘Why should there be? Nor anything
+‘Surely not,’ returned the [[Dwarf|dwarf]]. ‘Why should there be? Nor anything
 unwholesome, either, unless there’s lobster-salad or prawns, which I’m
 told are not good for digestion.’
 
 ‘And you wouldn’t like your wife to be attacked with that, or anything
 else that would make her uneasy would you?’ said Mrs Jiniwin.
 
-‘Not for a score of worlds,’ replied the dwarf with a grin. ‘Not even
-to have a score of mothers-in-law at the same time--and what a blessing
+‘Not for a score of worlds,’ replied the [[Dwarf|dwarf]] with a grin. ‘Not even
+to have a score of mothers-in-law at the same [[Time|time]]--and what a blessing
 that would be!’
 
 ‘My daughter’s your wife, Mr Quilp, certainly,’ said the old lady with
 a giggle, meant for satirical and to imply that he needed to be
 reminded of the fact; ‘your wedded wife.’
 
-‘So she is, certainly. So she is,’ observed the dwarf.
+‘So she is, certainly. So she is,’ observed the [[Dwarf|dwarf]].
 
-‘And she has a right to do as she likes, I hope, Quilp,’ said the
-old lady trembling, partly with anger and partly with a secret fear of
+‘And she has a right to do as she likes, I [[Hope|hope]], Quilp,’ said the
+old lady trembling, partly with anger and partly with a secret [[Fear|fear]] of
 her impish son-in-law.
 
-‘Hope she has!’ he replied. ‘Oh! Don’t you know she has? Don’t you know
+‘[[Hope]] she has!’ he replied. ‘Oh! Don’t you know she has? Don’t you know
 she has, Mrs Jiniwin?
 
 ‘I know she ought to have, Quilp, and would have, if she was of my way
 of thinking.’
 
 ‘Why an’t you of your mother’s way of thinking, my dear?’ said the
-dwarf, turing round and addressing his wife, ‘why don’t you always
+[[Dwarf|dwarf]], turing round and addressing his wife, ‘why don’t you always
 imitate your mother, my dear? She’s the ornament of her sex--your
 father said so every day of his life. I am sure he did.’
 
 ‘Her father was a blessed creetur, Quilp, and worthy twenty thousand of
 some people,’ said Mrs Jiniwin; ‘twenty hundred million thousand.’
 
-‘I should like to have known him,’ remarked the dwarf. ‘I dare say he
+‘I should like to have known him,’ remarked the [[Dwarf|dwarf]]. ‘I dare say he
 was a blessed creature then; but I’m sure he is now. It was a happy
-release. I believe he had suffered a long time?’
+release. I believe he had suffered a long [[Time|time]]?’
 
 The old lady gave a gasp, but nothing came of it; Quilp resumed, with
 the same malice in his eye and the same sarcastic politeness on his
@@ -76,15 +76,15 @@ bed.’
 
 ‘I shall go when I please, Quilp, and not before.’
 
-‘But please to do now. Do please to go now,’ said the dwarf.
+‘But please to do now. Do please to go now,’ said the [[Dwarf|dwarf]].
 
 The old woman looked angrily at him, but retreated as he advanced, and
 falling back before him, suffered him to shut the door upon her and
-bolt her out among the guests, who were by this time crowding
+bolt her out among the guests, who were by this [[Time|time]] crowding
 downstairs. Being left along with his wife, who sat trembling in a
 corner with her eyes fixed upon the ground, the little man planted
 himself before her, and folding his arms looked steadily at her for a
-long time without speaking.
+long [[Time|time]] without speaking.
 
 ‘Mrs Quilp,’ he said at last.
 
@@ -103,20 +103,20 @@ her eyes and kept them on the ground.
 With this laconic threat, which he accompanied with a snarl that gave
 him the appearance of being particularly in earnest, Mr Quilp bade her
 clear the teaboard away, and bring the rum. The spirit being set before
-him in a huge case-bottle, which had originally come out of some ship’s
+him in a huge case-bottle, which had originally come out of some [[Ship|ship]]’s
 locker, he settled himself in an arm-chair with his large head and face
 squeezed up against the back, and his little legs planted on the table.
 
-‘Now, Mrs Quilp,’ he said; ‘I feel in a smoking humour, and shall
-probably blaze away all night. But sit where you are, if you please, in
+‘Now, Mrs Quilp,’ he said; ‘I feel in a smoking [[Humour|humour]], and shall
+probably blaze away all [[Night|night]]. But sit where you are, if you please, in
 case I want you.’
 
 His wife returned no other reply than the necessary ‘Yes, Quilp,’ and
 the small lord of the creation took his first cigar and mixed his first
-glass of grog. The sun went down and the stars peeped out, the Tower
+glass of grog. The sun went down and the [[Stars|stars]] peeped out, the Tower
 turned from its own proper colours to grey and from grey to black, the
 room became perfectly dark and the end of the cigar a deep fiery red,
 but still Mr Quilp went on smoking and drinking in the same position,
-and staring listlessly out of window with the doglike smile always on
+and staring listlessly out of [[Window|window]] with the doglike smile always on
 his face, save when Mrs Quilp made some involuntary movement of
 restlessness or fatigue; and then it expanded into a grin of delight.

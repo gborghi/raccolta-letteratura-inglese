@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 17)"
+title: "[[The Mystery of Marie Roget]] (part 17)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -38,9 +38,9 @@ tags:
 
       a piece is ‘torn off,’ from any garment such as is now in
 
-      question, by the agency of a thorn. From the very nature of such
+      question, by the agency of a thorn. From the very [[Nature|nature]] of such
 
-      fabrics, a thorn or nail becoming entangled in them, tears them
+      fabrics, a thorn or nail becoming entangled in them, [[Tears|tears]] them
 
       rectangularly—divides them into two longitudinal rents, at right
 
@@ -88,7 +88,7 @@ tags:
 
       from the uncaged interior of the dress! These, I say, are things
 
-      which one may well be pardoned for disbelieving; yet, taken
+      which one may [[Well|well]] be pardoned for disbelieving; yet, taken
 
       collectedly, they form, perhaps, less of reasonable ground for
 
@@ -118,7 +118,7 @@ tags:
 
       bring you, by the most natural route, to a further contemplation
 
-      of the doubt whether this assassination has, or has not, been the
+      of the [[Doubt|doubt]] whether this assassination has, or has not, been the
 
       work of a gang.
 
@@ -132,7 +132,7 @@ tags:
 
       number of ruffians, have been properly ridiculed as unjust and
 
-      totally baseless, by all the reputable anatomists of Paris. Not
+      totally baseless, by all the reputable anatomists of [[Paris]]. Not
 
       that the matter might not have been as inferred, but that there
 
@@ -166,7 +166,7 @@ tags:
 
       thus only conceive, the struggle of so violent and so obstinate a
 
-      nature as to have left the ‘traces’ apparent.
+      [[Nature|nature]] as to have left the ‘traces’ apparent.
 
 
 
@@ -176,7 +176,7 @@ tags:
 
       at all in the thicket where discovered. It seems almost
 
-      impossible that these evidences of guilt should have been
+      impossible that these evidences of [[Guilt|guilt]] should have been
 
       accidentally left where found. There was sufficient presence of
 
@@ -184,7 +184,7 @@ tags:
 
       positive evidence than the corpse itself (whose features might
 
-      have been quickly obliterated by decay,) is allowed to lie
+      have been quickly obliterated by [[Decay|decay]],) is allowed to lie
 
       conspicuously in the scene of the outrage—I allude to the
 

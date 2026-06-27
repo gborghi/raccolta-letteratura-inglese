@@ -19,31 +19,31 @@ CHAPTER 49
 Kit’s mother might have spared herself the trouble of looking back so
 often, for nothing was further from Mr Quilp’s thoughts than any
 intention of pursuing her and her son, or renewing the quarrel with
-which they had parted.  He went his way, whistling from time to time
+which they had parted.  He went his way, whistling from [[Time|time]] to [[Time|time]]
 some fragments of a tune; and with a face quite tranquil and composed,
-jogged pleasantly towards home; entertaining himself as he went with
+jogged pleasantly towards [[Home|home]]; entertaining himself as he went with
 visions of the fears and terrors of Mrs Quilp, who, having received no
 intelligence of him for three whole days and two nights, and having had
-no previous notice of his absence, was doubtless by that time in a
+no previous notice of his absence, was doubtless by that [[Time|time]] in a
 state of distraction, and constantly fainting away with anxiety and
 grief.
 
-This facetious probability was so congenial to the dwarf’s humour, and
+This facetious probability was so congenial to the [[Dwarf|dwarf]]’s [[Humour|humour]], and
 so exquisitely amusing to him, that he laughed as he went along until
-the tears ran down his cheeks; and more than once, when he found
+the [[Tears|tears]] ran down his cheeks; and more than once, when he found
 himself in a bye-street, vented his delight in a shrill scream, which
 greatly terrifying any lonely passenger, who happened to be walking on
 before him expecting nothing so little, increased his mirth, and made
 him remarkably cheerful and light-hearted.
 
-In this happy flow of spirits, Mr Quilp reached Tower Hill, when,
-gazing up at the window of his own sitting-room, he thought he descried
-more light than is usual in a house of mourning.  Drawing nearer, and
+In this happy flow of spirits, Mr Quilp reached Tower [[Hill]], when,
+gazing up at the [[Window|window]] of his own sitting-room, he thought he descried
+more light than is usual in a [[house]] of mourning.  Drawing nearer, and
 listening attentively, he could hear several voices in earnest
 conversation, among which he could distinguish, not only those of his
 wife and mother-in-law, but the tongues of men.
 
-‘Ha!’ cried the jealous dwarf, ‘What’s this!  Do they entertain
+‘Ha!’ cried the jealous [[Dwarf|dwarf]], ‘What’s this!  Do they entertain
 visitors while I’m away!’
 
 A smothered cough from above, was the reply.  He felt in his pockets
@@ -64,7 +64,7 @@ gagged with one hand, and dragged into the street with the other.
 ‘Who’s up stairs, you dog?’ retorted Quilp in the same tone.  ‘Tell me.
 And don’t speak above your breath, or I’ll choke you in good earnest.’
 
-The boy could only point to the window, and reply with a stifled
+The boy could only point to the [[Window|window]], and reply with a stifled
 giggle, expressive of such intense enjoyment, that Quilp clutched him
 by the throat and might have carried his threat into execution, or at
 least have made very good progress towards that end, but for the boy’s
@@ -82,7 +82,7 @@ think you’re--you’re dead.  Ha ha ha!’
 they?  Do they really, you dog?’
 
 ‘They think you’re--you’re drowned,’ replied the boy, who in his
-malicious nature had a strong infusion of his master.  ‘You was last
+malicious [[Nature|nature]] had a strong infusion of his master.  ‘You was last
 seen on the brink of the wharf, and they think you tumbled over.  Ha
 ha!’
 
@@ -113,7 +113,7 @@ what was passing.
 Applying his eye to this convenient place, he descried Mr Brass seated
 at the table with pen, ink, and paper, and the case-bottle of rum--his
 own case-bottle, and his own particular Jamaica--convenient to his
-hand; with hot water, fragrant lemons, white lump sugar, and all things
+hand; with hot [[Water|water]], fragrant lemons, white lump sugar, and all things
 fitting; from which choice materials, Sampson, by no means insensible
 to their claims upon his attention, had compounded a mighty glass of
 punch reeking hot; which he was at that very moment stirring up with a
@@ -126,7 +126,7 @@ exactly with ashes on her head, or sackcloth on her back, but
 preserving a very decent and becoming appearance of sorrow
 nevertheless--was reclining in an easy chair, and soothing her grief
 with a smaller allowance of the same glib liquid.  There were also
-present, a couple of water-side men, bearing between them certain
+present, a couple of [[Water|water]]-side men, bearing between them certain
 machines called drags; even these fellows were accommodated with a
 stiff glass a-piece; and as they drank with a great relish, and were
 naturally of a red-nosed, pimple-faced, convivial look, their presence

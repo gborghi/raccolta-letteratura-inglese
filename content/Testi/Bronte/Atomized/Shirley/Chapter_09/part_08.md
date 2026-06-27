@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 8)"
+title: "[[Shirley]] — Chapter 9 (part 8)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -40,7 +40,7 @@ be to do a dishonest thing."
 
 
 
-"Come, let us take a turn on the front. It is a starlight night," said
+"Come, let us take a turn on the front. It is a starlight [[Night|night]]," said
 
 Mr. Yorke.
 
@@ -48,7 +48,7 @@ Mr. Yorke.
 
 They passed out, closing the front door after them, and side by side
 
-paced the frost-white pavement to and fro.
+paced the [[Frost|frost]]-white pavement to and fro.
 
 
 
@@ -60,7 +60,7 @@ there."
 
 
 
-"Well, so be it. I'll send for him to-morrow, and we'll see. And now, my
+"[[Well]], so be it. I'll send for him to-morrow, and we'll see. And now, my
 
 lad, you're concerned about the condition of your affairs?"
 
@@ -80,7 +80,7 @@ re-establishing the old firm on its former basis."
 
 
 
-"Yes; but you might as well say that breath is all a dead man wants to
+"Yes; but you might as [[Well|well]] say that breath is all a dead man wants to
 
 live."
 
@@ -94,25 +94,25 @@ pretty nigh desperate; but the young and unencumbered have chances
 
 peculiar to themselves. I hear gossip now and then about your being on
 
-the eve of marriage with this miss and that; but I suppose it is none of
+the eve of [[Marriage|marriage]] with this miss and that; but I suppose it is none of
 
 it true?"
 
 
 
-"You may well suppose that. I think I am not in a position to be
+"You may [[Well|well]] suppose that. I think I am not in a position to be
 
-dreaming of marriage. Marriage! I cannot bear the word; it sounds so
+dreaming of [[Marriage|marriage]]. [[Marriage]]! I cannot bear the word; it sounds so
 
-silly and utopian. I have settled it decidedly that marriage and love
+silly and utopian. I have settled it decidedly that [[Marriage|marriage]] and [[Love|love]]
 
 are superfluities, intended only for the rich, who live at ease, and
 
 have no need to take thought for the morrow; or desperations--the last
 
-and reckless joy of the deeply wretched, who never hope to rise out of
+and reckless joy of the deeply wretched, who never [[Hope|hope]] to rise out of
 
-the slough of their utter poverty."
+the slough of their utter [[Poverty|poverty]]."
 
 
 
@@ -124,7 +124,7 @@ suit both me and my affairs."
 
 
 
-"I wonder where?"
+"I [[Wonder|wonder]] where?"
 
 
 
@@ -140,7 +140,7 @@ suit both me and my affairs."
 
 
 
-"I'd rather break stones on the road."
+"I'd rather break stones on the [[Road|road]]."
 
 
 
@@ -148,7 +148,7 @@ suit both me and my affairs."
 
 
 
-"Bah! I hate ugliness and delight in beauty. My eyes and heart, Yorke,
+"Bah! I hate ugliness and delight in [[Beauty|beauty]]. My eyes and heart, Yorke,
 
 take pleasure in a sweet, young, fair face, as they are repelled by a
 
@@ -162,7 +162,7 @@ ones prejudice me. I won't have an ugly wife."
 
 
 
-"Not if she were dressed in gems. I could not love--I could not fancy--I
+"Not if she were dressed in gems. I could not [[Love|love]]--I could not fancy--I
 
 could not endure her. My taste must have satisfaction, or disgust would
 
@@ -180,11 +180,11 @@ cheek-bones, the rather wide mouth, and reddish hair?"
 
 "I'll never try, I tell you. Grace at least I _will_ have, and youth and
 
-symmetry--yes, and what I call beauty."
+symmetry--yes, and what I call [[Beauty|beauty]]."
 
 
 
-"And poverty, and a nursery full of bairns you can neither clothe nor
+"And [[Poverty|poverty]], and a nursery full of bairns you can neither clothe nor
 
 feed, and very soon an anxious, faded mother; and then bankruptcy,
 
@@ -192,17 +192,17 @@ discredit--a life-long struggle."
 
 
 
-"Let me alone, Yorke."
+"Let me [[Alone|alone]], Yorke."
 
 
 
-"If you are romantic, Robert, and especially if you are already in love,
+"If you are romantic, Robert, and especially if you are already in [[Love|love]],
 
 it is of no use talking."
 
 
 
-"I am not romantic. I am stripped of romance as bare as the white
+"I am not romantic. I am stripped of [[Romance|romance]] as bare as the white
 
 tenters in that field are of cloth."
 
@@ -210,17 +210,17 @@ tenters in that field are of cloth."
 
 "Always use such figures of speech, lad; I can understand them. And
 
-there is no love affair to disturb your judgment?"
+there is no [[Love|love]] affair to disturb your judgment?"
 
 
 
-"I thought I had said enough on that subject before. Love for me?
+"I thought I had said enough on that subject before. [[Love]] for me?
 
 Stuff!"
 
 
 
-"Well, then, if you are sound both in heart and head, there is no
+"[[Well]], then, if you are sound both in heart and head, there is no
 
 reason why you should not profit by a good chance if it offers;
 
@@ -244,10 +244,10 @@ circumstances."
 
 
 
-"In the meantime, I care naught about ye, Robert Moore: ye are nothing
+"In the meantime, I care naught about ye, [[Robert Moore]]: ye are nothing
 
 akin to me or mine, and whether ye lose or find a fortune it maks no
 
-difference to me. Go home, now. It has stricken ten. Miss Hortense will
+difference to me. Go [[Home|home]], now. It has stricken ten. Miss Hortense will
 
 be wondering where ye are."

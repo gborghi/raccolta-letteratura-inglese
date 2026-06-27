@@ -16,22 +16,22 @@ tags:
 
 --
 
-THE ROMANCE OF RHYME
+THE [[Romance|ROMANCE]] OF RHYME
 
-THE poet in the comic opera, it will be remembered (I hope),
+THE poet in the comic opera, it will be remembered (I [[Hope|hope]]),
 claimed for his aesthetic authority that "Hey diddle diddle will rank
-as an idyll, if I pronounce it chaste."  In face of a satire which still
-survives the fashion it satirized, it may require some moral courage
+as an idyll, if I pronounce it chaste."  In face of a [[Satire|satire]] which still
+survives the fashion it satirized, it may require some moral [[Courage|courage]]
 seriously to pronounce it chaste, or to suggest that the nursery
 rhyme in question has really some of the qualities of an idyll.
 Of its chastity, in the vulgar sense, there need be little dispute,
 despite the scandal of the elopement of the dish with the spoon,
 which would seem as free from grossness as the loves of the triangles.
 And though the incident of the cow may have something of the moonstruck
-ecstasy of Endymion, that also has a silvery coldness about it
-worthy of the wilder aspects of Diana.  The truth more seriously
+ecstasy of [[Endymion]], that also has a silvery coldness about it
+worthy of the wilder aspects of [[Diana]].  The [[Truth|truth]] more seriously
 tenable is that this nursery rhyme is a complete and compact model
-of the nursery short story.  The cow jumping over the moon fulfils
+of the nursery [[Short Story|short story]].  The cow jumping over the [[Moon|moon]] fulfils
 to perfection the two essentials of such a story for children.
 It makes an effect that is fantastic out of objects that are familiar;
 and it makes a picture that is at once incredible and unmistakable.
@@ -41,18 +41,18 @@ and the jingle are just right for their purpose, and are worth
 whole libraries of elaborate literary verse for children.
 And the best proof of its vitality is that the satirist himself has
 unconsciously echoed the jingle even in making the joke.  The metre
-of that nineteenth-century satire is the metre of the nursery rhyme.
+of that nineteenth-century [[Satire|satire]] is the metre of the nursery rhyme.
 "Hey diddle diddle, the cat and the fiddle" and "Hey diddle diddle
 will rank as an idyll" are obviously both dancing to the same
 ancient tune; and that by no means the tune the old cow died of,
-but the more exhilarating air to which she jumped over the moon.
+but the more exhilarating air to which she jumped over the [[Moon|moon]].
 
-The whole history of the thing called rhyme can be found between
+The whole [[history]] of the thing called rhyme can be found between
 those two things:  the simple pleasure of rhyming "diddle"
 to "fiddle," and the more sophisticated pleasure of rhyming "diddle"
 to "idyll." Now the fatal mistake about poetry, and more than half
 of the fatal mistake about humanity, consists in forgetting that we
-should have the first kind of pleasure as well as the second.
+should have the first kind of pleasure as [[Well|well]] as the second.
 It might be said that we should have the first pleasure as the basis
 of the second; or yet more truly, the first pleasure inside the second.
 The fatal metaphor of progress, which means leaving things behind us,
@@ -66,10 +66,10 @@ the nonsense that is too happy even to care about being nonsensical.
 It may lead on to the more elaborate nonsense of the Gilbertian line,
 or even far less poetic nonsense of some of the Browningesque rhymes.
 But the true enjoyment of poetry is in having the simple pleasure
-as well as the subtle pleasure.  Indeed it is on this primary point
+as [[Well|well]] as the subtle pleasure.  Indeed it is on this primary point
 that so many of our artistic and other reforms seem to go wrong.
 What is the matter with the modern world is that it is trying to get
-simplicity in everything except the soul.  Where the soul really
+simplicity in everything except the [[Soul|soul]].  Where the [[Soul|soul]] really
 has simplicity it can be grateful for anything--even complexity.
 Many peasants have to be vegetarians, and their ordinary life
 is really a simple life.  But the peasants do not despise a good
@@ -80,25 +80,25 @@ to what is "primitive." But their moral mistake is that they
 try to combine the ruggedness that should belong to simplicity
 with a superciliousness that should only belong to satiety.
 The last Futurist draughtsmanship, for instance, evidently has
-the aim of drawing a tree as it might be drawn by a child of ten.
+the aim of drawing a tree as it might be drawn by a [[Child|child]] of ten.
 I think the new artists would admit it; nor do I merely sneer at it.
 I am willing to admit, especially for the sake of argument,
-that there is a truth of philosophy and psychology in this attempt
-to attain the clarity even through the crudity of childhood.
+that there is a [[Truth|truth]] of [[philosophy]] and psychology in this attempt
+to attain the clarity even through the crudity of [[Childhood|childhood]].
 In this sense I can see what a man is driving at when he draws
 a tree merely as a stick with smaller sticks standing out of it.
 He may be trying to trace in black and white or grey a primeval and
 almost pre-natal illumination; that it is very remarkable that a stick
 should exist, and still more remarkable that a stick should stick
 up or stick out.  He may be similarly enchanted with his own stick
-of charcoal or grey chalk; he may be enraptured, as a child is,
+of charcoal or grey [[chalk]]; he may be enraptured, as a [[Child|child]] is,
 with the mere fact that it makes a mark on the paper--a highly
-poetic fact in itself.  But the child does not despise the real tree
+poetic fact in itself.  But the [[Child|child]] does not despise the real tree
 for being different from his drawing of the tree.  He does not despise
 Uncle Humphrey because that talented amateur can really draw a tree.
 He does not think less of the real sticks because they are live sticks,
 and can grow and branch and curve in a way uncommon in walking sticks.
-Because he has a single eye he can enjoy a double pleasure.
+Because he has a single eye he can enjoy a [[Double|double]] pleasure.
 This distinction, which seems strangely neglected, may be traced
 again in the drama and most other domains of art.  Reformers insist
 that the audiences of simpler ages were content with bare boards
@@ -107,6 +107,6 @@ talking a language of the gods.  They were very properly contented
 with plain boards.  But they were not discontented with pageants.
 The people who appreciated Antony's oration as such would have
 appreciated Aladin's palace as such.  They did not think gilding and
-spangles substitutes for poetry and philosophy, because they are not.
+spangles substitutes for poetry and [[philosophy]], because they are not.
 But they did think gilding and spangles great and admirable gifts
 of God, because they are.

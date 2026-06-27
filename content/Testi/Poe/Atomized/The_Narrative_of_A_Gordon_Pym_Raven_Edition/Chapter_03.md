@@ -34,7 +34,7 @@ CHAPTER 3
 
       recollection of having put them carefully away just before
 
-      falling asleep; and, indeed, previously to my last journey to the
+      falling asleep; and, indeed, previously to my last [[Journey|journey]] to the
 
       trap, I had been able to remember the exact spot where I had
 
@@ -92,7 +92,7 @@ CHAPTER 3
 
       they were. The phosphorus, of which there was only a speck or
 
-      two, I gathered up as well as I could, and returned with it,
+      two, I gathered up as [[Well|well]] as I could, and returned with it,
 
       after much difficulty, to my box, where Tiger had all the while
 
@@ -112,7 +112,7 @@ CHAPTER 3
 
       slightly askance, I found that it became in some measure
 
-      perceptible. Thus the gloom of my prison may be imagined, and the
+      perceptible. Thus the gloom of my [[Prison|prison]] may be imagined, and the
 
       note of my friend, if indeed it were a note from him, seemed only
 
@@ -124,7 +124,7 @@ CHAPTER 3
 
       procuring light—such expedients precisely as a man in the
 
-      perturbed sleep occasioned by opium would be apt to fall upon for
+      perturbed [[Sleep|sleep]] occasioned by opium would be apt to fall upon for
 
       a similar purpose—each and all of which appear by turns to the
 
@@ -136,7 +136,7 @@ CHAPTER 3
 
       occurred to me which seemed rational, and which gave me cause to
 
-      wonder, very justly, that I had not entertained it before. I
+      [[Wonder|wonder]], very justly, that I had not entertained it before. I
 
       placed the slip of paper on the back of a book, and, collecting
 
@@ -166,17 +166,17 @@ CHAPTER 3
 
       idiocy. There were, to be sure, momentary intervals of perfect
 
-      sanity, and, now and then, even of energy; but these were few. It
+      [[Sanity|sanity]], and, now and then, even of energy; but these were few. It
 
       must be remembered that I had been, for many days certainly,
 
       inhaling the almost pestilential atmosphere of a close hold in a
 
-      whaling vessel, and for a long portion of that time but scantily
+      whaling vessel, and for a long portion of that [[Time|time]] but scantily
 
-      supplied with water. For the last fourteen or fifteen hours I had
+      supplied with [[Water|water]]. For the last fourteen or fifteen hours I had
 
-      none—nor had I slept during that time. Salt provisions of the
+      none—nor had I slept during that [[Time|time]]. Salt provisions of the
 
       most exciting kind had been my chief, and, indeed, since the loss
 
@@ -246,7 +246,7 @@ CHAPTER 3
 
       emitted. My difficulties had taught me the necessity of caution,
 
-      and I now took time to reflect upon what I was about to do. It
+      and I now took [[Time|time]] to reflect upon what I was about to do. It
 
       was very probable, I considered, that some words were written
 
@@ -260,7 +260,7 @@ CHAPTER 3
 
       proper manner, as written. There was the greater necessity of
 
-      ascertaining the point in question beyond a doubt, as the
+      ascertaining the point in question beyond a [[Doubt|doubt]], as the
 
       phosphorus remaining would be altogether insufficient for a third
 
@@ -298,7 +298,7 @@ CHAPTER 3
 
       I had previously done. Having rubbed in the phosphorus, a
 
-      brilliancy ensued as before—but this time several lines of MS. in
+      brilliancy ensued as before—but this [[Time|time]] several lines of MS. in
 
       a large hand, and apparently in red ink, became distinctly
 
@@ -306,13 +306,13 @@ CHAPTER 3
 
       momentary. Still, had I not been too greatly excited, there would
 
-      have been ample time enough for me to peruse the whole three
+      have been ample [[Time|time]] enough for me to peruse the whole three
 
       sentences before me—for I saw there were three. In my anxiety,
 
       however, to read all at once, I succeeded only in reading the
 
-      seven concluding words, which thus appeared—“blood—your life
+      seven concluding words, which thus appeared—“[[Blood|blood]]—your life
 
       depends upon lying close.”
 
@@ -330,9 +330,9 @@ CHAPTER 3
 
       and yet indefinable horror with which I was inspired by the
 
-      fragmentary warning thus received. And “blood,” too, that word of
+      fragmentary warning thus received. And “[[Blood|blood]],” too, that word of
 
-      all words—so rife at all times with mystery, and suffering, and
+      all words—so rife at all times with mystery, and [[Suffering|suffering]], and
 
       terror—how trebly full of import did it now appear—how chilly and
 
@@ -340,9 +340,9 @@ CHAPTER 3
 
       qualify or render it distinct) did its vague syllables fall, amid
 
-      the deep gloom of my prison, into the innermost recesses of my
+      the deep gloom of my [[Prison|prison]], into the innermost recesses of my
 
-      soul!
+      [[Soul|soul]]!
 
 
 
@@ -352,7 +352,7 @@ CHAPTER 3
 
       be—but I could think of nothing affording a satisfactory solution
 
-      of the mystery. Just after returning from my last journey to the
+      of the mystery. Just after returning from my last [[Journey|journey]] to the
 
       trap, and before my attention had been otherwise directed by the
 
@@ -366,17 +366,17 @@ CHAPTER 3
 
       accomplish one of these two purposes in the last emergency, had
 
-      given me courage (which I should not otherwise have had) to
+      given me [[Courage|courage]] (which I should not otherwise have had) to
 
       endure the evils of my situation. The few words I had been able
 
       to read, however, had cut me off from these final resources, and
 
-      I now, for the first time, felt all the misery of my fate. In a
+      I now, for the first [[Time|time]], felt all the misery of my fate. In a
 
-      paroxysm of despair I threw myself again upon the mattress,
+      paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
 
-      where, for about the period of a day and night, I lay in a kind
+      where, for about the period of a day and [[Night|night]], I lay in a kind
 
       of stupor, relieved only by momentary intervals of reason and
 
@@ -388,11 +388,11 @@ CHAPTER 3
 
       the horrors which encompassed me. For another twenty-four hours
 
-      it was barely possible that I might exist without water—for a
+      it was barely possible that I might exist without [[Water|water]]—for a
 
-      longer time I could not do so. During the first portion of my
+      longer [[Time|time]] I could not do so. During the first portion of my
 
-      imprisonment I had made free use of the cordials with which
+      [[Imprisonment|imprisonment]] I had made free use of the cordials with which
 
       Augustus had supplied me, but they only served to excite fever,
 
@@ -434,7 +434,7 @@ CHAPTER 3
 
       ran his nose against my hand with a slight snarl; but I was too
 
-      greatly excited at the time to pay much attention to the
+      greatly excited at the [[Time|time]] to pay much attention to the
 
       circumstance. Soon afterward, it will be remembered, I threw
 
@@ -456,13 +456,13 @@ CHAPTER 3
 
       times, until finally his behaviour inspired me with so great a
 
-      degree of fear, that I became fully aroused. He was now lying
+      degree of [[Fear|fear]], that I became fully aroused. He was now lying
 
       close by the door of the box, snarling fearfully, although in a
 
       kind of undertone, and grinding his teeth as if strongly
 
-      convulsed. I had no doubt whatever that the want of water or the
+      convulsed. I had no [[Doubt|doubt]] whatever that the want of [[Water|water]] or the
 
       confined atmosphere of the hold had driven him mad, and I was at
 
@@ -482,7 +482,7 @@ CHAPTER 3
 
       should render it necessary for me to do so. To get out, I had to
 
-      pass directly over his body, and he already seemed to anticipate
+      pass directly over his [[Body|body]], and he already seemed to anticipate
 
       my design—missing himself upon his fore-legs (as I perceived by
 
@@ -500,7 +500,7 @@ CHAPTER 3
 
       sooner did I do this, than the dog sprang with a loud growl
 
-      toward my throat. The whole weight of his body struck me on the
+      toward my throat. The whole weight of his [[Body|body]] struck me on the
 
       right shoulder, and I fell violently to the left, while the
 
@@ -516,9 +516,9 @@ CHAPTER 3
 
       all the folds. I was now beneath the dog, and a few moments would
 
-      place me completely in his power. Despair gave me strength, and I
+      place me completely in his power. [[Despair]] gave me strength, and I
 
-      rose boldly up, shaking him from me by main force, and dragging
+      [[Rose|rose]] boldly up, shaking him from me by main force, and dragging
 
       with me the blankets from the mattress. These I now threw over
 
@@ -534,7 +534,7 @@ CHAPTER 3
 
       felt myself actuated by one of those fits of perverseness which
 
-      might be supposed to influence a spoiled child in similar
+      might be supposed to influence a spoiled [[Child|child]] in similar
 
       circumstances, and, raising the bottle to my lips, I drained it
 
@@ -580,7 +580,7 @@ CHAPTER 3
 
       I could not utter! I felt, I am sure, more than ten thousand
 
-      times the agonies of death itself. My brain reeled, and I fell,
+      times the agonies of [[Death|death]] itself. My brain reeled, and I fell,
 
       deadly sick, against the end of the box.
 
@@ -598,9 +598,9 @@ CHAPTER 3
 
       called my name could be no one but himself. All was silent for
 
-      some moments. At length I again heard the word “Arthur!” repeated
+      some moments. At length I again heard the word “[[arthur|Arthur]]!” repeated
 
-      in a low tone, and one full of hesitation. Reviving hope loosened
+      in a low tone, and one full of hesitation. Reviving [[Hope|hope]] loosened
 
       at once my powers of speech, and I now screamed at the top of my
 
@@ -610,11 +610,11 @@ CHAPTER 3
 
       be with you immediately—as soon as I can make my way through the
 
-      hold.” For a long time I heard him moving among the lumber, and
+      hold.” For a long [[Time|time]] I heard him moving among the lumber, and
 
       every moment seemed to me an age. At length I felt his hand upon
 
-      my shoulder, and he placed, at the same moment, a bottle of water
+      my shoulder, and he placed, at the same moment, a bottle of [[Water|water]]
 
       to my lips. Those only who have been suddenly redeemed from the
 
@@ -622,7 +622,7 @@ CHAPTER 3
 
       thirst under circumstances as aggravated as those which
 
-      encompassed me in my dreary prison, can form any idea of the
+      encompassed me in my dreary [[Prison|prison]], can form any idea of the
 
       unutterable transports which that one long draught of the richest
 

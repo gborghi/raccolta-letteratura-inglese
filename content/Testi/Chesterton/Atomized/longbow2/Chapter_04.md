@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4"
+title: "[[longbow2]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -23,7 +23,7 @@ In the scriptures and the chronicles of the League of the Long Bow,
 or fellowship of foolish persons doing impossible things,
 it is recorded that Owen Hood, the lawyer, and his friend Crane,
 the retired Colonel, were partaking one afternoon of a sort
-of picnic on the river-island that had been the first scene of a
+of picnic on the [[River|river]]-island that had been the first scene of a
 certain romantic incident in the life of the former, the burden
 of reading about which has fallen upon the readers in other days. 
 Suffice it to say that the island had been devoted by Mr. Hood to his
@@ -40,15 +40,15 @@ The two older men had eccentric tastes of their own; but there is always
 a difference between the eccentricity of an elderly man who defies
 the world and the enthusiasm of a younger man who hopes to alter it. 
 The old gentleman may be willing, in a sense, to stand on his head;
-but he does not hope, as the boy does, to stand the world on its head. 
+but he does not [[Hope|hope]], as the boy does, to stand the world on its head. 
 With a young man like Hilary Pierce it was the world itself that was
 to be turned upside-down; and that was a game at which his more
-grizzled companions could only look on, as at a child they loved
+grizzled companions could only look on, as at a [[Child|child]] they loved
 playing with a big coloured balloon.
 
-Perhaps it was this sense of a division by time, altering the tone,
-though not the fact, of friendship, which sent the mind of one of
-the older men back to the memory of an older friend.  He remembered
+Perhaps it was this sense of a division by [[Time|time]], altering the tone,
+though not the fact, of [[Friendship|friendship]], which sent the mind of one of
+the older men back to the [[Memory|memory]] of an older friend.  He remembered
 that he had had a letter that morning from the only contemporary
 of his who could fitly have made a fourth to their party. 
 Owen Hood drew the letter from his pocket with a smile that wrinkled
@@ -65,15 +65,15 @@ signs of a soundless chuckle.
 "Yes," replied the lawyer; "the hieroglyphic was attacked
 with fresh vigour after breakfast this morning, and the clouds
 and mysteries of yesterday's labours seemed to be rolled away. 
-Some portions of the cuneiform still await an expert translation;
+Some portions of the cuneiform still await an expert [[Translation|translation]];
 but the sentences themselves appear to be in the original English."
 
 "Very original English," snorted Colonel Crane.
 
 "Yes, our friend is an original character," replied Hood. 
-"Vanity tempts me to hint that he is our friend because he has an
+"[[Vanity]] tempts me to hint that he is our friend because he has an
 original taste in friends.  The habit of his of putting the pronoun
-on the first page and the noun on the next has brightened many winter
+on the first page and the noun on the next has brightened many [[Winter|winter]]
 evenings for me.  You haven't met our friend White, have you?"
 he added to Pierce.  "That is a shock that still threatens you."
 
@@ -118,14 +118,14 @@ about later; and even in these days I should be surprised to hear
 THAT sort of assistance could be anything but a man's own affair. 
 I defy you and all your parchments to maintain that IT comes under
 the Game Laws.  You won't mind me talking like this; I know jolly
-well you'd think you were acting as a friend; but I think the time
+[[Well|well]] you'd think you were acting as a friend; but I think the [[Time|time]]
 has come to speak plainly.'"
 
 
 "Quite right," said the Colonel.
 
 "Yes," said young Pierce, with a rather vague expression, "I'm glad
-he feels that the time has come to speak plainly."
+he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
@@ -152,7 +152,7 @@ are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
 surprised at Parkinson.  Sally of course is as sound as ever;
 but she goes to Scotland a good deal and you can't blame her. 
-Sometimes I'm left pretty severely alone, but I'm not downhearted;
+Sometimes I'm left pretty severely [[Alone|alone]], but I'm not downhearted;
 you'll probably laugh if I tell you that Snowdrop is really a very
 intelligent companion.'"
 
@@ -160,17 +160,17 @@ intelligent companion.'"
 "I confess I am long past laughter," said Hilary Pierce sadly;
 "but I rather wish I knew who Snowdrop is."
 
-"Child, I suppose," said the Colonel shortly.
+"[[Child]], I suppose," said the Colonel shortly.
 
-"Yes; I suppose it must be a child," said Pierce.  "Has he any children?"
+"Yes; I suppose it must be a [[Child|child]]," said Pierce.  "Has he any children?"
 
 "No," said the Colonel.  "Bachelor."
 
-"I believe he was in love with a lady in those parts and never
+"I believe he was in [[Love|love]] with a lady in those parts and never
 married in consequence," said Hood.  "It would be quite on the lines
 of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
-more about Snowdrop, that little sunbeam in the house:"
+more about Snowdrop, that little sunbeam in the [[house]]:"
 
 
 "`Snowdrop tries to enter our ways, as they always do; but, of course,
@@ -330,11 +330,11 @@ And he handed the letter to Hood, who read it out slowly:
 
 "`I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
-Nobody dared help me move my house again; said it was illegal
+Nobody dared help me move my [[house]] again; said it was illegal
 and they were afraid of the police.  But Snowdrop helped, and we
 carted it all away in two or three journeys; took it right clean
-off the old fool's land altogether this time.  I fancy the old
-fool will have to admit there are things in this world he wasn't
+off the old [[Fool|fool]]'s land altogether this [[Time|time]].  I fancy the old
+[[Fool|fool]] will have to admit there are things in this world he wasn't
 prepared to believe in.'"
 
 
@@ -351,30 +351,30 @@ I mean he's the sort of man who might break all the squire's windows,
 but he wouldn't say he'd broken six when he'd broken five. 
 I've always found when I'd got to the meaning of those mad
 letters that it was quite true.  But how can this be true? 
-How could Snowdrop, whatever she is, have moved a whole house, or old
+How could Snowdrop, whatever she is, have moved a whole [[house]], or old
 White either?"
 
 "I suppose you know what I think," said Pierce.  "I told you
 that Snowdrop, whatever else she is, is invisible.  I'm certain your
 friend has gone Spiritualist, and Snowdrop is the name of a spirit,
 or a control, or whatever they call it.  The spirit would say,
-of course, that it was mere child's play to throw the house from one
+of course, that it was mere [[Child|child]]'s play to throw the [[house]] from one
 end of the county to the other.  But if this unfortunate gentleman
-believes himself to have been thrown, house and all, in that fashion,
+believes himself to have been thrown, [[house]] and all, in that fashion,
 I'm very much afraid he's begun really to suffer from delusions."
 
 The faces of the two older men looked suddenly much older,
-perhaps for the first time they looked old.  The young man seeing
+perhaps for the first [[Time|time]] they looked old.  The young man seeing
 their dolorous expression was warmed and fired to speak quickly.
 
 "Look here," he said hastily, "I'll go down there myself and find
 out what I can for you.  I'll go this afternoon."
 
-"Train journey takes ages," said the Colonel, shaking his head. 
+"Train [[Journey|journey]] takes ages," said the Colonel, shaking his head. 
 "Other end of nowhere.  Told me yourself you had an appointment at
 the Air Ministry to-morrow."
 
-"Be there in no time," replied Pierce cheerfully.  "I'll fly down."
+"Be there in no [[Time|time]]," replied Pierce cheerfully.  "I'll fly down."
 
 And there was something in the lightness and youth of his vanishing
 gesture that seemed really like Icarus spurning the earth,
@@ -395,11 +395,11 @@ himself said abruptly, staring at a mustard-pot on the table:
 
 "Never touch 'em," said the Colonel.  "Sound port never hurt anybody."
 
-"I mean the other sort," said Pierce.  "Things like ghosts and all that."
+"I mean the other sort," said Pierce.  "Things like [[Ghosts|ghosts]] and all that."
 
 "I don't know," said Owen Hood.  "The Greek for it is agnosticism. 
 The Latin for it is ignorance.  But have you really been dealing
-with ghosts and spirits down at poor White's parsonage?"
+with [[Ghosts|ghosts]] and spirits down at poor White's parsonage?"
 
 "I don't know," said Pierce gravely.
 
@@ -410,7 +410,7 @@ with ghosts and spirits down at poor White's parsonage?"
 that it's superstition.  I say I don't know whether it was a spirit. 
 I also say I don't know what the devil else it was if it wasn't. In
 plain words, I went down to that place convinced that poor White
-had got some sort of delusions.  Now I wonder whether it's I that
+had got some sort of delusions.  Now I [[Wonder|wonder]] whether it's I that
 have got the delusions."
 
 He paused a moment and then went on in a more collected manner:
@@ -419,7 +419,7 @@ He paused a moment and then went on in a more collected manner:
 it as an explanation, but it's only fair to allow for it as a fact--
 that all that part of the world seems to be full of that sort of thing. 
 You know how the glamour of Glastonbury lies over all that land
-and the lost tomb of King Arthur and time when he shall return
+and the lost tomb of [[King Arthur]] and [[Time|time]] when he shall return
 and the prophecies of Merlin and all the rest.  To begin with,
 the village they call Ponder's End ought to be called World's End;
 it gives one the impression of being somewhere west of the sunset. 
@@ -433,61 +433,61 @@ work there, for I found a great big empty shed in the grounds--
 that sort of thing that's used for a schoolroom or drill-hall or
 what not.  But not a sign of him or his work can be seen there now. 
 I've said it's a long way west of the village that you come at last
-to the old house.  Well, it's a long way west of that that you come
-to the new house--if you come to it at all.  As for me, I came
-and I came now, as in some old riddle of Merlin.  But you shall hear.
+to the old [[house]].  [[Well]], it's a long way west of that that you come
+to the new [[house]]--if you come to it at all.  As for me, I came
+and I came now, as in some old [[Riddle|riddle]] of Merlin.  But you shall hear.
 
 "I had come down about sunset in a meadow near Ponder's End, and I
-did the rest of the journey on foot, for I wanted to see things
+did the rest of the [[Journey|journey]] on foot, for I wanted to see things
 in detail.  This was already difficult as it was growing dusk, and I
-began to fear I should find nothing of importance before nightfall. 
+began to [[Fear|fear]] I should find nothing of importance before nightfall. 
 I had asked a question or two of the villagers about the vicar
-and his new self-made vicarage.  They were very reticent about
+and his new [[Self|self]]-made vicarage.  They were very reticent about
 the former, but I gathered that the latter stood at the extreme edge
-of his original grounds on a hill rising out of a thicket of wood. 
+of his original grounds on a [[Hill|hill]] rising out of a thicket of wood. 
 In the increasing darkness it was difficult to find the place, but I
 came on it at last, in a place where a fringe of forest ran along
 under the low brows of a line of rugged cliffs, such as sometimes break
 the curves of great downlands.  I seemed to be descending a thickly
 wooded slope, with a sea of tree-tops below me, and out of that sea,
-like an island, rose the dome of the isolated hill; and I could
+like an island, [[Rose|rose]] the dome of the isolated [[Hill|hill]]; and I could
 faintly see the building on it, darker against the dark-clouded sky. 
-For a moment a faint line of light from the masked moon showed me
+For a moment a faint line of light from the masked [[Moon|moon]] showed me
 a little more of its shape, which seemed singularly simple and airy
 in its design.  Against that pallid gleam stood four strong columns,
 with the bulk of building apparently lifted above them; but it
 produced a queer impression, as if this Christian priest had built
-for his final home a heathen temple of the winds.  As I leaned forward,
+for his final [[Home|home]] a heathen temple of the winds.  As I leaned forward,
 peering at it, I overbalanced myself and slid rapidly down the steep
 thicket into the darkest entrails of the wood.  From there I could
-see nothing of the pillared house or temple or whatever it was on
-the hill; the thick woods had swallowed me up literally like a sea,
+see nothing of the pillared [[house]] or temple or whatever it was on
+the [[Hill|hill]]; the thick woods had swallowed me up literally like a sea,
 and I groped for what must have been nearly half an hour amid
-tangled roots and low branches, in that double darkness of night
-and shadow, before I found my feet slipping up the opposite slope
-and began to climb the hill on the top of which the temple stood. 
+tangled roots and low branches, in that [[Double|double]] darkness of [[Night|night]]
+and [[Shadow|shadow]], before I found my feet slipping up the opposite slope
+and began to climb the [[Hill|hill]] on the top of which the temple stood. 
 It was very difficult climbing, of course, through a network of briars
-and branching trees, and it was some little time afterwards that I
+and branching trees, and it was some little [[Time|time]] afterwards that I
 burst through the last screen of foliage and came out upon the bare
-hill-top.
+[[Hill|hill]]-top.
 
-"Yes; upon the bare hill-top. Rank grasses grew upon it,
-and the wind blew them about like hair on a head; but for any
+"Yes; upon the bare [[Hill|hill]]-top. Rank grasses grew upon it,
+and the [[Wind|wind]] blew them about like hair on a head; but for any
 trace of anything else, that green dome was as bare as a skull. 
-There was no sign or shadow of the building I had seen there
-a little time before; it had vanished like a fairy palace. 
+There was no sign or [[Shadow|shadow]] of the building I had seen there
+a little [[Time|time]] before; it had vanished like a fairy palace. 
 A broad track broken through the woods seemed to lead up to it,
 so far as I could make out in that obscurity; but there was no
 trace of the building to which it led.  And when I saw that,
 I gave up.  Something told me I should find out no more; perhaps I
 had some shaken sense that there were things past finding out. 
-I retraced my steps, descending the hill as best I might; but when I
+I retraced my steps, descending the [[Hill|hill]] as best I might; but when I
 was again swallowed up in that leafy sea, something happened that,
 for an instant, turned me cold as stone.  An unearthly noise,
 like long hooting laughter, rang out in vast volume over the forest
-and rose to the stars.  It was no noise to which I could put a name;
+and [[Rose|rose]] to the [[Stars|stars]].  It was no noise to which I could put a name;
 it was certainly no noise I had ever heard before; it bore some sort
-of resemblance to the neighing of a horse immensely magnified;
+of resemblance to the neighing of a [[Horse|horse]] immensely magnified;
 yet it might have been half human, and there was triumph in it
 and derision.
 
@@ -500,8 +500,8 @@ with imaginary bogies; I am not less alarmed if he had got mixed
 up with real ones.  Anyhow, before I left that village I had told
 one man what I had seen, and he told me he had seen it also. 
 But he had seen it actually moving, in dusk turning to dark;
-the whole great house, with its high columns, moving across the fields
-like a great ship sailing on land."
+the whole [[Great House|great house]], with its high columns, moving across the fields
+like a great [[Ship|ship]] sailing on land."
 
 Owen Hood sat up suddenly, with awakened eyes, and struck the table.
 
@@ -512,7 +512,7 @@ all go down to Ponder's End and bring this business to a finish."
 "or can you tell us what sort of finish?"
 
 "Yes," replied Hood resolutely.  "I think I can finish it,
-and I think I know what the finish will be.  The truth is,
+and I think I know what the finish will be.  The [[Truth|truth]] is,
 my friend, I think I understand the whole thing now.  And as I told
 you before, White, so far from being deluded by imaginary bogies,
 is a gentleman very exact in his statements.  In this matter he
@@ -522,26 +522,26 @@ that he has been very much too exact."
 "What on earth do you mean by that?" asked Pierce.
 
 "I mean," said the lawyer, "that I have suddenly remembered the phrase
-he used.  It was very exact; it was dull, deadly, literal truth. 
+he used.  It was very exact; it was dull, deadly, literal [[Truth|truth]]. 
 But I can be exact, too, at times, and just now I should like to look
-at a time-table."
+at a [[Time|time]]-table."
 
 
 They found the village of Ponder's End in a condition as comically
-incongruous as could well be with the mystical experiences
+incongruous as could [[Well|well]] be with the mystical experiences
 of Mr. Hilary Pierce.  When we talk of such places as sleepy,
 we forget that they are very wide-awake about their own affairs,
 and especially on their own festive occasions.  Piccadilly Circus looks
 much the same on Christmas Day or any other; but the market-place
 of a country town or village looks very different on the day
 of a fair or a bazaar.  And Hilary Pierce, who had first come down
-there to find in a wood at midnight the riddle that he thought
-worthy of Merlin, came down the second time to find himself plunged
+there to find in a wood at midnight the [[Riddle|riddle]] that he thought
+worthy of Merlin, came down the second [[Time|time]] to find himself plunged
 suddenly into the middle of the bustling bathos of a jumble sale. 
 It was one of those bazaars to provide bargains for the poor,
 at which all sorts of odds and ends are sold off.  But it was
 treated as a sort of fete, and highly-coloured posters and handbills
-announced its nature on every side.  The bustle seemed to be dominated
+announced its [[Nature|nature]] on every side.  The bustle seemed to be dominated
 by a tall dark lady of distinguished appearance, whom Owen Hood,
 rather to the surprise of his companions, hailed as an old acquaintance
 and managed to draw aside for a private talk.  She had appeared
@@ -553,31 +553,31 @@ you he always keeps his word."
 
 All Hood said when he rejoined his companion was:  "That's the lady
 White was going to marry.  I think I know now why things went wrong,
-and I hope they may go right.  But there seems to be another bother. 
+and I [[Hope|hope]] they may go right.  But there seems to be another bother. 
 You see that clump of clod-hopping policemen over there, inspector and all. 
 It seems they're waiting for White.  Says he's broken the law in
-taking his house off the land, and that he has always eluded them. 
-I hope there won't be a scene when he turns up."
+taking his [[house]] off the land, and that he has always eluded them. 
+I [[Hope|hope]] there won't be a scene when he turns up."
 
-If this was Mr. Hood's hope, it was ill-founded and destined
+If this was Mr. Hood's [[Hope|hope]], it was ill-founded and destined
 to disappointment.  A scene was but a faint description of what was
 in store for that hopeful gentleman.  Within ten minutes the greater
-part of the company were in a world in which the sun and the moon
+part of the company were in a world in which the sun and the [[Moon|moon]]
 seemed to have turned topsy-turvy and the last limit of unlikelihood
 had been reached.  Pierce had imagined he was very near that limit
-of the imagination when he groped after the vanishing temple in the
-dark forest.  But nothing he had seen in that darkness and solitude
+of the [[Imagination|imagination]] when he groped after the vanishing temple in the
+dark forest.  But nothing he had seen in that darkness and [[Solitude|solitude]]
 was so fantastic as what he saw next in broad daylight and in a crowd.
 
 At one extreme edge of the crowd there was a sudden movement--
 a wave of recoil and wordless cries.  The next moment it had swept
-like a wind over the whole populace, and hundreds of faces were turned
-in one direction--in the direction of the road that descended by a
+like a [[Wind|wind]] over the whole populace, and hundreds of faces were turned
+in one direction--in the direction of the [[Road|road]] that descended by a
 gradual slope towards the woods that fringed the vicarage grounds. 
-Out of these woods at the foot of the hill had emerged something
+Out of these woods at the foot of the [[Hill|hill]] had emerged something
 that might from its size have been a large light grey omnibus. 
 But it was not an omnibus.  It scaled the slope so swiftly,
-in great strides, that it became instantly self-evident what it was. 
+in great strides, that it became instantly [[Self|self]]-evident what it was. 
 It was an elephant, whose monstrous form was moulded in grey and
 silver in the sunlight, and on whose back sat very erect a vigorous
 middle-aged gentleman in black clerical attire, with blanched hair
@@ -602,7 +602,7 @@ I told you I'd got a white elephant."
 
 "So he did," said Hood, "only it never occurred to us that
 the elephant was an elephant and not a metaphor.  So that's
-what he meant by Asiatic atmosphere and snow and mountains. 
+what he meant by Asiatic atmosphere and [[Snow|snow]] and [[Mountains|mountains]]. 
 And that's what the big shed was really for."
 
 "Look here," said the inspector, recovering from his astonishment
@@ -612,7 +612,7 @@ Sorry to say it, sir, but you've ignored our notifications and evaded
 our attempts to--"
 
 "Have I?" inquired Mr. White brightly.  "Have I really evaded you? 
-Well, well, perhaps I have.  An elephant is such a standing temptation
+[[Well]], [[Well|well]], perhaps I have.  An elephant is such a standing [[Temptation|temptation]]
 to evasion, to evanescence, to fading away like a dewdrop. 
 Like a snowdrop perhaps would be more appropriate.  Come on, Snowdrop."
 
@@ -625,15 +625,15 @@ for elephants, which are rare in those parts.  Even if they had
 overtaken it on bicycles, they would have found it difficult to climb
 it on bicycles.  Even if they had had revolvers, they had omitted
 to conceal about their persons anything in the way of big-game rifles. 
-The white monster vanished rapidly up the long white road,
+The white [[Monster|monster]] vanished rapidly up the long white [[Road|road]],
 so rapidly that when it dwindled to a small object and disappeared,
 people could hardly believe that such a prodigy had ever been present,
 or that their eyes had not been momentarily bewitched.  Only, as it
 disappeared in the distance, Pierce heard once more the high nasal
-trumpeting noise which, in the eclipse of night, had seemed to fill
-the forest with fear.
+trumpeting noise which, in the eclipse of [[Night|night]], had seemed to fill
+the forest with [[Fear|fear]].
 
-It was at a subsequent meeting in London that Crane and Pierce had an
+It was at a subsequent meeting in [[London]] that Crane and Pierce had an
 opportunity of learning, more or less, the true story of the affair,
 in the form of another letter from the parson to the lawyer.
 
@@ -646,7 +646,7 @@ about leather and about horse-hair.'"
 
 "About what?" asked Pierce.
 
-"Horse-hair," said Hood with severity.  "He goes on, `The truth
+"Horse-hair," said Hood with severity.  "He goes on, `The [[Truth|truth]]
 is they thought they could do what they liked with me because I
 always boasted that I hadn't got one, and never wanted to have one;
 but when they found I had got one, and I must really say a jolly
@@ -719,7 +719,7 @@ never even occurred to me that her nose would be out of joint.
 Rather funny to be talking about noses, isn't it, for I suppose
 really it was her rival's nose that figured most prominently. 
 Think of having a rival with a nose like that to turn up at you! 
-Talk about a spire pointing to the stars--'"
+Talk about a spire pointing to the [[Stars|stars]]--'"
 
 "I think," said Crane, interposing mildly, "that it would be
 better if you resumed your duties as official interpreter. 
@@ -734,13 +734,13 @@ Though we have not met for ten years, I knew from the first glimpse
 of her face that she had been worrying, in a powerful secretive sort
 of way; worrying about something she didn't understand and would
 not inquire about.  I remember long ago, when she was an ordinary
-fox-hunting squire's daughter and White was one of Sydney Smith's
+fox-hunting squire's daughter and White was one of Sydney [[smith|Smith]]'s
 wild curates, how she sulked for two months over a mistake about
 a post-card that could have been explained in two minutes. 
 At least it could have been explained by anybody except White. 
 But you will understand that if he tried to explain the post-card
 on another post-card, the results may not have been luminous,
-let alone radiant."
+let [[Alone|alone]] radiant."
 
 "But what has all this to do with noses?" inquired Pierce.
 
@@ -748,12 +748,12 @@ let alone radiant."
 know who was the rival with the long nose?"
 
 He paused for a moment and then continued, "It occurred to me as soon
-as I had guessed at the nature of the nose which may certainly
+as I had guessed at the [[Nature|nature]] of the nose which may certainly
 be called the main feature of the story.  An elusive, flexible and
-insinuating nose, the serpent of their Eden.  Well, they seem
-to have returned to their Eden now; and I have no doubt it will
+insinuating nose, the serpent of their Eden.  [[Well]], they seem
+to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
 be all right; for it is when people are separated that these sort
-of secrets spring up between them.  After all, it was a mystery
+of [[Secrets|secrets]] [[Spring|spring]] up between them.  After all, it was a mystery
 to us and we cannot be surprised if it was a mystery to her."
 
 "A good deal of this talk is still rather a mystery to me,"
@@ -765,9 +765,9 @@ and a monkey, and a baby, and a good many other things that Snowdrop
 might possibly be.  But we never thought of the interpretation
 which was the first to occur to the lady."
 
-There was silence, and then Crane laughed in an internal fashion.
+There was [[Silence|silence]], and then Crane laughed in an internal fashion.
 
-"Well, I don't blame her," he said.  "One could hardly expect
+"[[Well]], I don't blame her," he said.  "One could hardly expect
 a lady of any delicacy to deduce an elephant."
 
 "It's an extraordinary business, when you come to think of it,"
@@ -802,8 +802,8 @@ without knowing it?"
 
 "Yes," replied Hood.  "You remember when you were smuggling pigs
 in defiance of the regulations, you indulged (I regret to say)
-in a deception of putting them in cages and pretending you were
-travelling with a menagerie of dangerous animals.  The consequence was,
+in a [[Deception|deception]] of putting them in cages and pretending you were
+travelling with a menagerie of dangerous [[Animals|animals]].  The consequence was,
 you remember, that the authorities forbade menageries altogether. 
 Our friend White took up the case of a travelling circus being
 stopped in his town as a case of gross oppression; and when they
@@ -815,7 +815,7 @@ had to break it up, he took over the elephant."
 "He might not have done it if he'd known what it involved," said Hood. 
 "As I say, he was a quarrelsome fellow, with all his good points."
 
-There was a silence, and then Pierce said in a musing manner: 
+There was a [[Silence|silence]], and then Pierce said in a musing manner: 
 "It's odd it should be the sequel of my little pig adventure. 
 A sort of reversal of the ~parturiunt montes~; I put in a little pig
 and it brought forth an elephant."

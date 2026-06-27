@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 7)"
+title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Davy, dear. If I ain’t been azackly as intimate with you. Lately, as I
-used to be. It ain’t because I don’t love you. Just as well and more, my
+used to be. It ain’t because I don’t [[Love|love]] you. Just as [[Well|well]] and more, my
 pretty poppet. It’s because I thought it better for you. And for someone
 else besides. Davy, my darling, are you listening? Can you hear?’
 
@@ -25,25 +25,25 @@ else besides. Davy, my darling, are you listening? Can you hear?’
 is. That you must never forget me. For I’ll never forget you. And I’ll
 take as much care of your mama, Davy. As ever I took of you. And I won’t
 leave her. The day may come when she’ll be glad to lay her poor head.
-On her stupid, cross old Peggotty’s arm again. And I’ll write to you,
+On her stupid, [[Cross|cross]] old Peggotty’s arm again. And I’ll write to you,
 my dear. Though I ain’t no scholar. And I’ll--I’ll--’ Peggotty fell to
 kissing the keyhole, as she couldn’t kiss me.
 
 ‘Thank you, dear Peggotty!’ said I. ‘Oh, thank you! Thank you! Will you
 promise me one thing, Peggotty? Will you write and tell Mr. Peggotty and
 little Em’ly, and Mrs. Gummidge and Ham, that I am not so bad as they
-might suppose, and that I sent ‘em all my love--especially to little
+might suppose, and that I sent ‘em all my [[Love|love]]--especially to little
 Em’ly? Will you, if you please, Peggotty?’
 
-The kind soul promised, and we both of us kissed the keyhole with the
+The kind [[Soul|soul]] promised, and we both of us kissed the keyhole with the
 greatest affection--I patted it with my hand, I recollect, as if it had
-been her honest face--and parted. From that night there grew up in my
-breast a feeling for Peggotty which I cannot very well define. She did
+been her honest face--and parted. From that [[Night|night]] there grew up in my
+breast a feeling for Peggotty which I cannot very [[Well|well]] define. She did
 not replace my mother; no one could do that; but she came into a vacancy
 in my heart, which closed upon her, and I felt towards her something
 I have never felt for any other human being. It was a sort of comical
 affection, too; and yet if she had died, I cannot think what I should
-have done, or how I should have acted out the tragedy it would have been
+have done, or how I should have acted out the [[Tragedy|tragedy]] it would have been
 to me.
 
 In the morning Miss Murdstone appeared as usual, and told me I was going
@@ -51,15 +51,15 @@ to school; which was not altogether such news to me as she supposed. She
 also informed me that when I was dressed, I was to come downstairs into
 the parlour, and have my breakfast. There, I found my mother, very pale
 and with red eyes: into whose arms I ran, and begged her pardon from my
-suffering soul.
+[[Suffering|suffering]] [[Soul|soul]].
 
-‘Oh, Davy!’ she said. ‘That you could hurt anyone I love! Try to be
+‘Oh, Davy!’ she said. ‘That you could hurt anyone I [[Love|love]]! Try to be
 better, pray to be better! I forgive you; but I am so grieved, Davy,
 that you should have such bad passions in your heart.’
 
 They had persuaded her that I was a wicked fellow, and she was more
 sorry for that than for my going away. I felt it sorely. I tried to eat
-my parting breakfast, but my tears dropped upon my bread-and-butter,
+my parting breakfast, but my [[Tears|tears]] dropped upon my bread-and-butter,
 and trickled into my tea. I saw my mother look at me sometimes, and then
 glance at the watchful Miss Murdstone, and than look down, or look away.
 
@@ -73,7 +73,7 @@ was taken out to his cart, and lifted in.
 ‘Clara!’ said Miss Murdstone, in her warning note.
 
 ‘Ready, my dear Jane,’ returned my mother. ‘Good-bye, Davy. You are
-going for your own good. Good-bye, my child. You will come home in the
+going for your own good. Good-bye, my [[Child|child]]. You will come [[Home|home]] in the
 holidays, and be a better boy.’
 
 ‘Clara!’ Miss Murdstone repeated.
@@ -85,4 +85,4 @@ forgive you, my dear boy. God bless you!’
 
 Miss Murdstone was good enough to take me out to the cart, and to say on
 the way that she hoped I would repent, before I came to a bad end; and
-then I got into the cart, and the lazy horse walked off with it.
+then I got into the cart, and the lazy [[Horse|horse]] walked off with it.

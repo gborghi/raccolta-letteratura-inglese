@@ -15,7 +15,7 @@ tags:
 
 
 ‘If I knew which of your hands was the least spoilt, I would ask you
-to let me touch it,’ said Bella, ‘for the last time. But not because I
+to let me touch it,’ said Bella, ‘for the last [[Time|time]]. But not because I
 repent of what I have said to you. For I don’t. It’s true!’
 
 ‘Try the left hand,’ said Mr Boffin, holding it out in a stolid manner;
@@ -30,7 +30,7 @@ throw it away for that. Thank you for myself, and good-bye!’
 Bella caught him round the neck and kissed him, and ran out for ever.
 
 She ran up-stairs, and sat down on the floor in her own room, and cried
-abundantly. But the day was declining and she had no time to lose. She
+abundantly. But the day was declining and she had no [[Time|time]] to lose. She
 opened all the places where she kept her dresses; selected only those
 she had brought with her, leaving all the rest; and made a great
 misshapen bundle of them, to be sent for afterwards.
@@ -44,7 +44,7 @@ mansion. Even the bonnet she put on, was the bonnet that had mounted
 into the Boffin chariot at Holloway.
 
 ‘Now, I am complete,’ said Bella. ‘It’s a little trying, but I have
-steeped my eyes in cold water, and I won’t cry any more. You have been
+steeped my eyes in cold [[Water|water]], and I won’t cry any more. You have been
 a pleasant room to me, dear room. Adieu! We shall never see each other
 again.’
 
@@ -57,9 +57,9 @@ from the emptiness of his table, and the general appearance of things,
 that he was already gone. Softly opening the great hall door, and
 softly closing it upon herself, she turned and kissed it on the
 outside—insensible old combination of wood and iron that it
-was!—before she ran away from the house at a swift pace.
+was!—before she ran away from the [[house]] at a swift pace.
 
-‘That was well done!’ panted Bella, slackening in the next street, and
+‘That was [[Well|well]] done!’ panted Bella, slackening in the next street, and
 subsiding into a walk. ‘If I had left myself any breath to cry with, I
 should have cried again. Now poor dear darling little Pa, you are going
 to see your lovely woman unexpectedly.’

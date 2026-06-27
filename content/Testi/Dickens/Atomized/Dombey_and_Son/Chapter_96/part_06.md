@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-Cleopatra, at one time fretful, at another self-complacent, sometimes
+[[Cleopatra]], at one [[Time|time]] fretful, at another [[Self|self]]-complacent, sometimes
 awake, sometimes asleep, and at all times juvenile, reached Brighton
-the same night, fell to pieces as usual, and was put away in bed; where
-a gloomy fancy might have pictured a more potent skeleton than the
-maid, who should have been one, watching at the rose-coloured curtains,
+the same [[Night|night]], fell to pieces as usual, and was put away in bed; where
+a gloomy fancy might have pictured a more potent [[skeleton]] than the
+maid, who should have been one, watching at the [[Rose|rose]]-coloured curtains,
 which were carried down to shed their bloom upon her.
 
 It was settled in high council of medical authority that she should
 take a carriage airing every day, and that it was important she should
 get out every day, and walk if she could. Edith was ready to attend
 her—always ready to attend her, with the same mechanical attention and
-immovable beauty—and they drove out alone; for Edith had an uneasiness
+immovable [[Beauty|beauty]]—and they drove out [[Alone|alone]]; for Edith had an uneasiness
 in the presence of Florence, now that her mother was worse, and told
-Florence, with a kiss, that she would rather they two went alone.
+Florence, with a kiss, that she would rather they two went [[Alone|alone]].
 
 Mrs Skewton, on one particular day, was in the irresolute, exacting,
 jealous temper that had developed itself on her recovery from her first
 attack. After sitting silent in the carriage watching Edith for some
-time, she took her hand and kissed it passionately. The hand was
+[[Time|time]], she took her hand and kissed it passionately. The hand was
 neither given nor withdrawn, but simply yielded to her raising of it,
 and being released, dropped down again, almost as if it were
 insensible. At this she began to whimper and moan, and say what a
@@ -45,18 +45,18 @@ following at a little distance.
 It was a bleak, lowering, windy day, and they were out upon the Downs
 with nothing but a bare sweep of land between them and the sky. The
 mother, with a querulous satisfaction in the monotony of her complaint,
-was still repeating it in a low voice from time to time, and the proud
+was still repeating it in a low voice from [[Time|time]] to [[Time|time]], and the proud
 form of her daughter moved beside her slowly, when there came advancing
 over a dark ridge before them, two other figures, which in the
-distance, were so like an exaggerated imitation of their own, that
+distance, were so like an exaggerated [[Imitation|imitation]] of their own, that
 Edith stopped.
 
 Almost as she stopped, the two figures stopped; and that one which to
-Edith’s thinking was like a distorted shadow of her mother, spoke to
+Edith’s thinking was like a distorted [[Shadow|shadow]] of her mother, spoke to
 the other, earnestly, and with a pointing hand towards them. That one
 seemed inclined to turn back, but the other, in which Edith recognised
 enough that was like herself to strike her with an unusual feeling, not
-quite free from fear, came on; and then they came on together.
+quite free from [[Fear|fear]], came on; and then they came on together.
 
 [Illustration]
 
@@ -66,14 +66,14 @@ her that they were poorly dressed, as wanderers about the country; that
 the younger woman carried knitted work or some such goods for sale; and
 that the old one toiled on empty-handed.
 
-And yet, however far removed she was in dress, in dignity, in beauty,
+And yet, however far removed she was in dress, in dignity, in [[Beauty|beauty]],
 Edith could not but compare the younger woman with herself, still. It
 may have been that she saw upon her face some traces which she knew
-were lingering in her own soul, if not yet written on that index; but,
+were lingering in her own [[Soul|soul]], if not yet written on that index; but,
 as the woman came on, returning her gaze, fixing her shining eyes upon
 her, undoubtedly presenting something of her own air and stature, and
 appearing to reciprocate her own thoughts, she felt a chill creep over
-her, as if the day were darkening, and the wind were colder.
+her, as if the day were darkening, and the [[Wind|wind]] were colder.
 
 They had now come up. The old woman, holding out her hand
 importunately, stopped to beg of Mrs Skewton. The younger one stopped
@@ -120,19 +120,19 @@ that. You’re all affection and et cetera, ain’t you?”
 
 “Yes, I’m sure you are; and so’s that gentlemanly creature Grangeby. I
 must really shake hands with you again. And now you can go, you know;
-and I hope,” addressing the daughter, “that you’ll show more gratitude,
+and I [[Hope|hope]],” addressing the daughter, “that you’ll show more gratitude,
 and natural what’s-its-name, and all the rest of it—but I never
 remember names—for there never was a better mother than the good old
 creature’s been to you. Come, Edith!”
 
-As the ruin of Cleopatra tottered off whimpering, and wiping its eyes
+As the ruin of [[Cleopatra]] tottered off whimpering, and wiping its eyes
 with a gingerly remembrance of rouge in their neighbourhood, the old
 woman hobbled another way, mumbling and counting her money. Not one
 word more, nor one other gesture, had been exchanged between Edith and
 the younger woman, but neither had removed her eyes from the other for
 a moment. They had remained confronted until now, when Edith, as
-awakening from a dream, passed slowly on.
+awakening from [[A Dream|a dream]], passed slowly on.
 
-“You’re a handsome woman,” muttered her shadow, looking after her; “but
-good looks won’t save us. And you’re a proud woman; but pride won’t
+“You’re a handsome woman,” muttered her [[Shadow|shadow]], looking after her; “but
+good looks won’t save us. And you’re a proud woman; but [[Pride|pride]] won’t
 save us. We had need to know each other when we meet again!”

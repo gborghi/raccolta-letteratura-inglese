@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 23 (part 2)"
+title: "[[The Professor]] — Chapter 23 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,13 +20,13 @@ have been worse off than thousands of her sex. Look at the rigid and
 
 formal race of old maids--the race whom all despise; they have fed
 
-themselves, from youth upwards, on maxims of resignation and endurance.
+themselves, from youth upwards, on maxims of [[Resignation|resignation]] and [[Endurance|endurance]].
 
-Many of them get ossified with the dry diet; self-control is so
+Many of them get ossified with the dry diet; [[Self|self]]-control is so
 
 continually their thought, so perpetually their object, that at last
 
-it absorbs the softer and more agreeable qualities of their nature; and
+it absorbs the softer and more agreeable qualities of their [[Nature|nature]]; and
 
 they die mere models of austerity, fashioned out of a little parchment
 
@@ -36,7 +36,7 @@ withered old maid’s carcass--the same as in that of any cherished wife
 
 or proud mother in the land. Can this be so? I really don’t know; but
 
-feel inclined to doubt it.
+feel inclined to [[Doubt|doubt]] it.
 
 
 
@@ -60,13 +60,13 @@ a candle, lit it, placed it by me; then drew the curtain over the
 
 lattice, and having added a little fresh fuel to the already bright
 
-fire, she drew a second chair to the table and sat down at my right
+[[Fire|fire]], she drew a second chair to the table and sat down at my right
 
-hand, a little removed. The paper on the top was a translation of
+hand, a little removed. The paper on the top was a [[Translation|translation]] of
 
-some grave French author into English, but underneath lay a sheet with
+some [[Grave|grave]] French author into English, but underneath lay a sheet with
 
-stanzas; on this I laid hands. Frances half rose, made a movement to
+stanzas; on this I laid hands. Frances half [[Rose|rose]], made a movement to
 
 recover the captured spoil, saying, that was nothing--a mere copy of
 
@@ -86,7 +86,7 @@ experience, but a composition by portions of that experience suggested.
 
 Thus while egotism was avoided, the fancy was exercised, and the heart
 
-satisfied. I translate as before, and my translation is nearly literal;
+satisfied. I translate as before, and my [[Translation|translation]] is nearly literal;
 
 it continued thus:--
 
@@ -106,7 +106,7 @@ it continued thus:--
 
      One day when summoned to the bed
 
-      Where pain and I did strive,
+      Where [[Pain|pain]] and I did strive,
 
      I heard him, as he bent his head,
 
@@ -128,7 +128,7 @@ it continued thus:--
 
       I only felt, within,
 
-     The sense of Hope, the strength of Love,
+     The sense of [[Hope]], the strength of [[Love]],
 
       Their healing work begin.
 
@@ -174,7 +174,7 @@ it continued thus:--
 
 
 
-    “Seek in the garden-shades a seat,
+    “Seek in the [[Garden|garden]]-shades a seat,
 
       Far from the play-ground din;
 
@@ -188,19 +188,19 @@ it continued thus:--
 
       I passed in those green bowers;
 
-     All silent, tranquil, and alone
+     All silent, tranquil, and [[Alone|alone]]
 
-      With birds, and bees, and flowers.
+      With [[Birds|birds]], and [[Bees|bees]], and [[Flowers|flowers]].
 
 
 
      Yet, when my master’s voice I heard
 
-      Call, from the window, “Jane!”
+      Call, from the [[Window|window]], “Jane!”
 
       I entered, joyful, at the word,
 
-      The busy house again.
+      The busy [[house]] again.
 
 
 
@@ -286,15 +286,15 @@ it continued thus:--
 
      Low at my master’s knee I bent,
 
-      The offered crown to meet;
+      The offered [[Crown|crown]] to meet;
 
-     Its green leaves through my temples sent
+     Its green [[Leaves|leaves]] through my temples sent
 
       A thrill as wild as sweet.
 
 
 
-     The strong pulse of Ambition struck
+     The strong pulse of [[Ambition]] struck
 
       In every vein I owned;
 
@@ -308,7 +308,7 @@ it continued thus:--
 
       The hour of sorrow sore;
 
-     A day hence I must cross the sea,
+     A day hence I must [[Cross|cross]] the sea,
 
       Ne’er to recross it more.
 
@@ -316,7 +316,7 @@ it continued thus:--
 
      An hour hence, in my master’s room
 
-      I with him sat alone,
+      I with him sat [[Alone|alone]],
 
      And told him what a dreary gloom
 

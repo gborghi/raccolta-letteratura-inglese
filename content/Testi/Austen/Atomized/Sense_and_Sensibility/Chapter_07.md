@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 7"
+title: "[[Sense and Sensibility]] — Chapter 7"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Barton Park was about half a mile from the cottage. The ladies had
 
 passed near it in their way along the valley, but it was screened from
 
-their view at home by the projection of a hill. The house was large and
+their view at [[Home|home]] by the projection of a [[Hill|hill]]. The [[house]] was large and
 
 handsome; and the Middletons lived in a style of equal hospitality and
 
@@ -32,7 +32,7 @@ elegance. The former was for Sir John’s gratification, the latter for
 
 that of his lady. They were scarcely ever without some friends staying
 
-with them in the house, and they kept more company of every kind than
+with them in the [[house]], and they kept more company of every kind than
 
 any other family in the neighbourhood. It was necessary to the
 
@@ -52,9 +52,9 @@ Middleton had the advantage of being able to spoil her children all the
 
 year round, while Sir John’s independent employments were in existence
 
-only half the time. Continual engagements at home and abroad, however,
+only half the [[Time|time]]. Continual engagements at [[Home|home]] and abroad, however,
 
-supplied all the deficiencies of nature and education; supported the
+supplied all the deficiencies of [[Nature|nature]] and [[Education|education]]; supported the
 
 good spirits of Sir John, and gave exercise to the good breeding of his
 
@@ -64,21 +64,21 @@ wife.
 
 Lady Middleton piqued herself upon the elegance of her table, and of
 
-all her domestic arrangements; and from this kind of vanity was her
+all her domestic arrangements; and from this kind of [[Vanity|vanity]] was her
 
 greatest enjoyment in any of their parties. But Sir John’s satisfaction
 
 in society was much more real; he delighted in collecting about him
 
-more young people than his house would hold, and the noisier they were
+more young people than his [[house]] would hold, and the noisier they were
 
 the better was he pleased. He was a blessing to all the juvenile part
 
-of the neighbourhood, for in summer he was for ever forming parties to
+of the neighbourhood, for in [[Summer|summer]] he was for ever forming parties to
 
-eat cold ham and chicken out of doors, and in winter his private balls
+eat cold ham and chicken out of doors, and in [[Winter|winter]] his private balls
 
-were numerous enough for any young lady who was not suffering under the
+were numerous enough for any young lady who was not [[Suffering|suffering]] under the
 
 unsatiable appetite of fifteen.
 
@@ -114,7 +114,7 @@ residence within his own manor.
 
 
 
-Mrs. Dashwood and her daughters were met at the door of the house by
+Mrs. Dashwood and her daughters were met at the door of the [[house]] by
 
 Sir John, who welcomed them to Barton Park with unaffected sincerity;
 
@@ -134,7 +134,7 @@ party, and could assure them it should never happen so again. He had
 
 been to several families that morning in hopes of procuring some
 
-addition to their number, but it was moonlight and every body was full
+addition to their number, but it was moonlight and every [[Body|body]] was full
 
 of engagements. Luckily Lady Middleton’s mother had arrived at Barton
 
@@ -142,7 +142,7 @@ within the last hour, and as she was a very cheerful agreeable woman,
 
 he hoped the young ladies would not find it so very dull as they might
 
-imagine. The young ladies, as well as their mother, were perfectly
+imagine. The young ladies, as [[Well|well]] as their mother, were perfectly
 
 satisfied with having two entire strangers of the party, and wished for
 
@@ -156,7 +156,7 @@ fat, elderly woman, who talked a great deal, seemed very happy, and
 
 rather vulgar. She was full of jokes and laughter, and before dinner
 
-was over had said many witty things on the subject of lovers and
+was over had said many witty things on the subject of [[lovers]] and
 
 husbands; hoped they had not left their hearts behind them in Sussex,
 
@@ -166,19 +166,19 @@ vexed at it for her sister’s sake, and turned her eyes towards Elinor
 
 to see how she bore these attacks, with an earnestness which gave
 
-Elinor far more pain than could arise from such common-place raillery
+Elinor far more [[Pain|pain]] than could arise from such common-place raillery
 
 as Mrs. Jennings’s.
 
 
 
-Colonel Brandon, the friend of Sir John, seemed no more adapted by
+[[Colonel Brandon]], the friend of Sir John, seemed no more adapted by
 
 resemblance of manner to be his friend, than Lady Middleton was to be
 
 his wife, or Mrs. Jennings to be Lady Middleton’s mother. He was silent
 
-and grave. His appearance however was not unpleasing, in spite of his
+and [[Grave|grave]]. His appearance however was not unpleasing, in spite of his
 
 being in the opinion of Marianne and Margaret an absolute old bachelor,
 
@@ -196,7 +196,7 @@ companions to the Dashwoods; but the cold insipidity of Lady Middleton
 
 was so particularly repulsive, that in comparison of it the gravity of
 
-Colonel Brandon, and even the boisterous mirth of Sir John and his
+[[Colonel Brandon]], and even the boisterous mirth of Sir John and his
 
 mother-in-law was interesting. Lady Middleton seemed to be roused to
 
@@ -210,33 +210,33 @@ discourse except what related to themselves.
 
 In the evening, as Marianne was discovered to be musical, she was
 
-invited to play. The instrument was unlocked, every body prepared to be
+invited to play. The instrument was unlocked, every [[Body|body]] prepared to be
 
-charmed, and Marianne, who sang very well, at their request went
+charmed, and Marianne, who sang very [[Well|well]], at their request went
 
-through the chief of the songs which Lady Middleton had brought into
+through the chief of the [[songs]] which Lady Middleton had brought into
 
-the family on her marriage, and which perhaps had lain ever since in
+the family on her [[Marriage|marriage]], and which perhaps had lain ever since in
 
 the same position on the pianoforte, for her ladyship had celebrated
 
 that event by giving up music, although by her mother’s account, she
 
-had played extremely well, and by her own was very fond of it.
+had played extremely [[Well|well]], and by her own was very fond of it.
 
 
 
 Marianne’s performance was highly applauded. Sir John was loud in his
 
-admiration at the end of every song, and as loud in his conversation
+admiration at the end of every [[Song|song]], and as loud in his conversation
 
-with the others while every song lasted. Lady Middleton frequently
+with the others while every [[Song|song]] lasted. Lady Middleton frequently
 
 called him to order, wondered how any one’s attention could be diverted
 
-from music for a moment, and asked Marianne to sing a particular song
+from music for a moment, and asked Marianne to sing a particular [[Song|song]]
 
-which Marianne had just finished. Colonel Brandon alone, of all the
+which Marianne had just finished. [[Colonel Brandon]] [[Alone|alone]], of all the
 
 party, heard her without being in raptures. He paid her only the
 
@@ -246,13 +246,13 @@ occasion, which the others had reasonably forfeited by their shameless
 
 want of taste. His pleasure in music, though it amounted not to that
 
-ecstatic delight which alone could sympathize with her own, was
+ecstatic delight which [[Alone|alone]] could sympathize with her own, was
 
 estimable when contrasted against the horrible insensibility of the
 
 others; and she was reasonable enough to allow that a man of five and
 
-thirty might well have outlived all acuteness of feeling and every
+thirty might [[Well|well]] have outlived all acuteness of feeling and every
 
 exquisite power of enjoyment. She was perfectly disposed to make every
 

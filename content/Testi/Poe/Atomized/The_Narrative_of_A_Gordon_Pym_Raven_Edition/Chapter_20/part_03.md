@@ -66,7 +66,7 @@ tags:
 
       natives), and, more than all, to the long-sustained pretension of
 
-      friendship kept up by these infamous wretches. Five or six of
+      [[Friendship|friendship]] kept up by these infamous wretches. Five or six of
 
       them went on before, as if to lead the way, ostentatiously
 
@@ -76,7 +76,7 @@ tags:
 
       taking care only to prevent separation. Behind followed the main
 
-      body of the savages, observing unusual order and decorum.
+      [[Body|body]] of the savages, observing unusual order and decorum.
 
 
 
@@ -90,7 +90,7 @@ tags:
 
       wide enough for one person to enter without squeezing, and
 
-      extended back into the hill some eighteen or twenty feet in a
+      extended back into the [[Hill|hill]] some eighteen or twenty feet in a
 
       straight course, sloping afterward to the left. The height of the
 

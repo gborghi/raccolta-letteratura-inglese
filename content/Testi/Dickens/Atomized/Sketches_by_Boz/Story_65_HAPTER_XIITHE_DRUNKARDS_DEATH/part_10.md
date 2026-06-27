@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 10)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 10)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-We have made it a practice since, to take the Horse Guards in our daily
+We have made it a practice since, to take the [[Horse]] Guards in our daily
 walk, and we find it is the custom of military young gentlemen to plant
 themselves opposite the sentries, and contemplate them at leisure, in
 periods varying from fifteen minutes to fifty, and averaging
@@ -25,18 +25,18 @@ prolonged inspection of the sentry, proceeded to handle his boots with
 great curiosity, and as much composure and indifference as if the man
 were wax-work.
 
-But the really military young gentleman is waiting all this time, and
+But the really military young gentleman is waiting all this [[Time|time]], and
 at the very moment that an apology rises to our lips, he emerges from
 the barrack gate (he is quartered in a garrison town), and takes the
 way towards the high street. He wears his undress uniform, which
 somewhat mars the glory of his outward man; but still how great, how
 grand, he is! What a happy mixture of ease and ferocity in his gait and
-carriage, and how lightly he carries that dreadful sword under his arm,
-making no more ado about it than if it were a silk umbrella! The lion
+carriage, and how lightly he carries that dreadful [[Sword|sword]] under his arm,
+making no more ado about it than if it were a silk umbrella! The [[Lion|lion]]
 is sleeping: only think if an enemy were in sight, how soon he’d whip
 it out of the scabbard, and what a terrible fellow he would be!
 
-But he walks on, thinking of nothing less than blood and slaughter; and
+But he walks on, thinking of nothing less than [[Blood|blood]] and slaughter; and
 now he comes in sight of three other military young gentlemen,
 arm-in-arm, who are bearing down towards him, clanking their iron heels
 on the pavement, and clashing their swords with a noise, which should
@@ -46,17 +46,17 @@ pocket-handkerchief thrust into the breast of his coat-glares upon the
 fainthearted civilians who linger to look upon his glory; how the next
 young gentleman elevates his head in the air, and majestically places
 his arms a-kimbo, while the third stands with his legs very wide apart,
-and clasps his hands behind him. Well may we inquire—not in familiar
+and clasps his hands behind him. [[Well]] may we inquire—not in familiar
 jest, but in respectful earnest—if you call that nothing. Oh! if some
-encroaching foreign power—the Emperor of Russia, for instance, or any
+encroaching foreign power—the Emperor of [[Russia]], for instance, or any
 of those deep fellows, could only see those military young gentlemen as
 they move on together towards the billiard-room over the way, wouldn’t
 he tremble a little!
 
-And then, at the Theatre at night, when the performances are by command
+And then, at the Theatre at [[Night|night]], when the performances are by command
 of Colonel Fitz-Sordust and the officers of the garrison—what a
 splendid sight it is! How sternly the defenders of their country look
-round the house as if in mute assurance to the audience, that they may
+round the [[house]] as if in mute assurance to the audience, that they may
 make themselves comfortable regarding any foreign invasion, for they
 (the military young gentlemen) are keeping a sharp look-out, and are
 ready for anything. And what a contrast between them, and that
@@ -68,7 +68,7 @@ anything they take the pains to announce to the contrary!
 
 Ah! here is a family just come in who recognise the flaxen-headed young
 gentleman; and the flaxen-headed young gentleman recognises them too,
-only he doesn’t care to show it just now. Very well done indeed! He
+only he doesn’t care to show it just now. Very [[Well|well]] done indeed! He
 talks louder to the little group of military young gentlemen who are
 standing by him, and coughs to induce some ladies in the next box but
 one to look round, in order that their faces may undergo the same
@@ -96,13 +96,13 @@ in the whole world.
 THE POLITICAL YOUNG GENTLEMAN
 
 
-Once upon a time—_not_ in the days when pigs drank wine, but in a more
-recent period of our history—it was customary to banish politics when
+Once upon a [[Time|time]]—_not_ in the days when pigs drank wine, but in a more
+recent period of our [[history]]—it was customary to banish politics when
 ladies were present. If this usage still prevailed, we should have had
 no chapter for political young gentlemen, for ladies would have neither
-known nor cared what kind of monster a political young gentleman was.
+known nor cared what kind of [[Monster|monster]] a political young gentleman was.
 But as this good custom in common with many others has ‘gone out,’ and
-left no word when it is likely to be home again; as political young
+left no word when it is likely to be [[Home|home]] again; as political young
 ladies are by no means rare, and political young gentlemen the very
 reverse of scarce, we are bound in the strict discharge of our most
 responsible duty not to neglect this natural division of our subject.
@@ -114,7 +114,7 @@ communicate the same uniform tint to all objects near and remote, so
 the political glasses, with which the young gentleman assists his
 mental vision, give to everything the hue and tinge of party feeling.
 The political young gentleman would as soon think of being struck with
-the beauty of a young lady in the opposite interest, as he would dream
+the [[Beauty|beauty]] of a young lady in the opposite interest, as he would dream
 of marrying his sister to the opposite member.
 
 If the political young gentleman be a Conservative, he has usually some

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 5)"
+title: "[[The Professor]] — Chapter 25 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,9 +18,9 @@ independency. The rapidity with which we attained this end had its
 
 origin in three reasons:-- Firstly, we worked so hard for it; secondly,
 
-we had no incumbrances to delay success; thirdly, as soon as we had
+we had no incumbrances to delay [[success]]; thirdly, as soon as we had
 
-capital to invest, two well-skilled counsellors, one in Belgium, one in
+capital to invest, two [[Well|well]]-skilled counsellors, one in Belgium, one in
 
 England, viz. Vandenhuten and Hunsden, gave us each a word of advice
 
@@ -48,23 +48,23 @@ properly managed by right sympathy and unselfish activity, might
 
 help philanthropy in her enterprises, and put solace into the hand of
 
-charity.
+[[Charity|charity]].
 
 
 
 To England we now resolved to take wing; we arrived there safely;
 
-Frances realized the dream of her lifetime. We spent a whole summer
+Frances realized the dream of her lifetime. We spent a whole [[Summer|summer]]
 
-and autumn in travelling from end to end of the British islands, and
+and [[Autumn|autumn]] in travelling from end to end of the British islands, and
 
-afterwards passed a winter in London. Then we thought it high time
+afterwards passed a [[Winter|winter]] in [[London]]. Then we thought it high [[Time|time]]
 
 to fix our residence. My heart yearned towards my native county of
 
 ----shire; and it is in ----shire I now live; it is in the library of my
 
-own home I am now writing. That home lies amid a sequestered and rather
+own [[Home|home]] I am now writing. That [[Home|home]] lies amid a sequestered and rather
 
 hilly region, thirty miles removed from X----; a region whose verdure
 
@@ -72,31 +72,31 @@ the smoke of mills has not yet sullied, whose waters still run pure,
 
 whose swells of moorland preserve in some ferny glens that lie between
 
-them the very primal wildness of nature, her moss, her bracken, her
+them the very primal wildness of [[Nature|nature]], her moss, her bracken, her
 
-blue-bells, her scents of reed and heather, her free and fresh breezes.
+blue-[[Bells|bells]], her scents of reed and heather, her free and fresh breezes.
 
-My house is a picturesque and not too spacious dwelling, with low and
+My [[house]] is a picturesque and not too spacious dwelling, with low and
 
 long windows, a trellised and leaf-veiled porch over the front door,
 
-just now, on this summer evening, looking like an arch of roses and ivy.
+just now, on this [[Summer|summer]] evening, looking like an arch of roses and ivy.
 
-The garden is chiefly laid out in lawn, formed of the sod of the hills,
+The [[Garden|garden]] is chiefly laid out in lawn, formed of the sod of the hills,
 
-with herbage short and soft as moss, full of its own peculiar flowers,
+with herbage short and soft as moss, full of its own peculiar [[Flowers|flowers]],
 
 tiny and starlike, imbedded in the minute embroidery of their fine
 
-foliage. At the bottom of the sloping garden there is a wicket, which
+foliage. At the [[Bottom|bottom]] of the sloping [[Garden|garden]] there is a wicket, which
 
 opens upon a lane as green as the lawn, very long, shady, and little
 
 frequented; on the turf of this lane generally appear the first daisies
 
-of spring--whence its name--Daisy Lane; serving also as a distinction to
+of [[spring]]--whence its name--Daisy Lane; serving also as a distinction to
 
-the house.
+the [[house]].
 
 
 
@@ -106,13 +106,13 @@ wood--chiefly oak and beech--spreads shadowy about the vicinage of a
 
 very old mansion, one of the Elizabethan structures, much larger, as
 
-well as more antique than Daisy Lane, the property and residence of
+[[Well|well]] as more antique than Daisy Lane, the property and residence of
 
 an individual familiar both to me and to the reader. Yes, in Hunsden
 
 Wood--for so are those glades and that grey building, with many gables
 
-and more chimneys, named--abides Yorke Hunsden, still unmarried; never,
+and more chimneys, named--abides [[Yorke Hunsden]], still unmarried; never,
 
 I suppose, having yet found his ideal, though I know at least a score
 
@@ -122,7 +122,7 @@ assist him in the search.
 
 
 
-The estate fell to him by the death of his father, five years since; he
+The estate fell to him by the [[Death|death]] of his father, five years since; he
 
 has given up trade, after having made by it sufficient to pay off some
 
@@ -132,7 +132,7 @@ here, but I do not think he is resident above five months out of the
 
 twelve; he wanders from land to land, and spends some part of each
 
-winter in town: he frequently brings visitors with him when he comes to
+[[Winter|winter]] in town: he frequently brings visitors with him when he comes to
 
 ----shire, and these visitors are often foreigners; sometimes he has
 
@@ -152,7 +152,7 @@ of free trade. The foreign visitors, too, are politicians; they take a
 
 wider theme--European progress--the spread of liberal sentiments over
 
-the Continent; on their mental tablets, the names of Russia, Austria,
+the Continent; on their mental tablets, the names of [[Russia]], Austria,
 
 and the Pope, are inscribed in red ink. I have heard some of them talk
 
@@ -172,23 +172,23 @@ men he seemed leagued hand and heart.
 
 
 
-When Hunsden is staying alone at the Wood (which seldom happens) he
+When Hunsden is staying [[Alone|alone]] at the Wood (which seldom happens) he
 
 generally finds his way two or three times a week to Daisy Lane. He has
 
 a philanthropic motive for coming to smoke his cigar in our porch on
 
-summer evenings; he says he does it to kill the earwigs amongst the
+[[Summer|summer]] evenings; he says he does it to kill the earwigs amongst the
 
-roses, with which insects, but for his benevolent fumigations, he
+roses, with which [[Insects|insects]], but for his benevolent fumigations, he
 
 intimates we should certainly be overrun. On wet days, too, we are
 
-almost sure to see him; according to him, it gets on time to work
+almost sure to see him; according to him, it gets on [[Time|time]] to work
 
 me into lunacy by treading on my mental corns, or to force from Mrs.
 
-Crimsworth revelations of the dragon within her, by insulting the memory
+Crimsworth revelations of the dragon within her, by insulting the [[Memory|memory]]
 
 of Hofer and Tell.
 
@@ -202,4 +202,4 @@ an interesting study; their conversation is exciting and strange; the
 
 absence of all local narrowness both in the host and his chosen society
 
-gives a metropolitan, almost a cosmopolitan freedom and largeness to the
+gives a metropolitan, almost a cosmopolitan [[Freedom|freedom]] and largeness to the

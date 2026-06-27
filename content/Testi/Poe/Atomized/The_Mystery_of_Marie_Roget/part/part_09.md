@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 9)"
+title: "[[The Mystery of Marie Roget]] (part 9)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-      season, by the mineral impregnation or purity of the water, by
+      season, by the mineral impregnation or purity of the [[Water|water]], by
 
       its depth or shallowness, by its currency or stagnation, by the
 
-      temperament of the body, by its infection or freedom from disease
+      temperament of the [[Body|body]], by its infection or [[Freedom|freedom]] from disease
 
-      before death. Thus it is evident that we can assign no period,
+      before [[Death|death]]. Thus it is evident that we can assign no period,
 
       with any thing like accuracy, at which the corpse shall rise
 
@@ -40,7 +40,7 @@ tags:
 
       cavities from other causes), sufficient to induce a distension
 
-      which will bring the body to the surface. The effect produced by
+      which will bring the [[Body|body]] to the surface. The effect produced by
 
       the firing of a cannon is that of simple vibration. This may
 
@@ -56,21 +56,21 @@ tags:
 
 
 
-      “Having thus before us the whole philosophy of this subject, we
+      “Having thus before us the whole [[philosophy]] of this subject, we
 
       can easily test by it the assertions of L’Etoile. ‘All experience
 
       shows,’ says this paper, ‘that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for sufficient decomposition to take place to
 
-      bring them to the top of the water. Even when a cannon is fired
+      bring them to the top of the [[Water|water]]. Even when a cannon is fired
 
       over a corpse, and it rises before at least five or six days’
 
-      immersion, it sinks again if let alone.’
+      immersion, it sinks again if let [[Alone|alone]].’
 
 
 
@@ -84,37 +84,37 @@ tags:
 
       science and experience show that the period of their rising is,
 
-      and necessarily must be, indeterminate. If, moreover, a body has
+      and necessarily must be, indeterminate. If, moreover, a [[Body|body]] has
 
       risen to the surface through firing of cannon, it will not ‘sink
 
-      again if let alone,’ until decomposition has so far progressed as
+      again if let [[Alone|alone]],’ until decomposition has so far progressed as
 
       to permit the escape of the generated gas. But I wish to call
 
       your attention to the distinction which is made between ‘drowned
 
-      bodies,’ and ‘bodies thrown into the water immediately after
+      bodies,’ and ‘bodies thrown into the [[Water|water]] immediately after
 
-      death by violence.’ Although the writer admits the distinction,
+      [[Death|death]] by violence.’ Although the writer admits the distinction,
 
       he yet includes them all in the same category. I have shown how
 
-      it is that the body of a drowning man becomes specifically
+      it is that the [[Body|body]] of a drowning man becomes specifically
 
-      heavier than its bulk of water, and that he would not sink at
+      heavier than its bulk of [[Water|water]], and that he would not sink at
 
       all, except for the struggles by which he elevates his arms above
 
       the surface, and his gasps for breath while beneath the
 
-      surface—gasps which supply by water the place of the original air
+      surface—gasps which supply by [[Water|water]] the place of the original air
 
       in the lungs. But these struggles and these gasps would not occur
 
-      in the body ‘thrown into the water immediately after death by
+      in the [[Body|body]] ‘thrown into the [[Water|water]] immediately after [[Death|death]] by
 
-      violence.’ Thus, in the latter instance, the body, as a general
+      violence.’ Thus, in the latter instance, the [[Body|body]], as a general
 
       rule, would not sink at all—a fact of which L’Etoile is evidently
 
@@ -126,25 +126,25 @@ tags:
 
 
 
-      “And now what are we to make of the argument, that the body found
+      “And now what are we to make of the argument, that the [[Body|body]] found
 
       could not be that of Marie Rogêt, because, three days only having
 
-      elapsed, this body was found floating? If drowned, being a woman,
+      elapsed, this [[Body|body]] was found floating? If drowned, being a woman,
 
       she might never have sunk; or having sunk, might have reappeared
 
       in twenty-four hours, or less. But no one supposes her to have
 
-      been drowned; and, dying before being thrown into the river, she
+      been drowned; and, dying before being thrown into the [[River|river]], she
 
       might have been found floating at any period afterwards whatever.
 
 
 
-      “‘But,’ says L’Etoile, ‘if the body had been kept in its mangled
+      “‘But,’ says L’Etoile, ‘if the [[Body|body]] had been kept in its mangled
 
-      state on shore until Tuesday night, some trace would be found on
+      state on shore until Tuesday [[Night|night]], some trace would be found on
 
       shore of the murderers.’ Here it is at first difficult to
 
@@ -152,9 +152,9 @@ tags:
 
       what he imagines would be an objection to his theory—viz.: that
 
-      the body was kept on shore two days, suffering rapid
+      the [[Body|body]] was kept on shore two days, [[Suffering|suffering]] rapid
 
-      decomposition—more rapid than if immersed in water. He supposes
+      decomposition—more rapid than if immersed in [[Water|water]]. He supposes
 
       that, had this been the case, it might have appeared at the
 
@@ -178,17 +178,17 @@ tags:
 
       journal, ‘that any villains who had committed such a murder as is
 
-      here supposed, would have thrown the body in without weight to
+      here supposed, would have thrown the [[Body|body]] in without weight to
 
       sink it, when such a precaution could have so easily been taken.’
 
       Observe, here, the laughable confusion of thought! No one—not
 
-      even L’Etoile—disputes the murder committed _on the body found_.
+      even L’Etoile—disputes the murder committed _on the [[Body|body]] found_.
 
       The marks of violence are too obvious. It is our reasoner’s
 
-      object merely to show that this body is not Marie’s. He wishes to
+      object merely to show that this [[Body|body]] is not Marie’s. He wishes to
 
       prove that Marie is not assassinated—not that the corpse was not.
 

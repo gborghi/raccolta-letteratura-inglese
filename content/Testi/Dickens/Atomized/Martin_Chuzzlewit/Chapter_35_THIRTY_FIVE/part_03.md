@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -28,7 +28,7 @@ rage.
 ‘Your building, sir!’ said Mark.
 
 ‘My grammar-school. I invented it. I did it all. He has only put four
-windows in, the villain, and spoilt it!’
+windows in, the [[Villain|villain]], and spoilt it!’
 
 Mark could hardly believe it at first, but being assured that it was
 really so, actually held him to prevent his interference foolishly,
@@ -52,21 +52,21 @@ vociferous cheering, and laid his hand upon his heart.
 ‘To a gentleman who, I am happy to believe, will reap both distinction
 and profit from this field; whose fame had previously penetrated to
 me--as to whose ears has it not!--but whose intellectual countenance I
-never had the distinguished honour to behold until this day, and whose
+never had the distinguished [[Honour|honour]] to behold until this day, and whose
 intellectual conversation I had never before the improving pleasure to
 enjoy.’
 
 Everybody seemed very glad of this, and applauded more than ever.
 
-‘But I hope my Honourable Friend,’ said the Gentlemanly member--of
+‘But I [[Hope|hope]] my Honourable Friend,’ said the Gentlemanly member--of
 course he added “if he will allow me to call him so,” and of course Mr
 Pecksniff bowed--‘will give me many opportunities of cultivating the
 knowledge of him; and that I may have the extraordinary gratification of
-reflecting in after-time that I laid on this day two first stones, both
+reflecting in after-[[Time|time]] that I laid on this day two first stones, both
 belonging to structures which shall last my life!’
 
-Great cheering again. All this time, Martin was cursing Mr Pecksniff up
-hill and down dale.
+Great cheering again. All this [[Time|time]], Martin was cursing Mr Pecksniff up
+[[Hill|hill]] and down dale.
 
 ‘My friends!’ said Mr Pecksniff, in reply. ‘My duty is to build, not
 speak; to act, not talk; to deal with marble, stone, and brick; not
@@ -74,7 +74,7 @@ language. I am very much affected. God bless you!’
 
 This address, pumped out apparently from Mr Pecksniff’s very heart,
 brought the enthusiasm to its highest pitch. The pocket handkerchiefs
-were waved again; the charity children were admonished to grow up
+were waved again; the [[Charity|charity]] children were admonished to grow up
 Pecksniffs, every boy among them; the Corporation, gentlemen with wands,
 member for the Gentlemanly Interest, all cheered for Mr Pecksniff. Three
 cheers for Mr Pecksniff! Three more for Mr Pecksniff! Three more for
@@ -83,8 +83,8 @@ Pecksniff, and let it be a good one to finish with!
 
 In short, Mr Pecksniff was supposed to have done a great work and was
 very kindly, courteously, and generously rewarded. When the procession
-moved away, and Martin and Mark were left almost alone upon the ground,
-his merits and a desire to acknowledge them formed the common topic. He
+moved away, and Martin and Mark were left almost [[Alone|alone]] upon the ground,
+his merits and a [[Desire|desire]] to acknowledge them formed the common topic. He
 was only second to the Gentlemanly member.
 
 ‘Compare the fellow’s situation to-day with ours!’ said Martin bitterly.

@@ -14,38 +14,38 @@ tags:
 </nav>
 
 
-“If you will take me for your wife, Walter, I will love you dearly. If
+“If you will take me for your wife, Walter, I will [[Love|love]] you dearly. If
 you will let me go with you, Walter, I will go to the world’s end
-without fear. I can give up nothing for you—I have nothing to resign,
-and no one to forsake; but all my love and life shall be devoted to
+without [[Fear|fear]]. I can give up nothing for you—I have nothing to resign,
+and no one to forsake; but all my [[Love|love]] and life shall be devoted to
 you, and with my last breath I will breathe your name to God if I have
-sense and memory left.”
+sense and [[Memory|memory]] left.”
 
 He caught her to his heart, and laid her cheek against his own, and
 now, no more repulsed, no more forlorn, she wept indeed, upon the
-breast of her dear lover.
+breast of her dear [[Lover|lover]].
 
-Blessed Sunday Bells, ringing so tranquilly in their entranced and
-happy ears! Blessed Sunday peace and quiet, harmonising with the
+Blessed [[Sunday]] [[Bells]], ringing so tranquilly in their entranced and
+happy ears! Blessed [[Sunday]] peace and quiet, harmonising with the
 calmness in their souls, and making holy air around them! Blessed
 twilight stealing on, and shading her so soothingly and gravely, as she
-falls asleep, like a hushed child, upon the bosom she has clung to!
+falls asleep, like a hushed [[Child|child]], upon the bosom she has clung to!
 
-Oh load of love and trustfulness that lies to lightly there! Ay, look
+Oh load of [[Love|love]] and trustfulness that lies to lightly there! Ay, look
 down on the closed eyes, Walter, with a proudly tender gaze; for in all
 the wide wide world they seek but thee now—only thee!
 
 The Captain remained in the little parlour until it was quite dark. He
 took the chair on which Walter had been sitting, and looked up at the
 skylight, until the day, by little and little, faded away, and the
-stars peeped down. He lighted a candle, lighted a pipe, smoked it out,
+[[Stars|stars]] peeped down. He lighted a candle, lighted a pipe, smoked it out,
 and wondered what on earth was going on upstairs, and why they didn’t
 call him to tea.
 
 Florence came to his side while he was in the height of his wonderment.
 
 “Ay! lady lass!” cried the Captain. “Why, you and Wal”r have had a long
-spell o’ talk, my beauty.”
+spell o’ talk, my [[Beauty|beauty]].”
 
 Florence put her little hand round one of the great buttons of his
 coat, and said, looking down into his face:

@@ -18,24 +18,24 @@ CHAPTER XX.
 A Plea
 
 
-When the newly-married pair came home, the first person who appeared, to
-offer his congratulations, was Sydney Carton. They had not been at home
+When the newly-married pair came [[Home|home]], the first person who appeared, to
+offer his congratulations, was [[Sydney Carton]]. They had not been at [[Home|home]]
 many hours, when he presented himself. He was not improved in habits, or
 in looks, or in manner; but there was a certain rugged air of fidelity
-about him, which was new to the observation of Charles Darnay.
+about him, which was new to the observation of [[Charles Darnay]].
 
-He watched his opportunity of taking Darnay aside into a window, and of
+He watched his opportunity of taking Darnay aside into a [[Window|window]], and of
 speaking to him when no one overheard.
 
 “Mr. Darnay,” said Carton, “I wish we might be friends.”
 
-“We are already friends, I hope.”
+“We are already friends, I [[Hope|hope]].”
 
 “You are good enough to say so, as a fashion of speech; but, I don’t
 mean any fashion of speech. Indeed, when I say I wish we might be
 friends, I scarcely mean quite that, either.”
 
-Charles Darnay--as was natural--asked him, in all good-humour and
+[[Charles Darnay]]--as was natural--asked him, in all good-[[Humour|humour]] and
 good-fellowship, what he did mean?
 
 “Upon my life,” said Carton, smiling, “I find that easier to comprehend
@@ -47,7 +47,7 @@ usual?”
 you had been drinking.”
 
 “I remember it too. The curse of those occasions is heavy upon me, for I
-always remember them. I hope it may be taken into account one day,
+always remember them. I [[Hope|hope]] it may be taken into account one day,
 when all days are at an end for me! Don’t be alarmed; I am not going to
 preach.”
 
@@ -65,10 +65,10 @@ wish you would forget it.”
 me, as you represent it to be to you. I have by no means forgotten it,
 and a light answer does not help me to forget it.”
 
-“If it was a light answer,” returned Darnay, “I beg your forgiveness
+“If it was a light answer,” returned Darnay, “I beg your [[Forgiveness|forgiveness]]
 for it. I had no other object than to turn a slight thing, which, to my
 surprise, seems to trouble you too much, aside. I declare to you, on the
-faith of a gentleman, that I have long dismissed it from my mind. Good
+[[Faith|faith]] of a gentleman, that I have long dismissed it from my mind. Good
 Heaven, what was there to dismiss! Have I had nothing more important to
 remember, in the great service you rendered me that day?”
 
@@ -80,42 +80,42 @@ say when I rendered it; I am speaking of the past.”
 “You make light of the obligation,” returned Darnay, “but I will not
 quarrel with _your_ light answer.”
 
-“Genuine truth, Mr. Darnay, trust me! I have gone aside from my purpose;
+“Genuine [[Truth|truth]], Mr. Darnay, trust me! I have gone aside from my purpose;
 I was speaking about our being friends. Now, you know me; you know I am
-incapable of all the higher and better flights of men. If you doubt it,
+incapable of all the higher and better flights of men. If you [[Doubt|doubt]] it,
 ask Stryver, and he’ll tell you so.”
 
 “I prefer to form my own opinion, without the aid of his.”
 
-“Well! At any rate you know me as a dissolute dog, who has never done
+“[[Well]]! At any rate you know me as a dissolute dog, who has never done
 any good, and never will.”
 
 “I don’t know that you ‘never will.’”
 
-“But I do, and you must take my word for it. Well! If you could endure
+“But I do, and you must take my word for it. [[Well]]! If you could endure
 to have such a worthless fellow, and a fellow of such indifferent
 reputation, coming and going at odd times, I should ask that I might be
 permitted to come and go as a privileged person here; that I might
 be regarded as an useless (and I would add, if it were not for the
 resemblance I detected between you and me, an unornamental) piece of
 furniture, tolerated for its old service, and taken no notice of. I
-doubt if I should abuse the permission. It is a hundred to one if I
+[[Doubt|doubt]] if I should abuse the permission. It is a hundred to one if I
 should avail myself of it four times in a year. It would satisfy me, I
 dare say, to know that I had it.”
 
 “Will you try?”
 
 “That is another way of saying that I am placed on the footing I have
-indicated. I thank you, Darnay. I may use that freedom with your name?”
+indicated. I thank you, Darnay. I may use that [[Freedom|freedom]] with your name?”
 
-“I think so, Carton, by this time.”
+“I think so, Carton, by this [[Time|time]].”
 
 They shook hands upon it, and Sydney turned away. Within a minute
 afterwards, he was, to all outward appearance, as unsubstantial as ever.
 
 When he was gone, and in the course of an evening passed with Miss
-Pross, the Doctor, and Mr. Lorry, Charles Darnay made some mention of
-this conversation in general terms, and spoke of Sydney Carton as a
+Pross, the Doctor, and Mr. Lorry, [[Charles Darnay]] made some mention of
+this conversation in general terms, and spoke of [[Sydney Carton]] as a
 problem of carelessness and recklessness. He spoke of him, in short, not
 bitterly or meaning to bear hard upon him, but as anybody might who saw
 him as he showed himself.
@@ -125,24 +125,24 @@ wife; but, when he afterwards joined her in their own rooms, he found
 her waiting for him with the old pretty lifting of the forehead strongly
 marked.
 
-“We are thoughtful to-night!” said Darnay, drawing his arm about her.
+“We are thoughtful to-[[Night|night]]!” said Darnay, drawing his arm about her.
 
 “Yes, dearest Charles,” with her hands on his breast, and the inquiring
 and attentive expression fixed upon him; “we are rather thoughtful
-to-night, for we have something on our mind to-night.”
+to-[[Night|night]], for we have something on our mind to-[[Night|night]].”
 
 “What is it, my Lucie?”
 
 “Will you promise not to press one question on me, if I beg you not to
 ask it?”
 
-“Will I promise? What will I not promise to my Love?”
+“Will I promise? What will I not promise to my [[Love]]?”
 
 What, indeed, with his hand putting aside the golden hair from the
 cheek, and his other hand against the heart that beat for him!
 
 “I think, Charles, poor Mr. Carton deserves more consideration and
-respect than you expressed for him to-night.”
+respect than you expressed for him to-[[Night|night]].”
 
 “Indeed, my own? Why so?”
 
@@ -155,30 +155,30 @@ lenient on his faults when he is not by. I would ask you to believe that
 he has a heart he very, very seldom reveals, and that there are deep
 wounds in it. My dear, I have seen it bleeding.”
 
-“It is a painful reflection to me,” said Charles Darnay, quite
+“It is a painful reflection to me,” said [[Charles Darnay]], quite
 astounded, “that I should have done him any wrong. I never thought this
 of him.”
 
-“My husband, it is so. I fear he is not to be reclaimed; there is
-scarcely a hope that anything in his character or fortunes is reparable
+“My husband, it is so. I [[Fear|fear]] he is not to be reclaimed; there is
+scarcely a [[Hope|hope]] that anything in his character or fortunes is reparable
 now. But, I am sure that he is capable of good things, gentle things,
 even magnanimous things.”
 
-She looked so beautiful in the purity of her faith in this lost man,
+She looked so beautiful in the purity of her [[Faith|faith]] in this lost man,
 that her husband could have looked at her as she was for hours.
 
-“And, O my dearest Love!” she urged, clinging nearer to him, laying her
+“And, O my dearest [[Love]]!” she urged, clinging nearer to him, laying her
 head upon his breast, and raising her eyes to his, “remember how strong
 we are in our happiness, and how weak he is in his misery!”
 
-The supplication touched him home. “I will always remember it, dear
+The supplication touched him [[Home|home]]. “I will always remember it, dear
 Heart! I will remember it as long as I live.”
 
 He bent over the golden head, and put the rosy lips to his, and folded
 her in his arms. If one forlorn wanderer then pacing the dark streets,
-could have heard her innocent disclosure, and could have seen the drops
+could have heard her [[Innocent|innocent]] disclosure, and could have seen the drops
 of pity kissed away by her husband from the soft blue eyes so loving of
-that husband, he might have cried to the night--and the words would not
-have parted from his lips for the first time--
+that husband, he might have cried to the [[Night|night]]--and the words would not
+have parted from his lips for the first [[Time|time]]--
 
 “God bless her for her sweet compassion!”

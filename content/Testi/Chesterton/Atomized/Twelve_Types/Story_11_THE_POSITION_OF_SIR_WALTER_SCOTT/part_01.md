@@ -28,13 +28,13 @@ dwindling, schools of severely technical and aesthetic criticism have
 
 been unfavourable to him. He was a chaotic and unequal writer, and if
 
-there is one thing in which artists have improved since his time, it is
+there is one thing in which artists have improved since his [[Time|time]], it is
 
 in consistency and equality. It would perhaps be unkind to inquire
 
 whether the level of the modern man of letters, as compared with Scott,
 
-is due to the absence of valleys or the absence of mountains. But in any
+is due to the absence of valleys or the absence of [[Mountains|mountains]]. But in any
 
 case, we have learnt in our day to arrange our literary effects
 
@@ -48,21 +48,21 @@ It is said that Scott is neglected by modern readers; if so, the matter
 
 could be more appropriately described by saying that modern readers are
 
-neglected by Providence. The ground of this neglect, in so far as it
+neglected by [[Providence]]. The ground of this neglect, in so far as it
 
 exists, must be found, I suppose, in the general sentiment that, like
 
-the beard of Polonius, he is too long. Yet it is surely a peculiar thing
+the beard of [[Polonius]], he is too long. Yet it is surely a peculiar thing
 
-that in literature alone a house should be despised because it is too
+that in literature [[Alone|alone]] a [[house]] should be despised because it is too
 
-large, or a host impugned because he is too generous. If romance be
+large, or a host impugned because he is too generous. If [[Romance|romance]] be
 
 really a pleasure, it is difficult to understand the modern reader's
 
-consuming desire to get it over, and if it be not a pleasure, it is
+consuming [[Desire|desire]] to get it over, and if it be not a pleasure, it is
 
-difficult to understand his desire to have it at all. Mere size, it
+difficult to understand his [[Desire|desire]] to have it at all. Mere size, it
 
 seems to me, cannot be a fault. The fault must lie in some
 
@@ -78,19 +78,19 @@ his stories are built was by any means an imperfection. He arranged his
 
 endless prefaces and his colossal introductions just as an architect
 
-plans great gates and long approaches to a really large house. He did
+plans great gates and long approaches to a really large [[house]]. He did
 
-not share the latter-day desire to get quickly through a story. He
+not share the latter-day [[Desire|desire]] to get quickly through a story. He
 
-enjoyed narrative as a sensation; he did not wish to swallow a story
+enjoyed narrative as a sensation; he did not wish to [[Swallow|swallow]] a story
 
 like a pill that it should do him good afterwards. He desired to taste
 
-it like a glass of port, that it might do him good at the time. The
+it like a glass of port, that it might do him good at the [[Time|time]]. The
 
 reader sits late at his banquets. His characters have that air of
 
-immortality which belongs to those of Dumas and Dickens. We should not
+[[Immortality|immortality]] which belongs to those of Dumas and Dickens. We should not
 
 be surprised to meet them in any number of sequels. Scott, in his heart
 
@@ -102,25 +102,25 @@ either beginning or close.
 
 Walter Scott is a great, and, therefore, mysterious man. He will never
 
-be understood until Romance is understood, and that will be only when
+be understood until [[Romance]] is understood, and that will be only when
 
-Time, Man, and Eternity are understood. To say that Scott had more than
+[[Time]], Man, and [[Eternity]] are understood. To say that Scott had more than
 
 any other man that ever lived a sense of the romantic seems, in these
 
 days, a slight and superficial tribute. The whole modern theory arises
 
-from one fundamental mistake--the idea that romance is in some way a
+from one fundamental mistake--the idea that [[Romance|romance]] is in some way a
 
 plaything with life, a figment, a conventionality, a thing upon the
 
-outside. No genuine criticism of romance will ever arise until we have
+outside. No genuine criticism of [[Romance|romance]] will ever arise until we have
 
-grasped the fact that romance lies not upon the outside of life but
+grasped the fact that [[Romance|romance]] lies not upon the outside of life but
 
 absolutely in the centre of it. The centre of every man's existence is a
 
-dream. Death, disease, insanity, are merely material accidents, like
+dream. [[Death]], disease, insanity, are merely material accidents, like
 
 toothache or a twisted ankle. That these brutal forces always besiege
 
@@ -138,35 +138,35 @@ sentimental as a penny novelette. The literature of candour unearths
 
 innumerable weaknesses and elements of lawlessness which is called
 
-romance. It perceives superficial habits like murder and dipsomania, but
+[[Romance|romance]]. It perceives superficial habits like murder and dipsomania, but
 
-it does not perceive the deepest of sins--the sin of vanity--vanity
+it does not perceive the deepest of sins--the sin of [[Vanity|vanity]]--[[Vanity|vanity]]
 
-which is the mother of all day-dreams and adventures, the one sin that
+which is the mother of all day-[[Dreams|dreams]] and adventures, the one sin that
 
 is not shared with any boon companion, or whispered to any priest.
 
 
 
-In estimating, therefore, the ground of Scott's pre-eminence in romance
+In estimating, therefore, the ground of Scott's pre-eminence in [[Romance|romance]]
 
-we must absolutely rid ourselves of the notion that romance or
+we must absolutely rid ourselves of the notion that [[Romance|romance]] or
 
 adventure are merely materialistic things involved in the tangle of a
 
 plot or the multiplicity of drawn swords. We must remember that it is,
 
-like tragedy or farce, a state of the soul, and that, for some dark and
+like [[Tragedy|tragedy]] or farce, a state of the [[Soul|soul]], and that, for some dark and
 
-elemental reason which we can never understand, this state of the soul
+elemental reason which we can never understand, this state of the [[Soul|soul]]
 
 is evoked in us by the sight of certain places or the contemplation of
 
 certain human crises, by a stream rushing under a heavy and covered
 
-wooden bridge, or by a man plunging a knife or sword into tough timber.
+wooden bridge, or by a man plunging a knife or [[Sword|sword]] into tough timber.
 
-In the selection of these situations which catch the spirit of romance
+In the selection of these situations which catch the spirit of [[Romance|romance]]
 
 as in a net, Scott has never been equalled or even approached. His
 
@@ -176,9 +176,9 @@ the same quality which is often possessed by those nocturnal
 
 comedies--that of seeming more human than our waking life--even while
 
-they are less possible. Sir Arthur Wardour, with his daughter and the
+they are less possible. Sir [[arthur|Arthur]] Wardour, with his daughter and the
 
-old beggar crouching in a cranny of the cliff as night falls and the
+old beggar crouching in a cranny of the cliff as [[Night|night]] falls and the
 
 tide closes around them, are actually in the coldest and bitterest of
 
@@ -188,10 +188,10 @@ be called boyish. It is warmed with all the colours of an incredible
 
 sunset. Rob Roy trapped in the Tolbooth, and confronted with Bailie
 
-Nicol Jarvie, draws no sword, leaps from no window, affects none of the
+Nicol Jarvie, draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the
 
-dazzling external acts upon which contemporary romance depends, yet that
+dazzling external acts upon which contemporary [[Romance|romance]] depends, yet that
 
-plain and humorous dialogue is full of the essential philosophy of
+plain and humorous dialogue is full of the essential [[philosophy]] of
 
-romance which is an almost equal betting upon man and destiny. Perhaps
+[[Romance|romance]] which is an almost equal betting upon man and destiny. Perhaps

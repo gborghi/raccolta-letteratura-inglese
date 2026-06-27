@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,7 +22,7 @@ call them things agin?’
 
 ‘Wot things?’ inquired Sam.
 
-‘Them things as is always a-goin’ up and down, in the city.’
+‘Them things as is always a-goin’ up and down, in the [[City|city]].’
 
 ‘Omnibuses?’ suggested Sam.
 
@@ -40,7 +40,7 @@ reduced counsels, Sammy.’
 obliged to her.’
 
 ‘The rest will be inwested in my name,’ continued the elder Mr. Weller;
-‘and wen I’m took off the road, it’ll come to you, so take care you
+‘and wen I’m took off the [[Road|road]], it’ll come to you, so take care you
 don’t spend it all at vunst, my boy, and mind that no widder gets a
 inklin’ o’ your fortun’, or you’re done.’
 
@@ -66,26 +66,26 @@ red face of Mr. Stiggins. Mr. Weller’s pipe fell from his hands.
 
 The reverend gentleman gradually opened the door by almost imperceptible
 degrees, until the aperture was just wide enough to admit of the passage
-of his lank body, when he glided into the room and closed it after him,
+of his lank [[Body|body]], when he glided into the room and closed it after him,
 with great care and gentleness. Turning towards Sam, and raising his
 hands and eyes in token of the unspeakable sorrow with which he regarded
 the calamity that had befallen the family, he carried the high-backed
-chair to his old corner by the fire, and, seating himself on the very
+chair to his old corner by the [[Fire|fire]], and, seating himself on the very
 edge, drew forth a brown pocket-handkerchief, and applied the same to
 his optics.
 
 While this was going forward, the elder Mr. Weller sat back in his
 chair, with his eyes wide open, his hands planted on his knees, and his
 whole countenance expressive of absorbing and overwhelming astonishment.
-Sam sat opposite him in perfect silence, waiting, with eager curiosity,
+Sam sat opposite him in perfect [[Silence|silence]], waiting, with eager curiosity,
 for the termination of the scene.
 
 Mr. Stiggins kept the brown pocket-handkerchief before his eyes for some
 minutes, moaning decently meanwhile, and then, mastering his feelings by
 a strong effort, put it in his pocket and buttoned it up. After this, he
-stirred the fire; after that, he rubbed his hands and looked at Sam.
+stirred the [[Fire|fire]]; after that, he rubbed his hands and looked at Sam.
 
-‘Oh, my young friend,’ said Mr. Stiggins, breaking the silence, in a
+‘Oh, my young friend,’ said Mr. Stiggins, breaking the [[Silence|silence]], in a
 very low voice, ‘here’s a sorrowful affliction!’
 
 Sam nodded very slightly.
@@ -104,7 +104,7 @@ closer to Sam, ‘whether she has left Emanuel anything?’
 ‘The chapel,’ replied Mr. Stiggins; ‘our chapel; our fold, Mr. Samuel.’
 
 ‘She hasn’t left the fold nothin’, nor the shepherd nothin’, nor the
-animals nothin’,’ said Sam decisively; ‘nor the dogs neither.’
+[[Animals|animals]] nothin’,’ said Sam decisively; ‘nor the [[dogs]] neither.’
 
 Mr. Stiggins looked slily at Sam; glanced at the old gentleman, who was
 sitting with his eyes closed, as if asleep; and drawing his chair still
@@ -139,24 +139,24 @@ seemed to partake in some degree of the character of all four.
 
 Mr. Stiggins, encouraged by this sound, which he understood to betoken
 remorse or repentance, looked about him, rubbed his hands, wept, smiled,
-wept again, and then, walking softly across the room to a well-
+wept again, and then, walking softly across the room to a [[Well|well]]-
 remembered shelf in one corner, took down a tumbler, and with great
 deliberation put four lumps of sugar in it. Having got thus far, he
 looked about him again, and sighed grievously; with that, he walked
 softly into the bar, and presently returning with the tumbler half full
 of pine-apple rum, advanced to the kettle which was singing gaily on the
 hob, mixed his grog, stirred it, sipped it, sat down, and taking a long
-and hearty pull at the rum-and-water, stopped for breath.
+and hearty pull at the rum-and-[[Water|water]], stopped for breath.
 
 The elder Mr. Weller, who still continued to make various strange and
 uncouth attempts to appear asleep, offered not a single word during
 these proceedings; but when Stiggins stopped for breath, he darted upon
 him, and snatching the tumbler from his hand, threw the remainder of the
-rum-and-water in his face, and the glass itself into the grate. Then,
+rum-and-[[Water|water]] in his face, and the glass itself into the grate. Then,
 seizing the reverend gentleman firmly by the collar, he suddenly fell to
 kicking him most furiously, accompanying every application of his top-
 boot to Mr. Stiggins’s person, with sundry violent and incoherent
-anathemas upon his limbs, eyes, and body.
+anathemas upon his limbs, eyes, and [[Body|body]].
 
 ‘Sammy,’ said Mr. Weller, ‘put my hat on tight for me.’
 
@@ -165,13 +165,13 @@ father’s head, and the old gentleman, resuming his kicking with greater
 agility than before, tumbled with Mr. Stiggins through the bar, and
 through the passage, out at the front door, and so into the street--the
 kicking continuing the whole way, and increasing in vehemence, rather
-than diminishing, every time the top-boot was lifted.
+than diminishing, every [[Time|time]] the top-boot was lifted.
 
 It was a beautiful and exhilarating sight to see the red-nosed man
 writhing in Mr. Weller’s grasp, and his whole frame quivering with
 anguish as kick followed kick in rapid succession; it was a still more
 exciting spectacle to behold Mr. Weller, after a powerful struggle,
-immersing Mr. Stiggins’s head in a horse-trough full of water, and
+immersing Mr. Stiggins’s head in a [[Horse|horse]]-trough full of [[Water|water]], and
 holding it there, until he was half suffocated.
 
 ‘There!’ said Mr. Weller, throwing all his energy into one most

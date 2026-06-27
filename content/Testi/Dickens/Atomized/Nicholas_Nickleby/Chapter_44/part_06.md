@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 44 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,23 +16,23 @@ tags:
 
 ‘Demmit, Nickleby, you’re not serious?’
 
-‘I seldom joke,’ said Ralph. ‘Good-night.’
+‘I seldom joke,’ said Ralph. ‘Good-[[Night|night]].’
 
 ‘No, but Nickleby--’ said Mantalini.
 
-‘I am wrong, perhaps,’ rejoined Ralph. ‘I hope so. You should know best.
-Good-night.’
+‘I am wrong, perhaps,’ rejoined Ralph. ‘I [[Hope|hope]] so. You should know best.
+Good-[[Night|night]].’
 
 Affecting not to hear his entreaties that he would stay and advise with
 him, Ralph left the crest-fallen Mr. Mantalini to his meditations, and
-left the house quietly.
+left the [[house]] quietly.
 
-‘Oho!’ he said, ‘sets the wind that way so soon? Half knave and half
-fool, and detected in both characters? I think your day is over, sir.’
+‘Oho!’ he said, ‘sets the [[Wind|wind]] that way so soon? Half knave and half
+[[Fool|fool]], and detected in both characters? I think your day is over, sir.’
 
 As he said this, he made some memorandum in his pocket-book in which Mr
 Mantalini’s name figured conspicuously, and finding by his watch that it
-was between nine and ten o’clock, made all speed home.
+was between nine and ten o’[[Clock|clock]], made all [[Speed|speed]] [[Home|home]].
 
 ‘Are they here?’ was the first question he asked of Newman.
 
@@ -46,18 +46,18 @@ Newman nodded. ‘Been here half an hour.’
 
 ‘A coach! What, you--going to--eh?’ stammered Newman.
 
-Ralph angrily repeated his orders, and Noggs, who might well have been
+Ralph angrily repeated his orders, and Noggs, who might [[Well|well]] have been
 excused for wondering at such an unusual and extraordinary circumstance
 (for he had never seen Ralph in a coach in his life) departed on his
 errand, and presently returned with the conveyance.
 
-Into it went Mr. Squeers, and Ralph, and the third man, whom Newman Noggs
+Into it went Mr. Squeers, and Ralph, and the third man, whom [[Newman Noggs]]
 had never seen. Newman stood upon the door-step to see them off, not
-troubling himself to wonder where or upon what business they were going,
+troubling himself to [[Wonder|wonder]] where or upon what business they were going,
 until he chanced by mere accident to hear Ralph name the address whither
 the coachman was to drive.
 
-Quick as lightning and in a state of the most extreme wonder, Newman
+Quick as [[Lightning|lightning]] and in a state of the most extreme [[Wonder|wonder]], Newman
 darted into his little office for his hat, and limped after the coach
 as if with the intention of getting up behind; but in this design he
 was balked, for it had too much the start of him and was soon hopelessly

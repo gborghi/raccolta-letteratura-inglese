@@ -21,7 +21,7 @@ To be in the halting state of Mr Henry Gowan; to have left one of two
 powers in disgust; to want the necessary qualifications for finding
 promotion with another, and to be loitering moodily about on neutral
 ground, cursing both; is to be in a situation unwholesome for the mind,
-which time is not likely to improve. The worst class of sum worked in
+which [[Time|time]] is not likely to improve. The worst class of sum worked in
 the every-day world is cyphered by the diseased arithmeticians who are
 always in the rule of Subtraction as to the merits and successes of
 others, and never in Addition as to their own.
@@ -31,13 +31,13 @@ boast of being disappointed, is a habit fraught with degeneracy. A
 certain idle carelessness and recklessness of consistency soon comes of
 it. To bring deserving things down by setting undeserving things up is
 one of its perverted delights; and there is no playing fast and loose
-with the truth, in any game, without growing the worse for it.
+with the [[Truth|truth]], in any game, without growing the worse for it.
 
 In his expressed opinions of all performances in the Art of painting
 that were completely destitute of merit, Gowan was the most liberal
 fellow on earth. He would declare such a man to have more power in his
 little finger (provided he had none), than such another had (provided he
-had much) in his whole mind and body. If the objection were taken that
+had much) in his whole mind and [[Body|body]]. If the objection were taken that
 the thing commended was trash, he would reply, on behalf of his art, ‘My
 good fellow, what do we all turn out but trash? _I_ turn out nothing else,
 and I make you a present of the confession.’
@@ -47,7 +47,7 @@ splenetic state, though this may have had the design in it of showing
 that he ought to be rich; just as he would publicly laud and decry the
 Barnacles, lest it should be forgotten that he belonged to the family.
 Howbeit, these two subjects were very often on his lips; and he managed
-them so well that he might have praised himself by the month together,
+them so [[Well|well]] that he might have praised himself by the month together,
 and not have made himself out half so important a man as he did by his
 light disparagement of his claims on anybody’s consideration.
 
@@ -59,10 +59,10 @@ seemed to laugh the idea to scorn; but it did happen that, with all his
 pains to depreciate himself, he was always in the superior position.
 From the days of their honeymoon, Minnie Gowan felt sensible of being
 usually regarded as the wife of a man who had made a descent in marrying
-her, but whose chivalrous love for her had cancelled that inequality.
+her, but whose chivalrous [[Love|love]] for her had cancelled that inequality.
 
-To Venice they had been accompanied by Monsieur Blandois of Paris, and
-at Venice Monsieur Blandois of Paris was very much in the society of
+To [[Venice]] they had been accompanied by Monsieur Blandois of [[Paris]], and
+at [[Venice]] Monsieur Blandois of [[Paris]] was very much in the society of
 Gowan. When they had first met this gallant gentleman at Geneva,
 Gowan had been undecided whether to kick him or encourage him; and had
 remained for about four-and-twenty hours, so troubled to settle
@@ -74,8 +74,8 @@ of feeling in the hotel was against him. Upon it, Gowan resolved to
 encourage him.
 
 Why this perversity, if it were not in a generous fit?--which it was
-not. Why should Gowan, very much the superior of Blandois of Paris, and
-very well able to pull that prepossessing gentleman to pieces and find
+not. Why should Gowan, very much the superior of Blandois of [[Paris]], and
+very [[Well|well]] able to pull that prepossessing gentleman to pieces and find
 out the stuff he was made of, take up with such a man? In the first
 place, he opposed the first separate wish he observed in his wife,
 because her father had paid his debts and it was desirable to take an
@@ -85,7 +85,7 @@ being otherwise, he was an ill-conditioned man. He found a pleasure in
 declaring that a courtier with the refined manners of Blandois ought
 to rise to the greatest distinction in any polished country. He found a
 pleasure in setting up Blandois as the type of elegance, and making
-him a satire upon others who piqued themselves on personal graces.
+him a [[Satire|satire]] upon others who piqued themselves on personal graces.
 He seriously protested that the bow of Blandois was perfect, that the
 address of Blandois was irresistible, and that the picturesque ease
 of Blandois would be cheaply purchased (if it were not a gift, and
@@ -104,25 +104,25 @@ he himself was daring and courageous; though he thoroughly knew him to
 be disliked by Minnie; and though he cared so little for him, after all,
 that if he had given her any tangible personal cause to regard him with
 aversion, he would have had no compunction whatever in flinging him out
-of the highest window in Venice into the deepest water of the city.
+of the highest [[Window|window]] in [[Venice]] into the deepest [[Water|water]] of the [[City|city]].
 
 Little Dorrit would have been glad to make her visit to Mrs Gowan,
-alone; but as Fanny, who had not yet recovered from her Uncle’s protest,
+[[Alone|alone]]; but as Fanny, who had not yet recovered from her Uncle’s protest,
 though it was four-and-twenty hours of age, pressingly offered her
 company, the two sisters stepped together into one of the gondolas under
-Mr Dorrit’s window, and, with the courier in attendance, were taken in
-high state to Mrs Gowan’s lodging. In truth, their state was rather too
+Mr Dorrit’s [[Window|window]], and, with the courier in attendance, were taken in
+high state to Mrs Gowan’s lodging. In [[Truth|truth]], their state was rather too
 high for the lodging, which was, as Fanny complained, ‘fearfully out of
 the way,’ and which took them through a complexity of narrow streets of
-water, which the same lady disparaged as ‘mere ditches.’
+[[Water|water]], which the same lady disparaged as ‘mere ditches.’
 
-The house, on a little desert island, looked as if it had broken
+The [[house]], on a little [[Desert|desert]] island, looked as if it had broken
 away from somewhere else, and had floated by chance into its present
 anchorage in company with a vine almost as much in want of training as
-the poor wretches who were lying under its leaves. The features of the
+the poor wretches who were lying under its [[Leaves|leaves]]. The features of the
 surrounding picture were, a church with hoarding and scaffolding about
 it, which had been under suppositious repair so long that the means of
-repair looked a hundred years old, and had themselves fallen into decay;
+repair looked a hundred years old, and had themselves fallen into [[Decay|decay]];
 a quantity of washed linen, spread to dry in the sun; a number of houses
 at odds with one another and grotesquely out of the perpendicular, like
 rotten pre-Adamite cheeses cut into fantastic shapes and full of mites;
@@ -130,12 +130,12 @@ and a feverish bewilderment of windows, with their lattice-blinds all
 hanging askew, and something draggled and dirty dangling out of most of
 them.
 
-On the first-floor of the house was a Bank--a surprising experience for
+On the first-floor of the [[house]] was a Bank--a surprising experience for
 any gentleman of commercial pursuits bringing laws for all mankind from
-a British city--where two spare clerks, like dried dragoons, in green
+a British [[City|city]]--where two spare clerks, like dried dragoons, in green
 velvet caps adorned with golden tassels, stood, bearded, behind a small
 counter in a small room, containing no other visible objects than an
-empty iron-safe with the door open, a jug of water, and a papering of
+empty iron-safe with the door open, a jug of [[Water|water]], and a papering of
 garland of roses; but who, on lawful requisition, by merely dipping
 their hands out of sight, could produce exhaustless mounds of five-franc
 pieces. Below the Bank was a suite of three or four rooms with barred
@@ -145,7 +145,7 @@ Bank was Mrs Gowan’s residence.
 Notwithstanding that its walls were blotched, as if missionary maps were
 bursting out of them to impart geographical knowledge; notwithstanding
 that its weird furniture was forlornly faded and musty, and that the
-prevailing Venetian odour of bilge water and an ebb tide on a weedy
+prevailing Venetian odour of bilge [[Water|water]] and an ebb tide on a weedy
 shore was very strong; the place was better within, than it promised.
 The door was opened by a smiling man like a reformed assassin--a
 temporary servant--who ushered them into the room where Mrs Gowan sat,
@@ -153,7 +153,7 @@ with the announcement that two beautiful English ladies were come to see
 the mistress.
 
 Mrs Gowan, who was engaged in needlework, put her work aside in a
-covered basket, and rose, a little hurriedly. Miss Fanny was excessively
+covered basket, and [[Rose|rose]], a little hurriedly. Miss Fanny was excessively
 courteous to her, and said the usual nothings with the skill of a
 veteran.
 
@@ -161,13 +161,13 @@ veteran.
 is so much engaged here, our acquaintance being so wretchedly large!);
 and particularly requested me to bring his card for Mr Gowan. That I may
 be sure to acquit myself of a commission which he impressed upon me at
-least a dozen times, allow me to relieve my conscience by placing it on
+least a dozen times, allow me to relieve my [[Conscience|conscience]] by placing it on
 the table at once.’
 
 Which she did with veteran ease.
 
 ‘We have been,’ said Fanny, ‘charmed to understand that you know the
-Merdles. We hope it may be another means of bringing us together.’
+Merdles. We [[Hope|hope]] it may be another means of bringing us together.’
 
 ‘They are friends,’ said Mrs Gowan, ‘of Mr Gowan’s family. I have not
 yet had the pleasure of a personal introduction to Mrs Merdle, but I
@@ -176,27 +176,27 @@ suppose I shall be presented to her at Rome.’
 ‘Indeed?’ returned Fanny, with an appearance of amiably quenching her
 own superiority. ‘I think you’ll like her.’
 
-‘You know her very well?’
+‘You know her very [[Well|well]]?’
 
 ‘Why, you see,’ said Fanny, with a frank action of her pretty shoulders,
-‘in London one knows every one. We met her on our way here, and, to say
-the truth, papa was at first rather cross with her for taking one of the
+‘in [[London]] one knows every one. We met her on our way here, and, to say
+the [[Truth|truth]], papa was at first rather [[Cross|cross]] with her for taking one of the
 rooms that our people had ordered for us. However, of course, that soon
 blew over, and we were all good friends again.’
 
 Although the visit had as yet given Little Dorrit no opportunity of
 conversing with Mrs Gowan, there was a silent understanding between
-them, which did as well. She looked at Mrs Gowan with keen and unabated
+them, which did as [[Well|well]]. She looked at Mrs Gowan with keen and unabated
 interest; the sound of her voice was thrilling to her; nothing that was
 near her, or about her, or at all concerned her, escaped Little Dorrit.
 She was quicker to perceive the slightest matter here, than in any other
 case--but one.
 
-‘You have been quite well,’ she now said, ‘since that night?’
+‘You have been quite [[Well|well]],’ she now said, ‘since that [[Night|night]]?’
 
 ‘Quite, my dear. And you?’
 
-‘Oh! I am always well,’ said Little Dorrit, timidly. ‘I--yes, thank you.’
+‘Oh! I am always [[Well|well]],’ said Little Dorrit, timidly. ‘I--yes, thank you.’
 
 There was no reason for her faltering and breaking off, other than that
 Mrs Gowan had touched her hand in speaking to her, and their looks had
@@ -211,9 +211,9 @@ Little Dorrit, blushing, shook her head.
 ‘He will tell you, if he tells you what he tells me, that you are
 quieter and quicker of resource than any one he ever saw.’
 
-‘He speaks far too well of me,’ said Little Dorrit.
+‘He speaks far too [[Well|well]] of me,’ said Little Dorrit.
 
-‘I doubt that; but I don’t at all doubt that I must tell him you
+‘I [[Doubt|doubt]] that; but I don’t at all [[Doubt|doubt]] that I must tell him you
 are here. I should never be forgiven, if I were to let you--and Miss
 Dorrit--go, without doing so. May I? You can excuse the disorder and
 discomfort of a painter’s studio?’
@@ -224,7 +224,7 @@ a door, looked in beyond it, and came back. ‘Do Henry the favour to come
 in,’ said she, ‘I knew he would be pleased!’
 
 The first object that confronted Little Dorrit, entering first, was
-Blandois of Paris in a great cloak and a furtive slouched hat, standing
+Blandois of [[Paris]] in a great cloak and a furtive slouched hat, standing
 on a throne platform in a corner, as he had stood on the Great Saint
 Bernard, when the warning arms seemed to be all pointing up at him. She
 recoiled from this figure, as it smiled at her.
@@ -234,7 +234,7 @@ recoiled from this figure, as it smiled at her.
 a study of him. It saves me money to turn him to some use. We poor
 painters have none to spare.’
 
-Blandois of Paris pulled off his slouched hat, and saluted the ladies
+Blandois of [[Paris]] pulled off his slouched hat, and saluted the ladies
 without coming out of his corner.
 
 ‘A thousand pardons!’ said he. ‘But the Professore here is so inexorable
@@ -249,7 +249,7 @@ waiting to do somebody a good turn--whatever you think he looks most
 like!’
 
 ‘Say, Professore Mio, a poor gentleman waiting to do homage to
-elegance and beauty,’ remarked Blandois.
+elegance and [[Beauty|beauty]],’ remarked Blandois.
 
 ‘Or say, Cattivo Soggetto Mio,’ returned Gowan, touching the painted
 face with his brush in the part where the real face had moved, ‘a
@@ -265,14 +265,14 @@ with a quick, impatient, unskilful touch, ‘and these are the tokens of
 it. Outside the cloak, man!--Corpo di San Marco, what are you thinking
 of?’
 
-Blandois of Paris shook with a laugh again, so that his hand shook more;
+Blandois of [[Paris]] shook with a laugh again, so that his hand shook more;
 now he raised it to twist his moustache, which had a damp appearance;
 and now he stood in the required position, with a little new swagger.
 
 His face was so directed in reference to the spot where Little Dorrit
 stood by the easel, that throughout he looked at her. Once attracted by
 his peculiar eyes, she could not remove her own, and they had looked
-at each other all the time. She trembled now; Gowan, feeling it, and
+at each other all the [[Time|time]]. She trembled now; Gowan, feeling it, and
 supposing her to be alarmed by the large dog beside him, whose head she
 caressed in her hand, and who had just uttered a low growl, glanced at
 her to say, ‘He won’t hurt you, Miss Dorrit.’
@@ -283,23 +283,23 @@ look at him?’
 In a moment Gowan had thrown down his brush, and seized the dog with
 both hands by the collar.
 
-‘Blandois! How can you be such a fool as to provoke him! By Heaven, and
-the other place too, he’ll tear you to bits! Lie down! Lion! Do you hear
-my voice, you rebel!’
+‘Blandois! How can you be such a [[Fool|fool]] as to provoke him! By Heaven, and
+the other place too, he’ll tear you to bits! Lie down! [[Lion]]! Do you hear
+my voice, you [[Rebel|rebel]]!’
 
 The great dog, regardless of being half-choked by his collar, was
 obdurately pulling with his dead weight against his master, resolved to
-get across the room. He had been crouching for a spring at the moment
+get across the room. He had been crouching for a [[Spring|spring]] at the moment
 when his master caught him.
 
-‘Lion! Lion!’ He was up on his hind legs, and it was a wrestle between
-master and dog. ‘Get back! Down, Lion! Get out of his sight, Blandois!
+‘[[Lion]]! [[Lion]]!’ He was up on his hind legs, and it was a wrestle between
+master and dog. ‘Get back! Down, [[Lion]]! Get out of his sight, Blandois!
 What devil have you conjured into the dog?’
 
 ‘I have done nothing to him.’
 
 ‘Get out of his sight or I can’t hold the wild beast! Get out of the
-room! By my soul, he’ll kill you!’
+room! By my [[Soul|soul]], he’ll kill you!’
 
 The dog, with a ferocious bark, made one other struggle as Blandois
 vanished; then, in the moment of the dog’s submission, the master,
@@ -310,8 +310,8 @@ boot, so that his mouth was presently bloody.
 ‘Now get you into that corner and lie down,’ said Gowan, ‘or I’ll take
 you out and shoot you.’
 
-Lion did as he was ordered, and lay down licking his mouth and chest.
-Lion’s master stopped for a moment to take breath, and then, recovering
+[[Lion]] did as he was ordered, and lay down licking his mouth and chest.
+[[Lion]]’s master stopped for a moment to take breath, and then, recovering
 his usual coolness of manner, turned to speak to his frightened wife
 and her visitors. Probably the whole occurrence had not occupied two
 minutes.
@@ -324,7 +324,7 @@ like this before.’
 
 Minnie was too much disturbed to say anything connected in reply; Little
 Dorrit was already occupied in soothing her; Fanny, who had cried out
-twice or thrice, held Gowan’s arm for protection; Lion, deeply ashamed
+twice or thrice, held Gowan’s arm for protection; [[Lion]], deeply ashamed
 of having caused them this alarm, came trailing himself along the ground
 to the feet of his mistress.
 
@@ -341,7 +341,7 @@ even though Fanny had not been, under the best of circumstances, the
 least trifle in the way. In such further communication as passed among
 them before the sisters took their departure, Little Dorrit fancied it
 was revealed to her that Mr Gowan treated his wife, even in his very
-fondness, too much like a beautiful child. He seemed so unsuspicious of
+fondness, too much like a beautiful [[Child|child]]. He seemed so unsuspicious of
 the depths of feeling which she knew must lie below that surface, that
 she doubted if there could be any such depths in himself. She wondered
 whether his want of earnestness might be the natural result of his want
@@ -353,16 +353,16 @@ He attended them down the staircase, jocosely apologising for the
 poor quarters to which such poor fellows as himself were limited, and
 remarking that when the high and mighty Barnacles, his relatives, who
 would be dreadfully ashamed of them, presented him with better, he would
-live in better to oblige them. At the water’s edge they were saluted by
+live in better to oblige them. At the [[Water|water]]’s edge they were saluted by
 Blandois, who looked white enough after his late adventure, but who made
-very light of it notwithstanding,--laughing at the mention of Lion.
+very light of it notwithstanding,--laughing at the mention of [[Lion]].
 
 Leaving the two together under the scrap of vine upon the causeway,
-Gowan idly scattering the leaves from it into the water, and Blandois
+Gowan idly scattering the [[Leaves|leaves]] from it into the [[Water|water]], and Blandois
 lighting a cigarette, the sisters were paddled away in state as they had
 come. They had not glided on for many minutes, when Little Dorrit became
 aware that Fanny was more showy in manner than the occasion appeared to
-require, and, looking about for the cause through the window and through
+require, and, looking about for the cause through the [[Window|window]] and through
 the open door, saw another gondola evidently in waiting on them.
 
 As this gondola attended their progress in various artful ways;
@@ -370,43 +370,43 @@ sometimes shooting on a-head, and stopping to let them pass; sometimes,
 when the way was broad enough, skimming along side by side with them;
 and sometimes following close astern; and as Fanny gradually made no
 disguise that she was playing off graces upon somebody within it, of
-whom she at the same time feigned to be unconscious; Little Dorrit at
+whom she at the same [[Time|time]] feigned to be unconscious; Little Dorrit at
 length asked who it was?
 
 To which Fanny made the short answer, ‘That gaby.’
 
 ‘Who?’ said Little Dorrit.
 
-‘My dear child,’ returned Fanny (in a tone suggesting that before her
-Uncle’s protest she might have said, You little fool, instead), ‘how
+‘My dear [[Child|child]],’ returned Fanny (in a tone suggesting that before her
+Uncle’s protest she might have said, You little [[Fool|fool]], instead), ‘how
 slow you are! Young Sparkler.’
 
-She lowered the window on her side, and, leaning back and resting her
+She lowered the [[Window|window]] on her side, and, leaning back and resting her
 elbow on it negligently, fanned herself with a rich Spanish fan of black
 and gold. The attendant gondola, having skimmed forward again, with some
-swift trace of an eye in the window, Fanny laughed coquettishly and
-said, ‘Did you ever see such a fool, my love?’
+swift trace of an eye in the [[Window|window]], Fanny laughed coquettishly and
+said, ‘Did you ever see such a [[Fool|fool]], my [[Love|love]]?’
 
 ‘Do you think he means to follow you all the way?’ asked Little Dorrit.
 
-‘My precious child,’ returned Fanny, ‘I can’t possibly answer for what
+‘My precious [[Child|child]],’ returned Fanny, ‘I can’t possibly answer for what
 an idiot in a state of desperation may do, but I should think it highly
-probable. It’s not such an enormous distance. All Venice would scarcely
+probable. It’s not such an enormous distance. All [[Venice]] would scarcely
 be that, I imagine, if he’s dying for a glimpse of me.’
 
 ‘And is he?’ asked Little Dorrit in perfect simplicity.
 
-‘Well, my love, that really is an awkward question for me to answer,’
+‘[[Well]], my [[Love|love]], that really is an awkward question for me to answer,’
 said her sister. ‘I believe he is. You had better ask Edward. He tells
 Edward he is, I believe. I understand he makes a perfect spectacle of
 himself at the Casino, and that sort of places, by going on about me.
 But you had better ask Edward if you want to know.’
 
-‘I wonder he doesn’t call,’ said Little Dorrit after thinking a moment.
+‘I [[Wonder|wonder]] he doesn’t call,’ said Little Dorrit after thinking a moment.
 
-‘My dear Amy, your wonder will soon cease, if I am rightly informed.
+‘My dear Amy, your [[Wonder|wonder]] will soon cease, if I am rightly informed.
 I should not be at all surprised if he called to-day. The creature has
-only been waiting to get his courage up, I suspect.’
+only been waiting to get his [[Courage|courage]] up, I suspect.’
 
 ‘Will you see him?’
 
@@ -414,11 +414,11 @@ only been waiting to get his courage up, I suspect.’
 is again. Look at him. O, you simpleton!’
 
 Mr Sparkler had, undeniably, a weak appearance; with his eye in the
-window like a knot in the glass, and no reason on earth for stopping his
+[[Window|window]] like a knot in the glass, and no reason on earth for stopping his
 bark suddenly, except the real reason.
 
 ‘When you asked me if I will see him, my dear,’ said Fanny, almost as
-well composed in the graceful indifference of her attitude as Mrs Merdle
+[[Well|well]] composed in the graceful indifference of her attitude as Mrs Merdle
 herself, ‘what do you mean?’
 
 ‘I mean,’ said Little Dorrit--‘I think I rather mean what do you mean,
@@ -438,8 +438,8 @@ moment?’
 refer to that meeting under such different circumstances, and I’ll never
 pretend to have any idea that these are the same girls. That’s _her_ way
 out of a difficulty. What did I tell you when we came away from Harley
-Street that time? She is as insolent and false as any woman in the
-world. But in the first capacity, my love, she may find people who can
+Street that [[Time|time]]? She is as insolent and false as any woman in the
+world. But in the first capacity, my [[Love|love]], she may find people who can
 match her.’
 
 A significant turn of the Spanish fan towards Fanny’s bosom, indicated
@@ -453,15 +453,15 @@ struck with me in that Inn Yard.’
 
 ‘Why?’ asked Little Dorrit.
 
-‘Why? Good gracious, my love!’ (again very much in the tone of You
+‘Why? Good gracious, my [[Love|love]]!’ (again very much in the tone of You
 stupid little creature) ‘how can you ask? Don’t you see that I may have
 become a rather desirable match for a noddle? And don’t you see that she
-puts the deception upon us, and makes a pretence, while she shifts it
+puts the [[Deception|deception]] upon us, and makes a pretence, while she shifts it
 from her own shoulders (very good shoulders they are too, I must say),’
 observed Miss Fanny, glancing complacently at herself, ‘of considering
 our feelings?’
 
-‘But we can always go back to the plain truth.’
+‘But we can always go back to the plain [[Truth|truth]].’
 
 ‘Yes, but if you please we won’t,’ retorted Fanny. ‘No; I am not going
 to have that done, Amy. The pretext is none of mine; it’s hers, and she
@@ -480,8 +480,8 @@ expensive as she once gave me from hers!’
 Little Dorrit was silent; sensible that she was not to be heard on
 any question affecting the family dignity, and unwilling to lose to no
 purpose her sister’s newly and unexpectedly restored favour. She could
-not concur, but she was silent. Fanny well knew what she was thinking
-of; so well, that she soon asked her.
+not concur, but she was silent. Fanny [[Well|well]] knew what she was thinking
+of; so [[Well|well]], that she soon asked her.
 
 Her reply was, ‘Do you mean to encourage Mr Sparkler, Fanny?’
 
@@ -492,7 +492,7 @@ But I’ll make a slave of him.’
 Little Dorrit glanced seriously and doubtfully in her face, but Fanny
 was not to be so brought to a check. She furled her fan of black and
 gold, and used it to tap her sister’s nose; with the air of a proud
-beauty and a great spirit, who toyed with and playfully instructed a
+[[Beauty|beauty]] and a great spirit, who toyed with and playfully instructed a
 homely companion.
 
 ‘I shall make him fetch and carry, my dear, and I shall make him subject
@@ -503,9 +503,9 @@ be my fault.’
 together now--that you can quite see the end of that course?’
 
 ‘I can’t say I have so much as looked for it yet, my dear,’ answered
-Fanny, with supreme indifference; ‘all in good time. Such are my
+Fanny, with supreme indifference; ‘all in good [[Time|time]]. Such are my
 intentions. And really they have taken me so long to develop, that here
-we are at home. And Young Sparkler at the door, inquiring who is within.
+we are at [[Home|home]]. And Young Sparkler at the door, inquiring who is within.
 By the merest accident, of course!’
 
 In effect, the swain was standing up in his gondola, card-case in
@@ -518,22 +518,22 @@ by the chase, so neatly brought their own boat in the gentlest collision
 with the bark of Mr Sparkler, as to tip that gentleman over like a
 larger species of ninepin, and cause him to exhibit the soles of his
 shoes to the object of his dearest wishes: while the nobler portions of
-his anatomy struggled at the bottom of his boat in the arms of one of
+his anatomy struggled at the [[Bottom|bottom]] of his boat in the arms of one of
 his men.
 
 However, as Miss Fanny called out with much concern, Was the gentleman
-hurt, Mr Sparkler rose more restored than might have been expected, and
+hurt, Mr Sparkler [[Rose|rose]] more restored than might have been expected, and
 stammered for himself with blushes, ‘Not at all so.’ Miss Fanny had no
 recollection of having ever seen him before, and was passing on, with a
 distant inclination of her head, when he announced himself by name. Even
 then she was in a difficulty from being unable to call it to mind, until
-he explained that he had had the honour of seeing her at Martigny. Then
-she remembered him, and hoped his lady-mother was well.
+he explained that he had had the [[Honour|honour]] of seeing her at Martigny. Then
+she remembered him, and hoped his lady-mother was [[Well|well]].
 
-‘Thank you,’ stammered Mr Sparkler, ‘she’s uncommonly well--at least,
+‘Thank you,’ stammered Mr Sparkler, ‘she’s uncommonly [[Well|well]]--at least,
 poorly.’
 
-‘In Venice?’ said Miss Fanny.
+‘In [[Venice]]?’ said Miss Fanny.
 
 ‘In Rome,’ Mr Sparkler answered. ‘I am here by myself, myself. I came to
 call upon Mr Edward Dorrit myself. Indeed, upon Mr Dorrit likewise. In
@@ -543,7 +543,7 @@ Turning graciously to the attendants, Miss Fanny inquired whether her
 papa or brother was within? The reply being that they were both within,
 Mr Sparkler humbly offered his arm. Miss Fanny accepting it, was squired
 up the great staircase by Mr Sparkler, who, if he still believed (which
-there is not any reason to doubt) that she had no nonsense about her,
+there is not any reason to [[Doubt|doubt]]) that she had no nonsense about her,
 rather deceived himself.
 
 Arrived in a mouldering reception-room, where the faded hangings, of a
@@ -552,23 +552,23 @@ might have claimed kindred with the waifs of seaweed drifting under
 the windows, or clinging to the walls and weeping for their imprisoned
 relations, Miss Fanny despatched emissaries for her father and brother.
 Pending whose appearance, she showed to great advantage on a sofa,
-completing Mr Sparkler’s conquest with some remarks upon Dante--known
-to that gentleman as an eccentric man in the nature of an Old File,
-who used to put leaves round his head, and sit upon a stool for some
-unaccountable purpose, outside the cathedral at Florence.
+completing Mr Sparkler’s conquest with some remarks upon [[Dante]]--known
+to that gentleman as an eccentric man in the [[Nature|nature]] of an Old File,
+who used to put [[Leaves|leaves]] round his head, and sit upon a stool for some
+unaccountable purpose, outside the [[Cathedral|cathedral]] at Florence.
 
 Mr Dorrit welcomed the visitor with the highest urbanity, and most
 courtly manners. He inquired particularly after Mrs Merdle. He inquired
-particularly after Mr Merdle. Mr Sparkler said, or rather twitched out
+particularly after [[Mr Merdle]]. Mr Sparkler said, or rather twitched out
 of himself in small pieces by the shirt-collar, that Mrs Merdle having
-completely used up her place in the country, and also her house at
+completely used up her place in the country, and also her [[house]] at
 Brighton, and being, of course, unable, don’t you see, to remain in
-London when there wasn’t a soul there, and not feeling herself this year
+[[London]] when there wasn’t a [[Soul|soul]] there, and not feeling herself this year
 quite up to visiting about at people’s places, had resolved to have
 a touch at Rome, where a woman like herself, with a proverbially fine
 appearance, and with no nonsense about her, couldn’t fail to be a great
-acquisition. As to Mr Merdle, he was so much wanted by the men in the
-City and the rest of those places, and was such a doosed extraordinary
+acquisition. As to [[Mr Merdle]], he was so much wanted by the men in the
+[[City]] and the rest of those places, and was such a doosed extraordinary
 phenomenon in Buying and Banking and that, that Mr Sparkler doubted if
 the monetary system of the country would be able to spare him; though
 that his work was occasionally one too many for him, and that he would
@@ -577,15 +577,15 @@ climate, Mr Sparkler did not conceal. As to himself, Mr Sparkler
 conveyed to the Dorrit family that he was going, on rather particular
 business, wherever they were going.
 
-This immense conversational achievement required time, but was effected.
-Being effected, Mr Dorrit expressed his hope that Mr Sparkler would
+This immense conversational achievement required [[Time|time]], but was effected.
+Being effected, Mr Dorrit expressed his [[Hope|hope]] that Mr Sparkler would
 shortly dine with them. Mr Sparkler received the idea so kindly that Mr
 Dorrit asked what he was going to do that day, for instance? As he was
 going to do nothing that day (his usual occupation, and one for which he
 was particularly qualified), he was secured without postponement; being
 further bound over to accompany the ladies to the Opera in the evening.
 
-At dinner-time Mr Sparkler rose out of the sea, like Venus’s son taking
+At dinner-[[Time|time]] Mr Sparkler [[Rose|rose]] out of the sea, like [[Venus]]’s son taking
 after his mother, and made a splendid appearance ascending the great
 staircase. If Fanny had been charming in the morning, she was now thrice
 charming, very becomingly dressed in her most suitable colours, and with
@@ -601,7 +601,7 @@ cronies in fact.’
 ‘If I had thought of it, Amy,’ said Mr Dorrit, with a patronage as
 magnificent as that of Lord Decimus himself, ‘you should have despatched
 a note to them, asking them to dine to-day. Some of our people could
-have--ha--fetched them, and taken them home. We could have spared
+have--ha--fetched them, and taken them [[Home|home]]. We could have spared
 a--hum--gondola for that purpose. I am sorry to have forgotten this.
 Pray remind me of them to-morrow.’
 
@@ -614,7 +614,7 @@ Mr Sparkler opined that he painted anything, if he could get the job.
 
 ‘He has no particular walk?’ said Mr Dorrit.
 
-Mr Sparkler, stimulated by Love to brilliancy, replied that for a
+Mr Sparkler, stimulated by [[Love]] to brilliancy, replied that for a
 particular walk a man ought to have a particular pair of shoes; as, for
 example, shooting, shooting-shoes; cricket, cricket-shoes. Whereas, he
 believed that Henry Gowan had no particular pair of shoes.
@@ -625,8 +625,8 @@ This being a very long word for Mr Sparkler, and his mind being
 exhausted by his late effort, he replied, ‘No, thank you. I seldom take
 it.’
 
-‘Well!’ said Mr Dorrit. ‘It would be very agreeable to me to present
-a gentleman so connected, with some--ha--Testimonial of my desire to
+‘[[Well]]!’ said Mr Dorrit. ‘It would be very agreeable to me to present
+a gentleman so connected, with some--ha--Testimonial of my [[Desire|desire]] to
 further his interests, and develop the--hum--germs of his genius. I
 think I must engage Mr Gowan to paint my picture. If the result should
 be--ha--mutually satisfactory, I might afterwards engage him to try his
@@ -641,7 +641,7 @@ express the idea, it returned to the skies.
 This was the more to be regretted as Miss Fanny greatly applauded the
 notion of the portrait, and urged her papa to act upon it. She surmised,
 she said, that Mr Gowan had lost better and higher opportunities by
-marrying his pretty wife; and Love in a cottage, painting pictures for
+marrying his pretty wife; and [[Love]] in a cottage, painting pictures for
 dinner, was so delightfully interesting, that she begged her papa to
 give him the commission whether he could paint a likeness or not: though
 indeed both she and Amy knew he could, from having seen a speaking
@@ -649,8 +649,8 @@ likeness on his easel that day, and having had the opportunity of
 comparing it with the original. These remarks made Mr Sparkler (as
 perhaps they were intended to do) nearly distracted; for while on
 the one hand they expressed Miss Fanny’s susceptibility of the tender
-passion, she herself showed such an innocent unconsciousness of his
-admiration that his eyes goggled in his head with jealousy of an unknown
+passion, she herself showed such an [[Innocent|innocent]] unconsciousness of his
+admiration that his eyes goggled in his head with [[Jealousy|jealousy]] of an unknown
 rival.
 
 Descending into the sea again after dinner, and ascending out of it
@@ -660,7 +660,7 @@ and Mr Sparkler entered on an evening of agony. The theatre being
 dark, and the box light, several visitors lounged in during the
 representation; in whom Fanny was so interested, and in conversation
 with whom she fell into such charming attitudes, as she had little
-confidences with them, and little disputes concerning the identity of
+confidences with them, and little disputes concerning the [[Identity|identity]] of
 people in distant boxes, that the wretched Sparkler hated all mankind.
 But he had two consolations at the close of the performance. She gave
 him her fan to hold while she adjusted her cloak, and it was his
@@ -673,10 +673,10 @@ with other lights were ready at many of the doors. The Dorrit Merman
 held his lantern low, to show the steps, and Mr Sparkler put on another
 heavy set of fetters over his former set, as he watched her radiant
 feet twinkling down the stairs beside him. Among the loiterers here, was
-Blandois of Paris. He spoke, and moved forward beside Fanny.
+Blandois of [[Paris]]. He spoke, and moved forward beside Fanny.
 
 Little Dorrit was in front with her brother and Mrs General (Mr Dorrit
-had remained at home), but on the brink of the quay they all came
+had remained at [[Home|home]]), but on the brink of the quay they all came
 together. She started again to find Blandois close to her, handing Fanny
 into the boat.
 
@@ -686,7 +686,7 @@ visit from fair ladies.’
 ‘A loss?’ repeated Fanny, relinquished by the bereaved Sparkler, and
 taking her seat.
 
-‘A loss,’ said Blandois. ‘His dog Lion.’
+‘A loss,’ said Blandois. ‘His dog [[Lion]].’
 
 Little Dorrit’s hand was in his, as he spoke.
 
@@ -695,6 +695,6 @@ Little Dorrit’s hand was in his, as he spoke.
 
 ‘Dead?’ echoed Little Dorrit. ‘That noble dog?’
 
-‘Faith, dear ladies!’ said Blandois, smiling and shrugging his
+‘[[Faith]], dear ladies!’ said Blandois, smiling and shrugging his
 shoulders, ‘somebody has poisoned that noble dog. He is as dead as the
 Doges!’

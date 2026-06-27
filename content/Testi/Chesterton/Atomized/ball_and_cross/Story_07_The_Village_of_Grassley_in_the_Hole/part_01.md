@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Village of Grassley-in-the-Hole (part 1)"
+title: "ball and [[Cross|cross]] — The Village of Grassley-in-the-Hole (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -24,14 +24,14 @@ intermittent laughter ended in a kind of yawn.
 
 "I have not noticed," answered MacIan.  "What are you going to do?"
 
-"There's a village down the road, past the pool," answered Turnbull.
+"There's a village down the [[Road|road]], past the pool," answered Turnbull.
 "I can see it from here.  I can see the whitewashed walls of some
 cottages and a kind of corner of the church.  How jolly it all looks.
 It looks so--I don't know what the word is--so sensible.  Don't fancy I'm
-under any illusions about Arcadian virtue and the innocent villagers.
+under any illusions about Arcadian virtue and the [[Innocent|innocent]] villagers.
 Men make beasts of themselves there with drink, but they don't
 deliberately make devils of themselves with mere talking.
-They kill wild animals in the wild woods, but they don't kill cats
+They kill wild [[Animals|animals]] in the wild woods, but they don't kill cats
 to the God of Victory.  They don't----" He broke off and suddenly
 spat on the ground.
 
@@ -50,23 +50,23 @@ the ground--his eyes particularly dreamy.
 you people agreed with all that."
 
 "With all that about doing as one likes, and the individual,
-and Nature loving the strongest, and all the things which that
+and [[Nature]] loving the strongest, and all the things which that
 cockroach talked about."
 
-Turnbull's big blue-grey eyes stood open with a grave astonishment.
+Turnbull's big blue-grey eyes stood open with a [[Grave|grave]] astonishment.
 
 "Do you really mean to say, MacIan," he said, "that you fancied that we,
 the Free-thinkers, that Bradlaugh, or Holyoake, or Ingersoll,
-believe all that dirty, immoral mysticism about Nature?  Damn Nature!"
+believe all that dirty, immoral mysticism about [[Nature]]?  Damn [[Nature]]!"
 
 "I supposed you did," said MacIan calmly.  "It seems to me your
 most conclusive position."
 
 "And you mean to tell me," rejoined the other, "that you broke
-my window, and challenged me to mortal combat, and tied a tradesman
-up with ropes, and chased an Oxford Fellow across five meadows--
+my [[Window|window]], and challenged me to mortal combat, and tied a tradesman
+up with ropes, and chased an [[Oxford]] Fellow across five meadows--
 all under the impression that I am such an illiterate idiot as to
-believe in Nature!"
+believe in [[Nature]]!"
 
 "I supposed you did," repeated MacIan with his usual mildness;
 "but I admit that I know little of the details of your belief--
@@ -91,26 +91,26 @@ have never thought of doing yet--discover what our difference is?"
 "It never occurred to me before," answered MacIan with tranquillity.
 "It is a good suggestion."
 
-And they set out at an easy swing down the steep road to the
+And they set out at an easy swing down the steep [[Road|road]] to the
 village of Grassley-in-the-Hole.
 
 Grassley-in-the-Hole was a rude parallelogram of buildings,
 with two thoroughfares which might have been called two high
 streets if it had been possible to call them streets.
 One of these ways was higher on the slope than the other, the whole
-parallelogram lying aslant, so to speak, on the side of the hill.
-The upper of these two roads was decorated with a big public house,
-a butcher's shop, a small public house, a sweetstuff shop, a very small
-public house, and an illegible signpost.  The lower of the two roads
-boasted a horse-pond, a post office, a gentleman's garden with very
-high hedges, a microscopically small public house, and two cottages.
+parallelogram lying aslant, so to speak, on the side of the [[Hill|hill]].
+The upper of these two roads was decorated with a big public [[house]],
+a butcher's shop, a small public [[house]], a sweetstuff shop, a very small
+public [[house]], and an illegible signpost.  The lower of the two roads
+boasted a [[Horse|horse]]-pond, a post office, a gentleman's [[Garden|garden]] with very
+high hedges, a microscopically small public [[house]], and two cottages.
 Where all the people lived who supported all the public houses was
 in this, as in many other English villages, a silent and smiling mystery.
 The church lay a little above and beyond the village, with a square
 grey tower dominating it decisively.
 
 But even the church was scarcely so central and solemn an
-institution as the large public house, the Valencourt Arms.
+institution as the large public [[house]], the Valencourt Arms.
 It was named after some splendid family that had long gone bankrupt,
 and whose seat was occupied by a man who had invented a
 hygienic bootjack; but the unfathomable sentimentalism of the English
@@ -126,9 +126,9 @@ and carried under each coat something that looked like a stick.
 One was tall and dark, the other short and red-haired. They ordered
 a pot of ale each.
 
-"MacIan," said Turnbull, lifting his tankard, "the fool who wanted
+"MacIan," said Turnbull, lifting his tankard, "the [[Fool|fool]] who wanted
 us to be friends made us want to go on fighting.  It is only natural
-that the fool who wanted us to fight should make us friendly.
+that the [[Fool|fool]] who wanted us to fight should make us friendly.
 MacIan, your health!"
 
 Dusk was already dropping, the rustics in the tavern were
@@ -138,9 +138,9 @@ before MacIan and Turnbull had reached the really important part
 of their discussion.
 
 MacIan wore an expression of sad bewilderment not uncommon with him.
-"I am to understand, then," he said, "that you don't believe in nature."
+"I am to understand, then," he said, "that you don't believe in [[Nature|nature]]."
 
 "You may say so in a very special and emphatic sense," said Turnbull.
-"I do not believe in nature, just as I do not believe in Odin.
-She is a myth.  It is not merely that I do not believe that nature
-can guide us.  It is that I do not believe that nature exists."
+"I do not believe in [[Nature|nature]], just as I do not believe in Odin.
+She is a myth.  It is not merely that I do not believe that [[Nature|nature]]
+can guide us.  It is that I do not believe that [[Nature|nature]] exists."

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 59 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -25,15 +25,15 @@ composed.’
 ‘Can you take her by yourself?’ asked Hugh.
 
 ‘I don’t know till I try. I ought to be able to; I’ve lifted up a good
-many in my time,’ said the hangman. ‘Up then! She’s no small weight,
+many in my [[Time|time]],’ said the hangman. ‘Up then! She’s no small weight,
 brother; none of these here fine gals are. Up again! Now we have her.’
 
-Having by this time hoisted the young lady into his arms, he staggered
+Having by this [[Time|time]] hoisted the young lady into his arms, he staggered
 off with his burden.
 
 ‘Look ye, pretty bird,’ said Hugh, drawing Dolly towards him. ‘Remember
-what I told you--a kiss for every cry. Scream, if you love me, darling.
-Scream once, mistress. Pretty mistress, only once, if you love me.’
+what I told you--a kiss for every cry. Scream, if you [[Love|love]] me, darling.
+Scream once, mistress. Pretty mistress, only once, if you [[Love|love]] me.’
 
 Thrusting his face away with all her force, and holding down her head,
 Dolly submitted to be carried out of the chaise, and borne after Miss
@@ -52,8 +52,8 @@ on her knees beside her friend, and bent over her, and laid her cheek
 to hers, and put her arms about her, what mortal eyes could have avoided
 wandering to the delicate bodice, the streaming hair, the neglected
 dress, the perfect abandonment and unconsciousness of the blooming
-little beauty? Who could look on and see her lavish caresses and
-endearments, and not desire to be in Emma Haredale’s place; to be either
+little [[Beauty|beauty]]? Who could look on and see her lavish caresses and
+endearments, and not [[Desire|desire]] to be in [[Emma Haredale]]’s place; to be either
 her or Dolly; either the hugging or the hugged? Not Hugh. Not Dennis.
 
 ‘I tell you what it is, young women,’ said Mr Dennis, ‘I an’t much of a
@@ -62,7 +62,7 @@ lending a willing hand to my friends: but if I see much more of this
 here sort of thing, I shall become a principal instead of a accessory. I
 tell you candid.’
 
-‘Why have you brought us here?’ said Emma. ‘Are we to be murdered?’
+‘Why have you brought us here?’ said [[Emma]]. ‘Are we to be murdered?’
 
 ‘Murdered!’ cried Dennis, sitting down upon a stool, and regarding her
 with great favour. ‘Why, my dear, who’d murder sich chickabiddies as
@@ -75,7 +75,7 @@ for the purpose.
 ‘No, no,’ said Dennis, ‘there’ll be no murdering, my pets. Nothing of
 that sort. Quite the contrairy.’
 
-‘You are an older man than your companion, sir,’ said Emma, trembling.
+‘You are an older man than your companion, sir,’ said [[Emma]], trembling.
 ‘Have you no pity for us? Do you not consider that we are women?’
 
 ‘I do indeed, my dear,’ retorted Dennis. ‘It would be very hard not to,
@@ -99,23 +99,23 @@ I had been that there highwayman or housebreaker, I should have made
 answer: “What are you a talking of, my lord? I showed the women as much
 consideration as the law does, and what more would you have me do?” If
 you was to count up in the newspapers the number of females as have
-been worked off in this here city alone, in the last ten year,’ said Mr
+been worked off in this here [[City|city]] [[Alone|alone]], in the last ten year,’ said Mr
 Dennis thoughtfully, ‘you’d be surprised at the total--quite amazed, you
 would. There’s a dignified and equal thing; a beautiful thing! But we’ve
 no security for its lasting. Now that they’ve begun to favour these here
-Papists, I shouldn’t wonder if they went and altered even THAT, one of
-these days. Upon my soul, I shouldn’t.’
+Papists, I shouldn’t [[Wonder|wonder]] if they went and altered even THAT, one of
+these days. Upon my [[Soul|soul]], I shouldn’t.’
 
 The subject, perhaps from being of too exclusive and professional a
-nature, failed to interest Hugh as much as his friend had anticipated.
-But he had no time to pursue it, for at this crisis Mr Tappertit entered
+[[Nature|nature]], failed to interest Hugh as much as his friend had anticipated.
+But he had no [[Time|time]] to pursue it, for at this crisis Mr Tappertit entered
 precipitately; at sight of whom Dolly uttered a scream of joy, and
 fairly threw herself into his arms.
 
 ‘I knew it, I was sure of it!’ cried Dolly. ‘My dear father’s at the
 door. Thank God, thank God! Bless you, Sim. Heaven bless you for this!’
 
-Simon Tappertit, who had at first implicitly believed that the
+[[Simon Tappertit]], who had at first implicitly believed that the
 locksmith’s daughter, unable any longer to suppress her secret passion
 for himself, was about to give it full vent in its intensity, and to
 declare that she was his for ever, looked extremely foolish when she
@@ -123,9 +123,9 @@ said these words;--the more so, as they were received by Hugh and Dennis
 with a loud laugh, which made her draw back, and regard him with a fixed
 and earnest look.
 
-‘Miss Haredale,’ said Sim, after a very awkward silence, ‘I hope
-you’re as comfortable as circumstances will permit of. Dolly Varden,
-my darling--my own, my lovely one--I hope YOU’RE pretty comfortable
+‘Miss Haredale,’ said Sim, after a very awkward [[Silence|silence]], ‘I [[Hope|hope]]
+you’re as comfortable as circumstances will permit of. [[Dolly Varden]],
+my darling--my own, my lovely one--I [[Hope|hope]] YOU’RE pretty comfortable
 likewise.’
 
 Poor little Dolly! She saw how it was; hid her face in her hands; and

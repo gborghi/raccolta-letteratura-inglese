@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 38 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 38 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,11 +24,11 @@ December 20th, 1826.—The fifth anniversary of my wedding-day, and, I
 
 trust, the last I shall spend under this roof. My resolution is formed,
 
-my plan concocted, and already partly put in execution. My conscience
+my plan concocted, and already partly put in execution. My [[Conscience|conscience]]
 
 does not blame me, but while the purpose ripens let me beguile a few of
 
-these long winter evenings in stating the case for my own satisfaction:
+these long [[Winter|winter]] evenings in stating the case for my own satisfaction:
 
 a dreary amusement enough, but having the air of a useful occupation,
 
@@ -54,9 +54,9 @@ But the ladies stayed only three weeks; the gentlemen, with two
 
 exceptions, above two months: for their hospitable entertainer was loth
 
-to part with them and be left alone with his bright intellect, his
+to part with them and be left [[Alone|alone]] with his bright intellect, his
 
-stainless conscience, and his loved and loving wife.
+stainless [[Conscience|conscience]], and his loved and loving wife.
 
 
 
@@ -86,11 +86,11 @@ thenceforth particularly reprehensible or suspicious in her demeanour
 
 towards her host; but then I had the other guests to attend to, and I
 
-did not watch them narrowly—for, to confess the truth, I _feared_ to
+did not watch them narrowly—for, to confess the [[Truth|truth]], I _feared_ to
 
 see anything between them. I no longer regarded it as any concern of
 
-mine, and if it was my duty to enlighten Lord Lowborough, it was a
+mine, and if it was my duty to enlighten [[Lord Lowborough]], it was a
 
 painful duty, and I dreaded to be called to perform it.
 
@@ -112,9 +112,9 @@ talk, and smile and listen, and play the attentive hostess, or even the
 
 cheerful friend: I had just ensconced myself within the bow of the
 
-window, and was looking out upon the west, where the darkening hills
+[[Window|window]], and was looking out upon the west, where the darkening hills
 
-rose sharply defined against the clear amber light of evening, that
+[[Rose|rose]] sharply defined against the clear amber light of evening, that
 
 gradually blended and faded away into the pure, pale blue of the upper
 
@@ -126,7 +126,7 @@ they who trust in God, whose minds are unbeclouded by the mists of
 
 unbelief and sin, are never wholly comfortless,”—when I heard a hurried
 
-step approaching, and Lord Lowborough entered. This room was still his
+step approaching, and [[Lord Lowborough]] entered. This room was still his
 
 favourite resort. He flung the door to with unusual violence, and cast
 
@@ -146,11 +146,11 @@ fearful agitation, violently wringing his hands and uttering low groans
 
 or incoherent ejaculations. I made a movement to let him know that he
 
-was not alone; but he was too preoccupied to notice it. Perhaps, while
+was not [[Alone|alone]]; but he was too preoccupied to notice it. Perhaps, while
 
-his back was towards me, I might cross the room and slip away
+his back was towards me, I might [[Cross|cross]] the room and slip away
 
-unobserved. I rose to make the attempt, but then he perceived me. He
+unobserved. I [[Rose|rose]] to make the attempt, but then he perceived me. He
 
 started and stood still a moment; then wiped his streaming forehead,
 
@@ -174,7 +174,7 @@ bitterness, as it appeared to me.
 
 
 
-“I have so long been aware of—” I paused in time, and added, “of my
+“I have so long been aware of—” I paused in [[Time|time]], and added, “of my
 
 husband’s character, that nothing shocks me.”
 
@@ -230,7 +230,7 @@ eagerness.
 
 
 
-“Great heaven! and she has duped me all this time!” He turned away with
+“Great heaven! and she has duped me all this [[Time|time]]!” He turned away with
 
 a suppressed groan of agony, and paced the room again in a paroxysm of
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 CHAPTER XLV. DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL
-WELLER AND A FAMILY PARTY. MR. PICKWICK MAKES A TOUR OF THE DIMINUTIVE
+WELLER AND A FAMILY PARTY. MR. [[Pickwick|PICKWICK]] MAKES A TOUR OF THE DIMINUTIVE
 WORLD HE INHABITS, AND RESOLVES TO MIX WITH IT, IN FUTURE, AS LITTLE AS
 POSSIBLE
 
@@ -24,7 +24,7 @@ arranged his master’s room with all possible care, and seen him
 comfortably seated over his books and papers, withdrew to employ himself
 for an hour or two to come, as he best could. It was a fine morning, and
 it occurred to Sam that a pint of porter in the open air would lighten
-his next quarter of an hour or so, as well as any little amusement in
+his next quarter of an hour or so, as [[Well|well]] as any little amusement in
 which he could indulge.
 
 Having arrived at this conclusion, he betook himself to the tap. Having
@@ -34,10 +34,10 @@ himself on a bench, proceeded to enjoy himself in a very sedate and
 methodical manner.
 
 First of all, he took a refreshing draught of the beer, and then he
-looked up at a window, and bestowed a platonic wink on a young lady who
+looked up at a [[Window|window]], and bestowed a platonic wink on a young lady who
 was peeling potatoes thereat. Then he opened the paper, and folded it so
 as to get the police reports outwards; and this being a vexatious and
-difficult thing to do, when there is any wind stirring, he took another
+difficult thing to do, when there is any [[Wind|wind]] stirring, he took another
 draught of the beer when he had accomplished it. Then, he read two lines
 of the paper, and stopped short to look at a couple of men who were
 finishing a game at rackets, which, being concluded, he cried out ‘wery
@@ -57,7 +57,7 @@ passage. Nor was he mistaken, for it quickly passed from mouth to mouth,
 and in a few seconds the air teemed with shouts of ‘Weller!’
 
 Here!’ roared Sam, in a stentorian voice. ‘Wot’s the matter? Who wants
-him? Has an express come to say that his country house is afire?’
+him? Has an express come to say that his country [[house]] is afire?’
 
 ‘Somebody wants you in the hall,’ said a man who was standing by.
 
@@ -70,7 +70,7 @@ gentleman before noticed, who, unconscious of his close vicinity to the
 person in request, was screaming ‘Weller!’ with all his might, Sam
 hastened across the ground, and ran up the steps into the hall. Here,
 the first object that met his eyes was his beloved father sitting on a
-bottom stair, with his hat in his hand, shouting out ‘Weller!’ in his
+[[Bottom|bottom]] stair, with his hat in his hand, shouting out ‘Weller!’ in his
 very loudest tone, at half-minute intervals.
 
 ‘Wot are you a-roarin’ at?’ said Sam impetuously, when the old gentleman
@@ -143,11 +143,11 @@ creditor, Sammy.’
 
 ‘In the snuggery,’ rejoined Mr. Weller. ‘Catch the red-nosed man a-goin’
 anyvere but vere the liquors is; not he, Samivel, not he. Ve’d a wery
-pleasant ride along the road from the Markis this mornin’, Sammy,’ said
+pleasant ride along the [[Road|road]] from the Markis this mornin’, Sammy,’ said
 Mr. Weller, when he felt himself equal to the task of speaking in an
 articulate manner. ‘I drove the old piebald in that ‘ere little chay-
 cart as belonged to your mother-in-law’s first wenter, into vich a harm-
 cheer wos lifted for the shepherd; and I’m blessed,’ said Mr. Weller,
 with a look of deep scorn--‘I’m blessed if they didn’t bring a portable
-flight o’ steps out into the road a-front o’ our door for him, to get up
+flight o’ steps out into the [[Road|road]] a-front o’ our door for him, to get up
 by.’

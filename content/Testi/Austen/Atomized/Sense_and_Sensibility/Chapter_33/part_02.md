@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 33 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 33 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,11 +24,11 @@ to Conduit Street, and introduce him to Sir John and Lady Middleton.
 
 The weather was remarkably fine, and she readily consented. As soon as
 
-they were out of the house, his enquiries began.
+they were out of the [[house]], his enquiries began.
 
 
 
-“Who is Colonel Brandon? Is he a man of fortune?”
+“Who is [[Colonel Brandon]]? Is he a man of fortune?”
 
 
 
@@ -68,7 +68,7 @@ were _twice_ as much, for your sake.”
 
 “Indeed I believe you,” replied Elinor; “but I am very sure that
 
-Colonel Brandon has not the smallest wish of marrying _me_.”
+[[Colonel Brandon]] has not the smallest wish of marrying _me_.”
 
 
 
@@ -90,7 +90,7 @@ side—in short, you know as to an attachment of that kind, it is quite
 
 out of the question, the objections are insurmountable—you have too
 
-much sense not to see all that. Colonel Brandon must be the man; and no
+much sense not to see all that. [[Colonel Brandon]] must be the man; and no
 
 civility shall be wanting on my part to make him pleased with you and
 
@@ -102,7 +102,7 @@ whisper—“will be exceedingly welcome to _all parties_.” Recollecting
 
 himself, however, he added, “That is, I mean to say—your friends are
 
-all truly anxious to see you well settled; Fanny particularly, for she
+all truly anxious to see you [[Well|well]] settled; Fanny particularly, for she
 
 has your interest very much at heart, I assure you. And her mother too,
 
@@ -120,11 +120,11 @@ Elinor would not vouchsafe any answer.
 
 droll, if Fanny should have a brother and I a sister settling at the
 
-same time. And yet it is not very unlikely.”
+same [[Time|time]]. And yet it is not very unlikely.”
 
 
 
-“Is Mr. Edward Ferrars,” said Elinor, with resolution, “going to be
+“Is Mr. [[Edward Ferrars]],” said Elinor, with resolution, “going to be
 
 married?”
 
@@ -140,9 +140,9 @@ takes place. The lady is the Hon. Miss Morton, only daughter of the
 
 late Lord Morton, with thirty thousand pounds. A very desirable
 
-connection on both sides, and I have not a doubt of its taking place in
+connection on both sides, and I have not a [[Doubt|doubt]] of its taking place in
 
-time. A thousand a-year is a great deal for a mother to give away, to
+[[Time|time]]. A thousand a-year is a great deal for a mother to give away, to
 
 make over for ever; but Mrs. Ferrars has a noble spirit. To give you
 
@@ -170,9 +170,9 @@ but your income is a large one.”
 
 “Not so large, I dare say, as many people suppose. I do not mean to
 
-complain, however; it is undoubtedly a comfortable one, and I hope will
+complain, however; it is undoubtedly a comfortable one, and I [[Hope|hope]] will
 
-in time be better. The enclosure of Norland Common, now carrying on, is
+in [[Time|time]] be better. The enclosure of Norland Common, now carrying on, is
 
 a most serious drain. And then I have made a little purchase within
 
@@ -182,7 +182,7 @@ old Gibson used to live. The land was so very desirable for me in every
 
 respect, so immediately adjoining my own property, that I felt it my
 
-duty to buy it. I could not have answered it to my conscience to let it
+duty to buy it. I could not have answered it to my [[Conscience|conscience]] to let it
 
 fall into any other hands. A man must pay for his convenience; and it
 
@@ -194,11 +194,11 @@ _has_ cost me a vast deal of money.”
 
 
 
-“Why, I hope not that. I might have sold it again, the next day, for
+“Why, I [[Hope|hope]] not that. I might have sold it again, the next day, for
 
 more than I gave: but, with regard to the purchase-money, I might have
 
-been very unfortunate indeed; for the stocks were at that time so low,
+been very unfortunate indeed; for the stocks were at that [[Time|time]] so low,
 
 that if I had not happened to have the necessary sum in my banker’s
 
@@ -212,7 +212,7 @@ Elinor could only smile.
 
 “Other great and inevitable expenses too we have had on first coming to
 
-Norland. Our respected father, as you well know, bequeathed all the
+Norland. Our respected father, as you [[Well|well]] know, bequeathed all the
 
 Stanhill effects that remained at Norland (and very valuable they were)
 
@@ -230,7 +230,7 @@ rich, and how acceptable Mrs. Ferrars’s kindness is.”
 
 
 
-“Certainly,” said Elinor; “and assisted by her liberality, I hope you
+“Certainly,” said Elinor; “and assisted by her liberality, I [[Hope|hope]] you
 
 may yet live to be in easy circumstances.”
 
@@ -240,18 +240,18 @@ may yet live to be in easy circumstances.”
 
 however there is still a great deal to be done. There is not a stone
 
-laid of Fanny’s green-house, and nothing but the plan of the
+laid of Fanny’s green-[[house]], and nothing but the plan of the
 
-flower-garden marked out.”
-
-
-
-“Where is the green-house to be?”
+flower-[[Garden|garden]] marked out.”
 
 
 
-“Upon the knoll behind the house. The old walnut trees are all come
+“Where is the green-[[house]] to be?”
+
+
+
+“Upon the knoll behind the [[house]]. The old walnut trees are all come
 
 down to make room for it. It will be a very fine object from many parts
 
-of the park, and the flower-garden will slope down just before it, and
+of the park, and the flower-[[Garden|garden]] will slope down just before it, and

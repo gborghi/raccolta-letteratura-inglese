@@ -19,7 +19,7 @@ CHAPTER 4. A Letter from Little Dorrit
 
 Dear Mr Clennam,
 
-I write to you from my own room at Venice, thinking you will be glad to
+I write to you from my own room at [[Venice]], thinking you will be glad to
 hear from me. But I know you cannot be so glad to hear from me as I am
 to write to you; for everything about you is as you have been accustomed
 to see it, and you miss nothing--unless it should be me, which can only
@@ -28,14 +28,14 @@ my life is so strange, and I miss so much.
 
 When we were in Switzerland, which appears to have been years ago,
 though it was only weeks, I met young Mrs Gowan, who was on a mountain
-excursion like ourselves. She told me she was very well and very happy.
+excursion like ourselves. She told me she was very [[Well|well]] and very happy.
 She sent you the message, by me, that she thanked you affectionately and
 would never forget you. She was quite confiding with me, and I loved her
 almost as soon as I spoke to her. But there is nothing singular in that;
 who could help loving so beautiful and winning a creature! I could not
-wonder at any one loving her. No indeed.
+[[Wonder|wonder]] at any one loving her. No indeed.
 
-It will not make you uneasy on Mrs Gowan’s account, I hope--for I
+It will not make you uneasy on Mrs Gowan’s account, I [[Hope|hope]]--for I
 remember that you said you had the interest of a true friend in her--if
 I tell you that I wish she could have married some one better suited to
 her. Mr Gowan seems fond of her, and of course she is very fond of him,
@@ -45,7 +45,7 @@ Gowan (what a change that would be, and how I must alter to become like
 her!) I should feel that I was rather lonely and lost, for the want of
 some one who was steadfast and firm in purpose. I even thought she felt
 this want a little, almost without knowing it. But mind you are not made
-uneasy by this, for she was ‘very well and very happy.’ And she looked
+uneasy by this, for she was ‘very [[Well|well]] and very happy.’ And she looked
 most beautiful.
 
 I expect to meet her again before long, and indeed have been expecting
@@ -58,17 +58,17 @@ I never can forget it.
 I wish I knew--but it is best for no one to write to me--how Mr and Mrs
 Plornish prosper in the business which my dear father bought for them,
 and that old Mr Nandy lives happily with them and his two grandchildren,
-and sings all his songs over and over again. I cannot quite keep back
-the tears from my eyes when I think of my poor Maggy, and of the blank
+and sings all his [[songs]] over and over again. I cannot quite keep back
+the [[Tears|tears]] from my eyes when I think of my poor Maggy, and of the blank
 she must have felt at first, however kind they all are to her, without
 her Little Mother. Will you go and tell her, as a strict secret, with my
-love, that she never can have regretted our separation more than I have
+[[Love|love]], that she never can have regretted our separation more than I have
 regretted it? And will you tell them all that I have thought of them
 every day, and that my heart is faithful to them everywhere? O, if you
 could know how faithful, you would almost pity me for being so far away
 and being so grand!
 
-You will be glad, I am sure, to know that my dear father is very well
+You will be glad, I am sure, to know that my dear father is very [[Well|well]]
 in health, and that all these changes are highly beneficial to him, and
 that he is very different indeed from what he used to be when you used
 to see him. There is an improvement in my uncle too, I think, though he
@@ -77,7 +77,7 @@ quick, and clever. It is natural to her to be a lady; she has adapted
 herself to our new fortunes with wonderful ease.
 
 This reminds me that I have not been able to do so, and that I sometimes
-almost despair of ever being able to do so. I find that I cannot learn.
+almost [[Despair|despair]] of ever being able to do so. I find that I cannot learn.
 Mrs General is always with us, and we speak French and speak Italian,
 and she takes pains to form us in many ways. When I say we speak French
 and Italian, I mean they do. As for me, I am so slow that I scarcely
@@ -86,7 +86,7 @@ planning, thinking, and trying go in old directions, and I begin to feel
 careful again about the expenses of the day, and about my dear father,
 and about my work, and then I remember with a start that there are no
 such cares left, and that in itself is so new and improbable that it
-sets me wandering again. I should not have the courage to mention this
+sets me wandering again. I should not have the [[Courage|courage]] to mention this
 to any one but you.
 
 It is the same with all these new countries and wonderful sights.
@@ -94,16 +94,16 @@ They are very beautiful, and they astonish me, but I am not collected
 enough--not familiar enough with myself, if you can quite understand
 what I mean--to have all the pleasure in them that I might have. What
 I knew before them, blends with them, too, so curiously. For instance,
-when we were among the mountains, I often felt (I hesitate to tell such
+when we were among the [[Mountains|mountains]], I often felt (I hesitate to tell such
 an idle thing, dear Mr Clennam, even to you) as if the Marshalsea must
-be behind that great rock; or as if Mrs Clennam’s room where I have
+be behind that great rock; or as if [[Mrs Clennam]]’s room where I have
 worked so many days, and where I first saw you, must be just beyond that
-snow. Do you remember one night when I came with Maggy to your lodging
-in Covent Garden? That room I have often and often fancied I have seen
+[[Snow|snow]]. Do you remember one [[Night|night]] when I came with Maggy to your lodging
+in Covent [[Garden]]? That room I have often and often fancied I have seen
 before me, travelling along for miles by the side of our carriage, when
-I have looked out of the carriage-window after dark. We were shut out
-that night, and sat at the iron gate, and walked about till morning.
-I often look up at the stars, even from the balcony of this room, and
+I have looked out of the carriage-[[Window|window]] after dark. We were shut out
+that [[Night|night]], and sat at the iron gate, and walked about till morning.
+I often look up at the [[Stars|stars]], even from the balcony of this room, and
 believe that I am in the street again, shut out with Maggy. It is the
 same with people that I left in England.
 
@@ -118,7 +118,7 @@ seem very strange to any one but me, and does even to me: I often feel
 the old sad pity for--I need not write the word--for him. Changed as he
 is, and inexpressibly blest and thankful as I always am to know it, the
 old sorrowful feeling of compassion comes upon me sometimes with such
-strength that I want to put my arms round his neck, tell him how I love
+strength that I want to put my arms round his neck, tell him how I [[Love|love]]
 him, and cry a little on his breast. I should be glad after that, and
 proud and happy. But I know that I must not do this; that he would not
 like it, that Fanny would be angry, that Mrs General would be amazed;
@@ -132,8 +132,8 @@ weak letter would be left out of it. In all these foolish thoughts of
 mine, which I have been so hardy as to confess to you because I know you
 will understand me if anybody can, and will make more allowance for me
 than anybody else would if you cannot--in all these thoughts, there is
-one thought scarcely ever--never--out of my memory, and that is that
-I hope you sometimes, in a quiet moment, have a thought for me. I must
+one thought scarcely ever--never--out of my [[Memory|memory]], and that is that
+I [[Hope|hope]] you sometimes, in a quiet moment, have a thought for me. I must
 tell you that as to this, I have felt, ever since I have been away, an
 anxiety which I am very anxious to relieve. I have been afraid that you
 may think of me in a new light, or a new character. Don’t do that, I
@@ -145,16 +145,16 @@ of me as the daughter of a rich person; that you will never think of me
 as dressing any better, or living any better, than when you first
 knew me. That you will remember me only as the little shabby girl you
 protected with so much tenderness, from whose threadbare dress you have
-kept away the rain, and whose wet feet you have dried at your fire.
+kept away the rain, and whose wet feet you have dried at your [[Fire|fire]].
 That you will think of me (when you think of me at all), and of my true
 affection and devoted gratitude, always without change, as of
 
 
-     Your poor child,
+     Your poor [[Child|child]],
 
      LITTLE DORRIT.
 
 
 P.S.--Particularly remember that you are not to be uneasy about Mrs
-Gowan. Her words were, ‘Very well and very happy.’ And she looked most
+Gowan. Her words were, ‘Very [[Well|well]] and very happy.’ And she looked most
 beautiful.

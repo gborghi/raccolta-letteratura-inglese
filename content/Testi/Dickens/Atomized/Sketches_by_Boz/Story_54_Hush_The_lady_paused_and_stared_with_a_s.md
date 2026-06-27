@@ -15,7 +15,7 @@ tags:
 
 
 I—Hush!’ The lady paused and stared with a steady gaze of horror, on
-the ashy countenance of Mr. Cymon Tuggs. There was a double knock at
+the ashy countenance of Mr. Cymon Tuggs. There was a [[Double|double]] knock at
 the street-door.
 
 ‘It is my husband!’ said Belinda, as the captain’s voice was heard
@@ -25,7 +25,7 @@ below.
 floated up the staircase.
 
 ‘The curtain! The curtain!’ gasped Mrs. Captain Waters, pointing to the
-window, before which some chintz hangings were closely drawn.
+[[Window|window]], before which some chintz hangings were closely drawn.
 
 ‘But I have done nothing wrong,’ said the hesitating Cymon.
 
@@ -37,12 +37,12 @@ Enter the captain, Joseph Tuggs, Mrs. Tuggs, and Charlotta.
 
 ‘My dear,’ said the captain, ‘Lieutenant, Slaughter.’ Two iron-shod
 boots and one gruff voice were heard by Mr. Cymon to advance, and
-acknowledge the honour of the introduction. The sabre of the lieutenant
+acknowledge the [[Honour|honour]] of the introduction. The sabre of the lieutenant
 rattled heavily upon the floor, as he seated himself at the table. Mr.
 Cymon’s fears almost overcame his reason.
 
 ‘The brandy, my dear!’ said the captain. Here was a situation! They
-were going to make a night of it! And Mr. Cymon Tuggs was pent up
+were going to make a [[Night|night]] of it! And Mr. Cymon Tuggs was pent up
 behind the curtain and afraid to breathe!
 
 ‘Slaughter,’ said the captain, ‘a cigar?’
@@ -56,7 +56,7 @@ in heavy wreaths over the room, and at length found its way behind the
 curtain. Cymon Tuggs held his nose, his mouth, his breath. It was all
 of no use—out came the cough.
 
-‘Bless my soul!’ said the captain, ‘I beg your pardon, Miss Tuggs. You
+‘Bless my [[Soul|soul]]!’ said the captain, ‘I beg your pardon, Miss Tuggs. You
 dislike smoking?’
 
 ‘Oh, no; I don’t indeed,’ said Charlotta.
@@ -84,7 +84,7 @@ Cigars resumed—more smoke—another cough—smothered, but violent.
 ‘Sing’ler!’ ejaculated the unconscious Mr. Joseph Tuggs.
 
 Lieutenant Slaughter looked first at one person mysteriously, then at
-another: then, laid down his cigar, then approached the window on
+another: then, laid down his cigar, then approached the [[Window|window]] on
 tiptoe, and pointed with his right thumb over his shoulder, in the
 direction of the curtain.
 
@@ -100,18 +100,18 @@ your sabre!’
 
 ‘Cymon!’ screamed the Tuggses.
 
-‘Mercy!’ said Belinda.
+‘[[Mercy]]!’ said Belinda.
 
 ‘Platonic!’ gasped Cymon.
 
-‘Your sabre!’ roared the captain: ‘Slaughter—unhand me—the villain’s
+‘Your sabre!’ roared the captain: ‘Slaughter—unhand me—the [[Villain|villain]]’s
 life!’
 
 ‘Murder!’ screamed the Tuggses.
 
 ‘Hold him fast, sir!’ faintly articulated Cymon.
 
-‘Water!’ exclaimed Joseph Tuggs—and Mr. Cymon Tuggs and all the ladies
+‘[[Water]]!’ exclaimed Joseph Tuggs—and Mr. Cymon Tuggs and all the ladies
 forthwith fainted away, and formed a tableau.
 
 Most willingly would we conceal the disastrous termination of the six

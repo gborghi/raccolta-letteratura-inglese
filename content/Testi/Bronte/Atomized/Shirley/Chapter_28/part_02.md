@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 2)"
+title: "[[Shirley]] — Chapter 28 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -100,7 +100,7 @@ his head, and wept.
 
 
 
-"This distress is not occasioned by physical pain, you say, Harry? You
+"This distress is not occasioned by physical [[Pain|pain]], you say, Harry? You
 
 have a grief; tell it me."
 
@@ -118,7 +118,7 @@ cause? Whom does it concern?"
 
 
 
-"The cause, sir, is Shirley; it concerns Shirley."
+"The cause, sir, is [[Shirley]]; it concerns [[Shirley]]."
 
 
 
@@ -134,11 +134,11 @@ cause? Whom does it concern?"
 
 might repair in a few weeks; besides, her own word must go for
 
-something: she says she is well."
+something: she says she is [[Well|well]]."
 
 
 
-"There it is, sir. As long as she maintained she was well, I believed
+"There it is, sir. As long as she maintained she was [[Well|well]], I believed
 
 her. When I was sad out of her sight, I soon recovered spirits in her
 
@@ -146,9 +146,9 @@ presence. Now----"
 
 
 
-"Well, Harry, now. Has she said anything to you? You and she were
+"[[Well]], Harry, now. Has she said anything to you? You and she were
 
-together in the garden two hours this morning. I saw her talking, and
+together in the [[Garden|garden]] two hours this morning. I saw her talking, and
 
 you listening. Now, my dear Harry, if Miss Keeldar has said she is ill,
 
@@ -202,11 +202,11 @@ provisions."
 
 "'Because,' she said, looking down on me with her beautiful eyes--oh!
 
-they _are_ beautiful, Mr. Moore! I love them! I love her! She is my
+they _are_ beautiful, Mr. Moore! I [[Love|love]] them! I [[Love|love]] her! She is my
 
 star! Heaven must not claim her! She is lovely in this world, and fitted
 
-for this world. Shirley is not an angel; she is a woman, and she shall
+for this world. [[Shirley]] is not an angel; she is a woman, and she shall
 
 live with men. Seraphs shall not have her! Mr. Moore, if one of the
 
@@ -230,19 +230,19 @@ so, though your father would like it. But you,' she said, 'will have his
 
 whole estate, which is large--larger than Fieldhead. Your sisters will
 
-have nothing; so I have left them some money, though I do not love them,
+have nothing; so I have left them some money, though I do not [[Love|love]] them,
 
-both together, half so much as I love one lock of your fair hair.' She
+both together, half so much as I [[Love|love]] one lock of your fair hair.' She
 
 said these words, and she called me her 'darling,' and let me kiss her.
 
-She went on to tell me that she had left Caroline Helstone some money
+She went on to tell me that she had left [[Caroline Helstone]] some money
 
-too; that this manor house, with its furniture and books, she had
+too; that this manor [[house]], with its furniture and books, she had
 
 bequeathed to me, as she did not choose to take the old family place
 
-from her own blood; and that all the rest of her property, amounting to
+from her own [[Blood|blood]]; and that all the rest of her property, amounting to
 
 about twelve thousand pounds, exclusive of the legacies to my sisters
 
@@ -256,13 +256,13 @@ and merciful--a man that might not profess to be pious, but she knew he
 
 had the secret of religion pure and undefiled before God. The spirit of
 
-love and peace was with him. He visited the fatherless and widows in
+[[Love|love]] and peace was with him. He visited the fatherless and widows in
 
 their affliction, and kept himself unspotted from the world. Then she
 
 asked, 'Do you approve what I have done, Harry?' I could not answer. My
 
-tears choked me, as they do now."
+[[Tears|tears]] choked me, as they do now."
 
 
 
@@ -280,9 +280,9 @@ added, 'in case anything should happen, you will know what to say to
 
 Malice when she comes whispering hard things in your ear, insinuating
 
-that Shirley has wronged you, that she did not love you. You will know
+that [[Shirley]] has wronged you, that she did not [[Love|love]] you. You will know
 
-that I _did_ love you, Harry; that no sister could have loved you
+that I _did_ [[Love|love]] you, Harry; that no sister could have loved you
 
 better--my own treasure.' Mr. Moore, sir, when I remember her voice, and
 

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Desert Island (part 1)"
+title: "ball and [[Cross|cross]] — The [[Desert]] Island (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-XII.  THE DESERT ISLAND
+XII.  THE [[Desert|DESERT]] ISLAND
 
-Those who happen to hold the view (and Mr. Evan MacIan, now alive
-and comfortable, is among the number) that something supernatural,
+Those who happen to hold the view (and Mr. [[Evan MacIan]], now alive
+and comfortable, is among the number) that something [[Supernatural|supernatural]],
 some eccentric kindness from god or fairy had guided our adventurers
 through all their absurd perils, might have found his strongest argument
 perhaps in their management or mismanagement of Mr. Wilkinson's yacht.
@@ -31,11 +31,11 @@ either a boat, a rock, a quicksand, or a man-of-war. Apart from this
 negative description, their voyage would be difficult to describe.
 It took at least a fortnight, and MacIan, who was certainly the shrewder
 sailor of the two, realized that they were sailing west into
-the Atlantic and were probably by this time past the Scilly Isles.
+the Atlantic and were probably by this [[Time|time]] past the Scilly Isles.
 How much farther they stood out into the western sea it was
 impossible to conjecture.  But they felt certain, at least,
 that they were far enough into that awful gulf between us and
-America to make it unlikely that they would soon see land again.
+[[America]] to make it unlikely that they would soon see land again.
 It was therefore with legitimate excitement that one rainy morning
 after daybreak they saw that distinct shape of a solitary island
 standing up against the encircling strip of silver which ran round
@@ -64,7 +64,7 @@ except shoals of shellfish lying so thick as almost to make it
 look like one of those toy grottos that the children make.
 In one place, however, the coast offered a soft, smooth bay of sand,
 and even the rudimentary ingenuity of the two amateur mariners
-managed to run up the little ship with her prow well on shore
+managed to run up the little [[Ship|ship]] with her prow [[Well|well]] on shore
 and her bowsprit pointing upward, as in a sort of idiotic triumph.
 
 They tumbled on shore and began to unload the vessel, setting the stores
@@ -87,7 +87,7 @@ rather bare and the survivor----"
 for potted prawns."
 
 MacIan looked down at the rows of tins and bottles, and the cloud
-of doubt still lowered upon his face.
+of [[Doubt|doubt]] still lowered upon his face.
 
 "You will permit me two liberties, my dear sir," said Turnbull at last:
 "The first is to break open this box and light one of Mr. Wilkinson's
@@ -97,7 +97,7 @@ to convulse the already complex finances of this island by betting
 a penny that I know them."
 
 "What on earth are you talking about?" asked MacIan, listlessly,
-in the manner of an inattentive child.
+in the manner of an inattentive [[Child|child]].
 
 "I know what you are really thinking, MacIan," repeated Turnbull,
 laughing.  "I know what I am thinking, anyhow.  And I rather fancy
@@ -118,12 +118,12 @@ said Turnbull; "and that would be to die feasting like heroes."
 "You see, we are on an almost unknown rock, lost in the Atlantic.
 The police will never catch us; but then neither may the public
 ever hear of us; and that was one of the things we wanted."
-Then, after a pause, he said, drawing in the sand with his sword-point:
+Then, after a pause, he said, drawing in the sand with his [[Sword|sword]]-point:
 "She may never hear of it at all."
 
-"Well?" inquired the other, puffing at his cigar.
+"[[Well]]?" inquired the other, puffing at his cigar.
 
-"Well," said MacIan, "we might occupy a day or two in drawing up
+"[[Well]]," said MacIan, "we might occupy a day or two in drawing up
 a thorough and complete statement of what we did and why we did it,
 and all about both our points of view.  Then we could leave one copy
 on the island whatever happens to us and put another in an empty
@@ -133,11 +133,11 @@ bottle and send it out to sea, as they do in the books."
 
 As MacIan, a tall, almost ghostly figure, paced along the edge of sand
 that ran round the islet, the purple but cloudy poetry which was
-his native element was piled up at its thickest upon his soul.
+his native element was piled up at its thickest upon his [[Soul|soul]].
 The unique island and the endless sea emphasized the thing solely
-as an epic.  There were no ladies or policemen here to give him
-a hint either of its farce or its tragedy.
+as an [[Epic|epic]].  There were no ladies or policemen here to give him
+a hint either of its farce or its [[Tragedy|tragedy]].
 
-"Perhaps when the morning stars were made," he said to himself,
-"God built this island up from the bottom of the world to be a tower
+"Perhaps when the morning [[Stars|stars]] were made," he said to himself,
+"God built this island up from the [[Bottom|bottom]] of the world to be a tower
 and a theatre for the fight between yea and nay."

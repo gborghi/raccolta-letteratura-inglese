@@ -19,15 +19,15 @@ OBSTINATE ORTHODOXY
 I HAVE been asked to explain something about myself which seems
 to be regarded as very extraordinary.  The problem has been
 presented to me in the form of a cutting from a very flattering
-American article, which yet contained a certain suggestion of wonder.
+American article, which yet contained a certain suggestion of [[Wonder|wonder]].
 So far as I can understand, it is thought extraordinary that a man
 should be ordinary.  I am ordinary in the correct sense of the term;
 which means the acceptance of an order; a Creator and the Creation,
-the common sense of gratitude for Creation, life and love as gifts
-permanently good, marriage and chivalry as laws rightly controlling them,
+the common sense of gratitude for Creation, life and [[Love|love]] as gifts
+permanently good, [[Marriage|marriage]] and chivalry as laws rightly controlling them,
 and the rest of the normal traditions of our race and religion.
 It is also thought a little odd that I regard the grass as green,
-even after some newly-discovered Slovak artist has painted it grey;
+even after some newly-discovered Slovak [[artist]] has painted it grey;
 that I think daylight very tolerable in spite of thirteen Lithuanian
 philosophers sitting in a row and cursing the light of day;
 and that, in matters more polemical, I actually prefer weddings
@@ -54,7 +54,7 @@ is all that matters, is in sober fact a piece of pure sentimentalism.
 It is also, within reason, a perfectly natural piece of sentiment.
 All healthy people like to see the young enjoying themselves;
 but if we turn that pleasure into a principle, we are sentimentalists.
-If we desire the greatest happiness of the greatest number,
+If we [[Desire|desire]] the greatest happiness of the greatest number,
 it will be obvious that the greatest number, at any given moment,
 are rather more likely to be between twenty-five and seventy
 than to be between seventeen and twenty-five. Sacrificing
@@ -71,20 +71,20 @@ It is so realistic that the real reasons for it cannot always
 be given in print.
 
 If those called free-thinkers are sentimentalists, those called
-free-lovers are open and obvious sentimentalists.  We can always convict
+free-[[lovers]] are open and obvious sentimentalists.  We can always convict
 such people of sentimentalism by their weakness for euphemism.  The phrase
 they use is always softened and suited for journalistic appeals.
-They talk of free love when they mean something quite different,
+They talk of free [[Love|love]] when they mean something quite different,
 better defined as free lust.  But being sentimentalists they feel
-bound to simper and coo over the word "love." They insist on talking
+bound to simper and coo over the word "[[Love|love]]." They insist on talking
 about Birth Control when they mean less birth and no control.
 We could smash them to atoms, if we could be as indecent
 in our language as they are immoral in their conclusions.
 And as it is with morals, so it is with religion.  The general notion
-that science establishes agnosticism is a sort of mystification produced
+that science establishes agnosticism is a sort of [[Mystification|mystification]] produced
 by talking Latin and Greek instead of plain English.  Science is
 the Latin for knowledge.  Agnosticism is the Greek for ignorance.
-It is not self-evident that ignorance is the goal of knowledge.
+It is not [[Self|self]]-evident that ignorance is the goal of knowledge.
 It is the ignorance and not the knowledge that produces the current
 notion that free thought weakens theism.  It is the real world,
 that we see with our own eyes, that obviously unfolds a plan of things
@@ -93,7 +93,7 @@ ever pretended to explain it by the automatic advantage of the "fit."
 As a fact, modern evolutionists, even when they are still Darwinians,
 do not pretend that the theory explains all varieties and adaptations.
 Those who know are rather rescuing Darwin at the expense of Darwinism.
-But it is those who do not know who doubt or deny; it is
+But it is those who do not know who [[Doubt|doubt]] or deny; it is
 typical that their myth is actually called the Missing Link.
 They actually know nothing of their own argument except that it breaks
 down somewhere.  But it is worth while to ask why this loose legend
@@ -117,8 +117,8 @@ is very modern music; or what some would call very unmusical music.
 The first fact to record about it is that what Carlyle said
 of the world is very specially true of the intellectual world--
 that it is mostly fools.  Indeed, it has a curious attraction
-for complete fools, as a warm fire has for cats.  I have frequently
-visited such societies, in the capacity of a common or normal fool,
+for complete fools, as a warm [[Fire|fire]] has for cats.  I have frequently
+visited such societies, in the capacity of a common or normal [[Fool|fool]],
 and I have almost always found there a few fools who were more
 foolish than I had imagined to be possible to man born of woman;
 people who had hardly enough brains to be called half-witted. But
@@ -126,11 +126,11 @@ it gave them a glow within to be in what they imagined to be the
 atmosphere of intellect; for they worshipped it like an unknown god.
 I could tell many stories of that world.  I remember a venerable man
 with a very long beard who seemed to live at one of these clubs.
-At intervals he would hold up his hand as if for silence and
+At intervals he would hold up his hand as if for [[Silence|silence]] and
 preface his remarks by saying, "A Thought."  And then he would
 say something that sounded as if a cow had suddenly spoken
 in a drawing-room. I remember once a silent and much-enduring man
-(I rather think it was my friend Mr. Edgar Jepson, the novelist)
+(I rather think it was my friend Mr. [[Edgar]] Jepson, the novelist)
 who could bear it no longer and cried with a sort of expiring gasp,
 "But, Good God, man, you don't call that a THOUGHT, do you?"
 But that was pretty much the quality of the thought of such thinkers,

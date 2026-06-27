@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 16 (part 1)"
+title: "[[The Professor]] — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -38,7 +38,7 @@ by my new pupil as degrading; she recoiled from it with a certain proud
 
 impatience. Hereupon I appointed her long lessons, and left her to solve
 
-alone any perplexities they might present. She set to the task with
+[[Alone|alone]] any perplexities they might present. She set to the task with
 
 serious ardour, and having quickly accomplished one labour, eagerly
 
@@ -48,7 +48,7 @@ it evinced itself thus: she liked to learn, but hated to teach; her
 
 progress as a pupil depended upon herself, and I saw that on herself she
 
-could calculate with certainty; her success as a teacher rested partly,
+could calculate with certainty; her [[success]] as a teacher rested partly,
 
 perhaps chiefly, upon the will of others; it cost her a most painful
 
@@ -60,7 +60,7 @@ general the action of her will was impeded by many scruples; it was as
 
 unembarrassed as strong where her own affairs were concerned, and to it
 
-she could at any time subject her inclination, if that inclination went
+she could at any [[Time|time]] subject her inclination, if that inclination went
 
 counter to her convictions of right; yet when called upon to wrestle
 
@@ -68,7 +68,7 @@ with the propensities, the habits, the faults of others, of children
 
 especially, who are deaf to reason, and, for the most part, insensate to
 
-persuasion, her will sometimes almost refused to act; then came in the
+[[Persuasion|persuasion]], her will sometimes almost refused to act; then came in the
 
 sense of duty, and forced the reluctant will into operation. A wasteful
 
@@ -84,7 +84,7 @@ resisting her painful attempts to convince, persuade, control--by
 
 forcing her to the employment of coercive measures--they could
 
-inflict upon her exquisite suffering. Human beings--human children
+inflict upon her exquisite [[Suffering|suffering]]. Human beings--human children
 
 especially--seldom deny themselves the pleasure of exercising a power
 
@@ -100,11 +100,11 @@ instructor, and he will generally use it relentlessly, because the very
 
 young, very healthy, very thoughtless, know neither how to sympathize
 
-nor how to spare. Frances, I fear, suffered much; a continual weight
+nor how to spare. Frances, I [[Fear|fear]], suffered much; a continual weight
 
 seemed to oppress her spirits; I have said she did not live in the
 
-house, and whether in her own abode, wherever that might be, she wore
+[[house]], and whether in her own abode, wherever that might be, she wore
 
 the same preoccupied, unsmiling, sorrowfully resolved air that always
 
@@ -120,13 +120,13 @@ singular affair most of the pupils made of it; brevity was what they
 
 had chiefly studied; the majority of the narratives were perfectly
 
-unintelligible; those of Sylvie and Leonie Ledru alone pretended to
+unintelligible; those of Sylvie and Leonie Ledru [[Alone|alone]] pretended to
 
 anything like sense and connection. Eulalie, indeed, had hit, upon a
 
 clever expedient for at once ensuring accuracy and saving trouble; she
 
-had obtained access somehow to an abridged history of England, and had
+had obtained access somehow to an abridged [[history]] of England, and had
 
 copied the anecdote out fair. I wrote on the margin of her production
 
@@ -140,11 +140,11 @@ sheets, neatly written out and stitched together; I knew the hand, and
 
 scarcely needed the evidence of the signature “Frances Evans Henri” to
 
-confirm my conjecture as to the writer’s identity.
+confirm my conjecture as to the writer’s [[Identity|identity]].
 
 
 
-Night was my usual time for correcting devoirs, and my own room the
+[[Night]] was my usual [[Time|time]] for correcting devoirs, and my own room the
 
 usual scene of such task--task most onerous hitherto; and it seemed
 
@@ -158,9 +158,9 @@ teacher’s manuscript.
 
 “Now,” thought I, “I shall see a glimpse of what she really is; I shall
 
-get an idea of the nature and extent of her powers; not that she can be
+get an idea of the [[Nature|nature]] and extent of her powers; not that she can be
 
-expected to express herself well in a foreign tongue, but still, if she
+expected to express herself [[Well|well]] in a foreign tongue, but still, if she
 
 has any mind, here will be a reflection of it.”
 
@@ -168,13 +168,13 @@ has any mind, here will be a reflection of it.”
 
 The narrative commenced by a description of a Saxon peasant’s hut,
 
-situated within the confines of a great, leafless, winter forest; it
+situated within the confines of a great, leafless, [[Winter|winter]] forest; it
 
-represented an evening in December; flakes of snow were falling, and
+represented an evening in December; flakes of [[Snow|snow]] were falling, and
 
-the herdsman foretold a heavy storm; he summoned his wife to aid him in
+the herdsman foretold a heavy [[Storm|storm]]; he summoned his wife to aid him in
 
-collecting their flock, roaming far away on the pastoral banks of the
+collecting their flock, roaming far away on the [[Pastoral|pastoral]] banks of the
 
 Thone; he warns her that it will be late ere they return. The good woman
 
@@ -190,11 +190,11 @@ mind the bread till her return.
 
 
 
-“Take care, young man,” she continues, “that you fasten the door well
+“Take care, young man,” she continues, “that you fasten the door [[Well|well]]
 
 after us; and, above all, open to none in our absence; whatever sound
 
-you hear, stir not, and look not out. The night will soon fall; this
+you hear, stir not, and look not out. The [[Night|night]] will soon fall; this
 
 forest is most wild and lonely; strange noises are often heard therein
 
@@ -202,4 +202,4 @@ after sunset; wolves haunt these glades, and Danish warriors infest the
 
 country; worse things are talked of; you might chance to hear, as it
 
-were, a child cry, and on opening the door to afford it succour, a great
+were, a [[Child|child]] cry, and on opening the door to afford it succour, a great

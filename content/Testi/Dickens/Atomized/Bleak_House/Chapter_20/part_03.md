@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 20 (part 3)"
+title: "Bleak [[house|House]] — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,15 +37,15 @@ Mr. Smallweed is decidedly of opinion “much more so.”
 
 “If any man had told me,” pursues Jobling, “even so lately as when
 you and I had the frisk down in Lincolnshire, Guppy, and drove over
-to see that house at Castle Wold—”
+to see that [[house]] at [[Castle]] Wold—”
 
 Mr. Smallweed corrects him—Chesney Wold.
 
 “Chesney Wold. (I thank my honourable friend for that cheer.) If any
-man had told me then that I should be as hard up at the present time
-as I literally find myself, I should have—well, I should have
-pitched into him,” says Mr. Jobling, taking a little rum-and-water
-with an air of desperate resignation; “I should have let fly at his
+man had told me then that I should be as hard up at the present [[Time|time]]
+as I literally find myself, I should have—[[Well|well]], I should have
+pitched into him,” says Mr. Jobling, taking a little rum-and-[[Water|water]]
+with an air of desperate [[Resignation|resignation]]; “I should have let fly at his
 head.”
 
 “Still, Tony, you were on the wrong side of the post then,”
@@ -69,14 +69,14 @@ new professional connexion too, for if I was to give a reference
 to-morrow, it would be mentioned and would sew me up. Then what’s a
 fellow to do? I have been keeping out of the way and living cheap
 down about the market-gardens, but what’s the use of living cheap
-when you have got no money? You might as well live dear.”
+when you have got no money? You might as [[Well|well]] live dear.”
 
 “Better,” Mr. Smallweed thinks.
 
 “Certainly. It’s the fashionable way; and fashion and whiskers have
 been my weaknesses, and I don’t care who knows it,” says Mr. Jobling.
-“They are great weaknesses—Damme, sir, they are great. Well,”
-proceeds Mr. Jobling after a defiant visit to his rum-and-water,
+“They are great weaknesses—Damme, sir, they are great. [[Well]],”
+proceeds Mr. Jobling after a defiant visit to his rum-and-[[Water|water]],
 “what can a fellow do, I ask you, BUT enlist?”
 
 Mr. Guppy comes more fully into the conversation to state what, in
@@ -104,11 +104,11 @@ of proposing. You know Snagsby the stationer?”
 ours, and I am not acquainted with him.”
 
 “He IS ours, Jobling, and I AM acquainted with him,” Mr. Guppy
-retorts. “Well, sir! I have lately become better acquainted with him
+retorts. “[[Well]], sir! I have lately become better acquainted with him
 through some accidental circumstances that have made me a visitor of
 his in private life. Those circumstances it is not necessary to offer
 in argument. They may—or they may not—have some reference to a
-subject which may—or may not—have cast its shadow on my existence.”
+subject which may—or may not—have cast its [[Shadow|shadow]] on my existence.”
 
 As it is Mr. Guppy’s perplexing way with boastful misery to tempt his
 particular friends into this subject, and the moment they touch it,
@@ -128,7 +128,7 @@ Mr. Smallweed nods and appears greedy to be sworn.
 “Now, gentlemen of the jury,” says Mr. Guppy, “—I mean, now,
 Jobling—you may say this is a poor prospect of a living. Granted.
 But it’s better than nothing, and better than enlistment. You want
-time. There must be time for these late affairs to blow over. You
+[[Time|time]]. There must be [[Time|time]] for these late affairs to blow over. You
 might live through it on much worse terms than by writing for
 Snagsby.”
 
@@ -138,24 +138,24 @@ him with a dry cough and the words, “Hem! Shakspeare!”
 “There are two branches to this subject, Jobling,” says Mr. Guppy.
 “That is the first. I come to the second. You know Krook, the
 Chancellor, across the lane. Come, Jobling,” says Mr. Guppy in his
-encouraging cross-examination-tone, “I think you know Krook, the
+encouraging [[Cross|cross]]-examination-tone, “I think you know Krook, the
 Chancellor, across the lane?”
 
 “I know him by sight,” says Mr. Jobling.
 
-“You know him by sight. Very well. And you know little Flite?”
+“You know him by sight. Very [[Well|well]]. And you know little Flite?”
 
 “Everybody knows her,” says Mr. Jobling.
 
-“Everybody knows her. VERY well. Now it has been one of my duties of
+“Everybody knows her. VERY [[Well|well]]. Now it has been one of my duties of
 late to pay Flite a certain weekly allowance, deducting from it the
 amount of her weekly rent, which I have paid (in consequence of
 instructions I have received) to Krook himself, regularly in her
 presence. This has brought me into communication with Krook and into
-a knowledge of his house and his habits. I know he has a room to let.
+a knowledge of his [[house]] and his habits. I know he has a room to let.
 You may live there at a very low charge under any name you like, as
 quietly as if you were a hundred miles off. He’ll ask no questions
-and would accept you as a tenant at a word from me—before the clock
+and would accept you as a tenant at a word from me—before the [[Clock|clock]]
 strikes, if you chose. And I tell you another thing, Jobling,” says
 Mr. Guppy, who has suddenly lowered his voice and become familiar
 again, “he’s an extraordinary old chap—always rummaging among a

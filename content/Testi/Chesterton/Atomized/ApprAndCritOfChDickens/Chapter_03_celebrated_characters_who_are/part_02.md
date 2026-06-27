@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 2)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -24,9 +24,9 @@ intellect. There is a dark kinship and brotherhood of all mankind which
 
 is much too deep to be called heredity or to be in any way explained in
 
-scientific formulæ; blood is thicker than water and is especially very
+scientific formulæ; [[Blood|blood]] is thicker than [[Water|water]] and is especially very
 
-much thicker than water on the brain. But this unconscious and even
+much thicker than [[Water|water]] on the brain. But this unconscious and even
 
 automatic quality in Dickens's defence of the Christmas feast, this fact
 
@@ -40,9 +40,9 @@ subject itself. We must not ask Dickens what Christmas is, for with all
 
 his heat and eloquence he does not know. Rather we must ask Christmas
 
-what Dickens is--ask how this strange child of Christmas came to be born
+what Dickens is--ask how this strange [[Child|child]] of Christmas came to be born
 
-out of due time.
+out of due [[Time|time]].
 
 
 
@@ -60,11 +60,11 @@ habitual, has something about it which renders artistic description
 
 almost impossible. There are twenty tiny minor poets who can describe
 
-fairly impressively an eternity of agony; there are very few even of the
+fairly impressively an [[Eternity|eternity]] of agony; there are very few even of the
 
 eternal poets who can describe ten minutes of satisfaction.
 
-Nevertheless, mankind being half divine is always in love with the
+Nevertheless, mankind being half divine is always in [[Love|love]] with the
 
 impossible, and numberless attempts have been made from the beginning of
 
@@ -72,11 +72,11 @@ human literature to describe a real state of felicity. Upon the whole, I
 
 think, the most successful have been the most frankly physical and
 
-symbolic; the flowers of Eden or the jewels of the New Jerusalem. Many
+symbolic; the [[Flowers|flowers]] of Eden or the jewels of the New Jerusalem. Many
 
 writers, for instance, have called the gold and chrysolite of the Holy
 
-City a vulgar lump of jewellery. But when these critics themselves
+[[City]] a vulgar lump of jewellery. But when these critics themselves
 
 attempt to describe their conceptions of future happiness, it is always
 
@@ -86,19 +86,19 @@ some priggish nonsense about "planes," about "cycles of fulfilment," or
 
 metaphor as a flower of Eden; a spiral is just as much a physical
 
-metaphor as a precious stone. But, after all, a garden is a beautiful
+metaphor as a precious stone. But, after all, a [[Garden|garden]] is a beautiful
 
 thing; whereas this is by no means necessarily true of a cycle, as can
 
-be seen in the case of a bicycle. A jewel, after all, is a beautiful
+be seen in the case of a bicycle. A [[Jewel|jewel]], after all, is a beautiful
 
 thing; but this is not necessarily so of a spiral, as can be seen in the
 
 case of a corkscrew. Nothing is gained by dropping the old material
 
-metaphors, which did hint at heavenly beauty, and adopting other
+metaphors, which did hint at heavenly [[Beauty|beauty]], and adopting other
 
-material metaphors which do not even give a hint of earthly beauty. This
+material metaphors which do not even give a hint of earthly [[Beauty|beauty]]. This
 
 modern or spiral method of describing indescribable happiness may, I
 
@@ -106,7 +106,7 @@ think, be dismissed. Then there has been another method which has been
 
 adopted by many men of a very real poetical genius. It was the method of
 
-the old pastoral poets like Theocritus. It was in another way that
+the old [[Pastoral|pastoral]] poets like Theocritus. It was in another way that
 
 adopted by the elegance and piety of Spenser. It was certainly expressed
 
@@ -122,7 +122,7 @@ the atmosphere of a commonwealth, the enduring climate of certain cities
 
 or islands. They poured forth treasures of the truest kind of
 
-imagination upon describing the happy lives and landscapes of Utopia or
+[[Imagination|imagination]] upon describing the happy lives and landscapes of Utopia or
 
 Atlantis or the Earthly Paradise. They traced with the most tender
 
@@ -132,7 +132,7 @@ its women; they used every ingenuity of colour or intricate shape to
 
 suggest its infinite delight. And what they succeeded in suggesting was
 
-always its infinite melancholy. William Morris described the Earthly
+always its infinite [[Melancholy|melancholy]]. William Morris described the Earthly
 
 Paradise in such a way that the only strong emotional note left on the
 
@@ -140,7 +140,7 @@ mind was the feeling of how homeless his travellers felt in that alien
 
 Elysium; and the reader sympathised with them, feeling that he would
 
-prefer not only Elizabethan England but even twentieth-century
+prefer not only [[Elizabethan England]] but even twentieth-century
 
 Camberwell to such a land of shining shadows. Thus literature has almost
 
@@ -186,10 +186,10 @@ The first quality is what may be called the dramatic quality. The
 
 happiness is not a state; it is a crisis. All the old customs
 
-surrounding the celebration of the birth of Christ are made by human
+surrounding the celebration of the birth of [[Christ]] are made by human
 
 instinct so as to insist and re-insist upon this crucial quality.
 
 Everything is so arranged that the whole household may feel, if
 
-possible, as a household does when a child is actually being born in it.
+possible, as a household does when a [[Child|child]] is actually being born in it.

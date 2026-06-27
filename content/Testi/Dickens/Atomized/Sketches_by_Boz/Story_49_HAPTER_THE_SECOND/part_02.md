@@ -19,13 +19,13 @@ worse than I am.’
 
 ‘Oh, yes!’ replied Mrs. Tibbs;—‘certainly.’ She said this with great
 confidence, for the damson pelisse suggested that Mrs. Bloss, at all
-events, was not suffering under Mr. Gobler’s complaint.
+events, was not [[Suffering|suffering]] under Mr. Gobler’s complaint.
 
-‘You have quite incited my curiosity,’ said Mrs. Bloss, as she rose to
+‘You have quite incited my curiosity,’ said Mrs. Bloss, as she [[Rose|rose]] to
 depart. ‘How I long to see him!’
 
 ‘He generally comes down, once a week,’ replied Mrs. Tibbs; ‘I dare say
-you’ll see him on Sunday.’ With this consolatory promise Mrs. Bloss was
+you’ll see him on [[Sunday]].’ With this consolatory promise Mrs. Bloss was
 obliged to be contented. She accordingly walked slowly down the stairs,
 detailing her complaints all the way; and Mrs. Tibbs followed her,
 uttering an exclamation of compassion at every step. James (who looked
@@ -53,7 +53,7 @@ halfpenny.
 The relict and sole executrix of this noble-minded man was an odd
 mixture of shrewdness and simplicity, liberality and meanness. Bred up
 as she had been, she knew no mode of living so agreeable as a
-boarding-house: and having nothing to do, and nothing to wish for, she
+boarding-[[house]]: and having nothing to do, and nothing to wish for, she
 naturally imagined she must be ill—an impression which was most
 assiduously promoted by her medical attendant, Dr. Wosky, and her
 handmaid Agnes: both of whom, doubtless for good reasons, encouraged
@@ -68,9 +68,9 @@ indifference, and Mrs. Tibbs devoted all her energies to prepare for
 the reception of the valetudinarian. The second-floor front was
 scrubbed, and washed, and flannelled, till the wet went through to the
 drawing-room ceiling. Clean white counterpanes, and curtains, and
-napkins, water-bottles as clear as crystal, blue jugs, and mahogany
+napkins, [[Water|water]]-bottles as clear as crystal, blue jugs, and mahogany
 furniture, added to the splendour, and increased the comfort, of the
-apartment. The warming-pan was in constant requisition, and a fire
+apartment. The warming-pan was in constant requisition, and a [[Fire|fire]]
 lighted in the room every day. The chattels of Mrs. Bloss were
 forwarded by instalments. First, there came a large hamper of
 Guinness’s stout, and an umbrella; then, a train of trunks; then, a
@@ -81,19 +81,19 @@ dress, open-work stockings, and shoes with sandals: like a disguised
 Columbine.
 
 The installation of the Duke of Wellington, as Chancellor of the
-University of Oxford, was nothing, in point of bustle and turmoil, to
+University of [[Oxford]], was nothing, in point of bustle and turmoil, to
 the installation of Mrs. Bloss in her new quarters. True, there was no
 bright doctor of civil law to deliver a classical address on the
 occasion; but there were several other old women present, who spoke
-quite as much to the purpose, and understood themselves equally well.
+quite as much to the purpose, and understood themselves equally [[Well|well]].
 The chop-eater was so fatigued with the process of removal that she
 declined leaving her room until the following morning; so a
 mutton-chop, pickle, a pill, a pint bottle of stout, and other
 medicines, were carried up-stairs for her consumption.
 
 ‘Why, what _do_ you think, ma’am?’ inquired the inquisitive Agnes of
-her mistress, after they had been in the house some three hours; ‘what
-_do_ you think, ma’am? the lady of the house is married.’
+her mistress, after they had been in the [[house]] some three hours; ‘what
+_do_ you think, ma’am? the lady of the [[house]] is married.’
 
 ‘Married!’ said Mrs. Bloss, taking the pill and a draught of
 Guinness—‘married! Unpossible!’
@@ -112,9 +112,9 @@ of the way, who used to live here—“Ah! Mr. Calton, sir, how are you?”’
 Here the attendant laughed till Mrs. Bloss was in serious apprehension
 of her chuckling herself into a fit.
 
-‘Well, I never!’ said Mrs. Bloss.
+‘[[Well]], I never!’ said Mrs. Bloss.
 
-‘Yes. And please, ma’am, the servants gives him gin-and-water
+‘Yes. And please, ma’am, the servants gives him gin-and-[[Water|water]]
 sometimes; and then he cries, and says he hates his wife and the
 boarders, and wants to tickle them.’
 

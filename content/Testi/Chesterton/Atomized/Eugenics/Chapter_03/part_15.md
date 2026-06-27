@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 15)"
+title: "[[Eugenics]] — Part 2 (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -15,33 +15,33 @@ tags:
 
 
 So passed, to all appearance, from the minds of men the strange
-dream and fantasy called freedom.  Whatever be the future of
+dream and fantasy called [[Freedom|freedom]].  Whatever be the future of
 these evolutionary experiments and their effect on civilization,
 there is one land at least that has something to mourn.
 For us in England something will have perished which our fathers
 valued all the more because they hardly troubled to name it;
-and whatever be the stars of a more universal destiny, the great
-star of our night has set.  The English had missed many other
+and whatever be the [[Stars|stars]] of a more universal destiny, the great
+star of our [[Night|night]] has set.  The English had missed many other
 things that men of the same origins had achieved or retained.
 Not to them was given, like the French, to establish eternal communes
 and clear codes of equality; not to them, like the South Germans,
-to keep the popular culture of their songs; not to them,
+to keep the popular culture of their [[songs]]; not to them,
 like the Irish, was it given to die daily for a great religion.
 But a spirit had been with them from the first which fenced,
 with a hundred quaint customs and legal fictions, the way of a man
-who wished to walk nameless and alone.  It was not for nothing
+who wished to walk nameless and [[Alone|alone]].  It was not for nothing
 that they forgot all their laws to remember the name of an outlaw,
-and filled the green heart of England with the figure of Robin Hood.
+and filled the green heart of England with the figure of [[Robin Hood]].
 It was not for nothing that even their princes of art and letters
 had about them something of kings incognito, undiscovered by formal
 or academic fame; so that no eye can follow the young Shakespeare
 as he came up the green lanes from Stratford, or the young
-Dickens when he first lost himself among the lights of London.
+Dickens when he first lost himself among the lights of [[London]].
 It is [not] for nothing that the very roads are crooked and capricious,
 so that a man looking down on a map like a snaky labyrinth,
-could tell that he was looking on the home of a wandering people.
+could tell that he was looking on the [[Home|home]] of a wandering people.
 A spirit at once wild and familiar rested upon its woodlands
-like a wind at rest.  If that spirit be indeed departed,
+like a [[Wind|wind]] at rest.  If that spirit be indeed departed,
 it matters little that it has been driven out by perversions
 it had itself permitted, by monsters it had idly let loose.
 Industrialism and Capitalism and the rage for physical science were
@@ -50,7 +50,7 @@ to their encouragement; but there was something else behind
 them and within them that was not they --- its name was liberty,
 and it was our life.  It may be that this delicate and tenacious
 spirit has at last evaporated.  If so, it matters little what
-becomes of the external experiments of our nation in later time.
+becomes of the external experiments of our nation in later [[Time|time]].
 That at which we look will be a dead thing alive with its own parasites.
 The English will have destroyed England.
 
@@ -63,7 +63,7 @@ THE TRANSFORMATION OF SOCIALISM
 Socialism is one of the simplest ideas in the world.
 It has always puzzled me how there came to be so much bewilderment
 and misunderstanding and miserable mutual slander about it.
-At one time I agreed with Socialism, because it was simple.
+At one [[Time|time]] I agreed with Socialism, because it was simple.
 Now I disagree with Socialism, because it is too simple.
 Yet most of its opponents still seem to treat it, not merely
 as an iniquity but as a mystery of iniquity, which seems to
@@ -73,10 +73,10 @@ It may appear more curious and interesting that its admirers are
 equally puzzled.  Its foes used to denounce Socialism as Anarchy,
 which is its opposite.  Its friends seemed to suppose that it
 is a sort of optimism, which is almost as much of an opposite.
-Friends and foes alike talked as if it involved a sort of faith in
-ideal human nature; why I could never imagine.  The Socialist system,
+Friends and foes alike talked as if it involved a sort of [[Faith|faith]] in
+ideal human [[Nature|nature]]; why I could never imagine.  The Socialist system,
 in a more special sense than any other, is founded not on optimism
-but on original sin.  It proposes that the State, as the conscience
+but on [[Original Sin|original sin]].  It proposes that the State, as the [[Conscience|conscience]]
 of the community, should possess all primary forms of property;
 and that obviously on the ground that men cannot be trusted to own
 or barter or combine or compete without injury to themselves.
@@ -90,28 +90,28 @@ almost incredible that anybody ever thought it optimistic.
 I am myself primarily opposed to Socialism, or Collectivism
 or Bolshevism or whatever we call it, for a primary reason
 not immediately involved here:  the ideal of property.
-I say the ideal and not merely the idea; and this alone disposes
+I say the ideal and not merely the idea; and this [[Alone|alone]] disposes
 of the moral mistake in the matter.  It disposes of all the dreary
 doubts of the Anti-Socialists about men not yet being angels,
 and all the yet drearier hopes of the Socialists about men soon
 being supermen.  I do not admit that private property is a concession
-to baseness and selfishness; I think it is a point of honour.
-I think it is the most truly popular of all points of honour.
+to baseness and selfishness; I think it is a point of [[Honour|honour]].
+I think it is the most truly popular of all points of [[Honour|honour]].
 But this, though it has everything to do with my plea for a
 domestic dignity, has nothing to do with this passing summary of
 the situation of Socialism.  I only remark in passing that it is vain
 for the more vulgar sort of Capitalists, sneering at ideals, to say
-to me that in order to hate Socialism "You must alter human nature."
+to me that in order to hate Socialism "You must alter human [[Nature|nature]]."
 I answer "Yes. You must alter it for the worse."
 
 The clouds were considerably cleared away from the meaning of
-Socialism by the Fabians of the 'nineties; by Mr. Bernard Shaw,
+Socialism by the Fabians of the 'nineties; by Mr. Bernard [[Shaw]],
 a sort of anti-romantic Quixote, who charged chivalry as chivalry
 charged windmills, with Sidney Webb for his Sancho Panza.
-In so far as these paladins had a castle to defend, we may say
-that their castle was the Post Office.  The red pillar-box was
+In so far as these paladins had a [[Castle|castle]] to defend, we may say
+that their [[Castle|castle]] was the Post Office.  The red pillar-box was
 the immovable post against which the irresistible force of Capitalist
-individualism was arrested.  Business men who said that nothing
+[[Individualism|individualism]] was arrested.  Business men who said that nothing
 could be managed by the State were forced to admit that they trusted
 all their business letters and business telegrams to the State.
 
@@ -130,5 +130,5 @@ could be given to the Post-Master-General and the postman.
 We had only to extend this rule of public responsibility,
 and we should escape from all the terror of insecurity and torture
 of compassion, which hag-rides humanity in the insane extremes
-of economic inequality and injustice.  As Mr. Shaw put it, "A man
-must save Society's honour before he can save his own."
+of economic inequality and injustice.  As Mr. [[Shaw]] put it, "A man
+must save Society's [[Honour|honour]] before he can save his own."

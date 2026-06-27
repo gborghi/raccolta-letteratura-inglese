@@ -22,7 +22,7 @@ had just brought her chin to a level with the passage-floor. ‘The
 gentleman’s in the coffee-room.’
 
 ‘Up-stairs, sir,’ said the boy, just opening the door wide enough to
-let Parsons in without squeezing him, and double-locking it the moment
+let Parsons in without squeezing him, and [[Double|double]]-locking it the moment
 he had made his way through the aperture—‘First floor—door on the
 left.’
 
@@ -36,17 +36,17 @@ object of his visit had just gone up-stairs to write a letter, he had
 leisure to sit down and observe the scene before him.
 
 The room—which was a small, confined den—was partitioned off into
-boxes, like the common-room of some inferior eating-house. The dirty
+boxes, like the common-room of some inferior eating-[[house]]. The dirty
 floor had evidently been as long a stranger to the scrubbing-brush as
 to carpet or floor-cloth: and the ceiling was completely blackened by
-the flare of the oil-lamp by which the room was lighted at night. The
+the flare of the oil-lamp by which the room was lighted at [[Night|night]]. The
 gray ashes on the edges of the tables, and the cigar ends which were
 plentifully scattered about the dusty grate, fully accounted for the
 intolerable smell of tobacco which pervaded the place; and the empty
 glasses and half-saturated slices of lemon on the tables, together with
 the porter pots beneath them, bore testimony to the frequent libations
 in which the individuals who honoured Mr. Solomon Jacobs by a temporary
-residence in his house indulged. Over the mantel-shelf was a paltry
+residence in his [[house]] indulged. Over the mantel-shelf was a paltry
 looking-glass, extending about half the width of the chimney-piece; but
 by way of counterpoise, the ashes were confined by a rusty fender about
 twice as long as the hearth.
@@ -77,12 +77,12 @@ lighting a pipe, and addressing his adversary at the close of the game;
 ‘one ’ud think you’d got luck in a pepper-cruet, and shook it out when
 you wanted it.’
 
-‘Well, that a’n’t a bad un,’ replied the other, who was a horse-dealer
+‘[[Well]], that a’n’t a bad un,’ replied the other, who was a [[Horse|horse]]-dealer
 from Islington.
 
 ‘No; I’m blessed if it is,’ interposed the jolly-looking fellow, who,
 having finished his dinner, was drinking out of the same glass as his
-wife, in truly conjugal harmony, some hot gin-and-water. The faithful
+wife, in truly conjugal harmony, some hot gin-and-[[Water|water]]. The faithful
 partner of his cares had brought a plentiful supply of the
 anti-temperance fluid in a large flat stone bottle, which looked like a
 half-gallon jar that had been successfully tapped for the dropsy.
@@ -92,7 +92,7 @@ this, sir?’
 ‘Thank’ee, sir,’ replied Mr. Walker, leaving his box, and advancing to
 the other to accept the proffered glass. ‘Here’s your health, sir, and
 your good ’ooman’s here. Gentlemen all—yours, and better luck still.
-Well, Mr. Willis,’ continued the facetious prisoner, addressing the
+[[Well]], Mr. Willis,’ continued the facetious prisoner, addressing the
 young man with the cigar, ‘you seem rather down to-day—floored, as one
 may say. What’s the matter, sir? Never say die, you know.’
 
@@ -111,20 +111,20 @@ winking to the company. ‘Not that you’re exactly obliged to stop here,
 only you can’t help it. No compulsion, you know, only you must—eh?’
 
 ‘A’n’t he a rum un?’ inquired the delighted individual, who had offered
-the gin-and-water, of his wife.
+the gin-and-[[Water|water]], of his wife.
 
 ‘Oh, he just is!’ replied the lady, who was quite overcome by these
-flashes of imagination.
+flashes of [[Imagination|imagination]].
 
 ‘Why, my case,’ frowned the victim, throwing the end of his cigar into
-the fire, and illustrating his argument by knocking the bottom of the
+the [[Fire|fire]], and illustrating his argument by knocking the [[Bottom|bottom]] of the
 pot on the table, at intervals,—‘my case is a very singular one. My
 father’s a man of large property, and I am his son.’
 
 ‘That’s a very strange circumstance!’ interrupted the jocose Mr.
 Walker, _en passant_.
 
-‘—I am his son, and have received a liberal education. I don’t owe no
+‘—I am his son, and have received a liberal [[Education|education]]. I don’t owe no
 man nothing—not the value of a farthing, but I was induced, you see, to
 put my name to some bills for a friend—bills to a large amount, I may
 say a very large amount, for which I didn’t receive no consideration.

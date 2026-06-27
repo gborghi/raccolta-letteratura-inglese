@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 3 (part 2)"
+title: "[[Mansfield Park]] — Chapter 3 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -21,7 +21,7 @@ tags:
 “Everything. My situation, my foolishness and awkwardness.”
 
 “As to your foolishness and awkwardness, my dear Fanny, believe me, you
-never have a shadow of either, but in using the words so improperly.
+never have a [[Shadow|shadow]] of either, but in using the words so improperly.
 There is no reason in the world why you should not be important where
 you are known. You have good sense, and a sweet temper, and I am sure
 you have a grateful heart, that could never receive kindness without
@@ -29,12 +29,12 @@ wishing to return it. I do not know any better qualifications for a
 friend and companion.”
 
 “You are too kind,” said Fanny, colouring at such praise; “how shall I
-ever thank you as I ought, for thinking so well of me. Oh! cousin, if I
+ever thank you as I ought, for thinking so [[Well|well]] of me. Oh! cousin, if I
 am to go away, I shall remember your goodness to the last moment of my
 life.”
 
-“Why, indeed, Fanny, I should hope to be remembered at such a distance
-as the White House. You speak as if you were going two hundred miles
+“Why, indeed, Fanny, I should [[Hope|hope]] to be remembered at such a distance
+as the White [[house|House]]. You speak as if you were going two hundred miles
 off instead of only across the park; but you will belong to us almost
 as much as ever. The two families will be meeting every day in the
 year. The only difference will be that, living with your aunt, you will
@@ -53,14 +53,14 @@ Fanny sighed, and said, “I cannot see things as you do; but I ought to
 believe you to be right rather than myself, and I am very much obliged
 to you for trying to reconcile me to what must be. If I could suppose
 my aunt really to care for me, it would be delightful to feel myself of
-consequence to anybody. _Here_, I know, I am of none, and yet I love
-the place so well.”
+consequence to anybody. _Here_, I know, I am of none, and yet I [[Love|love]]
+the place so [[Well|well]].”
 
 “The place, Fanny, is what you will not quit, though you quit the
-house. You will have as free a command of the park and gardens as ever.
+[[house]]. You will have as free a command of the park and gardens as ever.
 Even _your_ constant little heart need not take fright at such a
 nominal change. You will have the same walks to frequent, the same
-library to choose from, the same people to look at, the same horse to
+library to choose from, the same people to look at, the same [[Horse|horse]] to
 ride.”
 
 “Very true. Yes, dear old grey pony! Ah! cousin, when I remember how
@@ -69,32 +69,32 @@ of as likely to do me good (oh! how I have trembled at my uncle’s
 opening his lips if horses were talked of), and then think of the kind
 pains you took to reason and persuade me out of my fears, and convince
 me that I should like it after a little while, and feel how right you
-proved to be, I am inclined to hope you may always prophesy as well.”
+proved to be, I am inclined to [[Hope|hope]] you may always prophesy as [[Well|well]].”
 
 “And I am quite convinced that your being with Mrs. Norris will be as
 good for your mind as riding has been for your health, and as much for
 your ultimate happiness too.”
 
 So ended their discourse, which, for any very appropriate service it
-could render Fanny, might as well have been spared, for Mrs. Norris had
+could render Fanny, might as [[Well|well]] have been spared, for Mrs. Norris had
 not the smallest intention of taking her. It had never occurred to her,
 on the present occasion, but as a thing to be carefully avoided. To
 prevent its being expected, she had fixed on the smallest habitation
 which could rank as genteel among the buildings of Mansfield parish,
-the White House being only just large enough to receive herself and her
+the White [[house|House]] being only just large enough to receive herself and her
 servants, and allow a spare room for a friend, of which she made a very
 particular point. The spare rooms at the Parsonage had never been
 wanted, but the absolute necessity of a spare room for a friend was now
 never forgotten. Not all her precautions, however, could save her from
 being suspected of something better; or, perhaps, her very display of
 the importance of a spare room might have misled Sir Thomas to suppose
-it really intended for Fanny. Lady Bertram soon brought the matter to a
+it really intended for Fanny. Lady [[Bertram]] soon brought the matter to a
 certainty by carelessly observing to Mrs. Norris—
 
 “I think, sister, we need not keep Miss Lee any longer, when Fanny goes
 to live with you.”
 
-Mrs. Norris almost started. “Live with me, dear Lady Bertram! what do
+Mrs. Norris almost started. “Live with me, dear Lady [[Bertram]]! what do
 you mean?”
 
 “Is she not to live with you? I thought you had settled it with Sir
@@ -105,10 +105,10 @@ me. Fanny live with me! the last thing in the world for me to think of,
 or for anybody to wish that really knows us both. Good heaven! what
 could I do with Fanny? Me! a poor, helpless, forlorn widow, unfit for
 anything, my spirits quite broke down; what could I do with a girl at
-her time of life? A girl of fifteen! the very age of all others to need
+her [[Time|time]] of life? A girl of fifteen! the very age of all others to need
 most attention and care, and put the cheerfullest spirits to the test!
 Sure Sir Thomas could not seriously expect such a thing! Sir Thomas is
-too much my friend. Nobody that wishes me well, I am sure, would
+too much my friend. Nobody that wishes me [[Well|well]], I am sure, would
 propose it. How came Sir Thomas to speak to you about it?”
 
 “Indeed, I do not know. I suppose he thought it best.”
@@ -125,8 +125,8 @@ comfort to me? Here am I, a poor desolate widow, deprived of the best
 of husbands, my health gone in attending and nursing him, my spirits
 still worse, all my peace in this world destroyed, with hardly enough
 to support me in the rank of a gentlewoman, and enable me to live so as
-not to disgrace the memory of the dear departed—what possible comfort
+not to disgrace the [[Memory|memory]] of the dear departed—what possible comfort
 could I have in taking such a charge upon me as Fanny? If I could wish
 it for my own sake, I would not do so unjust a thing by the poor girl.
-She is in good hands, and sure of doing well. I must struggle through
+She is in good hands, and sure of doing [[Well|well]]. I must struggle through
 my sorrows and difficulties as I can.”

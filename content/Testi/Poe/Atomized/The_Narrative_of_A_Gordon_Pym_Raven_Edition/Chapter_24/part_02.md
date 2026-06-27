@@ -16,7 +16,7 @@ tags:
 
       face. But now there came a spinning of the brain; a
 
-      shrill-sounding and phantom voice screamed within my ears; a
+      shrill-sounding and [[Phantom|phantom]] voice screamed within my ears; a
 
       dusky, fiendish, and filmy figure stood immediately beneath me;
 
@@ -28,11 +28,11 @@ tags:
 
       I had swooned, and Peters had caught me as I fell. He had
 
-      observed my proceedings from his station at the bottom of the
+      observed my proceedings from his station at the [[Bottom|bottom]] of the
 
       cliff; and perceiving my imminent danger, had endeavored to
 
-      inspire me with courage by every suggestion he could devise;
+      inspire me with [[Courage|courage]] by every suggestion he could devise;
 
       although my confusion of mind had been so great as to prevent my
 
@@ -40,7 +40,7 @@ tags:
 
       to me at all. At length, seeing me totter, he hastened to ascend
 
-      to my rescue, and arrived just in time for my preservation. Had I
+      to my rescue, and arrived just in [[Time|time]] for my preservation. Had I
 
       fallen with my full weight, the rope of linen would inevitably
 
@@ -54,7 +54,7 @@ tags:
 
       vanished; I felt a new being, and, with some little further aid
 
-      from my companion, reached the bottom also in safety.
+      from my companion, reached the [[Bottom|bottom]] also in safety.
 
 
 
@@ -62,7 +62,7 @@ tags:
 
       the tomb of our friends, and to the southward of the spot where
 
-      the hill had fallen. The place was one of singular wildness, and
+      the [[Hill|hill]] had fallen. The place was one of singular wildness, and
 
       its aspect brought to my mind the descriptions given by
 
@@ -96,7 +96,7 @@ tags:
 
       catching turtle, several of which we had observed from our place
 
-      of concealment on the hill. We had proceeded some hundred yards,
+      of concealment on the [[Hill|hill]]. We had proceeded some hundred yards,
 
       threading our route cautiously between the huge rocks and tumuli,
 
@@ -106,7 +106,7 @@ tags:
 
       club. As he fell the whole party rushed upon him to secure their
 
-      victim, leaving me time to recover from my astonishment. I still
+      victim, leaving me [[Time|time]] to recover from my astonishment. I still
 
       had the musket, but the barrel had received so much injury in
 
@@ -166,7 +166,7 @@ tags:
 
       before he had advanced many paces, and were about to put him to
 
-      death, when Peters suggested that we might derive some benefit
+      [[Death|death]], when Peters suggested that we might derive some benefit
 
       from forcing him to accompany us in our attempt to escape. We
 

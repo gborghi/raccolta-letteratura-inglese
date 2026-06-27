@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act V, Scene 5 — exchange (BOLINGBROKE) [5]"
+title: "[[Richard II]] — Act V, Scene 5 — exchange (BOLINGBROKE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BOLINGBROKE | Nay, rather every tedious stride I make Will but remember what a deal of world I wander from the jewels that I love. Must I not serve a long apprenticehood To foreign passages, and in the end, Having my freedom, boast of nothing else But that I was a journeyman to grief? |
+| BOLINGBROKE | Nay, rather every tedious stride I make Will but remember what a deal of world I wander from the jewels that I [[Love|love]]. Must I not serve a long apprenticehood To foreign passages, and in the end, Having my [[Freedom|freedom]], boast of nothing else But that I was a journeyman to grief? |

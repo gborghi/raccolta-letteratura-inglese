@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Curse of the Golden Cross (part 7)"
+title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -35,9 +35,9 @@ moustache hid something like a grin or at least a grim smile.
 `This is not the sort of little rural paradise for a
 journalist to leave in a hurry,' replied the other.
 `Things happen too fast here to make it worth while to go
-back to a dull place like London.  Besides, they can't
+back to a dull place like [[London]].  Besides, they can't
 keep me out of the affair--I mean this second affair.
-It was I that found the body, or at any rate the clothes.
+It was I that found the [[Body|body]], or at any rate the clothes.
 Quite suspicious conduct on my part, wasn't it?
 Perhaps you; think I wanted to dress up in his clothes.
 Shouldn't I make a lovely parson?'
@@ -48,7 +48,7 @@ and spreading out his dark--gloved hands in a sort of burlesque
 benediction and saying:  `Oh, my dear brethren and sisters,
 for I would embrace you all....'
 
-`What on earth are you talking about?' cried Father Brown,
+`What on earth are you talking about?' cried [[Father Brown]],
 and rapped the stones slightly with his stumpy umbrella,
 for he was a little less patient than usual.
 
@@ -61,7 +61,7 @@ The little man with the big moustaches may have more in him
 than meets the eye.  For that matter I don't see why you
 shouldn't have killed the poor fellow yourself.'
 
-Father Brown did not seem in the least annoyed at the suggestion,
+[[Father Brown]] did not seem in the least annoyed at the suggestion,
 but he seemed exceedingly bothered and bewildered by the remark.
 `Do you mean,' he asked with simplicity, `that it was I who tried
 to kill Professor Smaill?'
@@ -78,7 +78,7 @@ Religious differences, you know... lamentable disunion of Christendom.
 `you say the people there know what you mean, and perhaps they
 may be able to say it.'
 
-In truth, just afterwards his private perplexities suffered
+In [[Truth|truth]], just afterwards his private perplexities suffered
 a momentary dispersal at the news of a new calamity.
 The moment he entered the little parlour where the rest of the
 company were collected, something in their pale faces told him
@@ -94,25 +94,25 @@ vicar said; but it will take us all as it has taken him.'
 `What in the world has happened now?' asked Father Brown.
 
 There was a silence, and then Tarrant said in a voice that sounded
-a little hollow:  `Mr Walters, the Vicar, has committed suicide.
-I suppose it was the shock unhinged him.  But I fear there can be no
-doubt about it.  We've just found his black hat and clothes on a rock
+a little hollow:  `Mr Walters, the Vicar, has committed [[suicide]].
+I suppose it was the shock unhinged him.  But I [[Fear|fear]] there can be no
+[[Doubt|doubt]] about it.  We've just found his black hat and clothes on a rock
 jutting out from the shore.  He seems to have jumped into the sea.
 I thought he looked as if it had knocked him half--witted, and perhaps
 we ought to have looked after him; but there was so much to look after.'
 
 `You could have done nothing,' said the lady.  `Don't you
 see the thing is dealing doom in a sort of dreadful order?
-The Professor touched the cross, and he went first; the Vicar
+[[The Professor]] touched the [[Cross|cross]], and he went first; the Vicar
 had opened the tomb, and he went second; we only entered
 the chapel, and we--`
 
-`Hold on,' said Father Brown, in a sharp voice he very seldom used;
+`Hold on,' said [[Father Brown]], in a sharp voice he very seldom used;
 `this has got to stop.'
 
 He still wore a heavy though unconscious frown, but in his eyes
 was no longer the cloud of mystification, but a light of almost
-terrible understanding.  `What a fool I am!' he muttered.
+terrible understanding.  `What a [[Fool|fool]] I am!' he muttered.
 `I ought to have seen it long ago.  The tale of the curse ought
 to have told me.'
 
@@ -126,26 +126,26 @@ killed by something that never happened in the thirteenth century,
 something that never happened at all.'
 
 `Well,' said Tarrant, `it's refreshing to find a priest so sceptical
-of the supernatural as all that.'
+of the [[Supernatural|supernatural]] as all that.'
 
 `Not at all,' replied the priest calmly; `it's not
-the supernatural part I doubt.  It's the natural part.
+the [[Supernatural|supernatural]] part I [[Doubt|doubt]].  It's the natural part.
 I'm exactly in the position of the man who said, `I can believe
 the impossible, but not the improbable.'`
 
 `That's what you call a paradox, isn't it?' asked the other.
 
 `It's what I call common sense, properly understood,'
-replied Father Brown.  'It really is more natural to believe
+replied [[Father Brown]].  'It really is more natural to believe
 a preternatural story, that deals with things we don't understand,
 than a natural story that contradicts things we do understand.
 Tell me that the great Mr Gladstone, in his last hours, was haunted
-by the ghost of Parnell, and I will be agnostic about it.
-But tell me that Mr Gladstone, when first presented to Queen Victoria,
+by the [[Ghost|ghost]] of Parnell, and I will be agnostic about it.
+But tell me that Mr Gladstone, when first presented to [[Queen]] Victoria,
 wore his hat in her drawing--room and slapped her on the back
 and offered her a cigar, and I am not agnostic at all.
 That is not impossible; it's only incredible.  But I'm much more
-certain it didn't happen than that Parnell's ghost didn't appear;
+certain it didn't happen than that Parnell's [[Ghost|ghost]] didn't appear;
 because it violates the laws of the world I do understand.
 So it is with that tale of the curse.  It isn't the legend
-that I disbelieve--it's the history.'
+that I disbelieve--it's the [[history]].'

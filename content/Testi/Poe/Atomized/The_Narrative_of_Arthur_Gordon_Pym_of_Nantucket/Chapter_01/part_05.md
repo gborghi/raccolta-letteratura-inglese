@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 5)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -16,25 +16,25 @@ tags:
 
 was almost intolerable. I felt about the box for my little remaining
 
-supply of water; for I had no light, the taper having burnt to the
+supply of [[Water|water]]; for I had no light, the taper having burnt to the
 
 socket of the lantern, and the phosphorus-box not coming readily to
 
 hand. Upon finding the jug, however, I discovered it to be
 
-empty--Tiger, no doubt, having been tempted to drink it, as well as to
+empty--Tiger, no [[Doubt|doubt]], having been tempted to drink it, as [[Well|well]] as to
 
-devour the remnant of mutton, the bone of which lay, well picked, by
+devour the remnant of mutton, the bone of which lay, [[Well|well]] picked, by
 
-the opening of the box. The spoiled meat I could well spare, but my
+the opening of the box. The spoiled meat I could [[Well|well]] spare, but my
 
-heart sank as I thought of the water. I was feeble in the extreme--so
+heart sank as I thought of the [[Water|water]]. I was feeble in the extreme--so
 
 much so that I shook all over, as with an ague, at the slightest
 
 movement or exertion. To add to my troubles, the brig was pitching and
 
-rolling with great violence, and the oil-casks which lay upon my box
+[[rolling]] with great violence, and the oil-casks which lay upon my box
 
 were in momentary danger of falling down, so as to block up the only
 
@@ -54,7 +54,7 @@ had expected (for I remembered very nearly the spot in which I had
 
 placed them), I gave up the search for the present, and bidding Tiger
 
-lie quiet, began at once my journey towards the trap.
+lie quiet, began at once my [[Journey|journey]] towards the trap.
 
 
 
@@ -70,7 +70,7 @@ bordering on insensibility. Still I struggled forward by slow degrees,
 
 dreading every moment that I should swoon amid the narrow and intricate
 
-windings of the lumber, in which event I had nothing but death to
+windings of the lumber, in which event I had nothing but [[Death|death]] to
 
 expect as the result. At length, upon making a push forward with all
 
@@ -86,7 +86,7 @@ path, so as effectually to block up the passage. With my utmost
 
 exertions I could not move it a single inch from its position, it being
 
-closely wedged in among the surrounding boxes and ship-furniture. It
+closely wedged in among the surrounding boxes and [[Ship|ship]]-furniture. It
 
 became necessary, therefore, enfeebled as I was, either to leave the
 
@@ -96,7 +96,7 @@ the obstacle, and resume the path on the other side. The former
 
 alternative presented too many difficulties and dangers to be thought
 
-of without a shudder. In my present weak state of both mind and body, I
+of without a shudder. In my present weak state of both mind and [[Body|body]], I
 
 should infallibly lose my way if I attempted it, and perish miserably
 
@@ -128,7 +128,7 @@ itself was a long and unwieldy box, upon which no foothold could be
 
 obtained. In vain I attempted, by every means in my power, to reach the
 
-top, with the hope of being thus enabled to draw myself up. Had I
+top, with the [[Hope|hope]] of being thus enabled to draw myself up. Had I
 
 succeeded in reaching it, it is certain that my strength would have
 
@@ -148,7 +148,7 @@ entirely off; and, getting through the aperture, discovered, to my
 
 exceeding joy, that there were no boards on the opposite side--in other
 
-words, that the top was wanting, it being the bottom through which I
+words, that the top was wanting, it being the [[Bottom|bottom]] through which I
 
 had forced my way. I now met with no important difficulty in proceeding
 
@@ -168,11 +168,11 @@ that it had formerly required little or no effort to remove it. I
 
 pushed it strongly--it was nevertheless firm: with all my strength--it
 
-still did not give way: with rage, with fury, with despair--it set at
+still did not give way: with rage, with fury, with [[Despair|despair]]--it set at
 
 defiance my utmost efforts; and it was evident, from the unyielding
 
-nature of the resistance, that the hole had either been discovered and
+[[Nature|nature]] of the resistance, that the hole had either been discovered and
 
 effectually nailed up, or that some immense weight had been placed upon
 

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 24 (part 2)"
+title: "[[Villette]] — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,14 +15,14 @@ tags:
 
 
 Yes: in she came, dressed in bright silk, with her shawl falling from
-her shoulders, and her curls, half-uncurled in the damp of night,
-drooping careless and heavy upon her neck. I had hardly time to
+her shoulders, and her curls, half-uncurled in the damp of [[Night|night]],
+drooping careless and heavy upon her neck. I had hardly [[Time|time]] to
 recasket my treasures and lock them up when she was at my side her
-humour seemed none of the best.
+[[Humour|humour]] seemed none of the best.
 
 “It has been a stupid evening: they are stupid people,” she began.
 
-“Who? Mrs. Cholmondeley? I thought you always found her house
+“Who? Mrs. Cholmondeley? I thought you always found her [[house]]
 charming?”
 
 “I have not been to Mrs. Cholmondeley’s.”
@@ -49,10 +49,10 @@ left him estates, a title, and this name: he is quite a great man now.”
 married mamma’s sister. Mamma detests him; she says he killed aunt
 Ginevra with unkindness: he looks like a bear. Such a dismal evening!”
 she went on. “I’ll go no more to his big hotel. Fancy me walking into a
-room alone, and a great man fifty years old coming forwards, and after
+room [[Alone|alone]], and a great man fifty years old coming forwards, and after
 a few minutes’ conversation actually turning his back upon me, and then
-abruptly going out of the room. Such odd ways! I daresay his conscience
-smote him, for they all say at home I am the picture of aunt Ginevra.
+abruptly going out of the room. Such odd ways! I daresay his [[Conscience|conscience]]
+smote him, for they all say at [[Home|home]] I am the picture of aunt Ginevra.
 Mamma often declares the likeness is quite ridiculous.”
 
 “Were you the only visitor?”
@@ -94,12 +94,12 @@ conceited doll it is!”
 Soured and listless, Miss Fanshawe was beginning to disclose the causes
 of her prostrate condition. There had been a retrenchment of incense, a
 diversion or a total withholding of homage and attention coquetry had
-failed of effect, vanity had undergone mortification. She lay fuming in
+failed of effect, [[Vanity|vanity]] had undergone mortification. She lay fuming in
 the vapours.
 
-“Is Miss de Bassompierre quite well now?” I asked.
+“Is Miss de Bassompierre quite [[Well|well]] now?” I asked.
 
-“As well as you or I, no doubt; but she is an affected little thing,
+“As [[Well|well]] as you or I, no [[Doubt|doubt]]; but she is an affected little thing,
 and gave herself invalid airs to attract medical notice. And to see the
 old dowager making her recline on a couch, and ‘my son John’
 prohibiting excitement, etcetera—faugh! the scene was quite sickening.”
@@ -114,11 +114,11 @@ never calls him so.”
 
 “Then she ought. A clownish, bearish John he is.”
 
-“You violate the truth in saying so; and as the whole of my patience is
-now spun off the distaff, I peremptorily desire you to rise from that
+“You violate the [[Truth|truth]] in saying so; and as the whole of my patience is
+now spun off the distaff, I peremptorily [[Desire|desire]] you to rise from that
 bed, and vacate this room.”
 
-“Passionate thing! Your face is the colour of a coquelicot. I wonder
+“Passionate thing! Your face is the colour of a coquelicot. I [[Wonder|wonder]]
 what always makes you so mighty testy à l’endroit du gros Jean? ‘John
 Anderson, my Joe, John!’ Oh, the distinguished name!”
 
@@ -128,32 +128,32 @@ feather, that mealy-winged moth—I extinguished my taper, locked my
 bureau, and left her, since she would not leave me. Small-beer as she
 was, she had turned insufferably acid.
 
-The morrow was Thursday and a half-holiday. Breakfast was over; I had
+The morrow was [[thursday|Thursday]] and a half-holiday. Breakfast was over; I had
 withdrawn to the first classe. The dreaded hour, the post-hour, was
-nearing, and I sat waiting it, much as a ghost-seer might wait his
+nearing, and I sat waiting it, much as a [[Ghost|ghost]]-seer might wait his
 spectre. Less than ever was a letter probable; still, strive as I
 would, I could not forget that it was possible. As the moments
-lessened, a restlessness and fear almost beyond the average assailed
-me. It was a day of winter east wind, and I had now for some time
+lessened, a restlessness and [[Fear|fear]] almost beyond the average assailed
+me. It was a day of [[Winter|winter]] east [[Wind|wind]], and I had now for some [[Time|time]]
 entered into that dreary fellowship with the winds and their changes,
 so little known, so incomprehensible to the healthy. The north and east
-owned a terrific influence, making all pain more poignant, all sorrow
+owned a terrific influence, making all [[Pain|pain]] more poignant, all sorrow
 sadder. The south could calm, the west sometimes cheer: unless, indeed,
 they brought on their wings the burden of thunder-clouds, under the
 weight and warmth of which all energy died.
 
 Bitter and dark as was this January day, I remember leaving the classe,
-and running down without bonnet to the bottom of the long garden, and
-then lingering amongst the stripped shrubs, in the forlorn hope that
+and running down without bonnet to the [[Bottom|bottom]] of the long [[Garden|garden]], and
+then lingering amongst the stripped shrubs, in the forlorn [[Hope|hope]] that
 the postman’s ring might occur while I was out of hearing, and I might
 thus be spared the thrill which some particular nerve or nerves, almost
 gnawed through with the unremitting tooth of a fixed idea, were
 becoming wholly unfit to support. I lingered as long as I dared without
-fear of attracting attention by my absence. I muffled my head in my
+[[Fear|fear]] of attracting attention by my absence. I muffled my head in my
 apron, and stopped my ears in terror of the torturing clang, sure to be
-followed by such blank silence, such barren vacuum for me. At last I
+followed by such blank [[Silence|silence]], such barren vacuum for me. At last I
 ventured to re-enter the first classe, where, as it was not yet nine
-o’clock, no pupils had been admitted. The first thing seen was a white
+o’[[Clock|clock]], no pupils had been admitted. The first thing seen was a white
 object on my black desk, a white, flat object. The post had, indeed,
 arrived; by me unheard. Rosine had visited my cell, and, like some
 angel, had left behind her a bright token of her presence. That shining

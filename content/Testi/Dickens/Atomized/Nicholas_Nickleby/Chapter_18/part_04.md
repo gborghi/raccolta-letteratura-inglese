@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 18 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 18 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -31,19 +31,19 @@ it has, I don’t believe his genius would ever have come out at all.’
 
 How much more communicative Miss Knag might have become under more
 favourable circumstances, it is impossible to divine, but as the gloomy
-one was within ear-shot, and the fire wanted making up, her disclosures
+one was within ear-shot, and the [[Fire|fire]] wanted making up, her disclosures
 stopped here. To judge from all appearances, and the difficulty of
-making the water warm, the last servant could not have been much
-accustomed to any other fire than St Anthony’s; but a little brandy and
-water was made at last, and the guests, having been previously regaled
-with cold leg of mutton and bread and cheese, soon afterwards took
-leave; Kate amusing herself, all the way home, with the recollection of
+making the [[Water|water]] warm, the last servant could not have been much
+accustomed to any other [[Fire|fire]] than St Anthony’s; but a little brandy and
+[[Water|water]] was made at last, and the guests, having been previously regaled
+with cold leg of mutton and bread and [[cheese]], soon afterwards took
+leave; Kate amusing herself, all the way [[Home|home]], with the recollection of
 her last glimpse of Mr. Mortimer Knag deeply abstracted in the shop; and
 Mrs. Nickleby by debating within herself whether the dressmaking firm
 would ultimately become ‘Mantalini, Knag, and Nickleby’, or ‘Mantalini,
 Nickleby, and Knag’.
 
-At this high point, Miss Knag’s friendship remained for three whole
+At this high point, Miss Knag’s [[Friendship|friendship]] remained for three whole
 days, much to the wonderment of Madame Mantalini’s young ladies who had
 never beheld such constancy in that quarter, before; but on the fourth,
 it received a check no less violent than sudden, which thus occurred.
@@ -95,7 +95,7 @@ creature, I beg, whenever I come.’
 means.’
 
 ‘Everybody is talking about her,’ said the young lady, in the same
-careless manner; ‘and my lord, being a great admirer of beauty, must
+careless manner; ‘and my lord, being a great admirer of [[Beauty|beauty]], must
 positively see her.’
 
 ‘She IS universally admired,’ replied Madame Mantalini. ‘Miss Knag, send
@@ -105,12 +105,12 @@ up Miss Nickleby. You needn’t return.’
 Knag, trembling.
 
 ‘You needn’t return,’ repeated the superior, sharply. Miss Knag vanished
-without another word, and in all reasonable time was replaced by Kate,
+without another word, and in all reasonable [[Time|time]] was replaced by Kate,
 who took off the new bonnets and put on the old ones: blushing very much
 to find that the old lord and the two young ladies were staring her out
-of countenance all the time.
+of countenance all the [[Time|time]].
 
-‘Why, how you colour, child!’ said the lord’s chosen bride.
+‘Why, how you colour, [[Child|child]]!’ said the lord’s chosen bride.
 
 ‘She is not quite so accustomed to her business, as she will be in a
 week or two,’ interposed Madame Mantalini with a gracious smile.
@@ -128,7 +128,7 @@ him to a fearful ebb of coughing and gasping; it was some minutes
 before he could find breath to remark that the girl was too pretty for a
 milliner.
 
-‘I hope you don’t think good looks a disqualification for the business,
+‘I [[Hope|hope]] you don’t think good looks a disqualification for the business,
 my lord,’ said Madame Mantalini, simpering.
 
 ‘Not by any means,’ replied the old lord, ‘or you would have left it

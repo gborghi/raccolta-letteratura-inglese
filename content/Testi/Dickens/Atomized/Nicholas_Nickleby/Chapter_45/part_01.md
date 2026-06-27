@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 45 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 45 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -27,10 +27,10 @@ So said John Browdie, rubbing his hands with great joyousness, and
 looking round him with a ruddy shining face, quite in keeping with the
 declaration.
 
-The time at which John found himself in this enviable condition was the
+The [[Time|time]] at which John found himself in this enviable condition was the
 same evening to which the last chapter bore reference; the place was
 the cottage; and the assembled company were Nicholas, Mrs. Nickleby, Mrs
-Browdie, Kate Nickleby, and Smike.
+Browdie, [[Kate Nickleby]], and [[Smike]].
 
 A very merry party they had been. Mrs. Nickleby, knowing of her son’s
 obligations to the honest Yorkshireman, had, after some demur, yielded
@@ -39,7 +39,7 @@ way of which arrangement, there were at first sundry difficulties and
 obstacles, arising out of her not having had an opportunity of ‘calling’
 upon Mrs. Browdie first; for although Mrs. Nickleby very often observed
 with much complacency (as most punctilious people do), that she had not
-an atom of pride or formality about her, still she was a great stickler
+an atom of [[Pride|pride]] or formality about her, still she was a great stickler
 for dignity and ceremonies; and as it was manifest that, until a call
 had been made, she could not be (politely speaking, and according to the
 laws of society) even cognisant of the fact of Mrs. Browdie’s existence,
@@ -65,11 +65,11 @@ may seem to you, for we had a footboy once, who had not only a wart, but
 a wen also, and a very large wen too, and he demanded to have his wages
 raised in consequence, because he found it came very expensive. Let me
 see, what was I--oh yes, I know. The best way that I can think of would
-be to send a card, and my compliments, (I’ve no doubt he’d take ‘em for
+be to send a card, and my compliments, (I’ve no [[Doubt|doubt]] he’d take ‘em for
 a pot of porter,) by this young man, to the Saracen with Two Necks. If
 the waiter took him for a gentleman’s servant, so much the better. Then
 all Mrs. Browdie would have to do would be to send her card back by the
-carrier (he could easily come with a double knock), and there’s an end
+carrier (he could easily come with a [[Double|double]] knock), and there’s an end
 of it.’
 
 ‘My dear mother,’ said Nicholas, ‘I don’t suppose such unsophisticated
@@ -77,7 +77,7 @@ people as these ever had a card of their own, or ever will have.’
 
 ‘Oh that, indeed, Nicholas, my dear,’ returned Mrs. Nickleby, ‘that’s
 another thing. If you put it upon that ground, why, of course, I have
-no more to say, than that I have no doubt they are very good sort of
+no more to say, than that I have no [[Doubt|doubt]] they are very good sort of
 persons, and that I have no kind of objection to their coming here to
 tea if they like, and shall make a point of being very civil to them if
 they do.’
@@ -86,24 +86,24 @@ The point being thus effectually set at rest, and Mrs. Nickleby duly
 placed in the patronising and mildly-condescending position which became
 her rank and matrimonial years, Mr. and Mrs. Browdie were invited and
 came; and as they were very deferential to Mrs. Nickleby, and seemed
-to have a becoming appreciation of her greatness, and were very much
+to have a becoming appreciation of her [[Greatness|greatness]], and were very much
 pleased with everything, the good lady had more than once given Kate
 to understand, in a whisper, that she thought they were the very
-best-meaning people she had ever seen, and perfectly well behaved.
+best-meaning people she had ever seen, and perfectly [[Well|well]] behaved.
 
 And thus it came to pass, that John Browdie declared, in the parlour
-after supper, to wit, and twenty minutes before eleven o’clock p.m.,
+after supper, to wit, and twenty minutes before eleven o’[[Clock|clock]] p.m.,
 that he had never been so happy in all his days.
 
 Nor was Mrs. Browdie much behind her husband in this respect, for that
-young matron, whose rustic beauty contrasted very prettily with the
-more delicate loveliness of Kate, and without suffering by the contrast
+young matron, whose rustic [[Beauty|beauty]] contrasted very prettily with the
+more delicate loveliness of Kate, and without [[Suffering|suffering]] by the contrast
 either, for each served as it were to set off and decorate the other,
 could not sufficiently admire the gentle and winning manners of the
 young lady, or the engaging affability of the elder one. Then Kate had
 the art of turning the conversation to subjects upon which the country
 girl, bashful at first in strange company, could feel herself at
-home; and if Mrs. Nickleby was not quite so felicitous at times in the
+[[Home|home]]; and if Mrs. Nickleby was not quite so felicitous at times in the
 selection of topics of discourse, or if she did seem, as Mrs. Browdie
 expressed it, ‘rather high in her notions,’ still nothing could be
 kinder, and that she took considerable interest in the young couple was
@@ -113,7 +113,7 @@ were illustrated by various references to the domestic economy of the
 cottage, in which (those duties falling exclusively upon Kate) the good
 lady had about as much share, either in theory or practice, as any one
 of the statues of the Twelve Apostles which embellish the exterior of St
-Paul’s Cathedral.
+Paul’s [[Cathedral]].
 
 ‘Mr. Browdie,’ said Kate, addressing his young wife, ‘is the
 best-humoured, the kindest and heartiest creature I ever saw. If I were

@@ -1,5 +1,5 @@
 ---
-title: "misc — THE ANGRY AUTHOR: HIS FAREWELL"
+title: "[[misc]] — THE ANGRY AUTHOR: HIS FAREWELL"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -22,8 +22,8 @@ all the controversies, whether I was visible there or no.
 And I wish to gather up into this last article a valedictory violence
 about all such things; and then pass to where, beyond these voices,
 there is peace--or in other words, to the writing of Penny Dreadfuls;
-a noble and much-needed work.  But before I finally desert
-the illusions of rationalism for the actualities of romance,
+a noble and much-needed work.  But before I finally [[Desert|desert]]
+the illusions of rationalism for the actualities of [[Romance|romance]],
 I should very much like to write one last roaring, raging book
 telling all the rationalists not to be so utterly irrational.
 The book would be simply a string of violent vetoes, like the
@@ -59,7 +59,7 @@ rent in pieces by irresponsible Radicals," etc.  "In this hall we
 welcome all creeds.  We have no hostility against any honest belief;
 but only against that black priestcraft and superstition which can
 accept such a doctrine as," etc.  "I would not say one word that
-could ruffle our relations with Germany.  But this I will say;
+could ruffle our relations with [[Germany]].  But this I will say;
 that when I see ceaseless and unscrupulous armament," etc.
 Please don't do it.  Decide to make a remark or not to make a remark.
 But don't fancy that you have somehow softened the saying of a thing
@@ -67,15 +67,15 @@ by having just promised not to say it.
 
 (3) Don't use secondary words as primary words.  "Happiness" (let us say)
 is a primary word.  You know when you have the thing, and you jolly
-well know when you haven't. "Progress" is a secondary word; it means
+[[Well|well]] know when you haven't. "Progress" is a secondary word; it means
 the degree of one's approach to happiness, or to some such solid ideal.
 But modern controversies constantly turn on asking, "Does Happiness
 help Progress?"  Thus, I see in the New Age this week a letter from
 Mr. Egerton Swann, in which he warns the world against me and my
-friend Mr. Belloc, on the ground that our democracy is "spasmodic"
+friend Mr. Belloc, on the ground that our [[democracy]] is "spasmodic"
 (whatever that means); while our "reactionism is settled and permanent."
-It never strikes Mr. Swann that democracy means something in itself;
-while "reactionism" means nothing--except in connection with democracy.
+It never strikes Mr. Swann that [[democracy]] means something in itself;
+while "reactionism" means nothing--except in connection with [[democracy]].
 You cannot react except from something.  If Mr. Swann thinks I
 have ever reacted from the doctrine that the people should rule,
 I wish he would give me the reference.
@@ -84,22 +84,22 @@ I wish he would give me the reference.
 creed believes itself right and the others wrong."
 Probably one of the creeds is right and the others are wrong.
 Diversity does show that most of the views must be wrong.
-It does not by the faintest logic show that they all must be wrong.
+It does not by the faintest [[logic]] show that they all must be wrong.
 I suppose there is no subject on which opinions differ with more
-desperate sincerity than about which horse will win the Derby.
+desperate sincerity than about which [[Horse|horse]] will win the Derby.
 These are certainly solemn convictions; men risk ruin for them.
 The man who puts his shirt on Potosi must believe in that animal,
 and each of the other men putting their last garments upon
 other quadrupeds must believe in them quite as sincerely.
 They are all serious, and most of them are wrong.
 But one of them is right.  One of the faiths is justified;
-one of the horses does win; not always even the dark horse which
+one of the horses does win; not always even the dark [[Horse|horse]] which
 might stand for Agnosticism, but often the obvious and popular
-horse of Orthodoxy.  Democracy has its occasional victories;
+[[Horse|horse]] of Orthodoxy.  [[democracy|Democracy]] has its occasional victories;
 and even the Favourite has been known to come in first.
 But the point here is that something comes in first.
 That there were many beliefs does not destroy the fact that there
-was one well-founded belief.  I believe (merely upon authority)
+was one [[Well|well]]-founded belief.  I believe (merely upon authority)
 that the world is round.  That there may be tribes who believe
 it to be triangular or oblong does not alter the fact that it
 is certainly some shape, and therefore not any other shape.
@@ -114,7 +114,7 @@ of mankind; the insane are not a minority because they are not a mob.
 The man who thinks himself a man thinks the next man a man;
 he reckons his neighbour as himself.  But the man who thinks he is
 a chicken does not try to look through the man who thinks he is glass.
-The man who thinks himself Jesus Christ does not quarrel with the man
+The man who thinks himself Jesus [[Christ]] does not quarrel with the man
 who thinks himself Rockefeller; as would certainly happen if the two had
 ever met.  But madmen never meet.  It is the only thing they cannot do.
 They can talk, they can inspire, they can fight, they can found religions;
@@ -124,9 +124,9 @@ If two madmen had ever agreed they might have conquered the world.
 
 (6) Don't say that the idea of human equality is absurd,
 because some men are tall and some short, some clever and some stupid.
-At the height of the French Revolution it was noticed that Danton
+At the height of the [[French Revolution]] it was noticed that Danton
 was tall and Murat short.  In the wildest popular excitement
-of America it is known that Rockefeller is stupid and that Bryan
+of [[america|America]] it is known that Rockefeller is stupid and that Bryan
 is clever.  The doctrine of human equality reposes upon this:
 That there is no man really clever who has not found that
 he is stupid.  That there is no big man who has not felt small.
@@ -136,14 +136,14 @@ Some men never feel small; but these are the few men who are.
 with a club and carried her away.  Why on earth should he?
 Does the male sparrow knock down the female sparrow with a twig?
 Does the male giraffe knock down the female giraffe with a palm tree?
-Why should the male have had to use any violence at any time
+Why should the male have had to use any violence at any [[Time|time]]
 in order to make the female a female?  Why should the woman roll
 herself in the mire lower than the sow or the she-bear; and profess
 to have been a slave where all these creatures were creators;
 where all these beasts were gods?  Do not talk such bosh.
 I implore you, I supplicate you not to talk such bosh.
 Utterly and absolutely abolish all such bosh--and we may yet begin
-to discuss these public questions properly.  But I fear my list
+to discuss these public questions properly.  But I [[Fear|fear]] my list
 of protests grows too long; and I know it could grow longer for ever.
 The reader must forgive my elongations and elaborations.
 I fancied for the moment that I was writing a book.

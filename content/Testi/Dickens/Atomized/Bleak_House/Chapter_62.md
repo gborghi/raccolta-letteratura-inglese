@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 62"
+title: "Bleak [[house|House]] — Chapter 62"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,33 +19,33 @@ CHAPTER LXII
 Another Discovery
 
 
-I had not the courage to see any one that night. I had not even the
-courage to see myself, for I was afraid that my tears might a little
+I had not the [[Courage|courage]] to see any one that [[Night|night]]. I had not even the
+[[Courage|courage]] to see myself, for I was afraid that my [[Tears|tears]] might a little
 reproach me. I went up to my room in the dark, and prayed in the
-dark, and lay down in the dark to sleep. I had no need of any light
+dark, and lay down in the dark to [[Sleep|sleep]]. I had no need of any light
 to read my guardian’s letter by, for I knew it by heart. I took it
 from the place where I kept it, and repeated its contents by its own
-clear light of integrity and love, and went to sleep with it on my
+clear light of integrity and [[Love|love]], and went to [[Sleep|sleep]] with it on my
 pillow.
 
 I was up very early in the morning and called Charley to come for a
-walk. We bought flowers for the breakfast-table, and came back and
+walk. We bought [[Flowers|flowers]] for the breakfast-table, and came back and
 arranged them, and were as busy as possible. We were so early that I
-had a good time still for Charley’s lesson before breakfast; Charley
+had a good [[Time|time]] still for Charley’s lesson before breakfast; Charley
 (who was not in the least improved in the old defective article of
 grammar) came through it with great applause; and we were altogether
 very notable. When my guardian appeared he said, “Why, little woman,
-you look fresher than your flowers!” And Mrs. Woodcourt repeated and
+you look fresher than your [[Flowers|flowers]]!” And Mrs. Woodcourt repeated and
 translated a passage from the Mewlinnwillinwodd expressive of my
 being like a mountain with the sun upon it.
 
-This was all so pleasant that I hope it made me still more like the
+This was all so pleasant that I [[Hope|hope]] it made me still more like the
 mountain than I had been before. After breakfast I waited my
 opportunity and peeped about a little until I saw my guardian in his
-own room—the room of last night—by himself. Then I made an excuse
+own room—the room of last [[Night|night]]—by himself. Then I made an excuse
 to go in with my housekeeping keys, shutting the door after me.
 
-“Well, Dame Durden?” said my guardian; the post had brought him
+“[[Well]], Dame Durden?” said my guardian; the post had brought him
 several letters, and he was writing. “You want money?”
 
 “No, indeed, I have plenty in hand.”
@@ -77,10 +77,10 @@ in anything?”
 “Have I not been what I have meant to be since—I brought the answer
 to your letter, guardian?”
 
-“You have been everything I could desire, my love.”
+“You have been everything I could [[Desire|desire]], my [[Love|love]].”
 
 “I am very glad indeed to hear that,” I returned. “You know, you said
-to me, was this the mistress of Bleak House. And I said, yes.”
+to me, was this the mistress of Bleak [[house|House]]. And I said, yes.”
 
 “Yes,” said my guardian, nodding his head. He had put his arm about
 me as if there were something to protect me from and looked in my
@@ -89,7 +89,7 @@ face, smiling.
 “Since then,” said I, “we have never spoken on the subject except
 once.”
 
-“And then I said Bleak House was thinning fast; and so it was, my
+“And then I said Bleak [[house|House]] was thinning fast; and so it was, my
 dear.”
 
 “And I said,” I timidly reminded him, “but its mistress remained.”
@@ -98,15 +98,15 @@ He still held me in the same protecting manner and with the same
 bright goodness in his face.
 
 “Dear guardian,” said I, “I know how you have felt all that has
-happened, and how considerate you have been. As so much time has
-passed, and as you spoke only this morning of my being so well again,
+happened, and how considerate you have been. As so much [[Time|time]] has
+passed, and as you spoke only this morning of my being so [[Well|well]] again,
 perhaps you expect me to renew the subject. Perhaps I ought to do so.
-I will be the mistress of Bleak House when you please.”
+I will be the mistress of Bleak [[house|House]] when you please.”
 
 “See,” he returned gaily, “what a sympathy there must be between us!
 I have had nothing else, poor Rick excepted—it’s a large
 exception—in my mind. When you came in, I was full of it. When shall
-we give Bleak House its mistress, little woman?”
+we give Bleak [[house|House]] its mistress, little woman?”
 
 “When you please.”
 
@@ -116,7 +116,7 @@ we give Bleak House its mistress, little woman?”
 
 “The day on which I take the happiest and best step of my life—the
 day on which I shall be a man more exulting and more enviable than
-any other man in the world—the day on which I give Bleak House its
+any other man in the world—the day on which I give Bleak [[house|House]] its
 little mistress—shall be next month then,” said my guardian.
 
 I put my arms round his neck and kissed him just as I had done on the
@@ -137,7 +137,7 @@ deposited in the room near the door. Mr. Bucket immediately got rid
 of the bearers, mysteriously shut the door, and bolted it.
 
 “Now you see, Mr. Jarndyce,” he then began, putting down his hat and
-opening his subject with a flourish of his well-remembered finger,
+opening his subject with a flourish of his [[Well|well]]-remembered finger,
 “you know me, and Miss Summerson knows me. This gentleman likewise
 knows me, and his name is Smallweed. The discounting line is his line
 principally, and he’s what you may call a dealer in bills. That’s
@@ -159,7 +159,7 @@ gentleman’s that you saw in his lifetime if I don’t mistake?”
 
 My guardian replied, “Yes.”
 
-“Well! You are to understand,” said Mr. Bucket, “that this gentleman
+“[[Well]]! You are to understand,” said Mr. Bucket, “that this gentleman
 he come into Krook’s property, and a good deal of magpie property
 there was. Vast lots of waste-paper among the rest. Lord bless you,
 of no use to nobody!”
@@ -170,7 +170,7 @@ auditor could protest, to let us know that he stated the case
 according to previous agreement and could say much more of Mr.
 Smallweed if he thought it advisable, deprived us of any merit in
 quite understanding him. His difficulty was increased by Mr.
-Smallweed’s being deaf as well as suspicious and watching his face
+Smallweed’s being deaf as [[Well|well]] as suspicious and watching his face
 with the closest attention.
 
 “Among them odd heaps of old papers, this gentleman, when he comes
@@ -197,7 +197,7 @@ Mr. Smallweed glanced with a troubled eye at us and grudgingly nodded
 assent.
 
 “And coming to look at that paper at your full leisure and
-convenience—all in good time, for you’re not curious to read it, and
+convenience—all in good [[Time|time]], for you’re not curious to read it, and
 why should you be?—what do you find it to be but a will, you see.
 That’s the drollery of it,” said Mr. Bucket with the same lively air
 of recalling a joke for the enjoyment of Mr. Smallweed, who still had
@@ -221,7 +221,7 @@ his hand to his ear.
 
 “A very tender mind.”
 
-“Ho! Well, go on,” said Mr. Smallweed.
+“Ho! [[Well]], go on,” said Mr. Smallweed.
 
 “And as you’ve heard a good deal mentioned regarding a celebrated
 Chancery will case of the same name, and as you know what a card
@@ -237,8 +237,8 @@ me up; I want to hear better. Oh, Lord, I am shaken to bits!”
 
 Mr. Bucket had certainly picked him up at a dart. However, as soon as
 he could be heard through Mr. Smallweed’s coughing and his vicious
-ejaculations of “Oh, my bones! Oh, dear! I’ve no breath in my body!
-I’m worse than the chattering, clattering, brimstone pig at home!”
+ejaculations of “Oh, my bones! Oh, dear! I’ve no breath in my [[Body|body]]!
+I’m worse than the chattering, clattering, brimstone pig at [[Home|home]]!”
 Mr. Bucket proceeded in the same convivial manner as before.
 
 “So, as I happen to be in the habit of coming about your premises,
@@ -251,7 +251,7 @@ last person he would have thought of taking into his confidence if he
 could by any possibility have kept him out of it.
 
 “And I go into the business with you—very pleasant we are over it;
-and I confirm you in your well-founded fears that you will get
+and I confirm you in your [[Well|well]]-founded fears that you will get
 yourself into a most precious line if you don’t come out with that
 there will,” said Mr. Bucket emphatically; “and accordingly you
 arrange with me that it shall be delivered up to this present Mr.
@@ -264,7 +264,7 @@ grace.
 
 “In consequence of which,” said Mr. Bucket, dismissing his agreeable
 manner all at once and becoming strictly business-like, “you’ve got
-that will upon your person at the present time, and the only thing
+that will upon your person at the present [[Time|time]], and the only thing
 that remains for you to do is just to out with it!”
 
 Having given us one glance out of the watching corner of his eye, and
@@ -273,12 +273,12 @@ Bucket stood with his eyes fastened on his confidential friend and
 his hand stretched forth ready to take the paper and present it to my
 guardian. It was not produced without much reluctance and many
 declarations on the part of Mr. Smallweed that he was a poor
-industrious man and that he left it to Mr. Jarndyce’s honour not to
+industrious man and that he left it to Mr. Jarndyce’s [[Honour|honour]] not to
 let him lose by his honesty. Little by little he very slowly took
 from a breast-pocket a stained, discoloured paper which was much
 singed upon the outside and a little burnt at the edges, as if it had
-long ago been thrown upon a fire and hastily snatched off again. Mr.
-Bucket lost no time in transferring this paper, with the dexterity of
+long ago been thrown upon a [[Fire|fire]] and hastily snatched off again. Mr.
+Bucket lost no [[Time|time]] in transferring this paper, with the dexterity of
 a conjuror, from Mr. Smallweed to Mr. Jarndyce. As he gave it to my
 guardian, he whispered behind his fingers, “Hadn’t settled how to
 make their market of it. Quarrelled and hinted about it. I laid out
@@ -300,8 +300,8 @@ to its value.”
 
 “That is what I mean,” said my guardian. “You may observe, Mr.
 Bucket, that I abstain from examining this paper myself. The plain
-truth is, I have forsworn and abjured the whole business these many
-years, and my soul is sick of it. But Miss Summerson and I will
+[[Truth|truth]] is, I have forsworn and abjured the whole business these many
+years, and my [[Soul|soul]] is sick of it. But Miss Summerson and I will
 immediately place the paper in the hands of my solicitor in the
 cause, and its existence shall be made known without delay to all
 other parties interested.”
@@ -309,29 +309,29 @@ other parties interested.”
 “Mr. Jarndyce can’t say fairer than that, you understand,” observed
 Mr. Bucket to his fellow-visitor. “And it being now made clear to you
 that nobody’s a-going to be wronged—which must be a great relief to
-YOUR mind—we may proceed with the ceremony of chairing you home
+YOUR mind—we may proceed with the ceremony of chairing you [[Home|home]]
 again.”
 
 He unbolted the door, called in the bearers, wished us good morning,
 and with a look full of meaning and a crook of his finger at parting
 went his way.
 
-We went our way too, which was to Lincoln’s Inn, as quickly as
+We went our way too, which was to [[Lincoln]]’s Inn, as quickly as
 possible. Mr. Kenge was disengaged, and we found him at his table in
 his dusty room with the inexpressive-looking books and the piles of
 papers. Chairs having been placed for us by Mr. Guppy, Mr. Kenge
 expressed the surprise and gratification he felt at the unusual sight
-of Mr. Jarndyce in his office. He turned over his double eye-glass as
+of Mr. Jarndyce in his office. He turned over his [[Double|double]] eye-glass as
 he spoke and was more Conversation Kenge than ever.
 
-“I hope,” said Mr. Kenge, “that the genial influence of Miss
+“I [[Hope|hope]],” said Mr. Kenge, “that the genial influence of Miss
 Summerson,” he bowed to me, “may have induced Mr. Jarndyce,” he bowed
 to him, “to forego some little of his animosity towards a cause and
-towards a court which are—shall I say, which take their place in the
+towards a [[Court|court]] which are—shall I say, which take their place in the
 stately vista of the pillars of our profession?”
 
 “I am inclined to think,” returned my guardian, “that Miss Summerson
-has seen too much of the effects of the court and the cause to exert
+has seen too much of the effects of the [[Court|court]] and the cause to exert
 any influence in their favour. Nevertheless, they are a part of the
 occasion of my being here. Mr. Kenge, before I lay this paper on your
 desk and have done with it, let me tell you how it has come into my
@@ -359,9 +359,9 @@ this?”
 any in the suit. It appears to be all in the testator’s handwriting.
 It is duly executed and attested. And even if intended to be
 cancelled, as might possibly be supposed to be denoted by these marks
-of fire, it is NOT cancelled. Here it is, a perfect instrument!”
+of [[Fire|fire]], it is NOT cancelled. Here it is, a perfect instrument!”
 
-“Well!” said my guardian. “What is that to me?”
+“[[Well]]!” said my guardian. “What is that to me?”
 
 “Mr. Guppy!” cried Mr. Kenge, raising his voice. “I beg your pardon,
 Mr. Jarndyce.”
@@ -378,12 +378,12 @@ this document, you would have seen that it reduces your interest
 considerably, though still leaving it a very handsome one, still
 leaving it a very handsome one,” said Mr. Kenge, waving his hand
 persuasively and blandly. “You would further have seen that the
-interests of Mr. Richard Carstone and of Miss Ada Clare, now Mrs.
-Richard Carstone, are very materially advanced by it.”
+interests of Mr. [[Richard Carstone]] and of Miss [[Ada Clare]], now Mrs.
+[[Richard Carstone]], are very materially advanced by it.”
 
 “Kenge,” said my guardian, “if all the flourishing wealth that the
-suit brought into this vile court of Chancery could fall to my two
-young cousins, I should be well contented. But do you ask ME to
+suit brought into this vile [[Court|court]] of Chancery could fall to my two
+young cousins, I should be [[Well|well]] contented. But do you ask ME to
 believe that any good is to come of Jarndyce and Jarndyce?”
 
 “Oh, really, Mr. Jarndyce! Prejudice, prejudice. My dear sir, this is
@@ -398,7 +398,7 @@ here by me and look over this paper?”
 
 Mr. Vholes did as he was asked and seemed to read it every word. He
 was not excited by it, but he was not excited by anything. When he
-had well examined it, he retired with Mr. Kenge into a window, and
+had [[Well|well]] examined it, he retired with Mr. Kenge into a [[Window|window]], and
 shading his mouth with his black glove, spoke to him at some length.
 I was not surprised to observe Mr. Kenge inclined to dispute what
 he said before he had said much, for I knew that no two people ever
@@ -408,7 +408,7 @@ as if it were almost composed of the words “Receiver-General,”
 “Accountant-General,” “report,” “estate,” and “costs.” When they had
 finished, they came back to Mr. Kenge’s table and spoke aloud.
 
-“Well! But this is a very remarkable document, Mr. Vholes,” said Mr.
+“[[Well]]! But this is a very remarkable document, Mr. Vholes,” said Mr.
 Kenge.
 
 Mr. Vholes said, “Very much so.”

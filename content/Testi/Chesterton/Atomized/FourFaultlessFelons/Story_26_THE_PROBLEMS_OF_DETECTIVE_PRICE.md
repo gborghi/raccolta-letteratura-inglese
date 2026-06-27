@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PROBLEMS OF DETECTIVE PRICE"
+title: "[[FourFaultlessFelons]] — THE PROBLEMS OF [[Detective|DETECTIVE]] PRICE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-IV THE PROBLEMS OF DETECTIVE PRICE
+IV THE PROBLEMS OF [[Detective|DETECTIVE]] PRICE

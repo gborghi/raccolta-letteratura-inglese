@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Three Foes Of The Family"
+title: "[[Well]] And Shallows — Three Foes Of The Family"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -16,27 +16,27 @@ tags:
 
 THREE FOES OF THE FAMILY
 
-IT was certainly a very brilliant lightning-flash of irony
+IT was certainly a very brilliant [[Lightning|lightning]]-flash of irony
 by which Mr. Aldous Huxley lit up the whole loathsome landscape
 of his satirical Utopia, of synthetic humanity and manufactured men
 and women, by the old romantic quotation of "Brave New World".
-The quotation comes, of course, from that supreme moment of the magic
-of youth, nourished by the magic of old age, when Miranda the marvellous
-becomes Miranda the marvelling, at the unique wonder of first love.
-To use it for the very motto of a system which, having lost all innocence,
-would necessarily lose all wonder, was a touch of very withering wit.
-And yet it will be well to remember that, in comparison with some
+The quotation comes, of course, from that supreme moment of the [[Magic|magic]]
+of youth, nourished by the [[Magic|magic]] of old age, when [[Miranda]] the marvellous
+becomes [[Miranda]] the marvelling, at the unique [[Wonder|wonder]] of first [[Love|love]].
+To use it for the very motto of a system which, having lost all [[innocence]],
+would necessarily lose all [[Wonder|wonder]], was a touch of very withering wit.
+And yet it will be [[Well|well]] to remember that, in comparison with some
 other worlds, where the same work is done more weakly and quite
 as wickedly, the Utopia of the extremists really has something of
-the intellectual integrity which belongs to extremes, even of madness.
+the intellectual integrity which belongs to extremes, even of [[Madness|madness]].
 In that sense the two ironical adjectives are not merely ironical.
 The horrible human, or inhuman, hive described in Mr. Huxley's
-romance is certainly a base world, and a filthy world, and a
+[[Romance|romance]] is certainly a base world, and a filthy world, and a
 fundamentally unhappy world.  But it is in one sense a new world;
 and it is in one sense a brave world.  At least a certain amount
-of bravery, as well as brutality, would have to be shown before
+of bravery, as [[Well|well]] as brutality, would have to be shown before
 anything of the sort could be established in the world of fact.
-It would need some courage, and even some self-sacrifice, to establish
+It would need some [[Courage|courage]], and even some [[Self-Sacrifice|self-sacrifice]], to establish
 anything so utterly disgusting as that.
 
 But the same work is being done in other worlds that
@@ -47,12 +47,12 @@ but who actually try to work for it through a conspiracy of cowards.
 The attitude of these people towards the Family and the tradition
 of its Christian virtues is the attitude of men willing to wound
 and yet afraid to strike; or ready to sap and mine so long
-as they are not called upon to fire or fight in the open.
+as they are not called upon to [[Fire|fire]] or fight in the open.
 And those who do this cover much more than half, or nearly two-thirds,
 of the people who write in the most respectable and conventional
 Capitalist newspapers.  It cannot be too often repeated that
 what destroyed the Family in the modern world was Capitalism.
-No doubt it might have been Communism, if Communism had ever
+No [[Doubt|doubt]] it might have been Communism, if Communism had ever
 had a chance, outside that semi-Mongolian wilderness where it
 actually flourishes.  But, so far as we are concerned,
 what has broken up households and encouraged divorces,
@@ -65,7 +65,7 @@ that has driven men from their homes to look for jobs;
 that has forced them to live near their factories or their
 firms instead of near their families; and, above all,
 that has encouraged, for commercial reasons, a parade of publicity
-and garish novelty, which is in its nature the death of all
+and garish novelty, which is in its [[Nature|nature]] the [[Death|death]] of all
 that was called dignity and modesty by our mothers and fathers.
 It is not the Bolshevist but the Boss, the publicity man,
 the salesman and the commercial advertiser who have, like a rush
@@ -81,13 +81,13 @@ by printed words; because printed words are supposed to make
 a some sense and a man may be answerable for printing a them.
 Stiff and hideous effigies of women in crinolines or bonnets
 are paraded, as if that could possibly be all there was to see
-when Maud came into the garden, and was saluted by such a song.
+when Maud came into the [[Garden|garden]], and was saluted by such a [[Song|song]].
 Fortunately, Maud's friends, who would have challenged
 the pressman and photographer to a duel, are all dead;
 and these satirists of Victorianism are very careful to find
 out that all their enemies are dead.  Some of their bold
 caricaturists have been known to charge an old-fashioned
-bathing-machine as courageously as if it were a machine-gun.
+bathing-[[Machine|machine]] as courageously as if it were a [[Machine|machine]]-gun.
 It is convenient thus courageously to attack bathing-machines,
 because there are no bathing-machines to attack.
 Then they balance these things by photographs of the Modern Girl
@@ -96,15 +96,15 @@ any thing so obviously vulgar is bound to be popular.
 For the rest, the Modern Girl is floated on a sea of
 sentimental sloppiness; a continuous gush about her frankness
 and freshness, the perfect naturalness of her painting her
-face or the unprecedented courage of her having no children.
-The whole is diluted with a dreary hypocrisy about comradeship,
+face or the unprecedented [[Courage|courage]] of her having no children.
+The whole is diluted with a dreary hypocrisy about [[Comradeship|comradeship]],
 far more sentimental than the old-fashioned sentiment.
 When I see the Family sinking in these swamps of amorphous
 amorous futility, I feel inclined to say, "Give me the Communists."
 Better Bolshevist battles and the Brave New World than the ancient
-house of man rotted away silently by such worms of secret sensuality
+[[house]] of man rotted away silently by such worms of secret sensuality
 and individual appetite.  "The coward does it with a kiss;
-the brave man with a sword."
+the brave man with a [[Sword|sword]]."
 
 But there is, curiously enough, a third thing of the kind, which I am
 really inclined to think that I dislike even more than the other two.
@@ -117,7 +117,7 @@ of parents by authoritatively telling all the parents what to do.
 His notion of keeping sacred the dignity of domestic life is to issue
 peremptory orders that the grandfather is to get up at five in the morning
 and do dumb-bell exercises, or the grand mother to march twenty miles
-to a camp to procure a Swastika flag.  In other words, he appears
+to a camp to procure a Swastika [[Flag|flag]].  In other words, he appears
 to interfere with family life more even than the Bolshevists do;
 and to do it in the name of the sacredness of the family.
 It is not much more encouraging than the other two social manifestations;

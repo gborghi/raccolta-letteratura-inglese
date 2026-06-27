@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 2 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -26,26 +26,26 @@ thanks to the Dean.”
 
 “Ah! He will do you more good than a doctor, Jasper.”
 
-“More good than a dozen doctors. For I love him dearly, and I don’t
-love doctors, or doctors’ stuff.”
+“More good than a dozen doctors. For I [[Love|love]] him dearly, and I don’t
+[[Love|love]] doctors, or doctors’ stuff.”
 
 Mr. Jasper is a dark man of some six-and-twenty, with thick, lustrous,
-well-arranged black hair and whiskers. He looks older than he is, as
+[[Well|well]]-arranged black hair and whiskers. He looks older than he is, as
 dark men often do. His voice is deep and good, his face and figure are
 good, his manner is a little sombre. His room is a little sombre, and
 may have had its influence in forming his manner. It is mostly in
-shadow. Even when the sun shines brilliantly, it seldom touches the
+[[Shadow|shadow]]. Even when the sun shines brilliantly, it seldom touches the
 grand piano in the recess, or the folio music-books on the stand, or
 the book-shelves on the wall, or the unfinished picture of a blooming
 schoolgirl hanging over the chimneypiece; her flowing brown hair tied
-with a blue riband, and her beauty remarkable for a quite childish,
+with a blue riband, and her [[Beauty|beauty]] remarkable for a quite childish,
 almost babyish, touch of saucy discontent, comically conscious of
 itself. (There is not the least artistic merit in this picture, which
 is a mere daub; but it is clear that the painter has made it
 humorously—one might almost say, revengefully—like the original.)
 
 “We shall miss you, Jasper, at the ‘Alternate Musical Wednesdays’
-to-night; but no doubt you are best at home. Good-night. God bless you!
+to-[[Night|night]]; but no [[Doubt|doubt]] you are best at [[Home|home]]. Good-[[Night|night]]. God bless you!
 ‘Tell me, shep-herds, te-e-ell me; tell me-e-e, have you seen (have you
 seen, have you seen, have you seen) my-y-y Flo-o-ora-a pass this way!’”
 Melodiously good Minor Canon the Reverend Septimus Crisparkle thus
@@ -91,7 +91,7 @@ his hands. “Look here, Jack; tell me; whose birthday is it?”
 “Not mine, you know? No; not mine, _I_ know! Pussy’s!”
 
 Fixed as the look the young fellow meets is, there is yet in it some
-strange power of suddenly including the sketch over the chimneypiece.
+strange power of suddenly including the [[Sketch|sketch]] over the chimneypiece.
 
 “Pussy’s, Jack! We must drink Many happy returns to her. Come, uncle;
 take your dutiful and sharp-set nephew in to dinner.”
@@ -119,7 +119,7 @@ table with a genial smile, “and so do you, Ned, that Uncle and Nephew
 are words prohibited here by common consent and express agreement. For
 what we are going to receive His holy name be praised!”
 
-“Done like the Dean! Witness, Edwin Drood! Please to carve, Jack, for I
+“Done like the Dean! Witness, [[Edwin Drood]]! Please to carve, Jack, for I
 can’t.”
 
 This sally ushers in the dinner. Little to the present purpose, or to
@@ -151,4 +151,4 @@ Pussy, Jack, and many of ’em! Happy returns, I mean.”
 
 Laying an affectionate and laughing touch on the boy’s extended hand,
 as if it were at once his giddy head and his light heart, Mr. Jasper
-drinks the toast in silence.
+drinks the toast in [[Silence|silence]].

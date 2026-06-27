@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Tolstoy And The Cult Of Simplicity (part 2)"
+title: "[[VariedTypes]] — [[tolstoy|Tolstoy]] And The Cult Of Simplicity (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-The new collection of "Tales from Tolstoy," translated and edited by Mr.
+The new collection of "Tales from [[tolstoy|Tolstoy]]," translated and edited by Mr.
 
 R. Nisbet Bain, is calculated to draw particular attention to this
 
-ethical and ascetic side of Tolstoy's work. In one sense, and that the
+ethical and [[ascetic]] side of [[tolstoy|Tolstoy]]'s work. In one sense, and that the
 
-deepest sense, the work of Tolstoy is, of course, a genuine and noble
+deepest sense, the work of [[tolstoy|Tolstoy]] is, of course, a genuine and noble
 
-appeal to simplicity. The narrow notion that an artist may not teach is
+appeal to simplicity. The narrow notion that an [[Artist|artist]] may not teach is
 
-pretty well exploded by now. But the truth of the matter is, that an
+pretty [[Well|well]] exploded by now. But the [[Truth|truth]] of the matter is, that an
 
-artist teaches far more by his mere background and properties, his
+[[Artist|artist]] teaches far more by his mere background and properties, his
 
 landscape, his costume, his idiom and technique--all the part of his
 
@@ -38,9 +38,9 @@ opinions. The real distinction between the ethics of high art and the
 
 ethics of manufactured and didactic art lies in the simple fact that the
 
-bad fable has a moral, while the good fable is a moral. And the real
+bad [[Fable|fable]] has a moral, while the good [[Fable|fable]] is a moral. And the real
 
-moral of Tolstoy comes out constantly in these stories, the great moral
+moral of [[tolstoy|Tolstoy]] comes out constantly in these stories, the great moral
 
 which lies at the heart of all his work, of which he is probably
 
@@ -50,7 +50,7 @@ disapprove. The curious cold white light of morning that shines over all
 
 the tales, the folklore simplicity with which "a man or a woman" are
 
-spoken of without further identification, the love--one might almost say
+spoken of without further identification, the [[Love|love]]--one might almost say
 
 the lust--for the qualities of brute materials, the hardness of wood,
 
@@ -60,7 +60,7 @@ kindliness sitting beside the very cradle of the race of man--these
 
 influences are truly moral. When we put beside them the trumpeting and
 
-tearing nonsense of the didactic Tolstoy, screaming for an obscene
+tearing nonsense of the didactic [[tolstoy|Tolstoy]], screaming for an obscene
 
 purity, shouting for an inhuman peace, hacking up human life into small
 
@@ -68,7 +68,7 @@ sins with a chopper, sneering at men, women, and children out of respect
 
 to humanity, combining in one chaos of contradictions an unmanly Puritan
 
-and an uncivilised prig, then, indeed, we scarcely know whither Tolstoy
+and an uncivilised prig, then, indeed, we scarcely know whither [[tolstoy|Tolstoy]]
 
 has vanished. We know not what to do with this small and noisy moralist
 
@@ -76,13 +76,13 @@ who is inhabiting one corner of a great and good man.
 
 
 
-It is difficult in every case to reconcile Tolstoy the great artist with
+It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[Artist|artist]] with
 
-Tolstoy the almost venomous reformer. It is difficult to believe that a
+[[tolstoy|Tolstoy]] the almost venomous reformer. It is difficult to believe that a
 
 man who draws in such noble outlines the dignity of the daily life of
 
-humanity regards as evil that divine act of procreation by which that
+humanity regards as evil that divine act of [[Procreation|procreation]] by which that
 
 dignity is renewed from age to age. It is difficult to believe that a
 
@@ -120,11 +120,11 @@ the star of our happiness, and the fortunes of the land of our birth.
 
 
 
-The work of Tolstoy has another and more special significance. It
+The work of [[tolstoy|Tolstoy]] has another and more special significance. It
 
 represents the re-assertion of a certain awful common sense which
 
-characterised the most extreme utterances of Christ. It is true that we
+characterised the most extreme utterances of [[Christ]]. It is true that we
 
 cannot turn the cheek to the smiter; it is true that we cannot give our
 
@@ -134,21 +134,21 @@ too emotional. The robber would brag, and we should blush; in other
 
 words, the robber and we are alike sentimentalists. The command of
 
-Christ is impossible, but it is not insane; it is rather sanity preached
+[[Christ]] is impossible, but it is not insane; it is rather [[Sanity|sanity]] preached
 
 to a planet of lunatics. If the whole world was suddenly stricken with a
 
-sense of humour it would find itself mechanically fulfilling the Sermon
+sense of [[Humour|humour]] it would find itself mechanically fulfilling the Sermon
 
 on the Mount. It is not the plain facts of the world which stand in the
 
-way of that consummation, but its passions of vanity and
+way of that consummation, but its passions of [[Vanity|vanity]] and
 
-self-advertisement and morbid sensibility. It is true that we cannot
+[[Self|self]]-advertisement and morbid sensibility. It is true that we cannot
 
 turn the cheek to the smiter, and the sole and sufficient reason is that
 
-we have not the pluck. Tolstoy and his followers have shown that they
+we have not the pluck. [[tolstoy|Tolstoy]] and his followers have shown that they
 
 have the pluck, and even if we think they are mistaken, by this sign
 
@@ -172,7 +172,7 @@ conquered without humiliation. The theory of Christian duty enunciated
 
 by them is that we should never conquer by force, but always, if we can,
 
-conquer by persuasion. In their mythology St. George did not conquer the
+conquer by [[Persuasion|persuasion]]. In their mythology St. George did not conquer the
 
 dragon: he tied a pink ribbon round its neck and gave it a saucer of
 

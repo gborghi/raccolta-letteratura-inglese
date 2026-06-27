@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 43 (part 6)"
+title: "Bleak [[house|House]] — Chapter 43 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 “I know that, guardian. But I have such need of your advice and
-support. Oh! You don’t know how much need I have to-night.”
+support. Oh! You don’t know how much need I have to-[[Night|night]].”
 
 He looked unprepared for my being so earnest, and even a little
 alarmed.
@@ -23,7 +23,7 @@ alarmed.
 “Or how anxious I have been to speak to you,” said I, “ever since the
 visitor was here to-day.”
 
-“The visitor, my dear! Sir Leicester Dedlock?”
+“The visitor, my dear! [[Sir Leicester Dedlock]]?”
 
 “Yes.”
 
@@ -42,7 +42,7 @@ crossed to the door to see that it was shut (but I had seen to that)
 and resumed his seat before me.
 
 “Guardian,” said I, “do you remember, when we were overtaken by the
-thunder-storm, Lady Dedlock’s speaking to you of her sister?”
+thunder-[[Storm|storm]], [[Lady Dedlock]]’s speaking to you of her sister?”
 
 “Of course. Of course I do.”
 
@@ -53,27 +53,27 @@ their several ways?”
 
 “Why did they separate, guardian?”
 
-His face quite altered as he looked at me. “My child, what questions
+His face quite altered as he looked at me. “My [[Child|child]], what questions
 are these! I never knew. No one but themselves ever did know, I
-believe. Who could tell what the secrets of those two handsome and
-proud women were! You have seen Lady Dedlock. If you had ever seen
+believe. Who could tell what the [[Secrets|secrets]] of those two handsome and
+proud women were! You have seen [[Lady Dedlock]]. If you had ever seen
 her sister, you would know her to have been as resolute and haughty
 as she.”
 
-“Oh, guardian, I have seen her many and many a time!”
+“Oh, guardian, I have seen her many and many a [[Time|time]]!”
 
 “Seen her?”
 
 He paused a little, biting his lip. “Then, Esther, when you spoke to
 me long ago of Boythorn, and when I told you that he was all but
 married once, and that the lady did not die, but died to him, and
-that that time had had its influence on his later life—did you know
+that that [[Time|time]] had had its influence on his later life—did you know
 it all, and know who the lady was?”
 
 “No, guardian,” I returned, fearful of the light that dimly broke
 upon me. “Nor do I know yet.”
 
-“Lady Dedlock’s sister.”
+“[[Lady Dedlock]]’s sister.”
 
 “And why,” I could scarcely ask him, “why, guardian, pray tell me why
 were THEY parted?”
@@ -83,12 +83,12 @@ afterwards did conjecture (but it was mere conjecture) that some
 injury which her haughty spirit had received in her cause of quarrel
 with her sister had wounded her beyond all reason, but she wrote him
 that from the date of that letter she died to him—as in literal
-truth she did—and that the resolution was exacted from her by her
-knowledge of his proud temper and his strained sense of honour, which
-were both her nature too. In consideration for those master points in
+[[Truth|truth]] she did—and that the resolution was exacted from her by her
+knowledge of his proud temper and his strained sense of [[Honour|honour]], which
+were both her [[Nature|nature]] too. In consideration for those master points in
 him, and even in consideration for them in herself, she made the
 sacrifice, she said, and would live in it and die in it. She did
-both, I fear; certainly he never saw her, never heard of her from
+both, I [[Fear|fear]]; certainly he never saw her, never heard of her from
 that hour. Nor did any one.”
 
 “Oh, guardian, what have I done!” I cried, giving way to my grief;
@@ -109,9 +109,9 @@ before me all I had myself imperfectly thought and hoped in my better
 state of mind, that, penetrated as I had been with fervent gratitude
 towards him through so many years, I believed I had never loved him
 so dearly, never thanked him in my heart so fully, as I did that
-night. And when he had taken me to my room and kissed me at the door,
-and when at last I lay down to sleep, my thought was how could I ever
+[[Night|night]]. And when he had taken me to my room and kissed me at the door,
+and when at last I lay down to [[Sleep|sleep]], my thought was how could I ever
 be busy enough, how could I ever be good enough, how in my little way
-could I ever hope to be forgetful enough of myself, devoted enough to
+could I ever [[Hope|hope]] to be forgetful enough of myself, devoted enough to
 him, and useful enough to others, to show him how I blessed and
 honoured him.

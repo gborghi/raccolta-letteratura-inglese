@@ -19,17 +19,17 @@ CHAPTER III—Third Quarter.
 
 Black are the brooding clouds and troubled the deep waters, when the Sea
 of Thought, first heaving from a calm, gives up its Dead.  Monsters
-uncouth and wild, arise in premature, imperfect resurrection; the several
+uncouth and wild, arise in premature, imperfect [[Resurrection|resurrection]]; the several
 parts and shapes of different things are joined and mixed by chance; and
 when, and how, and by what wonderful degrees, each separates from each,
 and every sense and object of the mind resumes its usual form and lives
 again, no man—though every man is every day the casket of this type of
 the Great Mystery—can tell.
 
-So, when and how the darkness of the night-black steeple changed to
+So, when and how the darkness of the [[Night|night]]-black steeple changed to
 shining light; when and how the solitary tower was peopled with a myriad
 figures; when and how the whispered ‘Haunt and hunt him,’ breathing
-monotonously through his sleep or swoon, became a voice exclaiming in the
+monotonously through his [[Sleep|sleep]] or swoon, became a voice exclaiming in the
 waking ears of Trotty, ‘Break his slumbers;’ when and how he ceased to
 have a sluggish and confused idea that such things were, companioning a
 host of others that were not; there are no dates or means to tell.  But,
@@ -37,46 +37,46 @@ awake and standing on his feet upon the boards where he had lately lain,
 he saw this Goblin Sight.
 
 He saw the tower, whither his charmed footsteps had brought him, swarming
-with dwarf phantoms, spirits, elfin creatures of the Bells.  He saw them
-leaping, flying, dropping, pouring from the Bells without a pause.  He
+with [[Dwarf|dwarf]] phantoms, spirits, elfin creatures of [[The Bells|the Bells]].  He saw them
+leaping, flying, dropping, pouring from [[The Bells|the Bells]] without a pause.  He
 saw them, round him on the ground; above him, in the air; clambering from
 him, by the ropes below; looking down upon him, from the massive
 iron-girded beams; peeping in upon him, through the chinks and loopholes
 in the walls; spreading away and away from him in enlarging circles, as
-the water ripples give way to a huge stone that suddenly comes plashing
+the [[Water|water]] ripples give way to a huge stone that suddenly comes plashing
 in among them.  He saw them, of all aspects and all shapes.  He saw them
 ugly, handsome, crippled, exquisitely formed.  He saw them young, he saw
 them old, he saw them kind, he saw them cruel, he saw them merry, he saw
-them grim; he saw them dance, and heard them sing; he saw them tear their
+them grim; he saw them [[Dance|dance]], and heard them sing; he saw them tear their
 hair, and heard them howl.  He saw the air thick with them.  He saw them
 come and go, incessantly.  He saw them riding downward, soaring upward,
 sailing off afar, perching near at hand, all restless and all violently
 active.  Stone, and brick, and slate, and tile, became transparent to him
 as to them.  He saw them _in_ the houses, busy at the sleepers’ beds.  He
-saw them soothing people in their dreams; he saw them beating them with
+saw them soothing people in their [[Dreams|dreams]]; he saw them beating them with
 knotted whips; he saw them yelling in their ears; he saw them playing
-softest music on their pillows; he saw them cheering some with the songs
-of birds and the perfume of flowers; he saw them flashing awful faces on
+softest music on their pillows; he saw them cheering some with the [[songs]]
+of [[Birds|birds]] and the perfume of [[Flowers|flowers]]; he saw them flashing awful faces on
 the troubled rest of others, from enchanted mirrors which they carried in
 their hands.
 
 He saw these creatures, not only among sleeping men but waking also,
 active in pursuits irreconcilable with one another, and possessing or
 assuming natures the most opposite.  He saw one buckling on innumerable
-wings to increase his speed; another loading himself with chains and
+wings to increase his [[Speed|speed]]; another loading himself with [[Chains|chains]] and
 weights, to retard his.  He saw some putting the hands of clocks forward,
 some putting the hands of clocks backward, some endeavouring to stop the
-clock entirely.  He saw them representing, here a marriage ceremony,
+[[Clock|clock]] entirely.  He saw them representing, here a [[Marriage|marriage]] ceremony,
 there a funeral; in this chamber an election, in that a ball he saw,
 everywhere, restless and untiring motion.
 
-Bewildered by the host of shifting and extraordinary figures, as well as
-by the uproar of the Bells, which all this while were ringing, Trotty
+Bewildered by the host of shifting and extraordinary figures, as [[Well|well]] as
+by the uproar of [[The Bells|the Bells]], which all this while were ringing, Trotty
 clung to a wooden pillar for support, and turned his white face here and
 there, in mute and stunned astonishment.
 
 As he gazed, the Chimes stopped.  Instantaneous change!  The whole swarm
-fainted! their forms collapsed, their speed deserted them; they sought to
+fainted! their forms collapsed, their [[Speed|speed]] deserted them; they sought to
 fly, but in the act of falling died and melted into air.  No fresh supply
 succeeded them.  One straggler leaped down pretty briskly from the
 surface of the Great Bell, and alighted on his feet, but he was dead and
@@ -85,16 +85,16 @@ gambolled in the tower, remained there, spinning over and over a little
 longer; but these became at every turn more faint, and few, and feeble,
 and soon went the way of the rest.  The last of all was one small
 hunchback, who had got into an echoing corner, where he twirled and
-twirled, and floated by himself a long time; showing such perseverance,
+twirled, and floated by himself a long [[Time|time]]; showing such perseverance,
 that at last he dwindled to a leg and even to a foot, before he finally
 retired; but he vanished in the end, and then the tower was silent.
 
 Then and not before, did Trotty see in every Bell a bearded figure of the
 bulk and stature of the Bell—incomprehensibly, a figure and the Bell
-itself.  Gigantic, grave, and darkly watchful of him, as he stood rooted
+itself.  Gigantic, [[Grave|grave]], and darkly watchful of him, as he stood rooted
 to the ground.
 
-Mysterious and awful figures!  Resting on nothing; poised in the night
+Mysterious and awful figures!  Resting on nothing; poised in the [[Night|night]]
 air of the tower, with their draped and hooded heads merged in the dim
 roof; motionless and shadowy.  Shadowy and dark, although he saw them by
 some light belonging to themselves—none else was there—each with its
@@ -107,28 +107,28 @@ than have seen them watching him with eyes that would have waked and
 watched although the pupils had been taken out.
 
 Again, again, the dread and terror of the lonely place, and of the wild
-and fearful night that reigned there, touched him like a spectral hand.
-His distance from all help; the long, dark, winding, ghost-beleaguered
+and fearful [[Night|night]] that reigned there, touched him like a spectral hand.
+His distance from all help; the long, dark, winding, [[Ghost|ghost]]-beleaguered
 way that lay between him and the earth on which men lived; his being
-high, high, high, up there, where it had made him dizzy to see the birds
+high, high, high, up there, where it had made him dizzy to see the [[Birds|birds]]
 fly in the day; cut off from all good people, who at such an hour were
-safe at home and sleeping in their beds; all this struck coldly through
+safe at [[Home|home]] and sleeping in their beds; all this struck coldly through
 him, not as a reflection but a bodily sensation.  Meantime his eyes and
 thoughts and fears, were fixed upon the watchful figures; which, rendered
 unlike any figures of this world by the deep gloom and shade enwrapping
-and enfolding them, as well as by their looks and forms and supernatural
+and enfolding them, as [[Well|well]] as by their looks and forms and [[Supernatural|supernatural]]
 hovering above the floor, were nevertheless as plainly to be seen as were
-the stalwart oaken frames, cross-pieces, bars and beams, set up there to
-support the Bells.  These hemmed them, in a very forest of hewn timber;
+the stalwart oaken frames, [[Cross|cross]]-pieces, bars and beams, set up there to
+support [[The Bells|the Bells]].  These hemmed them, in a very forest of hewn timber;
 from the entanglements, intricacies, and depths of which, as from among
-the boughs of a dead wood blighted for their phantom use, they kept their
+the boughs of a dead wood blighted for their [[Phantom|phantom]] use, they kept their
 darksome and unwinking watch.
 
 A blast of air—how cold and shrill!—came moaning through the tower.  As
 it died away, the Great Bell, or the Goblin of the Great Bell, spoke.
 
 ‘What visitor is this!’ it said.  The voice was low and deep, and Trotty
-fancied that it sounded in the other figures as well.
+fancied that it sounded in the other figures as [[Well|well]].
 
 ‘I thought my name was called by the Chimes!’ said Trotty, raising his
 hands in an attitude of supplication.  ‘I hardly know why I am here, or
@@ -153,10 +153,10 @@ Goblin of the Bell.
 
 Trotty was about to answer, ‘Never!’  But he stopped, and was confused.
 
-‘The voice of Time,’ said the Phantom, ‘cries to man, Advance!  Time is
+‘The voice of [[Time]],’ said the [[Phantom]], ‘cries to man, Advance!  [[Time]] is
 for his advancement and improvement; for his greater worth, his greater
 happiness, his better life; his progress onward to that goal within its
-knowledge and its view, and set there, in the period when Time and He
+knowledge and its view, and set there, in the period when [[Time]] and He
 began.  Ages of darkness, wickedness, and violence, have come and
 gone—millions uncountable, have suffered, lived, and died—to point the
 way before him.  Who seeks to turn him back, or stay him on his course,
@@ -166,15 +166,15 @@ fiercer and the wilder, ever, for its momentary check!’
 ‘I never did so to my knowledge, sir,’ said Trotty.  ‘It was quite by
 accident if I did.  I wouldn’t go to do it, I’m sure.’
 
-‘Who puts into the mouth of Time, or of its servants,’ said the Goblin of
+‘Who puts into the mouth of [[Time]], or of its servants,’ said the Goblin of
 the Bell, ‘a cry of lamentation for days which have had their trial and
 their failure, and have left deep traces of it which the blind may see—a
-cry that only serves the present time, by showing men how much it needs
+cry that only serves the present [[Time|time]], by showing men how much it needs
 their help when any ears can listen to regrets for such a past—who does
 this, does a wrong.  And you have done that wrong, to us, the Chimes.’
 
-Trotty’s first excess of fear was gone.  But he had felt tenderly and
-gratefully towards the Bells, as you have seen; and when he heard himself
+Trotty’s first excess of [[Fear|fear]] was gone.  But he had felt tenderly and
+gratefully towards [[The Bells|the Bells]], as you have seen; and when he heard himself
 arraigned as one who had offended them so weightily, his heart was
 touched with penitence and grief.
 
@@ -182,11 +182,11 @@ touched with penitence and grief.
 do know—if you know how often you have kept me company; how often you
 have cheered me up when I’ve been low; how you were quite the plaything
 of my little daughter Meg (almost the only one she ever had) when first
-her mother died, and she and me were left alone; you won’t bear malice
+her mother died, and she and me were left [[Alone|alone]]; you won’t bear malice
 for a hasty word!’
 
 ‘Who hears in us, the Chimes, one note bespeaking disregard, or stern
-regard, of any hope, or joy, or pain, or sorrow, of the many-sorrowed
+regard, of any [[Hope|hope]], or joy, or [[Pain|pain]], or sorrow, of the many-sorrowed
 throng; who hears us make response to any creed that gauges human
 passions and affections, as it gauges the amount of miserable food on
 which humanity may pine and wither; does us wrong.  That wrong you have
@@ -196,7 +196,7 @@ done us!’ said the Bell.
 
 ‘Who hears us echo the dull vermin of the earth: the Putters Down of
 crushed and broken natures, formed to be raised up higher than such
-maggots of the time can crawl or can conceive,’ pursued the Goblin of the
+maggots of the [[Time|time]] can crawl or can conceive,’ pursued the Goblin of the
 Bell; ‘who does so, does us wrong.  And you have done us wrong!’
 
 ‘Not meaning it,’ said Trotty.  ‘In my ignorance.  Not meaning it!’
@@ -206,12 +206,12 @@ the fallen and disfigured of his kind; abandons them as vile; and does
 not trace and track with pitying eyes the unfenced precipice by which
 they fell from good—grasping in their fall some tufts and shreds of that
 lost soil, and clinging to them still when bruised and dying in the gulf
-below; does wrong to Heaven and man, to time and to eternity.  And you
+below; does wrong to Heaven and man, to [[Time|time]] and to [[Eternity|eternity]].  And you
 have done that wrong!’
 
-‘Spare me!’ cried Trotty, falling on his knees; ‘for Mercy’s sake!’
+‘Spare me!’ cried Trotty, falling on his knees; ‘for [[Mercy]]’s sake!’
 
-‘Listen!’ said the Shadow.
+‘Listen!’ said the [[Shadow]].
 
 ‘Listen!’ cried the other Shadows.
 
@@ -220,32 +220,32 @@ recognised as having heard before.
 
 The organ sounded faintly in the church below.  Swelling by degrees, the
 melody ascended to the roof, and filled the choir and nave.  Expanding
-more and more, it rose up, up; up, up; higher, higher, higher up;
+more and more, it [[Rose|rose]] up, up; up, up; higher, higher, higher up;
 awakening agitated hearts within the burly piles of oak: the hollow
-bells, the iron-bound doors, the stairs of solid stone; until the tower
+[[Bells|bells]], the iron-bound doors, the stairs of solid stone; until the tower
 walls were insufficient to contain it, and it soared into the sky.
 
-No wonder that an old man’s breast could not contain a sound so vast and
-mighty.  It broke from that weak prison in a rush of tears; and Trotty
+No [[Wonder|wonder]] that an old man’s breast could not contain a sound so vast and
+mighty.  It broke from that weak [[Prison|prison]] in a rush of [[Tears|tears]]; and Trotty
 put his hands before his face.
 
-‘Listen!’ said the Shadow.
+‘Listen!’ said the [[Shadow]].
 
 ‘Listen!’ said the other Shadows.
 
-‘Listen!’ said the child’s voice.
+‘Listen!’ said the [[Child|child]]’s voice.
 
-A solemn strain of blended voices, rose into the tower.
+A solemn strain of blended voices, [[Rose|rose]] into the tower.
 
-It was a very low and mournful strain—a Dirge—and as he listened, Trotty
-heard his child among the singers.
+It was a very low and mournful strain—a [[Dirge]]—and as he listened, Trotty
+heard his [[Child|child]] among the singers.
 
 ‘She is dead!’ exclaimed the old man.  ‘Meg is dead!  Her Spirit calls to
 me.  I hear it!’
 
-‘The Spirit of your child bewails the dead, and mingles with the
+‘The Spirit of your [[Child|child]] bewails the dead, and mingles with the
 dead—dead hopes, dead fancies, dead imaginings of youth,’ returned the
-Bell, ‘but she is living.  Learn from her life, a living truth.  Learn
+Bell, ‘but she is living.  Learn from her life, a living [[Truth|truth]].  Learn
 from the creature dearest to your heart, how bad the bad are born.  See
 every bud and leaf plucked one by one from off the fairest stem, and know
 how bare and wretched it may be.  Follow her!  To desperation!’
@@ -257,15 +257,15 @@ downward.
 
 ‘Go!  It stands behind you!’
 
-Trotty turned, and saw—the child!  The child Will Fern had carried in the
-street; the child whom Meg had watched, but now, asleep!
+Trotty turned, and saw—the [[Child|child]]!  The [[Child|child]] [[Will Fern]] had carried in the
+street; the [[Child|child]] whom Meg had watched, but now, asleep!
 
-‘I carried her myself, to-night,’ said Trotty.  ‘In these arms!’
+‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
 
 ‘Show him what he calls himself,’ said the dark figures, one and all.
 
 The tower opened at his feet.  He looked down, and beheld his own form,
-lying at the bottom, on the outside: crushed and motionless.
+lying at the [[Bottom|bottom]], on the outside: crushed and motionless.
 
 ‘No more a living man!’ cried Trotty.  ‘Dead!’
 
@@ -281,49 +281,49 @@ outside of this tower in the dark, fell down—a year ago?’
 ‘Nine years ago!’ replied the figures.
 
 As they gave the answer, they recalled their outstretched hands; and
-where their figures had been, there the Bells were.
+where their figures had been, there [[The Bells|the Bells]] were.
 
-And they rung; their time being come again.  And once again, vast
+And they rung; their [[Time|time]] being come again.  And once again, vast
 multitudes of phantoms sprung into existence; once again, were
 incoherently engaged, as they had been before; once again, faded on the
 stopping of the Chimes; and dwindled into nothing.
 
 ‘What are these?’ he asked his guide.  ‘If I am not mad, what are these?’
 
-‘Spirits of the Bells.  Their sound upon the air,’ returned the child.
+‘Spirits of [[The Bells|the Bells]].  Their sound upon the air,’ returned the [[Child|child]].
 ‘They take such shapes and occupations as the hopes and thoughts of
 mortals, and the recollections they have stored up, give them.’
 
 ‘And you,’ said Trotty wildly.  ‘What are you?’
 
-‘Hush, hush!’ returned the child.  ‘Look here!’
+‘Hush, hush!’ returned the [[Child|child]].  ‘Look here!’
 
 In a poor, mean room; working at the same kind of embroidery which he had
 often, often seen before her; Meg, his own dear daughter, was presented
 to his view.  He made no effort to imprint his kisses on her face; he did
 not strive to clasp her to his loving heart; he knew that such
 endearments were, for him, no more.  But, he held his trembling breath,
-and brushed away the blinding tears, that he might look upon her; that he
+and brushed away the blinding [[Tears|tears]], that he might look upon her; that he
 might only see her.
 
 Ah!  Changed.  Changed.  The light of the clear eye, how dimmed.  The
 bloom, how faded from the cheek.  Beautiful she was, as she had ever
-been, but Hope, Hope, Hope, oh where was the fresh Hope that had spoken
+been, but [[Hope]], [[Hope]], [[Hope]], oh where was the fresh [[Hope]] that had spoken
 to him like a voice!
 
 She looked up from her work, at a companion.  Following her eyes, the old
 man started back.
 
 In the woman grown, he recognised her at a glance.  In the long silken
-hair, he saw the self-same curls; around the lips, the child’s expression
+hair, he saw the [[Self|self]]-same curls; around the lips, the [[Child|child]]’s expression
 lingering still.  See!  In the eyes, now turned inquiringly on Meg, there
-shone the very look that scanned those features when he brought her home!
+shone the very look that scanned those features when he brought her [[Home|home]]!
 
 Then what was this, beside him!
 
 Looking with awe into its face, he saw a something reigning there: a
 lofty something, undefined and indistinct, which made it hardly more than
-a remembrance of that child—as yonder figure might be—yet it was the
+a remembrance of that [[Child|child]]—as yonder figure might be—yet it was the
 same: the same: and wore the dress.
 
 Hark.  They were speaking!
@@ -355,7 +355,7 @@ not to live grandly or gaily, not to live upon enough, however coarse;
 but to earn bare bread; to scrape together just enough to toil upon, and
 want upon, and keep alive in us the consciousness of our hard fate!  Oh
 Meg, Meg!’ she raised her voice and twined her arms about her as she
-spoke, like one in pain.  ‘How can the cruel world go round, and bear to
+spoke, like one in [[Pain|pain]].  ‘How can the cruel world go round, and bear to
 look upon such lives!’
 
 ‘Lilly!’ said Meg, soothing her, and putting back her hair from her wet
@@ -366,24 +366,24 @@ her face imploringly.  ‘The worst of all, the worst of all!  Strike me
 old, Meg!  Wither me, and shrivel me, and free me from the dreadful
 thoughts that tempt me in my youth!’
 
-Trotty turned to look upon his guide.  But the Spirit of the child had
+Trotty turned to look upon his guide.  But the Spirit of the [[Child|child]] had
 taken flight.  Was gone.
 
 Neither did he himself remain in the same place; for, Sir Joseph Bowley,
 Friend and Father of the Poor, held a great festivity at Bowley Hall, in
-honour of the natal day of Lady Bowley.  And as Lady Bowley had been born
+[[Honour|honour]] of the natal day of Lady Bowley.  And as Lady Bowley had been born
 on New Year’s Day (which the local newspapers considered an especial
-pointing of the finger of Providence to number One, as Lady Bowley’s
+pointing of the finger of [[Providence]] to number One, as Lady Bowley’s
 destined figure in Creation), it was on a New Year’s Day that this
 festivity took place.
 
 Bowley Hall was full of visitors.  The red-faced gentleman was there, Mr.
-Filer was there, the great Alderman Cute was there—Alderman Cute had a
+Filer was there, the great [[Alderman Cute]] was there—[[Alderman Cute]] had a
 sympathetic feeling with great people, and had considerably improved his
 acquaintance with Sir Joseph Bowley on the strength of his attentive
 letter: indeed had become quite a friend of the family since then—and
-many guests were there.  Trotty’s ghost was there, wandering about, poor
-phantom, drearily; and looking for its guide.
+many guests were there.  Trotty’s [[Ghost|ghost]] was there, wandering about, poor
+[[Phantom|phantom]], drearily; and looking for its guide.
 
 There was to be a great dinner in the Great Hall.  At which Sir Joseph
 Bowley, in his celebrated character of Friend and Father of the Poor, was
@@ -397,37 +397,37 @@ But, there was more than this to happen.  Even more than this.  Sir
 Joseph Bowley, Baronet and Member of Parliament, was to play a match at
 skittles—real skittles—with his tenants!
 
-‘Which quite reminds me,’ said Alderman Cute, ‘of the days of old King
-Hal, stout King Hal, bluff King Hal.  Ah!  Fine character!’
+‘Which quite reminds me,’ said [[Alderman Cute]], ‘of the days of old [[King]]
+Hal, stout [[King]] Hal, bluff [[King]] Hal.  Ah!  Fine character!’
 
 ‘Very,’ said Mr. Filer, dryly.  ‘For marrying women and murdering ’em.
 Considerably more than the average number of wives by the bye.’
 
 ‘You’ll marry the beautiful ladies, and not murder ’em, eh?’ said
-Alderman Cute to the heir of Bowley, aged twelve.  ‘Sweet boy!  We shall
+[[Alderman Cute]] to the heir of Bowley, aged twelve.  ‘Sweet boy!  We shall
 have this little gentleman in Parliament now,’ said the Alderman, holding
 him by the shoulders, and looking as reflective as he could, ‘before we
 know where we are.  We shall hear of his successes at the poll; his
-speeches in the House; his overtures from Governments; his brilliant
+speeches in the [[house|House]]; his overtures from Governments; his brilliant
 achievements of all kinds; ah! we shall make our little orations about
-him in the Common Council, I’ll be bound; before we have time to look
+him in the Common Council, I’ll be bound; before we have [[Time|time]] to look
 about us!’
 
 ‘Oh, the difference of shoes and stockings!’ Trotty thought.  But his
-heart yearned towards the child, for the love of those same shoeless and
+heart yearned towards the [[Child|child]], for the [[Love|love]] of those same shoeless and
 stockingless boys, predestined (by the Alderman) to turn out bad, who
 might have been the children of poor Meg.
 
-‘Richard,’ moaned Trotty, roaming among the company, to and fro; ‘where
-is he?  I can’t find Richard!  Where is Richard?’  Not likely to be
-there, if still alive!  But Trotty’s grief and solitude confused him; and
+‘[[Richard]],’ moaned Trotty, roaming among the company, to and fro; ‘where
+is he?  I can’t find [[Richard]]!  Where is [[Richard]]?’  Not likely to be
+there, if still alive!  But Trotty’s grief and [[Solitude|solitude]] confused him; and
 he still went wandering among the gallant company, looking for his guide,
-and saying, ‘Where is Richard?  Show me Richard!’
+and saying, ‘Where is [[Richard]]?  Show me [[Richard]]!’
 
 He was wandering thus, when he encountered Mr. Fish, the confidential
 Secretary: in great agitation.
 
-‘Bless my heart and soul!’ cried Mr. Fish.  ‘Where’s Alderman Cute?  Has
+‘Bless my heart and [[Soul|soul]]!’ cried Mr. Fish.  ‘Where’s [[Alderman Cute]]?  Has
 anybody seen the Alderman?’
 
 Seen the Alderman?  Oh dear!  Who could ever help seeing the Alderman?
@@ -437,18 +437,18 @@ constantly On View.  And wherever the great people were, there, to be
 sure, attracted by the kindred sympathy between great souls, was Cute.
 
 Several voices cried that he was in the circle round Sir Joseph.  Mr.
-Fish made way there; found him; and took him secretly into a window near
+Fish made way there; found him; and took him secretly into a [[Window|window]] near
 at hand.  Trotty joined them.  Not of his own accord.  He felt that his
 steps were led in that direction.
 
-‘My dear Alderman Cute,’ said Mr. Fish.  ‘A little more this way.  The
+‘My dear [[Alderman Cute]],’ said Mr. Fish.  ‘A little more this way.  The
 most dreadful circumstance has occurred.  I have this moment received the
 intelligence.  I think it will be best not to acquaint Sir Joseph with it
 till the day is over.  You understand Sir Joseph, and will give me your
 opinion.  The most frightful and deplorable event!’
 
 ‘Fish!’ returned the Alderman.  ‘Fish!  My good fellow, what is the
-matter?  Nothing revolutionary, I hope!  No—no attempted interference
+matter?  Nothing revolutionary, I [[Hope|hope]]!  No—no attempted interference
 with the magistrates?’
 
 ‘Deedles, the banker,’ gasped the Secretary.  ‘Deedles Brothers—who was
@@ -460,17 +460,17 @@ to have been here to-day—high in office in the Goldsmiths’ Company—’
 
 ‘Good God!’
 
-‘Put a double-barrelled pistol to his mouth, in his own counting house,’
+‘Put a [[Double|double]]-barrelled [[Pistol|pistol]] to his mouth, in his own counting [[house]],’
 said Mr. Fish, ‘and blew his brains out.  No motive.  Princely
 circumstances!’
 
 ‘Circumstances!’ exclaimed the Alderman.  ‘A man of noble fortune.  One
-of the most respectable of men.  Suicide, Mr. Fish!  By his own hand!’
+of the most respectable of men.  [[suicide|Suicide]], Mr. Fish!  By his own hand!’
 
 ‘This very morning,’ returned Mr. Fish.
 
 ‘Oh the brain, the brain!’ exclaimed the pious Alderman, lifting up his
-hands.  ‘Oh the nerves, the nerves; the mysteries of this machine called
+hands.  ‘Oh the nerves, the nerves; the mysteries of this [[Machine|machine]] called
 Man!  Oh the little that unhinges it: poor creatures that we are!
 Perhaps a dinner, Mr. Fish.  Perhaps the conduct of his son, who, I have
 heard, ran very wild, and was in the habit of drawing bills upon him
@@ -481,65 +481,65 @@ respectable man!  But there is One above.  We must submit, Mr. Fish.  We
 must submit!’
 
 What, Alderman!  No word of Putting Down?  Remember, Justice, your high
-moral boast and pride.  Come, Alderman!  Balance those scales.  Throw me
-into this, the empty one, no dinner, and Nature’s founts in some poor
+moral boast and [[Pride|pride]].  Come, Alderman!  Balance those scales.  Throw me
+into this, the empty one, no dinner, and [[Nature]]’s founts in some poor
 woman, dried by starving misery and rendered obdurate to claims for which
 her offspring _has_ authority in holy mother Eve.  Weigh me the two, you
 Daniel, going to judgment, when your day shall come!  Weigh them, in the
-eyes of suffering thousands, audience (not unmindful) of the grim farce
+eyes of [[Suffering|suffering]] thousands, audience (not unmindful) of the grim farce
 you play.  Or supposing that you strayed from your five wits—it’s not so
 far to go, but that it might be—and laid hands upon that throat of yours,
 warning your fellows (if you have a fellow) how they croak their
 comfortable wickedness to raving heads and stricken hearts.  What then?
 
-The words rose up in Trotty’s breast, as if they had been spoken by some
-other voice within him.  Alderman Cute pledged himself to Mr. Fish that
-he would assist him in breaking the melancholy catastrophe to Sir Joseph
+The words [[Rose|rose]] up in Trotty’s breast, as if they had been spoken by some
+other voice within him.  [[Alderman Cute]] pledged himself to Mr. Fish that
+he would assist him in breaking the [[Melancholy|melancholy]] catastrophe to Sir Joseph
 when the day was over.  Then, before they parted, wringing Mr. Fish’s
-hand in bitterness of soul, he said, ‘The most respectable of men!’  And
+hand in bitterness of [[Soul|soul]], he said, ‘The most respectable of men!’  And
 added that he hardly knew (not even he), why such afflictions were
 allowed on earth.
 
 ‘It’s almost enough to make one think, if one didn’t know better,’ said
-Alderman Cute, ‘that at times some motion of a capsizing nature was going
+[[Alderman Cute]], ‘that at times some motion of a capsizing [[Nature|nature]] was going
 on in things, which affected the general economy of the social fabric.
 Deedles Brothers!’
 
-The skittle-playing came off with immense success.  Sir Joseph knocked
+The skittle-playing came off with immense [[success]].  Sir Joseph knocked
 the pins about quite skilfully; Master Bowley took an innings at a
 shorter distance also; and everybody said that now, when a Baronet and
 the Son of a Baronet played at skittles, the country was coming round
 again, as fast as it could come.
 
-At its proper time, the Banquet was served up.  Trotty involuntarily
+At its proper [[Time|time]], the Banquet was served up.  Trotty involuntarily
 repaired to the Hall with the rest, for he felt himself conducted thither
 by some stronger impulse than his own free will.  The sight was gay in
 the extreme; the ladies were very handsome; the visitors delighted,
 cheerful, and good-tempered.  When the lower doors were opened, and the
-people flocked in, in their rustic dresses, the beauty of the spectacle
+people flocked in, in their rustic dresses, the [[Beauty|beauty]] of the spectacle
 was at its height; but Trotty only murmured more and more, ‘Where is
-Richard!  He should help and comfort her!  I can’t see Richard!’
+[[Richard]]!  He should help and comfort her!  I can’t see [[Richard]]!’
 
 There had been some speeches made; and Lady Bowley’s health had been
 proposed; and Sir Joseph Bowley had returned thanks, and had made his
 great speech, showing by various pieces of evidence that he was the born
 Friend and Father, and so forth; and had given as a Toast, his Friends
 and Children, and the Dignity of Labour; when a slight disturbance at the
-bottom of the Hall attracted Toby’s notice.  After some confusion, noise,
+[[Bottom|bottom]] of the Hall attracted Toby’s notice.  After some confusion, noise,
 and opposition, one man broke through the rest, and stood forward by
 himself.
 
-Not Richard.  No.  But one whom he had thought of, and had looked for,
+Not [[Richard]].  No.  But one whom he had thought of, and had looked for,
 many times.  In a scantier supply of light, he might have doubted the
-identity of that worn man, so old, and grey, and bent; but with a blaze
-of lamps upon his gnarled and knotted head, he knew Will Fern as soon as
+[[Identity|identity]] of that worn man, so old, and grey, and bent; but with a blaze
+of lamps upon his gnarled and knotted head, he knew [[Will Fern]] as soon as
 he stepped forth.
 
 ‘What is this!’ exclaimed Sir Joseph, rising.  ‘Who gave this man
-admittance?  This is a criminal from prison!  Mr. Fish, sir, _will_ you
+admittance?  This is a criminal from [[Prison|prison]]!  Mr. Fish, sir, _will_ you
 have the goodness—’
 
-‘A minute!’ said Will Fern.  ‘A minute!  My Lady, you was born on this
+‘A minute!’ said [[Will Fern]].  ‘A minute!  My Lady, you was born on this
 day along with a New Year.  Get me a minute’s leave to speak.’
 
 She made some intercession for him.  Sir Joseph took his seat again, with
@@ -552,19 +552,19 @@ company, and made his homage to them with a humble bow.
 
 ‘Just come from jail,’ said Mr. Fish.
 
-‘Just come from jail,’ said Will.  ‘And neither for the first time, nor
+‘Just come from jail,’ said Will.  ‘And neither for the first [[Time|time]], nor
 the second, nor the third, nor yet the fourth.’
 
 Mr. Filer was heard to remark testily, that four times was over the
 average; and he ought to be ashamed of himself.
 
-‘Gentlefolks!’ repeated Will Fern.  ‘Look at me!  You see I’m at the
-worst.  Beyond all hurt or harm; beyond your help; for the time when your
+‘Gentlefolks!’ repeated [[Will Fern]].  ‘Look at me!  You see I’m at the
+worst.  Beyond all hurt or harm; beyond your help; for the [[Time|time]] when your
 kind words or kind actions could have done me good,’—he struck his hand
 upon his breast, and shook his head, ‘is gone, with the scent of last
 year’s beans or clover on the air.  Let me say a word for these,’
 pointing to the labouring people in the Hall; ‘and when you’re met
-together, hear the real Truth spoke out for once.’
+together, hear the real [[Truth]] spoke out for once.’
 
 ‘There’s not a man here,’ said the host, ‘who would have him for a
 spokesman.’
@@ -573,13 +573,13 @@ spokesman.’
 what I say.  Perhaps that’s a proof on it.  Gentlefolks, I’ve lived many
 a year in this place.  You may see the cottage from the sunk fence over
 yonder.  I’ve seen the ladies draw it in their books, a hundred times.
-It looks well in a picter, I’ve heerd say; but there an’t weather in
+It looks [[Well|well]] in a picter, I’ve heerd say; but there an’t weather in
 picters, and maybe ’tis fitter for that, than for a place to live in.
-Well!  I lived there.  How hard—how bitter hard, I lived there, I won’t
+[[Well]]!  I lived there.  How hard—how bitter hard, I lived there, I won’t
 say.  Any day in the year, and every day, you can judge for your own
 selves.’
 
-He spoke as he had spoken on the night when Trotty found him in the
+He spoke as he had spoken on the [[Night|night]] when Trotty found him in the
 street.  His voice was deeper and more husky, and had a trembling in it
 now and then; but he never raised it passionately, and seldom lifted it
 above the firm stern level of the homely facts he stated.
@@ -591,46 +591,46 @@ for me or done for me.  I’m past it.’
 
 ‘I am glad this man has entered,’ observed Sir Joseph, looking round
 serenely.  ‘Don’t disturb him.  It appears to be Ordained.  He is an
-example: a living example.  I hope and trust, and confidently expect,
+example: a living example.  I [[Hope|hope]] and trust, and confidently expect,
 that it will not be lost upon my Friends here.’
 
-‘I dragged on,’ said Fern, after a moment’s silence, ‘somehow.  Neither
+‘I dragged on,’ said Fern, after a moment’s [[Silence|silence]], ‘somehow.  Neither
 me nor any other man knows how; but so heavy, that I couldn’t put a
 cheerful face upon it, or make believe that I was anything but what I
 was.  Now, gentlemen—you gentlemen that sits at Sessions—when you see a
 man with discontent writ on his face, you says to one another, “He’s
-suspicious.  I has my doubts,” says you, “about Will Fern.  Watch that
+suspicious.  I has my doubts,” says you, “about [[Will Fern]].  Watch that
 fellow!”  I don’t say, gentlemen, it ain’t quite nat’ral, but I say ’tis
-so; and from that hour, whatever Will Fern does, or lets alone—all one—it
+so; and from that hour, whatever [[Will Fern]] does, or lets [[Alone|alone]]—all one—it
 goes against him.’
 
-Alderman Cute stuck his thumbs in his waistcoat-pockets, and leaning back
+[[Alderman Cute]] stuck his thumbs in his waistcoat-pockets, and leaning back
 in his chair, and smiling, winked at a neighbouring chandelier.  As much
 as to say, ‘Of course!  I told you so.  The common cry!  Lord bless you,
-we are up to all this sort of thing—myself and human nature.’
+we are up to all this sort of thing—myself and human [[Nature|nature]].’
 
-‘Now, gentlemen,’ said Will Fern, holding out his hands, and flushing for
+‘Now, gentlemen,’ said [[Will Fern]], holding out his hands, and flushing for
 an instant in his haggard face, ‘see how your laws are made to trap and
 hunt us when we’re brought to this.  I tries to live elsewhere.  And I’m
 a vagabond.  To jail with him!  I comes back here.  I goes a-nutting in
 your woods, and breaks—who don’t?—a limber branch or two.  To jail with
 him!  One of your keepers sees me in the broad day, near my own patch of
-garden, with a gun.  To jail with him!  I has a nat’ral angry word with
+[[Garden|garden]], with a gun.  To jail with him!  I has a nat’ral angry word with
 that man, when I’m free again.  To jail with him!  I cuts a stick.  To
 jail with him!  I eats a rotten apple or a turnip.  To jail with him!
-It’s twenty mile away; and coming back I begs a trifle on the road.  To
+It’s twenty mile away; and coming back I begs a trifle on the [[Road|road]].  To
 jail with him!  At last, the constable, the keeper—anybody—finds me
 anywhere, a-doing anything.  To jail with him, for he’s a vagrant, and a
-jail-bird known; and jail’s the only home he’s got.’
+jail-bird known; and jail’s the only [[Home|home]] he’s got.’
 
-The Alderman nodded sagaciously, as who should say, ‘A very good home
+The Alderman nodded sagaciously, as who should say, ‘A very good [[Home|home]]
 too!’
 
 ‘Do I say this to serve MY cause!’ cried Fern.  ‘Who can give me back my
 liberty, who can give me back my good name, who can give me back my
-innocent niece?  Not all the Lords and Ladies in wide England.  But,
+[[Innocent|innocent]] niece?  Not all the Lords and Ladies in wide England.  But,
 gentlemen, gentlemen, dealing with other men like me, begin at the right
-end.  Give us, in mercy, better homes when we’re a-lying in our cradles;
+end.  Give us, in [[Mercy|mercy]], better homes when we’re a-lying in our cradles;
 give us better food when we’re a-working for our lives; give us kinder
 laws to bring us back when we're a-going wrong; and don’t set jail, jail,
 jail, afore us, everywhere we turn.  There an’t a condescension you can
@@ -638,8 +638,8 @@ show the Labourer then, that he won’t take, as ready and as grateful as a
 man can be; for, he has a patient, peaceful, willing heart.  But you must
 put his rightful spirit in him first; for, whether he’s a wreck and ruin
 such as me, or is like one of them that stand here now, his spirit is
-divided from you at this time.  Bring it back, gentlefolks, bring it
-back!  Bring it back, afore the day comes when even his Bible changes in
+divided from you at this [[Time|time]].  Bring it back, gentlefolks, bring it
+back!  Bring it back, afore the day comes when even his [[Bible]] changes in
 his altered mind, and the words seem to him to read, as they have
 sometimes read in my own eyes—in jail: “Whither thou goest, I can Not go;
 where thou lodgest, I do Not lodge; thy people are Not my people; Nor thy
@@ -654,14 +654,14 @@ before; and with no Lilian by her side.
 
 The frame at which she had worked, was put away upon a shelf and covered
 up.  The chair in which she had sat, was turned against the wall.  A
-history was written in these little things, and in Meg’s grief-worn face.
+[[history]] was written in these little things, and in Meg’s grief-worn face.
 Oh! who could fail to read it!
 
 Meg strained her eyes upon her work until it was too dark to see the
-threads; and when the night closed in, she lighted her feeble candle and
+threads; and when the [[Night|night]] closed in, she lighted her feeble candle and
 worked on.  Still her old father was invisible about her; looking down
 upon her; loving her—how dearly loving her!—and talking to her in a
-tender voice about the old times, and the Bells.  Though he knew, poor
+tender voice about the old times, and [[The Bells|the Bells]].  Though he knew, poor
 Trotty, though he knew she could not hear him.
 
 A great part of the evening had worn away, when a knock came at her door.
@@ -672,15 +672,15 @@ having been a man of good proportion and good features in his youth.
 
 He stopped until he had her leave to enter; and she, retiring a pace or
 two from the open door, silently and sorrowfully looked upon him.  Trotty
-had his wish.  He saw Richard.
+had his wish.  He saw [[Richard]].
 
 ‘May I come in, Margaret?’
 
 ‘Yes!  Come in.  Come in!’
 
-It was well that Trotty knew him before he spoke; for with any doubt
+It was [[Well|well]] that Trotty knew him before he spoke; for with any [[Doubt|doubt]]
 remaining on his mind, the harsh discordant voice would have persuaded
-him that it was not Richard but some other man.
+him that it was not [[Richard]] but some other man.
 
 There were but two chairs in the room.  She gave him hers, and stood at
 some short distance from him, waiting to hear what he had to say.
@@ -703,15 +703,15 @@ he entered.
 ‘And early.’
 
 ‘So she said.  She said you never tired; or never owned that you tired.
-Not all the time you lived together.  Not even when you fainted, between
-work and fasting.  But I told you that, the last time I came.’
+Not all the [[Time|time]] you lived together.  Not even when you fainted, between
+work and fasting.  But I told you that, the last [[Time|time]] I came.’
 
 ‘You did,’ she answered.  ‘And I implored you to tell me nothing more;
-and you made me a solemn promise, Richard, that you never would.’
+and you made me a solemn promise, [[Richard]], that you never would.’
 
 ‘A solemn promise,’ he repeated, with a drivelling laugh and vacant
 stare.  ‘A solemn promise.  To be sure.  A solemn promise!’  Awakening,
-as it were, after a time; in the same manner as before; he said with
+as it were, after a [[Time|time]]; in the same manner as before; he said with
 sudden animation:
 
 ‘How can I help it, Margaret?  What am I to do?  She has been to me
@@ -720,21 +720,21 @@ again!’
 ‘Again!’ cried Meg, clasping her hands.  ‘O, does she think of me so
 often!  Has she been again!’
 
-‘Twenty times again,’ said Richard.  ‘Margaret, she haunts me.  She comes
+‘Twenty times again,’ said [[Richard]].  ‘Margaret, she haunts me.  She comes
 behind me in the street, and thrusts it in my hand.  I hear her foot upon
 the ashes when I’m at my work (ha, ha! that an’t often), and before I can
-turn my head, her voice is in my ear, saying, “Richard, don’t look round.
-For Heaven’s love, give her this!”  She brings it where I live: she sends
-it in letters; she taps at the window and lays it on the sill.  What
+turn my head, her voice is in my ear, saying, “[[Richard]], don’t look round.
+For Heaven’s [[Love|love]], give her this!”  She brings it where I live: she sends
+it in letters; she taps at the [[Window|window]] and lays it on the sill.  What
 _can_ I do?  Look at it!’
 
 He held out in his hand a little purse, and chinked the money it
 enclosed.
 
-‘Hide it,’ said Meg.  ‘Hide it!  When she comes again, tell her, Richard,
-that I love her in my soul.  That I never lie down to sleep, but I bless
+‘Hide it,’ said Meg.  ‘Hide it!  When she comes again, tell her, [[Richard]],
+that I [[Love|love]] her in my [[Soul|soul]].  That I never lie down to [[Sleep|sleep]], but I bless
 her, and pray for her.  That, in my solitary work, I never cease to have
-her in my thoughts.  That she is with me, night and day.  That if I died
+her in my thoughts.  That she is with me, [[Night|night]] and day.  That if I died
 to-morrow, I would remember her with my last breath.  But, that I cannot
 look upon it!’
 
@@ -751,12 +751,12 @@ O, Lilian, Lilian!’
 
 ‘I saw her,’ he went on to say, not answering, but engaged in the same
 slow pursuit of his own thoughts.  ‘There she stood: trembling!  “How
-does she look, Richard?  Does she ever speak of me?  Is she thinner?  My
+does she look, [[Richard]]?  Does she ever speak of me?  Is she thinner?  My
 old place at the table: what’s in my old place?  And the frame she taught
-me our old work on—has she burnt it, Richard!”  There she was.  I heard
+me our old work on—has she burnt it, [[Richard]]!”  There she was.  I heard
 her say it.’
 
-Meg checked her sobs, and with the tears streaming from her eyes, bent
+Meg checked her sobs, and with the [[Tears|tears]] streaming from her eyes, bent
 over him to listen.  Not to lose a breath.
 
 With his arms resting on his knees; and stooping forward in his chair, as
@@ -764,49 +764,49 @@ if what he said were written on the ground in some half legible
 character, which it was his occupation to decipher and connect; he went
 on.
 
-‘“Richard, I have fallen very low; and you may guess how much I have
+‘“[[Richard]], I have fallen very low; and you may guess how much I have
 suffered in having this sent back, when I can bear to bring it in my hand
-to you.  But you loved her once, even in my memory, dearly.  Others
+to you.  But you loved her once, even in my [[Memory|memory]], dearly.  Others
 stepped in between you; fears, and jealousies, and doubts, and vanities,
-estranged you from her; but you did love her, even in my memory!”  I
+estranged you from her; but you did [[Love|love]] her, even in my [[Memory|memory]]!”  I
 suppose I did,’ he said, interrupting himself for a moment.  ‘I did!
-That’s neither here nor there—“O Richard, if you ever did; if you have
-any memory for what is gone and lost, take it to her once more.  Once
+That’s neither here nor there—“O [[Richard]], if you ever did; if you have
+any [[Memory|memory]] for what is gone and lost, take it to her once more.  Once
 more!  Tell her how I laid my head upon your shoulder, where her own head
-might have lain, and was so humble to you, Richard.  Tell her that you
-looked into my face, and saw the beauty which she used to praise, all
+might have lain, and was so humble to you, [[Richard]].  Tell her that you
+looked into my face, and saw the [[Beauty|beauty]] which she used to praise, all
 gone: all gone: and in its place, a poor, wan, hollow cheek, that she
 would weep to see.  Tell her everything, and take it back, and she will
 not refuse again.  She will not have the heart!”’
 
 So he sat musing, and repeating the last words, until he woke again, and
-rose.
+[[Rose|rose]].
 
 ‘You won’t take it, Margaret?’
 
 She shook her head, and motioned an entreaty to him to leave her.
 
-‘Good night, Margaret.’
+‘Good [[Night|night]], Margaret.’
 
-‘Good night!’
+‘Good [[Night|night]]!’
 
 He turned to look upon her; struck by her sorrow, and perhaps by the pity
 for himself which trembled in her voice.  It was a quick and rapid
 action; and for the moment some flash of his old bearing kindled in his
 form.  In the next he went as he had come.  Nor did this glimmer of a
-quenched fire seem to light him to a quicker sense of his debasement.
+quenched [[Fire|fire]] seem to light him to a quicker sense of his debasement.
 
-In any mood, in any grief, in any torture of the mind or body, Meg’s work
-must be done.  She sat down to her task, and plied it.  Night, midnight.
+In any mood, in any grief, in any torture of the mind or [[Body|body]], Meg’s work
+must be done.  She sat down to her task, and plied it.  [[Night]], midnight.
 Still she worked.
 
-She had a meagre fire, the night being very cold; and rose at intervals
+She had a meagre [[Fire|fire]], the [[Night|night]] being very cold; and [[Rose|rose]] at intervals
 to mend it.  The Chimes rang half-past twelve while she was thus engaged;
 and when they ceased she heard a gentle knocking at the door.  Before she
-could so much as wonder who was there, at that unusual hour, it opened.
+could so much as [[Wonder|wonder]] who was there, at that unusual hour, it opened.
 
-O Youth and Beauty, happy as ye should be, look at this.  O Youth and
-Beauty, blest and blessing all within your reach, and working out the
+O Youth and [[Beauty]], happy as ye should be, look at this.  O Youth and
+[[Beauty]], blest and blessing all within your reach, and working out the
 ends of your Beneficent Creator, look at this!
 
 She saw the entering figure; screamed its name; cried ‘Lilian!’
@@ -818,21 +818,21 @@ It was swift, and fell upon its knees before her: clinging to her dress.
 ‘Never more, Meg; never more!  Here!  Here!  Close to you, holding to
 you, feeling your dear breath upon my face!’
 
-‘Sweet Lilian!  Darling Lilian!  Child of my heart—no mother’s love can
+‘Sweet Lilian!  Darling Lilian!  [[Child]] of my heart—no mother’s [[Love|love]] can
 be more tender—lay your head upon my breast!’
 
 ‘Never more, Meg.  Never more!  When I first looked into your face, you
 knelt before me.  On my knees before you, let me die.  Let it be here!’
 
 ‘You have come back.  My Treasure!  We will live together, work together,
-hope together, die together!’
+[[Hope|hope]] together, die together!’
 
 ‘Ah!  Kiss my lips, Meg; fold your arms about me; press me to your bosom;
 look kindly on me; but don’t raise me.  Let it be here.  Let me see the
 last of your dear face upon my knees!’
 
-O Youth and Beauty, happy as ye should be, look at this!  O Youth and
-Beauty, working out the ends of your Beneficent Creator, look at this!
+O Youth and [[Beauty]], happy as ye should be, look at this!  O Youth and
+[[Beauty]], working out the ends of your Beneficent Creator, look at this!
 
 ‘Forgive me, Meg!  So dear, so dear!  Forgive me!  I know you do, I see
 you do, but say so, Meg!’
@@ -840,9 +840,9 @@ you do, but say so, Meg!’
 She said so, with her lips on Lilian’s cheek.  And with her arms twined
 round—she knew it now—a broken heart.
 
-‘His blessing on you, dearest love.  Kiss me once more!  He suffered her
-to sit beside His feet, and dry them with her hair.  O Meg, what Mercy
+‘His blessing on you, dearest [[Love|love]].  Kiss me once more!  He suffered her
+to sit beside His feet, and dry them with her hair.  O Meg, what [[Mercy]]
 and Compassion!’
 
-As she died, the Spirit of the child returning, innocent and radiant,
+As she died, the Spirit of the [[Child|child]] returning, [[Innocent|innocent]] and radiant,
 touched the old man with its hand, and beckoned him away.

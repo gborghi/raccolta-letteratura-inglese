@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)"
+title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -26,9 +26,9 @@ to blush to hear of them?’
 Although not old by years--for when did you ever hear me say, or who has
 ever heard me say, that a girl of twenty was old by years!--your cousin
 is the wife of the Doctor, and, as such, what I have described her. It
-is well for you, John, that your cousin is the wife of the Doctor. You
+is [[Well|well]] for you, John, that your cousin is the wife of the Doctor. You
 have found in him an influential and kind friend, who will be kinder
-yet, I venture to predict, if you deserve it. I have no false pride.
+yet, I venture to predict, if you deserve it. I have no false [[Pride|pride]].
 I never hesitate to admit, frankly, that there are some members of our
 family who want a friend. You were one yourself, before your cousin’s
 influence raised up one for you.’
@@ -51,7 +51,7 @@ consent to be put down. I shall begin to assert the privileges of a
 mother-in-law, if you go on like that, and scold you. I am perfectly
 honest and outspoken. What I am saying, is what I said when you first
 overpowered me with surprise--you remember how surprised I was?--by
-proposing for Annie. Not that there was anything so very much out of
+proposing [[For Annie|for Annie]]. Not that there was anything so very much out of
 the way, in the mere fact of the proposal--it would be ridiculous to say
 that!--but because, you having known her poor father, and having known
 her from a baby six months old, I hadn’t thought of you in such a light
@@ -61,30 +61,30 @@ at all, or indeed as a marrying man in any way,--simply that, you know.’
 
 ‘But I DO mind,’ said the Old Soldier, laying her fan upon his lips. ‘I
 mind very much. I recall these things that I may be contradicted if I am
-wrong. Well! Then I spoke to Annie, and I told her what had happened.
+wrong. [[Well]]! Then I spoke to Annie, and I told her what had happened.
 I said, “My dear, here’s Doctor Strong has positively been and made you
 the subject of a handsome declaration and an offer.” Did I press it in
-the least? No. I said, “Now, Annie, tell me the truth this moment; is
+the least? No. I said, “Now, Annie, tell me the [[Truth|truth]] this moment; is
 your heart free?” “Mama,” she said crying, “I am extremely young”--which
 was perfectly true--“and I hardly know if I have a heart at all.” “Then,
 my dear,” I said, “you may rely upon it, it’s free. At all events, my
-love,” said I, “Doctor Strong is in an agitated state of mind, and
+[[Love|love]],” said I, “Doctor Strong is in an agitated state of mind, and
 must be answered. He cannot be kept in his present state of suspense.”
  “Mama,” said Annie, still crying, “would he be unhappy without me? If he
-would, I honour and respect him so much, that I think I will have him.”
+would, I [[Honour|honour]] and respect him so much, that I think I will have him.”
  So it was settled. And then, and not till then, I said to Annie, “Annie,
 Doctor Strong will not only be your husband, but he will represent your
 late father: he will represent the head of our family, he will represent
 the wisdom and station, and I may say the means, of our family; and will
-be, in short, a Boon to it.” I used the word at the time, and I have
+be, in short, a Boon to it.” I used the word at the [[Time|time]], and I have
 used it again, today. If I have any merit it is consistency.’
 
 The daughter had sat quite silent and still during this speech, with her
 eyes fixed on the ground; her cousin standing near her, and looking on
 the ground too. She now said very softly, in a trembling voice:
 
-‘Mama, I hope you have finished?’ ‘No, my dear Annie,’ returned the Old
-Soldier, ‘I have not quite finished. Since you ask me, my love, I reply
+‘Mama, I [[Hope|hope]] you have finished?’ ‘No, my dear Annie,’ returned the Old
+Soldier, ‘I have not quite finished. Since you ask me, my [[Love|love]], I reply
 that I have not. I complain that you really are a little unnatural
 towards your own family; and, as it is of no use complaining to you. I
 mean to complain to your husband. Now, my dear Doctor, do look at that
@@ -105,7 +105,7 @@ have, she wouldn’t.’
 pleasure.’
 
 ‘Almost the very words I said to her!’ exclaimed her mother. ‘Now
-really, another time, when I know what she would tell you but for this
+really, another [[Time|time]], when I know what she would tell you but for this
 reason, and won’t, I have a great mind, my dear Doctor, to tell you
 myself.’
 
@@ -115,7 +115,7 @@ myself.’
 
 ‘Certainly.’
 
-‘Well, then, I will!’ said the Old Soldier. ‘That’s a bargain.’ And
+‘[[Well]], then, I will!’ said the Old Soldier. ‘That’s a bargain.’ And
 having, I suppose, carried her point, she tapped the Doctor’s hand
 several times with her fan (which she kissed first), and returned
 triumphantly to her former station.
@@ -123,9 +123,9 @@ triumphantly to her former station.
 Some more company coming in, among whom were the two masters and Adams,
 the talk became general; and it naturally turned on Mr. Jack Maldon, and
 his voyage, and the country he was going to, and his various plans and
-prospects. He was to leave that night, after supper, in a post-chaise,
-for Gravesend; where the ship, in which he was to make the voyage, lay;
-and was to be gone--unless he came home on leave, or for his health--I
+prospects. He was to leave that [[Night|night]], after supper, in a post-chaise,
+for Gravesend; where the [[Ship|ship]], in which he was to make the voyage, lay;
+and was to be gone--unless he came [[Home|home]] on leave, or for his health--I
 don’t know how many years. I recollect it was settled by general
 consent that India was quite a misrepresented country, and had nothing
 objectionable in it, but a tiger or two, and a little heat in the warm

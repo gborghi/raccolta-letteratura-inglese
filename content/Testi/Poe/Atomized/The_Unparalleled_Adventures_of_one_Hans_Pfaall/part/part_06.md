@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 6)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       “How long I remained in this state it is impossible to say. It
 
-      must, however, have been no inconsiderable time, for when I
+      must, however, have been no inconsiderable [[Time|time]], for when I
 
       partially recovered the sense of existence, I found the day
 
@@ -30,7 +30,7 @@ tags:
 
       might have been anticipated. Indeed, there was much of incipient
 
-      madness in the calm survey which I began to take of my situation.
+      [[Madness|madness]] in the calm survey which I began to take of my situation.
 
       I drew up to my eyes each of my hands, one after the other, and
 
@@ -66,7 +66,7 @@ tags:
 
       never, for a moment, looked upon my ultimate safety as a question
 
-      susceptible of doubt. For a few minutes I remained wrapped in the
+      susceptible of [[Doubt|doubt]]. For a few minutes I remained wrapped in the
 
       profoundest meditation. I have a distinct recollection of
 
@@ -90,7 +90,7 @@ tags:
 
       brought them, however, after some trouble, at right angles to the
 
-      body of the buckle, and was glad to find them remain firm in that
+      [[Body|body]] of the buckle, and was glad to find them remain firm in that
 
       position. Holding the instrument thus obtained within my teeth, I
 
@@ -102,7 +102,7 @@ tags:
 
       fast the buckle, and the other end I tied, for greater security,
 
-      tightly around my wrist. Drawing now my body upwards, with a
+      tightly around my wrist. Drawing now my [[Body|body]] upwards, with a
 
       prodigious exertion of muscular force, I succeeded, at the very
 
@@ -112,7 +112,7 @@ tags:
 
 
 
-      “My body was now inclined towards the side of the car, at an
+      “My [[Body|body]] was now inclined towards the side of the car, at an
 
       angle of about forty-five degrees; but it must not be understood
 
@@ -122,7 +122,7 @@ tags:
 
       plane of the horizon; for the change of situation which I had
 
-      acquired, had forced the bottom of the car considerably outwards
+      acquired, had forced the [[Bottom|bottom]] of the car considerably outwards
 
       from my position, which was accordingly one of the most imminent
 
@@ -136,7 +136,7 @@ tags:
 
       which I was suspended had chanced to hang over the upper edge,
 
-      instead of through a crevice near the bottom of the car,—I say it
+      instead of through a crevice near the [[Bottom|bottom]] of the car,—I say it
 
       may be readily conceived that, in either of these supposed cases,
 
@@ -160,21 +160,21 @@ tags:
 
       dismay, and a chilling sense of utter helplessness and ruin. In
 
-      fact, the blood so long accumulating in the vessels of my head
+      fact, the [[Blood|blood]] so long accumulating in the vessels of my head
 
       and throat, and which had hitherto buoyed up my spirits with
 
-      madness and delirium, had now begun to retire within their proper
+      [[Madness|madness]] and delirium, had now begun to retire within their proper
 
       channels, and the distinctness which was thus added to my
 
       perception of the danger, merely served to deprive me of the
 
-      self-possession and courage to encounter it. But this weakness
+      [[Self|self]]-possession and [[Courage|courage]] to encounter it. But this weakness
 
-      was, luckily for me, of no very long duration. In good time came
+      was, luckily for me, of no very long duration. In good [[Time|time]] came
 
-      to my rescue the spirit of despair, and, with frantic cries and
+      to my rescue the spirit of [[Despair|despair]], and, with frantic cries and
 
       struggles, I jerked my way bodily upwards, till at length,
 
@@ -186,7 +186,7 @@ tags:
 
 
 
-      “It was not until some time afterward that I recovered myself
+      “It was not until some [[Time|time]] afterward that I recovered myself
 
       sufficiently to attend to the ordinary cares of the balloon. I
 

@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act III, Scene 4"
+title: "[[Henry V]] — Act III, Scene 4"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -16,7 +16,7 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Princess Catherine and Alice, an old gentlewoman |
+| *(didascalia)* | Enter [[Princess Catherine]] and Alice, an old gentlewoman |
 | CATHERINE | Alice, tu as été en Angleterre, et tu bien parles le langage. |
 | ALICE | Un peu, madame. |
 | CATHERINE | Je te prie, m‘enseignez. Il faut que j’apprenne à parler. Comment appelez-vous la main en anglais? |

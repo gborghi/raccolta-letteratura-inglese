@@ -22,9 +22,9 @@ On which occasion,’ added Mrs Merdle, quitting her nest, and putting
 something in Fanny’s hand, ‘Miss Dorrit will permit me to say Farewell
 with best wishes in my own dull manner.’
 
-The sisters rose at the same time, and they all stood near the cage of
+The sisters [[Rose|rose]] at the same [[Time|time]], and they all stood near the cage of
 the parrot, as he tore at a claw-full of biscuit and spat it out, seemed
-to mock them with a pompous dance of his body without moving his feet,
+to mock them with a pompous [[Dance|dance]] of his [[Body|body]] without moving his feet,
 and suddenly turned himself upside down and trailed himself all over
 the outside of his golden cage, with the aid of his cruel beak and black
 tongue.
@@ -43,7 +43,7 @@ They came down-stairs with powder before them and powder behind, the
 elder sister haughty and the younger sister humbled, and were shut out
 into unpowdered Harley Street, Cavendish Square.
 
-‘Well?’ said Fanny, when they had gone a little way without speaking.
+‘[[Well]]?’ said Fanny, when they had gone a little way without speaking.
 ‘Have you nothing to say, Amy?’
 
 ‘Oh, I don’t know what to say!’ she answered, distressed. ‘You didn’t
@@ -55,9 +55,9 @@ like this young man, Fanny?’
 say, I am so very sorry, Fanny, that you suffered this lady to give you
 anything.’
 
-‘You little Fool!’ returned her sister, shaking her with the sharp pull
+‘You little [[Fool]]!’ returned her sister, shaking her with the sharp pull
 she gave her arm. ‘Have you no spirit at all? But that’s just the way!
-You have no self-respect, you have no becoming pride, just as you allow
+You have no [[Self|self]]-respect, you have no becoming [[Pride|pride]], just as you allow
 yourself to be followed about by a contemptible little Chivery of a
 thing,’ with the scornfullest emphasis, ‘you would let your family be
 trodden on, and never turn.’
@@ -73,7 +73,7 @@ it?’
 ‘No, Fanny, I am sure.’
 
 ‘Then make her pay for it, you mean little thing. What else can you make
-her do? Make her pay for it, you stupid child; and do your family some
+her do? Make her pay for it, you stupid [[Child|child]]; and do your family some
 credit with the money!’
 
 They spoke no more all the way back to the lodging where Fanny and her
@@ -83,9 +83,9 @@ Fanny had a composite meal to make, of chops, and porter, and tea; and
 indignantly pretended to prepare it for herself, though her sister did
 all that in quiet reality. When at last Fanny sat down to eat and drink,
 she threw the table implements about and was angry with her bread, much
-as her father had been last night.
+as her father had been last [[Night|night]].
 
-‘If you despise me,’ she said, bursting into vehement tears, ‘because I
+‘If you despise me,’ she said, bursting into vehement [[Tears|tears]], ‘because I
 am a dancer, why did you put me in the way of being one? It was your
 doing. You would have me stoop as low as the ground before this Mrs
 Merdle, and let her say what she liked and do what she liked, and hold
@@ -98,7 +98,7 @@ likes, without any check--I suppose because he has been in the law, and
 the docks, and different things. Why, it was your doing, Amy. You might
 at least approve of his being defended.’
 
-All this time the uncle was dolefully blowing his clarionet in the
+All this [[Time|time]] the uncle was dolefully blowing his clarionet in the
 corner, sometimes taking it an inch or so from his mouth for a moment
 while he stopped to gaze at them, with a vague impression that somebody
 had said something.
@@ -110,8 +110,8 @@ work, you might at least feel for him, I should think, knowing what he
 has undergone so long.’
 
 Poor Little Dorrit felt the injustice of this taunt rather sharply.
-The remembrance of last night added a barbed point to it. She said
-nothing in reply, but turned her chair from the table towards the fire.
+The remembrance of last [[Night|night]] added a barbed point to it. She said
+nothing in reply, but turned her chair from the table towards the [[Fire|fire]].
 Uncle, after making one more pause, blew a dismal wail and went on
 again.
 
@@ -125,7 +125,7 @@ pardon, Amy,’ and ‘Forgive me, Amy,’ almost as passionately as she had
 said what she regretted.
 
 ‘But indeed, indeed, Amy,’ she resumed when they were seated in sisterly
-accord side by side, ‘I hope and I think you would have seen this
+accord side by side, ‘I [[Hope|hope]] and I think you would have seen this
 differently, if you had known a little more of Society.’
 
 ‘Perhaps I might, Fanny,’ said the mild Little Dorrit.
@@ -147,16 +147,16 @@ Little Dorrit again nodded ‘Yes,’ with a more cheerful face than heart.
 the place to which you have been so true, which does belong to it, and
 which does make it different from other aspects of Society. So kiss me
 once again, Amy dear, and we will agree that we may both be right, and
-that you are a tranquil, domestic, home-loving, good girl.’
+that you are a tranquil, domestic, [[Home|home]]-loving, good girl.’
 
 The clarionet had been lamenting most pathetically during this dialogue,
-but was cut short now by Fanny’s announcement that it was time to go;
+but was cut short now by Fanny’s announcement that it was [[Time|time]] to go;
 which she conveyed to her uncle by shutting up his scrap of music, and
 taking the clarionet out of his mouth.
 
 Little Dorrit parted from them at the door, and hastened back to the
 Marshalsea. It fell dark there sooner than elsewhere, and going into it
-that evening was like going into a deep trench. The shadow of the wall
+that evening was like going into a deep trench. The [[Shadow|shadow]] of the wall
 was on every object. Not least upon the figure in the old grey gown and
 the black velvet cap, as it turned towards her when she opened the door
 of the dim room.

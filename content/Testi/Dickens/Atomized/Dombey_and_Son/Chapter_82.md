@@ -22,11 +22,11 @@ Your most obedient, Sir,” said the Major. “Damme, Sir, a friend of my
 friend Dombey’s is a friend of mine, and I’m glad to see you!”
 
 “I am infinitely obliged, Carker,” explained Mr Dombey, “to Major
-Bagstock, for his company and conversation. Major Bagstock has rendered
+Bagstock, for his company and conversation. [[Major Bagstock]] has rendered
 me great service, Carker.”
 
 Mr Carker the Manager, hat in hand, just arrived at Leamington, and
-just introduced to the Major, showed the Major his whole double range
+just introduced to the Major, showed the Major his whole [[Double|double]] range
 of teeth, and trusted he might take the liberty of thanking him with
 all his heart for having effected so great an Improvement in Mr
 Dombey’s looks and spirits.
@@ -36,13 +36,13 @@ me, for it’s a give and take affair. A great creature like our friend
 Dombey, Sir,” said the Major, lowering his voice, but not lowering it
 so much as to render it inaudible to that gentleman, “cannot help
 improving and exalting his friends. He strengthens and invigorates a
-man, Sir, does Dombey, in his moral nature.”
+man, Sir, does Dombey, in his moral [[Nature|nature]].”
 
-Mr Carker snapped at the expression. In his moral nature. Exactly. The
+Mr Carker snapped at the expression. In his moral [[Nature|nature]]. Exactly. The
 very words he had been on the point of suggesting.
 
 “But when my friend Dombey, Sir,” added the Major, “talks to you of
-Major Bagstock, I must crave leave to set him and you right. He means
+[[Major Bagstock]], I must crave leave to set him and you right. He means
 plain Joe, Sir—Joey B.—Josh. Bagstock—Joseph—rough and tough Old J.,
 Sir. At your service.”
 
@@ -57,7 +57,7 @@ amount of business to talk over.”
 
 “Dombey,” said the Major, defiantly, “I know better; a man of your
 mark—the Colossus of commerce—is not to be interrupted. Your moments
-are precious. We shall meet at dinner-time. In the interval, old Joseph
+are precious. We shall meet at dinner-[[Time|time]]. In the interval, old Joseph
 will be scarce. The dinner-hour is a sharp seven, Mr Carker.”
 
 With that, the Major, greatly swollen as to his face, withdrew; but
@@ -90,7 +90,7 @@ following him with his teeth.
 
 “Very great indeed,” said Mr Dombey.
 
-“He has friends here, no doubt,” pursued Carker. “I perceive, from what
+“He has friends here, no [[Doubt|doubt]],” pursued Carker. “I perceive, from what
 he has said, that you go into society here. Do you know,” smiling
 horribly, “I am so very glad that you go into society!”
 
@@ -99,21 +99,21 @@ second in command, by twirling his watch-chain, and slightly moving his
 head.
 
 “You were formed for society,” said Carker. “Of all the men I know, you
-are the best adapted, by nature and by position, for society. Do you
+are the best adapted, by [[Nature|nature]] and by position, for society. Do you
 know I have been frequently amazed that you should have held it at
 arm’s length so long!”
 
-“I have had my reasons, Carker. I have been alone, and indifferent to
+“I have had my reasons, Carker. I have been [[Alone|alone]], and indifferent to
 it. But you have great social qualifications yourself, and are the more
 likely to have been surprised.”
 
-“Oh! I!” returned the other, with ready self-disparagement. “It’s quite
+“Oh! I!” returned the other, with ready [[Self|self]]-disparagement. “It’s quite
 another matter in the case of a man like me. I don’t come into
 comparison with you.”
 
 Mr Dombey put his hand to his neckcloth, settled his chin in it,
 coughed, and stood looking at his faithful friend and servant for a few
-moments in silence.
+moments in [[Silence|silence]].
 
 “I shall have the pleasure, Carker,” said Mr Dombey at length: making
 as if he swallowed something a little too large for his throat: “to
@@ -142,22 +142,22 @@ showed him every gum of which it stood possessed.
 “You are very kind,” said Carker, “I shall be delighted to know them.
 Speaking of daughters, I have seen Miss Dombey.”
 
-There was a sudden rush of blood to Mr Dombey’s face.
+There was a sudden rush of [[Blood|blood]] to Mr Dombey’s face.
 
 “I took the liberty of waiting on her,” said Carker, “to inquire if she
 could charge me with any little commission. I am not so fortunate as to
-be the bearer of any but her—but her dear love.”
+be the bearer of any but her—but her dear [[Love|love]].”
 
 Wolf’s face that it was then, with even the hot tongue revealing itself
 through the stretched mouth, as the eyes encountered Mr Dombey’s!
 
 “What business intelligence is there?” inquired the latter gentleman,
-after a silence, during which Mr Carker had produced some memoranda and
+after a [[Silence|silence]], during which Mr Carker had produced some memoranda and
 other papers.
 
 “There is very little,” returned Carker. “Upon the whole we have not
 had our usual good fortune of late, but that is of little moment to
-you. At Lloyd’s, they give up the Son and Heir for lost. Well, she was
+you. At Lloyd’s, they give up the Son and Heir for lost. [[Well]], she was
 insured, from her keel to her masthead.”
 
 “Carker,” said Mr Dombey, taking a chair near him, “I cannot say that
@@ -166,17 +166,17 @@ young man, Gay, ever impressed me favourably—”
 “Nor me,” interposed the Manager.
 
 “—But I wish,” said Mr Dombey, without heeding the interruption, “he
-had never gone on board that ship. I wish he had never been sent out.
+had never gone on board that [[Ship|ship]]. I wish he had never been sent out.
 
-“It is a pity you didn’t say so, in good time, is it not?” retorted
+“It is a pity you didn’t say so, in good [[Time|time]], is it not?” retorted
 Carker, coolly. “However, I think it’s all for the best. I really,
 think it’s all for the best. Did I mention that there was something
 like a little confidence between Miss Dombey and myself?”
 
 “No,” said Mr Dombey, sternly.
 
-“I have no doubt,” returned Mr Carker, after an impressive pause, “that
-wherever Gay is, he is much better where he is, than at home here. If I
+“I have no [[Doubt|doubt]],” returned Mr Carker, after an impressive pause, “that
+wherever Gay is, he is much better where he is, than at [[Home|home]] here. If I
 were, or could be, in your place, I should be satisfied of that. I am
 quite satisfied of it myself. Miss Dombey is confiding and
 young—perhaps hardly proud enough, for your daughter—if she have a
@@ -201,14 +201,14 @@ his delicacy, and impressed it on his great chief more and more.
 While they were thus engaged; and under the skilful culture of the
 Manager, angry thoughts in reference to poor Florence brooded and bred
 in Mr Dombey’s breast, usurping the place of the cold dislike that
-generally reigned there; Major Bagstock, much admired by the old ladies
+generally reigned there; [[Major Bagstock]], much admired by the old ladies
 of Leamington, and followed by the Native, carrying the usual amount of
 light baggage, straddled along the shady side of the way, to make a
 morning call on Mrs Skewton. It being midday when the Major reached the
-bower of Cleopatra, he had the good fortune to find his Princess on her
+bower of [[Cleopatra]], he had the good fortune to find his Princess on her
 usual sofa, languishing over a cup of coffee, with the room so darkened
 and shaded for her more luxurious repose, that Withers, who was in
-attendance on her, loomed like a phantom page.
+attendance on her, loomed like a [[Phantom|phantom]] page.
 
 “What insupportable creature is this, coming in?” said Mrs Skewton, “I
 cannot hear it. Go away, whoever you are!”
@@ -217,17 +217,17 @@ cannot hear it. Go away, whoever you are!”
 midway, to remonstrate, with his cane over his shoulder.
 
 “Oh it’s you, is it? On second thoughts, you may enter,” observed
-Cleopatra.
+[[Cleopatra]].
 
 The Major entered accordingly, and advancing to the sofa pressed her
 charming hand to his lips.
 
-“Sit down,” said Cleopatra, listlessly waving her fan, “a long way off.
+“Sit down,” said [[Cleopatra]], listlessly waving her fan, “a long way off.
 Don’t come too near me, for I am frightfully faint and sensitive this
 morning, and you smell of the Sun. You are absolutely tropical.”
 
-“By George, Ma’am,” said the Major, “the time has been when Joseph
-Bagstock has been grilled and blistered by the Sun; then time was, when
+“By George, Ma’am,” said the Major, “the [[Time|time]] has been when Joseph
+Bagstock has been grilled and blistered by the Sun; then [[Time|time]] was, when
 he was forced, Ma’am, into such full blow, by high hothouse heat in the
 West Indies, that he was known as the Flower. A man never heard of
 Bagstock, Ma’am, in those days; he heard of the Flower—the Flower of
@@ -237,45 +237,45 @@ cruel Divinity, “but it is a tough plant yet, and constant as the
 evergreen.”
 
 Here the Major, under cover of the dark room, shut up one eye, rolled
-his head like a Harlequin, and, in his great self-satisfaction, perhaps
+his head like a Harlequin, and, in his great [[Self|self]]-satisfaction, perhaps
 went nearer to the confines of apoplexy than he had ever gone before.
 
-“Where is Mrs Granger?” inquired Cleopatra of her page.
+“Where is Mrs Granger?” inquired [[Cleopatra]] of her page.
 
 Withers believed she was in her own room.
 
-“Very well,” said Mrs Skewton. “Go away, and shut the door. I am
+“Very [[Well|well]],” said Mrs Skewton. “Go away, and shut the door. I am
 engaged.”
 
 As Withers disappeared, Mrs Skewton turned her head languidly towards
 the Major, without otherwise moving, and asked him how his friend was.
 
 “Dombey, Ma’am,” returned the Major, with a facetious gurgling in his
-throat, “is as well as a man in his condition can be. His condition is
+throat, “is as [[Well|well]] as a man in his condition can be. His condition is
 a desperate one, Ma’am. He is touched, is Dombey! Touched!” cried the
-Major. “He is bayonetted through the body.”
+Major. “He is bayonetted through the [[Body|body]].”
 
-Cleopatra cast a sharp look at the Major, that contrasted forcibly with
+[[Cleopatra]] cast a sharp look at the Major, that contrasted forcibly with
 the affected drawl in which she presently said:
 
-“Major Bagstock, although I know but little of the world,—nor can I
-really regret my experience, for I fear it is a false place, full of
-withering conventionalities: where Nature is but little regarded, and
-where the music of the heart, and the gushing of the soul, and all that
+“[[Major Bagstock]], although I know but little of the world,—nor can I
+really regret my experience, for I [[Fear|fear]] it is a false place, full of
+withering conventionalities: where [[Nature]] is but little regarded, and
+where the music of the heart, and the gushing of the [[Soul|soul]], and all that
 sort of thing, which is so truly poetical, is seldom heard,—I cannot
 misunderstand your meaning. There is an allusion to Edith—to my
-extremely dear child,” said Mrs Skewton, tracing the outline of her
+extremely dear [[Child|child]],” said Mrs Skewton, tracing the outline of her
 eyebrows with her forefinger, “in your words, to which the tenderest of
 chords vibrates excessively.”
 
 “Bluntness, Ma’am,” returned the Major, “has ever been the
 characteristic of the Bagstock breed. You are right. Joe admits it.”
 
-“And that allusion,” pursued Cleopatra, “would involve one of the
+“And that allusion,” pursued [[Cleopatra]], “would involve one of the
 most—if not positively the most—touching, and thrilling, and sacred
-emotions of which our sadly-fallen nature is susceptible, I conceive.”
+emotions of which our sadly-fallen [[Nature|nature]] is susceptible, I conceive.”
 
-The Major laid his hand upon his lips, and wafted a kiss to Cleopatra,
+The Major laid his hand upon his lips, and wafted a kiss to [[Cleopatra]],
 as if to identify the emotion in question.
 
 “I feel that I am weak. I feel that I am wanting in that energy, which
@@ -293,10 +293,10 @@ fit of wheezing, which obliged him to rise and take a turn or two about
 the room, before his fair friend could proceed.
 
 “Mr Dombey,” said Mrs Skewton, when she at length resumed, “was
-obliging enough, now many weeks ago, to do us the honour of visiting us
+obliging enough, now many weeks ago, to do us the [[Honour|honour]] of visiting us
 here; in company, my dear Major, with yourself. I acknowledge—let me be
 open—that it is my failing to be the creature of impulse, and to wear
-my heart as it were, outside. I know my failing full well. My enemy
+my heart as it were, outside. I know my failing full [[Well|well]]. My enemy
 cannot know it better. But I am not penitent; I would rather not be
 frozen by the heartless world, and am content to bear this imputation
 justly.”
@@ -317,28 +317,28 @@ silent.”
 
 “J. B. is dumb, Ma’am,” said the Major.
 
-“Mr Dombey,” pursued Cleopatra, smoothing the rosy hue upon her cheeks,
+“Mr Dombey,” pursued [[Cleopatra]], smoothing the rosy hue upon her cheeks,
 “accordingly repeated his visit; and possibly finding some attraction
 in the simplicity and primitiveness of our tastes—for there is always a
-charm in nature—it is so very sweet—became one of our little circle
+charm in [[Nature|nature]]—it is so very sweet—became one of our little circle
 every evening. Little did I think of the awful responsibility into
 which I plunged when I encouraged Mr Dombey—to”—
 
-“To beat up these quarters, Ma’am,” suggested Major Bagstock.
+“To beat up these quarters, Ma’am,” suggested [[Major Bagstock]].
 
 “Coarse person!” said Mrs Skewton, “you anticipate my meaning, though
 in odious language.”
 
 Here Mrs Skewton rested her elbow on the little table at her side, and
-suffering her wrist to droop in what she considered a graceful and
+[[Suffering|suffering]] her wrist to droop in what she considered a graceful and
 becoming manner, dangled her fan to and fro, and lazily admired her
 hand while speaking.
 
-“The agony I have endured,” she said mincingly, “as the truth has by
+“The agony I have endured,” she said mincingly, “as the [[Truth|truth]] has by
 degrees dawned upon me, has been too exceedingly terrific to dilate
 upon. My whole existence is bound up in my sweetest Edith; and to see
 her change from day to day—my beautiful pet, who has positively
-garnered up her heart since the death of that most delightful creature,
+garnered up her heart since the [[Death|death]] of that most delightful creature,
 Granger—is the most affecting thing in the world.”
 
 Mrs Skewton’s world was not a very trying one, if one might judge of it
@@ -352,27 +352,27 @@ said to resemble me. I believe we are alike.”
 resembles you, Ma’am,” said the Major; “and that man’s name is Old Joe
 Bagstock.”
 
-Cleopatra made as if she would brain the flatterer with her fan, but
+[[Cleopatra]] made as if she would brain the flatterer with her fan, but
 relenting, smiled upon him and proceeded:
 
 “If my charming girl inherits any advantages from me, wicked one!”: the
-Major was the wicked one: “she inherits also my foolish nature. She has
+Major was the wicked one: “she inherits also my foolish [[Nature|nature]]. She has
 great force of character—mine has been said to be immense, though I
 don’t believe it—but once moved, she is susceptible and sensitive to
 the last extent. What are my feelings when I see her pining! They
 destroy me.
 
-The Major advancing his double chin, and pursing up his blue lips into
+The Major advancing his [[Double|double]] chin, and pursing up his blue lips into
 a soothing expression, affected the profoundest sympathy.
 
 “The confidence,” said Mrs Skewton, “that has subsisted between us—the
-free development of soul, and openness of sentiment—is touching to
-think of. We have been more like sisters than Mama and child.”
+free development of [[Soul|soul]], and openness of sentiment—is touching to
+think of. We have been more like sisters than Mama and [[Child|child]].”
 
 “J. B.“s own sentiment,” observed the Major, “expressed by J. B. fifty
 thousand times!”
 
-“Do not interrupt, rude man!” said Cleopatra. “What are my feelings,
+“Do not interrupt, rude man!” said [[Cleopatra]]. “What are my feelings,
 then, when I find that there is one subject avoided by us! That there
 is a what’s-his-name—a gulf—opened between us. That my own artless
 Edith is changed to me! They are of the most poignant description, of
@@ -382,22 +382,22 @@ The Major left his chair, and took one nearer to the little table.
 
 “From day to day I see this, my dear Major,” proceeded Mrs Skewton.
 “From day to day I feel this. From hour to hour I reproach myself for
-that excess of faith and trustfulness which has led to such distressing
-consequences; and almost from minute to minute, I hope that Mr Dombey
+that excess of [[Faith|faith]] and trustfulness which has led to such distressing
+consequences; and almost from minute to minute, I [[Hope|hope]] that Mr Dombey
 may explain himself, and relieve the torture I undergo, which is
 extremely wearing. But nothing happens, my dear Major; I am the slave
 of remorse—take care of the coffee-cup: you are so very awkward—my
 darling Edith is an altered being; and I really don’t see what is to be
 done, or what good creature I can advise with.”
 
-Major Bagstock, encouraged perhaps by the softened and confidential
+[[Major Bagstock]], encouraged perhaps by the softened and confidential
 tone into which Mrs Skewton, after several times lapsing into it for a
 moment, seemed now to have subsided for good, stretched out his hand
 across the little table, and said with a leer,
 
 “Advise with Joe, Ma’am.”
 
-“Then, you aggravating monster,” said Cleopatra, giving one hand to the
+“Then, you aggravating [[Monster|monster]],” said [[Cleopatra]], giving one hand to the
 Major, and tapping his knuckles with her fan, which she held in the
 other: “why don’t you talk to me? you know what I mean. Why don’t you
 tell me something to the purpose?”
@@ -406,17 +406,17 @@ The Major laughed, and kissed the hand she had bestowed upon him, and
 laughed again immensely.
 
 “Is there as much Heart in Mr Dombey as I gave him credit for?”
-languished Cleopatra tenderly. “Do you think he is in earnest, my dear
+languished [[Cleopatra]] tenderly. “Do you think he is in earnest, my dear
 Major? Would you recommend his being spoken to, or his being left
-alone? Now tell me, like a dear man, what would you advise.”
+[[Alone|alone]]? Now tell me, like a dear man, what would you advise.”
 
-“Shall we marry him to Edith Granger, Ma’am?” chuckled the Major,
+“Shall we marry him to [[Edith Granger]], Ma’am?” chuckled the Major,
 hoarsely.
 
-“Mysterious creature!” returned Cleopatra, bringing her fan to bear
+“Mysterious creature!” returned [[Cleopatra]], bringing her fan to bear
 upon the Major’s nose. “How can we marry him?”
 
-“Shall we marry him to Edith Granger, Ma’am, I say?” chuckled the Major
+“Shall we marry him to [[Edith Granger]], Ma’am, I say?” chuckled the Major
 again.
 
 Mrs Skewton returned no answer in words, but smiled upon the Major with
@@ -428,7 +428,7 @@ apprehension of some danger to their bloom.
 
 “Dombey, Ma’am,” said the Major, “is a great catch.”
 
-“Oh, mercenary wretch!” cried Cleopatra, with a little shriek, “I am
+“Oh, mercenary wretch!” cried [[Cleopatra]], with a little shriek, “I am
 shocked.”
 
 “And Dombey, Ma’am,” pursued the Major, thrusting forward his head, and
@@ -437,60 +437,60 @@ J. B. keeps him to the mark. Leave Dombey to himself, Ma’am. Dombey is
 safe, Ma’am. Do as you have done; do no more; and trust to J. B. for
 the end.”
 
-“You really think so, my dear Major?” returned Cleopatra, who had eyed
+“You really think so, my dear Major?” returned [[Cleopatra]], who had eyed
 him very cautiously, and very searchingly, in spite of her listless
 bearing.
 
-“Sure of it, Ma’am,” rejoined the Major. “Cleopatra the peerless, and
+“Sure of it, Ma’am,” rejoined the Major. “[[Cleopatra]] the peerless, and
 her Antony Bagstock, will often speak of this, triumphantly, when
 sharing the elegance and wealth of Edith Dombey’s establishment.
 Dombey’s right-hand man, Ma’am,” said the Major, stopping abruptly in a
 chuckle, and becoming serious, “has arrived.”
 
-“This morning?” said Cleopatra.
+“This morning?” said [[Cleopatra]].
 
 “This morning, Ma’am,” returned the Major. “And Dombey’s anxiety for
 his arrival, Ma’am, is to be referred—take J. B.“s word for this; for
 Joe is devilish sly”—the Major tapped his nose, and screwed up one of
-his eyes tight: which did not enhance his native beauty—“to his desire
-that what is in the wind should become known to him” without Dombey’s
+his eyes tight: which did not enhance his native [[Beauty|beauty]]—“to his [[Desire|desire]]
+that what is in the [[Wind|wind]] should become known to him” without Dombey’s
 telling and consulting him. For Dombey is as proud, Ma’am,” said the
-Major, “as Lucifer.”
+Major, “as [[Lucifer]].”
 
 “A charming quality,” lisped Mrs Skewton; “reminding one of dearest
 Edith.”
 
-“Well, Ma’am,” said the Major. “I have thrown out hints already, and
+“[[Well]], Ma’am,” said the Major. “I have thrown out hints already, and
 the right-hand man understands ’em; and I’ll throw out more, before the
-day is done. Dombey projected this morning a ride to Warwick Castle,
+day is done. Dombey projected this morning a ride to Warwick [[Castle]],
 and to Kenilworth, to-morrow, to be preceded by a breakfast with us. I
-undertook the delivery of this invitation. Will you honour us so far,
+undertook the delivery of this invitation. Will you [[Honour|honour]] us so far,
 Ma’am?” said the Major, swelling with shortness of breath and slyness,
 as he produced a note, addressed to the Honourable Mrs Skewton, by
-favour of Major Bagstock, wherein hers ever faithfully, Paul Dombey,
+favour of [[Major Bagstock]], wherein hers ever faithfully, [[Paul Dombey]],
 besought her and her amiable and accomplished daughter to consent to
 the proposed excursion; and in a postscript unto which, the same ever
-faithfully Paul Dombey entreated to be recalled to the remembrance of
+faithfully [[Paul Dombey]] entreated to be recalled to the remembrance of
 Mrs Granger.
 
-“Hush!” said Cleopatra, suddenly, “Edith!”
+“Hush!” said [[Cleopatra]], suddenly, “Edith!”
 
 The loving mother can scarcely be described as resuming her insipid and
 affected air when she made this exclamation; for she had never cast it
 off; nor was it likely that she ever would or could, in any other place
-than in the grave. But hurriedly dismissing whatever shadow of
+than in the [[Grave|grave]]. But hurriedly dismissing whatever [[Shadow|shadow]] of
 earnestness, or faint confession of a purpose, laudable or wicked, that
 her face, or voice, or manner: had, for the moment, betrayed, she
-lounged upon the couch, her most insipid and most languid self again,
+lounged upon the couch, her most insipid and most languid [[Self|self]] again,
 as Edith entered the room.
 
 Edith, so beautiful and stately, but so cold and so repelling. Who,
-slightly acknowledging the presence of Major Bagstock, and directing a
-keen glance at her mother, drew back from a window, and sat down there,
+slightly acknowledging the presence of [[Major Bagstock]], and directing a
+keen glance at her mother, drew back from a [[Window|window]], and sat down there,
 looking out.
 
 “My dearest Edith,” said Mrs Skewton, “where on earth have you been? I
-have wanted you, my love, most sadly.”
+have wanted you, my [[Love|love]], most sadly.”
 
 “You said you were engaged, and I stayed away,” she answered, without
 turning her head.
@@ -501,12 +501,12 @@ turning her head.
 such calm disdain, that the Major was discomfited, and could think of
 nothing in reply.
 
-“Major Bagstock, my darling Edith,” drawled her mother, “who is
+“[[Major Bagstock]], my darling Edith,” drawled her mother, “who is
 generally the most useless and disagreeable creature in the world: as
 you know—”
 
 “It is surely not worthwhile, Mama,” said Edith, looking round, “to
-observe these forms of speech. We are quite alone. We know each other.”
+observe these forms of speech. We are quite [[Alone|alone]]. We know each other.”
 
 The quiet scorn that sat upon her handsome face—a scorn that evidently
 lighted on herself, no less than them—was so intense and deep, that her
@@ -517,8 +517,8 @@ drooped before it.
 
 “Not woman yet?” said Edith, with a smile.
 
-“How very odd you are today, my dear! Pray let me say, my love, that
-Major Bagstock has brought the kindest of notes from Mr Dombey,
+“How very odd you are today, my dear! Pray let me say, my [[Love|love]], that
+[[Major Bagstock]] has brought the kindest of notes from Mr Dombey,
 proposing that we should breakfast with him to-morrow, and ride to
 Warwick and Kenilworth. Will you go, Edith?”
 
@@ -528,11 +528,11 @@ she looked round at her mother.
 “I knew you would, my own, observed the latter carelessly. “It is, as
 you say, quite a form to ask. Here is Mr Dombey’s letter, Edith.”
 
-“Thank you. I have no desire to read it,” was her answer.
+“Thank you. I have no [[Desire|desire]] to read it,” was her answer.
 
 “Then perhaps I had better answer it myself,” said Mrs Skewton, “though
 I had thought of asking you to be my secretary, darling.” As Edith made
-no movement, and no answer, Mrs Skewton begged the Major to wheel her
+no movement, and no answer, Mrs Skewton begged the Major to [[Wheel|wheel]] her
 little table nearer, and to set open the desk it contained, and to take
 out pen and paper for her; all which congenial offices of gallantry the
 Major discharged, with much submission and devotion.
@@ -550,26 +550,26 @@ to put it in the pocket of his pantaloons on account of the insecurity
 of his waistcoat. The Major then took a very polished and chivalrous
 farewell of both ladies, which the elder one acknowledged in her usual
 manner, while the younger, sitting with her face addressed to the
-window, bent her head so slightly that it would have been a greater
+[[Window|window]], bent her head so slightly that it would have been a greater
 compliment to the Major to have made no sign at all, and to have left
 him to infer that he had not been heard or thought of.
 
 “As to alteration in her, Sir,” mused the Major on his way back; on
 which expedition—the afternoon being sunny and hot—he ordered the
-Native and the light baggage to the front, and walked in the shadow of
+Native and the light baggage to the front, and walked in the [[Shadow|shadow]] of
 that expatriated prince: “as to alteration, Sir, and pining, and so
 forth, that won’t go down with Joseph Bagstock, None of that, Sir. It
 won’t do here. But as to there being something of a division between
 ’em—or a gulf as the mother calls it—damme, Sir, that seems true
-enough. And it’s odd enough! Well, Sir!” panted the Major, “Edith
-Granger and Dombey are well matched; let ’em fight it out! Bagstock
+enough. And it’s odd enough! [[Well]], Sir!” panted the Major, “Edith
+Granger and Dombey are [[Well|well]] matched; let ’em fight it out! Bagstock
 backs the winner!”
 
 The Major, by saying these latter words aloud, in the vigour of his
 thoughts, caused the unhappy Native to stop, and turn round, in the
 belief that he was personally addressed. Exasperated to the last degree
 by this act of insubordination, the Major (though he was swelling with
-enjoyment of his own humour), at the moment of its occurrence instantly
+enjoyment of his own [[Humour|humour]]), at the moment of its occurrence instantly
 thrust his cane among the Native’s ribs, and continued to stir him up,
 at short intervals, all the way to the hotel.
 
@@ -581,7 +581,7 @@ plumed himself on having the Native in a perfect state of drill, and
 visited the least departure from strict discipline with this kind of
 fatigue duty. Add to this, that he maintained the Native about his
 person as a counter-irritant against the gout, and all other vexations,
-mental as well as bodily; and the Native would appear to have earned
+mental as [[Well|well]] as bodily; and the Native would appear to have earned
 his pay—which was not large.
 
 At length, the Major having disposed of all the missiles that were
@@ -594,7 +594,7 @@ exercise, went downstairs to enliven “Dombey” and his right-hand man.
 Dombey was not yet in the room, but the right-hand man was there, and
 his dental treasures were, as usual, ready for the Major.
 
-“Well, Sir!” said the Major. “How have you passed the time since I had
+“[[Well]], Sir!” said the Major. “How have you passed the [[Time|time]] since I had
 the happiness of meeting you? Have you walked at all?”
 
 “A saunter of barely half an hour’s duration,” returned Carker. “We
@@ -606,9 +606,9 @@ have been so much occupied.”
 Carker. “But do you know—this is quite unusual with me, educated in a
 distrustful school, and who am not generally disposed to be
 communicative,” he said, breaking off, and speaking in a charming tone
-of frankness—“but I feel quite confidential with you, Major Bagstock.”
+of frankness—“but I feel quite confidential with you, [[Major Bagstock]].”
 
-“You do me honour, Sir,” returned the Major. “You may be.”
+“You do me [[Honour|honour]], Sir,” returned the Major. “You may be.”
 
 “Do you know, then,” pursued Carker, “that I have not found my
 friend—our friend, I ought rather to call him—”
@@ -619,8 +619,8 @@ standing here! J. B.?”
 He was puffy enough to see, and blue enough; and Mr Carker intimated
 the he had that pleasure.
 
-“Then you see a man, Sir, who would go through fire and water to serve
-Dombey,” returned Major Bagstock.
+“Then you see a man, Sir, who would go through [[Fire|fire]] and [[Water|water]] to serve
+Dombey,” returned [[Major Bagstock]].
 
 Mr Carker smiled, and said he was sure of it. “Do you know, Major,” he
 proceeded: “to resume where I left off: that I have not found our
@@ -637,13 +637,13 @@ to wander,” said Carker.
 thought you might be jesting when you seemed to hint at it; for I know
 you military men”—
 
-The Major gave the horse’s cough, and shook his head and shoulders, as
-much as to say, “Well! we are gay dogs, there’s no denying.” He then
+The Major gave the [[Horse|horse]]’s cough, and shook his head and shoulders, as
+much as to say, “[[Well]]! we are gay [[dogs]], there’s no denying.” He then
 seized Mr Carker by the button-hole, and with starting eyes whispered
 in his ear, that she was a woman of extraordinary charms, Sir. That she
 was a young widow, Sir. That she was of a fine family, Sir. That Dombey
-was over head and ears in love with her, Sir, and that it would be a
-good match on both sides; for she had beauty, blood, and talent, and
+was over head and ears in [[Love|love]] with her, Sir, and that it would be a
+good match on both sides; for she had [[Beauty|beauty]], [[Blood|blood]], and talent, and
 Dombey had fortune; and what more could any couple have? Hearing Mr
 Dombey’s footsteps without, the Major cut himself short by saying, that
 Mr Carker would see her tomorrow morning, and would judge for himself;
@@ -651,27 +651,27 @@ and between his mental excitement, and the exertion of saying all this
 in wheezy whispers, the Major sat gurgling in the throat and watering
 at the eyes, until dinner was ready.
 
-The Major, like some other noble animals, exhibited himself to great
-advantage at feeding-time. On this occasion, he shone resplendent at
+The Major, like some other noble [[Animals|animals]], exhibited himself to great
+advantage at feeding-[[Time|time]]. On this occasion, he shone resplendent at
 one end of the table, supported by the milder lustre of Mr Dombey at
 the other; while Carker on one side lent his ray to either light, or
 suffered it to merge into both, as occasion arose.
 
-During the first course or two, the Major was usually grave; for the
+During the first course or two, the Major was usually [[Grave|grave]]; for the
 Native, in obedience to general orders, secretly issued, collected
 every sauce and cruet round him, and gave him a great deal to do, in
 taking out the stoppers, and mixing up the contents in his plate.
 Besides which, the Native had private zests and flavours on a
 side-table, with which the Major daily scorched himself; to say nothing
 of strange machines out of which he spirited unknown liquids into the
-Major’s drink. But on this occasion, Major Bagstock, even amidst these
-many occupations, found time to be social; and his sociality consisted
+Major’s drink. But on this occasion, [[Major Bagstock]], even amidst these
+many occupations, found [[Time|time]] to be social; and his sociality consisted
 in excessive slyness for the behoof of Mr Carker, and the betrayal of
 Mr Dombey’s state of mind.
 
 “Dombey,” said the Major, “you don’t eat; what’s the matter?”
 
-“Thank you,” returned the gentleman, “I am doing very well; I have no
+“Thank you,” returned the gentleman, “I am doing very [[Well|well]]; I have no
 great appetite today.”
 
 “Why, Dombey, what’s become of it?” asked the Major. “Where’s it gone?
@@ -710,7 +710,7 @@ This was respectful and becoming on the Major’s part, and Mr Dombey
 plainly felt it so. Although embarrassed in his own frigid way, by the
 Major’s allusions, Mr Dombey had no objection to such rallying, it was
 clear, but rather courted it. Perhaps the Major had been pretty near
-the truth, when he had divined that morning that the great man who was
+the [[Truth|truth]], when he had divined that morning that the great man who was
 too haughty formally to consult with, or confide in his prime minister,
 on such a matter, yet wished him to be fully possessed of it. Let this
 be how it may, he often glanced at Mr Carker while the Major plied his
@@ -726,12 +726,12 @@ stories, and cracking regimental jokes, which he did with such prodigal
 exuberance, that Carker was (or feigned to be) quite exhausted with
 laughter and admiration: while Mr Dombey looked on over his starched
 cravat, like the Major’s proprietor, or like a stately showman who was
-glad to see his bear dancing well.
+glad to see his bear dancing [[Well|well]].
 
 When the Major was too hoarse with meat and drink, and the display of
 his social powers, to render himself intelligible any longer, they
 adjourned to coffee. After which, the Major inquired of Mr Carker the
-Manager, with little apparent hope of an answer in the affirmative, if
+Manager, with little apparent [[Hope|hope]] of an answer in the affirmative, if
 he played picquet.
 
 “Yes, I play picquet a little,” said Mr Carker.
@@ -742,7 +742,7 @@ he played picquet.
 
 “Carker plays at all games, I believe,” said Mr Dombey, laying himself
 on a sofa like a man of wood, without a hinge or a joint in him; “and
-plays them well.”
+plays them [[Well|well]].”
 
 In sooth, he played the two in question, to such perfection, that the
 Major was astonished, and asked him, at random, if he played chess.
@@ -757,25 +757,25 @@ who plays nothing.”
 
 “Oh! He!” returned the Manager. “He has never had occasion to acquire
 such little arts. To men like me, they are sometimes useful. As at
-present, Major Bagstock, when they enable me to take a hand with you.”
+present, [[Major Bagstock]], when they enable me to take a hand with you.”
 
 It might be only the false mouth, so smooth and wide; and yet there
-seemed to lurk beneath the humility and subserviency of this short
+seemed to lurk beneath the [[Humility|humility]] and subserviency of this short
 speech, a something like a snarl; and, for a moment, one might have
 thought that the white teeth were prone to bite the hand they fawned
 upon. But the Major thought nothing about it; and Mr Dombey lay
 meditating with his eyes half shut, during the whole of the play, which
-lasted until bed-time.
+lasted until bed-[[Time|time]].
 
-By that time, Mr Carker, though the winner, had mounted high into the
+By that [[Time|time]], Mr Carker, though the winner, had mounted high into the
 Major’s good opinion, insomuch that when he left the Major at his own
 room before going to bed, the Major as a special attention, sent the
 Native—who always rested on a mattress spread upon the ground at his
 master’s door—along the gallery, to light him to his room in state.
 
-There was a faint blur on the surface of the mirror in Mr Carker’s
+There was a faint blur on the surface of the [[Mirror|mirror]] in Mr Carker’s
 chamber, and its reflection was, perhaps, a false one. But it showed,
-that night, the image of a man, who saw, in his fancy, a crowd of
+that [[Night|night]], the image of a man, who saw, in his fancy, a crowd of
 people slumbering on the ground at his feet, like the poor Native at
 his master’s door: who picked his way among them: looking down,
 maliciously enough: but trod upon no upturned face—as yet.

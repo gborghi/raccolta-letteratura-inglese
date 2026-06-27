@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act II, Scene 1 — exchange (TROILUS) [7]"
+title: "[[Troilus]] and [[Cressida]] — Act II, Scene 1 — exchange ([[Troilus|TROILUS]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TROILUS | Why, there you touched the life of our design. Were it not glory that we more affected Than the performance of our heaving spleens, I would not wish a drop of Trojan blood Spent more in her defence. But, worthy Hector, She is a theme of honour and renown, A spur to valiant and magnanimous deeds, Whose present courage may beat down our foes, And fame in time to come canonize us— For I presume brave Hector would not lose So rich advantage of a promised glory As smiles upon the forehead of this action For the wide world’s revenue. |
-| HECTOR | I am yours, You valiant offspring of great Priamus. I have a roisting challenge sent amongst The dull and factious nobles of the Greeks Will shriek amazement to their drowsy spirits. I was advertised their great general slept Whilst emulation in the army crept; This I presume will wake him. Flourish. Exeunt |
+| [[Troilus|TROILUS]] | Why, there you touched the life of our design. Were it not glory that we more affected Than the performance of our heaving spleens, I would not wish a drop of Trojan [[Blood|blood]] Spent more in her defence. But, worthy [[Hector]], She is a theme of [[Honour|honour]] and renown, A spur to valiant and magnanimous deeds, Whose present [[Courage|courage]] may beat down our foes, And fame in [[Time|time]] to come canonize us— For I presume brave [[Hector]] would not lose So rich advantage of a promised glory As smiles upon the forehead of this action For the wide world’s revenue. |
+| [[Hector|HECTOR]] | I am yours, You valiant offspring of great Priamus. I have a roisting challenge sent amongst The dull and factious nobles of the Greeks Will shriek amazement to their drowsy spirits. I was advertised their great general slept Whilst emulation in the army crept; This I presume will wake him. Flourish. Exeunt |

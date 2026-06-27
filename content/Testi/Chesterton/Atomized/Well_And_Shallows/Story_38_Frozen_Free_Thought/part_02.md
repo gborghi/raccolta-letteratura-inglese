@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Frozen Free Thought (part 2)"
+title: "[[Well]] And Shallows — Frozen Free Thought (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -22,7 +22,7 @@ his Romish censure, and are dubbed, spitefully, 'lame giants'."
 It is not very spiteful to call an author a giant; but anyone
 consulting the book will see that the men I called "lame giants"
 were not "the great authors of the nineteenth century,"
-but specially the English authors of the Victorian time;
+but specially the English authors of the Victorian [[Time|time]];
 whom I compared unfavourably with the franker and bolder
 Freethinkers of France and the Continent.  Thus I praised Renan
 as a more logical sceptic than Tennyson, who was a lame sceptic,
@@ -30,10 +30,10 @@ hampered by respectability and provincial religion.  You would
 think a Freethinker would recognise that as an obvious concession
 to Freethinkers.  But the new Freethinker does not read a book.
 He looks through it feverishly for texts to be twisted in favour
-of a prejudice, like the religious maniac with the Bible.
+of a prejudice, like the religious maniac with the [[Bible]].
 
 To take another instance.  I wrote an article, which appeared
-in the London Mercury and was called "The End of the Moderns,"
+in the [[London]] Mercury and was called "The End of the Moderns,"
 in which I tried to describe a certain quality in works like
 Brave New World, and in much of the cult of D. H. Lawrence;
 a quality (not necessarily a bad quality) of being near the end
@@ -71,7 +71,7 @@ could be of a kind that was fated to come to a finish.
 And I gave the example of the purely literary and artistic
 effect of blasphemy.  I was careful to state, in so many words,
 that I was only talking of the literary and artistic effect.
-I said the particular shock or thrill, given by breaking the silence
+I said the particular shock or thrill, given by breaking the [[Silence|silence]]
 about a sanctity, cannot be repeated indefinitely, when the sanctity
 is no longer there.  I never said a word about whether it would
 be a good thing, on general social grounds, that the sanctity
@@ -118,7 +118,7 @@ attacking atheism, and I was actually defending rationalism.
 I was doing the poor old Freethinker's job for him;
 and defending the Reason that he ought to defend.
 I was defending it against the more modern mysticism of
-D. H. Lawrence, who said that we should rebel against reason:
+D. H. Lawrence, who said that we should [[Rebel|rebel]] against reason:
 and rely entirely upon instinct and emotion.  And this, I pointed out,
 was an instance of something which, like blasphemy in literature,
 may be stimulating at the very start, but cannot run very long.

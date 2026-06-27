@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 13"
+title: "[[Jane Eyre]] — Chapter 13"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,12 +18,12 @@ CHAPTER XIII
 
 
 Mr. Rochester, it seems, by the surgeon’s orders, went to bed early
-that night; nor did he rise soon next morning. When he did come down,
+that [[Night|night]]; nor did he rise soon next morning. When he did come down,
 it was to attend to business: his agent and some of his tenants were
 arrived, and waiting to speak with him.
 
 Adèle and I had now to vacate the library: it would be in daily
-requisition as a reception-room for callers. A fire was lit in an
+requisition as a reception-room for callers. A [[Fire|fire]] was lit in an
 apartment upstairs, and there I carried our books, and arranged it for
 the future schoolroom. I discerned in the course of the morning that
 Thornfield Hall was a changed place: no longer silent as a church, it
@@ -40,7 +40,7 @@ where I knew she was not wanted; then, when I got a little angry, and
 made her sit still, she continued to talk incessantly of her “ami,
 Monsieur Edouard Fairfax _de_ Rochester,” as she dubbed him (I had not
 before heard his prenomens), and to conjecture what presents he had
-brought her: for it appears he had intimated the night before, that
+brought her: for it appears he had intimated the [[Night|night]] before, that
 when his luggage came from Millcote, there would be found amongst it a
 little box in whose contents she had an interest.
 
@@ -53,26 +53,26 @@ car c’est vrai, n’est-ce pas, mademoiselle?”
 I and my pupil dined as usual in Mrs. Fairfax’s parlour; the afternoon
 was wild and snowy, and we passed it in the schoolroom. At dark I
 allowed Adèle to put away books and work, and to run downstairs; for,
-from the comparative silence below, and from the cessation of appeals
+from the comparative [[Silence|silence]] below, and from the cessation of appeals
 to the door-bell, I conjectured that Mr. Rochester was now at liberty.
-Left alone, I walked to the window; but nothing was to be seen thence:
+Left [[Alone|alone]], I walked to the [[Window|window]]; but nothing was to be seen thence:
 twilight and snowflakes together thickened the air, and hid the very
 shrubs on the lawn. I let down the curtain and went back to the
 fireside.
 
 In the clear embers I was tracing a view, not unlike a picture I
-remembered to have seen of the castle of Heidelberg, on the Rhine, when
+remembered to have seen of the [[Castle|castle]] of Heidelberg, on the Rhine, when
 Mrs. Fairfax came in, breaking up by her entrance the fiery mosaic I
 had been piercing together, and scattering too some heavy unwelcome
-thoughts that were beginning to throng on my solitude.
+thoughts that were beginning to throng on my [[Solitude|solitude]].
 
 “Mr. Rochester would be glad if you and your pupil would take tea with
 him in the drawing-room this evening,” said she: “he has been so much
 engaged all day that he could not ask to see you before.”
 
-“When is his tea-time?” I inquired.
+“When is his tea-[[Time|time]]?” I inquired.
 
-“Oh, at six o’clock: he keeps early hours in the country. You had
+“Oh, at six o’[[Clock|clock]]: he keeps early hours in the country. You had
 better change your frock now; I will go with you and fasten it. Here is
 a candle.”
 
@@ -96,13 +96,13 @@ in her shade as we crossed that apartment; and, passing the arch, whose
 curtain was now dropped, entered the elegant recess beyond.
 
 Two wax candles stood lighted on the table, and two on the mantelpiece;
-basking in the light and heat of a superb fire, lay Pilot—Adèle knelt
+basking in the light and heat of a superb [[Fire|fire]], lay Pilot—Adèle knelt
 near him. Half reclined on a couch appeared Mr. Rochester, his foot
-supported by the cushion; he was looking at Adèle and the dog: the fire
+supported by the cushion; he was looking at Adèle and the dog: the [[Fire|fire]]
 shone full on his face. I knew my traveller with his broad and jetty
 eyebrows; his square forehead, made squarer by the horizontal sweep of
 his black hair. I recognised his decisive nose, more remarkable for
-character than beauty; his full nostrils, denoting, I thought, choler;
+character than [[Beauty|beauty]]; his full nostrils, denoting, I thought, choler;
 his grim mouth, chin, and jaw—yes, all three were very grim, and no
 mistake. His shape, now divested of cloak, I perceived harmonised in
 squareness with his physiognomy: I suppose it was a good figure in the
@@ -114,7 +114,7 @@ myself; but it appeared he was not in the mood to notice us, for he
 never lifted his head as we approached.
 
 “Here is Miss Eyre, sir,” said Mrs. Fairfax, in her quiet way. He
-bowed, still not taking his eyes from the group of the dog and child.
+bowed, still not taking his eyes from the group of the dog and [[Child|child]].
 
 “Let Miss Eyre be seated,” said he: and there was something in the
 forced stiff bow, in the impatient yet formal tone, which seemed
@@ -159,10 +159,10 @@ generally thought pleasant things.”
 
 “Generally thought? But what do _you_ think?”
 
-“I should be obliged to take time, sir, before I could give you an
+“I should be obliged to take [[Time|time]], sir, before I could give you an
 answer worthy of your acceptance: a present has many faces to it, has
 it not? and one should consider all, before pronouncing an opinion as
-to its nature.”
+to its [[Nature|nature]].”
 
 “Miss Eyre, you are not so unsophisticated as Adèle: she demands a
 ‘cadeau,’ clamorously, the moment she sees me: you beat about the
@@ -176,21 +176,21 @@ stranger, and have done nothing to entitle me to an acknowledgment.”
 
 “Oh, don’t fall back on over-modesty! I have examined Adèle, and find
 you have taken great pains with her: she is not bright, she has no
-talents; yet in a short time she has made much improvement.”
+talents; yet in a short [[Time|time]] she has made much improvement.”
 
 “Sir, you have now given me my ‘cadeau;’ I am obliged to you: it is the
 meed teachers most covet—praise of their pupils’ progress.”
 
-“Humph!” said Mr. Rochester, and he took his tea in silence.
+“Humph!” said Mr. Rochester, and he took his tea in [[Silence|silence]].
 
-“Come to the fire,” said the master, when the tray was taken away, and
+“Come to the [[Fire|fire]],” said the master, when the tray was taken away, and
 Mrs. Fairfax had settled into a corner with her knitting; while Adèle
 was leading me by the hand round the room, showing me the beautiful
 books and ornaments on the consoles and chiffonnières. We obeyed, as in
 duty bound; Adèle wanted to take a seat on my knee, but she was ordered
 to amuse herself with Pilot.
 
-“You have been resident in my house three months?”
+“You have been resident in my [[house]] three months?”
 
 “Yes, sir.”
 
@@ -202,12 +202,12 @@ to amuse herself with Pilot.
 
 “Eight years.”
 
-“Eight years! you must be tenacious of life. I thought half the time in
-such a place would have done up any constitution! No wonder you have
+“Eight years! you must be tenacious of life. I thought half the [[Time|time]] in
+such a place would have done up any constitution! No [[Wonder|wonder]] you have
 rather the look of another world. I marvelled where you had got that
-sort of face. When you came on me in Hay Lane last night, I thought
+sort of face. When you came on me in Hay Lane last [[Night|night]], I thought
 unaccountably of fairy tales, and had half a mind to demand whether you
-had bewitched my horse: I am not sure yet. Who are your parents?”
+had bewitched my [[Horse|horse]]: I am not sure yet. Who are your parents?”
 
 “I have none.”
 
@@ -227,18 +227,18 @@ the causeway?”
 I shook my head. “The men in green all forsook England a hundred years
 ago,” said I, speaking as seriously as he had done. “And not even in
 Hay Lane, or the fields about it, could you find a trace of them. I
-don’t think either summer or harvest, or winter moon, will ever shine
+don’t think either [[Summer|summer]] or harvest, or [[Winter|winter]] [[Moon|moon]], will ever shine
 on their revels more.”
 
 Mrs. Fairfax had dropped her knitting, and, with raised eyebrows,
 seemed wondering what sort of talk this was.
 
-“Well,” resumed Mr. Rochester, “if you disown parents, you must have
+“[[Well]],” resumed Mr. Rochester, “if you disown parents, you must have
 some sort of kinsfolk: uncles and aunts?”
 
 “No; none that I ever saw.”
 
-“And your home?”
+“And your [[Home|home]]?”
 
 “I have none.”
 
@@ -251,13 +251,13 @@ some sort of kinsfolk: uncles and aunts?”
 “I advertised, and Mrs. Fairfax answered my advertisement.”
 
 “Yes,” said the good lady, who now knew what ground we were upon, “and
-I am daily thankful for the choice Providence led me to make. Miss Eyre
+I am daily thankful for the choice [[Providence]] led me to make. Miss Eyre
 has been an invaluable companion to me, and a kind and careful teacher
 to Adèle.”
 
 “Don’t trouble yourself to give her a character,” returned Mr.
 Rochester: “eulogiums will not bias me; I shall judge for myself. She
-began by felling my horse.”
+began by felling my [[Horse|horse]].”
 
 “Sir?” said Mrs. Fairfax.
 
@@ -279,7 +279,7 @@ Thornfield.”
 “Only such books as came in my way; and they have not been numerous or
 very learned.”
 
-“You have lived the life of a nun: no doubt you are well drilled in
+“You have lived the life of a nun: no [[Doubt|doubt]] you are [[Well|well]] drilled in
 religious forms;—Brocklehurst, who I understand directs Lowood, is a
 parson, is he not?”
 
@@ -293,7 +293,7 @@ religieuses would worship their director.”
 “You are very cool! No! What! a novice not worship her priest! That
 sounds blasphemous.”
 
-“I disliked Mr. Brocklehurst; and I was not alone in the feeling. He is
+“I disliked Mr. Brocklehurst; and I was not [[Alone|alone]] in the feeling. He is
 a harsh man; at once pompous and meddling; he cut off our hair; and for
 economy’s sake bought us bad needles and thread, with which we could
 hardly sew.”
@@ -335,7 +335,7 @@ I departed, obeying his directions.
 
 “Enough!” he called out in a few minutes. “You play _a little_, I see;
 like any other English school-girl; perhaps rather better than some,
-but not well.”
+but not [[Well|well]].”
 
 I closed the piano and returned. Mr. Rochester continued—
 
@@ -345,7 +345,7 @@ master aided you?”
 
 “No, indeed!” I interjected.
 
-“Ah! that pricks pride. Well, fetch me your portfolio, if you can vouch
+“Ah! that pricks [[Pride|pride]]. [[Well]], fetch me your portfolio, if you can vouch
 for its contents being original; but don’t pass your word unless you
 are certain: I can recognise patchwork.”
 
@@ -359,7 +359,7 @@ Mrs. Fairfax drew near to see the pictures.
 “No crowding,” said Mr. Rochester: “take the drawings from my hand as I
 finish with them; but don’t push your faces up to mine.”
 
-He deliberately scrutinised each sketch and painting. Three he laid
+He deliberately scrutinised each [[Sketch|sketch]] and painting. Three he laid
 aside; the others, when he had examined them, he swept from him.
 
 “Take them off to the other table, Mrs. Fairfax,” said he, “and look at
@@ -369,7 +369,7 @@ hand yours?”
 
 “Yes.”
 
-“And when did you find time to do them? They have taken much time, and
+“And when did you find [[Time|time]] to do them? They have taken much [[Time|time]], and
 some thought.”
 
 “I did them in the last two vacations I spent at Lowood, when I had no
@@ -385,7 +385,7 @@ other occupation.”
 
 “Has it other furniture of the same kind within?”
 
-“I should think it may have: I should hope—better.”
+“I should think it may have: I should [[Hope|hope]]—better.”
 
 He spread the pictures before him, and again surveyed them alternately.
 
@@ -396,41 +396,41 @@ eye, before I attempted to embody them, they were striking; but my hand
 would not second my fancy, and in each case it had wrought out but a
 pale portrait of the thing I had conceived.
 
-These pictures were in water-colours. The first represented clouds low
-and livid, rolling over a swollen sea: all the distance was in eclipse;
+These pictures were in [[Water|water]]-colours. The first represented clouds low
+and livid, [[rolling]] over a swollen sea: all the distance was in eclipse;
 so, too, was the foreground; or rather, the nearest billows, for there
 was no land. One gleam of light lifted into relief a half-submerged
 mast, on which sat a cormorant, dark and large, with wings flecked with
 foam; its beak held a gold bracelet set with gems, that I had touched
 with as brilliant tints as my palette could yield, and as glittering
 distinctness as my pencil could impart. Sinking below the bird and
-mast, a drowned corpse glanced through the green water; a fair arm was
+mast, a drowned corpse glanced through the green [[Water|water]]; a fair arm was
 the only limb clearly visible, whence the bracelet had been washed or
 torn.
 
 The second picture contained for foreground only the dim peak of a
-hill, with grass and some leaves slanting as if by a breeze. Beyond and
+[[Hill|hill]], with grass and some [[Leaves|leaves]] slanting as if by a breeze. Beyond and
 above spread an expanse of sky, dark blue as at twilight: rising into
 the sky was a woman’s shape to the bust, portrayed in tints as dusk and
 soft as I could combine. The dim forehead was crowned with a star; the
 lineaments below were seen as through the suffusion of vapour; the eyes
 shone dark and wild; the hair streamed shadowy, like a beamless cloud
-torn by storm or by electric travail. On the neck lay a pale reflection
+torn by [[Storm|storm]] or by electric travail. On the neck lay a pale reflection
 like moonlight; the same faint lustre touched the train of thin clouds
-from which rose and bowed this vision of the Evening Star.
+from which [[Rose|rose]] and bowed this vision of the [[Evening Star]].
 
-The third showed the pinnacle of an iceberg piercing a polar winter
+The third showed the pinnacle of an iceberg piercing a polar [[Winter|winter]]
 sky: a muster of northern lights reared their dim lances, close
-serried, along the horizon. Throwing these into distance, rose, in the
+serried, along the horizon. Throwing these into distance, [[Rose|rose]], in the
 foreground, a head,—a colossal head, inclined towards the iceberg, and
 resting against it. Two thin hands, joined under the forehead, and
 supporting it, drew up before the lower features a sable veil; a brow
 quite bloodless, white as bone, and an eye hollow and fixed, blank of
-meaning but for the glassiness of despair, alone were visible. Above
+meaning but for the glassiness of [[Despair|despair]], [[Alone|alone]] were visible. Above
 the temples, amidst wreathed turban folds of black drapery, vague in
 its character and consistency as cloud, gleamed a ring of white flame,
 gemmed with sparkles of a more lurid tinge. This pale crescent was “the
-likeness of a kingly crown;” what it diademed was “the shape which
+likeness of a kingly [[Crown|crown]];” what it diademed was “the shape which
 shape had none.”
 
 “Were you happy when you painted these pictures?” asked Mr. Rochester
@@ -440,41 +440,41 @@ presently.
 was to enjoy one of the keenest pleasures I have ever known.”
 
 “That is not saying much. Your pleasures, by your own account, have
-been few; but I daresay you did exist in a kind of artist’s dreamland
+been few; but I daresay you did exist in a kind of [[artist]]’s dreamland
 while you blent and arranged these strange tints. Did you sit at them
 long each day?”
 
 “I had nothing else to do, because it was the vacation, and I sat at
-them from morning till noon, and from noon till night: the length of
+them from morning till [[Noon|noon]], and from [[Noon|noon]] till [[Night|night]]: the length of
 the midsummer days favoured my inclination to apply.”
 
-“And you felt self-satisfied with the result of your ardent labours?”
+“And you felt [[Self|self]]-satisfied with the result of your ardent labours?”
 
 “Far from it. I was tormented by the contrast between my idea and my
 handiwork: in each case I had imagined something which I was quite
 powerless to realise.”
 
-“Not quite: you have secured the shadow of your thought; but no more,
-probably. You had not enough of the artist’s skill and science to give
+“Not quite: you have secured the [[Shadow|shadow]] of your thought; but no more,
+probably. You had not enough of the [[artist]]’s skill and science to give
 it full being: yet the drawings are, for a school-girl, peculiar. As to
-the thoughts, they are elfish. These eyes in the Evening Star you must
-have seen in a dream. How could you make them look so clear, and yet
+the thoughts, they are elfish. These eyes in the [[Evening Star]] you must
+have seen in [[A Dream|a dream]]. How could you make them look so clear, and yet
 not at all brilliant? for the planet above quells their rays. And what
 meaning is that in their solemn depth? And who taught you to paint
-wind? There is a high gale in that sky, and on this hill-top. Where did
+[[Wind|wind]]? There is a high gale in that sky, and on this [[Hill|hill]]-top. Where did
 you see Latmos? For that is Latmos. There! put the drawings away!”
 
 I had scarce tied the strings of the portfolio, when, looking at his
 watch, he said abruptly—
 
-“It is nine o’clock: what are you about, Miss Eyre, to let Adèle sit up
+“It is nine o’[[Clock|clock]]: what are you about, Miss Eyre, to let Adèle sit up
 so long? Take her to bed.”
 
 Adèle went to kiss him before quitting the room: he endured the caress,
 but scarcely seemed to relish it more than Pilot would have done, nor
 so much.
 
-“I wish you all good-night, now,” said he, making a movement of the
+“I wish you all good-[[Night|night]], now,” said he, making a movement of the
 hand towards the door, in token that he was tired of our company, and
 wished to dismiss us. Mrs. Fairfax folded up her knitting: I took my
 portfolio: we curtseyed to him, received a frigid bow in return, and so
@@ -483,18 +483,18 @@ withdrew.
 “You said Mr. Rochester was not strikingly peculiar, Mrs. Fairfax,” I
 observed, when I rejoined her in her room, after putting Adèle to bed.
 
-“Well, is he?”
+“[[Well]], is he?”
 
 “I think so: he is very changeful and abrupt.”
 
-“True: no doubt he may appear so to a stranger, but I am so accustomed
+“True: no [[Doubt|doubt]] he may appear so to a stranger, but I am so accustomed
 to his manner, I never think of it; and then, if he has peculiarities
 of temper, allowance should be made.”
 
 “Why?”
 
-“Partly because it is his nature—and we can none of us help our nature;
-and partly because he has painful thoughts, no doubt, to harass him,
+“Partly because it is his [[Nature|nature]]—and we can none of us help our [[Nature|nature]];
+and partly because he has painful thoughts, no [[Doubt|doubt]], to harass him,
 and make his spirits unequal.”
 
 “What about?”
@@ -511,7 +511,7 @@ brother a few years since.”
 “Yes. The present Mr. Rochester has not been very long in possession of
 the property; only about nine years.”
 
-“Nine years is a tolerable time. Was he so very fond of his brother as
+“Nine years is a tolerable [[Time|time]]. Was he so very fond of his brother as
 to be still inconsolable for his loss?”
 
 “Why, no—perhaps not. I believe there were some misunderstandings
@@ -524,12 +524,12 @@ the name; and, soon after he was of age, some steps were taken that
 were not quite fair, and made a great deal of mischief. Old Mr.
 Rochester and Mr. Rowland combined to bring Mr. Edward into what he
 considered a painful position, for the sake of making his fortune: what
-the precise nature of that position was I never clearly knew, but his
+the precise [[Nature|nature]] of that position was I never clearly knew, but his
 spirit could not brook what he had to suffer in it. He is not very
 forgiving: he broke with his family, and now for many years he has led
 an unsettled kind of life. I don’t think he has ever been resident at
-Thornfield for a fortnight together, since the death of his brother
-without a will left him master of the estate; and, indeed, no wonder he
+Thornfield for a fortnight together, since the [[Death|death]] of his brother
+without a will left him master of the estate; and, indeed, no [[Wonder|wonder]] he
 shuns the old place.”
 
 “Why should he shun it?”
@@ -538,7 +538,7 @@ shuns the old place.”
 
 The answer was evasive. I should have liked something clearer; but Mrs.
 Fairfax either could not, or would not, give me more explicit
-information of the origin and nature of Mr. Rochester’s trials. She
+information of the origin and [[Nature|nature]] of Mr. Rochester’s trials. She
 averred they were a mystery to herself, and that what she knew was
 chiefly from conjecture. It was evident, indeed, that she wished me to
 drop the subject, which I did accordingly.

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 1: MARLEY'S GHOST (part 4)"
+title: "A Christmas [[carol|Carol]] — Stave 1: MARLEY'S [[Ghost|GHOST]] (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Marley's face. It was not in impenetrable shadow
+Marley's face. It was not in impenetrable [[Shadow|shadow]]
 as the other objects in the yard were, but had a
 dismal light about it, like a bad lobster in a dark
 cellar. It was not angry or ferocious, but looked
@@ -30,7 +30,7 @@ its own expression.
 As Scrooge looked fixedly at this phenomenon, it
 was a knocker again.
 
-To say that he was not startled, or that his blood
+To say that he was not startled, or that his [[Blood|blood]]
 was not conscious of a terrible sensation to which it
 had been a stranger from infancy, would be untrue.
 But he put his hand upon the key he had relinquished,
@@ -44,7 +44,7 @@ But there was nothing on the back of the door, except
 the screws and nuts that held the knocker on, so he
 said "Pooh, pooh!" and closed it with a bang.
 
-The sound resounded through the house like thunder.
+The sound resounded through the [[house]] like thunder.
 Every room above, and every cask in the wine-merchant's
 cellars below, appeared to have a separate peal
 of echoes of its own. Scrooge was not a man to
@@ -62,7 +62,7 @@ easy. There was plenty of width for that, and room
 to spare; which is perhaps the reason why Scrooge
 thought he saw a locomotive hearse going on before
 him in the gloom. Half-a-dozen gas-lamps out of
-the street wouldn't have lighted the entry too well,
+the street wouldn't have lighted the entry too [[Well|well]],
 so you may suppose that it was pretty dark with
 Scrooge's dip.
 
@@ -70,28 +70,28 @@ Up Scrooge went, not caring a button for that.
 Darkness is cheap, and Scrooge liked it. But before
 he shut his heavy door, he walked through his rooms
 to see that all was right. He had just enough recollection
-of the face to desire to do that.
+of the face to [[Desire|desire]] to do that.
 
 Sitting-room, bedroom, lumber-room. All as they
 should be. Nobody under the table, nobody under
-the sofa; a small fire in the grate; spoon and basin
+the sofa; a small [[Fire|fire]] in the grate; spoon and basin
 ready; and the little saucepan of gruel (Scrooge had
 a cold in his head) upon the hob. Nobody under the
 bed; nobody in the closet; nobody in his dressing-gown,
 which was hanging up in a suspicious attitude
-against the wall. Lumber-room as usual. Old fire-guard,
+against the wall. Lumber-room as usual. Old [[Fire|fire]]-guard,
 old shoes, two fish-baskets, washing-stand on three
 legs, and a poker.
 
 Quite satisfied, he closed his door, and locked
-himself in; double-locked himself in, which was not his
+himself in; [[Double|double]]-locked himself in, which was not his
 custom. Thus secured against surprise, he took off
 his cravat; put on his dressing-gown and slippers, and
-his nightcap; and sat down before the fire to take
+his nightcap; and sat down before the [[Fire|fire]] to take
 his gruel.
 
-It was a very low fire indeed; nothing on such a
-bitter night. He was obliged to sit close to it, and
+It was a very low [[Fire|fire]] indeed; nothing on such a
+bitter [[Night|night]]. He was obliged to sit close to it, and
 brood over it, before he could extract the least
 sensation of warmth from such a handful of fuel.
 The fireplace was an old one, built by some Dutch
@@ -103,7 +103,7 @@ through the air on clouds like feather-beds, Abrahams,
 Belshazzars, Apostles putting off to sea in butter-boats,
 hundreds of figures to attract his thoughts;
 and yet that face of Marley, seven years dead, came
-like the ancient Prophet's rod, and swallowed up the
+like the ancient [[Prophet]]'s rod, and swallowed up the
 whole. If each smooth tile had been a blank at first,
 with power to shape some picture on its surface from
 the disjointed fragments of his thoughts, there would
@@ -121,16 +121,16 @@ building. It was with great astonishment, and with
 a strange, inexplicable dread, that as he looked, he
 saw this bell begin to swing. It swung so softly in
 the outset that it scarcely made a sound; but soon it
-rang out loudly, and so did every bell in the house.
+rang out loudly, and so did every bell in the [[house]].
 
 This might have lasted half a minute, or a minute,
-but it seemed an hour. The bells ceased as they had
+but it seemed an hour. [[The Bells|The bells]] ceased as they had
 begun, together. They were succeeded by a clanking
 noise, deep down below; as if some person were
 dragging a heavy chain over the casks in the
 wine-merchant's cellar. Scrooge then remembered to have
-heard that ghosts in haunted houses were described as
-dragging chains.
+heard that [[Ghosts|ghosts]] in haunted houses were described as
+dragging [[Chains|chains]].
 
 The cellar-door flew open with a booming sound,
 and then he heard the noise much louder, on the floors
@@ -143,7 +143,7 @@ His colour changed though, when, without a pause,
 it came on through the heavy door, and passed into
 the room before his eyes. Upon its coming in, the
 dying flame leaped up, as though it cried, "I know
-him; Marley's Ghost!" and fell again.
+him; Marley's [[Ghost]]!" and fell again.
 
 The same face: the very same. Marley in his pigtail,
 usual waistcoat, tights and boots; the tassels on
@@ -153,6 +153,6 @@ clasped about his middle. It was long, and wound
 about him like a tail; and it was made (for Scrooge
 observed it closely) of cash-boxes, keys, padlocks,
 ledgers, deeds, and heavy purses wrought in steel.
-His body was transparent; so that Scrooge, observing him,
+His [[Body|body]] was transparent; so that Scrooge, observing him,
 and looking through his waistcoat, could see
 the two buttons on his coat behind.

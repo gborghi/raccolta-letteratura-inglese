@@ -16,20 +16,20 @@ tags:
 
 Chapter 8
 
-IN WHICH AN INNOCENT ELOPEMENT OCCURS
+IN WHICH AN [[Innocent|INNOCENT]] ELOPEMENT OCCURS
 
 
 The minion of fortune and the worm of the hour, or in less cutting
-language, Nicodemus Boffin, Esquire, the Golden Dustman, had become
-as much at home in his eminently aristocratic family mansion as he
+language, [[Nicodemus Boffin]], Esquire, the Golden Dustman, had become
+as much at [[Home|home]] in his eminently aristocratic family mansion as he
 was likely ever to be. He could not but feel that, like an eminently
-aristocratic family cheese, it was much too large for his wants, and
+aristocratic family [[cheese]], it was much too large for his wants, and
 bred an infinite amount of parasites; but he was content to regard this
 drawback on his property as a sort of perpetual Legacy Duty. He felt the
 more resigned to it, forasmuch as Mrs Boffin enjoyed herself completely,
 and Miss Bella was delighted.
 
-That young lady was, no doubt, an acquisition to the Boffins. She
+That young lady was, no [[Doubt|doubt]], an acquisition to the Boffins. She
 was far too pretty to be unattractive anywhere, and far too quick of
 perception to be below the tone of her new career. Whether it improved
 her heart might be a matter of taste that was open to question; but as
@@ -39,7 +39,7 @@ manner, there could be no question whatever.
 And thus it soon came about that Miss Bella began to set Mrs Boffin
 right; and even further, that Miss Bella began to feel ill at ease, and
 as it were responsible, when she saw Mrs Boffin going wrong. Not that so
-sweet a disposition and so sound a nature could ever go very wrong even
+sweet a disposition and so sound a [[Nature|nature]] could ever go very wrong even
 among the great visiting authorities who agreed that the Boffins were
 ‘charmingly vulgar’ (which for certain was not their own case in saying
 so), but that when she made a slip on the social ice on which all the
@@ -49,10 +49,10 @@ Bella up (so that young lady felt), and caused her to experience great
 confusion under the glances of the more skilful performers engaged in
 those ice-exercises.
 
-At Miss Bella’s time of life it was not to be expected that she should
+At Miss Bella’s [[Time|time]] of life it was not to be expected that she should
 examine herself very closely on the congruity or stability of her
-position in Mr Boffin’s house. And as she had never been sparing of
-complaints of her old home when she had no other to compare it with,
+position in Mr Boffin’s [[house]]. And as she had never been sparing of
+complaints of her old [[Home|home]] when she had no other to compare it with,
 so there was no novelty of ingratitude or disdain in her very much
 preferring her new one.
 
@@ -61,20 +61,20 @@ three months. ‘But I can’t quite make him out.’
 
 Neither could Bella, so she found the subject rather interesting.
 
-‘He takes more care of my affairs, morning, noon, and night,’ said Mr
+‘He takes more care of my affairs, morning, [[Noon|noon]], and [[Night|night]],’ said Mr
 Boffin, ‘than fifty other men put together either could or would; and
 yet he has ways of his own that are like tying a scaffolding-pole right
-across the road, and bringing me up short when I am almost a-walking arm
+across the [[Road|road]], and bringing me up short when I am almost a-walking arm
 in arm with him.’
 
 ‘May I ask how so, sir?’ inquired Bella.
 
-‘Well, my dear,’ said Mr Boffin, ‘he won’t meet any company here, but
+‘[[Well]], my dear,’ said Mr Boffin, ‘he won’t meet any company here, but
 you. When we have visitors, I should wish him to have his regular place
 at the table like ourselves; but no, he won’t take it.’
 
 ‘If he considers himself above it,’ said Miss Bella, with an airy toss
-of her head, ‘I should leave him alone.’
+of her head, ‘I should leave him [[Alone|alone]].’
 
 ‘It ain’t that, my dear,’ replied Mr Boffin, thinking it over. ‘He don’t
 consider himself above it.’
@@ -95,11 +95,11 @@ everybody, except you.’
 Oho! thought Miss Bella. ‘In—deed! That’s it, is it!’ For Mr Mortimer
 Lightwood had dined there two or three times, and she had met him
 elsewhere, and he had shown her some attention. ‘Rather cool in a
-Secretary—and Pa’s lodger—to make me the subject of his jealousy!’
+Secretary—and Pa’s lodger—to make me the subject of his [[Jealousy|jealousy]]!’
 
 That Pa’s daughter should be so contemptuous of Pa’s lodger was odd;
 but there were odder anomalies than that in the mind of the spoilt girl:
-spoilt first by poverty, and then by wealth. Be it this history’s part,
+spoilt first by [[Poverty|poverty]], and then by wealth. Be it this [[history]]’s part,
 however, to leave them to unravel themselves.
 
 ‘A little too much, I think,’ Miss Bella reflected scornfully, ‘to
@@ -114,23 +114,23 @@ come into play then.
 
 In spite of his seemingly retiring manners a very intrusive person, this
 Secretary and lodger, in Miss Bella’s opinion. Always a light in his
-office-room when we came home from the play or Opera, and he always at
+office-room when we came [[Home|home]] from the play or Opera, and he always at
 the carriage-door to hand us out. Always a provoking radiance too on
 Mrs Boffin’s face, and an abominably cheerful reception of him, as if it
 were possible seriously to approve what the man had in his mind!
 
 ‘You never charge me, Miss Wilfer,’ said the Secretary, encountering her
-by chance alone in the great drawing-room, ‘with commissions for home.
+by chance [[Alone|alone]] in the great drawing-room, ‘with commissions for [[Home|home]].
 I shall always be happy to execute any commands you may have in that
 direction.’
 
 ‘Pray what may you mean, Mr Rokesmith?’ inquired Miss Bella, with
 languidly drooping eyelids.
 
-‘By home? I mean your father’s house at Holloway.’
+‘By [[Home|home]]? I mean your father’s [[house]] at Holloway.’
 
 She coloured under the retort—so skilfully thrust, that the words
-seemed to be merely a plain answer, given in plain good faith—and said,
+seemed to be merely a plain answer, given in plain good [[Faith|faith]]—and said,
 rather more emphatically and sharply:
 
 ‘What commissions and commands are you speaking of?’

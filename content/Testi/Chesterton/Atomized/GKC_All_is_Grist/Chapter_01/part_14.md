@@ -15,16 +15,16 @@ tags:
 
 
 What the serious historians have disguised the frivolous novelist
-has detected.  Their histories are fiction and his fiction is history.
-That is the truth; and that is Trollope's unconscious
-witness to what the Whigs really did in English history;
+has detected.  Their histories are fiction and his fiction is [[history]].
+That is the [[Truth|truth]]; and that is Trollope's unconscious
+witness to what the Whigs really did in English [[history]];
 why they were able to overthrow the Stuarts; why they were able
 to dominate the common traditional Tories like Dr. Thorne.
-What the Revolution did was obviously not to establish a democracy;
+What the Revolution did was obviously not to establish a [[Democracy|democracy]];
 not even to establish a normal and national gentry; not even to
 establish a mere rustic squirearchy.  It was to establish certain
 great magnates, whose wealth and power was far out of proportion
-to that of the ordinary gentleman, let alone the ordinary citizen.
+to that of the ordinary gentleman, let [[Alone|alone]] the ordinary citizen.
 They owned every thing, and Trollope knew it.  What other possible meaning
 is there in the title of The Duke of Omnium?  Thackeray also knew it.
 What possible other meaning is there in that fine satiric flourish,
@@ -39,11 +39,11 @@ XII.  On the Way of the World
 IT was Matthew Arnold, if I remember right, who invented or
 popularized the phrase `the way the world is going', a motto for
 social reformers only too easily adapted into a motto for snobs.
-It is not really even a simple, let alone a safe, guide, as can
+It is not really even a simple, let [[Alone|alone]] a safe, guide, as can
 be easily tested in his own ease.  After all, if it comes to that,
-what way was the world going in the time of Matthew Arnold?  We are
+what way was the world going in the [[Time|time]] of Matthew Arnold?  We are
 far enough from it to look back to it, and, when we look back to it,
-the world seems to be going all ways at once.  It was certainly a time
+the world seems to be going all ways at once.  It was certainly a [[Time|time]]
 when the Philistines, as he called them, the middle-class mercantile
 Liberals of the school of Cobden and Bright, were still marching
 from victory to victory.  And yet the end of the Liberal century
@@ -52,7 +52,7 @@ with War, Imperialism, and everything that the old Liberals loathed.
 In one sense the world was more sceptical and scientific; in every
 sense it seemed more sceptical and scientific; and yet the mystical
 and religious reaction increased steadily from then till now.
-In short, when we look back on that time we see not a tide but an eddy,
+In short, when we look back on that [[Time|time]] we see not a tide but an eddy,
 or a welter of eddies, in which each person is paddling his own
 canoe desperately in his own direction.  Arnold wanted to go
 back to Athens; Newman to go back to Rome; Carlyle to go back
@@ -127,7 +127,7 @@ in the God of Love, as if it were not only perfectly self-evident,
 but as if it could have no effect except to make us self-satisfied.
 The thunderous riddle of the `Est Deus Caritatis' which broke
 above the dying Brand after his life of agony on the peak of his
-perfect renunciation, seems to be uttered chirpily every morning
+perfect [[Renunciation|renunciation]], seems to be uttered chirpily every morning
 to every clerk or stockbroker who will be sufficiently broadminded
 to play golf instead of going to church.  Carlyle complained
 of people who were at ease in Zion.  But the new Zion ism thinks it
@@ -135,15 +135,15 @@ enough to prove that it is easier still not to be in Zion at all.
 Whatever else it does encourage, the dread of devilry or definite evil
 is admittedly a thing that it does not encourage.  We could read reams
 and files of the new newspaper theology and not find even a mention
-of that fear of demons that was felt by all our fathers.  Very well;
-that is the way the world is supposed to have gone in our time.
-But when we read the literature of our time, especially when it
+of that [[Fear|fear]] of demons that was felt by all our fathers.  Very [[Well|well]];
+that is the way the world is supposed to have gone in our [[Time|time]].
+But when we read the literature of our [[Time|time]], especially when it
 is really literary, we find something quite the contrary.
 The most distinguished men of letters, the novelists or the new poets,
 often have no more definite beliefs than the newspaper believers.
 They are quite as pure from the taint of creed, dogma, or intellectually
-intelligible statement of faith.  Most of them are probably agnostics;
-and in that sense do not believe in God, let alone the devil.
+intelligible statement of [[Faith|faith]].  Most of them are probably agnostics;
+and in that sense do not believe in God, let [[Alone|alone]] the devil.
 And yet they are perpetually writing about devils.
 They are always at it.  Book after book comes out,
 of which the theme is some strange psychological wickedness,
@@ -151,18 +151,18 @@ encouraged more or less by some more strange psychical influence.
 One distinguished novelist writes a book about Pan, as a positive
 influence and a highly unpleasant influence, fully worthy of his
 ancient association with Panic.  Another distinguished novelist
-devotes another imaginative novel to a dark and terrible deity of
-the South Americans, worshipped in former ages with torture and blood.
+devotes another imaginative [[Novel|novel]] to a dark and terrible deity of
+the South Americans, worshipped in former ages with torture and [[Blood|blood]].
 Among the master pieces of the last twenty or thirty years,
-those that stand out in my own memory with startling power arc
+those that stand out in my own [[Memory|memory]] with startling power arc
 almost all of them stories of necromancy or diabolic possession,
 often written by men who had no definite religious affiliations,
-but who had imagination carrying all the solidity of conviction.
+but who had [[Imagination|imagination]] carrying all the solidity of conviction.
 I look back over the whole of that long period, that has been littered
 to the sky with newspaper philosophies preaching cheerfulness
 and optimism, and ignorance of evil.  And the two things that stand
-out in my memory for their solidity and sincerity and power,
-staring like stone gargoyles of gigantic stature, are both things that
+out in my [[Memory|memory]] for their solidity and sincerity and power,
+staring like stone [[gargoyles]] of gigantic stature, are both things that
 seem to face the other way from the whole recent movement of the world.
 I remember the real literary thrill which I felt long ago when reading
 The Turn of the Screw, and how it woke within me again long after,

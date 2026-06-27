@@ -27,13 +27,13 @@ the demeanour of the Golden Dustman were generally unclouded at that
 meal. It would have been easy to believe then, that there was no change
 in him. It was as the day went on that the clouds gathered, and the
 brightness of the morning became obscured. One might have said that the
-shadows of avarice and distrust lengthened as his own shadow lengthened,
-and that the night closed around him gradually.
+shadows of avarice and distrust lengthened as his own [[Shadow|shadow]] lengthened,
+and that the [[Night|night]] closed around him gradually.
 
 But, one morning long afterwards to be remembered, it was black midnight
 with the Golden Dustman when he first appeared. His altered character
 had never been so grossly marked. His bearing towards his Secretary was
-so charged with insolent distrust and arrogance, that the latter rose
+so charged with insolent distrust and arrogance, that the latter [[Rose|rose]]
 and left the table before breakfast was half done. The look he directed
 at the Secretary’s retiring figure was so cunningly malignant, that
 Bella would have sat astounded and indignant, even though he had not
@@ -43,14 +43,14 @@ year, was the morning next after Mr Boffin’s interview with Mrs Lammle
 in her little carriage.
 
 Bella looked to Mrs Boffin’s face for comment on, or explanation of,
-this stormy humour in her husband, but none was there. An anxious and
+this stormy [[Humour|humour]] in her husband, but none was there. An anxious and
 a distressed observation of her own face was all she could read in it.
-When they were left alone together—which was not until noon, for Mr
+When they were left [[Alone|alone]] together—which was not until [[Noon|noon]], for Mr
 Boffin sat long in his easy-chair, by turns jogging up and down
 the breakfast-room, clenching his fist and muttering—Bella, in
 consternation, asked her what had happened, what was wrong? ‘I am
 forbidden to speak to you about it, Bella dear; I mustn’t tell you,’
-was all the answer she could get. And still, whenever, in her wonder and
+was all the answer she could get. And still, whenever, in her [[Wonder|wonder]] and
 dismay, she raised her eyes to Mrs Boffin’s face, she saw in it the same
 anxious and distressed observation of her own.
 
@@ -91,7 +91,7 @@ I would rather not hear.’
 ‘Oh! Perhaps we shall change that,’ said Mr Boffin with a threatening
 roll of his head.
 
-‘I hope so,’ returned the Secretary. He was quiet and respectful; but
+‘I [[Hope|hope]] so,’ returned the Secretary. He was quiet and respectful; but
 stood, as Bella thought (and was glad to think), on his manhood too.
 
 ‘Now, sir,’ said Mr Boffin, ‘look at this young lady on my arm.’
@@ -112,7 +112,7 @@ reproach in it. But it is possible that the reproach was within herself.
 
 ‘How dare you, sir,’ said Mr Boffin, ‘tamper, unknown to me, with this
 young lady? How dare you come out of your station, and your place in my
-house, to pester this young lady with your impudent addresses?’
+[[house]], to pester this young lady with your impudent addresses?’
 
 ‘I must decline to answer questions,’ said the Secretary, ‘that are so
 offensively asked.’
@@ -150,7 +150,7 @@ emphasis. ‘You wrong me, wrong me!’
 
 ‘Don’t you be put out, my dear,’ complacently retorted Mr Boffin. ‘I’ll
 bring this young man to book. Now, you Rokesmith! You can’t decline
-to hear, you know, as well as to answer. You hear me tell you that the
+to hear, you know, as [[Well|well]] as to answer. You hear me tell you that the
 first side of your conduct was Insolence—Insolence and Presumption.
 Answer me one thing, if you can. Didn’t this young lady tell you so
 herself?’
@@ -183,10 +183,10 @@ suspicious attitude, and wrinkling his face into a very map of curves
 and corners. ‘Don’t I know what grabs are made at a man with money? If
 I didn’t keep my eyes open, and my pockets buttoned, shouldn’t I
 be brought to the workhouse before I knew where I was? Wasn’t the
-experience of Dancer, and Elwes, and Hopkins, and Blewbury Jones, and
+experience of Dancer, and Elwes, and Hopkins, and Blewbury [[Jones]], and
 ever so many more of ’em, similar to mine? Didn’t everybody want to make
-grabs at what they’d got, and bring ’em to poverty and ruin? Weren’t
-they forced to hide everything belonging to ’em, for fear it should be
+grabs at what they’d got, and bring ’em to [[Poverty|poverty]] and ruin? Weren’t
+they forced to hide everything belonging to ’em, for [[Fear|fear]] it should be
 snatched from ’em? Of course they was. I shall be told next that they
 didn’t know human natur!’
 
@@ -203,7 +203,7 @@ the street. Are you, or ain’t you?’
 ‘Go on, Mr Boffin; don’t appeal to me.’
 
 ‘Not appeal to YOU,’ retorted Mr Boffin as if he hadn’t done so. ‘No,
-I should hope not! Appealing to YOU, would be rather a rum course. As I
+I should [[Hope|hope]] not! Appealing to YOU, would be rather a rum course. As I
 was saying, you’re a needy chap that I pick up in the street. You come
 and ask me in the street to take you for a Secretary, and I take you.
 Very good.’
@@ -235,16 +235,16 @@ himself with ridiculous inconsistency. ‘Look at him!’
 ‘Precious unfortunate for you, I can tell you,’ said Mr Boffin.
 
 ‘—are not to be combated by any one, and I address myself to no such
-hopeless task. But I will say a word upon the truth.’
+hopeless task. But I will say a word upon the [[Truth|truth]].’
 
-‘Yah! Much you care about the truth,’ said Mr Boffin, with a snap of his
+‘Yah! Much you care about the [[Truth|truth]],’ said Mr Boffin, with a snap of his
 fingers.
 
-‘Noddy! My dear love!’ expostulated his wife.
+‘Noddy! My dear [[Love|love]]!’ expostulated his wife.
 
 ‘Old lady,’ returned Mr Boffin, ‘you keep still. I say to this Rokesmith
-here, much he cares about the truth. I tell him again, much he cares
-about the truth.’
+here, much he cares about the [[Truth|truth]]. I tell him again, much he cares
+about the [[Truth|truth]].’
 
 ‘Our connexion being at an end, Mr Boffin,’ said the Secretary, ‘it can
 be of very little moment to me what you say.’
@@ -303,8 +303,8 @@ Mr Boffin, with a cunning wink. ‘Now, mark this chap’s making Miss
 Wilfer stand for Pounds, Shillings, and Pence!’
 
 ‘My feeling for Miss Wilfer,’ pursued the Secretary, without deigning to
-notice him, ‘is not one to be ashamed of. I avow it. I love her. Let
-me go where I may when I presently leave this house, I shall go into a
+notice him, ‘is not one to be ashamed of. I avow it. I [[Love|love]] her. Let
+me go where I may when I presently leave this [[house]], I shall go into a
 blank life, leaving her.’
 
 ‘Leaving L.s.d. behind me,’ said Mr Boffin, by way of commentary, with
@@ -321,9 +321,9 @@ looking full at his late master, ‘say that with a word she could strip
 Mr Boffin of his fortune and take possession of it, she would be of no
 greater worth in my eyes than she is.’
 
-‘What do you think by this time, old lady,’ asked Mr Boffin, turning to
+‘What do you think by this [[Time|time]], old lady,’ asked Mr Boffin, turning to
 his wife in a bantering tone, ‘about this Rokesmith here, and his caring
-for the truth? You needn’t say what you think, my dear, because I don’t
+for the [[Truth|truth]]? You needn’t say what you think, my dear, because I don’t
 want you to cut in, but you can think it all the same. As to taking
 possession of my property, I warrant you he wouldn’t do that himself if
 he could.’
@@ -339,7 +339,7 @@ My interest in Miss Wilfer began when I first saw her; even began when I
 had only heard of her. It was, in fact, the cause of my throwing myself
 in Mr Boffin’s way, and entering his service. Miss Wilfer has never
 known this until now. I mention it now, only as a corroboration (though
-I hope it may be needless) of my being free from the sordid design
+I [[Hope|hope]] it may be needless) of my being free from the sordid design
 attributed to me.’
 
 ‘Now, this is a very artful dog,’ said Mr Boffin, with a deep look.
@@ -348,7 +348,7 @@ and methodically he goes to work. He gets to know about me and my
 property, and about this young lady, and her share in poor young John’s
 story, and he puts this and that together, and he says to himself, “I’ll
 get in with Boffin, and I’ll get in with this young lady, and I’ll work
-’em both at the same time, and I’ll bring my pigs to market somewhere.”
+’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
  I hear him say it, bless you! I look at him, now, and I see him say it!’
 
 Mr Boffin pointed at the culprit, as it were in the act, and hugged
@@ -357,7 +357,7 @@ himself in his great penetration.
 ‘But luckily he hadn’t to deal with the people he supposed, Bella, my
 dear!’ said Mr Boffin. ‘No! Luckily he had to deal with you, and with
 me, and with Daniel and Miss Dancer, and with Elwes, and with Vulture
-Hopkins, and with Blewbury Jones and all the rest of us, one down
+Hopkins, and with Blewbury [[Jones]] and all the rest of us, one down
 t’other come on. And he’s beat; that’s what he is; regularly beat. He
 thought to squeeze money out of us, and he has done for himself instead,
 Bella my dear!’
@@ -365,7 +365,7 @@ Bella my dear!’
 Bella my dear made no response, gave no sign of acquiescence. When she
 had first covered her face she had sunk upon a chair with her hands
 resting on the back of it, and had never moved since. There was a short
-silence at this point, and Mrs Boffin softly rose as if to go to her.
+[[Silence|silence]] at this point, and Mrs Boffin softly [[Rose|rose]] as if to go to her.
 But, Mr Boffin stopped her with a gesture, and she obediently sat down
 again and stayed where she was.
 
@@ -378,10 +378,10 @@ stooped to here.’
 from the ground; ‘and this is mine, for I have earned it by the hardest
 of hard labour.’
 
-‘You’re a pretty quick packer, I hope,’ said Mr Boffin; ‘because the
+‘You’re a pretty quick packer, I [[Hope|hope]],’ said Mr Boffin; ‘because the
 sooner you are gone, bag and baggage, the better for all parties.’
 
-‘You need have no fear of my lingering.’
+‘You need have no [[Fear|fear]] of my lingering.’
 
 ‘There’s just one thing though,’ said Mr Boffin, ‘that I should like to
 ask you before we come to a good riddance, if it was only to show this
@@ -397,7 +397,7 @@ down at her.
 
 ‘I do not pretend.’
 
-‘Oh! Well. You HAVE a mighty admiration for this young lady—since you
+‘Oh! [[Well]]. You HAVE a mighty admiration for this young lady—since you
 are so particular?’
 
 ‘Yes.’
@@ -424,13 +424,13 @@ John Rokesmith stared at him in his outburst, as if with some faint idea
 that he had gone mad.
 
 ‘What is due to this young lady,’ said Mr Boffin, ‘is Money, and this
-young lady right well knows it.’
+young lady right [[Well|well]] knows it.’
 
 ‘You slander the young lady.’
 
 ‘YOU slander the young lady; you with your affections and hearts and
 trumpery,’ returned Mr Boffin. ‘It’s of a piece with the rest of your
-behaviour. I heard of these doings of yours only last night, or you
+behaviour. I heard of these doings of yours only last [[Night|night]], or you
 should have heard of ’em from me, sooner, take your oath of it. I heard
 of ’em from a lady with as good a headpiece as the best, and she knows
 this young lady, and I know this young lady, and we all three know that
@@ -442,28 +442,28 @@ and unvarying kindness I thank you with the warmest gratitude. Good-bye!
 Miss Wilfer, good-bye!’
 
 ‘And now, my dear,’ said Mr Boffin, laying his hand on Bella’s head
-again, ‘you may begin to make yourself quite comfortable, and I hope you
+again, ‘you may begin to make yourself quite comfortable, and I [[Hope|hope]] you
 feel that you’ve been righted.’
 
 But, Bella was so far from appearing to feel it, that she shrank from
 his hand and from the chair, and, starting up in an incoherent passion
-of tears, and stretching out her arms, cried, ‘O Mr Rokesmith, before
+of [[Tears|tears]], and stretching out her arms, cried, ‘O Mr Rokesmith, before
 you go, if you could but make me poor again! O! Make me poor again,
 Somebody, I beg and pray, or my heart will break if this goes on! Pa,
-dear, make me poor again and take me home! I was bad enough there, but
+dear, make me poor again and take me [[Home|home]]! I was bad enough there, but
 I have been so much worse here. Don’t give me money, Mr Boffin, I won’t
 have money. Keep it away from me, and only let me speak to good little
 Pa, and lay my head upon his shoulder, and tell him all my griefs.
 Nobody else can understand me, nobody else can comfort me, nobody else
-knows how unworthy I am, and yet can love me like a little child. I am
-better with Pa than any one—more innocent, more sorry, more glad!’ So,
+knows how unworthy I am, and yet can [[Love|love]] me like a little [[Child|child]]. I am
+better with Pa than any one—more [[Innocent|innocent]], more sorry, more glad!’ So,
 crying out in a wild way that she could not bear this, Bella drooped her
 head on Mrs Boffin’s ready breast.
 
 John Rokesmith from his place in the room, and Mr Boffin from his,
-looked on at her in silence until she was silent herself. Then Mr Boffin
+looked on at her in [[Silence|silence]] until she was silent herself. Then Mr Boffin
 observed in a soothing and comfortable tone, ‘There, my dear, there; you
-are righted now, and it’s ALL right. I don’t wonder, I’m sure, at your
+are righted now, and it’s ALL right. I don’t [[Wonder|wonder]], I’m sure, at your
 being a little flurried by having a scene with this fellow, but it’s all
 over, my dear, and you’re righted, and it’s—and it’s ALL right!’ Which
 Mr Boffin repeated with a highly satisfied air of completeness and
@@ -475,7 +475,7 @@ her little foot—‘at least, I can’t hate you, but I don’t like you!’
 ‘HUL—LO!’ exclaimed Mr Boffin in an amazed under-tone.
 
 ‘You’re a scolding, unjust, abusive, aggravating, bad old creature!’
-cried Bella. ‘I am angry with my ungrateful self for calling you names;
+cried Bella. ‘I am angry with my ungrateful [[Self|self]] for calling you names;
 but you are, you are; you know you are!’
 
 Mr Boffin stared here, and stared there, as misdoubting that he must be
@@ -483,7 +483,7 @@ in some sort of fit.
 
 ‘I have heard you with shame,’ said Bella. ‘With shame for myself, and
 with shame for you. You ought to be above the base tale-bearing of a
-time-serving woman; but you are above nothing now.’
+[[Time|time]]-serving woman; but you are above nothing now.’
 
 Mr Boffin, seeming to become convinced that this was a fit, rolled his
 eyes and loosened his neckcloth.
@@ -491,12 +491,12 @@ eyes and loosened his neckcloth.
 ‘When I came here, I respected you and honoured you, and I soon loved
 you,’ cried Bella. ‘And now I can’t bear the sight of you. At least, I
 don’t know that I ought to go so far as that—only you’re a—you’re a
-Monster!’ Having shot this bolt out with a great expenditure of force,
+[[Monster]]!’ Having shot this bolt out with a great expenditure of force,
 Bella hysterically laughed and cried together.
 
 ‘The best wish I can wish you is,’ said Bella, returning to the charge,
 ‘that you had not one single farthing in the world. If any true friend
-and well-wisher could make you a bankrupt, you would be a Duck; but as a
+and [[Well|well]]-wisher could make you a bankrupt, you would be a Duck; but as a
 man of property you are a Demon!’
 
 After despatching this second bolt with a still greater expenditure of
@@ -509,23 +509,23 @@ pardon.’
 
 As she stepped towards him, he met her. As she gave him her hand, he put
 it to his lips, and said, ‘God bless you!’ No laughing was mixed with
-Bella’s crying then; her tears were pure and fervent.
+Bella’s crying then; her [[Tears|tears]] were pure and fervent.
 
 ‘There is not an ungenerous word that I have heard addressed to
 you—heard with scorn and indignation, Mr Rokesmith—but it has wounded
 me far more than you, for I have deserved it, and you never have. Mr
 Rokesmith, it is to me you owe this perverted account of what passed
-between us that night. I parted with the secret, even while I was angry
+between us that [[Night|night]]. I parted with the secret, even while I was angry
 with myself for doing so. It was very bad in me, but indeed it was not
 wicked. I did it in a moment of conceit and folly—one of my many such
 moments—one of my many such hours—years. As I am punished for it
 severely, try to forgive it!’
 
-‘I do with all my soul.’
+‘I do with all my [[Soul|soul]].’
 
 ‘Thank you. O thank you! Don’t part from me till I have said one other
 word, to do you justice. The only fault you can be truly charged with,
-in having spoken to me as you did that night—with how much delicacy
+in having spoken to me as you did that [[Night|night]]—with how much delicacy
 and how much forbearance no one but I can know or be grateful to you
 for—is, that you laid yourself open to be slighted by a worldly shallow
 girl whose head was turned, and who was quite unable to rise to the
@@ -539,8 +539,8 @@ He kissed her hand again.
 
 ‘Mr Boffin’s speeches were detestable to me, shocking to me,’ said
 Bella, startling that gentleman with another stamp of her little
-foot. ‘It is quite true that there was a time, and very lately, when I
-deserved to be so “righted,” Mr Rokesmith; but I hope that I shall never
+foot. ‘It is quite true that there was a [[Time|time]], and very lately, when I
+deserved to be so “righted,” Mr Rokesmith; but I [[Hope|hope]] that I shall never
 deserve it again!’
 
 He once more put her hand to his lips, and then relinquished it, and
@@ -551,21 +551,21 @@ despairingly, in fifty ways at once, with her arms round Mrs Boffin’s
 neck. ‘He has been most shamefully abused, and most unjustly and most
 basely driven away, and I am the cause of it!’
 
-All this time, Mr Boffin had been rolling his eyes over his loosened
+All this [[Time|time]], Mr Boffin had been [[rolling]] his eyes over his loosened
 neckerchief, as if his fit were still upon him. Appearing now to think
 that he was coming to, he stared straight before him for a while, tied
 his neckerchief again, took several long inspirations, swallowed several
 times, and ultimately exclaimed with a deep sigh, as if he felt himself
-on the whole better: ‘Well!’
+on the whole better: ‘[[Well]]!’
 
 No word, good or bad, did Mrs Boffin say; but she tenderly took care of
 Bella, and glanced at her husband as if for orders. Mr Boffin, without
 imparting any, took his seat on a chair over against them, and there
 sat leaning forward, with a fixed countenance, his legs apart, a hand on
 each knee, and his elbows squared, until Bella should dry her eyes and
-raise her head, which in the fulness of time she did.
+raise her head, which in the fulness of [[Time|time]] she did.
 
-‘I must go home,’ said Bella, rising hurriedly. ‘I am very grateful to
+‘I must go [[Home|home]],’ said Bella, rising hurriedly. ‘I am very grateful to
 you for all you have done for me, but I can’t stay here.’
 
 ‘My darling girl!’ remonstrated Mrs Boffin.
@@ -573,17 +573,17 @@ you for all you have done for me, but I can’t stay here.’
 ‘No, I can’t stay here,’ said Bella; ‘I can’t indeed.—Ugh! you vicious
 old thing!’ (This to Mr Boffin.)
 
-‘Don’t be rash, my love,’ urged Mrs Boffin. ‘Think well of what you do.’
+‘Don’t be rash, my [[Love|love]],’ urged Mrs Boffin. ‘Think [[Well|well]] of what you do.’
 
-‘Yes, you had better think well,’ said Mr Boffin.
+‘Yes, you had better think [[Well|well]],’ said Mr Boffin.
 
-‘I shall never more think well of YOU,’ cried Bella, cutting him
+‘I shall never more think [[Well|well]] of YOU,’ cried Bella, cutting him
 short, with intense defiance in her expressive little eyebrows, and
 championship of the late Secretary in every dimple. ‘No! Never again!
 Your money has changed you to marble. You are a hard-hearted Miser. You
-are worse than Dancer, worse than Hopkins, worse than Blackberry Jones,
+are worse than Dancer, worse than Hopkins, worse than Blackberry [[Jones]],
 worse than any of the wretches. And more!’ proceeded Bella, breaking
-into tears again, ‘you were wholly undeserving of the Gentleman you have
+into [[Tears|tears]] again, ‘you were wholly undeserving of the Gentleman you have
 lost.’
 
 ‘Why, you don’t mean to say, Miss Bella,’ the Golden Dustman slowly
@@ -595,13 +595,13 @@ Very pretty she looked, though very angry, as she made herself as
 tall as she possibly could (which was not extremely tall), and utterly
 renounced her patron with a lofty toss of her rich brown head.
 
-‘I would rather he thought well of me,’ said Bella, ‘though he swept the
+‘I would rather he thought [[Well|well]] of me,’ said Bella, ‘though he swept the
 street for bread, than that you did, though you splashed the mud upon
 him from the wheels of a chariot of pure gold.—There!’
 
-‘Well I’m sure!’ cried Mr Boffin, staring.
+‘[[Well]] I’m sure!’ cried Mr Boffin, staring.
 
-‘And for a long time past, when you have thought you set yourself above
+‘And for a long [[Time|time]] past, when you have thought you set yourself above
 him, I have only seen you under his feet,’ said Bella—‘There! And
 throughout I saw in him the master, and I saw in you the man—There! And
 when you used him shamefully, I took his part and loved him—There! I
@@ -611,7 +611,7 @@ After which strong avowal Bella underwent reaction, and cried to any
 extent, with her face on the back of her chair.
 
 ‘Now, look here,’ said Mr Boffin, as soon as he could find an opening
-for breaking the silence and striking in. ‘Give me your attention,
+for breaking the [[Silence|silence]] and striking in. ‘Give me your attention,
 Bella. I am not angry.’
 
 ‘I AM!’ said Bella.
@@ -621,7 +621,7 @@ to you, and I want to overlook this. So you’ll stay where you are, and
 we’ll agree to say no more about it.’
 
 ‘No, I can’t stay here,’ cried Bella, rising hurriedly again; ‘I can’t
-think of staying here. I must go home for good.’
+think of staying here. I must go [[Home|home]] for good.’
 
 ‘Now, don’t be silly,’ Mr Boffin reasoned. ‘Don’t do what you can’t
 undo; don’t do what you’re sure to be sorry for.’
@@ -631,7 +631,7 @@ sorry, and should every minute of my life despise myself if I remained
 here after what has happened.’
 
 ‘At least, Bella,’ argued Mr Boffin, ‘let there be no mistake about it.
-Look before you leap, you know. Stay where you are, and all’s well, and
+Look before you leap, you know. Stay where you are, and all’s [[Well|well]], and
 all’s as it was to be. Go away, and you can never come back.’
 
 ‘I know that I can never come back, and that’s what I mean,’ said Bella.
@@ -644,7 +644,7 @@ careful! Not one brass farthing.’
 could make me take it, if you did, sir?’
 
 But there was Mrs Boffin to part from, and, in the full flush of her
-dignity, the impressible little soul collapsed again. Down upon her
+dignity, the impressible little [[Soul|soul]] collapsed again. Down upon her
 knees before that good woman, she rocked herself upon her breast, and
 cried, and sobbed, and folded her in her arms with all her might.
 
@@ -669,7 +669,7 @@ because you used to be so different. Say good-bye!’
 ‘Good-bye,’ said Mr Boffin, shortly.
 
 ‘If I knew which of your hands was the least spoilt, I would ask you
-to let me touch it,’ said Bella, ‘for the last time. But not because I
+to let me touch it,’ said Bella, ‘for the last [[Time|time]]. But not because I
 repent of what I have said to you. For I don’t. It’s true!’
 
 ‘Try the left hand,’ said Mr Boffin, holding it out in a stolid manner;
@@ -684,7 +684,7 @@ throw it away for that. Thank you for myself, and good-bye!’
 Bella caught him round the neck and kissed him, and ran out for ever.
 
 She ran up-stairs, and sat down on the floor in her own room, and cried
-abundantly. But the day was declining and she had no time to lose. She
+abundantly. But the day was declining and she had no [[Time|time]] to lose. She
 opened all the places where she kept her dresses; selected only those
 she had brought with her, leaving all the rest; and made a great
 misshapen bundle of them, to be sent for afterwards.
@@ -698,7 +698,7 @@ mansion. Even the bonnet she put on, was the bonnet that had mounted
 into the Boffin chariot at Holloway.
 
 ‘Now, I am complete,’ said Bella. ‘It’s a little trying, but I have
-steeped my eyes in cold water, and I won’t cry any more. You have been
+steeped my eyes in cold [[Water|water]], and I won’t cry any more. You have been
 a pleasant room to me, dear room. Adieu! We shall never see each other
 again.’
 
@@ -711,9 +711,9 @@ from the emptiness of his table, and the general appearance of things,
 that he was already gone. Softly opening the great hall door, and
 softly closing it upon herself, she turned and kissed it on the
 outside—insensible old combination of wood and iron that it
-was!—before she ran away from the house at a swift pace.
+was!—before she ran away from the [[house]] at a swift pace.
 
-‘That was well done!’ panted Bella, slackening in the next street, and
+‘That was [[Well|well]] done!’ panted Bella, slackening in the next street, and
 subsiding into a walk. ‘If I had left myself any breath to cry with, I
 should have cried again. Now poor dear darling little Pa, you are going
 to see your lovely woman unexpectedly.’

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Blue Cross"
+title: "[[innocence]] — The Blue [[Cross]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-                          The Blue Cross
+                          The Blue [[Cross]]
 
 Between the silver ribbon of morning and the green glittering
 ribbon of sea, the boat touched Harwich and let loose a swarm
@@ -31,28 +31,28 @@ There was nothing about him to indicate the fact that the grey
 jacket covered a loaded revolver, that the white waistcoat covered
 a police card, or that the straw hat covered one of the most
 powerful intellects in Europe.  For this was Valentin himself,
-the head of the Paris police and the most famous investigator
-of the world; and he was coming from Brussels to London to make
+the head of the [[Paris]] police and the most famous investigator
+of the world; and he was coming from Brussels to [[London]] to make
 the greatest arrest of the century.
 
-Flambeau was in England.  The police of three countries had tracked
+[[Flambeau]] was in England.  The police of three countries had tracked
 the great criminal at last from Ghent to Brussels, from Brussels
 to the Hook of Holland; and it was conjectured that he would take some
 advantage of the unfamiliarity and confusion of the Eucharistic Congress,
-then taking place in London.  Probably he would travel as some minor
+then taking place in [[London]].  Probably he would travel as some minor
 clerk or secretary connected with it; but, of course, Valentin could
-not be certain; nobody could be certain about Flambeau.
+not be certain; nobody could be certain about [[Flambeau]].
 
 It is many years now since this colossus of crime suddenly
 ceased keeping the world in a turmoil; and when he ceased,
-as they said after the death of Roland, there was a great quiet
+as they said after the [[Death|death]] of Roland, there was a great quiet
 upon the earth.  But in his best days (I mean, of course,
-his worst) Flambeau was a figure as statuesque and international
+his worst) [[Flambeau]] was a figure as statuesque and international
 as the Kaiser.  Almost every morning the daily paper announced
 that he had escaped the consequences of one extraordinary crime
 by committing another.  He was a Gascon of gigantic stature
 and bodily daring; and the wildest tales were told of his
-outbursts of athletic humour; how he turned the juge d'instruction
+outbursts of athletic [[Humour|humour]]; how he turned the juge d'instruction
 upside down and stood him on his head, "to clear his mind";
 how he ran down the Rue de Rivoli with a policeman under each arm.
 It is due to him to say that his fantastic physical strength was
@@ -60,7 +60,7 @@ generally employed in such bloodless though undignified scenes;
 his real crimes were chiefly those of ingenious and wholesale robbery.
 But each of his thefts was almost a new sin, and would
 make a story by itself.  It was he who ran the great
-Tyrolean Dairy Company in London, with no dairies, no cows,
+Tyrolean Dairy Company in [[London]], with no dairies, no cows,
 no carts, no milk, but with some thousand subscribers.
 These he served by the simple operation of moving the little milk
 cans outside people's doors to the doors of his own customers.
@@ -70,27 +70,27 @@ by the extraordinary trick of photographing his messages
 infinitesimally small upon the slides of a microscope.
 A sweeping simplicity, however, marked many of his experiments.
 It is said that he once repainted all the numbers in a street
-in the dead of night merely to divert one traveller into a trap.
+in the dead of [[Night|night]] merely to divert one traveller into a trap.
 It is quite certain that he invented a portable pillar-box,
 which he put up at corners in quiet suburbs on the chance of
 strangers dropping postal orders into it.  Lastly, he was known
 to be a startling acrobat; despite his huge figure, he could leap
 like a grasshopper and melt into the tree-tops like a monkey.
-Hence the great Valentin, when he set out to find Flambeau,
+Hence the great Valentin, when he set out to find [[Flambeau]],
 was perfectly aware that his adventures would not end when
 he had found him.
 
 But how was he to find him?  On this the great Valentin's ideas
 were still in process of settlement.
 
-There was one thing which Flambeau, with all his dexterity
+There was one thing which [[Flambeau]], with all his dexterity
 of disguise, could not cover, and that was his singular height.
 If Valentin's quick eye had caught a tall apple-woman, a tall grenadier,
 or even a tolerably tall duchess, he might have arrested them on the spot.
-But all along his train there was nobody that could be a disguised Flambeau,
+But all along his train there was nobody that could be a disguised [[Flambeau]],
 any more than a cat could be a disguised giraffe.  About the people
 on the boat he had already satisfied himself; and the people picked up
-at Harwich or on the journey limited themselves with certainty to six.
+at Harwich or on the [[Journey|journey]] limited themselves with certainty to six.
 There was a short railway official travelling up to the terminus,
 three fairly short market gardeners picked up two stations afterwards,
 one very short widow lady going up from a small Essex town, and a very
@@ -102,68 +102,68 @@ as the North Sea; he had several brown paper parcels, which he was quite
 incapable of collecting.  The Eucharistic Congress had doubtless sucked
 out of their local stagnation many such creatures, blind and helpless,
 like moles disinterred.  Valentin was a sceptic in the severe style
-of France, and could have no love for priests.  But he could have
+of France, and could have no [[Love|love]] for priests.  But he could have
 pity for them, and this one might have provoked pity in anybody.
 He had a large, shabby umbrella, which constantly fell on the floor.
 He did not seem to know which was the right end of his return ticket.
-He explained with a moon-calf simplicity to everybody in the carriage
+He explained with a [[Moon|moon]]-calf simplicity to everybody in the carriage
 that he had to be careful, because he had something made of real
 silver "with blue stones" in one of his brown-paper parcels.
 His quaint blending of Essex flatness with saintly simplicity
 continuously amused the Frenchman till the priest arrived (somehow) at
 Tottenham with all his parcels, and came back for his umbrella.
-When he did the last, Valentin even had the good nature to warn
+When he did the last, Valentin even had the good [[Nature|nature]] to warn
 him not to take care of the silver by telling everybody about it.
 But to whomever he talked, Valentin kept his eye open for someone else;
 he looked out steadily for anyone, rich or poor, male or female,
-who was well up to six feet; for Flambeau was four inches above it.
+who was [[Well|well]] up to six feet; for [[Flambeau]] was four inches above it.
 
 He alighted at Liverpool Street, however, quite conscientiously
 secure that he had not missed the criminal so far.  He then went to
 Scotland Yard to regularise his position and arrange for help in case
 of need; he then lit another cigarette and went for a long stroll
-in the streets of London.  As he was walking in the streets and squares
+in the streets of [[London]].  As he was walking in the streets and squares
 beyond Victoria, he paused suddenly and stood.  It was a quaint,
-quiet square, very typical of London, full of an accidental stillness.
+quiet square, very typical of [[London]], full of an accidental stillness.
 The tall, flat houses round looked at once prosperous and uninhabited;
 the square of shrubbery in the centre looked as deserted as a green
 Pacific islet.  One of the four sides was much higher than the rest,
-like a dais; and the line of this side was broken by one of London's
+like a dais; and the line of this side was broken by one of [[London]]'s
 admirable accidents--a restaurant that looked as if it had strayed
-from Soho.  It was an unreasonably attractive object, with dwarf
+from Soho.  It was an unreasonably attractive object, with [[Dwarf|dwarf]]
 plants in pots and long, striped blinds of lemon yellow and white.
 It stood specially high above the street, and in the usual patchwork way
-of London, a flight of steps from the street ran up to meet the front
-door almost as a fire-escape might run up to a first-floor window.
+of [[London]], a flight of steps from the street ran up to meet the front
+door almost as a [[Fire|fire]]-escape might run up to a first-floor [[Window|window]].
 Valentin stood and smoked in front of the yellow-white blinds and
 considered them long.
 
 The most incredible thing about miracles is that they happen.
 A few clouds in heaven do come together into the staring shape of
 one human eye.  A tree does stand up in the landscape of a doubtful
-journey in the exact and elaborate shape of a note of interrogation.
+[[Journey|journey]] in the exact and elaborate shape of a note of interrogation.
 I have seen both these things myself within the last few days.
 Nelson does die in the instant of victory; and a man named Williams
 does quite accidentally murder a man named Williamson; it sounds like
 a sort of infanticide.  In short, there is in life an element of elfin
 coincidence which people reckoning on the prosaic may perpetually miss.
-As it has been well expressed in the paradox of Poe, wisdom should
+As it has been [[Well|well]] expressed in the [[Paradox|paradox]] of Poe, wisdom should
 reckon on the unforeseen.
 
 Aristide Valentin was unfathomably French; and the French intelligence
-is intelligence specially and solely.  He was not "a thinking machine";
+is intelligence specially and solely.  He was not "a thinking [[Machine|machine]]";
 for that is a brainless phrase of modern fatalism and materialism.
-A machine only is a machine because it cannot think.  But he was a
-thinking man, and a plain man at the same time.  All his wonderful successes,
-that looked like conjuring, had been gained by plodding logic, by clear
+A [[Machine|machine]] only is a [[Machine|machine]] because it cannot think.  But he was a
+thinking man, and a plain man at the same [[Time|time]].  All his wonderful successes,
+that looked like conjuring, had been gained by plodding [[logic]], by clear
 and commonplace French thought.  The French electrify the world not
-by starting any paradox, they electrify it by carrying out a truism.
-They carry a truism so far--as in the French Revolution.  But exactly
+by starting any [[Paradox|paradox]], they electrify it by carrying out a truism.
+They carry a truism so far--as in the [[French Revolution]].  But exactly
 because Valentin understood reason, he understood the limits of reason.
 Only a man who knows nothing of motors talks of motoring without petrol;
 only a man who knows nothing of reason talks of reasoning without strong,
 undisputed first principles.  Here he had no strong first principles.
-Flambeau had been missed at Harwich; and if he was in London at all,
+[[Flambeau]] had been missed at Harwich; and if he was in [[London]] at all,
 he might be anything from a tall tramp on Wimbledon Common to a tall
 toast-master at the Hotel Metropole.  In such a naked state of nescience,
 Valentin had a view and a method of his own.
@@ -173,7 +173,7 @@ when he could not follow the train of the reasonable,
 he coldly and carefully followed the train of the unreasonable.
 Instead of going to the right places--banks, police stations,
 rendezvous--he systematically went to the wrong places;
-knocked at every empty house, turned down every cul de sac,
+knocked at every empty [[house]], turned down every cul de sac,
 went up every lane blocked with rubbish, went round every crescent
 that led him uselessly out of the way.  He defended this crazy
 course quite logically.  He said that if one had a clue this
@@ -183,22 +183,22 @@ the eye of the pursuer might be the same that had caught the eye
 of the pursued.  Somewhere a man must begin, and it had better
 be just where another man might stop.  Something about that
 flight of steps up to the shop, something about the quietude
-and quaintness of the restaurant, roused all the detective's
+and quaintness of the restaurant, roused all the [[Detective|detective]]'s
 rare romantic fancy and made him resolve to strike at random.
-He went up the steps, and sitting down at a table by the window,
+He went up the steps, and sitting down at a table by the [[Window|window]],
 asked for a cup of black coffee.
 
 It was half-way through the morning, and he had not breakfasted;
 the slight litter of other breakfasts stood about on the table
 to remind him of his hunger; and adding a poached egg to his order,
 he proceeded musingly to shake some white sugar into his coffee,
-thinking all the time about Flambeau.  He remembered how Flambeau
-had escaped, once by a pair of nail scissors, and once by a house on fire;
+thinking all the [[Time|time]] about [[Flambeau]].  He remembered how [[Flambeau]]
+had escaped, once by a pair of nail scissors, and once by a [[house]] on [[Fire|fire]];
 once by having to pay for an unstamped letter, and once by getting people
 to look through a telescope at a comet that might destroy the world.
-He thought his detective brain as good as the criminal's, which was true.
-But he fully realised the disadvantage.  "The criminal is the creative artist;
-the detective only the critic," he said with a sour smile, and lifted
+He thought his [[Detective|detective]] brain as good as the criminal's, which was true.
+But he fully realised the disadvantage.  "The criminal is the creative [[Artist|artist]];
+the [[Detective|detective]] only the critic," he said with a sour smile, and lifted
 his coffee cup to his lips slowly, and put it down very quickly.
 He had put salt in it.
 
@@ -216,8 +216,8 @@ walls, the whole place appeared neat, cheerful and ordinary.
 He rang the bell for the waiter.
 
 When that official hurried up, fuzzy-haired and somewhat
-blear-eyed at that early hour, the detective (who was not without
-an appreciation of the simpler forms of humour) asked him to taste
+blear-eyed at that early hour, the [[Detective|detective]] (who was not without
+an appreciation of the simpler forms of [[Humour|humour]]) asked him to taste
 the sugar and see if it was up to the high reputation of the hotel.
 The result was that the waiter yawned suddenly and woke up.
 
@@ -260,12 +260,12 @@ getting his things together.  But he went at last.  Only, the instant
 before he stepped into the street he deliberately picked up his cup,
 which he had only half emptied, and threw the soup slap on the wall.
 I was in the back room myself, and so was the waiter; so I could
-only rush out in time to find the wall splashed and the shop empty.
+only rush out in [[Time|time]] to find the wall splashed and the shop empty.
 It don't do any particular damage, but it was confounded cheek;
 and I tried to catch the men in the street.  They were too far off though;
 I only noticed they went round the next corner into Carstairs Street."
 
-The detective was on his feet, hat settled and stick in hand.
+The [[Detective|detective]] was on his feet, hat settled and stick in hand.
 He had already decided that in the universal darkness of his
 mind he could only follow the first odd finger that pointed;
 and this finger was odd enough.  Paying his bill and clashing
@@ -279,14 +279,14 @@ and fruiterer's, an array of goods set out in the open air and plainly
 ticketed with their names and prices.  In the two most prominent
 compartments were two heaps, of oranges and of nuts respectively.
 On the heap of nuts lay a scrap of cardboard, on which was written in bold,
-blue chalk, "Best tangerine oranges, two a penny."  On the oranges was
+blue [[chalk]], "Best tangerine oranges, two a penny."  On the oranges was
 the equally clear and exact description, "Finest Brazil nuts, 4d.  a lb."
 M. Valentin looked at these two placards and fancied he had met this
-highly subtle form of humour before, and that somewhat recently.
+highly subtle form of [[Humour|humour]] before, and that somewhat recently.
 He drew the attention of the red-faced fruiterer, who was looking rather
 sullenly up and down the street, to this inaccuracy in his advertisements.
 The fruiterer said nothing, but sharply put each card into its proper place.
-The detective, leaning elegantly on his walking-cane, continued to scrutinise
+The [[Detective|detective]], leaning elegantly on his walking-cane, continued to scrutinise
 the shop.  At last he said, "Pray excuse my apparent irrelevance,
 my good sir, but I should like to ask you a question in experimental
 psychology and the association of ideas."
@@ -294,7 +294,7 @@ psychology and the association of ideas."
 The red-faced shopman regarded him with an eye of menace;
 but he continued gaily, swinging his cane, "Why," he pursued,
 "why are two tickets wrongly placed in a greengrocer's shop
-like a shovel hat that has come to London for a holiday?
+like a shovel hat that has come to [[London]] for a holiday?
 Or, in case I do not make myself clear, what is the mystical
 association which connects the idea of nuts marked as oranges
 with the idea of two clergymen, one tall and the other short?"
@@ -306,15 +306,15 @@ but if you're one of their friends, you can tell 'em from me that I'll
 knock their silly 'eads off, parsons or no parsons, if they upset
 my apples again."
 
-"Indeed?" asked the detective, with great sympathy.
+"Indeed?" asked the [[Detective|detective]], with great sympathy.
 "Did they upset your apples?"
 
 "One of 'em did," said the heated shopman; "rolled 'em all over the street.
-I'd 'ave caught the fool but for havin' to pick 'em up."
+I'd 'ave caught the [[Fool|fool]] but for havin' to pick 'em up."
 
 "Which way did these parsons go?" asked Valentin.
 
-"Up that second road on the left-hand side, and then across the square,"
+"Up that second [[Road|road]] on the left-hand side, and then across the square,"
 said the other promptly.
 
 "Thanks," replied Valentin, and vanished like a fairy.
@@ -324,7 +324,7 @@ in shovel hats?"
 
 The policeman began to chuckle heavily.  "I 'ave, sir;
 and if you arst me, one of 'em was drunk.  He stood in the middle
-of the road that bewildered that--"
+of the [[Road|road]] that bewildered that--"
 
 "Which way did they go?" snapped Valentin.
 
@@ -333,12 +333,12 @@ of the road that bewildered that--"
 
 Valentin produced his official card and said very rapidly:
 "Call up two of your men to come with me in pursuit,"
-and crossed the road with such contagious energy that the
+and crossed the [[Road|road]] with such contagious energy that the
 ponderous policeman was moved to almost agile obedience.
-In a minute and a half the French detective was joined on
+In a minute and a half the French [[Detective|detective]] was joined on
 the opposite pavement by an inspector and a man in plain clothes.
 
-"Well, sir," began the former, with smiling importance,
+"[[Well]], sir," began the former, with smiling importance,
 "and what may--?"
 
 Valentin pointed suddenly with his cane.  "I'll tell you on
@@ -350,7 +350,7 @@ on the top seats of the yellow vehicle, the inspector said:
 "Quite true," replied their leader placidly, "if we only had an idea
 of where we were going."
 
-"Well, where are you going?" asked the other, staring.
+"[[Well]], where are you going?" asked the other, staring.
 
 Valentin smoked frowningly for a few seconds; then, removing his cigarette,
 he said:  "If you know what a man's doing, get in front of him;
@@ -362,43 +362,43 @@ All we can do is to keep our eyes skinned for a queer thing."
 "What sort of queer thing do you mean?" asked the inspector.
 
 "Any sort of queer thing," answered Valentin, and relapsed
-into obstinate silence.
+into obstinate [[Silence|silence]].
 
 The yellow omnibus crawled up the northern roads for what seemed
-like hours on end; the great detective would not explain further,
-and perhaps his assistants felt a silent and growing doubt of
-his errand.  Perhaps, also, they felt a silent and growing desire
+like hours on end; the great [[Detective|detective]] would not explain further,
+and perhaps his assistants felt a silent and growing [[Doubt|doubt]] of
+his errand.  Perhaps, also, they felt a silent and growing [[Desire|desire]]
 for lunch, for the hours crept long past the normal luncheon hour,
-and the long roads of the North London suburbs seemed to shoot
+and the long roads of the North [[London]] suburbs seemed to shoot
 out into length after length like an infernal telescope.
 It was one of those journeys on which a man perpetually feels that now
 at last he must have come to the end of the universe, and then finds
-he has only come to the beginning of Tufnell Park.  London died away
+he has only come to the beginning of Tufnell Park.  [[London]] died away
 in draggled taverns and dreary scrubs, and then was unaccountably born
 again in blazing high streets and blatant hotels.  It was like passing
 through thirteen separate vulgar cities all just touching each other.
-But though the winter twilight was already threatening the road
-ahead of them, the Parisian detective still sat silent and watchful,
+But though the [[Winter|winter]] twilight was already threatening the [[Road|road]]
+ahead of them, the Parisian [[Detective|detective]] still sat silent and watchful,
 eyeing the frontage of the streets that slid by on either side.
-By the time they had left Camden Town behind, the policemen
+By the [[Time|time]] they had left Camden Town behind, the policemen
 were nearly asleep; at least, they gave something like a jump
 as Valentin leapt erect, struck a hand on each man's shoulder,
 and shouted to the driver to stop.
 
-They tumbled down the steps into the road without realising why they
+They tumbled down the steps into the [[Road|road]] without realising why they
 had been dislodged; when they looked round for enlightenment they found
-Valentin triumphantly pointing his finger towards a window on the left
-side of the road.  It was a large window, forming part of the long
-facade of a gilt and palatial public-house; it was the part reserved
-for respectable dining, and labelled "Restaurant."  This window,
+Valentin triumphantly pointing his finger towards a [[Window|window]] on the left
+side of the [[Road|road]].  It was a large [[Window|window]], forming part of the long
+facade of a gilt and palatial public-[[house]]; it was the part reserved
+for respectable dining, and labelled "Restaurant."  This [[Window|window]],
 like all the rest along the frontage of the hotel, was of frosted
 and figured glass; but in the middle of it was a big, black smash,
 like a star in the ice.
 
 "Our cue at last," cried Valentin, waving his stick; "the place
-with the broken window."
+with the broken [[Window|window]]."
 
-"What window?  What cue?" asked his principal assistant.
+"What [[Window|window]]?  What cue?" asked his principal assistant.
 "Why, what proof is there that this has anything to do with them?"
 
 Valentin almost broke his bamboo stick with rage.
@@ -406,13 +406,13 @@ Valentin almost broke his bamboo stick with rage.
 "Proof!" he cried.  "Good God! the man is looking for proof!
 Why, of course, the chances are twenty to one that it has nothing
 to do with them.  But what else can we do?  Don't you see we must
-either follow one wild possibility or else go home to bed?"
+either follow one wild possibility or else go [[Home|home]] to bed?"
 He banged his way into the restaurant, followed by his companions,
 and they were soon seated at a late luncheon at a little table,
 and looked at the star of smashed glass from the inside.
 Not that it was very informative to them even then.
 
-"Got your window broken, I see," said Valentin to the waiter
+"Got your [[Window|window]] broken, I see," said Valentin to the waiter
 as he paid the bill.
 
 "Yes, sir," answered the attendant, bending busily over the change,
@@ -421,9 +421,9 @@ straightened himself with mild but unmistakable animation.
 
 "Ah, yes, sir," he said.  "Very odd thing, that, sir."
 
-"Indeed?"  Tell us about it," said the detective with careless curiosity.
+"Indeed?"  Tell us about it," said the [[Detective|detective]] with careless curiosity.
 
-"Well, two gents in black came in," said the waiter; "two of
+"[[Well]], two gents in black came in," said the waiter; "two of
 those foreign parsons that are running about.  They had a cheap
 and quiet little lunch, and one of them paid for it and went out.
 The other was just going out to join him when I looked at my change
@@ -431,17 +431,17 @@ again and found he'd paid me more than three times too much.
 `Here,' I says to the chap who was nearly out of the door,
 `you've paid too much.'  `Oh,' he says, very cool, `have we?'
 'Yes,' I says, and picks up the bill to show him.
-Well, that was a knock-out."
+[[Well]], that was a knock-out."
 
 "What do you mean?" asked his interlocutor.
 
-"Well, I'd have sworn on seven Bibles that I'd put 4s.  on that bill.
+"[[Well]], I'd have sworn on seven Bibles that I'd put 4s.  on that bill.
 But now I saw I'd put 14s., as plain as paint."
 
-"Well?" cried Valentin, moving slowly, but with burning eyes, "and then?"
+"[[Well]]?" cried Valentin, moving slowly, but with burning eyes, "and then?"
 
 "The parson at the door he says all serene, `Sorry to confuse
-your accounts, but it'll pay for the window.'  `What window?'
+your accounts, but it'll pay for the window.'  `What [[Window|window]]?'
 I says.  `The one I'm going to break,' he says, and smashed
 that blessed pane with his umbrella."
 
@@ -490,7 +490,7 @@ confession of eagerness, "for Heaven's sake tell us what happened exactly."
 in about half an hour ago and bought some peppermints and talked
 a bit, and then went off towards the Heath.  But a second after,
 one of them runs back into the shop and says, `Have I left a parcel!'
-Well, I looked everywhere and couldn't see one; so he says, `Never mind;
+[[Well]], I looked everywhere and couldn't see one; so he says, `Never mind;
 but if it should turn up, please post it to this address,'
 and he left me the address and a shilling for my trouble.
 And sure enough, though I thought I'd looked everywhere, I found he'd
@@ -645,38 +645,38 @@ find a notice-board, `Thou shalt not steal.'"
 
 Valentin was just in the act of rising from his rigid and crouching
 attitude and creeping away as softly as might be, felled by the one
-great folly of his life.  But something in the very silence
+great folly of his life.  But something in the very [[Silence|silence]]
 of the tall priest made him stop until the latter spoke.
 When at last he did speak, he said simply, his head bowed and his
 hands on his knees:
 
-"Well, I think that other worlds may perhaps rise higher than our reason.
+"[[Well]], I think that other worlds may perhaps rise higher than our reason.
 The mystery of heaven is unfathomable, and I for one can only bow my head."
 
 Then, with brow yet bent and without changing by the faintest
 shade his attitude or voice, he added:
 
-"Just hand over that sapphire cross of yours, will you?
-We're all alone here, and I could pull you to pieces like
+"Just hand over that sapphire [[Cross|cross]] of yours, will you?
+We're all [[Alone|alone]] here, and I could pull you to pieces like
 a straw doll."
 
 The utterly unaltered voice and attitude added a strange violence
 to that shocking change of speech.  But the guarder of the relic
 only seemed to turn his head by the smallest section of the compass.
-He seemed still to have a somewhat foolish face turned to the stars.
+He seemed still to have a somewhat foolish face turned to the [[Stars|stars]].
 Perhaps he had not understood.  Or, perhaps, he had understood and sat
 rigid with terror.
 
 "Yes," said the tall priest, in the same low voice and in the same
-still posture, "yes, I am Flambeau."
+still posture, "yes, I am [[Flambeau]]."
 
 Then, after a pause, he said:
 
-"Come, will you give me that cross?"
+"Come, will you give me that [[Cross|cross]]?"
 
 "No," said the other, and the monosyllable had an odd sound.
 
-Flambeau suddenly flung off all his pontifical pretensions.
+[[Flambeau]] suddenly flung off all his pontifical pretensions.
 The great robber leaned back in his seat and laughed low but long.
 
 "No," he cried, "you won't give it me, you proud prelate.
@@ -689,14 +689,14 @@ and said, with the timid eagerness of "The Private Secretary":
 
 "Are--are you sure?"
 
-Flambeau yelled with delight.
+[[Flambeau]] yelled with delight.
 
 "Really, you're as good as a three-act farce," he cried.  "Yes, you turnip,
 I am quite sure.  I had the sense to make a duplicate of the right parcel,
 and now, my friend, you've got the duplicate and I've got the jewels.
-An old dodge, Father Brown--a very old dodge."
+An old dodge, [[Father Brown]]--a very old dodge."
 
-"Yes," said Father Brown, and passed his hand through his hair
+"Yes," said [[Father Brown]], and passed his hand through his hair
 with the same strange vagueness of manner.  "Yes, I've heard
 of it before."
 
@@ -705,7 +705,7 @@ with a sort of sudden interest.
 
 "You have heard of it?" he asked.  "Where have you heard of it?"
 
-"Well, I mustn't tell you his name, of course," said the little man simply.
+"[[Well]], I mustn't tell you his name, of course," said the little man simply.
 "He was a penitent, you know.  He had lived prosperously for about twenty
 years entirely on duplicate brown paper parcels.  And so, you see,
 when I began to suspect you, I thought of this poor chap's way of doing
@@ -719,23 +719,23 @@ you up to this bare part of the heath?"
 I suspected you when we first met.  It's that little bulge up
 the sleeve where you people have the spiked bracelet."
 
-"How in Tartarus," cried Flambeau, "did you ever hear of the spiked bracelet?"
+"How in Tartarus," cried [[Flambeau]], "did you ever hear of the spiked bracelet?"
 
-"Oh, one's little flock, you know!" said Father Brown, arching his
+"Oh, one's little flock, you know!" said [[Father Brown]], arching his
 eyebrows rather blankly.  "When I was a curate in Hartlepool,
 there were three of them with spiked bracelets.  So, as I suspected
-you from the first, don't you see, I made sure that the cross
+you from the first, don't you see, I made sure that the [[Cross|cross]]
 should go safe, anyhow.  I'm afraid I watched you, you know.
 So at last I saw you change the parcels.  Then, don't you see,
 I changed them back again.  And then I left the right one behind."
 
-"Left it behind?" repeated Flambeau, and for the first time there
+"Left it behind?" repeated [[Flambeau]], and for the first [[Time|time]] there
 was another note in his voice beside his triumph.
 
-"Well, it was like this," said the little priest, speaking in the same
+"[[Well]], it was like this," said the little priest, speaking in the same
 unaffected way.  "I went back to that sweet-shop and asked if I'd
 left a parcel, and gave them a particular address if it turned up.
-Well, I knew I hadn't; but when I went away again I did.  So, instead of
+[[Well]], I knew I hadn't; but when I went away again I did.  So, instead of
 running after me with that valuable parcel, they have sent it flying
 to a friend of mine in Westminster."  Then he added rather sadly:
 "I learnt that, too, from a poor fellow in Hartlepool.  He used to do it
@@ -744,27 +744,27 @@ Oh, one gets to know, you know," he added, rubbing his head again
 with the same sort of desperate apology.  "We can't help being priests.
 People come and tell us these things."
 
-Flambeau tore a brown-paper parcel out of his inner pocket and rent it
+[[Flambeau]] tore a brown-paper parcel out of his inner pocket and rent it
 in pieces.  There was nothing but paper and sticks of lead inside it.
 He sprang to his feet with a gigantic gesture, and cried:
 
 "I don't believe you.  I don't believe a bumpkin like you could
 manage all that.  I believe you've still got the stuff on you,
-and if you don't give it up--why, we're all alone, and I'll take
+and if you don't give it up--why, we're all [[Alone|alone]], and I'll take
 it by force!"
 
-"No," said Father Brown simply, and stood up also, "you won't
+"No," said [[Father Brown]] simply, and stood up also, "you won't
 take it by force.  First, because I really haven't still got it.
-And, second, because we are not alone."
+And, second, because we are not [[Alone|alone]]."
 
-Flambeau stopped in his stride forward.
+[[Flambeau]] stopped in his stride forward.
 
-"Behind that tree," said Father Brown, pointing, "are two
-strong policemen and the greatest detective alive.
+"Behind that tree," said [[Father Brown]], pointing, "are two
+strong policemen and the greatest [[Detective|detective]] alive.
 How did they come here, do you ask?  Why, I brought them,
 of course!  How did I do it?  Why, I'll tell you if you like!
 Lord bless you, we have to know twenty such things when we work
-among the criminal classes!  Well, I wasn't sure you were a thief,
+among the criminal classes!  [[Well]], I wasn't sure you were a thief,
 and it would never do to make a scandal against one of our own clergy.
 So I just tested you to see if anything would make you show yourself.
 A man generally makes a small scene if he finds salt in his coffee;
@@ -774,19 +774,19 @@ A man generally objects if his bill is three times too big.
 If he pays it, he has some motive for passing unnoticed.
 I altered your bill, and you paid it."
 
-The world seemed waiting for Flambeau to leap like a tiger.
+The world seemed waiting for [[Flambeau]] to leap like a tiger.
 But he was held back as by a spell; he was stunned with
 the utmost curiosity.
 
-"Well," went on Father Brown, with lumbering lucidity, "as you
+"[[Well]]," went on [[Father Brown]], with lumbering lucidity, "as you
 wouldn't leave any tracks for the police, of course somebody had to.
 At every place we went to, I took care to do something that would
 get us talked about for the rest of the day.  I didn't do much harm--
-a splashed wall, spilt apples, a broken window; but I saved the cross,
-as the cross will always be saved.  It is at Westminster by now.
-I rather wonder you didn't stop it with the Donkey's Whistle."
+a splashed wall, spilt apples, a broken [[Window|window]]; but I saved the [[Cross|cross]],
+as the [[Cross|cross]] will always be saved.  It is at Westminster by now.
+I rather [[Wonder|wonder]] you didn't stop it with the [[donkey|Donkey]]'s Whistle."
 
-"With the what?" asked Flambeau.
+"With the what?" asked [[Flambeau]].
 
 "I'm glad you've never heard of it," said the priest, making a face.
 "It's a foul thing.  I'm sure you're too good a man for
@@ -795,12 +795,12 @@ I'm not strong enough in the legs."
 
 "What on earth are you talking about?" asked the other.
 
-"Well, I did think you'd know the Spots," said Father Brown,
+"[[Well]], I did think you'd know the Spots," said [[Father Brown]],
 agreeably surprised.  "Oh, you can't have gone so very wrong yet!"
 
-"How in blazes do you know all these horrors?" cried Flambeau.
+"How in blazes do you know all these horrors?" cried [[Flambeau]].
 
-The shadow of a smile crossed the round, simple face of his clerical opponent.
+The [[Shadow|shadow]] of a smile crossed the round, simple face of his clerical opponent.
 
 "Oh, by being a celibate simpleton, I suppose," he said.
 "Has it never struck you that a man who does next to nothing but hear
@@ -810,10 +810,10 @@ sure you weren't a priest."
 
 "What?" asked the thief, almost gaping.
 
-"You attacked reason," said Father Brown.  "It's bad theology."
+"You attacked reason," said [[Father Brown]].  "It's bad theology."
 
 And even as he turned away to collect his property, the three policemen came
-out from under the twilight trees.  Flambeau was an artist and a sportsman.
+out from under the twilight trees.  [[Flambeau]] was an [[Artist|artist]] and a sportsman.
 He stepped back and swept Valentin a great bow.
 
 "Do not bow to me, mon ami," said Valentin with silver clearness.

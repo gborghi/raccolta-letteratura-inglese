@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES"
+title: "The [[Pickwick]] Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,38 +17,38 @@ tags:
 CHAPTER XLIII. SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES
 
 In a lofty room, ill-lighted and worse ventilated, situated in Portugal
-Street, Lincoln’s Inn Fields, there sit nearly the whole year round,
+Street, [[Lincoln]]’s Inn Fields, there sit nearly the whole year round,
 one, two, three, or four gentlemen in wigs, as the case may be, with
 little writing-desks before them, constructed after the fashion of those
 used by the judges of the land, barring the French polish. There is a
 box of barristers on their right hand; there is an enclosure of
 insolvent debtors on their left; and there is an inclined plane of most
 especially dirty faces in their front. These gentlemen are the
-Commissioners of the Insolvent Court, and the place in which they sit,
-is the Insolvent Court itself.
+Commissioners of the Insolvent [[Court]], and the place in which they sit,
+is the Insolvent [[Court]] itself.
 
-It is, and has been, time out of mind, the remarkable fate of this court
+It is, and has been, [[Time|time]] out of mind, the remarkable fate of this [[Court|court]]
 to be, somehow or other, held and understood, by the general consent of
-all the destitute shabby-genteel people in London, as their common
+all the destitute shabby-genteel people in [[London]], as their common
 resort, and place of daily refuge. It is always full. The steams of beer
 and spirits perpetually ascend to the ceiling, and, being condensed by
 the heat, roll down the walls like rain; there are more old suits of
-clothes in it at one time, than will be offered for sale in all
+clothes in it at one [[Time|time]], than will be offered for sale in all
 Houndsditch in a twelvemonth; more unwashed skins and grizzly beards
 than all the pumps and shaving-shops between Tyburn and Whitechapel
 could render decent, between sunrise and sunset.
 
-It must not be supposed that any of these people have the least shadow
+It must not be supposed that any of these people have the least [[Shadow|shadow]]
 of business in, or the remotest connection with, the place they so
 indefatigably attend. If they had, it would be no matter of surprise,
-and the singularity of the thing would cease. Some of them sleep during
+and the singularity of the thing would cease. Some of them [[Sleep|sleep]] during
 the greater part of the sitting; others carry small portable dinners
 wrapped in pocket-handkerchiefs or sticking out of their worn-out
 pockets, and munch and listen with equal relish; but no one among them
 was ever known to have the slightest personal interest in any case that
 was ever brought forward. Whatever they do, there they sit from the
 first moment to the last. When it is heavy, rainy weather, they all come
-in, wet through; and at such times the vapours of the court are like
+in, wet through; and at such times the vapours of the [[Court|court]] are like
 those of a fungus-pit.
 
 A casual visitor might suppose this place to be a temple dedicated to
@@ -65,7 +65,7 @@ But the attorneys, who sit at a large bare table below the
 commissioners, are, after all, the greatest curiosities. The
 professional establishment of the more opulent of these gentlemen,
 consists of a blue bag and a boy; generally a youth of the Jewish
-persuasion. They have no fixed offices, their legal business being
+[[Persuasion|persuasion]]. They have no fixed offices, their legal business being
 transacted in the parlours of public-houses, or the yards of prisons,
 whither they repair in crowds, and canvass for customers after the
 manner of omnibus cads. They are of a greasy and mildewed appearance;
@@ -75,10 +75,10 @@ usually on the outskirts of ‘the Rules,’ chiefly lying within a circle
 of one mile from the obelisk in St. George’s Fields. Their looks are not
 prepossessing, and their manners are peculiar.
 
-Mr. Solomon Pell, one of this learned body, was a fat, flabby, pale man,
+Mr. Solomon Pell, one of this learned [[Body|body]], was a fat, flabby, pale man,
 in a surtout which looked green one minute, and brown the next, with a
 velvet collar of the same chameleon tints. His forehead was narrow, his
-face wide, his head large, and his nose all on one side, as if Nature,
+face wide, his head large, and his nose all on one side, as if [[Nature]],
 indignant with the propensities she observed in him in his birth, had
 given it an angry tweak which it had never recovered. Being short-necked
 and asthmatic, however, he respired principally through this feature;
@@ -96,8 +96,8 @@ practitioner, mind you, I wouldn’t have answered for the consequences.’
 ‘No, that I wouldn’t,’ said Mr. Pell; and he pursed up his lips,
 frowned, and shook his head mysteriously.
 
-Now, the place where this discourse occurred was the public-house just
-opposite to the Insolvent Court; and the person with whom it was held
+Now, the place where this discourse occurred was the public-[[house]] just
+opposite to the Insolvent [[Court]]; and the person with whom it was held
 was no other than the elder Mr. Weller, who had come there, to comfort
 and console a friend, whose petition to be discharged under the act, was
 to be that day heard, and whose attorney he was at that moment
@@ -111,15 +111,15 @@ most flattering manner by some half-dozen of his professional brethren,
 in token of their gratification at his arrival. The insolvent gentleman,
 who had contracted a speculative but imprudent passion for horsing long
 stages, which had led to his present embarrassments, looked extremely
-well, and was soothing the excitement of his feelings with shrimps and
+[[Well|well]], and was soothing the excitement of his feelings with shrimps and
 porter.
 
 The salutation between Mr. Weller and his friends was strictly confined
 to the freemasonry of the craft; consisting of a jerking round of the
 right wrist, and a tossing of the little finger into the air at the same
-time. We once knew two famous coachmen (they are dead now, poor fellows)
+[[Time|time]]. We once knew two famous coachmen (they are dead now, poor fellows)
 who were twins, and between whom an unaffected and devoted attachment
-existed. They passed each other on the Dover road, every day, for
+existed. They passed each other on the Dover [[Road|road]], every day, for
 twenty-four years, never exchanging any other greeting than this; and
 yet, when one died, the other pined away, and soon afterwards followed
 him!
@@ -161,14 +161,14 @@ admiration, and said emphatically--
 ‘And what’ll you take, sir?’
 
 ‘Why, really,’ replied Mr. Pell, ‘you’re very--. Upon my word and
-honour, I’m not in the habit of--. It’s so very early in the morning,
-that, actually, I am almost--. Well, you may bring me threepenn’orth of
+[[Honour|honour]], I’m not in the habit of--. It’s so very early in the morning,
+that, actually, I am almost--. [[Well]], you may bring me threepenn’orth of
 rum, my dear.’
 
-The officiating damsel, who had anticipated the order before it was
+The officiating [[Damsel|damsel]], who had anticipated the order before it was
 given, set the glass of spirits before Pell, and retired.
 
-‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘success to
+‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘[[success]] to
 your friend! I don’t like to boast, gentlemen; it’s not my way; but I
 can’t help saying, that, if your friend hadn’t been fortunate enough to
 fall into hands that--But I won’t say what I was going to say.
@@ -180,10 +180,10 @@ assembled coachmen, who evidently regarded him as a species of divinity.
 gentlemen?’
 
 ‘I think you was remarkin’ as you wouldn’t have no objection to another
-o’ the same, Sir,’ said Mr. Weller, with grave facetiousness.
+o’ the same, Sir,’ said Mr. Weller, with [[Grave|grave]] facetiousness.
 
 ‘Ha, ha!’ laughed Mr. Pell. ‘Not bad, not bad. A professional man, too!
-At this time of the morning, it would be rather too good a--Well, I
+At this [[Time|time]] of the morning, it would be rather too good a--[[Well]], I
 don’t know, my dear--you may do that again, if you please. Hem!’
 
 This last sound was a solemn and dignified cough, in which Mr. Pell,
@@ -207,9 +207,9 @@ A murmur of assent ran through the company.
 occasion; there was only us two, but everything as splendid as if twenty
 people had been expected--the great seal on a dumb-waiter at his right
 hand, and a man in a bag-wig and suit of armour guarding the mace with a
-drawn sword and silk stockings--which is perpetually done, gentlemen,
-night and day; when he said, “Pell,” he said, “no false delicacy, Pell.
-You’re a man of talent; you can get anybody through the Insolvent Court,
+drawn [[Sword|sword]] and silk stockings--which is perpetually done, gentlemen,
+[[Night|night]] and day; when he said, “Pell,” he said, “no false delicacy, Pell.
+You’re a man of talent; you can get anybody through the Insolvent [[Court]],
 Pell; and your country should be proud of you.” Those were his very
 words. “My Lord,” I said, “you flatter me.”--“Pell,” he said, “if I do,
 I’m damned.”’
@@ -252,13 +252,13 @@ blue bag, who were inseparable companions, rushed violently into the
 room, and said (at least the boy did, for the blue bag took no part in
 the announcement) that the case was coming on directly. The intelligence
 was no sooner received than the whole party hurried across the street,
-and began to fight their way into court--a preparatory ceremony, which
+and began to fight their way into [[Court|court]]--a preparatory ceremony, which
 has been calculated to occupy, in ordinary cases, from twenty-five
 minutes to thirty.
 
 Mr. Weller, being stout, cast himself at once into the crowd, with the
-desperate hope of ultimately turning up in some place which would suit
-him. His success was not quite equal to his expectations; for having
+desperate [[Hope|hope]] of ultimately turning up in some place which would suit
+him. His [[success]] was not quite equal to his expectations; for having
 neglected to take his hat off, it was knocked over his eyes by some
 unseen person, upon whose toes he had alighted with considerable force.
 Apparently this individual regretted his impetuosity immediately
@@ -290,9 +290,9 @@ Mr. Weller made no reply, but once more shook his head most learnedly.
 ‘Leave off rattlin’ that ‘ere nob o’ yourn, if you don’t want it to come
 off the springs altogether,’ said Sam impatiently, ‘and behave
 reasonable. I vent all the vay down to the Markis o’ Granby, arter you,
-last night.’
+last [[Night|night]].’
 
-‘Did you see the Marchioness o’ Granby, Sammy?’ inquired Mr. Weller,
+‘Did you see the [[Marchioness]] o’ Granby, Sammy?’ inquired Mr. Weller,
 with a sigh.
 
 ‘Yes, I did,’ replied Sam.
@@ -310,7 +310,7 @@ the same natur.’
 Mr. Weller seized his son’s hand, clasped it, and let it fall. There was
 an expression on his countenance in doing so--not of dismay or
 apprehension, but partaking more of the sweet and gentle character of
-hope. A gleam of resignation, and even of cheerfulness, passed over his
+[[Hope|hope]]. A gleam of [[Resignation|resignation]], and even of cheerfulness, passed over his
 face too, as he slowly said, ‘I ain’t quite certain, Sammy; I wouldn’t
 like to say I wos altogether positive, in case of any subsekent
 disappointment, but I rayther think, my boy, I rayther think, that the
@@ -330,7 +330,7 @@ which he was only wont to indulge when particularly pleased.
 ‘Vell, now,’ said Sam, ‘about my affair. Just open them ears o’ yourn,
 and don’t say nothin’ till I’ve done.’ With this preface, Sam related,
 as succinctly as he could, the last memorable conversation he had had
-with Mr. Pickwick.
+with Mr. [[Pickwick]].
 
 ‘Stop there by himself, poor creetur!’ exclaimed the elder Mr. Weller,
 ‘without nobody to take his part! It can’t be done, Samivel, it can’t be
@@ -346,7 +346,7 @@ Sam nodded his concurrence in the opinion.
 he’ll come out, done so ex-ceedin’ brown, that his most formiliar
 friends won’t know him. Roast pigeon’s nothin’ to it, Sammy.’
 
-Again Sam Weller nodded.
+Again [[Sam Weller]] nodded.
 
 ‘It oughtn’t to be, Samivel,’ said Mr. Weller gravely.
 
@@ -364,9 +364,9 @@ enough for you.’
 
 I know’d a ostler o’ that name,’ said Mr. Weller, musing.
 
-‘It warn’t him,’ said Sam. ‘This here gen’l’m’n was a prophet.’
+‘It warn’t him,’ said Sam. ‘This here gen’l’m’n was a [[Prophet|prophet]].’
 
-‘Wot’s a prophet?’ inquired Mr. Weller, looking sternly on his son.
+‘Wot’s a [[Prophet|prophet]]?’ inquired Mr. Weller, looking sternly on his son.
 
 ‘Wy, a man as tells what’s a-goin’ to happen,’ replied Sam.
 
@@ -376,8 +376,8 @@ on, just now. Hows’ever, if he’s dead, and ain’t left the bisness to
 nobody, there’s an end on it. Go on, Sammy,’ said Mr. Weller, with a
 sigh.
 
-‘Well,’ said Sam, ‘you’ve been a-prophecyin’ avay about wot’ll happen to
-the gov’ner if he’s left alone. Don’t you see any way o’ takin’ care on
+‘[[Well]],’ said Sam, ‘you’ve been a-prophecyin’ avay about wot’ll happen to
+the gov’ner if he’s left [[Alone|alone]]. Don’t you see any way o’ takin’ care on
 him?’
 
 ‘No, I don’t, Sammy,’ said Mr. Weller, with a reflective visage.
@@ -390,13 +390,13 @@ mouth to the ear of his offspring--‘unless it is getting him out in a
 turn-up bedstead, unbeknown to the turnkeys, Sammy, or dressin’ him up
 like a old ‘ooman vith a green wail.’
 
-Sam Weller received both of these suggestions with unexpected contempt,
+[[Sam Weller]] received both of these suggestions with unexpected contempt,
 and again propounded his question.
 
 ‘No,’ said the old gentleman; ‘if he von’t let you stop there, I see no
 vay at all. It’s no thoroughfare, Sammy, no thoroughfare.’
 
-‘Well, then, I’ll tell you wot it is,’ said Sam, ‘I’ll trouble you for
+‘[[Well]], then, I’ll tell you wot it is,’ said Sam, ‘I’ll trouble you for
 the loan of five-and-twenty pound.’
 
 ‘Wot good’ll that do?’ inquired Mr. Weller.
@@ -410,14 +410,14 @@ At this reply of Sam’s, the father and son exchanged a complete code of
 telegraph nods and gestures, after which, the elder Mr. Weller sat
 himself down on a stone step and laughed till he was purple.
 
-‘Wot a old image it is!’ exclaimed Sam, indignant at this loss of time.
+‘Wot a old image it is!’ exclaimed Sam, indignant at this loss of [[Time|time]].
 ‘What are you a-settin’ down there for, con-wertin’ your face into a
 street-door knocker, wen there’s so much to be done. Where’s the money?’
 
 ‘In the boot, Sammy, in the boot,’ replied Mr. Weller, composing his
 features. ‘Hold my hat, Sammy.’
 
-Having divested himself of this encumbrance, Mr. Weller gave his body a
+Having divested himself of this encumbrance, Mr. Weller gave his [[Body|body]] a
 sudden wrench to one side, and by a dexterous twist, contrived to get
 his right hand into a most capacious pocket, from whence, after a great
 deal of panting and exertion, he extricated a pocket-book of the large
@@ -428,10 +428,10 @@ he selected the required amount, which he handed over to Sam.
 
 ‘And now, Sammy,’ said the old gentleman, when the whip-lashes, and the
 buckles, and the samples, had been all put back, and the book once more
-deposited at the bottom of the same pocket, ‘now, Sammy, I know a
-gen’l’m’n here, as’ll do the rest o’ the bisness for us, in no time--a
+deposited at the [[Bottom|bottom]] of the same pocket, ‘now, Sammy, I know a
+gen’l’m’n here, as’ll do the rest o’ the bisness for us, in no [[Time|time]]--a
 limb o’ the law, Sammy, as has got brains like the frogs, dispersed all
-over his body, and reachin’ to the wery tips of his fingers; a friend of
+over his [[Body|body]], and reachin’ to the wery tips of his fingers; a friend of
 the Lord Chancellorship’s, Sammy, who’d only have to tell him what he
 wanted, and he’d lock you up for life, if that wos all.’
 
@@ -444,7 +444,7 @@ wanted, and he’d lock you up for life, if that wos all.’
 blessedest things as wos ever made. I’ve read that ‘ere in the
 newspapers wery of’en.’
 
-‘Well, wot’s that got to do vith it?’ inquired Mr. Weller.
+‘[[Well]], wot’s that got to do vith it?’ inquired Mr. Weller.
 
 ‘Just this here,’ said Sam, ‘that I’ll patronise the inwention, and go
 in, that vay. No visperin’s to the Chancellorship--I don’t like the
@@ -452,9 +452,9 @@ notion. It mayn’t be altogether safe, vith reference to gettin’ out
 agin.’
 
 Deferring to his son’s feeling upon this point, Mr. Weller at once
-sought the erudite Solomon Pell, and acquainted him with his desire to
+sought the erudite Solomon Pell, and acquainted him with his [[Desire|desire]] to
 issue a writ, instantly, for the _sum _of twenty-five pounds, and costs
-of process; to be executed without delay upon the body of one Samuel
+of process; to be executed without delay upon the [[Body|body]] of one Samuel
 Weller; the charges thereby incurred, to be paid in advance to Solomon
 Pell.
 
@@ -469,16 +469,16 @@ spot.
 Meanwhile, Sam, having been formally introduced to the whitewashed
 gentleman and his friends, as the offspring of Mr. Weller, of the Belle
 Savage, was treated with marked distinction, and invited to regale
-himself with them in honour of the occasion--an invitation which he was
+himself with them in [[Honour|honour]] of the occasion--an invitation which he was
 by no means backward in accepting.
 
-The mirth of gentlemen of this class is of a grave and quiet character,
+The mirth of gentlemen of this class is of a [[Grave|grave]] and quiet character,
 usually; but the present instance was one of peculiar festivity, and
 they relaxed in proportion. After some rather tumultuous toasting of the
 Chief Commissioner and Mr. Solomon Pell, who had that day displayed such
 transcendent abilities, a mottled-faced gentleman in a blue shawl
-proposed that somebody should sing a song. The obvious suggestion was,
-that the mottled-faced gentleman, being anxious for a song, should sing
+proposed that somebody should sing a [[Song|song]]. The obvious suggestion was,
+that the mottled-faced gentleman, being anxious for a [[Song|song]], should sing
 it himself; but this the mottled-faced gentleman sturdily, and somewhat
 offensively, declined to do. Upon which, as is not unusual in such
 cases, a rather angry colloquy ensued.
@@ -499,16 +499,16 @@ fourth lines, which not only enables the singer to take breath at those
 points, but greatly assists the metre.
 
 
-ROMANCE
+[[Romance|ROMANCE]]
 
 I
 
 Bold Turpin vunce, on Hounslow Heath, His bold mare Bess bestrode--er;
-Ven there he see’d the Bishop’s coach A-coming along the road--er. So he
+Ven there he see’d the Bishop’s coach A-coming along the [[Road|road]]--er. So he
 gallops close to the ‘orse’s legs, And he claps his head vithin; And the
 Bishop says, ‘Sure as eggs is eggs, This here’s the bold Turpin!’
 
-CHORUS
+[[Chorus|CHORUS]]
 
 And the Bishop says, ‘Sure as eggs is eggs, This here’s the bold
 Turpin!’
@@ -516,22 +516,22 @@ Turpin!’
 II
 
 Says Turpin, ‘You shall eat your words, With a sarse of leaden bul--
-let;’ So he puts a pistol to his mouth, And he fires it down his gul--
+let;’ So he puts a [[Pistol|pistol]] to his mouth, And he fires it down his gul--
 let. The coachman he not likin’ the job, Set off at full gal-lop, But
 Dick put a couple of balls in his nob, And perwailed on him to stop.
 
-CHORUS (sarcastically)
+[[Chorus|CHORUS]] (sarcastically)
 
 But Dick put a couple of balls in his nob, And perwailed on him to stop.
 
-‘I maintain that that ‘ere song’s personal to the cloth,’ said the
+‘I maintain that that ‘ere [[Song|song]]’s personal to the cloth,’ said the
 mottled-faced gentleman, interrupting it at this point. ‘I demand the
 name o’ that coachman.’
 
 ‘Nobody know’d,’ replied Sam. ‘He hadn’t got his card in his pocket.’
 
 ‘I object to the introduction o’ politics,’ said the mottled-faced
-gentleman. ‘I submit that, in the present company, that ‘ere song’s
+gentleman. ‘I submit that, in the present company, that ‘ere [[Song|song]]’s
 political; and, wot’s much the same, that it ain’t true. I say that that
 coachman did not run away; but that he died game--game as pheasants; and
 I won’t hear nothin’ said to the contrairey.’
@@ -543,7 +543,7 @@ Weller and Mr. Pell most opportunely arrived.
 
 ‘All right, Sammy,’ said Mr. Weller.
 
-‘The officer will be here at four o’clock,’ said Mr. Pell. ‘I suppose
+‘The officer will be here at four o’[[Clock|clock]],’ said Mr. Pell. ‘I suppose
 you won’t run away meanwhile, eh? Ha! ha!’
 
 ‘P’raps my cruel pa ‘ull relent afore then,’ replied Sam, with a broad
@@ -576,14 +576,14 @@ reg’lar prodigy son!’
 
 ‘Prodigal--prodigal son, Sir,’ suggested Mr. Pell, mildly.
 
-‘Never mind, Sir,’ said Mr. Weller, with dignity. ‘I know wot’s o’clock,
+‘Never mind, Sir,’ said Mr. Weller, with dignity. ‘I know wot’s o’[[Clock|clock]],
 Sir. Wen I don’t, I’ll ask you, Sir.’
 
-By the time the officer arrived, Sam had made himself so extremely
-popular, that the congregated gentlemen determined to see him to prison
-in a body. So off they set; the plaintiff and defendant walking arm in
+By the [[Time|time]] the officer arrived, Sam had made himself so extremely
+popular, that the congregated gentlemen determined to see him to [[Prison|prison]]
+in a [[Body|body]]. So off they set; the plaintiff and defendant walking arm in
 arm, the officer in front, and eight stout coachmen bringing up the
-rear. At Serjeant’s Inn Coffee-house the whole party halted to refresh,
+rear. At Serjeant’s Inn Coffee-[[house]] the whole party halted to refresh,
 and, the legal arrangements being completed, the procession moved on
 again.
 
@@ -593,70 +593,70 @@ abreast; it was also found necessary to leave the mottled-faced
 gentleman behind, to fight a ticket-porter, it being arranged that his
 friends should call for him as they came back. Nothing but these little
 incidents occurred on the way. When they reached the gate of the Fleet,
-the cavalcade, taking the time from the plaintiff, gave three tremendous
+the cavalcade, taking the [[Time|time]] from the plaintiff, gave three tremendous
 cheers for the defendant, and, after having shaken hands all round, left
 him.
 
 Sam, having been formally delivered into the warder’s custody, to the
 intense astonishment of Roker, and to the evident emotion of even the
-phlegmatic Neddy, passed at once into the prison, walked straight to his
+phlegmatic Neddy, passed at once into the [[Prison|prison]], walked straight to his
 master’s room, and knocked at the door.
 
-‘Come in,’ said Mr. Pickwick.
+‘Come in,’ said Mr. [[Pickwick]].
 
 Sam appeared, pulled off his hat, and smiled.
 
-‘Ah, Sam, my good lad!’ said Mr. Pickwick, evidently delighted to see
+‘Ah, Sam, my good lad!’ said Mr. [[Pickwick]], evidently delighted to see
 his humble friend again; ‘I had no intention of hurting your feelings
 yesterday, my faithful fellow, by what I said. Put down your hat, Sam,
 and let me explain my meaning, a little more at length.’
 
 ‘Won’t presently do, sir?’ inquired Sam.
 
-‘Certainly,’ said Mr. Pickwick; ‘but why not now?’
+‘Certainly,’ said Mr. [[Pickwick]]; ‘but why not now?’
 
 ‘I’d rayther not now, sir,’ rejoined Sam.
 
-‘Why?’ inquired Mr. Pickwick.
+‘Why?’ inquired Mr. [[Pickwick]].
 
 ‘’Cause--’ said Sam, hesitating.
 
-‘Because of what?’ inquired Mr. Pickwick, alarmed at his follower’s
+‘Because of what?’ inquired Mr. [[Pickwick]], alarmed at his follower’s
 manner. ‘Speak out, Sam.’
 
 ‘’Cause,’ rejoined Sam--‘’cause I’ve got a little bisness as I want to
 do.’
 
-‘What business?’ inquired Mr. Pickwick, surprised at Sam’s confused
+‘What business?’ inquired Mr. [[Pickwick]], surprised at Sam’s confused
 manner.
 
 ‘Nothin’ partickler, Sir,’ replied Sam.
 
-‘Oh, if it’s nothing particular,’ said Mr. Pickwick, with a smile, ‘you
+‘Oh, if it’s nothing particular,’ said Mr. [[Pickwick]], with a smile, ‘you
 can speak with me first.’
 
 ‘I think I’d better see arter it at once,’ said Sam, still hesitating.
 
-Mr. Pickwick looked amazed, but said nothing.
+Mr. [[Pickwick]] looked amazed, but said nothing.
 
 ‘The fact is--’ said Sam, stopping short.
 
-‘Well!’ said Mr. Pickwick. ‘Speak out, Sam.’
+‘[[Well]]!’ said Mr. [[Pickwick]]. ‘Speak out, Sam.’
 
 ‘Why, the fact is,’ said Sam, with a desperate effort, ‘perhaps I’d
 better see arter my bed afore I do anythin’ else.’
 
-‘_Your bed!_’ exclaimed Mr. Pickwick, in astonishment.
+‘_Your bed!_’ exclaimed Mr. [[Pickwick]], in astonishment.
 
 ‘Yes, my bed, Sir,’ replied Sam, ‘I’m a prisoner. I was arrested this
 here wery arternoon for debt.’
 
-‘You arrested for debt!’ exclaimed Mr. Pickwick, sinking into a chair.
+‘You arrested for debt!’ exclaimed Mr. [[Pickwick]], sinking into a chair.
 
 ‘Yes, for debt, Sir,’ replied Sam. ‘And the man as puts me in, ‘ull
 never let me out till you go yourself.’
 
-‘Bless my heart and soul!’ ejaculated Mr. Pickwick. ‘What do you mean?’
+‘Bless my heart and [[Soul|soul]]!’ ejaculated Mr. [[Pickwick]]. ‘What do you mean?’
 
 ‘Wot I say, Sir,’ rejoined Sam. ‘If it’s forty years to come, I shall be
 a prisoner, and I’m very glad on it; and if it had been Newgate, it
@@ -664,6 +664,6 @@ would ha’ been just the same. Now the murder’s out, and, damme, there’s
 an end on it!’
 
 With these words, which he repeated with great emphasis and violence,
-Sam Weller dashed his hat upon the ground, in a most unusual state of
+[[Sam Weller]] dashed his hat upon the ground, in a most unusual state of
 excitement; and then, folding his arms, looked firmly and fixedly in his
 master’s face.

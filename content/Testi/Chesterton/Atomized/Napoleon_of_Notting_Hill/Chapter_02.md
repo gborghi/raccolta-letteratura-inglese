@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2"
+title: "Napoleon of Notting [[Hill]] — Chapter 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -18,21 +18,21 @@ CHAPTER II
 
 THE MAN IN GREEN
 
-VERY few words are needed to explain why London, a hundred years hence,
+VERY few words are needed to explain why [[London]], a hundred years hence,
 will be very like it is now, or rather, since I must slip into
-a prophetic past, why London, when my story opens, was very like it
+a prophetic past, why [[London]], when my story opens, was very like it
 was in those enviable days when I was still alive.
 
 The reason can be stated in one sentence.  The people had absolutely
-lost faith in revolutions.  All revolutions are doctrinal...such
-as the French one, or the one that introduced Christianity.
+lost [[Faith|faith]] in revolutions.  All revolutions are doctrinal...such
+as the French one, or the one that introduced [[Christianity]].
 For it stands to common sense that you cannot upset all existing things,
 customs, and compromises, unless you believe in something outside them,
 something positive and divine.  Now, England, during this century,
 lost all belief in this.  It believed in a thing called Evolution.
-And it said, "All theoretic changes have ended in blood and ennui.
-If we change, we must change slowly and safely, as the animals do.
-Nature's revolutions are the only successful ones.  There has been
+And it said, "All theoretic changes have ended in [[Blood|blood]] and ennui.
+If we change, we must change slowly and safely, as the [[Animals|animals]] do.
+[[Nature]]'s revolutions are the only successful ones.  There has been
 no conservative reaction in favour of tails."
 
 And some things did change.  Things that were not much thought
@@ -42,23 +42,23 @@ ruling the country, the soldiers and police, grew smaller and smaller,
 and at last vanished almost to a point.  The people combined could
 have swept the few policemen away in ten minutes:  they did not,
 because they did not believe it would do them the least good.
-They had lost faith in revolutions.
+They had lost [[Faith|faith]] in revolutions.
 
-Democracy was dead; for no one minded the governing class governing.
+[[democracy|Democracy]] was dead; for no one minded the governing class governing.
 England was now practically a despotism, but not an hereditary one.
-Some one in the official class was made King.  No one cared how;
+Some one in the official class was made [[King]].  No one cared how;
 no one cared who.  He was merely an universal secretary.
 
-In this manner it happened that everything in London was very quiet.
+In this manner it happened that everything in [[London]] was very quiet.
 That vague and somewhat depressed reliance upon things happening
 as they have always happened, which is with all Londoners a mood,
 had become an assumed condition.  There was really no reason for any
 man doing anything but the thing he had done the day before.
 
 There was therefore no reason whatever why the three young men who had
-always walked up to their Government office together should not walk
+always walked up to their [[government|Government]] office together should not walk
 up to it together on this particular wintry and cloudy morning.
-Everything in that age had become mechanical, and Government
+Everything in that age had become mechanical, and [[government|Government]]
 clerks especially.  All those clerks assembled regularly at their posts.
 Three of those clerks always walked into town together.
 All the neighbourhood knew them:  two of them were tall and one short.
@@ -68,7 +68,7 @@ he could have overtaken them in three strides; he could have called
 after them easily.  But he did not.
 
 For some reason that will never be understood until all souls are judged
-(if they are ever judged; the idea was at this time classed with
+(if they are ever judged; the idea was at this [[Time|time]] classed with
 fetish worship) he did not join his two companions, but walked steadily
 behind them.  The day was dull, their dress was dull, everything was dull;
 but in some odd impulse he walked through street after street,
@@ -76,11 +76,11 @@ through district after district, looking at the backs of the two men,
 who would have swung round at the sound of his voice.  Now, there is
 a law written in the darkest of the Books of Life, and it is this:
 If you look at a thing nine hundred and ninety-nine times,
-you are perfectly safe; if you look at it the thousandth time,
-you are in frightful danger of seeing it for the first time.
+you are perfectly safe; if you look at it the thousandth [[Time|time]],
+you are in frightful danger of seeing it for the first [[Time|time]].
 
-So the short Government official looked at the coat-tails of
-the tall Government officials, and through street after street,
+So the short [[government|Government]] official looked at the coat-tails of
+the tall [[government|Government]] officials, and through street after street,
 and round corner after corner, saw only coat-tails, coat-tails,
 and again coat-tails...when, he did not in the least know why,
 something happened to his eyes.
@@ -89,12 +89,12 @@ Two black dragons were walking backwards in front of him.
 Two black dragons were looking at him with evil eyes.
 The dragons were walking backwards it was true, but they kept
 their eyes fixed on him none the less.  The eyes which he saw were,
-in truth, only the two buttons at the back of a frock-coat: perhaps
-some traditional memory of their meaningless character gave this
+in [[Truth|truth]], only the two buttons at the back of a frock-coat: perhaps
+some traditional [[Memory|memory]] of their meaningless character gave this
 half-witted prominence to their gaze.  The slit between the tails was
-the nose-line of the monster:  whenever the tails flapped in the winter
-wind the dragons licked their lips.  It was only a momentary fancy,
-but the small clerk found it imbedded in his soul ever afterwards.
+the nose-line of the [[Monster|monster]]:  whenever the tails flapped in the [[Winter|winter]]
+[[Wind|wind]] the dragons licked their lips.  It was only a momentary fancy,
+but the small clerk found it imbedded in his [[Soul|soul]] ever afterwards.
 He never could again think of men in frock-coats except as dragons
 walking backwards.  He explained afterwards, quite tactfully
 and nicely, to his two official friends, that while feeling
@@ -102,7 +102,7 @@ an inexpressible regard for each of them he could not seriously
 regard the face of either of them as anything but a kind of tail.
 It was, he admitted, a handsome tail...a tail elevated in the air.
 But if, he said, any true friend of theirs wished to see their faces,
-to look into the eyes of their soul, that friend must be allowed
+to look into the eyes of their [[Soul|soul]], that friend must be allowed
 to walk reverently round behind them, so as to see them from the rear.
 There he would see the two black dragons with the blind eyes.
 
@@ -111,23 +111,23 @@ the small clerk, they had merely the effect of all miracles...they
 changed the universe.  He discovered the fact that all romantics
 know...that adventures happen on dull days, and not on sunny ones.
 When the chord of monotony is stretched most tight, then it breaks
-with a sound like song.  He had scarcely noticed the weather before,
+with a sound like [[Song|song]].  He had scarcely noticed the weather before,
 but with the four dead eyes glaring at him he looked round and realized
 the strange dead day.
 
-The morning was wintry and dim, not misty, but darkened with that shadow
-of cloud or snow which steeps everything in a green or copper twilight.
+The morning was wintry and dim, not misty, but darkened with that [[Shadow|shadow]]
+of cloud or [[Snow|snow]] which steeps everything in a green or copper twilight.
 The light there is on such a day seems not so much to come from the clear
 heavens as to be a phosphorescence clinging to the shapes themselves.
 The load of heaven and the clouds is like a load of waters, and the men
 move like fishes, feeling that they are on the floor of a sea.
-Everything in a London street completes the fantasy; the carriages
+Everything in a [[London]] street completes the fantasy; the carriages
 and cabs themselves resemble deep-sea creatures with eyes of flame.
 He had been startled at first to meet two dragons.  Now he found
 he was among deep-sea dragons possessing the deep sea.
 
 The two young men in front were like the small young man himself,
-well-dressed. The lines of their frock-coats and silk hats had that
+[[Well|well]]-dressed. The lines of their frock-coats and silk hats had that
 luxuriant severity which makes the modern fop, hideous as he is,
 a favourite exercise of the modern draughtsman; that element which
 Mr. Max Beerbohm has admirably expressed in speaking of "certain
@@ -138,7 +138,7 @@ the longest intervals, dropping a sentence at about every sixth lamp-post.
 
 They crawled on past the lamp-posts; their mien was so immovable
 that a fanciful description might almost say, that the lamp-posts
-crawled past the men, as in a dream.  Then the small man suddenly
+crawled past the men, as in [[A Dream|a dream]].  Then the small man suddenly
 ran after them and said:
 
 "I want to get my hair cut.  I say, do you know a little shop anywhere
@@ -148,9 +148,9 @@ but it keeps on growing again."
 One of the tall men looked at him with the air of a pained naturalist.
 
 "Why, here is a little place," cried the small man, with a sort
-of imbecile cheerfulness, as the bright bulging window of a
+of imbecile cheerfulness, as the bright bulging [[Window|window]] of a
 fashionable toilet-saloon glowed abruptly out of the foggy twilight.
-"Do you know, I often find hairdressers when I walk about London.
+"Do you know, I often find hairdressers when I walk about [[London]].
 I'll lunch with you at Cicconani's. You know, I'm awfully fond of
 hairdressers' shops.  They're miles better than those nasty butchers'."
 And he disappeared into the doorway.
@@ -166,14 +166,14 @@ and then said:
 
 "Had a knock on his head when he was a kid, I should think."
 
-"No, I don't think it's that," replied the Honourable James Barker.
-"I've sometimes fancied he was a sort of artist, Lambert."
+"No, I don't think it's that," replied the Honourable [[James Barker]].
+"I've sometimes fancied he was a sort of [[Artist|artist]], Lambert."
 
 "Bosh!" cried Mr. Lambert, briefly.
 
 "I admit I can't make him out," resumed Barker, abstractedly;
 "he never opens his mouth without saying something so indescribably
-half-witted that to call him a fool seems the very feeblest
+half-witted that to call him a [[Fool|fool]] seems the very feeblest
 attempt at characterization.  But there's another thing about him
 that's rather funny.  Do you know that he has the one collection
 of Japanese lacquer in Europe?  Have you ever seen his books?
@@ -181,7 +181,7 @@ All Greek poets and mediaeval French and that sort of thing.
 Have you ever been in his rooms?  It's like being inside an amethyst.
 And he moves about in all that and talks like...like a turnip."
 
-"Well, damn all books.  Your blue books as well," said the ingenuous
+"[[Well]], damn all books.  Your blue books as [[Well|well]]," said the ingenuous
 Mr. Lambert, with a friendly simplicity.  "You ought to understand
 such things.  What do you make of him?"
 
@@ -190,7 +190,7 @@ my opinion, I should say he was a man with a taste for nonsense,
 as they call it...artistic fooling, and all that kind of thing.
 And I seriously believe that he has talked nonsense so much
 that he has half bewildered his own mind and doesn't know
-the difference between sanity and insanity.  He has gone round
+the difference between [[Sanity|sanity]] and insanity.  He has gone round
 the mental world, so to speak, and found the place where the East
 and the West are one, and extreme idiocy is as good as sense.
 But I can't explain these psychological games."
@@ -198,10 +198,10 @@ But I can't explain these psychological games."
 "You can't explain them to me," replied Mr. Wilfrid Lambert, with candour.
 
 As they passed up the long streets towards their restaurant the copper
-twilight cleared slowly to a pale yellow, and by the time they
-reached it they stood discernible in a tolerable winter daylight.
-The Honourable James Barker, one of the most powerful officials
-in the English Government (by this time a rigidly official one),
+twilight cleared slowly to a pale yellow, and by the [[Time|time]] they
+reached it they stood discernible in a tolerable [[Winter|winter]] daylight.
+The Honourable [[James Barker]], one of the most powerful officials
+in the English [[government|Government]] (by this [[Time|time]] a rigidly official one),
 was a lean and elegant young man, with a blank handsome face and
 bleak blue eyes.  He had a great amount of intellectual capacity,
 of that peculiar kind which raises a man from throne to throne
@@ -209,23 +209,23 @@ and lets him die loaded with honours without having either amused
 or enlightened the mind of a single man.  Wilfrid Lambert, the youth
 with the nose which appeared to impoverish the rest of his face,
 had also contributed little to the enlargement of the human spirit,
-but he had the honourable excuse of being a fool.
+but he had the honourable excuse of being a [[Fool|fool]].
 
 Lambert would have been called a silly man; Barker, with all
 his cleverness, might have been called a stupid man.
 But mere silliness and stupidity sank into insignificance in
 the presence of the awful and mysterious treasures of foolishness
 apparently stored up in the small figure that stood waiting for them
-outside Cicconani's. The little man, whose name was Auberon Quin,
+outside Cicconani's. The little man, whose name was [[Auberon Quin]],
 had an appearance compounded of a baby and an owl.  His round head,
-round eyes, seemed to have been designed by nature playfully
+round eyes, seemed to have been designed by [[Nature|nature]] playfully
 with a pair of compasses.  His flat dark hair and preposterously
-long frock-coat gave him something of the look of a child's "Noah."
+long frock-coat gave him something of the look of a [[Child|child]]'s "Noah."
 When he entered a room of strangers, they mistook him for a small boy,
 and wanted to take him on their knees, until he spoke, when they
 perceived that a boy would have been more intelligent.
 
-"I have been waiting quite a long time," said Quin, mildly.
+"I have been waiting quite a long [[Time|time]]," said Quin, mildly.
 "It's awfully funny I should see you coming up the street at last."
 
 "Why?" asked Lambert, staring.  "You told us to come here yourself."
@@ -237,7 +237,7 @@ when their eyes were caught by something in the street.
 The weather, though cold and blank, was now quite clear, and across
 the dull brown of the wood pavement and between the dull grey terraces
 was moving something not to be seen for miles around...not to be seen
-perhaps at that time in England...a man dressed in bright colours.
+perhaps at that [[Time|time]] in England...a man dressed in bright colours.
 A small crowd hung on the man's heels.
 
 He was a tall stately man, clad in a military uniform of brilliant green,
@@ -245,23 +245,23 @@ splashed with great silver facings.  From the shoulder swung a short
 green furred cloak, somewhat like that of a Hussar, the lining
 of which gleamed every now and then with a kind of tawny crimson.
 His breast glittered with medals; round his neck was the red
-ribbon and star of some foreign order; and a long straight sword,
+ribbon and star of some foreign order; and a long straight [[Sword|sword]],
 with a blazing hilt, trailed and clattered along the pavement.
-At this time the pacific and utilitarian development of Europe had
+At this [[Time|time]] the pacific and utilitarian development of Europe had
 relegated all such customs to the Museums.  The only remaining force,
-the small but well-organized police, were attired in a sombre and
+the small but [[Well|well]]-organized police, were attired in a sombre and
 hygienic manner.  But even those who remembered the last Life Guards
 and Lancers who disappeared in 1912 must have known at a glance
 that this was not, and never had been, an English uniform; and this
 conviction would have been heightened by the yellow aquiline face,
-like Dante carved in bronze, which rose, crowned with white hair,
+like [[Dante]] carved in bronze, which [[Rose|rose]], crowned with white hair,
 out of the green military collar, a keen and distinguished,
 but not an English face.
 
 The magnificence with which the green-clad gentleman walked down
-the centre of the road would be something difficult to express
+the centre of the [[Road|road]] would be something difficult to express
 in human language.  For it was an ingrained simplicity and arrogance,
-something in the mere carriage of the head and body, which made ordinary
+something in the mere carriage of the head and [[Body|body]], which made ordinary
 moderns in the street stare after him; but it had comparatively little
 to do with actual conscious gestures or expression.  In the matter
 of these merely temporary movements, the man appeared to be rather
@@ -272,11 +272,11 @@ with an astonishment at his brilliant uniform, that is to say,
 partly because of that instinct which makes us all follow one who
 looks like a madman, but far more because of that instinct which
 makes all men follow (and worship) any one who chooses to behave
-like a king.  He had to so sublime an extent that great quality
+like a [[King|king]].  He had to so [[Sublime|sublime]] an extent that great quality
 of royalty...an almost imbecile unconsciousness of everybody,
 that people went after him as they do after kings...to see
 what would be the first thing or person he would take notice of.
-And all the time, as we have said, in spite of his quiet splendour,
+And all the [[Time|time]], as we have said, in spite of his quiet splendour,
 there was an air about him as if he were looking for somebody;
 an expression of inquiry.
 
@@ -284,7 +284,7 @@ Suddenly that expression of inquiry vanished, none could
 tell why, and was replaced by an expression of contentment.
 Amid the rapt attention of the mob of idlers, the magnificent green
 gentleman deflected himself from his direct course down the centre
-of the road and walked to one side of it.  He came to a halt opposite
+of the [[Road|road]] and walked to one side of it.  He came to a halt opposite
 to a large poster of Colman's Mustard erected on a wooden hoarding.
 His spectators almost held their breath.
 
@@ -292,7 +292,7 @@ He took from a small pocket in his uniform a little penknife;
 with this he made a slash at the stretched paper.  Completing the rest
 of the operation with his fingers, he tore off a strip or rag
 of paper, yellow in colour and wholly irregular in outline.
-Then for the first time the great being addressed his adoring onlookers:
+Then for the first [[Time|time]] the great being addressed his adoring onlookers:
 
 "Can any one," he said, with a pleasing foreign accent,
 "lend me a pin?"
@@ -317,17 +317,17 @@ politeness of the Englishman when once embarrassed.
 "I beg yours also, Senor," said the stranger, bowing.  "I was
 wondering whether any of you had any red about you."
 
-"Any red about us?...well, really...no, I don't think I have...I
+"Any red about us?...[[Well|well]], really...no, I don't think I have...I
 used to carry a red bandanna once, but..."
 
-"Barker," asked Auberon Quin, suddenly, "where's your red cockatoo?
+"Barker," asked [[Auberon Quin]], suddenly, "where's your red cockatoo?
 Where's your red cockatoo?"
 
 "What do you mean?" asked Barker, desperately.  "What cockatoo?
 You've never seen me with any cockatoo."
 
 "I know," said Auberon, vaguely mollified.  "Where's it been
-all the time?"
+all the [[Time|time]]?"
 
 Barker swung round, not without resentment.
 
@@ -338,7 +338,7 @@ to have anything red to lend you.  But why, if one may ask..."
 fulfil my own requirements."
 
 And standing for a second of thought with the penknife in his hand,
-he stabbed his left palm.  The blood fell with so full a stream
+he stabbed his left palm.  The [[Blood|blood]] fell with so full a stream
 that it struck the stones without dripping.  The foreigner pulled
 out his handkerchief and tore a piece from it with his teeth.
 The rag was immediately soaked in scarlet.
@@ -354,15 +354,15 @@ took off his hat.
 the remainder of the handkerchief round his bleeding hand,
 he resumed his walk with an overwhelming stateliness.
 
-While all the rest paused, in some disorder, little Mr. Auberon Quin
+While all the rest paused, in some disorder, little Mr. [[Auberon Quin]]
 ran after the stranger and stopped him, with hat in hand.
 Considerably to everybody's astonishment, he addressed him in
 the purest Spanish:
 
 "Senor," he said in that language, "pardon a hospitality,
 perhaps indiscreet, towards one who appears to be a distinguished,
-but a solitary guest in London.  Will you do me and my friends,
-with whom you have held some conversation, the honour of lunching
+but a solitary guest in [[London]].  Will you do me and my friends,
+with whom you have held some conversation, the [[Honour|honour]] of lunching
 with us at the adjoining restaurant?"
 
 The man in the green uniform had turned a fiery colour of pleasure
@@ -371,7 +371,7 @@ with that profusion of bows which so often shows, in the case
 of the Southern races, the falsehood of the notion that ceremony
 has nothing to do with feeling.
 
-"Senor," he said, "your language is my own; but all my love for my
+"Senor," he said, "your language is my own; but all my [[Love|love]] for my
 people shall not lead me to deny to yours the possession of so
 chivalrous an entertainer.  Let me say that the tongue is Spanish
 but the heart English."  And he passed with the rest into Cicconani's.
@@ -380,14 +380,14 @@ but the heart English."  And he passed with the rest into Cicconani's.
 but burning with curiosity, "perhaps it would be rude of me to ask
 why you did that?"
 
-"Did what, Senor?" asked the guest, who spoke English quite well,
+"Did what, Senor?" asked the guest, who spoke English quite [[Well|well]],
 though in a manner indefinably American.
 
-"Well," said the Englishman, in some confusion, "I mean tore a strip
+"[[Well]]," said the Englishman, in some confusion, "I mean tore a strip
 off a hoarding and... er... cut yourself... and..."
 
 "To tell you that, Senor," answered the other, with a certain
-sad pride, "involves merely telling you who I am.  I am Juan
+sad [[Pride|pride]], "involves merely telling you who I am.  I am Juan
 del Fuego, President of Nicaragua."
 
 The manner with which the President of Nicaragua leant back and drank
@@ -405,30 +405,30 @@ grandeur, "are the colours of Nicaragua."
 no longer a..."
 
 "Nicaragua has been conquered like Athens.  Nicaragua has been
-annexed like Jerusalem," cried the old man, with amazing fire.
+annexed like Jerusalem," cried the old man, with amazing [[Fire|fire]].
 "The Yankee and the German and the brute powers of modernity have
 trampled it with the hoofs of oxen.  But Nicaragua is not dead.
 Nicaragua is an idea."
 
-Auberon Quin suggested timidly, "A brilliant idea."
+[[Auberon Quin]] suggested timidly, "A brilliant idea."
 
 "Yes," said the foreigner, snatching at the word.  "You are right,
 generous Englishman.  An idea brilliant, a burning thought.
-Senor, you asked me why, in my desire to see the colours of my country,
-I snatched at paper and blood.  Can you not understand the ancient
+Senor, you asked me why, in my [[Desire|desire]] to see the colours of my country,
+I snatched at paper and [[Blood|blood]].  Can you not understand the ancient
 sanctity of colours?  The Church has her symbolic colours.
 And think of what colours mean to us...think of the position
 of one like myself, who can see nothing but those two colours,
 nothing but the red and the yellow.  To me all shapes are equal,
-all common and noble things are in a democracy of combination.
+all common and noble things are in a [[democracy]] of combination.
 Wherever there is a field of marigolds and the red cloak of an
 old woman, there is Nicaragua.  Wherever there is a field of poppies
 and a yellow patch of sand, there is Nicaragua, Wherever there
 is a lemon and a red sunset, there is my country.  Wherever I
 see a red pillar-box and a yellow sunset, there my heart beats.
-Blood and a splash of mustard can be my heraldry.  If there
+[[Blood]] and a splash of mustard can be my heraldry.  If there
 be yellow mud and red mud in the same ditch, it is better to me
-than white stars."
+than white [[Stars|stars]]."
 
 "And if," said Quin, with equal enthusiasm, "there should happen
 to be yellow wine and red wine at the same lunch, you could not
@@ -463,7 +463,7 @@ such things as...er...the Nicaraguan independence."
 
 "Pardon me, pardon me, President," said Barker, warmly; "my sympathies
 are with no nation.  You misunderstand, I think, the modern intellect.
-We do not disapprove of the fire and extravagance of such commonwealths
+We do not disapprove of the [[Fire|fire]] and extravagance of such commonwealths
 as yours only to become more extravagant on a larger scale.
 We do not condemn Nicaragua because we think Britain ought
 to be more Nicaraguan.  We do not discourage small nationalities
@@ -476,9 +476,9 @@ in a great cosmopolitan civilization, one which shall include all
 the talents of all the absorbed peoples..."
 
 "The Senor will forgive me," said the President.  "May I ask
-the Senor how, under ordinary circumstances, he catches a wild horse?"
+the Senor how, under ordinary circumstances, he catches a wild [[Horse|horse]]?"
 
-"I never catch a wild horse," replied Barker, with dignity.
+"I never catch a wild [[Horse|horse]]," replied Barker, with dignity.
 
 "Precisely," said the other; "and there ends your absorption
 of the talents.  That is what I complain of your cosmopolitanism.
@@ -492,14 +492,14 @@ include all talents.  Will it?  Do you really mean to say that at
 the moment when the Esquimaux has learnt to vote for a County Council,
 you will have learnt to spear a walrus?  I recur to the example I gave.
 In Nicaragua we had a way of catching wild horses...by lassoing
-the fore-feet-which was supposed to be the best in South America.
+the fore-feet-which was supposed to be the best in South [[America]].
 If you are going to include all the talents, go and do it.
 If not, permit me to say, what I have always said, that something
 went from the world when Nicaragua was civilized."
 
 "Something, perhaps," replied Barker, "but that something a mere
 barbarian dexterity.  I do not know that I could chip flints
-as well as a primeval man, but I know that civilization can make
+as [[Well|well]] as a primeval man, but I know that civilization can make
 these knives which are better, and I trust to civilization."
 
 "You have good authority," answered the Nicaraguan.  "Many clever
@@ -525,41 +525,41 @@ of small nationalities is worse.  The superstition of reverencing our
 own country is bad, but the superstition of reverencing other people's
 countries is worse.  It is so everywhere, and in a hundred ways.
 The superstition of monarchy is bad, and the superstition of aristocracy
-is bad, but the superstition of democracy is the worst of all."
+is bad, but the superstition of [[democracy]] is the worst of all."
 
 The old gentleman opened his eyes with some surprise.
 
-"Are you, then," he said, "no longer a democracy in England?"
+"Are you, then," he said, "no longer a [[democracy]] in England?"
 
 Barker laughed.
 
-"The situation invites paradox," he said.  "We are, in a sense,
-the purest democracy.  We have become a despotism.
-Have you not noticed how continually in history democracy
-becomes despotism?  People call it the decay of democracy.
+"The situation invites [[Paradox|paradox]]," he said.  "We are, in a sense,
+the purest [[democracy]].  We have become a despotism.
+Have you not noticed how continually in [[history]] [[democracy]]
+becomes despotism?  People call it the [[Decay|decay]] of [[democracy]].
 It is simply its fulfilment.  Why take the trouble to number
 and register and enfranchise all the innumerable John Robinsons,
 when you can take one John Robinson with the same intellect
 or lack of intellect as all the rest, and have done with it?
-The old idealistic republicans used to found democracy on the idea
+The old idealistic republicans used to found [[democracy]] on the idea
 that all men were equally intelligent.  Believe me, the sane and enduring
-democracy is founded on the fact that all men are equally idiotic.
+[[democracy]] is founded on the fact that all men are equally idiotic.
 Why should we not choose out of them one as much as another?
-All that we want for Government is a man not criminal and insane,
+All that we want for [[government|Government]] is a man not criminal and insane,
 who can rapidly look over some petitions and sign some proclamations.
-To think what time was wasted in arguing about the House
+To think what [[Time|time]] was wasted in arguing about the [[house|House]]
 of Lords, Tories saying it ought to be preserved because it was clever,
 and Radicals saying it ought to be destroyed because it was stupid,
-and all the time no one saw that it was right because it was stupid,
+and all the [[Time|time]] no one saw that it was right because it was stupid,
 because that chance mob of ordinary men thrown there by accident
-of blood, were a great democratic protest against the Lower House,
+of [[Blood|blood]], were a great democratic protest against the Lower [[house|House]],
 against the eternal insolence of the aristocracy of talents.
 We have established now in England, the thing towards which all systems
 have dimly groped, the dull popular despotism without illusions.
 We want one man at the head of our State, not because he is brilliant
 or virtuous, but because he is one man and not a chattering crowd.
 To avoid the possible chance of hereditary diseases or such things,
-we have abandoned hereditary monarchy.  The King of England
+we have abandoned hereditary monarchy.  The [[King]] of England
 is chosen like a juryman upon an official rotation list.
 Beyond that the whole system is quietly despotic, and we have not
 found it raise a murmur."
@@ -570,21 +570,21 @@ you trust to the chance of some alphabetical list..."
 
 "And why not?" cried Barker.  "Did not half the historical nations
 trust to the chance of the eldest sons of eldest sons, and did
-not half of them get on tolerably well?  To have a perfect system
+not half of them get on tolerably [[Well|well]]?  To have a perfect system
 is impossible; to have a system is indispensable.  All hereditary
 monarchies were a matter of luck:  so are alphabetical monarchies.
 Can you find a deep philosophical meaning in the difference between
 the Stuarts and the Hanoverians?  Believe me, I will undertake
 to find a deep philosophical meaning in the contrast between the dark
-tragedy of the A's, and the solid success of the B's."
+[[Tragedy|tragedy]] of the A's, and the solid [[success]] of the B's."
 
-"And you risk it?" asked the other.  "Though the man may be a tyrant
+"And you risk it?" asked the other.  "Though the man may be a [[Tyrant|tyrant]]
 or a cynic or a criminal?"
 
 "We risk it," answered Barker, with a perfect placidity.
-"Suppose he is a tyrant...he is still a check on a hundred tyrants.
-Suppose he is a cynic, it is to his interest to govern well.
-Suppose he is a criminal...by removing poverty and substituting power,
+"Suppose he is a [[Tyrant|tyrant]]...he is still a check on a hundred tyrants.
+Suppose he is a cynic, it is to his interest to govern [[Well|well]].
+Suppose he is a criminal...by removing [[Poverty|poverty]] and substituting power,
 we put a check on his criminality.  In short, by substituting
 despotism we have put a total check on one criminal and a partial
 check on all the rest."
@@ -592,41 +592,41 @@ check on all the rest."
 The Nicaraguan old gentleman leaned over with a queer expression
 in his eyes.
 
-"My church, sir," he said, "has taught me to respect faith.
+"My church, sir," he said, "has taught me to respect [[Faith|faith]].
 I do not wish to speak with any disrespect of yours, however fantastic.
 But do you really mean that you will trust to the ordinary man,
 the man who may happen to come next, as a good despot?"
 
 "I do," said Barker, simply.  "He may not be a good man.
 But he will be a good despot.  For when he comes to a mere business
-routine of government he will endeavour to do ordinary justice.
+routine of [[government]] he will endeavour to do ordinary justice.
 Do we not assume the same thing in a jury?"
 
 The old President smiled.
 
 "I don't know," he said, "that I have any particular
-objection in detail to your excellent scheme of Government.
+objection in detail to your excellent scheme of [[government|Government]].
 My only objection is a quite personal one.  It is, that if I were
 asked whether I would belong to it, I should ask first of all,
 if I was not permitted, as an alternative, to be a toad in a ditch.
-That is all.  You cannot argue with the choice of the soul."
+That is all.  You cannot argue with the choice of the [[Soul|soul]]."
 
-"Of the soul," said Barker, knitting his brows, "I cannot pretend
+"Of the [[Soul|soul]]," said Barker, knitting his brows, "I cannot pretend
 to say anything, but speaking in the interests of the public..."
 
-Mr. Auberon Quin rose suddenly to his feet.
+Mr. [[Auberon Quin]] [[Rose|rose]] suddenly to his feet.
 
 "If you'll excuse me, gentlemen," he said, "I will step out for a
 moment into the air."
 
 "I'm so sorry, Auberon," said Lambert, good-naturedly; "do you feel bad?"
 
-"Not bad exactly," said Auberon, with self-restraint;
+"Not bad exactly," said Auberon, with [[Self|self]]-restraint;
 "rather good, if anything.  Strangely and richly good.
 The fact is I want to reflect a little on those beautiful words
 that have just been uttered.  'Speaking,' yes, that was the phrase,
 'speaking in the interests of the public.'  One cannot get the honey
-from such things without being alone for a little."
+from such things without being [[Alone|alone]] for a little."
 
 "Is he really off his chump, do you think?" asked Lambert.
 
@@ -642,7 +642,7 @@ Lambert laughed in the act of lifting some macaroni to his mouth.
 "Every man is dangerous," said the old man, without moving,
 "who cares only for one thing.  I was once dangerous myself."
 
-And with a pleasant smile he finished his coffee and rose,
+And with a pleasant smile he finished his coffee and [[Rose|rose]],
 bowing profoundly, passed out into the fog, which had again grown
 dense and sombre.  Three days afterwards they heard that he had died
 quietly in lodgings in Soho.

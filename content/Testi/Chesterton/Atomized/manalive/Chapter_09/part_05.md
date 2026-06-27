@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 3 (part 5)"
+title: "[[manalive]] — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -29,14 +29,14 @@ that he and his people were right.
 
 "And he answered:  `We are right because we are bound where
 men should be bound, and free where men should be free.
-We are right because we doubt and destroy laws and customs--
-but we do not doubt our own right to destroy them.  For you live
+We are right because we [[Doubt|doubt]] and destroy laws and customs--
+but we do not [[Doubt|doubt]] our own right to destroy them.  For you live
 by customs, but we live by creeds.  Behold me!  In my country I
 am called Smip.  My country is abandoned, my name is defiled,
 because I pursue around the world what really belongs to me.
 You are steadfast as the trees because you do not believe.
 I am as fickle as the tempest because I do believe.
-I do believe in my own house, which I shall find again.
+I do believe in my own [[house]], which I shall find again.
 And at the last remaineth the green lantern and the red post.'
 
 "I said to him:  `At the last remaineth only wisdom.'

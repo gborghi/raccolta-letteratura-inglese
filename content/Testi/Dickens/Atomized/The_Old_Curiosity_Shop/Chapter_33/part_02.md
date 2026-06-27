@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-One morning Mr Sampson Brass sat upon his stool copying some legal
+One morning Mr [[Sampson Brass]] sat upon his stool copying some legal
 process, and viciously digging his pen deep into the paper, as if he
 were writing upon the very heart of the party against whom it was
-directed; and Miss Sally Brass sat upon her stool making a new pen
+directed; and Miss [[Sally Brass]] sat upon her stool making a new pen
 preparatory to drawing out a little bill, which was her favourite
-occupation; and so they sat in silence for a long time, until Miss
-Brass broke silence.
+occupation; and so they sat in [[Silence|silence]] for a long [[Time|time]], until Miss
+Brass broke [[Silence|silence]].
 
 ‘Have you nearly done, Sammy?’ said Miss Brass; for in her mild and
 feminine lips, Sampson became Sammy, and all things were softened down.
 
 ‘No,’ returned her brother.  ‘It would have been all done though, if
-you had helped at the right time.’
+you had helped at the right [[Time|time]].’
 
 ‘Oh yes, indeed,’ cried Miss Sally; ‘you want my help, don’t you?--YOU,
 too, that are going to keep a clerk!’
@@ -46,7 +46,7 @@ before the rascal, but Miss Brass looked upon it as quite a matter of
 course, and was as little moved as any other lady would be by being
 called an angel.
 
-‘What do you taunt me, after three hours’ talk last night, with going
+‘What do you taunt me, after three hours’ talk last [[Night|night]], with going
 to keep a clerk for?’ repeated Mr Brass, grinning again with the pen in
 his mouth, like some nobleman’s or gentleman’s crest.  ‘Is it my fault?’
 
@@ -61,28 +61,28 @@ another client like him now--will you answer me that?’
 
 ‘Do you mean in the face!’ said his sister.
 
-‘Do I mean in the face!’ sneered Sampson Brass, reaching over to take
-up the bill-book, and fluttering its leaves rapidly.  ‘Look
-here--Daniel Quilp, Esquire--Daniel Quilp, Esquire--Daniel Quilp,
+‘Do I mean in the face!’ sneered [[Sampson Brass]], reaching over to take
+up the bill-book, and fluttering its [[Leaves|leaves]] rapidly.  ‘Look
+here--[[Daniel Quilp]], Esquire--[[Daniel Quilp]], Esquire--[[Daniel Quilp]],
 Esquire--all through.  Whether should I take a clerk that he
 recommends, and says, “this is the man for you,” or lose all this, eh?’
 
 Miss Sally deigned to make no reply, but smiled again, and went on with
 her work.
 
-‘But I know what it is,’ resumed Brass after a short silence.  ‘You’re
+‘But I know what it is,’ resumed Brass after a short [[Silence|silence]].  ‘You’re
 afraid you won’t have as long a finger in the business as you’ve been
 used to have.  Do you think I don’t see through that?’
 
 ‘The business wouldn’t go on very long, I expect, without me,’ returned
-his sister composedly.  ‘Don’t you be a fool and provoke me, Sammy, but
+his sister composedly.  ‘Don’t you be a [[Fool|fool]] and provoke me, Sammy, but
 mind what you’re doing, and do it.’
 
-Sampson Brass, who was at heart in great fear of his sister, sulkily
+[[Sampson Brass]], who was at heart in great [[Fear|fear]] of his sister, sulkily
 bent over his writing again, and listened as she said:
 
 ‘If I determined that the clerk ought not to come, of course he
-wouldn’t be allowed to come.  You know that well enough, so don’t talk
+wouldn’t be allowed to come.  You know that [[Well|well]] enough, so don’t talk
 nonsense.’
 
 Mr Brass received this observation with increased meekness, merely
@@ -94,21 +94,21 @@ gratification.  Mr Brass not caring, as it seemed, to pursue the
 subject any further, they both plied their pens at a great pace, and
 there the discussion ended.
 
-While they were thus employed, the window was suddenly darkened, as by
+While they were thus employed, the [[Window|window]] was suddenly darkened, as by
 some person standing close against it.  As Mr Brass and Miss Sally
 looked up to ascertain the cause, the top sash was nimbly lowered from
 without, and Quilp thrust in his head.
 
-‘Hallo!’ he said, standing on tip-toe on the window-sill, and looking
-down into the room.  ‘Is there anybody at home?  Is there any of the
+‘Hallo!’ he said, standing on tip-toe on the [[Window|window]]-sill, and looking
+down into the room.  ‘Is there anybody at [[Home|home]]?  Is there any of the
 Devil’s ware here?  Is Brass at a premium, eh?’
 
 ‘Ha, ha, ha!’ laughed the lawyer in an affected ecstasy.  ‘Oh, very
 good, Sir!  Oh, very good indeed!  Quite eccentric!  Dear me, what
-humour he has!’
+[[Humour|humour]] he has!’
 
-‘Is that my Sally?’ croaked the dwarf, ogling the fair Miss Brass.  ‘Is
-it Justice with the bandage off her eyes, and without the sword and
+‘Is that my Sally?’ croaked the [[Dwarf|dwarf]], ogling the fair Miss Brass.  ‘Is
+it Justice with the bandage off her eyes, and without the [[Sword|sword]] and
 scales?  Is it the Strong Arm of the Law?  Is it the Virgin of Bevis?’
 
 ‘What an amazing flow of spirits!’ cried Brass.  ‘Upon my word, it’s
@@ -117,13 +117,13 @@ quite extraordinary!’
 ‘Open the door,’ said Quilp, ‘I’ve got him here.  Such a clerk for you,
 Brass, such a prize, such an ace of trumps.  Be quick and open the
 door, or if there’s another lawyer near and he should happen to look
-out of window, he’ll snap him up before your eyes, he will.’
+out of [[Window|window]], he’ll snap him up before your eyes, he will.’
 
 It is probable that the loss of the phoenix of clerks, even to a rival
 practitioner, would not have broken Mr Brass’s heart; but, pretending
-great alacrity, he rose from his seat, and going to the door, returned,
+great alacrity, he [[Rose|rose]] from his seat, and going to the door, returned,
 introducing his client, who led by the hand no less a person than Mr
-Richard Swiveller.
+[[Richard]] Swiveller.
 
 ‘There she is,’ said Quilp, stopping short at the door, and wrinkling
 up his eyebrows as he looked towards Miss Sally; ‘there is the woman I
@@ -137,12 +137,12 @@ To this amorous address Miss Brass briefly responded ‘Bother!’
 ‘Why don’t she change it--melt down the brass, and take another name?’
 
 ‘Hold your nonsense, Mr Quilp, do,’ returned Miss Sally, with a grim
-smile.  ‘I wonder you’re not ashamed of yourself before a strange young
+smile.  ‘I [[Wonder|wonder]] you’re not ashamed of yourself before a strange young
 man.’
 
-‘The strange young man,’ said Quilp, handing Dick Swiveller forward,
-‘is too susceptible himself not to understand me well.  This is Mr
+‘The strange young man,’ said Quilp, handing [[Dick Swiveller]] forward,
+‘is too susceptible himself not to understand me [[Well|well]].  This is Mr
 Swiveller, my intimate friend--a gentleman of good family and great
 expectations, but who, having rather involved himself by youthful
-indiscretion, is content for a time to fill the humble station of a
+indiscretion, is content for a [[Time|time]] to fill the humble station of a
 clerk--humble, but here most enviable.  What a delicious atmosphere!’

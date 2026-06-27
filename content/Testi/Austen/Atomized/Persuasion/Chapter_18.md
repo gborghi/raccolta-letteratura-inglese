@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 18"
+title: "[[Persuasion]] — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,7 +26,7 @@ Bath, was growing very eager for news from Uppercross and Lyme. She
 
 wanted to hear much more than Mary had communicated. It was three weeks
 
-since she had heard at all. She only knew that Henrietta was at home
+since she had heard at all. She only knew that Henrietta was at [[Home|home]]
 
 again; and that Louisa, though considered to be recovering fast, was
 
@@ -58,7 +58,7 @@ Crofts who rent Kellynch? What have they brought you?”
 
 “Oh! those letters are convenient passports. They secure an
 
-introduction. I should have visited Admiral Croft, however, at any
+introduction. I should have visited [[Admiral Croft]], however, at any
 
 rate. I know what is due to my tenant.”
 
@@ -82,11 +82,11 @@ begun several days back.
 
 
 
-I make no apology for my silence, because I know how little people
+I make no apology for my [[Silence|silence]], because I know how little people
 
 think of letters in such a place as Bath. You must be a great deal too
 
-happy to care for Uppercross, which, as you well know, affords little
+happy to care for Uppercross, which, as you [[Well|well]] know, affords little
 
 to write about. We have had a very dull Christmas; Mr and Mrs Musgrove
 
@@ -94,17 +94,17 @@ have not had one dinner party all the holidays. I do not reckon the
 
 Hayters as anybody. The holidays, however, are over at last: I believe
 
-no children ever had such long ones. I am sure I had not. The house was
+no children ever had such long ones. I am sure I had not. The [[house]] was
 
 cleared yesterday, except of the little Harvilles; but you will be
 
-surprised to hear they have never gone home. Mrs Harville must be an
+surprised to hear they have never gone [[Home|home]]. Mrs Harville must be an
 
 odd mother to part with them so long. I do not understand it. They are
 
 not at all nice children, in my opinion; but Mrs Musgrove seems to like
 
-them quite as well, if not better, than her grandchildren. What
+them quite as [[Well|well]], if not better, than her grandchildren. What
 
 dreadful weather we have had! It may not be felt in Bath, with your
 
@@ -122,7 +122,7 @@ The carriage is gone to-day, to bring Louisa and the Harvilles
 
 to-morrow. We are not asked to dine with them, however, till the day
 
-after, Mrs Musgrove is so afraid of her being fatigued by the journey,
+after, Mrs Musgrove is so afraid of her being fatigued by the [[Journey|journey]],
 
 which is not very likely, considering the care that will be taken of
 
@@ -134,7 +134,7 @@ be acquainted with him too; but I have my usual luck: I am always out
 
 of the way when any thing desirable is going on; always the last of my
 
-family to be noticed. What an immense time Mrs Clay has been staying
+family to be noticed. What an immense [[Time|time]] Mrs Clay has been staying
 
 with Elizabeth! Does she never mean to go away? But perhaps if she were
 
@@ -142,7 +142,7 @@ to leave the room vacant, we might not be invited. Let me know what you
 
 think of this. I do not expect my children to be asked, you know. I can
 
-leave them at the Great House very well, for a month or six weeks. I
+leave them at the [[Great House]] very [[Well|well]], for a month or six weeks. I
 
 have this moment heard that the Crofts are going to Bath almost
 
@@ -154,7 +154,7 @@ offering to take anything. I do not think they improve at all as
 
 neighbours. We see nothing of them, and this is really an instance of
 
-gross inattention. Charles joins me in love, and everything proper.
+gross inattention. Charles joins me in [[Love|love]], and everything proper.
 
 Yours affectionately,
 
@@ -164,7 +164,7 @@ Yours affectionately,
 
 
 
-“I am sorry to say that I am very far from well; and Jemima has just
+“I am sorry to say that I am very far from [[Well|well]]; and Jemima has just
 
 told me that the butcher says there is a bad sore-throat very much
 
@@ -184,7 +184,7 @@ envelope, containing nearly as much more.
 
 “I kept my letter open, that I might send you word how Louisa bore her
 
-journey, and now I am extremely glad I did, having a great deal to add.
+[[Journey|journey]], and now I am extremely glad I did, having a great deal to add.
 
 In the first place, I had a note from Mrs Croft yesterday, offering to
 
@@ -194,7 +194,7 @@ me, just as it ought; I shall therefore be able to make my letter as
 
 long as I like. The Admiral does not seem very ill, and I sincerely
 
-hope Bath will do him all the good he wants. I shall be truly glad to
+[[Hope|hope]] Bath will do him all the good he wants. I shall be truly glad to
 
 have them back again. Our neighbourhood cannot spare such a pleasant
 
@@ -204,11 +204,11 @@ astonish you not a little. She and the Harvilles came on Tuesday very
 
 safely, and in the evening we went to ask her how she did, when we were
 
-rather surprised not to find Captain Benwick of the party, for he had
+rather surprised not to find [[Captain Benwick]] of the party, for he had
 
-been invited as well as the Harvilles; and what do you think was the
+been invited as [[Well|well]] as the Harvilles; and what do you think was the
 
-reason? Neither more nor less than his being in love with Louisa, and
+reason? Neither more nor less than his being in [[Love|love]] with Louisa, and
 
 not choosing to venture to Uppercross till he had had an answer from Mr
 
@@ -216,33 +216,33 @@ Musgrove; for it was all settled between him and her before she came
 
 away, and he had written to her father by Captain Harville. True, upon
 
-my honour! Are not you astonished? I shall be surprised at least if you
+my [[Honour|honour]]! Are not you astonished? I shall be surprised at least if you
 
 ever received a hint of it, for I never did. Mrs Musgrove protests
 
-solemnly that she knew nothing of the matter. We are all very well
+solemnly that she knew nothing of the matter. We are all very [[Well|well]]
 
 pleased, however, for though it is not equal to her marrying Captain
 
 Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove
 
-has written his consent, and Captain Benwick is expected to-day. Mrs
+has written his consent, and [[Captain Benwick]] is expected to-day. Mrs
 
 Harville says her husband feels a good deal on his poor sister’s
 
 account; but, however, Louisa is a great favourite with both. Indeed,
 
-Mrs Harville and I quite agree that we love her the better for having
+Mrs Harville and I quite agree that we [[Love|love]] her the better for having
 
-nursed her. Charles wonders what Captain Wentworth will say; but if you
+nursed her. Charles wonders what [[Captain Wentworth]] will say; but if you
 
 remember, I never thought him attached to Louisa; I never could see
 
-anything of it. And this is the end, you see, of Captain Benwick’s
+anything of it. And this is the end, you see, of [[Captain Benwick]]’s
 
 being supposed to be an admirer of yours. How Charles could take such a
 
-thing into his head was always incomprehensible to me. I hope he will
+thing into his head was always incomprehensible to me. I [[Hope|hope]] he will
 
 be more agreeable now. Certainly not a great match for Louisa Musgrove,
 
@@ -288,7 +288,7 @@ pray what brings the Crofts to Bath?”
 
 
 
-“I do not know; but I can hardly suppose that, at Admiral Croft’s time
+“I do not know; but I can hardly suppose that, at [[Admiral Croft]]’s [[Time|time]]
 
 of life, and in his profession, he should not have many acquaintance in
 
@@ -296,7 +296,7 @@ such a place as this.”
 
 
 
-“I suspect,” said Sir Walter coolly, “that Admiral Croft will be best
+“I suspect,” said Sir Walter coolly, “that [[Admiral Croft]] will be best
 
 known in Bath as the renter of Kellynch Hall. Elizabeth, may we venture
 
@@ -330,21 +330,21 @@ at liberty.
 
 
 
-In her own room, she tried to comprehend it. Well might Charles wonder
+In her own room, she tried to comprehend it. [[Well]] might Charles [[Wonder|wonder]]
 
-how Captain Wentworth would feel! Perhaps he had quitted the field, had
+how [[Captain Wentworth]] would feel! Perhaps he had quitted the field, had
 
-given Louisa up, had ceased to love, had found he did not love her. She
+given Louisa up, had ceased to [[Love|love]], had found he did not [[Love|love]] her. She
 
 could not endure the idea of treachery or levity, or anything akin to
 
 ill usage between him and his friend. She could not endure that such a
 
-friendship as theirs should be severed unfairly.
+[[Friendship|friendship]] as theirs should be severed unfairly.
 
 
 
-Captain Benwick and Louisa Musgrove! The high-spirited, joyous-talking
+[[Captain Benwick]] and Louisa Musgrove! The high-spirited, joyous-talking
 
 Louisa Musgrove, and the dejected, thinking, feeling, reading, Captain
 
@@ -360,7 +360,7 @@ family party: since Henrietta’s coming away, they must have been
 
 depending almost entirely on each other, and Louisa, just recovering
 
-from illness, had been in an interesting state, and Captain Benwick was
+from illness, had been in an interesting state, and [[Captain Benwick]] was
 
 not inconsolable. That was a point which Anne had not been able to
 
@@ -372,13 +372,13 @@ the idea of his having felt some dawning of tenderness toward herself.
 
 She did not mean, however, to derive much more from it to gratify her
 
-vanity, than Mary might have allowed. She was persuaded that any
+[[Vanity|vanity]], than Mary might have allowed. She was persuaded that any
 
 tolerably pleasing young woman who had listened and seemed to feel for
 
 him would have received the same compliment. He had an affectionate
 
-heart. He must love somebody.
+heart. He must [[Love|love]] somebody.
 
 
 
@@ -390,13 +390,13 @@ gain cheerfulness, and she would learn to be an enthusiast for Scott
 
 and Lord Byron; nay, that was probably learnt already; of course they
 
-had fallen in love over poetry. The idea of Louisa Musgrove turned into
+had fallen in [[Love|love]] over poetry. The idea of Louisa Musgrove turned into
 
 a person of literary taste, and sentimental reflection was amusing, but
 
-she had no doubt of its being so. The day at Lyme, the fall from the
+she had no [[Doubt|doubt]] of its being so. The day at Lyme, the fall from the
 
-Cobb, might influence her health, her nerves, her courage, her
+Cobb, might influence her health, her nerves, her [[Courage|courage]], her
 
 character to the end of her life, as thoroughly as it appeared to have
 
@@ -406,17 +406,17 @@ influenced her fate.
 
 The conclusion of the whole was, that if the woman who had been
 
-sensible of Captain Wentworth’s merits could be allowed to prefer
+sensible of [[Captain Wentworth]]’s merits could be allowed to prefer
 
 another man, there was nothing in the engagement to excite lasting
 
-wonder; and if Captain Wentworth lost no friend by it, certainly
+[[Wonder|wonder]]; and if [[Captain Wentworth]] lost no friend by it, certainly
 
 nothing to be regretted. No, it was not regret which made Anne’s heart
 
 beat in spite of herself, and brought the colour into her cheeks when
 
-she thought of Captain Wentworth unshackled and free. She had some
+she thought of [[Captain Wentworth]] unshackled and free. She had some
 
 feelings which she was ashamed to investigate. They were too much like
 
@@ -430,7 +430,7 @@ evident that no rumour of the news had yet reached them. The visit of
 
 ceremony was paid and returned; and Louisa Musgrove was mentioned, and
 
-Captain Benwick, too, without even half a smile.
+[[Captain Benwick]], too, without even half a smile.
 
 
 
@@ -456,7 +456,7 @@ ordered to walk to keep off the gout, and Mrs Croft seemed to go shares
 
 with him in everything, and to walk for her life to do him good. Anne
 
-saw them wherever she went. Lady Russell took her out in her carriage
+saw them wherever she went. [[Lady Russell]] took her out in her carriage
 
 almost every morning, and she never failed to think of them, and never
 
@@ -478,27 +478,27 @@ looking as intelligent and keen as any of the officers around her.
 
 
 
-Anne was too much engaged with Lady Russell to be often walking
+Anne was too much engaged with [[Lady Russell]] to be often walking
 
 herself; but it so happened that one morning, about a week or ten days
 
 after the Croft’s arrival, it suited her best to leave her friend, or
 
-her friend’s carriage, in the lower part of the town, and return alone
+her friend’s carriage, in the lower part of the town, and return [[Alone|alone]]
 
 to Camden Place, and in walking up Milsom Street she had the good
 
 fortune to meet with the Admiral. He was standing by himself at a
 
-printshop window, with his hands behind him, in earnest contemplation
+printshop [[Window|window]], with his hands behind him, in earnest contemplation
 
 of some print, and she not only might have passed him unseen, but was
 
-obliged to touch as well as address him before she could catch his
+obliged to touch as [[Well|well]] as address him before she could catch his
 
 notice. When he did perceive and acknowledge her, however, it was done
 
-with all his usual frankness and good humour. “Ha! is it you? Thank
+with all his usual frankness and good [[Humour|humour]]. “Ha! is it you? Thank
 
 you, thank you. This is treating me like a friend. Here I am, you see,
 
@@ -514,11 +514,11 @@ cockleshell as that? And yet here are two gentlemen stuck up in it
 
 mightily at their ease, and looking about them at the rocks and
 
-mountains, as if they were not to be upset the next moment, which they
+[[Mountains|mountains]], as if they were not to be upset the next moment, which they
 
-certainly must be. I wonder where that boat was built!” (laughing
+certainly must be. I [[Wonder|wonder]] where that boat was built!” (laughing
 
-heartily); “I would not venture over a horsepond in it. Well,” (turning
+heartily); “I would not venture over a horsepond in it. [[Well]],” (turning
 
 away), “now, where are you bound? Can I go anywhere for you, or with
 
@@ -528,7 +528,7 @@ you? Can I be of any use?”
 
 “None, I thank you, unless you will give me the pleasure of your
 
-company the little way our road lies together. I am going home.”
+company the little way our [[Road|road]] lies together. I am going [[Home|home]].”
 
 
 
@@ -554,7 +554,7 @@ shall only say, ‘How d’ye do?’ as we pass, however. I shall not stop.
 
 ‘How d’ye do?’ Brigden stares to see anybody with me but my wife. She,
 
-poor soul, is tied by the leg. She has a blister on one of her heels,
+poor [[Soul|soul]], is tied by the leg. She has a blister on one of her heels,
 
 as large as a three-shilling piece. If you look across the street, you
 
@@ -564,7 +564,7 @@ both of them! I am glad they are not on this side of the way. Sophy
 
 cannot bear them. They played me a pitiful trick once: got away with
 
-some of my best men. I will tell you the whole story another time.
+some of my best men. I will tell you the whole story another [[Time|time]].
 
 There comes old Sir Archibald Drew and his grandson. Look, he sees us;
 
@@ -572,7 +572,7 @@ he kisses his hand to you; he takes you for my wife. Ah! the peace has
 
 come too soon for that younker. Poor old Sir Archibald! How do you like
 
-Bath, Miss Elliot? It suits us very well. We are always meeting with
+Bath, Miss Elliot? It suits us very [[Well|well]]. We are always meeting with
 
 some old friend or other; the streets full of them every morning; sure
 
@@ -586,7 +586,7 @@ and Deal. We do not like our lodgings here the worse, I can tell you,
 
 for putting us in mind of those we first had at North Yarmouth. The
 
-wind blows through one of the cupboards just in the same way.”
+[[Wind|wind]] blows through one of the cupboards just in the same way.”
 
 
 
@@ -606,7 +606,7 @@ ascending Belmont, he began—
 
 
 
-“Well, now you shall hear something that will surprise you. But first
+“[[Well]], now you shall hear something that will surprise you. But first
 
 of all, you must tell me the name of the young lady I am going to talk
 
@@ -628,11 +628,11 @@ did; but now she could safely suggest the name of “Louisa.”
 
 had not such a number of fine Christian names. I should never be out if
 
-they were all Sophys, or something of that sort. Well, this Miss
+they were all Sophys, or something of that sort. [[Well]], this Miss
 
 Louisa, we all thought, you know, was to marry Frederick. He was
 
-courting her week after week. The only wonder was, what they could be
+courting her week after week. The only [[Wonder|wonder]] was, what they could be
 
 waiting for, till the business at Lyme came; then, indeed, it was clear
 
@@ -656,17 +656,17 @@ Benwick. You know James Benwick.”
 
 
 
-“A little. I am a little acquainted with Captain Benwick.”
+“A little. I am a little acquainted with [[Captain Benwick]].”
 
 
 
-“Well, she is to marry him. Nay, most likely they are married already,
+“[[Well]], she is to marry him. Nay, most likely they are married already,
 
 for I do not know what they should wait for.”
 
 
 
-“I thought Captain Benwick a very pleasing young man,” said Anne, “and
+“I thought [[Captain Benwick]] a very pleasing young man,” said Anne, “and
 
 I understand that he bears an excellent character.”
 
@@ -674,7 +674,7 @@ I understand that he bears an excellent character.”
 
 “Oh! yes, yes, there is not a word to be said against James Benwick. He
 
-is only a commander, it is true, made last summer, and these are bad
+is only a commander, it is true, made last [[Summer|summer]], and these are bad
 
 times for getting on, but he has not another fault that I know of. An
 
@@ -688,13 +688,13 @@ soft sort of manner does not do him justice.”
 
 “Indeed you are mistaken there, sir; I should never augur want of
 
-spirit from Captain Benwick’s manners. I thought them particularly
+spirit from [[Captain Benwick]]’s manners. I thought them particularly
 
 pleasing, and I will answer for it, they would generally please.”
 
 
 
-“Well, well, ladies are the best judges; but James Benwick is rather
+“[[Well]], [[Well|well]], ladies are the best judges; but James Benwick is rather
 
 too piano for me; and though very likely it is all our partiality,
 
@@ -708,7 +708,7 @@ Anne was caught. She had only meant to oppose the too common idea of
 
 spirit and gentleness being incompatible with each other, not at all to
 
-represent Captain Benwick’s manners as the very best that could
+represent [[Captain Benwick]]’s manners as the very best that could
 
 possibly be; and, after a little hesitation, she was beginning to say,
 
@@ -732,15 +732,15 @@ they are all at Uppercross.”
 
 This was an opportunity which Anne could not resist; she said,
 
-therefore, “I hope, Admiral, I hope there is nothing in the style of
+therefore, “I [[Hope|hope]], Admiral, I [[Hope|hope]] there is nothing in the style of
 
-Captain Wentworth’s letter to make you and Mrs Croft particularly
+[[Captain Wentworth]]’s letter to make you and Mrs Croft particularly
 
-uneasy. It did seem, last autumn, as if there were an attachment
+uneasy. It did seem, last [[Autumn|autumn]], as if there were an attachment
 
-between him and Louisa Musgrove; but I hope it may be understood to
+between him and Louisa Musgrove; but I [[Hope|hope]] it may be understood to
 
-have worn out on each side equally, and without violence. I hope his
+have worn out on each side equally, and without violence. I [[Hope|hope]] his
 
 letter does not breathe the spirit of an ill-used man.”
 
@@ -764,25 +764,25 @@ she should have him.”
 
 
 
-“Certainly. But what I mean is, that I hope there is nothing in Captain
+“Certainly. But what I mean is, that I [[Hope|hope]] there is nothing in Captain
 
 Wentworth’s manner of writing to make you suppose he thinks himself
 
 ill-used by his friend, which might appear, you know, without its being
 
-absolutely said. I should be very sorry that such a friendship as has
+absolutely said. I should be very sorry that such a [[Friendship|friendship]] as has
 
-subsisted between him and Captain Benwick should be destroyed, or even
+subsisted between him and [[Captain Benwick]] should be destroyed, or even
 
 wounded, by a circumstance of this sort.”
 
 
 
-“Yes, yes, I understand you. But there is nothing at all of that nature
+“Yes, yes, I understand you. But there is nothing at all of that [[Nature|nature]]
 
 in the letter. He does not give the least fling at Benwick; does not so
 
-much as say, ‘I wonder at it, I have a reason of my own for wondering
+much as say, ‘I [[Wonder|wonder]] at it, I have a reason of my own for wondering
 
 at it.’ No, you would not guess, from his way of writing, that he had
 

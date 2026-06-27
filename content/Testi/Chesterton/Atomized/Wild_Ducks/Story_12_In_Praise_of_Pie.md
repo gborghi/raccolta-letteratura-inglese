@@ -32,7 +32,7 @@ as in that truly national anthem which says
                              `I'm not a glutton
                              But I do like pie.'
 
-as well as those lyrics that form the foundation of all education
+as [[Well|well]] as those lyrics that form the foundation of all [[Education|education]]
 and told us that A was an apple pie.  `Pie' is a full and powerful word,
 like pig or pork; which fills the mouth with an appropriate and
 anticipatory fullness; it is impossible to say the words `I do like tart'

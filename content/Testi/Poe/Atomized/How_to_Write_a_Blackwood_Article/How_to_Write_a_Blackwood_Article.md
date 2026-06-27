@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Blackwood Article"
+title: "[[How to Write a Blackwood Article]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-“In the name of the Prophet—figs!!”
+“In the name of the [[Prophet]]—figs!!”
 
                     —_Cry of the Turkish fig-peddler._
 
@@ -27,7 +27,7 @@ tags:
 
       vulgar corruption of Psyche, which is good Greek, and means “the
 
-      soul” (that’s me, I’m all soul) and sometimes “a butterfly,”
+      [[Soul|soul]]” (that’s me, I’m all [[Soul|soul]]) and sometimes “a butterfly,”
 
       which latter meaning undoubtedly alludes to my appearance in my
 
@@ -43,17 +43,17 @@ tags:
 
       Tabitha Turnip indeed! Oh the little wretch! But what can we
 
-      expect from a turnip? Wonder if she remembers the old adage about
+      expect from a turnip? [[Wonder]] if she remembers the old adage about
 
-      “blood out of a turnip,” &c.? [Mem. put her in mind of it the
+      “[[Blood|blood]] out of a turnip,” &c.? [Mem. put her in mind of it the
 
       first opportunity.] [Mem. again—pull her nose.] Where was I? Ah!
 
       I have been assured that Snobbs is a mere corruption of Zenobia,
 
-      and that Zenobia was a queen—(So am I. Dr. Moneypenny always
+      and that Zenobia was a [[Queen|queen]]—(So am I. Dr. Moneypenny always
 
-      calls me the Queen of the Hearts)—and that Zenobia, as well as
+      calls me the [[Queen]] of the Hearts)—and that Zenobia, as [[Well|well]] as
 
       Psyche, is good Greek, and that my father was “a Greek,” and that
 
@@ -93,7 +93,7 @@ tags:
 
       is such a queer man that I am never sure when he is telling me
 
-      the truth. At any rate we always add to our names the initials P.
+      the [[Truth|truth]]. At any rate we always add to our names the initials P.
 
       R. E. T. T. Y. B. L. U. E. B. A. T. C. H.—that is to say,
 
@@ -115,7 +115,7 @@ tags:
 
       exertions of the association to get itself into notice, it met
 
-      with no very great success until I joined it. The truth is, the
+      with no very great [[success]] until I joined it. The [[Truth|truth]] is, the
 
       members indulged in too flippant a tone of discussion. The papers
 
@@ -145,7 +145,7 @@ tags:
 
       better style of thinking and writing, and all the world knows how
 
-      well I have succeeded. We get up as good papers now in the P. R.
+      [[Well|well]] I have succeeded. We get up as good papers now in the P. R.
 
       E. T. T. Y. B. L. U. E. B. A. T. C. H. as any to be found even in
 
@@ -225,7 +225,7 @@ tags:
 
       solemnity of manner, “mark me!—that pen—must—never be mended!
 
-      Herein, madam, lies the secret, the soul, of intensity. I assume
+      Herein, madam, lies the secret, the [[Soul|soul]], of intensity. I assume
 
       upon myself to say, that no individual, of however great genius
 
@@ -233,7 +233,7 @@ tags:
 
       take, it for granted, that when manuscript can be read it is
 
-      never worth reading. This is a leading principle in our faith, to
+      never worth reading. This is a leading principle in our [[Faith|faith]], to
 
       which if you cannot readily assent, our conference is at an end.”
 
@@ -243,7 +243,7 @@ tags:
 
       conference, I assented to a proposition so very obvious, and one,
 
-      too, of whose truth I had all along been sufficiently aware. He
+      too, of whose [[Truth|truth]] I had all along been sufficiently aware. He
 
       seemed pleased, and went on with his instructions.
 
@@ -253,21 +253,21 @@ tags:
 
       to any article, or set of articles, in the way of model or study,
 
-      yet perhaps I may as well call your attention to a few cases. Let
+      yet perhaps I may as [[Well|well]] call your attention to a few cases. Let
 
       me see. There was ‘The Dead Alive,’ a capital thing!—the record
 
       of a gentleman’s sensations when entombed before the breath was
 
-      out of his body—full of tastes, terror, sentiment, metaphysics,
+      out of his [[Body|body]]—full of tastes, terror, sentiment, metaphysics,
 
       and erudition. You would have sworn that the writer had been born
 
       and brought up in a coffin. Then we had the ‘Confessions of an
 
-      Opium-eater’—fine, very fine!—glorious imagination—deep
+      Opium-eater’—fine, very fine!—glorious [[Imagination|imagination]]—deep
 
-      philosophy acute speculation—plenty of fire and fury, and a good
+      [[philosophy]] acute speculation—plenty of [[Fire|fire]] and fury, and a good
 
       spicing of the decidedly unintelligible. That was a nice bit of
 
@@ -277,7 +277,7 @@ tags:
 
       was composed by my pet baboon, Juniper, over a rummer of Hollands
 
-      and water, ‘hot, without sugar.’” [This I could scarcely have
+      and [[Water|water]], ‘hot, without sugar.’” [This I could scarcely have
 
       believed had it been anybody but Mr. Blackwood, who assured me of
 
@@ -285,7 +285,7 @@ tags:
 
       a gentleman who got baked in an oven, and came out alive and
 
-      well, although certainly done to a turn. And then there was ‘The
+      [[Well|well]], although certainly done to a turn. And then there was ‘The
 
       Diary of a Late Physician,’ where the merit lay in good rant, and
 
@@ -295,7 +295,7 @@ tags:
 
       Zenobia, which I cannot sufficiently recommend to your attention.
 
-      It is the history of a young person who goes to sleep under the
+      It is the [[history]] of a young person who goes to [[Sleep|sleep]] under the
 
       clapper of a church bell, and is awakened by its tolling for a
 
@@ -343,9 +343,9 @@ tags:
 
       misadventure. I should prefer, however, that you have the actual
 
-      fact to bear you out. Nothing so well assists the fancy, as an
+      fact to bear you out. Nothing so [[Well|well]] assists the fancy, as an
 
-      experimental knowledge of the matter in hand. ‘Truth is strange,’
+      experimental knowledge of the matter in hand. ‘[[Truth]] is strange,’
 
       you know, ‘stranger than fiction’—besides being more to the
 
@@ -365,9 +365,9 @@ tags:
 
       pills, and then give us your sensations. However, my instructions
 
-      will apply equally well to any variety of misadventure, and in
+      will apply equally [[Well|well]] to any variety of misadventure, and in
 
-      your way home you may easily get knocked in the head, or run over
+      your way [[Home|home]] you may easily get knocked in the head, or run over
 
       by an omnibus, or bitten by a mad dog, or drowned in a gutter.
 
@@ -397,7 +397,7 @@ tags:
 
       all in a whirl, like a humming-top, and make a noise very
 
-      similar, which answers remarkably well instead of meaning. This
+      similar, which answers remarkably [[Well|well]] instead of meaning. This
 
       is the best of all possible styles where the writer is in too
 
@@ -435,7 +435,7 @@ tags:
 
       heterogeneous. In the former the merit consists in seeing into
 
-      the nature of affairs a very great deal farther than anybody
+      the [[Nature|nature]] of affairs a very great deal farther than anybody
 
       else. This second sight is very efficient when properly managed.
 
@@ -443,7 +443,7 @@ tags:
 
       Eschew, in this case, big words; get them as small as possible,
 
-      and write them upside down. Look over Channing’s poems and quote
+      and write them upside down. Look over Channing’s [[Poems|poems]] and quote
 
       what he says about a ‘fat little man with a delusive show of
 
@@ -485,7 +485,7 @@ tags:
 
       “Let us suppose now you have determined upon your incidents and
 
-      tone. The most important portion—in fact, the soul of the whole
+      tone. The most important portion—in fact, the [[Soul|soul]] of the whole
 
       business, is yet to be attended to—I allude to the filling up. It
 
@@ -507,7 +507,7 @@ tags:
 
       scraps of either learning or _bel-esprit-ism_, which are the very
 
-      thing for the spicing of a Blackwood article. You might as well
+      thing for the spicing of a Blackwood article. You might as [[Well|well]]
 
       note down a few while I read them to you. I shall make two
 
@@ -521,7 +521,7 @@ tags:
 
       “PIQUANT FACTS FOR SIMILES. ‘There were originally but three
 
-      Muses—Melete, Mneme, Aœde—meditation, memory, and singing.’ You
+      Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
 
       may make a good deal of that little fact if properly worked. You
 
@@ -531,7 +531,7 @@ tags:
 
 
 
-      “Again. ‘The river Alpheus passed beneath the sea, and emerged
+      “Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
 
       without injury to the purity of its waters.’ Rather stale that,
 
@@ -551,7 +551,7 @@ tags:
 
       thing else in the botanical line. There’s nothing goes down so
 
-      well, especially with the help of a little Latin. Write!
+      [[Well|well]], especially with the help of a little Latin. Write!
 
 
 
@@ -567,7 +567,7 @@ tags:
 
 
 
-      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese novel Ju-Kiao-Li_.’
+      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
 
       Good! By introducing these few words with dexterity you will
 
@@ -591,13 +591,13 @@ tags:
 
       the frequent repetition of the phrase, _la tendre Zaire_, in the
 
-      French tragedy of that name. Properly introduced, will show not
+      French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
 
       only your knowledge of the language, but your general reading and
 
       wit. You can say, for instance, that the chicken you were eating
 
-      (write an article about being choked to death by a chicken-bone)
+      (write an article about being choked to [[Death|death]] by a chicken-bone)
 
       was not altogether _aussi tendre que Zaire_. Write!
 
@@ -613,7 +613,7 @@ Porque el plazer del morir,
 
 
 
-      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O death!
+      “That’s Spanish—from Miguel de Cervantes. ‘Come quickly, O [[Death|death]]!
 
       but be sure and don’t let me see you coming, lest the pleasure I
 
@@ -633,7 +633,7 @@ Porque el plazer del morir,
 
       “That’s Italian, you perceive—from Ariosto. It means that a great
 
-      hero, in the heat of combat, not perceiving that he had been
+      [[Hero|hero]], in the heat of combat, not perceiving that he had been
 
       fairly killed, continued to fight valiantly, dead as he was. The
 
@@ -641,7 +641,7 @@ Porque el plazer del morir,
 
       Psyche, that you will not neglect to kick for at least an hour
 
-      and a half after you have been choked to death by that
+      and a half after you have been choked to [[Death|death]] by that
 
       chicken-bone. Please to write!
 
@@ -661,7 +661,7 @@ Porque el plazer del morir,
 
       lady either) of sense, wouldn’t die, I should like to know, for a
 
-      well fattened capon of the right Molucca breed, stuffed with
+      [[Well|well]] fattened capon of the right Molucca breed, stuffed with
 
       capers and mushrooms, and served up in a salad-bowl, with
 
@@ -679,7 +679,7 @@ Porque el plazer del morir,
 
       elenchi—that is to say, he has understood the words of your
 
-      proposition, but not the idea. The man was a fool, you see. Some
+      proposition, but not the idea. The man was a [[Fool|fool]], you see. Some
 
       poor fellow whom you address while choking with that
 
@@ -709,7 +709,7 @@ Porque el plazer del morir,
 
       example. Ανερο φευων και παλιν μαχεσεται. [Aner o pheugoen kai
 
-      palin makesetai.] There is a tolerably good translation of it in
+      palin makesetai.] There is a tolerably good [[Translation|translation]] of it in
 
       Hudibras—
 
@@ -737,7 +737,7 @@ Porque el plazer del morir,
 
       the sentence, with a huge oath, and by way of ultimatum at the
 
-      good-for-nothing dunder-headed villain who couldn’t understand
+      good-for-nothing dunder-headed [[Villain|villain]] who couldn’t understand
 
       your plain English in relation to the chicken-bone. He’ll take
 
@@ -765,15 +765,15 @@ Porque el plazer del morir,
 
       and indeed treated me with the greatest civility. His parting
 
-      words made a deep impression upon my heart, and I hope I shall
+      words made a deep impression upon my heart, and I [[Hope|hope]] I shall
 
       always remember them with gratitude.
 
 
 
-      “My dear Miss Zenobia,” he said, while the tears stood in his
+      “My dear Miss Zenobia,” he said, while the [[Tears|tears]] stood in his
 
-      eyes, “is there anything else I can do to promote the success of
+      eyes, “is there anything else I can do to promote the [[success]] of
 
       your laudable undertaking? Let me reflect! It is just possible
 
@@ -783,7 +783,7 @@ Porque el plazer del morir,
 
       hung,—or—bitten by a—but stay! Now I think me of it, there are a
 
-      couple of very excellent bull-dogs in the yard—fine fellows, I
+      couple of very excellent bull-[[dogs]] in the yard—fine fellows, I
 
       assure you—savage, and all that—indeed just the thing for your
 
@@ -791,7 +791,7 @@ Porque el plazer del morir,
 
       five minutes (here’s my watch!)—and then only think of the
 
-      sensations! Here! I say—Tom!—Peter!—Dick, you villain!—let out
+      sensations! Here! I say—Tom!—Peter!—Dick, you [[Villain|villain]]!—let out
 
       those”—but as I was really in a great hurry, and had not another
 
@@ -817,9 +817,9 @@ Porque el plazer del morir,
 
       character of the article I intended to write. In this excursion I
 
-      was attended by one negro servant, Pompey, and my little lap-dog
+      was attended by one negro servant, [[Pompey]], and my little lap-dog
 
-      Diana, whom I had brought with me from Philadelphia. It was not,
+      [[Diana]], whom I had brought with me from Philadelphia. It was not,
 
       however, until late in the afternoon that I fully succeeded in my
 

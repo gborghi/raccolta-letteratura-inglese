@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 7"
+title: "[[TheCrimesOfEngland]] — Chapter 7"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -24,10 +24,10 @@ THE MIDNIGHT OF EUROPE
 
 The Two Napoleons--Their Ultimate
 
-Success--The Interlude of Sedan--The
+[[success|Success]]--The Interlude of Sedan--The
 
 Meaning of an Emperor--The Triumph of
 
-Versailles--The True Innocence of England--
+Versailles--The True [[innocence|Innocence]] of England--
 
 Triumph of the Kaiser.

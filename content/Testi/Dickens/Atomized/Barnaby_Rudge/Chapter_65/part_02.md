@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 65 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 65 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-He was still looking down from his window upon these things, when a band
+He was still looking down from his [[Window|window]] upon these things, when a band
 of men with torches, ladders, axes, and many kinds of weapons, poured
 into the yard, and hammering at his door, inquired if there were any
-prisoner within. He left the window when he saw them coming, and drew
+prisoner within. He left the [[Window|window]] when he saw them coming, and drew
 back into the remotest corner of the cell; but although he returned them
 no answer, they had a fancy that some one was inside, for they presently
 set ladders against it, and began to tear away the bars at the casement;
 not only that, indeed, but with pickaxes to hew down the very stones in
 the wall.
 
-As soon as they had made a breach at the window, large enough for the
+As soon as they had made a breach at the [[Window|window]], large enough for the
 admission of a man’s head, one of them thrust in a torch and looked all
 round the room. He followed this man’s gaze until it rested on himself,
 and heard him demand why he had not answered, but made him no reply.
 
-In the general surprise and wonder, they were used to this; without
+In the general surprise and [[Wonder|wonder]], they were used to this; without
 saying anything more, they enlarged the breach until it was large enough
-to admit the body of a man, and then came dropping down upon the floor,
+to admit the [[Body|body]] of a man, and then came dropping down upon the floor,
 one after another, until the cell was full. They caught him up among
-them, handed him to the window, and those who stood upon the ladders
+them, handed him to the [[Window|window]], and those who stood upon the ladders
 passed him down upon the pavement of the yard. Then the rest came out,
-one after another, and, bidding him fly, and lose no time, or the way
+one after another, and, bidding him fly, and lose no [[Time|time]], or the way
 would be choked up, hurried away to rescue others.
 
 It seemed not a minute’s work from first to last. He staggered to his
@@ -46,11 +46,11 @@ interval between!--he and his son were being passed from hand to hand,
 through the dense crowd in the street, and were glancing backward at a
 burning pile which some one said was Newgate.
 
-From the moment of their first entrance into the prison, the crowd
+From the moment of their first entrance into the [[Prison|prison]], the crowd
 dispersed themselves about it, and swarmed into every chink and crevice,
 as if they had a perfect acquaintance with its innermost parts, and bore
 in their minds an exact plan of the whole. For this immediate knowledge
-of the place, they were, no doubt, in a great degree, indebted to the
+of the place, they were, no [[Doubt|doubt]], in a great degree, indebted to the
 hangman, who stood in the lobby, directing some to go this way, some
 that, and some the other; and who materially assisted in bringing about
 the wonderful rapidity with which the release of the prisoners was
@@ -61,17 +61,17 @@ intelligence, and kept it snugly to himself. When he had issued his
 instructions relative to every other part of the building, and the mob
 were dispersed from end to end, and busy at their work, he took a bundle
 of keys from a kind of cupboard in the wall, and going by a kind of
-passage near the chapel (it joined the governors house, and was then
-on fire), betook himself to the condemned cells, which were a series of
+passage near the chapel (it joined the governors [[house]], and was then
+on [[Fire|fire]]), betook himself to the condemned cells, which were a series of
 small, strong, dismal rooms, opening on a low gallery, guarded, at the
 end at which he entered, by a strong iron wicket, and at its opposite
-extremity by two doors and a thick grate. Having double locked the
-wicket, and assured himself that the other entrances were well secured,
+extremity by two doors and a thick grate. Having [[Double|double]] locked the
+wicket, and assured himself that the other entrances were [[Well|well]] secured,
 he sat down on a bench in the gallery, and sucked the head of his stick
 with the utmost complacency, tranquillity, and contentment.
 
 It would have been strange enough, a man’s enjoying himself in this
-quiet manner, while the prison was burning, and such a tumult was
+quiet manner, while the [[Prison|prison]] was burning, and such a tumult was
 cleaving the air, though he had been outside the walls. But here, in the
 very heart of the building, and moreover with the prayers and cries
 of the four men under sentence sounding in his ears, and their hands,
@@ -79,7 +79,7 @@ stretched out through the gratings in their cell-doors, clasped in
 frantic entreaty before his very eyes, it was particularly remarkable.
 Indeed, Mr Dennis appeared to think it an uncommon circumstance, and to
 banter himself upon it; for he thrust his hat on one side as some men do
-when they are in a waggish humour, sucked the head of his stick with a
+when they are in a waggish [[Humour|humour]], sucked the head of his stick with a
 higher relish, and smiled as though he would say, ‘Dennis, you’re a rum
 dog; you’re a queer fellow; you’re capital company, Dennis, and quite a
 character!’
@@ -88,14 +88,14 @@ He sat in this way for some minutes, while the four men in the cells,
 who were certain that somebody had entered the gallery, but could not
 see who, gave vent to such piteous entreaties as wretches in their
 miserable condition may be supposed to have been inspired with: urging,
-whoever it was, to set them at liberty, for the love of Heaven; and
-protesting, with great fervour, and truly enough, perhaps, for the time,
+whoever it was, to set them at liberty, for the [[Love|love]] of Heaven; and
+protesting, with great fervour, and truly enough, perhaps, for the [[Time|time]],
 that if they escaped, they would amend their ways, and would never,
 never, never again do wrong before God or man, but would lead penitent
 and sober lives, and sorrowfully repent the crimes they had committed.
 The terrible energy with which they spoke, would have moved any person,
 no matter how good or just (if any good or just person could have
-strayed into that sad place that night), to have set them at liberty:
+strayed into that sad place that [[Night|night]]), to have set them at liberty:
 and, while he would have left any other punishment to its free course,
 to have saved them from this last dreadful and repulsive penalty; which
 never turned a man inclined to evil, and has hardened thousands who were
@@ -103,8 +103,8 @@ half inclined to good.
 
 Mr Dennis, who had been bred and nurtured in the good old school, and
 had administered the good old laws on the good old plan, always once
-and sometimes twice every six weeks, for a long time, bore these appeals
-with a deal of philosophy. Being at last, however, rather disturbed in
+and sometimes twice every six weeks, for a long [[Time|time]], bore these appeals
+with a deal of [[philosophy]]. Being at last, however, rather disturbed in
 his pleasant reflection by their repetition, he rapped at one of the
 doors with his stick, and cried:
 
@@ -119,5 +119,5 @@ hand nearest him.
 ‘To save us!’ they cried.
 
 ‘Oh, certainly,’ said Mr Dennis, winking at the wall in the absence
-of any friend with whom he could humour the joke. ‘And so you’re to be
+of any friend with whom he could [[Humour|humour]] the joke. ‘And so you’re to be
 worked off, are you, brothers?’

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 12 (part 1)"
+title: "[[Persuasion]] — Chapter 12 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -38,9 +38,9 @@ till Henrietta suddenly began again with—
 
 “Oh! yes,—I am quite convinced that, with very few exceptions, the
 
-sea-air always does good. There can be no doubt of its having been of
+sea-air always does good. There can be no [[Doubt|doubt]] of its having been of
 
-the greatest service to Dr Shirley, after his illness, last spring
+the greatest service to Dr [[Shirley]], after his illness, last [[spring]]
 
 twelvemonth. He declares himself, that coming to Lyme for a month, did
 
@@ -54,7 +54,7 @@ better leave Uppercross entirely, and fix at Lyme. Do not you, Anne? Do
 
 not you agree with me, that it is the best thing he could do, both for
 
-himself and Mrs Shirley? She has cousins here, you know, and many
+himself and Mrs [[Shirley]]? She has cousins here, you know, and many
 
 acquaintance, which would make it cheerful for her, and I am sure she
 
@@ -62,7 +62,7 @@ would be glad to get to a place where she could have medical attendance
 
 at hand, in case of his having another seizure. Indeed I think it quite
 
-melancholy to have such excellent people as Dr and Mrs Shirley, who
+[[Melancholy|melancholy]] to have such excellent people as Dr and Mrs [[Shirley]], who
 
 have been doing good all their lives, wearing out their last days in a
 
@@ -72,17 +72,17 @@ from all the world. I wish his friends would propose it to him. I
 
 really think they ought. And, as to procuring a dispensation, there
 
-could be no difficulty at his time of life, and with his character. My
+could be no difficulty at his [[Time|time]] of life, and with his character. My
 
-only doubt is, whether anything could persuade him to leave his parish.
+only [[Doubt|doubt]] is, whether anything could persuade him to leave his parish.
 
 He is so very strict and scrupulous in his notions; over-scrupulous I
 
 must say. Do not you think, Anne, it is being over-scrupulous? Do not
 
-you think it is quite a mistaken point of conscience, when a clergyman
+you think it is quite a mistaken point of [[Conscience|conscience]], when a clergyman
 
-sacrifices his health for the sake of duties, which may be just as well
+sacrifices his health for the sake of duties, which may be just as [[Well|well]]
 
 performed by another person? And at Lyme too, only seventeen miles off,
 
@@ -102,7 +102,7 @@ standard, for what could be offered but general acquiescence? She said
 
 all that was reasonable and proper on the business; felt the claims of
 
-Dr Shirley to repose as she ought; saw how very desirable it was that
+Dr [[Shirley]] to repose as she ought; saw how very desirable it was that
 
 he should have some active, respectable young man as a resident
 
@@ -112,11 +112,11 @@ resident curate’s being married.
 
 
 
-“I wish,” said Henrietta, very well pleased with her companion, “I wish
+“I wish,” said Henrietta, very [[Well|well]] pleased with her companion, “I wish
 
-Lady Russell lived at Uppercross, and were intimate with Dr Shirley. I
+[[Lady Russell]] lived at Uppercross, and were intimate with Dr [[Shirley]]. I
 
-have always heard of Lady Russell as a woman of the greatest influence
+have always heard of [[Lady Russell]] as a woman of the greatest influence
 
 with everybody! I always look upon her as able to persuade a person to
 
@@ -134,11 +134,11 @@ also that the course of events and the new interests of Henrietta’s
 
 views should have placed her friend at all in favour with any of the
 
-Musgrove family; she had only time, however, for a general answer, and
+Musgrove family; she had only [[Time|time]], however, for a general answer, and
 
 a wish that such another woman were at Uppercross, before all subjects
 
-suddenly ceased, on seeing Louisa and Captain Wentworth coming towards
+suddenly ceased, on seeing Louisa and [[Captain Wentworth]] coming towards
 
 them. They came also for a stroll till breakfast was likely to be
 
@@ -160,15 +160,15 @@ as they passed, Anne’s face caught his eye, and he looked at her with a
 
 degree of earnest admiration, which she could not be insensible of. She
 
-was looking remarkably well; her very regular, very pretty features,
+was looking remarkably [[Well|well]]; her very regular, very pretty features,
 
-having the bloom and freshness of youth restored by the fine wind which
+having the bloom and freshness of youth restored by the fine [[Wind|wind]] which
 
 had been blowing on her complexion, and by the animation of eye which
 
 it had also produced. It was evident that the gentleman, (completely a
 
-gentleman in manner) admired her exceedingly. Captain Wentworth looked
+gentleman in manner) admired her exceedingly. [[Captain Wentworth]] looked
 
 round at her instantly in a way which shewed his noticing of it. He
 
@@ -176,7 +176,7 @@ gave her a momentary glance, a glance of brightness, which seemed to
 
 say, “That man is struck with you, and even I, at this moment, see
 
-something like Anne Elliot again.”
+something like [[Anne Elliot]] again.”
 
 
 
@@ -190,7 +190,7 @@ nearly run against the very same gentleman, as he came out of an
 
 adjoining apartment. She had before conjectured him to be a stranger
 
-like themselves, and determined that a well-looking groom, who was
+like themselves, and determined that a [[Well|well]]-looking groom, who was
 
 strolling about near the two inns as they came back, should be his
 

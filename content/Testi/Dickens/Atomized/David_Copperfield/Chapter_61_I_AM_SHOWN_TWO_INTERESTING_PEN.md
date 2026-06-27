@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS"
+title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,22 +17,22 @@ tags:
 CHAPTER 61. I AM SHOWN TWO INTERESTING PENITENTS
 
 
-For a time--at all events until my book should be completed, which would
-be the work of several months--I took up my abode in my aunt’s house at
-Dover; and there, sitting in the window from which I had looked out at
-the moon upon the sea, when that roof first gave me shelter, I quietly
+For a [[Time|time]]--at all events until my book should be completed, which would
+be the work of several months--I took up my abode in my aunt’s [[house]] at
+Dover; and there, sitting in the [[Window|window]] from which I had looked out at
+the [[Moon|moon]] upon the sea, when that roof first gave me shelter, I quietly
 pursued my task.
 
 In pursuance of my intention of referring to my own fictions only when
 their course should incidentally connect itself with the progress of my
 story, I do not enter on the aspirations, the delights, anxieties, and
 triumphs of my art. That I truly devoted myself to it with my strongest
-earnestness, and bestowed upon it every energy of my soul, I have
+earnestness, and bestowed upon it every energy of my [[Soul|soul]], I have
 already said. If the books I have written be of any worth, they will
 supply the rest. I shall otherwise have written to poor purpose, and the
 rest will be of interest to no one.
 
-Occasionally, I went to London; to lose myself in the swarm of life
+Occasionally, I went to [[London]]; to lose myself in the swarm of life
 there, or to consult with Traddles on some business point. He had
 managed for me, in my absence, with the soundest judgement; and my
 worldly affairs were prospering. As my notoriety began to bring upon
@@ -40,7 +40,7 @@ me an enormous quantity of letters from people of whom I had no
 knowledge--chiefly about nothing, and extremely difficult to answer--I
 agreed with Traddles to have my name painted up on his door. There, the
 devoted postman on that beat delivered bushels of letters for me; and
-there, at intervals, I laboured through them, like a Home Secretary of
+there, at intervals, I laboured through them, like a [[Home]] Secretary of
 State without the salary.
 
 Among this correspondence, there dropped in, every now and then, an
@@ -52,10 +52,10 @@ aware that there were plenty of such covert practitioners in existence,
 and considering the Commons quite bad enough, without my doing anything
 to make it worse.
 
-The girls had gone home, when my name burst into bloom on Traddles’s
+The girls had gone [[Home|home]], when my name burst into bloom on Traddles’s
 door; and the sharp boy looked, all day, as if he had never heard of
 Sophy, shut up in a back room, glancing down from her work into a sooty
-little strip of garden with a pump in it. But there I always found her,
+little strip of [[Garden|garden]] with a pump in it. But there I always found her,
 the same bright housewife; often humming her Devonshire ballads when no
 strange foot was coming up the stairs, and blunting the sharp boy in his
 official closet with melody.
@@ -63,11 +63,11 @@ official closet with melody.
 I wondered, at first, why I so often found Sophy writing in a copy-book;
 and why she always shut it up when I appeared, and hurried it into the
 table-drawer. But the secret soon came out. One day, Traddles (who had
-just come home through the drizzling sleet from Court) took a paper out
+just come [[Home|home]] through the drizzling sleet from [[Court]]) took a paper out
 of his desk, and asked me what I thought of that handwriting?
 
 ‘Oh, DON’T, Tom!’ cried Sophy, who was warming his slippers before the
-fire.
+[[Fire|fire]].
 
 ‘My dear,’ returned Tom, in a delighted state, ‘why not? What do you say
 to that writing, Copperfield?’
@@ -101,13 +101,13 @@ fellow. I believe you make yourselves, and each other, two of the
 happiest people in the world.’
 
 ‘I am sure we ARE two of the happiest people,’ returned Traddles. ‘I
-admit that, at all events. Bless my soul, when I see her getting up
+admit that, at all events. Bless my [[Soul|soul]], when I see her getting up
 by candle-light on these dark mornings, busying herself in the day’s
 arrangements, going out to market before the clerks come into the Inn,
 caring for no weather, devising the most capital little dinners out of
 the plainest materials, making puddings and pies, keeping everything in
 its right place, always so neat and ornamental herself, sitting up
-at night with me if it’s ever so late, sweet-tempered and encouraging
+at [[Night|night]] with me if it’s ever so late, sweet-tempered and encouraging
 always, and all for me, I positively sometimes can’t believe it,
 Copperfield!’
 
@@ -116,7 +116,7 @@ on, and stretched his feet enjoyingly upon the fender.
 
 ‘I positively sometimes can’t believe it,’ said Traddles. ‘Then our
 pleasures! Dear me, they are inexpensive, but they are quite wonderful!
-When we are at home here, of an evening, and shut the outer door, and
+When we are at [[Home|home]] here, of an evening, and shut the outer door, and
 draw those curtains--which she made--where could we be more snug? When
 it’s fine, and we go out for a walk in the evening, the streets
 abound in enjoyment for us. We look into the glittering windows of the
@@ -128,14 +128,14 @@ lever-escape-movement, and all sorts of things, she would buy for me if
 she could afford it; and we pick out the spoons and forks, fish-slices,
 butter-knives, and sugar-tongs, we should both prefer if we could both
 afford it; and really we go away as if we had got them! Then, when we
-stroll into the squares, and great streets, and see a house to let,
+stroll into the squares, and great streets, and see a [[house]] to let,
 sometimes we look up at it, and say, how would THAT do, if I was made
 a judge? And we parcel it out--such a room for us, such rooms for the
 girls, and so forth; until we settle to our satisfaction that it
 would do, or it wouldn’t do, as the case may be. Sometimes, we go at
 half-price to the pit of the theatre--the very smell of which is cheap,
 in my opinion, at the money--and there we thoroughly enjoy the play:
-which Sophy believes every word of, and so do I. In walking home,
+which Sophy believes every word of, and so do I. In walking [[Home|home]],
 perhaps we buy a little bit of something at a cook’s-shop, or a little
 lobster at the fishmongers, and bring it here, and make a splendid
 supper, chatting about what we have seen. Now, you know, Copperfield, if
@@ -147,12 +147,12 @@ I, ‘that would be pleasant and amiable. And by the way,’ I said aloud,
 
 ‘Really,’ replied Traddles, laughing, and reddening, ‘I can’t wholly
 deny that I do, my dear Copperfield. For being in one of the back rows
-of the King’s Bench the other day, with a pen in my hand, the fancy came
+of the [[King]]’s Bench the other day, with a pen in my hand, the fancy came
 into my head to try how I had preserved that accomplishment. And I am
-afraid there’s a skeleton--in a wig--on the ledge of the desk.’
+afraid there’s a [[skeleton]]--in a wig--on the ledge of the desk.’
 
 After we had both laughed heartily, Traddles wound up by looking with a
-smile at the fire, and saying, in his forgiving way, ‘Old Creakle!’
+smile at the [[Fire|fire]], and saying, in his forgiving way, ‘Old Creakle!’
 
 ‘I have a letter from that old--Rascal here,’ said I. For I never was
 less disposed to forgive him the way he used to batter Traddles, than
@@ -162,7 +162,7 @@ when I saw Traddles so ready to forgive him himself.
 
 ‘Among the persons who are attracted to me in my rising fame and
 fortune,’ said I, looking over my letters, ‘and who discover that they
-were always much attached to me, is the self-same Creakle. He is not
+were always much attached to me, is the [[Self|self]]-same Creakle. He is not
 a schoolmaster now, Traddles. He is retired. He is a Middlesex
 Magistrate.’
 
@@ -179,11 +179,11 @@ county to nominate him for the commission.’
 
 ‘On the commission he is, at any rate,’ said I. ‘And he writes to me
 here, that he will be glad to show me, in operation, the only true
-system of prison discipline; the only unchallengeable way of making
+system of [[Prison|prison]] discipline; the only unchallengeable way of making
 sincere and lasting converts and penitents--which, you know, is by
 solitary confinement. What do you say?’
 
-‘To the system?’ inquired Traddles, looking grave.
+‘To the system?’ inquired Traddles, looking [[Grave|grave]].
 
 ‘No. To my accepting the offer, and your going with me?’
 
@@ -203,15 +203,15 @@ created beings.’
 Traddles shrugged his shoulders, and was not at all surprised. I had not
 expected him to be, and was not surprised myself; or my observation of
 similar practical satires would have been but scanty. We arranged the
-time of our visit, and I wrote accordingly to Mr. Creakle that evening.
+[[Time|time]] of our visit, and I wrote accordingly to Mr. Creakle that evening.
 
 On the appointed day--I think it was the next day, but no
-matter--Traddles and I repaired to the prison where Mr. Creakle was
+matter--Traddles and I repaired to the [[Prison|prison]] where Mr. Creakle was
 powerful. It was an immense and solid building, erected at a vast
 expense. I could not help thinking, as we approached the gate, what
 an uproar would have been made in the country, if any deluded man had
 proposed to spend one half the money it had cost, on the erection of an
-industrial school for the young, or a house of refuge for the deserving
+industrial school for the young, or a [[house]] of refuge for the deserving
 old.
 
 In an office that might have been on the ground-floor of the Tower of
@@ -231,16 +231,16 @@ to look at.
 After some conversation among these gentlemen, from which I might have
 supposed that there was nothing in the world to be legitimately taken
 into account but the supreme comfort of prisoners, at any expense, and
-nothing on the wide earth to be done outside prison-doors, we began
-our inspection. It being then just dinner-time, we went, first into the
+nothing on the wide earth to be done outside [[Prison|prison]]-doors, we began
+our inspection. It being then just dinner-[[Time|time]], we went, first into the
 great kitchen, where every prisoner’s dinner was in course of being set
 out separately (to be handed to him in his cell), with the regularity
-and precision of clock-work. I said aside, to Traddles, that I wondered
+and precision of [[Clock|clock]]-work. I said aside, to Traddles, that I wondered
 whether it occurred to anybody, that there was a striking contrast
 between these plentiful repasts of choice quality, and the dinners, not
 to say of paupers, but of soldiers, sailors, labourers, the great bulk
 of the honest, working community; of whom not one man in five hundred
-ever dined half so well. But I learned that the ‘system’ required high
+ever dined half so [[Well|well]]. But I learned that the ‘system’ required high
 living; and, in short, to dispose of the system, once for all, I found
 that on that head and on all others, ‘the system’ put an end to all
 doubts, and disposed of all anomalies. Nobody appeared to have the least
@@ -259,9 +259,9 @@ and to traverse the passages in which those cells were, and to have the
 manner of the going to chapel and so forth, explained to us, that there
 was a strong probability of the prisoners knowing a good deal about each
 other, and of their carrying on a pretty complete system of intercourse.
-This, at the time I write, has been proved, I believe, to be the case;
+This, at the [[Time|time]] I write, has been proved, I believe, to be the case;
 but, as it would have been flat blasphemy against the system to have
-hinted such a doubt then, I looked out for the penitence as diligently
+hinted such a [[Doubt|doubt]] then, I looked out for the penitence as diligently
 as I could.
 
 And here again, I had great misgivings. I found as prevalent a fashion
@@ -272,8 +272,8 @@ very little (which I thought exceedingly suspicious), even in words. I
 found a great many foxes, disparaging whole vineyards of inaccessible
 grapes; but I found very few foxes whom I would have trusted within
 reach of a bunch. Above all, I found that the most professing men were
-the greatest objects of interest; and that their conceit, their vanity,
-their want of excitement, and their love of deception (which many
+the greatest objects of interest; and that their conceit, their [[Vanity|vanity]],
+their want of excitement, and their [[Love|love]] of [[Deception|deception]] (which many
 of them possessed to an almost incredible extent, as their histories
 showed), all prompted to these professions, and were all gratified by
 them.
@@ -289,19 +289,19 @@ and of the beautiful letters he constantly wrote to his mother (whom he
 seemed to consider in a very bad way), that I became quite impatient to
 see him.
 
-I had to restrain my impatience for some time, on account of Twenty
+I had to restrain my impatience for some [[Time|time]], on account of Twenty
 Seven being reserved for a concluding effect. But, at last, we came to
 the door of his cell; and Mr. Creakle, looking through a little hole in
 it, reported to us, in a state of the greatest admiration, that he was
-reading a Hymn Book.
+reading a [[Hymn]] Book.
 
 There was such a rush of heads immediately, to see Number Twenty Seven
-reading his Hymn Book, that the little hole was blocked up, six or seven
+reading his [[Hymn]] Book, that the little hole was blocked up, six or seven
 heads deep. To remedy this inconvenience, and give us an opportunity of
 conversing with Twenty Seven in all his purity, Mr. Creakle directed the
 door of the cell to be unlocked, and Twenty Seven to be invited out into
 the passage. This was done; and whom should Traddles and I then behold,
-to our amazement, in this converted Number Twenty Seven, but Uriah Heep!
+to our amazement, in this converted Number Twenty Seven, but [[Uriah Heep]]!
 
 He knew us directly; and said, as he came out--with the old writhe,--
 
@@ -311,17 +311,17 @@ This recognition caused a general admiration in the party. I rather
 thought that everyone was struck by his not being proud, and taking
 notice of us.
 
-‘Well, Twenty Seven,’ said Mr. Creakle, mournfully admiring him. ‘How do
+‘[[Well]], Twenty Seven,’ said Mr. Creakle, mournfully admiring him. ‘How do
 you find yourself today?’
 
-‘I am very umble, sir!’ replied Uriah Heep.
+‘I am very umble, sir!’ replied [[Uriah Heep]].
 
 ‘You are always so, Twenty Seven,’ said Mr. Creakle.
 
 Here, another gentleman asked, with extreme anxiety: ‘Are you quite
 comfortable?’
 
-‘Yes, I thank you, sir!’ said Uriah Heep, looking in that direction.
+‘Yes, I thank you, sir!’ said [[Uriah Heep]], looking in that direction.
 ‘Far more comfortable here, than ever I was outside. I see my follies,
 now, sir. That’s what makes me comfortable.’
 
@@ -343,7 +343,7 @@ light shining upon us all at once, orders were given to let out Twenty
 Eight.
 
 I had been so much astonished already, that I only felt a kind of
-resigned wonder when Mr. Littimer walked forth, reading a good book!
+resigned [[Wonder|wonder]] when Mr. Littimer walked forth, reading a good book!
 
 ‘Twenty Eight,’ said a gentleman in spectacles, who had not yet spoken,
 ‘you complained last week, my good fellow, of the cocoa. How has it been
@@ -352,7 +352,7 @@ since?’
 ‘I thank you, sir,’ said Mr. Littimer, ‘it has been better made. If I
 might take the liberty of saying so, sir, I don’t think the milk which
 is boiled with it is quite genuine; but I am aware, sir, that there is
-a great adulteration of milk, in London, and that the article in a pure
+a great adulteration of milk, in [[London]], and that the article in a pure
 state is difficult to be obtained.’
 
 It appeared to me that the gentleman in spectacles backed his Twenty
@@ -364,7 +364,7 @@ spectacles.
 
 ‘I thank you, sir,’ returned Mr. Littimer; ‘I see my follies now, sir.
 I am a good deal troubled when I think of the sins of my former
-companions, sir; but I trust they may find forgiveness.’
+companions, sir; but I trust they may find [[Forgiveness|forgiveness]].’
 
 ‘You are quite happy yourself?’ said the questioner, nodding
 encouragement.
@@ -379,10 +379,10 @@ deceived me, there is a gentleman present who was acquainted with me
 in my former life. It may be profitable to that gentleman to know, sir,
 that I attribute my past follies, entirely to having lived a thoughtless
 life in the service of young men; and to having allowed myself to be led
-by them into weaknesses, which I had not the strength to resist. I hope
+by them into weaknesses, which I had not the strength to resist. I [[Hope|hope]]
 that gentleman will take warning, sir, and will not be offended at my
-freedom. It is for his good. I am conscious of my own past follies. I
-hope he may repent of all the wickedness and sin to which he has been a
+[[Freedom|freedom]]. It is for his good. I am conscious of my own past follies. I
+[[Hope|hope]] he may repent of all the wickedness and sin to which he has been a
 party.’
 
 I observed that several gentlemen were shading their eyes, each with one
@@ -398,7 +398,7 @@ if he has it in his power, to inform that young woman from me that
 I forgive her her bad conduct towards myself, and that I call her to
 repentance--if he will be so good.’
 
-‘I have no doubt, Twenty Eight,’ returned the questioner, ‘that the
+‘I have no [[Doubt|doubt]], Twenty Eight,’ returned the questioner, ‘that the
 gentleman you refer to feels very strongly--as we all must--what you
 have so properly said. We will not detain you.’
 
@@ -449,11 +449,11 @@ everywhere--except here.’
 
 ‘Oh de-ar no, sir!’
 
-‘Well!’ said Mr. Creakle, ‘this is very gratifying. You have addressed
+‘[[Well]]!’ said Mr. Creakle, ‘this is very gratifying. You have addressed
 Mr. Copperfield, Twenty Seven. Do you wish to say anything further to
 him?’
 
-‘You knew me, a long time before I came here and was changed, Mr.
+‘You knew me, a long [[Time|time]] before I came here and was changed, Mr.
 Copperfield,’ said Uriah, looking at me; and a more villainous look
 I never saw, even on his visage. ‘You knew me when, in spite of my
 follies, I was umble among them that was proud, and meek among them that
@@ -463,18 +463,18 @@ struck me a blow in the face, you know.’
 General commiseration. Several indignant glances directed at me.
 
 ‘But I forgive you, Mr. Copperfield,’ said Uriah, making his forgiving
-nature the subject of a most impious and awful parallel, which I shall
+[[Nature|nature]] the subject of a most impious and awful parallel, which I shall
 not record. ‘I forgive everybody. It would ill become me to bear malice.
-I freely forgive you, and I hope you’ll curb your passions in future. I
-hope Mr. W. will repent, and Miss W., and all of that sinful lot. You’ve
-been visited with affliction, and I hope it may do you good; but you’d
+I freely forgive you, and I [[Hope|hope]] you’ll curb your passions in future. I
+[[Hope|hope]] Mr. W. will repent, and Miss W., and all of that sinful lot. You’ve
+been visited with affliction, and I [[Hope|hope]] it may do you good; but you’d
 better have come here. Mr. W. had better have come here, and Miss W.
 too. The best wish I could give you, Mr. Copperfield, and give all of
 you gentlemen, is, that you could be took up and brought here. When I
 think of my past follies, and my present state, I am sure it would be
 best for you. I pity all who ain’t brought here!’
 
-He sneaked back into his cell, amidst a little chorus of approbation;
+He sneaked back into his cell, amidst a little [[Chorus|chorus]] of approbation;
 and both Traddles and I experienced a great relief when he was locked
 in.
 
@@ -482,7 +482,7 @@ It was a characteristic feature in this repentance, that I was fain to
 ask what these two men had done, to be there at all. That appeared to be
 the last thing about which they had anything to say. I addressed
 myself to one of the two warders, who, I suspected from certain latent
-indications in their faces, knew pretty well what all this stir was
+indications in their faces, knew pretty [[Well|well]] what all this stir was
 worth.
 
 ‘Do you know,’ said I, as we walked along the passage, ‘what felony was
@@ -504,9 +504,9 @@ tone, and looking over his shoulder as we walked along the passage, to
 guard himself from being overheard, in such an unlawful reference
 to these Immaculates, by Creakle and the rest; ‘Twenty Eight (also
 transportation) got a place, and robbed a young master of a matter of
-two hundred and fifty pounds in money and valuables, the night before
+two hundred and fifty pounds in money and valuables, the [[Night|night]] before
 they were going abroad. I particularly recollect his case, from his
-being took by a dwarf.’
+being took by a [[Dwarf|dwarf]].’
 
 ‘A what?’
 
@@ -514,12 +514,12 @@ being took by a dwarf.’
 
 ‘Not Mowcher?’
 
-‘That’s it! He had eluded pursuit, and was going to America in a flaxen
+‘That’s it! He had eluded pursuit, and was going to [[america|America]] in a flaxen
 wig, and whiskers, and such a complete disguise as never you see in all
 your born days; when the little woman, being in Southampton, met
 him walking along the street--picked him out with her sharp eye in a
 moment--ran betwixt his legs to upset him--and held on to him like grim
-Death.’
+[[Death]].’
 
 ‘Excellent Miss Mowcher!’ cried I.
 
@@ -529,8 +529,8 @@ right open, and pounded her in the most brutal manner, when she took
 him; but she never loosed her hold till he was locked up. She held so
 tight to him, in fact, that the officers were obliged to take ‘em
 both together. She gave her evidence in the gamest way, and was highly
-complimented by the Bench, and cheered right home to her lodgings. She
-said in Court that she’d have took him single-handed (on account of what
+complimented by the Bench, and cheered right [[Home|home]] to her lodgings. She
+said in [[Court]] that she’d have took him single-handed (on account of what
 she knew concerning him), if he had been Samson. And it’s my belief she
 would!’
 
@@ -541,13 +541,13 @@ represent to such a man as the Worshipful Mr. Creakle, that Twenty Seven
 and Twenty Eight were perfectly consistent and unchanged; that exactly
 what they were then, they had always been; that the hypocritical knaves
 were just the subjects to make that sort of profession in such a place;
-that they knew its market-value at least as well as we did, in the
+that they knew its market-value at least as [[Well|well]] as we did, in the
 immediate service it would do them when they were expatriated; in
 a word, that it was a rotten, hollow, painfully suggestive piece of
 business altogether. We left them to their system and themselves, and
-went home wondering.
+went [[Home|home]] wondering.
 
 ‘Perhaps it’s a good thing, Traddles,’ said I, ‘to have an unsound Hobby
-ridden hard; for it’s the sooner ridden to death.’
+ridden hard; for it’s the sooner ridden to [[Death|death]].’
 
-‘I hope so,’ replied Traddles.
+‘I [[Hope|hope]] so,’ replied Traddles.

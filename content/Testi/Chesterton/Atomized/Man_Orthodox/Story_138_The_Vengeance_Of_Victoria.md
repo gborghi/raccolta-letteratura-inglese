@@ -35,18 +35,18 @@ in which every middle-class man was idiot enough to suppose
 he could become a millionaire.  The age of port; in which men
 drank after dinner, was followed by the age of cocktails, in which
 women had to get drunk in order to face the prospect of dinner.
-All that has happened since the death of Victoria.  It has begun
-since the death of Victoria.  It has died since the death of Victoria.
+All that has happened since the [[Death|death]] of Victoria.  It has begun
+since the [[Death|death]] of Victoria.  It has died since the [[Death|death]] of Victoria.
 For there will not even be any money for it much longer.
 But it has died so recently that nobody has given it any epitaph;
 nobody has even given it a name.
 
-On all that sort of thing poor old Queen Victoria has already
-been avenged.  It is perfectly self-evident that Victorianism,
+On all that sort of thing poor old [[Queen]] Victoria has already
+been avenged.  It is perfectly [[Self|self]]-evident that Victorianism,
 with all its vices, was vastly superior to the thing which so rapidly
 sprang up in its place and so rapidly withered in its place.
-For instance, Victorian morality, passing from Puritanism to Positivism,
-did not understand much of the mystical sort of humility.
+For instance, Victorian [[morality]], passing from [[Puritanism]] to Positivism,
+did not understand much of the mystical sort of [[Humility|humility]].
 But it did understand something of the ordinary manly sort of modesty;
 the decent restraint known to pagans like the Romans or the Chinese.
 It was followed by a mere lunatic asylum of lying and
@@ -55,7 +55,7 @@ with the final financial result that nothing can be sold
 and that all the money for advertisement has been wasted.
 It was the post-Victorians who went in for mere go-getting;
 and it has gone no where and got nothing.  We have all heard
-of a famous occasion when Queen Victoria was not amused.
+of a famous occasion when [[Queen]] Victoria was not amused.
 But I fancy that even she might be amused now.
 
                                         G. K.'s Weekly, October 15th, 1932

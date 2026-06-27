@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 4 (part 1)"
+title: "[[Don Quixote]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -22,22 +22,22 @@ The gentleman called Monkey made his way rapidly across
 the wide and windy sweep of lawn towards the solitary monument
 (if it can so be called), or curiosity, or relic, which stood
 in the middle of that open space.  It was, in fact, a large
-fragment fallen from the Gothic gateways of the old Abbey,
+[[Fragment|fragment]] fallen from the Gothic gateways of the old Abbey,
 and here incongruously poised upon a more modern pedestal,
 probably by the rather hazy romanticism of some gentleman
 a hundred years ago, who thought that a subsequent accumulation
 of moss and moonlight might turn it into a suitable subject
 for the ingenious author of "Marmion." On close inspection
 (which nobody in particular ever accorded to it) the broken lines of
-it could be dimly traced in the shape of a rather repulsive monster,
+it could be dimly traced in the shape of a rather repulsive [[Monster|monster]],
 goggle-eyed and glaring upwards, possibly a dying dragon,
 above which something stood up in vertical lines like broken
 shafts or columns, possibly the lower part of a human figure.
 But it was not out of any antiquarian ardour to note these details
 that Mr. Douglas Murrel hastened towards the spot; but because
-the very impatient lady who had summoned him out of the house
+the very impatient lady who had summoned him out of the [[house]]
 on urgent business had named this place for the appointment.
-From across the garden he could see Olive Ashley standing by
+From across the [[Garden|garden]] he could see Olive Ashley standing by
 the stone, and see that she was by no means standing equally still.
 Even at that distance there seemed to be something
 restless and even nervous about her gesture and carriage.
@@ -57,7 +57,7 @@ It's for everybody's sake--society and all that!"
 Then her tone changed again, and she said explosively,
 "It's all your fault!  You would introduce him."
 
-"Well, what's the matter?" asked her companion, patiently.
+"[[Well]], what's the matter?" asked her companion, patiently.
 
 "Only that I simply detest him," she said.  "He was abominably rude and--"
 
@@ -94,14 +94,14 @@ What I want is to show him what educated people are really like.
 It's all for his own good.  He could be--he could be ever
 so much improved."
 
-"Is he to go to a continuation class or a night school?"
-inquired Murrel innocently, "or possibly to a Sunday school."
+"Is he to go to a continuation class or a [[Night|night]] school?"
+inquired Murrel innocently, "or possibly to a [[Sunday]] school."
 
 "Nobody ever learns anything at school," she replied,
 "I mean the only place where anybody ever does learn anything--
 the world; the great world.  I want him to see there are things
 much greater than his grumbling little fads--I want him to hear
-people talking about music and architecture and history,
+people talking about music and architecture and [[history]],
 and all the things that really scholarly people know about.
 Of course, he's got stuck-up by spouting in the streets and
 laying down the law in low public-houses--bullying people even
@@ -111,7 +111,7 @@ cultivated people, he is quite clever enough to feel stupid."
 "And so, wanting a stately scholar, cultured to his finger-tips,
 you naturally thought of me," remarked Monkey, approvingly.
 "You want me to tie him to a drawing-room chair and administer
-tea and Tolstoy, or Tupper, or whoever is the modern favourite.
+tea and [[tolstoy|Tolstoy]], or Tupper, or whoever is the modern favourite.
 My dear Olive, he wouldn't come."
 
 "I've thought of all that," she said, rather hurriedly,
@@ -122,18 +122,18 @@ about the strike.  That's the only thing he'd come for;
 and after that we'll introduce him to some people who'll talk
 right above his head, so that he'll sort of grow--grow up.
 It's really serious, Douglas.  He's got the most terrible power
-over these workmen.  Unless we can make him see the truth they
+over these workmen.  Unless we can make him see the [[Truth|truth]] they
 will all--he's an orator in his way."
 
-"I knew you were a bloated aristocrat," he said, contemplating the tense
+"I knew you were a bloated [[aristocrat]]," he said, contemplating the tense
 and tenuous little lady, "but I never knew you were such a diplomatist.
-Well, I suppose I must help in your horrid plot, if you really assure
+[[Well]], I suppose I must help in your horrid plot, if you really assure
 me that it's all for his own good."
 
 "Of course it's for his own good," she replied, confidently.
 "I should never have thought of it but for that."
 
-"Quite so," replied Murrel, and went back towards the house,
+"Quite so," replied Murrel, and went back towards the [[house]],
 walking rather more slowly than when coming away from it.
 But he did not see the ladder leaning up against the outhouse,
 or the development of this story might have been disastrously foiled.
@@ -143,7 +143,7 @@ with educated men seemed to give him considerable food for
 thought as he went across the grassy plot kicking his heels,
 with his hands thrust deep in his trousers' pockets.  Of course,
 there was something in it; fellows did find their level sometimes
-by going to Oxford.  They find out in what way their education
+by going to [[Oxford]].  They find out in what way their [[Education|education]]
 has been neglected, even if they continue to neglect it.
 But he had never seen the experiment tried on so dark a social stratum
 as the black and buried coal-seam for which the Syndicalist stood.

@@ -59,7 +59,7 @@ still were, regarding each other as before; “I am in a difficulty here.
 You have told me you will receive no message, and you have forbidden me
 to return to that subject; but the two subjects are so closely
 entwined, I find, that unless you will accept this vague caution from
-one who has now the honour to possess your confidence, though the way
+one who has now the [[Honour|honour]] to possess your confidence, though the way
 to it has been through your displeasure, I must violate the injunction
 you have laid upon me.”
 
@@ -95,12 +95,12 @@ to say what unforeseen consequences might arise, or how soon, from your
 being unacquainted with his state of mind. I understand Miss Dombey is
 concerned, now, at the dismissal of her old servant, which is likely to
 have been a minor consequence in itself. You don’t blame me for
-requesting that Miss Dombey might not be present. May I hope so?”
+requesting that Miss Dombey might not be present. May I [[Hope|hope]] so?”
 
 “I do not. Please to leave me, Sir.”
 
 “I knew that your regard for the young lady, which is very sincere and
-strong, I am well persuaded, would render it a great unhappiness to
+strong, I am [[Well|well]] persuaded, would render it a great unhappiness to
 you, ever to be a prey to the reflection that you had injured her
 position and ruined her future hopes,” said Carker hurriedly, but
 eagerly.
@@ -118,7 +118,7 @@ to lead him to suppose that I have deferred doing so, for want of
 opportunity, or for any other reason. It will be necessary that you
 should enable me to consult with you very soon.”
 
-“At any time but now,” she answered.
+“At any [[Time|time]] but now,” she answered.
 
 “You will understand, when I wish to see you, that Miss Dombey is not
 to be present; and that I seek an interview as one who has the
@@ -136,23 +136,23 @@ reached the door, said:
 “I am forgiven, and have explained my fault. May I—for Miss Dombey’s
 sake, and for my own—take your hand before I go?”
 
-She gave him the gloved hand she had maimed last night. He took it in
+She gave him the gloved hand she had maimed last [[Night|night]]. He took it in
 one of his, and kissed it, and withdrew. And when he had closed the
 door, he waved the hand with which he had taken hers, and thrust it in
 his breast.
 
-Edith saw no one that night, but locked her door, and kept herself
-alone.
+Edith saw no one that [[Night|night]], but locked her door, and kept herself
+[[Alone|alone]].
 
 She did not weep; she showed no greater agitation, outwardly, than when
-she was riding home. She laid as proud a head upon her pillow as she
-had borne in her carriage; and her prayer ran thus:
+she was riding [[Home|home]]. She laid as proud a head upon her pillow as she
+had borne in her carriage; and her [[prayer]] ran thus:
 
-“May this man be a liar! For if he has spoken truth, she is lost to me,
-and I have no hope left!”
+“May this man be a liar! For if he has spoken [[Truth|truth]], she is lost to me,
+and I have no [[Hope|hope]] left!”
 
-This man, meanwhile, went home musing to bed, thinking, with a dainty
+This man, meanwhile, went [[Home|home]] musing to bed, thinking, with a dainty
 pleasure, how imperious her passion was, how she had sat before him in
-her beauty, with the dark eyes that had never turned away but once; how
+her [[Beauty|beauty]], with the dark eyes that had never turned away but once; how
 the white down had fluttered; how the bird’s feathers had been strewn
 upon the ground.

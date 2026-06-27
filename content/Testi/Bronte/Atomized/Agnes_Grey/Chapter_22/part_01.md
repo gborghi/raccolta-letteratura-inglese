@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 21 (part 1)"
+title: "[[Agnes Grey]] — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -19,7 +19,7 @@ THE SCHOOL
 
 
 I left Horton Lodge, and went to join my mother in our new abode at
-A——. I found her well in health, resigned in spirit, and even cheerful,
+A——. I found her [[Well|well]] in health, resigned in spirit, and even cheerful,
 though subdued and sober, in her general demeanour. We had only three
 boarders and half a dozen day-pupils to commence with; but by due care
 and diligence we hoped ere long to increase the number of both.
@@ -33,16 +33,16 @@ old and young; and for the first few weeks I was by no means unhappy.
 to you whether we do or not?”—Those words still rang in my ear and
 rested on my heart: they were my secret solace and support. “I shall
 see him again.—He will come; or he will write.” No promise, in fact,
-was too bright or too extravagant for Hope to whisper in my ear. I did
+was too bright or too extravagant for [[Hope]] to whisper in my ear. I did
 not believe half of what she told me: I pretended to laugh at it all;
 but I was far more credulous than I myself supposed; otherwise, why did
 my heart leap up when a knock was heard at the front door, and the
 maid, who opened it, came to tell my mother a gentleman wished to see
-her? and why was I out of humour for the rest of the day, because it
+her? and why was I out of [[Humour|humour]] for the rest of the day, because it
 proved to be a music-master come to offer his services to our school?
 and what stopped my breath for a moment, when the postman having
 brought a couple of letters, my mother said, “Here, Agnes, this is for
-you,” and threw one of them to me? and what made the hot blood rush
+you,” and threw one of them to me? and what made the hot [[Blood|blood]] rush
 into my face when I saw it was directed in a gentleman’s hand? and
 why—oh! why did that cold, sickening sense of disappointment fall upon
 me, when I had torn open the cover and found it was _only_ a letter
@@ -55,19 +55,19 @@ comparative stranger? Dear Mary! and she had written it so kindly—and
 thinking I should be so pleased to have it!—I was not worthy to read
 it! And I believe, in my indignation against myself, I should have put
 it aside till I had schooled myself into a better frame of mind, and
-was become more deserving of the honour and privilege of its perusal:
+was become more deserving of the [[Honour|honour]] and privilege of its perusal:
 but there was my mother looking on, and wishful to know what news it
 contained; so I read it and delivered it to her, and then went into the
 schoolroom to attend to the pupils: but amidst the cares of copies and
 sums—in the intervals of correcting errors here, and reproving
 derelictions of duty there, I was inwardly taking myself to task with
-far sterner severity. “What a fool you must be,” said my head to my
-heart, or my sterner to my softer self;—“how could you ever dream that
-he would write to you? What grounds have you for such a hope—or that he
+far sterner severity. “What a [[Fool|fool]] you must be,” said my head to my
+heart, or my sterner to my softer [[Self|self]];—“how could you ever dream that
+he would write to you? What grounds have you for such a [[Hope|hope]]—or that he
 will see you, or give himself any trouble about you—or even think of
-you again?” “What grounds?”—and then Hope set before me that last,
+you again?” “What grounds?”—and then [[Hope]] set before me that last,
 short interview, and repeated the words I had so faithfully treasured
-in my memory. “Well, and what was there in that?—Who ever hung his
+in my [[Memory|memory]]. “[[Well]], and what was there in that?—Who ever hung his
 hopes upon so frail a twig? What was there in those words that any
 common acquaintance might not say to another? Of course, it was
 possible you might meet again: he might have said so if you had been
@@ -75,7 +75,7 @@ going to New Zealand; but that did not imply any _intention_ of seeing
 you—and then, as to the question that followed, anyone might ask that:
 and how did you answer?—Merely with a stupid, commonplace reply, such
 as you would have given to Master Murray, or anyone else you had been
-on tolerably civil terms with.” “But, then,” persisted Hope, “the tone
+on tolerably civil terms with.” “But, then,” persisted [[Hope]], “the tone
 and manner in which he spoke.” “Oh, that is nonsense! he always speaks
 impressively; and at that moment there were the Greens and Miss Matilda
 Murray just before, and other people passing by, and he was obliged to
@@ -84,8 +84,8 @@ everybody to hear what he said, which—though it was nothing at all
 particular—of course, he would rather not.” But then, above all, that
 emphatic, yet gentle pressure of the hand, which seemed to say,
 “_Trust_ me;” and many other things besides—too delightful, almost too
-flattering, to be repeated even to one’s self. “Egregious folly—too
-absurd to require contradiction—mere inventions of the imagination,
+flattering, to be repeated even to one’s [[Self|self]]. “Egregious folly—too
+absurd to require contradiction—mere inventions of the [[Imagination|imagination]],
 which you ought to be ashamed of. If you would but consider your own
 unattractive exterior, your unamiable reserve, your foolish
 diffidence—which must make you appear cold, dull, awkward, and perhaps
@@ -95,11 +95,11 @@ and now that you have been so foolish, pray repent and amend, and let
 us have no more of it!”
 
 I cannot say that I implicitly obeyed my own injunctions: but such
-reasoning as this became more and more effective as time wore on, and
+reasoning as this became more and more effective as [[Time|time]] wore on, and
 nothing was seen or heard of Mr. Weston; until, at last, I gave up
 hoping, for even my heart acknowledged it was all in vain. But still, I
 would think of him: I would cherish his image in my mind; and treasure
-every word, look, and gesture that my memory could retain; and brood
+every word, look, and gesture that my [[Memory|memory]] could retain; and brood
 over his excellences and his peculiarities, and, in fact, all I had
 seen, heard, or imagined respecting him.
 
@@ -113,14 +113,14 @@ little.”
 
 So said my mother, as we sat at work one morning during the Easter
 holidays. I assured her that my employments were not at all oppressive;
-that I was well; or, if there was anything amiss, it would be gone as
-soon as the trying months of spring were over: when summer came I
+that I was [[Well|well]]; or, if there was anything amiss, it would be gone as
+soon as the trying months of [[Spring|spring]] were over: when [[Summer|summer]] came I
 should be as strong and hearty as she could wish to see me: but
 inwardly her observation startled me. I knew my strength was declining,
 my appetite had failed, and I was grown listless and desponding;—and
 if, indeed, he could never care for me, and I could never see him
 more—if I was forbidden to minister to his happiness—forbidden, for
-ever, to taste the joys of love, to bless, and to be blessed—then, life
+ever, to taste the joys of [[Love|love]], to bless, and to be blessed—then, life
 must be a burden, and if my heavenly Father would call me away, I
 should be glad to rest. But it would not do to die and leave my mother.
 Selfish, unworthy daughter, to forget her for a moment! Was not her
@@ -134,8 +134,8 @@ will arise and address myself diligently to my appointed duty. If
 happiness in this world is not for me, I will endeavour to promote the
 welfare of those around me, and my reward shall be hereafter.” So said
 I in my heart; and from that hour I only permitted my thoughts to
-wander to Edward Weston—or at least to dwell upon him now and then—as a
+wander to [[Edward Weston]]—or at least to dwell upon him now and then—as a
 treat for rare occasions: and, whether it was really the approach of
-summer or the effect of these good resolutions, or the lapse of time,
+[[Summer|summer]] or the effect of these good resolutions, or the lapse of [[Time|time]],
 or all together, tranquillity of mind was soon restored; and bodily
 health and vigour began likewise, slowly, but surely, to return.

@@ -1,5 +1,5 @@
 ---
-title: "Macbeth — Act V, Scene 7"
+title: "[[Macbeth]] — Act V, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/MACBETH-(Shakespeare)"
@@ -16,15 +16,15 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Macbeth |
-| MACBETH | They have tied me to a stake. I cannot fly,<br>But bear-like I must fight the course. What’s he<br>That was not born of woman? Such a one<br>Am I to fear, or none. |
+| *(didascalia)* | Enter [[Macbeth]] |
+| [[Macbeth|MACBETH]] | They have tied me to a stake. I cannot fly,<br>But bear-like I must fight the course. What’s he<br>That was not born of woman? Such a one<br>Am I to [[Fear|fear]], or none. |
 | *(didascalia)* | Enter Young Siward |
 | YOUNG SIWARD | What is thy name? |
-| MACBETH | Thou’lt be afraid to hear it. |
+| [[Macbeth|MACBETH]] | Thou’lt be afraid to hear it. |
 | YOUNG SIWARD | No, though thou call’st thyself a hotter name<br>Than any is in hell. |
-| MACBETH | My name’s Macbeth. |
+| [[Macbeth|MACBETH]] | My name’s [[Macbeth]]. |
 | YOUNG SIWARD | The devil himself could not pronounce a title<br>More hateful to mine ear. |
-| MACBETH | No, nor more fearful. |
-| YOUNG SIWARD | Thou liest, abhorred tyrant. With my sword<br>I’ll prove the lie thou speak’st.<br>They fight, and Young Siward is slain |
-| MACBETH | Thou wast born of woman,<br>But swords I smile at, weapons laugh to scorn,<br>Brandished by man that’s of a woman born. |
-| *(didascalia)* | Exit with the body |
+| [[Macbeth|MACBETH]] | No, nor more fearful. |
+| YOUNG SIWARD | Thou liest, abhorred [[Tyrant|tyrant]]. With my [[Sword|sword]]<br>I’ll prove the lie thou speak’st.<br>They fight, and Young Siward is slain |
+| [[Macbeth|MACBETH]] | Thou wast born of woman,<br>But swords I smile at, weapons laugh to scorn,<br>Brandished by man that’s of a woman born. |
+| *(didascalia)* | Exit with the [[Body|body]] |

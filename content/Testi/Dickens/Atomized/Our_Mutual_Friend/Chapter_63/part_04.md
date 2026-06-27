@@ -29,7 +29,7 @@ ships, Pa?’
 that may be sailing to us now from the unknown seas!’
 
 Bella remaining invisible and silent, her father remained at his
-dessert and wine, until he remembered it was time for him to get home to
+dessert and wine, until he remembered it was [[Time|time]] for him to get [[Home|home]] to
 Holloway. ‘Though I positively cannot tear myself away,’ he cherubically
 added, ‘—it would be a sin—without drinking to many, many happy
 returns of this most happy day.’
@@ -42,22 +42,22 @@ tendency to throw his feelings into the form of a speech, the boys down
 below, who were bidding against each other to put their heads in the mud
 for sixpence: ‘Gentlemen—and Bella and John—you will readily suppose
 that it is not my intention to trouble you with many observations on the
-present occasion. You will also at once infer the nature and even
+present occasion. You will also at once infer the [[Nature|nature]] and even
 the terms of the toast I am about to propose on the present occasion.
 Gentlemen—and Bella and John—the present occasion is an occasion
 fraught with feelings that I cannot trust myself to express. But
 gentlemen—and Bella and John—for the part I have had in it, for the
-confidence you have placed in me, and for the affectionate good-nature
+confidence you have placed in me, and for the affectionate good-[[Nature|nature]]
 and kindness with which you have determined not to find me in the way,
-when I am well aware that I cannot be otherwise than in it more or less,
-I do most heartily thank you. Gentlemen—and Bella and John—my love
+when I am [[Well|well]] aware that I cannot be otherwise than in it more or less,
+I do most heartily thank you. Gentlemen—and Bella and John—my [[Love|love]]
 to you, and may we meet, as on the present occasion, on many future
 occasions; that is to say, gentlemen—and Bella and John—on many happy
 returns of the present happy occasion.’
 
 Having thus concluded his address, the amiable cherub embraced his
 daughter, and took his flight to the steamboat which was to convey him
-to London, and was then lying at the floating pier, doing its best to
+to [[London]], and was then lying at the floating pier, doing its best to
 bump the same to bits. But, the happy couple were not going to part with
 him in that way, and before he had been on board two minutes, there they
 were, looking down at him from the wharf above.
@@ -92,10 +92,10 @@ you, Pa?’
 
 ‘Good-bye, dearest Pa. Good-bye!’
 
-‘Good-bye, my darling! Take her away, my dear John. Take her home!’
+‘Good-bye, my darling! Take her away, my dear John. Take her [[Home|home]]!’
 
 So, she leaning on her husband’s arm, they turned homeward by a rosy
 path which the gracious sun struck out for them in its setting. And O
-there are days in this life, worth life and worth death. And O what a
-bright old song it is, that O ’tis love, ’tis love, ’tis love that makes
+there are days in this life, worth life and worth [[Death|death]]. And O what a
+bright old [[Song|song]] it is, that O ’tis [[Love|love]], ’tis [[Love|love]], ’tis [[Love|love]] that makes
 the world go round!

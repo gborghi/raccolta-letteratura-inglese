@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 5)"
+title: "[[MrPond]] — A Tall Story (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -40,7 +40,7 @@ certain: that he is quite cleared."
 
 
 
-Pond then walked in silence to the desk, which contained the secret
+Pond then walked in [[Silence|silence]] to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
@@ -54,7 +54,7 @@ different people.  He did about twenty things, but he did not speak
 
 again for about three-quarters of an hour.  It was only about the
 
-same time that the stunned and bewildered Butt stumbled into
+same [[Time|time]] that the stunned and bewildered Butt stumbled into
 
 speech.
 
@@ -74,7 +74,7 @@ once more.
 
 
 
-And indeed the riddle revolved more and more on the one thing that
+And indeed the [[Riddle|riddle]] revolved more and more on the one thing that
 
 thief and murderer had left behind him: the enormous misshapen
 
@@ -82,15 +82,15 @@ weapon.  It was not difficult to guess why he had left it behind;
 
 it was so difficult to tug out of the floor that he probably had no
 
-time to try effectually, hearing Pond clattering up the stairs; he
+[[Time|time]] to try effectually, hearing Pond clattering up the stairs; he
 
-thought it wiser to escape somehow, presumably through the window.
+thought it wiser to escape somehow, presumably through the [[Window|window]].
 
-But about the nature of the thing itself it was hard to say
+But about the [[Nature|nature]] of the thing itself it was hard to say
 
 anything, for it seemed quite abnormal.  It was as long as a
 
-claymore; yet it was not upon the pattern of any known sword.  It
+claymore; yet it was not upon the pattern of any known [[Sword|sword]].  It
 
 had no guard or pommel of any kind.  The hilt was as long as the
 
@@ -104,7 +104,7 @@ gazed musingly at this uncouth weapon, which was made very rudely
 
 of iron and wood painted with garish colours; and his thoughts
 
-crept slowly back to that shop across the road that was hung with
+crept slowly back to that shop across the [[Road|road]] that was hung with
 
 strange and savage weapons.  Yet this seemed to be in a somewhat
 
@@ -122,11 +122,11 @@ thing before.
 
 Touching many other things, the darkness began to thin away to a
 
-somewhat dreary dawn.  It was ascertained that poor Arthur's
+somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[arthur|Arthur]]'s
 
 equivocal fiancée had indeed fled; very possibly in company with
 
-the missing plan.  She was known by this time to be a woman quite
+the missing plan.  She was known by this [[Time|time]] to be a woman quite
 
 capable of stealing a document or even stabbing a man.  But it was
 
@@ -140,9 +140,9 @@ the purpose.
 
 
 
-"It would all be as clear as death," said Mr. Butt, bitterly,
+"It would all be as clear as [[Death|death]]," said Mr. Butt, bitterly,
 
-"except for that lumbering, long-hilted short-sword, or whatever it
+"except for that lumbering, long-hilted short-[[Sword|sword]], or whatever it
 
 is.  It never was in Levy's shop.  It never was in Asia or Africa
 
@@ -164,7 +164,7 @@ beginning to understand."
 
 
 
-It has been hinted, with every delicacy, we may hope, that the
+It has been hinted, with every delicacy, we may [[Hope|hope]], that the
 
 attitude of Mr. Pond towards the visits of Mrs. Hartog-Haggard was,
 
@@ -172,7 +172,7 @@ perhaps, rather passive than receptive; that he did not look
 
 forward to them as pants the hart for cooling streams; and that for
 
-him they rather resembled getting into hot water.  It is all the
+him they rather resembled getting into hot [[Water|water]].  It is all the
 
 more worthy of record that, on the last occasion of her bringing
 
@@ -182,7 +182,7 @@ excitement and even of triumph.  He had been right in his
 
 premonitions about the wisdom of folly; and the triumph was truly
 
-the triumph of the fool.  Mrs. Hartog-Haggard gave him the clue
+the triumph of the [[Fool|fool]].  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
@@ -202,7 +202,7 @@ governess.  On the former occasion she had appeared to claim the
 
 fairy-tale used for pantomimes as exclusively English and part of
 
-the healthy innocence of the stately homes of England.  Now she was
+the healthy [[innocence]] of the stately homes of England.  Now she was
 
 denouncing the German woman for taking the children to the
 
@@ -220,9 +220,9 @@ our children's nerves and minds.  Could any other nation be such
 
 fiends, Mr. Pond?  She's been poisoning their poor little minds
 
-with horrors about magicians and magic cats; and now the worst has
+with horrors about magicians and [[Magic|magic]] cats; and now the worst has
 
-happened, as I knew it would.  Well--YOU haven't done anything to
+happened, as I knew it would.  [[Well]]--YOU haven't done anything to
 
 stop it; and my life is simply ruined.  My three girls are all
 

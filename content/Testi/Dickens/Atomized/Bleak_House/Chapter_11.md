@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 11"
+title: "Bleak [[house|House]] — Chapter 11"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,7 +22,7 @@ Our Dear Brother
 A touch on the lawyer’s wrinkled hand as he stands in the dark room,
 irresolute, makes him start and say, “What’s that?”
 
-“It’s me,” returns the old man of the house, whose breath is in his
+“It’s me,” returns the old man of the [[house]], whose breath is in his
 ear. “Can’t you wake him?”
 
 “No.”
@@ -31,7 +31,7 @@ ear. “Can’t you wake him?”
 
 “It’s gone out. Here it is.”
 
-Krook takes it, goes to the fire, stoops over the red embers, and
+Krook takes it, goes to the [[Fire|fire]], stoops over the red embers, and
 tries to get a light. The dying ashes have no light to spare, and his
 endeavours are vain. Muttering, after an ineffectual call to his
 lodger, that he will go downstairs and bring a lighted candle from
@@ -41,7 +41,7 @@ outside.
 
 The welcome light soon shines upon the wall, as Krook comes slowly up
 with his green-eyed cat following at his heels. “Does the man
-generally sleep like this?” inquired the lawyer in a low voice. “Hi!
+generally [[Sleep|sleep]] like this?” inquired the lawyer in a low voice. “Hi!
 I don’t know,” says Krook, shaking his head and lifting his eyebrows.
 “I know next to nothing of his habits except that he keeps himself
 very close.”
@@ -57,8 +57,8 @@ the bedside.
 They look at one another for a moment.
 
 “Send for some doctor! Call for Miss Flite up the stairs, sir. Here’s
-poison by the bed! Call out for Flite, will you?” says Krook, with
-his lean hands spread out above the body like a vampire’s wings.
+[[Poison|poison]] by the bed! Call out for Flite, will you?” says Krook, with
+his lean hands spread out above the [[Body|body]] like a vampire’s wings.
 
 Mr. Tulkinghorn hurries to the landing and calls, “Miss Flite! Flite!
 Make haste, here, whoever you are! Flite!” Krook follows him with his
@@ -75,12 +75,12 @@ Scotch tongue.
 them after a moment’s examination. “He’s just as dead as Phairy!”
 
 Mr. Tulkinghorn (standing by the old portmanteau) inquires if he has
-been dead any time.
+been dead any [[Time|time]].
 
-“Any time, sir?” says the medical gentleman. “It’s probable he wull
+“Any [[Time|time]], sir?” says the medical gentleman. “It’s probable he wull
 have been dead aboot three hours.”
 
-“About that time, I should say,” observes a dark young man on the
+“About that [[Time|time]], I should say,” observes a dark young man on the
 other side of the bed.
 
 “Air you in the maydickle prayfession yourself, sir?” inquires the
@@ -96,7 +96,7 @@ The dark young surgeon passes the candle across and across the face
 and carefully examines the law-writer, who has established his
 pretensions to his name by becoming indeed No one.
 
-“I knew this person by sight very well,” says he. “He has purchased
+“I knew this person by sight very [[Well|well]],” says he. “He has purchased
 opium of me for the last year and a half. Was anybody present related
 to him?” glancing round upon the three bystanders.
 
@@ -105,7 +105,7 @@ the surgeon’s outstretched hand. “He told me once I was the nearest
 relation he had.”
 
 “He has died,” says the surgeon, “of an over-dose of opium, there is
-no doubt. The room is strongly flavoured with it. There is enough
+no [[Doubt|doubt]]. The room is strongly flavoured with it. There is enough
 here now,” taking an old tea-pot from Mr. Krook, “to kill a dozen
 people.”
 
@@ -129,7 +129,7 @@ name his circumstances to me.”
 “Six weeks.”
 
 “He will never pay it!” says the young man, resuming his examination.
-“It is beyond a doubt that he is indeed as dead as Pharaoh; and to
+“It is beyond a [[Doubt|doubt]] that he is indeed as dead as Pharaoh; and to
 judge from his appearance and condition, I should think it a happy
 release. Yet he must have been a good figure when a youth, and I dare
 say, good-looking.” He says this, not unfeelingly, while sitting on
@@ -138,7 +138,7 @@ hand upon the region of the heart. “I recollect once thinking there
 was something in his manner, uncouth as it was, that denoted a fall
 in life. Was that so?” he continues, looking round.
 
-Krook replies, “You might as well ask me to describe the ladies whose
+Krook replies, “You might as [[Well|well]] ask me to describe the ladies whose
 heads of hair I have got in sacks downstairs. Than that he was my
 lodger for a year and a half and lived—or didn’t live—by
 law-writing, I know no more of him.”
@@ -146,7 +146,7 @@ law-writing, I know no more of him.”
 During this dialogue Mr. Tulkinghorn has stood aloof by the old
 portmanteau, with his hands behind him, equally removed, to all
 appearance, from all three kinds of interest exhibited near the
-bed—from the young surgeon’s professional interest in death,
+bed—from the young surgeon’s professional interest in [[Death|death]],
 noticeable as being quite apart from his remarks on the deceased as
 an individual; from the old man’s unction; and the little crazy
 woman’s awe. His imperturbable face has been as inexpressive as his
@@ -162,9 +162,9 @@ professional way.
 “I looked in here,” he observes, “just before you, with the
 intention of giving this deceased man, whom I never saw alive, some
 employment at his trade of copying. I had heard of him from my
-stationer—Snagsby of Cook’s Court. Since no one here knows anything
-about him, it might be as well to send for Snagsby. Ah!” to the
-little crazy woman, who has often seen him in court, and whom he has
+stationer—Snagsby of Cook’s [[Court]]. Since no one here knows anything
+about him, it might be as [[Well|well]] to send for Snagsby. Ah!” to the
+little crazy woman, who has often seen him in [[Court|court]], and whom he has
 often seen, and who proposes, in frightened dumb-show, to go for the
 law-stationer. “Suppose you do!”
 
@@ -175,13 +175,13 @@ stands, ever, near the old portmanteau.
 
 Mr. Snagsby arrives hastily in his grey coat and his black sleeves.
 “Dear me, dear me,” he says; “and it has come to this, has it! Bless
-my soul!”
+my [[Soul|soul]]!”
 
-“Can you give the person of the house any information about this
+“Can you give the person of the [[house]] any information about this
 unfortunate creature, Snagsby?” inquires Mr. Tulkinghorn. “He was in
 arrears with his rent, it seems. And he must be buried, you know.”
 
-“Well, sir,” says Mr. Snagsby, coughing his apologetic cough behind
+“[[Well]], sir,” says Mr. Snagsby, coughing his apologetic cough behind
 his hand, “I really don’t know what advice I could offer, except
 sending for the beadle.”
 
@@ -208,10 +208,10 @@ with his mouth open, looking for somebody to speak next.
 say to me, ‘Snagsby, here’s twenty thousand pound down, ready for you
 in the Bank of England if you’ll only name one of ’em,’ I couldn’t do
 it, sir! About a year and a half ago—to the best of my belief, at
-the time when he first came to lodge at the present rag and bottle
+the [[Time|time]] when he first came to lodge at the present rag and bottle
 shop—”
 
-“That was the time!” says Krook with a nod.
+“That was the [[Time|time]]!” says Krook with a nod.
 
 “About a year and a half ago,” says Mr. Snagsby, strengthened, “he
 came into our place one morning after breakfast, and finding my
@@ -234,11 +234,11 @@ haven’t found Nimrod any work yet!’ or ‘Mr. Snagsby, why didn’t you
 give that eight and thirty Chancery folio in Jarndyce to Nimrod?’ or
 such like. And that is the way he gradually fell into job-work at our
 place; and that is the most I know of him except that he was a quick
-hand, and a hand not sparing of night-work, and that if you gave him
-out, say, five and forty folio on the Wednesday night, you would have
-it brought in on the Thursday morning. All of which—” Mr. Snagsby
+hand, and a hand not sparing of [[Night|night]]-work, and that if you gave him
+out, say, five and forty folio on the Wednesday [[Night|night]], you would have
+it brought in on the [[thursday|Thursday]] morning. All of which—” Mr. Snagsby
 concludes by politely motioning with his hat towards the bed, as much
-as to add, “I have no doubt my honourable friend would confirm if he
+as to add, “I have no [[Doubt|doubt]] my honourable friend would confirm if he
 were in a condition to do it.”
 
 “Hadn’t you better see,” says Mr. Tulkinghorn to Krook, “whether he
@@ -266,14 +266,14 @@ chimney-piece; Miss Flite peeps and trembles just within the door.
 The apt old scholar of the old school, with his dull black breeches
 tied with ribbons at the knees, his large black waistcoat, his
 long-sleeved black coat, and his wisp of limp white neckerchief tied
-in the bow the peerage knows so well, stands in exactly the same
+in the bow the peerage knows so [[Well|well]], stands in exactly the same
 place and attitude.
 
 There are some worthless articles of clothing in the old portmanteau;
 there is a bundle of pawnbrokers’ duplicates, those turnpike tickets
-on the road of poverty; there is a crumpled paper, smelling of opium,
+on the [[Road|road]] of [[Poverty|poverty]]; there is a crumpled paper, smelling of opium,
 on which are scrawled rough memoranda—as, took, such a day, so many
-grains; took, such another day, so many more—begun some time ago, as
+grains; took, such another day, so many more—begun some [[Time|time]] ago, as
 if with the intention of being regularly continued, but soon left
 off. There are a few dirty scraps of newspapers, all referring to
 coroners’ inquests; there is nothing else. They search the cupboard
@@ -289,13 +289,13 @@ won’t do!” Mr. Krook therefore drives her out before him, and she
 goes furtively downstairs, winding her lithe tail and licking her
 lips.
 
-“Good night!” says Mr. Tulkinghorn, and goes home to Allegory and
+“Good [[Night|night]]!” says Mr. Tulkinghorn, and goes [[Home|home]] to [[Allegory]] and
 meditation.
 
-By this time the news has got into the court. Groups of its
+By this [[Time|time]] the news has got into the [[Court|court]]. Groups of its
 inhabitants assemble to discuss the thing, and the outposts of the
 army of observation (principally boys) are pushed forward to Mr.
-Krook’s window, which they closely invest. A policeman has already
+Krook’s [[Window|window]], which they closely invest. A policeman has already
 walked up to the room, and walked down again to the door, where he
 stands like a tower, only condescending to see the boys at his base
 occasionally; but whenever he does see them, they quail and fall
@@ -307,7 +307,7 @@ corner, who is a privileged amateur, as possessing official knowledge
 of life and having to deal with drunken men occasionally, exchanges
 confidential communications with the policeman and has the appearance
 of an impregnable youth, unassailable by truncheons and unconfinable
-in station-houses. People talk across the court out of window, and
+in station-houses. People talk across the [[Court|court]] out of [[Window|window]], and
 bare-headed scouts come hurrying in from Chancery Lane to know what’s
 the matter. The general feeling seems to be that it’s a blessing Mr.
 Krook warn’t made away with first, mingled with a little natural
@@ -316,10 +316,10 @@ beadle arrives.
 
 The beadle, though generally understood in the neighbourhood to be a
 ridiculous institution, is not without a certain popularity for the
-moment, if it were only as a man who is going to see the body. The
+moment, if it were only as a man who is going to see the [[Body|body]]. The
 policeman considers him an imbecile civilian, a remnant of the
 barbarous watchmen times, but gives him admission as something that
-must be borne with until government shall abolish him. The sensation
+must be borne with until [[government]] shall abolish him. The sensation
 is heightened as the tidings spread from mouth to mouth that the
 beadle is on the ground and has gone in.
 
@@ -329,30 +329,30 @@ in want of witnesses for the inquest to-morrow who can tell the
 coroner and jury anything whatever respecting the deceased. Is
 immediately referred to innumerable people who can tell nothing
 whatever. Is made more imbecile by being constantly informed that
-Mrs. Green’s son “was a law-writer his-self and knowed him better
+Mrs. Green’s son “was a law-writer his-[[Self|self]] and knowed him better
 than anybody,” which son of Mrs. Green’s appears, on inquiry, to be
-at the present time aboard a vessel bound for China, three months
+at the present [[Time|time]] aboard a vessel bound for China, three months
 out, but considered accessible by telegraph on application to the
 Lords of the Admiralty. Beadle goes into various shops and parlours,
 examining the inhabitants, always shutting the door first, and by
 exclusion, delay, and general idiotcy exasperating the public.
 Policeman seen to smile to potboy. Public loses interest and
 undergoes reaction. Taunts the beadle in shrill youthful voices with
-having boiled a boy, choruses fragments of a popular song to that
+having boiled a boy, choruses fragments of a popular [[Song|song]] to that
 effect and importing that the boy was made into soup for the
 workhouse. Policeman at last finds it necessary to support the law
 and seize a vocalist, who is released upon the flight of the rest on
 condition of his getting out of this then, come, and cutting it—a
 condition he immediately observes. So the sensation dies off for the
-time; and the unmoved policeman (to whom a little opium, more or
+[[Time|time]]; and the unmoved policeman (to whom a little opium, more or
 less, is nothing), with his shining hat, stiff stock, inflexible
 great-coat, stout belt and bracelet, and all things fitting, pursues
 his lounging way with a heavy tread, beating the palms of his white
 gloves one against the other and stopping now and then at a
 street-corner to look casually about for anything between a lost
-child and a murder.
+[[Child|child]] and a murder.
 
-Under cover of the night, the feeble-minded beadle comes flitting
+Under cover of the [[Night|night]], the feeble-minded beadle comes flitting
 about Chancery Lane with his summonses, in which every juror’s name
 is wrongly spelt, and nothing rightly spelt but the beadle’s own
 name, which nobody can read or wants to know. The summonses served
@@ -362,23 +362,23 @@ arriving, are conducted upstairs, where they leave the great eyes in
 the shutter something new to stare at, in that last shape which
 earthly lodgings take for No one—and for Every one.
 
-And all that night the coffin stands ready by the old portmanteau;
+And all that [[Night|night]] the coffin stands ready by the old portmanteau;
 and the lonely figure on the bed, whose path in life has lain through
 five and forty years, lies there with no more track behind him that
 any one can trace than a deserted infant.
 
-Next day the court is all alive—is like a fair, as Mrs. Perkins,
+Next day the [[Court|court]] is all alive—is like a fair, as Mrs. Perkins,
 more than reconciled to Mrs. Piper, says in amicable conversation
 with that excellent woman. The coroner is to sit in the first-floor
 room at the Sol’s Arms, where the Harmonic Meetings take place twice
 a week and where the chair is filled by a gentleman of professional
 celebrity, faced by Little Swills, the comic vocalist, who hopes
-(according to the bill in the window) that his friends will rally
+(according to the bill in the [[Window|window]]) that his friends will rally
 round him and support first-rate talent. The Sol’s Arms does a brisk
 stroke of business all the morning. Even children so require
 sustaining under the general excitement that a pieman who has
-established himself for the occasion at the corner of the court says
-his brandy-balls go off like smoke. What time the beadle, hovering
+established himself for the occasion at the corner of the [[Court|court]] says
+his brandy-balls go off like smoke. What [[Time|time]] the beadle, hovering
 between the door of Mr. Krook’s establishment and the door of the
 Sol’s Arms, shows the curiosity in his keeping to a few discreet
 spirits and accepts the compliment of a glass of ale or so in return.
@@ -387,7 +387,7 @@ At the appointed hour arrives the coroner, for whom the jurymen are
 waiting and who is received with a salute of skittles from the good
 dry skittle-ground attached to the Sol’s Arms. The coroner frequents
 more public-houses than any man alive. The smell of sawdust, beer,
-tobacco-smoke, and spirits is inseparable in his vocation from death
+tobacco-smoke, and spirits is inseparable in his vocation from [[Death|death]]
 in its most awful shapes. He is conducted by the beadle and the
 landlord to the Harmonic Meeting Room, where he puts his hat on the
 piano and takes a Windsor-chair at the head of a long table formed of
@@ -396,7 +396,7 @@ in endless involutions, made by pots and glasses. As many of the jury
 as can crowd together at the table sit there. The rest get among the
 spittoons and pipes or lean against the piano. Over the coroner’s
 head is a small iron garland, the pendant handle of a bell, which
-rather gives the majesty of the court the appearance of going to be
+rather gives the majesty of the [[Court|court]] the appearance of going to be
 hanged presently.
 
 Call over and swear the jury! While the ceremony is in progress,
@@ -405,20 +405,20 @@ large shirt-collar, with a moist eye and an inflamed nose, who
 modestly takes a position near the door as one of the general public,
 but seems familiar with the room too. A whisper circulates that this
 is Little Swills. It is considered not unlikely that he will get up
-an imitation of the coroner and make it the principal feature of the
+an [[Imitation|imitation]] of the coroner and make it the principal feature of the
 Harmonic Meeting in the evening.
 
-“Well, gentlemen—” the coroner begins.
+“[[Well]], gentlemen—” the coroner begins.
 
-“Silence there, will you!” says the beadle. Not to the coroner,
+“[[Silence]] there, will you!” says the beadle. Not to the coroner,
 though it might appear so.
 
-“Well, gentlemen,” resumes the coroner. “You are impanelled here to
-inquire into the death of a certain man. Evidence will be given
-before you as to the circumstances attending that death, and you will
+“[[Well]], gentlemen,” resumes the coroner. “You are impanelled here to
+inquire into the [[Death|death]] of a certain man. Evidence will be given
+before you as to the circumstances attending that [[Death|death]], and you will
 give your verdict according to the—skittles; they must be stopped,
 you know, beadle!—evidence, and not according to anything else. The
-first thing to be done is to view the body.”
+first thing to be done is to view the [[Body|body]].”
 
 “Make way there!” cries the beadle.
 
@@ -443,7 +443,7 @@ bagatelle-board, and the coal-box. The inquiry proceeds. The jury
 learn how the subject of their inquiry died, and learn no more about
 him. “A very eminent solicitor is in attendance, gentlemen,” says the
 coroner, “who, I am informed, was accidentally present when discovery
-of the death was made, but he could only repeat the evidence you have
+of the [[Death|death]] was made, but he could only repeat the evidence you have
 already heard from the surgeon, the landlord, the lodger, and the
 law-stationer, and it is not necessary to trouble him. Is anybody in
 attendance who knows anything more?”
@@ -455,11 +455,11 @@ you got to say about this?
 
 Why, Mrs. Piper has a good deal to say, chiefly in parentheses and
 without punctuation, but not much to tell. Mrs. Piper lives in the
-court (which her husband is a cabinet-maker), and it has long been
-well beknown among the neighbours (counting from the day next but one
+[[Court|court]] (which her husband is a cabinet-maker), and it has long been
+[[Well|well]] beknown among the neighbours (counting from the day next but one
 before the half-baptizing of Alexander James Piper aged eighteen
 months and four days old on accounts of not being expected to live
-such was the sufferings gentlemen of that child in his gums) as the
+such was the sufferings gentlemen of that [[Child|child]] in his gums) as the
 plaintive—so Mrs. Piper insists on calling the deceased—was
 reported to have sold himself. Thinks it was the plaintive’s air in
 which that report originatinin. See the plaintive often and
@@ -471,12 +471,12 @@ worrited by the children (for children they will ever be and you
 cannot expect them specially if of playful dispositions to be
 Methoozellers which you was not yourself). On accounts of this and
 his dark looks has often dreamed as she see him take a pick-axe from
-his pocket and split Johnny’s head (which the child knows not fear
+his pocket and split Johnny’s head (which the [[Child|child]] knows not [[Fear|fear]]
 and has repeatually called after him close at his eels). Never
 however see the plaintive take a pick-axe or any other wepping far
 from it. Has seen him hurry away when run and called after as if not
-partial to children and never see him speak to neither child nor
-grown person at any time (excepting the boy that sweeps the crossing
+partial to children and never see him speak to neither [[Child|child]] nor
+grown person at any [[Time|time]] (excepting the boy that sweeps the crossing
 down the lane over the way round the corner which if he was here
 would tell you that he has been seen a-speaking to him frequent).
 
@@ -495,21 +495,21 @@ Name, Jo. Nothing else that he knows on. Don’t know that everybody
 has two names. Never heerd of sich a think. Don’t know that Jo is
 short for a longer name. Thinks it long enough for HIM. HE don’t find
 no fault with it. Spell it? No. HE can’t spell it. No father, no
-mother, no friends. Never been to school. What’s home? Knows a
+mother, no friends. Never been to school. What’s [[Home|home]]? Knows a
 broom’s a broom, and knows it’s wicked to tell a lie. Don’t recollect
 who told him about the broom or about the lie, but knows both. Can’t
 exactly say what’ll be done to him arter he’s dead if he tells a lie
 to the gentlemen here, but believes it’ll be something wery bad to
-punish him, and serve him right—and so he’ll tell the truth.
+punish him, and serve him right—and so he’ll tell the [[Truth|truth]].
 
-“This won’t do, gentlemen!” says the coroner with a melancholy shake
+“This won’t do, gentlemen!” says the coroner with a [[Melancholy|melancholy]] shake
 of the head.
 
 “Don’t you think you can receive his evidence, sir?” asks an
 attentive juryman.
 
 “Out of the question,” says the coroner. “You have heard the boy.
-‘Can’t exactly say’ won’t do, you know. We can’t take THAT in a court
+‘Can’t exactly say’ won’t do, you know. We can’t take THAT in a [[Court|court]]
 of justice, gentlemen. It’s terrible depravity. Put the boy aside.”
 
 Boy put aside, to the great edification of the audience, especially
@@ -517,14 +517,14 @@ of Little Swills, the comic vocalist.
 
 Now. Is there any other witness? No other witness.
 
-Very well, gentlemen! Here’s a man unknown, proved to have been in
+Very [[Well|well]], gentlemen! Here’s a man unknown, proved to have been in
 the habit of taking opium in large quantities for a year and a half,
 found dead of too much opium. If you think you have any evidence to
-lead you to the conclusion that he committed suicide, you will come
-to that conclusion. If you think it is a case of accidental death,
+lead you to the conclusion that he committed [[suicide]], you will come
+to that conclusion. If you think it is a case of accidental [[Death|death]],
 you will find a verdict accordingly.
 
-Verdict accordingly. Accidental death. No doubt. Gentlemen, you are
+Verdict accordingly. Accidental [[Death|death]]. No [[Doubt|doubt]]. Gentlemen, you are
 discharged. Good afternoon.
 
 While the coroner buttons his great-coat, Mr. Tulkinghorn and he give
@@ -532,13 +532,13 @@ private audience to the rejected witness in a corner.
 
 That graceless creature only knows that the dead man (whom he
 recognized just now by his yellow face and black hair) was sometimes
-hooted and pursued about the streets. That one cold winter night when
+hooted and pursued about the streets. That one cold [[Winter|winter]] [[Night|night]] when
 he, the boy, was shivering in a doorway near his crossing, the man
 turned to look at him, and came back, and having questioned him and
 found that he had not a friend in the world, said, “Neither have I.
-Not one!” and gave him the price of a supper and a night’s lodging.
+Not one!” and gave him the price of a supper and a [[Night|night]]’s lodging.
 That the man had often spoken to him since and asked him whether he
-slept sound at night, and how he bore cold and hunger, and whether he
+slept sound at [[Night|night]], and how he bore cold and hunger, and whether he
 ever wished to die, and similar strange questions. That when the man
 had no money, he would say in passing, “I am as poor as you to-day,
 Jo,” but that when he had any, he had always (as the boy most
@@ -550,23 +550,23 @@ wished he could have heerd me tell him so. He wos wery good to me, he
 wos!”
 
 As he shuffles downstairs, Mr. Snagsby, lying in wait for him, puts a
-half-crown in his hand. “If you ever see me coming past your crossing
+half-[[Crown|crown]] in his hand. “If you ever see me coming past your crossing
 with my little woman—I mean a lady—” says Mr. Snagsby with his
 finger on his nose, “don’t allude to it!”
 
-For some little time the jurymen hang about the Sol’s Arms
+For some little [[Time|time]] the jurymen hang about the Sol’s Arms
 colloquially. In the sequel, half-a-dozen are caught up in a cloud of
 pipe-smoke that pervades the parlour of the Sol’s Arms; two stroll to
-Hampstead; and four engage to go half-price to the play at night, and
+Hampstead; and four engage to go half-price to the play at [[Night|night]], and
 top up with oysters. Little Swills is treated on several hands. Being
 asked what he thinks of the proceedings, characterizes them (his
 strength lying in a slangular direction) as “a rummy start.” The
 landlord of the Sol’s Arms, finding Little Swills so popular,
 commends him highly to the jurymen and public, observing that for a
-song in character he don’t know his equal and that that man’s
+[[Song|song]] in character he don’t know his equal and that that man’s
 character-wardrobe would fill a cart.
 
-Thus, gradually the Sol’s Arms melts into the shadowy night and then
+Thus, gradually the Sol’s Arms melts into the shadowy [[Night|night]] and then
 flares out of it strong in gas. The Harmonic Meeting hour arriving,
 the gentleman of professional celebrity takes the chair, is faced
 (red-faced) by Little Swills; their friends rally round them and
@@ -582,25 +582,25 @@ lo doll, tippy tol li doll, Dee!
 The jingling piano at last is silent, and the Harmonic friends rally
 round their pillows. Then there is rest around the lonely figure, now
 laid in its last earthly habitation; and it is watched by the gaunt
-eyes in the shutters through some quiet hours of night. If this
+eyes in the shutters through some quiet hours of [[Night|night]]. If this
 forlorn man could have been prophetically seen lying here by the
-mother at whose breast he nestled, a little child, with eyes upraised
+mother at whose breast he nestled, a little [[Child|child]], with eyes upraised
 to her loving face, and soft hand scarcely knowing how to close upon
 the neck to which it crept, what an impossibility the vision would
-have seemed! Oh, if in brighter days the now-extinguished fire within
+have seemed! Oh, if in brighter days the now-extinguished [[Fire|fire]] within
 him ever burned for one woman who held him in her heart, where is
 she, while these ashes are above the ground!
 
-It is anything but a night of rest at Mr. Snagsby’s, in Cook’s Court,
-where Guster murders sleep by going, as Mr. Snagsby himself
+It is anything but a [[Night|night]] of rest at Mr. Snagsby’s, in Cook’s [[Court]],
+where Guster murders [[Sleep|sleep]] by going, as Mr. Snagsby himself
 allows—not to put too fine a point upon it—out of one fit into
 twenty. The occasion of this seizure is that Guster has a tender
 heart and a susceptible something that possibly might have been
-imagination, but for Tooting and her patron saint. Be it what it may,
-now, it was so direfully impressed at tea-time by Mr. Snagsby’s
-account of the inquiry at which he had assisted that at supper-time
+[[Imagination|imagination]], but for Tooting and her patron saint. Be it what it may,
+now, it was so direfully impressed at tea-[[Time|time]] by Mr. Snagsby’s
+account of the inquiry at which he had assisted that at supper-[[Time|time]]
 she projected herself into the kitchen, preceded by a flying Dutch
-cheese, and fell into a fit of unusual duration, which she only came
+[[cheese]], and fell into a fit of unusual duration, which she only came
 out of to go into another, and another, and so on through a chain of
 fits, with short intervals between, of which she has pathetically
 availed herself by consuming them in entreaties to Mrs. Snagsby not
@@ -615,11 +615,11 @@ What question this enthusiastic fowl supposes he settles when he
 strains himself to such an extent, or why he should thus crow (so men
 crow on various triumphant public occasions, however) about what
 cannot be of any moment to him, is his affair. It is enough that
-daylight comes, morning comes, noon comes.
+daylight comes, morning comes, [[Noon|noon]] comes.
 
 Then the active and intelligent, who has got into the morning papers
 as such, comes with his pauper company to Mr. Krook’s and bears off
-the body of our dear brother here departed to a hemmed-in churchyard,
+the [[Body|body]] of our dear brother here departed to a hemmed-in churchyard,
 pestiferous and obscene, whence malignant diseases are communicated
 to the bodies of our dear brothers and sisters who have not departed,
 while our dear brothers and sisters who hang about official
@@ -629,23 +629,23 @@ reject as a savage abomination and a Caffre would shudder at, they
 bring our dear brother here departed to receive Christian burial.
 
 With houses looking on, on every side, save where a reeking little
-tunnel of a court gives access to the iron gate—with every villainy
-of life in action close on death, and every poisonous element of
-death in action close on life—here they lower our dear brother down
+tunnel of a [[Court|court]] gives access to the iron gate—with every villainy
+of life in action close on [[Death|death]], and every poisonous element of
+[[Death|death]] in action close on life—here they lower our dear brother down
 a foot or two, here sow him in corruption, to be raised in
-corruption: an avenging ghost at many a sick-bedside, a shameful
+corruption: an avenging [[Ghost|ghost]] at many a sick-bedside, a shameful
 testimony to future ages how civilization and barbarism walked this
 boastful island together.
 
-Come night, come darkness, for you cannot come too soon or stay too
+Come [[Night|night]], come darkness, for you cannot come too soon or stay too
 long by such a place as this! Come, straggling lights into the
 windows of the ugly houses; and you who do iniquity therein, do it at
 least with this dread scene shut out! Come, flame of gas, burning so
 sullenly above the iron gate, on which the poisoned air deposits its
-witch-ointment slimy to the touch! It is well that you should call to
+[[Witch|witch]]-ointment slimy to the touch! It is [[Well|well]] that you should call to
 every passerby, “Look here!”
 
-With the night comes a slouching figure through the tunnel-court to
+With the [[Night|night]] comes a slouching figure through the tunnel-[[Court|court]] to
 the outside of the iron gate. It holds the gate with its hands and
 looks in between the bars, stands looking in for a little while.
 
@@ -653,7 +653,7 @@ It then, with an old broom it carries, softly sweeps the step and
 makes the archway clean. It does so very busily and trimly, looks in
 again a little while, and so departs.
 
-Jo, is it thou? Well, well! Though a rejected witness, who “can’t
+Jo, is it thou? [[Well]], [[Well|well]]! Though a rejected witness, who “can’t
 exactly say” what will be done to him in greater hands than men’s,
 thou art not quite in outer darkness. There is something like a
 distant ray of light in thy muttered reason for this: “He wos wery

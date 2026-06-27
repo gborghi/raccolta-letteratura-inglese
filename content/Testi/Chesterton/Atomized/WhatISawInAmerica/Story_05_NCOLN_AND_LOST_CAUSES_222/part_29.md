@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 29)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 29)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-parts of America, but the idea of a walking stick would not especially
+parts of [[America]], but the idea of a walking stick would not especially
 
 suggest them to Americans; it would not call up such figures like a
 
@@ -26,7 +26,7 @@ old squire, a man vigorous and even rustic, but trained to hold a
 
 useless staff rather than a useful tool. It might be suggested that
 
-American citizens do at least so far love freedom as to like to have
+American citizens do at least so far [[Love|love]] [[Freedom|freedom]] as to like to have
 
 their hands free. It might be suggested, on the other hand, that they
 
@@ -44,7 +44,7 @@ impression is, and how misleading it is, he could find something like a
 
 parallel in what he himself feels about a fur coat. When I first found
 
-myself among the crowds on the main floor of a New York hotel, my rather
+myself among the crowds on the main floor of a [[New York]] hotel, my rather
 
 exaggerated impression of the luxury of the place was largely produced
 
@@ -102,11 +102,11 @@ the cold until he is warm enough to eat ices. But the point is that the
 
 same coat of fur which in England would indicate the sybarite life may
 
-here very well indicate the strenuous life; just as the same walking
+here very [[Well|well]] indicate the strenuous life; just as the same walking
 
 stick which would here suggest a lounger would in England suggest a
 
-plodder and almost a pilgrim.
+plodder and almost a [[Pilgrim|pilgrim]].
 
 
 
@@ -124,19 +124,19 @@ have come from the careful record of very true facts. They have come
 
 from the fatal power of observing the facts without being able to
 
-observe the truth. They came from seeing the symbol with the most vivid
+observe the [[Truth|truth]]. They came from seeing the symbol with the most vivid
 
 clarity and being blind to all that it symbolises. It is as if a man who
 
-knew no Greek should imagine that he could read a Greek inscription
+knew no Greek should imagine that he could read a Greek [[Inscription|inscription]]
 
 because he took the Greek R for an English P or the Greek long E for an
 
 English H. I do not mention this merely as a criticism on other people's
 
-impressions of America, but as a criticism on my own. I wish it to be
+impressions of [[America]], but as a criticism on my own. I wish it to be
 
-understood that I am well aware that all my views are subject to this
+understood that I am [[Well|well]] aware that all my views are subject to this
 
 sort of potential criticism, and that even when I am certain of the
 
@@ -144,7 +144,7 @@ facts I do not profess to be certain of the deductions.
 
 
 
-In this chapter I hope to point out how a misunderstanding of this kind
+In this chapter I [[Hope|hope]] to point out how a misunderstanding of this kind
 
 affects the common impression, not altogether unfounded, that the
 
@@ -152,7 +152,7 @@ Americans talk about dollars. But for the moment I am merely anxious to
 
 avoid a similar misunderstanding when I talk about Americans. About the
 
-dogmas of democracy, about the right of a people to its own symbols,
+dogmas of [[democracy]], about the right of a people to its own symbols,
 
 whether they be coins or customs, I am convinced, and no longer to be
 
@@ -166,17 +166,17 @@ ready, at the start, to warn my own readers against my own opinions.
 
 
 
-The fact without the truth is futile; indeed the fact without the truth
+The fact without the [[Truth|truth]] is futile; indeed the fact without the [[Truth|truth]]
 
 is false. I have already noted that this is especially true touching our
 
 observations of a strange country; and it is certainly true touching one
 
-small fact which has swelled into a large fable. I mean the fable about
+small fact which has swelled into a large [[Fable|fable]]. I mean the [[Fable|fable]] about
 
-America commonly summed up in the phrase about the Almighty Dollar. I do
+[[America]] commonly summed up in the phrase about the Almighty Dollar. I do
 
-not think the dollar is almighty in America; I fancy many things are
+not think the dollar is almighty in [[America]]; I fancy many things are
 
 mightier, including many ideals and some rather insane ideals. But I
 

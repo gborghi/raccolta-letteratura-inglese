@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Chapter 8 (part 6)"
+title: "[[CharlesDickens]] — Chapter 8 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 The effect is bad; but I repeat that the aim was great.
 Dickens wished, under the symbol of Skimpole, to point out a
-truth which is perhaps the most terrible in moral psychology.
+[[Truth|truth]] which is perhaps the most terrible in moral psychology.
 I mean the fact that it is by no means easy to draw the line
 between light and heavy offence.  He desired to show that there
 are no faults, however kindly, that we can afford to flatter
-or to let alone; he meant that perhaps Skimpole had once
-been as good a man as Swiveller.  If flattered or let alone,
+or to let [[Alone|alone]]; he meant that perhaps Skimpole had once
+been as good a man as Swiveller.  If flattered or let [[Alone|alone]],
 our kindliest fault can destroy our kindliest virtue.
 A thing may begin as a very human weakness and end as a very
 inhuman weakness.  Skimpole means that the extremes of evil are
@@ -37,27 +37,27 @@ there is no such thing (he meant) as a peccadillo.
 
 I have dwelt on this consciousness of his because, alas, it had
 a very sharp edge for himself.  Even while he was permitting a fault
-originally small to make a comedy of Skimpole, a fault originally
-small was making a tragedy of Charles Dickens.  For Dickens
+originally small to make a [[Comedy|comedy]] of Skimpole, a fault originally
+small was making a [[Tragedy|tragedy]] of Charles Dickens.  For Dickens
 also had a bad quality, not intrinsically very terrible,
 which he allowed to wreck his life.  He also had a small weakness
 that could sometimes become stronger than all his strengths.
 His selfishness was not, it need hardly be said, the selfishness
 of Gradgrind; he was particularly compassionate and liberal.
 Nor was it in the least the selfishness of Skimpole.  He was
-entirely self-dependent, industrious, and dignified.
+entirely [[Self|self]]-dependent, industrious, and dignified.
 His selfishness was wholly a selfishness of the nerves.
 Whatever his whim or the temperature of the instant told
 him to do must be done.  He was the type of man who would
-break a window if it would not open and give him air.
-And this weakness of his had, by the time of which we speak,
+break a [[Window|window]] if it would not open and give him air.
+And this weakness of his had, by the [[Time|time]] of which we speak,
 led to a breach between himself and his wife which
-he was too exasperated and excited to heal in time.
+he was too exasperated and excited to heal in [[Time|time]].
 Everything must be put right, and put right at once, with him.
-If London bored him, he must go to the Continent at once;
-if the Continent bored him, he must come back to London at once.
+If [[London]] bored him, he must go to the Continent at once;
+if the Continent bored him, he must come back to [[London]] at once.
 If the day was too noisy, the whole household must be quiet;
-if night was too quiet, the whole household must wake up.
+if [[Night|night]] was too quiet, the whole household must wake up.
 Above all, he had the supreme character of the domestic despot--
 that his good temper was, if possible, more despotic than
 his bad temper.  When he was miserable (as he often was,
@@ -71,5 +71,5 @@ little weakness at all; he pampered it as Skimpole pampered his.
 And it separated him and his wife.  A mere silly trick of temperament
 did everything that the blackest misconduct could have done.
 A random sensibility, started about the shuffling of papers
-or the shutting of a window, ended by tearing two clean,
+or the shutting of a [[Window|window]], ended by tearing two clean,
 Christian people from each other, like a blast of bigamy or adultery.

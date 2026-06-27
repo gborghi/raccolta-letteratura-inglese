@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 56"
+title: "Bleak [[house|House]] — Chapter 56"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,28 +19,28 @@ CHAPTER LVI
 Pursuit
 
 
-Impassive, as behoves its high breeding, the Dedlock town house
+Impassive, as behoves its high breeding, the Dedlock town [[house]]
 stares at the other houses in the street of dismal grandeur and gives
 no outward sign of anything going wrong within. Carriages rattle,
 doors are battered at, the world exchanges calls; ancient charmers
-with skeleton throats, and peachy cheeks that have a rather ghastly
+with [[skeleton]] throats, and peachy cheeks that have a rather ghastly
 bloom upon them seen by daylight, when indeed these fascinating
-creatures look like Death and the Lady fused together, dazzle the
+creatures look like [[Death]] and the Lady fused together, dazzle the
 eyes of men. Forth from the frigid mews come easily swinging
 carriages guided by short-legged coachmen in flaxen wigs, deep sunk
 into downy hammercloths, and up behind mount luscious Mercuries
 bearing sticks of state and wearing cocked hats broadwise, a
 spectacle for the angels.
 
-The Dedlock town house changes not externally, and hours pass before
-its exalted dullness is disturbed within. But Volumnia the fair,
+The Dedlock town [[house]] changes not externally, and hours pass before
+its exalted dullness is disturbed within. But [[Volumnia]] the fair,
 being subject to the prevalent complaint of boredom and finding that
 disorder attacking her spirits with some virulence, ventures at
 length to repair to the library for change of scene. Her gentle
 tapping at the door producing no response, she opens it and peeps in;
 seeing no one there, takes possession.
 
-The sprightly Dedlock is reputed, in that grass-grown city of the
+The sprightly Dedlock is reputed, in that grass-grown [[City|city]] of the
 ancients, Bath, to be stimulated by an urgent curiosity which impels
 her on all convenient and inconvenient occasions to sidle about with
 a golden glass at her eye, peering into objects of every description.
@@ -53,10 +53,10 @@ these researches she stumbles over something, and turning her glass
 in that direction, sees her kinsman lying on the ground like a felled
 tree.
 
-Volumnia’s pet little scream acquires a considerable augmentation of
-reality from this surprise, and the house is quickly in commotion.
-Servants tear up and down stairs, bells are violently rung, doctors
-are sent for, and Lady Dedlock is sought in all directions, but not
+[[Volumnia]]’s pet little scream acquires a considerable augmentation of
+reality from this surprise, and the [[house]] is quickly in commotion.
+Servants tear up and down stairs, [[Bells|bells]] are violently rung, doctors
+are sent for, and [[Lady Dedlock]] is sought in all directions, but not
 found. Nobody has seen or heard her since she last rang her bell. Her
 letter to Sir Leicester is discovered on her table, but it is
 doubtful yet whether he has not received another missive from another
@@ -65,15 +65,15 @@ languages, and all the dead, are as one to him.
 
 They lay him down upon his bed, and chafe, and rub, and fan, and put
 ice to his head, and try every means of restoration. Howbeit, the day
-has ebbed away, and it is night in his room before his stertorous
+has ebbed away, and it is [[Night|night]] in his room before his stertorous
 breathing lulls or his fixed eyes show any consciousness of the
 candle that is occasionally passed before them. But when this change
 begins, it goes on; and by and by he nods or moves his eyes or even
 his hand in token that he hears and comprehends.
 
 He fell down, this morning, a handsome stately gentleman, somewhat
-infirm, but of a fine presence, and with a well-filled face. He lies
-upon his bed, an aged man with sunken cheeks, the decrepit shadow of
+infirm, but of a fine presence, and with a [[Well|well]]-filled face. He lies
+upon his bed, an aged man with sunken cheeks, the decrepit [[Shadow|shadow]] of
 himself. His voice was rich and mellow and he had so long been
 thoroughly persuaded of the weight and import to mankind of any word
 he said that his words really had come to sound as if there were
@@ -87,16 +87,16 @@ signs for a pencil. So inexpressively that they cannot at first
 understand him; it is his old housekeeper who makes out what he wants
 and brings in a slate.
 
-After pausing for some time, he slowly scrawls upon it in a hand that
+After pausing for some [[Time|time]], he slowly scrawls upon it in a hand that
 is not his, “Chesney Wold?”
 
-No, she tells him; he is in London. He was taken ill in the library
+No, she tells him; he is in [[London]]. He was taken ill in the library
 this morning. Right thankful she is that she happened to come to
-London and is able to attend upon him.
+[[London]] and is able to attend upon him.
 
 “It is not an illness of any serious consequence, Sir Leicester. You
 will be much better to-morrow, Sir Leicester. All the gentlemen say
-so.” This, with the tears coursing down her fair old face.
+so.” This, with the [[Tears|tears]] coursing down her fair old face.
 
 After making a survey of the room and looking with particular
 attention all round the bed where the doctors stand, he writes, “My
@@ -133,31 +133,31 @@ Mr. Bucket is found to be downstairs, by appointment. Shall he come
 up?
 
 There is no possibility of misconstruing Sir Leicester’s burning wish
-to see him or the desire he signifies to have the room cleared of
+to see him or the [[Desire|desire]] he signifies to have the room cleared of
 every one but the housekeeper. It is speedily done, and Mr. Bucket
 appears. Of all men upon earth, Sir Leicester seems fallen from his
 high estate to place his sole trust and reliance upon this man.
 
-“Sir Leicester Dedlock, Baronet, I’m sorry to see you like this. I
-hope you’ll cheer up. I’m sure you will, on account of the family
+“[[Sir Leicester Dedlock]], Baronet, I’m sorry to see you like this. I
+[[Hope|hope]] you’ll cheer up. I’m sure you will, on account of the family
 credit.”
 
 Sir Leicester puts her letter in his hands and looks intently in his
 face while he reads it. A new intelligence comes into Mr. Bucket’s
 eye as he reads on; with one hook of his finger, while that eye is
-still glancing over the words, he indicates, “Sir Leicester Dedlock,
+still glancing over the words, he indicates, “[[Sir Leicester Dedlock]],
 Baronet, I understand you.”
 
-Sir Leicester writes upon the slate. “Full forgiveness. Find—” Mr.
+Sir Leicester writes upon the slate. “Full [[Forgiveness|forgiveness]]. Find—” Mr.
 Bucket stops his hand.
 
-“Sir Leicester Dedlock, Baronet, I’ll find her. But my search after
+“[[Sir Leicester Dedlock]], Baronet, I’ll find her. But my search after
 her must be begun out of hand. Not a minute must be lost.”
 
-With the quickness of thought, he follows Sir Leicester Dedlock’s
+With the quickness of thought, he follows [[Sir Leicester Dedlock]]’s
 look towards a little box upon a table.
 
-“Bring it here, Sir Leicester Dedlock, Baronet? Certainly. Open it
+“Bring it here, [[Sir Leicester Dedlock]], Baronet? Certainly. Open it
 with one of these here keys? Certainly. The littlest key? TO be sure.
 Take the notes out? So I will. Count ’em? That’s soon done. Twenty
 and thirty’s fifty, and twenty’s seventy, and fifty’s one twenty, and
@@ -167,7 +167,7 @@ account of course. Don’t spare money? No I won’t.”
 The velocity and certainty of Mr. Bucket’s interpretation on all
 these heads is little short of miraculous. Mrs. Rouncewell, who holds
 the light, is giddy with the swiftness of his eyes and hands as he
-starts up, furnished for his journey.
+starts up, furnished for his [[Journey|journey]].
 
 “You’re George’s mother, old lady; that’s about what you are, I
 believe?” says Mr. Bucket aside, with his hat already on and
@@ -175,10 +175,10 @@ buttoning his coat.
 
 “Yes, sir, I am his distressed mother.”
 
-“So I thought, according to what he mentioned to me just now. Well,
+“So I thought, according to what he mentioned to me just now. [[Well]],
 then, I’ll tell you something. You needn’t be distressed no more.
 Your son’s all right. Now, don’t you begin a-crying, because what
-you’ve got to do is to take care of Sir Leicester Dedlock, Baronet,
+you’ve got to do is to take care of [[Sir Leicester Dedlock]], Baronet,
 and you won’t do that by crying. As to your son, he’s all right, I
 tell you; and he sends his loving duty, and hoping you’re the same.
 He’s discharged honourable; that’s about what HE is; with no more
@@ -187,20 +187,20 @@ tidy one, I’LL bet a pound. You may trust me, for I took your son. He
 conducted himself in a game way, too, on that occasion; and he’s a
 fine-made man, and you’re a fine-made old lady, and you’re a mother
 and son, the pair of you, as might be showed for models in a caravan.
-Sir Leicester Dedlock, Baronet, what you’ve trusted to me I’ll go
+[[Sir Leicester Dedlock]], Baronet, what you’ve trusted to me I’ll go
 through with. Don’t you be afraid of my turning out of my way, right
-or left, or taking a sleep, or a wash, or a shave till I have found
+or left, or taking a [[Sleep|sleep]], or a wash, or a shave till I have found
 what I go in search of. Say everything as is kind and forgiving on
-your part? Sir Leicester Dedlock, Baronet, I will. And I wish you
+your part? [[Sir Leicester Dedlock]], Baronet, I will. And I wish you
 better, and these family affairs smoothed over—as, Lord, many other
 family affairs equally has been, and equally will be, to the end of
-time.”
+[[Time|time]].”
 
 With this peroration, Mr. Bucket, buttoned up, goes quietly out,
-looking steadily before him as if he were already piercing the night
-in quest of the fugitive.
+looking steadily before him as if he were already piercing the [[Night|night]]
+in [[Quest|quest]] of the fugitive.
 
-His first step is to take himself to Lady Dedlock’s rooms and look
+His first step is to take himself to [[Lady Dedlock]]’s rooms and look
 all over them for any trifling indication that may help him. The
 rooms are in darkness now; and to see Mr. Bucket with a wax-light in
 his hand, holding it above his head and taking a sharp mental
@@ -214,7 +214,7 @@ cost a sight of money. Rum articles to cut away from, these; she must
 have been hard put to it!”
 
 Opening and shutting table-drawers and looking into caskets and
-jewel-cases, he sees the reflection of himself in various mirrors,
+[[Jewel|jewel]]-cases, he sees the reflection of himself in various mirrors,
 and moralizes thereon.
 
 “One might suppose I was a-moving in the fashionable circles and
@@ -231,21 +231,21 @@ light. “What should YOU be kept by yourself for? What’s YOUR motive?
 Are you her ladyship’s property, or somebody else’s? You’ve got a
 mark upon you somewheres or another, I suppose?”
 
-He finds it as he speaks, “Esther Summerson.”
+He finds it as he speaks, “[[Esther Summerson]].”
 
 “Oh!” says Mr. Bucket, pausing, with his finger at his ear. “Come,
 I’ll take YOU.”
 
 He completes his observations as quietly and carefully as he has
-carried them on, leaves everything else precisely as he found it,
+carried them on, [[Leaves|leaves]] everything else precisely as he found it,
 glides away after some five minutes in all, and passes into the
 street. With a glance upward at the dimly lighted windows of Sir
 Leicester’s room, he sets off, full-swing, to the nearest
-coach-stand, picks out the horse for his money, and directs to be
+coach-stand, picks out the [[Horse|horse]] for his money, and directs to be
 driven to the shooting gallery. Mr. Bucket does not claim to be a
 scientific judge of horses, but he lays out a little money on the
 principal events in that line, and generally sums up his knowledge of
-the subject in the remark that when he sees a horse as can go, he
+the subject in the remark that when he sees a [[Horse|horse]] as can go, he
 knows him.
 
 His knowledge is not at fault in the present instance. Clattering
@@ -254,9 +254,9 @@ keen eyes to bear on every slinking creature whom he passes in the
 midnight streets, and even on the lights in upper windows where
 people are going or gone to bed, and on all the turnings that he
 rattles by, and alike on the heavy sky, and on the earth where the
-snow lies thin—for something may present itself to assist him,
-anywhere—he dashes to his destination at such a speed that when he
-stops the horse half smothers him in a cloud of steam.
+[[Snow|snow]] lies thin—for something may present itself to assist him,
+anywhere—he dashes to his destination at such a [[Speed|speed]] that when he
+stops the [[Horse|horse]] half smothers him in a cloud of steam.
 
 “Unbear him half a moment to freshen him up, and I’ll be back.”
 
@@ -264,46 +264,46 @@ He runs up the long wooden entry and finds the trooper smoking his
 pipe.
 
 “I thought I should, George, after what you have gone through, my
-lad. I haven’t a word to spare. Now, honour! All to save a woman.
+lad. I haven’t a word to spare. Now, [[Honour|honour]]! All to save a woman.
 Miss Summerson that was here when Gridley died—that was the name, I
 know—all right—where does she live?”
 
 The trooper has just come from there and gives him the address, near
-Oxford Street.
+[[Oxford]] Street.
 
-“You won’t repent it, George. Good night!”
+“You won’t repent it, George. Good [[Night|night]]!”
 
 He is off again, with an impression of having seen Phil sitting by
-the frosty fire staring at him open-mouthed, and gallops away again,
+the frosty [[Fire|fire]] staring at him open-mouthed, and gallops away again,
 and gets out in a cloud of steam again.
 
-Mr. Jarndyce, the only person up in the house, is just going to bed,
+Mr. Jarndyce, the only person up in the [[house]], is just going to bed,
 rises from his book on hearing the rapid ringing at the bell, and
 comes down to the door in his dressing-gown.
 
 “Don’t be alarmed, sir.” In a moment his visitor is confidential with
 him in the hall, has shut the door, and stands with his hand upon the
-lock. “I’ve had the pleasure of seeing you before. Inspector Bucket.
-Look at that handkerchief, sir, Miss Esther Summerson’s. Found it
-myself put away in a drawer of Lady Dedlock’s, quarter of an hour
-ago. Not a moment to lose. Matter of life or death. You know Lady
+lock. “I’ve had the pleasure of seeing you before. [[Inspector Bucket]].
+Look at that handkerchief, sir, Miss [[Esther Summerson]]’s. Found it
+myself put away in a drawer of [[Lady Dedlock]]’s, quarter of an hour
+ago. Not a moment to lose. Matter of life or [[Death|death]]. You know Lady
 Dedlock?”
 
 “Yes.”
 
 “There has been a discovery there to-day. Family affairs have come
-out. Sir Leicester Dedlock, Baronet, has had a fit—apoplexy or
-paralysis—and couldn’t be brought to, and precious time has been
-lost. Lady Dedlock disappeared this afternoon and left a letter for
+out. [[Sir Leicester Dedlock]], Baronet, has had a fit—apoplexy or
+paralysis—and couldn’t be brought to, and precious [[Time|time]] has been
+lost. [[Lady Dedlock]] disappeared this afternoon and left a letter for
 him that looks bad. Run your eye over it. Here it is!”
 
 Mr. Jarndyce, having read it, asks him what he thinks.
 
-“I don’t know. It looks like suicide. Anyways, there’s more and more
+“I don’t know. It looks like [[suicide]]. Anyways, there’s more and more
 danger, every minute, of its drawing to that. I’d give a hundred
-pound an hour to have got the start of the present time. Now, Mr.
-Jarndyce, I am employed by Sir Leicester Dedlock, Baronet, to follow
-her and find her, to save her and take her his forgiveness. I have
+pound an hour to have got the start of the present [[Time|time]]. Now, Mr.
+Jarndyce, I am employed by [[Sir Leicester Dedlock]], Baronet, to follow
+her and find her, to save her and take her his [[Forgiveness|forgiveness]]. I have
 money and full power, but I want something else. I want Miss
 Summerson.”
 
@@ -314,11 +314,11 @@ attention all along—“I speak to you as a gentleman of a humane
 heart, and under such pressing circumstances as don’t often happen.
 If ever delay was dangerous, it’s dangerous now; and if ever you
 couldn’t afterwards forgive yourself for causing it, this is the
-time. Eight or ten hours, worth, as I tell you, a hundred pound
-apiece at least, have been lost since Lady Dedlock disappeared. I am
-charged to find her. I am Inspector Bucket. Besides all the rest
+[[Time|time]]. Eight or ten hours, worth, as I tell you, a hundred pound
+apiece at least, have been lost since [[Lady Dedlock]] disappeared. I am
+charged to find her. I am [[Inspector Bucket]]. Besides all the rest
 that’s heavy on her, she has upon her, as she believes, suspicion of
-murder. If I follow her alone, she, being in ignorance of what Sir
+murder. If I follow her [[Alone|alone]], she, being in ignorance of what Sir
 Leicester Dedlock, Baronet, has communicated to me, may be driven to
 desperation. But if I follow her in company with a young lady,
 answering to the description of a young lady that she has a
@@ -326,17 +326,17 @@ tenderness for—I ask no question, and I say no more than that—she
 will give me credit for being friendly. Let me come up with her and
 be able to have the hold upon her of putting that young lady for’ard,
 and I’ll save her and prevail with her if she is alive. Let me come
-up with her alone—a hard matter—and I’ll do my best, but I don’t
-answer for what the best may be. Time flies; it’s getting on for one
-o’clock. When one strikes, there’s another hour gone, and it’s worth
+up with her [[Alone|alone]]—a hard matter—and I’ll do my best, but I don’t
+answer for what the best may be. [[Time]] flies; it’s getting on for one
+o’[[Clock|clock]]. When one strikes, there’s another hour gone, and it’s worth
 a thousand pound now instead of a hundred.”
 
-This is all true, and the pressing nature of the case cannot be
+This is all true, and the pressing [[Nature|nature]] of the case cannot be
 questioned. Mr. Jarndyce begs him to remain there while he speaks to
 Miss Summerson. Mr. Bucket says he will, but acting on his usual
 principle, does no such thing, following upstairs instead and keeping
 his man in sight. So he remains, dodging and lurking about in the
-gloom of the staircase while they confer. In a very little time Mr.
+gloom of the staircase while they confer. In a very little [[Time|time]] Mr.
 Jarndyce comes down and tells him that Miss Summerson will join him
 directly and place herself under his protection to accompany him
 where he pleases. Mr. Bucket, satisfied, expresses high approval and
@@ -347,22 +347,22 @@ Many solitary figures he perceives creeping through the streets; many
 solitary figures out on heaths, and roads, and lying under haystacks.
 But the figure that he seeks is not among them. Other solitaries he
 perceives, in nooks of bridges, looking over; and in shadowed places
-down by the river’s level; and a dark, dark, shapeless object
+down by the [[River|river]]’s level; and a dark, dark, shapeless object
 drifting with the tide, more solitary than all, clings with a
 drowning hold on his attention.
 
 Where is she? Living or dead, where is she? If, as he folds the
 handkerchief and carefully puts it up, it were able with an enchanted
 power to bring before him the place where she found it and the
-night-landscape near the cottage where it covered the little child,
+[[Night|night]]-landscape near the cottage where it covered the little [[Child|child]],
 would he descry her there? On the waste where the brick-kilns are
 burning with a pale blue flare, where the straw-roofs of the wretched
-huts in which the bricks are made are being scattered by the wind,
-where the clay and water are hard frozen and the mill in which the
-gaunt blind horse goes round all day looks like an instrument of
+huts in which the bricks are made are being scattered by the [[Wind|wind]],
+where the clay and [[Water|water]] are hard frozen and the mill in which the
+gaunt blind [[Horse|horse]] goes round all day looks like an instrument of
 human torture—traversing this deserted, blighted spot there is a
-lonely figure with the sad world to itself, pelted by the snow and
-driven by the wind, and cast out, it would seem, from all
+lonely figure with the sad world to itself, pelted by the [[Snow|snow]] and
+driven by the [[Wind|wind]], and cast out, it would seem, from all
 companionship. It is the figure of a woman, too; but it is miserably
 dressed, and no such clothes ever came through the hall and out at
 the great door of the Dedlock mansion.

@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 1)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -84,13 +84,13 @@ supreme skill and valour of the Germans in repelling such an attack.
 
 Somehow it must be made a common and obvious collapse for England; and yet
 
-a daring and unexpected triumph for Germany. In trying to express these
+a daring and unexpected triumph for [[Germany]]. In trying to express these
 
 contradictory conceptions simultaneously, he got rather mixed. Therefore he
 
-bade Germania fill all her vales and mountains with the dying agonies of
+bade Germania fill all her vales and [[Mountains|mountains]] with the dying agonies of
 
-this almost invisible earwig; and let the impure blood of this cockroach
+this almost invisible earwig; and let the impure [[Blood|blood]] of this cockroach
 
 redden the Rhine down to the sea.
 
@@ -114,7 +114,7 @@ Prussians have strictly observed both in breach and observance. We note it
 
 in their open annexation of lands wholly inhabited by negroes, such as
 
-Denmark. We note it equally in their instant and joyful recognition of the
+[[Denmark]]. We note it equally in their instant and joyful recognition of the
 
 flaxen hair and light blue eyes of the Turks. But it is still the abstract
 
@@ -122,7 +122,7 @@ principle of Professor Harnack which interests me most; and in following it
 
 I have the same complexity of enquiry, but the same simplicity of result.
 
-Comparing the Professor's concern about "Teutonism" with his unconcern
+Comparing [[The Professor|the Professor]]'s concern about "Teutonism" with his unconcern
 
 about Belgium, I can only reach the following result: "A man need not keep
 
@@ -138,11 +138,11 @@ scrap of waste-paper. Here again the pendants under consideration exhibit
 
 the illogical perversity that makes the brain reel. There is obligation and
 
-there is no obligation: sometimes it appears that Germany and England must
+there is no obligation: sometimes it appears that [[Germany]] and England must
 
-keep faith with each other; sometimes that Germany need not keep faith with
+keep [[Faith|faith]] with each other; sometimes that [[Germany]] need not keep [[Faith|faith]] with
 
-anybody and anything; sometimes that we alone among European peoples are
+anybody and anything; sometimes that we [[Alone|alone]] among European peoples are
 
 almost entitled to be Germans; sometimes that beside us Russians and
 
@@ -156,7 +156,7 @@ Teutonism.
 
 Professor Haeckel, another of the witnesses raised up against us, attained
 
-to some celebrity at one time through proving the remarkable resemblance
+to some celebrity at one [[Time|time]] through proving the remarkable resemblance
 
 between two different things by printing duplicate pictures of the same
 
@@ -168,7 +168,7 @@ Harnack knows what a German is like. When he wants to imagine what an
 
 Englishman is like, he simply photographs the same German over again. In
 
-both cases there is probably sincerity as well as simplicity. Haeckel was
+both cases there is probably sincerity as [[Well|well]] as simplicity. Haeckel was
 
 so certain that the species illustrated in embryo really are closely
 
@@ -192,4 +192,4 @@ sense that neither of them are negroes. They are, in everything good and
 
 evil, more unlike than any other two men we can take at random from the
 
-great European family. They are opposite from the roots of their history,
+great European family. They are opposite from the roots of their [[history]],

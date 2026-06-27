@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 47 (part 5)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,9 +20,9 @@ latter: it would not do to keep him always with Rachel, and I dare not
 
 leave him for a moment with any of the other servants, or suffer him to
 
-be alone, lest he should meet them. If his father get worse, I shall
+be [[Alone|alone]], lest he should meet them. If his father get worse, I shall
 
-ask Esther Hargrave to take charge of him for a time, till I have
+ask Esther Hargrave to take charge of him for a [[Time|time]], till I have
 
 reorganised the household at least; but I greatly prefer keeping him
 
@@ -32,7 +32,7 @@ under my own eye.
 
 I find myself in rather a singular position: I am exerting my utmost
 
-endeavours to promote the recovery and reformation of my husband, and
+endeavours to promote the recovery and [[Reformation|reformation]] of my husband, and
 
 if I succeed, what shall I do? My duty, of course,—but how? No matter;
 
@@ -42,7 +42,7 @@ strength to do whatever He requires hereafter. Good-by, dear Frederick.
 
 
 
-HELEN HUNTINGDON.
+[[Helen Huntingdon|HELEN HUNTINGDON]].
 
 
 
@@ -82,7 +82,7 @@ words conceived in her mind, and many of them spoken by her lips?”
 
 
 
-“Well,” said he. And so I kept it; otherwise, Halford, you could never
+“[[Well]],” said he. And so I kept it; otherwise, Halford, you could never
 
 have become so thoroughly acquainted with its contents.
 
@@ -92,7 +92,7 @@ have become so thoroughly acquainted with its contents.
 
 I may be permitted to enlighten my mother and sister on her real
 
-history and circumstance, just so far as is necessary to make the
+[[history]] and circumstance, just so far as is necessary to make the
 
 neighbourhood sensible of the shameful injustice they have done her? I
 
@@ -106,7 +106,7 @@ virtuous as to refrain.”
 
 
 
-“Well, I’ll do this for you, Markham.”
+“[[Well]], I’ll do this for you, Markham.”
 
 
 
@@ -114,4 +114,4 @@ virtuous as to refrain.”
 
 
 
-“If all be well, I’ll come myself and tell you immediately.”
+“If all be [[Well|well]], I’ll come myself and tell you immediately.”

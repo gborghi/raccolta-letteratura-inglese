@@ -29,6 +29,6 @@ And `Beauty and the Beast' is the embodiment of the third
 of the paradoxes by which men live:  the paradox of Faith--
 the absolutely necessary and wildly unreasonable maxim which says
 to every mother with a child or to every patriot with a country,
-`You must love the thing first and make it lovable after wards.'
+`You must [[Love|love]] the thing first and make it lovable after wards.'
 
                                            The World, September 27th, 1904

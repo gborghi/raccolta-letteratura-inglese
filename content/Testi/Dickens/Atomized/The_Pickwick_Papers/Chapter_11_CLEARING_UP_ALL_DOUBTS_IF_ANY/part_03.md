@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘My friend,’ said the thin gentleman.
 
 ‘You’re one o’ the adwice gratis order,’ thought Sam, ‘or you wouldn’t
-be so wery fond o’ me all at once.’ But he only said--‘Well, Sir.’
+be so wery fond o’ me all at once.’ But he only said--‘[[Well]], Sir.’
 
 ‘My friend,’ said the thin gentleman, with a conciliatory hem--‘have you
 got many people stopping here now? Pretty busy. Eh?’
@@ -35,16 +35,16 @@ some regular posers.
 
 ‘Pretty busy, eh?’ said the little man.
 
-‘Oh, wery well, Sir,’ replied Sam, ‘we shan’t be bankrupts, and we
+‘Oh, wery [[Well|well]], Sir,’ replied Sam, ‘we shan’t be bankrupts, and we
 shan’t make our fort’ns. We eats our biled mutton without capers, and
-don’t care for horse-radish ven ve can get beef.’
+don’t care for [[Horse|horse]]-radish ven ve can get beef.’
 
 ‘Ah,’ said the little man, ‘you’re a wag, ain’t you?’
 
 ‘My eldest brother was troubled with that complaint,’ said Sam; ‘it may
-be catching--I used to sleep with him.’
+be catching--I used to [[Sleep|sleep]] with him.’
 
-‘This is a curious old house of yours,’ said the little man, looking
+‘This is a curious old [[house]] of yours,’ said the little man, looking
 round him.
 
 ‘If you’d sent word you was a-coming, we’d ha’ had it repaired;’ replied
@@ -69,22 +69,22 @@ must in no way interfere in the progress of the business; you must
 repose implicit confidence in him. Really, Mr.--’ He turned to the other
 plump gentleman, and said, ‘I forget your friend’s name.’
 
-‘Pickwick,’ said Mr. Wardle, for it was no other than that jolly
+‘[[Pickwick]],’ said Mr. Wardle, for it was no other than that jolly
 personage.
 
-‘Ah, Pickwick--really Mr. Pickwick, my dear Sir, excuse me--I shall be
+‘Ah, [[Pickwick]]--really Mr. [[Pickwick]], my dear Sir, excuse me--I shall be
 happy to receive any private suggestions of yours, as AMICUS CURIAE, but
 you must see the impropriety of your interfering with my conduct in this
 case, with such an AD CAPTANDUM argument as the offer of half a guinea.
 Really, my dear Sir, really;’ and the little man took an argumentative
 pinch of snuff, and looked very profound.
 
-‘My only wish, Sir,’ said Mr. Pickwick, ‘was to bring this very
+‘My only wish, Sir,’ said Mr. [[Pickwick]], ‘was to bring this very
 unpleasant matter to as speedy a close as possible.’
 
 ‘Quite right--quite right,’ said the little man.
 
-‘With which view,’ continued Mr. Pickwick, ‘I made use of the argument
+‘With which view,’ continued Mr. [[Pickwick]], ‘I made use of the argument
 which my experience of men has taught me is the most likely to succeed
 in any case.’
 
@@ -92,16 +92,16 @@ in any case.’
 should have suggested it to me. My dear sir, I’m quite certain you
 cannot be ignorant of the extent of confidence which must be placed in
 professional men. If any authority can be necessary on such a point, my
-dear sir, let me refer you to the well-known case in Barnwell and--’
+dear sir, let me refer you to the [[Well|well]]-known case in Barnwell and--’
 
 ‘Never mind George Barnwell,’ interrupted Sam, who had remained a
 wondering listener during this short colloquy; ‘everybody knows what
 sort of a case his was, tho’ it’s always been my opinion, mind you, that
 the young ‘ooman deserved scragging a precious sight more than he did.
 Hows’ever, that’s neither here nor there. You want me to accept of half
-a guinea. Wery well, I’m agreeable: I can’t say no fairer than that, can
-I, sir?’ (Mr. Pickwick smiled.) Then the next question is, what the
-devil do you want with me, as the man said, wen he see the ghost?’
+a guinea. Wery [[Well|well]], I’m agreeable: I can’t say no fairer than that, can
+I, sir?’ (Mr. [[Pickwick]] smiled.) Then the next question is, what the
+devil do you want with me, as the man said, wen he see the [[Ghost|ghost]]?’
 
 ‘We want to know--’ said Mr. Wardle.
 
@@ -111,9 +111,9 @@ Mr. Wardle shrugged his shoulders, and was silent.
 
 ‘We want to know,’ said the little man solemnly; ‘and we ask the
 question of you, in order that we may not awaken apprehensions inside--
-we want to know who you’ve got in this house at present?’
+we want to know who you’ve got in this [[house]] at present?’
 
-‘Who there is in the house!’ said Sam, in whose mind the inmates were
+‘Who there is in the [[house]]!’ said Sam, in whose mind the inmates were
 always represented by that particular article of their costume, which
 came under his immediate superintendence. ‘There’s a vooden leg in
 number six; there’s a pair of Hessians in thirteen; there’s two pair of
@@ -127,7 +127,7 @@ a pair of Vellingtons a good deal worn, and a pair o’ lady’s shoes, in
 number five.’
 
 ‘What sort of shoes?’ hastily inquired Wardle, who, together with Mr.
-Pickwick, had been lost in bewilderment at the singular catalogue of
+[[Pickwick]], had been lost in bewilderment at the singular catalogue of
 visitors.
 
 ‘Country make,’ replied Sam.
@@ -148,7 +148,7 @@ visitors.
 
 ‘Yes, for a licence.’
 
-‘We’re in time,’ exclaimed Wardle. ‘Show us the room; not a moment is to
+‘We’re in [[Time|time]],’ exclaimed Wardle. ‘Show us the room; not a moment is to
 be lost.’
 
 ‘Pray, my dear sir--pray,’ said the little man; ‘caution, caution.’ He

@@ -18,7 +18,7 @@ circumference, it may still be said that the Utilitarians held the fort.
 
 
 
-Of the Oxford Movement what remains most strongly in the Victorian Epoch
+Of the [[Oxford]] Movement what remains most strongly in the Victorian Epoch
 
 centres round the challenge of Newman, its one great literary man. But
 
@@ -28,13 +28,13 @@ genesis and make up of the society: yet that significance is not quite
 
 easy immediately to define. It was certainly not æsthetic ritualism;
 
-scarcely one of the Oxford High Churchmen was what we should call a
+scarcely one of the [[Oxford]] High Churchmen was what we should call a
 
 Ritualist. It was certainly not a conscious reaching out towards Rome:
 
 except on a Roman Catholic theory which might explain all our unrests by
 
-that dim desire. It knew little of Europe, it knew nothing of Ireland,
+that dim [[Desire|desire]]. It knew little of Europe, it knew nothing of Ireland,
 
 to which any merely Roman Catholic revulsion would obviously have
 
@@ -74,7 +74,7 @@ French Republic created, when it affirmed property and abolished
 
 peerages; France still stands like a square, four-sided building which
 
-Europe has besieged in vain. The men of the Oxford Movement would have
+Europe has besieged in vain. The men of the [[Oxford]] Movement would have
 
 been horrified at being compared either with Moslems or Jacobins. But
 
@@ -84,11 +84,11 @@ had and ordinary Anglicans had not: the exalted excitement of
 
 consistency. If you were a Moslem you were not a Bacchanal. If you were
 
-a Republican you were not a peer. And so the Oxford men, even in their
+a Republican you were not a peer. And so the [[Oxford]] men, even in their
 
 first and dimmest stages, felt that if you were a Churchman you were not
 
-a Dissenter. The Oxford Movement was, out of the very roots of its
+a Dissenter. The [[Oxford]] Movement was, out of the very roots of its
 
 being, a rational movement; almost a rationalist movement. In that it
 
@@ -102,7 +102,7 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 
 days ought to be alike; and this was that very Utilitarianism against
 
-which their Oxford Movement was the first and most rational assault.
+which their [[Oxford]] Movement was the first and most rational assault.
 
 
 
@@ -120,11 +120,11 @@ told the rich, almost with taunts, that God sent the poor as eagles to
 
 strip them; Froude, who with Newman announced his return in the arrogant
 
-motto of Achilles. But the greater part of all this happened before what
+motto of [[Achilles]]. But the greater part of all this happened before what
 
 is properly our period; and in that period Newman, and perhaps Newman
 
-alone, is the expression and summary of the whole school. It was
+[[Alone|alone]], is the expression and summary of the whole school. It was
 
 certainly in the Victorian Age, and after his passage to Rome, that
 
@@ -150,7 +150,7 @@ the _Apologia_. If he sometimes seemed to skin his enemies alive, it was
 
 because he himself lacked a skin. In this sense his _Apologia_ is a
 
-triumph far beyond the ephemeral charge on which it was founded; in this
+triumph far beyond the [[ephemeral]] charge on which it was founded; in this
 
 sense he does indeed (to use his own expression) vanquish not his
 
@@ -166,7 +166,7 @@ Catholics_, practically preached against a raging mob, rise not only
 
 higher but happier, as his instant unpopularity increases. There is
 
-something grander than humour, there is fun, in the very first lecture
+something grander than [[Humour|humour]], there is fun, in the very first lecture
 
 about the British Constitution as explained to a meeting of Russians.
 
@@ -174,11 +174,11 @@ But always his triumphs are the triumphs of a highly sensitive man: a
 
 man must feel insults before he can so insultingly and splendidly
 
-avenge them. He is a naked man, who carries a naked sword. The quality
+avenge them. He is a naked man, who carries a naked [[Sword|sword]]. The quality
 
 of his literary style is so successful that it succeeds in escaping
 
-definition. The quality of his logic is that of a long but passionate
+definition. The quality of his [[logic]] is that of a long but passionate
 
 patience, which waits until he has fixed all corners of an iron trap.
 

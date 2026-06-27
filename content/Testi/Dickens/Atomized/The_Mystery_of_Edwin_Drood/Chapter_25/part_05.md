@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 23 (part 5)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -27,17 +27,17 @@ anger brewing for the event of his thinking better of the gift; but he
 bestows it on her as if he were abstracting his mind from the
 sacrifice, and with many servile thanks she goes her way.
 
-John Jasper’s lamp is kindled, and his lighthouse is shining when Mr.
-Datchery returns alone towards it. As mariners on a dangerous voyage,
+[[John Jasper]]’s lamp is kindled, and his lighthouse is shining when Mr.
+Datchery returns [[Alone|alone]] towards it. As mariners on a dangerous voyage,
 approaching an iron-bound coast, may look along the beams of the
 warning light to the haven lying beyond it that may never be reached,
 so Mr. Datchery’s wistful gaze is directed to this beacon, and beyond.
 
 His object in now revisiting his lodging is merely to put on the hat
 which seems so superfluous an article in his wardrobe. It is half-past
-ten by the Cathedral clock when he walks out into the Precincts again;
+ten by the [[Cathedral]] [[Clock|clock]] when he walks out into the Precincts again;
 he lingers and looks about him, as though, the enchanted hour when Mr.
-Durdles may be stoned home having struck, he had some expectation of
+[[Durdles]] may be stoned [[Home|home]] having struck, he had some expectation of
 seeing the Imp who is appointed to the mission of stoning him.
 
 In effect, that Power of Evil is abroad. Having nothing living to stone
@@ -67,7 +67,7 @@ for the State, however statistical, to do.
 “I think there must be.”
 
 “Yer lie, there ain’t. The travellers give me the name on account of my
-getting no settled sleep and being knocked up all night; whereby I gets
+getting no settled [[Sleep|sleep]] and being knocked up all [[Night|night]]; whereby I gets
 one eye roused open afore I’ve shut the other. That’s what Winks means.
 Deputy’s the nighest name to indict me by: but yer wouldn’t catch me
 pleading to that, neither.”
@@ -83,7 +83,7 @@ and many of my sixpences have come your way since; eh, Deputy?”
 a-histing me off my legs for?”
 
 “What indeed! But never mind him now. A shilling of mine is going your
-way to-night, Deputy. You have just taken in a lodger I have been
+way to-[[Night|night]], Deputy. You have just taken in a lodger I have been
 speaking to; an infirm woman with a cough.”
 
 “Puffer,” assents Deputy, with a shrewd leer of recognition, and
@@ -96,7 +96,7 @@ eyes very much out of their places: “Hopeum Puffer.”
 
 “She has some other name than that; where does she live?”
 
-“Up in London. Among the Jacks.”
+“Up in [[London]]. Among the Jacks.”
 
 “The sailors?”
 
@@ -107,7 +107,7 @@ eyes very much out of their places: “Hopeum Puffer.”
 “All right. Give us ’old.”
 
 A shilling passes; and, in that spirit of confidence which should
-pervade all business transactions between principals of honour, this
+pervade all business transactions between principals of [[Honour|honour]], this
 piece of business is considered done.
 
 “But here’s a lark!” cries Deputy. “Where did yer think ’Er Royal
@@ -122,12 +122,12 @@ purpose. She ses, ‘Deputy, I must ’ave a early wash, and make myself as
 swell as I can, for I’m a-goin’ to take a turn at the
 KIN-FREE-DER-EL!’” He separates the syllables with his former zest,
 and, not finding his sense of the ludicrous sufficiently relieved by
-stamping about on the pavement, breaks into a slow and stately dance,
+stamping about on the pavement, breaks into a slow and stately [[Dance|dance]],
 perhaps supposed to be performed by the Dean.
 
-Mr. Datchery receives the communication with a well-satisfied though
+Mr. Datchery receives the communication with a [[Well|well]]-satisfied though
 pondering face, and breaks up the conference. Returning to his quaint
-lodging, and sitting long over the supper of bread-and-cheese and salad
+lodging, and sitting long over the supper of bread-and-[[cheese]] and salad
 and ale which Mrs. Tope has left prepared for him, he still sits when
 his supper is finished. At length he rises, throws open the door of a
 corner cupboard, and refers to a few uncouth chalked strokes on its
@@ -138,7 +138,7 @@ Illegible except to the scorer. The scorer not committed, the scored
 debited with what is against him. Hum; ha! A very small score this; a
 very poor score!”
 
-He sighs over the contemplation of its poverty, takes a bit of chalk
+He sighs over the contemplation of its [[Poverty|poverty]], takes a bit of [[chalk]]
 from one of the cupboard shelves, and pauses with it in his hand,
 uncertain what addition to make to the account.
 
@@ -146,13 +146,13 @@ uncertain what addition to make to the account.
 scoring up;” so, suits the action to the word, closes the cupboard, and
 goes to bed.
 
-A brilliant morning shines on the old city. Its antiquities and ruins
+A brilliant morning shines on the old [[City|city]]. Its antiquities and ruins
 are surpassingly beautiful, with a lusty ivy gleaming in the sun, and
 the rich trees waving in the balmy air. Changes of glorious light from
-moving boughs, songs of birds, scents from gardens, woods, and
-fields—or, rather, from the one great garden of the whole cultivated
-island in its yielding time—penetrate into the Cathedral, subdue its
-earthy odour, and preach the Resurrection and the Life. The cold stone
+moving boughs, [[songs]] of [[Birds|birds]], scents from gardens, woods, and
+fields—or, rather, from the one great [[Garden|garden]] of the whole cultivated
+island in its yielding [[Time|time]]—penetrate into the [[Cathedral]], subdue its
+earthy odour, and preach the [[Resurrection]] and the Life. The cold stone
 tombs of centuries ago grow warm; and flecks of brightness dart into
 the sternest marble corners of the building, fluttering there like
 wings.

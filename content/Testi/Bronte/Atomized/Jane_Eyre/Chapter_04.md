@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4"
+title: "[[Jane Eyre]] — Chapter 4"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER IV
 
 
 From my discourse with Mr. Lloyd, and from the above reported
-conference between Bessie and Abbot, I gathered enough of hope to
-suffice as a motive for wishing to get well: a change seemed near,—I
-desired and waited it in silence. It tarried, however: days and weeks
+conference between Bessie and Abbot, I gathered enough of [[Hope|hope]] to
+suffice as a motive for wishing to get [[Well|well]]: a change seemed near,—I
+desired and waited it in [[Silence|silence]]. It tarried, however: days and weeks
 passed: I had regained my normal state of health, but no new allusion
 was made to the subject over which I brooded. Mrs. Reed surveyed me at
 times with a severe eye, but seldom addressed me: since my illness, she
 had drawn a more marked line of separation than ever between me and her
-own children; appointing me a small closet to sleep in by myself,
-condemning me to take my meals alone, and pass all my time in the
+own children; appointing me a small closet to [[Sleep|sleep]] in by myself,
+condemning me to take my meals [[Alone|alone]], and pass all my [[Time|time]] in the
 nursery, while my cousins were constantly in the drawing-room. Not a
 hint, however, did she drop about sending me to school: still I felt an
 instinctive certainty that she would not long endure me under the same
@@ -43,7 +43,7 @@ his nose. I had indeed levelled at that prominent feature as hard a
 blow as my knuckles could inflict; and when I saw that either that or
 my look daunted him, I had the greatest inclination to follow up my
 advantage to purpose; but he was already with his mama. I heard him in
-a blubbering tone commence the tale of how “that nasty Jane Eyre” had
+a blubbering tone commence the tale of how “that nasty [[Jane Eyre]]” had
 flown at him like a mad cat: he was stopped rather harshly—
 
 “Don’t talk to me about her, John: I told you not to go near her; she
@@ -67,8 +67,8 @@ tongue pronounced words without my will consenting to their utterance:
 something spoke out of me over which I had no control.
 
 “What?” said Mrs. Reed under her breath: her usually cold composed grey
-eye became troubled with a look like fear; she took her hand from my
-arm, and gazed at me as if she really did not know whether I were child
+eye became troubled with a look like [[Fear|fear]]; she took her hand from my
+arm, and gazed at me as if she really did not know whether I were [[Child|child]]
 or fiend. I was now in for it.
 
 “My Uncle Reed is in heaven, and can see all you do and think; and so
@@ -78,7 +78,7 @@ you wish me dead.”
 Mrs. Reed soon rallied her spirits: she shook me most soundly, she
 boxed both my ears, and then left me without a word. Bessie supplied
 the hiatus by a homily of an hour’s length, in which she proved beyond
-a doubt that I was the most wicked and abandoned child ever reared
+a [[Doubt|doubt]] that I was the most wicked and abandoned [[Child|child]] ever reared
 under a roof. I half believed her; for I felt indeed only bad feelings
 surging in my breast.
 
@@ -95,7 +95,7 @@ jingling of glass and china as refreshments were handed, to the broken
 hum of conversation as the drawing-room door opened and closed. When
 tired of this occupation, I would retire from the stairhead to the
 solitary and silent nursery: there, though somewhat sad, I was not
-miserable. To speak truth, I had not the least wish to go into company,
+miserable. To speak [[Truth|truth]], I had not the least wish to go into company,
 for in company I was very rarely noticed; and if Bessie had but been
 kind and companionable, I should have deemed it a treat to spend the
 evenings quietly with her, instead of passing them under the formidable
@@ -103,26 +103,26 @@ eye of Mrs. Reed, in a room full of ladies and gentlemen. But Bessie,
 as soon as she had dressed her young ladies, used to take herself off
 to the lively regions of the kitchen and housekeeper’s room, generally
 bearing the candle along with her. I then sat with my doll on my knee
-till the fire got low, glancing round occasionally to make sure that
+till the [[Fire|fire]] got low, glancing round occasionally to make sure that
 nothing worse than myself haunted the shadowy room; and when the embers
 sank to a dull red, I undressed hastily, tugging at knots and strings
 as I best might, and sought shelter from cold and darkness in my crib.
-To this crib I always took my doll; human beings must love something,
+To this crib I always took my doll; human beings must [[Love|love]] something,
 and, in the dearth of worthier objects of affection, I contrived to
 find a pleasure in loving and cherishing a faded graven image, shabby
 as a miniature scarecrow. It puzzles me now to remember with what
 absurd sincerity I doated on this little toy, half fancying it alive
-and capable of sensation. I could not sleep unless it was folded in my
-night-gown; and when it lay there safe and warm, I was comparatively
+and capable of sensation. I could not [[Sleep|sleep]] unless it was folded in my
+[[Night|night]]-gown; and when it lay there safe and warm, I was comparatively
 happy, believing it to be happy likewise.
 
 Long did the hours seem while I waited the departure of the company,
 and listened for the sound of Bessie’s step on the stairs: sometimes
 she would come up in the interval to seek her thimble or her scissors,
 or perhaps to bring me something by way of supper—a bun or a
-cheese-cake—then she would sit on the bed while I ate it, and when I
+[[cheese]]-cake—then she would sit on the bed while I ate it, and when I
 had finished, she would tuck the clothes round me, and twice she kissed
-me, and said, “Good night, Miss Jane.” When thus gentle, Bessie seemed
+me, and said, “Good [[Night|night]], Miss Jane.” When thus gentle, Bessie seemed
 to me the best, prettiest, kindest being in the world; and I wished
 most intensely that she would always be so pleasant and amiable, and
 never push me about, or scold, or task me unreasonably, as she was too
@@ -136,9 +136,9 @@ good, clear complexion; but she had a capricious and hasty temper, and
 indifferent ideas of principle or justice: still, such as she was, I
 preferred her to any one else at Gateshead Hall.
 
-It was the fifteenth of January, about nine o’clock in the morning:
+It was the fifteenth of January, about nine o’[[Clock|clock]] in the morning:
 Bessie was gone down to breakfast; my cousins had not yet been summoned
-to their mama; Eliza was putting on her bonnet and warm garden-coat to
+to their mama; Eliza was putting on her bonnet and warm [[Garden|garden]]-coat to
 go and feed her poultry, an occupation of which she was fond: and not
 less so of selling the eggs to the housekeeper and hoarding up the
 money she thus obtained. She had a turn for traffic, and a marked
@@ -156,52 +156,52 @@ interest—fifty or sixty per cent.; which interest she exacted every
 quarter, keeping her accounts in a little book with anxious accuracy.
 
 Georgiana sat on a high stool, dressing her hair at the glass, and
-interweaving her curls with artificial flowers and faded feathers, of
+interweaving her curls with artificial [[Flowers|flowers]] and faded feathers, of
 which she had found a store in a drawer in the attic. I was making my
 bed, having received strict orders from Bessie to get it arranged
 before she returned (for Bessie now frequently employed me as a sort of
-under-nurserymaid, to tidy the room, dust the chairs, &c.). Having
-spread the quilt and folded my night-dress, I went to the window-seat
-to put in order some picture-books and doll’s house furniture scattered
-there; an abrupt command from Georgiana to let her playthings alone
+under-nurserymaid, to tidy the room, [[Dust|dust]] the chairs, &c.). Having
+spread the quilt and folded my [[Night|night]]-dress, I went to the [[Window|window]]-seat
+to put in order some picture-books and doll’s [[house]] furniture scattered
+there; an abrupt command from Georgiana to let her playthings [[Alone|alone]]
 (for the tiny chairs and mirrors, the fairy plates and cups, were her
 property) stopped my proceedings; and then, for lack of other
-occupation, I fell to breathing on the frost-flowers with which the
-window was fretted, and thus clearing a space in the glass through
+occupation, I fell to breathing on the [[Frost|frost]]-[[Flowers|flowers]] with which the
+[[Window|window]] was fretted, and thus clearing a space in the glass through
 which I might look out on the grounds, where all was still and
-petrified under the influence of a hard frost.
+petrified under the influence of a hard [[Frost|frost]].
 
-From this window were visible the porter’s lodge and the carriage-road,
+From this [[Window|window]] were visible the porter’s lodge and the carriage-[[Road|road]],
 and just as I had dissolved so much of the silver-white foliage veiling
 the panes as left room to look out, I saw the gates thrown open and a
 carriage roll through. I watched it ascending the drive with
 indifference; carriages often came to Gateshead, but none ever brought
-visitors in whom I was interested; it stopped in front of the house,
+visitors in whom I was interested; it stopped in front of the [[house]],
 the door-bell rang loudly, the new-comer was admitted. All this being
 nothing to me, my vacant attention soon found livelier attraction in
 the spectacle of a little hungry robin, which came and chirruped on the
 twigs of the leafless cherry-tree nailed against the wall near the
 casement. The remains of my breakfast of bread and milk stood on the
 table, and having crumbled a morsel of roll, I was tugging at the sash
-to put out the crumbs on the window-sill, when Bessie came running
+to put out the crumbs on the [[Window|window]]-sill, when Bessie came running
 upstairs into the nursery.
 
 “Miss Jane, take off your pinafore; what are you doing there? Have you
 washed your hands and face this morning?” I gave another tug before I
 answered, for I wanted the bird to be secure of its bread: the sash
 yielded; I scattered the crumbs, some on the stone sill, some on the
-cherry-tree bough, then, closing the window, I replied—
+cherry-tree bough, then, closing the [[Window|window]], I replied—
 
 “No, Bessie; I have only just finished dusting.”
 
-“Troublesome, careless child! and what are you doing now? You look
+“Troublesome, careless [[Child|child]]! and what are you doing now? You look
 quite red, as if you had been about some mischief: what were you
-opening the window for?”
+opening the [[Window|window]] for?”
 
 I was spared the trouble of answering, for Bessie seemed in too great a
 hurry to listen to explanations; she hauled me to the washstand,
 inflicted a merciless, but happily brief scrub on my face and hands
-with soap, water, and a coarse towel; disciplined my head with a
+with soap, [[Water|water]], and a coarse towel; disciplined my head with a
 bristly brush, denuded me of my pinafore, and then hurrying me to the
 top of the stairs, bid me go down directly, as I was wanted in the
 breakfast-room.
@@ -215,7 +215,7 @@ on which it dismayed me to intrude.
 
 I now stood in the empty hall; before me was the breakfast-room door,
 and I stopped, intimidated and trembling. What a miserable little
-poltroon had fear, engendered of unjust punishment, made of me in those
+poltroon had [[Fear|fear]], engendered of unjust punishment, made of me in those
 days! I feared to return to the nursery, and feared to go forward to
 the parlour; ten minutes I stood in agitated hesitation; the vehement
 ringing of the breakfast-room bell decided me; I _must_ enter.
@@ -244,13 +244,13 @@ voice, “Her size is small: what is her age?”
 “So much?” was the doubtful answer; and he prolonged his scrutiny for
 some minutes. Presently he addressed me—“Your name, little girl?”
 
-“Jane Eyre, sir.”
+“[[Jane Eyre]], sir.”
 
 In uttering these words I looked up: he seemed to me a tall gentleman;
 but then I was very little; his features were large, and they and all
 the lines of his frame were equally harsh and prim.
 
-“Well, Jane Eyre, and are you a good child?”
+“[[Well]], [[Jane Eyre]], and are you a good [[Child|child]]?”
 
 Impossible to reply to this in the affirmative: my little world held a
 contrary opinion: I was silent. Mrs. Reed answered for me by an
@@ -265,14 +265,14 @@ I stepped across the rug; he placed me square and straight before him.
 What a face he had, now that it was almost on a level with mine! what a
 great nose! and what a mouth! and what large prominent teeth!
 
-“No sight so sad as that of a naughty child,” he began, “especially a
-naughty little girl. Do you know where the wicked go after death?”
+“No sight so sad as that of a naughty [[Child|child]],” he began, “especially a
+naughty little girl. Do you know where the wicked go after [[Death|death]]?”
 
 “They go to hell,” was my ready and orthodox answer.
 
 “And what is hell? Can you tell me that?”
 
-“A pit full of fire.”
+“A pit full of [[Fire|fire]].”
 
 “And should you like to fall into that pit, and to be burning there for
 ever?”
@@ -285,25 +285,25 @@ I deliberated a moment; my answer, when it did come, was objectionable:
 “I must keep in good health, and not die.”
 
 “How can you keep in good health? Children younger than you die daily.
-I buried a little child of five years old only a day or two since,—a
-good little child, whose soul is now in heaven. It is to be feared the
+I buried a little [[Child|child]] of five years old only a day or two since,—a
+good little [[Child|child]], whose [[Soul|soul]] is now in heaven. It is to be feared the
 same could not be said of you were you to be called hence.”
 
-Not being in a condition to remove his doubt, I only cast my eyes down
+Not being in a condition to remove his [[Doubt|doubt]], I only cast my eyes down
 on the two large feet planted on the rug, and sighed, wishing myself
 far enough away.
 
-“I hope that sigh is from the heart, and that you repent of ever having
+“I [[Hope|hope]] that sigh is from the heart, and that you repent of ever having
 been the occasion of discomfort to your excellent benefactress.”
 
 “Benefactress! benefactress!” said I inwardly: “they all call Mrs. Reed
 my benefactress; if so, a benefactress is a disagreeable thing.”
 
-“Do you say your prayers night and morning?” continued my interrogator.
+“Do you say your prayers [[Night|night]] and morning?” continued my interrogator.
 
 “Yes, sir.”
 
-“Do you read your Bible?”
+“Do you read your [[Bible]]?”
 
 “Sometimes.”
 
@@ -313,7 +313,7 @@ my benefactress; if so, a benefactress is a disagreeable thing.”
 and a little bit of Exodus, and some parts of Kings and Chronicles, and
 Job and Jonah.”
 
-“And the Psalms? I hope you like them?”
+“And the Psalms? I [[Hope|hope]] you like them?”
 
 “No, sir.”
 
@@ -343,24 +343,24 @@ keep a strict eye on her, and, above all, to guard against her worst
 fault, a tendency to deceit. I mention this in your hearing, Jane, that
 you may not attempt to impose on Mr. Brocklehurst.”
 
-Well might I dread, well might I dislike Mrs. Reed; for it was her
-nature to wound me cruelly; never was I happy in her presence; however
+[[Well]] might I dread, [[Well|well]] might I dislike Mrs. Reed; for it was her
+[[Nature|nature]] to wound me cruelly; never was I happy in her presence; however
 carefully I obeyed, however strenuously I strove to please her, my
 efforts were still repulsed and repaid by such sentences as the above.
 Now, uttered before a stranger, the accusation cut me to the heart; I
-dimly perceived that she was already obliterating hope from the new
+dimly perceived that she was already obliterating [[Hope|hope]] from the new
 phase of existence which she destined me to enter; I felt, though I
 could not have expressed the feeling, that she was sowing aversion and
 unkindness along my future path; I saw myself transformed under Mr.
-Brocklehurst’s eye into an artful, noxious child, and what could I do
+Brocklehurst’s eye into an artful, noxious [[Child|child]], and what could I do
 to remedy the injury?
 
 “Nothing, indeed,” thought I, as I struggled to repress a sob, and
-hastily wiped away some tears, the impotent evidences of my anguish.
+hastily wiped away some [[Tears|tears]], the impotent evidences of my anguish.
 
-“Deceit is, indeed, a sad fault in a child,” said Mr. Brocklehurst; “it
+“Deceit is, indeed, a sad fault in a [[Child|child]],” said Mr. Brocklehurst; “it
 is akin to falsehood, and all liars will have their portion in the lake
-burning with fire and brimstone; she shall, however, be watched, Mrs.
+burning with [[Fire|fire]] and brimstone; she shall, however, be watched, Mrs.
 Reed. I will speak to Miss Temple and the teachers.”
 
 “I should wish her to be brought up in a manner suiting her prospects,”
@@ -369,11 +369,11 @@ for the vacations, she will, with your permission, spend them always at
 Lowood.”
 
 “Your decisions are perfectly judicious, madam,” returned Mr.
-Brocklehurst. “Humility is a Christian grace, and one peculiarly
+Brocklehurst. “[[Humility]] is a Christian grace, and one peculiarly
 appropriate to the pupils of Lowood; I, therefore, direct that especial
 care shall be bestowed on its cultivation amongst them. I have studied
-how best to mortify in them the worldly sentiment of pride; and, only
-the other day, I had a pleasing proof of my success. My second
+how best to mortify in them the worldly sentiment of [[Pride|pride]]; and, only
+the other day, I had a pleasing proof of my [[success]]. My second
 daughter, Augusta, went with her mama to visit the school, and on her
 return she exclaimed: ‘Oh, dear papa, how quiet and plain all the girls
 at Lowood look, with their hair combed behind their ears, and their
@@ -384,16 +384,16 @@ gown before.’”
 
 “This is the state of things I quite approve,” returned Mrs. Reed; “had
 I sought all England over, I could scarcely have found a system more
-exactly fitting a child like Jane Eyre. Consistency, my dear Mr.
+exactly fitting a [[Child|child]] like [[Jane Eyre]]. Consistency, my dear Mr.
 Brocklehurst; I advocate consistency in all things.”
 
 “Consistency, madam, is the first of Christian duties; and it has been
 observed in every arrangement connected with the establishment of
 Lowood: plain fare, simple attire, unsophisticated accommodations,
-hardy and active habits; such is the order of the day in the house and
+hardy and active habits; such is the order of the day in the [[house]] and
 its inhabitants.”
 
-“Quite right, sir. I may then depend upon this child being received as
+“Quite right, sir. I may then depend upon this [[Child|child]] being received as
 a pupil at Lowood, and there being trained in conformity to her
 position and prospects?”
 
@@ -405,7 +405,7 @@ privilege of her election.”
 assure you, I feel anxious to be relieved of a responsibility that was
 becoming too irksome.”
 
-“No doubt, no doubt, madam; and now I wish you good morning. I shall
+“No [[Doubt|doubt]], no [[Doubt|doubt]], madam; and now I wish you good morning. I shall
 return to Brocklehurst Hall in the course of a week or two: my good
 friend, the Archdeacon, will not permit me to leave him sooner. I shall
 send Miss Temple notice that she is to expect a new girl, so that there
@@ -414,16 +414,16 @@ will be no difficulty about receiving her. Good-bye.”
 “Good-bye, Mr. Brocklehurst; remember me to Mrs. and Miss Brocklehurst,
 and to Augusta and Theodore, and Master Broughton Brocklehurst.”
 
-“I will, madam. Little girl, here is a book entitled the ‘Child’s
-Guide’; read it with prayer, especially that part containing ‘An
-account of the awfully sudden death of Martha G——, a naughty child
+“I will, madam. Little girl, here is a book entitled the ‘[[Child]]’s
+Guide’; read it with [[prayer]], especially that part containing ‘An
+account of the awfully sudden [[Death|death]] of Martha G——, a naughty [[Child|child]]
 addicted to falsehood and deceit.’”
 
 With these words Mr. Brocklehurst put into my hand a thin pamphlet sewn
 in a cover, and having rung for his carriage, he departed.
 
-Mrs. Reed and I were left alone: some minutes passed in silence; she
-was sewing, I was watching her. Mrs. Reed might be at that time some
+Mrs. Reed and I were left [[Alone|alone]]: some minutes passed in [[Silence|silence]]; she
+was sewing, I was watching her. Mrs. Reed might be at that [[Time|time]] some
 six or seven and thirty; she was a woman of robust frame,
 square-shouldered and strong-limbed, not tall, and, though stout, not
 obese: she had a somewhat large face, the under jaw being much
@@ -433,12 +433,12 @@ eyebrows glimmered an eye devoid of ruth; her skin was dark and opaque,
 her hair nearly flaxen; her constitution was sound as a bell—illness
 never came near her; she was an exact, clever manager; her household
 and tenantry were thoroughly under her control; her children only at
-times defied her authority and laughed it to scorn; she dressed well,
+times defied her authority and laughed it to scorn; she dressed [[Well|well]],
 and had a presence and port calculated to set off handsome attire.
 
 Sitting on a low stool, a few yards from her arm-chair, I examined her
 figure; I perused her features. In my hand I held the tract containing
-the sudden death of the Liar, to which narrative my attention had been
+the sudden [[Death|death]] of the Liar, to which narrative my attention had been
 pointed as to an appropriate warning. What had just passed; what Mrs.
 Reed had said concerning me to Mr. Brocklehurst; the whole tenor of
 their conversation, was recent, raw, and stinging in my mind; I had
@@ -446,12 +446,12 @@ felt every word as acutely as I had heard it plainly, and a passion of
 resentment fomented now within me.
 
 Mrs. Reed looked up from her work; her eye settled on mine, her fingers
-at the same time suspended their nimble movements.
+at the same [[Time|time]] suspended their nimble movements.
 
 “Go out of the room; return to the nursery,” was her mandate. My look
 or something else must have struck her as offensive, for she spoke with
 extreme though suppressed irritation. I got up, I went to the door; I
-came back again; I walked to the window, across the room, then close up
+came back again; I walked to the [[Window|window]], across the room, then close up
 to her.
 
 _Speak_ I must: I had been trodden on severely, and _must_ turn: but
@@ -459,7 +459,7 @@ how? What strength had I to dart retaliation at my antagonist? I
 gathered my energies and launched them in this blunt sentence—
 
 “I am not deceitful: if I were, I should say I loved _you;_ but I
-declare I do not love you: I dislike you the worst of anybody in the
+declare I do not [[Love|love]] you: I dislike you the worst of anybody in the
 world except John Reed; and this book about the liar, you may give to
 your girl, Georgiana, for it is she who tells lies, and not I.”
 
@@ -468,7 +468,7 @@ continued to dwell freezingly on mine.
 
 “What more have you to say?” she asked, rather in the tone in which a
 person might address an opponent of adult age than such as is
-ordinarily used to a child.
+ordinarily used to a [[Child|child]].
 
 That eye of hers, that voice stirred every antipathy I had. Shaking
 from head to foot, thrilled with ungovernable excitement, I continued—
@@ -479,24 +479,24 @@ up; and if any one asks me how I liked you, and how you treated me, I
 will say the very thought of you makes me sick, and that you treated me
 with miserable cruelty.”
 
-“How dare you affirm that, Jane Eyre?”
+“How dare you affirm that, [[Jane Eyre]]?”
 
 “How dare I, Mrs. Reed? How dare I? Because it is the _truth_. You
-think I have no feelings, and that I can do without one bit of love or
+think I have no feelings, and that I can do without one bit of [[Love|love]] or
 kindness; but I cannot live so: and you have no pity. I shall remember
 how you thrust me back—roughly and violently thrust me back—into the
 red-room, and locked me up there, to my dying day; though I was in
 agony; though I cried out, while suffocating with distress, ‘Have
-mercy! Have mercy, Aunt Reed!’ And that punishment you made me suffer
+[[Mercy|mercy]]! Have [[Mercy|mercy]], Aunt Reed!’ And that punishment you made me suffer
 because your wicked boy struck me—knocked me down for nothing. I will
 tell anybody who asks me questions, this exact tale. People think you a
 good woman, but you are bad, hard-hearted. _You_ are deceitful!”
 
 
-How dare I, Mrs. Reed? How dare I? Because it is the truth
+How dare I, Mrs. Reed? How dare I? Because it is the [[Truth|truth]]
 
-Ere I had finished this reply, my soul began to expand, to exult, with
-the strangest sense of freedom, of triumph, I ever felt. It seemed as
+Ere I had finished this reply, my [[Soul|soul]] began to expand, to exult, with
+the strangest sense of [[Freedom|freedom]], of triumph, I ever felt. It seemed as
 if an invisible bond had burst, and that I had struggled out into
 unhoped-for liberty. Not without cause was this sentiment: Mrs. Reed
 looked frightened; her work had slipped from her knee; she was lifting
@@ -504,11 +504,11 @@ up her hands, rocking herself to and fro, and even twisting her face as
 if she would cry.
 
 “Jane, you are under a mistake: what is the matter with you? Why do you
-tremble so violently? Would you like to drink some water?”
+tremble so violently? Would you like to drink some [[Water|water]]?”
 
 “No, Mrs. Reed.”
 
-“Is there anything else you wish for, Jane? I assure you, I desire to
+“Is there anything else you wish for, Jane? I assure you, I [[Desire|desire]] to
 be your friend.”
 
 “Not you. You told Mr. Brocklehurst I had a bad character, a deceitful
@@ -529,28 +529,28 @@ Reed, for I hate to live here.”
 “I will indeed send her to school soon,” murmured Mrs. Reed _sotto
 voce_; and gathering up her work, she abruptly quitted the apartment.
 
-I was left there alone—winner of the field. It was the hardest battle I
+I was left there [[Alone|alone]]—winner of the field. It was the hardest battle I
 had fought, and the first victory I had gained: I stood awhile on the
 rug, where Mr. Brocklehurst had stood, and I enjoyed my conqueror’s
-solitude. First, I smiled to myself and felt elate; but this fierce
+[[Solitude|solitude]]. First, I smiled to myself and felt elate; but this fierce
 pleasure subsided in me as fast as did the accelerated throb of my
-pulses. A child cannot quarrel with its elders, as I had done; cannot
+pulses. A [[Child|child]] cannot quarrel with its elders, as I had done; cannot
 give its furious feelings uncontrolled play, as I had given mine,
 without experiencing afterwards the pang of remorse and the chill of
 reaction. A ridge of lighted heath, alive, glancing, devouring, would
 have been a meet emblem of my mind when I accused and menaced Mrs.
 Reed: the same ridge, black and blasted after the flames are dead,
 would have represented as meetly my subsequent condition, when
-half-an-hour’s silence and reflection had shown me the madness of my
+half-an-hour’s [[Silence|silence]] and reflection had shown me the [[Madness|madness]] of my
 conduct, and the dreariness of my hated and hating position.
 
-Something of vengeance I had tasted for the first time; as aromatic
+Something of vengeance I had tasted for the first [[Time|time]]; as aromatic
 wine it seemed, on swallowing, warm and racy: its after-flavour,
 metallic and corroding, gave me a sensation as if I had been poisoned.
 Willingly would I now have gone and asked Mrs. Reed’s pardon; but I
 knew, partly from experience and partly from instinct, that was the way
-to make her repulse me with double scorn, thereby re-exciting every
-turbulent impulse of my nature.
+to make her repulse me with [[Double|double]] scorn, thereby re-exciting every
+turbulent impulse of my [[Nature|nature]].
 
 I would fain exercise some better faculty than that of fierce speaking;
 fain find nourishment for some less fiendish feeling than that of
@@ -558,23 +558,23 @@ sombre indignation. I took a book—some Arabian tales; I sat down and
 endeavoured to read. I could make no sense of the subject; my own
 thoughts swam always between me and the page I had usually found
 fascinating. I opened the glass-door in the breakfast-room: the
-shrubbery was quite still: the black frost reigned, unbroken by sun or
+shrubbery was quite still: the black [[Frost|frost]] reigned, unbroken by sun or
 breeze, through the grounds. I covered my head and arms with the skirt
 of my frock, and went out to walk in a part of the plantation which was
 quite sequestrated; but I found no pleasure in the silent trees, the
-falling fir-cones, the congealed relics of autumn, russet leaves, swept
+falling fir-cones, the congealed relics of [[Autumn|autumn]], russet [[Leaves|leaves]], swept
 by past winds in heaps, and now stiffened together. I leaned against a
 gate, and looked into an empty field where no sheep were feeding, where
 the short grass was nipped and blanched. It was a very grey day; a most
 opaque sky, “onding on snaw,” canopied all; thence flakes fell at
 intervals, which settled on the hard path and on the hoary lea without
-melting. I stood, a wretched child enough, whispering to myself over
+melting. I stood, a wretched [[Child|child]] enough, whispering to myself over
 and over again, “What shall I do?—what shall I do?”
 
 All at once I heard a clear voice call, “Miss Jane! where are you? Come
 to lunch!”
 
-It was Bessie, I knew well enough; but I did not stir; her light step
+It was Bessie, I knew [[Well|well]] enough; but I did not stir; her light step
 came tripping down the path.
 
 “You naughty little thing!” she said. “Why don’t you come when you are
@@ -582,7 +582,7 @@ called?”
 
 Bessie’s presence, compared with the thoughts over which I had been
 brooding, seemed cheerful; even though, as usual, she was somewhat
-cross. The fact is, after my conflict with and victory over Mrs. Reed,
+[[Cross|cross]]. The fact is, after my conflict with and victory over Mrs. Reed,
 I was not disposed to care much for the nursemaid’s transitory anger;
 and I _was_ disposed to bask in her youthful lightness of heart. I just
 put my two arms round her and said, “Come, Bessie! don’t scold.”
@@ -590,7 +590,7 @@ put my two arms round her and said, “Come, Bessie! don’t scold.”
 The action was more frank and fearless than any I was habituated to
 indulge in: somehow it pleased her.
 
-“You are a strange child, Miss Jane,” she said, as she looked down at
+“You are a strange [[Child|child]], Miss Jane,” she said, as she looked down at
 me; “a little roving, solitary thing: and you are going to school, I
 suppose?”
 
@@ -612,7 +612,7 @@ for you.”
 
 “I don’t think you have, Bessie.”
 
-“Child! what do you mean? What sorrowful eyes you fix on me! Well, but
+“[[Child]]! what do you mean? What sorrowful eyes you fix on me! [[Well]], but
 Missis and the young ladies and Master John are going out to tea this
 afternoon, and you shall have tea with me. I’ll ask cook to bake you a
 little cake, and then you shall help me to look over your drawers; for
@@ -622,7 +622,7 @@ you.”
 
 “Bessie, you must promise not to scold me any more till I go.”
 
-“Well, I will; but mind you are a very good girl, and don’t be afraid
+“[[Well]], I will; but mind you are a very good girl, and don’t be afraid
 of me. Don’t start when I chance to speak rather sharply; it’s so
 provoking.”
 
@@ -655,7 +655,7 @@ now if I were to ask you for a kiss you wouldn’t give it me: you’d say
 you’d _rather_ not.”
 
 “I’ll kiss you and welcome: bend your head down.” Bessie stooped; we
-mutually embraced, and I followed her into the house quite comforted.
+mutually embraced, and I followed her into the [[house]] quite comforted.
 That afternoon lapsed in peace and harmony; and in the evening Bessie
 told me some of her most enchanting stories, and sang me some of her
-sweetest songs. Even for me life had its gleams of sunshine.
+sweetest [[songs]]. Even for me life had its gleams of sunshine.

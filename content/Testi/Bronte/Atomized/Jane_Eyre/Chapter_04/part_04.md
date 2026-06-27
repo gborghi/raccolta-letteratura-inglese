@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4 (part 4)"
+title: "[[Jane Eyre]] — Chapter 4 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,10 +17,10 @@ tags:
 “Consistency, madam, is the first of Christian duties; and it has been
 observed in every arrangement connected with the establishment of
 Lowood: plain fare, simple attire, unsophisticated accommodations,
-hardy and active habits; such is the order of the day in the house and
+hardy and active habits; such is the order of the day in the [[house]] and
 its inhabitants.”
 
-“Quite right, sir. I may then depend upon this child being received as
+“Quite right, sir. I may then depend upon this [[Child|child]] being received as
 a pupil at Lowood, and there being trained in conformity to her
 position and prospects?”
 
@@ -32,7 +32,7 @@ privilege of her election.”
 assure you, I feel anxious to be relieved of a responsibility that was
 becoming too irksome.”
 
-“No doubt, no doubt, madam; and now I wish you good morning. I shall
+“No [[Doubt|doubt]], no [[Doubt|doubt]], madam; and now I wish you good morning. I shall
 return to Brocklehurst Hall in the course of a week or two: my good
 friend, the Archdeacon, will not permit me to leave him sooner. I shall
 send Miss Temple notice that she is to expect a new girl, so that there
@@ -41,16 +41,16 @@ will be no difficulty about receiving her. Good-bye.”
 “Good-bye, Mr. Brocklehurst; remember me to Mrs. and Miss Brocklehurst,
 and to Augusta and Theodore, and Master Broughton Brocklehurst.”
 
-“I will, madam. Little girl, here is a book entitled the ‘Child’s
-Guide’; read it with prayer, especially that part containing ‘An
-account of the awfully sudden death of Martha G——, a naughty child
+“I will, madam. Little girl, here is a book entitled the ‘[[Child]]’s
+Guide’; read it with [[prayer]], especially that part containing ‘An
+account of the awfully sudden [[Death|death]] of Martha G——, a naughty [[Child|child]]
 addicted to falsehood and deceit.’”
 
 With these words Mr. Brocklehurst put into my hand a thin pamphlet sewn
 in a cover, and having rung for his carriage, he departed.
 
-Mrs. Reed and I were left alone: some minutes passed in silence; she
-was sewing, I was watching her. Mrs. Reed might be at that time some
+Mrs. Reed and I were left [[Alone|alone]]: some minutes passed in [[Silence|silence]]; she
+was sewing, I was watching her. Mrs. Reed might be at that [[Time|time]] some
 six or seven and thirty; she was a woman of robust frame,
 square-shouldered and strong-limbed, not tall, and, though stout, not
 obese: she had a somewhat large face, the under jaw being much
@@ -60,12 +60,12 @@ eyebrows glimmered an eye devoid of ruth; her skin was dark and opaque,
 her hair nearly flaxen; her constitution was sound as a bell—illness
 never came near her; she was an exact, clever manager; her household
 and tenantry were thoroughly under her control; her children only at
-times defied her authority and laughed it to scorn; she dressed well,
+times defied her authority and laughed it to scorn; she dressed [[Well|well]],
 and had a presence and port calculated to set off handsome attire.
 
 Sitting on a low stool, a few yards from her arm-chair, I examined her
 figure; I perused her features. In my hand I held the tract containing
-the sudden death of the Liar, to which narrative my attention had been
+the sudden [[Death|death]] of the Liar, to which narrative my attention had been
 pointed as to an appropriate warning. What had just passed; what Mrs.
 Reed had said concerning me to Mr. Brocklehurst; the whole tenor of
 their conversation, was recent, raw, and stinging in my mind; I had
@@ -73,12 +73,12 @@ felt every word as acutely as I had heard it plainly, and a passion of
 resentment fomented now within me.
 
 Mrs. Reed looked up from her work; her eye settled on mine, her fingers
-at the same time suspended their nimble movements.
+at the same [[Time|time]] suspended their nimble movements.
 
 “Go out of the room; return to the nursery,” was her mandate. My look
 or something else must have struck her as offensive, for she spoke with
 extreme though suppressed irritation. I got up, I went to the door; I
-came back again; I walked to the window, across the room, then close up
+came back again; I walked to the [[Window|window]], across the room, then close up
 to her.
 
 _Speak_ I must: I had been trodden on severely, and _must_ turn: but
@@ -86,7 +86,7 @@ how? What strength had I to dart retaliation at my antagonist? I
 gathered my energies and launched them in this blunt sentence—
 
 “I am not deceitful: if I were, I should say I loved _you;_ but I
-declare I do not love you: I dislike you the worst of anybody in the
+declare I do not [[Love|love]] you: I dislike you the worst of anybody in the
 world except John Reed; and this book about the liar, you may give to
 your girl, Georgiana, for it is she who tells lies, and not I.”
 
@@ -95,7 +95,7 @@ continued to dwell freezingly on mine.
 
 “What more have you to say?” she asked, rather in the tone in which a
 person might address an opponent of adult age than such as is
-ordinarily used to a child.
+ordinarily used to a [[Child|child]].
 
 That eye of hers, that voice stirred every antipathy I had. Shaking
 from head to foot, thrilled with ungovernable excitement, I continued—
@@ -106,24 +106,24 @@ up; and if any one asks me how I liked you, and how you treated me, I
 will say the very thought of you makes me sick, and that you treated me
 with miserable cruelty.”
 
-“How dare you affirm that, Jane Eyre?”
+“How dare you affirm that, [[Jane Eyre]]?”
 
 “How dare I, Mrs. Reed? How dare I? Because it is the _truth_. You
-think I have no feelings, and that I can do without one bit of love or
+think I have no feelings, and that I can do without one bit of [[Love|love]] or
 kindness; but I cannot live so: and you have no pity. I shall remember
 how you thrust me back—roughly and violently thrust me back—into the
 red-room, and locked me up there, to my dying day; though I was in
 agony; though I cried out, while suffocating with distress, ‘Have
-mercy! Have mercy, Aunt Reed!’ And that punishment you made me suffer
+[[Mercy|mercy]]! Have [[Mercy|mercy]], Aunt Reed!’ And that punishment you made me suffer
 because your wicked boy struck me—knocked me down for nothing. I will
 tell anybody who asks me questions, this exact tale. People think you a
 good woman, but you are bad, hard-hearted. _You_ are deceitful!”
 
 
-How dare I, Mrs. Reed? How dare I? Because it is the truth
+How dare I, Mrs. Reed? How dare I? Because it is the [[Truth|truth]]
 
-Ere I had finished this reply, my soul began to expand, to exult, with
-the strangest sense of freedom, of triumph, I ever felt. It seemed as
+Ere I had finished this reply, my [[Soul|soul]] began to expand, to exult, with
+the strangest sense of [[Freedom|freedom]], of triumph, I ever felt. It seemed as
 if an invisible bond had burst, and that I had struggled out into
 unhoped-for liberty. Not without cause was this sentiment: Mrs. Reed
 looked frightened; her work had slipped from her knee; she was lifting
@@ -131,9 +131,9 @@ up her hands, rocking herself to and fro, and even twisting her face as
 if she would cry.
 
 “Jane, you are under a mistake: what is the matter with you? Why do you
-tremble so violently? Would you like to drink some water?”
+tremble so violently? Would you like to drink some [[Water|water]]?”
 
 “No, Mrs. Reed.”
 
-“Is there anything else you wish for, Jane? I assure you, I desire to
+“Is there anything else you wish for, Jane? I assure you, I [[Desire|desire]] to
 be your friend.”

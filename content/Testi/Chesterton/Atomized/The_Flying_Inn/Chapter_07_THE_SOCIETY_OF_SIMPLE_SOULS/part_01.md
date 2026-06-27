@@ -17,7 +17,7 @@ tags:
 CHAPTER VII: THE SOCIETY OF SIMPLE SOULS
 
 
-UNDER sunset, at once softer and more sombre, under which the leaden sea took on a Lenten purple, a tint appropriate to tragedy, Lady Joan Brett was once more drifting moodily along the sea-front. The evening had been rainy and lowering; the watering-place season was nearly over; and she was almost alone on the shore; but she had fallen into the habit of restlessly pacing the place, and it seemed to satisfy some subconscious hunger in her rather mixed psychology. Through all her brooding her animal senses always remained abnormally active: she couldsmell the sea when it had ebbed almost to the horizon, and in the same way she heard, through every whisper of waves or wind, the swish or flutter of another woman’s skirt behind her. There is, she felt, something unmistakable about the movements of a lady who is generally very dignified and rather slow, and who happens to be in a hurry.
+UNDER sunset, at once softer and more sombre, under which the leaden sea took on a Lenten purple, a tint appropriate to [[Tragedy|tragedy]], Lady Joan Brett was once more drifting moodily along the sea-front. The evening had been rainy and lowering; the watering-place season was nearly over; and she was almost [[Alone|alone]] on the shore; but she had fallen into the habit of restlessly pacing the place, and it seemed to satisfy some subconscious hunger in her rather mixed psychology. Through all her brooding her animal senses always remained abnormally active: she couldsmell the sea when it had ebbed almost to the horizon, and in the same way she heard, through every whisper of waves or [[Wind|wind]], the swish or flutter of another woman’s skirt behind her. There is, she felt, something unmistakable about the movements of a lady who is generally very dignified and rather slow, and who happens to be in a hurry.
 
 
 
@@ -27,12 +27,12 @@ She turned to look at the lady who was thus hastening to overtake her; lifted he
 
 
 
-Joan Brett was herself, as she had said, a connection of the Ivywood family; but Lady Enid was Ivywood’s first cousin, and for all practical purposes his sister. For she kept house for him and his mother, who was now so incredibly old that she only survived to satisfy conventional opinion in the character of a speechless and uselesschaperon. And Ivywood was not the sort who would be likely to call out any activity in an old lady exercising that office. Nor, for that matter, was Lady Enid Wimpole; there seemed to shine on her face the same kind of inhuman, absent-minded common sense that shone on her cousin’s.
+Joan Brett was herself, as she had said, a connection of the Ivywood family; but Lady Enid was Ivywood’s first cousin, and for all practical purposes his sister. For she kept [[house]] for him and his mother, who was now so incredibly old that she only survived to satisfy conventional opinion in the character of a speechless and uselesschaperon. And Ivywood was not the sort who would be likely to call out any activity in an old lady exercising that office. Nor, for that matter, was Lady Enid Wimpole; there seemed to shine on her face the same kind of inhuman, absent-minded common sense that shone on her cousin’s.
 
 
 
 
-“Oh, I’m so glad I’ve caught you up,” she said to Joan. “Lady Ivywood wants youso much to come to us for the week-end or so, while Philip is still there. He always admired your sonnet on Cyprus so much, and he wants to talk to you about this policy of his in Turkey. Of course he’s awfully busy, but I shall be seeing him tonight after the meeting.”
+“Oh, I’m so glad I’ve caught you up,” she said to Joan. “Lady Ivywood wants youso much to come to us for the week-end or so, while Philip is still there. He always admired your [[Sonnet|sonnet]] on Cyprus so much, and he wants to talk to you about this policy of his in Turkey. Of course he’s awfully busy, but I shall be seeing him tonight after the meeting.”
 
 
 
@@ -42,27 +42,27 @@ Joan Brett was herself, as she had said, a connection of the Ivywood family; but
 
 
 
-“Are you a Simple Soul?” asked Lady Enid, carelessly.
+“Are you a Simple [[Soul]]?” asked Lady Enid, carelessly.
 
 
 
 
-“Am I a simple soul?” asked Joan, drawing her black brows together. “Merciful Heavens, no! What can you mean?”
+“Am I a simple [[Soul|soul]]?” asked Joan, drawing her black brows together. “Merciful Heavens, no! What can you mean?”
 
 
 
 
-“Their meeting’s on tonight at the small Universal Hall, and Philip’s taking the chair,” explained the other lady. “He’s very annoyed that he has to leave early to get up to the House, but Mr. Leveson can take the chair for the last bit. They’ve got Misysra Ammon.”
+“Their meeting’s on tonight at the small Universal Hall, and Philip’s taking the chair,” explained the other lady. “He’s very annoyed that he has to leave early to get up to the [[house|House]], but Mr. Leveson can take the chair for the last bit. They’ve got Misysra Ammon.”
 
 
 
 
-“Got Mrs. Who?” asked Joan, in honest doubt.
+“Got Mrs. Who?” asked Joan, in honest [[Doubt|doubt]].
 
 
 
 
-“You make game of everything,” said Lady Enid, in cheerless amiability. “It’s the man everyone’s talking about–you know as well as I do. It’s really his influence that hasmade the Simple Souls.”
+“You make game of everything,” said Lady Enid, in cheerless amiability. “It’s the man everyone’s talking about–you know as [[Well|well]] as I do. It’s really his influence that hasmade the Simple Souls.”
 
 
 
@@ -72,7 +72,7 @@ Joan Brett was herself, as she had said, a connection of the Ivywood family; but
 
 
 
-Then after a long silence, she added: “Who are the Simple Souls? I should be interested in them, if I could meet any.” And she turned her dark, brooding face on the darkening purple sea.
+Then after a long [[Silence|silence]], she added: “Who are the Simple Souls? I should be interested in them, if I could meet any.” And she turned her dark, brooding face on the darkening purple sea.
 
 
 
@@ -82,7 +82,7 @@ Then after a long silence, she added: “Who are the Simple Souls? I should be i
 
 
 
-“No,” said Joan, looking at the last dark line of sea. “I never met but one simple soul in my life.”
+“No,” said Joan, looking at the last dark line of sea. “I never met but one simple [[Soul|soul]] in my life.”
 
 
 
@@ -112,4 +112,4 @@ No one else was on the platform, but just under it, rather to Joan’s surprise,
 
 
 
-“… at least evident,” Lord Ivywood was saying, “that one of those ancestral impossibilities is no longer impossible. The East and the West are one. The East is no longer East nor the West West; for a small isthmus has been broken, and the Atlantic and Pacific are a single sea. No man assuredly has done more of this mighty work of unity than the brilliant and distinguished philosopher to whom you will have the pleasure of listening tonight; and I profoundly wish that affairs more practical, for I will not call them more important, did not prevent my remaining to enjoy his eloquence, as I have so often enjoyed it before. Mr. Leveson has kindly consented to take my place, and I can do no more than express my deep sympathy with the aims and ideals which will be developed before you tonight. I have long been increasingly convinced that underneath a certain mask of stiffness which the Mahommedan religion has worn through certain centuries, as a somewhat similar mask has been worn by the religion of the Jews, Islam has in it the potentialities of being the most progressive of all religions; so that a century or two to come we may see the cause of peace, of science and of reform everywhere supported by Islam as it is everywhere supported by Israel. Not in vain, I think, is the symbol of that faith the Crescent, the growing thing. While other creeds carry emblems implying more or less of finality, for this great creed of hope its very imperfection is its pride, and men shall walk fearlessly in new and wonderful paths, following the increasing curve which contains and holds up before them the eternal promises of the orb.”
+“… at least evident,” Lord Ivywood was saying, “that one of those ancestral impossibilities is no longer impossible. The East and the West are one. The East is no longer East nor the West West; for a small isthmus has been broken, and the Atlantic and Pacific are a single sea. No man assuredly has done more of this mighty work of [[unity]] than the brilliant and distinguished philosopher to whom you will have the pleasure of listening tonight; and I profoundly wish that affairs more practical, for I will not call them more important, did not prevent my remaining to enjoy his eloquence, as I have so often enjoyed it before. Mr. Leveson has kindly consented to take my place, and I can do no more than express my deep sympathy with the aims and ideals which will be developed before you tonight. I have long been increasingly convinced that underneath a certain mask of stiffness which the Mahommedan religion has worn through certain centuries, as a somewhat similar mask has been worn by the religion of the Jews, [[Islam]] has in it the potentialities of being the most progressive of all religions; so that a century or two to come we may see the cause of peace, of science and of [[Reform|reform]] everywhere supported by [[Islam]] as it is everywhere supported by Israel. Not in vain, I think, is the symbol of that [[Faith|faith]] the Crescent, the growing thing. While other creeds carry emblems implying more or less of finality, for this great creed of [[Hope|hope]] its very imperfection is its [[Pride|pride]], and men shall walk fearlessly in new and wonderful paths, following the increasing curve which contains and holds up before them the eternal promises of the orb.”

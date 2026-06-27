@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 28)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 28)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -26,13 +26,13 @@ what Dickens does give, is the _bounce_ of Trabb's boy. It is the real
 
 unconquerable rush and energy in a character which was the supreme and
 
-quite indescribable greatness of Dickens. He conquered by rushes; he
+quite indescribable [[Greatness|greatness]] of Dickens. He conquered by rushes; he
 
 attacked in masses; he carried things at the spear point in a charge of
 
 spears; he was the Rupert of Fiction. The thing about any figure of
 
-Dickens, about Sam Weller or Dick Swiveller, or Micawber, or Bagstock,
+Dickens, about [[Sam Weller]] or [[Dick Swiveller]], or Micawber, or Bagstock,
 
 or Trabb's boy,--the thing about each one of these persons is that he
 
@@ -92,17 +92,17 @@ really hates and dreads in Trabb's boy.
 
 
 
-A great man of letters or any great artist is symbolic without knowing
+A great man of letters or any great [[artist]] is symbolic without knowing
 
 it. The things he describes are types because they are truths.
 
-Shakespeare may, or may not, have ever put it to himself that Richard
+Shakespeare may, or may not, have ever put it to himself that [[Richard]]
 
 the Second was a philosophical symbol; but all good criticism must
 
 necessarily see him so. It may be a reasonable question whether the
 
-artist should be allegorical. There can be no doubt among sane men that
+[[artist]] should be allegorical. There can be no [[Doubt|doubt]] among sane men that
 
 the critic should be allegorical. Spenser may have lost by being less
 
@@ -114,13 +114,13 @@ a fine book like _Great Expectations_ that we should give even to its
 
 unpretentious and realistic figures a certain massive mysticism. Pip is
 
-Pip, but he is also the well-meaning snob. And this is even more true of
+Pip, but he is also the [[Well|well]]-meaning snob. And this is even more true of
 
 those two great figures in the tale which stand for the English
 
-democracy. For, indeed, the first and last word upon the English
+[[Democracy|democracy]]. For, indeed, the first and last word upon the English
 
-democracy is said in Joe Gargery and Trabb's boy. The actual English
+[[Democracy|democracy]] is said in [[Joe Gargery]] and Trabb's boy. The actual English
 
 populace, as distinct from the French populace or the Scotch or Irish
 
@@ -148,11 +148,11 @@ sometimes do their best to make the tyrants lose their heads. The gutter
 
 boys of the great towns carry the art of personal criticism to so rich
 
-and delicate a degree that some well-dressed persons when they walk past
+and delicate a degree that some [[Well|well]]-dressed persons when they walk past
 
 a file of them feel as if they were walking past a row of omniscient
 
-critics or judges with a power of life and death. Here and there only is
+critics or judges with a power of life and [[Death|death]]. Here and there only is
 
 some ordinary human custom, some natural human pleasure suppressed in
 
@@ -162,11 +162,11 @@ before the fastidiousness of the poor.
 
 
 
-Of the other type of democracy it is far more difficult to speak. It is
+Of the other type of [[Democracy|democracy]] it is far more difficult to speak. It is
 
 always hard to speak of good things or good people, for in satisfying
 
-the soul they take away a certain spur to speech. Dickens was often
+the [[Soul|soul]] they take away a certain spur to speech. Dickens was often
 
 called a sentimentalist. In one sense he sometimes was a sentimentalist.
 
@@ -176,9 +176,9 @@ theatrical, then in the core and reality of his character Dickens was
 
 the very reverse of a sentimentalist. He seriously and definitely loved
 
-goodness. To see sincerity and charity satisfied him like a meal. What
+goodness. To see sincerity and [[Charity|charity]] satisfied him like a meal. What
 
-some critics call his love of sweet stuff is really his love of plain
+some critics call his [[Love|love]] of sweet stuff is really his [[Love|love]] of plain
 
 beef and bread. Sometimes one is tempted to wish that in the long
 

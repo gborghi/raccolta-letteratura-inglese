@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 6)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,37 +16,37 @@ tags:
 
 go. These things are isolated sketches, and nothing else. Even Todgers's
 
-boarding-house is only a place where Mr. Pecksniff can be delightfully
+boarding-[[house]] is only a place where Mr. Pecksniff can be delightfully
 
 hypocritical. It is not a place which throws any new light on Mr.
 
 Pecksniff's hypocrisy. But the case is different with that more subtle
 
-hypocrite in _Dombey and Son_--I mean Major Bagstock. Dickens does mean
+hypocrite in _Dombey and Son_--I mean [[Major Bagstock]]. Dickens does mean
 
 it as a deliberate light on Mr. Dombey's character that he basks with a
 
-fatuous calm in the blazing sun of Major Bagstock's tropical and
+fatuous calm in the blazing sun of [[Major Bagstock]]'s tropical and
 
 offensive flattery. Here, then, is the essence of the change. He not
 
-only wishes to write a novel; this he did as early as _Nicholas
+only wishes to write a [[Novel|novel]]; this he did as early as _Nicholas
 
-Nickleby_. He wishes to have as little as possible in the novel that
+Nickleby_. He wishes to have as little as possible in the [[Novel|novel]] that
 
-does not really assist it as a novel. Previously he had asked with the
+does not really assist it as a [[Novel|novel]]. Previously he had asked with the
 
-assistance of what incidents could his hero wander farther and farther
+assistance of what incidents could his [[Hero|hero]] wander farther and farther
 
 from the pathway. Now he has really begun to ask with the assistance of
 
-what incidents his hero can get nearer and nearer to the goal.
+what incidents his [[Hero|hero]] can get nearer and nearer to the goal.
 
 
 
 The change made Dickens a greater novelist. I am not sure that it made
 
-him a greater man. One good character by Dickens requires all eternity
+him a greater man. One good character by Dickens requires all [[Eternity|eternity]]
 
 to stretch its legs in; and the characters in his later books are always
 
@@ -54,7 +54,7 @@ being tripped up by some tiresome nonsense about the story. For
 
 instance, in _Dombey and Son_, Mrs. Skewton is really very funny. But
 
-nobody with a love of the real smell of Dickens would compare her for a
+nobody with a [[Love|love]] of the real smell of Dickens would compare her for a
 
 moment, for instance, with Mrs. Nickleby. And the reason of Mrs.
 
@@ -68,7 +68,7 @@ story, except to get in everybody's way. The consequence is that we
 
 complain not of her for getting in everyone's way, but of everyone for
 
-getting in hers. What are suns and stars, what are times and seasons,
+getting in hers. What are suns and [[Stars|stars]], what are times and [[Seasons|seasons]],
 
 what is the mere universe, that it should presume to interrupt Mrs.
 
@@ -86,15 +86,15 @@ adventurous filament of frail and daring folly. Nothing could be better
 
 than Mrs. Skewton when she finds herself, after convolutions of speech,
 
-somehow on the subject of Henry VIII., and pauses to mention with
+somehow on the subject of [[Henry VIII]]., and pauses to mention with
 
 approval "his dear little peepy eyes and his benevolent chin." Nothing
 
-could be better than her attempt at Mahomedan resignation when she feels
+could be better than her attempt at Mahomedan [[Resignation|resignation]] when she feels
 
 almost inclined to say "that there is no What's-his-name but Thingummy,
 
-and What-you-may-call-it is his prophet!" But she has not so much time
+and What-you-may-call-it is his [[Prophet|prophet]]!" But she has not so much [[Time|time]]
 
 as Mrs. Nickleby to say these good things; also she has not sufficient
 
@@ -108,11 +108,11 @@ shrivelled ear" to listen to what Dombey is saying to Edith. Worldliness
 
 is the most solemn thing in the world; it is far more solemn than
 
-other-worldliness. Mrs. Nickleby can afford to ramble as a child does in
+other-worldliness. Mrs. Nickleby can afford to ramble as a [[Child|child]] does in
 
-a field, or as a child does to laugh at nothing, for she is like a
+a field, or as a [[Child|child]] does to laugh at nothing, for she is like a
 
-child, innocent. It is only the good who can afford to be frivolous.
+[[Child|child]], [[Innocent|innocent]]. It is only the good who can afford to be frivolous.
 
 
 
@@ -120,7 +120,7 @@ Broadly speaking, what is said here of Mrs. Skewton applies to the great
 
 part of _Dombey and Son_, even to the comic part of it. It shows an
 
-advance in art and unity; it does not show an advance in genius and
+advance in art and [[unity]]; it does not show an advance in genius and
 
 creation. In some cases, in fact, I cannot help feeling that it shows a
 
@@ -130,13 +130,13 @@ comic character really prominent in Dickens, upon whom Dickens has
 
 really lavished the wealth of his invention, and who does not amuse me
 
-at all, and that character is Captain Cuttle. But three great exceptions
+at all, and that character is [[Captain Cuttle]]. But three great exceptions
 
 must be made to any such disparagement of _Dombey and Son_. They are all
 
 three of that royal order in Dickens's creation which can no more be
 
-described or criticised than strong wine. The first is Major Bagstock,
+described or criticised than strong wine. The first is [[Major Bagstock]],
 
 the second is Cousin Feenix, the third is Toots. In Bagstock Dickens has
 
@@ -144,7 +144,7 @@ blasted for ever that type which pretends to be sincere by the simple
 
 operation of being explosively obvious. He tells about a quarter of the
 
-truth, and then poses as truthful because a quarter of the truth is much
+[[Truth|truth]], and then poses as truthful because a quarter of the [[Truth|truth]] is much
 
 simpler than the whole of it. He is the kind of man who goes about with
 
@@ -164,9 +164,9 @@ down in black and white, as if black and white were the only two
 
 colours; as if blue and green and red and gold were not facts of the
 
-universe. He is too selfish to tell the truth and too impatient even to
+universe. He is too selfish to tell the [[Truth|truth]] and too impatient even to
 
-hear it. He cannot endure the truth, because it is subtle. This man is
+hear it. He cannot endure the [[Truth|truth]], because it is subtle. This man is
 
 almost always like Bagstock--a sycophant and a toad-eater. A man is not
 

@@ -17,13 +17,13 @@ tags:
 OPENING OF THE SECESSION WAR
 
 News of the attack on fort Sumter and _the flag_ at Charleston harbor,
-S. C., was receiv'd in New York city late at night (13th April, 1861,)
+S. C., was receiv'd in [[New York]] [[City|city]] late at [[Night|night]] (13th April, 1861,)
 and was immediately sent out in extras of the newspapers. I had been to
-the opera in Fourteenth street that night, and after the performance was
-walking down Broadway toward twelve o'clock, on my way to Brooklyn,
+the opera in Fourteenth street that [[Night|night]], and after the performance was
+walking down Broadway toward twelve o'[[Clock|clock]], on my way to Brooklyn,
 when I heard in the distance the loud cries of the newsboys, who came
 presently tearing and yelling up the street, rushing from side to side
-even more furiously than usual. I bought an extra and cross'd to the
+even more furiously than usual. I bought an extra and [[Cross|cross]]'d to the
 Metropolitan hotel (Niblo's) where the great lamps were still brightly
 blazing, and, with a crowd of others, who gather'd impromptu, read the
 news, which was evidently authentic. For the benefit of some who had no

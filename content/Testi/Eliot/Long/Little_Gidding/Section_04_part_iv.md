@@ -19,13 +19,13 @@ The dove descending breaks the air
 With flame of incandescent terror  
 Of which the tongues declare  
 The one discharge from sin and error.  
-The only hope, or else despair  
+The only [[Hope|hope]], or else [[Despair|despair]]  
    Lies in the choice of pyre or pyre —  
-   To be redeemed from fire by fire.  
-Who then devised the torment? Love.  
-Love is the unfamiliar Name  
+   To be redeemed from [[Fire|fire]] by [[Fire|fire]].  
+Who then devised the torment? [[Love]].  
+[[Love]] is the unfamiliar Name  
 Behind the hands that wove  
 The intolerable shirt of flame  
 Which human power cannot remove.  
    We only live, only suspire  
-   Consumed by either fire or fire.  
+   Consumed by either [[Fire|fire]] or [[Fire|fire]].  

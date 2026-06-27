@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 45: FORTY FIVE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Didn’t I say he was a tremendous fellow in his housekeeping?’ cried
-Tom. ‘Bless my soul! It’s wonderful.’
+Tom. ‘Bless my [[Soul|soul]]! It’s wonderful.’
 
 ‘Ah, Miss Pinch,’ said John. ‘This is the bright side of the life we
 lead in such a place. It would be a dismal life, indeed, if it didn’t
@@ -26,17 +26,17 @@ monarch, and wouldn’t change his mode of life for any consideration. He
 only pretends to grumble.’
 
 No, John really did not appear to pretend; for he was uncommonly earnest
-in his desire to have it understood that he was as dull, solitary, and
+in his [[Desire|desire]] to have it understood that he was as dull, solitary, and
 uncomfortable on ordinary occasions as an unfortunate young man could,
 in reason, be. It was a wretched life, he said, a miserable life. He
 thought of getting rid of the chambers as soon as possible; and meant,
 in fact, to put a bill up very shortly.
 
-‘Well’ said Tom Pinch, ‘I don’t know where you can go, John, to be more
+‘[[Well]]’ said [[Tom Pinch]], ‘I don’t know where you can go, John, to be more
 comfortable. That’s all I can say. What do YOU say, Ruth?’
 
 Ruth trifled with the cherries on her plate, and said that she thought
-Mr Westlock ought to be quite happy, and that she had no doubt he was.
+Mr Westlock ought to be quite happy, and that she had no [[Doubt|doubt]] he was.
 
 Ah, foolish, panting, frightened little heart, how timidly she said it!
 
@@ -44,7 +44,7 @@ Ah, foolish, panting, frightened little heart, how timidly she said it!
 morning,’ she added in the same breath.
 
 ‘So I am,’ said Tom. ‘We have been so talkative on other topics that I
-declare I have not had time to think of it. I’ll tell it you at once,
+declare I have not had [[Time|time]] to think of it. I’ll tell it you at once,
 John, in case I should forget it altogether.’
 
 On Tom’s relating what had passed upon the wharf, his friend was very
@@ -52,10 +52,10 @@ much surprised, and took such a great interest in the narrative as
 Tom could not quite understand. He believed he knew the old lady whose
 acquaintance they had made, he said; and that he might venture to say,
 from their description of her, that her name was Gamp. But of what
-nature the communication could have been which Tom had borne so
+[[Nature|nature]] the communication could have been which Tom had borne so
 unexpectedly; why its delivery had been entrusted to him; how it
 happened that the parties were involved together; and what secret lay
-at the bottom of the whole affair; perplexed him very much. Tom had been
+at the [[Bottom|bottom]] of the whole affair; perplexed him very much. Tom had been
 sure of his taking some interest in the matter; but was not prepared for
 the strong interest he showed. It held John Westlock to the subject even
 after Ruth had left the room; and evidently made him anxious to pursue
@@ -71,12 +71,12 @@ satisfaction; even if he knew what was in the letter.’
 
 ‘I am certain of it.’
 
-‘Well!’ said Tom, ‘I shall remonstrate with him when I see him (he
+‘[[Well]]!’ said Tom, ‘I shall remonstrate with him when I see him (he
 goes in and out in a strange way, but I will try to catch him tomorrow
 morning), on his having asked me to execute such an unpleasant
 commission. And I have been thinking, John, that if I went down to
-Mrs What’s-her-name’s in the City, where I was before, you know--Mrs
-Todgers’s--to-morrow morning, I might find poor Mercy Pecksniff there,
+Mrs What’s-her-name’s in the [[City]], where I was before, you know--Mrs
+Todgers’s--to-morrow morning, I might find poor [[Mercy]] Pecksniff there,
 perhaps, and be able to explain to her how I came to have any hand in
 the business.’
 
@@ -87,9 +87,9 @@ desirable for you to disentangle yourself from any appearance of willful
 connection with it, that I would counsel you to see her husband, if you
 can, and wash your hands of it by a plain statement of the facts. I have
 a misgiving that there is something dark at work here, Tom. I will tell
-you why, at another time; when I have made an inquiry or two myself.’
+you why, at another [[Time|time]]; when I have made an inquiry or two myself.’
 
-All this sounded very mysterious to Tom Pinch. But as he knew he could
+All this sounded very mysterious to [[Tom Pinch]]. But as he knew he could
 rely upon his friend, he resolved to follow this advice.
 
 Ah, but it would have been a good thing to have had a coat of
@@ -104,15 +104,15 @@ work of pats of butter. That would have been pleasant. The grim and
 griffin-like inflexibility with which the fiery-faced matron repelled
 these engaging advances, as proceeding from a hostile and dangerous
 power, who could have no business there, unless it were to deprive her
-of a customer, or suggest what became of the self-consuming tea and
+of a customer, or suggest what became of the [[Self|self]]-consuming tea and
 sugar, and other general trifles. That would have been agreeable. The
 bashful, winning, glorious curiosity, with which little Ruth, when
 fiery-face was gone, peeped into the books and nick-nacks that
 were lying about, and had a particular interest in some delicate
 paper-matches on the chimney-piece; wondering who could have made them.
 That would have been worth seeing. The faltering hand with which she
-tied those flowers together; with which, almost blushing at her own
-fair self as imaged in the glass, she arranged them in her breast, and
+tied those [[Flowers|flowers]] together; with which, almost blushing at her own
+fair [[Self|self]] as imaged in the glass, she arranged them in her breast, and
 looking at them with her head aside, now half resolved to take them out
 again, now half resolved to leave them where they were. That would have
 been delightful!
@@ -121,16 +121,16 @@ John seemed to think it all delightful; for coming in with Tom to
 tea, he took his seat beside her like a man enchanted. And when the
 tea-service had been removed, and Tom, sitting down at the piano, became
 absorbed in some of his old organ tunes, he was still beside her at the
-open window, looking out upon the twilight.
+open [[Window|window]], looking out upon the twilight.
 
 There is little enough to see in Furnival’s Inn. It is a shady, quiet
 place, echoing to the footsteps of the stragglers who have business
-there; and rather monotonous and gloomy on summer evenings. What gave it
-such a charm to them, that they remained at the window as unconscious of
-the flight of time as Tom himself, the dreamer, while the melodies which
+there; and rather monotonous and gloomy on [[Summer|summer]] evenings. What gave it
+such a charm to them, that they remained at the [[Window|window]] as unconscious of
+the flight of [[Time|time]] as Tom himself, the dreamer, while the melodies which
 had so often soothed his spirit were hovering again about him! What
-power infused into the fading light, the gathering darkness; the stars
-that here and there appeared; the evening air, the City’s hum and stir,
+power infused into the fading light, the gathering darkness; the [[Stars|stars]]
+that here and there appeared; the evening air, the [[City]]’s hum and stir,
 the very chiming of the old church clocks; such exquisite enthrallment,
 that the divinest regions of the earth spread out before their eyes
 could not have held them captive in a stronger chain?

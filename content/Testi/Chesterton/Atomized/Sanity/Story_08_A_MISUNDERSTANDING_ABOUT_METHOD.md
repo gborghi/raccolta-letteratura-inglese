@@ -1,5 +1,5 @@
 ---
-title: "Sanity — A MISUNDERSTANDING ABOUT METHOD"
+title: "[[Sanity]] — A MISUNDERSTANDING ABOUT METHOD"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

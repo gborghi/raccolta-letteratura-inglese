@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 16"
+title: "Bleak [[house|House]] — Chapter 16"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,12 +16,12 @@ tags:
 
 CHAPTER XVI
 
-Tom-all-Alone’s
+Tom-all-[[Alone]]’s
 
 
-My Lady Dedlock is restless, very restless. The astonished
+My [[Lady Dedlock]] is restless, very restless. The astonished
 fashionable intelligence hardly knows where to have her. To-day she
-is at Chesney Wold; yesterday she was at her house in town; to-morrow
+is at Chesney Wold; yesterday she was at her [[house]] in town; to-morrow
 she may be abroad, for anything the fashionable intelligence can with
 confidence predict. Even Sir Leicester’s gallantry has some trouble
 to keep pace with her. It would have more but that his other faithful
@@ -30,18 +30,18 @@ bed-chamber at Chesney Wold and grips him by both legs.
 
 Sir Leicester receives the gout as a troublesome demon, but still a
 demon of the patrician order. All the Dedlocks, in the direct male
-line, through a course of time during and beyond which the memory of
+line, through a course of [[Time|time]] during and beyond which the [[Memory|memory]] of
 man goeth not to the contrary, have had the gout. It can be proved,
 sir. Other men’s fathers may have died of the rheumatism or may have
-taken base contagion from the tainted blood of the sick vulgar, but
+taken base contagion from the tainted [[Blood|blood]] of the sick vulgar, but
 the Dedlock family have communicated something exclusive even to the
 levelling process of dying by dying of their own family gout. It has
 come down through the illustrious line like the plate, or the
 pictures, or the place in Lincolnshire. It is among their dignities.
 Sir Leicester is perhaps not wholly without an impression, though he
-has never resolved it into words, that the angel of death in the
+has never resolved it into words, that the angel of [[Death|death]] in the
 discharge of his necessary duties may observe to the shades of the
-aristocracy, “My lords and gentlemen, I have the honour to present to
+aristocracy, “My lords and gentlemen, I have the [[Honour|honour]] to present to
 you another Dedlock certified to have arrived per the family gout.”
 
 Hence Sir Leicester yields up his family legs to the family disorder
@@ -57,31 +57,31 @@ And a goodly show he makes, lying in a flush of crimson and gold in
 the midst of the great drawing-room before his favourite picture of
 my Lady, with broad strips of sunlight shining in, down the long
 perspective, through the long line of windows, and alternating with
-soft reliefs of shadow. Outside, the stately oaks, rooted for ages in
+soft reliefs of [[Shadow|shadow]]. Outside, the stately oaks, rooted for ages in
 the green ground which has never known ploughshare, but was still a
-chase when kings rode to battle with sword and shield and rode
-a-hunting with bow and arrow, bear witness to his greatness. Inside,
+chase when kings rode to battle with [[Sword|sword]] and shield and rode
+a-hunting with bow and arrow, bear witness to his [[Greatness|greatness]]. Inside,
 his forefathers, looking on him from the walls, say, “Each of us was
-a passing reality here and left this coloured shadow of himself and
+a passing reality here and left this coloured [[Shadow|shadow]] of himself and
 melted into remembrance as dreamy as the distant voices of the rooks
-now lulling you to rest,” and bear their testimony to his greatness
+now lulling you to rest,” and bear their testimony to his [[Greatness|greatness]]
 too. And he is very great this day. And woe to Boythorn or other
 daring wight who shall presumptuously contest an inch with him!
 
 My Lady is at present represented, near Sir Leicester, by her
 portrait. She has flitted away to town, with no intention of
 remaining there, and will soon flit hither again, to the confusion of
-the fashionable intelligence. The house in town is not prepared for
+the fashionable intelligence. The [[house]] in town is not prepared for
 her reception. It is muffled and dreary. Only one Mercury in powder
-gapes disconsolate at the hall-window; and he mentioned last night to
+gapes disconsolate at the hall-[[Window|window]]; and he mentioned last [[Night|night]] to
 another Mercury of his acquaintance, also accustomed to good society,
 that if that sort of thing was to last—which it couldn’t, for a man
 of his spirits couldn’t bear it, and a man of his figure couldn’t be
 expected to bear it—there would be no resource for him, upon his
-honour, but to cut his throat!
+[[Honour|honour]], but to cut his throat!
 
 What connexion can there be between the place in Lincolnshire, the
-house in town, the Mercury in powder, and the whereabout of Jo the
+[[house]] in town, the Mercury in powder, and the whereabout of Jo the
 outlaw with the broom, who had that distant ray of light upon him
 when he swept the churchyard-step? What connexion can there have been
 between many people in the innumerable histories of this world who
@@ -95,37 +95,37 @@ keep the mud off the crossing in dirty weather, and harder still to
 live by doing it. Nobody taught him even that much; he found it out.
 
 Jo lives—that is to say, Jo has not yet died—in a ruinous place
-known to the like of him by the name of Tom-all-Alone’s. It is a
+known to the like of him by the name of Tom-all-[[Alone]]’s. It is a
 black, dilapidated street, avoided by all decent people, where the
-crazy houses were seized upon, when their decay was far advanced, by
+crazy houses were seized upon, when their [[Decay|decay]] was far advanced, by
 some bold vagrants who after establishing their own possession took
 to letting them out in lodgings. Now, these tumbling tenements
-contain, by night, a swarm of misery. As on the ruined human wretch
+contain, by [[Night|night]], a swarm of misery. As on the ruined human wretch
 vermin parasites appear, so these ruined shelters have bred a crowd
 of foul existence that crawls in and out of gaps in walls and boards;
-and coils itself to sleep, in maggot numbers, where the rain drips
+and coils itself to [[Sleep|sleep]], in maggot numbers, where the rain drips
 in; and comes and goes, fetching and carrying fever and sowing more
 evil in its every footprint than Lord Coodle, and Sir Thomas Doodle,
 and the Duke of Foodle, and all the fine gentlemen in office, down to
 Zoodle, shall set right in five hundred years—though born expressly
 to do it.
 
-Twice lately there has been a crash and a cloud of dust, like the
-springing of a mine, in Tom-all-Alone’s; and each time a house has
+Twice lately there has been a crash and a cloud of [[Dust|dust]], like the
+springing of a mine, in Tom-all-[[Alone]]’s; and each [[Time|time]] a [[house]] has
 fallen. These accidents have made a paragraph in the newspapers and
 have filled a bed or two in the nearest hospital. The gaps remain,
 and there are not unpopular lodgings among the rubbish. As several
-more houses are nearly ready to go, the next crash in Tom-all-Alone’s
+more houses are nearly ready to go, the next crash in Tom-all-[[Alone]]’s
 may be expected to be a good one.
 
 This desirable property is in Chancery, of course. It would be an
 insult to the discernment of any man with half an eye to tell him so.
 Whether “Tom” is the popular representative of the original plaintiff
 or defendant in Jarndyce and Jarndyce, or whether Tom lived here when
-the suit had laid the street waste, all alone, until other settlers
+the suit had laid the street waste, all [[Alone|alone]], until other settlers
 came to join him, or whether the traditional title is a comprehensive
 name for a retreat cut off from honest company and put out of the
-pale of hope, perhaps nobody knows. Certainly Jo don’t know.
+pale of [[Hope|hope]], perhaps nobody knows. Certainly Jo don’t know.
 
 “For I don’t,” says Jo, “I don’t know nothink.”
 
@@ -147,15 +147,15 @@ here somehow, too, and everybody overlooked me until I became the
 creature that I am! It must be a strange state, not merely to be told
 that I am scarcely human (as in the case of my offering myself for a
 witness), but to feel it of my own knowledge all my life! To see the
-horses, dogs, and cattle go by me and to know that in ignorance I
+horses, [[dogs]], and cattle go by me and to know that in ignorance I
 belong to them and not to the superior beings in my shape, whose
 delicacy I offend! Jo’s ideas of a criminal trial, or a judge, or a
-bishop, or a government, or that inestimable jewel to him (if he only
+bishop, or a [[government]], or that inestimable [[Jewel|jewel]] to him (if he only
 knew it) the Constitution, should be strange! His whole material and
-immaterial life is wonderfully strange; his death, the strangest
+immaterial life is wonderfully strange; his [[Death|death]], the strangest
 thing of all.
 
-Jo comes out of Tom-all-Alone’s, meeting the tardy morning which is
+Jo comes out of Tom-all-[[Alone]]’s, meeting the tardy morning which is
 always late in getting down there, and munches his dirty bit of bread
 as he comes along. His way lying through many streets, and the houses
 not yet being open, he sits down to breakfast on the door-step of the
@@ -170,10 +170,10 @@ He goes to his crossing and begins to lay it out for the day. The
 town awakes; the great tee-totum is set up for its daily spin and
 whirl; all that unaccountable reading and writing, which has been
 suspended for a few hours, recommences. Jo and the other lower
-animals get on in the unintelligible mess as they can. It is
+[[Animals|animals]] get on in the unintelligible mess as they can. It is
 market-day. The blinded oxen, over-goaded, over-driven, never guided,
 run into wrong places and are beaten out, and plunge red-eyed and
-foaming at stone walls, and often sorely hurt the innocent, and often
+foaming at stone walls, and often sorely hurt the [[Innocent|innocent]], and often
 sorely hurt themselves. Very like Jo and his order; very, very like!
 
 A band of music comes and plays. Jo listens to it. So does a dog—a
@@ -188,8 +188,8 @@ ready at a whistle to scamper over their backs and tear out mouthfuls
 of their wool; but an educated, improved, developed dog who has been
 taught his duties and knows how to discharge them. He and Jo listen
 to the music, probably with much the same amount of animal
-satisfaction; likewise as to awakened association, aspiration, or
-regret, melancholy or joyful reference to things beyond the senses,
+satisfaction; likewise as to awakened association, [[Aspiration|aspiration]], or
+regret, [[Melancholy|melancholy]] or joyful reference to things beyond the senses,
 they are probably upon a par. But, otherwise, how far above the human
 listener is the brute!
 
@@ -200,7 +200,7 @@ their bite.
 The day changes as it wears itself away and becomes dark and drizzly.
 Jo fights it out at his crossing among the mud and wheels, the
 horses, whips, and umbrellas, and gets but a scanty sum to pay for
-the unsavoury shelter of Tom-all-Alone’s. Twilight comes on; gas
+the unsavoury shelter of Tom-all-[[Alone]]’s. Twilight comes on; gas
 begins to start up in the shops; the lamplighter, with his ladder,
 runs along the margin of the pavement. A wretched evening is
 beginning to close in.
@@ -208,22 +208,22 @@ beginning to close in.
 In his chambers Mr. Tulkinghorn sits meditating an application to the
 nearest magistrate to-morrow morning for a warrant. Gridley, a
 disappointed suitor, has been here to-day and has been alarming. We
-are not to be put in bodily fear, and that ill-conditioned fellow
+are not to be put in bodily [[Fear|fear]], and that ill-conditioned fellow
 shall be held to bail again. From the ceiling, foreshortened
-Allegory, in the person of one impossible Roman upside down, points
+[[Allegory]], in the person of one impossible Roman upside down, points
 with the arm of Samson (out of joint, and an odd one) obtrusively
-toward the window. Why should Mr. Tulkinghorn, for such no reason,
-look out of window? Is the hand not always pointing there? So he does
-not look out of window.
+toward the [[Window|window]]. Why should Mr. Tulkinghorn, for such no reason,
+look out of [[Window|window]]? Is the hand not always pointing there? So he does
+not look out of [[Window|window]].
 
 And if he did, what would it be to see a woman going by? There are
 women enough in the world, Mr. Tulkinghorn thinks—too many; they are
-at the bottom of all that goes wrong in it, though, for the matter of
+at the [[Bottom|bottom]] of all that goes wrong in it, though, for the matter of
 that, they create business for lawyers. What would it be to see a
 woman going by, even though she were going secretly? They are all
-secret. Mr. Tulkinghorn knows that very well.
+secret. Mr. Tulkinghorn knows that very [[Well|well]].
 
-But they are not all like the woman who now leaves him and his house
+But they are not all like the woman who now [[Leaves|leaves]] him and his [[house]]
 behind, between whose plain dress and her refined manner there is
 something exceedingly inconsistent. She should be an upper servant by
 her attire, yet in her air and step, though both are hurried and
@@ -238,7 +238,7 @@ crossing where Jo plies with his broom. He crosses with her and begs.
 Still, she does not turn her head until she has landed on the other
 side. Then she slightly beckons to him and says, “Come here!”
 
-Jo follows her a pace or two into a quiet court.
+Jo follows her a pace or two into a quiet [[Court|court]].
 
 “Are you the boy I’ve read of in the papers?” she asked behind her
 veil.
@@ -271,7 +271,7 @@ know him, did you?”
 
 “How dare you ask me if I knew him?”
 
-“No offence, my lady,” says Jo with much humility, for even he has
+“No offence, my lady,” says Jo with much [[Humility|humility]], for even he has
 got at the suspicion of her being a lady.
 
 “I am not a lady. I am a servant.”
@@ -290,7 +290,7 @@ mentioned.
 
 “Go before me and show me all those dreadful places. Stop opposite to
 each, and don’t speak to me unless I speak to you. Don’t look back.
-Do what I want, and I will pay you well.”
+Do what I want, and I will pay you [[Well|well]].”
 
 Jo attends closely while the words are being spoken; tells them off
 on his broom-handle, finding them rather hard; pauses to consider
@@ -310,7 +310,7 @@ Jo screws up his mouth into a whistle, gives his ragged head a rub,
 takes his broom under his arm, and leads the way, passing deftly with
 his bare feet over the hard stones and through the mud and mire.
 
-Cook’s Court. Jo stops. A pause.
+Cook’s [[Court]]. Jo stops. A pause.
 
 “Who lives here?”
 
@@ -319,13 +319,13 @@ whisper without looking over his shoulder.
 
 “Go on to the next.”
 
-Krook’s house. Jo stops again. A longer pause.
+Krook’s [[house]]. Jo stops again. A longer pause.
 
 “Who lives here?”
 
 “HE lived here,” Jo answers as before.
 
-After a silence he is asked, “In which room?”
+After a [[Silence|silence]] he is asked, “In which room?”
 
 “In the back room up there. You can see the winder from this corner.
 Up there! That’s where I see him stritched out. This is the
@@ -336,7 +336,7 @@ public-ouse where I was took to.”
 It is a longer walk to the next, but Jo, relieved of his first
 suspicions, sticks to the forms imposed upon him and does not look
 round. By many devious ways, reeking with offence of many kinds, they
-come to the little tunnel of a court, and to the gas-lamp (lighted
+come to the little tunnel of a [[Court|court]], and to the gas-lamp (lighted
 now), and to the iron gate.
 
 “He was put there,” says Jo, holding to the bars and looking in.
@@ -386,18 +386,18 @@ spot again!”
 Jo thrusts the handle of his broom between the bars of the gate, and
 with his utmost power of elaboration, points it out. At length,
 looking aside to see if he has made himself intelligible, he finds
-that he is alone.
+that he is [[Alone|alone]].
 
 His first proceeding is to hold the piece of money to the gas-light
 and to be overpowered at finding that it is yellow—gold. His next is
 to give it a one-sided bite at the edge as a test of its quality.
 His next, to put it in his mouth for safety and to sweep the
 step and passage with great care. His job done, he sets off for
-Tom-all-Alone’s, stopping in the light of innumerable gas-lamps to
+Tom-all-[[Alone]]’s, stopping in the light of innumerable gas-lamps to
 produce the piece of gold and give it another one-sided bite as a
 reassurance of its being genuine.
 
-The Mercury in powder is in no want of society to-night, for my Lady
+The Mercury in powder is in no want of society to-[[Night|night]], for my Lady
 goes to a grand dinner and three or four balls. Sir Leicester is
 fidgety down at Chesney Wold, with no better company than the gout;
 he complains to Mrs. Rouncewell that the rain makes such a monotonous
@@ -405,6 +405,6 @@ pattering on the terrace that he can’t read the paper even by the
 fireside in his own snug dressing-room.
 
 “Sir Leicester would have done better to try the other side of the
-house, my dear,” says Mrs. Rouncewell to Rosa. “His dressing-room is
+[[house]], my dear,” says Mrs. Rouncewell to Rosa. “His dressing-room is
 on my Lady’s side. And in all these years I never heard the step upon
-the Ghost’s Walk more distinct than it is to-night!”
+the [[Ghost]]’s Walk more distinct than it is to-[[Night|night]]!”

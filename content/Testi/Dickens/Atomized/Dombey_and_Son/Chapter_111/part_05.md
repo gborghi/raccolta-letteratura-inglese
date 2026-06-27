@@ -15,40 +15,40 @@ tags:
 
 
 “I thought you said there was nobody here,” said Carker, turning upon
-him with the ghost of his old smile, when he was angry or suspicious.
+him with the [[Ghost|ghost]] of his old smile, when he was angry or suspicious.
 
-“Not then, sir. Two gentlemen came in the night by the short train that
-stops here, Sir. Warm water, Sir?”
+“Not then, sir. Two gentlemen came in the [[Night|night]] by the short train that
+stops here, Sir. Warm [[Water|water]], Sir?”
 
 “No; and take away the candle. There’s day enough for me.”
 
-Having thrown himself upon the bed, half-dressed he was at the window
+Having thrown himself upon the bed, half-dressed he was at the [[Window|window]]
 as the man left the room. The cold light of morning had succeeded to
-night and there was already, in the sky, the red suffusion of the
-coming sun. He bathed his head and face with water—there was no cooling
+[[Night|night]] and there was already, in the sky, the red suffusion of the
+coming sun. He bathed his head and face with [[Water|water]]—there was no cooling
 influence in it for him—hurriedly put on his clothes, paid what he
 owed, and went out.
 
 The air struck chill and comfortless as it breathed upon him. There was
 a heavy dew; and, hot as he was, it made him shiver. After a glance at
-the place where he had walked last night, and at the signal-lights
+the place where he had walked last [[Night|night]], and at the signal-lights
 burning in the morning, and bereft of their significance, he turned to
 where the sun was rising, and beheld it, in its glory, as it broke upon
 the scene.
 
-So awful, so transcendent in its beauty, so divinely solemn. As he cast
-his faded eyes upon it, where it rose, tranquil and serene, unmoved by
+So awful, so transcendent in its [[Beauty|beauty]], so divinely solemn. As he cast
+his faded eyes upon it, where it [[Rose|rose]], tranquil and serene, unmoved by
 all the wrong and wickedness on which its beams had shone since the
 beginning of the world, who shall say that some weak sense of virtue
 upon Earth, and its in Heaven, did not manifest itself, even to him? If
 ever he remembered sister or brother with a touch of tenderness and
 remorse, who shall say it was not then?
 
-He needed some such touch then. Death was on him. He was marked off—the
-living world, and going down into his grave.
+He needed some such touch then. [[Death]] was on him. He was marked off—the
+living world, and going down into his [[Grave|grave]].
 
-He paid the money for his journey to the country-place he had thought
-of; and was walking to and fro, alone, looking along the lines of iron,
+He paid the money for his [[Journey|journey]] to the country-place he had thought
+of; and was walking to and fro, [[Alone|alone]], looking along the lines of iron,
 across the valley in one direction, and towards a dark bridge near at
 hand in the other; when, turning in his walk, where it was bounded by
 one end of the wooden stage on which he paced up and down, he saw the
@@ -56,8 +56,8 @@ man from whom he had fled, emerging from the door by which he himself
 had entered. And their eyes met.
 
 In the quick unsteadiness of the surprise, he staggered, and slipped on
-to the road below him. But recovering his feet immediately, he stepped
-back a pace or two upon that road, to interpose some wider space
+to the [[Road|road]] below him. But recovering his feet immediately, he stepped
+back a pace or two upon that [[Road|road]], to interpose some wider space
 between them, and looked at his pursuer, breathing short and quick.
 
 He heard a shout—another—saw the face change from its vindictive
@@ -71,5 +71,5 @@ with its fiery heat, and cast his mutilated fragments in the air.
 When the traveller, who had been recognised, recovered from a swoon, he
 saw them bringing from a distance something covered, that lay heavy and
 still, upon a board, between four men, and saw that others drove some
-dogs away that sniffed upon the road, and soaked his blood up, with a
+[[dogs]] away that sniffed upon the [[Road|road]], and soaked his [[Blood|blood]] up, with a
 train of ashes.

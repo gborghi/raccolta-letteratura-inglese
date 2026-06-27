@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Change And Decay"
+title: "Man Orthodox — Change And [[Decay]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-CHANGE AND DECAY
+CHANGE AND [[Decay|DECAY]]

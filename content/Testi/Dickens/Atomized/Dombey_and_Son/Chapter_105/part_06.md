@@ -18,7 +18,7 @@ tags:
 
 “Days and nights they drifted on them endless waters,” said the
 Captain, “until at last—No! Don’t look that way, pretty!—a sail bore
-down upon ’em, and they was, by the Lord’s mercy, took aboard: two
+down upon ’em, and they was, by the Lord’s [[Mercy|mercy]], took aboard: two
 living and one dead.”
 
 “Which of them was dead?” cried Florence.
@@ -28,20 +28,20 @@ living and one dead.”
 “Thank God! oh thank God!”
 
 “Amen!” returned the Captain hurriedly. “Don’t be took aback! A minute
-more, my lady lass! with a good heart!—aboard that ship, they went a
+more, my lady lass! with a good heart!—aboard that [[Ship|ship]], they went a
 long voyage, right away across the chart (for there warn’t no touching
 nowhere), and on that voyage the seaman as was picked up with him died.
 But he was spared, and—”
 
 The Captain, without knowing what he did, had cut a slice of bread from
 the loaf, and put it on his hook (which was his usual toasting-fork),
-on which he now held it to the fire; looking behind Florence with great
-emotion in his face, and suffering the bread to blaze and burn like
+on which he now held it to the [[Fire|fire]]; looking behind Florence with great
+emotion in his face, and [[Suffering|suffering]] the bread to blaze and burn like
 fuel.
 
 “Was spared,” repeated Florence, “and—?”
 
-“And come home in that ship,” said the Captain, still looking in the
+“And come [[Home|home]] in that [[Ship|ship]],” said the Captain, still looking in the
 same direction, “and—don’t be frightened, pretty—and landed; and one
 morning come cautiously to his own door to take a obserwation, knowing
 that his friends would think him drownded, when he sheered off at the
@@ -49,26 +49,26 @@ unexpected—”
 
 “At the unexpected barking of a dog?” cried Florence, quickly.
 
-“Yes,” roared the Captain. “Steady, darling! courage! Don’t look round
+“Yes,” roared the Captain. “Steady, darling! [[Courage|courage]]! Don’t look round
 yet. See there! upon the wall!”
 
-There was the shadow of a man upon the wall close to her. She started
-up, looked round, and with a piercing cry, saw Walter Gay behind her!
+There was the [[Shadow|shadow]] of a man upon the wall close to her. She started
+up, looked round, and with a piercing cry, saw [[Walter Gay]] behind her!
 
 [Illustration]
 
 She had no thought of him but as a brother, a brother rescued from the
-grave; a shipwrecked brother saved and at her side; and rushed into his
-arms. In all the world, he seemed to be her hope, her comfort, refuge,
+[[Grave|grave]]; a shipwrecked brother saved and at her side; and rushed into his
+arms. In all the world, he seemed to be her [[Hope|hope]], her comfort, refuge,
 natural protector. “Take care of Walter, I was fond of Walter!” The
 dear remembrance of the plaintive voice that said so, rushed upon her
-soul, like music in the night. “Oh welcome home, dear Walter! Welcome
+[[Soul|soul]], like music in the [[Night|night]]. “Oh welcome [[Home|home]], dear Walter! Welcome
 to this stricken breast!” She felt the words, although she could not
 utter them, and held him in her pure embrace.
 
-Captain Cuttle, in a fit of delirium, attempted to wipe his head with
+[[Captain Cuttle]], in a fit of delirium, attempted to wipe his head with
 the blackened toast upon his hook: and finding it an uncongenial
-substance for the purpose, put it into the crown of his glazed hat, put
+substance for the purpose, put it into the [[Crown|crown]] of his glazed hat, put
 the glazed hat on with some difficulty, essayed to sing a verse of
 Lovely Peg, broke down at the first word, and retired into the shop,
 whence he presently came back express, with a face all flushed and
@@ -83,13 +83,13 @@ sugar-tongs, and the canister, and laying them on the table, swept them
 with his great hand into Walter’s hat; but in handing that singular
 strong box to Walter, he was so overcome again, that he was fain to
 make another retreat into the shop, and absent himself for a longer
-space of time than on his first retirement.
+space of [[Time|time]] than on his first retirement.
 
 But Walter sought him out, and brought him back; and then the Captain’s
 great apprehension was, that Florence would suffer from this new shock.
 He felt it so earnestly, that he turned quite rational, and positively
 interdicted any further allusion to Walter’s adventures for some days
-to come. Captain Cuttle then became sufficiently composed to relieve
+to come. [[Captain Cuttle]] then became sufficiently composed to relieve
 himself of the toast in his hat, and to take his place at the
 tea-board; but finding Walter’s grasp upon his shoulder, on one side,
 and Florence whispering her tearful congratulations on the other, the
@@ -104,13 +104,13 @@ the last half-hour. It was solely the effect of his internal emotions.
 There was a glory and delight within the Captain that spread itself
 over his whole visage, and made a perfect illumination there.
 
-The pride with which the Captain looked upon the bronzed cheek and the
+The [[Pride|pride]] with which the Captain looked upon the bronzed cheek and the
 courageous eyes of his recovered boy; with which he saw the generous
 fervour of his youth, and all its frank and hopeful qualities, shining
 once more, in the fresh, wholesome manner, and the ardent face, would
 have kindled something of this light in his countenance. The admiration
-and sympathy with which he turned his eyes on Florence, whose beauty,
-grace, and innocence could have won no truer or more zealous champion
+and sympathy with which he turned his eyes on Florence, whose [[Beauty|beauty]],
+grace, and [[innocence]] could have won no truer or more zealous champion
 than himself, would have had an equal influence upon him. But the
 fulness of the glow he shed around him could only have been engendered
 in his contemplation of the two together, and in all the fancies
@@ -120,15 +120,15 @@ his head, and danced about it.
 How they talked of poor old Uncle Sol, and dwelt on every little
 circumstance relating to his disappearance; how their joy was moderated
 by the old man’s absence and by the misfortunes of Florence; how they
-released Diogenes, whom the Captain had decoyed upstairs some time
+released Diogenes, whom the Captain had decoyed upstairs some [[Time|time]]
 before, lest he should bark again; the Captain, though he was in one
 continual flutter, and made many more short plunges into the shop,
 fully comprehended. But he no more dreamed that Walter looked on
 Florence, as it were, from a new and far-off place; that while his eyes
 often sought the lovely face, they seldom met its open glance of
 sisterly affection, but withdrew themselves when hers were raised
-towards him; than he believed that it was Walter’s ghost who sat beside
-him. He saw them together in their youth and beauty, and he knew the
+towards him; than he believed that it was Walter’s [[Ghost|ghost]] who sat beside
+him. He saw them together in their youth and [[Beauty|beauty]], and he knew the
 story of their younger days, and he had no inch of room beneath his
 great blue waistcoat for anything save admiration of such a pair, and
 gratitude for their being reunited.

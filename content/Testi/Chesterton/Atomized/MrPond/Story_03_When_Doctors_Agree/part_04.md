@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 4)"
+title: "[[MrPond]] — When Doctors Agree (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -18,11 +18,11 @@ out of a very entertaining little tiff about the Ten Commandments.
 
 A mere trifle, too light and airy to recur to our minds at any
 
-other time.  But there was another trifle that did recur to my own
+other [[Time|time]].  But there was another trifle that did recur to my own
 
 mind afterwards; and kept my attention on a murder of which I might
 
-have thought little enough at the time, as De Quincey says.  I
+have thought little enough at the [[Time|time]], as De Quincey says.  I
 
 remembered once looking up Glenorchy in Who's Who, and seeing that
 
@@ -44,13 +44,13 @@ not Scottish.  If she had introduced the cigarettes at her father's
 
 dinner-table in Suffolk, such trifles as the Ten Commandments would
 
-instantly have been tossed away from everyone's mind and memory.
+instantly have been tossed away from everyone's mind and [[Memory|memory]].
 
 But I knew I was in Scotland and that the story had only just
 
 begun.  I have told you that old Campbell was tutoring or coaching
 
-young Angus for his medical degree.  It was a great honour for a
+young Angus for his medical degree.  It was a great [[Honour|honour]] for a
 
 lad like Angus to have Campbell for a coach; but it must have been
 
@@ -60,7 +60,7 @@ for a pupil.  For he had always been a most industrious and
 
 ambitious and intelligent pupil, and one likely to do the old man
 
-credit; and after the time I speak of, he seemed to grow more
+credit; and after the [[Time|time]] I speak of, he seemed to grow more
 
 industrious and ambitious than ever.  In fact, he shut himself up
 
@@ -82,11 +82,11 @@ statement that might seem to some to require expansion."
 
 order to expand it, we must go back for a moment to the mystery of
 
-Mr. Haggis's murder.  It had already spread a sort of detective
+Mr. Haggis's murder.  It had already spread a sort of [[Detective|detective]]
 
-fever in the neighbourhood; for all the Scots love arguing and it
+fever in the neighbourhood; for all the Scots [[Love|love]] arguing and it
 
-really was rather a fascinating riddle.  One great point in the
+really was rather a fascinating [[Riddle|riddle]].  One great point in the
 
 mystery was the wound, which seemed at first to have been made by a
 
@@ -108,7 +108,7 @@ medical authorities would consent even to guess what it was.
 
 People were perpetually ransacking the churchyard and the church in
 
-search of clues.  And just about this time young Angus, who had
+search of clues.  And just about this [[Time|time]] young Angus, who had
 
 been a strict supporter of this particular church, and had even
 
@@ -128,7 +128,7 @@ the right track."
 
 
 
-"I fear I did not realize that you were on any track," said
+"I [[Fear|fear]] I did not realize that you were on any track," said
 
 Gahagan.  "To speak with candour, my dear Pond, I should say that
 
@@ -138,7 +138,7 @@ have ever heard, the most rambling was the narrative we have just
 
 been privileged to hear from you.  First you tell us that two
 
-Scotsmen began a conversation about the morality of murder and
+Scotsmen began a conversation about the [[morality]] of murder and
 
 never finished it; then you go off on a tirade against society
 
@@ -178,7 +178,7 @@ story."
 
 
 
-"Well, then," said Gahagan, "let us try to get some sense out of
+"[[Well]], then," said Gahagan, "let us try to get some sense out of
 
 all this nonsense, which has not even the excuses of newspaper
 
@@ -202,13 +202,13 @@ for any examination."
 
 
 
-"Well, what were they doing?" asked Wotton gruffly.
+"[[Well]], what were they doing?" asked Wotton gruffly.
 
 
 
 "They were going on with the argument," cried Pond, in a squeak
 
-that was almost shrill.  "They hardly stopped to sleep or eat; but
+that was almost shrill.  "They hardly stopped to [[Sleep|sleep]] or eat; but
 
 they went on with the argument; the argument interrupted at the
 

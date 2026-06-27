@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 3 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -17,11 +17,11 @@ tags:
 “Did I say so, Rosa?”
 
 “Say so! Do you ever say so? No, you only showed it. O, she did it so
-well!” cries Rosa, in a sudden ecstasy with her counterfeit betrothed.
+[[Well|well]]!” cries Rosa, in a sudden ecstasy with her counterfeit betrothed.
 
 “It strikes me that she must be a devilish impudent girl,” says Edwin
 Drood. “And so, Pussy, you have passed your last birthday in this old
-house.”
+[[house]].”
 
 “Ah, yes!” Rosa clasps her hands, looks down with a sigh, and shakes
 her head.
@@ -38,12 +38,12 @@ head, sighs, and looks down again.
 
 “That is to say, is it, Pussy, that we are both resigned?”
 
-She nods her head again, and after a short silence, quaintly bursts out
+She nods her head again, and after a short [[Silence|silence]], quaintly bursts out
 with: “You know we must be married, and married from here, Eddy, or the
 poor girls will be so dreadfully disappointed!”
 
 For the moment there is more of compassion, both for her and for
-himself, in her affianced husband’s face, than there is of love. He
+himself, in her affianced husband’s face, than there is of [[Love|love]]. He
 checks the look, and asks: “Shall I take you out for a walk, Rosa
 dear?”
 
@@ -55,18 +55,18 @@ anybody, and then we shan’t quarrel.”
 
 “Do you think that will prevent our falling out, Rosa?”
 
-“I know it will. Hush! Pretend to look out of window—Mrs. Tisher!”
+“I know it will. Hush! Pretend to look out of [[Window|window]]—Mrs. Tisher!”
 
 Through a fortuitous concourse of accidents, the matronly Tisher heaves
-in sight, says, in rustling through the room like the legendary ghost
-of a dowager in silken skirts: “I hope I see Mr. Drood well; though I
+in sight, says, in rustling through the room like the legendary [[Ghost|ghost]]
+of a dowager in silken skirts: “I [[Hope|hope]] I see Mr. Drood [[Well|well]]; though I
 needn’t ask, if I may judge from his complexion. I trust I disturb no
 one; but there _was_ a paper-knife—O, thank you, I am sure!” and
 disappears with her prize.
 
 “One other thing you must do, Eddy, to oblige me,” says Rosebud. “The
 moment we get into the street, you must put me outside, and keep close
-to the house yourself—squeeze and graze yourself against it.”
+to the [[house]] yourself—squeeze and graze yourself against it.”
 
 “By all means, Rosa, if you wish it. Might I ask why?”
 
@@ -83,7 +83,7 @@ distaste for them.
 
 “Nothing escapes their notice, sir. And then I know what would happen.
 Some of them would begin reflecting on me by saying (for _they_ are
-free) that they never will on any account engage themselves to lovers
+free) that they never will on any account engage themselves to [[lovers]]
 without polished leather boots. Hark! Miss Twinkleton. I’ll ask for
 leave.”
 
@@ -91,10 +91,10 @@ That discreet lady being indeed heard without, inquiring of nobody in a
 blandly conversational tone as she advances: “Eh? Indeed! Are you quite
 sure you saw my mother-of-pearl button-holder on the work-table in my
 room?” is at once solicited for walking leave, and graciously accords
-it. And soon the young couple go out of the Nuns’ House, taking all
+it. And soon the young couple go out of the Nuns’ [[house|House]], taking all
 precautions against the discovery of the so vitally defective boots of
-Mr. Edwin Drood: precautions, let us hope, effective for the peace of
-Mrs. Edwin Drood that is to be.
+Mr. [[Edwin Drood]]: precautions, let us [[Hope|hope]], effective for the peace of
+Mrs. [[Edwin Drood]] that is to be.
 
 “Which way shall we take, Rosa?”
 
@@ -113,9 +113,9 @@ pretend. No, you needn’t know anything about them; never mind.”
 So he is gloomily borne off to the Lumps-of-Delight shop, where Rosa
 makes her purchase, and, after offering some to him (which he rather
 indignantly declines), begins to partake of it with great zest:
-previously taking off and rolling up a pair of little pink gloves, like
-rose-leaves, and occasionally putting her little pink fingers to her
-rosy lips, to cleanse them from the Dust of Delight that comes off the
+previously taking off and [[rolling]] up a pair of little pink gloves, like
+[[Rose|rose]]-[[Leaves|leaves]], and occasionally putting her little pink fingers to her
+rosy lips, to cleanse them from the [[Dust]] of Delight that comes off the
 Lumps.
 
 “Now, be a good-tempered Eddy, and pretend. And so you are engaged?”
@@ -136,7 +136,7 @@ Lumps.
 
 “What is termed a fine woman; a splendid woman.”
 
-“Big nose, no doubt,” is the quiet commentary again.
+“Big nose, no [[Doubt|doubt]],” is the quiet commentary again.
 
 “Not a little one, certainly,” is the quick reply, (Rosa’s being a
 little one.)
@@ -166,14 +166,14 @@ After a pause, in which the whimsically wicked face has not been
 unobservant of him, Rosa says:
 
 “And this most sensible of creatures likes the idea of being carried
-off to Egypt; does she, Eddy?”
+off to [[Egypt]]; does she, Eddy?”
 
 “Yes. She takes a sensible interest in triumphs of engineering skill:
 especially when they are to change the whole condition of an
 undeveloped country.”
 
 “Lor!” says Rosa, shrugging her shoulders, with a little laugh of
-wonder.
+[[Wonder|wonder]].
 
 “Do you object,” Edwin inquires, with a majestic turn of his eyes
 downward upon the fairy figure: “do you object, Rosa, to her feeling

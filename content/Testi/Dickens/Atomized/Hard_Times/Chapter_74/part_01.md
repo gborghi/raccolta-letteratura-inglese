@@ -18,7 +18,7 @@ CHAPTER VI
 THE STARLIGHT
 
 
-THE Sunday was a bright Sunday in autumn, clear and cool, when early in
+THE [[Sunday]] was a bright [[Sunday]] in [[Autumn|autumn]], clear and cool, when early in
 the morning Sissy and Rachael met, to walk in the country.
 
 As Coketown cast ashes not only on its own head but on the
@@ -33,7 +33,7 @@ between the town and Mr. Bounderby’s retreat.
 
 Though the green landscape was blotted here and there with heaps of coal,
 it was green elsewhere, and there were trees to see, and there were larks
-singing (though it was Sunday), and there were pleasant scents in the
+singing (though it was [[Sunday]]), and there were pleasant scents in the
 air, and all was over-arched by a bright blue sky.  In the distance one
 way, Coketown showed as a black mist; in another distance hills began to
 rise; in a third, there was a faint change in the light of the horizon
@@ -42,11 +42,11 @@ fresh; beautiful shadows of branches flickered upon it, and speckled it;
 hedgerows were luxuriant; everything was at peace.  Engines at pits’
 mouths, and lean old horses that had worn the circle of their daily
 labour into the ground, were alike quiet; wheels had ceased for a short
-space to turn; and the great wheel of earth seemed to revolve without the
-shocks and noises of another time.
+space to turn; and the great [[Wheel|wheel]] of earth seemed to revolve without the
+shocks and noises of another [[Time|time]].
 
 They walked on across the fields and down the shady lanes, sometimes
-getting over a fragment of a fence so rotten that it dropped at a touch
+getting over a [[Fragment|fragment]] of a fence so rotten that it dropped at a touch
 of the foot, sometimes passing near a wreck of bricks and beams overgrown
 with grass, marking the site of deserted works.  They followed paths and
 tracks, however slight.  Mounds where the grass was rank and high, and
@@ -55,9 +55,9 @@ heaped together, they always avoided; for dismal stories were told in
 that country of the old pits hidden beneath such indications.
 
 The sun was high when they sat down to rest.  They had seen no one, near
-or distant, for a long time; and the solitude remained unbroken.  ‘It is
+or distant, for a long [[Time|time]]; and the [[Solitude|solitude]] remained unbroken.  ‘It is
 so still here, Rachael, and the way is so untrodden, that I think we must
-be the first who have been here all the summer.’
+be the first who have been here all the [[Summer|summer]].’
 
 As Sissy said it, her eyes were attracted by another of those rotten
 fragments of fence upon the ground.  She got up to look at it.  ‘And yet
@@ -71,13 +71,13 @@ up.
 
 ‘I don’t know.  There is a hat lying in the grass.’  They went forward
 together.  Rachael took it up, shaking from head to foot.  She broke into
-a passion of tears and lamentations: Stephen Blackpool was written in his
+a passion of [[Tears|tears]] and lamentations: [[Stephen Blackpool]] was written in his
 own hand on the inside.
 
 ‘O the poor lad, the poor lad!  He has been made away with.  He is lying
 murdered here!’
 
-‘Is there—has the hat any blood upon it?’ Sissy faltered.
+‘Is there—has the hat any [[Blood|blood]] upon it?’ Sissy faltered.
 
 They were afraid to look; but they did examine it, and found no mark of
 violence, inside or out.  It had been lying there some days, for rain and
@@ -93,12 +93,12 @@ black ragged chasm hidden by the thick grass.  They sprang back, and fell
 upon their knees, each hiding her face upon the other’s neck.
 
 ‘O, my good Lord!  He’s down there!  Down there!’  At first this, and her
-terrific screams, were all that could be got from Rachael, by any tears,
+terrific screams, were all that could be got from Rachael, by any [[Tears|tears]],
 by any prayers, by any representations, by any means.  It was impossible
 to hush her; and it was deadly necessary to hold her, or she would have
 flung herself down the shaft.
 
-‘Rachael, dear Rachael, good Rachael, for the love of Heaven, not these
+‘Rachael, dear Rachael, good Rachael, for the [[Love|love]] of Heaven, not these
 dreadful cries!  Think of Stephen, think of Stephen, think of Stephen!’
 
 By an earnest repetition of this entreaty, poured out in all the agony of
@@ -106,7 +106,7 @@ such a moment, Sissy at last brought her to be silent, and to look at her
 with a tearless face of stone.
 
 ‘Rachael, Stephen may be living.  You wouldn’t leave him lying maimed at
-the bottom of this dreadful place, a moment, if you could bring help to
+the [[Bottom|bottom]] of this dreadful place, a moment, if you could bring help to
 him?’
 
 ‘No, no, no!’
@@ -121,7 +121,7 @@ earth from the broken ground where he had stumbled, and threw it in.  She
 could not hear it fall.
 
 The wide prospect, so beautiful in its stillness but a few minutes ago,
-almost carried despair to her brave heart, as she rose and looked all
+almost carried [[Despair|despair]] to her brave heart, as she [[Rose|rose]] and looked all
 round her, seeing no help.  ‘Rachael, we must lose not a moment.  We must
 go in different directions, seeking aid.  You shall go by the way we have
 come, and I will go forward by the path.  Tell any one you see, and every
@@ -136,5 +136,5 @@ ran as she had never run before.
 Run, Sissy, run, in Heaven’s name!  Don’t stop for breath.  Run, run!
 Quickening herself by carrying such entreaties in her thoughts, she ran
 from field to field, and lane to lane, and place to place, as she had
-never run before; until she came to a shed by an engine-house, where two
+never run before; until she came to a shed by an engine-[[house]], where two
 men lay in the shade, asleep on straw.

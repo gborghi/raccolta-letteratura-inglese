@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 11"
+title: "[[thursday]] — Chapter 11"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -36,8 +36,8 @@ After an instant's pause the new man called Ratcliffe said
 with gloomy decision--
 
 "Of course the President isn't with them.  I wish to Gemini he were.
-Much more likely the President is riding in triumph through Paris,
-or sitting on the ruins of St. Paul's Cathedral."
+Much more likely the President is riding in triumph through [[Paris]],
+or sitting on the ruins of St. Paul's [[Cathedral]]."
 
 "This is absurd!" said Syme.  "Something may have happened in our absence;
 but he cannot have carried the world with a rush like that.
@@ -46,10 +46,10 @@ that lay towards the little station, "it is certainly true that there
 seems to be a crowd coming this way; but they are not all the army
 that you make out."
 
-"Oh, they," said the new detective contemptuously;
+"Oh, they," said the new [[Detective|detective]] contemptuously;
 "no they are not a very valuable force.  But let me tell you
 frankly that they are precisely calculated to our value--
-we are not much, my boy, in Sunday's universe.
+we are not much, my boy, in [[Sunday]]'s universe.
 He has got hold of all the cables and telegraphs himself.
 But to kill the Supreme Council he regards as a trivial matter,
 like a post card; it may be left to his private secretary,"
@@ -57,7 +57,7 @@ and he spat on the grass.
 
 Then he turned to the others and said somewhat austerely--
 
-"There is a great deal to be said for death; but if anyone has
+"There is a great deal to be said for [[Death|death]]; but if anyone has
 any preference for the other alternative, I strongly advise him
 to walk after me."
 
@@ -70,7 +70,7 @@ which marked the masks they wore.  They turned and followed their leader,
 who had already struck the wood, and disappeared among the twinkling trees.
 
 The sun on the grass was dry and hot.  So in plunging into the wood they
-had a cool shock of shadow, as of divers who plunge into a dim pool.
+had a cool shock of [[Shadow|shadow]], as of divers who plunge into a dim pool.
 The inside of the wood was full of shattered sunlight and shaken shadows.
 They made a sort of shuddering veil, almost recalling the dizziness of
 a cinematograph.  Even the solid figures walking with him Syme could hardly
@@ -80,23 +80,23 @@ now again he had strong and staring white hands with the face of a negro.
 The ex-Marquis had pulled the old straw hat over his eyes,
 and the black shade of the brim cut his face so squarely in two that it
 seemed to be wearing one of the black half-masks of their pursuers.
-The fancy tinted Syme's overwhelming sense of wonder.  Was he wearing a mask?
+The fancy tinted Syme's overwhelming sense of [[Wonder|wonder]].  Was he wearing a mask?
 Was anyone wearing a mask?  Was anyone anything?  This wood of witchery,
 in which men's faces turned black and white by turns, in which their figures
-first swelled into sunlight and then faded into formless night, this mere
+first swelled into sunlight and then faded into formless [[Night|night]], this mere
 chaos of chiaroscuro (after the clear daylight outside), seemed to Syme
 a perfect symbol of the world in which he had been moving for three days,
 this world where men took off their beards and their spectacles and
-their noses, and turned into other people.  That tragic self-confidence
+their noses, and turned into other people.  That tragic [[Self|self]]-confidence
 which he had felt when he believed that the Marquis was a devil had
 strangely disappeared now that he knew that the Marquis was a friend.
 He felt almost inclined to ask after all these bewilderments what was a friend
 and what an enemy.  Was there anything that was apart from what it seemed?
-The Marquis had taken off his nose and turned out to be a detective.
-Might he not just as well take off his head and turn out to be a hobgoblin?
-Was not everything, after all, like this bewildering woodland, this dance
+The Marquis had taken off his nose and turned out to be a [[Detective|detective]].
+Might he not just as [[Well|well]] take off his head and turn out to be a hobgoblin?
+Was not everything, after all, like this bewildering woodland, this [[Dance|dance]]
 of dark and light?  Everything only a glimpse, the glimpse always unforeseen,
-and always forgotten.  For Gabriel Syme had found in the heart
+and always forgotten.  For [[Gabriel Syme]] had found in the heart
 of that sun-splashed wood what many modern painters had found there.
 He had found the thing which the modern people call Impressionism,
 which is another name for that final scepticism which can find no floor
@@ -106,11 +106,11 @@ As a man in an evil dream strains himself to scream and wake, Syme strove
 with a sudden effort to fling off this last and worst of his fancies.
 With two impatient strides he overtook the man in the Marquis's straw hat,
 the man whom he had come to address as Ratcliffe.  In a voice exaggeratively
-loud and cheerful, he broke the bottomless silence and made conversation.
+loud and cheerful, he broke the bottomless [[Silence|silence]] and made conversation.
 
 "May I ask," he said, "where on earth we are all going to?"
 
-So genuine had been the doubts of his soul, that he was quite
+So genuine had been the doubts of his [[Soul|soul]], that he was quite
 glad to hear his companion speak in an easy, human voice.
 
 "We must get down through the town of Lancy to the sea," he said.
@@ -126,17 +126,17 @@ were the question.  You've got that eternal idiotic idea that
 if anarchy came it would come from the poor.  Why should it?
 The poor have been rebels, but they have never been anarchists;
 they have more interest than anyone else in there being some
-decent government.  The poor man really has a stake in the country.
+decent [[government]].  The poor man really has a stake in the country.
 The rich man hasn't; he can go away to New Guinea in a yacht.
 The poor have sometimes objected to being governed badly;
 the rich have always objected to being governed at all.
 Aristocrats were always anarchists, as you can see from
 the barons' wars."
 
-"As a lecture on English history for the little ones," said Syme,
+"As a lecture on English [[history]] for the little ones," said Syme,
 "this is all very nice; but I have not yet grasped its application."
 
-"Its application is," said his informant, "that most of old Sunday's
+"Its application is," said his informant, "that most of old [[Sunday]]'s
 right-hand men are South African and American millionaires.
 That is why he has got hold of all the communications;
 and that is why the last four champions of the anti-anarchist
@@ -145,24 +145,24 @@ police force are running through a wood like rabbits."
 "Millionaires I can understand," said Syme thoughtfully, "they are nearly
 all mad.  But getting hold of a few wicked old gentlemen with hobbies
 is one thing; getting hold of great Christian nations is another.
-I would bet the nose off my face (forgive the allusion) that Sunday would
+I would bet the nose off my face (forgive the allusion) that [[Sunday]] would
 stand perfectly helpless before the task of converting any ordinary
 healthy person anywhere."
 
-"Well," said the other, "it rather depends what sort of person you mean."
+"[[Well]]," said the other, "it rather depends what sort of person you mean."
 
-"Well, for instance," said Syme, "he could never convert that person,"
+"[[Well]], for instance," said Syme, "he could never [[convert]] that person,"
 and he pointed straight in front of him.
 
 They had come to an open space of sunlight, which seemed
 to express to Syme the final return of his own good sense;
 and in the middle of this forest clearing was a figure that might
-well stand for that common sense in an almost awful actuality.
-Burnt by the sun and stained with perspiration, and grave
+[[Well|well]] stand for that common sense in an almost awful actuality.
+Burnt by the sun and stained with perspiration, and [[Grave|grave]]
 with the bottomless gravity of small necessary toils,
 a heavy French peasant was cutting wood with a hatchet.
 His cart stood a few yards off, already half full of timber;
-and the horse that cropped the grass was, like his master,
+and the [[Horse|horse]] that cropped the grass was, like his master,
 valorous but not desperate; like his master, he was
 even prosperous, but yet was almost sad.  The man was a Norman,
 taller than the average of the French and very angular;
@@ -182,7 +182,7 @@ But I forgot that in your country you are not used to peasants being wealthy."
 "Quite so," said the Colonel; "that is why he is rich."
 
 "I have an idea," called out Dr. Bull suddenly; "how much would
-he take to give us a lift in his cart?  Those dogs are all on foot,
+he take to give us a lift in his cart?  Those [[dogs]] are all on foot,
 and we could soon leave them behind."
 
 "Oh, give him anything!" said Syme eagerly.  "I have piles
@@ -202,7 +202,7 @@ pursuers behind them, they had to stand and stamp while the French Colonel
 talked to the French wood-cutter with all the leisurely badinage
 and bickering of market-day. At the end of the four minutes, however,
 they saw that the Colonel was right, for the wood-cutter entered into
-their plans, not with the vague servility of a tout too-well paid,
+their plans, not with the vague servility of a tout too-[[Well|well]] paid,
 but with the seriousness of a solicitor who had been paid the proper fee.
 He told them that the best thing they could do was to make their way
 down to the little inn on the hills above Lancy, where the innkeeper,
@@ -213,7 +213,7 @@ of wood, and went rocking in the rude cart down the other and steeper
 side of the woodland.  Heavy and ramshackle as was the vehicle,
 it was driven quickly enough, and they soon had the exhilarating
 impression of distancing altogether those, whoever they were,
-who were hunting them.  For, after all, the riddle as to where
+who were hunting them.  For, after all, the [[Riddle|riddle]] as to where
 the anarchists had got all these followers was still unsolved.
 One man's presence had sufficed for them; they had fled at the first
 sight of the deformed smile of the Secretary.  Syme every now and then
@@ -235,28 +235,28 @@ like a staring army of automatons.
 
 Syme pointed this out to Ratcliffe.
 
-"Yes," replied the policeman, "that's discipline.  That's Sunday.  He is
-perhaps five hundred miles off, but the fear of him is on all of them,
+"Yes," replied the policeman, "that's discipline.  That's [[Sunday]].  He is
+perhaps five hundred miles off, but the [[Fear|fear]] of him is on all of them,
 like the finger of God.  Yes, they are walking regularly; and you bet
 your boots that they are talking regularly, yes, and thinking regularly.
 But the one important thing for us is that they are disappearing regularly."
 
 Syme nodded.  It was true that the black patch of the pursuing men
-was growing smaller and smaller as the peasant belaboured his horse.
+was growing smaller and smaller as the peasant belaboured his [[Horse|horse]].
 
 The level of the sunlit landscape, though flat as a whole, fell away
 on the farther side of the wood in billows of heavy slope towards
 the sea, in a way not unlike the lower slopes of the Sussex downs.
-The only difference was that in Sussex the road would have been
+The only difference was that in Sussex the [[Road|road]] would have been
 broken and angular like a little brook, but here the white
-French road fell sheer in front of them like a waterfall.
+French [[Road|road]] fell sheer in front of them like a waterfall.
 Down this direct descent the cart clattered at a considerable angle,
-and in a few minutes, the road growing yet steeper, they saw below
+and in a few minutes, the [[Road|road]] growing yet steeper, they saw below
 them the little harbour of Lancy and a great blue arc of the sea.
 The travelling cloud of their enemies had wholly disappeared
 from the horizon.
 
-The horse and cart took a sharp turn round a clump of elms, and the horse's
+The [[Horse|horse]] and cart took a sharp turn round a clump of elms, and the [[Horse|horse]]'s
 nose nearly struck the face of an old gentleman who was sitting on the benches
 outside the little cafe of "Le Soleil d'Or." The peasant grunted an apology,
 and got down from his seat.  The others also descended one by one, and spoke
@@ -264,12 +264,12 @@ to the old gentleman with fragmentary phrases of courtesy, for it was quite
 evident from his expansive manner that he was the owner of the little tavern.
 
 He was a white-haired, apple-faced old boy, with sleepy eyes
-and a grey moustache; stout, sedentary, and very innocent,
+and a grey moustache; stout, sedentary, and very [[Innocent|innocent]],
 of a type that may often be found in France, but is still commoner
-in Catholic Germany.  Everything about him, his pipe, his pot of beer,
-his flowers, and his beehive, suggested an ancestral peace;
+in Catholic [[Germany]].  Everything about him, his pipe, his pot of beer,
+his [[Flowers|flowers]], and his beehive, suggested an ancestral peace;
 only when his visitors looked up as they entered the inn-parlour,
-they saw the sword upon the wall.
+they saw the [[Sword|sword]] upon the wall.
 
 The Colonel, who greeted the innkeeper as an old friend, passed rapidly
 into the inn-parlour, and sat down ordering some ritual refreshment.
@@ -306,8 +306,8 @@ Syme nodded gravely; then he said abruptly--
 "And your other reason for coming here?"
 
 "My other reason for coming here," said Ducroix soberly,
-"is that it is just as well to see a good man or two when one
-is possibly near to death."
+"is that it is just as [[Well|well]] to see a good man or two when one
+is possibly near to [[Death|death]]."
 
 Syme looked up at the wall, and saw a crudely-painted and pathetic
 religious picture.  Then he said--
@@ -317,7 +317,7 @@ religious picture.  Then he said--
 
 "Yes," answered Ducroix, "you may be quite certain that I gave orders
 the moment I came in.  Those enemies of yours gave no impression of hurry,
-but they were really moving wonderfully fast, like a well-trained army.
+but they were really moving wonderfully fast, like a [[Well|well]]-trained army.
 I had no idea that the anarchists had so much discipline.
 You have not a moment to waste."
 
@@ -326,12 +326,12 @@ ambling into the room, and announced that six horses were saddled outside.
 
 By Ducroix's advice the five others equipped themselves with some portable
 form of food and wine, and keeping their duelling swords as the only
-weapons available, they clattered away down the steep, white road.
+weapons available, they clattered away down the steep, white [[Road|road]].
 The two servants, who had carried the Marquis's luggage when he was
 a marquis, were left behind to drink at the cafe by common consent,
 and not at all against their own inclination.
 
-By this time the afternoon sun was slanting westward, and by its rays
+By this [[Time|time]] the afternoon sun was slanting westward, and by its rays
 Syme could see the sturdy figure of the old innkeeper growing smaller
 and smaller, but still standing and looking after them quite silently,
 the sunshine in his silver hair.  Syme had a fixed, superstitious fancy,
@@ -343,5 +343,5 @@ He was still looking at this dwindling figure, which stood as a mere grey
 blot touched with a white flame against the great green wall of the steep
 down behind him.  And as he stared over the top of the down behind
 the innkeeper, there appeared an army of black-clad and marching men.
-They seemed to hang above the good man and his house like a black cloud
+They seemed to hang above the good man and his [[house]] like a black cloud
 of locusts.  The horses had been saddled none too soon.

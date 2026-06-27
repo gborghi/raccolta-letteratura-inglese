@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 7)"
+title: "A [[Child]]'s [[history|History]] of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -20,19 +20,19 @@ tags:
 
 ‘Neither,’ replied Nicholas Tulrumble, shaking hands with them both,
 whether they would or not.  ‘I’ve come down to say that I’m very sorry
-for having made a fool of myself, and that I hope you’ll give me up the
+for having made a [[Fool|fool]] of myself, and that I [[Hope|hope]] you’ll give me up the
 old chair, again.’
 
 The old fellows opened their eyes, and three or four more old fellows
-opened the door, to whom Nicholas, with tears in his eyes, thrust out his
+opened the door, to whom Nicholas, with [[Tears|tears]] in his eyes, thrust out his
 hand too, and told the same story.  They raised a shout of joy, that made
-the bells in the ancient church-tower vibrate again, and wheeling the old
+[[The Bells|the bells]] in the ancient church-tower vibrate again, and wheeling the old
 chair into the warm corner, thrust old Nicholas down into it, and ordered
 in the very largest-sized bowl of hot punch, with an unlimited number of
 pipes, directly.
 
-The next day, the Jolly Boatmen got the licence, and the next night, old
-Nicholas and Ned Twigger’s wife led off a dance to the music of the
+The next day, the Jolly Boatmen got the licence, and the next [[Night|night]], old
+Nicholas and Ned Twigger’s wife led off a [[Dance|dance]] to the music of the
 fiddle and tambourine, the tone of which seemed mightily improved by a
 little rest, for they never had played so merrily before.  Ned Twigger
 was in the very height of his glory, and he danced hornpipes, and
@@ -41,12 +41,12 @@ company, including the corporation, were in raptures of admiration at the
 brilliancy of his acquirements.
 
 Mr. Tulrumble, junior, couldn’t make up his mind to be anything but
-magnificent, so he went up to London and drew bills on his father; and
-when he had overdrawn, and got into debt, he grew penitent, and came home
+magnificent, so he went up to [[London]] and drew bills on his father; and
+when he had overdrawn, and got into debt, he grew penitent, and came [[Home|home]]
 again.
 
 As to old Nicholas, he kept his word, and having had six weeks of public
-life, never tried it any more.  He went to sleep in the town-hall at the
+life, never tried it any more.  He went to [[Sleep|sleep]] in the town-hall at the
 very next meeting; and, in full proof of his sincerity, has requested us
 to write this faithful narrative.  We wish it could have the effect of
 reminding the Tulrumbles of another sphere, that puffed-up conceit is not
@@ -54,7 +54,7 @@ dignity, and that snarling at the little pleasures they were once glad to
 enjoy, because they would rather forget the times when they were of lower
 station, renders them objects of contempt and ridicule.
 
-This is the first time we have published any of our gleanings from this
+This is the first [[Time|time]] we have published any of our gleanings from this
 particular source.  Perhaps, at some future period, we may venture to
 open the chronicles of Mudfog.
 
@@ -74,18 +74,18 @@ Mudfog; it affords us great happiness to lay the result before them, in
 the shape of various communications received from our able, talented, and
 graphic correspondent, expressly sent down for the purpose, who has
 immortalized us, himself, Mudfog, and the association, all at one and the
-same time.  We have been, indeed, for some days unable to determine who
+same [[Time|time]].  We have been, indeed, for some days unable to determine who
 will transmit the greatest name to posterity; ourselves, who sent our
 correspondent down; our correspondent, who wrote an account of the
 matter; or the association, who gave our correspondent something to write
 about.  We rather incline to the opinion that we are the greatest man of
 the party, inasmuch as the notion of an exclusive and authentic report
 originated with us; this may be prejudice: it may arise from a
-prepossession on our part in our own favour.  Be it so.  We have no doubt
+prepossession on our part in our own favour.  Be it so.  We have no [[Doubt|doubt]]
 that every gentleman concerned in this mighty assemblage is troubled with
 the same complaint in a greater or less degree; and it is a consolation
 to us to know that we have at least this feeling in common with the great
-scientific stars, the brilliant and extraordinary luminaries, whose
+scientific [[Stars|stars]], the brilliant and extraordinary luminaries, whose
 speculations we record.
 
 We give our correspondent’s letters in the order in which they reached
@@ -113,7 +113,7 @@ point, you may depend upon receiving it.’
 
 I HAVE just returned from a personal interview with the landlord of the
 Pig and Tinder-box.  He speaks confidently of the probability of
-Professors Snore, Doze, and Wheezy taking up their residence at his house
+Professors Snore, Doze, and Wheezy taking up their residence at his [[house]]
 during the sitting of the association, but denies that the beds have been
 yet engaged; in which representation he is confirmed by the chambermaid—a
 girl of artless manners, and interesting appearance.  The boots denies
@@ -121,9 +121,9 @@ that it is at all likely that Professors Snore, Doze, and Wheezy will put
 up here; but I have reason to believe that this man has been suborned by
 the proprietor of the Original Pig, which is the opposition hotel.
 Amidst such conflicting testimony it is difficult to arrive at the real
-truth; but you may depend upon receiving authentic information upon this
+[[Truth|truth]]; but you may depend upon receiving authentic information upon this
 point the moment the fact is ascertained.  The excitement still
-continues.  A boy fell through the window of the pastrycook’s shop at the
+continues.  A boy fell through the [[Window|window]] of the pastrycook’s shop at the
 corner of the High-street about half an hour ago, which has occasioned
 much confusion.  The general impression is, that it was an accident.
 Pray heaven it may prove so!’

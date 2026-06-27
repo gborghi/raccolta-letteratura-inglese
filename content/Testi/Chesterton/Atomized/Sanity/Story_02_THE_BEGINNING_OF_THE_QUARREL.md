@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE BEGINNING OF THE QUARREL"
+title: "[[Sanity]] — THE BEGINNING OF THE QUARREL"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

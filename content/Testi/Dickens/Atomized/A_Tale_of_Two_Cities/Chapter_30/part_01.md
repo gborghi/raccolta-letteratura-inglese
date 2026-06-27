@@ -15,13 +15,13 @@ tags:
 
 
 CHAPTER XXIII.
-Fire Rises
+[[Fire]] Rises
 
 
 There was a change on the village where the fountain fell, and where
 the mender of roads went forth daily to hammer out of the stones on the
 highway such morsels of bread as might serve for patches to hold his
-poor ignorant soul and his poor reduced body together. The prison on the
+poor ignorant [[Soul|soul]] and his poor reduced [[Body|body]] together. The [[Prison|prison]] on the
 crag was not so dominant as of yore; there were soldiers to guard it,
 but not many; there were officers to guard the soldiers, but not one of
 them knew what his men would do--beyond this: that it would probably not
@@ -31,7 +31,7 @@ Far and wide lay a ruined country, yielding nothing but desolation.
 Every green leaf, every blade of grass and blade of grain, was as
 shrivelled and poor as the miserable people. Everything was bowed down,
 dejected, oppressed, and broken. Habitations, fences, domesticated
-animals, men, women, children, and the soil that bore them--all worn
+[[Animals|animals]], men, women, children, and the soil that bore them--all worn
 out.
 
 Monseigneur (often a most worthy individual gentleman) was a national
@@ -41,7 +41,7 @@ nevertheless, Monseigneur as a class had, somehow or other, brought
 things to this. Strange that Creation, designed expressly for
 Monseigneur, should be so soon wrung dry and squeezed out! There must
 be something short-sighted in the eternal arrangements, surely! Thus it
-was, however; and the last drop of blood having been extracted from the
+was, however; and the last drop of [[Blood|blood]] having been extracted from the
 flints, and the last screw of the rack having been turned so often that
 its purchase crumbled, and it now turned and turned with nothing
 to bite, Monseigneur began to run away from a phenomenon so low and
@@ -58,8 +58,8 @@ disappearance of the high caste, chiselled, and otherwise beautified and
 beautifying features of Monseigneur.
 
 For, in these times, as the mender of roads worked, solitary, in the
-dust, not often troubling himself to reflect that dust he was and
-to dust he must return, being for the most part too much occupied in
+[[Dust|dust]], not often troubling himself to reflect that [[Dust|dust]] he was and
+to [[Dust|dust]] he must return, being for the most part too much occupied in
 thinking how little he had for supper and how much more he would eat if
 he had it--in these times, as he raised his eyes from his lonely labour,
 and viewed the prospect, he would see some rough figure approaching on
@@ -67,22 +67,22 @@ foot, the like of which was once a rarity in those parts, but was now
 a frequent presence. As it advanced, the mender of roads would discern
 without surprise, that it was a shaggy-haired man, of almost barbarian
 aspect, tall, in wooden shoes that were clumsy even to the eyes of a
-mender of roads, grim, rough, swart, steeped in the mud and dust of many
+mender of roads, grim, rough, swart, steeped in the mud and [[Dust|dust]] of many
 highways, dank with the marshy moisture of many low grounds, sprinkled
-with the thorns and leaves and moss of many byways through woods.
+with the thorns and [[Leaves|leaves]] and moss of many byways through woods.
 
-Such a man came upon him, like a ghost, at noon in the July weather,
+Such a man came upon him, like a [[Ghost|ghost]], at [[Noon|noon]] in the July weather,
 as he sat on his heap of stones under a bank, taking such shelter as he
 could get from a shower of hail.
 
 The man looked at him, looked at the village in the hollow, at the mill,
-and at the prison on the crag. When he had identified these objects
+and at the [[Prison|prison]] on the crag. When he had identified these objects
 in what benighted mind he had, he said, in a dialect that was just
 intelligible:
 
 “How goes it, Jacques?”
 
-“All well, Jacques.”
+“All [[Well|well]], Jacques.”
 
 “Touch then!”
 
@@ -100,11 +100,11 @@ it from him and dropped something into it from between his finger and
 thumb, that blazed and went out in a puff of smoke.
 
 “Touch then.” It was the turn of the mender of roads to say it this
-time, after observing these operations. They again joined hands.
+[[Time|time]], after observing these operations. They again joined hands.
 
-“To-night?” said the mender of roads.
+“To-[[Night|night]]?” said the mender of roads.
 
-“To-night,” said the man, putting the pipe in his mouth.
+“To-[[Night|night]],” said the man, putting the pipe in his mouth.
 
 “Where?”
 
@@ -114,16 +114,16 @@ He and the mender of roads sat on the heap of stones looking silently at
 one another, with the hail driving in between them like a pigmy charge
 of bayonets, until the sky began to clear over the village.
 
-“Show me!” said the traveller then, moving to the brow of the hill.
+“Show me!” said the traveller then, moving to the brow of the [[Hill|hill]].
 
 “See!” returned the mender of roads, with extended finger. “You go down
 here, and straight through the street, and past the fountain--”
 
-“To the Devil with all that!” interrupted the other, rolling his eye
+“To the Devil with all that!” interrupted the other, [[rolling]] his eye
 over the landscape. “_I_ go through no streets and past no fountains.
-Well?”
+[[Well]]?”
 
-“Well! About two leagues beyond the summit of that hill above the
+“[[Well]]! About two leagues beyond the summit of that [[Hill|hill]] above the
 village.”
 
 “Good. When do you cease to work?”
@@ -131,7 +131,7 @@ village.”
 “At sunset.”
 
 “Will you wake me, before departing? I have walked two nights without
-resting. Let me finish my pipe, and I shall sleep like a child. Will you
+resting. Let me finish my pipe, and I shall [[Sleep|sleep]] like a [[Child|child]]. Will you
 wake me?”
 
 “Surely.”
@@ -140,21 +140,21 @@ The wayfarer smoked his pipe out, put it in his breast, slipped off his
 great wooden shoes, and lay down on his back on the heap of stones. He
 was fast asleep directly.
 
-As the road-mender plied his dusty labour, and the hail-clouds, rolling
+As the [[Road|road]]-mender plied his dusty labour, and the hail-clouds, [[rolling]]
 away, revealed bright bars and streaks of sky which were responded to
 by silver gleams upon the landscape, the little man (who wore a red cap
 now, in place of his blue one) seemed fascinated by the figure on the
 heap of stones. His eyes were so often turned towards it, that he used
 his tools mechanically, and, one would have said, to very poor account.
 The bronze face, the shaggy black hair and beard, the coarse woollen
-red cap, the rough medley dress of home-spun stuff and hairy skins of
+red cap, the rough medley dress of [[Home|home]]-spun stuff and hairy skins of
 beasts, the powerful frame attenuated by spare living, and the sullen
-and desperate compression of the lips in sleep, inspired the mender
+and desperate compression of the lips in [[Sleep|sleep]], inspired the mender
 of roads with awe. The traveller had travelled far, and his feet were
 footsore, and his ankles chafed and bleeding; his great shoes, stuffed
-with leaves and grass, had been heavy to drag over the many long
+with [[Leaves|leaves]] and grass, had been heavy to drag over the many long
 leagues, and his clothes were chafed into holes, as he himself was into
-sores. Stooping down beside him, the road-mender tried to get a peep at
+sores. Stooping down beside him, the [[Road|road]]-mender tried to get a peep at
 secret weapons in his breast or where not; but, in vain, for he slept
 with his arms crossed upon him, and set as resolutely as his lips.
 Fortified towns with their stockades, guard-houses, gates, trenches, and

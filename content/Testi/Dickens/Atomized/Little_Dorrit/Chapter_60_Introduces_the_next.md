@@ -19,19 +19,19 @@ CHAPTER 20. Introduces the next
 
 The passengers were landing from the packet on the pier at Calais.
 A low-lying place and a low-spirited place Calais was, with the tide
-ebbing out towards low water-mark. There had been no more water on the
+ebbing out towards low [[Water|water]]-mark. There had been no more [[Water|water]] on the
 bar than had sufficed to float the packet in; and now the bar itself,
-with a shallow break of sea over it, looked like a lazy marine monster
+with a shallow break of sea over it, looked like a lazy marine [[Monster|monster]]
 just risen to the surface, whose form was indistinctly shown as it lay
 asleep. The meagre lighthouse all in white, haunting the seaboard as if
-it were the ghost of an edifice that had once had colour and rotundity,
-dropped melancholy tears after its late buffeting by the waves. The long
+it were the [[Ghost|ghost]] of an edifice that had once had colour and rotundity,
+dropped [[Melancholy|melancholy]] [[Tears|tears]] after its late buffeting by the waves. The long
 rows of gaunt black piles, slimy and wet and weather-worn, with funeral
 garlands of seaweed twisted about them by the late tide, might
 have represented an unsightly marine cemetery. Every wave-dashed,
-storm-beaten object, was so low and so little, under the broad grey sky,
-in the noise of the wind and sea, and before the curling lines of surf,
-making at it ferociously, that the wonder was there was any Calais left,
+[[Storm|storm]]-beaten object, was so low and so little, under the broad grey sky,
+in the noise of the [[Wind|wind]] and sea, and before the curling lines of surf,
+making at it ferociously, that the [[Wonder|wonder]] was there was any Calais left,
 and that its low gates and low wall and low roofs and low ditches and
 low sand-hills and low ramparts and flat streets, had not yielded
 long ago to the undermining and besieging sea, like the fortifications
@@ -49,8 +49,8 @@ in their various directions, hotly pursued.
 
 Clennam, harassed by more anxieties than one, was among this devoted
 band. Having rescued the most defenceless of his compatriots from
-situations of great extremity, he now went his way alone, or as nearly
-alone as he could be, with a native gentleman in a suit of grease and
+situations of great extremity, he now went his way [[Alone|alone]], or as nearly
+[[Alone|alone]] as he could be, with a native gentleman in a suit of grease and
 a cap of the same material, giving chase at a distance of some fifty
 yards, and continually calling after him, ‘Hi! Ice-say! You! Seer!
 Ice-say! Nice Oatel!’
@@ -59,8 +59,8 @@ Even this hospitable person, however, was left behind at last, and
 Clennam pursued his way, unmolested. There was a tranquil air in the
 town after the turbulence of the Channel and the beach, and its dulness
 in that comparison was agreeable. He met new groups of his countrymen,
-who had all a straggling air of having at one time overblown themselves,
-like certain uncomfortable kinds of flowers, and of being now mere
+who had all a straggling air of having at one [[Time|time]] overblown themselves,
+like certain uncomfortable kinds of [[Flowers|flowers]], and of being now mere
 weeds. They had all an air, too, of lounging out a limited round, day
 after day, which strongly reminded him of the Marshalsea. But, taking
 no further note of them than was sufficient to give birth to the
@@ -68,21 +68,21 @@ reflection, he sought out a certain street and number which he kept in
 his mind.
 
 ‘So Pancks said,’ he murmured to himself, as he stopped before a dull
-house answering to the address. ‘I suppose his information to be correct
+[[house]] answering to the address. ‘I suppose his information to be correct
 and his discovery, among Mr Casby’s loose papers, indisputable; but,
 without it, I should hardly have supposed this to be a likely place.’
 
-A dead sort of house, with a dead wall over the way and a dead gateway
+A dead sort of [[house]], with a dead wall over the way and a dead gateway
 at the side, where a pendant bell-handle produced two dead tinkles, and
 a knocker produced a dead, flat, surface-tapping, that seemed not to
 have depth enough in it to penetrate even the cracked door. However, the
-door jarred open on a dead sort of spring; and he closed it behind him
+door jarred open on a dead sort of [[Spring|spring]]; and he closed it behind him
 as he entered a dull yard, soon brought to a close by another dead wall,
 where an attempt had been made to train some creeping shrubs, which were
 dead; and to make a little fountain in a grotto, which was dry; and to
 decorate that with a little statue, which was gone.
 
-The entry to the house was on the left, and it was garnished as the
+The entry to the [[house]] was on the left, and it was garnished as the
 outer gateway was, with two printed bills in French and English,
 announcing Furnished Apartments to let, with immediate possession. A
 strong cheerful peasant woman, all stocking, petticoat, white cap, and
@@ -102,22 +102,22 @@ statue that was gone.
 ‘With pleasure, Monsieur.’
 
 Thereupon the woman withdrew and left him to look at the room. It was
-the pattern of room always to be found in such a house. Cool, dull, and
+the pattern of room always to be found in such a [[house]]. Cool, dull, and
 dark. Waxed floor very slippery. A room not large enough to skate in;
 nor adapted to the easy pursuit of any other occupation. Red and
 white curtained windows, little straw mat, little round table with a
 tumultuous assemblage of legs underneath, clumsy rush-bottomed chairs,
 two great red velvet arm-chairs affording plenty of space to be
 uncomfortable in, bureau, chimney-glass in several pieces pretending to
-be in one piece, pair of gaudy vases of very artificial flowers; between
-them a Greek warrior with his helmet off, sacrificing a clock to the
+be in one piece, pair of gaudy vases of very artificial [[Flowers|flowers]]; between
+them a Greek warrior with his helmet off, sacrificing a [[Clock|clock]] to the
 Genius of France.
 
 After some pause, a door of communication with another room was opened,
 and a lady entered. She manifested great surprise on seeing Clennam, and
 her glance went round the room in search of some one else.
 
-‘Pardon me, Miss Wade. I am alone.’
+‘Pardon me, Miss Wade. I am [[Alone|alone]].’
 
 ‘It was not your name that was brought to me.’
 
@@ -152,15 +152,15 @@ pressing the subject. I admit that I do press it, and I must beg you to
 forgive me if I do so, very earnestly. The reason is all mine, I do not
 insinuate that it is in any way yours.’
 
-‘Well, sir,’ she returned, repeating a little less haughtily than before
+‘[[Well]], sir,’ she returned, repeating a little less haughtily than before
 her former invitation to him to be seated: to which he now deferred, as
 she seated herself. ‘I am at least glad to know that this is not another
 bondswoman of some friend of yours, who is bereft of free choice, and
 whom I have spirited away. I will hear your reason, if you please.’
 
 ‘First, to identify the person of whom we speak,’ said Clennam, ‘let me
-observe that it is the person you met in London some time back. You will
-remember meeting him near the river--in the Adelphi!’
+observe that it is the person you met in [[London]] some [[Time|time]] back. You will
+remember meeting him near the [[River|river]]--in the Adelphi!’
 
 ‘You mix yourself most unaccountably with my business,’ she replied,
 looking full at him with stern displeasure. ‘How do you know that?’
@@ -197,16 +197,16 @@ heart. When she had uttered this denial, which he believed to be true,
 she asked him what he meant by disappearance? That led to his narrating
 the circumstances in detail, and expressing something of his anxiety
 to discover what had really become of the man, and to repel the dark
-suspicions that clouded about his mother’s house. She heard him with
+suspicions that clouded about his mother’s [[house]]. She heard him with
 evident surprise, and with more marks of suppressed interest than he
 had seen in her; still they did not overcome her distant, proud, and
-self-secluded manner. When he had finished, she said nothing but these
+[[Self|self]]-secluded manner. When he had finished, she said nothing but these
 words:
 
 ‘You have not yet told me, sir, what I have to do with it, or what the
 favour is? Will you be so good as come to that?’
 
-‘I assume,’ said Arthur, persevering, in his endeavour to soften
+‘I assume,’ said [[Arthur]], persevering, in his endeavour to soften
 her scornful demeanour, ‘that being in communication--may I say,
 confidential communication?--with this person--’
 
@@ -214,12 +214,12 @@ confidential communication?--with this person--’
 subscribe to your assumptions, Mr Clennam, or to any one’s.’
 
 ‘--that being, at least in personal communication with him,’ said
-Clennam, changing the form of his position in the hope of making
+Clennam, changing the form of his position in the [[Hope|hope]] of making
 it unobjectionable, ‘you can tell me something of his antecedents,
 pursuits, habits, usual place of residence. Can give me some little clue
 by which to seek him out in the likeliest manner, and either produce
 him, or establish what has become of him. This is the favour I ask,
-and I ask it in a distress of mind for which I hope you will feel some
+and I ask it in a distress of mind for which I [[Hope|hope]] you will feel some
 consideration. If you should have any reason for imposing conditions
 upon me, I will respect it without asking what it is.’
 
@@ -229,7 +229,7 @@ reflections on the matter than with his appeal. ‘Then you knew the man
 before?’
 
 ‘Not before; afterwards. I never saw him before, but I saw him again on
-this very night of his disappearance. In my mother’s room, in fact. I
+this very [[Night|night]] of his disappearance. In my mother’s room, in fact. I
 left him there. You will read in this paper all that is known of him.’
 
 He handed her one of the printed bills, which she read with a steady and
@@ -237,29 +237,29 @@ attentive face.
 
 ‘This is more than _I_ knew of him,’ she said, giving it back.
 Clennam’s looks expressed his heavy disappointment, perhaps his
-incredulity; for she added in the same unsympathetic tone: ‘You don’t
+[[Incredulity|incredulity]]; for she added in the same unsympathetic tone: ‘You don’t
 believe it. Still, it is so. As to personal communication: it seems that
 there was personal communication between him and your mother. And yet
 you say you believe _her_ declaration that she knows no more of him!’
 
 A sufficiently expressive hint of suspicion was conveyed in these words,
-and in the smile by which they were accompanied, to bring the blood into
+and in the smile by which they were accompanied, to bring the [[Blood|blood]] into
 Clennam’s cheeks.
 
 ‘Come, sir,’ she said, with a cruel pleasure in repeating the stab, ‘I
-will be as open with you as you can desire. I will confess that if I
+will be as open with you as you can [[Desire|desire]]. I will confess that if I
 cared for my credit (which I do not), or had a good name to preserve
 (which I have not, for I am utterly indifferent to its being considered
 good or bad), I should regard myself as heavily compromised by having
 had anything to do with this fellow. Yet he never passed in at _my_
 door--never sat in colloquy with _me_ until midnight.’
 
-She took her revenge for her old grudge in thus turning his subject
-against him. Hers was not the nature to spare him, and she had no
+She took her [[Revenge|revenge]] for her old grudge in thus turning his subject
+against him. Hers was not the [[Nature|nature]] to spare him, and she had no
 compunction.
 
 ‘That he is a low, mercenary wretch; that I first saw him prowling about
-Italy (where I was, not long ago), and that I hired him there, as the
+[[Italy]] (where I was, not long ago), and that I hired him there, as the
 suitable instrument of a purpose I happened to have; I have no objection
 to tell you. In short, it was worth my while, for my own pleasure--the
 gratification of a strong feeling--to pay a spy who would fetch and
@@ -278,7 +278,7 @@ communication with him in the unlucky course of business.’
 her into communication with him,’ returned Miss Wade; ‘and business
 hours on that occasion were late.’
 
-‘You imply,’ said Arthur, smarting under these cool-handed thrusts, of
+‘You imply,’ said [[Arthur]], smarting under these cool-handed thrusts, of
 which he had deeply felt the force already, ‘that there was something--’
 
 ‘Mr Clennam,’ she composedly interrupted, ‘recollect that I do not speak
@@ -288,21 +288,21 @@ for him. If I had not had occasion for him, you would not have seen him
 and me together.’
 
 Wrung by her persistence in keeping that dark side of the case before
-him, of which there was a half-hidden shadow in his own breast, Clennam
+him, of which there was a half-hidden [[Shadow|shadow]] in his own breast, Clennam
 was silent.
 
 ‘I have spoken of him as still living,’ she added, ‘but he may have been
 put out of the way for anything I know. For anything I care, also. I
 have no further occasion for him.’
 
-With a heavy sigh and a despondent air, Arthur Clennam slowly rose.
+With a heavy sigh and a despondent air, [[Arthur Clennam]] slowly [[Rose|rose]].
 She did not rise also, but said, having looked at him in the meanwhile
 with a fixed look of suspicion, and lips angrily compressed:
 
 ‘He was the chosen associate of your dear friend, Mr Gowan, was he not?
 Why don’t you ask your dear friend to help you?’
 
-The denial that he was a dear friend rose to Arthur’s lips; but he
+The denial that he was a dear friend [[Rose|rose]] to [[Arthur]]’s lips; but he
 repressed it, remembering his old struggles and resolutions, and said:
 
 ‘Further than that he has never seen Blandois since Blandois set out for
@@ -328,50 +328,50 @@ no provocation to a feeling in which I believe you have no sharer.’
 opinion upon that subject.’
 
 ‘I am scarcely on those intimate terms with my dear friend,’ said
-Arthur, in spite of his resolutions, ‘that would render my approaching
+[[Arthur]], in spite of his resolutions, ‘that would render my approaching
 the subject very probable, Miss Wade.’
 
 ‘I hate him,’ she returned. ‘Worse than his wife, because I was once
-dupe enough, and false enough to myself, almost to love him. You have
+dupe enough, and false enough to myself, almost to [[Love|love]] him. You have
 seen me, sir, only on common-place occasions, when I dare say you have
-thought me a common-place woman, a little more self-willed than the
+thought me a common-place woman, a little more [[Self|self]]-willed than the
 generality. You don’t know what I mean by hating, if you know me no
 better than that; you can’t know, without knowing with what care I have
 studied myself and people about me. For this reason I have for some
-time inclined to tell you what my life has been--not to propitiate your
+[[Time|time]] inclined to tell you what my life has been--not to propitiate your
 opinion, for I set no value on it; but that you may comprehend, when
 you think of your dear friend and his dear wife, what I mean by hating.
 Shall I give you something I have written and put by for your perusal,
 or shall I hold my hand?’
 
-Arthur begged her to give it to him. She went to the bureau, unlocked
+[[Arthur]] begged her to give it to him. She went to the bureau, unlocked
 it, and took from an inner drawer a few folded sheets of paper. Without
 any conciliation of him, scarcely addressing him, rather speaking as if
 she were speaking to her own looking-glass for the justification of her
 own stubbornness, she said, as she gave them to him:
 
 ‘Now you may know what I mean by hating! No more of that. Sir, whether
-you find me temporarily and cheaply lodging in an empty London house, or
+you find me temporarily and cheaply lodging in an empty [[London]] [[house]], or
 in a Calais apartment, you find Harriet with me. You may like to see
 her before you leave. Harriet, come in!’ She called Harriet again. The
 second call produced Harriet, once Tattycoram.
 
 ‘Here is Mr Clennam,’ said Miss Wade; ‘not come for you; he has given
-you up,--I suppose you have, by this time?’
+you up,--I suppose you have, by this [[Time|time]]?’
 
 ‘Having no authority, or influence--yes,’ assented Clennam.
 
 ‘Not come in search of you, you see; but still seeking some one. He
 wants that Blandois man.’
 
-‘With whom I saw you in the Strand in London,’ hinted Arthur.
+‘With whom I saw you in the Strand in [[London]],’ hinted [[Arthur]].
 
 ‘If you know anything of him, Harriet, except that he came from
-Venice--which we all know--tell it to Mr Clennam freely.’
+[[Venice]]--which we all know--tell it to Mr Clennam freely.’
 
 ‘I know nothing more about him,’ said the girl.
 
-‘Are you satisfied?’ Miss Wade inquired of Arthur.
+‘Are you satisfied?’ Miss Wade inquired of [[Arthur]].
 
 He had no reason to disbelieve them; the girl’s manner being so natural
 as to be almost convincing, if he had had any previous doubts. He
@@ -381,25 +381,25 @@ He was not going in the same breath; but he had risen before the girl
 entered, and she evidently thought he was. She looked quickly at him,
 and said:
 
-‘Are they well, sir?’
+‘Are they [[Well|well]], sir?’
 
 ‘Who?’
 
 She stopped herself in saying what would have been ‘all of them;’
 glanced at Miss Wade; and said ‘Mr and Mrs Meagles.’
 
-‘They were, when I last heard of them. They are not at home. By the way,
+‘They were, when I last heard of them. They are not at [[Home|home]]. By the way,
 let me ask you. Is it true that you were seen there?’
 
 ‘Where? Where does any one say I was seen?’ returned the girl, sullenly
 casting down her eyes.
 
-‘Looking in at the garden gate of the cottage.’
+‘Looking in at the [[Garden|garden]] gate of the cottage.’
 
 ‘No,’ said Miss Wade. ‘She has never been near it.’
 
-‘You are wrong, then,’ said the girl. ‘I went down there the last time
-we were in London. I went one afternoon when you left me alone. And I
+‘You are wrong, then,’ said the girl. ‘I went down there the last [[Time|time]]
+we were in [[London]]. I went one afternoon when you left me [[Alone|alone]]. And I
 did look in.’
 
 ‘You poor-spirited girl,’ returned Miss Wade with infinite contempt;
@@ -418,9 +418,9 @@ As each of the two handsome faces looked at the other, Clennam felt how
 each of the two natures must be constantly tearing the other to pieces.
 
 ‘Oh!’ said Miss Wade, coldly subduing and removing her glance; ‘if you
-had any desire to see the place where you led the life from which I
+had any [[Desire|desire]] to see the place where you led the life from which I
 rescued you because you had found out what it was, that is another
-thing. But is that your truth to me? Is that your fidelity to me? Is
+thing. But is that your [[Truth|truth]] to me? Is that your fidelity to me? Is
 that the common cause I make with you? You are not worth the confidence
 I have placed in you. You are not worth the favour I have shown you. You
 are no higher than a spaniel, and had better go back to the people who
@@ -431,9 +431,9 @@ to take their part,’ said the girl.
 
 ‘Go back to them,’ Miss Wade retorted. ‘Go back to them.’
 
-‘You know very well,’ retorted Harriet in her turn, ‘that I won’t go
-back to them. You know very well that I have thrown them off, and never
-can, never shall, never will, go back to them. Let them alone, then,
+‘You know very [[Well|well]],’ retorted Harriet in her turn, ‘that I won’t go
+back to them. You know very [[Well|well]] that I have thrown them off, and never
+can, never shall, never will, go back to them. Let them [[Alone|alone]], then,
 Miss Wade.’
 
 ‘You prefer their plenty to your less fat living here,’ she rejoined.
@@ -446,12 +446,12 @@ having nobody but you to look to. And because I have nobody but you
 to look to, you think you are to make me do, or not do, everything you
 please, and are to put any affront upon me. You are as bad as they were,
 every bit. But I will not be quite tamed, and made submissive. I will
-say again that I went to look at the house, because I had often thought
+say again that I went to look at the [[house]], because I had often thought
 that I should like to see it once more. I will ask again how they are,
 because I once liked them and at times thought they were kind to me.’
 
 Hereupon Clennam said that he was sure they would still receive her
-kindly, if she should ever desire to return.
+kindly, if she should ever [[Desire|desire]] to return.
 
 ‘Never!’ said the girl passionately. ‘I shall never do that. Nobody
 knows that better than Miss Wade, though she taunts me because she has
@@ -460,10 +460,10 @@ when she can bring it to my mind.’
 
 ‘A good pretence!’ said Miss Wade, with no less anger, haughtiness, and
 bitterness; ‘but too threadbare to cover what I plainly see in this. My
-poverty will not bear competition with their money. Better go back at
+[[Poverty|poverty]] will not bear competition with their money. Better go back at
 once, better go back at once, and have done with it!’
 
-Arthur Clennam looked at them, standing a little distance asunder in the
+[[Arthur Clennam]] looked at them, standing a little distance asunder in the
 dull confined room, each proudly cherishing her own anger; each, with
 a fixed determination, torturing her own breast, and torturing the
 other’s. He said a word or two of leave-taking; but Miss Wade barely
@@ -474,8 +474,8 @@ as if she were too low to notice or to be noticed.
 He came down the dark winding stairs into the yard with an increased
 sense upon him of the gloom of the wall that was dead, and of the shrubs
 that were dead, and of the fountain that was dry, and of the statue that
-was gone. Pondering much on what he had seen and heard in that house,
-as well as on the failure of all his efforts to trace the suspicious
-character who was lost, he returned to London and to England by the
+was gone. Pondering much on what he had seen and heard in that [[house]],
+as [[Well|well]] as on the failure of all his efforts to trace the suspicious
+character who was lost, he returned to [[London]] and to England by the
 packet that had taken him over. On the way he unfolded the sheets of
 paper, and read in them what is reproduced in the next chapter.

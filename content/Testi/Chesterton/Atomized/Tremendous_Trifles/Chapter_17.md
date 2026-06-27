@@ -24,7 +24,7 @@ in them--that he did not believe that a pumpkin could turn into
 a coach.  He did, indeed, entertain this curious disbelief.
 And, like all the other people I have ever met who entertained it,
 he was wholly unable to give me an intelligent reason for it.
-He tried the laws of nature, but he soon dropped that.
+He tried the laws of [[Nature|nature]], but he soon dropped that.
 Then he said that pumpkins were unalterable in ordinary experience,
 and that we all reckoned on their infinitely protracted pumpkinity.
 But I pointed out to him that this was not an attitude we
@@ -33,13 +33,13 @@ the attitude we adopt towards all unusual occurrences.
 If we were certain of miracles we should not count on them.
 Things that happen very seldom we all leave out of
 our calculations, whether they are miraculous or not.
-I do not expect a glass of water to be turned into wine;
-but neither do I expect a glass of water to be poisoned with
+I do not expect a glass of [[Water|water]] to be turned into wine;
+but neither do I expect a glass of [[Water|water]] to be poisoned with
 prussic acid.  I do not in ordinary business relations act
 on the assumption that the editor is a fairy; but neither do I
 act on the assumption that he is a Russian spy, or the lost
 heir of the Holy Roman Empire.  What we assume in action is
-not that the natural order is unalterable, but simply that it
+not that the [[Natural Order|natural order]] is unalterable, but simply that it
 is much safer to bet on uncommon incidents than on common ones.
 This does not touch the credibility of any attested tale
 about a Russian spy or a pumpkin turned into a coach.
@@ -54,7 +54,7 @@ But the view that fairy tales cannot really have happened,
 though crazy, is common.  The man I speak of disbelieved
 in fairy tales in an even more amazing and perverted sense.
 He actually thought that fairy tales ought not to be told
-to children.  That is (like a belief in slavery or annexation)
+to children.  That is (like a belief in [[Slavery|slavery]] or annexation)
 one of those intellectual errors which lie very near
 to ordinary mortal sins.  There are some refusals which,
 though they may be done what is called conscientiously,
@@ -72,8 +72,8 @@ short-sighted young man, like a stray curate who was too
 helpless even to find his way to the Church of England.
 He had a curious green necktie and a very long neck;
 I am always meeting idealists with very long necks.
-Perhaps it is that their eternal aspiration slowly lifts their
-heads nearer and nearer to the stars.  Or perhaps it has something
+Perhaps it is that their eternal [[Aspiration|aspiration]] slowly lifts their
+heads nearer and nearer to the [[Stars|stars]].  Or perhaps it has something
 to do with the fact that so many of them are vegetarians:
 perhaps they are slowly evolving the neck of the giraffe so that
 they can eat all the tops of the trees in Kensington Gardens.
@@ -94,29 +94,29 @@ Here at least, here at last, one could find a little common sense.
 I opened the book, and my eyes fell on these splendid and satisfying
 words, "The Dragon's Grandmother."  That at least was reasonable;
 that at least was true.  "The Dragon's Grandmother!"  While I was
-rolling this first touch of ordinary human reality upon my tongue,
-I looked up suddenly and saw this monster with a green tie standing
+[[rolling]] this first touch of ordinary human reality upon my tongue,
+I looked up suddenly and saw this [[Monster|monster]] with a green tie standing
 in the doorway.
 
 . . . . .
 
 I listened to what he said about the society politely enough,
-I hope; but when he incidentally mentioned that he did not believe
+I [[Hope|hope]]; but when he incidentally mentioned that he did not believe
 in fairy tales, I broke out beyond control.  "Man," I said,
 "who are you that you should not believe in fairy tales?
 It is much easier to believe in Blue Beard than to believe in you.
 A blue beard is a misfortune; but there are green ties which are sins.
 It is far easier to believe in a million fairy tales
 than to believe in one man who does not like fairy tales.
-I would rather kiss Grimm instead of a Bible and swear to all
+I would rather kiss Grimm instead of a [[Bible]] and swear to all
 his stories as if they were thirty-nine articles than say
 seriously and out of my heart that there can be such a man as you;
-that you are not some temptation of the devil or some delusion
+that you are not some [[Temptation|temptation]] of the devil or some delusion
 from the void.  Look at these plain, homely, practical words.
 'The Dragon's Grandmother,' that is all right; that is rational
 almost to the verge of rationalism.  If there was a dragon,
 he had a grandmother.  But you--you had no grandmother!
-If you had known one, she would have taught you to love fairy tales.
+If you had known one, she would have taught you to [[Love|love]] fairy tales.
 You had no father, you had no mother; no natural causes can explain you.
 You cannot be.  I believe many things which I have not seen;
 but of such things as you it may be said, 'Blessed is he that has
@@ -128,38 +128,38 @@ It seemed to me that he did not follow me with sufficient delicacy,
 so I moderated my tone.  "Can you not see," I said, "that fairy
 tales in their essence are quite solid and straightforward;
 but that this everlasting fiction about modern life is in its
-nature essentially incredible?  Folk-lore means that the soul
+[[Nature|nature]] essentially incredible?  Folk-lore means that the [[Soul|soul]]
 is sane, but that the universe is wild and full of marvels.
 Realism means that the world is dull and full of routine, but that
-the soul is sick and screaming.  The problem of the fairy tale is--
+the [[Soul|soul]] is sick and screaming.  The problem of the fairy tale is--
 what will a healthy man do with a fantastic world?  The problem
-of the modern novel is--what will a madman do with a dull world?
-In the fairy tales the cosmos goes mad; but the hero does not go mad.
-In the modern novels the hero is mad before the book begins,
-and suffers from the harsh steadiness and cruel sanity of the cosmos.
+of the modern [[Novel|novel]] is--what will a madman do with a dull world?
+In the fairy tales the cosmos goes mad; but the [[Hero|hero]] does not go mad.
+In the modern novels the [[Hero|hero]] is mad before the book begins,
+and suffers from the harsh steadiness and cruel [[Sanity|sanity]] of the cosmos.
 In the excellent tale of 'The Dragon's Grandmother,' in all the other
 tales of Grimm, it is assumed that the young man setting out on his
 travels will have all substantial truths in him; that he will be brave,
-full of faith, reasonable, that he will respect his parents,
+full of [[Faith|faith]], reasonable, that he will respect his parents,
 keep his word, rescue one kind of people, defy another kind,
 'parcere subjectis et debellare,' etc.  Then, having assumed
-this centre of sanity, the writer entertains himself by fancying
+this centre of [[Sanity|sanity]], the writer entertains himself by fancying
 what would happen if the whole world went mad all round it,
-if the sun turned green and the moon blue, if horses had six legs
+if the sun turned green and the [[Moon|moon]] blue, if horses had six legs
 and giants had two heads.  But your modern literature takes insanity
 as its centre.  Therefore, it loses the interest even of insanity.
 A lunatic is not startling to himself, because he is quite serious;
 that is what makes him a lunatic.  A man who thinks he is
 a piece of glass is to himself as dull as a piece of glass.
 A man who thinks he is a chicken is to himself as common as a chicken.
-It is only sanity that can see even a wild poetry in insanity.
-Therefore, these wise old tales made the hero ordinary and
-the tale extraordinary.  But you have made the hero extraordinary
+It is only [[Sanity|sanity]] that can see even a wild poetry in insanity.
+Therefore, these wise old tales made the [[Hero|hero]] ordinary and
+the tale extraordinary.  But you have made the [[Hero|hero]] extraordinary
 and the tale ordinary--so ordinary--oh, so very ordinary."
 
 I saw him still gazing at me fixedly.  Some nerve snapped in me
 under the hypnotic stare.  I leapt to my feet and cried, "In the name
-of God and Democracy and the Dragon's grandmother--in the name of all
-good things--I charge you to avaunt and haunt this house no more."
-Whether or no it was the result of the exorcism, there is no doubt
+of God and [[democracy|Democracy]] and the Dragon's grandmother--in the name of all
+good things--I charge you to avaunt and haunt this [[house]] no more."
+Whether or no it was the result of the exorcism, there is no [[Doubt|doubt]]
 that he definitely went away.

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 15"
+title: "[[Northanger Abbey]] — Chapter 15"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,19 +20,19 @@ CHAPTER 15
 
 
 
-Early the next day, a note from Isabella, speaking peace and tenderness
+Early the next day, a note from [[Isabella]], speaking peace and tenderness
 
 in every line, and entreating the immediate presence of her friend on a
 
 matter of the utmost importance, hastened Catherine, in the happiest
 
-state of confidence and curiosity, to Edgar’s Buildings. The two
+state of confidence and curiosity, to [[Edgar]]’s Buildings. The two
 
 youngest Miss Thorpes were by themselves in the parlour; and, on Anne’s
 
 quitting it to call her sister, Catherine took the opportunity of
 
-asking the other for some particulars of their yesterday’s party. Maria
+asking the other for some particulars of their yesterday’s party. [[Maria]]
 
 desired no greater pleasure than to speak of it; and Catherine
 
@@ -48,15 +48,15 @@ thus much in detail—that they had driven directly to the York Hotel,
 
 ate some soup, and bespoke an early dinner, walked down to the
 
-pump-room, tasted the water, and laid out some shillings in purses and
+pump-room, tasted the [[Water|water]], and laid out some shillings in purses and
 
 spars; thence adjourned to eat ice at a pastry-cook’s, and hurrying
 
 back to the hotel, swallowed their dinner in haste, to prevent being in
 
-the dark; and then had a delightful drive back, only the moon was not
+the dark; and then had a delightful drive back, only the [[Moon|moon]] was not
 
-up, and it rained a little, and Mr. Morland’s horse was so tired he
+up, and it rained a little, and Mr. Morland’s [[Horse|horse]] was so tired he
 
 could hardly get it along.
 
@@ -64,13 +64,13 @@ could hardly get it along.
 
 Catherine listened with heartfelt satisfaction. It appeared that Blaize
 
-Castle had never been thought of; and, as for all the rest, there was
+[[Castle]] had never been thought of; and, as for all the rest, there was
 
-nothing to regret for half an instant. Maria’s intelligence concluded
+nothing to regret for half an instant. [[Maria]]’s intelligence concluded
 
 with a tender effusion of pity for her sister Anne, whom she
 
-represented as insupportably cross, from being excluded the party.
+represented as insupportably [[Cross|cross]], from being excluded the party.
 
 
 
@@ -78,19 +78,19 @@ represented as insupportably cross, from being excluded the party.
 
 it? John would have me go, for he vowed he would not drive her, because
 
-she had such thick ankles. I dare say she will not be in good humour
+she had such thick ankles. I dare say she will not be in good [[Humour|humour]]
 
-again this month; but I am determined I will not be cross; it is not a
+again this month; but I am determined I will not be [[Cross|cross]]; it is not a
 
 little matter that puts me out of temper.”
 
 
 
-Isabella now entered the room with so eager a step, and a look of such
+[[Isabella]] now entered the room with so eager a step, and a look of such
 
-happy importance, as engaged all her friend’s notice. Maria was without
+happy importance, as engaged all her friend’s notice. [[Maria]] was without
 
-ceremony sent away, and Isabella, embracing Catherine, thus began:
+ceremony sent away, and [[Isabella]], embracing Catherine, thus began:
 
 “Yes, my dear Catherine, it is so indeed; your penetration has not
 
@@ -106,9 +106,9 @@ Catherine replied only by a look of wondering ignorance.
 
 yourself. I am amazingly agitated, as you perceive. Let us sit down and
 
-talk in comfort. Well, and so you guessed it the moment you had my
+talk in comfort. [[Well]], and so you guessed it the moment you had my
 
-note? Sly creature! oh! my dear Catherine, you alone, who know my
+note? Sly creature! oh! my dear Catherine, you [[Alone|alone]], who know my
 
 heart, can judge of my present happiness. Your brother is the most
 
@@ -120,13 +120,13 @@ I am so agitated!”
 
 
 
-Catherine’s understanding began to awake: an idea of the truth suddenly
+Catherine’s understanding began to awake: an idea of the [[Truth|truth]] suddenly
 
 darted into her mind; and, with the natural blush of so new an emotion,
 
-she cried out, “Good heaven! my dear Isabella, what do you mean? Can
+she cried out, “Good heaven! my dear [[Isabella]], what do you mean? Can
 
-you—can you really be in love with James?”
+you—can you really be in [[Love|love]] with James?”
 
 
 
@@ -134,13 +134,13 @@ This bold surmise, however, she soon learnt comprehended but half the
 
 fact. The anxious affection, which she was accused of having
 
-continually watched in Isabella’s every look and action, had, in the
+continually watched in [[Isabella]]’s every look and action, had, in the
 
 course of their yesterday’s party, received the delightful confession
 
-of an equal love. Her heart and faith were alike engaged to James.
+of an equal [[Love|love]]. Her heart and [[Faith|faith]] were alike engaged to James.
 
-Never had Catherine listened to anything so full of interest, wonder,
+Never had Catherine listened to anything so full of interest, [[Wonder|wonder]],
 
 and joy. Her brother and her friend engaged! new to such circumstances,
 
@@ -150,31 +150,31 @@ it as one of those grand events, of which the ordinary course of life
 
 can hardly afford a return. The strength of her feelings she could not
 
-express; the nature of them, however, contented her friend. The
+express; the [[Nature|nature]] of them, however, contented her friend. The
 
 happiness of having such a sister was their first effusion, and the
 
-fair ladies mingled in embraces and tears of joy.
+fair ladies mingled in embraces and [[Tears|tears]] of joy.
 
 
 
 Delighting, however, as Catherine sincerely did, in the prospect of the
 
-connection, it must be acknowledged that Isabella far surpassed her in
+connection, it must be acknowledged that [[Isabella]] far surpassed her in
 
 tender anticipations. “You will be so infinitely dearer to me, my
 
-Catherine, than either Anne or Maria: I feel that I shall be so much
+Catherine, than either Anne or [[Maria]]: I feel that I shall be so much
 
 more attached to my dear Morland’s family than to my own.”
 
 
 
-This was a pitch of friendship beyond Catherine.
+This was a pitch of [[Friendship|friendship]] beyond Catherine.
 
 
 
-“You are so like your dear brother,” continued Isabella, “that I quite
+“You are so like your dear brother,” continued [[Isabella]], “that I quite
 
 doted on you the first moment I saw you. But so it always is with me;
 
@@ -190,7 +190,7 @@ introduced him, I thought I never saw anybody so handsome before.”
 
 
 
-Here Catherine secretly acknowledged the power of love; for, though
+Here Catherine secretly acknowledged the power of [[Love|love]]; for, though
 
 exceedingly fond of her brother, and partial to all his endowments, she
 
@@ -202,15 +202,15 @@ had never in her life thought him handsome.
 
 her puce-coloured sarsenet; and she looked so heavenly that I thought
 
-your brother must certainly fall in love with her; I could not sleep a
+your brother must certainly fall in [[Love|love]] with her; I could not [[Sleep|sleep]] a
 
-wink all night for thinking of it. Oh! catherine, the many sleepless
+wink all [[Night|night]] for thinking of it. Oh! catherine, the many sleepless
 
 nights I have had on your brother’s account! i would not have you
 
 suffer half what I have done! i am grown wretchedly thin, I know; but I
 
-will not pain you by describing my anxiety; you have seen enough of it.
+will not [[Pain|pain]] you by describing my anxiety; you have seen enough of it.
 
 I feel that I have betrayed myself perpetually—so unguarded in speaking
 
@@ -226,13 +226,13 @@ ignorance little expected, she dared no longer contest the point, nor
 
 refuse to have been as full of arch penetration and affectionate
 
-sympathy as Isabella chose to consider her. Her brother, she found, was
+sympathy as [[Isabella]] chose to consider her. Her brother, she found, was
 
-preparing to set off with all speed to Fullerton, to make known his
+preparing to set off with all [[Speed|speed]] to Fullerton, to make known his
 
 situation and ask consent; and here was a source of some real agitation
 
-to the mind of Isabella. Catherine endeavoured to persuade her, as she
+to the mind of [[Isabella]]. Catherine endeavoured to persuade her, as she
 
 was herself persuaded, that her father and mother would never oppose
 
@@ -240,11 +240,11 @@ their son’s wishes. “It is impossible,” said she, “for parents to be
 
 more kind, or more desirous of their children’s happiness; I have no
 
-doubt of their consenting immediately.”
+[[Doubt|doubt]] of their consenting immediately.”
 
 
 
-“Morland says exactly the same,” replied Isabella; “and yet I dare not
+“Morland says exactly the same,” replied [[Isabella]]; “and yet I dare not
 
 expect it; my fortune will be so small; they never can consent to it.
 
@@ -252,11 +252,11 @@ Your brother, who might marry anybody!”
 
 
 
-Here Catherine again discerned the force of love.
+Here Catherine again discerned the force of [[Love|love]].
 
 
 
-“Indeed, Isabella, you are too humble. The difference of fortune can be
+“Indeed, [[Isabella]], you are too humble. The difference of fortune can be
 
 nothing to signify.”
 
@@ -286,13 +286,13 @@ frequent declaration; “I am sure they will be delighted with you.”
 
 
 
-“For my own part,” said Isabella, “my wishes are so moderate that the
+“For my own part,” said [[Isabella]], “my wishes are so moderate that the
 
-smallest income in nature would be enough for me. Where people are
+smallest income in [[Nature|nature]] would be enough for me. Where people are
 
-really attached, poverty itself is wealth; grandeur I detest: I would
+really attached, [[Poverty|poverty]] itself is wealth; grandeur I detest: I would
 
-not settle in London for the universe. A cottage in some retired
+not settle in [[London]] for the universe. A cottage in some retired
 
 village would be ecstasy. There are some charming little villas about
 
@@ -312,21 +312,21 @@ _you_, I shall be satisfied. But this is idle talking! i will not allow
 
 myself to think of such things, till we have your father’s answer.
 
-Morland says that by sending it to-night to Salisbury, we may have it
+Morland says that by sending it to-[[Night|night]] to Salisbury, we may have it
 
-to-morrow. To-morrow? I know I shall never have courage to open the
+to-morrow. To-morrow? I know I shall never have [[Courage|courage]] to open the
 
-letter. I know it will be the death of me.”
+letter. I know it will be the [[Death|death]] of me.”
 
 
 
-A reverie succeeded this conviction—and when Isabella spoke again, it
+A reverie succeeded this conviction—and when [[Isabella]] spoke again, it
 
 was to resolve on the quality of her wedding-gown.
 
 
 
-Their conference was put an end to by the anxious young lover himself,
+Their conference was put an end to by the anxious young [[Lover|lover]] himself,
 
 who came to breathe his parting sigh before he set off for Wiltshire.
 
@@ -336,7 +336,7 @@ eloquence was only in her eyes. From them, however, the eight parts of
 
 speech shone out most expressively, and James could combine them with
 
-ease. Impatient for the realization of all that he hoped at home, his
+ease. Impatient for the realization of all that he hoped at [[Home|home]], his
 
 adieus were not long; and they would have been yet shorter, had he not
 
@@ -348,7 +348,7 @@ to have him gone. “Indeed, Morland, I must drive you away. Consider how
 
 far you have to ride. I cannot bear to see you linger so. For heaven’s
 
-sake, waste no more time. There, go, go—I insist on it.”
+sake, waste no more [[Time|time]]. There, go, go—I insist on it.”
 
 
 
@@ -360,7 +360,7 @@ flew along. Mrs. Thorpe and her son, who were acquainted with
 
 everything, and who seemed only to want Mr. Morland’s consent, to
 
-consider Isabella’s engagement as the most fortunate circumstance
+consider [[Isabella]]’s engagement as the most fortunate circumstance
 
 imaginable for their family, were allowed to join their counsels, and
 
@@ -374,7 +374,7 @@ seemed neither kindly meant, nor consistently supported; and its
 
 unkindness she would hardly have forborne pointing out, had its
 
-inconsistency been less their friend; but Anne and Maria soon set her
+inconsistency been less their friend; but Anne and [[Maria]] soon set her
 
 heart at ease by the sagacity of their “I know what”; and the evening
 
@@ -390,9 +390,9 @@ Catherine was with her friend again the next day, endeavouring to
 
 support her spirits and while away the many tedious hours before the
 
-delivery of the letters; a needful exertion, for as the time of
+delivery of the letters; a needful exertion, for as the [[Time|time]] of
 
-reasonable expectation drew near, Isabella became more and more
+reasonable expectation drew near, [[Isabella]] became more and more
 
 desponding, and before the letter arrived, had worked herself into a
 
@@ -406,7 +406,7 @@ to forward my happiness,” were the first three lines, and in one moment
 
 all was joyful security. The brightest glow was instantly spread over
 
-Isabella’s features, all care and anxiety seemed removed, her spirits
+[[Isabella]]’s features, all care and anxiety seemed removed, her spirits
 
 became almost too high for control, and she called herself without
 
@@ -414,19 +414,19 @@ scruple the happiest of mortals.
 
 
 
-Mrs. Thorpe, with tears of joy, embraced her daughter, her son, her
+Mrs. Thorpe, with [[Tears|tears]] of joy, embraced her daughter, her son, her
 
 visitor, and could have embraced half the inhabitants of Bath with
 
 satisfaction. Her heart was overflowing with tenderness. It was “dear
 
-John” and “dear Catherine” at every word; “dear Anne and dear Maria”
+John” and “dear Catherine” at every word; “dear Anne and dear [[Maria]]”
 
 must immediately be made sharers in their felicity; and two “dears” at
 
-once before the name of Isabella were not more than that beloved child
+once before the name of [[Isabella]] were not more than that beloved [[Child|child]]
 
-had now well earned. John himself was no skulker in joy. He not only
+had now [[Well|well]] earned. John himself was no skulker in joy. He not only
 
 bestowed on Mr. Morland the high commendation of being one of the
 
@@ -438,13 +438,13 @@ praise.
 
 The letter, whence sprang all this felicity, was short, containing
 
-little more than this assurance of success; and every particular was
+little more than this assurance of [[success]]; and every particular was
 
-deferred till James could write again. But for particulars Isabella
+deferred till James could write again. But for particulars [[Isabella]]
 
-could well afford to wait. The needful was comprised in Mr. Morland’s
+could [[Well|well]] afford to wait. The needful was comprised in Mr. Morland’s
 
-promise; his honour was pledged to make everything easy; and by what
+promise; his [[Honour|honour]] was pledged to make everything easy; and by what
 
 means their income was to be formed, whether landed property were to be
 
@@ -452,7 +452,7 @@ resigned, or funded money made over, was a matter in which her
 
 disinterested spirit took no concern. She knew enough to feel secure of
 
-an honourable and speedy establishment, and her imagination took a
+an honourable and speedy establishment, and her [[Imagination|imagination]] took a
 
 rapid flight over its attendant felicities. She saw herself at the end
 
@@ -466,25 +466,25 @@ exhibition of hoop rings on her finger.
 
 
 
-When the contents of the letter were ascertained, John Thorpe, who had
+When the contents of the letter were ascertained, [[John Thorpe]], who had
 
-only waited its arrival to begin his journey to London, prepared to set
+only waited its arrival to begin his [[Journey|journey]] to [[London]], prepared to set
 
-off. “Well, Miss Morland,” said he, on finding her alone in the
+off. “[[Well]], Miss Morland,” said he, on finding her [[Alone|alone]] in the
 
 parlour, “I am come to bid you good-bye.” Catherine wished him a good
 
-journey. Without appearing to hear her, he walked to the window,
+[[Journey|journey]]. Without appearing to hear her, he walked to the [[Window|window]],
 
-fidgeted about, hummed a tune, and seemed wholly self-occupied.
+fidgeted about, hummed a tune, and seemed wholly [[Self|self]]-occupied.
 
 
 
 “Shall not you be late at Devizes?” said Catherine. He made no answer;
 
-but after a minute’s silence burst out with, “A famous good thing this
+but after a minute’s [[Silence|silence]] burst out with, “A famous good thing this
 
-marrying scheme, upon my soul! a clever fancy of Morland’s and Belle’s.
+marrying scheme, upon my [[Soul|soul]]! a clever fancy of Morland’s and Belle’s.
 
 What do you think of it, Miss Morland? _I_ say it is no bad notion.”
 
@@ -496,11 +496,11 @@ What do you think of it, Miss Morland? _I_ say it is no bad notion.”
 
 “Do you? That’s honest, by heavens! i am glad you are no enemy to
 
-matrimony, however. Did you ever hear the old song, ‘Going to One
+matrimony, however. Did you ever hear the old [[Song|song]], ‘Going to One
 
 Wedding Brings on Another?’ I say, you will come to Belle’s wedding, I
 
-hope.”
+[[Hope|hope]].”
 
 
 
@@ -510,15 +510,15 @@ hope.”
 
 “And then you know”—twisting himself about and forcing a foolish
 
-laugh—“I say, then you know, we may try the truth of this same old
+laugh—“I say, then you know, we may try the [[Truth|truth]] of this same old
 
-song.”
+[[Song|song]].”
 
 
 
-“May we? But I never sing. Well, I wish you a good journey. I dine with
+“May we? But I never sing. [[Well]], I wish you a good [[Journey|journey]]. I dine with
 
-Miss Tilney to-day, and must now be going home.”
+Miss Tilney to-day, and must now be going [[Home|home]].”
 
 
 
@@ -538,13 +538,13 @@ waited for an answer.
 
 “That is kind of you, however—kind and good-natured. I shall not forget
 
-it in a hurry. But you have more good nature and all that, than anybody
+it in a hurry. But you have more good [[Nature|nature]] and all that, than anybody
 
-living, I believe. A monstrous deal of good nature, and it is not only
+living, I believe. A monstrous deal of good [[Nature|nature]], and it is not only
 
-good nature, but you have so much, so much of everything; and then you
+good [[Nature|nature]], but you have so much, so much of everything; and then you
 
-have such—upon my soul, I do not know anybody like you.”
+have such—upon my [[Soul|soul]], I do not know anybody like you.”
 
 
 
@@ -564,7 +564,7 @@ before it is long, if not disagreeable.”
 
 
 
-“And I hope—I hope, Miss Morland, _you_ will not be sorry to see me.”
+“And I [[Hope|hope]]—I [[Hope|hope]], Miss Morland, _you_ will not be sorry to see me.”
 
 
 
@@ -576,7 +576,7 @@ Company is always cheerful.”
 
 “That is just my way of thinking. Give me but a little cheerful
 
-company, let me only have the company of the people I love, let me only
+company, let me only have the company of the people I [[Love|love]], let me only
 
 be where I like and with whom I like, and the devil take the rest, say
 
@@ -590,7 +590,7 @@ matters.”
 
 “Perhaps we may; but it is more than I ever thought of. And as to _most
 
-matters_, to say the truth, there are not many that I know my own mind
+matters_, to say the [[Truth|truth]], there are not many that I know my own mind
 
 about.”
 
@@ -600,7 +600,7 @@ about.”
 
 does not concern me. My notion of things is simple enough. Let me only
 
-have the girl I like, say I, with a comfortable house over my head, and
+have the girl I like, say I, with a comfortable [[house]] over my head, and
 
 what care I for all the rest? Fortune is nothing. I am sure of a good
 
@@ -624,7 +624,7 @@ the power of all his gallantry to detain her longer. With such news to
 
 communicate, and such a visit to prepare for, her departure was not to
 
-be delayed by anything in his nature to urge; and she hurried away,
+be delayed by anything in his [[Nature|nature]] to urge; and she hurried away,
 
 leaving him to the undivided consciousness of his own happy address,
 
@@ -646,7 +646,7 @@ brother’s arrival; and all that they felt on the occasion was
 
 comprehended in a wish for the young people’s happiness, with a remark,
 
-on the gentleman’s side, in favour of Isabella’s beauty, and on the
+on the gentleman’s side, in favour of [[Isabella]]’s [[Beauty|beauty]], and on the
 
 lady’s, of her great good luck. It was to Catherine the most surprising
 

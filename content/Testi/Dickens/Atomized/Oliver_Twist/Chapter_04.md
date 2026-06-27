@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 4"
+title: "[[Oliver Twist]] — Chapter 4"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,25 +15,25 @@ tags:
 
 
  CHAPTER IV.
-OLIVER, BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
+[[Oliver|OLIVER]], BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
 LIFE
 
 
 In great families, when an advantageous place cannot be obtained,
 either in possession, reversion, remainder, or expectancy, for the
 young man who is growing up, it is a very general custom to send him to
-sea. The board, in imitation of so wise and salutary an example, took
-counsel together on the expediency of shipping off Oliver Twist, in
+sea. The board, in [[Imitation|imitation]] of so wise and salutary an example, took
+counsel together on the expediency of shipping off [[Oliver Twist]], in
 some small trading vessel bound to a good unhealthy port. This
 suggested itself as the very best thing that could possibly be done
 with him: the probability being, that the skipper would flog him to
-death, in a playful mood, some day after dinner, or would knock his
+[[Death|death]], in a playful mood, some day after dinner, or would knock his
 brains out with an iron bar; both pastimes being, as is pretty
 generally known, very favourite and common recreations among gentleman
 of that class. The more the case presented itself to the board, in this
 point of view, the more manifold the advantages of the step appeared;
 so, they came to the conclusion that the only way of providing for
-Oliver effectually, was to send him to sea without delay.
+[[Oliver]] effectually, was to send him to sea without delay.
 
 Mr. Bumble had been despatched to make various preliminary inquiries,
 with the view of finding out some captain or other who wanted a
@@ -49,7 +49,7 @@ jocosity. His step was elastic, and his face betokened inward
 pleasantry, as he advanced to Mr. Bumble, and shook him cordially by
 the hand.
 
-“I have taken the measure of the two women that died last night, Mr.
+“I have taken the measure of the two women that died last [[Night|night]], Mr.
 Bumble,” said the undertaker.
 
 “You’ll make your fortune, Mr. Sowerberry,” said the beadle, as he
@@ -67,14 +67,14 @@ are very small, Mr. Bumble.”
 approach to a laugh as a great official ought to indulge in.
 
 Mr. Sowerberry was much tickled at this: as of course he ought to be;
-and laughed a long time without cessation. “Well, well, Mr. Bumble,” he
+and laughed a long [[Time|time]] without cessation. “[[Well]], [[Well|well]], Mr. Bumble,” he
 said at length, “there’s no denying that, since the new system of
 feeding has come in, the coffins are something narrower and more
 shallow than they used to be; but we must have some profit, Mr. Bumble.
-Well-seasoned timber is an expensive article, sir; and all the iron
+[[Well]]-seasoned timber is an expensive article, sir; and all the iron
 handles come, by canal, from Birmingham.”
 
-“Well, well,” said Mr. Bumble, “every trade has its drawbacks. A fair
+“[[Well]], [[Well|well]],” said Mr. Bumble, “every trade has its drawbacks. A fair
 profit is, of course, allowable.”
 
 “Of course, of course,” replied the undertaker; “and if I don’t get a
@@ -88,14 +88,14 @@ observations which the beadle had interrupted: “though I must say, Mr.
 Bumble, that I have to contend against one very great disadvantage:
 which is, that all the stout people go off the quickest. The people who
 have been better off, and have paid rates for many years, are the first
-to sink when they come into the house; and let me tell you, Mr. Bumble,
+to sink when they come into the [[house]]; and let me tell you, Mr. Bumble,
 that three or four inches over one’s calculation makes a great hole in
 one’s profits: especially when one has a family to provide for, sir.”
 
 As Mr. Sowerberry said this, with the becoming indignation of an
 ill-used man; and as Mr. Bumble felt that it rather tended to convey a
-reflection on the honour of the parish; the latter gentleman thought it
-advisable to change the subject. Oliver Twist being uppermost in his
+reflection on the [[Honour|honour]] of the parish; the latter gentleman thought it
+advisable to change the subject. [[Oliver Twist]] being uppermost in his
 mind, he made him his theme.
 
 “By the bye,” said Mr. Bumble, “you don’t know anybody who wants a boy,
@@ -114,7 +114,7 @@ is, Mr. Bumble! I never noticed it before.”
 downwards at the large brass buttons which embellished his coat. “The
 die is the same as the porochial seal—the Good Samaritan healing the
 sick and bruised man. The board presented it to me on Newyear’s
-morning, Mr. Sowerberry. I put it on, I remember, for the first time,
+morning, Mr. Sowerberry. I put it on, I remember, for the first [[Time|time]],
 to attend the inquest on that reduced tradesman, who died in a doorway
 at midnight.”
 
@@ -138,7 +138,7 @@ wretches.”
 
 “So they are,” said the undertaker.
 
-“They haven’t no more philosophy nor political economy about ’em than
+“They haven’t no more [[philosophy]] nor political economy about ’em than
 that,” said the beadle, snapping his fingers contemptuously.
 
 “No more they have,” acquiesced the undertaker.
@@ -147,39 +147,39 @@ that,” said the beadle, snapping his fingers contemptuously.
 
 “So do I,” rejoined the undertaker.
 
-“And I only wish we’d a jury of the independent sort, in the house for
+“And I only wish we’d a jury of the independent sort, in the [[house]] for
 a week or two,” said the beadle; “the rules and regulations of the
 board would soon bring their spirit down for ’em.”
 
-“Let ’em alone for that,” replied the undertaker. So saying, he smiled,
+“Let ’em [[Alone|alone]] for that,” replied the undertaker. So saying, he smiled,
 approvingly: to calm the rising wrath of the indignant parish officer.
 
-Mr Bumble lifted off his cocked hat; took a handkerchief from the
-inside of the crown; wiped from his forehead the perspiration which his
+[[Mr Bumble]] lifted off his cocked hat; took a handkerchief from the
+inside of the [[Crown|crown]]; wiped from his forehead the perspiration which his
 rage had engendered; fixed the cocked hat on again; and, turning to the
 undertaker, said in a calmer voice:
 
-“Well; what about the boy?”
+“[[Well]]; what about the boy?”
 
 “Oh!” replied the undertaker; “why, you know, Mr. Bumble, I pay a good
 deal towards the poor’s rates.”
 
-“Hem!” said Mr. Bumble. “Well?”
+“Hem!” said Mr. Bumble. “[[Well]]?”
 
-“Well,” replied the undertaker, “I was thinking that if I pay so much
+“[[Well]],” replied the undertaker, “I was thinking that if I pay so much
 towards ’em, I’ve a right to get as much out of ’em as I can, Mr.
 Bumble; and so—I think I’ll take the boy myself.”
 
 Mr. Bumble grasped the undertaker by the arm, and led him into the
 building. Mr. Sowerberry was closeted with the board for five minutes;
-and it was arranged that Oliver should go to him that evening “upon
+and it was arranged that [[Oliver]] should go to him that evening “upon
 liking”—a phrase which means, in the case of a parish apprentice, that
 if the master find, upon a short trial, that he can get enough work out
 of a boy without putting too much food into him, he shall have him for
 a term of years, to do what he likes with.
 
-When little Oliver was taken before “the gentlemen” that evening; and
-informed that he was to go, that night, as general house-lad to a
+When little [[Oliver]] was taken before “the gentlemen” that evening; and
+informed that he was to go, that [[Night|night]], as general [[house]]-lad to a
 coffin-maker’s; and that if he complained of his situation, or ever
 came back to the parish again, he would be sent to sea, there to be
 drowned, or knocked on the head, as the case might be, he evinced so
@@ -190,19 +190,19 @@ Now, although it was very natural that the board, of all people in the
 world, should feel in a great state of virtuous astonishment and horror
 at the smallest tokens of want of feeling on the part of anybody, they
 were rather out, in this particular instance. The simple fact was, that
-Oliver, instead of possessing too little feeling, possessed rather too
+[[Oliver]], instead of possessing too little feeling, possessed rather too
 much; and was in a fair way of being reduced, for life, to a state of
 brutal stupidity and sullenness by the ill usage he had received. He
-heard the news of his destination, in perfect silence; and, having had
+heard the news of his destination, in perfect [[Silence|silence]]; and, having had
 his luggage put into his hand—which was not very difficult to carry,
 inasmuch as it was all comprised within the limits of a brown paper
 parcel, about half a foot square by three inches deep—he pulled his cap
 over his eyes; and once more attaching himself to Mr. Bumble’s coat
-cuff, was led away by that dignitary to a new scene of suffering.
+cuff, was led away by that dignitary to a new scene of [[Suffering|suffering]].
 
-For some time, Mr. Bumble drew Oliver along, without notice or remark;
+For some [[Time|time]], Mr. Bumble drew [[Oliver]] along, without notice or remark;
 for the beadle carried his head very erect, as a beadle always should:
-and, it being a windy day, little Oliver was completely enshrouded by
+and, it being a windy day, little [[Oliver]] was completely enshrouded by
 the skirts of Mr. Bumble’s coat as they blew open, and disclosed to
 great advantage his flapped waistcoat and drab plush knee-breeches. As
 they drew near to their destination, however, Mr. Bumble thought it
@@ -210,41 +210,41 @@ expedient to look down, and see that the boy was in good order for
 inspection by his new master: which he accordingly did, with a fit and
 becoming air of gracious patronage.
 
-“Oliver!” said Mr. Bumble.
+“[[Oliver]]!” said Mr. Bumble.
 
-“Yes, sir,” replied Oliver, in a low, tremulous voice.
+“Yes, sir,” replied [[Oliver]], in a low, tremulous voice.
 
 “Pull that cap off your eyes, and hold up your head, sir.”
 
-Although Oliver did as he was desired, at once; and passed the back of
+Although [[Oliver]] did as he was desired, at once; and passed the back of
 his unoccupied hand briskly across his eyes, he left a tear in them
 when he looked up at his conductor. As Mr. Bumble gazed sternly upon
 him, it rolled down his cheek. It was followed by another, and another.
-The child made a strong effort, but it was an unsuccessful one.
+The [[Child|child]] made a strong effort, but it was an unsuccessful one.
 Withdrawing his other hand from Mr. Bumble’s he covered his face with
-both; and wept until the tears sprung out from between his chin and
+both; and wept until the [[Tears|tears]] sprung out from between his chin and
 bony fingers.
 
-“Well!” exclaimed Mr. Bumble, stopping short, and darting at his little
-charge a look of intense malignity. “Well! Of _all_ the ungratefullest,
-and worst-disposed boys as ever I see, Oliver, you are the—”
+“[[Well]]!” exclaimed Mr. Bumble, stopping short, and darting at his little
+charge a look of intense malignity. “[[Well]]! Of _all_ the ungratefullest,
+and worst-disposed boys as ever I see, [[Oliver]], you are the—”
 
-“No, no, sir,” sobbed Oliver, clinging to the hand which held the
-well-known cane; “no, no, sir; I will be good indeed; indeed, indeed I
+“No, no, sir,” sobbed [[Oliver]], clinging to the hand which held the
+[[Well|well]]-known cane; “no, no, sir; I will be good indeed; indeed, indeed I
 will, sir! I am a very little boy, sir; and it is so—so—”
 
 “So what?” inquired Mr. Bumble in amazement.
 
-“So lonely, sir! So very lonely!” cried the child. “Everybody hates me.
-Oh! sir, don’t, don’t pray be cross to me!” The child beat his hand
-upon his heart; and looked in his companion’s face, with tears of real
+“So lonely, sir! So very lonely!” cried the [[Child|child]]. “Everybody hates me.
+Oh! sir, don’t, don’t pray be [[Cross|cross]] to me!” The [[Child|child]] beat his hand
+upon his heart; and looked in his companion’s face, with [[Tears|tears]] of real
 agony.
 
-Mr. Bumble regarded Oliver’s piteous and helpless look, with some
+Mr. Bumble regarded [[Oliver]]’s piteous and helpless look, with some
 astonishment, for a few seconds; hemmed three or four times in a husky
 manner; and after muttering something about “that troublesome cough,”
-bade Oliver dry his eyes and be a good boy. Then once more taking his
-hand, he walked on with him in silence.
+bade [[Oliver]] dry his eyes and be a good boy. Then once more taking his
+hand, he walked on with him in [[Silence|silence]].
 
 The undertaker, who had just put up the shutters of his shop, was
 making some entries in his day-book by the light of a most appropriate
@@ -254,10 +254,10 @@ dismal candle, when Mr. Bumble entered.
 the middle of a word; “is that you, Bumble?”
 
 “No one else, Mr. Sowerberry,” replied the beadle. “Here! I’ve brought
-the boy.” Oliver made a bow.
+the boy.” [[Oliver]] made a bow.
 
 “Oh! that’s the boy, is it?” said the undertaker: raising the candle
-above his head, to get a better view of Oliver. “Mrs. Sowerberry, will
+above his head, to get a better view of [[Oliver]]. “Mrs. Sowerberry, will
 you have the goodness to come here a moment, my dear?”
 
 Mrs. Sowerberry emerged from a little room behind the shop, and
@@ -265,11 +265,11 @@ presented the form of a short, thin, squeezed-up woman, with a vixenish
 countenance.
 
 “My dear,” said Mr. Sowerberry, deferentially, “this is the boy from
-the workhouse that I told you of.” Oliver bowed again.
+the workhouse that I told you of.” [[Oliver]] bowed again.
 
 “Dear me!” said the undertaker’s wife, “he’s very small.”
 
-“Why, he _is_ rather small,” replied Mr. Bumble: looking at Oliver as
+“Why, he _is_ rather small,” replied Mr. Bumble: looking at [[Oliver]] as
 if it were his fault that he was no bigger; “he is small. There’s no
 denying it. But he’ll grow, Mrs. Sowerberry—he’ll grow.”
 
@@ -277,40 +277,40 @@ denying it. But he’ll grow, Mrs. Sowerberry—he’ll grow.”
 and our drink. I see no saving in parish children, not I; for they
 always cost more to keep, than they’re worth. However, men always think
 they know best. There! Get downstairs, little bag o’ bones.” With this,
-the undertaker’s wife opened a side door, and pushed Oliver down a
+the undertaker’s wife opened a side door, and pushed [[Oliver]] down a
 steep flight of stairs into a stone cell, damp and dark: forming the
 ante-room to the coal-cellar, and denominated “kitchen”; wherein sat a
 slatternly girl, in shoes down at heel, and blue worsted stockings very
 much out of repair.
 
-“Here, Charlotte,” said Mr. Sowerberry, who had followed Oliver down,
+“Here, Charlotte,” said Mr. Sowerberry, who had followed [[Oliver]] down,
 “give this boy some of the cold bits that were put by for Trip. He
-hasn’t come home since the morning, so he may go without ’em. I dare
+hasn’t come [[Home|home]] since the morning, so he may go without ’em. I dare
 say the boy isn’t too dainty to eat ’em—are you, boy?”
 
-Oliver, whose eyes had glistened at the mention of meat, and who was
+[[Oliver]], whose eyes had glistened at the mention of meat, and who was
 trembling with eagerness to devour it, replied in the negative; and a
 plateful of coarse broken victuals was set before him.
 
-I wish some well-fed philosopher, whose meat and drink turn to gall
-within him; whose blood is ice, whose heart is iron; could have seen
-Oliver Twist clutching at the dainty viands that the dog had neglected.
-I wish he could have witnessed the horrible avidity with which Oliver
+I wish some [[Well|well]]-fed philosopher, whose meat and drink turn to gall
+within him; whose [[Blood|blood]] is ice, whose heart is iron; could have seen
+[[Oliver Twist]] clutching at the dainty viands that the dog had neglected.
+I wish he could have witnessed the horrible avidity with which [[Oliver]]
 tore the bits asunder with all the ferocity of famine. There is only
 one thing I should like better; and that would be to see the
 Philosopher making the same sort of meal himself, with the same relish.
 
-“Well,” said the undertaker’s wife, when Oliver had finished his
+“[[Well]],” said the undertaker’s wife, when [[Oliver]] had finished his
 supper: which she had regarded in silent horror, and with fearful
 auguries of his future appetite: “have you done?”
 
-There being nothing eatable within his reach, Oliver replied in the
+There being nothing eatable within his reach, [[Oliver]] replied in the
 affirmative.
 
 “Then come with me,” said Mrs. Sowerberry: taking up a dim and dirty
 lamp, and leading the way upstairs; “your bed’s under the counter. You
 don’t mind sleeping among the coffins, I suppose? But it doesn’t much
-matter whether you do or don’t, for you can’t sleep anywhere else.
-Come; don’t keep me here all night!”
+matter whether you do or don’t, for you can’t [[Sleep|sleep]] anywhere else.
+Come; don’t keep me here all [[Night|night]]!”
 
-Oliver lingered no longer, but meekly followed his new mistress.
+[[Oliver]] lingered no longer, but meekly followed his new mistress.

@@ -55,7 +55,7 @@ The Captain nodded his own, as a mark of assent.
 “But the person said, as we were walking away,” continued Mr Toots,
 “that you knew what, under existing circumstances, might occur—he said
 ‘might,’ very strongly—and that if you were requested to prepare
-yourself, you would, no doubt, come prepared.”
+yourself, you would, no [[Doubt|doubt]], come prepared.”
 
 “Person, my lad” the Captain repeated.
 
@@ -64,7 +64,7 @@ yourself, you would, no doubt, come prepared.”
 there; and he said was I coming back again, and I said yes; and he said
 did I know you, and I said, yes, I had the pleasure of your
 acquaintance—you had given me the pleasure of your acquaintance, after
-some persuasion; and he said, if that was the case, would I say to you
+some [[Persuasion|persuasion]]; and he said, if that was the case, would I say to you
 what I have said, about existing circumstances and coming prepared, and
 as soon as ever I saw you, would I ask you to step round the corner, if
 it was only for one minute, on most important business, to Mr Brogley’s
@@ -72,9 +72,9 @@ the Broker’s. Now, I tell you what, Captain Gills—whatever it is, I am
 convinced it’s very important; and if you like to step round, now, I’ll
 wait here till you come back.”
 
-The Captain, divided between his fear of compromising Florence in some
+The Captain, divided between his [[Fear|fear]] of compromising Florence in some
 way by not going, and his horror of leaving Mr Toots in possession of
-the house with a chance of finding out the secret, was a spectacle of
+the [[house]] with a chance of finding out the secret, was a spectacle of
 mental disturbance that even Mr Toots could not be blind to. But that
 young gentleman, considering his nautical friend as merely in a state
 of preparation for the interview he was going to have, was quite
@@ -82,7 +82,7 @@ satisfied, and did not review his own discreet conduct without chuckle.
 
 At length the Captain decided, as the lesser of two evils, to run round
 to Brogley’s the Broker’s: previously locking the door that
-communicated with the upper part of the house, and putting the key in
+communicated with the upper part of the [[house]], and putting the key in
 his pocket. “If so be,” said the Captain to Mr Toots, with not a little
 shame and hesitation, “as you’ll excuse my doing of it, brother.”
 
@@ -90,21 +90,21 @@ shame and hesitation, “as you’ll excuse my doing of it, brother.”
 to me.”
 
 The Captain thanked him heartily, and promising to come back in less
-than five minutes, went out in quest of the person who had entrusted Mr
+than five minutes, went out in [[Quest|quest]] of the person who had entrusted Mr
 Toots with this mysterious message. Poor Mr Toots, left to himself, lay
 down upon the sofa, little thinking who had reclined there last, and,
 gazing up at the skylight and resigning himself to visions of Miss
-Dombey, lost all heed of time and place.
+Dombey, lost all heed of [[Time|time]] and place.
 
-It was as well that he did so; for although the Captain was not gone
+It was as [[Well|well]] that he did so; for although the Captain was not gone
 long, he was gone much longer than he had proposed. When he came back,
 he was very pale indeed, and greatly agitated, and even looked as if he
-had been shedding tears. He seemed to have lost the faculty of speech,
+had been shedding [[Tears|tears]]. He seemed to have lost the faculty of speech,
 until he had been to the cupboard and taken a dram of rum from the
 case-bottle, when he fetched a deep breath, and sat down in a chair
 with his hand before his face.
 
-“Captain Gills,” said Toots, kindly, “I hope and trust there’s nothing
+“Captain Gills,” said Toots, kindly, “I [[Hope|hope]] and trust there’s nothing
 wrong?”
 
 “Thank’ee, my lad, not a bit,” said the Captain. “Quite contrairy.”
@@ -126,7 +126,7 @@ favour if you’ll part company for the present. I believe, brother,”
 wringing his hand again, “that, after Wal”r, and on a different model,
 you’re as good a lad as ever stepped.”
 
-“Upon my word and honour, Captain Gills,” returned Mr Toots, giving the
+“Upon my word and [[Honour|honour]], Captain Gills,” returned Mr Toots, giving the
 Captain’s hand a preliminary slap before shaking it again, “it’s
 delightful to me to possess your good opinion. Thank’ee.”
 
@@ -135,15 +135,15 @@ back. “What! There’s more than one sweet creetur in the world!”
 
 “Not to me, Captain Gills,” replied Mr Toots gravely. “Not to me, I
 assure you. The state of my feelings towards Miss Dombey is of that
-unspeakable description, that my heart is a desert island, and she
-lives in it alone. I’m getting more used up every day, and I’m proud to
+unspeakable description, that my heart is a [[Desert|desert]] island, and she
+lives in it [[Alone|alone]]. I’m getting more used up every day, and I’m proud to
 be so. If you could see my legs when I take my boots off, you’d form
 some idea of what unrequited affection is. I have been prescribed bark,
 but I don’t take it, for I don’t wish to have any tone whatever given
 to my constitution. I’d rather not. This, however, is forbidden ground.
 Captain Gills, goodbye!”
 
-Captain Cuttle cordially reciprocating the warmth of Mr Toots’s
+[[Captain Cuttle]] cordially reciprocating the warmth of Mr Toots’s
 farewell, locked the door behind him, and shaking his head with the
 same remarkable expression of pity and tenderness as he had regarded
 him with before, went up to see if Florence wanted him.
@@ -163,21 +163,21 @@ recognition of Diogenes, who, stretched upon the ground by the side of
 her couch, wagged his tail, and winked his eyes at the Captain, without
 being at the trouble of getting up.
 
-She was sleeping heavily, and moaning in her sleep; and Captain Cuttle,
-with a perfect awe of her youth, and beauty, and her sorrow, raised her
+She was sleeping heavily, and moaning in her [[Sleep|sleep]]; and [[Captain Cuttle]],
+with a perfect awe of her youth, and [[Beauty|beauty]], and her sorrow, raised her
 head, and adjusted the coat that covered her, where it had fallen off,
-and darkened the window a little more that she might sleep on, and
+and darkened the [[Window|window]] a little more that she might [[Sleep|sleep]] on, and
 crept out again, and took his post of watch upon the stairs. All this,
 with a touch and tread as light as Florence’s own.
 
 Long may it remain in this mixed world a point not easy of decision,
 which is the more beautiful evidence of the Almighty’s goodness—the
 delicate fingers that are formed for sensitiveness and sympathy of
-touch, and made to minister to pain and grief, or the rough hard
-Captain Cuttle hand, that the heart teaches, guides, and softens in a
+touch, and made to minister to [[Pain|pain]] and grief, or the rough hard
+[[Captain Cuttle]] hand, that the heart teaches, guides, and softens in a
 moment!
 
 Florence slept upon her couch, forgetful of her homelessness and
-orphanage, and Captain Cuttle watched upon the stairs. A louder sob or
+orphanage, and [[Captain Cuttle]] watched upon the stairs. A louder sob or
 moan than usual, brought him sometimes to her door; but by degrees she
 slept more peacefully, and the Captain’s watch was undisturbed.

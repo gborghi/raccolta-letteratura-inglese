@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -27,7 +27,7 @@ large-headed host in safe convoy.
 ‘Pray, landlord!’ said Martin, ‘who is that gentleman who passed just
 now, and whom you were looking after?’
 
-The landlord poked the fire as if, in his desire to make the most of
+The landlord poked the [[Fire|fire]] as if, in his [[Desire|desire]] to make the most of
 his answer, he had become indifferent even to the price of coals; and
 putting his hands in his pockets, said, after inflating himself to give
 still further effect to his reply:
@@ -53,7 +53,7 @@ erect the building.’
 
 ‘Our member has come down express,’ returned the landlord. ‘No scrubs
 would do for no such a purpose. Nothing less would satisfy our Directors
-than our member in the House of Commons, who is returned upon the
+than our member in the [[house|House]] of Commons, who is returned upon the
 Gentlemanly Interest.’
 
 ‘Which interest is that?’ asked Martin.
@@ -61,7 +61,7 @@ Gentlemanly Interest.’
 ‘What, don’t you know!’ returned the landlord.
 
 It was quite clear the landlord didn’t. They always told him at election
-time, that it was the Gentlemanly side, and he immediately put on his
+[[Time|time]], that it was the Gentlemanly side, and he immediately put on his
 top-boots, and voted for it.
 
 ‘When does the ceremony take place?’ asked Martin.
@@ -80,18 +80,18 @@ being beheld by Mr Pecksniff in return. They were not a minute too soon,
 for as they were in the act of congratulating each other, a great noise
 was heard at some distance, and everybody looked towards the gate.
 Several ladies prepared their pocket handkerchiefs for waving; and a
-stray teacher belonging to the charity school being much cheered by
+stray teacher belonging to the [[Charity|charity]] school being much cheered by
 mistake, was immensely groaned at when detected.
 
-‘Perhaps he has Tom Pinch with him,’ Martin whispered Mr Tapley.
+‘Perhaps he has [[Tom Pinch]] with him,’ Martin whispered Mr Tapley.
 
 ‘It would be rather too much of a treat for him, wouldn’t it, sir?’
 whispered Mr Tapley in return.
 
-There was no time to discuss the probabilities either way, for the
-charity school, in clean linen, came filing in two and two, so much to
-the self-approval of all the people present who didn’t subscribe to
-it, that many of them shed tears. A band of music followed, led by
+There was no [[Time|time]] to discuss the probabilities either way, for the
+[[Charity|charity]] school, in clean linen, came filing in two and two, so much to
+the [[Self|self]]-approval of all the people present who didn’t subscribe to
+it, that many of them shed [[Tears|tears]]. A band of music followed, led by
 a conscientious drummer who never left off. Then came a great many
 gentlemen with wands in their hands, and bows on their breasts, whose
 share in the proceedings did not appear to be distinctly laid down, and
@@ -100,10 +100,10 @@ period. These were followed by the Mayor and Corporation, all clustering
 round the member for the Gentlemanly Interest; who had the great Mr
 Pecksniff, the celebrated architect on his right hand, and conversed
 with him familiarly as they came along. Then the ladies waved their
-handkerchiefs, and the gentlemen their hats, and the charity children
+handkerchiefs, and the gentlemen their hats, and the [[Charity|charity]] children
 shrieked, and the member for the Gentlemanly Interest bowed.
 
-Silence being restored, the member for the Gentlemanly Interest rubbed
+[[Silence]] being restored, the member for the Gentlemanly Interest rubbed
 his hands, and wagged his head, and looked about him pleasantly; and
 there was nothing this member did, at which some lady or other did not
 burst into an ecstatic waving of her pocket handkerchief. When he looked
@@ -129,15 +129,15 @@ When he had made a kind of dirt-pie under the direction of the mason,
 they brought a little vase containing coins, the which the member
 for the Gentlemanly Interest jingled, as if he were going to conjure.
 Whereat they said how droll, how cheerful, what a flow of spirits! This
-put into its place, an ancient scholar read the inscription, which
+put into its place, an ancient scholar read the [[Inscription|inscription]], which
 was in Latin; not in English; that would never do. It gave great
-satisfaction; especially every time there was a good long substantive
+satisfaction; especially every [[Time|time]] there was a good long substantive
 in the third declension, ablative case, with an adjective to match; at
 which periods the assembly became very tender, and were much affected.
 
 And now the stone was lowered down into its place, amidst the shouting
 of the concourse. When it was firmly fixed, the member for the
 Gentlemanly Interest struck upon it thrice with the handle of the
-trowel, as if inquiring, with a touch of humour, whether anybody was at
-home. Mr Pecksniff then unrolled his Plans (prodigious plans they were),
+trowel, as if inquiring, with a touch of [[Humour|humour]], whether anybody was at
+[[Home|home]]. Mr Pecksniff then unrolled his Plans (prodigious plans they were),
 and people gathered round to look at and admire them.

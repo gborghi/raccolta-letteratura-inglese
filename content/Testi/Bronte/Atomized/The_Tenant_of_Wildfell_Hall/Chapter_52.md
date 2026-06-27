@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 52"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 52"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -90,7 +90,7 @@ her bargain afore long. They say she begins already to see ’at he isn’t
 
 not altogether that nice, generous, perlite, delightful gentleman ’at
 
-she thought him afore marriage—he begins a being careless and masterful
+she thought him afore [[Marriage|marriage]]—he begins a being careless and masterful
 
 already. Ay, and she’ll find him harder and carelesser nor she thinks
 
@@ -98,7 +98,7 @@ on.”
 
 
 
-“You seem to be well acquainted with him,” I observed.
+“You seem to be [[Well|well]] acquainted with him,” I observed.
 
 
 
@@ -114,7 +114,7 @@ grudging; so I thought I’d find another place.”
 
 
 
-“Are we not near the house?” said I, interrupting him.
+“Are we not near the [[house]]?” said I, interrupting him.
 
 
 
@@ -126,7 +126,7 @@ My heart sank within me to behold that stately mansion in the midst of
 
 its expansive grounds. The park as beautiful now, in its wintry garb,
 
-as it could be in its summer glory: the majestic sweep, the undulating
+as it could be in its [[Summer|summer]] glory: the majestic sweep, the undulating
 
 swell and fall, displayed to full advantage in that robe of dazzling
 
@@ -136,15 +136,15 @@ the trooping deer—the stately timber-trees with their heavy-laden
 
 branches gleaming white against the dull, grey sky; the deep,
 
-encircling woods; the broad expanse of water sleeping in frozen quiet;
+encircling woods; the broad expanse of [[Water|water]] sleeping in frozen quiet;
 
-and the weeping ash and willow drooping their snow-clad boughs above
+and the weeping ash and willow drooping their [[Snow|snow]]-clad boughs above
 
 it—all presented a picture, striking indeed, and pleasing to an
 
 unencumbered mind, but by no means encouraging to me. There was one
 
-comfort, however,—all this was entailed upon little Arthur, and could
+comfort, however,—all this was entailed upon little [[arthur|Arthur]], and could
 
 not under any circumstances, strictly speaking, be his mother’s. But
 
@@ -164,7 +164,7 @@ possession of her own fortune (but I knew that her father had not given
 
 her much), and the small additional sum that had been settled upon her
 
-before marriage.
+before [[Marriage|marriage]].
 
 
 
@@ -174,11 +174,11 @@ for the trial. If I should find her within—but alas! she might be still
 
 at Staningley: her brother had given me no intimation to the contrary.
 
-I inquired at the porter’s lodge if Mrs. Huntingdon were at home. No,
+I inquired at the porter’s lodge if Mrs. Huntingdon were at [[Home|home]]. No,
 
 she was with her aunt in ——shire, but was expected to return before
 
-Christmas. She usually spent most of her time at Staningley, only
+Christmas. She usually spent most of her [[Time|time]] at Staningley, only
 
 coming to Grassdale occasionally, when the management of affairs, or
 
@@ -190,13 +190,13 @@ the interest of her tenants and dependents, required her presence.
 
 information was soon obtained. “Now then, my man, give me the reins,
 
-and we’ll return to M——. I must have some breakfast at the ‘Rose and
+and we’ll return to M——. I must have some breakfast at the ‘[[Rose]] and
 
-Crown,’ and then away to Staningley by the first coach for ——.”
+[[Crown]],’ and then away to Staningley by the first coach for ——.”
 
 
 
-At M—— I had time before the coach started to replenish my forces with
+At M—— I had [[Time|time]] before the coach started to replenish my forces with
 
 a hearty breakfast, and to obtain the refreshment of my usual morning’s
 
@@ -206,11 +206,11 @@ also to despatch a short note to my mother (excellent son that I was),
 
 to assure her that I was still in existence, and to excuse my
 
-non-appearance at the expected time. It was a long journey to
+non-appearance at the expected [[Time|time]]. It was a long [[Journey|journey]] to
 
 Staningley for those slow-travelling days, but I did not deny myself
 
-needful refreshment on the road, nor even a night’s rest at a wayside
+needful refreshment on the [[Road|road]], nor even a [[Night|night]]’s rest at a wayside
 
 inn, choosing rather to brook a little delay than to present myself
 
@@ -220,15 +220,15 @@ would be astonished enough to see me without that. Next morning,
 
 therefore, I not only fortified myself with as substantial a breakfast
 
-as my excited feelings would allow me to swallow, but I bestowed a
+as my excited feelings would allow me to [[Swallow|swallow]], but I bestowed a
 
-little more than usual time and care upon my toilet; and, furnished
+little more than usual [[Time|time]] and care upon my toilet; and, furnished
 
-with a change of linen from my small carpet-bag, well-brushed clothes,
+with a change of linen from my small carpet-bag, [[Well|well]]-brushed clothes,
 
-well-polished boots, and neat new gloves, I mounted “The Lightning,”
+[[Well|well]]-polished boots, and neat new gloves, I mounted “The [[Lightning]],”
 
-and resumed my journey. I had nearly two stages yet before me, but the
+and resumed my [[Journey|journey]]. I had nearly two stages yet before me, but the
 
 coach, I was informed, passed through the neighbourhood of Staningley,
 
@@ -244,23 +244,23 @@ It was a clear, frosty morning. The very fact of sitting exalted aloft,
 
 surveying the snowy landscape and sweet sunny sky, inhaling the pure,
 
-bracing air, and crunching away over the crisp frozen snow, was
+bracing air, and crunching away over the crisp frozen [[Snow|snow]], was
 
 exhilarating enough in itself; but add to this the idea of to what goal
 
 I was hastening, and whom I expected to meet, and you may have some
 
-faint conception of my frame of mind at the time—only a _faint_ one,
+faint conception of my frame of mind at the [[Time|time]]—only a _faint_ one,
 
 though, for my heart swelled with unspeakable delight, and my spirits
 
-rose almost to madness, in spite of my prudent endeavours to bind them
+[[Rose|rose]] almost to [[Madness|madness]], in spite of my prudent endeavours to bind them
 
 down to a reasonable platitude by thinking of the undeniable difference
 
-between Helen’s rank and mine; of all that she had passed through since
+between [[Helen]]’s rank and mine; of all that she had passed through since
 
-our parting; of her long, unbroken silence; and, above all, of her
+our parting; of her long, unbroken [[Silence|silence]]; and, above all, of her
 
 cool, cautious aunt, whose counsels she would doubtless be careful not
 
@@ -274,7 +274,7 @@ of what had been said and felt between us, or destroy the keen
 
 anticipation of what was to be: in fact, I could not realise their
 
-terrors now. Towards the close of the journey, however, a couple of my
+terrors now. Towards the close of the [[Journey|journey]], however, a couple of my
 
 fellow-passengers kindly came to my assistance, and brought me low
 
@@ -286,11 +286,11 @@ enough.
 
 wide fields on the right, conspicuous for their compact hedgerows,
 
-deep, well-cut ditches, and fine timber-trees, growing sometimes on the
+deep, [[Well|well]]-cut ditches, and fine timber-trees, growing sometimes on the
 
 borders, sometimes in the midst of the enclosure: “_very_ fine land, if
 
-you saw it in the summer or spring.”
+you saw it in the [[Summer|summer]] or [[spring]].”
 
 
 
@@ -312,7 +312,7 @@ all to his niece.”
 
 
 
-“Every rood of it, and the mansion-house and all! every hatom of his
+“Every rood of it, and the mansion-[[house]] and all! every hatom of his
 
 worldly goods, except just a trifle, by way of remembrance, to his
 
@@ -342,15 +342,15 @@ that this lady should have it.”
 
 “She will so. She’s a widow, but quite young yet, and uncommon
 
-handsome: a fortune of her own, besides, and only one child, and she’s
+handsome: a fortune of her own, besides, and only one [[Child|child]], and she’s
 
 nursing a fine estate for him in ——. There’ll be lots to speak for her!
 
 ’fraid there’s no chance for uz”—(facetiously jogging me with his
 
-elbow, as well as his companion)—“ha, ha, ha! No offence, sir, I
+elbow, as [[Well|well]] as his companion)—“ha, ha, ha! No offence, sir, I
 
-hope?”—(to me). “Ahem! I should think she’ll marry none but a nobleman
+[[Hope|hope]]?”—(to me). “Ahem! I should think she’ll marry none but a nobleman
 
 myself. Look ye, sir,” resumed he, turning to his other neighbour, and
 
@@ -368,7 +368,7 @@ the park-gates.
 
 
 
-“Gen’leman for Staningley Hall?” cried the coachman and I rose and
+“Gen’leman for Staningley Hall?” cried the coachman and I [[Rose|rose]] and
 
 threw my carpet-bag on to the ground, preparatory to dropping myself
 
@@ -398,19 +398,19 @@ and eyes fixed upon the ground, an overwhelming force of images,
 
 thoughts, impressions crowding on my mind, and nothing tangibly
 
-distinct but this: My love had been cherished in vain—my hope was gone
+distinct but this: My [[Love|love]] had been cherished in vain—my [[Hope|hope]] was gone
 
 for ever; I must tear myself away at once, and banish or suppress all
 
 thoughts of her, like the remembrance of a wild, mad dream. Gladly
 
-would I have lingered round the place for hours, in the hope of
+would I have lingered round the place for hours, in the [[Hope|hope]] of
 
 catching at least one distant glimpse of her before I went, but it must
 
 not be—I must not suffer her to see me; for what could have brought me
 
-hither but the hope of reviving her attachment, with a view hereafter
+hither but the [[Hope|hope]] of reviving her attachment, with a view hereafter
 
 to obtain her hand? And could I bear that she should think me capable
 
@@ -428,9 +428,9 @@ her prosperity, which, had it never failed her, would most certainly
 
 have kept her unknown to me for ever? And this, too, when we had parted
 
-sixteen months ago, and she had expressly forbidden me to hope for a
+sixteen months ago, and she had expressly forbidden me to [[Hope|hope]] for a
 
-re-union in this world, and never sent me a line or a message from that
+re-[[Union|union]] in this world, and never sent me a line or a message from that
 
 day to this. No! The very idea was intolerable.
 
@@ -448,7 +448,7 @@ should deem it her duty to risk the slights and censures of the world,
 
 the sorrow and displeasure of those she loved, for a romantic idea of
 
-truth and constancy to me, or to sacrifice her individual wishes to the
+[[Truth|truth]] and constancy to me, or to sacrifice her individual wishes to the
 
 feelings of her friends and her own sense of prudence and the fitness
 
@@ -464,20 +464,20 @@ presence, nor her heart afflicted by the sight of my fidelity.
 
 
 
-“Adieu then, dear Helen, forever! Forever adieu!”
+“Adieu then, dear [[Helen]], forever! Forever adieu!”
 
 
 
 So said I—and yet I could not tear myself away. I moved a few paces,
 
-and then looked back, for one last view of her stately home, that I
+and then looked back, for one last view of her stately [[Home|home]], that I
 
 might have its outward form, at least, impressed upon my mind as
 
 indelibly as her own image, which, alas! I must not see again—then
 
-walked a few steps further; and then, lost in melancholy musings,
+walked a few steps further; and then, lost in [[Melancholy|melancholy]] musings,
 
 paused again and leant my back against a rough old tree that grew
 
-beside the road.
+beside the [[Road|road]].

@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-Susan Nipper may or may not have been affected similarly, but having
+[[Susan Nipper]] may or may not have been affected similarly, but having
 her attention much engaged in struggles with boys, whenever there was
 any press of people—for, between that grade of human kind and herself,
 there was some natural animosity that invariably broke out, whenever
 they came together—it would seem that she had not much leisure on the
-road for intellectual operations.
+[[Road|road]] for intellectual operations.
 
-Arriving in good time abreast of the wooden Midshipman on the opposite
-side of the way, and waiting for an opportunity to cross the street,
+Arriving in good [[Time|time]] abreast of the wooden Midshipman on the opposite
+side of the way, and waiting for an opportunity to [[Cross|cross]] the street,
 they were a little surprised at first to see, at the Instrument-maker’s
 door, a round-headed lad, with his chubby face addressed towards the
 sky, who, as they looked at him, suddenly thrust into his capacious
@@ -39,11 +39,11 @@ moment presenting itself, they both hastened across, without any
 further contemplation of Mrs Richards’s bane. That sporting character,
 unconscious of their approach, again whistled with his utmost might,
 and then yelled in a rapture of excitement, “Strays! Whoo-oop! Strays!”
-which identification had such an effect upon the conscience-stricken
+which identification had such an effect upon the [[Conscience|conscience]]-stricken
 pigeons, that instead of going direct to some town in the North of
 England, as appeared to have been their original intention, they began
-to wheel and falter; whereupon Mrs Richards’s first born pierced them
-with another whistle, and again yelled, in a voice that rose above the
+to [[Wheel|wheel]] and falter; whereupon Mrs Richards’s first born pierced them
+with another whistle, and again yelled, in a voice that [[Rose|rose]] above the
 turmoil of the street, “Strays! Whoo-oop! Strays!”
 
 From this transport, he was abruptly recalled to terrestrial objects,
@@ -54,10 +54,10 @@ fretting for you months and months?” said Susan, following the poke.
 “Where’s Mr Gills?”
 
 Rob, who smoothed his first rebellious glance at Miss Nipper when he
-saw Florence following, put his knuckles to his hair, in honour of the
+saw Florence following, put his knuckles to his hair, in [[Honour|honour]] of the
 latter, and said to the former, that Mr Gills was out.”
 
-“Fetch him home,” said Miss Nipper, with authority, “and say that my
+“Fetch him [[Home|home]],” said Miss Nipper, with authority, “and say that my
 young lady’s here.”
 
 “I don’t know where he’s gone,” said Rob.
@@ -67,10 +67,10 @@ young lady’s here.”
 “Why how can I go and fetch him when I don’t know where to go?”
 whimpered the baited Rob. “How can you be so unreasonable?”
 
-“Did Mr Gills say when he should be home?” asked Florence.
+“Did Mr Gills say when he should be [[Home|home]]?” asked Florence.
 
 “Yes, Miss,” replied Rob, with another application of his knuckles to
-his hair. “He said he should be home early in the afternoon; in about a
+his hair. “He said he should be [[Home|home]] early in the afternoon; in about a
 couple of hours from now, Miss.”
 
 “Is he very anxious about his nephew?” inquired Susan.
@@ -79,11 +79,11 @@ couple of hours from now, Miss.”
 and slighting Nipper; “I should say he was, very much so. He ain’t
 indoors, Miss, not a quarter of an hour together. He can’t settle in
 one place five minutes. He goes about, like a—just like a stray,” said
-Rob, stooping to get a glimpse of the pigeons through the window, and
+Rob, stooping to get a glimpse of the pigeons through the [[Window|window]], and
 checking himself, with his fingers half-way to his mouth, on the verge
 of another whistle.
 
-“Do you know a friend of Mr Gills, called Captain Cuttle?” inquired
+“Do you know a friend of Mr Gills, called [[Captain Cuttle]]?” inquired
 Florence, after a moment’s reflection.
 
 “Him with a hook, Miss?” rejoined Rob, with an illustrative twist of
@@ -96,12 +96,12 @@ his left hand. Yes, Miss. He was here the day before yesterday.”
 “Perhaps Walter’s Uncle has gone there, Susan,” observed Florence,
 turning to her.
 
-“To Captain Cuttle’s, Miss?” interposed Rob; “no, he’s not gone there,
-Miss. Because he left particular word that if Captain Cuttle called, I
+“To [[Captain Cuttle]]’s, Miss?” interposed Rob; “no, he’s not gone there,
+Miss. Because he left particular word that if [[Captain Cuttle]] called, I
 should tell him how surprised he was, not to have seen him yesterday,
 and should make him stop till he came back.”
 
-“Do you know where Captain Cuttle lives?” asked Florence.
+“Do you know where [[Captain Cuttle]] lives?” asked Florence.
 
 Rob replied in the affirmative, and turning to a greasy parchment book
 on the shop desk, read the address aloud.
@@ -109,7 +109,7 @@ on the shop desk, read the address aloud.
 Florence again turned to her maid and took counsel with her in a low
 voice, while Rob the round-eyed, mindful of his patron’s secret charge,
 looked on and listened. Florence proposed that they could go to Captain
-Cuttle’s house; hear from his own lips, what he thought of the absence
+Cuttle’s [[house]]; hear from his own lips, what he thought of the absence
 of any tidings of the Son and Heir; and bring him, if they could, to
 comfort Uncle Sol. Susan at first objected slightly, on the score of
 distance; but a hackney-coach being mentioned by her mistress, withdrew
@@ -119,7 +119,7 @@ which the staring Rob paid close attention to both speakers, and
 inclined his ear to each by turns, as if he were appointed arbitrator
 of the argument.
 
-In time, Rob was despatched for a coach, the visitors keeping shop
+In [[Time|time]], Rob was despatched for a coach, the visitors keeping shop
 meanwhile; and when he brought it, they got into it, leaving word for
 Uncle Sol that they would be sure to call again, on their way back. Rob
 having stared after the coach until it was as invisible as the pigeons

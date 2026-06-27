@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -34,8 +34,8 @@ Martin said nothing in reply, but soon afterwards fell asleep, and
 remained so for an hour or more. When he awoke, finding it had ceased
 to rain, he took his seat beside the driver, and asked him several
 questions; as how long had the fortunate guard of the Light Salisbury
-been in crossing the Atlantic; at what time of the year had he sailed;
-what was the name of the ship in which he made the voyage; how much had
+been in crossing the Atlantic; at what [[Time|time]] of the year had he sailed;
+what was the name of the [[Ship|ship]] in which he made the voyage; how much had
 he paid for passage-money; did he suffer greatly from sea-sickness?
 and so forth. But on these points of detail his friend was possessed
 of little or no information; either answering obviously at random or
@@ -46,33 +46,33 @@ intelligence on these essential particulars.
 They jogged on all day, and stopped so often--now to refresh, now to
 change their team of horses, now to exchange or bring away a set of
 harness, now on one point of business, and now upon another, connected
-with the coaching on that line of road--that it was midnight when they
+with the coaching on that line of [[Road|road]]--that it was midnight when they
 reached Hounslow. A little short of the stables for which the van was
-bound, Martin got down, paid his crown, and forced his silk handkerchief
+bound, Martin got down, paid his [[Crown|crown]], and forced his silk handkerchief
 upon his honest friend, notwithstanding the many protestations that he
 didn’t wish to deprive him of it, with which he tried to give the lie to
-his longing looks. That done, they parted company; and when the van had
+his [[Longing|longing]] looks. That done, they parted company; and when the van had
 driven into its own yard and the gates were closed, Martin stood in the
-dark street, with a pretty strong sense of being shut out, alone, upon
+dark street, with a pretty strong sense of being shut out, [[Alone|alone]], upon
 the dreary world, without the key of it.
 
 But in this moment of despondency, and often afterwards, the
 recollection of Mr Pecksniff operated as a cordial to him; awakening
 in his breast an indignation that was very wholesome in nerving him to
-obstinate endurance. Under the influence of this fiery dram he started
-off for London without more ado. Arriving there in the middle of the
-night, and not knowing where to find a tavern open, he was fain to
+obstinate [[Endurance|endurance]]. Under the influence of this fiery dram he started
+off for [[London]] without more ado. Arriving there in the middle of the
+[[Night|night]], and not knowing where to find a tavern open, he was fain to
 stroll about the streets and market-places until morning.
 
-He found himself, about an hour before dawn, in the humbler regions
+He found himself, about an hour before [[Dawn|dawn]], in the humbler regions
 of the Adelphi; and addressing himself to a man in a fur-cap, who was
-taking down the shutters of an obscure public-house, informed him
+taking down the shutters of an obscure public-[[house]], informed him
 that he was a stranger, and inquired if he could have a bed there. It
 happened by good luck that he could. Though none of the gaudiest, it was
 tolerably clean, and Martin felt very glad and grateful when he crept
 into it, for warmth, rest, and forgetfulness.
 
-It was quite late in the afternoon when he awoke; and by the time he had
+It was quite late in the afternoon when he awoke; and by the [[Time|time]] he had
 washed and dressed, and broken his fast, it was growing dusk again. This
 was all the better, for it was now a matter of absolute necessity that
 he should part with his watch to some obliging pawn-broker. He would
@@ -83,13 +83,13 @@ He passed more Golden Balls than all the jugglers in Europe have juggled
 with, in the course of their united performances, before he could
 determine in favour of any particular shop where those symbols were
 displayed. In the end he came back to one of the first he had seen,
-and entering by a side-door in a court, where the three balls, with the
+and entering by a side-door in a [[Court|court]], where the three balls, with the
 legend ‘Money Lent,’ were repeated in a ghastly transparency, passed
 into one of a series of little closets, or private boxes, erected for
 the accommodation of the more bashful and uninitiated customers. He
 bolted himself in; pulled out his watch; and laid it on the counter.
 
-‘Upon my life and soul!’ said a low voice in the next box to the shopman
+‘Upon my life and [[Soul|soul]]!’ said a low voice in the next box to the shopman
 who was in treaty with him, ‘you must make it more; you must make it a
 trifle more, you must indeed! You must dispense with one half-quarter
 of an ounce in weighing out your pound of flesh, my best of friends, and
@@ -97,16 +97,16 @@ make it two-and-six.’
 
 Martin drew back involuntarily, for he knew the voice at once.
 
-‘You’re always full of your chaff,’ said the shopman, rolling up the
+‘You’re always full of your chaff,’ said the shopman, [[rolling]] up the
 article (which looked like a shirt) quite as a matter of course, and
 nibbing his pen upon the counter.
 
 ‘I shall never be full of my wheat,’ said Mr Tigg, ‘as long as I come
 here. Ha, ha! Not bad! Make it two-and-six, my dear friend, positively
-for this occasion only. Half-a-crown is a delightful coin. Two-and-six.
-Going at two-and-six! For the last time at two-and-six!’
+for this occasion only. Half-a-[[Crown|crown]] is a delightful coin. Two-and-six.
+Going at two-and-six! For the last [[Time|time]] at two-and-six!’
 
-‘It’ll never be the last time till it’s quite worn out,’ rejoined the
+‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
 shopman. ‘It’s grown yellow in the service as it is.’
 
 ‘Its master has grown yellow in the service, if you mean that, my
@@ -117,7 +117,7 @@ country. You are making it two-and-six, I think?’
 shillings. Same name as usual, I suppose?’
 
 ‘Still the same name,’ said Mr Tigg; ‘my claim to the dormant peerage
-not being yet established by the House of Lords.’
+not being yet established by the [[house|House]] of Lords.’
 
 ‘The old address?’
 
@@ -132,7 +132,7 @@ a grin.
 is still the same. The apartments for the under-butler and the fifth
 footman being of a most confounded low and vulgar kind at thirty-eight,
 Mayfair, I have been compelled, in my regard for the feelings which do
-them so much honour, to take on lease for seven, fourteen, or twenty-one
+them so much [[Honour|honour]], to take on lease for seven, fourteen, or twenty-one
 years, renewable at the option of the tenant, the elegant and commodious
 family mansion, number fifteen-hundred-and-forty-two Park Lane. Make it
 two-and-six, and come and see me!’

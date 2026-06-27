@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 28: TWENTY EIGHT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -31,9 +31,9 @@ Whether the two gentlemen who contributed so much to the doctor’s
 philosophical knowledge (by the way, the doctor slipped off quietly,
 after swallowing his usual amount of wine) had had their cue distinctly
 from the host, or took it from what they saw and heard, they acted
-their parts very well. They solicited the honour of Jonas’s better
+their parts very [[Well|well]]. They solicited the [[Honour|honour]] of Jonas’s better
 acquaintance; trusted that they would have the pleasure of introducing
-him into that elevated society in which he was so well qualified to
+him into that elevated society in which he was so [[Well|well]] qualified to
 shine; and informed him, in the most friendly manner that the advantages
 of their respective establishments were entirely at his control. In a
 word, they said ‘Be one of us!’ And Jonas said he was infinitely obliged
@@ -43,7 +43,7 @@ to them, and he would be; adding within himself, that so long as they
 After coffee, which was served in the drawing-room, there was a short
 interval (mainly sustained by Pip and Wolf) of conversation; rather
 highly spiced and strongly seasoned. When it flagged, Jonas took it up
-and showed considerable humour in appraising the furniture; inquiring
+and showed considerable [[Humour|humour]] in appraising the furniture; inquiring
 whether such an article was paid for; what it had originally cost, and
 the like. In all of this, he was, as he considered, desperately hard on
 Montague, and very demonstrative of his own brilliant parts.
@@ -55,15 +55,15 @@ departure of the two gentlemen of the world, and the slumber of Mr Jonas
 upon one of the sofas.
 
 As he could not be made to understand where he was, Mr Bailey received
-orders to call a hackney-coach, and take him home; which that young
-gentleman roused himself from an uneasy sleep in the hall to do. It
-being now almost three o’clock in the morning.
+orders to call a hackney-coach, and take him [[Home|home]]; which that young
+gentleman roused himself from an uneasy [[Sleep|sleep]] in the hall to do. It
+being now almost three o’[[Clock|clock]] in the morning.
 
 ‘Is he hooked, do you think?’ whispered Crimple, as himself and partner
 stood in a distant part of the room observing him as he lay.
 
 ‘Aye!’ said Tigg, in the same tone. ‘With a strong iron, perhaps. Has
-Nadgett been here to-night?’
+Nadgett been here to-[[Night|night]]?’
 
 ‘Yes. I went out to him. Hearing you had company, he went away.’
 
@@ -73,7 +73,7 @@ Nadgett been here to-night?’
 bed.’
 
 ‘Tell them to be sure and send him up to my bedside. Hush! Here’s the
-boy! Now Mr Bailey, take this gentleman home, and see him safely in.
+boy! Now Mr Bailey, take this gentleman [[Home|home]], and see him safely in.
 Hallo, here! Why Chuzzlewit, halloa!’
 
 They got him upright with some difficulty, and assisted him downstairs,
@@ -83,36 +83,36 @@ smoked his cigar with an air of particular satisfaction; the undertaking
 in which he was engaged having a free and sporting character about it,
 which was quite congenial to his taste.
 
-Arriving in due time at the house in the City, Mr Bailey jumped down,
-and expressed the lively nature of his feelings in a knock the like of
-which had probably not been heard in that quarter since the great fire
-of London. Going out into the road to observe the effect of this feat,
-he saw that a dim light, previously visible at an upper window, had been
+Arriving in due [[Time|time]] at the [[house]] in the [[City]], Mr Bailey jumped down,
+and expressed the lively [[Nature|nature]] of his feelings in a knock the like of
+which had probably not been heard in that quarter since the great [[Fire|fire]]
+of [[London]]. Going out into the [[Road|road]] to observe the effect of this feat,
+he saw that a dim light, previously visible at an upper [[Window|window]], had been
 already removed and was travelling downstairs. To obtain a foreknowledge
 of the bearer of this taper, Mr Bailey skipped back to the door again,
 and put his eye to the keyhole.
 
 It was the merry one herself. But sadly, strangely altered! So careworn
-and dejected, so faltering and full of fear; so fallen, humbled,
+and dejected, so faltering and full of [[Fear|fear]]; so fallen, humbled,
 broken; that to have seen her quiet in her coffin would have been a less
 surprise.
 
 She set the light upon a bracket in the hall, and laid her hand upon her
 heart; upon her eyes; upon her burning head. Then she came on towards
 the door with such a wild and hurried step that Mr Bailey lost his
-self-possession, and still had his eye where the keyhole had been, when
+[[Self|self]]-possession, and still had his eye where the keyhole had been, when
 she opened it.
 
 ‘Aha!’ said Mr Bailey, with an effort. ‘There you are, are you? What’s
-the matter? Ain’t you well, though?’
+the matter? Ain’t you [[Well|well]], though?’
 
 In the midst of her astonishment as she recognized him in his altered
 dress, so much of her old smile came back to her face that Bailey was
-glad. But next moment he was sorry again, for he saw tears standing in
+glad. But next moment he was sorry again, for he saw [[Tears|tears]] standing in
 her poor dim eyes.
 
 ‘Don’t be frightened,’ said Bailey. ‘There ain’t nothing the matter.
-I’ve brought home Mr Chuzzlewit. He ain’t ill. He’s only a little
+I’ve brought [[Home|home]] Mr Chuzzlewit. He ain’t ill. He’s only a little
 swipey, you know.’ Mr Bailey reeled in his boots, to express
 intoxication.
 
@@ -129,10 +129,10 @@ us?’
 a-catching cold in your head. I’ll wake him!’ Mr Bailey expressing in
 his demeanour a perfect confidence that he could carry him in with ease,
 if necessary, opened the coach door, let down the steps, and giving
-Jonas a shake, cried ‘We’ve got home, my flower! Tumble up, then!’
+Jonas a shake, cried ‘We’ve got [[Home|home]], my flower! Tumble up, then!’
 
 He was so far recovered as to be able to respond to this appeal, and
 to come stumbling out of the coach in a heap, to the great hazard of Mr
 Bailey’s person. When he got upon the pavement, Mr Bailey first butted
 at him in front, and then dexterously propped him up behind; and having
-steadied him by these means, he assisted him into the house.
+steadied him by these means, he assisted him into the [[house]].

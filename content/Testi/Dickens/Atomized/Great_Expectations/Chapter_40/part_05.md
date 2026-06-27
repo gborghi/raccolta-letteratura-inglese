@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 40 (part 5)"
+title: "[[Great Expectations]] — Chapter 40 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-I doubt if a ghost could have been more terrible to me, up in those
-lonely rooms in the long evenings and long nights, with the wind and
-the rain always rushing by. A ghost could not have been taken and
+I [[Doubt|doubt]] if a [[Ghost|ghost]] could have been more terrible to me, up in those
+lonely rooms in the long evenings and long nights, with the [[Wind|wind]] and
+the rain always rushing by. A [[Ghost|ghost]] could not have been taken and
 hanged on my account, and the consideration that he could be, and the
 dread that he would be, were no small addition to my horrors. When he
 was not asleep, or playing a complicated kind of Patience with a ragged
@@ -24,7 +24,7 @@ pack of cards of his own,—a game that I never saw before or since, and
 in which he recorded his winnings by sticking his jackknife into the
 table,—when he was not engaged in either of these pursuits, he would
 ask me to read to him,—“Foreign language, dear boy!” While I complied,
-he, not comprehending a single word, would stand before the fire
+he, not comprehending a single word, would stand before the [[Fire|fire]]
 surveying me with the air of an Exhibitor, and I would see him, between
 the fingers of the hand with which I shaded my face, appealing in dumb
 show to the furniture to take notice of my proficiency. The imaginary
@@ -34,11 +34,11 @@ recoiling from him with a stronger repulsion, the more he admired me
 and the fonder he was of me.
 
 This is written of, I am sensible, as if it had lasted a year. It
-lasted about five days. Expecting Herbert all the time, I dared not go
+lasted about five days. Expecting Herbert all the [[Time|time]], I dared not go
 out, except when I took Provis for an airing after dark. At length, one
 evening when dinner was over and I had dropped into a slumber quite
 worn out,—for my nights had been agitated and my rest broken by fearful
-dreams,—I was roused by the welcome footstep on the staircase. Provis,
+[[Dreams|dreams]],—I was roused by the welcome footstep on the staircase. Provis,
 who had been asleep too, staggered up at the noise I made, and in an
 instant I saw his jackknife shining in his hand.
 
@@ -55,7 +55,7 @@ seeing Provis. Provis, regarding him with a fixed attention, was slowly
 putting up his jackknife, and groping in another pocket for something
 else.
 
-“Herbert, my dear friend,” said I, shutting the double doors, while
+“Herbert, my dear friend,” said I, shutting the [[Double|double]] doors, while
 Herbert stood staring and wondering, “something very strange has
 happened. This is—a visitor of mine.”
 

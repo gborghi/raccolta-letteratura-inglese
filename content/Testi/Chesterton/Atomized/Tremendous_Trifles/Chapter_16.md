@@ -29,7 +29,7 @@ get on nowadays by hanging about with his hands in his pockets."
 I made reply with the quite obvious flippancy that perhaps a man got
 on by having his hands in other people's pockets; whereupon he began
 to argue about Moral Evolution, so I suppose what I said had some
-truth in it.  But the incident now comes back to me, and connects
+[[Truth|truth]] in it.  But the incident now comes back to me, and connects
 itself with another incident--if you can call it an incident--
 which happened to me only the other day.
 
@@ -57,29 +57,29 @@ surprised at finding among them.
 
 . . . . .
 
-Such at least has hitherto been my state of innocence.
+Such at least has hitherto been my state of [[innocence]].
 I here only wish briefly to recall the special, extraordinary,
 and hitherto unprecedented circumstances which led me in
-cold blood, and being of sound mind, to turn out my pockets.
-I was locked up in a third-class carriage for a rather long journey.
-The time was towards evening, but it might have been anything,
+cold [[Blood|blood]], and being of sound mind, to turn out my pockets.
+I was locked up in a third-class carriage for a rather long [[Journey|journey]].
+The [[Time|time]] was towards evening, but it might have been anything,
 for everything resembling earth or sky or light or shade
 was painted out as if with a great wet brush by an unshifting
 sheet of quite colourless rain.  I had no books or newspapers.
 I had not even a pencil and a scrap of paper with which
-to write a religious epic.  There were no advertisements
+to write a religious [[Epic|epic]].  There were no advertisements
 on the walls of the carriage, otherwise I could have plunged
 into the study, for any collection of printed words is quite
 enough to suggest infinite complexities of mental ingenuity.
 When I find myself opposite the words "Sunlight Soap" I can
-exhaust all the aspects of Sun Worship, Apollo, and Summer
+exhaust all the aspects of Sun Worship, [[Apollo]], and [[Summer]]
 poetry before I go on to the less congenial subject of soap.
 But there was no printed word or picture anywhere; there was
 nothing but blank wood inside the carriage and blank wet without.
 Now I deny most energetically that anything is, or can
 be, uninteresting.  So I stared at the joints of the walls and seats,
 and began thinking hard on the fascinating subject of wood.
-Just as I had begun to realise why, perhaps, it was that Christ
+Just as I had begun to realise why, perhaps, it was that [[Christ]]
 was a carpenter, rather than a bricklayer, or a baker,
 or anything else, I suddenly started upright, and remembered
 my pockets.  I was carrying about with me an unknown treasury.
@@ -92,21 +92,21 @@ I began to take the things out.
 The first thing I came upon consisted of piles and heaps of
 Battersea tram tickets.  There were enough to equip a paper chase.
 They shook down in showers like confetti.  Primarily, of course,
-they touched my patriotic emotions, and brought tears to my eyes;
+they touched my patriotic emotions, and brought [[Tears|tears]] to my eyes;
 also they provided me with the printed matter I required,
 for I found on the back of them some short but striking
 little scientific essays about some kind of pill.
 Comparatively speaking, in my then destitution, those tickets
-might be regarded as a small but well-chosen scientific library.
-Should my railway journey continue (which seemed likely at the time)
+might be regarded as a small but [[Well|well]]-chosen scientific library.
+Should my railway [[Journey|journey]] continue (which seemed likely at the [[Time|time]])
 for a few months longer, I could imagine myself throwing myself
 into the controversial aspects of the pill, composing replies
 and rejoinders pro and con upon the data furnished to me.
 But after all it was the symbolic quality of the tickets that
-moved me most.  For as certainly as the cross of St. George
+moved me most.  For as certainly as the [[Cross|cross]] of St. George
 means English patriotism, those scraps of paper meant all
 that municipal patriotism which is now, perhaps, the greatest
-hope of England.
+[[Hope|hope]] of England.
 
 The next thing that I took out was a pocket-knife. A pocket-knife,
 I need hardly say, would require a thick book full of moral
@@ -122,20 +122,20 @@ broke and stone knives were splintered against something
 shining and new in the hand of one desperate man.
 I heard all the hammers on all the anvils of the earth.
 I saw all the swords of Feudal and all the weals of Industrial war.
-For the knife is only a short sword; and the pocket-knife
-is a secret sword.  I opened it and looked at that brilliant
+For the knife is only a short [[Sword|sword]]; and the pocket-knife
+is a secret [[Sword|sword]].  I opened it and looked at that brilliant
 and terrible tongue which we call a blade; and I thought that
 perhaps it was the symbol of the oldest of the needs of man.
 The next moment I knew that I was wrong; for the thing
 that came next out of my pocket was a box of matches.
-Then I saw fire, which is stronger even than steel, the old,
-fierce female thing, the thing we all love, but dare not touch.
+Then I saw [[Fire|fire]], which is stronger even than steel, the old,
+fierce female thing, the thing we all [[Love|love]], but dare not touch.
 
-The next thing I found was a piece of chalk; and I saw
+The next thing I found was a piece of [[chalk]]; and I saw
 in it all the art and all the frescoes of the world.
 The next was a coin of a very modest value; and I saw in it
 not only the image and superscription of our own Caesar,
-but all government and order since the world began.
+but all [[government]] and order since the world began.
 But I have not space to say what were the items in the long and
 splendid procession of poetical symbols that came pouring out.
 I cannot tell you all the things that were in my pocket.

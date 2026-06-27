@@ -16,22 +16,22 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Mistress Page, Mistress Quickly, and William Page |
-| MISTRESS PAGE | Is he at Mistress Ford’s already, thinkest thou? |
-| MISTRESS QUICKLY | Sure he is by this, or will be presently. But truly he is very courageous-mad about his throwing into the water. Mistress Ford desires you to come suddenly. |
-| MISTRESS PAGE | I’ll be with her by and by. I’ll but bring my young man here to school. |
+| *(didascalia)* | Enter [[Mistress Page]], [[Mistress Quickly]], and William Page |
+| [[Mistress Page|MISTRESS PAGE]] | Is he at [[Mistress Ford]]’s already, thinkest thou? |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | Sure he is by this, or will be presently. But truly he is very courageous-mad about his throwing into the [[Water|water]]. [[Mistress Ford]] desires you to come suddenly. |
+| [[Mistress Page|MISTRESS PAGE]] | I’ll be with her by and by. I’ll but bring my young man here to school. |
 | *(didascalia)* | Enter Sir Hugh Evans |
-| MISTRESS PAGE | Look where his master comes. ’Tis a playing day, I see.—How now, Sir Hugh, no school today? |
+| [[Mistress Page|MISTRESS PAGE]] | Look where his master comes. ’Tis a playing day, I see.—How now, Sir Hugh, no school today? |
 | EVANS | No, Master Slender is let the boys leave to play. |
-| MISTRESS QUICKLY | Blessing of his heart! |
-| MISTRESS PAGE | Sir Hugh, my husband says my son profits nothing in the world at his book. I pray you ask him some questions in his accidence. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | Blessing of his heart! |
+| [[Mistress Page|MISTRESS PAGE]] | Sir Hugh, my husband says my son profits nothing in the world at his book. I pray you ask him some questions in his accidence. |
 | EVANS | Come hither, William. Hold up your head. Come. |
-| MISTRESS PAGE | Come on, sirrah. Hold up your head.<br>Answer your master; be not afraid. |
+| [[Mistress Page|MISTRESS PAGE]] | Come on, sirrah. Hold up your head.<br>Answer your master; be not afraid. |
 | EVANS | William, how many numbers is in nouns? |
-| MISTRESS QUICKLY | Truly, I thought there had been one number more, because they say ‘’Od’s nouns’. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | Truly, I thought there had been one number more, because they say ‘’Od’s nouns’. |
 | EVANS | Peace your tattlings!—What is ‘fair’, William? |
 | WILLIAM | ‘Pulcher’. |
-| MISTRESS QUICKLY | Polecats? There are fairer things than polecats, sure. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | Polecats? There are fairer things than polecats, sure. |
 | EVANS | You are a very simplicity ‘oman. I pray you peace.—What is ‘lapis’, William? |
 | WILLIAM | A stone. |
 | EVANS | And what is ‘a stone’, William? |
@@ -40,28 +40,28 @@ tags:
 | WILLIAM | ‘Lapis’. |
 | EVANS | That is a good William. What is he, William, that does lend articles? |
 | WILLIAM | Articles are borrowed of the pronoun, and be thus declined. Singulariter nominativo: ‘hic, haec, hoc’. |
-| EVANS | Nominativo: ‘hig, hag, hog’. Pray you mark: genitivo: ‘huius’. Well, what is your accusative case? |
+| EVANS | Nominativo: ‘hig, hag, hog’. Pray you mark: genitivo: ‘huius’. [[Well]], what is your accusative case? |
 | WILLIAM | Accusativo: ‘hinc’— |
-| EVANS | I pray you have your remembrance, child.<br>Accusativo: ‘hing, hang, hog’. |
-| MISTRESS QUICKLY | ’Hang-hog’ is Latin for bacon, I warrant you. |
+| EVANS | I pray you have your remembrance, [[Child|child]].<br>Accusativo: ‘hing, hang, hog’. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | ’Hang-hog’ is Latin for bacon, I warrant you. |
 | EVANS | Leave your prabbles, ’oman!—What is the focative case, William? |
 | WILLIAM | O—vocativo, O— |
 | EVANS | Remember, William, focative is caret. |
-| MISTRESS QUICKLY | And that’s a good root. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | And that’s a good root. |
 | EVANS | ’Oman, forbear. |
-| MISTRESS PAGE | (to Mistress Quickly) Peace. |
+| [[Mistress Page|MISTRESS PAGE]] | (to [[Mistress Quickly]]) Peace. |
 | EVANS | What is your genitive case plural, William? |
 | WILLIAM | Genitive case? |
 | EVANS | Ay. |
 | WILLIAM | Genitivo: ‘horum, harum, horum’. |
-| MISTRESS QUICKLY | Vengeance of Jenny’s case! Fie on her!<br>Never name her, child, if she be a whore. |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | Vengeance of Jenny’s case! Fie on her!<br>Never name her, [[Child|child]], if she be a whore. |
 | EVANS | For shame, ’oman! |
-| MISTRESS QUICKLY | You do ill to teach the child such words. He teaches him to hick and to hack, which they’ll do fast enough of themselves, and to call ‘whorum’. Fie upon you! |
+| [[Mistress Quickly|MISTRESS QUICKLY]] | You do ill to teach the [[Child|child]] such words. He teaches him to hick and to hack, which they’ll do fast enough of themselves, and to call ‘whorum’. Fie upon you! |
 | EVANS | ’Oman, art thou lunatics? Hast thou no understandings for thy cases, and the numbers of the genders? Thou art as foolish Christian creatures as I would desires. |
-| MISTRESS PAGE | (to Mistress Quickly) Prithee, hold thy peace. |
+| [[Mistress Page|MISTRESS PAGE]] | (to [[Mistress Quickly]]) Prithee, hold thy peace. |
 | EVANS | Show me now, William, some declensions of your pronouns. |
 | WILLIAM | Forsooth, I have forgot. |
 | EVANS | It is ‘qui, que, quod’. If you forget your ‘qui’s, your ‘que‘s, and your ‘quod’s, you must be preeches. Go your ways and play; go. |
-| MISTRESS PAGE | He is a better scholar than I thought he was. |
-| EVANS | He is a good sprag memory. Farewell, Mistress Page. |
-| MISTRESS PAGE | Adieu, good Sir Hugh. Exit Evans<br>Get you home, boy. Exit William<br><br>(To Mistress Quickly) Come, we stay too long. Exeunt |
+| [[Mistress Page|MISTRESS PAGE]] | He is a better scholar than I thought he was. |
+| EVANS | He is a good sprag [[Memory|memory]]. Farewell, [[Mistress Page]]. |
+| [[Mistress Page|MISTRESS PAGE]] | Adieu, good Sir Hugh. Exit Evans<br>Get you [[Home|home]], boy. Exit William<br><br>(To [[Mistress Quickly]]) Come, we stay too long. Exeunt |

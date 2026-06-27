@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 71 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 71 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-The night had now come; and for the first time (for their jailers had
+The [[Night|night]] had now come; and for the first [[Time|time]] (for their jailers had
 been regular in bringing food and candles), they were left in darkness.
 Any change in their condition in such a place inspired new fears; and
-when some hours had passed, and the gloom was still unbroken, Emma could
+when some hours had passed, and the gloom was still unbroken, [[Emma]] could
 no longer repress her alarm.
 
 They listened attentively. There was the same murmuring in the outer
 room, and now and then a moan which seemed to be wrung from a person in
-great pain, who made an effort to subdue it, but could not. Even these
+great [[Pain|pain]], who made an effort to subdue it, but could not. Even these
 men seemed to be in darkness too; for no light shone through the chinks
 in the door, nor were they moving, as their custom was, but quite still:
-the silence being unbroken by so much as the creaking of a board.
+the [[Silence|silence]] being unbroken by so much as the creaking of a board.
 
 At first, Miss Miggs wondered greatly in her own mind who this sick
 person might be; but arriving, on second thoughts, at the conclusion
 that he was a part of the schemes on foot, and an artful device soon to
-be employed with great success, she opined, for Miss Haredale’s comfort,
+be employed with great [[success]], she opined, for Miss Haredale’s comfort,
 that it must be some misguided Papist who had been wounded: and this
 happy supposition encouraged her to say, under her breath, ‘Ally
 Looyer!’ several times.
 
-‘Is it possible,’ said Emma, with some indignation, ‘that you who have
+‘Is it possible,’ said [[Emma]], with some indignation, ‘that you who have
 seen these men committing the outrages you have told us of, and who have
 fallen into their hands, like us, can exult in their cruelties!’
 
@@ -47,12 +47,12 @@ It seemed from the shrill pertinacity with which Miss Miggs repeated
 this form of acclamation, that she was calling the same through the
 keyhole of the door; but in the profound darkness she could not be seen.
 
-‘If the time has come--Heaven knows it may come at any moment--when they
+‘If the [[Time|time]] has come--Heaven knows it may come at any moment--when they
 are bent on prosecuting the designs, whatever they may be, with which
 they have brought us here, can you still encourage, and take part with
-them?’ demanded Emma.
+them?’ demanded [[Emma]].
 
-‘I thank my goodness-gracious-blessed-stars I can, miss,’ returned
+‘I thank my goodness-gracious-blessed-[[Stars|stars]] I can, miss,’ returned
 Miggs, with increased energy.--‘Ally Looyer, good gentlemen!’
 
 Even Dolly, cast down and disappointed as she was, revived at this, and
@@ -66,7 +66,7 @@ Dolly repeated her request.
 ‘Ho, gracious me!’ cried Miggs, with hysterical derision. ‘Ho, gracious
 me! Yes, to be sure I will. Ho yes! I am a abject slave, and a
 toiling, moiling, constant-working, always-being-found-fault-with,
-never-giving-satisfactions, nor-having-no-time-to-clean-oneself,
+never-giving-satisfactions, nor-having-no-[[Time|time]]-to-clean-oneself,
 potter’s wessel--an’t I, miss! Ho yes! My situations is lowly, and my
 capacities is limited, and my duties is to humble myself afore the
 base degenerating daughters of their blessed mothers as is--fit to
@@ -83,21 +83,21 @@ Having delivered these ironical passages with a most wonderful
 volubility, and with a shrillness perfectly deafening (especially when
 she jerked out the interjections), Miss Miggs, from mere habit, and not
 because weeping was at all appropriate to the occasion, which was one of
-triumph, concluded by bursting into a flood of tears, and calling in an
+triumph, concluded by bursting into a flood of [[Tears|tears]], and calling in an
 impassioned manner on the name of Simmuns.
 
-What Emma Haredale and Dolly would have done, or how long Miss Miggs,
+What [[Emma Haredale]] and Dolly would have done, or how long Miss Miggs,
 now that she had hoisted her true colours, would have gone on waving
 them before their astonished senses, it is impossible to tell. Nor is
 it necessary to speculate on these matters, for a startling interruption
-occurred at that moment, which took their whole attention by storm.
+occurred at that moment, which took their whole attention by [[Storm|storm]].
 
-This was a violent knocking at the door of the house, and then its
+This was a violent knocking at the door of the [[house]], and then its
 sudden bursting open; which was immediately succeeded by a scuffle in
-the room without, and the clash of weapons. Transported with the hope
-that rescue had at length arrived, Emma and Dolly shrieked aloud for
+the room without, and the clash of weapons. Transported with the [[Hope|hope]]
+that rescue had at length arrived, [[Emma]] and Dolly shrieked aloud for
 help; nor were their shrieks unanswered; for after a hurried interval, a
-man, bearing in one hand a drawn sword, and in the other a taper, rushed
+man, bearing in one hand a drawn [[Sword|sword]], and in the other a taper, rushed
 into the chamber where they were confined.
 
 It was some check upon their transport to find in this person an entire
@@ -114,7 +114,7 @@ deliverer stepped forward for a moment to put the light upon the table,
 and immediately returning to his former position against the door, bared
 his head, and looked on smilingly.
 
-‘You have news of my uncle, sir?’ said Emma, turning hastily towards
+‘You have news of my uncle, sir?’ said [[Emma]], turning hastily towards
 him.
 
 ‘And of my father and mother?’ added Dolly.
@@ -129,13 +129,13 @@ him.
 
 ‘I did not say close at hand,’ he answered smoothly; ‘they are at no
 great distance. YOUR friends, sweet one,’ he added, addressing Dolly,
-‘are within a few hours’ journey. You will be restored to them, I hope,
-to-night.’
+‘are within a few hours’ [[Journey|journey]]. You will be restored to them, I [[Hope|hope]],
+to-[[Night|night]].’
 
-‘My uncle, sir--’ faltered Emma.
+‘My uncle, sir--’ faltered [[Emma]].
 
 ‘Your uncle, dear Miss Haredale, happily--I say happily, because he has
 succeeded where many of our creed have failed, and is safe--has crossed
 the sea, and is out of Britain.’
 
-‘I thank God for it,’ said Emma, faintly.
+‘I thank God for it,’ said [[Emma]], faintly.

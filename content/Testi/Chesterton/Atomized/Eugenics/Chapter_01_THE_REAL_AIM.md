@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2: THE REAL AIM"
+title: "[[Eugenics]] — Part 2: THE REAL AIM"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -17,8 +17,8 @@ tags:
 PART TWO:  THE REAL AIM
 
     I The Impotence of Impenitence
-   II True History of a Tramp
-  III True History of a Eugenist
+   II True [[history|History]] of a Tramp
+  III True [[history|History]] of a Eugenist
    IV The Vengeance of the Flesh
     V The Meanness of the Motive
    VI The Eclipse of Liberty
@@ -31,36 +31,36 @@ PART TWO:  THE REAL AIM
 
 TO THE READER
 
-I publish these essays at the present time for a particular reason
+I publish these essays at the present [[Time|time]] for a particular reason
 connected with the present situation; a reason which I should
 like briefly to emphasize and make clear.
 
 Though most of the conclusions, especially towards the end, are conceived
 with reference to recent events, the actual bulk of preliminary
-notes about the science of Eugenics were written before the war.
-It was a time when this theme was the topic of the hour; when eugenic
+notes about the science of [[Eugenics]] were written before the war.
+It was a [[Time|time]] when this theme was the topic of the hour; when eugenic
 babies --- not visibly very distinguishable from other babies ---
 sprawled all over the illustrated papers; when the evolutionary
 fancy of Nietzsche was the new cry among the intellectuals;
-and when Mr. Bernard Shaw and others were considering the idea
-that to breed a man like a cart-horse was the true way to
+and when Mr. Bernard [[Shaw]] and others were considering the idea
+that to breed a man like a cart-[[Horse|horse]] was the true way to
 attain that higher civilization, of intellectual magnanimity
 and sympathetic insight, which may be found in cart-horses. It
 may therefore appear that I took the opinion too controversially,
 and it seems to me that I some times took it too seriously.
-But the criticism of Eugenics soon expanded of itself into a more
+But the criticism of [[Eugenics]] soon expanded of itself into a more
 general criticism of a modern craze for scientific officialism
 and strict social organization.
 
-And then the hour came when I felt, not without relief, that I might well
-fling all my notes into the fire.  The fire was a very big one, and was
+And then the hour came when I felt, not without relief, that I might [[Well|well]]
+fling all my notes into the [[Fire|fire]].  The [[Fire|fire]] was a very big one, and was
 burning up bigger things than such pedantic quackeries.  And, anyhow,
 the issue itself was being settled in a very different style.
 Scientific officialism and organization in the State which had specialized
 in them, had gone to war with the older culture of Christendom.
 Either Prussianism would win and the protest would be hopeless,
 or Prussianism would lose and the protest would be needless.
-As the war advanced from poison gas to piracy against neutrals,
+As the war advanced from [[Poison|poison]] gas to piracy against neutrals,
 it grew more and more plain that the scientifically organized State
 was not increasing in popularity.  Whatever happened, no Englishmen
 would ever again go nosing round the stinks of that low laboratory.

@@ -30,17 +30,17 @@ whatever was attributable to the coachman.’
 they must have been, not to have thought of that before! Ramsgate was
 just the place of all others.
 
-Two months after this conversation, the City of London Ramsgate steamer
-was running gaily down the river. Her flag was flying, her band was
+Two months after this conversation, the [[City]] of [[London]] Ramsgate steamer
+was running gaily down the [[River|river]]. Her [[Flag|flag]] was flying, her band was
 playing, her passengers were conversing; everything about her seemed
-gay and lively.—No wonder—the Tuggses were on board.
+gay and lively.—No [[Wonder|wonder]]—the Tuggses were on board.
 
 ‘Charming, ain’t it?’ said Mr. Joseph Tuggs, in a bottle-green
 great-coat, with a velvet collar of the same, and a blue travelling-cap
 with a gold band.
 
-‘Soul-inspiring,’ replied Mr. Cymon Tuggs—he was entered at the bar.
-‘Soul-inspiring!’
+‘[[Soul]]-inspiring,’ replied Mr. Cymon Tuggs—he was entered at the bar.
+‘[[Soul]]-inspiring!’
 
 ‘Delightful morning, sir!’ said a stoutish, military-looking gentleman
 in a blue surtout buttoned up to his chin, and white trousers chained
@@ -49,7 +49,7 @@ down to the soles of his boots.
 Mr. Cymon Tuggs took upon himself the responsibility of answering the
 observation. ‘Heavenly!’ he replied.
 
-‘You are an enthusiastic admirer of the beauties of Nature, sir?’ said
+‘You are an enthusiastic admirer of the beauties of [[Nature]], sir?’ said
 the military gentleman.
 
 ‘I am, sir,’ replied Mr. Cymon Tuggs.
@@ -76,10 +76,10 @@ petticoats, and unexceptionable ankles.
 
 ‘Walter, my dear,’ said the young lady to the military gentleman.
 
-‘Yes, Belinda, my love,’ responded the military gentleman to the
+‘Yes, Belinda, my [[Love|love]],’ responded the military gentleman to the
 black-eyed young lady.
 
-‘What have you left me alone so long for?’ said the young lady. ‘I have
+‘What have you left me [[Alone|alone]] so long for?’ said the young lady. ‘I have
 been stared out of countenance by those rude young men.’
 
 ‘What! stared at?’ exclaimed the military gentleman, with an emphasis
@@ -98,7 +98,7 @@ around.
 
 ‘I _will_ be calm,’ said the military gentleman. ‘You speak truly, sir.
 I thank you for a timely remonstrance, which may have spared me the
-guilt of manslaughter.’ Calming his wrath, the military gentleman wrung
+[[Guilt|guilt]] of manslaughter.’ Calming his wrath, the military gentleman wrung
 Mr. Cymon Tuggs by the hand.
 
 ‘My sister, sir!’ said Mr. Cymon Tuggs; seeing that the military
@@ -114,7 +114,7 @@ unembarrassed as they could.
 ‘Walter, my dear,’ said the black-eyed young lady, after they had sat
 chatting with the Tuggses some half-hour.
 
-‘Yes, my love,’ said the military gentleman.
+‘Yes, my [[Love|love]],’ said the military gentleman.
 
 ‘Don’t you think this gentleman (with an inclination of the head
 towards Mr. Cymon Tuggs) is very much like the Marquis Carriwini?’
@@ -122,7 +122,7 @@ towards Mr. Cymon Tuggs) is very much like the Marquis Carriwini?’
 ‘Lord bless me, very!’ said the military gentleman.
 
 ‘It struck me, the moment I saw him,’ said the young lady, gazing
-intently, and with a melancholy air, on the scarlet countenance of Mr.
+intently, and with a [[Melancholy|melancholy]] air, on the scarlet countenance of Mr.
 Cymon Tuggs. Mr. Cymon Tuggs looked at everybody; and finding that
 everybody was looking at him, appeared to feel some temporary
 difficulty in disposing of his eyesight.
@@ -158,4 +158,4 @@ alongside Ramsgate Pier.
 ‘Good-bye, dear!’ said Mrs. Captain Waters to Miss Charlotta Tuggs,
 just before the bustle of landing commenced; ‘we shall see you on the
 sands in the morning; and, as we are sure to have found lodgings before
-then, I hope we shall be inseparables for many weeks to come.’
+then, I [[Hope|hope]] we shall be inseparables for many weeks to come.’

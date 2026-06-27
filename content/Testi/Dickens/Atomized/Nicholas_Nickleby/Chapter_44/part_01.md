@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 44 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 44
 
-Mr. Ralph Nickleby cuts an old Acquaintance. It would also appear from
+Mr. [[Ralph Nickleby]] cuts an old Acquaintance. It would also appear from
 the Contents hereof, that a Joke, even between Husband and Wife, may be
 sometimes carried too far
 
@@ -33,32 +33,32 @@ dirtiest and narrowest ways, will gravely jot down in diaries the
 events of every day, and keep a regular debtor and creditor account with
 Heaven, which shall always show a floating balance in their own favour.
 Whether this is a gratuitous (the only gratuitous) part of the falsehood
-and trickery of such men’s lives, or whether they really hope to cheat
+and trickery of such men’s lives, or whether they really [[Hope|hope]] to cheat
 Heaven itself, and lay up treasure in the next world by the same process
 which has enabled them to lay up treasure in this--not to question
 how it is, so it is. And, doubtless, such book-keeping (like certain
 autobiographies which have enlightened the world) cannot fail to prove
-serviceable, in the one respect of sparing the recording Angel some time
+serviceable, in the one respect of sparing the recording Angel some [[Time|time]]
 and labour.
 
-Ralph Nickleby was not a man of this stamp. Stern, unyielding, dogged,
+[[Ralph Nickleby]] was not a man of this stamp. Stern, unyielding, dogged,
 and impenetrable, Ralph cared for nothing in life, or beyond it, save
 the gratification of two passions, avarice, the first and predominant
-appetite of his nature, and hatred, the second. Affecting to consider
+appetite of his [[Nature|nature]], and hatred, the second. Affecting to consider
 himself but a type of all humanity, he was at little pains to conceal
 his true character from the world in general, and in his own heart he
 exulted over and cherished every bad design as it had birth. The only
-scriptural admonition that Ralph Nickleby heeded, in the letter, was
-‘know thyself.’ He knew himself well, and choosing to imagine that all
+scriptural admonition that [[Ralph Nickleby]] heeded, in the letter, was
+‘know thyself.’ He knew himself [[Well|well]], and choosing to imagine that all
 mankind were cast in the same mould, hated them; for, though no man
-hates himself, the coldest among us having too much self-love for that,
+hates himself, the coldest among us having too much [[Self|self]]-[[Love|love]] for that,
 yet most men unconsciously judge the world from themselves, and it will
 be very generally found that those who sneer habitually at human
-nature, and affect to despise it, are among its worst and least pleasant
+[[Nature|nature]], and affect to despise it, are among its worst and least pleasant
 samples.
 
 But the present business of these adventures is with Ralph himself, who
-stood regarding Newman Noggs with a heavy frown, while that worthy took
+stood regarding [[Newman Noggs]] with a heavy frown, while that worthy took
 off his fingerless gloves, and spreading them carefully on the palm of
 his left hand, and flattening them with his right to take the creases
 out, proceeded to roll them up with an absent air as if he were utterly
@@ -73,8 +73,8 @@ again.’
 
 ‘I don’t know,’ said Newman, ‘but he’s gone.’
 
-The repetition of the word ‘gone’ seemed to afford Newman Noggs
-inexpressible delight, in proportion as it annoyed Ralph Nickleby. He
+The repetition of the word ‘gone’ seemed to afford [[Newman Noggs]]
+inexpressible delight, in proportion as it annoyed [[Ralph Nickleby]]. He
 uttered the word with a full round emphasis, dwelling upon it as long
 as he decently could, and when he could hold out no longer without
 attracting observation, stood gasping it to himself as if even that were
@@ -115,7 +115,7 @@ relaxed a little; and although there was still a deep frown upon the
 contracted brow, it was one of calculation, and not of disappointment.
 
 ‘This Hawk will come back, however,’ muttered Ralph; ‘and if I know the
-man (and I should by this time) his wrath will have lost nothing of its
+man (and I should by this [[Time|time]]) his wrath will have lost nothing of its
 violence in the meanwhile. Obliged to live in retirement--the
 monotony of a sick-room to a man of his habits--no life--no drink--no
 play--nothing that he likes and lives by. He is not likely to forget
@@ -123,14 +123,14 @@ his obligations to the cause of all this. Few men would; but he of all
 others? No, no!’
 
 He smiled and shook his head, and resting his chin upon his hand, fell a
-musing, and smiled again. After a time he rose and rang the bell.
+musing, and smiled again. After a [[Time|time]] he [[Rose|rose]] and rang the bell.
 
 ‘That Mr. Squeers; has he been here?’ said Ralph.
 
-‘He was here last night. I left him here when I went home,’ returned
+‘He was here last [[Night|night]]. I left him here when I went [[Home|home]],’ returned
 Newman.
 
-‘I know that, fool, do I not?’ said Ralph, irascibly. ‘Has he been here
+‘I know that, [[Fool|fool]], do I not?’ said Ralph, irascibly. ‘Has he been here
 since? Was he here this morning?’
 
 ‘No,’ bawled Newman, in a very loud key.

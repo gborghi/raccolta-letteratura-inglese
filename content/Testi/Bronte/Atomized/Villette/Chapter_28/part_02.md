@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 27 (part 2)"
+title: "[[Villette]] — Chapter 27 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,7 +15,7 @@ tags:
 
 
 There are people whom a lowered position degrades morally, to whom loss
-of connection costs loss of self-respect: are not these justified in
+of connection costs loss of [[Self|self]]-respect: are not these justified in
 placing the highest value on that station and association which is
 their safeguard from debasement? If a man feels that he would become
 contemptible in his own eyes were it generally known that his ancestry
@@ -28,28 +28,28 @@ conduct, to question the world’s wisdom: wherever an accumulation of
 small defences is found, whether surrounding the prude’s virtue or the
 man of the world’s respectability, there, be sure, it is needed.
 
-We reached the Hôtel Crécy; Paulina was ready; Mrs. Bretton was with
+We reached the Hôtel Crécy; [[Paulina]] was ready; Mrs. Bretton was with
 her; and, under her escort and that of M. de Bassompierre, we were soon
 conducted to the place of assembly, and seated in good seats, at a
 convenient distance from the Tribune. The youth of the Athénée were
 marshalled before us, the municipality and their bourgmestre were in
-places of honour, the young princes, with their tutors, occupied a
-conspicuous position, and the body of the building was crowded with the
+places of [[Honour|honour]], the young princes, with their tutors, occupied a
+conspicuous position, and the [[Body|body]] of the building was crowded with the
 aristocracy and first burghers of the town.
 
-Concerning the identity of the professor by whom the “discours” was to
+Concerning the [[Identity|identity]] of [[The Professor|the professor]] by whom the “discours” was to
 be delivered, I had as yet entertained neither care nor question. Some
 vague expectation I had that a savant would stand up and deliver a
 formal speech, half dogmatism to the Athenians, half flattery to the
 princes.
 
 The Tribune was yet empty when we entered, but in ten minutes after it
-was filled; suddenly, in a second of time, a head, chest, and arms grew
+was filled; suddenly, in a second of [[Time|time]], a head, chest, and arms grew
 above the crimson desk. This head I knew: its colour, shape, port,
 expression, were familiar both to me and Miss Fanshawe; the blackness
 and closeness of cranium, the amplitude and paleness of brow, the
-blueness and fire of glance, were details so domesticated in the
-memory, and so knit with many a whimsical association, as almost by
+blueness and [[Fire|fire]] of glance, were details so domesticated in the
+[[Memory|memory]], and so knit with many a whimsical association, as almost by
 this their sudden apparition, to tickle fancy to a laugh. Indeed, I
 confess, for my part, I did laugh till I was warm; but then I bent my
 head, and made my handkerchief and a lowered veil the sole confidants
@@ -76,15 +76,15 @@ could yield political convictions and national feelings, such as were
 now strongly expressed? Of the bearing of his opinions I need here give
 no special indication; yet it may be permitted me to say that I
 believed the little man not more earnest than right in what he said:
-with all his fire he was severe and sensible; he trampled Utopian
-theories under his heel; he rejected wild dreams with scorn;—but when
+with all his [[Fire|fire]] he was severe and sensible; he trampled Utopian
+theories under his heel; he rejected wild [[Dreams|dreams]] with scorn;—but when
 he looked in the face of tyranny—oh, then there opened a light in his
 eye worth seeing; and when he spoke of injustice, his voice gave no
 uncertain sound, but reminded me rather of the band-trumpet, ringing at
 twilight from the park.
 
 I do not think his audience were generally susceptible of sharing his
-flame in its purity; but some of the college youth caught fire as he
+flame in its purity; but some of the college youth caught [[Fire|fire]] as he
 eloquently told them what should be their path and endeavour in their
 country’s and in Europe’s future. They gave him a long, loud, ringing
 cheer, as he concluded: with all his fierceness, he was their favourite
@@ -94,10 +94,10 @@ As our party left the Hall, he stood at the entrance; he saw and knew
 me, and lifted his hat; he offered his hand in passing, and uttered the
 words “Qu’en dites vous?”—question eminently characteristic, and
 reminding me, even in this his moment of triumph, of that inquisitive
-restlessness, that absence of what I considered desirable self-control,
+restlessness, that absence of what I considered desirable [[Self|self]]-control,
 which were amongst his faults. He should not have cared just then to
 ask what I thought, or what anybody thought, but he _did_ care, and he
-was too natural to conceal, too impulsive to repress his wish. Well! if
+was too natural to conceal, too impulsive to repress his wish. [[Well]]! if
 I blamed his over-eagerness, I liked his _naiveté_. I would have
 praised him: I had plenty of praise in my heart; but, alas! no words on
 my lips. Who _has_ words at the right moment? I stammered some lame
@@ -114,18 +114,18 @@ enough to discover as one advanced in knowledge of his character; he
 promised, however, to step in with his friend, M. A——, a French
 Academician, in the course of the evening.
 
-At dinner that day, Ginevra and Paulina each looked, in her own way,
+At dinner that day, Ginevra and [[Paulina]] each looked, in her own way,
 very beautiful; the former, perhaps, boasted the advantage in material
 charms, but the latter shone pre-eminent for attractions more subtle
 and spiritual: for light and eloquence of eye, for grace of mien, for
 winning variety of expression. Ginevra’s dress of deep crimson relieved
-well her light curls, and harmonized with her rose-like bloom.
-Paulina’s attire—in fashion close, though faultlessly neat, but in
+[[Well|well]] her light curls, and harmonized with her [[Rose|rose]]-like bloom.
+[[Paulina]]’s attire—in fashion close, though faultlessly neat, but in
 texture clear and white—made the eye grateful for the delicate life of
 her complexion, for the soft animation of her countenance, for the
-tender depth of her eyes, for the brown shadow and bounteous flow of
+tender depth of her eyes, for the brown [[Shadow|shadow]] and bounteous flow of
 her hair—darker than that of her Saxon cousin, as were also her
 eyebrows, her eyelashes, her full irids, and large mobile pupils.
-Nature having traced all these details slightly, and with a careless
+[[Nature]] having traced all these details slightly, and with a careless
 hand, in Miss Fanshawe’s case; and in Miss de Bassompierre’s, wrought
 them to a high and delicate finish.

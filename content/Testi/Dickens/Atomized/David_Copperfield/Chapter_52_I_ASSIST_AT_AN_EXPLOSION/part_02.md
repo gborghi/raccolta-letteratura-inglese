@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)"
+title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -24,7 +24,7 @@ good.’
 his way to the bell; ‘appetite and myself, Mr. Dixon, have long been
 strangers.’
 
-Mr. Dixon was so well pleased with his new name, and appeared to think
+Mr. Dixon was so [[Well|well]] pleased with his new name, and appeared to think
 it so obliging in Mr. Micawber to confer it upon him, that he shook
 hands with him again, and laughed rather childishly.
 
@@ -45,14 +45,14 @@ what he has in contemplation; and I have advised him to the best of my
 judgement.’
 
 ‘Unless I deceive myself, Mr. Traddles,’ pursued Mr. Micawber, ‘what I
-contemplate is a disclosure of an important nature.’
+contemplate is a disclosure of an important [[Nature|nature]].’
 
 ‘Highly so,’ said Traddles.
 
 ‘Perhaps, under such circumstances, madam and gentlemen,’ said Mr.
 Micawber, ‘you will do me the favour to submit yourselves, for the
 moment, to the direction of one who, however unworthy to be regarded in
-any other light but as a Waif and Stray upon the shore of human nature,
+any other light but as a Waif and Stray upon the shore of human [[Nature|nature]],
 is still your fellow-man, though crushed out of his original form
 by individual errors, and the accumulative force of a combination of
 circumstances?’
@@ -62,7 +62,7 @@ what you please.’
 
 ‘Mr. Copperfield,’ returned Mr. Micawber, ‘your confidence is not, at
 the existing juncture, ill-bestowed. I would beg to be allowed a start
-of five minutes by the clock; and then to receive the present company,
+of five minutes by the [[Clock|clock]]; and then to receive the present company,
 inquiring for Miss Wickfield, at the office of Wickfield and Heep, whose
 Stipendiary I am.’
 
@@ -77,13 +77,13 @@ and his face extremely pale.
 Traddles only smiled, and shook his head (with his hair standing upright
 on the top of it), when I looked to him for an explanation; so I took
 out my watch, and, as a last resource, counted off the five minutes. My
-aunt, with her own watch in her hand, did the like. When the time was
+aunt, with her own watch in her hand, did the like. When the [[Time|time]] was
 expired, Traddles gave her his arm; and we all went out together to the
-old house, without saying one word on the way.
+old [[house]], without saying one word on the way.
 
 We found Mr. Micawber at his desk, in the turret office on the
 ground floor, either writing, or pretending to write, hard. The large
-office-ruler was stuck into his waistcoat, and was not so well concealed
+office-ruler was stuck into his waistcoat, and was not so [[Well|well]] concealed
 but that a foot or more of that instrument protruded from his bosom,
 like a new kind of shirt-frill.
 
@@ -91,22 +91,22 @@ As it appeared to me that I was expected to speak, I said aloud:
 
 ‘How do you do, Mr. Micawber?’
 
-‘Mr. Copperfield,’ said Mr. Micawber, gravely, ‘I hope I see you well?’
+‘Mr. Copperfield,’ said Mr. Micawber, gravely, ‘I [[Hope|hope]] I see you [[Well|well]]?’
 
-‘Is Miss Wickfield at home?’ said I.
+‘Is Miss Wickfield at [[Home|home]]?’ said I.
 
 ‘Mr. Wickfield is unwell in bed, sir, of a rheumatic fever,’ he
-returned; ‘but Miss Wickfield, I have no doubt, will be happy to see old
+returned; ‘but Miss Wickfield, I have no [[Doubt|doubt]], will be happy to see old
 friends. Will you walk in, sir?’
 
 He preceded us to the dining-room--the first room I had entered in that
-house--and flinging open the door of Mr. Wickfield’s former office,
+[[house]]--and flinging open the door of Mr. Wickfield’s former office,
 said, in a sonorous voice:
 
-‘Miss Trotwood, Mr. David Copperfield, Mr. Thomas Traddles, and Mr.
+‘Miss Trotwood, Mr. [[David Copperfield]], Mr. Thomas Traddles, and Mr.
 Dixon!’
 
-I had not seen Uriah Heep since the time of the blow. Our visit
+I had not seen [[Uriah Heep]] since the [[Time|time]] of the blow. Our visit
 astonished him, evidently; not the less, I dare say, because it
 astonished ourselves. He did not gather his eyebrows together, for he
 had none worth mentioning; but he frowned to that degree that he almost
@@ -116,11 +116,11 @@ were in the act of entering his room, and when I caught a glance at him
 over my aunt’s shoulder. A moment afterwards, he was as fawning and as
 humble as ever.
 
-‘Well, I am sure,’ he said. ‘This is indeed an unexpected pleasure! To
+‘[[Well]], I am sure,’ he said. ‘This is indeed an unexpected pleasure! To
 have, as I may say, all friends round St. Paul’s at once, is a treat
-unlooked for! Mr. Copperfield, I hope I see you well, and--if I may
+unlooked for! Mr. Copperfield, I [[Hope|hope]] I see you [[Well|well]], and--if I may
 umbly express myself so--friendly towards them as is ever your friends,
-whether or not. Mrs. Copperfield, sir, I hope she’s getting on. We have
+whether or not. Mrs. Copperfield, sir, I [[Hope|hope]] she’s getting on. We have
 been made quite uneasy by the poor accounts we have had of her state,
 lately, I do assure you.’
 
@@ -131,7 +131,7 @@ to do.
 clerk, and held your pony; ain’t they?’ said Uriah, with his sickliest
 smile. ‘But I am not changed, Miss Trotwood.’
 
-‘Well, sir,’ returned my aunt, ‘to tell you the truth, I think you are
+‘[[Well]], sir,’ returned my aunt, ‘to tell you the [[Truth|truth]], I think you are
 pretty constant to the promise of your youth; if that’s any satisfaction
 to you.’
 
@@ -148,7 +148,7 @@ squeezing his bony hands, laid palm to palm between his bony knees. ‘Not
 so much so as I could wish. But lawyers, sharks, and leeches, are not
 easily satisfied, you know! Not but what myself and Micawber have our
 hands pretty full, in general, on account of Mr. Wickfield’s being
-hardly fit for any occupation, sir. But it’s a pleasure as well as a
+hardly fit for any occupation, sir. But it’s a pleasure as [[Well|well]] as a
 duty, I am sure, to work for him. You’ve not been intimate with Mr.
-Wickfield, I think, Mr. Traddles? I believe I’ve only had the honour of
+Wickfield, I think, Mr. Traddles? I believe I’ve only had the [[Honour|honour]] of
 seeing you once myself?’

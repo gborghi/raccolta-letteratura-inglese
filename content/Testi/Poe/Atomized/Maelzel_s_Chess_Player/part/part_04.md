@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 4)"
+title: "[[Maelzel's Chess-Player]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -48,7 +48,7 @@ tags:
 
       keys in door No. 1. He also closes the drawer, and, finally,
 
-      winds up the machine, by applying a key to an aperture in the
+      winds up the [[Machine|machine]], by applying a key to an aperture in the
 
       left end (the spectators’ left) of the box. The game now
 
@@ -62,7 +62,7 @@ tags:
 
       seldom any objection to continue it. Not to weary the company, is
 
-      the ostensible, and no doubt the real object of the limitation.
+      the ostensible, and no [[Doubt|doubt]] the real object of the limitation.
 
       It Wits of course be understood that when a move is made at his
 
@@ -94,9 +94,9 @@ tags:
 
       He has also a peculiar shuffle with his feet, calculated to
 
-      induce suspicion of collusion with the machine in minds which are
+      induce suspicion of collusion with the [[Machine|machine]] in minds which are
 
-      more cunning than sagacious. These peculiarities are, no doubt,
+      more cunning than sagacious. These peculiarities are, no [[Doubt|doubt]],
 
       mere mannerisms of M. Maelzel, or, if he is aware of them at all,
 
@@ -150,13 +150,13 @@ tags:
 
       the spectators, and drawing his left arm farther back than usual,
 
-      suffers his fingers alone to rest upon the cushion. In general,
+      suffers his fingers [[Alone|alone]] to rest upon the cushion. In general,
 
       the Turk is victorious—once or twice he has been beaten. The game
 
       being ended, Maelzel will again if desired, exhibit the mechanism
 
-      of the box, in the same manner as before. The machine is then
+      of the box, in the same manner as before. The [[Machine|machine]] is then
 
       rolled back, and a curtain hides it from the view of the company.
 
@@ -170,7 +170,7 @@ tags:
 
       was, as we have before said, that no immediate human agency was
 
-      employed—in other words, that the machine was purely a machine
+      employed—in other words, that the [[Machine|machine]] was purely a [[Machine|machine]]
 
       and nothing else. Many, however maintained that the exhibiter
 
@@ -184,7 +184,7 @@ tags:
 
       relation to the second it is only necessary to repeat what we
 
-      have before stated, that the machine is rolled about on castors,
+      have before stated, that the [[Machine|machine]] is rolled about on castors,
 
       and will, at the request of a spectator, be moved to and fro to
 

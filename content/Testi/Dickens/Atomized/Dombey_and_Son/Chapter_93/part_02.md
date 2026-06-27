@@ -18,7 +18,7 @@ Edith could not look at him, but she said after a few moments.
 
 “And your business, Sir—”
 
-“Edith, my pet,” said Mrs Skewton, “all this time Mr Carker is
+“Edith, my pet,” said Mrs Skewton, “all this [[Time|time]] Mr Carker is
 standing! My dear Mr Carker, take a seat, I beg.”
 
 He offered no reply to the mother, but fixed his eyes on the proud
@@ -43,7 +43,7 @@ has just left the room—”
 
 Edith suffered him to proceed. She looked at him now. As he bent
 forward, to be nearer, with the utmost show of delicacy and respect,
-and with his teeth persuasively arrayed, in a self-depreciating smile,
+and with his teeth persuasively arrayed, in a [[Self|self]]-depreciating smile,
 she felt as if she could have struck him dead.
 
 “Miss Florence’s position,” he began, “has been an unfortunate one. I
@@ -60,8 +60,8 @@ neglected—by her father. May I say by her father?”
 Edith replied, “I know it.”
 
 “You know it!” said Mr Carker, with a great appearance of relief. “It
-removes a mountain from my breast. May I hope you know how the neglect
-originated; in what an amiable phase of Mr Dombey’s pride—character I
+removes a mountain from my breast. May I [[Hope|hope]] you know how the neglect
+originated; in what an amiable phase of Mr Dombey’s [[Pride|pride]]—character I
 mean?”
 
 “You may pass that by, Sir,” she returned, “and come the sooner to the
@@ -77,7 +77,7 @@ and have him tendering her false oath at the altar again and again for
 her acceptance, and pressing it upon her like the dregs of a sickening
 cup she could not own her loathing of, or turn away from! How shame,
 remorse, and passion raged within her, when, upright and majestic in
-her beauty before him, she knew that in her spirit she was down at his
+her [[Beauty|beauty]] before him, she knew that in her spirit she was down at his
 feet!
 
 “Miss Florence,” said Carker, “left to the care—if one may call it
@@ -91,20 +91,20 @@ anything but good repute, and a runaway old bankrupt.”
 
 “I have heard the circumstances, Sir,” said Edith, flashing her
 disdainful glance upon him, “and I know that you pervert them. You may
-not know it. I hope so.”
+not know it. I [[Hope|hope]] so.”
 
-“Pardon me,” said Mr Carker, “I believe that nobody knows them so well
-as I. Your generous and ardent nature, Madam—the same nature which is
+“Pardon me,” said Mr Carker, “I believe that nobody knows them so [[Well|well]]
+as I. Your generous and ardent [[Nature|nature]], Madam—the same [[Nature|nature]] which is
 so nobly imperative in vindication of your beloved and honoured
 husband, and which has blessed him as even his merits deserve—I must
 respect, defer to, bow before. But, as regards the circumstances, which
 is indeed the business I presumed to solicit your attention to, I can
-have no doubt, since, in the execution of my trust as Mr Dombey’s
+have no [[Doubt|doubt]], since, in the execution of my trust as Mr Dombey’s
 confidential—I presume to say—friend, I have fully ascertained them. In
-my execution of that trust; in my deep concern, which you can so well
+my execution of that trust; in my deep concern, which you can so [[Well|well]]
 understand, for everything relating to him, intensified, if you will
-(for I fear I labour under your displeasure), by the lower motive of
-desire to prove my diligence, and make myself the more acceptable; I
+(for I [[Fear|fear]] I labour under your displeasure), by the lower motive of
+[[Desire|desire]] to prove my diligence, and make myself the more acceptable; I
 have long pursued these circumstances by myself and trustworthy
 instruments, and have innumerable and most minute proofs.”
 
@@ -124,24 +124,24 @@ composure on it, and distantly inclined her head in reply.
 with Mr Dombey being dear to you—induces me to pause before I make him
 acquainted with these circumstances, which, as yet, he does not know.
 It so shakes me, if I may make the confession, in my allegiance, that
-on the intimation of the least desire to that effect from you, I would
+on the intimation of the least [[Desire|desire]] to that effect from you, I would
 suppress them.”
 
 Edith raised her head quickly, and starting back, bent her dark glance
 upon him. He met it with his blandest and most deferential smile, and
 went on.
 
-“You say that as I describe them, they are perverted. I fear not—I fear
+“You say that as I describe them, they are perverted. I [[Fear|fear]] not—I [[Fear|fear]]
 not: but let us assume that they are. The uneasiness I have for some
-time felt on the subject, arises in this: that the mere circumstance of
+[[Time|time]] felt on the subject, arises in this: that the mere circumstance of
 such association often repeated, on the part of Miss Florence, however
 innocently and confidingly, would be conclusive with Mr Dombey, already
 predisposed against her, and would lead him to take some step (I know
-he has occasionally contemplated it) of separation and alienation of
-her from his home. Madam, bear with me, and remember my intercourse
+he has occasionally contemplated it) of separation and [[Alienation|alienation]] of
+her from his [[Home|home]]. Madam, bear with me, and remember my intercourse
 with Mr Dombey, and my knowledge of him, and my reverence for him,
-almost from childhood, when I say that if he has a fault, it is a lofty
-stubbornness, rooted in that noble pride and sense of power which
+almost from [[Childhood|childhood]], when I say that if he has a fault, it is a lofty
+stubbornness, rooted in that noble [[Pride|pride]] and sense of power which
 belong to him, and which we must all defer to; which is not assailable
 like the obstinacy of other characters; and which grows upon itself
 from day to day, and year to year.”

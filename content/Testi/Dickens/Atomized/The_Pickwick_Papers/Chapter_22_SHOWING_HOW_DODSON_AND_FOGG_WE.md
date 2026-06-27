@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR"
+title: "The [[Pickwick]] Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,49 +20,49 @@ BETWEEN MR. WELLER AND HIS LONG-LOST PARENT; SHOWING ALSO WHAT CHOICE
 SPIRITS ASSEMBLED AT THE MAGPIE AND STUMP, AND WHAT A CAPITAL CHAPTER
 THE NEXT ONE WILL BE
 
-In the ground-floor front of a dingy house, at the very farthest end of
-Freeman’s Court, Cornhill, sat the four clerks of Messrs. Dodson & Fogg,
-two of his Majesty’s attorneys of the courts of King’s Bench and Common
-Pleas at Westminster, and solicitors of the High Court of Chancery--the
+In the ground-floor front of a dingy [[house]], at the very farthest end of
+Freeman’s [[Court]], Cornhill, sat the four clerks of Messrs. Dodson & Fogg,
+two of his Majesty’s attorneys of the courts of [[King]]’s Bench and Common
+Pleas at Westminster, and solicitors of the High [[Court]] of Chancery--the
 aforesaid clerks catching as favourable glimpses of heaven’s light and
-heaven’s sun, in the course of their daily labours, as a man might hope
-to do, were he placed at the bottom of a reasonably deep well; and
-without the opportunity of perceiving the stars in the day-time, which
+heaven’s sun, in the course of their daily labours, as a man might [[Hope|hope]]
+to do, were he placed at the [[Bottom|bottom]] of a reasonably deep [[Well|well]]; and
+without the opportunity of perceiving the [[Stars|stars]] in the day-[[Time|time]], which
 the latter secluded situation affords.
 
 The clerks’ office of Messrs. Dodson & Fogg was a dark, mouldy, earthy-
 smelling room, with a high wainscotted partition to screen the clerks
 from the vulgar gaze, a couple of old wooden chairs, a very loud-ticking
-clock, an almanac, an umbrella-stand, a row of hat-pegs, and a few
+[[Clock|clock]], an almanac, an umbrella-stand, a row of hat-pegs, and a few
 shelves, on which were deposited several ticketed bundles of dirty
 papers, some old deal boxes with paper labels, and sundry decayed stone
 ink bottles of various shapes and sizes. There was a glass door leading
-into the passage which formed the entrance to the court, and on the
-outer side of this glass door, Mr. Pickwick, closely followed by Sam
+into the passage which formed the entrance to the [[Court|court]], and on the
+outer side of this glass door, Mr. [[Pickwick]], closely followed by Sam
 Weller, presented himself on the Friday morning succeeding the
 occurrence of which a faithful narration is given in the last chapter.
 
 ‘Come in, can’t you!’ cried a voice from behind the partition, in reply
-to Mr. Pickwick’s gentle tap at the door. And Mr. Pickwick and Sam
+to Mr. [[Pickwick]]’s gentle tap at the door. And Mr. [[Pickwick]] and Sam
 entered accordingly.
 
-‘Mr. Dodson or Mr. Fogg at home, sir?’ inquired Mr. Pickwick, gently,
+‘Mr. Dodson or Mr. Fogg at [[Home|home]], sir?’ inquired Mr. [[Pickwick]], gently,
 advancing, hat in hand, towards the partition.
 
-‘Mr. Dodson ain’t at home, and Mr. Fogg’s particularly engaged,’ replied
-the voice; and at the same time the head to which the voice belonged,
+‘Mr. Dodson ain’t at [[Home|home]], and Mr. Fogg’s particularly engaged,’ replied
+the voice; and at the same [[Time|time]] the head to which the voice belonged,
 with a pen behind its ear, looked over the partition, and at Mr.
-Pickwick.
+[[Pickwick]].
 
 It was a ragged head, the sandy hair of which, scrupulously parted on
 one side, and flattened down with pomatum, was twisted into little semi-
 circular tails round a flat face ornamented with a pair of small eyes,
 and garnished with a very dirty shirt collar, and a rusty black stock.
 
-‘Mr. Dodson ain’t at home, and Mr. Fogg’s particularly engaged,’ said
+‘Mr. Dodson ain’t at [[Home|home]], and Mr. Fogg’s particularly engaged,’ said
 the man to whom the head belonged.
 
-‘When will Mr. Dodson be back, sir?’ inquired Mr. Pickwick.
+‘When will Mr. Dodson be back, sir?’ inquired Mr. [[Pickwick]].
 
 ‘Can’t say.’
 
@@ -74,9 +74,9 @@ Here the man proceeded to mend his pen with great deliberation, while
 another clerk, who was mixing a Seidlitz powder, under cover of the lid
 of his desk, laughed approvingly.
 
-‘I think I’ll wait,’ said Mr. Pickwick. There was no reply; so Mr.
-Pickwick sat down unbidden, and listened to the loud ticking of the
-clock and the murmured conversation of the clerks.
+‘I think I’ll wait,’ said Mr. [[Pickwick]]. There was no reply; so Mr.
+[[Pickwick]] sat down unbidden, and listened to the loud ticking of the
+[[Clock|clock]] and the murmured conversation of the clerks.
 
 ‘That was a game, wasn’t it?’ said one of the gentlemen, in a brown coat
 and brass buttons, inky drabs, and bluchers, at the conclusion of some
@@ -87,7 +87,7 @@ inaudible relation of his previous evening’s adventures.
 ‘Tom Cummins was in the chair,’ said the man with the brown coat. ‘It
 was half-past four when I got to Somers Town, and then I was so uncommon
 lushy, that I couldn’t find the place where the latch-key went in, and
-was obliged to knock up the old ‘ooman. I say, I wonder what old Fogg
+was obliged to knock up the old ‘ooman. I say, I [[Wonder|wonder]] what old Fogg
 ‘ud say, if he knew it. I should get the sack, I s’pose--eh?’
 
 At this humorous notion, all the clerks laughed in concert.
@@ -98,10 +98,10 @@ were gone to the stamp-office. Fogg was down here, opening the letters
 when that chap as we issued the writ against at Camberwell, you know,
 came in--what’s his name again?’
 
-‘Ramsey,’ said the clerk who had spoken to Mr. Pickwick.
+‘Ramsey,’ said the clerk who had spoken to Mr. [[Pickwick]].
 
-‘Ah, Ramsey--a precious seedy-looking customer. “Well, sir,” says old
-Fogg, looking at him very fierce--you know his way--“well, Sir, have you
+‘Ah, Ramsey--a precious seedy-looking customer. “[[Well]], sir,” says old
+Fogg, looking at him very fierce--you know his way--“[[Well|well]], Sir, have you
 come to settle?” “Yes, I have, sir,” said Ramsey, putting his hand in
 his pocket, and bringing out the money, “the debt’s two pound ten, and
 the costs three pound five, and here it is, Sir;” and he sighed like
@@ -110,18 +110,18 @@ Old Fogg looked first at the money, and then at him, and then he coughed
 in his rum way, so that I knew something was coming. “You don’t know
 there’s a declaration filed, which increases the costs materially, I
 suppose,” said Fogg. “You don’t say that, sir,” said Ramsey, starting
-back; “the time was only out last night, Sir.” “I do say it, though,”
+back; “the [[Time|time]] was only out last [[Night|night]], Sir.” “I do say it, though,”
  said Fogg, “my clerk’s just gone to file it. Hasn’t Mr. Jackson gone to
 file that declaration in Bullman and Ramsey, Mr. Wicks?” Of course I
 said yes, and then Fogg coughed again, and looked at Ramsey. “My God!”
  said Ramsey; “and here have I nearly driven myself mad, scraping this
 money together, and all to no purpose.” “None at all,” said Fogg coolly;
 “so you had better go back and scrape some more together, and bring it
-here in time.” “I can’t get it, by God!” said Ramsey, striking the desk
+here in [[Time|time]].” “I can’t get it, by God!” said Ramsey, striking the desk
 with his fist. “Don’t bully me, sir,” said Fogg, getting into a passion
 on purpose. “I am not bullying you, sir,” said Ramsey. “You are,” said
 Fogg; “get out, sir; get out of this office, Sir, and come back, Sir,
-when you know how to behave yourself.” Well, Ramsey tried to speak, but
+when you know how to behave yourself.” [[Well]], Ramsey tried to speak, but
 Fogg wouldn’t let him, so he put the money in his pocket, and sneaked
 out. The door was scarcely shut, when old Fogg turned round to me, with
 a sweet smile on his face, and drew the declaration out of his coat
@@ -129,7 +129,7 @@ pocket. “Here, Wicks,” says Fogg, “take a cab, and go down to the Temple
 as quick as you can, and file that. The costs are quite safe, for he’s a
 steady man with a large family, at a salary of five-and-twenty shillings
 a week, and if he gives us a warrant of attorney, as he must in the end,
-I know his employers will see it paid; so we may as well get all we can
+I know his employers will see it paid; so we may as [[Well|well]] get all we can
 get out of him, Mr. Wicks; it’s a Christian act to do it, Mr. Wicks, for
 with his large family and small income, he’ll be all the better for a
 good lesson against getting into debt--won’t he, Mr. Wicks, won’t he?”--
@@ -144,37 +144,37 @@ afforded the most unlimited satisfaction.
 ‘Nice men these here, Sir,’ whispered Mr. Weller to his master; ‘wery
 nice notion of fun they has, Sir.’
 
-Mr. Pickwick nodded assent, and coughed to attract the attention of the
+Mr. [[Pickwick]] nodded assent, and coughed to attract the attention of the
 young gentlemen behind the partition, who, having now relaxed their
 minds by a little conversation among themselves, condescended to take
 some notice of the stranger.
 
-‘I wonder whether Fogg’s disengaged now?’ said Jackson.
+‘I [[Wonder|wonder]] whether Fogg’s disengaged now?’ said Jackson.
 
 ‘I’ll see,’ said Wicks, dismounting leisurely from his stool. ‘What name
 shall I tell Mr. Fogg?’
 
-‘Pickwick,’ replied the illustrious subject of these memoirs.
+‘[[Pickwick]],’ replied the illustrious subject of these memoirs.
 
 Mr. Jackson departed upstairs on his errand, and immediately returned
-with a message that Mr. Fogg would see Mr. Pickwick in five minutes; and
+with a message that Mr. Fogg would see Mr. [[Pickwick]] in five minutes; and
 having delivered it, returned again to his desk.
 
 ‘What did he say his name was?’ whispered Wicks.
 
-‘Pickwick,’ replied Jackson; ‘it’s the defendant in Bardell and
-Pickwick.’
+‘[[Pickwick]],’ replied Jackson; ‘it’s the defendant in Bardell and
+[[Pickwick]].’
 
 A sudden scraping of feet, mingled with the sound of suppressed
 laughter, was heard from behind the partition.
 
 ‘They’re a-twiggin’ of you, Sir,’ whispered Mr. Weller.
 
-‘Twigging of me, Sam!’ replied Mr. Pickwick; ‘what do you mean by
+‘Twigging of me, Sam!’ replied Mr. [[Pickwick]]; ‘what do you mean by
 twigging me?’
 
 Mr. Weller replied by pointing with his thumb over his shoulder, and Mr.
-Pickwick, on looking up, became sensible of the pleasing fact, that all
+[[Pickwick]], on looking up, became sensible of the pleasing fact, that all
 the four clerks, with countenances expressive of the utmost amusement,
 and with their heads thrust over the wooden screen, were minutely
 inspecting the figure and general appearance of the supposed trifler
@@ -184,12 +184,12 @@ travelling at a furious rate over paper, immediately succeeded.
 
 A sudden ring at the bell which hung in the office, summoned Mr. Jackson
 to the apartment of Fogg, from whence he came back to say that he (Fogg)
-was ready to see Mr. Pickwick if he would step upstairs.
+was ready to see Mr. [[Pickwick]] if he would step upstairs.
 
-Upstairs Mr. Pickwick did step accordingly, leaving Sam Weller below.
+Upstairs Mr. [[Pickwick]] did step accordingly, leaving [[Sam Weller]] below.
 The room door of the one-pair back, bore inscribed in legible characters
 the imposing words, ‘Mr. Fogg’; and, having tapped thereat, and been
-desired to come in, Jackson ushered Mr. Pickwick into the presence.
+desired to come in, Jackson ushered Mr. [[Pickwick]] into the presence.
 
 ‘Is Mr. Dodson in?’ inquired Mr. Fogg.
 
@@ -202,30 +202,30 @@ desired to come in, Jackson ushered Mr. Pickwick into the presence.
 ‘Take a seat, sir,’ said Fogg; ‘there is the paper, sir; my partner will
 be here directly, and we can converse about this matter, sir.’
 
-Mr. Pickwick took a seat and the paper, but, instead of reading the
+Mr. [[Pickwick]] took a seat and the paper, but, instead of reading the
 latter, peeped over the top of it, and took a survey of the man of
 business, who was an elderly, pimply-faced, vegetable-diet sort of man,
 in a black coat, dark mixture trousers, and small black gaiters; a kind
 of being who seemed to be an essential part of the desk at which he was
 writing, and to have as much thought or feeling.
 
-After a few minutes’ silence, Mr. Dodson, a plump, portly, stern-looking
+After a few minutes’ [[Silence|silence]], Mr. Dodson, a plump, portly, stern-looking
 man, with a loud voice, appeared; and the conversation commenced.
 
-‘This is Mr. Pickwick,’ said Fogg.
+‘This is Mr. [[Pickwick]],’ said Fogg.
 
-‘Ah! You are the defendant, Sir, in Bardell and Pickwick?’ said Dodson.
+‘Ah! You are the defendant, Sir, in Bardell and [[Pickwick]]?’ said Dodson.
 
-‘I am, sir,’ replied Mr. Pickwick.
+‘I am, sir,’ replied Mr. [[Pickwick]].
 
-‘Well, sir,’ said Dodson, ‘and what do you propose?’
+‘[[Well]], sir,’ said Dodson, ‘and what do you propose?’
 
 ‘Ah!’ said Fogg, thrusting his hands into his trousers’ pockets, and
-throwing himself back in his chair, ‘what do you propose, Mr Pickwick?’
+throwing himself back in his chair, ‘what do you propose, Mr [[Pickwick]]?’
 
-‘Hush, Fogg,’ said Dodson, ‘let me hear what Mr. Pickwick has to say.’
+‘Hush, Fogg,’ said Dodson, ‘let me hear what Mr. [[Pickwick]] has to say.’
 
-‘I came, gentlemen,’ said Mr. Pickwick, gazing placidly on the two
+‘I came, gentlemen,’ said Mr. [[Pickwick]], gazing placidly on the two
 partners, ‘I came here, gentlemen, to express the surprise with which I
 received your letter of the other day, and to inquire what grounds of
 action you can have against me.’
@@ -238,7 +238,7 @@ Dodson.
 I beg your pardon, Mr. Dodson,’ said Fogg.
 
 ‘For the grounds of action, sir,’ continued Dodson, with moral elevation
-in his air, ‘you will consult your own conscience and your own feelings.
+in his air, ‘you will consult your own [[Conscience|conscience]] and your own feelings.
 We, Sir, we, are guided entirely by the statement of our client. That
 statement, Sir, may be true, or it may be false; it may be credible, or
 it may be incredible; but, if it be true, and if it be credible, I do
@@ -251,17 +251,17 @@ himself up, with an air of offended virtue, and looked at Fogg, who
 thrust his hands farther in his pockets, and nodding his head sagely,
 said, in a tone of the fullest concurrence, ‘Most certainly.’
 
-‘Well, Sir,’ said Mr. Pickwick, with considerable pain depicted in his
+‘[[Well]], Sir,’ said Mr. [[Pickwick]], with considerable [[Pain|pain]] depicted in his
 countenance, ‘you will permit me to assure you that I am a most
 unfortunate man, so far as this case is concerned.’
 
-‘I hope you are, Sir,’ replied Dodson; ‘I trust you may be, Sir. If you
-are really innocent of what is laid to your charge, you are more
+‘I [[Hope|hope]] you are, Sir,’ replied Dodson; ‘I trust you may be, Sir. If you
+are really [[Innocent|innocent]] of what is laid to your charge, you are more
 unfortunate than I had believed any man could possibly be. What do you
 say, Mr. Fogg?’
 
 ‘I say precisely what you say,’ replied Fogg, with a smile of
-incredulity.
+[[Incredulity|incredulity]].
 
 ‘The writ, Sir, which commences the action,’ continued Dodson, ‘was
 issued regularly. Mr. Fogg, where is the _Praecipe _book?’
@@ -270,19 +270,19 @@ issued regularly. Mr. Fogg, where is the _Praecipe _book?’
 cover.
 
 ‘Here is the entry,’ resumed Dodson. ‘“Middlesex, Capias MARTHA BARDELL,
-WIDOW, v. SAMUEL PICKWICK. Damages £1500. Dodson & Fogg for the
+WIDOW, v. [[Samuel Pickwick|SAMUEL PICKWICK]]. Damages £1500. Dodson & Fogg for the
 plaintiff, Aug. 28, 1827.” All regular, Sir; perfectly.’ Dodson coughed
 and looked at Fogg, who said ‘Perfectly,’ also. And then they both
-looked at Mr. Pickwick.
+looked at Mr. [[Pickwick]].
 
-‘I am to understand, then,’ said Mr. Pickwick, ‘that it really is your
+‘I am to understand, then,’ said Mr. [[Pickwick]], ‘that it really is your
 intention to proceed with this action?’
 
 ‘Understand, sir!--that you certainly may,’ replied Dodson, with
 something as near a smile as his importance would allow.
 
 ‘And that the damages are actually laid at fifteen hundred pounds?’ said
-Mr. Pickwick.
+Mr. [[Pickwick]].
 
 ‘To which understanding you may add my assurance, that if we could have
 prevailed upon our client, they would have been laid at treble the
@@ -292,36 +292,36 @@ amount, sir,’ replied Dodson.
 glancing at Dodson, ‘that she would not compromise for a farthing less.’
 
 ‘Unquestionably,’ replied Dodson sternly. For the action was only just
-begun; and it wouldn’t have done to let Mr. Pickwick compromise it then,
+begun; and it wouldn’t have done to let Mr. [[Pickwick]] compromise it then,
 even if he had been so disposed.
 
 ‘As you offer no terms, sir,’ said Dodson, displaying a slip of
 parchment in his right hand, and affectionately pressing a paper copy of
-it, on Mr. Pickwick with his left, ‘I had better serve you with a copy
+it, on Mr. [[Pickwick]] with his left, ‘I had better serve you with a copy
 of this writ, sir. Here is the original, sir.’
 
-‘Very well, gentlemen, very well,’ said Mr. Pickwick, rising in person
-and wrath at the same time; ‘you shall hear from my solicitor,
+‘Very [[Well|well]], gentlemen, very [[Well|well]],’ said Mr. [[Pickwick]], rising in person
+and wrath at the same [[Time|time]]; ‘you shall hear from my solicitor,
 gentlemen.’
 
 ‘We shall be very happy to do so,’ said Fogg, rubbing his hands.
 
 ‘Very,’ said Dodson, opening the door.
 
-‘And before I go, gentlemen,’ said the excited Mr. Pickwick, turning
+‘And before I go, gentlemen,’ said the excited Mr. [[Pickwick]], turning
 round on the landing, ‘permit me to say, that of all the disgraceful and
 rascally proceedings--’
 
 ‘Stay, sir, stay,’ interposed Dodson, with great politeness. ‘Mr.
 Jackson! Mr. Wicks!’
 
-‘Sir,’ said the two clerks, appearing at the bottom of the stairs.
+‘Sir,’ said the two clerks, appearing at the [[Bottom|bottom]] of the stairs.
 
 ‘I merely want you to hear what this gentleman says,’ replied Dodson.
 ‘Pray, go on, sir--disgraceful and rascally proceedings, I think you
 said?’
 
-‘I did,’ said Mr. Pickwick, thoroughly roused. ‘I said, Sir, that of all
+‘I did,’ said Mr. [[Pickwick]], thoroughly roused. ‘I said, Sir, that of all
 the disgraceful and rascally proceedings that ever were attempted, this
 is the most so. I repeat it, sir.’
 
@@ -332,9 +332,9 @@ is the most so. I repeat it, sir.’
 ‘Perhaps you would like to call us swindlers, sir,’ said Dodson. ‘Pray
 do, Sir, if you feel disposed; now pray do, Sir.’
 
-‘I do,’ said Mr. Pickwick. ‘You _are _swindlers.’
+‘I do,’ said Mr. [[Pickwick]]. ‘You _are _swindlers.’
 
-‘Very good,’ said Dodson. ‘You can hear down there, I hope, Mr. Wicks?’
+‘Very good,’ said Dodson. ‘You can hear down there, I [[Hope|hope]], Mr. Wicks?’
 
 ‘Oh, yes, Sir,’ said Wicks.
 
@@ -343,8 +343,8 @@ Fogg. ‘Go on, Sir; do go on. You had better call us thieves, Sir; or
 perhaps You would like to assault one of _us_. Pray do it, Sir, if you
 would; we will not make the smallest resistance. Pray do it, Sir.’
 
-As Fogg put himself very temptingly within the reach of Mr. Pickwick’s
-clenched fist, there is little doubt that that gentleman would have
+As Fogg put himself very temptingly within the reach of Mr. [[Pickwick]]’s
+clenched fist, there is little [[Doubt|doubt]] that that gentleman would have
 complied with his earnest entreaty, but for the interposition of Sam,
 who, hearing the dispute, emerged from the office, mounted the stairs,
 and seized his master by the arm.
@@ -353,41 +353,41 @@ and seized his master by the arm.
 wery good game, vhen you ain’t the shuttlecock and two lawyers the
 battledores, in which case it gets too excitin’ to be pleasant. Come
 avay, Sir. If you want to ease your mind by blowing up somebody, come
-out into the court and blow up me; but it’s rayther too expensive work
+out into the [[Court|court]] and blow up me; but it’s rayther too expensive work
 to be carried on here.’
 
 And without the slightest ceremony, Mr. Weller hauled his master down
-the stairs, and down the court, and having safely deposited him in
+the stairs, and down the [[Court|court]], and having safely deposited him in
 Cornhill, fell behind, prepared to follow whithersoever he should lead.
 
-Mr. Pickwick walked on abstractedly, crossed opposite the Mansion House,
-and bent his steps up Cheapside. Sam began to wonder where they were
+Mr. [[Pickwick]] walked on abstractedly, crossed opposite the Mansion [[house|House]],
+and bent his steps up Cheapside. Sam began to [[Wonder|wonder]] where they were
 going, when his master turned round, and said--
 
 ‘Sam, I will go immediately to Mr. Perker’s.’
 
 ‘That’s just exactly the wery place vere you ought to have gone last
-night, Sir,’ replied Mr. Weller.
+[[Night|night]], Sir,’ replied Mr. Weller.
 
-‘I think it is, Sam,’ said Mr. Pickwick.
+‘I think it is, Sam,’ said Mr. [[Pickwick]].
 
 ‘I _know _it is,’ said Mr. Weller.
 
-‘Well, well, Sam,’ replied Mr. Pickwick, ‘we will go there at once; but
+‘[[Well]], [[Well|well]], Sam,’ replied Mr. [[Pickwick]], ‘we will go there at once; but
 first, as I have been rather ruffled, I should like a glass of brandy-
-and-water warm, Sam. Where can I have it, Sam?’
+and-[[Water|water]] warm, Sam. Where can I have it, Sam?’
 
-Mr. Weller’s knowledge of London was extensive and peculiar. He replied,
+Mr. Weller’s knowledge of [[London]] was extensive and peculiar. He replied,
 without the slightest consideration--
 
-‘Second court on the right hand side--last house but vun on the same
+‘Second [[Court|court]] on the right hand side--last [[house]] but vun on the same
 side the vay--take the box as stands in the first fireplace, ‘cos there
 ain’t no leg in the middle o’ the table, which all the others has, and
 it’s wery inconvenient.’
 
-Mr. Pickwick observed his valet’s directions implicitly, and bidding Sam
+Mr. [[Pickwick]] observed his valet’s directions implicitly, and bidding Sam
 follow him, entered the tavern he had pointed out, where the hot brandy-
-and-water was speedily placed before him; while Mr. Weller, seated at a
+and-[[Water|water]] was speedily placed before him; while Mr. Weller, seated at a
 respectful distance, though at the same table with his master, was
 accommodated with a pint of porter.
 
@@ -396,12 +396,12 @@ the especial patronage of stage-coachmen; for several gentleman, who had
 all the appearance of belonging to that learned profession, were
 drinking and smoking in the different boxes. Among the number was one
 stout, red-faced, elderly man, in particular, seated in an opposite box,
-who attracted Mr. Pickwick’s attention. The stout man was smoking with
+who attracted Mr. [[Pickwick]]’s attention. The stout man was smoking with
 great vehemence, but between every half-dozen puffs, he took his pipe
-from his mouth, and looked first at Mr. Weller and then at Mr. Pickwick.
+from his mouth, and looked first at Mr. Weller and then at Mr. [[Pickwick]].
 Then, he would bury in a quart pot, as much of his countenance as the
 dimensions of the quart pot admitted of its receiving, and take another
-look at Sam and Mr. Pickwick. Then he would take another half-dozen
+look at Sam and Mr. [[Pickwick]]. Then he would take another half-dozen
 puffs with an air of profound meditation and look at them again. At last
 the stout man, putting up his legs on the seat, and leaning his back
 against the wall, began to puff at his pipe without leaving off at all,
@@ -409,22 +409,22 @@ and to stare through the smoke at the new-comers, as if he had made up
 his mind to see the most he could of them.
 
 At first the evolutions of the stout man had escaped Mr. Weller’s
-observation, but by degrees, as he saw Mr. Pickwick’s eyes every now and
+observation, but by degrees, as he saw Mr. [[Pickwick]]’s eyes every now and
 then turning towards him, he began to gaze in the same direction, at the
-same time shading his eyes with his hand, as if he partially recognised
-the object before him, and wished to make quite sure of its identity.
+same [[Time|time]] shading his eyes with his hand, as if he partially recognised
+the object before him, and wished to make quite sure of its [[Identity|identity]].
 His doubts were speedily dispelled, however; for the stout man having
 blown a thick cloud from his pipe, a hoarse voice, like some strange
 effort of ventriloquism, emerged from beneath the capacious shawls which
 muffled his throat and chest, and slowly uttered these sounds--‘Wy,
 Sammy!’
 
-‘Who’s that, Sam?’ inquired Mr. Pickwick.
+‘Who’s that, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘Why, I wouldn’t ha’ believed it, Sir,’ replied Mr. Weller, with
 astonished eyes. ‘It’s the old ‘un.’
 
-‘Old one,’ said Mr. Pickwick. ‘What old one?’
+‘Old one,’ said Mr. [[Pickwick]]. ‘What old one?’
 
 ‘My father, sir,’ replied Mr. Weller. ‘How are you, my ancient?’ And
 with this beautiful ebullition of filial affection, Mr. Weller made room
@@ -448,30 +448,30 @@ Don’t she, though?’ inquired Mr. Weller, junior.
 The elder Mr. Weller shook his head, as he replied with a sigh, ‘I’ve
 done it once too often, Sammy; I’ve done it once too often. Take example
 by your father, my boy, and be wery careful o’ widders all your life,
-‘specially if they’ve kept a public-house, Sammy.’ Having delivered this
+‘specially if they’ve kept a public-[[house]], Sammy.’ Having delivered this
 parental advice with great pathos, Mr. Weller, senior, refilled his pipe
 from a tin box he carried in his pocket; and, lighting his fresh pipe
 from the ashes of the old One, commenced smoking at a great rate.
 
 ‘Beg your pardon, sir,’ he said, renewing the subject, and addressing
-Mr. Pickwick, after a considerable pause, ‘nothin’ personal, I hope,
-sir; I hope you ha’n’t got a widder, sir.’
+Mr. [[Pickwick]], after a considerable pause, ‘nothin’ personal, I [[Hope|hope]],
+sir; I [[Hope|hope]] you ha’n’t got a widder, sir.’
 
-‘Not I,’ replied Mr. Pickwick, laughing; and while Mr. Pickwick laughed,
-Sam Weller informed his parent in a whisper, of the relation in which he
+‘Not I,’ replied Mr. [[Pickwick]], laughing; and while Mr. [[Pickwick]] laughed,
+[[Sam Weller]] informed his parent in a whisper, of the relation in which he
 stood towards that gentleman.
 
 ‘Beg your pardon, sir,’ said Mr. Weller, senior, taking off his hat, ‘I
-hope you’ve no fault to find with Sammy, Sir?’
+[[Hope|hope]] you’ve no fault to find with Sammy, Sir?’
 
-‘None whatever,’ said Mr. Pickwick.
+‘None whatever,’ said Mr. [[Pickwick]].
 
 ‘Wery glad to hear it, sir,’ replied the old man; ‘I took a good deal o’
 pains with his eddication, sir; let him run in the streets when he was
 wery young, and shift for hisself. It’s the only way to make a boy
 sharp, sir.’
 
-‘Rather a dangerous process, I should imagine,’ said Mr. Pickwick, with
+‘Rather a dangerous process, I should imagine,’ said Mr. [[Pickwick]], with
 a smile.
 
 ‘And not a wery sure one, neither,’ added Mr. Weller; ‘I got reg’larly
@@ -489,27 +489,27 @@ attention, and, at its termination, said--
 ‘Worn’t one o’ these chaps slim and tall, with long hair, and the gift
 o’ the gab wery gallopin’?’
 
-Mr. Pickwick did not quite understand the last item of description, but,
+Mr. [[Pickwick]] did not quite understand the last item of description, but,
 comprehending the first, said ‘Yes,’ at a venture.
 
 ‘T’ other’s a black-haired chap in mulberry livery, with a wery large
 head?’
 
-‘Yes, yes, he is,’ said Mr. Pickwick and Sam, with great earnestness.
+‘Yes, yes, he is,’ said Mr. [[Pickwick]] and Sam, with great earnestness.
 
 ‘Then I know where they are, and that’s all about it,’ said Mr. Weller;
 ‘they’re at Ipswich, safe enough, them two.’
 
-‘No!’ said Mr. Pickwick.
+‘No!’ said Mr. [[Pickwick]].
 
 ‘Fact,’ said Mr. Weller, ‘and I’ll tell you how I know it. I work an
 Ipswich coach now and then for a friend o’ mine. I worked down the wery
-day arter the night as you caught the rheumatic, and at the Black Boy at
+day arter the [[Night|night]] as you caught the rheumatic, and at the Black Boy at
 Chelmsford--the wery place they’d come to--I took ‘em up, right through
 to Ipswich, where the man-servant--him in the mulberries--told me they
-was a-goin’ to put up for a long time.’
+was a-goin’ to put up for a long [[Time|time]].’
 
-‘I’ll follow him,’ said Mr. Pickwick; ‘we may as well see Ipswich as any
+‘I’ll follow him,’ said Mr. [[Pickwick]]; ‘we may as [[Well|well]] see Ipswich as any
 other place. I’ll follow him.’
 
 ‘You’re quite certain it was them, governor?’ inquired Mr. Weller,
@@ -521,45 +521,45 @@ formiliar with his servant; and, more than that, as they sat in the
 front, right behind the box, I heerd ‘em laughing and saying how they’d
 done old Fireworks.’
 
-‘Old who?’ said Mr. Pickwick.
+‘Old who?’ said Mr. [[Pickwick]].
 
-‘Old Fireworks, Sir; by which, I’ve no doubt, they meant you, Sir.’
+‘Old Fireworks, Sir; by which, I’ve no [[Doubt|doubt]], they meant you, Sir.’
 
 There is nothing positively vile or atrocious in the appellation of ‘old
 Fireworks,’ but still it is by no means a respectful or flattering
 designation. The recollection of all the wrongs he had sustained at
-Jingle’s hands, had crowded on Mr. Pickwick’s mind, the moment Mr.
+Jingle’s hands, had crowded on Mr. [[Pickwick]]’s mind, the moment Mr.
 Weller began to speak; it wanted but a feather to turn the scale, and
 ‘old Fireworks’ did it.
 
-‘I’ll follow him,’ said Mr. Pickwick, with an emphatic blow on the
+‘I’ll follow him,’ said Mr. [[Pickwick]], with an emphatic blow on the
 table.
 
 ‘I shall work down to Ipswich the day arter to-morrow, Sir,’ said Mr.
 Weller the elder, ‘from the Bull in Whitechapel; and if you really mean
 to go, you’d better go with me.’
 
-‘So we had,’ said Mr. Pickwick; ‘very true; I can write to Bury, and
+‘So we had,’ said Mr. [[Pickwick]]; ‘very true; I can write to Bury, and
 tell them to meet me at Ipswich. We will go with you. But don’t hurry
 away, Mr. Weller; won’t you take anything?’
 
 ‘You’re wery good, Sir,’ replied Mr. W., stopping short;--‘perhaps a
-small glass of brandy to drink your health, and success to Sammy, Sir,
+small glass of brandy to drink your health, and [[success]] to Sammy, Sir,
 wouldn’t be amiss.’
 
-‘Certainly not,’ replied Mr. Pickwick.
+‘Certainly not,’ replied Mr. [[Pickwick]].
 
 ‘A glass of brandy here!’ The brandy was brought; and Mr. Weller, after
-pulling his hair to Mr. Pickwick, and nodding to Sam, jerked it down his
+pulling his hair to Mr. [[Pickwick]], and nodding to Sam, jerked it down his
 capacious throat as if it had been a small thimbleful.
 
-‘Well done, father,’ said Sam, ‘take care, old fellow, or you’ll have a
+‘[[Well]] done, father,’ said Sam, ‘take care, old fellow, or you’ll have a
 touch of your old complaint, the gout.’
 
 ‘I’ve found a sov’rin’ cure for that, Sammy,’ said Mr. Weller, setting
 down the glass.
 
-‘A sovereign cure for the gout,’ said Mr. Pickwick, hastily producing
+‘A sovereign cure for the gout,’ said Mr. [[Pickwick]], hastily producing
 his note-book--‘what is it?’
 
 ‘The gout, Sir,’ replied Mr. Weller, ‘the gout is a complaint as arises
@@ -571,16 +571,16 @@ away any illness as is caused by too much jollity.’ Having imparted this
 valuable secret, Mr. Weller drained his glass once more, produced a
 laboured wink, sighed deeply, and slowly retired.
 
-‘Well, what do you think of what your father says, Sam?’ inquired Mr.
-Pickwick, with a smile.
+‘[[Well]], what do you think of what your father says, Sam?’ inquired Mr.
+[[Pickwick]], with a smile.
 
 ‘Think, Sir!’ replied Mr. Weller; ‘why, I think he’s the wictim o’
 connubiality, as Blue Beard’s domestic chaplain said, vith a tear of
 pity, ven he buried him.’
 
 There was no replying to this very apposite conclusion, and, therefore,
-Mr. Pickwick, after settling the reckoning, resumed his walk to Gray’s
-Inn. By the time he reached its secluded groves, however, eight o’clock
+Mr. [[Pickwick]], after settling the reckoning, resumed his walk to Gray’s
+Inn. By the [[Time|time]] he reached its secluded groves, however, eight o’[[Clock|clock]]
 had struck, and the unbroken stream of gentlemen in muddy high-lows,
 soiled white hats, and rusty apparel, who were pouring towards the
 different avenues of egress, warned him that the majority of the offices
@@ -588,11 +588,11 @@ had closed for that day.
 
 After climbing two pairs of steep and dirty stairs, he found his
 anticipations were realised. Mr. Perker’s ‘outer door’ was closed; and
-the dead silence which followed Mr. Weller’s repeated kicks thereat,
-announced that the officials had retired from business for the night.
+the dead [[Silence|silence]] which followed Mr. Weller’s repeated kicks thereat,
+announced that the officials had retired from business for the [[Night|night]].
 
-‘This is pleasant, Sam,’ said Mr. Pickwick; ‘I shouldn’t lose an hour in
-seeing him; I shall not be able to get one wink of sleep to-night, I
+‘This is pleasant, Sam,’ said Mr. [[Pickwick]]; ‘I shouldn’t lose an hour in
+seeing him; I shall not be able to get one wink of [[Sleep|sleep]] to-[[Night|night]], I
 know, unless I have the satisfaction of reflecting that I have confided
 this matter to a professional man.’
 
@@ -604,63 +604,63 @@ Perker’s people?’
 stopping to recover breath after the ascent of the staircase--‘Mr.
 Perker’s people’s gone, and I’m a-goin’ to do the office out.’
 
-Are you Mr. Perker’s servant?’ inquired Mr. Pickwick.
+Are you Mr. Perker’s servant?’ inquired Mr. [[Pickwick]].
 
 ‘I am Mr. Perker’s laundress,’ replied the woman.
 
-‘Ah,’ said Mr. Pickwick, half aside to Sam, ‘it’s a curious
+‘Ah,’ said Mr. [[Pickwick]], half aside to Sam, ‘it’s a curious
 circumstance, Sam, that they call the old women in these inns,
-laundresses. I wonder what’s that for?’
+laundresses. I [[Wonder|wonder]] what’s that for?’
 
 ‘’Cos they has a mortal awersion to washing anythin’, I suppose, Sir,’
 replied Mr. Weller.
 
-‘I shouldn’t wonder,’ said Mr. Pickwick, looking at the old woman, whose
-appearance, as well as the condition of the office, which she had by
-this time opened, indicated a rooted antipathy to the application of
-soap and water; ‘do you know where I can find Mr. Perker, my good
+‘I shouldn’t [[Wonder|wonder]],’ said Mr. [[Pickwick]], looking at the old woman, whose
+appearance, as [[Well|well]] as the condition of the office, which she had by
+this [[Time|time]] opened, indicated a rooted antipathy to the application of
+soap and [[Water|water]]; ‘do you know where I can find Mr. Perker, my good
 woman?’
 
 ‘No, I don’t,’ replied the old woman gruffly; ‘he’s out o’ town now.’
 
-‘That’s unfortunate,’ said Mr. Pickwick; ‘where’s his clerk? Do you
+‘That’s unfortunate,’ said Mr. [[Pickwick]]; ‘where’s his clerk? Do you
 know?’
 
 ‘Yes, I know where he is, but he won’t thank me for telling you,’
 replied the laundress.
 
-‘I have very particular business with him,’ said Mr. Pickwick.
+‘I have very particular business with him,’ said Mr. [[Pickwick]].
 
 ‘Won’t it do in the morning?’ said the woman.
 
-‘Not so well,’ replied Mr. Pickwick.
+‘Not so [[Well|well]],’ replied Mr. [[Pickwick]].
 
-‘Well,’ said the old woman, ‘if it was anything very particular, I was
+‘[[Well]],’ said the old woman, ‘if it was anything very particular, I was
 to say where he was, so I suppose there’s no harm in telling. If you
 just go to the Magpie and Stump, and ask at the bar for Mr. Lowten,
 they’ll show you in to him, and he’s Mr. Perker’s clerk.’
 
 With this direction, and having been furthermore informed that the
-hostelry in question was situated in a court, happy in the double
+hostelry in question was situated in a [[Court|court]], happy in the [[Double|double]]
 advantage of being in the vicinity of Clare Market, and closely
-approximating to the back of New Inn, Mr. Pickwick and Sam descended the
-rickety staircase in safety, and issued forth in quest of the Magpie and
+approximating to the back of New Inn, Mr. [[Pickwick]] and Sam descended the
+rickety staircase in safety, and issued forth in [[Quest|quest]] of the Magpie and
 Stump.
 
 This favoured tavern, sacred to the evening orgies of Mr. Lowten and his
-companions, was what ordinary people would designate a public-house.
+companions, was what ordinary people would designate a public-[[house]].
 That the landlord was a man of money-making turn was sufficiently
-testified by the fact of a small bulkhead beneath the tap-room window,
+testified by the fact of a small bulkhead beneath the tap-room [[Window|window]],
 in size and shape not unlike a sedan-chair, being underlet to a mender
 of shoes: and that he was a being of a philanthropic mind was evident
 from the protection he afforded to a pieman, who vended his delicacies
-without fear of interruption, on the very door-step. In the lower
+without [[Fear|fear]] of interruption, on the very door-step. In the lower
 windows, which were decorated with curtains of a saffron hue, dangled
 two or three printed cards, bearing reference to Devonshire cider and
 Dantzic spruce, while a large blackboard, announcing in white letters to
-an enlightened public, that there were 500,000 barrels of double stout
+an enlightened public, that there were 500,000 barrels of [[Double|double]] stout
 in the cellars of the establishment, left the mind in a state of not
-unpleasing doubt and uncertainty as to the precise direction in the
+unpleasing [[Doubt|doubt]] and uncertainty as to the precise direction in the
 bowels of the earth, in which this mighty cavern might be supposed to
 extend. When we add that the weather-beaten signboard bore the half-
 obliterated semblance of a magpie intently eyeing a crooked streak of
@@ -668,22 +668,22 @@ brown paint, which the neighbours had been taught from infancy to
 consider as the ‘stump,’ we have said all that need be said of the
 exterior of the edifice.
 
-On Mr. Pickwick’s presenting himself at the bar, an elderly female
+On Mr. [[Pickwick]]’s presenting himself at the bar, an elderly female
 emerged from behind the screen therein, and presented herself before
 him.
 
-‘Is Mr. Lowten here, ma’am?’ inquired Mr. Pickwick.
+‘Is Mr. Lowten here, ma’am?’ inquired Mr. [[Pickwick]].
 
 ‘Yes, he is, Sir,’ replied the landlady. ‘Here, Charley, show the
 gentleman in to Mr. Lowten.’
 
 ‘The gen’l’m’n can’t go in just now,’ said a shambling pot-boy, with a
-red head, ‘cos’ Mr. Lowten’s a-singin’ a comic song, and he’ll put him
+red head, ‘cos’ Mr. Lowten’s a-singin’ a comic [[Song|song]], and he’ll put him
 out. He’ll be done directly, Sir.’
 
 The red-headed pot-boy had scarcely finished speaking, when a most
 unanimous hammering of tables, and jingling of glasses, announced that
-the song had that instant terminated; and Mr. Pickwick, after desiring
+the [[Song|song]] had that instant terminated; and Mr. [[Pickwick]], after desiring
 Sam to solace himself in the tap, suffered himself to be conducted into
 the presence of Mr. Lowten.
 
@@ -693,64 +693,64 @@ some surprise in the direction from whence the voice proceeded; and the
 surprise seemed to be by no means diminished, when his eyes rested on an
 individual whom he had never seen before.
 
-‘I beg your pardon, Sir,’ said Mr. Pickwick, ‘and I am very sorry to
+‘I beg your pardon, Sir,’ said Mr. [[Pickwick]], ‘and I am very sorry to
 disturb the other gentlemen, too, but I come on very particular
 business; and if you will suffer me to detain you at this end of the
 room for five minutes, I shall be very much obliged to you.’
 
-The puffy-faced young man rose, and drawing a chair close to Mr.
-Pickwick in an obscure corner of the room, listened attentively to his
+The puffy-faced young man [[Rose|rose]], and drawing a chair close to Mr.
+[[Pickwick]] in an obscure corner of the room, listened attentively to his
 tale of woe.
 
-‘Ah,’ he said, when Mr. Pickwick had concluded, ‘Dodson and Fogg--sharp
+‘Ah,’ he said, when Mr. [[Pickwick]] had concluded, ‘Dodson and Fogg--sharp
 practice theirs--capital men of business, Dodson and Fogg, sir.’
 
-Mr. Pickwick admitted the sharp practice of Dodson and Fogg, and Lowten
+Mr. [[Pickwick]] admitted the sharp practice of Dodson and Fogg, and Lowten
 resumed.
 
 ‘Perker ain’t in town, and he won’t be, neither, before the end of next
 week; but if you want the action defended, and will leave the copy with
 me, I can do all that’s needful till he comes back.’
 
-‘That’s exactly what I came here for,’ said Mr. Pickwick, handing over
+‘That’s exactly what I came here for,’ said Mr. [[Pickwick]], handing over
 the document. ‘If anything particular occurs, you can write to me at the
 post-office, Ipswich.’
 
 ‘That’s all right,’ replied Mr. Perker’s clerk; and then seeing Mr.
-Pickwick’s eye wandering curiously towards the table, he added, ‘will
+[[Pickwick]]’s eye wandering curiously towards the table, he added, ‘will
 you join us, for half an hour or so? We are capital company here to-
-night. There’s Samkin and Green’s managing-clerk, and Smithers and
+[[Night|night]]. There’s Samkin and Green’s managing-clerk, and Smithers and
 Price’s chancery, and Pimkin and Thomas’s out o’ doors--sings a capital
-song, he does--and Jack Bamber, and ever so many more. You’re come out
+[[Song|song]], he does--and Jack Bamber, and ever so many more. You’re come out
 of the country, I suppose. Would you like to join us?’
 
-Mr. Pickwick could not resist so tempting an opportunity of studying
-human nature. He suffered himself to be led to the table, where, after
+Mr. [[Pickwick]] could not resist so tempting an opportunity of studying
+human [[Nature|nature]]. He suffered himself to be led to the table, where, after
 having been introduced to the company in due form, he was accommodated
 with a seat near the chairman and called for a glass of his favourite
 beverage.
 
-A profound silence, quite contrary to Mr. Pickwick’s expectation,
+A profound [[Silence|silence]], quite contrary to Mr. [[Pickwick]]’s expectation,
 succeeded.
 
-‘You don’t find this sort of thing disagreeable, I hope, sir?’ said his
+‘You don’t find this sort of thing disagreeable, I [[Hope|hope]], sir?’ said his
 right hand neighbour, a gentleman in a checked shirt and Mosaic studs,
 with a cigar in his mouth.
 
-‘Not in the least,’ replied Mr. Pickwick; ‘I like it very much, although
+‘Not in the least,’ replied Mr. [[Pickwick]]; ‘I like it very much, although
 I am no smoker myself.’
 
 ‘I should be very sorry to say I wasn’t,’ interposed another gentleman
 on the opposite side of the table. ‘It’s board and lodgings to me, is
 smoke.’
 
-Mr. Pickwick glanced at the speaker, and thought that if it were washing
+Mr. [[Pickwick]] glanced at the speaker, and thought that if it were washing
 too, it would be all the better.
 
-Here there was another pause. Mr. Pickwick was a stranger, and his
+Here there was another pause. Mr. [[Pickwick]] was a stranger, and his
 coming had evidently cast a damp upon the party.
 
-‘Mr. Grundy’s going to oblige the company with a song,’ said the
+‘Mr. Grundy’s going to oblige the company with a [[Song|song]],’ said the
 chairman.
 
 ‘No, he ain’t,’ said Mr. Grundy.
@@ -761,39 +761,39 @@ chairman.
 
 ‘You had better say he won’t,’ replied the chairman.
 
-‘Well, then, he won’t,’ retorted Mr. Grundy. Mr. Grundy’s positive
-refusal to gratify the company occasioned another silence.
+‘[[Well]], then, he won’t,’ retorted Mr. Grundy. Mr. Grundy’s positive
+refusal to gratify the company occasioned another [[Silence|silence]].
 
 ‘Won’t anybody enliven us?’ said the chairman, despondingly.
 
 ‘Why don’t you enliven us yourself, Mr. Chairman?’ said a young man with
-a whisker, a squint, and an open shirt collar (dirty), from the bottom
+a whisker, a squint, and an open shirt collar (dirty), from the [[Bottom|bottom]]
 of the table.
 
 ‘Hear! hear!’ said the smoking gentleman, in the Mosaic jewellery.
 
-‘Because I only know one song, and I have sung it already, and it’s a
-fine of “glasses round” to sing the same song twice in a night,’ replied
+‘Because I only know one [[Song|song]], and I have sung it already, and it’s a
+fine of “glasses round” to sing the same [[Song|song]] twice in a [[Night|night]],’ replied
 the chairman.
 
-This was an unanswerable reply, and silence prevailed again.
+This was an unanswerable reply, and [[Silence|silence]] prevailed again.
 
-‘I have been to-night, gentlemen,’ said Mr. Pickwick, hoping to start a
+‘I have been to-[[Night|night]], gentlemen,’ said Mr. [[Pickwick]], hoping to start a
 subject which all the company could take a part in discussing, ‘I have
-been to-night, in a place which you all know very well, doubtless, but
+been to-[[Night|night]], in a place which you all know very [[Well|well]], doubtless, but
 which I have not been in for some years, and know very little of; I mean
 Gray’s Inn, gentlemen. Curious little nooks in a great place, like
-London, these old inns are.’
+[[London]], these old inns are.’
 
 ‘By Jove!’ said the chairman, whispering across the table to Mr.
-Pickwick, ‘you have hit upon something that one of us, at least, would
+[[Pickwick]], ‘you have hit upon something that one of us, at least, would
 talk upon for ever. You’ll draw old Jack Bamber out; he was never heard
-to talk about anything else but the inns, and he has lived alone in them
+to talk about anything else but the inns, and he has lived [[Alone|alone]] in them
 till he’s half crazy.’
 
 The individual to whom Lowten alluded, was a little, yellow, high-
 shouldered man, whose countenance, from his habit of stooping forward
-when silent, Mr. Pickwick had not observed before. He wondered, though,
+when silent, Mr. [[Pickwick]] had not observed before. He wondered, though,
 when the old man raised his shrivelled face, and bent his gray eye upon
 him, with a keen inquiring look, that such remarkable features could
 have escaped his attention for a moment. There was a fixed grim smile

@@ -18,13 +18,13 @@ When I come to describing it, I find it is perhaps even more
 difficult to describe it than to do it.  But something of this
 sort is what I propose to do.  Loudon Dodd, in whom there
 is much of Louis Stevenson, says very truly in _The Wrecker,_
-that for the artist the external result is always a fizzle:
+that for the [[Artist|artist]] the external result is always a fizzle:
 his eyes are turned inward:  "he lives for a state of mind."
 I mean to attempt the conjectural description of certain states
 of mind, with the books that were the "external expression"
-of them.  If for the artist his art is a fizzle, his life is
+of them.  If for the [[Artist|artist]] his art is a fizzle, his life is
 often far more of a fizzle:  it is even far more of a fiction.
-It is the one of his works in which he tells least of the truth.
+It is the one of his works in which he tells least of the [[Truth|truth]].
 Stevenson's was more real than most, because more romantic than most.
 But I prefer the romances, which were still more real.
 I mean that I think the wanderings of Balfour more Stevensonian
@@ -46,7 +46,7 @@ about the fate of the men of that age, who delighted in that axiom.
 They claimed judgement as artists, not men; and they are really
 remembered as men much more than they are remembered as artists.
 More men know the Whistlerian anecdotes than the Whistlerian etchings;
-and poor Wilde will live in history as immoral rather than unmoral.
+and poor Wilde will live in [[history]] as immoral rather than unmoral.
 But there is a real reason for studying intrinsic intellectual
 values in the case of Stevenson; and it need not be said that
 exactly where the modern maxim would be useful, it is never used.
@@ -56,40 +56,40 @@ and often, I think, rather a spiteful criticism.  It is simply nonsense,
 for instance, for a distinguished living novelist to suggest that
 Stevenson's correspondence is a thin stream of selfish soliloquy
 devoid of feeling for anybody but himself.  It teems with lively
-expressions of longing for particular people and places; it breaks
+expressions of [[Longing|longing]] for particular people and places; it breaks
 out everywhere with delight into that broad Scots idiom which,
-as Stevenson truly said elsewhere, gives a special freedom to all
+as Stevenson truly said elsewhere, gives a special [[Freedom|freedom]] to all
 the terms of affection.  Stevenson might be lying, of course, though I
 know not why a busy author should lie at such length for nothing.
 But I cannot see how any man could say any more to suggest his dependence
 on the society of friends.  These are positive facts of personality
 that can never be proved or disproved.  I never knew Stevenson;
 but I knew very many of his favourite friends and correspondents.
-I knew Henry James and William Archer; I have still the honour
-of knowing Sir James Barrie and Sir Edmund Gosse.  And anybody
+I knew Henry James and William Archer; I have still the [[Honour|honour]]
+of knowing Sir James Barrie and Sir [[Edmund]] Gosse.  And anybody
 who knows them, even most slightly and superficially, must know
 they are not the men to be in confidential correspondence for years
 with a silly, greedy and exacting egoist without seeing through him;
 or to be bombarded with boring autobiographies without being bored.
 But it seems rather a pity that such critics should still be called
-upon to hunt up Stevenson's letter-bag, when they might well think it
-time to form some conclusions about Stevenson's place in letters.
+upon to hunt up Stevenson's letter-bag, when they might [[Well|well]] think it
+[[Time|time]] to form some conclusions about Stevenson's place in letters.
 Anyhow, I propose on the present occasion to be so perverse as to
 interest myself in literature when dealing with a literary man;
 and to be especially interested not only in the literature left
-by the man but in the philosophy inhering in the literature.
+by the man but in the [[philosophy]] inhering in the literature.
 And I am especially interested in a certain story, which was indeed
-the story of his life, but not exactly the story in his biography.
+the story of his life, but not exactly the story in his [[Biography|biography]].
 It was an internal and spiritual story; and the stages of it
 are to be found rather in his stories than in his external acts.
 It is told much better in the difference between _Treasure Island_
-and _The Story of a Lie,_ or in the difference between _A Child's Garden
+and _The Story of a Lie,_ or in the difference between _A [[Child]]'s [[Garden]]
 of Verses_ and _Markheim_ or _Olalla,_ than in any detailed account of his
-wrangles with his father or the fragmentary love-affairs of his youth.
+wrangles with his father or the fragmentary [[Love|love]]-affairs of his youth.
 For it seems to me that there is a moral to the art of Stevenson
 (if the shades of Wilde and Whistler will endure the challenge),
 and that it is one with a real bearing on the future of European
-culture and the hope that is to guide our children.  Whether I
+culture and the [[Hope|hope]] that is to guide our children.  Whether I
 shall be able to draw out this moral and make it sufficiently large
 and clear, I know as little as the reader does.
 
@@ -101,8 +101,8 @@ the interest that has been naturally taken in his personality.
 It is certainly the very contrary of the attacks which have commonly,
 and especially recently, been made on that personality.
 Thus the critics are fond of suggesting that he was nothing if
-not self-conscious; that the whole of his significance came from
-self-consciousness. I believe that the one really great and important
+not [[Self|self]]-conscious; that the whole of his significance came from
+[[Self|self]]-consciousness. I believe that the one really great and important
 work which he did for the world was done quite unconsciously.
 Many have blamed him for posing; some have blamed him for preaching.
 The matter which mainly interests me is not merely his pose,
@@ -110,14 +110,14 @@ if it was a pose, but the large landscape or background against
 which he was posing; which he himself only partly realised,
 but which goes to make up a rather important historical picture.
 And though it is true that he sometimes preached, and preached
-very well, I am by no means certain that the thing which he preached
+very [[Well|well]], I am by no means certain that the thing which he preached
 was the same as the thing which he taught.  Or, to put it another way,
 the thing which he could teach was not quite so large as the thing
 which we can learn.  Or again, many of them declare that he was
-only a nine days' wonder, a passing figure that happened to catch
+only a nine days' [[Wonder|wonder]], a passing figure that happened to catch
 the eye and even affect the fashion; and that with that fashion
 he will be forgotten.  I believe that the lesson of his life
-will only be seen after time has revealed the full meaning of all
+will only be seen after [[Time|time]] has revealed the full meaning of all
 our present tendencies; I believe it will be seen from afar off
 like a vast plan or maze traced out on a hillside; perhaps traced
 by one who did not even see the plan while he was making the tracks.
@@ -127,15 +127,15 @@ not believe, or at any rate did not believe that he believed.
 In other words, I think his significance will stand out more strongly
 in relation to larger problems which are beginning to press once
 more upon the mind of man; but of which many men are still largely
-unaware in our time, and were almost entirely unaware in his.
+unaware in our [[Time|time]], and were almost entirely unaware in his.
 But any contribution to the solution of those problems will be remembered;
 and he made a very great contribution, probably greater than he knew.
 Lastly, these same critics do not hesitate, in many cases, to accuse
 him flatly of being insincere.  I should say that nobody, so openly
 fond of play-acting as he was, could possibly be insincere.  But it is
-more to my purpose now to say that his relation to the huge half-truth
+more to my purpose now to say that his relation to the huge half-[[Truth|truth]]
 that he carried was in its very simplicity a mark of truthfulness.
 For he had the splendid and ringing sincerity to testify, in a voice
-like a trumpet, to a truth that he did not understand.
+like a trumpet, to a [[Truth|truth]] that he did not understand.
 
 * * * *

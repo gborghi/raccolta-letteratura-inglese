@@ -1,5 +1,5 @@
 ---
-title: "2 Henry IV — Act I, Scene 1 — exchange (LORD CHIEF JUSTICE) [12]"
+title: "2 [[Henry IV]] — Act I, Scene 1 — exchange ([[Lord Chief Justice|LORD CHIEF JUSTICE]]) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/2-HENRY-IV-(Shakespeare)"
@@ -15,9 +15,9 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| LORD CHIEF JUSTICE | Well, be honest, be honest, and God bless your expedition. |
+| [[Lord Chief Justice|LORD CHIEF JUSTICE]] | [[Well]], be honest, be honest, and God bless your expedition. |
 | SIR JOHN | Will your lordship lend me a thousand pound to furnish me forth? |
-| LORD CHIEF JUSTICE | Not a penny, not a penny. You are too impatient to bear crosses. Fare you well. Commend me to my cousin Westmorland. Exeunt Lord Chief Justice and his Servant |
+| [[Lord Chief Justice|LORD CHIEF JUSTICE]] | Not a penny, not a penny. You are too impatient to bear crosses. Fare you [[Well|well]]. Commend me to my cousin Westmorland. Exeunt [[Lord Chief Justice]] and his Servant |
 | SIR JOHN | If I do, fillip me with a three-man beetle. A man can no more separate age and covetousness than a can part young limbs and lechery; but the gout galls the one and the pox pinches the other, and so both the degrees prevent my curses. Boy! |
 | PAGE | Sir. |
 | SIR JOHN | What money is in my purse? |

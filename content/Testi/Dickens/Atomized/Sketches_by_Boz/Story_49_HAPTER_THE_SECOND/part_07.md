@@ -22,7 +22,7 @@ tags:
 quiet, sir!’
 
 ‘My wife!’ exclaimed the valorous Tibbs, who was clearly under the
-influence of gin-and-water, and a misplaced attachment; ‘I ate her! Oh,
+influence of gin-and-[[Water|water]], and a misplaced attachment; ‘I ate her! Oh,
 Hagnes! when I was in the volunteer corps, in eighteen hundred and—’
 
 ‘I declare I’ll scream. Be quiet, sir, will you?’ (Another bounce and a
@@ -39,7 +39,7 @@ a tapping was heard at Mrs. Tibbs’s bedroom door, which would have
 beaten any dozen woodpeckers hollow.
 
 ‘Mrs. Tibbs! Mrs. Tibbs!’ called out Mrs. Bloss. ‘Mrs. Tibbs, pray get
-up.’ (Here the imitation of a woodpecker was resumed with tenfold
+up.’ (Here the [[Imitation|imitation]] of a woodpecker was resumed with tenfold
 violence.)
 
 ‘Oh, dear—dear!’ exclaimed the wretched partner of the depraved Tibbs.
@@ -52,11 +52,11 @@ think?’
 drawing-room, like the dragon at Astley’s.
 
 ‘Oh, Mr. Gobler!’ cried Mrs. Bloss, with a proper approximation to
-hysterics; ‘I think the house is on fire, or else there’s thieves in
+hysterics; ‘I think the [[house]] is on [[Fire|fire]], or else there’s thieves in
 it. I have heard the most dreadful noises!’
 
 ‘The devil you have!’ shouted Gobler again, bouncing back into his den,
-in happy imitation of the aforesaid dragon, and returning immediately
+in happy [[Imitation|imitation]] of the aforesaid dragon, and returning immediately
 with a lighted candle. ‘Why, what’s this? Wisbottle! Tomkins! O’Bleary!
 Agnes! What the deuce! all up and dressed?’
 
@@ -70,7 +70,7 @@ front drawing-room.—‘What! Mrs. Tibbs and Mr. Evenson!!’
 were discovered: Mrs. Tibbs seated in an arm-chair by the fireplace,
 and Mr. Evenson standing by her side.
 
-We must leave the scene that ensued to the reader’s imagination. We
+We must leave the scene that ensued to the reader’s [[Imagination|imagination]]. We
 could tell, how Mrs. Tibbs forthwith fainted away, and how it required
 the united strength of Mr. Wisbottle and Mr. Alfred Tomkins to hold her
 in her chair; how Mr. Evenson explained, and how his explanation was
@@ -80,17 +80,17 @@ mistress’s affections in his behalf; and how Mr. Gobler threw a damp
 counterpane on the hopes of Mr. O’Bleary by avowing that he (Gobler)
 had already proposed to, and been accepted by, Mrs. Bloss; how Agnes
 was discharged from that lady’s service; how Mr. O’Bleary discharged
-himself from Mrs. Tibbs’s house, without going through the form of
+himself from Mrs. Tibbs’s [[house]], without going through the form of
 previously discharging his bill; and how that disappointed young
 gentleman rails against England and the English, and vows there is no
 virtue or fine feeling extant, ‘except in Ireland.’ We repeat that we
-_could_ tell all this, but we love to exercise our self-denial, and we
+_could_ tell all this, but we [[Love|love]] to exercise our [[Self|self]]-denial, and we
 therefore prefer leaving it to be imagined.
 
 The lady whom we have hitherto described as Mrs. Bloss, is no more.
 Mrs. Gobler exists: Mrs. Bloss has left us for ever. In a secluded
 retreat in Newington Butts, far, far removed from the noisy strife of
-that great boarding-house, the world, the enviable Gobler and his
+that great boarding-[[house]], the world, the enviable Gobler and his
 pleasing wife revel in retirement: happy in their complaints, their
 table, and their medicine, wafted through life by the grateful prayers
 of all the purveyors of animal food within three miles round.

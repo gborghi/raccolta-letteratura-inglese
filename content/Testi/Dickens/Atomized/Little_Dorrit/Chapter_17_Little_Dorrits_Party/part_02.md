@@ -23,24 +23,24 @@ this person, and that you might do all this, and that it was all done.
 And now tell me, Who am quite another person--who am nothing more than
 the friend who begged you to trust him--why you are out at midnight, and
 what it is that brings you so far through the streets at this late hour,
-my slight, delicate,’ child was on his lips again, ‘Little Dorrit!’
+my slight, delicate,’ [[Child|child]] was on his lips again, ‘Little Dorrit!’
 
-‘Maggy and I have been to-night,’ she answered, subduing herself with
+‘Maggy and I have been to-[[Night|night]],’ she answered, subduing herself with
 the quiet effort that had long been natural to her, ‘to the theatre
 where my sister is engaged.’
 
 ‘And oh ain’t it a Ev’nly place,’ suddenly interrupted Maggy, who seemed
-to have the power of going to sleep and waking up whenever she chose.
+to have the power of going to [[Sleep|sleep]] and waking up whenever she chose.
 ‘Almost as good as a hospital. Only there ain’t no Chicking in it.’
 
 Here she shook herself, and fell asleep again.
 
 ‘We went there,’ said Little Dorrit, glancing at her charge, ‘because
 I like sometimes to know, of my own knowledge, that my sister is doing
-well; and like to see her there, with my own eyes, when neither she nor
+[[Well|well]]; and like to see her there, with my own eyes, when neither she nor
 Uncle is aware. It is very seldom indeed that I can do that, because
 when I am not out at work, I am with my father, and even when I am out
-at work, I hurry home to him. But I pretend to-night that I am at a
+at work, I hurry [[Home|home]] to him. But I pretend to-[[Night|night]] that I am at a
 party.’
 
 As she made the confession, timidly hesitating, she raised her eyes to
@@ -48,7 +48,7 @@ the face, and read its expression so plainly that she answered it.
 
 ‘Oh no, certainly! I never was at a party in my life.’
 
-She paused a little under his attentive look, and then said, ‘I hope
+She paused a little under his attentive look, and then said, ‘I [[Hope|hope]]
 there is no harm in it. I could never have been of any use, if I had
 not pretended a little.’
 
@@ -64,25 +64,25 @@ make her father easy. Her father did not believe it to be a grand
 party--indeed he might suppose that. And she glanced for an instant at
 the shawl she wore.
 
-‘It is the first night,’ said Little Dorrit, ‘that I have ever been away
-from home. And London looks so large, so barren, and so wild.’ In Little
+‘It is the first [[Night|night]],’ said Little Dorrit, ‘that I have ever been away
+from [[Home|home]]. And [[London]] looks so large, so barren, and so wild.’ In Little
 Dorrit’s eyes, its vastness under the black sky was awful; a tremor
 passed over her as she said the words.
 
 ‘But this is not,’ she added, with the quiet effort again, ‘what I have
 come to trouble you with, sir. My sister’s having found a friend, a lady
 she has told me of and made me rather anxious about, was the first cause
-of my coming away from home. And being away, and coming (on purpose)
-round by where you lived and seeing a light in the window--’
+of my coming away from [[Home|home]]. And being away, and coming (on purpose)
+round by where you lived and seeing a light in the [[Window|window]]--’
 
-Not for the first time. No, not for the first time. In Little Dorrit’s
-eyes, the outside of that window had been a distant star on other nights
+Not for the first [[Time|time]]. No, not for the first [[Time|time]]. In Little Dorrit’s
+eyes, the outside of that [[Window|window]] had been a distant star on other nights
 than this. She had toiled out of her way, tired and troubled, to look up
-at it, and wonder about the grave, brown gentleman from so far off, who
+at it, and [[Wonder|wonder]] about the [[Grave|grave]], brown gentleman from so far off, who
 had spoken to her as a friend and protector.
 
 ‘There were three things,’ said Little Dorrit, ‘that I thought I would
-like to say, if you were alone and I might come up-stairs. First, what I
+like to say, if you were [[Alone|alone]] and I might come up-stairs. First, what I
 have tried to say, but never can--never shall--’
 
 ‘Hush, hush! That is done with, and disposed of. Let us pass to the
@@ -91,7 +91,7 @@ shine upon her, and putting wine and cake and fruit towards her on the
 table.
 
 ‘I think,’ said Little Dorrit--‘this is the second thing, sir--I think
-Mrs Clennam must have found out my secret, and must know where I come
+[[Mrs Clennam]] must have found out my secret, and must know where I come
 from and where I go to. Where I live, I mean.’
 
 ‘Indeed!’ returned Clennam quickly. He asked her, after short
@@ -100,10 +100,10 @@ consideration, why she supposed so.
 ‘I think,’ replied Little Dorrit, ‘that Mr Flintwinch must have watched
 me.’
 
-And why, Clennam asked, as he turned his eyes upon the fire, bent his
+And why, Clennam asked, as he turned his eyes upon the [[Fire|fire]], bent his
 brows, and considered again; why did she suppose that?
 
-‘I have met him twice. Both times near home. Both times at night, when
+‘I have met him twice. Both times near [[Home|home]]. Both times at [[Night|night]], when
 I was going back. Both times I thought (though that may easily be my
 mistake), that he hardly looked as if he had met me by accident.’
 
@@ -111,7 +111,7 @@ mistake), that he hardly looked as if he had met me by accident.’
 
 ‘No; he only nodded and put his head on one side.’
 
-‘The devil take his head!’ mused Clennam, still looking at the fire;
+‘The devil take his head!’ mused Clennam, still looking at the [[Fire|fire]];
 ‘it’s always on one side.’
 
 He roused himself to persuade her to put some wine to her lips, and to
@@ -121,7 +121,7 @@ shy--and then said, musing again:
 ‘Is my mother at all changed to you?’
 
 ‘Oh, not at all. She is just the same. I wondered whether I had better
-tell her my history. I wondered whether I might--I mean, whether you
+tell her my [[history]]. I wondered whether I might--I mean, whether you
 would like me to tell her. I wondered,’ said Little Dorrit, looking at
 him in a suppliant way, and gradually withdrawing her eyes as he looked
 at her, ‘whether you would advise me what I ought to do.’

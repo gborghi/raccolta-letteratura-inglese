@@ -21,10 +21,10 @@ atmosphere or system, an immediate question springs to the lips.
 But what about the bad things? ... A religion should not only be
 instinctively absorbent of whatever is consonant with its ideal;
 it should be instinctively resistant to anything that is against
-that ideal.  Men look to a faith to purge them of all native
-poisons as well as to develop all native functions and pleasures.
-A Church should have drainage as well as ventilation.
-It should drive bad smells out as well as let good smells in;
+that ideal.  Men look to a [[Faith|faith]] to purge them of all native
+poisons as [[Well|well]] as to develop all native functions and pleasures.
+A Church should have drainage as [[Well|well]] as ventilation.
+It should drive bad smells out as [[Well|well]] as let good smells in;
 it should not only cast out devils, but keep them out.
 
                                               Daily News, March 19th, 1910

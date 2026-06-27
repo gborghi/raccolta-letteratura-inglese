@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 2)"
+title: "[[MrPond]] — Pond the Pantaloon (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -54,7 +54,7 @@ he's really had some very extraordinary experiences.  He doesn't
 
 talk about them; he doesn't want to talk about them; but he does
 
-want to talk about reason and philosophy and theoretical things in
+want to talk about reason and [[philosophy]] and theoretical things in
 
 books; you know he loves reading all the rational eighteenth-
 
@@ -62,7 +62,7 @@ century literature.  But when, in the course of talking in the
 
 abstract, he comes on some concrete thing that he has actually DONE--
 
-well, I can only say he crumples it up.  He tries to crush it into
+[[Well|well]], I can only say he crumples it up.  He tries to crush it into
 
 a small space and it simply sounds contradictory.  Almost every one
 
@@ -78,7 +78,7 @@ radiant reflection.  "Yes, you're right.  You can't expect me to be
 
 taken in, mind you, by most of your swagger of stoicism in the
 
-English public-school man.  Half the time they are simply showing
+English public-school man.  Half the [[Time|time]] they are simply showing
 
 off by not showing off.  But in Pond it's genuine.  He really does
 
@@ -90,7 +90,7 @@ this particular manner, when he really does want to keep the secret
 
 of his services.  In other words, you mean there is a story behind
 
-every paradox of Pond.  Certainly that is true--of all those cases
+every [[Paradox|paradox]] of Pond.  Certainly that is true--of all those cases
 
 when I have been told the story."
 
@@ -128,23 +128,23 @@ reminiscently, "before he turned the sixth shot on himself."
 
 
 
-"Well, I'm blowed," said the Captain elegantly.  "I always thought
+"[[Well]], I'm blowed," said the Captain elegantly.  "I always thought
 
 Pond the most charming of tea-table comedies; I never knew he
 
-figured in a melodrama.  I should as soon have thought of his
+figured in a [[Melodrama|melodrama]].  I should as soon have thought of his
 
 figuring in a fairy-pantomime.  But he seems somehow associated
 
 with theatrical things at the moment.  He asked me himself if he
 
-was like Polonius; and I suppose some malicious people would say he
+was like [[Polonius]]; and I suppose some malicious people would say he
 
 was more like Pantaloon.  I like the notion of you and he magically
 
-transplanted to a Christmas pantomime:  'Harlequin Hubert and the
+transplanted to a Christmas pantomime:  'Harlequin [[Hubert]] and the
 
-Fairies' Pond,' all ending with a real Harlequinade, with red fire
+Fairies' Pond,' all ending with a real Harlequinade, with red [[Fire|fire]]
 
 and the Pantaloon falling over the Policeman.  Pardon my talking
 
@@ -154,7 +154,7 @@ impossible things."
 
 
 
-"It's curious you should call it impossible," said Sir Hubert
+"It's curious you should call it impossible," said Sir [[Hubert]]
 
 Wotton, knitting his brows, "because that's almost exactly what
 
@@ -162,7 +162,7 @@ really happened to us."
 
 
 
-Sir Hubert Wotton showed a certain reticence and deliberate
+Sir [[Hubert]] Wotton showed a certain reticence and deliberate
 
 vagueness about the official details of the story; even in telling
 
@@ -172,9 +172,9 @@ especially, there are enormous events which never get into the
 
 newspapers, and are apparently intended never to get into the
 
-history-books.  It may be enough to say here that there was at one
+[[history]]-books.  It may be enough to say here that there was at one
 
-time under the surface, but very near to the surface, a conspiracy
+[[Time|time]] under the surface, but very near to the surface, a conspiracy
 
 aiming at a coup d'état, which was backed by a Continental Power of
 
@@ -186,15 +186,15 @@ certain number of minor officials had been corrupted or converted
 
 by the conspirators.  Hence, when it was a question of sending
 
-certain very private official documents (about the nature of which
+certain very private official documents (about the [[Nature|nature]] of which
 
 Wotton remained somewhat hazy to the end) from one of the great
 
-northern ports to a particular Government department in London, the
+northern ports to a particular [[government|Government]] department in [[London]], the
 
 first Council was a very small and select one, presided over by Sir
 
-Hubert and held in the smaller office of Mr. Pond.  Indeed, Mr.
+[[Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
 
 Pond was the official in charge of the job.  The only other person
 
@@ -204,7 +204,7 @@ Yard; Wotton had brought his clerk with him to arrange and explain
 
 certain matters; but had later made an excuse for sending the man
 
-out on an errand.  Dyer, the detective from the Yard, a heavy-
+out on an errand.  Dyer, the [[Detective|detective]] from the Yard, a heavy-
 
 shouldered, hard-headed person with a toothbrush moustache,
 
@@ -214,7 +214,7 @@ and arrangements he would consider necessary for protecting the
 
 transport of the papers to their destination.  He wanted an
 
-armoured car with a machine-gun, a certain number of men carrying
+armoured car with a [[Machine|machine]]-gun, a certain number of men carrying
 
 concealed arms, a police search of everybody involved in first
 

@@ -19,7 +19,7 @@ Chapter 12
 MEANING MISCHIEF
 
 
-Up came the sun, streaming all over London, and in its glorious
+Up came the sun, streaming all over [[London]], and in its glorious
 impartiality even condescending to make prismatic sparkles in the
 whiskers of Mr Alfred Lammle as he sat at breakfast. In need of some
 brightening from without, was Mr Alfred Lammle, for he had the air of
@@ -42,36 +42,36 @@ possibly have been the case. It doesn’t matter.’
 Was it the speciality of Mr and Mrs Lammle, or does it ever obtain
 with other loving couples? In these matrimonial dialogues they never
 addressed each other, but always some invisible presence that appeared
-to take a station about midway between them. Perhaps the skeleton in the
+to take a station about midway between them. Perhaps the [[skeleton]] in the
 cupboard comes out to be talked to, on such domestic occasions?
 
-‘I have never seen any money in the house,’ said Mrs Lammle to the
-skeleton, ‘except my own annuity. That I swear.’
+‘I have never seen any money in the [[house]],’ said Mrs Lammle to the
+[[skeleton]], ‘except my own annuity. That I swear.’
 
 ‘You needn’t take the trouble of swearing,’ said Mr Lammle to the
-skeleton; ‘once more, it doesn’t matter. You never turned your annuity
+[[skeleton]]; ‘once more, it doesn’t matter. You never turned your annuity
 to so good an account.’
 
 ‘Good an account! In what way?’ asked Mrs Lammle.
 
-‘In the way of getting credit, and living well,’ said Mr Lammle. Perhaps
-the skeleton laughed scornfully on being intrusted with this question
+‘In the way of getting credit, and living [[Well|well]],’ said Mr Lammle. Perhaps
+the [[skeleton]] laughed scornfully on being intrusted with this question
 and this answer; certainly Mrs Lammle did, and Mr Lammle did.
 
-‘And what is to happen next?’ asked Mrs Lammle of the skeleton.
+‘And what is to happen next?’ asked Mrs Lammle of the [[skeleton]].
 
 ‘Smash is to happen next,’ said Mr Lammle to the same authority.
 
-After this, Mrs Lammle looked disdainfully at the skeleton—but without
+After this, Mrs Lammle looked disdainfully at the [[skeleton]]—but without
 carrying the look on to Mr Lammle—and drooped her eyes. After that, Mr
 Lammle did exactly the same thing, and drooped HIS eyes. A servant then
-entering with toast, the skeleton retired into the closet, and shut
+entering with toast, the [[skeleton]] retired into the closet, and shut
 itself up.
 
 ‘Sophronia,’ said Mr Lammle, when the servant had withdrawn. And then,
 very much louder: ‘Sophronia!’
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Attend to me, if you please.’ He eyed her sternly until she did attend,
 and then went on. ‘I want to take counsel with you. Come, come; no more
@@ -116,7 +116,7 @@ Fledgeby takes the credit of having got him to hold his hand.’
 believed you. But it looks like it.’
 
 Having given her this back-handed reminder of her mutinous observations
-to the skeleton, Mr Lammle rose from table—perhaps, the better to
+to the [[skeleton]], Mr Lammle [[Rose|rose]] from table—perhaps, the better to
 conceal a smile, and a white dint or two about his nose—and took a turn
 on the carpet and came to the hearthrug.
 
@@ -124,7 +124,7 @@ on the carpet and came to the hearthrug.
 that’s spilled milk.’
 
 As Lammle, standing gathering up the skirts of his dressing-gown with
-his back to the fire, said this, looking down at his wife, she turned
+his back to the [[Fire|fire]], said this, looking down at his wife, she turned
 pale and looked down at the ground. With a sense of disloyalty upon
 her, and perhaps with a sense of personal danger—for she was afraid of
 him—even afraid of his hand and afraid of his foot, though he had never
@@ -137,7 +137,7 @@ Sophronia,’ her husband struck in.
 
 ‘—Then, we could weather this?’
 
-‘No doubt. To offer another original and undeniable remark, Sophronia,
+‘No [[Doubt|doubt]]. To offer another original and undeniable remark, Sophronia,
 two and two make four.’
 
 But, seeing that she was turning something in her mind, he gathered up
@@ -163,50 +163,50 @@ She cast about in her thoughts again, and he kept his eye upon her as
 before.
 
 ‘Of course I have repeatedly thought of the Boffins, Sophronia,’ he
-resumed, after a fruitless silence; ‘but I have seen my way to nothing.
-They are well guarded. That infernal Secretary stands between them
+resumed, after a fruitless [[Silence|silence]]; ‘but I have seen my way to nothing.
+They are [[Well|well]] guarded. That infernal Secretary stands between them
 and—people of merit.’
 
 ‘If he could be got rid of?’ said she, brightening a little, after more
 casting about.
 
-‘Take time, Sophronia,’ observed her watchful husband, in a patronizing
+‘Take [[Time|time]], Sophronia,’ observed her watchful husband, in a patronizing
 manner.
 
 ‘If working him out of the way could be presented in the light of a
 service to Mr Boffin?’
 
-‘Take time, Sophronia.’
+‘Take [[Time|time]], Sophronia.’
 
 ‘We have remarked lately, Alfred, that the old man is turning very
 suspicious and distrustful.’
 
 ‘Miserly too, my dear; which is far the most unpromising for us.
-Nevertheless, take time, Sophronia, take time.’
+Nevertheless, take [[Time|time]], Sophronia, take [[Time|time]].’
 
-She took time and then said:
+She took [[Time|time]] and then said:
 
 ‘Suppose we should address ourselves to that tendency in him of which we
-have made ourselves quite sure. Suppose my conscience—’
+have made ourselves quite sure. Suppose my [[Conscience|conscience]]—’
 
-‘And we know what a conscience it is, my soul. Yes?’
+‘And we know what a [[Conscience|conscience]] it is, my [[Soul|soul]]. Yes?’
 
-‘Suppose my conscience should not allow me to keep to myself any
+‘Suppose my [[Conscience|conscience]] should not allow me to keep to myself any
 longer what that upstart girl told me of the Secretary’s having made a
-declaration to her. Suppose my conscience should oblige me to repeat it
+declaration to her. Suppose my [[Conscience|conscience]] should oblige me to repeat it
 to Mr Boffin.’
 
 ‘I rather like that,’ said Lammle.
 
 ‘Suppose I so repeated it to Mr Boffin, as to insinuate that my
-sensitive delicacy and honour—’
+sensitive delicacy and [[Honour|honour]]—’
 
 ‘Very good words, Sophronia.’
 
-‘—As to insinuate that OUR sensitive delicacy and honour,’ she resumed,
+‘—As to insinuate that OUR sensitive delicacy and [[Honour|honour]],’ she resumed,
 with a bitter stress upon the phrase, ‘would not allow us to be silent
 parties to so mercenary and designing a speculation on the Secretary’s
-part, and so gross a breach of faith towards his confiding employer.
+part, and so gross a breach of [[Faith|faith]] towards his confiding employer.
 Suppose I had imparted my virtuous uneasiness to my excellent husband,
 and he had said, in his integrity, “Sophronia, you must immediately
 disclose this to Mr Boffin.”’
@@ -214,7 +214,7 @@ disclose this to Mr Boffin.”’
 ‘Once more, Sophronia,’ observed Lammle, changing the leg on which he
 stood, ‘I rather like that.’
 
-‘You remark that he is well guarded,’ she pursued. ‘I think so too. But
+‘You remark that he is [[Well|well]] guarded,’ she pursued. ‘I think so too. But
 if this should lead to his discharging his Secretary, there would be a
 weak place made.’
 
@@ -234,24 +234,24 @@ it—to see. Probably we shall make the most of it that is to be made.’
 ‘Not impossible, Sophronia. It might be brought about. At any rate it
 might be skilfully led up to.’
 
-She nodded her understanding of the hint, as she looked at the fire. ‘Mr
+She nodded her understanding of the hint, as she looked at the [[Fire|fire]]. ‘Mr
 Lammle,’ she said, musingly: not without a slight ironical touch: ‘Mr
 Lammle would be so delighted to do anything in his power. Mr Lammle,
-himself a man of business as well as a capitalist. Mr Lammle, accustomed
+himself a man of business as [[Well|well]] as a capitalist. Mr Lammle, accustomed
 to be intrusted with the most delicate affairs. Mr Lammle, who has
 managed my own little fortune so admirably, but who, to be sure, began
 to make his reputation with the advantage of being a man of property,
-above temptation, and beyond suspicion.’
+above [[Temptation|temptation]], and beyond suspicion.’
 
 Mr Lammle smiled, and even patted her on the head. In his sinister
 relish of the scheme, as he stood above her, making it the subject of
 his cogitations, he seemed to have twice as much nose on his face as he
 had ever had in his life.
 
-He stood pondering, and she sat looking at the dusty fire without
-moving, for some time. But, the moment he began to speak again she
-looked up with a wince and attended to him, as if that double-dealing of
-hers had been in her mind, and the fear were revived in her of his hand
+He stood pondering, and she sat looking at the dusty [[Fire|fire]] without
+moving, for some [[Time|time]]. But, the moment he began to speak again she
+looked up with a wince and attended to him, as if that [[Double|double]]-dealing of
+hers had been in her mind, and the [[Fear|fear]] were revived in her of his hand
 or his foot.
 
 ‘It appears to me, Sophronia, that you have omitted one branch of the
@@ -261,14 +261,14 @@ herself?’
 Mrs Lammle shook her head. ‘She has an immensely strong hold upon them
 both, Alfred. Not to be compared with that of a paid secretary.’
 
-‘But the dear child,’ said Lammle, with a crooked smile, ‘ought to have
-been open with her benefactor and benefactress. The darling love
+‘But the dear [[Child|child]],’ said Lammle, with a crooked smile, ‘ought to have
+been open with her benefactor and benefactress. The darling [[Love|love]]
 ought to have reposed unbounded confidence in her benefactor and
 benefactress.’
 
 Sophronia shook her head again.
 
-‘Well! Women understand women,’ said her husband, rather disappointed.
+‘[[Well]]! Women understand women,’ said her husband, rather disappointed.
 ‘I don’t press it. It might be the making of our fortune to make a
 clean sweep of them both. With me to manage the property, and my wife to
 manage the people—Whew!’
@@ -277,7 +277,7 @@ Again shaking her head, she returned: ‘They will never quarrel with the
 girl. They will never punish the girl. We must accept the girl, rely
 upon it.’
 
-‘Well!’ cried Lammle, shrugging his shoulders, ‘so be it: only always
+‘[[Well]]!’ cried Lammle, shrugging his shoulders, ‘so be it: only always
 remember that we don’t want her.’
 
 ‘Now, the sole remaining question is,’ said Mrs Lammle, ‘when shall I
@@ -286,17 +286,17 @@ begin?’
 ‘You cannot begin too soon, Sophronia. As I have told you, the condition
 of our affairs is desperate, and may be blown upon at any moment.’
 
-‘I must secure Mr Boffin alone, Alfred. If his wife was present, she
+‘I must secure Mr Boffin [[Alone|alone]], Alfred. If his wife was present, she
 would throw oil upon the waters. I know I should fail to move him to an
 angry outburst, if his wife was there. And as to the girl herself—as I
 am going to betray her confidence, she is equally out of the question.’
 
 ‘It wouldn’t do to write for an appointment?’ said Lammle.
 
-‘No, certainly not. They would wonder among themselves why I wrote, and
+‘No, certainly not. They would [[Wonder|wonder]] among themselves why I wrote, and
 I want to have him wholly unprepared.’
 
-‘Call, and ask to see him alone?’ suggested Lammle.
+‘Call, and ask to see him [[Alone|alone]]?’ suggested Lammle.
 
 ‘I would rather not do that either. Leave it to me. Spare me the little
 carriage for to-day, and for to-morrow (if I don’t succeed to-day), and
@@ -305,7 +305,7 @@ I’ll lie in wait for him.’
 It was barely settled when a manly form was seen to pass the windows
 and heard to knock and ring. ‘Here’s Fledgeby,’ said Lammle. ‘He admires
 you, and has a high opinion of you. I’ll be out. Coax him to use his
-influence with the Jew. His name is Riah, of the House of Pubsey and
+influence with the Jew. His name is Riah, of the [[house|House]] of Pubsey and
 Co.’ Adding these words under his breath, lest he should be audible
 in the erect ears of Mr Fledgeby, through two keyholes and the hall,
 Lammle, making signals of discretion to his servant, went softly up
@@ -344,8 +344,8 @@ great service you have rendered him.’
 ‘And as the wife of Alfred, may I, dear Mr Fledgeby, wholly without his
 authority or knowledge, as I am sure your discernment will perceive,
 entreat you to continue that great service, and once more use your
-well-earned influence with Mr Riah for a little more indulgence? The
-name I have heard Alfred mention, tossing in his dreams, IS Riah; is it
+[[Well|well]]-earned influence with Mr Riah for a little more indulgence? The
+name I have heard Alfred mention, tossing in his [[Dreams|dreams]], IS Riah; is it
 not?’
 
 ‘The name of the Creditor is Riah,’ said Mr Fledgeby, with a rather
@@ -365,7 +365,7 @@ Lammle; he really is.’
 
 ‘Not if YOU speak to him, dear Mr Fledgeby.’
 
-‘Upon my soul and body he is!’ said Fledgeby.
+‘Upon my [[Soul|soul]] and [[Body|body]] he is!’ said Fledgeby.
 
 ‘Try. Try once more, dearest Mr Fledgeby. What is there you cannot do,
 if you will!’
@@ -397,11 +397,11 @@ of his present troubles.’
 ‘O yes!’ Here Mrs Lammle brought her handkerchief into play. ‘And you
 know, dear Mr Fledgeby—you who study the human heart, and study the
 world—what an affliction it would be to lose position and to lose
-credit, when ability to tide over a very short time might save all
+credit, when ability to tide over a very short [[Time|time]] might save all
 appearances.’
 
 ‘Oh!’ said Fledgeby. ‘Then you think, Mrs Lammle, that if Lammle
-got time, he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
+got [[Time|time]], he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
 apologetically explained, ‘which is adopted in the Money Market.’
 
 ‘Indeed yes. Truly, truly, yes!’
@@ -426,11 +426,11 @@ complimentary. May I imprint a—a one—upon it? Good morning!’
 Said Fledgeby, looking back at the door and respectfully kissing his
 hand, ‘You may depend upon it.’
 
-In fact, Mr Fledgeby sped on his errand of mercy through the streets,
+In fact, Mr Fledgeby sped on his errand of [[Mercy|mercy]] through the streets,
 at so brisk a rate that his feet might have been winged by all the good
 spirits that wait on Generosity. They might have taken up their station
 in his breast, too, for he was blithe and merry. There was quite a fresh
-trill in his voice, when, arriving at the counting-house in St Mary Axe,
+trill in his voice, when, arriving at the counting-[[house]] in St Mary Axe,
 and finding it for the moment empty, he trolled forth at the foot of the
 staircase: ‘Now, Judah, what are you up to there?’
 

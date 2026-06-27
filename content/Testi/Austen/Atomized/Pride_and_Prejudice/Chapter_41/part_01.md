@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 41 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 41 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,8 +22,8 @@ CHAPTER XLI.
 The first week of their return was soon gone. The second began. It was
 the last of the regiment’s stay in Meryton, and all the young ladies in
 the neighbourhood were drooping apace. The dejection was almost
-universal. The elder Miss Bennets alone were still able to eat, drink,
-and sleep, and pursue the usual course of their employments. Very
+universal. The elder Miss Bennets [[Alone|alone]] were still able to eat, drink,
+and [[Sleep|sleep]], and pursue the usual course of their employments. Very
 frequently were they reproached for this insensibility by Kitty and
 Lydia, whose own misery was extreme, and who could not comprehend such
 hard-heartedness in any of the family.
@@ -50,7 +50,7 @@ Miller’s regiment went away. I thought I should have broke my heart.”
 added Kitty.
 
 Such were the kind of lamentations resounding perpetually through
-Longbourn House. Elizabeth tried to be diverted by them; but all sense
+Longbourn [[house|House]]. Elizabeth tried to be diverted by them; but all sense
 of pleasure was lost in shame. She felt anew the justice of Mr. Darcy’s
 objections; and never had she before been so much disposed to pardon his
 interference in the views of his friend.
@@ -58,33 +58,33 @@ interference in the views of his friend.
 But the gloom of Lydia’s prospect was shortly cleared away; for she
 received an invitation from Mrs. Forster, the wife of the colonel of the
 regiment, to accompany her to Brighton. This invaluable friend was a
-very young woman, and very lately married. A resemblance in good-humour
+very young woman, and very lately married. A resemblance in good-[[Humour|humour]]
 and good spirits had recommended her and Lydia to each other, and out of
 their _three_ months’ acquaintance they had been intimate _two_.
 
 The rapture of Lydia on this occasion, her adoration of Mrs. Forster,
 the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely
 to be described. Wholly inattentive to her sister’s feelings, Lydia flew
-about the house in restless ecstasy, calling for everyone’s
+about the [[house]] in restless ecstasy, calling for everyone’s
 congratulations, and laughing and talking with more violence than ever;
 whilst the luckless Kitty continued in the parlour repining at her fate
 in terms as unreasonable as her accent was peevish.
 
-“I cannot see why Mrs. Forster should not ask _me_ as well as Lydia,”
+“I cannot see why Mrs. Forster should not ask _me_ as [[Well|well]] as Lydia,”
 said she, “though I am _not_ her particular friend. I have just as much
 right to be asked as she has, and more too, for I am two years older.”
 
 In vain did Elizabeth attempt to make her reasonable, and Jane to make
 her resigned. As for Elizabeth herself, this invitation was so far from
 exciting in her the same feelings as in her mother and Lydia, that she
-considered it as the death-warrant of all possibility of common sense
+considered it as the [[Death|death]]-warrant of all possibility of common sense
 for the latter; and detestable as such a step must make her, were it
 known, she could not help secretly advising her father not to let her
 go. She represented to him all the improprieties of Lydia’s general
-behaviour, the little advantage she could derive from the friendship of
+behaviour, the little advantage she could derive from the [[Friendship|friendship]] of
 such a woman as Mrs. Forster, and the probability of her being yet more
 imprudent with such a companion at Brighton, where the temptations must
-be greater than at home. He heard her attentively, and then said,--
+be greater than at [[Home|home]]. He heard her attentively, and then said,--
 
 “Lydia will never be easy till she has exposed herself in some public
 place or other, and we can never expect her to do it with so little
@@ -97,7 +97,7 @@ imprudent manner, nay, which has already arisen from it, I am sure you
 would judge differently in the affair.”
 
 “Already arisen!” repeated Mr. Bennet. “What! has she frightened away
-some of your lovers? Poor little Lizzy! But do not be cast down. Such
+some of your [[lovers]]? Poor little Lizzy! But do not be cast down. Such
 squeamish youths as cannot bear to be connected with a little absurdity
 are not worth a regret. Come, let me see the list of the pitiful fellows
 who have been kept aloof by Lydia’s folly.”
@@ -125,7 +125,7 @@ disgrace?”
 Mr. Bennet saw that her whole heart was in the subject; and,
 affectionately taking her hand, said, in reply,--
 
-“Do not make yourself uneasy, my love. Wherever you and Jane are known,
+“Do not make yourself uneasy, my [[Love|love]]. Wherever you and Jane are known,
 you must be respected and valued; and you will not appear to less
 advantage for having a couple of--or I may say, three--very silly
 sisters. We shall have no peace at Longbourn if Lydia does not go to
@@ -133,7 +133,7 @@ Brighton. Let her go, then. Colonel Forster is a sensible man, and will
 keep her out of any real mischief; and she is luckily too poor to be an
 object of prey to anybody. At Brighton she will be of less importance
 even as a common flirt than she has been here. The officers will find
-women better worth their notice. Let us hope, therefore, that her being
+women better worth their notice. Let us [[Hope|hope]], therefore, that her being
 there may teach her her own insignificance. At any rate, she cannot grow
 many degrees worse, without authorizing us to lock her up for the rest
 of her life.”

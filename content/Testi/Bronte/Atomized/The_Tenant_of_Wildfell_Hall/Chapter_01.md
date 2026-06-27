@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 1"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 1"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,23 +20,23 @@ tags:
 
 
 
-You must go back with me to the autumn of 1827.
+You must go back with me to the [[Autumn|autumn]] of 1827.
 
 
 
 My father, as you know, was a sort of gentleman farmer in ——shire; and
 
-I, by his express desire, succeeded him in the same quiet occupation,
+I, by his express [[Desire|desire]], succeeded him in the same quiet occupation,
 
-not very willingly, for ambition urged me to higher aims, and
+not very willingly, for [[Ambition|ambition]] urged me to higher aims, and
 
-self-conceit assured me that, in disregarding its voice, I was burying
+[[Self|self]]-conceit assured me that, in disregarding its voice, I was burying
 
 my talent in the earth, and hiding my light under a bushel. My mother
 
 had done her utmost to persuade me that I was capable of great
 
-achievements; but my father, who thought ambition was the surest road
+achievements; but my father, who thought [[Ambition|ambition]] was the surest [[Road|road]]
 
 to ruin, and change but another word for destruction, would listen to
 
@@ -46,7 +46,7 @@ mortals. He assured me it was all rubbish, and exhorted me, with his
 
 dying breath, to continue in the good old way, to follow his steps, and
 
-those of his father before him, and let my highest ambition be to walk
+those of his father before him, and let my highest [[Ambition|ambition]] be to walk
 
 honestly through the world, looking neither to the right hand nor to
 
@@ -56,7 +56,7 @@ least, as flourishing a condition as he left them to me.
 
 
 
-“Well!—an honest and industrious farmer is one of the most useful
+“[[Well]]!—an honest and industrious farmer is one of the most useful
 
 members of society; and if I devote my talents to the cultivation of my
 
@@ -70,11 +70,11 @@ some degree, mankind at large:—hence I shall not have lived in vain.”
 
 With such reflections as these I was endeavouring to console myself, as
 
-I plodded home from the fields, one cold, damp, cloudy evening towards
+I plodded [[Home|home]] from the fields, one cold, damp, cloudy evening towards
 
-the close of October. But the gleam of a bright red fire through the
+the close of October. But the gleam of a bright red [[Fire|fire]] through the
 
-parlour window had more effect in cheering my spirits, and rebuking my
+parlour [[Window|window]] had more effect in cheering my spirits, and rebuking my
 
 thankless repinings, than all the sage reflections and good resolutions
 
@@ -104,7 +104,7 @@ girl of nineteen, with a tidy, dumpy figure, a round face, bright,
 
 blooming cheeks, glossy, clustering curls, and little merry brown eyes.
 
-I need not tell you this was my sister Rose. She is, I know, a comely
+I need not tell you this was my sister [[Rose]]. She is, I know, a comely
 
 matron still, and, doubtless, no less lovely—in _your_ eyes—than on the
 
@@ -116,7 +116,7 @@ but destined hereafter to become a closer friend than even herself,
 
 more intimate than that unmannerly lad of seventeen, by whom I was
 
-collared in the passage, on coming down, and well-nigh jerked off my
+collared in the passage, on coming down, and [[Well|well]]-nigh jerked off my
 
 equilibrium, and who, in correction for his impudence, received a
 
@@ -136,9 +136,9 @@ arm-chair at the fireside, working away at her knitting, according to
 
 her usual custom, when she had nothing else to do. She had swept the
 
-hearth, and made a bright blazing fire for our reception; the servant
+hearth, and made a bright blazing [[Fire|fire]] for our reception; the servant
 
-had just brought in the tea-tray; and Rose was producing the
+had just brought in the tea-tray; and [[Rose]] was producing the
 
 sugar-basin and tea-caddy from the cupboard in the black oak
 
@@ -148,11 +148,11 @@ twilight.
 
 
 
-“Well! here they both are,” cried my mother, looking round upon us
+“[[Well]]! here they both are,” cried my mother, looking round upon us
 
 without retarding the motion of her nimble fingers and glittering
 
-needles. “Now shut the door, and come to the fire, while Rose gets the
+needles. “Now shut the door, and come to the [[Fire|fire]], while [[Rose]] gets the
 
 tea ready; I’m sure you must be starved;—and tell me what you’ve been
 
@@ -180,7 +180,7 @@ efficient draining of the low meadowlands.”
 
 And here he proceeded to give a particular account of his sport, and
 
-the respective traits of prowess evinced by the badger and the dogs; my
+the respective traits of prowess evinced by the badger and the [[dogs]]; my
 
 mother pretending to listen with deep attention, and watching his
 
@@ -190,7 +190,7 @@ highly disproportioned to its object.
 
 
 
-“It’s time you should be doing something else, Fergus,” said I, as soon
+“It’s [[Time|time]] you should be doing something else, Fergus,” said I, as soon
 
 as a momentary pause in his narration allowed me to get in a word.
 
@@ -210,7 +210,7 @@ Our parent soothingly stroked his stiff, short curls. He growled, and
 
 tried to look sulky, and then we all took our seats at the table, in
 
-obedience to the thrice-repeated summons of Rose.
+obedience to the thrice-repeated summons of [[Rose]].
 
 
 
@@ -222,13 +222,13 @@ you didn’t go with me, Gilbert, for Eliza Millward was there!”
 
 
 
-“Well! what of her?”
+“[[Well]]! what of her?”
 
 
 
 “Oh, nothing!—I’m not going to tell you about her;—only that she’s a
 
-nice, amusing little thing, when she is in a merry humour, and I
+nice, amusing little thing, when she is in a merry [[Humour|humour]], and I
 
 shouldn’t mind calling her—”
 
@@ -240,7 +240,7 @@ mother earnestly, holding up her finger.
 
 
 
-“Well,” resumed Rose; “I was going to tell you an important piece of
+“[[Well]],” resumed [[Rose]]; “I was going to tell you an important piece of
 
 news I heard there—I have been bursting with it ever since. You know it
 
@@ -270,11 +270,11 @@ week!—and we never knew!”
 
 “She has had two or three rooms made habitable; and there she lives,
 
-all alone—except an old woman for a servant!”
+all [[Alone|alone]]—except an old woman for a servant!”
 
 
 
-“Oh, dear! that spoils it—I’d hoped she was a witch,” observed Fergus,
+“Oh, dear! that spoils it—I’d hoped she was a [[Witch|witch]],” observed Fergus,
 
 while carving his inch-thick slice of bread and butter. “Nonsense,
 
@@ -302,7 +302,7 @@ They tried all they could to find out who she was and where she came
 
 from, and, all about her, but neither Mrs. Wilson, with her
 
-pertinacious and impertinent home-thrusts, nor Miss Wilson, with her
+pertinacious and impertinent [[Home|home]]-thrusts, nor Miss Wilson, with her
 
 skilful manœuvring, could manage to elicit a single satisfactory
 
@@ -310,23 +310,23 @@ answer, or even a casual remark, or chance expression calculated to
 
 allay their curiosity, or throw the faintest ray of light upon her
 
-history, circumstances, or connections. Moreover, she was barely civil
+[[history]], circumstances, or connections. Moreover, she was barely civil
 
 to them, and evidently better pleased to say “good-by,” than “how do
 
 you do.” But Eliza Millward says her father intends to call upon her
 
-soon, to offer some pastoral advice, which he fears she needs, as,
+soon, to offer some [[Pastoral|pastoral]] advice, which he fears she needs, as,
 
 though she is known to have entered the neighbourhood early last week,
 
-she did not make her appearance at church on Sunday; and she—Eliza,
+she did not make her appearance at church on [[Sunday]]; and she—Eliza,
 
 that is—will beg to accompany him, and is sure _she_ can succeed in
 
 wheedling something out of her—you know, Gilbert, _she_ can do
 
-anything. And _we_ should call some time, mamma; it’s only proper, you
+anything. And _we_ should call some [[Time|time]], mamma; it’s only proper, you
 
 know.”
 
@@ -352,13 +352,13 @@ he signally failed, for nobody laughed. However, he was not much
 
 disconcerted at that; for when he had taken a mouthful of bread and
 
-butter and was about to swallow a gulp of tea, the humour of the thing
+butter and was about to [[Swallow|swallow]] a gulp of tea, the [[Humour|humour]] of the thing
 
 burst upon him with such irresistible force, that he was obliged to
 
 jump up from the table, and rush snorting and choking from the room;
 
-and a minute after, was heard screaming in fearful agony in the garden.
+and a minute after, was heard screaming in fearful agony in the [[Garden|garden]].
 
 
 
@@ -368,7 +368,7 @@ the tea, ham, and toast, while my mother and sister went on talking,
 
 and continued to discuss the apparent or non-apparent circumstances,
 
-and probable or improbable history of the mysterious lady; but I must
+and probable or improbable [[history]] of the mysterious lady; but I must
 
 confess that, after my brother’s misadventure, I once or twice raised
 
@@ -378,11 +378,11 @@ contents, lest I should injure my dignity by a similar explosion.
 
 
 
-The next day my mother and Rose hastened to pay their compliments to
+The next day my mother and [[Rose]] hastened to pay their compliments to
 
 the fair recluse; and came back but little wiser than they went; though
 
-my mother declared she did not regret the journey, for if she had not
+my mother declared she did not regret the [[Journey|journey]], for if she had not
 
 gained much good, she flattered herself she had imparted some, and that
 
@@ -390,7 +390,7 @@ was better: she had given some useful advice, which, she hoped, would
 
 not be thrown away; for Mrs. Graham, though she said little to any
 
-purpose, and appeared somewhat self-opinionated, seemed not incapable
+purpose, and appeared somewhat [[Self|self]]-opinionated, seemed not incapable
 
 of reflection,—though she did not know where she had been all her life,
 
@@ -420,7 +420,7 @@ quiet way, that she was sure she should never make use of them. ‘No
 
 matter, my dear,’ said I; ‘it is what every respectable female ought to
 
-know;—and besides, though you are alone now, you will not be always so;
+know;—and besides, though you are [[Alone|alone]] now, you will not be always so;
 
 you _have_ been married, and probably—I might say almost certainly—will
 
@@ -432,17 +432,17 @@ be again.’ ‘You are mistaken there, ma’am,’ said she, almost haughtily;
 
 “Some romantic young widow, I suppose,” said I, “come there to end her
 
-days in solitude, and mourn in secret for the dear departed—but it
+days in [[Solitude|solitude]], and mourn in secret for the dear departed—but it
 
 won’t last long.”
 
 
 
-“No, I think not,” observed Rose; “for she didn’t seem _very_
+“No, I think not,” observed [[Rose]]; “for she didn’t seem _very_
 
 disconsolate after all; and she’s excessively pretty—handsome
 
-rather—you must see her, Gilbert; you will call her a perfect beauty,
+rather—you must see her, Gilbert; you will call her a perfect [[Beauty|beauty]],
 
 though you could hardly pretend to discover a resemblance between her
 
@@ -450,7 +450,7 @@ and Eliza Millward.”
 
 
 
-“Well, I can imagine many faces more beautiful than Eliza’s, though not
+“[[Well]], I can imagine many faces more beautiful than Eliza’s, though not
 
 more charming. I allow she has small claims to perfection; but then, I
 
@@ -478,7 +478,7 @@ order to escape the contradiction that was trembling on my tongue.
 
 
 
-After that Rose favoured me with further particulars respecting Mrs.
+After that [[Rose]] favoured me with further particulars respecting Mrs.
 
 Graham. Her appearance, manners, and dress, and the very furniture of
 
@@ -490,7 +490,7 @@ very attentive listener, I could not repeat the description if I would.
 
 
 
-The next day was Saturday; and, on Sunday, everybody wondered whether
+The next day was Saturday; and, on [[Sunday]], everybody wondered whether
 
 or not the fair unknown would profit by the vicar’s remonstrance, and
 
@@ -516,11 +516,11 @@ ringlets, a style of coiffure rather unusual in those days, but always
 
 graceful and becoming; her complexion was clear and pale; her eyes I
 
-could not see, for, being bent upon her prayer-book, they were
+could not see, for, being bent upon her [[Prayer|prayer]]-book, they were
 
 concealed by their drooping lids and long black lashes, but the brows
 
-above were expressive and well defined; the forehead was lofty and
+above were expressive and [[Well|well]] defined; the forehead was lofty and
 
 intellectual, the nose, a perfect aquiline and the features, in
 
@@ -534,7 +534,7 @@ betokened, I thought, no very soft or amiable temper; and I said in my
 
 heart—“I would rather admire you from this distance, fair lady, than be
 
-the partner of your home.”
+the partner of your [[Home|home]].”
 
 
 
@@ -564,7 +564,7 @@ mind to the service, I glanced round the church to see if any one had
 
 been observing me;—but no,—all, who were not attending to their
 
-prayer-books, were attending to the strange lady,—my good mother and
+[[Prayer|prayer]]-books, were attending to the strange lady,—my good mother and
 
 sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
 
@@ -572,13 +572,13 @@ Millward was slily glancing from the corners of her eyes towards the
 
 object of general attraction. Then she glanced at me, simpered a
 
-little, and blushed, modestly looked at her prayer-book, and
+little, and blushed, modestly looked at her [[Prayer|prayer]]-book, and
 
 endeavoured to compose her features.
 
 
 
-Here I was transgressing again; and this time I was made sensible of it
+Here I was transgressing again; and this [[Time|time]] I was made sensible of it
 
 by a sudden dig in the ribs, from the elbow of my pert brother. For the
 
@@ -642,15 +642,15 @@ patiently nursed their mother, through her last long, tedious illness,
 
 and been the housekeeper, and family drudge, from thence to the present
 
-time. She was trusted and valued by her father, loved and courted by
+[[Time|time]]. She was trusted and valued by her father, loved and courted by
 
-all dogs, cats, children, and poor people, and slighted and neglected
+all [[dogs]], cats, children, and poor people, and slighted and neglected
 
 by everybody else.
 
 
 
-The Reverend Michael Millward himself was a tall, ponderous elderly
+The Reverend [[Michael]] Millward himself was a tall, ponderous elderly
 
 gentleman, who placed a shovel hat above his large, square,
 
@@ -670,11 +670,11 @@ ignorant, or wilfully blind.
 
 
 
-In childhood, I had always been accustomed to regard him with a feeling
+In [[Childhood|childhood]], I had always been accustomed to regard him with a feeling
 
 of reverential awe—but lately, even now, surmounted, for, though he had
 
-a fatherly kindness for the well-behaved, he was a strict
+a fatherly kindness for the [[Well|well]]-behaved, he was a strict
 
 disciplinarian, and had often sternly reproved our juvenile failings
 
@@ -682,7 +682,7 @@ and peccadilloes; and moreover, in those days, whenever he called upon
 
 our parents, we had to stand up before him, and say our catechism, or
 
-repeat, “How doth the little busy bee,” or some other hymn, or—worse
+repeat, “How doth the little busy bee,” or some other [[Hymn|hymn]], or—worse
 
 than all—be questioned about his last text, and the heads of the
 
@@ -720,7 +720,7 @@ of dietary peculiar to himself,—being a great despiser of tea and such
 
 slops, and a patron of malt liquors, bacon and eggs, ham, hung beef,
 
-and other strong meats, which agreed well enough with his digestive
+and other strong meats, which agreed [[Well|well]] enough with his digestive
 
 organs, and therefore were maintained by him to be good and wholesome
 
@@ -746,7 +746,7 @@ narrow-minded, tattling old gossip, whose character is not worth
 
 describing. She had two sons, Robert, a rough countrified farmer, and
 
-Richard, a retiring, studious young man, who was studying the classics
+[[Richard]], a retiring, studious young man, who was studying the classics
 
 with the vicar’s assistance, preparing for college, with a view to
 
@@ -754,17 +754,17 @@ enter the church.
 
 
 
-Their sister Jane was a young lady of some talents, and more ambition.
+Their sister Jane was a young lady of some talents, and more [[Ambition|ambition]].
 
-She had, at her own desire, received a regular boarding-school
+She had, at her own [[Desire|desire]], received a regular boarding-school
 
-education, superior to what any member of the family had obtained
+[[Education|education]], superior to what any member of the family had obtained
 
-before. She had taken the polish well, acquired considerable elegance
+before. She had taken the polish [[Well|well]], acquired considerable elegance
 
 of manners, quite lost her provincial accent, and could boast of more
 
-accomplishments than the vicar’s daughters. She was considered a beauty
+accomplishments than the vicar’s daughters. She was considered a [[Beauty|beauty]]
 
 besides; but never for a moment could she number me amongst her
 
@@ -774,7 +774,7 @@ her hair was neither chestnut nor auburn, but a most decided bright,
 
 light red; her complexion was remarkably fair and brilliant, her head
 
-small, neck long, chin well turned, but very short, lips thin and red,
+small, neck long, chin [[Well|well]] turned, but very short, lips thin and red,
 
 eyes clear hazel, quick, and penetrating, but entirely destitute of
 
@@ -784,7 +784,7 @@ rank of life, but scornfully repulsed or rejected them all; for none
 
 but a gentleman could please her refined taste, and none but a rich one
 
-could satisfy her soaring ambition. One gentleman there was, from whom
+could satisfy her soaring [[Ambition|ambition]]. One gentleman there was, from whom
 
 she had lately received some rather pointed attentions, and upon whose
 
@@ -812,4 +812,4 @@ I’ll pardon your bad taste, and willingly keep the treasure to myself.
 
 Yours immutably,
 
-GILBERT MARKHAM.
+[[Gilbert Markham|GILBERT MARKHAM]].

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 14 (part 3)"
+title: "[[Villette]] — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 The oratory closed, the dormitory became the scene of ablutions,
 arrayings and bedizenings curiously elaborate. To me it was, and ever
-must be an enigma, how they contrived to spend so much time in doing so
+must be [[An Enigma|an enigma]], how they contrived to spend so much [[Time|time]] in doing so
 little. The operation seemed close, intricate, prolonged: the result
 simple. A clear white muslin dress, a blue sash (the Virgin’s colours),
 a pair of white, or straw-colour kid gloves—such was the gala uniform,
@@ -25,32 +25,32 @@ three mortal hours. But though simple, it must be allowed the array was
 perfect—perfect in fashion, fit, and freshness; every head being also
 dressed with exquisite nicety, and a certain compact taste—suiting the
 full, firm comeliness of Labassecourien contours, though too stiff for
-any more flowing and flexible style of beauty—the general effect was,
+any more flowing and flexible style of [[Beauty|beauty]]—the general effect was,
 on the whole, commendable.
 
-In beholding this diaphanous and snowy mass, I well remember feeling
-myself to be a mere shadowy spot on a field of light; the courage was
+In beholding this diaphanous and snowy mass, I [[Well|well]] remember feeling
+myself to be a mere shadowy spot on a field of light; the [[Courage|courage]] was
 not in me to put on a transparent white dress: something thin I must
 wear—the weather and rooms being too hot to give substantial fabrics
 sufferance, so I had sought through a dozen shops till I lit upon a
 crape-like material of purple-gray—the colour, in short, of dun mist,
-lying on a moor in bloom. My _tailleuse_ had kindly made it as well as
+lying on a moor in bloom. My _tailleuse_ had kindly made it as [[Well|well]] as
 she could: because, as she judiciously observed, it was “si triste—si
-pen voyant,” care in the fashion was the more imperative: it was well
-she took this view of the matter, for I, had no flower, no jewel to
-relieve it: and, what was more, I had no natural rose of complexion.
+pen voyant,” care in the fashion was the more imperative: it was [[Well|well]]
+she took this view of the matter, for I, had no flower, no [[Jewel|jewel]] to
+relieve it: and, what was more, I had no natural [[Rose|rose]] of complexion.
 
 We become oblivious of these deficiencies in the uniform routine of
 daily drudgery, but they _will_ force upon us their unwelcome blank on
-those bright occasions when beauty should shine.
+those bright occasions when [[Beauty|beauty]] should shine.
 
-However, in this same gown of shadow, I felt at home and at ease; an
+However, in this same gown of [[Shadow|shadow]], I felt at [[Home|home]] and at ease; an
 advantage I should not have enjoyed in anything more brilliant or
-striking. Madame Beck, too, kept me in countenance; her dress was
+striking. [[Madame Beck]], too, kept me in countenance; her dress was
 almost as quiet as mine, except that she wore a bracelet, and a large
 brooch bright with gold and fine stones. We chanced to meet on the
 stairs, and she gave me a nod and smile of approbation. Not that she
-thought I was looking well—a point unlikely to engage her interest—but
+thought I was looking [[Well|well]]—a point unlikely to engage her interest—but
 she considered me dressed “convenablement,” “décemment,” and la
 Convenance et la Décence were the two calm deities of Madame’s worship.
 She even paused, laid on my shoulder her gloved hand, holding an
@@ -61,11 +61,11 @@ dress themselves like girls of fifteen’—quant à la St. Pierre, elle a
 l’air d’une vieille coquette qui fait l’ingénue.”
 
 Being dressed at least a couple of hours before anybody else, I felt a
-pleasure in betaking myself—not to the garden, where servants were busy
+pleasure in betaking myself—not to the [[Garden|garden]], where servants were busy
 propping up long tables, placing seats, and spreading cloths in
 readiness for the collation but to the schoolrooms, now empty, quiet,
 cool, and clean; their walls fresh stained, their planked floors fresh
-scoured and scarce dry; flowers fresh gathered adorning the recesses in
+scoured and scarce dry; [[Flowers|flowers]] fresh gathered adorning the recesses in
 pots, and draperies, fresh hung, beautifying the great windows.
 
 Withdrawing to the first classe, a smaller and neater room than the
@@ -73,8 +73,8 @@ others, and taking from the glazed bookcase, of which I kept the key, a
 volume whose title promised some interest, I sat down to read. The
 glass-door of this “classe,” or schoolroom, opened into the large
 berceau; acacia-boughs caressed its panes, as they stretched across to
-meet a rose-bush blooming by the opposite lintel: in this rose-bush
-bees murmured busy and happy. I commenced reading. Just as the stilly
+meet a [[Rose|rose]]-bush blooming by the opposite lintel: in this [[Rose|rose]]-bush
+[[Bees|bees]] murmured busy and happy. I commenced reading. Just as the stilly
 hum, the embowering shade, the warm, lonely calm of my retreat were
 beginning to steal meaning from the page, vision from my eyes, and to
 lure me along the track of reverie, down into some deep dell of
@@ -108,15 +108,15 @@ caught the drift of his previous uncivil mutterings), and in a jargon
 the most execrable that ever was heard, “Meess——, play you must: I am
 planted there.”
 
-“What can I do for you, M. Paul Emanuel?” I inquired: for M. Paul
+“What can I do for you, M. [[Paul Emanuel]]?” I inquired: for M. Paul
 Emanuel it was, and in a state of no little excitement.
 
 “Play you must. I will not have you shrink, or frown, or make the
-prude. I read your skull that night you came; I see your moyens: play
+prude. I read your skull that [[Night|night]] you came; I see your moyens: play
 you can; play you must.”
 
 “But how, M. Paul? What do you mean?”
 
-“There is no time to be lost,” he went on, now speaking in French; “and
+“There is no [[Time|time]] to be lost,” he went on, now speaking in French; “and
 let us thrust to the wall all reluctance, all excuses, all minauderies.
 You must take a part.”

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE (part 9)"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]] (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-light now. You could have turned it on at any time, if you'd found
+light now. You could have turned it on at any [[Time|time]], if you'd found
 
 the switch."
 
@@ -44,7 +44,7 @@ the momentary oblivion of bigger matters.
 
 
 
-"This place was furnished from the great house," he said.
+"This place was furnished from the [[Great House|great house]]," he said.
 
 
 
@@ -60,7 +60,7 @@ both the bigamist and the bandit. His first wife was not dead when
 
 he married the Jewess; she was imprisoned on this island. She bore
 
-him a child here, who now haunts his birthplace under the name of
+him a [[Child|child]] here, who now haunts his birthplace under the name of
 
 Long Adam. A bankruptcy company promoter named Werner discovered the
 
@@ -92,7 +92,7 @@ what could you expect?"'
 
 said his brother, sulkily. "We all thought you were so clever. How
 
-could we know you were going to be--well, really, such a rotten
+could we know you were going to be--[[Well|well]], really, such a rotten
 
 failure?"
 
@@ -100,7 +100,7 @@ failure?"
 
 "This is rather curious," said the candidate, frowning.  "Without
 
-vanity, I was not under the impression that my candidature was a
+[[Vanity|vanity]], I was not under the impression that my candidature was a
 
 failure. All the big meetings were successful and crowds of people
 
@@ -108,7 +108,7 @@ have promised me votes."
 
 
 
-"I should jolly well think they had," said' Henry, grimly. "You've
+"I should jolly [[Well|well]] think they had," said' Henry, grimly. "You've
 
 made a landslide with your confounded acres and a cow, and Verner
 
@@ -130,7 +130,7 @@ to get in. He's to have the Exchequer next session, and there's the
 
 Egyptian loan and Lord knows what else. We only wanted you to split
 
-the Reform vote because accidents might happen after Hughes had made
+the [[Reform]] vote because accidents might happen after Hughes had made
 
 a score at Barkington."
 
@@ -138,13 +138,13 @@ a score at Barkington."
 
 "I see," said Fisher, "and you, I think, are a pillar and ornament
 
-of the Reform party. As you say, I am not clever."
+of the [[Reform]] party. As you say, I am not clever."
 
 
 
 The appeal to party loyalty fell on deaf ears; for the pillar of
 
-Reform was brooding on other things. At last he said, in a more
+[[Reform]] was brooding on other things. At last he said, in a more
 
 troubled voice:
 
@@ -182,7 +182,7 @@ old man. I'll have one if you don't mind."
 
 
 
-By the time that Horne Fisher had ended his telling of this story to
+By the [[Time|time]] that Horne Fisher had ended his telling of this story to
 
 Harold March they had come out into one of the public parks and
 
@@ -196,7 +196,7 @@ words with which the narration ended.
 
 "I have been in that room ever since," said Horne Fisher.  "I am in
 
-it now. I won the election, but I never went to the House. My life
+it now. I won the election, but I never went to the [[house|House]]. My life
 
 has been a life in that little room on that lonely island. Plenty of
 

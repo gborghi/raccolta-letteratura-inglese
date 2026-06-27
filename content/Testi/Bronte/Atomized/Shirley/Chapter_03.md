@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 3"
+title: "[[Shirley]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -44,7 +44,7 @@ his dark physiognomy; and when the rector's visage was illuminated, his
 
 hard features were revealed all agrin and ashine with glee. Yet a
 
-drizzling night, a somewhat perilous expedition, you would think were
+drizzling [[Night|night]], a somewhat perilous expedition, you would think were
 
 not circumstances calculated to enliven those exposed to the wet and
 
@@ -74,7 +74,7 @@ is, whose message he delivers, whose example he should follow; yet, with
 
 all this, if you are a parson-hater, you need not expect me to go along
 
-with you every step of your dismal, downward-tending, unchristian road;
+with you every step of your dismal, downward-tending, unchristian [[Road|road]];
 
 you need not expect me to join in your deep anathemas, at once so narrow
 
@@ -110,7 +110,7 @@ he _was_ cursed, and by many of his own parishioners, as by others he
 
 was adored--which is the frequent fate of men who show partiality in
 
-friendship and bitterness in enmity, who are equally attached to
+[[Friendship|friendship]] and bitterness in enmity, who are equally attached to
 
 principles and adherent to prejudices.
 
@@ -140,7 +140,7 @@ of Bonaparte, by taunting England and Europe with the impotence of their
 
 efforts to withstand him, and by coolly advancing the opinion that it
 
-was as well to yield to him soon as late, since he must in the end crush
+was as [[Well|well]] to yield to him soon as late, since he must in the end crush
 
 every antagonist, and reign supreme.
 
@@ -150,7 +150,7 @@ Helstone could not bear these sentiments. It was only on the
 
 consideration of Moore being a sort of outcast and alien, and having but
 
-half measure of British blood to temper the foreign gall which corroded
+half measure of British [[Blood|blood]] to temper the foreign gall which corroded
 
 his veins, that he brought himself to listen to them without indulging
 
@@ -164,7 +164,7 @@ of Moore's crabbed contumacy.
 
 
 
-As the party turned into the Stilbro' road, they met what little wind
+As the party turned into the Stilbro' [[Road|road]], they met what little [[Wind|wind]]
 
 there was; the rain dashed in their faces. Moore had been fretting his
 
@@ -182,7 +182,7 @@ irritated by the sharp drizzle, he began to goad him.
 
 
 
-"I mean, have you still faith in that Baal of a Lord Wellington?"
+"I mean, have you still [[Faith|faith]] in that Baal of a Lord Wellington?"
 
 
 
@@ -192,7 +192,7 @@ irritated by the sharp drizzle, he began to goad him.
 
 "Do you still believe that this wooden-faced and pebble-hearted idol of
 
-England has power to send fire down from heaven to consume the French
+England has power to send [[Fire|fire]] down from heaven to consume the French
 
 holocaust you want to offer up?"
 
@@ -212,11 +212,11 @@ master-spirit. Your Wellington is the most humdrum of commonplace
 
 martinets, whose slow, mechanical movements are further cramped by an
 
-ignorant home government."
+ignorant [[Home|home]] [[government]]."
 
 
 
-"Wellington is the soul of England. Wellington is the right champion of
+"Wellington is the [[Soul|soul]] of England. Wellington is the right champion of
 
 a good cause, the fit representative of a powerful, a resolute, a
 
@@ -226,7 +226,7 @@ sensible, and an honest nation."
 
 "Your good cause, as far as I understand it, is simply the restoration
 
-of that filthy, feeble Ferdinand to a throne which he disgraced. Your
+of that filthy, feeble [[Ferdinand]] to a throne which he disgraced. Your
 
 fit representative of an honest people is a dull-witted drover, acting
 
@@ -240,7 +240,7 @@ supremacy and invincible genius."
 
 single-minded, righteous, and brave resistance to encroachment is
 
-arrayed boastful, double-tongued, selfish, and treacherous ambition to
+arrayed boastful, [[Double|double]]-tongued, selfish, and treacherous [[Ambition|ambition]] to
 
 possess. God defend the right!"
 
@@ -274,17 +274,17 @@ wanderers were afoot. Few of them, it is likely, had better weapons than
 
 their shepherds' crooks or their masons' building-tools; their meek and
 
-mighty leader himself had only his rod. But bethink you, Robert Moore,
+mighty leader himself had only his rod. But bethink you, [[Robert Moore]],
 
 right was with them; the God of battles was on their side. Crime and the
 
 lost archangel generalled the ranks of Pharaoh, and which triumphed? We
 
-know that well. 'The Lord saved Israel that day out of the hand of the
+know that [[Well|well]]. 'The Lord saved Israel that day out of the hand of the
 
 Egyptians, and Israel saw the Egyptians dead upon the sea-shore'--yea,
 
-'the depths covered them, they sank to the bottom as a stone.' The right
+'the depths covered them, they sank to the [[Bottom|bottom]] as a stone.' The right
 
 hand of the Lord became glorious in power; the right hand of the Lord
 
@@ -296,9 +296,9 @@ dashed in pieces the enemy!"
 
 and Napoleon is Moses. Europe, with her old overgorged empires and
 
-rotten dynasties, is corrupt Egypt; gallant France is the Twelve Tribes,
+rotten dynasties, is corrupt [[Egypt]]; gallant France is the Twelve Tribes,
 
-and her fresh and vigorous Usurper the Shepherd of Horeb."
+and her fresh and vigorous [[Usurper]] the Shepherd of Horeb."
 
 
 
@@ -312,9 +312,9 @@ had just said an additional observation in a lower voice.
 
 
 
-"Oh, in Italy he was as great as any Moses! He was the right thing
+"Oh, in [[Italy]] he was as great as any Moses! He was the right thing
 
-there, fit to head and organize measures for the regeneration of
+there, fit to head and organize measures for the [[Regeneration|regeneration]] of
 
 nations. It puzzles me to this day how the conqueror of Lodi should have
 
@@ -344,13 +344,13 @@ regicides, and restorations in general; and about the divine right of
 
 kings, which you often stickle for in your sermons, and the duty of
 
-non-resistance, and the sanity of war, and----"
+non-resistance, and the [[Sanity|sanity]] of war, and----"
 
 
 
-Mr. Moore's sentence was here cut short by the rapid rolling up of a
+Mr. Moore's sentence was here cut short by the rapid [[rolling]] up of a
 
-gig, and its sudden stoppage in the middle of the road. Both he and the
+gig, and its sudden stoppage in the middle of the [[Road|road]]. Both he and the
 
 rector had been too much occupied with their discourse to notice its
 
@@ -358,7 +358,7 @@ approach till it was close upon them.
 
 
 
-"Nah, maister; did th' wagons hit home?" demanded a voice from the
+"Nah, maister; did th' wagons hit [[Home|home]]?" demanded a voice from the
 
 vehicle.
 
@@ -390,15 +390,15 @@ better man. That is you, I suppose, Mr. Yorke, by your voice?"
 
 
 
-"Ay, lad, it's me. I was coming home from Stilbro' market, and just as I
+"Ay, lad, it's me. I was coming [[Home|home]] from Stilbro' market, and just as I
 
-got to the middle of the moor, and was whipping on as swift as the wind
+got to the middle of the moor, and was whipping on as swift as the [[Wind|wind]]
 
-(for these, they say, are not safe times, thanks to a bad government!),
+(for these, they say, are not safe times, thanks to a bad [[government]]!),
 
 I heard a groan. I pulled up. Some would have whipt on faster; but I've
 
-naught to fear that I know of. I don't believe there's a lad in these
+naught to [[Fear|fear]] that I know of. I don't believe there's a lad in these
 
 parts would harm me--at least, I'd give them as good as I got if they
 
@@ -424,7 +424,7 @@ their feet will bring them."
 
 
 
-"Well, I am greatly obliged to you, Mr. Yorke."
+"[[Well]], I am greatly obliged to you, Mr. Yorke."
 
 
 
@@ -470,7 +470,7 @@ myself," returned the rector.
 
 t' bits o' frames, and teed Joe Scott's legs wi' band, suld be hung
 
-without benefit o' clergy. It's a hanging matter, or suld be. No doubt
+without benefit o' clergy. It's a hanging matter, or suld be. No [[Doubt|doubt]]
 
 o' that."
 
@@ -478,13 +478,13 @@ o' that."
 
 "If I judged them I'd give them short shrift!" cried Moore. "But I mean
 
-to let them quite alone this bout, to give them rope enough, certain
+to let them quite [[Alone|alone]] this bout, to give them rope enough, certain
 
 that in the end they will hang themselves."
 
 
 
-"Let them alone, will ye, Moore? Do you promise that?"
+"Let them [[Alone|alone]], will ye, Moore? Do you promise that?"
 
 
 
@@ -498,9 +498,9 @@ trouble to catch them; but if one falls in my way----"
 
 something worse than merely stop a wagon before you reckon with them.
 
-Well, we'll say no more on the subject at present. Here we are at my
+[[Well]], we'll say no more on the subject at present. Here we are at my
 
-door, gentlemen, and I hope you and the men will step in. You will none
+door, gentlemen, and I [[Hope|hope]] you and the men will step in. You will none
 
 of you be the worse of a little refreshment."
 
@@ -508,9 +508,9 @@ of you be the worse of a little refreshment."
 
 Moore and Helstone opposed this proposition as unnecessary. It was,
 
-however, pressed on them so courteously, and the night, besides, was so
+however, pressed on them so courteously, and the [[Night|night]], besides, was so
 
-inclement, and the gleam from the muslin-curtained windows of the house
+inclement, and the gleam from the muslin-curtained windows of the [[house]]
 
 before which they had halted looked so inviting, that at length they
 
@@ -544,7 +544,7 @@ ushered in at the front entrance. They found themselves in a matted
 
 hall, lined almost to the ceiling with pictures. Through this they were
 
-conducted to a large parlour, with a magnificent fire in the grate--the
+conducted to a large parlour, with a magnificent [[Fire|fire]] in the grate--the
 
 most cheerful of rooms it appeared as a whole, and when you came to
 
@@ -562,15 +562,15 @@ valuable. Even by candle-light the bright clear skies, the soft
 
 distances, with blue air quivering between the eye and the hills, the
 
-fresh tints, and well-massed lights and shadows, charmed the view. The
+fresh tints, and [[Well|well]]-massed lights and shadows, charmed the view. The
 
-subjects were all pastoral, the scenes were all sunny. There was a
+subjects were all [[Pastoral|pastoral]], the scenes were all sunny. There was a
 
 guitar and some music on a sofa; there were cameos, beautiful
 
 miniatures; a set of Grecian-looking vases on the mantelpiece; there
 
-were books well arranged in two elegant bookcases.
+were books [[Well|well]] arranged in two elegant bookcases.
 
 
 
@@ -606,7 +606,7 @@ and justice-meeting where we encountered one another."
 
 "Does it agree wi' ye now, Mr. Helstone, to be riding out after rioters,
 
-of a wet night, at your age?"
+of a wet [[Night|night]], at your age?"
 
 
 
@@ -620,7 +620,7 @@ for an archbishop."
 
 "Fit for ye, at ony rate. But where's t' curate? He's happen gone to
 
-visit some poor body in a sick gird, or he's happen hunting down vermin
+visit some poor [[Body|body]] in a sick gird, or he's happen hunting down vermin
 
 in another direction."
 
@@ -630,9 +630,9 @@ in another direction."
 
 
 
-"You left him a sup o' wine, I hope, Bob" (turning to Mr. Moore), "to
+"You left him a sup o' wine, I [[Hope|hope]], Bob" (turning to Mr. Moore), "to
 
-keep his courage up?"
+keep his [[Courage|courage]] up?"
 
 
 
@@ -736,6 +736,6 @@ Yorke, ce mot, ami, m'irrite trop; ne m'en parlez plus."
 
 And here Mr. Yorke held his peace; and while he sits leaning back in his
 
-three-cornered carved oak chair, I will snatch my opportunity to sketch
+three-cornered carved oak chair, I will snatch my opportunity to [[Sketch|sketch]]
 
 the portrait of this French-speaking Yorkshire gentleman.

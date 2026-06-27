@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 1)"
+title: "[[The Gold-Bug]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -32,7 +32,7 @@ _—All in the Wrong._
 
       avoid the mortification consequent upon his disasters, he left
 
-      New Orleans, the city of his forefathers, and took up his
+      New Orleans, the [[City|city]] of his forefathers, and took up his
 
       residence at Sullivan’s Island, near Charleston, South Carolina.
 
@@ -54,9 +54,9 @@ _—All in the Wrong._
 
       western extremity, where Fort Moultrie stands, and where are some
 
-      miserable frame buildings, tenanted, during summer, by the
+      miserable frame buildings, tenanted, during [[Summer|summer]], by the
 
-      fugitives from Charleston dust and fever, may be found, indeed,
+      fugitives from Charleston [[Dust|dust]] and fever, may be found, indeed,
 
       the bristly palmetto; but the whole island, with the exception of
 
@@ -80,19 +80,19 @@ _—All in the Wrong._
 
       small hut, which he occupied when I first, by mere accident, made
 
-      his acquaintance. This soon ripened into friendship—for there was
+      his acquaintance. This soon ripened into [[Friendship|friendship]]—for there was
 
       much in the recluse to excite interest and esteem. I found him
 
-      well educated, with unusual powers of mind, but infected with
+      [[Well|well]] educated, with unusual powers of mind, but infected with
 
-      misanthropy, and subject to perverse moods of alternate
+      [[Misanthropy|misanthropy]], and subject to perverse moods of alternate
 
-      enthusiasm and melancholy. He had with him many books, but rarely
+      enthusiasm and [[Melancholy|melancholy]]. He had with him many books, but rarely
 
       employed them. His chief amusements were gunning and fishing, or
 
-      sauntering along the beach and through the myrtles, in quest of
+      sauntering along the beach and through the myrtles, in [[Quest|quest]] of
 
       shells or entomological specimens—his collection of the latter
 
@@ -120,7 +120,7 @@ _—All in the Wrong._
 
       severe, and in the fall of the year it is a rare event indeed
 
-      when a fire is considered necessary. About the middle of October,
+      when a [[Fire|fire]] is considered necessary. About the middle of October,
 
       18—, there occurred, however, a day of remarkable chilliness.
 
@@ -128,7 +128,7 @@ _—All in the Wrong._
 
       the hut of my friend, whom I had not visited for several weeks—my
 
-      residence being, at that time, in Charleston, a distance of nine
+      residence being, at that [[Time|time]], in Charleston, a distance of nine
 
       miles from the island, while the facilities of passage and
 
@@ -138,7 +138,7 @@ _—All in the Wrong._
 
       reply, sought for the key where I knew it was secreted, unlocked
 
-      the door and went in. A fine fire was blazing upon the hearth. It
+      the door and went in. A fine [[Fire|fire]] was blazing upon the hearth. It
 
       was a novelty, and by no means an ungrateful one. I threw off an
 
@@ -166,7 +166,7 @@ _—All in the Wrong._
 
 
 
-      “And why not to-night?” I asked, rubbing my hands over the blaze,
+      “And why not to-[[Night|night]]?” I asked, rubbing my hands over the blaze,
 
       and wishing the whole tribe of _scarabæi_ at the devil.
 
@@ -176,13 +176,13 @@ _—All in the Wrong._
 
       so long since I saw you; and how could I foresee that you would
 
-      pay me a visit this very night of all others? As I was coming
+      pay me a visit this very [[Night|night]] of all others? As I was coming
 
-      home I met Lieutenant G——, from the fort, and, very foolishly, I
+      [[Home|home]] I met Lieutenant G——, from the fort, and, very foolishly, I
 
       lent him the bug; so it will be impossible for you to see it
 
-      until the morning. Stay here to-night, and I will send Jup down
+      until the morning. Stay here to-[[Night|night]], and I will send Jup down
 
       for it at sunrise. It is the loveliest thing in creation!”
 
@@ -212,8 +212,8 @@ _—All in the Wrong._
 
 
 
-      “Well, suppose it is, Jup,” replied Legrand, somewhat more
+      “[[Well]], suppose it is, Jup,” replied Legrand, somewhat more
 
       earnestly, it seemed to me, than the case demanded, “is that any
 
-      reason for your letting the birds burn? The color”—here he turned
+      reason for your letting the [[Birds|birds]] burn? The color”—here he turned

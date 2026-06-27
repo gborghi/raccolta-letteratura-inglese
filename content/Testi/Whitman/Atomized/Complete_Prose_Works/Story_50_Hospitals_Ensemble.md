@@ -30,7 +30,7 @@ long, are rang'd in a straight row, evenly fronting the street; others
 are plann'd so as to form an immense V; and others again are ranged
 around a hollow square. They make altogether a huge cluster, with the
 additional tents, extra wards for contagious diseases, guard-houses,
-sutler's stores, chaplain's house; in the middle will probably be an
+sutler's stores, chaplain's [[house]]; in the middle will probably be an
 edifice devoted to the offices of the surgeon in charge and the ward
 surgeons, principal attaches, clerks, &c. The wards are either letter'd
 alphabetically, ward G, ward K, or else numerically, 1, 2, 3, &c. Each
@@ -49,14 +49,14 @@ then another a mile to the right, and another a mile beyond, and still
 another between us and the first. Indeed, we can hardly look in any
 direction but these clusters are dotting the landscape and environs.
 That little town, as you might suppose it, off there on the brow of a
-hill, is indeed a town, but of wounds, sickness, and death. It is Finley
-hospital, northeast of the city, on Kendall green, as it used to be
+[[Hill|hill]], is indeed a town, but of wounds, sickness, and [[Death|death]]. It is Finley
+hospital, northeast of the [[City|city]], on Kendall green, as it used to be
 call'd. That other is Campbell hospital. Both are large establishments.
-I have known these two alone to have from two thousand to twenty-five
+I have known these two [[Alone|alone]] to have from two thousand to twenty-five
 hundred inmates. Then there is Carver hospital, larger still, a wall'd
-and military city regularly laid out, and guarded by squads of sentries.
-Again, off east, Lincoln hospital, a still larger one; and half a mile
-further Emory hospital. Still sweeping the eye around down the river
+and military [[City|city]] regularly laid out, and guarded by squads of sentries.
+Again, off east, [[Lincoln]] hospital, a still larger one; and half a mile
+further Emory hospital. Still sweeping the eye around down the [[River|river]]
 toward Alexandria, we see, to the right, the locality where the
 Convalescent camp stands, with its five, eight, or sometimes ten
 thousand inmates. Even all these are but a portion. The Harewood, Mount

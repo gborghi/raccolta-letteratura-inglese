@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER I—THE BOARDING-HOUSE"
+title: "Sketches by Boz — HAPTER I—THE BOARDING-[[house|HOUSE]]"
 author: "Dickens"
 unitType: story
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-CHAPTER I—THE BOARDING-HOUSE
+CHAPTER I—THE BOARDING-[[house|HOUSE]]

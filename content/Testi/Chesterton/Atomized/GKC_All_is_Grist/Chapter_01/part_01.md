@@ -19,7 +19,7 @@ CHAPTER
 I.                ON THE PRUDERY OF SLANG
 II.               ON LIBERTIES AND LOTTERIES
 III.              ON THE NUDISTS
-IV.               ON BUSINESS EDUCATION
+IV.               ON BUSINESS [[Education|EDUCATION]]
 V.                ON THE INTELLECT OF YESTERDAY
 VI.               ON TRAVEL'S SURPRISES
 VII.              ON FLOCKING
@@ -31,20 +31,20 @@ XII.              ON THE WAY OF THE WORLD
 XIII.             ON THE NEW INSULARITY
 XIV.              ON CHRISTIAN SCIENCE
 XV.               ON REST CURES FOR NATIONS
-XVI.              ON PHILOSOPHY versus FICTION
-XVII.             ON LOGIC AND LUNACY
+XVI.              ON [[philosophy|PHILOSOPHY]] versus FICTION
+XVII.             ON [[logic|LOGIC]] AND LUNACY
 XVIII.            ON THE THRILLS OF BOREDOM
 XIX.              ON GOSSIP ABOUT HEREDITY
-XX.               ON DANTE AND BEATRICE
-XXI.              ON QUACKS IN THE HOME
+XX.               ON [[Dante|DANTE]] AND [[Beatrice|BEATRICE]]
+XXI.              ON QUACKS IN THE [[Home|HOME]]
 XXII.             ON A GENERALLY ACCEPTED MISTAKE
-XXIII.            ON THE LATER PORTIONS OF POEMS
-XXIV.             ON THE ROMANCE OF CHILDHOOD
-XXV.              ON THE RENAISSANCE
+XXIII.            ON THE LATER PORTIONS OF [[Poems|POEMS]]
+XXIV.             ON THE [[Romance|ROMANCE]] OF [[Childhood|CHILDHOOD]]
+XXV.              ON THE [[Renaissance|RENAISSANCE]]
 XXVI.             ON THE LAUREATESHIP
 XXVII.            ON LIVING FOR POSTERITY
-XXVIII.           ON MR. SHAW'S PURITANISM
-XXIX.             ON THE TRUTH OF LEGENDS
+XXVIII.           ON MR. [[Shaw|SHAW]]'S [[Puritanism|PURITANISM]]
+XXIX.             ON THE [[Truth|TRUTH]] OF LEGENDS
 XXX.              ON EXPERIENCE
 XXXI.             ON SIGHTSEEING
 XXXII.            ON CONDIMENTS AND CONDUCT
@@ -63,19 +63,19 @@ WHAT puzzles me is that so many things which boast of being
 wild and free, which are even abused for being wild and free,
 are in reality rather snobbish, not to say slavish.  All that sort
 of unconventionality seems to me a great deal too conventional.
-The most obvious and everyday example is the fuss about divorce;
+The most obvious and everyday example is the fuss about [[divorce]];
 which is unfortunately a very everyday example.  But the point
-of divorce is not that people are professing to be reckless,
+of [[divorce]] is not that people are professing to be reckless,
 but that people arc pretending to be respectable.  The point of it
 is not in the parting of wives and husbands, which has unfortunately
 happened in various forms in nearly all the various lands and ages.
 The point of it is the covering of the disunion by the use of the old
-label of union.  Many satirists in many periods have had occasion to note
+label of [[Union|union]].  Many satirists in many periods have had occasion to note
 the domestic dissolution that seemed to threaten a social dissolution.
 Many have had occasion to strike the lyre and lament in the mournful
 language of Mr. Bentley's Ballade:
 
-    Rupert has bolted with the children's nurse,
+    Rupert has bolted with the children's [[Nurse|nurse]],
     Claude has declared himself an Infidel.
 
 The peculiarity of the recent social tendency is that a visiting-card
@@ -102,9 +102,9 @@ are a great many other examples of this curious contradiction
 with relation to convention.  It appears not only in the manners,
 but in the language, and especially the slang, of society.
 There is a queer sort of prudery about slang, and modernity shows
-it most in what it calls `facing the facts of nature'.
+it most in what it calls `facing the facts of [[Nature|nature]]'.
 
-For instance, there was a time when it was customary to call
+For instance, there was a [[Time|time]] when it was customary to call
 a father a father; which seems to me a very normal example of
 calling a spade a spade.  There were, of course, many variations,
 both formal and familiar, in different times and communities.
@@ -118,17 +118,17 @@ in reference (or without reference) to his Christian name.
 Broadly speaking, the parent of the progressive age appears to
 answer to `Hi!' or to any loud cry; and it seems to be considered
 in itself a proof of progress that the cries are very loud indeed.
-But loud cries do not make any difference to logic; and in this
-case the logic is all the other way.  It is obvious to me that
+But loud cries do not make any difference to [[logic]]; and in this
+case the [[logic]] is all the other way.  It is obvious to me that
 calling the old gentleman `father' is facing the facts of nature.
 It is also obvious that calling him `bean' is not facing the facts
-of nature.  It is, so far as that example is concerned, perhaps,
-merely weaving a graceful fairy-tale to cover the facts of nature.
+of [[Nature|nature]].  It is, so far as that example is concerned, perhaps,
+merely weaving a graceful fairy-tale to cover the facts of [[Nature|nature]].
 It is prettily pretending for a moment that the Heavy Father
 is an elf of the dimensions of Moth and Mustard-Seed,
 capable of concealing himself in the green hood of the bean.
 But that is a digression without being in any way an exception.
-The general truth obviously is that all these phrases that evade
+The general [[Truth|truth]] obviously is that all these phrases that evade
 the family relation do therefore evade the facts of life.
 You may call your father Tom as if he were a total stranger
 from Australia, whom you had come rather to like at the Empire Club.
@@ -138,7 +138,7 @@ are rather more remarkable; and to ignore them is to ignore something
 at once natural and notable.  And it is to ignore it in favour
 of things much more superficial and trivial; the mere society
 slang or fashion of the passing moment.  It is, in fact, to think
-the rules of the Empire Club more important than the laws of Nature.
+the rules of the Empire Club more important than the laws of [[Nature]].
 That does not strike me as being natural; to say nothing of being naked.
 That does not impress me as being realistic, but as being ready
 to go through any sort of antics rather than face a reality.

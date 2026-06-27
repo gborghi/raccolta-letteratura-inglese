@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 19: The Storming of the Castle in the Air (part 2)"
+title: "Little Dorrit — Chapter 19: The Storming of the [[Castle]] in the Air (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -26,10 +26,10 @@ I began--ha hum--to think it might be right to offer an apology
 for--ha--taking the liberty of coming back at all.’
 
 ‘It was so late, my dear William,’ said his brother, ‘that we had given
-you up for to-night.’
+you up for to-[[Night|night]].’
 
 ‘I am stronger than you, dear Frederick,’ returned his brother with an
-elaboration of fraternity in which there was severity; ‘and I hope I can
+elaboration of fraternity in which there was severity; ‘and I [[Hope|hope]] I can
 travel without detriment at--ha--any hour I choose.’
 
 ‘Surely, surely,’ returned the other, with a misgiving that he had given
@@ -42,23 +42,23 @@ it cause too much inconvenience?’
 
 ‘Dear father, you shall have supper in a very few minutes.’
 
-‘Thank you, my love,’ said Mr Dorrit, with a reproachful frost upon him;
+‘Thank you, my [[Love|love]],’ said Mr Dorrit, with a reproachful [[Frost|frost]] upon him;
 ‘I--ha--am afraid I am causing inconvenience. Hum. Mrs General pretty
-well?’
+[[Well|well]]?’
 
 ‘Mrs General complained of a headache, and of being fatigued; and so,
 when we gave you up, she went to bed, dear.’
 
-Perhaps Mr Dorrit thought that Mrs General had done well in being
+Perhaps Mr Dorrit thought that Mrs General had done [[Well|well]] in being
 overcome by the disappointment of his not arriving. At any rate, his
 face relaxed, and he said with obvious satisfaction, ‘Extremely sorry to
-hear that Mrs General is not well.’
+hear that Mrs General is not [[Well|well]].’
 
 During this short dialogue, his daughter had been observant of him, with
 something more than her usual interest. It would seem as though he had
 a changed or worn appearance in her eyes, and he perceived and resented
 it; for he said with renewed peevishness, when he had divested himself
-of his travelling-cloak, and had come to the fire:
+of his travelling-cloak, and had come to the [[Fire|fire]]:
 
 ‘Amy, what are you looking at? What do you see in me that causes you
 to--ha--concentrate your solicitude on me in that--hum--very particular
@@ -69,9 +69,9 @@ see you again; that’s all.’
 
 ‘Don’t say that’s all, because--ha--that’s not all. You--hum--you
 think,’ said Mr Dorrit, with an accusatory emphasis, ‘that I am not
-looking well.’
+looking [[Well|well]].’
 
-‘I thought you looked a little tired, love.’
+‘I thought you looked a little tired, [[Love|love]].’
 
 ‘Then you are mistaken,’ said Mr Dorrit. ‘Ha, I am _not_ tired. Ha, hum. I
 am very much fresher than I was when I went away.’
@@ -90,22 +90,22 @@ bed immediately.’
 personal request that you go to bed. You ought to have been in bed long
 ago. You are very feeble.’
 
-‘Hah!’ said the old man, who had no wish but to please him. ‘Well, well,
-well! I dare say I am.’
+‘Hah!’ said the old man, who had no wish but to please him. ‘[[Well]], [[Well|well]],
+[[Well|well]]! I dare say I am.’
 
 ‘My dear Frederick,’ returned Mr Dorrit, with an astonishing superiority
-to his brother’s failing powers, ‘there can be no doubt of it. It is
+to his brother’s failing powers, ‘there can be no [[Doubt|doubt]] of it. It is
 painful to me to see you so weak. Ha. It distresses me. Hum. I don’t
-find you looking at all well. You are not fit for this sort of thing.
+find you looking at all [[Well|well]]. You are not fit for this sort of thing.
 You should be more careful, you should be very careful.’
 
 ‘Shall I go to bed?’ asked Frederick.
 
-‘Dear Frederick,’ said Mr Dorrit, ‘do, I adjure you! Good night,
-brother. I hope you will be stronger to-morrow. I am not at all pleased
-with your looks. Good night, dear fellow.’ After dismissing his brother
+‘Dear Frederick,’ said Mr Dorrit, ‘do, I adjure you! Good [[Night|night]],
+brother. I [[Hope|hope]] you will be stronger to-morrow. I am not at all pleased
+with your looks. Good [[Night|night]], dear fellow.’ After dismissing his brother
 in this gracious way, he fell into a doze again before the old man was
-well out of the room: and he would have stumbled forward upon the logs,
+[[Well|well]] out of the room: and he would have stumbled forward upon the logs,
 but for his daughter’s restraining hold.
 
 ‘Your uncle wanders very much, Amy,’ he said, when he was thus roused.
@@ -125,24 +125,24 @@ was before, he is--hum--sadly broken!’
 
 His supper, which was brought to him there, and spread upon the little
 table where he had seen her working, diverted his attention. She sat at
-his side as in the days that were gone, for the first time since those
-days ended. They were alone, and she helped him to his meat and poured
-out his drink for him, as she had been used to do in the prison. All
-this happened now, for the first time since their accession to wealth.
+his side as in the days that were gone, for the first [[Time|time]] since those
+days ended. They were [[Alone|alone]], and she helped him to his meat and poured
+out his drink for him, as she had been used to do in the [[Prison|prison]]. All
+this happened now, for the first [[Time|time]] since their accession to wealth.
 She was afraid to look at him much, after the offence he had taken; but
 she noticed two occasions in the course of his meal, when he all of a
 sudden looked at her, and looked about him, as if the association were
 so strong that he needed assurance from his sense of sight that they
-were not in the old prison-room. Both times, he put his hand to his head
+were not in the old [[Prison|prison]]-room. Both times, he put his hand to his head
 as if he missed his old black cap--though it had been ignominiously
 given away in the Marshalsea, and had never got free to that hour, but
 still hovered about the yards on the head of his successor.
 
-He took very little supper, but was a long time over it, and often
+He took very little supper, but was a long [[Time|time]] over it, and often
 reverted to his brother’s declining state. Though he expressed the
 greatest pity for him, he was almost bitter upon him. He said that poor
 Frederick--ha hum--drivelled. There was no other word to express it;
-drivelled. Poor fellow! It was melancholy to reflect what Amy must have
+drivelled. Poor fellow! It was [[Melancholy|melancholy]] to reflect what Amy must have
 undergone from the excessive tediousness of his Society--wandering and
 babbling on, poor dear estimable creature, wandering and babbling on--if
 it had not been for the relief she had had in Mrs General.

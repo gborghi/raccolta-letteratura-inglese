@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath (part 3)"
+title: "[[Loss of Breath]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -80,9 +80,9 @@ tags:
 
       tied up my jaws with a pocket-handkerchief—then bolted the door
 
-      on the outside as he hurried to his dinner, leaving me alone to
+      on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
 
-      silence and to meditation.
+      [[Silence|silence]] and to meditation.
 
 
 
@@ -94,7 +94,7 @@ tags:
 
       some passages of the “Omnipresence of the Deity,” as is my custom
 
-      before resigning myself to sleep, when two cats, of a greedy and
+      before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
 
       vituperative turn, entering at a hole in the wall, leaped up with
 
@@ -114,7 +114,7 @@ tags:
 
       loss of a few ounces of my countenance proved the salvation of my
 
-      body. Aroused by the pain, and burning with indignation, I burst,
+      [[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
 
       at a single effort, the fastenings and the bandage. Stalking
 
@@ -124,13 +124,13 @@ tags:
 
       disappointment, precipitated myself, very dexterously, from the
 
-      window.
+      [[Window|window]].
 
 
 
       The mail-robber W——, to whom I bore a singular resemblance, was
 
-      at this moment passing from the city jail to the scaffold erected
+      at this moment passing from the [[City|city]] jail to the scaffold erected
 
       for his execution in the suburbs. His extreme infirmity and long
 
@@ -138,7 +138,7 @@ tags:
 
       unmanacled; and habited in his gallows costume—one very similar
 
-      to my own,—he lay at full length in the bottom of the hangman’s
+      to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
 
       cart (which happened to be under the windows of the surgeon at
 
@@ -192,17 +192,17 @@ tags:
 
       here, undoubtedly, I could speak to the point, and it is a topic
 
-      upon which nothing has been well said. In fact, to write upon
+      upon which nothing has been [[Well|well]] said. In fact, to write upon
 
       such a theme it is necessary to have been hanged. Every author
 
-      should confine himself to matters of experience. Thus Mark Antony
+      should confine himself to matters of experience. Thus [[Mark Antony]]
 
       composed a treatise upon getting drunk.
 
 
 
-      I may just mention, however, that die I did not. My body was, but
+      I may just mention, however, that die I did not. My [[Body|body]] was, but
 
       I had no breath to be, suspended; and but for the knot under my
 

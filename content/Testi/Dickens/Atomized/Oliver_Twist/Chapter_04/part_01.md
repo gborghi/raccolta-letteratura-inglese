@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 4 (part 1)"
+title: "[[Oliver Twist]] — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,25 +15,25 @@ tags:
 
 
  CHAPTER IV.
-OLIVER, BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
+[[Oliver|OLIVER]], BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC
 LIFE
 
 
 In great families, when an advantageous place cannot be obtained,
 either in possession, reversion, remainder, or expectancy, for the
 young man who is growing up, it is a very general custom to send him to
-sea. The board, in imitation of so wise and salutary an example, took
-counsel together on the expediency of shipping off Oliver Twist, in
+sea. The board, in [[Imitation|imitation]] of so wise and salutary an example, took
+counsel together on the expediency of shipping off [[Oliver Twist]], in
 some small trading vessel bound to a good unhealthy port. This
 suggested itself as the very best thing that could possibly be done
 with him: the probability being, that the skipper would flog him to
-death, in a playful mood, some day after dinner, or would knock his
+[[Death|death]], in a playful mood, some day after dinner, or would knock his
 brains out with an iron bar; both pastimes being, as is pretty
 generally known, very favourite and common recreations among gentleman
 of that class. The more the case presented itself to the board, in this
 point of view, the more manifold the advantages of the step appeared;
 so, they came to the conclusion that the only way of providing for
-Oliver effectually, was to send him to sea without delay.
+[[Oliver]] effectually, was to send him to sea without delay.
 
 Mr. Bumble had been despatched to make various preliminary inquiries,
 with the view of finding out some captain or other who wanted a
@@ -49,7 +49,7 @@ jocosity. His step was elastic, and his face betokened inward
 pleasantry, as he advanced to Mr. Bumble, and shook him cordially by
 the hand.
 
-“I have taken the measure of the two women that died last night, Mr.
+“I have taken the measure of the two women that died last [[Night|night]], Mr.
 Bumble,” said the undertaker.
 
 “You’ll make your fortune, Mr. Sowerberry,” said the beadle, as he
@@ -67,14 +67,14 @@ are very small, Mr. Bumble.”
 approach to a laugh as a great official ought to indulge in.
 
 Mr. Sowerberry was much tickled at this: as of course he ought to be;
-and laughed a long time without cessation. “Well, well, Mr. Bumble,” he
+and laughed a long [[Time|time]] without cessation. “[[Well]], [[Well|well]], Mr. Bumble,” he
 said at length, “there’s no denying that, since the new system of
 feeding has come in, the coffins are something narrower and more
 shallow than they used to be; but we must have some profit, Mr. Bumble.
-Well-seasoned timber is an expensive article, sir; and all the iron
+[[Well]]-seasoned timber is an expensive article, sir; and all the iron
 handles come, by canal, from Birmingham.”
 
-“Well, well,” said Mr. Bumble, “every trade has its drawbacks. A fair
+“[[Well]], [[Well|well]],” said Mr. Bumble, “every trade has its drawbacks. A fair
 profit is, of course, allowable.”
 
 “Of course, of course,” replied the undertaker; “and if I don’t get a
@@ -88,14 +88,14 @@ observations which the beadle had interrupted: “though I must say, Mr.
 Bumble, that I have to contend against one very great disadvantage:
 which is, that all the stout people go off the quickest. The people who
 have been better off, and have paid rates for many years, are the first
-to sink when they come into the house; and let me tell you, Mr. Bumble,
+to sink when they come into the [[house]]; and let me tell you, Mr. Bumble,
 that three or four inches over one’s calculation makes a great hole in
 one’s profits: especially when one has a family to provide for, sir.”
 
 As Mr. Sowerberry said this, with the becoming indignation of an
 ill-used man; and as Mr. Bumble felt that it rather tended to convey a
-reflection on the honour of the parish; the latter gentleman thought it
-advisable to change the subject. Oliver Twist being uppermost in his
+reflection on the [[Honour|honour]] of the parish; the latter gentleman thought it
+advisable to change the subject. [[Oliver Twist]] being uppermost in his
 mind, he made him his theme.
 
 “By the bye,” said Mr. Bumble, “you don’t know anybody who wants a boy,
@@ -114,7 +114,7 @@ is, Mr. Bumble! I never noticed it before.”
 downwards at the large brass buttons which embellished his coat. “The
 die is the same as the porochial seal—the Good Samaritan healing the
 sick and bruised man. The board presented it to me on Newyear’s
-morning, Mr. Sowerberry. I put it on, I remember, for the first time,
+morning, Mr. Sowerberry. I put it on, I remember, for the first [[Time|time]],
 to attend the inquest on that reduced tradesman, who died in a doorway
 at midnight.”
 

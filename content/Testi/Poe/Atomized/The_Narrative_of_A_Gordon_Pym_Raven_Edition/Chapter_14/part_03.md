@@ -26,7 +26,7 @@ tags:
 
 
 
-      Besides the penguin many other birds are here to be found, among
+      Besides the penguin many other [[Birds|birds]] are here to be found, among
 
       which may be mentioned sea-hens, blue peterels, teal, ducks, Port
 
@@ -46,7 +46,7 @@ tags:
 
       palatable food. In flying they sometimes sail very close to the
 
-      surface of the water, with the wings expanded, without appearing
+      surface of the [[Water|water]], with the wings expanded, without appearing
 
       to move them in the least degree, or make any exertion with them
 
@@ -56,11 +56,11 @@ tags:
 
       The albatross is one of the largest and fiercest of the South Sea
 
-      birds. It is of the gull species, and takes its prey on the wing,
+      [[Birds|birds]]. It is of the gull species, and takes its prey on the wing,
 
       never coming on land except for the purpose of breeding. Between
 
-      this bird and the penguin the most singular friendship exists.
+      this bird and the penguin the most singular [[Friendship|friendship]] exists.
 
       Their nests are constructed with great uniformity upon a plan
 
@@ -82,7 +82,7 @@ tags:
 
 
 
-      When the season for incubation arrives, the birds assemble in
+      When the season for incubation arrives, the [[Birds|birds]] assemble in
 
       vast numbers, and for some days appear to be deliberating upon
 
@@ -98,15 +98,15 @@ tags:
 
       which is the least encumbered with stones. This matter being
 
-      arranged, the birds proceed, with one accord, and actuated
+      arranged, the [[Birds|birds]] proceed, with one accord, and actuated
 
       apparently by one mind, to trace out, with mathematical accuracy,
 
       either a square or other parallelogram, as may best suit the
 
-      nature of the ground, and of just sufficient size to accommodate
+      [[Nature|nature]] of the ground, and of just sufficient size to accommodate
 
-      easily all the birds assembled, and no more—in this particular
+      easily all the [[Birds|birds]] assembled, and no more—in this particular
 
       seeming determined upon preventing the access of future
 
@@ -114,7 +114,7 @@ tags:
 
       encampment. One side of the place thus marked out runs parallel
 
-      with the water’s edge, and is left open for ingress or egress.
+      with the [[Water|water]]’s edge, and is left open for ingress or egress.
 
 
 
@@ -152,7 +152,7 @@ tags:
 
       earth, very shallow, being only just of sufficient depth to keep
 
-      her single egg from rolling. The albatross is somewhat less
+      her single egg from [[rolling]]. The albatross is somewhat less
 
       simple in her arrangements, erecting a hillock about a foot high
 
@@ -162,7 +162,7 @@ tags:
 
 
 
-      The birds take especial care never to leave their nests
+      The [[Birds|birds]] take especial care never to leave their nests
 
       unoccupied for an instant during the period of incubation, or,
 
@@ -174,7 +174,7 @@ tags:
 
       of her partner that she ventures abroad. The eggs are never left
 
-      uncovered at all—while one bird leaves the nest the other
+      uncovered at all—while one bird [[Leaves|leaves]] the nest the other
 
       nestling in by its side. This precaution is rendered necessary by
 
@@ -190,7 +190,7 @@ tags:
 
       albatross are the sole population, yet in most of them a variety
 
-      of oceanic birds are to be met with, enjoying all the privileges
+      of oceanic [[Birds|birds]] are to be met with, enjoying all the privileges
 
       of citizenship, and scattering their nests here and there,
 
@@ -206,4 +206,4 @@ tags:
 
       tribes) which are continually hovering over it, either going to
 
-      the ocean or returning home. At the same time a crowd of penguins
+      the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins

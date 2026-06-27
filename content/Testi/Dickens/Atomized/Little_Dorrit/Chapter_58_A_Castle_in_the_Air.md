@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 18: A Castle in the Air"
+title: "Little Dorrit — Chapter 18: A [[Castle]] in the Air"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-CHAPTER 18. A Castle in the Air
+CHAPTER 18. A [[Castle]] in the Air
 
 
 Manifold are the cares of wealth and state. Mr Dorrit’s satisfaction in
 remembering that it had not been necessary for him to announce himself
 to Clennam and Co., or to make an allusion to his having had any
 knowledge of the intrusive person of that name, had been damped
-over-night, while it was still fresh, by a debate that arose within him
+over-[[Night|night]], while it was still fresh, by a [[debate]] that arose within him
 whether or no he should take the Marshalsea in his way back, and look
 at the old gate. He had decided not to do so; and had astonished the
-coachman by being very fierce with him for proposing to go over London
-Bridge and recross the river by Waterloo Bridge--a course which would
+coachman by being very fierce with him for proposing to go over [[London]]
+Bridge and recross the [[River|river]] by Waterloo Bridge--a course which would
 have taken him almost within sight of his old quarters. Still, for all
 that, the question had raised a conflict in his breast; and, for some
 odd reason or no reason, he was vaguely dissatisfied. Even at the Merdle
@@ -36,19 +36,19 @@ think what the Chief Butler’s opinion of him would have been, if that
 illustrious personage could have plumbed with that heavy eye of his the
 stream of his meditations.
 
-The farewell banquet was of a gorgeous nature, and wound up his visit
+The farewell banquet was of a gorgeous [[Nature|nature]], and wound up his visit
 in a most brilliant manner. Fanny combined with the attractions of her
-youth and beauty, a certain weight of self-sustainment as if she had
+youth and [[Beauty|beauty]], a certain weight of [[Self|self]]-sustainment as if she had
 been married twenty years. He felt that he could leave her with a
 quiet mind to tread the paths of distinction, and wished--but without
 abatement of patronage, and without prejudice to the retiring virtues of
-his favourite child--that he had such another daughter.
+his favourite [[Child|child]]--that he had such another daughter.
 
 ‘My dear,’ he told her at parting, ‘our family looks to you
 to--ha--assert its dignity and--hum--maintain its importance. I know you
 will never disappoint it.’
 
-‘No, papa,’ said Fanny, ‘you may rely upon that, I think. My best love
+‘No, papa,’ said Fanny, ‘you may rely upon that, I think. My best [[Love|love]]
 to dearest Amy, and I will write to her very soon.’
 
 ‘Shall I convey any message to--ha--anybody else?’ asked Mr Dorrit, in
@@ -60,12 +60,12 @@ is no other message to send, I thank you, dear papa, that it would be at
 all agreeable to you to take.’
 
 They parted in an outer drawing-room, where only Mr Sparkler waited
-on his lady, and dutifully bided his time for shaking hands. When Mr
-Sparkler was admitted to this closing audience, Mr Merdle came creeping
+on his lady, and dutifully bided his [[Time|time]] for shaking hands. When Mr
+Sparkler was admitted to this closing audience, [[Mr Merdle]] came creeping
 in with not much more appearance of arms in his sleeves than if he
 had been the twin brother of Miss Biffin, and insisted on escorting
 Mr Dorrit down-stairs. All Mr Dorrit’s protestations being in vain,
-he enjoyed the honour of being accompanied to the hall-door by this
+he enjoyed the [[Honour|honour]] of being accompanied to the hall-door by this
 distinguished man, who (as Mr Dorrit told him in shaking hands on the
 step) had really overwhelmed him with attentions and services during
 this memorable visit. Thus they parted; Mr Dorrit entering his carriage
@@ -97,11 +97,11 @@ Young John followed, smiling and much gratified. Mr Dorrit’s rooms were
 reached. Candles were lighted. The attendants withdrew.
 
 ‘Now, sir,’ said Mr Dorrit, turning round upon him and seizing him by
-the collar when they were safely alone. ‘What do you mean by this?’
+the collar when they were safely [[Alone|alone]]. ‘What do you mean by this?’
 
 The amazement and horror depicted in the unfortunate John’s face--for
 he had rather expected to be embraced next--were of that powerfully
-expressive nature that Mr Dorrit withdrew his hand and merely glared at
+expressive [[Nature|nature]] that Mr Dorrit withdrew his hand and merely glared at
 him.
 
 ‘How dare you do this?’ said Mr Dorrit. ‘How do you presume to come
@@ -132,24 +132,24 @@ John Chivery backed to the door.
 
 John Chivery dropped into the chair nearest the door, and Mr Dorrit
 walked up and down the room; rapidly at first; then, more slowly. Once,
-he went to the window, and stood there with his forehead against the
+he went to the [[Window|window]], and stood there with his forehead against the
 glass. All of a sudden, he turned and said:
 
 ‘What else did you come for, Sir?’
 
 ‘Nothing else in the world, sir. Oh dear me! Only to say, Sir, that I
-hoped you was well, and only to ask if Miss Amy was Well?’
+hoped you was [[Well|well]], and only to ask if Miss Amy was [[Well]]?’
 
 ‘What’s that to you, sir?’ retorted Mr Dorrit.
 
 ‘It’s nothing to me, sir, by rights. I never thought of lessening the
 distance betwixt us, I am sure. I know it’s a liberty, sir, but I never
-thought you’d have taken it ill. Upon my word and honour, sir,’ said
+thought you’d have taken it ill. Upon my word and [[Honour|honour]], sir,’ said
 Young John, with emotion, ‘in my poor way, I am too proud to have come,
 I assure you, if I had thought so.’
 
-Mr Dorrit was ashamed. He went back to the window, and leaned his
-forehead against the glass for some time. When he turned, he had his
+Mr Dorrit was ashamed. He went back to the [[Window|window]], and leaned his
+forehead against the glass for some [[Time|time]]. When he turned, he had his
 handkerchief in his hand, and he had been wiping his eyes with it, and
 he looked tired and ill.
 
@@ -177,7 +177,7 @@ while, he turned it to his visitor, and said, with an effort to be easy:
 ‘And how is your father, Young John? How--ha--how are they all, Young
 John?’
 
-‘Thank you, sir, They’re all pretty well, sir. They’re not any ways
+‘Thank you, sir, They’re all pretty [[Well|well]], sir. They’re not any ways
 complaining.’
 
 ‘Hum. You are in your--ha--old business I see, John?’ said Mr Dorrit,
@@ -195,10 +195,10 @@ likewise.’
 ‘Yes, sir; we’re pretty heavy at present. I don’t know how it is, but we
 generally _are_ pretty heavy.’
 
-‘At this time of the year, Young John?’
+‘At this [[Time|time]] of the year, Young John?’
 
-‘Mostly at all times of the year, sir. I don’t know the time that makes
-much difference to us. I wish you good night, sir.’
+‘Mostly at all times of the year, sir. I don’t know the [[Time|time]] that makes
+much difference to us. I wish you good [[Night|night]], sir.’
 
 ‘Stay a moment, John--ha--stay a moment. Hum. Leave me the cigars, John,
 I--ha--beg.’
@@ -215,11 +215,11 @@ better for it.’
 
 ‘Thank you, John. I--ha--I’ll write it, John.’
 
-His hand shook so that he was a long time writing it, and wrote it in
+His hand shook so that he was a long [[Time|time]] writing it, and wrote it in
 a tremulous scrawl at last. It was a cheque for one hundred pounds. He
 folded it up, put it in Young John’s hand, and pressed the hand in his.
 
-‘I hope you’ll--ha--overlook--hum--what has passed, John.’
+‘I [[Hope|hope]] you’ll--ha--overlook--hum--what has passed, John.’
 
 ‘Don’t speak of it, sir, on any accounts. I don’t in any ways bear
 malice, I’m sure.’
@@ -228,7 +228,7 @@ But nothing while John was there could change John’s face to its natural
 colour and expression, or restore John’s natural manner.
 
 ‘And, John,’ said Mr Dorrit, giving his hand a final pressure, and
-releasing it, ‘I hope we--ha--agree that we have spoken together
+releasing it, ‘I [[Hope|hope]] we--ha--agree that we have spoken together
 in confidence; and that you will abstain, in going out, from saying
 anything to any one that might--hum--suggest that--ha--once I--’
 
@@ -237,24 +237,24 @@ sir, I’m too proud and honourable to do it, sir.’
 
 Mr Dorrit was not too proud and honourable to listen at the door that
 he might ascertain for himself whether John really went straight out, or
-lingered to have any talk with any one. There was no doubt that he went
+lingered to have any talk with any one. There was no [[Doubt|doubt]] that he went
 direct out at the door, and away down the street with a quick step.
-After remaining alone for an hour, Mr Dorrit rang for the Courier,
+After remaining [[Alone|alone]] for an hour, Mr Dorrit rang for the Courier,
 who found him with his chair on the hearth-rug, sitting with his back
-towards him and his face to the fire. ‘You can take that bundle of
-cigars to smoke on the journey, if you like,’ said Mr Dorrit, with
+towards him and his face to the [[Fire|fire]]. ‘You can take that bundle of
+cigars to smoke on the [[Journey|journey]], if you like,’ said Mr Dorrit, with
 a careless wave of his hand. ‘Ha--brought by--hum--little offering
 from--ha--son of old tenant of mine.’
 
-Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where
-every red-jacketed postilion was the sign of a cruel house, established
+Next morning’s sun saw Mr Dorrit’s equipage upon the Dover [[Road|road]], where
+every red-jacketed postilion was the sign of a cruel [[house]], established
 for the unmerciful plundering of travellers. The whole business of the
-human race, between London and Dover, being spoliation, Mr Dorrit was
+human race, between [[London]] and Dover, being spoliation, Mr Dorrit was
 waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced
 at Sittingbourne, and sacked at Canterbury. However, it being the
 Courier’s business to get him out of the hands of the banditti, the
 Courier brought him off at every stage; and so the red-jackets went
-gleaming merrily along the spring landscape, rising and falling to
+gleaming merrily along the [[Spring|spring]] landscape, rising and falling to
 a regular measure, between Mr Dorrit in his snug corner and the next
 chalky rise in the dusty highway.
 
@@ -262,23 +262,23 @@ Another day’s sun saw him at Calais. And having now got the Channel
 between himself and John Chivery, he began to feel safe, and to find
 that the foreign air was lighter to breathe than the air of England.
 
-On again by the heavy French roads for Paris. Having now quite recovered
-his equanimity, Mr Dorrit, in his snug corner, fell to castle-building
-as he rode along. It was evident that he had a very large castle in
+On again by the heavy French roads for [[Paris]]. Having now quite recovered
+his equanimity, Mr Dorrit, in his snug corner, fell to [[Castle|castle]]-building
+as he rode along. It was evident that he had a very large [[Castle|castle]] in
 hand. All day long he was running towers up, taking towers down, adding
 a wing here, putting on a battlement there, looking to the walls,
 strengthening the defences, giving ornamental touches to the interior,
-making in all respects a superb castle of it. His preoccupied face so
+making in all respects a superb [[Castle|castle]] of it. His preoccupied face so
 clearly denoted the pursuit in which he was engaged, that every cripple
 at the post-houses, not blind, who shoved his little battered tin-box in
-at the carriage window for Charity in the name of Heaven, Charity in the
-name of our Lady, Charity in the name of all the Saints, knew as well
+at the carriage [[Window|window]] for [[Charity]] in the name of Heaven, [[Charity]] in the
+name of our Lady, [[Charity]] in the name of all the Saints, knew as [[Well|well]]
 what work he was at, as their countryman Le Brun could have known it
 himself, though he had made that English traveller the subject of a
 special physiognomical treatise.
 
-Arrived at Paris, and resting there three days, Mr Dorrit strolled
-much about the streets alone, looking in at the shop-windows, and
+Arrived at [[Paris]], and resting there three days, Mr Dorrit strolled
+much about the streets [[Alone|alone]], looking in at the shop-windows, and
 particularly the jewellers’ windows. Ultimately, he went into the most
 famous jeweller’s, and said he wanted to buy a little gift for a lady.
 
@@ -290,49 +290,49 @@ more commercial than kisses, at a dainty little shining desk which
 looked in itself like a sweetmeat.
 
 For example, then, said the little woman, what species of gift did
-Monsieur desire? A love-gift?
+Monsieur [[Desire|desire]]? A [[Love|love]]-gift?
 
-Mr Dorrit smiled, and said, Eh, well! Perhaps. What did he know? It was
+Mr Dorrit smiled, and said, Eh, [[Well|well]]! Perhaps. What did he know? It was
 always possible; the sex being so charming. Would she show him some?
 
 Most willingly, said the little woman. Flattered and enchanted to show
 him many. But pardon! To begin with, he would have the great goodness
-to observe that there were love-gifts, and there were nuptial gifts.
+to observe that there were [[Love|love]]-gifts, and there were nuptial gifts.
 For example, these ravishing ear-rings and this necklace so superb to
-correspond, were what one called a love-gift. These brooches and these
-rings, of a beauty so gracious and celestial, were what one called, with
+correspond, were what one called a [[Love|love]]-gift. These brooches and these
+rings, of a [[Beauty|beauty]] so gracious and celestial, were what one called, with
 the permission of Monsieur, nuptial gifts.
 
 Perhaps it would be a good arrangement, Mr Dorrit hinted, smiling, to
-purchase both, and to present the love-gift first, and to finish with
+purchase both, and to present the [[Love|love]]-gift first, and to finish with
 the nuptial offering?
 
 Ah Heaven! said the little woman, laying the tips of the fingers of her
 two little hands against each other, that would be generous indeed, that
-would be a special gallantry! And without doubt the lady so crushed with
+would be a special gallantry! And without [[Doubt|doubt]] the lady so crushed with
 gifts would find them irresistible.
 
 Mr Dorrit was not sure of that. But, for example, the sprightly little
 woman was very sure of it, she said. So Mr Dorrit bought a gift of
 each sort, and paid handsomely for it. As he strolled back to his hotel
-afterwards, he carried his head high: having plainly got up his castle
+afterwards, he carried his head high: having plainly got up his [[Castle|castle]]
 now to a much loftier altitude than the two square towers of Notre Dame.
 
-Building away with all his might, but reserving the plans of his castle
+Building away with all his might, but reserving the plans of his [[Castle|castle]]
 exclusively for his own eye, Mr Dorrit posted away for Marseilles.
-Building on, building on, busily, busily, from morning to night. Falling
+Building on, building on, busily, busily, from morning to [[Night|night]]. Falling
 asleep, and leaving great blocks of building materials dangling in the
 air; waking again, to resume work and get them into their places. What
-time the Courier in the rumble, smoking Young John’s best cigars, left
+[[Time|time]] the Courier in the rumble, smoking Young John’s best cigars, left
 a little thread of thin light smoke behind--perhaps as _he_ built a
-castle or two with stray pieces of Mr Dorrit’s money.
+[[Castle|castle]] or two with stray pieces of Mr Dorrit’s money.
 
-Not a fortified town that they passed in all their journey was as
-strong, not a Cathedral summit was as high, as Mr Dorrit’s castle.
+Not a fortified town that they passed in all their [[Journey|journey]] was as
+strong, not a [[Cathedral]] summit was as high, as Mr Dorrit’s [[Castle|castle]].
 Neither the Saone nor the Rhone sped with the swiftness of that peerless
 building; nor was the Mediterranean deeper than its foundations; nor
-were the distant landscapes on the Cornice road, nor the hills and bay
-of Genoa the Superb, more beautiful. Mr Dorrit and his matchless castle
+were the distant landscapes on the Cornice [[Road|road]], nor the hills and bay
+of Genoa the Superb, more beautiful. Mr Dorrit and his matchless [[Castle|castle]]
 were disembarked among the dirty white houses and dirtier felons of
 Civita Vecchia, and thence scrambled on to Rome as they could, through
 the filth that festered on the way.

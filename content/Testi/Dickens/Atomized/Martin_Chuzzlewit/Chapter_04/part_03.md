@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4 (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,15 +21,15 @@ beset a mighty mind. If there had never been a telescope in the world,
 I should have been quite certain from my observation of you, Chiv,
 that there were spots on the sun! I wish I may die, if this isn’t the
 queerest state of existence that we find ourselves forced into without
-knowing why or wherefore, Mr Pecksniff! Well, never mind! Moralise as we
-will, the world goes on. As Hamlet says, Hercules may lay about him with
+knowing why or wherefore, Mr Pecksniff! [[Well]], never mind! Moralise as we
+will, the world goes on. As [[Hamlet]] says, Hercules may lay about him with
 his club in every possible direction, but he can’t prevent the cats from
 making a most intolerable row on the roofs of the houses, or the
-dogs from being shot in the hot weather if they run about the streets
-unmuzzled. Life’s a riddle; a most infernally hard riddle to guess, Mr
+[[dogs]] from being shot in the hot weather if they run about the streets
+unmuzzled. Life’s a [[Riddle|riddle]]; a most infernally hard [[Riddle|riddle]] to guess, Mr
 Pecksniff. My own opinions, that like that celebrated conundrum, “Why’s
 a man in jail like a man out of jail?” there’s no answer to it. Upon my
-soul and body, it’s the queerest sort of thing altogether--but there’s
+[[Soul|soul]] and [[Body|body]], it’s the queerest sort of thing altogether--but there’s
 no use in talking about it. Ha! Ha!’
 
 With which consolatory deduction from the gloomy premises recited,
@@ -43,8 +43,8 @@ Pecksniff, you’re the cousin of the testator upstairs and we’re the
 nephew--I say we, meaning Chiv. Perhaps in all essential points you are
 more nearly related to him than we are. Very good. If so, so be it. But
 you can’t get at him, neither can we. I give you my brightest word of
-honour, sir, that I’ve been looking through that keyhole with short
-intervals of rest, ever since nine o’clock this morning, in expectation
+[[Honour|honour]], sir, that I’ve been looking through that keyhole with short
+intervals of rest, ever since nine o’[[Clock|clock]] this morning, in expectation
 of receiving an answer to one of the most moderate and gentlemanly
 applications for a little temporary assistance--only fifteen pounds, and
 MY security--that the mind of man can conceive. In the meantime, sir, he
@@ -58,7 +58,7 @@ I, for one, would not call in question for any earthly consideration; oh
 no!) to regulate his own proceedings by his own likings and dislikings,
 supposing they are not immoral and not irreligious. I may feel in my
 own breast, that Mr Chuzzlewit does not regard--me, for instance; say
-me--with exactly that amount of Christian love which should subsist
+me--with exactly that amount of Christian [[Love|love]] which should subsist
 between us. I may feel grieved and hurt at the circumstance; still I
 may not rush to the conclusion that Mr Chuzzlewit is wholly without a
 justification in all his coldnesses. Heaven forbid! Besides; how, Mr
@@ -85,17 +85,17 @@ evening to you.’
 abruptly on his way to the door.
 
 ‘Mr and Mrs Spottletoe,’ said Chevy Slyme, Esquire, speaking aloud for
-the first time, and speaking very sulkily; shambling with his legs the
-while. ‘Spottletoe married my father’s brother’s child, didn’t he?
+the first [[Time|time]], and speaking very sulkily; shambling with his legs the
+while. ‘Spottletoe married my father’s brother’s [[Child|child]], didn’t he?
 And Mrs Spottletoe is Chuzzlewit’s own niece, isn’t she? She was his
-favourite once. You may well ask what Spottletoes.’
+favourite once. You may [[Well|well]] ask what Spottletoes.’
 
 ‘Now upon my sacred word!’ cried Mr Pecksniff, looking upwards. ‘This is
 dreadful. The rapacity of these people is absolutely frightful!’
 
 ‘It’s not only the Spottletoes either, Tigg,’ said Slyme, looking at
 that gentleman and speaking at Mr Pecksniff. ‘Anthony Chuzzlewit and his
-son have got wind of it, and have come down this afternoon. I saw ‘em
+son have got [[Wind|wind]] of it, and have come down this afternoon. I saw ‘em
 not five minutes ago, when I was waiting round the corner.’
 
 ‘Oh, Mammon, Mammon!’ cried Mr Pecksniff, smiting his forehead.
@@ -110,13 +110,13 @@ Chiv’s uncle) has turned up, some steps must be taken to prevent his
 disappearing again; and, if possible, to counteract the influence which
 is exercised over him now, by this designing favourite. Everybody who
 is interested feels it, sir. The whole family is pouring down to this
-place. The time has come when individual jealousies and interests must
-be forgotten for a time, sir, and union must be made against the
+place. The [[Time|time]] has come when individual jealousies and interests must
+be forgotten for a [[Time|time]], sir, and [[Union|union]] must be made against the
 common enemy. When the common enemy is routed, you will all set up for
 yourselves again; every lady and gentleman who has a part in the game,
 will go in on their own account and bowl away, to the best of their
 ability, at the testator’s wicket, and nobody will be in a worse
 position than before. Think of it. Don’t commit yourself now. You’ll
-find us at the Half Moon and Seven Stars in this village, at any time,
+find us at the Half [[Moon]] and Seven [[Stars]] in this village, at any [[Time|time]],
 and open to any reasonable proposition. Hem! Chiv, my dear fellow, go
-out and see what sort of a night it is.’
+out and see what sort of a [[Night|night]] it is.’

@@ -28,7 +28,7 @@ CHAPTER 24
 
       a desperate attempt at descending the southern declivity of the
 
-      hill. The face of the precipice was here of the softest species
+      [[Hill|hill]]. The face of the precipice was here of the softest species
 
       of soapstone, although nearly perpendicular throughout its whole
 
@@ -48,7 +48,7 @@ CHAPTER 24
 
       which we had clambered up from the chasm when we had been buried
 
-      by the fall of the hill—that is, by cutting steps in the face of
+      by the fall of the [[Hill|hill]]—that is, by cutting steps in the face of
 
       the soapstone with our knives. The extreme hazard of the attempt
 
@@ -72,7 +72,7 @@ CHAPTER 24
 
       rock above to the height of a foot, or thereabout, so as to allow
 
-      of his driving, with the butt of a pistol, a tolerably strong peg
+      of his driving, with the butt of a [[Pistol|pistol]], a tolerably strong peg
 
       into the levelled surface. I then drew him up for about four
 
@@ -120,11 +120,11 @@ CHAPTER 24
 
       finally succeeded, with the occasional aid of projections in the
 
-      cliff, in reaching the bottom without accident.
+      cliff, in reaching the [[Bottom|bottom]] without accident.
 
 
 
-      It was some time before I could summon sufficient resolution to
+      It was some [[Time|time]] before I could summon sufficient resolution to
 
       follow him; but I did at length attempt it. Peters had taken off
 
@@ -138,13 +138,13 @@ CHAPTER 24
 
       banish the trepidation which I could overcome in no other manner.
 
-      This answered sufficiently well for the first four or five steps;
+      This answered sufficiently [[Well|well]] for the first four or five steps;
 
-      but presently I found my imagination growing terribly excited by
+      but presently I found my [[Imagination|imagination]] growing terribly excited by
 
       thoughts of the vast depths yet to be descended, and the
 
-      precarious nature of the pegs and soapstone holes which were my
+      precarious [[Nature|nature]] of the pegs and soapstone holes which were my
 
       only support. It was in vain I endeavored to banish these
 
@@ -174,7 +174,7 @@ CHAPTER 24
 
       There was a ringing in my ears, and I said, “This is my knell of
 
-      death!” And now I was consumed with the irrepressible desire of
+      [[Death|death]]!” And now I was consumed with the irrepressible [[Desire|desire]] of
 
       looking below. I could not, I would not, confine my glances to
 
@@ -186,11 +186,11 @@ CHAPTER 24
 
       their hold, while, with the movement, the faintest possible idea
 
-      of ultimate escape wandered, like a shadow, through my mind—in
+      of ultimate escape wandered, like a [[Shadow|shadow]], through my mind—in
 
-      the next my whole soul was pervaded with a longing to fall; a
+      the next my whole [[Soul|soul]] was pervaded with a [[Longing|longing]] to fall; a
 
-      desire, a yearning, a passion utterly uncontrollable. I let go at
+      [[Desire|desire]], a yearning, a passion utterly uncontrollable. I let go at
 
       once my grasp upon the peg, and, turning half round from the
 
@@ -198,7 +198,7 @@ CHAPTER 24
 
       face. But now there came a spinning of the brain; a
 
-      shrill-sounding and phantom voice screamed within my ears; a
+      shrill-sounding and [[Phantom|phantom]] voice screamed within my ears; a
 
       dusky, fiendish, and filmy figure stood immediately beneath me;
 
@@ -210,11 +210,11 @@ CHAPTER 24
 
       I had swooned, and Peters had caught me as I fell. He had
 
-      observed my proceedings from his station at the bottom of the
+      observed my proceedings from his station at the [[Bottom|bottom]] of the
 
       cliff; and perceiving my imminent danger, had endeavored to
 
-      inspire me with courage by every suggestion he could devise;
+      inspire me with [[Courage|courage]] by every suggestion he could devise;
 
       although my confusion of mind had been so great as to prevent my
 
@@ -222,7 +222,7 @@ CHAPTER 24
 
       to me at all. At length, seeing me totter, he hastened to ascend
 
-      to my rescue, and arrived just in time for my preservation. Had I
+      to my rescue, and arrived just in [[Time|time]] for my preservation. Had I
 
       fallen with my full weight, the rope of linen would inevitably
 
@@ -236,7 +236,7 @@ CHAPTER 24
 
       vanished; I felt a new being, and, with some little further aid
 
-      from my companion, reached the bottom also in safety.
+      from my companion, reached the [[Bottom|bottom]] also in safety.
 
 
 
@@ -244,7 +244,7 @@ CHAPTER 24
 
       the tomb of our friends, and to the southward of the spot where
 
-      the hill had fallen. The place was one of singular wildness, and
+      the [[Hill|hill]] had fallen. The place was one of singular wildness, and
 
       its aspect brought to my mind the descriptions given by
 
@@ -278,7 +278,7 @@ CHAPTER 24
 
       catching turtle, several of which we had observed from our place
 
-      of concealment on the hill. We had proceeded some hundred yards,
+      of concealment on the [[Hill|hill]]. We had proceeded some hundred yards,
 
       threading our route cautiously between the huge rocks and tumuli,
 
@@ -288,7 +288,7 @@ CHAPTER 24
 
       club. As he fell the whole party rushed upon him to secure their
 
-      victim, leaving me time to recover from my astonishment. I still
+      victim, leaving me [[Time|time]] to recover from my astonishment. I still
 
       had the musket, but the barrel had received so much injury in
 
@@ -348,7 +348,7 @@ CHAPTER 24
 
       before he had advanced many paces, and were about to put him to
 
-      death, when Peters suggested that we might derive some benefit
+      [[Death|death]], when Peters suggested that we might derive some benefit
 
       from forcing him to accompany us in our attempt to escape. We
 
@@ -382,9 +382,9 @@ CHAPTER 24
 
       ground, when I discovered the bows of two canoes projecting from
 
-      behind a large rock which ran out into the water. Toward these we
+      behind a large rock which ran out into the [[Water|water]]. Toward these we
 
-      now ran with all speed, and, reaching them, found them unguarded,
+      now ran with all [[Speed|speed]], and, reaching them, found them unguarded,
 
       and without any other freight than three of the large Gallipago
 
@@ -404,17 +404,17 @@ CHAPTER 24
 
       oversight of which we had been guilty in leaving the other canoe
 
-      in the power of the savages, who, by this time, were not more
+      in the power of the savages, who, by this [[Time|time]], were not more
 
       than twice as far from the beach as ourselves, and were rapidly
 
-      advancing to the pursuit. No time was now to be lost. Our hope
+      advancing to the pursuit. No [[Time|time]] was now to be lost. Our [[Hope|hope]]
 
       was, at best, a forlorn one, but we had none other. It was very
 
       doubtful whether, with the utmost exertion, we could get back in
 
-      time to anticipate them in taking possession of the canoe; but
+      [[Time|time]] to anticipate them in taking possession of the canoe; but
 
       yet there was a chance that we could. We might save ourselves if
 
@@ -430,7 +430,7 @@ CHAPTER 24
 
       paddling. As soon as the savages perceived this they redoubled
 
-      their yells, as well as their speed, and approached with
+      their yells, as [[Well|well]] as their [[Speed|speed]], and approached with
 
       inconceivable rapidity. We pulled, however, with all the energy
 
@@ -440,31 +440,31 @@ CHAPTER 24
 
       his superior agility, Peters shooting him through the head with a
 
-      pistol as he approached the shore. The foremost among the rest of
+      [[Pistol|pistol]] as he approached the shore. The foremost among the rest of
 
       his party were probably some twenty or thirty paces distant as we
 
       seized upon the canoe. We at first endeavored to pull her into
 
-      the deep water, beyond the reach of the savages, but, finding her
+      the deep [[Water|water]], beyond the reach of the savages, but, finding her
 
-      too firmly aground, and there being no time to spare, Peters,
+      too firmly aground, and there being no [[Time|time]] to spare, Peters,
 
       with one or two heavy strokes from the butt of the musket,
 
       succeeded in dashing out a large portion of the bow and of one
 
-      side. We then pushed off. Two of the natives by this time had got
+      side. We then pushed off. Two of the natives by this [[Time|time]] had got
 
       hold of our boat, obstinately refusing to let go, until we were
 
       forced to despatch them with our knives. We were now clear off,
 
-      and making great way out to sea. The main body of the savages,
+      and making great way out to sea. The main [[Body|body]] of the savages,
 
       upon reaching the broken canoe, set up the most tremendous yell
 
-      of rage and disappointment conceivable. In truth, from everything
+      of rage and disappointment conceivable. In [[Truth|truth]], from everything
 
       I could see of these wretches, they appeared to be the most
 
@@ -472,7 +472,7 @@ CHAPTER 24
 
       fiendish race of men upon the face of the globe. It is clear we
 
-      should have had no mercy had we fallen into their hands. They
+      should have had no [[Mercy|mercy]] had we fallen into their hands. They
 
       made a mad attempt at following us in the fractured canoe, but,
 
@@ -486,7 +486,7 @@ CHAPTER 24
 
       was still sufficiently gloomy. We knew that four canoes of the
 
-      kind we had were at one time in the possession of the savages,
+      kind we had were at one [[Time|time]] in the possession of the savages,
 
       and were not aware of the fact (afterward ascertained from our
 
@@ -500,7 +500,7 @@ CHAPTER 24
 
       Fearing this, we made every exertion to leave the island behind
 
-      us, and went rapidly through the water, forcing the prisoner to
+      us, and went rapidly through the [[Water|water]], forcing the prisoner to
 
       take a paddle. In about half an hour, when we had gained probably
 

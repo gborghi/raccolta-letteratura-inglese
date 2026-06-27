@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The God of the Gongs"
+title: "[[wifrb11]] — The God of the Gongs"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -17,51 +17,51 @@ tags:
                          The God of the Gongs
 
 
-IT was one of those chilly and empty afternoons in early winter,
+IT was one of those chilly and empty afternoons in early [[Winter|winter]],
 when the daylight is silver rather than gold and pewter rather than silver. 
 If it was dreary in a hundred bleak offices and yawning drawing-rooms,
 it was drearier still along the edges of the flat Essex coast,
 where the monotony was the more inhuman for being broken
 at very long intervals by a lamp-post that looked less civilized
 than a tree, or a tree that looked more ugly than a lamp-post. 
-A light fall of snow had half-melted into a few strips, also looking leaden
-rather than silver, when it had been fixed again by the seal of frost;
-no fresh snow had fallen, but a ribbon of the old snow ran along
+A light fall of [[Snow|snow]] had half-melted into a few strips, also looking leaden
+rather than silver, when it had been fixed again by the seal of [[Frost|frost]];
+no fresh [[Snow|snow]] had fallen, but a ribbon of the old [[Snow|snow]] ran along
 the very margin of the coast, so as to parallel the pale ribbon of the foam.
 
      The line of the sea looked frozen in the very vividness of
 its violet-blue, like the vein of a frozen finger.  For miles and miles,
-forward and back, there was no breathing soul, save two pedestrians,
+forward and back, there was no breathing [[Soul|soul]], save two pedestrians,
 walking at a brisk pace, though one had much longer legs and took
 much longer strides than the other.
 
-     It did not seem a very appropriate place or time for a holiday,
-but Father Brown had few holidays, and had to take them when he could,
+     It did not seem a very appropriate place or [[Time|time]] for a holiday,
+but [[Father Brown]] had few holidays, and had to take them when he could,
 and he always preferred, if possible, to take them in company with
-his old friend Flambeau, ex-criminal and ex-detective.  The priest had
+his old friend [[Flambeau]], ex-criminal and ex-[[Detective|detective]].  The priest had
 had a fancy for visiting his old parish at Cobhole, and was going
 north-eastward along the coast.
 
      After walking a mile or two farther, they found that the shore was
 beginning to be formally embanked, so as to form something like a parade;
 the ugly lamp-posts became less few and far between and more ornamental,
-though quite equally ugly.  Half a mile farther on Father Brown
+though quite equally ugly.  Half a mile farther on [[Father Brown]]
 was puzzled first by little labyrinths of flowerless flower-pots,
 covered with the low, flat, quiet-coloured plants that look less like
-a garden than a tessellated pavement, between weak curly paths studded
+a [[Garden|garden]] than a tessellated pavement, between weak curly paths studded
 with seats with curly backs.  He faintly sniffed the atmosphere of
 a certain sort of seaside town that he did not specially care about,
 and, looking ahead along the parade by the sea, he saw something that
-put the matter beyond a doubt.  In the grey distance the big bandstand
+put the matter beyond a [[Doubt|doubt]].  In the grey distance the big bandstand
 of a watering-place stood up like a giant mushroom with six legs.
 
-     "I suppose," said Father Brown, turning up his coat-collar
+     "I suppose," said [[Father Brown]], turning up his coat-collar
 and drawing a woollen scarf rather closer round his neck,
 "that we are approaching a pleasure resort."
 
-     "I fear," answered Flambeau, "a pleasure resort to which
+     "I [[Fear|fear]]," answered [[Flambeau]], "a pleasure resort to which
 few people just now have the pleasure of resorting.  They try to
-revive these places in the winter, but it never succeeds except with
+revive these places in the [[Winter|winter]], but it never succeeds except with
 Brighton and the old ones.  This must be Seawood, I think--
 Lord Pooley's experiment; he had the Sicilian Singers down at Christmas,
 and there's talk about holding one of the great glove-fights here. 
@@ -75,21 +75,21 @@ rather tawdry kind of erection for its purpose:  a flattened dome
 or canopy, gilt here and there, and lifted on six slender pillars
 of painted wood, the whole being raised about five feet above the parade
 on a round wooden platform like a drum.  But there was something
-fantastic about the snow combined with something artificial about
-the gold that haunted Flambeau as well as his friend with
+fantastic about the [[Snow|snow]] combined with something artificial about
+the gold that haunted [[Flambeau]] as [[Well|well]] as his friend with
 some association he could not capture, but which he knew was at once
 artistic and alien.
 
      "I've got it," he said at last.  "It's Japanese.  It's like
-those fanciful Japanese prints, where the snow on the mountain
+those fanciful Japanese prints, where the [[Snow|snow]] on the mountain
 looks like sugar, and the gilt on the pagodas is like gilt on gingerbread. 
 It looks just like a little pagan temple."
 
-     "Yes," said Father Brown.  "Let's have a look at the god."
+     "Yes," said [[Father Brown]].  "Let's have a look at the god."
 And with an agility hardly to be expected of him, he hopped up
 on to the raised platform.
 
-     "Oh, very well," said Flambeau, laughing; and the next instant
+     "Oh, very [[Well|well]]," said [[Flambeau]], laughing; and the next instant
 his own towering figure was visible on that quaint elevation.
 
      Slight as was the difference of height, it gave in those level wastes
@@ -101,26 +101,26 @@ Seawards there was no sail or sign of life save a few seagulls:
 and even they looked like the last snowflakes, and seemed to float
 rather than fly.
 
-     Flambeau turned abruptly at an exclamation behind him. 
+     [[Flambeau]] turned abruptly at an exclamation behind him. 
 It seemed to come from lower down than might have been expected,
 and to be addressed to his heels rather than his head.  He instantly
 held out his hand, but he could hardly help laughing at what he saw. 
-For some reason or other the platform had given way under Father Brown,
+For some reason or other the platform had given way under [[Father Brown]],
 and the unfortunate little man had dropped through to the level
 of the parade.  He was just tall enough, or short enough,
-for his head alone to stick out of the hole in the broken wood,
+for his head [[Alone|alone]] to stick out of the hole in the broken wood,
 looking like St John the Baptist's head on a charger.  The face wore
 a disconcerted expression, as did, perhaps, that of St John the Baptist.
 
      In a moment he began to laugh a little.  "This wood must be rotten,"
-said Flambeau.  "Though it seems odd it should bear me, and you go through
+said [[Flambeau]].  "Though it seems odd it should bear me, and you go through
 the weak place.  Let me help you out."
 
      But the little priest was looking rather curiously at the corners
 and edges of the wood alleged to be rotten, and there was a sort of trouble
 on his brow.
 
-     "Come along," cried Flambeau impatiently, still with his big
+     "Come along," cried [[Flambeau]] impatiently, still with his big
 brown hand extended.  "Don't you want to get out?"
 
      The priest was holding a splinter of the broken wood between
@@ -130,49 +130,49 @@ to get in." And he dived into the darkness under the wooden floor
 so abruptly as to knock off his big curved clerical hat and leave it
 lying on the boards above, without any clerical head in it.
 
-     Flambeau looked once more inland and out to sea, and once more
-could see nothing but seas as wintry as the snow, and snows as level
+     [[Flambeau]] looked once more inland and out to sea, and once more
+could see nothing but seas as wintry as the [[Snow|snow]], and snows as level
 as the sea.
 
      There came a scurrying noise behind him, and the little priest
 came scrambling out of the hole faster than he had fallen in. 
 His face was no longer disconcerted, but rather resolute, and,
-perhaps only through the reflections of the snow, a trifle paler than usual.
+perhaps only through the reflections of the [[Snow|snow]], a trifle paler than usual.
 
 
-     "Well?" asked his tall friend.  "Have you found the god
+     "[[Well]]?" asked his tall friend.  "Have you found the god
 of the temple?"
 
-     "No," answered Father Brown.  "I have found what was sometimes
+     "No," answered [[Father Brown]].  "I have found what was sometimes
 more important.  The Sacrifice."
 
-     "What the devil do you mean?" cried Flambeau, quite alarmed.
+     "What the devil do you mean?" cried [[Flambeau]], quite alarmed.
 
-     Father Brown did not answer.  He was staring, with a knot
+     [[Father Brown]] did not answer.  He was staring, with a knot
 in his forehead, at the landscape; and he suddenly pointed at it. 
-"What's that house over there?" he asked.
+"What's that [[house]] over there?" he asked.
 
-     Following his finger, Flambeau saw for the first time the corners
+     Following his finger, [[Flambeau]] saw for the first [[Time|time]] the corners
 of a building nearer than the farmhouse, but screened for the most part
-with a fringe of trees.  It was not a large building, and stood well back
+with a fringe of trees.  It was not a large building, and stood [[Well|well]] back
 from the shore--, but a glint of ornament on it suggested that it was
 part of the same watering-place scheme of decoration as the bandstand,
 the little gardens and the curly-backed iron seats.
 
-     Father Brown jumped off the bandstand, his friend following;
+     [[Father Brown]] jumped off the bandstand, his friend following;
 and as they walked in the direction indicated the trees fell away
 to right and left, and they saw a small, rather flashy hotel,
 such as is common in resorts--the hotel of the Saloon Bar rather than
 the Bar Parlour.  Almost the whole frontage was of gilt plaster and
 figured glass, and between that grey seascape and the grey,
-witch-like trees, its gimcrack quality had something spectral
-in its melancholy.  They both felt vaguely that if any food or drink
+[[Witch|witch]]-like trees, its gimcrack quality had something spectral
+in its [[Melancholy|melancholy]].  They both felt vaguely that if any food or drink
 were offered at such a hostelry, it would be the paste-board ham
 and empty mug of the pantomime.
 
      In this, however, they were not altogether confirmed.  As they drew
 nearer and nearer to the place they saw in front of the buffet,
-which was apparently closed, one of the iron garden-seats with curly backs
+which was apparently closed, one of the iron [[Garden|garden]]-seats with curly backs
 that had adorned the gardens, but much longer, running almost
 the whole length of the frontage.  Presumably, it was placed so that
 visitors might sit there and look at the sea, but one hardly expected
@@ -191,7 +191,7 @@ came within three, and said in a deferential, though not undignified,
 manner:  "Will you step inside, gentlemen?  I have no staff at present,
 but I can get you anything simple myself."
 
-     "Much obliged," said Flambeau.  "So you are the proprietor?"
+     "Much obliged," said [[Flambeau]].  "So you are the proprietor?"
 
      "Yes," said the dark man, dropping back a little into
 his motionless manner.  "My waiters are all Italians, you see,
@@ -200,10 +200,10 @@ if he really can do it.  You know the great fight between Malvoli and
 Nigger Ned is coming off after all?"
 
      "I'm afraid we can't wait to trouble your hospitality seriously,"
-said Father Brown.  "But my friend would be glad of a glass of sherry,
-I'm sure, to keep out the cold and drink success to the Latin champion."
+said [[Father Brown]].  "But my friend would be glad of a glass of sherry,
+I'm sure, to keep out the cold and drink [[success]] to the Latin champion."
 
-     Flambeau did not understand the sherry, but he did not object to it
+     [[Flambeau]] did not understand the sherry, but he did not object to it
 in the least.  He could only say amiably:  "Oh, thank you very much."
 
      "Sherry, sir--certainly," said their host, turning to his hostel. 
@@ -211,21 +211,21 @@ in the least.  He could only say amiably:  "Oh, thank you very much."
 I have no staff--" And he went towards the black windows of
 his shuttered and unlighted inn.
 
-     "Oh, it doesn't really matter," began Flambeau, but the man
+     "Oh, it doesn't really matter," began [[Flambeau]], but the man
 turned to reassure him.
 
      "I have the keys," he said.  "I could find my way in the dark."
 
-     "I didn't mean--" began Father Brown.
+     "I didn't mean--" began [[Father Brown]].
 
      He was interrupted by a bellowing human voice that came
 out of the bowels of the uninhabited hotel.  It thundered
 some foreign name loudly but inaudibly, and the hotel proprietor
-moved more sharply towards it than he had done for Flambeau's sherry. 
+moved more sharply towards it than he had done for [[Flambeau]]'s sherry. 
 As instant evidence proved, the proprietor had told, then and after,
-nothing but the literal truth.  But both Flambeau and Father Brown
+nothing but the literal [[Truth|truth]].  But both [[Flambeau]] and [[Father Brown]]
 have often confessed that, in all their (often outrageous) adventures,
-nothing had so chilled their blood as that voice of an ogre,
+nothing had so chilled their [[Blood|blood]] as that voice of an ogre,
 sounding suddenly out of a silent and empty inn.
 
      "My cook!" cried the proprietor hastily.  "I had forgotten my cook. 
@@ -233,7 +233,7 @@ He will be starting presently.  Sherry, sir?"
 
      And, sure enough, there appeared in the doorway a big white bulk
 with white cap and white apron, as befits a cook, but with
-the needless emphasis of a black face.  Flambeau had often heard
+the needless emphasis of a black face.  [[Flambeau]] had often heard
 that negroes made good cooks.  But somehow something in the contrast
 of colour and caste increased his surprise that the hotel proprietor
 should answer the call of the cook, and not the cook the call
@@ -241,45 +241,45 @@ of the proprietor.  But he reflected that head cooks are proverbially
 arrogant; and, besides, the host had come back with the sherry,
 and that was the great thing.
 
-     "I rather wonder," said Father Brown, "that there are so few people
+     "I rather [[Wonder|wonder]]," said [[Father Brown]], "that there are so few people
 about the beach, when this big fight is coming on after all. 
 We only met one man for miles."
 
      The hotel proprietor shrugged his shoulders.  "They come from
 the other end of the town, you see--from the station, three miles from here. 
 They are only interested in the sport, and will stop in hotels
-for the night only.  After all, it is hardly weather for
+for the [[Night|night]] only.  After all, it is hardly weather for
 basking on the shore."
 
-     "Or on the seat," said Flambeau, and pointed to the little table.
+     "Or on the seat," said [[Flambeau]], and pointed to the little table.
 
      "I have to keep a look-out," said the man with the motionless face. 
-He was a quiet, well-featured fellow, rather sallow; his dark clothes
+He was a quiet, [[Well|well]]-featured fellow, rather sallow; his dark clothes
 had nothing distinctive about them, except that his black necktie
 was worn rather high, like a stock, and secured by a gold pin
-with some grotesque head to it.  Nor was there anything notable
+with some [[Grotesque|grotesque]] head to it.  Nor was there anything notable
 in the face, except something that was probably a mere nervous trick--
 a habit of opening one eye more narrowly than the other,
 giving the impression that the other was larger, or was,
 perhaps, artificial.
 
-     The silence that ensued was broken by their host saying quietly: 
+     The [[Silence|silence]] that ensued was broken by their host saying quietly: 
 "Whereabouts did you meet the one man on your march?"
 
      "Curiously enough," answered the priest, "close by here--
 just by that bandstand."
 
-     Flambeau, who had sat on the long iron seat to finish his sherry,
-put it down and rose to his feet, staring at his friend in amazement. 
+     [[Flambeau]], who had sat on the long iron seat to finish his sherry,
+put it down and [[Rose|rose]] to his feet, staring at his friend in amazement. 
 He opened his mouth to speak, and then shut it again.
 
      "Curious," said the dark-haired man thoughtfully.  "What was he like?"
 
-     "It was rather dark when I saw him," began Father Brown,
+     "It was rather dark when I saw him," began [[Father Brown]],
 "but he was--"
 
      As has been said, the hotel-keeper can be proved to have told
-the precise truth.  His phrase that the cook was starting presently
+the precise [[Truth|truth]].  His phrase that the cook was starting presently
 was fulfilled to the letter, for the cook came out, pulling his gloves on,
 even as they spoke.
 
@@ -295,27 +295,27 @@ his waistcoat.  The red flower stood up in his buttonhole aggressively,
 as if it had suddenly grown there.  And in the way he carried his cane
 in one hand and his cigar in the other there was a certain attitude--
 an attitude we must always remember when we talk of racial prejudices: 
-something innocent and insolent--the cake walk.
+something [[Innocent|innocent]] and insolent--the cake walk.
 
-     "Sometimes," said Flambeau, looking after him, "I'm not surprised
+     "Sometimes," said [[Flambeau]], looking after him, "I'm not surprised
 that they lynch them."
 
-     "I am never surprised," said Father Brown, "at any work of hell. 
+     "I am never surprised," said [[Father Brown]], "at any work of hell. 
 But as I was saying," he resumed, as the negro, still ostentatiously
 pulling on his yellow gloves, betook himself briskly towards
 the watering-place, a queer music-hall figure against that grey and
 frosty scene--"as I was saying, I couldn't describe the man very minutely,
 but he had a flourish and old-fashioned whiskers and moustachios,
 dark or dyed, as in the pictures of foreign financiers, round his neck
-was wrapped a long purple scarf that thrashed out in the wind as he walked. 
+was wrapped a long purple scarf that thrashed out in the [[Wind|wind]] as he walked. 
 It was fixed at the throat rather in the way that nurses
 fix children's comforters with a safety-pin.  Only this,"
 added the priest, gazing placidly out to sea, "was not a safety-pin."
 
      The man sitting on the long iron bench was also gazing placidly
-out to sea.  Now he was once more in repose.  Flambeau felt quite certain
+out to sea.  Now he was once more in repose.  [[Flambeau]] felt quite certain
 that one of his eyes was naturally larger than the other. 
-Both were now well opened, and he could almost fancy the left eye
+Both were now [[Well|well]] opened, and he could almost fancy the left eye
 grew larger as he gazed.
 
      "It was a very long gold pin, and had the carved head of a monkey
@@ -326,45 +326,45 @@ in a rather odd way--he wore pince-nez and a broad black--"
 his head might have belonged to two different men.  Then he made
 a movement of blinding swiftness.
 
-     Father Brown had his back to him, and in that flash might have
-fallen dead on his face.  Flambeau had no weapon, but his large
+     [[Father Brown]] had his back to him, and in that flash might have
+fallen dead on his face.  [[Flambeau]] had no weapon, but his large
 brown hands were resting on the end of the long iron seat. 
 His shoulders abruptly altered their shape, and he heaved
 the whole huge thing high over his head, like a headsman's axe
 about to fall.  The mere height of the thing, as he held it vertical,
 looked like a long iron ladder by which he was inviting men to climb
-towards the stars.  But the long shadow, in the level evening light,
+towards the [[Stars|stars]].  But the long [[Shadow|shadow]], in the level evening light,
 looked like a giant brandishing the Eiffel Tower.  It was the shock
-of that shadow, before the shock of the iron crash, that made the stranger
+of that [[Shadow|shadow]], before the shock of the iron crash, that made the stranger
 quail and dodge, and then dart into his inn, leaving the flat and
 shining dagger he had dropped exactly where it had fallen.
 
-     "We must get away from here instantly," cried Flambeau,
+     "We must get away from here instantly," cried [[Flambeau]],
 flinging the huge seat away with furious indifference on the beach. 
 He caught the little priest by the elbow and ran him down
-a grey perspective of barren back garden, at the end of which there
-was a closed back garden door.  Flambeau bent over it an instant
-in violent silence, and then said:  "The door is locked."
+a grey perspective of barren back [[Garden|garden]], at the end of which there
+was a closed back [[Garden|garden]] door.  [[Flambeau]] bent over it an instant
+in violent [[Silence|silence]], and then said:  "The door is locked."
 
      As he spoke a black feather from one of the ornamental firs fell,
 brushing the brim of his hat.  It startled him more than the small
 and distant detonation that had come just before.  Then came another
 distant detonation, and the door he was trying to open shook
-under the bullet buried in it.  Flambeau's shoulders again filled out
+under the bullet buried in it.  [[Flambeau]]'s shoulders again filled out
 and altered suddenly.  Three hinges and a lock burst at the same instant,
-and he went out into the empty path behind, carrying the great garden door
+and he went out into the empty path behind, carrying the great [[Garden|garden]] door
 with him, as Samson carried the gates of Gaza.
 
-     Then he flung the garden door over the garden wall, just as
-a third shot picked up a spurt of snow and dust behind his heel. 
+     Then he flung the [[Garden|garden]] door over the [[Garden|garden]] wall, just as
+a third shot picked up a spurt of [[Snow|snow]] and [[Dust|dust]] behind his heel. 
 Without ceremony he snatched up the little priest, slung him astraddle
 on his shoulders, and went racing towards Seawood as fast as
 his long legs could carry him.  It was not until nearly two miles
 farther on that he set his small companion down.  It had hardly been
 a dignified escape, in spite of the classic model of Anchises,
-but Father Brown's face only wore a broad grin.
+but [[Father Brown]]'s face only wore a broad grin.
 
-     "Well," said Flambeau, after an impatient silence, as they resumed
+     "[[Well]]," said [[Flambeau]], after an impatient [[Silence|silence]], as they resumed
 their more conventional tramp through the streets on the edge of the town,
 where no outrage need be feared, "I don't know what all this means,
 but I take it I may trust my own eyes that you never met the man
@@ -382,20 +382,20 @@ had something to do with it."
 
      "I had hoped he had only a little," answered Brown
 in a rather troubled voice, "and I may have been wrong in what I did. 
-I acted on impulse.  But I fear this business has deep roots and dark."
+I acted on impulse.  But I [[Fear|fear]] this business has deep roots and dark."
 
-     They walked on through some streets in silence.  The yellow lamps
+     They walked on through some streets in [[Silence|silence]].  The yellow lamps
 were beginning to be lit in the cold blue twilight, and they were
 evidently approaching the more central parts of the town. 
 Highly coloured bills announcing the glove-fight between Nigger Ned
 and Malvoli were slapped about the walls.
 
-     "Well," said Flambeau, "I never murdered anyone, even in
+     "[[Well]]," said [[Flambeau]], "I never murdered anyone, even in
 my criminal days, but I can almost sympathize with anyone doing it
-in such a dreary place.  Of all God-forsaken dustbins of Nature,
+in such a dreary place.  Of all God-forsaken dustbins of [[Nature]],
 I think the most heart-breaking are places like that bandstand,
 that were meant to be festive and are forlorn.  I can fancy a morbid man
-feeling he must kill his rival in the solitude and irony of such a scene. 
+feeling he must kill his rival in the [[Solitude|solitude]] and irony of such a scene. 
 I remember once taking a tramp in your glorious Surrey hills,
 thinking of nothing but gorse and skylarks, when I came out on
 a vast circle of land, and over me lifted a vast, voiceless structure,
@@ -413,7 +413,7 @@ who is a friend of mine) that he was found close up to the Epsom
 Grand Stand--in fact, only hidden by one of the lower doors being
 pushed back."
 
-     "That is queer," assented Flambeau.  "But it rather confirms
+     "That is queer," assented [[Flambeau]].  "But it rather confirms
 my view that such pleasure places look awfully lonely out of season,
 or the man wouldn't have been murdered there."
 
@@ -423,10 +423,10 @@ or the man wouldn't have been murdered there."
 
      "Not so sure he was murdered out of the season," answered
 the little priest, with simplicity.  "Don't you think there's something
-rather tricky about this solitude, Flambeau?  Do you feel sure
+rather tricky about this [[Solitude|solitude]], [[Flambeau]]?  Do you feel sure
 a wise murderer would always want the spot to be lonely?
-It's very, very seldom a man is quite alone.  And, short of that,
-the more alone he is, the more certain he is to be seen. 
+It's very, very seldom a man is quite [[Alone|alone]].  And, short of that,
+the more [[Alone|alone]] he is, the more certain he is to be seen. 
 No; I think there must be some other--Why, here we are at
 the Pavilion or Palace, or whatever they call it."
 
@@ -434,11 +434,11 @@ the Pavilion or Palace, or whatever they call it."
 of which the principal building was gay with gilding, gaudy with posters,
 and flanked with two giant photographs of Malvoli and Nigger Ned.
 
-     "Hallo!" cried Flambeau in great surprise, as his clerical friend
+     "Hallo!" cried [[Flambeau]] in great surprise, as his clerical friend
 stumped straight up the broad steps.  "I didn't know pugilism was
 your latest hobby.  Are you going to see the fight?"
 
-     "I don't think there will be any fight," replied Father Brown.
+     "I don't think there will be any fight," replied [[Father Brown]].
 
      They passed rapidly through ante-rooms and inner rooms;
 they passed through the hall of combat itself, raised, roped,
@@ -447,22 +447,22 @@ not look round or pause till he came to a clerk at a desk outside
 a door marked "Committee".  There he stopped and asked to see Lord Pooley.
 
      The attendant observed that his lordship was very busy,
-as the fight was coming on soon, but Father Brown had a good-tempered
+as the fight was coming on soon, but [[Father Brown]] had a good-tempered
 tedium of reiteration for which the official mind is generally not prepared. 
-In a few moments the rather baffled Flambeau found himself in the presence
+In a few moments the rather baffled [[Flambeau]] found himself in the presence
 of a man who was still shouting directions to another man going out of
 the room.  "Be careful, you know, about the ropes after the fourth--
-Well, and what do you want, I wonder!"
+[[Well]], and what do you want, I [[Wonder|wonder]]!"
 
      Lord Pooley was a gentleman, and, like most of the few remaining
 to our race, was worried--especially about money.  He was half grey
 and half flaxen, and he had the eyes of fever and a high-bridged,
-frost-bitten nose.
+[[Frost|frost]]-bitten nose.
 
-     "Only a word," said Father Brown.  "I have come to prevent
+     "Only a word," said [[Father Brown]].  "I have come to prevent
 a man being killed."
 
-     Lord Pooley bounded off his chair as if a spring had
+     Lord Pooley bounded off his chair as if a [[spring]] had
 flung him from it.  "I'm damned if I'll stand any more of this!"
 he cried.  "You and your committees and parsons and petitions!
 Weren't there parsons in the old days, when they fought without gloves? 
@@ -471,10 +471,10 @@ the rag of a possibility of either of the boxers being killed."
 
      "I didn't mean either of the boxers," said the little priest.
 
-     "Well, well, well!" said the nobleman, with a touch of frosty humour. 
+     "[[Well]], [[Well|well]], [[Well|well]]!" said the nobleman, with a touch of frosty [[Humour|humour]]. 
 "Who's going to be killed?  The referee?"
 
-     "I don't know who's going to be killed," replied Father Brown,
+     "I don't know who's going to be killed," replied [[Father Brown]],
 with a reflective stare.  "If I did I shouldn't have to
 spoil your pleasure.  I could simply get him to escape. 
 I never could see anything wrong about prize-fights.  As it is,
@@ -484,9 +484,9 @@ I must ask you to announce that the fight is off for the present."
 "And what do you say to the two thousand people who have come to see it?"
 
      "I say there will be one thousand nine-hundred and ninety-nine
-of them left alive when they have seen it," said Father Brown.
+of them left alive when they have seen it," said [[Father Brown]].
 
-     Lord Pooley looked at Flambeau.  "Is your friend mad?" he asked.
+     Lord Pooley looked at [[Flambeau]].  "Is your friend mad?" he asked.
 
      "Far from it," was the reply.
 
@@ -497,7 +497,7 @@ You know what these Mediterranean races are like.  If I send out word
 that it's off we shall have Malvoli storming in here at the head of
 a whole Corsican clan."
 
-     "My lord, it is a matter of life and death," said the priest. 
+     "My lord, it is a matter of life and [[Death|death]]," said the priest. 
 "Ring your bell.  Give your message.  And see whether it is Malvoli
 who answers."
 
@@ -512,12 +512,12 @@ the fight will have to be put off."
      "What authority have you for what you say?" asked Lord Pooley
 abruptly.  "Whom did you consult?"
 
-     "I consulted a bandstand," said Father Brown, scratching his head. 
+     "I consulted a bandstand," said [[Father Brown]], scratching his head. 
 "But, no, I'm wrong; I consulted a book, too.  I  picked it up
-on a bookstall in London--very cheap, too."
+on a bookstall in [[London]]--very cheap, too."
 
      He had taken out of his pocket a small, stout, leather-bound volume,
-and Flambeau, looking over his shoulder, could see that it was some
+and [[Flambeau]], looking over his shoulder, could see that it was some
 book of old travels, and had a leaf turned down for reference.
 
      "`The only form in which Voodoo--'" began Father Brown, reading aloud.
@@ -529,14 +529,14 @@ book of old travels, and had a leaf turned down for reference.
 the Monkey, or the God of the Gongs, which is powerful in many parts of
 the two American continents, especially among half-breeds, many of whom
 look exactly like white men.  It differs from most other forms
-of devil-worship and human sacrifice in the fact that the blood
+of devil-worship and human sacrifice in the fact that the [[Blood|blood]]
 is not shed formally on the altar, but by a sort of assassination
 among the crowd.  The gongs beat with a deafening din as
 the doors of the shrine open and the monkey-god is revealed;
 almost the whole congregation rivet ecstatic eyes on him.  But after--'"
 
      The door of the room was flung open, and the fashionable negro
-stood framed in it, his eyeballs rolling, his silk hat still insolently
+stood framed in it, his eyeballs [[rolling]], his silk hat still insolently
 tilted on his head.  "Huh!" he cried, showing his apish teeth. 
 "What this?  Huh!  Huh!  You steal a coloured gentleman's prize--
 prize his already--yo' think yo' jes' save that white 'Talian trash--"
@@ -544,7 +544,7 @@ prize his already--yo' think yo' jes' save that white 'Talian trash--"
      "The matter is only deferred," said the nobleman quietly. 
 "I will be with you to explain in a minute or two."
 
-     "Who you to--" shouted Nigger Ned, beginning to storm.
+     "Who you to--" shouted Nigger Ned, beginning to [[Storm|storm]].
 
      "My name is Pooley," replied the other, with a creditable coolness. 
 "I am the organizing secretary, and I advise you just now
@@ -557,10 +557,10 @@ priest disdainfully.
 to leave the country."
 
      The prize-fighter stood glaring for a few seconds, and then,
-rather to the surprise of Flambeau and the others, strode out,
+rather to the surprise of [[Flambeau]] and the others, strode out,
 sending the door to with a crash behind him.
 
-     "Well," asked Father Brown rubbing his dusty hair up,
+     "[[Well]]," asked [[Father Brown]] rubbing his dusty hair up,
 "what do you think of Leonardo da Vinci?  A beautiful Italian head."
 
      "Look here," said Lord Pooley, "I've taken a considerable responsibility,
@@ -576,18 +576,18 @@ common-sense butchery among his fellow-barbarians into a very modern
 and scientific secret society of assassins.  He doesn't know I know it,
 nor, for the matter of that, that I can't prove it."
 
-     There was a silence, and the little man went on.
+     There was a [[Silence|silence]], and the little man went on.
 
      "But if I want to murder somebody, will it really be the best plan
-to make sure I'm alone with him?"
+to make sure I'm [[Alone|alone]] with him?"
 
      Lord Pooley's eyes recovered their frosty twinkle as he
 looked at the little clergyman.  He only said:  "If you want to
 murder somebody, I should advise it."
 
-     Father Brown shook his head, like a murderer of much riper experience. 
-"So Flambeau said," he replied, with a sigh.  "But consider. 
-The more a man feels lonely the less he can be sure he is alone. 
+     [[Father Brown]] shook his head, like a murderer of much riper experience. 
+"So [[Flambeau]] said," he replied, with a sigh.  "But consider. 
+The more a man feels lonely the less he can be sure he is [[Alone|alone]]. 
 It must mean empty spaces round him, and they are just what
 make him obvious.  Have you never seen one ploughman from the heights,
 or one shepherd from the valleys? Have you never walked along a cliff,
@@ -605,9 +605,9 @@ while the stand stood empty--any tramp under the hedges or motorist
 among the hills.  But nobody would have seen it when the stand
 was crowded and the whole ring roaring, when the favourite was
 coming in first--or wasn't.  The twisting of a neck-cloth,
-the thrusting of a body behind a door could be done in an instant--
+the thrusting of a [[Body|body]] behind a door could be done in an instant--
 so long as it was that instant.  It was the same, of course,"
-he continued turning to Flambeau, "with that poor fellow
+he continued turning to [[Flambeau]], "with that poor fellow
 under the bandstand.  He was dropped through the hole (it wasn't
 an accidental hole) just at some very dramatic moment of the entertainment,
 when the bow of some great violinist or the voice of some great singer
@@ -620,21 +620,21 @@ Nigger Ned has adopted from his old God of Gongs."
      "Malvoli," said the priest, "has nothing to do with it. 
 I dare say he has some Italians with him, but our amiable friends
 are not Italians.  They are octoroons and African half-bloods
-of various shades, but I fear we English think all foreigners
+of various shades, but I [[Fear|fear]] we English think all foreigners
 are much the same so long as they are dark and dirty.  Also,"
-he added, with a smile, "I fear the English decline to draw
+he added, with a smile, "I [[Fear|fear]] the English decline to draw
 any fine distinction between the moral character produced by my religion
 and that which blooms out of Voodoo."
 
-     The blaze of the spring season had burst upon Seawood,
+     The blaze of the [[spring]] season had burst upon Seawood,
 littering its foreshore with famines and bathing-machines,
 with nomadic preachers and nigger minstrels, before the two friends
-saw it again, and long before the storm of pursuit after the strange
+saw it again, and long before the [[Storm|storm]] of pursuit after the strange
 secret society had died away.  Almost on every hand the secret
 of their purpose perished with them.  The man of the hotel was found
 drifting dead on the sea like so much seaweed; his right eye was
 closed in peace, but his left eye was wide open, and glistened like glass
-in the moon.  Nigger Ned had been overtaken a mile or two away,
+in the [[Moon|moon]].  Nigger Ned had been overtaken a mile or two away,
 and murdered three policemen with his closed left hand. 
 The remaining officer was surprised--nay, pained--and the negro got away. 
 But this was enough to set all the English papers in a flame,
@@ -642,30 +642,30 @@ and for a month or two the main purpose of the British Empire was
 to prevent the buck nigger (who was so in both senses) escaping by any
 English port.  Persons of a figure remotely reconcilable with his
 were subjected to quite extraordinary inquisitions, made to scrub
-their faces before going on board ship, as if each white complexion
+their faces before going on board [[Ship|ship]], as if each white complexion
 were made up like a mask, of greasepaint.  Every negro in England
 was put under special regulations and made to report himself;
 the outgoing ships would no more have taken a nigger than a basilisk. 
 For people had found out how fearful and vast and silent was
-the force of the savage secret society, and by the time Flambeau and
-Father Brown were leaning on the parade parapet in April, the Black Man
+the force of the savage secret society, and by the [[Time|time]] [[Flambeau]] and
+[[Father Brown]] were leaning on the parade parapet in April, the Black Man
 meant in England almost what he once meant in Scotland.
 
-     "He must be still in England," observed Flambeau, "and horridly
-well hidden, too.  They must have found him at the ports if he had
+     "He must be still in England," observed [[Flambeau]], "and horridly
+[[Well|well]] hidden, too.  They must have found him at the ports if he had
 only whitened his face."
 
-     "You see, he is really a clever man," said Father Brown
+     "You see, he is really a clever man," said [[Father Brown]]
 apologetically.  "And I'm sure he wouldn't whiten his face."
 
-     "Well, but what would he do?"
+     "[[Well]], but what would he do?"
 
-     "I think," said Father Brown, "he would blacken his face."
+     "I think," said [[Father Brown]], "he would blacken his face."
 
-     Flambeau, leaning motionless on the parapet, laughed and said: 
+     [[Flambeau]], leaning motionless on the parapet, laughed and said: 
 "My dear fellow!"
 
-     Father Brown, also leaning motionless on the parapet, moved one finger
+     [[Father Brown]], also leaning motionless on the parapet, moved one finger
 for an instant into the direction of the soot-masked niggers singing
 on the sands.
 

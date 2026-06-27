@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 15 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 15 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,19 +20,19 @@ CHAPTER 15
 
 
 
-Early the next day, a note from Isabella, speaking peace and tenderness
+Early the next day, a note from [[Isabella]], speaking peace and tenderness
 
 in every line, and entreating the immediate presence of her friend on a
 
 matter of the utmost importance, hastened Catherine, in the happiest
 
-state of confidence and curiosity, to Edgar’s Buildings. The two
+state of confidence and curiosity, to [[Edgar]]’s Buildings. The two
 
 youngest Miss Thorpes were by themselves in the parlour; and, on Anne’s
 
 quitting it to call her sister, Catherine took the opportunity of
 
-asking the other for some particulars of their yesterday’s party. Maria
+asking the other for some particulars of their yesterday’s party. [[Maria]]
 
 desired no greater pleasure than to speak of it; and Catherine
 
@@ -48,15 +48,15 @@ thus much in detail—that they had driven directly to the York Hotel,
 
 ate some soup, and bespoke an early dinner, walked down to the
 
-pump-room, tasted the water, and laid out some shillings in purses and
+pump-room, tasted the [[Water|water]], and laid out some shillings in purses and
 
 spars; thence adjourned to eat ice at a pastry-cook’s, and hurrying
 
 back to the hotel, swallowed their dinner in haste, to prevent being in
 
-the dark; and then had a delightful drive back, only the moon was not
+the dark; and then had a delightful drive back, only the [[Moon|moon]] was not
 
-up, and it rained a little, and Mr. Morland’s horse was so tired he
+up, and it rained a little, and Mr. Morland’s [[Horse|horse]] was so tired he
 
 could hardly get it along.
 
@@ -64,13 +64,13 @@ could hardly get it along.
 
 Catherine listened with heartfelt satisfaction. It appeared that Blaize
 
-Castle had never been thought of; and, as for all the rest, there was
+[[Castle]] had never been thought of; and, as for all the rest, there was
 
-nothing to regret for half an instant. Maria’s intelligence concluded
+nothing to regret for half an instant. [[Maria]]’s intelligence concluded
 
 with a tender effusion of pity for her sister Anne, whom she
 
-represented as insupportably cross, from being excluded the party.
+represented as insupportably [[Cross|cross]], from being excluded the party.
 
 
 
@@ -78,19 +78,19 @@ represented as insupportably cross, from being excluded the party.
 
 it? John would have me go, for he vowed he would not drive her, because
 
-she had such thick ankles. I dare say she will not be in good humour
+she had such thick ankles. I dare say she will not be in good [[Humour|humour]]
 
-again this month; but I am determined I will not be cross; it is not a
+again this month; but I am determined I will not be [[Cross|cross]]; it is not a
 
 little matter that puts me out of temper.”
 
 
 
-Isabella now entered the room with so eager a step, and a look of such
+[[Isabella]] now entered the room with so eager a step, and a look of such
 
-happy importance, as engaged all her friend’s notice. Maria was without
+happy importance, as engaged all her friend’s notice. [[Maria]] was without
 
-ceremony sent away, and Isabella, embracing Catherine, thus began:
+ceremony sent away, and [[Isabella]], embracing Catherine, thus began:
 
 “Yes, my dear Catherine, it is so indeed; your penetration has not
 
@@ -106,9 +106,9 @@ Catherine replied only by a look of wondering ignorance.
 
 yourself. I am amazingly agitated, as you perceive. Let us sit down and
 
-talk in comfort. Well, and so you guessed it the moment you had my
+talk in comfort. [[Well]], and so you guessed it the moment you had my
 
-note? Sly creature! oh! my dear Catherine, you alone, who know my
+note? Sly creature! oh! my dear Catherine, you [[Alone|alone]], who know my
 
 heart, can judge of my present happiness. Your brother is the most
 
@@ -120,13 +120,13 @@ I am so agitated!”
 
 
 
-Catherine’s understanding began to awake: an idea of the truth suddenly
+Catherine’s understanding began to awake: an idea of the [[Truth|truth]] suddenly
 
 darted into her mind; and, with the natural blush of so new an emotion,
 
-she cried out, “Good heaven! my dear Isabella, what do you mean? Can
+she cried out, “Good heaven! my dear [[Isabella]], what do you mean? Can
 
-you—can you really be in love with James?”
+you—can you really be in [[Love|love]] with James?”
 
 
 
@@ -134,13 +134,13 @@ This bold surmise, however, she soon learnt comprehended but half the
 
 fact. The anxious affection, which she was accused of having
 
-continually watched in Isabella’s every look and action, had, in the
+continually watched in [[Isabella]]’s every look and action, had, in the
 
 course of their yesterday’s party, received the delightful confession
 
-of an equal love. Her heart and faith were alike engaged to James.
+of an equal [[Love|love]]. Her heart and [[Faith|faith]] were alike engaged to James.
 
-Never had Catherine listened to anything so full of interest, wonder,
+Never had Catherine listened to anything so full of interest, [[Wonder|wonder]],
 
 and joy. Her brother and her friend engaged! new to such circumstances,
 
@@ -150,31 +150,31 @@ it as one of those grand events, of which the ordinary course of life
 
 can hardly afford a return. The strength of her feelings she could not
 
-express; the nature of them, however, contented her friend. The
+express; the [[Nature|nature]] of them, however, contented her friend. The
 
 happiness of having such a sister was their first effusion, and the
 
-fair ladies mingled in embraces and tears of joy.
+fair ladies mingled in embraces and [[Tears|tears]] of joy.
 
 
 
 Delighting, however, as Catherine sincerely did, in the prospect of the
 
-connection, it must be acknowledged that Isabella far surpassed her in
+connection, it must be acknowledged that [[Isabella]] far surpassed her in
 
 tender anticipations. “You will be so infinitely dearer to me, my
 
-Catherine, than either Anne or Maria: I feel that I shall be so much
+Catherine, than either Anne or [[Maria]]: I feel that I shall be so much
 
 more attached to my dear Morland’s family than to my own.”
 
 
 
-This was a pitch of friendship beyond Catherine.
+This was a pitch of [[Friendship|friendship]] beyond Catherine.
 
 
 
-“You are so like your dear brother,” continued Isabella, “that I quite
+“You are so like your dear brother,” continued [[Isabella]], “that I quite
 
 doted on you the first moment I saw you. But so it always is with me;
 
@@ -190,7 +190,7 @@ introduced him, I thought I never saw anybody so handsome before.”
 
 
 
-Here Catherine secretly acknowledged the power of love; for, though
+Here Catherine secretly acknowledged the power of [[Love|love]]; for, though
 
 exceedingly fond of her brother, and partial to all his endowments, she
 
@@ -202,15 +202,15 @@ had never in her life thought him handsome.
 
 her puce-coloured sarsenet; and she looked so heavenly that I thought
 
-your brother must certainly fall in love with her; I could not sleep a
+your brother must certainly fall in [[Love|love]] with her; I could not [[Sleep|sleep]] a
 
-wink all night for thinking of it. Oh! catherine, the many sleepless
+wink all [[Night|night]] for thinking of it. Oh! catherine, the many sleepless
 
 nights I have had on your brother’s account! i would not have you
 
 suffer half what I have done! i am grown wretchedly thin, I know; but I
 
-will not pain you by describing my anxiety; you have seen enough of it.
+will not [[Pain|pain]] you by describing my anxiety; you have seen enough of it.
 
 I feel that I have betrayed myself perpetually—so unguarded in speaking
 

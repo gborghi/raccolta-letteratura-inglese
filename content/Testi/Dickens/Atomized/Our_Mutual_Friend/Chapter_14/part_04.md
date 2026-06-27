@@ -20,7 +20,7 @@ tags:
 Excited flight of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr George
 Sampson’s legs.
 
-After waiting some quarter of an hour alone in the family sitting-room,
+After waiting some quarter of an hour [[Alone|alone]] in the family sitting-room,
 which presented traces of having been so hastily arranged after a meal,
 that one might have doubted whether it was made tidy for visitors,
 or cleared for blindman’s buff, Mr and Mrs Boffin became aware of the
@@ -29,7 +29,7 @@ stitch in her side: which was her company manner.
 
 ‘Pardon me,’ said Mrs Wilfer, after the first salutations, and as soon
 as she had adjusted the handkerchief under her chin, and waved her
-gloved hands, ‘to what am I indebted for this honour?’
+gloved hands, ‘to what am I indebted for this [[Honour|honour]]?’
 
 ‘To make short of it, ma’am,’ returned Mr Boffin, ‘perhaps you may be
 acquainted with the names of me and Mrs Boffin, as having come into a
@@ -45,15 +45,15 @@ kindly to us?’
 ‘Pardon me,’ said Mrs Wilfer. ‘’Twere unjust to visit upon Mr and Mrs
 Boffin, a calamity which was doubtless a dispensation.’ These words
 were rendered the more effective by a serenely heroic expression of
-suffering.
+[[Suffering|suffering]].
 
 ‘That’s fairly meant, I am sure,’ remarked the honest Mr Boffin; ‘Mrs
 Boffin and me, ma’am, are plain people, and we don’t want to pretend
 to anything, nor yet to go round and round at anything because there’s
 always a straight way to everything. Consequently, we make this call
-to say, that we shall be glad to have the honour and pleasure of your
+to say, that we shall be glad to have the [[Honour|honour]] and pleasure of your
 daughter’s acquaintance, and that we shall be rejoiced if your daughter
-will come to consider our house in the light of her home equally with
+will come to consider our [[house]] in the light of her [[Home|home]] equally with
 this. In short, we want to cheer your daughter, and to give her
 the opportunity of sharing such pleasures as we are a going to take
 ourselves. We want to brisk her up, and brisk her about, and give her a
@@ -83,24 +83,24 @@ was retiring with difficulty into the small closet under the stairs,
 apprehensive of the emergence of Mr and Mrs Boffin.
 
 ‘The avocations of R. W., my husband,’ Mrs Wilfer explained, on resuming
-her seat, ‘keep him fully engaged in the City at this time of the day,
-or he would have had the honour of participating in your reception
+her seat, ‘keep him fully engaged in the [[City]] at this [[Time|time]] of the day,
+or he would have had the [[Honour|honour]] of participating in your reception
 beneath our humble roof.’
 
 ‘Very pleasant premises!’ said Mr Boffin, cheerfully.
 
 ‘Pardon me, sir,’ returned Mrs Wilfer, correcting him, ‘it is the abode
-of conscious though independent Poverty.’
+of conscious though independent [[Poverty]].’
 
-Finding it rather difficult to pursue the conversation down this road,
+Finding it rather difficult to pursue the conversation down this [[Road|road]],
 Mr and Mrs Boffin sat staring at mid-air, and Mrs Wilfer sat silently
 giving them to understand that every breath she drew required to be
-drawn with a self-denial rarely paralleled in history, until Miss Bella
+drawn with a [[Self|self]]-denial rarely paralleled in [[history]], until Miss Bella
 appeared: whom Mrs Wilfer presented, and to whom she explained the
 purpose of the visitors.
 
 ‘I am much obliged to you, I am sure,’ said Miss Bella, coldly shaking
-her curls, ‘but I doubt if I have the inclination to go out at all.’
+her curls, ‘but I [[Doubt|doubt]] if I have the inclination to go out at all.’
 
 ‘Bella!’ Mrs Wilfer admonished her; ‘Bella, you must conquer this.’
 
@@ -111,8 +111,8 @@ her a kiss, and patted her on her dimpled shoulders; Mrs Wilfer sitting
 stiffly by, like a functionary presiding over an interview previous to
 an execution.
 
-‘We are going to move into a nice house,’ said Mrs Boffin, who was woman
-enough to compromise Mr Boffin on that point, when he couldn’t very well
+‘We are going to move into a nice [[house]],’ said Mrs Boffin, who was woman
+enough to compromise Mr Boffin on that point, when he couldn’t very [[Well|well]]
 contest it; ‘and we are going to set up a nice carriage, and we’ll go
 everywhere and see everything. And you mustn’t,’ seating Bella beside
 her, and patting her hand, ‘you mustn’t feel a dislike to us to begin
@@ -124,7 +124,7 @@ frankly returned Mrs Boffin’s kiss. Not at all to the satisfaction
 of that good woman of the world, her mother, who sought to hold the
 advantageous ground of obliging the Boffins instead of being obliged.
 
-‘My youngest daughter, Lavinia,’ said Mrs Wilfer, glad to make a
+‘My youngest daughter, [[Lavinia]],’ said Mrs Wilfer, glad to make a
 diversion, as that young lady reappeared. ‘Mr George Sampson, a friend
 of the family.’
 
@@ -139,4 +139,4 @@ us,’ said Mrs Boffin, ‘of course we shall be glad. The better you please
 yourself, Miss Bella, the better you’ll please us.’
 
 ‘Oh, my consent is of no consequence at all, I suppose?’ cried Miss
-Lavinia.
+[[Lavinia]].

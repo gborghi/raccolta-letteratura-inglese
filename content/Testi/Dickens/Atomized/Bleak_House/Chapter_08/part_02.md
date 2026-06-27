@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 2)"
+title: "Bleak [[house|House]] — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,7 +20,7 @@ tags:
 difficult—”
 
 “Nonsense!” he said. “It’s easy, easy. Why not? I hear of a good
-little orphan girl without a protector, and I take it into my head to
+little [[Orphan|orphan]] girl without a protector, and I take it into my head to
 be that protector. She grows up, and more than justifies my good
 opinion, and I remain her guardian and her friend. What is there in
 all this? So, so! Now, we have cleared off old scores, and I have
@@ -43,10 +43,10 @@ into such a state of bedevilment that the original merits of the case
 have long disappeared from the face of the earth. It’s about a will
 and the trusts under a will—or it was once. It’s about nothing but
 costs now. We are always appearing, and disappearing, and swearing,
-and interrogating, and filing, and cross-filing, and arguing, and
+and interrogating, and filing, and [[Cross|cross]]-filing, and arguing, and
 sealing, and motioning, and referring, and reporting, and revolving
 about the Lord Chancellor and all his satellites, and equitably
-waltzing ourselves off to dusty death, about costs. That’s the great
+waltzing ourselves off to dusty [[Death|death]], about costs. That’s the great
 question. All the rest, by some extraordinary means, has melted
 away.”
 
@@ -67,15 +67,15 @@ through the deplorable cause, everybody must have copies, over and
 over again, of everything that has accumulated about it in the way of
 cartloads of papers (or must pay for them without having them, which
 is the usual course, for nobody wants them) and must go down the
-middle and up again through such an infernal country-dance of costs
+middle and up again through such an infernal country-[[Dance|dance]] of costs
 and fees and nonsense and corruption as was never dreamed of in the
-wildest visions of a witch’s Sabbath. Equity sends questions to law,
+wildest visions of a [[Witch|witch]]’s Sabbath. Equity sends questions to law,
 law sends questions back to equity; law finds it can’t do this,
 equity finds it can’t do that; neither can so much as say it can’t
 do anything, without this solicitor instructing and this counsel
 appearing for A, and that solicitor instructing and that counsel
 appearing for B; and so on through the whole alphabet, like the
-history of the apple pie. And thus, through years and years, and
+[[history]] of the apple pie. And thus, through years and years, and
 lives and lives, everything goes on, constantly beginning over and
 over again, and nothing ever ends. And we can’t get out of the suit
 on any terms, for we are made parties to it, and MUST BE parties to
@@ -85,21 +85,21 @@ beginning of the end!”
 
 “The Mr. Jarndyce, sir, whose story I have heard?”
 
-He nodded gravely. “I was his heir, and this was his house, Esther.
+He nodded gravely. “I was his heir, and this was his [[house]], Esther.
 When I came here, it was bleak indeed. He had left the signs of his
 misery upon it.”
 
 “How changed it must be now!” I said.
 
-“It had been called, before his time, the Peaks. He gave it its
-present name and lived here shut up, day and night poring over the
-wicked heaps of papers in the suit and hoping against hope to
-disentangle it from its mystification and bring it to a close. In the
-meantime, the place became dilapidated, the wind whistled through the
+“It had been called, before his [[Time|time]], the Peaks. He gave it its
+present name and lived here shut up, day and [[Night|night]] poring over the
+wicked heaps of papers in the suit and hoping against [[Hope|hope]] to
+disentangle it from its [[Mystification|mystification]] and bring it to a close. In the
+meantime, the place became dilapidated, the [[Wind|wind]] whistled through the
 cracked walls, the rain fell through the broken roof, the weeds
 choked the passage to the rotting door. When I brought what remained
-of him home here, the brains seemed to me to have been blown out of
-the house too, it was so shattered and ruined.”
+of him [[Home|home]] here, the brains seemed to me to have been blown out of
+the [[house]] too, it was so shattered and ruined.”
 
 He walked a little to and fro after saying this to himself with a
 shudder, and then looked at me, and brightened, and came and sat down
@@ -107,21 +107,21 @@ again with his hands in his pockets.
 
 “I told you this was the growlery, my dear. Where was I?”
 
-I reminded him, at the hopeful change he had made in Bleak House.
+I reminded him, at the hopeful change he had made in Bleak [[house|House]].
 
-“Bleak House; true. There is, in that city of London there, some
-property of ours which is much at this day what Bleak House was then;
+“Bleak [[house|House]]; true. There is, in that [[City|city]] of [[London]] there, some
+property of ours which is much at this day what Bleak [[house|House]] was then;
 I say property of ours, meaning of the suit’s, but I ought to call it
 the property of costs, for costs is the only power on earth that will
 ever get anything out of it now or will ever know it for anything but
 an eyesore and a heartsore. It is a street of perishing blind houses,
 with their eyes stoned out, without a pane of glass, without so much
-as a window-frame, with the bare blank shutters tumbling from their
+as a [[Window|window]]-frame, with the bare blank shutters tumbling from their
 hinges and falling asunder, the iron rails peeling away in flakes of
 rust, the chimneys sinking in, the stone steps to every door (and
-every door might be death’s door) turning stagnant green, the very
+every door might be [[Death|death]]’s door) turning stagnant green, the very
 crutches on which the ruins are propped decaying. Although Bleak
-House was not in Chancery, its master was, and it was stamped with
+[[house|House]] was not in Chancery, its master was, and it was stamped with
 the same seal. These are the Great Seal’s impressions, my dear, all
 over England—the children know them!”
 

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 6 (part 4)"
+title: "[[Persuasion]] — Chapter 6 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-time by his family, though quite as much as he deserved; seldom heard
+[[Time|time]] by his family, though quite as much as he deserved; seldom heard
 
-of, and scarcely at all regretted, when the intelligence of his death
+of, and scarcely at all regretted, when the intelligence of his [[Death|death]]
 
 abroad had worked its way to Uppercross, two years before.
 
@@ -24,7 +24,7 @@ abroad had worked its way to Uppercross, two years before.
 
 He had, in fact, though his sisters were now doing all they could for
 
-him, by calling him “poor Richard,” been nothing better than a
+him, by calling him “poor [[Richard]],” been nothing better than a
 
 thick-headed, unfeeling, unprofitable Dick Musgrove, who had never done
 
@@ -54,13 +54,13 @@ money.
 
 
 
-In each letter he had spoken well of his captain; but yet, so little
+In each letter he had spoken [[Well|well]] of his captain; but yet, so little
 
 were they in the habit of attending to such matters, so unobservant and
 
 incurious were they as to the names of men or ships, that it had made
 
-scarcely any impression at the time; and that Mrs Musgrove should have
+scarcely any impression at the [[Time|time]]; and that Mrs Musgrove should have
 
 been suddenly struck, this very day, with a recollection of the name of
 
@@ -78,7 +78,7 @@ gone for ever, and all the strength of his faults forgotten, had
 
 affected her spirits exceedingly, and thrown her into greater grief for
 
-him than she had known on first hearing of his death. Mr Musgrove was,
+him than she had known on first hearing of his [[Death|death]]. Mr Musgrove was,
 
 in a lesser degree, affected likewise; and when they reached the
 
@@ -90,7 +90,7 @@ companions could give them.
 
 
 
-To hear them talking so much of Captain Wentworth, repeating his name
+To hear them talking so much of [[Captain Wentworth]], repeating his name
 
 so often, puzzling over past years, and at last ascertaining that it
 
@@ -116,7 +116,7 @@ respect for his character, stamped as it was by poor Dick’s having been
 
 six months under his care, and mentioning him in strong, though not
 
-perfectly well-spelt praise, as “a fine dashing felow, only two
+perfectly [[Well|well]]-spelt praise, as “a fine dashing felow, only two
 
 perticular about the schoolmaster,” were bent on introducing
 

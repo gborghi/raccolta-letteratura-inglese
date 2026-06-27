@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 1)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -22,7 +22,7 @@ THE BATTLE OF THE MARNE
 
 
 
-The Hour of Peril--The Human Deluge--The
+The Hour of Peril--The Human [[deluge|Deluge]]--The
 
 English at the Marne.
 
@@ -52,7 +52,7 @@ Your name in the original German is too much for me; and this is the
 
 nearest I propose to get to it: but under the majestic image of pure
 
-wind marching in a movement wholly circular I seem to see, as in a
+[[Wind|wind]] marching in a movement wholly circular I seem to see, as in a
 
 vision, something of your mind. But the grand isolation of your thoughts
 
@@ -64,13 +64,13 @@ anything were really to be made of your moral campaign against the
 
 English nation, it was clearly necessary that somebody, if it were only
 
-an Englishman, should show you how to leave off professing philosophy
+an Englishman, should show you how to leave off professing [[philosophy]]
 
 and begin to practise it. I have therefore sold myself into the Prussian
 
 service, and in return for a cast-off suit of the Emperor's clothes (the
 
-uniform of an English midshipman), a German hausfrau's recipe for poison
+uniform of an English midshipman), a German hausfrau's recipe for [[Poison|poison]]
 
 gas, two penny cigars, and twenty-five Iron Crosses, I have consented
 
@@ -110,37 +110,37 @@ for coining, the tradesman may even be so wayward as to institute a
 
 police prosecution himself. Now this is not in any way an exaggeration
 
-of the way in which you have knocked the bottom out of any case you may
+of the way in which you have knocked the [[Bottom|bottom]] out of any case you may
 
 ever conceivably have had in such matters as the sinking of the
 
 _Lusitania_. With my own eyes I have seen the following explanations,
 
-apparently proceeding from your pen, (i) that the ship was a troop-ship
+apparently proceeding from your pen, (i) that the [[Ship|ship]] was a troop-[[Ship|ship]]
 
 carrying soldiers from Canada; (ii) that if it wasn't, it was a
 
-merchant-ship unlawfully carrying munitions for the soldiers in France;
+merchant-[[Ship|ship]] unlawfully carrying munitions for the soldiers in France;
 
-(iii) that, as the passengers on the ship had been warned in an
+(iii) that, as the passengers on the [[Ship|ship]] had been warned in an
 
-advertisement, Germany was justified in blowing them to the moon; (iv)
+advertisement, [[Germany]] was justified in blowing them to the [[Moon|moon]]; (iv)
 
-that there were guns, and the ship had to be torpedoed because the
+that there were guns, and the [[Ship|ship]] had to be torpedoed because the
 
-English captain was just going to fire them off; (v) that the English or
+English captain was just going to [[Fire|fire]] them off; (v) that the English or
 
 American authorities, by throwing the _Lusitania_ at the heads of the
 
-German commanders, subjected them to an insupportable temptation; which
+German commanders, subjected them to an insupportable [[Temptation|temptation]]; which
 
 was apparently somehow demonstrated or intensified by the fact that the
 
-ship came up to schedule time, there being some mysterious principle by
+[[Ship|ship]] came up to schedule [[Time|time]], there being some mysterious principle by
 
-which having tea at tea-time justifies poisoning the tea; (vi) that the
+which having tea at tea-[[Time|time]] justifies poisoning the tea; (vi) that the
 
-ship was not sunk by the Germans at all but by the English, the English
+[[Ship|ship]] was not sunk by the Germans at all but by the English, the English
 
 captain having deliberately tried to drown himself and some thousand of
 
@@ -154,7 +154,7 @@ of his country almost earns the captain pardon for the crime. But do you
 
 not see, my dear Professor, that the very richness and variety of your
 
-inventive genius throws a doubt upon each explanation when considered in
+inventive genius throws a [[Doubt|doubt]] upon each explanation when considered in
 
 itself? We who read you in England reach a condition of mind in which it
 
@@ -164,7 +164,7 @@ offer any at all. We are prepared to hear that you sank the _Lusitania_
 
 because the sea-born sons of England would live more happily as deep-sea
 
-fishes, or that every person on board was coming home to be hanged. You
+fishes, or that every person on board was coming [[Home|home]] to be hanged. You
 
 have explained yourself so completely, in this clear way, to the
 
@@ -180,13 +180,13 @@ Second, when telling such lies as may seem necessary to your
 
 international standing, do not tell the lies to the people who know the
 
-truth. Do not tell the Eskimos that snow is bright green; nor tell the
+[[Truth|truth]]. Do not tell the Eskimos that [[Snow|snow]] is bright green; nor tell the
 
 negroes in Africa that the sun never shines in that Dark Continent.
 
 Rather tell the Eskimos that the sun never shines in Africa; and then,
 
-turning to the tropical Africans, see if they will believe that snow is
+turning to the tropical Africans, see if they will believe that [[Snow|snow]] is
 
 green. Similarly, the course indicated for you is to slander the
 

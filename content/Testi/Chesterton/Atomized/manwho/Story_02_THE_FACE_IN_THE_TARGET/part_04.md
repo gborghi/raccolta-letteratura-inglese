@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FACE IN THE TARGET (part 4)"
+title: "[[manwho]] — THE FACE IN THE TARGET (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 some singular way an authority on motor cars; as being deep in the
 
-secrets of the mechanism, management, and mismanagement of motor
+[[Secrets|secrets]] of the mechanism, management, and mismanagement of motor
 
-cars; holding the man all the time with a glittering eye like the
+cars; holding the man all the [[Time|time]] with a glittering eye like the
 
-Ancient Mariner. Out of all this rather mysterious conversation
+[[Ancient Mariner]]. Out of all this rather mysterious conversation
 
 there did emerge at last a sort of admission that one particular
 
@@ -52,7 +52,7 @@ a gun hung on hooks above it, which seemed to be its only ornament.
 
 grim style. But it seems rather too grim a joke for a man to buy a
 
-packet of sandwiches when he is just going to commit suicide."
+packet of sandwiches when he is just going to commit [[suicide]]."
 
 
 
@@ -60,7 +60,7 @@ packet of sandwiches when he is just going to commit suicide."
 
 man to buy a packet of sandwiches when he's just outside the door of
 
-a grand house he's going to stop at."
+a grand [[house]] he's going to stop at."
 
 
 
@@ -78,7 +78,7 @@ a very queer idea, doesn't it?"
 
 
 
-There was a silence, and then March started with irrational
+There was a [[Silence|silence]], and then March started with irrational
 
 nervousness as the door of the inn was flung open and another man
 
@@ -86,7 +86,7 @@ walked rapidly to the counter. He had struck it with a coin and
 
 called out for brandy before he saw the other two guests, who were
 
-sitting at a bare wooden table under the window. When he turned
+sitting at a bare wooden table under the [[Window|window]]. When he turned
 
 about with a rather wild stare, March had yet another unexpected
 
@@ -112,7 +112,7 @@ things about his meeting with the great political reformer, but he
 
 had never pictured him with a gun under his arm, drinking brandy in
 
-a public house.
+a public [[house]].
 
 
 
@@ -156,7 +156,7 @@ satisfactory state, if the talk had not been quite what his literary
 
 visitor had expected. Fisher, a few minutes afterward, slowly led
 
-the way out of the tavern and stood in the middle of the road,
+the way out of the tavern and stood in the middle of the [[Road|road]],
 
 looking down in the direction from which they had traveled. Then he
 
@@ -202,11 +202,11 @@ Then after a pause he added:
 
 rocks. So he was shot as he drove his car down this strip of
 
-straight road, and I should think somewhere about here. After that,
+straight [[Road|road]], and I should think somewhere about here. After that,
 
 of course, the car went straight on with nobody to stop or turn it.
 
-It's really a very cunning dodge in its way; for the body would be
+It's really a very cunning dodge in its way; for the [[Body|body]] would be
 
 found far away, and most people would say, as you do, that it was an
 
@@ -228,7 +228,7 @@ on all over the place all day; very likely he timed his shot so as
 
 to drown it in a number of others. Certainly he was a first-class
 
-criminal. And he was something else as well."
+criminal. And he was something else as [[Well|well]]."
 
 
 
@@ -250,6 +250,6 @@ after him with the same idle perseverance, and found him staring
 
 through a gap in giant weeds and thorns at the flat face of a
 
-painted paling. From behind the paling rose the great gray columns
+painted paling. From behind the paling [[Rose|rose]] the great gray columns
 
 of a row of poplars, which filled the heavens above them with

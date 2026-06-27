@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 27 (part 2)"
+title: "[[Mansfield Park]] — Chapter 27 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -26,28 +26,28 @@ any sensation. Could she believe Miss Crawford to deserve him, it would
 be—oh, how different would it be—how far more tolerable! But he was
 deceived in her: he gave her merits which she had not; her faults were
 what they had ever been, but he saw them no longer. Till she had shed
-many tears over this deception, Fanny could not subdue her agitation;
+many [[Tears|tears]] over this [[Deception|deception]], Fanny could not subdue her agitation;
 and the dejection which followed could only be relieved by the
 influence of fervent prayers for his happiness.
 
 It was her intention, as she felt it to be her duty, to try to overcome
 all that was excessive, all that bordered on selfishness, in her
-affection for Edmund. To call or to fancy it a loss, a disappointment,
+affection for [[Edmund]]. To call or to fancy it a loss, a disappointment,
 would be a presumption for which she had not words strong enough to
-satisfy her own humility. To think of him as Miss Crawford might be
+satisfy her own [[Humility|humility]]. To think of him as Miss Crawford might be
 justified in thinking, would in her be insanity. To her he could be
 nothing under any circumstances; nothing dearer than a friend. Why did
 such an idea occur to her even enough to be reprobated and forbidden?
-It ought not to have touched on the confines of her imagination. She
+It ought not to have touched on the confines of her [[Imagination|imagination]]. She
 would endeavour to be rational, and to deserve the right of judging of
 Miss Crawford’s character, and the privilege of true solicitude for him
 by a sound intellect and an honest heart.
 
-She had all the heroism of principle, and was determined to do her
-duty; but having also many of the feelings of youth and nature, let her
+She had all the [[Heroism|heroism]] of principle, and was determined to do her
+duty; but having also many of the feelings of youth and [[Nature|nature]], let her
 not be much wondered at, if, after making all these good resolutions on
-the side of self-government, she seized the scrap of paper on which
-Edmund had begun writing to her, as a treasure beyond all her hopes,
+the side of [[Self|self]]-[[government]], she seized the scrap of paper on which
+[[Edmund]] had begun writing to her, as a treasure beyond all her hopes,
 and reading with the tenderest emotion these words, “My very dear
 Fanny, you must do me the favour to accept” locked it up with the
 chain, as the dearest part of the gift. It was the only thing
@@ -56,24 +56,24 @@ never receive another; it was impossible that she ever should receive
 another so perfectly gratifying in the occasion and the style. Two
 lines more prized had never fallen from the pen of the most
 distinguished author—never more completely blessed the researches of
-the fondest biographer. The enthusiasm of a woman’s love is even beyond
+the fondest biographer. The enthusiasm of a woman’s [[Love|love]] is even beyond
 the biographer’s. To her, the handwriting itself, independent of
 anything it may convey, is a blessedness. Never were such characters
-cut by any other human being as Edmund’s commonest handwriting gave!
+cut by any other human being as [[Edmund]]’s commonest handwriting gave!
 This specimen, written in haste as it was, had not a fault; and there
 was a felicity in the flow of the first four words, in the arrangement
 of “My very dear Fanny,” which she could have looked at for ever.
 
 Having regulated her thoughts and comforted her feelings by this happy
-mixture of reason and weakness, she was able in due time to go down and
-resume her usual employments near her aunt Bertram, and pay her the
+mixture of reason and weakness, she was able in due [[Time|time]] to go down and
+resume her usual employments near her aunt [[Bertram]], and pay her the
 usual observances without any apparent want of spirits.
 
-Thursday, predestined to hope and enjoyment, came; and opened with more
-kindness to Fanny than such self-willed, unmanageable days often
+[[thursday|Thursday]], predestined to [[Hope|hope]] and enjoyment, came; and opened with more
+kindness to Fanny than such [[Self|self]]-willed, unmanageable days often
 volunteer, for soon after breakfast a very friendly note was brought
 from Mr. Crawford to William, stating that as he found himself obliged
-to go to London on the morrow for a few days, he could not help trying
+to go to [[London]] on the morrow for a few days, he could not help trying
 to procure a companion; and therefore hoped that if William could make
 up his mind to leave Mansfield half a day earlier than had been
 proposed, he would accept a place in his carriage. Mr. Crawford meant
@@ -82,14 +82,14 @@ was invited to dine with him at the Admiral’s. The proposal was a very
 pleasant one to William himself, who enjoyed the idea of travelling
 post with four horses, and such a good-humoured, agreeable friend; and,
 in likening it to going up with despatches, was saying at once
-everything in favour of its happiness and dignity which his imagination
+everything in favour of its happiness and dignity which his [[Imagination|imagination]]
 could suggest; and Fanny, from a different motive, was exceedingly
 pleased; for the original plan was that William should go up by the
-mail from Northampton the following night, which would not have allowed
+mail from Northampton the following [[Night|night]], which would not have allowed
 him an hour’s rest before he must have got into a Portsmouth coach; and
 though this offer of Mr. Crawford’s would rob her of many hours of his
 company, she was too happy in having William spared from the fatigue of
-such a journey, to think of anything else. Sir Thomas approved of it
+such a [[Journey|journey]], to think of anything else. Sir Thomas approved of it
 for another reason. His nephew’s introduction to Admiral Crawford might
 be of service. The Admiral, he believed, had interest. Upon the whole,
 it was a very joyous note. Fanny’s spirits lived on it half the
@@ -103,23 +103,23 @@ forward to the same event in situations more at ease, but under
 circumstances of less novelty, less interest, less peculiar
 gratification, than would be attributed to her. Miss Price, known only
 by name to half the people invited, was now to make her first
-appearance, and must be regarded as the queen of the evening. Who could
+appearance, and must be regarded as the [[Queen|queen]] of the evening. Who could
 be happier than Miss Price? But Miss Price had not been brought up to
 the trade of _coming_ _out_; and had she known in what light this ball
 was, in general, considered respecting her, it would very much have
 lessened her comfort by increasing the fears she already had of doing
-wrong and being looked at. To dance without much observation or any
+wrong and being looked at. To [[Dance|dance]] without much observation or any
 extraordinary fatigue, to have strength and partners for about half the
-evening, to dance a little with Edmund, and not a great deal with Mr.
+evening, to [[Dance|dance]] a little with [[Edmund]], and not a great deal with Mr.
 Crawford, to see William enjoy himself, and be able to keep away from
-her aunt Norris, was the height of her ambition, and seemed to
+her aunt Norris, was the height of her [[Ambition|ambition]], and seemed to
 comprehend her greatest possibility of happiness. As these were the
 best of her hopes, they could not always prevail; and in the course of
 a long morning, spent principally with her two aunts, she was often
 under the influence of much less sanguine views. William, determined to
 make this last day a day of thorough enjoyment, was out snipe-shooting;
-Edmund, she had too much reason to suppose, was at the Parsonage; and
-left alone to bear the worrying of Mrs. Norris, who was cross because
+[[Edmund]], she had too much reason to suppose, was at the Parsonage; and
+left [[Alone|alone]] to bear the worrying of Mrs. Norris, who was [[Cross|cross]] because
 the housekeeper would have her own way with the supper, and whom _she_
 could not avoid though the housekeeper might, Fanny was worn down at
 last to think everything an evil belonging to the ball, and when sent

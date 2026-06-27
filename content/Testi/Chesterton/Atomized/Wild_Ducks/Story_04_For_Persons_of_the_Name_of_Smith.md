@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — For Persons of the Name of Smith"
+title: "Wild Ducks — For Persons of the Name of [[smith|Smith]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-For Persons of the Name of Smith
+For Persons of the Name of [[smith|Smith]]
 
 
-Some time ago Mr C. F. G. Masterman led a vigorous attack upon
+Some [[Time|time]] ago Mr C. F. G. Masterman led a vigorous attack upon
 my timid and humble optimism, and declared in effect that when I
 maintained a poetry in all things it was I who supplied it.
 I wish I could claim that I had ever supplied poetry to anything;
@@ -68,64 +68,64 @@ of the village cobbler and the village baker are not wonderful.
 The mystery of flame, the mystery of metals, the fight between
 the hardest of earthly things and the weirdest of earthly elements,
 the defeat of the unconquerable iron by its only conqueror,
-the brute calm of Nature, the passionate cunning of man,
+the brute calm of [[Nature]], the passionate cunning of man,
 the origin of a thousand sciences and arts, the ploughing of fields,
 the hewing of wood, the arraying of armies, and the whole
 beginning of arms, these things are written with brevity indeed,
-but with perfect clearness, on the visiting card of Mr Smith.
-The Smiths are a house of arrogant antiquity, of prehistoric simplicity.
+but with perfect clearness, on the visiting card of Mr [[smith|Smith]].
+The Smiths are a [[house]] of arrogant antiquity, of prehistoric simplicity.
 It would not be at all remarkable if a certain contemptuous
 carriage of the head, a certain curl of the lip, marked people
-whose name was Smith.  Yet novelists, when they wish to describe
-a hero as strong and romantic, persistently call him Vernon Aylmer,
+whose name was [[smith|Smith]].  Yet novelists, when they wish to describe
+a [[Hero|hero]] as strong and romantic, persistently call him Vernon Aylmer,
 which means nothing, or Bertrand Vallance, which means nothing;
-while all the time it is in their power to give him the sacred
-name of Smith, this name made of iron and fire.  From the very
-beginnings of history and fable this clan has gone forth to battle;
+while all the [[Time|time]] it is in their power to give him the sacred
+name of [[smith|Smith]], this name made of iron and [[Fire|fire]].  From the very
+beginnings of [[history]] and [[Fable|fable]] this clan has gone forth to battle;
 their trophies are in every hand, their name is everywhere;
 they are older than the nations, and their sign is the Hammer of Thor.
 
-Anyone whose name is Smith may be connected with a Smith
-who was a lawyer in the reign of Henry VIII, or a Smith
+Anyone whose name is [[smith|Smith]] may be connected with a [[smith|Smith]]
+who was a lawyer in the reign of [[Henry VIII]], or a [[smith|Smith]]
 who was a Colonel in the British army at Blenheim,
-or a Smith who was a Cavalier, or a Smith who was a Puritan,
-or a Smith who was a Bishop, or a Smith who was hanged.
+or a [[smith|Smith]] who was a Cavalier, or a [[smith|Smith]] who was a Puritan,
+or a [[smith|Smith]] who was a Bishop, or a [[smith|Smith]] who was hanged.
 All this kind of historic information exists in a very perfect form.
 But it must be remembered that the origin of a great family
 should be not merely historic, but also prehistoric.
 Every single practical and triumphant thing in this world
 has begun, not with an accuracy, but with a legend.  These dim,
 gigantic fables are the origins of all practical things.
-And behind the dimmest and most gigantic Smith, we may see
-the more tremendous outlines of the formless and fabulous Smith
+And behind the dimmest and most gigantic [[smith|Smith]], we may see
+the more tremendous outlines of the formless and fabulous [[smith|Smith]]
 who was the son of Vulcan and the first conqueror of iron.
 The shame which many people seem to feel about owning to such
 a patronymic or tracing its origin, is an extraordinary thing,
 but it is part of a very deep and general evil which has been
-going on for some time back.  The interest in race, the interest
+going on for some [[Time|time]] back.  The interest in race, the interest
 in genealogy, which were professed by the ancient aristocratic world,
 were not bad things; they were in themselves good things.
 It is, at least, as reasonable to investigate the origin of a man
 as to investigate the origin of a cowslip, or a periwinkle,
 or a prairie dog; the herald with his tabard and trumpet
 holds his perfectly legitimate place beside the botanist
-and the conchologist and the natural history expert.
+and the conchologist and the natural [[history]] expert.
 What was wrong with the old heraldic speculations was not
 that they existed, but that they did not go far enough.
-They did not interest themselves in the blood of the yokel
+They did not interest themselves in the [[Blood|blood]] of the yokel
 and the mystic paternity of the tinker.  In other words,
 the evil was not that there was too much genealogy,
 but that there was not enough.  And the real work to which
-democracy ought to address itself is that of extending
+[[Democracy|democracy]] ought to address itself is that of extending
 this racial interest to the case of all ordinary men,
 of teaching the butcher to be proud of his grandfather,
-and the railway porter to remember his name with pride.
+and the railway porter to remember his name with [[Pride|pride]].
 For the single case of the name `Smith' is sufficient to indicate
 what profundities of origin and significance lie in all our names.
 The case of Smith is no mere accident; the case would be the same
 with any one of the common names which we account prosaic
-or absurd.  `Jones' is more mean and preposterous even than Smith,
-and even those who bear the name of Jones do not probably remember
-that it is but a corruption of the name that Christ loved.
+or absurd.  `[[Jones]]' is more mean and preposterous even than [[smith|Smith]],
+and even those who bear the name of [[Jones]] do not probably remember
+that it is but a corruption of the name that [[Christ]] loved.
 There is not one of us that is not noble in origin, whatever we
 may be in essence.

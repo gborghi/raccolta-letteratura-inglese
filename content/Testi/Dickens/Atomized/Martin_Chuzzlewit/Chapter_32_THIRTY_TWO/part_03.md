@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 32: THIRTY TWO (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -45,14 +45,14 @@ their mutual peace and happiness to take a decided step. They had been
 much together lately, she observed, much together, and had tasted the
 sweets of a genuine reciprocity of sentiment. She never could forget
 him, nor could she ever cease to think of him with feelings of the
-liveliest friendship, but people had begun to talk, the thing had been
+liveliest [[Friendship|friendship]], but people had begun to talk, the thing had been
 observed, and it was necessary that they should be nothing more to each
 other, than any gentleman and lady in society usually are. She was glad
 she had had the resolution to say thus much before her feelings had been
 tried too far; they had been greatly tried, she would admit; but though
 she was weak and silly, she would soon get the better of it, she hoped.
 
-Moddle, who had by this time become in the last degree maudlin, and wept
+Moddle, who had by this [[Time|time]] become in the last degree maudlin, and wept
 abundantly, inferred from the foregoing avowal, that it was his mission
 to communicate to others the blight which had fallen on himself; and
 that, being a kind of unintentional Vampire, he had had Miss Pecksniff
@@ -63,7 +63,7 @@ on further examination that she could be, plighted his dismal troth,
 which was accepted and returned.
 
 He bore his good fortune with the utmost moderation. Instead of being
-triumphant, he shed more tears than he had ever been known to shed
+triumphant, he shed more [[Tears|tears]] than he had ever been known to shed
 before; and, sobbing, said:
 
 ‘Oh! what a day this has been! I can’t go back to the office this

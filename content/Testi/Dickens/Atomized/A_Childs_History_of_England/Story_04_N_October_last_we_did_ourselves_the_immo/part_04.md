@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — N October last, we did ourselves the immortal credit of recording, at an (part 4)"
+title: "A [[Child]]'s [[history|History]] of England — N October last, we did ourselves the immortal credit of recording, at an (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -15,9 +15,9 @@ tags:
 
 
 ‘You will easily believe that this intelligence gave me considerable
-surprise, not wholly unmixed with anxiety, and that I lost no time in
+surprise, not wholly unmixed with anxiety, and that I lost no [[Time|time]] in
 waiting on Professor Pumpkinskull, and stating the object of my visit.
-After a few moments’ reflection, the Professor, who, I am bound to say,
+After a few moments’ reflection, [[The Professor|the Professor]], who, I am bound to say,
 behaved with the utmost politeness, openly avowed (I mark the passage in
 italics) _that he had requested Sowster to attend on the Monday morning
 at the Boot-jack and Countenance_, _to keep off the boys_; _and that he
@@ -26,7 +26,7 @@ same object_, _at the Black Boy and Stomach-ache_!
 
 ‘Now I leave this unconstitutional proceeding to your comments and the
 consideration of your readers.  I have yet to learn that a beadle,
-without the precincts of a church, churchyard, or work-house, and acting
+without the precincts of a church, churchyard, or work-[[house]], and acting
 otherwise than under the express orders of churchwardens and overseers in
 council assembled, to enforce the law against people who come upon the
 parish, and other offenders, has any lawful authority whatever over the
@@ -36,7 +36,7 @@ the boys of Britain.  I have yet to learn that a beadle will be permitted
 by the commissioners of poor law regulation to wear out the soles and
 heels of his boots in illegal interference with the liberties of people
 not proved poor or otherwise criminal.  I have yet to learn that a beadle
-has power to stop up the Queen’s highway at his will and pleasure, or
+has power to stop up the [[Queen]]’s highway at his will and pleasure, or
 that the whole width of the street is not free and open to any man, boy,
 or woman in existence, up to the very walls of the houses—ay, be they
 Black Boys and Stomach-aches, or Boot-jacks and Countenances, I care
@@ -44,12 +44,12 @@ not.’
 
                                                           ‘_Nine o’clock_.
 
-‘I have procured a local artist to make a faithful sketch of the tyrant
+‘I have procured a local [[artist]] to make a faithful [[Sketch|sketch]] of the [[Tyrant|tyrant]]
 Sowster, which, as he has acquired this infamous celebrity, you will no
-doubt wish to have engraved for the purpose of presenting a copy with
+[[Doubt|doubt]] wish to have engraved for the purpose of presenting a copy with
 every copy of your next number.  I enclose it.
 
-                      [Picture: The Tyrant Sowster]
+                      [Picture: The [[Tyrant]] Sowster]
 
 The under-beadle has consented to write his life, but it is to be
 strictly anonymous.
@@ -80,13 +80,13 @@ _President_—Sir William Joltered.  _Vice-Presidents_—Mr. Muddlebranes and
                                Mr. Drawley.
 
 ‘MR. X. X. MISTY communicated some remarks on the disappearance of
-dancing-bears from the streets of London, with observations on the
+dancing-bears from the streets of [[London]], with observations on the
 exhibition of monkeys as connected with barrel-organs.  The writer had
-observed, with feelings of the utmost pain and regret, that some years
+observed, with feelings of the utmost [[Pain|pain]] and regret, that some years
 ago a sudden and unaccountable change in the public taste took place with
 reference to itinerant bears, who, being discountenanced by the populace,
 gradually fell off one by one from the streets of the metropolis, until
-not one remained to create a taste for natural history in the breasts of
+not one remained to create a taste for natural [[history]] in the breasts of
 the poor and uninstructed.  One bear, indeed,—a brown and ragged
 animal,—had lingered about the haunts of his former triumphs, with a worn
 and dejected visage and feeble limbs, and had essayed to wield his
@@ -95,7 +95,7 @@ utter want of any due recompense for his abilities, had at length driven
 him from the field, and it was only too probable that he had fallen a
 sacrifice to the rising taste for grease.  He regretted to add that a
 similar, and no less lamentable, change had taken place with reference to
-monkeys.  These delightful animals had formerly been almost as plentiful
+monkeys.  These delightful [[Animals|animals]] had formerly been almost as plentiful
 as the organs on the tops of which they were accustomed to sit; the
 proportion in the year 1829 (it appeared by the parliamentary return)
 being as one monkey to three organs.  Owing, however, to an altered taste
@@ -103,9 +103,9 @@ in musical instruments, and the substitution, in a great measure, of
 narrow boxes of music for organs, which left the monkeys nothing to sit
 upon, this source of public amusement was wholly dried up.  Considering
 it a matter of the deepest importance, in connection with national
-education, that the people should not lose such opportunities of making
+[[Education|education]], that the people should not lose such opportunities of making
 themselves acquainted with the manners and customs of two most
-interesting species of animals, the author submitted that some measures
+interesting species of [[Animals|animals]], the author submitted that some measures
 should be immediately taken for the restoration of these pleasing and
 truly intellectual amusements.
 
@@ -113,11 +113,11 @@ truly intellectual amusements.
 attain this most desirable end?
 
 ‘THE AUTHOR submitted that it could be most fully and satisfactorily
-accomplished, if Her Majesty’s Government would cause to be brought over
+accomplished, if Her Majesty’s [[government|Government]] would cause to be brought over
 to England, and maintained at the public expense, and for the public
 amusement, such a number of bears as would enable every quarter of the
 town to be visited—say at least by three bears a week.  No difficulty
 whatever need be experienced in providing a fitting place for the
-reception of these animals, as a commodious bear-garden could be erected
+reception of these [[Animals|animals]], as a commodious bear-[[Garden|garden]] could be erected
 in the immediate neighbourhood of both Houses of Parliament; obviously
 the most proper and eligible spot for such an establishment.

@@ -19,7 +19,7 @@ XIX
 _On the Simplicity of Asia_
 
 I WAS recently asked to write a prologue to a composite
-detective story, which demanded a detailed and vivid description
+[[Detective|detective]] story, which demanded a detailed and vivid description
 of the streets of Hong Kong.  I have never seen Hong Kong,
 and I have not the least notion of what it looks like.
 But he would be a very faint-hearted journalist who should allow
@@ -34,7 +34,7 @@ I have been in Port Said and Suez; and between these and Hong Kong
 lies the whole vast and still partly unknown thing that we call Asia.
 But my meditations have overflowed upon this page, because they
 are obviously too vague and general to be developed before
-the innocent and happy spirits full of a beautiful eagerness
+the [[Innocent|innocent]] and happy spirits full of a beautiful eagerness
 to get on with the murder.
 
 Whatever else the scribes have written about Asia,
@@ -44,25 +44,25 @@ a mis-statement, or even that it is an over-statement. Yet I
 think there is an aspect in which it can be contradicted.
 We may even say that the whole point of Asia is that it
 is not mysterious; not half so mysterious as Europe;
-to say nothing of America, which is the most mysterious of all.
-By which I mean that there are in Europe and America compromises
+to say nothing of [[america|America]], which is the most mysterious of all.
+By which I mean that there are in Europe and [[america|America]] compromises
 and complexities, a blend or balance of one thing with another,
 which is really rather less apparent in the stark passions,
 the strict rituals, and the ancient appetites of Asia.
 For instance, a Christian is perpetually balanced between
 a Christian ideal of loving his enemies, a Pagan ideal
 of punishing his enemies, and a chivalric ideal of only
-fighting his enemies fairly.  In Asia, I imagine, both love
+fighting his enemies fairly.  In Asia, I imagine, both [[Love|love]]
 and hate have been much more unmixed and undisguised.
 Both in poetry and in policy, a man would be much more simple
-in his purpose to pursue his love or to persecute his foe.
-And, while there is truth in the tradition that the Asiatic has
-thus sometimes become an artist in sensuality and an artist
-in cruelty, he might well make out a case for the view
-that he was an artist with less artifice and more sincerity.
-Somebody said, with considerable truth, that Russia lacks
-the cement of hypocrisy.  This might well be quoted to support
-the not uncommon view that Russia is a part of Asia.
+in his purpose to pursue his [[Love|love]] or to persecute his foe.
+And, while there is [[Truth|truth]] in the tradition that the Asiatic has
+thus sometimes become an [[artist]] in sensuality and an [[artist]]
+in cruelty, he might [[Well|well]] make out a case for the view
+that he was an [[artist]] with less artifice and more sincerity.
+Somebody said, with considerable [[Truth|truth]], that [[Russia]] lacks
+the cement of hypocrisy.  This might [[Well|well]] be quoted to support
+the not uncommon view that [[Russia]] is a part of Asia.
 
 It might be said that Asia is too old to be mysterious.
 It might at least be said that Asia is too old to be hypocritical.
@@ -71,21 +71,21 @@ very thin in thousands of years, and the veils are rather like the veils
 worn by loose women in Cairo and Port Said:  ritual, but transparent.
 Those who would give a juvenile thrill by combining the occult
 and the obscene do still talk about the Mysteries of the Harem;
-the secrets behind the veils and curtains of the seraglio.
+the [[Secrets|secrets]] behind the veils and curtains of the seraglio.
 But I imagine there is very little mystery about the harem,
 at any rate the Moslem harem; and no secret except the open secret.
 I imagine that the sentiments of the seraglio, whether domestic
 or servile or sensual, are often dull to that extreme point of
 dullness which the revolutionary West describes as respectable.
 I suspect that there is far more mystery, in the sense of mysticism,
-in the feelings of two common lovers in an English lane.
+in the feelings of two common [[lovers]] in an English lane.
 It is only fair to add that, with all the ceremonial of reticence
 or invisibility, there is probably much less cant than there is
-in many an English novel or newspaper.  But, whether it be subtlety
+in many an English [[Novel|novel]] or newspaper.  But, whether it be subtlety
 or sophistry, whether it be hypocrisy or only human complexity,
 it is really in the West and not in the East that there is the mystery.
 The Occidental is always saying that he cannot understand
-the Oriental; but the truth is that he cannot understand himself.
+the Oriental; but the [[Truth|truth]] is that he cannot understand himself.
 It is the Christian culture that is woven of many strands,
 of many fabrics and colours, and twisted into the single knot,
 the knot that holds the world together, but the knot that is of all
@@ -98,23 +98,23 @@ clubs of the Celts.  And if the eyelids are, after all, less weary
 than those of a Buddha or a Brahmin god, it may be that there
 is a slight fallacy in the familiar quotation, and that being hit
 on the head incessantly by the corners of the world does not merely
-send one to sleep.  Anyhow, it is the Christian who is the real
-cosmic mystery; the cross made by the cross-lights of the shafts
+send one to [[Sleep|sleep]].  Anyhow, it is the Christian who is the real
+cosmic mystery; the [[Cross|cross]] made by the [[Cross|cross]]-lights of the shafts
 of the sunrise and the sunset; the true crux of the world.
 But it is only just to say that this complexity, which produces
-the highest philosophy, does also produce humbug.  It produces
+the highest [[philosophy]], does also produce humbug.  It produces
 the worst kind; in which the humbug hardly knows he is a humbug.
 I suspect that there is far less humbug in the East, and that,
 compared with such rooted and humanized humbug, all its cunning
 is a sort of simplicity.
 
 In Asia things have worn too thin to be padded with
-such self-deception; it is old and its bones stick out.
+such [[Self-Deception|self-deception]]; it is old and its bones stick out.
 There the harlot is a harlot, and not a society actress
-whom the divorce court hands from one rich man to another.
+whom the [[divorce]] [[Court|court]] hands from one rich man to another.
 There the slave is a slave, and not a scheduled employee
 having less than the income nominated in the Act.
-There the king is a king, and the tyrant is a tyrant,
+There the [[King|king]] is a [[King|king]], and the [[Tyrant|tyrant]] is a [[Tyrant|tyrant]],
 and not a banker threatening to make nations bankrupt,
 or a private person holding all the shares in a public company.
 We have doubtless by our example introduced these blessings
@@ -126,22 +126,22 @@ for the simplicity of Asia, and against the mystery of Asia.
 For on that supposed mystery of the East there has been erected
 every sort of quackery in the West.  Every sham religion,
 every shabby perversion, every blackguard secret society,
-has claimed to feed on the strange fruits of that garden of Asia.
-And we may well hint that the garden itself is a little more decent,
-even if it is a desert.
+has claimed to feed on the strange fruits of that [[Garden|garden]] of Asia.
+And we may [[Well|well]] hint that the [[Garden|garden]] itself is a little more decent,
+even if it is a [[Desert|desert]].
 
 There are any number of examples, both good and evil,
 of the sort of rigid simplicity that I mean, and the sense
-in which the Orient has more simplicity than secrecy.
+in which the [[Orient]] has more simplicity than secrecy.
 The Caste System of India, for instance, seems to me to be
 a tyranny; and the worst sort of tyranny, which is not conducted
-by a tyrant, but by an aristocracy:  but it is not a hypocrisy.
+by a [[Tyrant|tyrant]], but by an aristocracy:  but it is not a hypocrisy.
 It is not even that more confused and unconscious sort
 of hypocrisy that we call humbug.  It is not confused at all;
 its very cruelty is in its clarity.  You cannot play about with
 the idea of a Brahmin as you can with the idea of a Gentleman.
 You cannot pretend that Pariahs were made Pariahs entirely
-as a compliment to them, and in the interests of True Democracy.
+as a compliment to them, and in the interests of True [[democracy|Democracy]].
 At least, if the Indians are talking like that now, it is
 only too true that they have been infected with the worst
 vices of the West.  I wish I were sure they were also being
@@ -153,12 +153,12 @@ me that the problem of the world is to unite all things;
 that the things in which they differ are indifferent,
 and only that things in which they are the same are solid.
 I could not explain to him that the problem of the Christian
-is not merely to unite all things, but to unite union
+is not merely to unite all things, but to unite [[Union|union]]
 with disunion.  The differences are not indifferent;
 and the problem is to let things differ while they agree.
 In short, the Western man seeks after Liberty, which is
-a real mystery.  Compared with that Unity is a platitude.
-It is the White Man who is the Dark Horse; and ourselves
+a real mystery.  Compared with that [[unity|Unity]] is a platitude.
+It is the White Man who is the Dark [[Horse]]; and ourselves
 who are riddles to ourselves.
 
 -*-

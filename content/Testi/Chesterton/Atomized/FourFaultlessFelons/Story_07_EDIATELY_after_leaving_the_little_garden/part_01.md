@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — EDIATELY after leaving the little garden-party, Tom and his tutor (part 1)"
+title: "[[FourFaultlessFelons]] — EDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-IMMEDIATELY after leaving the little garden-party, Tom and his tutor
+IMMEDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor
 
 parted for the evening, for the former lived at the Governorate, while
 
-the latter had a sort of lodge or little bungalow higher up on the hill
+the latter had a sort of lodge or little bungalow higher up on the [[Hill|hill]]
 
 behind amid the taller trees. The tutor said in private what everybody
 
@@ -28,13 +28,13 @@ youth for his display of imitative drama.
 
 
 
-"Well, I won't like him," said Tom warningly. "I'd like to kill him. His
+"[[Well]], I won't like him," said Tom warningly. "I'd like to kill him. His
 
 nose sticks out."
 
 
 
-"You can hardly expect it to stick in," said Mr. Hume mildly. "I wonder
+"You can hardly expect it to stick in," said Mr. Hume mildly. "I [[Wonder|wonder]]
 
 whether there's an old story about the man whose nose stuck in."
 
@@ -56,7 +56,7 @@ running round outside, from which could be seen the whole district spread
 
 out like a map. The grey and green squares of the Governorate building
 
-and grounds; the path running straight under the low garden wall and
+and grounds; the path running straight under the low [[Garden|garden]] wall and
 
 parallel to the line of villas; the solitary sycamore breaking the line
 
@@ -64,7 +64,7 @@ at one point and farther along the closer rank of the olive-trees, like a
 
 broken cloister, and then another gap and then the corner of the wall,
 
-beyond which spread brown slopes of desert, patched here and there with
+beyond which spread brown slopes of [[Desert|desert]], patched here and there with
 
 green, where the ground was being turfed as part of some new public works
 
@@ -74,7 +74,7 @@ whole hung under him like a vast coloured cloud in the brief afterglow of
 
 the Eastern sunset; then it was rapidly rolled in the purple gloom in
 
-which the strong stars stood out over his head and seemed nearer than the
+which the strong [[Stars|stars]] stood out over his head and seemed nearer than the
 
 things of earth.
 
@@ -98,7 +98,7 @@ containing the verses of the principal French and Latin poets. A rack of
 
 pipes, all hanging crooked, gave the inevitable touch of the bachelor; a
 
-fishing-rod and an old double-barrelled gun leaned dusty and disused in a
+fishing-rod and an old [[Double|double]]-barrelled gun leaned dusty and disused in a
 
 corner; for it was long ago that this man, in other ways so remote from
 
@@ -130,13 +130,13 @@ unfathomable stillness around that hillside hermitage, until the distant
 
 strains of a more or less lively band floated up from below, as a signal
 
-that a dance at the Governorate was already in progress. He knew there
+that a [[Dance|dance]] at the Governorate was already in progress. He knew there
 
-was a dance that night and took no notice of it; he was not sentimental,
+was a [[Dance|dance]] that [[Night|night]] and took no notice of it; he was not sentimental,
 
 but some of the tunes stirred almost mechanical memories. The Tallboys
 
-family was a little old-fashioned, even for this rather earlier time.
+family was a little old-fashioned, even for this rather earlier [[Time|time]].
 
 They were old-fashioned in not pretending to be any more democratic than
 
@@ -146,15 +146,15 @@ not call themselves liberal because they dragged their sycophants into
 
 society. It had therefore never crossed the mind of the secretary or the
 
-tutor that the dance at the Governorate was any concern of theirs. They
+tutor that the [[Dance|dance]] at the Governorate was any concern of theirs. They
 
-were also old-fashioned in the arrangements of the dance itself, and the
+were also old-fashioned in the arrangements of the [[Dance|dance]] itself, and the
 
 date must also be allowed for. The new dances had only just begun to
 
-pierce, and nobody had dreamed of the wild and varied freedom of our new
+pierce, and nobody had dreamed of the wild and varied [[Freedom|freedom]] of our new
 
-fashion, by which a person has to walk about all night with the same
+fashion, by which a person has to walk about all [[Night|night]] with the same
 
 partner to the same tune. All this sense of distance, material and moral,
 
@@ -168,7 +168,7 @@ It seems for one instant as if, in rising through the mist, the tune had
 
 taken outline and colour and burst into his room with the bodily presence
 
-of a song, for the blues and greens of her patterned dress were like
+of a [[Song|song]], for the blues and greens of her patterned dress were like
 
 notes of music and her amazing face came to him like a cry, a cry out of
 
@@ -176,15 +176,15 @@ the old youth he had lost or never known. A princess flying out of
 
 fairyland would not have seemed more impossible than that girl from that
 
-ballroom, though he knew her well enough as the younger sister of his
+ballroom, though he knew her [[Well|well]] enough as the younger sister of his
 
 charge, and the ball was a few hundred yards away. Her face was like a
 
-pale face burning through a dream and itself as unconscious as a
+pale face burning through [[A Dream|a dream]] and itself as unconscious as a
 
 dreamer's, for Barbara Traill was curiously unconscious of that mask of
 
-beauty fixed on her brooding boyish soul. She had been counted less
+[[Beauty|beauty]] fixed on her brooding boyish [[Soul|soul]]. She had been counted less
 
 attractive than her sisters and her sulks had marked her almost as the
 

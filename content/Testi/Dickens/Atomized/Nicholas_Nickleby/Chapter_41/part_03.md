@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 41 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 41 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,12 +21,12 @@ why do you lose an instant? Mama, pray come in!’
 be so foolish? I’m ashamed of you. How do you suppose you are ever to
 get through life, if you’re such a coward as this? What do you want,
 sir?’ said Mrs. Nickleby, addressing the intruder with a sort of
-simpering displeasure. ‘How dare you look into this garden?’
+simpering displeasure. ‘How dare you look into this [[Garden|garden]]?’
 
-‘Queen of my soul,’ replied the stranger, folding his hands together,
+‘[[Queen]] of my [[Soul|soul]],’ replied the stranger, folding his hands together,
 ‘this goblet sip!’
 
-‘Nonsense, sir,’ said Mrs. Nickleby. ‘Kate, my love, pray be quiet.’
+‘Nonsense, sir,’ said Mrs. Nickleby. ‘Kate, my [[Love|love]], pray be quiet.’
 
 ‘Won’t you sip the goblet?’ urged the stranger, with his head
 imploringly on one side, and his right hand on his breast. ‘Oh, do sip
@@ -37,14 +37,14 @@ Nickleby. ‘Pray, begone.’
 
 ‘Why is it,’ said the old gentleman, coming up a step higher, and
 leaning his elbows on the wall, with as much complacency as if he were
-looking out of window, ‘why is it that beauty is always obdurate,
+looking out of [[Window|window]], ‘why is it that [[Beauty|beauty]] is always obdurate,
 even when admiration is as honourable and respectful as mine?’ Here he
 smiled, kissed his hand, and made several low bows. ‘Is it owing to the
-bees, who, when the honey season is over, and they are supposed to
+[[Bees|bees]], who, when the honey season is over, and they are supposed to
 have been killed with brimstone, in reality fly to Barbary and lull the
-captive Moors to sleep with their drowsy songs? Or is it,’ he added,
+captive Moors to [[Sleep|sleep]] with their drowsy [[songs]]? Or is it,’ he added,
 dropping his voice almost to a whisper, ‘in consequence of the statue
-at Charing Cross having been lately seen, on the Stock Exchange
+at Charing [[Cross]] having been lately seen, on the Stock Exchange
 at midnight, walking arm-in-arm with the Pump from Aldgate, in a
 riding-habit?’
 
@@ -66,8 +66,8 @@ enchanted spot, where the most divine charms’--here he kissed his hand
 and bowed again--‘waft mellifluousness over the neighbours’ gardens, and
 force the fruit and vegetables into premature existence. That fact I am
 acquainted with. But will you permit me, fairest creature, to ask
-you one question, in the absence of the planet Venus, who has gone
-on business to the Horse Guards, and would otherwise--jealous of your
+you one question, in the absence of the planet [[Venus]], who has gone
+on business to the [[Horse]] Guards, and would otherwise--jealous of your
 superior charms--interpose between us?’
 
 ‘Kate,’ observed Mrs. Nickleby, turning to her daughter, ‘it’s very
@@ -75,7 +75,7 @@ awkward, positively. I really don’t know what to say to this gentleman.
 One ought to be civil, you know.’
 
 ‘Dear mama,’ rejoined Kate, ‘don’t say a word to him, but let us run
-away as fast as we can, and shut ourselves up till Nicholas comes home.’
+away as fast as we can, and shut ourselves up till Nicholas comes [[Home|home]].’
 
 Mrs. Nickleby looked very grand, not to say contemptuous, at this
 humiliating proposal; and, turning to the old gentleman, who had watched
@@ -100,7 +100,7 @@ resuming his former attitude, said,
 ‘The question is--’
 
 Here he broke off to look round in every direction, and satisfy himself
-beyond all doubt that there were no listeners near. Assured that there
+beyond all [[Doubt|doubt]] that there were no listeners near. Assured that there
 were not, he tapped his nose several times, accompanying the action with
 a cunning look, as though congratulating himself on his caution; and
 stretching out his neck, said in a loud whisper,
@@ -108,7 +108,7 @@ stretching out his neck, said in a loud whisper,
 ‘Are you a princess?’
 
 ‘You are mocking me, sir,’ replied Mrs. Nickleby, making a feint of
-retreating towards the house.
+retreating towards the [[house]].
 
 ‘No, but are you?’ said the old gentleman.
 
@@ -116,9 +116,9 @@ retreating towards the house.
 
 ‘Then are you any relation to the Archbishop of Canterbury?’ inquired
 the old gentleman with great anxiety, ‘or to the Pope of Rome? Or the
-Speaker of the House of Commons? Forgive me, if I am wrong, but I was
+Speaker of the [[house|House]] of Commons? Forgive me, if I am wrong, but I was
 told you were niece to the Commissioners of Paving, and daughter-in-law
-to the Lord Mayor and Court of Common Council, which would account for
+to the [[Lord Mayor]] and [[Court]] of Common Council, which would account for
 your relationship to all three.’
 
 ‘Whoever has spread such reports, sir,’ returned Mrs. Nickleby, with some
@@ -134,7 +134,7 @@ just the way. If they had said I was niece to a piping bullfinch, what
 would you care? But I have no sympathy,’ whimpered Mrs. Nickleby. ‘I
 don’t expect it, that’s one thing.’
 
-‘Tears!’ cried the old gentleman, with such an energetic jump, that
+‘[[Tears]]!’ cried the old gentleman, with such an energetic jump, that
 he fell down two or three steps and grated his chin against the
 wall. ‘Catch the crystal globules--catch ‘em--bottle ‘em up--cork ‘em
 tight--put sealing wax on the top--seal ‘em with a cupid--label ‘em

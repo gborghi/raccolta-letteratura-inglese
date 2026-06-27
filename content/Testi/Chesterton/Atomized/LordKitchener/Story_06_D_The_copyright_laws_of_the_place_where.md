@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — D.  The copyright laws of the place where you are located also govern"
+title: "[[LordKitchener]] — D.  The copyright laws of the place where you are located also govern"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

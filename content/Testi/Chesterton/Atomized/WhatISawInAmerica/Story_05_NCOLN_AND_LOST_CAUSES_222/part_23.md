@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 23)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 23)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,7 +20,7 @@ way for it by allowing them all to accumulate in the possession of
 
 English magnates. It is bad that a public treasure should be in the
 
-possession of a private man in America, but we took the first step in
+possession of a private man in [[America]], but we took the first step in
 
 lightly letting it disappear into the private collection of a man in
 
@@ -42,7 +42,7 @@ There were wilder stories of a millionaire wishing to transplant
 
 Glastonbury Abbey and similar buildings as if they were portable shrubs
 
-in pots. It is obvious that it is nonsense as well as vandalism to
+in pots. It is obvious that it is nonsense as [[Well|well]] as vandalism to
 
 separate Glastonbury Abbey from Glastonbury. I can understand a man
 
@@ -54,7 +54,7 @@ idolatrise it; it is meaningless to desecrate the shrine in order to
 
 worship the stones. That sort of thing is the bad side of American
 
-appetite and ambition; and we are perfectly right to see it not only as
+appetite and [[Ambition|ambition]]; and we are perfectly right to see it not only as
 
 a deliberate blasphemy but as an unconscious buffoonery. But there is
 
@@ -64,7 +64,7 @@ in our own tradition. And it is illustrated in this idea of preserving
 
 Washington as a sort of paradise of impersonal politics without personal
 
-commerce. Nobody could buy the White House or the Washington Monument;
+commerce. Nobody could buy the White [[house|House]] or the Washington Monument;
 
 it may be hinted (as by an inhabitant of Glastonbury) that nobody wants
 
@@ -122,11 +122,11 @@ superstition and its up-to-date vulgarity. But somehow the one
 
 impression that had never pierced through their description was the
 
-simple and single impression of a city on a hill, with walls coming to
+simple and single impression of a [[City|city]] on a [[Hill|hill]], with walls coming to
 
 the very edge of slopes that were almost as steep as walls; the turreted
 
-city which crowns a cone-shaped hill in so many mediaeval landscapes.
+[[City|city]] which crowns a cone-shaped [[Hill|hill]] in so many mediaeval landscapes.
 
 One would suppose that this was at once the plainest and most
 
@@ -134,13 +134,13 @@ picturesque of all the facts; yet somehow, in my reading, I had always
 
 lost it amid a mass of minor facts that were merely details. We know
 
-that a city that is set upon a hill cannot be hid; and yet it would seem
+that a [[City|city]] that is set upon a [[Hill|hill]] cannot be hid; and yet it would seem
 
-that it is exactly the hill that is hid; though perhaps it is only hid
+that it is exactly the [[Hill|hill]] that is hid; though perhaps it is only hid
 
 from the wise and the understanding. I had a similar and simple
 
-impression when I discovered America. I cannot avoid the phrase; for it
+impression when I discovered [[America]]. I cannot avoid the phrase; for it
 
 would really seem that each man discovers it for himself.
 
@@ -148,17 +148,17 @@ would really seem that each man discovers it for himself.
 
 Thus I had heard a great deal, before I saw them, about the tall and
 
-dominant buildings of New York. I agree that they have an instant effect
+dominant buildings of [[New York]]. I agree that they have an instant effect
 
-on the imagination; which I think is increased by the situation in which
+on the [[Imagination|imagination]]; which I think is increased by the situation in which
 
 they stand, and out of which they arose. They are all the more
 
 impressive because the building, while it is vertically so vast, is
 
-horizontally almost narrow. New York is an island, and has all the
+horizontally almost narrow. [[New York]] is an island, and has all the
 
-intensive romance of an island. It is a thing of almost infinite height
+intensive [[Romance|romance]] of an island. It is a thing of almost infinite height
 
 upon very finite foundations. It is almost like a lofty lighthouse upon
 
@@ -180,17 +180,17 @@ world was a sort of new Pharaoh, who built not so much a pyramid as a
 
 pagoda of pyramids. It would suggest houses built by mammoths out of
 
-mountains; the cities reared by elephants in their own elephantine
+[[Mountains|mountains]]; the cities reared by elephants in their own elephantine
 
-school of architecture. And New York does recall the most famous of all
+school of architecture. And [[New York]] does recall the most famous of all
 
 sky-scrapers--the tower of Babel. She recalls it none the less because
 
-there is no doubt about the confusion of tongues. But in truth the very
+there is no [[Doubt|doubt]] about the confusion of tongues. But in [[Truth|truth]] the very
 
-reverse is true of most of the buildings in America. I had no sooner
+reverse is true of most of the buildings in [[America]]. I had no sooner
 
-passed out into the suburbs of New York on the way to Boston than I
+passed out into the suburbs of [[New York]] on the way to Boston than I
 
 began to see something else quite contrary and far more curious. I saw
 

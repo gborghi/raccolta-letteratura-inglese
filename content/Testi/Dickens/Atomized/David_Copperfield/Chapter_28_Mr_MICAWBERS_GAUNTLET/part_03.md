@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)"
+title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘I should imagine that he might be here tomorrow, sir. I rather thought
-he might have been here today, sir. The mistake is mine, no doubt, sir.’
+he might have been here today, sir. The mistake is mine, no [[Doubt|doubt]], sir.’
 
 ‘If you should see him first--’ said I.
 
@@ -27,14 +27,14 @@ today, as an old schoolfellow of his was here.’
 ‘Indeed, sir!’ and he divided a bow between me and Traddles, with a
 glance at the latter.
 
-He was moving softly to the door, when, in a forlorn hope of saying
+He was moving softly to the door, when, in a forlorn [[Hope|hope]] of saying
 something naturally--which I never could, to this man--I said:
 
 ‘Oh! Littimer!’
 
 ‘Sir!’
 
-‘Did you remain long at Yarmouth, that time?’
+‘Did you remain long at Yarmouth, that [[Time|time]]?’
 
 ‘Not particularly so, sir.’
 
@@ -47,14 +47,14 @@ something naturally--which I never could, to this man--I said:
 ‘Mr. Steerforth has not seen it yet, I suppose?’
 
 ‘I really can’t say, sir. I think--but I really can’t say, sir. I wish
-you good night, sir.’
+you good [[Night|night]], sir.’
 
 He comprehended everybody present, in the respectful bow with which he
 followed these words, and disappeared. My visitors seemed to breathe
 more freely when he was gone; but my own relief was very great, for
 besides the constraint, arising from that extraordinary sense of
 being at a disadvantage which I always had in this man’s presence, my
-conscience had embarrassed me with whispers that I had mistrusted his
+[[Conscience|conscience]] had embarrassed me with whispers that I had mistrusted his
 master, and I could not repress a vague uneasy dread that he might
 find it out. How was it, having so little in reality to conceal, that I
 always DID feel as if this man were finding me out?
@@ -67,8 +67,8 @@ had taken his full share of the general bow, and had received it with
 infinite condescension.
 
 ‘But punch, my dear Copperfield,’ said Mr. Micawber, tasting it, ‘like
-time and tide, waits for no man. Ah! it is at the present moment in high
-flavour. My love, will you give me your opinion?’
+[[Time|time]] and tide, waits for no man. Ah! it is at the present moment in high
+flavour. My [[Love|love]], will you give me your opinion?’
 
 Mrs. Micawber pronounced it excellent.
 
@@ -84,15 +84,15 @@ sung together before now, that
 --in a figurative point of view--on several occasions. I am not exactly
 aware,’ said Mr. Micawber, with the old roll in his voice, and the old
 indescribable air of saying something genteel, ‘what gowans may be, but
-I have no doubt that Copperfield and myself would frequently have taken
+I have no [[Doubt|doubt]] that Copperfield and myself would frequently have taken
 a pull at them, if it had been feasible.’
 
 Mr. Micawber, at the then present moment, took a pull at his punch. So
-we all did: Traddles evidently lost in wondering at what distant time
+we all did: Traddles evidently lost in wondering at what distant [[Time|time]]
 Mr. Micawber and I could have been comrades in the battle of the world.
 
 ‘Ahem!’ said Mr. Micawber, clearing his throat, and warming with the
-punch and with the fire. ‘My dear, another glass?’
+punch and with the [[Fire|fire]]. ‘My dear, another glass?’
 
 Mrs. Micawber said it must be very little; but we couldn’t allow that,
 so it was a glassful.
@@ -128,7 +128,7 @@ What is best suited to a person of Mr. Micawber’s peculiar temperament
 is, I am convinced, a certainty.’
 
 Traddles and I both expressed, by a feeling murmur, that this great
-discovery was no doubt true of Mr. Micawber, and that it did him much
+discovery was no [[Doubt|doubt]] true of Mr. Micawber, and that it did him much
 credit.
 
 ‘I will not conceal from you, my dear Mr. Copperfield,’ said Mrs.
@@ -143,11 +143,11 @@ that idea? None. I may have a conviction that Mr. Micawber’s manners--’
 
 ‘Hem! Really, my dear,’ interposed Mr. Micawber.
 
-‘My love, be silent,’ said Mrs. Micawber, laying her brown glove on his
+‘My [[Love|love]], be silent,’ said Mrs. Micawber, laying her brown glove on his
 hand. ‘I may have a conviction, Mr. Copperfield, that Mr. Micawber’s
 manners peculiarly qualify him for the Banking business. I may argue
-within myself, that if I had a deposit at a banking-house, the manners
-of Mr. Micawber, as representing that banking-house, would inspire
+within myself, that if I had a deposit at a banking-[[house]], the manners
+of Mr. Micawber, as representing that banking-[[house]], would inspire
 confidence, and must extend the connexion. But if the various
 banking-houses refuse to avail themselves of Mr. Micawber’s abilities,
 or receive the offer of them with contumely, what is the use of dwelling

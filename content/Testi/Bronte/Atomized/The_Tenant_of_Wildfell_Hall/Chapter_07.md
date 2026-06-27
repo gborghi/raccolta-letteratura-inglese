@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 7"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 Not many days after this, on a mild sunny morning—rather soft under
 
-foot; for the last fall of snow was only just wasted away, leaving yet
+foot; for the last fall of [[Snow|snow]] was only just wasted away, leaving yet
 
 a thin ridge, here and there, lingering on the fresh green grass
 
@@ -30,15 +30,15 @@ beneath the hedges; but beside them already, the young primroses were
 
 peeping from among their moist, dark foliage, and the lark above was
 
-singing of summer, and hope, and love, and every heavenly thing—I was
+singing of [[Summer|summer]], and [[Hope|hope]], and [[Love|love]], and every heavenly thing—I was
 
-out on the hill-side, enjoying these delights, and looking after the
+out on the [[Hill|hill]]-side, enjoying these delights, and looking after the
 
-well-being of my young lambs and their mothers, when, on glancing round
+[[Well|well]]-being of my young lambs and their mothers, when, on glancing round
 
 me, I beheld three persons ascending from the vale below. They were
 
-Eliza Millward, Fergus, and Rose; so I crossed the field to meet them;
+Eliza Millward, Fergus, and [[Rose]]; so I crossed the field to meet them;
 
 and, being told they were going to Wildfell Hall, I declared myself
 
@@ -56,7 +56,7 @@ accompanying me, not I them. You had all had a peep at this wonderful
 
 stranger but me, and I could endure my wretched ignorance no
 
-longer—come what would, I must be satisfied; so I begged Rose to go
+longer—come what would, I must be satisfied; so I begged [[Rose]] to go
 
 with me to the Hall, and introduce me to her at once. She swore she
 
@@ -64,7 +64,7 @@ would not, unless Miss Eliza would go too; so I ran to the vicarage and
 
 fetched her; and we’ve come hooked all the way, as fond as a pair of
 
-lovers—and now you’ve taken her from me; and you want to deprive me of
+[[lovers]]—and now you’ve taken her from me; and you want to deprive me of
 
 my walk and my visit besides. Go back to your fields and your cattle,
 
@@ -74,7 +74,7 @@ gentlemen like us, that have nothing to do but to run snooking about to
 
 our neighbours’ houses, peeping into their private corners, and
 
-scenting out their secrets, and picking holes in their coats, when we
+scenting out their [[Secrets|secrets]], and picking holes in their coats, when we
 
 don’t find them ready made to our hands—you don’t understand such
 
@@ -88,7 +88,7 @@ the speech.
 
 
 
-“Yes, both, to be sure!” cried Rose; “the more the merrier—and I’m sure
+“Yes, both, to be sure!” cried [[Rose]]; “the more the merrier—and I’m sure
 
 we shall want all the cheerfulness we can carry with us to that great,
 
@@ -98,9 +98,9 @@ furniture—unless she shows us into her studio again.”
 
 
 
-So we went all in a body; and the meagre old maid-servant, that opened
+So we went all in a [[Body|body]]; and the meagre old maid-servant, that opened
 
-the door, ushered us into an apartment such as Rose had described to me
+the door, ushered us into an apartment such as [[Rose]] had described to me
 
 as the scene of her first introduction to Mrs. Graham, a tolerably
 
@@ -110,7 +110,7 @@ windows, the ceiling, panels, and chimney-piece of grim black oak—the
 
 latter elaborately but not very tastefully carved,—with tables and
 
-chairs to match, an old bookcase on one side of the fire-place, stocked
+chairs to match, an old bookcase on one side of the [[Fire|fire]]-place, stocked
 
 with a motley assemblage of books, and an elderly cabinet piano on the
 
@@ -144,9 +144,9 @@ I do not think Mrs. Graham was particularly delighted to see us: there
 
 was something indescribably chilly in her quiet, calm civility; but I
 
-did not talk much to her. Seating myself near the window, a little back
+did not talk much to her. Seating myself near the [[Window|window]], a little back
 
-from the circle, I called Arthur to me, and he and I and Sancho amused
+from the circle, I called [[arthur|Arthur]] to me, and he and I and Sancho amused
 
 ourselves very pleasantly together, while the two young ladies baited
 
@@ -164,11 +164,11 @@ air, now interrupting the conversation, or filling up a pause (as the
 
 case might be) with some most impertinent question or remark. At one
 
-time it was,—“It, amazes me, Mrs. Graham, how you could choose such a
+[[Time|time]] it was,—“It, amazes me, Mrs. Graham, how you could choose such a
 
 dilapidated, rickety old place as this to live in. If you couldn’t
 
-afford to occupy the whole house, and have it mended up, why couldn’t
+afford to occupy the whole [[house]], and have it mended up, why couldn’t
 
 you take a neat little cottage?”
 
@@ -188,11 +188,11 @@ lumber-rooms, if I have anything to put in them; and they are very
 
 useful for my little boy to run about in on rainy days when he can’t go
 
-out; and then there is the garden for him to play in, and for me to
+out; and then there is the [[Garden|garden]] for him to play in, and for me to
 
 work in. You see I have effected some little improvement already,”
 
-continued she, turning to the window. “There is a bed of young
+continued she, turning to the [[Window|window]]. “There is a bed of young
 
 vegetables in that corner, and here are some snowdrops and primroses
 
@@ -204,7 +204,7 @@ sunshine.”
 
 “But then how can you bear such a situation—your nearest neighbours two
 
-miles distant, and nobody looking in or passing by? Rose would go stark
+miles distant, and nobody looking in or passing by? [[Rose]] would go stark
 
 mad in such a place. She can’t put on life unless she sees half a dozen
 
@@ -216,7 +216,7 @@ as an old woman carrying her eggs to market.”
 
 
 
-“I am not sure the loneliness of the place was not one of its chief
+“I am not sure the [[Loneliness|loneliness]] of the place was not one of its chief
 
 recommendations. I take no pleasure in watching people pass the
 
@@ -226,7 +226,7 @@ windows; and I like to be quiet.”
 
 “Oh! as good as to say you wish we would all of us mind our own
 
-business, and let you alone.”
+business, and let you [[Alone|alone]].”
 
 
 
@@ -234,13 +234,13 @@ business, and let you alone.”
 
 of course I am glad to see them occasionally. No one can be happy in
 
-eternal solitude. Therefore, Mr. Fergus, if you choose to enter my
+eternal [[Solitude|solitude]]. Therefore, Mr. Fergus, if you choose to enter my
 
-house as a friend, I will make you welcome; if not, I must confess, I
+[[house]] as a friend, I will make you welcome; if not, I must confess, I
 
 would rather you kept away.” She then turned and addressed some
 
-observation to Rose or Eliza.
+observation to [[Rose]] or Eliza.
 
 
 
@@ -260,13 +260,13 @@ often, that we are quite sick of that game; so that a stranger coming
 
 amongst us makes an invaluable addition to our exhausted sources of
 
-amusement. Well, the question, or questions, you are requested to
+amusement. [[Well]], the question, or questions, you are requested to
 
 solve—”
 
 
 
-“Hold your tongue, Fergus!” cried Rose, in a fever of apprehension and
+“Hold your tongue, Fergus!” cried [[Rose]], in a fever of apprehension and
 
 wrath.
 
@@ -284,13 +284,13 @@ south; some say—”
 
 
 
-“Well, Mr. Fergus, I’ll tell you. I’m an Englishwoman—and I don’t see
+“[[Well]], Mr. Fergus, I’ll tell you. I’m an Englishwoman—and I don’t see
 
-why any one should doubt it—and I was born in the country, neither in
+why any one should [[Doubt|doubt]] it—and I was born in the country, neither in
 
 the extreme north nor south of our happy isle; and in the country I
 
-have chiefly passed my life, and now I hope you are satisfied; for I am
+have chiefly passed my life, and now I [[Hope|hope]] you are satisfied; for I am
 
 not disposed to answer any more questions at present.”
 
@@ -302,7 +302,7 @@ not disposed to answer any more questions at present.”
 
 “No, not one more!” laughed she, and, instantly quitting her seat, she
 
-sought refuge at the window by which I was seated, and, in very
+sought refuge at the [[Window|window]] by which I was seated, and, in very
 
 desperation, to escape my brother’s persecutions, endeavoured to draw
 
@@ -314,17 +314,17 @@ me into conversation.
 
 plainly evincing her disquietude, “have you forgotten the fine sea-view
 
-we were speaking of some time ago? I think I must trouble you, now, to
+we were speaking of some [[Time|time]] ago? I think I must trouble you, now, to
 
 tell me the nearest way to it; for if this beautiful weather continue,
 
-I shall, perhaps, be able to walk there, and take my sketch; I have
+I shall, perhaps, be able to walk there, and take my [[Sketch|sketch]]; I have
 
 exhausted every other subject for painting; and I long to see it.”
 
 
 
-I was about to comply with her request, but Rose would not suffer me to
+I was about to comply with her request, but [[Rose]] would not suffer me to
 
 proceed.
 
@@ -334,7 +334,7 @@ proceed.
 
 —— Bay you are thinking about, I suppose, Mrs. Graham? It is a very
 
-long walk, too far for you, and out of the question for Arthur. But we
+long walk, too far for you, and out of the question for [[arthur|Arthur]]. But we
 
 were thinking about making a picnic to see it some fine day; and, if
 
@@ -346,7 +346,7 @@ all be delighted to have you amongst us.”
 
 Poor Mrs. Graham looked dismayed, and attempted to make excuses, but
 
-Rose, either compassionating her lonely life, or anxious to cultivate
+[[Rose]], either compassionating her lonely life, or anxious to cultivate
 
 her acquaintance, was determined to have her; and every objection was
 
@@ -358,11 +358,11 @@ miles distant.
 
 
 
-“Just a nice walk for the gentlemen,” continued Rose; “but the ladies
+“Just a nice walk for the gentlemen,” continued [[Rose]]; “but the ladies
 
 will drive and walk by turns; for we shall have our pony-carriage,
 
-which will be plenty large enough to contain little Arthur and three
+which will be plenty large enough to contain little [[arthur|Arthur]] and three
 
 ladies, together with your sketching apparatus, and our provisions.”
 
@@ -370,9 +370,9 @@ ladies, together with your sketching apparatus, and our provisions.”
 
 So the proposal was finally acceded to; and, after some further
 
-discussion respecting the time and manner of the projected excursion,
+discussion respecting the [[Time|time]] and manner of the projected excursion,
 
-we rose, and took our leave.
+we [[Rose|rose]], and took our leave.
 
 
 
@@ -380,7 +380,7 @@ But this was only March: a cold, wet April, and two weeks of May passed
 
 over before we could venture forth on our expedition with the
 
-reasonable hope of obtaining that pleasure we sought in pleasant
+reasonable [[Hope|hope]] of obtaining that pleasure we sought in pleasant
 
 prospects, cheerful society, fresh air, good cheer and exercise,
 
@@ -390,7 +390,7 @@ Then, on a glorious morning, we gathered our forces and set forth. The
 
 company consisted of Mrs. and Master Graham, Mary and Eliza Millward,
 
-Jane and Richard Wilson, and Rose, Fergus, and Gilbert Markham.
+Jane and [[Richard]] Wilson, and [[Rose]], Fergus, and [[Gilbert Markham]].
 
 
 
@@ -406,7 +406,7 @@ inclined to go, but when I mentioned Mrs. Graham, thinking it might be
 
 a further inducement, it appeared to have a contrary effect, and he
 
-declined it altogether, and, to confess the truth, the decision was not
+declined it altogether, and, to confess the [[Truth|truth]], the decision was not
 
 displeasing to me, though I could scarcely tell you why.
 
@@ -414,7 +414,7 @@ displeasing to me, though I could scarcely tell you why.
 
 It was about midday when we reached the place of our destination. Mrs.
 
-Graham walked all the way to the cliffs; and little Arthur walked the
+Graham walked all the way to the cliffs; and little [[arthur|Arthur]] walked the
 
 greater part of it too; for he was now much more hardy and active than
 
@@ -430,13 +430,13 @@ far behind, or passing through distant fields and lanes.
 
 I have a very pleasant recollection of that walk, along the hard,
 
-white, sunny road, shaded here and there with bright green trees, and
+white, sunny [[Road|road]], shaded here and there with bright green trees, and
 
 adorned with flowery banks and blossoming hedges of delicious
 
 fragrance; or through pleasant fields and lanes, all glorious in the
 
-sweet flowers and brilliant verdure of delightful May. It was true,
+sweet [[Flowers|flowers]] and brilliant verdure of delightful May. It was true,
 
 Eliza was not beside me; but she was with her friends in the
 
@@ -452,7 +452,7 @@ dear little bonnet and shawl from my sight, nor did I feel that all
 
 those intervening objects lay between my happiness and me; for, to
 
-confess the truth, I was too happy in the company of Mrs. Graham to
+confess the [[Truth|truth]], I was too happy in the company of Mrs. Graham to
 
 regret the absence of Eliza Millward.
 
@@ -462,11 +462,11 @@ The former, it is true, was most provokingly unsociable at
 
 first—seemingly bent upon talking to no one but Mary Millward and
 
-Arthur. She and Mary journeyed along together, generally with the child
+[[arthur|Arthur]]. She and Mary journeyed along together, generally with the [[Child|child]]
 
-between them;—but where the road permitted, I always walked on the
+between them;—but where the [[Road|road]] permitted, I always walked on the
 
-other side of her, Richard Wilson taking the other side of Miss
+other side of her, [[Richard]] Wilson taking the other side of Miss
 
 Millward, and Fergus roving here and there according to his fancy; and,
 
@@ -498,7 +498,7 @@ her eyes, and, if possible, to win her esteem.
 
 At length our walk was ended. The increasing height and boldness of the
 
-hills had for some time intercepted the prospect; but, on gaining the
+hills had for some [[Time|time]] intercepted the prospect; but, on gaining the
 
 summit of a steep acclivity, and looking downward, an opening lay
 
@@ -524,7 +524,7 @@ it with a gaze that assured me she was not disappointed. She had very
 
 fine eyes, by-the-by—I don’t know whether I have told you before, but
 
-they were full of soul, large, clear, and nearly black—not brown, but
+they were full of [[Soul|soul]], large, clear, and nearly black—not brown, but
 
 very dark grey. A cool, reviving breeze blew from the sea—soft, pure,
 
@@ -542,13 +542,13 @@ almost a smile of exalted, glad intelligence as her eye met mine. Never
 
 had she looked so lovely: never had my heart so warmly cleaved to her
 
-as now. Had we been left two minutes longer standing there alone, I
+as now. Had we been left two minutes longer standing there [[Alone|alone]], I
 
 cannot answer for the consequences. Happily for my discretion, perhaps
 
 for my enjoyment during the remainder of the day, we were speedily
 
-summoned to the repast—a very respectable collation, which Rose,
+summoned to the repast—a very respectable collation, which [[Rose]],
 
 assisted by Miss Wilson and Eliza, who, having shared her seat in the
 
@@ -564,7 +564,7 @@ Mrs. Graham seated herself at a distance from me. Eliza was my nearest
 
 neighbour. She exerted herself to be agreeable, in her gentle,
 
-unobtrusive way, and was, no doubt, as fascinating and charming as
+unobtrusive way, and was, no [[Doubt|doubt]], as fascinating and charming as
 
 ever, if I could only have felt it. But soon my heart began to warm
 
@@ -574,7 +574,7 @@ together—as far as I could see—throughout the protracted social meal.
 
 
 
-When that was over, Rose summoned Fergus to help her to gather up the
+When that was over, [[Rose]] summoned Fergus to help her to gather up the
 
 fragments, and the knives, dishes, &c., and restore them to the
 
@@ -584,11 +584,11 @@ having begged Miss Millward to take charge of her precious son, and
 
 strictly enjoined him not to wander from his new guardian’s side, she
 
-left us and proceeded along the steep, stony hill, to a loftier, more
+left us and proceeded along the steep, stony [[Hill|hill]], to a loftier, more
 
 precipitous eminence at some distance, whence a still finer prospect
 
-was to be had, where she preferred taking her sketch, though some of
+was to be had, where she preferred taking her [[Sketch|sketch]], though some of
 
 the ladies told her it was a frightful place, and advised her not to
 
@@ -612,15 +612,15 @@ been enlivened by her presence, though I knew it not; and now that she
 
 was gone, Eliza’s playful nonsense ceased to amuse me—nay, grew
 
-wearisome to my soul, and I grew weary of amusing her: I felt myself
+wearisome to my [[Soul|soul]], and I grew weary of amusing her: I felt myself
 
 drawn by an irresistible attraction to that distant point where the
 
-fair artist sat and plied her solitary task—and not long did I attempt
+fair [[artist]] sat and plied her solitary task—and not long did I attempt
 
 to resist it: while my little neighbour was exchanging a few words with
 
-Miss Wilson, I rose and cannily slipped away. A few rapid strides, and
+Miss Wilson, I [[Rose|rose]] and cannily slipped away. A few rapid strides, and
 
 a little active clambering, soon brought me to the place where she was
 
@@ -632,7 +632,7 @@ shore.
 
 
 
-She did not hear me coming: the falling of my shadow across her paper
+She did not hear me coming: the falling of my [[Shadow|shadow]] across her paper
 
 gave her an electric start; and she looked hastily round—any other lady
 
@@ -652,7 +652,7 @@ nervous, I would have been more cautious; but—”
 
 
 
-“Well, never mind. What did you come for? are they all coming?”
+“[[Well]], never mind. What did you come for? are they all coming?”
 
 
 
@@ -664,7 +664,7 @@ nervous, I would have been more cautious; but—”
 
 
 
-“Well, then, I won’t talk. I’ll only sit and watch your drawing.”
+“[[Well]], then, I won’t talk. I’ll only sit and watch your drawing.”
 
 
 
@@ -676,9 +676,9 @@ nervous, I would have been more cautious; but—”
 
 
 
-She made no objection to this; and, for some time, sketched away in
+She made no objection to this; and, for some [[Time|time]], sketched away in
 
-silence. But I could not help stealing a glance, now and then, from the
+[[Silence|silence]]. But I could not help stealing a glance, now and then, from the
 
 splendid view at our feet to the elegant white hand that held the
 
@@ -690,13 +690,13 @@ the paper.
 
 “Now,” thought I, “if I had but a pencil and a morsel of paper, I could
 
-make a lovelier sketch than hers, admitting I had the power to
+make a lovelier [[Sketch|sketch]] than hers, admitting I had the power to
 
 delineate faithfully what is before me.”
 
 
 
-But, though this satisfaction was denied me, I was very well content to
+But, though this satisfaction was denied me, I was very [[Well|well]] content to
 
 sit beside her there, and say nothing.
 
@@ -712,13 +712,13 @@ cliff.—“Why don’t you go and amuse yourself with your friends?”
 
 “Because I am tired of them, like you; and I shall have enough of them
 
-to-morrow—or at any time hence; but you I may not have the pleasure of
+to-morrow—or at any [[Time|time]] hence; but you I may not have the pleasure of
 
 seeing again for I know not how long.”
 
 
 
-“What was Arthur doing when you came away?”
+“What was [[arthur|Arthur]] doing when you came away?”
 
 
 
@@ -726,7 +726,7 @@ seeing again for I know not how long.”
 
 mamma would not be long away. You didn’t intrust him to me, by-the-by,”
 
-I grumbled, “though I had the honour of a much longer acquaintance; but
+I grumbled, “though I had the [[Honour|honour]] of a much longer acquaintance; but
 
 Miss Millward has the art of conciliating and amusing children,” I
 
@@ -736,7 +736,7 @@ carelessly added, “if she is good for nothing else.”
 
 “Miss Millward has many estimable qualities, which such as you cannot
 
-be expected to perceive or appreciate. Will you tell Arthur that I
+be expected to perceive or appreciate. Will you tell [[arthur|Arthur]] that I
 
 shall come in a few minutes?”
 
@@ -756,13 +756,13 @@ assistance.”
 
 
 
-“But, at least, I can carry your stool and sketch-book.”
+“But, at least, I can carry your stool and [[Sketch|sketch]]-book.”
 
 
 
 She did not deny me this favour; but I was rather offended at her
 
-evident desire to be rid of me, and was beginning to repent of my
+evident [[Desire|desire]] to be rid of me, and was beginning to repent of my
 
 pertinacity, when she somewhat appeased me by consulting my taste and
 
@@ -792,11 +792,11 @@ exposes us.”
 
 
 
-“True,” said she; and again we relapsed into silence.
+“True,” said she; and again we relapsed into [[Silence|silence]].
 
 
 
-About two minutes after, however, she declared her sketch completed,
+About two minutes after, however, she declared her [[Sketch|sketch]] completed,
 
 and closed the book.
 
@@ -804,9 +804,9 @@ and closed the book.
 
 On returning to the scene of our repast we found all the company had
 
-deserted it, with the exception of three—Mary Millward, Richard Wilson,
+deserted it, with the exception of three—Mary Millward, [[Richard]] Wilson,
 
-and Arthur Graham. The younger gentleman lay fast asleep with his head
+and [[arthur|Arthur]] Graham. The younger gentleman lay fast asleep with his head
 
 pillowed on the lady’s lap; the other was seated beside her with a
 
@@ -814,19 +814,19 @@ pocket edition of some classic author in his hand. He never went
 
 anywhere without such a companion wherewith to improve his leisure
 
-moments: all time seemed lost that was not devoted to study, or
+moments: all [[Time|time]] seemed lost that was not devoted to study, or
 
-exacted, by his physical nature, for the bare support of life. Even now
+exacted, by his physical [[Nature|nature]], for the bare support of life. Even now
 
 he could not abandon himself to the enjoyment of that pure air and
 
 balmy sunshine—that splendid prospect, and those soothing sounds, the
 
-music of the waves and of the soft wind in the sheltering trees above
+music of the waves and of the soft [[Wind|wind]] in the sheltering trees above
 
 him—not even with a lady by his side (though not a very charming one, I
 
-will allow)—he must pull out his book, and make the most of his time
+will allow)—he must pull out his book, and make the most of his [[Time|time]]
 
 while digesting his temperate meal, and reposing his weary limbs,
 
@@ -846,7 +846,7 @@ thoughtful face with great complacency when we arrived.
 
 
 
-The journey homeward was by no means so agreeable to me as the former
+The [[Journey|journey]] homeward was by no means so agreeable to me as the former
 
 part of the day: for now Mrs. Graham was in the carriage, and Eliza
 
@@ -856,15 +856,15 @@ for the young widow, and evidently felt herself neglected. She did not
 
 manifest her chagrin by keen reproaches, bitter sarcasms, or pouting
 
-sullen silence—any or all of these I could easily have endured, or
+sullen [[Silence|silence]]—any or all of these I could easily have endured, or
 
-lightly laughed away; but she showed it by a kind of gentle melancholy,
+lightly laughed away; but she showed it by a kind of gentle [[Melancholy|melancholy]],
 
 a mild, reproachful sadness that cut me to the heart. I tried to cheer
 
 her up, and apparently succeeded in some degree, before the walk was
 
-over; but in the very act my conscience reproved me, knowing, as I did,
+over; but in the very act my [[Conscience|conscience]] reproved me, knowing, as I did,
 
 that, sooner or later, the tie must be broken, and this was only
 
@@ -872,25 +872,25 @@ nourishing false hopes and putting off the evil day.
 
 
 
-When the pony-carriage had approached as near Wildfell Hall as the road
+When the pony-carriage had approached as near Wildfell Hall as the [[Road|road]]
 
 would permit—unless, indeed, it proceeded up the long rough lane, which
 
 Mrs. Graham would not allow—the young widow and her son alighted,
 
-relinquishing the driver’s seat to Rose; and I persuaded Eliza to take
+relinquishing the driver’s seat to [[Rose]]; and I persuaded Eliza to take
 
 the latter’s place. Having put her comfortably in, bid her take care of
 
-the evening air, and wished her a kind good-night, I felt considerably
+the evening air, and wished her a kind good-[[Night|night]], I felt considerably
 
 relieved, and hastened to offer my services to Mrs. Graham to carry her
 
 apparatus up the fields, but she had already hung her camp-stool on her
 
-arm and taken her sketch-book in her hand, and insisted upon bidding me
+arm and taken her [[Sketch|sketch]]-book in her hand, and insisted upon bidding me
 
-adieu then and there, with the rest of the company. But this time she
+adieu then and there, with the rest of the company. But this [[Time|time]] she
 
 declined my proffered aid in so kind and friendly a manner that I
 

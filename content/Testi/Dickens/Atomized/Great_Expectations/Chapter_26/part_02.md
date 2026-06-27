@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 26 (part 2)"
+title: "[[Great Expectations]] — Chapter 26 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -32,9 +32,9 @@ lips. It was so with all of us, but with no one more than Drummle: the
 development of whose inclination to gird in a grudging and suspicious
 way at the rest, was screwed out of him before the fish was taken off.
 
-It was not then, but when we had got to the cheese, that our
+It was not then, but when we had got to the [[cheese]], that our
 conversation turned upon our rowing feats, and that Drummle was rallied
-for coming up behind of a night in that slow amphibious way of his.
+for coming up behind of a [[Night|night]] in that slow amphibious way of his.
 Drummle upon this, informed our host that he much preferred our room to
 our company, and that as to skill he was more than our master, and that
 as to strength he could scatter us like chaff. By some invisible
@@ -43,7 +43,7 @@ about this trifle; and he fell to baring and spanning his arm to show
 how muscular it was, and we all fell to baring and spanning our arms in
 a ridiculous manner.
 
-Now the housekeeper was at that time clearing the table; my guardian,
+Now the housekeeper was at that [[Time|time]] clearing the table; my guardian,
 taking no heed of her, but with the side of his face turned from her,
 was leaning back in his chair biting the side of his forefinger and
 showing an interest in Drummle, that, to me, was quite inexplicable.
@@ -89,7 +89,7 @@ putting the decanters on from his dumb-waiter, filled his glass and
 passed round the wine.
 
 “At half-past nine, gentlemen,” said he, “we must break up. Pray make
-the best use of your time. I am glad to see you all. Mr. Drummle, I
+the best use of your [[Time|time]]. I am glad to see you all. Mr. Drummle, I
 drink to you.”
 
 If his object in singling out Drummle were to bring him out still more,
@@ -106,7 +106,7 @@ our money. It led to my remarking, with more zeal than discretion, that
 it came with a bad grace from him, to whom Startop had lent money in my
 presence but a week or so before.
 
-“Well,” retorted Drummle; “he’ll be paid.”
+“[[Well]],” retorted Drummle; “he’ll be paid.”
 
 “I don’t mean to imply that he won’t,” said I, “but it might make you
 hold your tongue about us and our money, I should think.”

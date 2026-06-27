@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Oberon, King of Fairies |
-| OBERON | I wonder if Titania be awaked, Then what it was that next came in her eye, Which she must dote on in extremity. Enter Robin Goodfellow Here comes my messenger. How now, mad spirit? What nightrule now about this haunted grove? |
+| *(didascalia)* | Enter [[Oberon]], [[King]] of Fairies |
+| [[Oberon|OBERON]] | I [[Wonder|wonder]] if [[Titania]] be awaked, Then what it was that next came in her eye, Which she must dote on in extremity. Enter Robin Goodfellow Here comes my messenger. How now, mad spirit? What nightrule now about this haunted grove? |

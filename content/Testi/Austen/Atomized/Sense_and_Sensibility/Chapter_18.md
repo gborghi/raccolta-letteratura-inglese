@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 18"
+title: "[[Sense and Sensibility]] — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -28,7 +28,7 @@ enjoyment in it appeared so imperfect. It was evident that he was
 
 unhappy; she wished it were equally evident that he still distinguished
 
-her by the same affection which once she had felt no doubt of
+her by the same affection which once she had felt no [[Doubt|doubt]] of
 
 inspiring; but hitherto the continuance of his preference seemed very
 
@@ -96,7 +96,7 @@ and the valley looks comfortable and snug—with rich meadows and several
 
 neat farm houses scattered here and there. It exactly answers my idea
 
-of a fine country, because it unites beauty with utility—and I dare say
+of a fine country, because it unites [[Beauty|beauty]] with utility—and I dare say
 
 it is a picturesque one too, because you admire it; I can easily
 
@@ -116,7 +116,7 @@ boast of it?”
 
 Edward here falls into another. Because he believes many people pretend
 
-to more admiration of the beauties of nature than they really feel, and
+to more admiration of the beauties of [[Nature|nature]] than they really feel, and
 
 is disgusted with such pretensions, he affects greater indifference and
 
@@ -128,11 +128,11 @@ fastidious and will have an affectation of his own.”
 
 “It is very true,” said Marianne, “that admiration of landscape scenery
 
-is become a mere jargon. Every body pretends to feel and tries to
+is become a mere jargon. Every [[Body|body]] pretends to feel and tries to
 
 describe with the taste and elegance of him who first defined what
 
-picturesque beauty was. I detest jargon of every kind, and sometimes I
+picturesque [[Beauty|beauty]] was. I detest jargon of every kind, and sometimes I
 
 have kept my feelings to myself, because I could find no language to
 
@@ -156,7 +156,7 @@ flourishing. I do not like ruined, tattered cottages. I am not fond of
 
 nettles or thistles, or heath blossoms. I have more pleasure in a snug
 
-farm-house than a watch-tower—and a troop of tidy, happy villagers
+farm-[[house]] than a watch-tower—and a troop of tidy, happy villagers
 
 please me better than the finest banditti in the world.”
 
@@ -202,7 +202,7 @@ setting always casts a different shade on it, you know.”
 
 Elinor had met his eye, and looked conscious likewise. That the hair
 
-was her own, she instantaneously felt as well satisfied as Marianne;
+was her own, she instantaneously felt as [[Well|well]] satisfied as Marianne;
 
 the only difference in their conclusions was, that what Marianne
 
@@ -210,25 +210,25 @@ considered as a free gift from her sister, Elinor was conscious must
 
 have been procured by some theft or contrivance unknown to herself. She
 
-was not in a humour, however, to regard it as an affront, and affecting
+was not in a [[Humour|humour]], however, to regard it as an affront, and affecting
 
 to take no notice of what passed, by instantly talking of something
 
 else, she internally resolved henceforward to catch every opportunity
 
-of eyeing the hair and of satisfying herself, beyond all doubt, that it
+of eyeing the hair and of satisfying herself, beyond all [[Doubt|doubt]], that it
 
 was exactly the shade of her own.
 
 
 
-Edward’s embarrassment lasted some time, and it ended in an absence of
+Edward’s embarrassment lasted some [[Time|time]], and it ended in an absence of
 
-mind still more settled. He was particularly grave the whole morning.
+mind still more settled. He was particularly [[Grave|grave]] the whole morning.
 
 Marianne severely censured herself for what she had said; but her own
 
-forgiveness might have been more speedy, had she known how little
+[[Forgiveness|forgiveness]] might have been more speedy, had she known how little
 
 offence it had given her sister.
 
@@ -268,9 +268,9 @@ to engage them for both.
 
 
 
-“You _must_ drink tea with us to night,” said he, “for we shall be
+“You _must_ drink tea with us to [[Night|night]],” said he, “for we shall be
 
-quite alone—and tomorrow you must absolutely dine with us, for we shall
+quite [[Alone|alone]]—and tomorrow you must absolutely dine with us, for we shall
 
 be a large party.”
 
@@ -278,23 +278,23 @@ be a large party.”
 
 Mrs. Jennings enforced the necessity. “And who knows but you may raise
 
-a dance,” said she. “And that will tempt _you_, Miss Marianne.”
+a [[Dance|dance]],” said she. “And that will tempt _you_, Miss Marianne.”
 
 
 
-“A dance!” cried Marianne. “Impossible! Who is to dance?”
+“A [[Dance|dance]]!” cried Marianne. “Impossible! Who is to [[Dance|dance]]?”
 
 
 
 “Who! why yourselves, and the Careys, and Whitakers to be sure.—What!
 
-you thought nobody could dance because a certain person that shall be
+you thought nobody could [[Dance|dance]] because a certain person that shall be
 
 nameless is gone!”
 
 
 
-“I wish with all my soul,” cried Sir John, “that Willoughby were among
+“I wish with all my [[Soul|soul]],” cried Sir John, “that Willoughby were among
 
 us again.”
 
@@ -332,23 +332,23 @@ said, in a whisper, “I have been guessing. Shall I tell you my guess?”
 
 
 
-“Well then; I guess that Mr. Willoughby hunts.”
+“[[Well]] then; I guess that Mr. Willoughby hunts.”
 
 
 
 Marianne was surprised and confused, yet she could not help smiling at
 
-the quiet archness of his manner, and after a moment’s silence, said,
+the quiet archness of his manner, and after a moment’s [[Silence|silence]], said,
 
 
 
-“Oh, Edward! How can you?—But the time will come I hope...I am sure you
+“Oh, Edward! How can you?—But the [[Time|time]] will come I [[Hope|hope]]...I am sure you
 
 will like him.”
 
 
 
-“I do not doubt it,” replied he, rather astonished at her earnestness
+“I do not [[Doubt|doubt]] it,” replied he, rather astonished at her earnestness
 
 and warmth; for had he not imagined it to be a joke for the good of her
 

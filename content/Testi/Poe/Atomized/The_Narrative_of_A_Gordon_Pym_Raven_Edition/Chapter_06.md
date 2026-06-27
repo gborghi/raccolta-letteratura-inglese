@@ -46,17 +46,17 @@ CHAPTER 6
 
       door. We found him lying at full length, apparently in a deep
 
-      stupor, yet still alive. No time was to be lost, yet I could not
+      stupor, yet still alive. No [[Time|time]] was to be lost, yet I could not
 
       bring myself to abandon an animal who had now been twice
 
       instrumental in saving my life, without some attempt at
 
-      preserving him. We therefore dragged him along with us as well as
+      preserving him. We therefore dragged him along with us as [[Well|well]] as
 
       we could, although with the greatest difficulty and fatigue;
 
-      Augustus, during part of the time, being forced to clamber over
+      Augustus, during part of the [[Time|time]], being forced to clamber over
 
       the impediments in our way with the huge dog in his arms—a feat
 
@@ -94,7 +94,7 @@ CHAPTER 6
 
       by no means as careful or as experienced a seaman as the
 
-      hazardous nature of the service on which he was employed would
+      hazardous [[Nature|nature]] of the service on which he was employed would
 
       seem necessarily to demand. A proper stowage cannot be
 
@@ -116,7 +116,7 @@ CHAPTER 6
 
       great attention must be paid, not only to the bulk taken in, but
 
-      to the nature of the bulk, and whether there be a full or only a
+      to the [[Nature|nature]] of the bulk, and whether there be a full or only a
 
       partial cargo. In most kinds of freight the stowage is
 
@@ -126,7 +126,7 @@ CHAPTER 6
 
       vessel that the barrels or hogsheads, upon discharging, are found
 
-      to be completely flattened, and take some time to regain their
+      to be completely flattened, and take some [[Time|time]] to regain their
 
       original shape. This screwing, however, is resorted to
 
@@ -148,7 +148,7 @@ CHAPTER 6
 
       has been known, through the expansion of its bulk, to rend a
 
-      vessel asunder at sea. There can be no doubt either that the same
+      vessel asunder at sea. There can be no [[Doubt|doubt]] either that the same
 
       result would ensue in the case of tobacco, while undergoing its
 
@@ -164,9 +164,9 @@ CHAPTER 6
 
       always taken to guard against such misfortune. Only those who
 
-      have encountered a violent gale of wind, or rather who have
+      have encountered a violent gale of [[Wind|wind]], or rather who have
 
-      experienced the rolling of a vessel in a sudden calm after the
+      experienced the [[rolling]] of a vessel in a sudden calm after the
 
       gale, can form an idea of the tremendous force of the plunges,
 
@@ -190,7 +190,7 @@ CHAPTER 6
 
       lurches the whole of the cargo tumbles over to the side of the
 
-      vessel which lies upon the water, and, being thus prevented from
+      vessel which lies upon the [[Water|water]], and, being thus prevented from
 
       regaining her equilibrium, as she would otherwise necessarily do,
 
@@ -234,7 +234,7 @@ CHAPTER 6
 
       weather experienced. If grain loosely thrown in a vessel, then,
 
-      is ever so well secured by shifting-boards and stanchions, it
+      is ever so [[Well|well]] secured by shifting-boards and stanchions, it
 
       will be liable to shift in a long passage so greatly as to bring
 
@@ -260,7 +260,7 @@ CHAPTER 6
 
       partial cargoes, even of the most dangerous species, and without
 
-      any precaution whatever. The wonder is that no more accidents
+      any precaution whatever. The [[Wonder|wonder]] is that no more accidents
 
       occur than do actually happen. A lamentable instance of this
 
@@ -286,15 +286,15 @@ CHAPTER 6
 
       sail of Madeira there came on a strong gale from the N. N. E.
 
-      which forced him to lie-to. He brought the schooner to the wind
+      which forced him to lie-to. He brought the schooner to the [[Wind|wind]]
 
-      under a double-reefed foresail alone, when she rode as well as
+      under a [[Double|double]]-reefed foresail [[Alone|alone]], when she rode as [[Well|well]] as
 
       any vessel could be expected to do, and shipped not a drop of
 
-      water. Toward night the gale somewhat abated, and she rolled with
+      [[Water|water]]. Toward [[Night|night]] the gale somewhat abated, and she rolled with
 
-      more unsteadiness than before, but still did very well, until a
+      more unsteadiness than before, but still did very [[Well|well]], until a
 
       heavy lurch threw her upon her beam-ends to starboard. The corn
 
@@ -316,11 +316,11 @@ CHAPTER 6
 
       stowage that could be called which was little better than a
 
-      promiscuous huddling together of oil-casks {*1} and ship
+      promiscuous huddling together of oil-casks {*1} and [[Ship|ship]]
 
       furniture. I have already spoken of the condition of articles in
 
-      the hold. On the orlop deck there was space enough for my body
+      the hold. On the orlop deck there was space enough for my [[Body|body]]
 
       (as I have stated) between the oil-casks and the upper deck; a
 
@@ -336,7 +336,7 @@ CHAPTER 6
 
 
 
-      By the time my friend had got safely into the berth, and
+      By the [[Time|time]] my friend had got safely into the berth, and
 
       readjusted his handcuffs and the rope, it was broad daylight. We
 
@@ -344,7 +344,7 @@ CHAPTER 6
 
       matters, when the mate came below, with Dirk Peters and the cook.
 
-      They talked for some time about the vessel from the Cape Verds,
+      They talked for some [[Time|time]] about the vessel from the Cape Verds,
 
       and seemed to be excessively anxious for her appearance. At
 
@@ -360,17 +360,17 @@ CHAPTER 6
 
       the aperture, in which case all would have been discovered, and
 
-      our lives would, no doubt, have been instantly sacrificed. Our
+      our lives would, no [[Doubt|doubt]], have been instantly sacrificed. Our
 
       good fortune prevailed, however; and although he frequently
 
       touched it as the vessel rolled, he never pressed against it
 
-      sufficiently to bring about a discovery. The bottom of the jacket
+      sufficiently to bring about a discovery. The [[Bottom|bottom]] of the jacket
 
       had been carefully fastened to the bulkhead, so that the hole
 
-      might not be seen by its swinging to one side. All this time
+      might not be seen by its swinging to one side. All this [[Time|time]]
 
       Tiger was lying in the foot of the berth, and appeared to have
 
@@ -392,13 +392,13 @@ CHAPTER 6
 
       were with him, was a feint. He answered all my companion’s
 
-      questions with perfect freedom; told him that he had no doubt of
+      questions with perfect [[Freedom|freedom]]; told him that he had no [[Doubt|doubt]] of
 
       his father’s having been picked up, as there were no less than
 
       five sail in sight just before sundown on the day he was cut
 
-      adrift; and used other language of a consolatory nature, which
+      adrift; and used other language of a consolatory [[Nature|nature]], which
 
       occasioned me no less surprise than pleasure. Indeed, I began to
 
@@ -414,19 +414,19 @@ CHAPTER 6
 
       conduct of the hybrid appeared to be instigated by the most
 
-      arbitrary caprice alone; and, indeed, it was difficult to say if
+      arbitrary caprice [[Alone|alone]]; and, indeed, it was difficult to say if
 
       he was at any moment of sound mind. Peters went upon deck in
 
-      about an hour, and did not return again until noon, when he
+      about an hour, and did not return again until [[Noon|noon]], when he
 
       brought Augustus a plentiful supply of junk beef and pudding. Of
 
-      this, when we were left alone, I partook heartily, without
+      this, when we were left [[Alone|alone]], I partook heartily, without
 
       returning through the hole. No one else came down into the
 
-      forecastle during the day, and at night, I got into Augustus’
+      forecastle during the day, and at [[Night|night]], I got into Augustus’
 
       berth, where I slept soundly and sweetly until nearly daybreak,
 
@@ -438,15 +438,15 @@ CHAPTER 6
 
       entirely, and gave no indications of hydrophobia, drinking a
 
-      little water that was offered him with great apparent eagerness.
+      little [[Water|water]] that was offered him with great apparent eagerness.
 
       During the day he regained all his former vigour and appetite.
 
-      His strange conduct had been brought on, no doubt, by the
+      His strange conduct had been brought on, no [[Doubt|doubt]], by the
 
       deleterious quality of the air of the hold, and had no connexion
 
-      with canine madness. I could not sufficiently rejoice that I had
+      with canine [[Madness|madness]]. I could not sufficiently rejoice that I had
 
       persisted in bringing him with me from the box. This day was the
 
@@ -478,9 +478,9 @@ CHAPTER 6
 
       pleased anywhere forward of the mainmast, and that he had been
 
-      ordered to sleep, as usual, in the forecastle. He brought me,
+      ordered to [[Sleep|sleep]], as usual, in the forecastle. He brought me,
 
-      too, a good dinner, and a plentiful supply of water. The brig was
+      too, a good dinner, and a plentiful supply of [[Water|water]]. The brig was
 
       still cruising for the vessel from the Cape Verds, and a sail was
 
@@ -506,7 +506,7 @@ CHAPTER 6
 
       if not yet entirely recovered from the effects of his sickness.
 
-      Toward night a flaw of wind struck the brig before sail could be
+      Toward [[Night|night]] a flaw of [[Wind|wind]] struck the brig before sail could be
 
       taken in, and very nearly capsized her. The puff died away
 
@@ -538,7 +538,7 @@ CHAPTER 6
 
       Liverpool, and was allowed to pass unmolested. Augustus spent
 
-      most of his time on deck, with a view of obtaining all the
+      most of his [[Time|time]] on deck, with a view of obtaining all the
 
       information in his power respecting the intentions of the
 
@@ -554,7 +554,7 @@ CHAPTER 6
 
       July 5th. About daybreak there came on a stiff breeze from the
 
-      west, which at noon freshened into a gale, so that the brig could
+      west, which at [[Noon|noon]] freshened into a gale, so that the brig could
 
       carry nothing more than her trysail and foresail. In taking in
 
@@ -566,11 +566,11 @@ CHAPTER 6
 
       whole number of persons on board was now thirteen, to wit: Dirk
 
-      Peters; Seymour, the black cook; Jones, Greely, Hartman Rogers
+      Peters; Seymour, the black cook; [[Jones]], Greely, Hartman Rogers
 
       and William Allen, all of the cook’s party; the mate, whose name
 
-      I never learned; Absalom Hicks, Wilson, John Hunty Richard
+      I never learned; Absalom Hicks, Wilson, John Hunty [[Richard]]
 
       Parker, of the mate’s party;—besides Augustus and myself.
 
@@ -578,15 +578,15 @@ CHAPTER 6
 
       July 6th. The gale lasted all this day, blowing in heavy squalls,
 
-      accompanied with rain. The brig took in a good deal of water
+      accompanied with rain. The brig took in a good deal of [[Water|water]]
 
       through her seams, and one of the pumps was kept continually
 
       going, Augustus being forced to take his turn. Just at twilight a
 
-      large ship passed close by us, without having been discovered
+      large [[Ship|ship]] passed close by us, without having been discovered
 
-      until within hail. The ship was supposed to be the one for which
+      until within hail. The [[Ship|ship]] was supposed to be the one for which
 
       the mutineers were on the lookout. The mate hailed her, but the
 
@@ -598,7 +598,7 @@ CHAPTER 6
 
       morning the weather moderated, and at sunrise there was very
 
-      little wind.
+      little [[Wind|wind]].
 
 
 
@@ -622,7 +622,7 @@ CHAPTER 6
 
       could be done to remedy it, as it was occasioned by the brig's
 
-      straining, and taking in the water through her seams. A sail was
+      straining, and taking in the [[Water|water]] through her seams. A sail was
 
       thrummed, and got under the bows, which aided us in some measure,
 

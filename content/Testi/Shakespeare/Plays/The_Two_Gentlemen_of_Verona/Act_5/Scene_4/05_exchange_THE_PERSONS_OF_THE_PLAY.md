@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of Verona — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]"
+title: "The Two Gentlemen of [[Verona]] — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
@@ -22,10 +22,10 @@ tags:
 | *(didascalia)* | A |
 | LORD | BARTHOLOMEW, his page |
 | PLAYERS | In the play-within-the-play |
-| BAPTISTA | Minola, a gentleman of Padua KATHERINE, his elder daughter BIANCA, his younger daughter PETRUCCIO, a gentleman of Verona, suitor of Katherine GREMIO, a rich old man of Padua, suitor of Bianca HORTENSIO, another suitor, who disguises himself as Licio, a teacher LUCENTIO, from Pisa, who disguises himself as Cambio, a teacher VINCENTIO, Lucentio’s father |
+| [[Baptista|BAPTISTA]] | Minola, a gentleman of Padua KATHERINE, his elder daughter [[Bianca|BIANCA]], his younger daughter PETRUCCIO, a gentleman of [[Verona]], suitor of Katherine GREMIO, a rich old man of Padua, suitor of [[Bianca]] [[Hortensio|HORTENSIO]], another suitor, who disguises himself as Licio, a teacher [[Lucentio|LUCENTIO]], from Pisa, who disguises himself as Cambio, a teacher VINCENTIO, [[Lucentio]]’s father |
 | *(didascalia)* | A |
 | PEDANT | (schoolmaster), from Mantua |
 | *(didascalia)* | A |
 | *(didascalia)* | A |
 | *(didascalia)* | A |
-| HABERDASHER | An OFFICER SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER Other servants of Baptista and Petruccio |
+| HABERDASHER | An OFFICER SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER Other servants of [[Baptista]] and Petruccio |

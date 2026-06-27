@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 Henry VI) — Act III, Scene 1 — exchange (QUEEN MARGARET) [12]"
+title: "The First Part of the Contention (2 [[Henry VI]]) — Act III, Scene 1 — exchange ([[Queen Margaret|QUEEN MARGARET]]) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| QUEEN MARGARET | Why do you rate my lord of Suffolk thus? Although the Duke was enemy to him, Yet he most Christian-like laments his death. And for myself, foe as he was to me, Might liquid tears, or heart-offending groans, Or blood-consuming sighs recall his life, I would be blind with weeping, sick with groans, Look pale as primrose with blood-drinking sighs, And all to have the noble Duke alive. What know I how the world may deem of me? For it is known we were but hollow friends, It may be judged I made the Duke away. So shall my name with slander’s tongue be wounded And princes’ courts be filled with my reproach. This get I by his death. Ay me, unhappy, To be a queen, and crowned with infamy. |
-| KING HENRY | Ah, woe is me for Gloucester, wretched man! |
+| [[Queen Margaret|QUEEN MARGARET]] | Why do you rate my lord of Suffolk thus? Although the Duke was enemy to him, Yet he most Christian-like laments his [[Death|death]]. And for myself, foe as he was to me, Might liquid [[Tears|tears]], or heart-offending groans, Or [[Blood|blood]]-consuming sighs recall his life, I would be blind with weeping, sick with groans, Look pale as primrose with [[Blood|blood]]-drinking sighs, And all to have the noble Duke alive. What know I how the world may deem of me? For it is known we were but hollow friends, It may be judged I made the Duke away. So shall my name with slander’s tongue be wounded And princes’ courts be filled with my reproach. This get I by his [[Death|death]]. Ay me, unhappy, To be a [[Queen|queen]], and crowned with infamy. |
+| [[King|KING]] HENRY | Ah, woe is me for [[Gloucester]], wretched man! |

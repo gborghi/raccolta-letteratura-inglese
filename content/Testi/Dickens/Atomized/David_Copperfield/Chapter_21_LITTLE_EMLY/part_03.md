@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 3)"
+title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 Mr. Omer coughed again, in consequence of laughing, and was assisted out
 of his fit by his daughter, who now stood close beside us, dancing her
-smallest child on the counter.
+smallest [[Child|child]] on the counter.
 
 ‘Dear me!’ said Mr. Omer. ‘Yes, to be sure. Two parties! Why, in that
 very ride, if you’ll believe me, the day was named for my Minnie to
@@ -25,13 +25,13 @@ Minnie. And now he’s come into the business. And look here! The
 youngest!’
 
 Minnie laughed, and stroked her banded hair upon her temples, as her
-father put one of his fat fingers into the hand of the child she was
+father put one of his fat fingers into the hand of the [[Child|child]] she was
 dancing on the counter.
 
 ‘Two parties, of course!’ said Mr. Omer, nodding his head
 retrospectively. ‘Ex-actly so! And Joram’s at work, at this minute, on
 a grey one with silver nails, not this measurement’--the measurement of
-the dancing child upon the counter--‘by a good two inches.---Will you
+the dancing [[Child|child]] upon the counter--‘by a good two inches.---Will you
 take something?’
 
 I thanked him, but declined.
@@ -42,8 +42,8 @@ in service there, sure?’
 
 My answering in the affirmative gave him great satisfaction.
 
-‘I believe my breath will get long next, my memory’s getting so much
-so,’ said Mr. Omer. ‘Well, sir, we’ve got a young relation of hers here,
+‘I believe my breath will get long next, my [[Memory|memory]]’s getting so much
+so,’ said Mr. Omer. ‘[[Well]], sir, we’ve got a young relation of hers here,
 under articles to us, that has as elegant a taste in the dress-making
 business--I assure you I don’t believe there’s a Duchess in England can
 touch her.’
@@ -101,7 +101,7 @@ down. No more than that was ever said against her, Minnie?’
 ‘No, father,’ said Mrs. Joram. ‘That’s the worst, I believe.’
 
 ‘So when she got a situation,’ said Mr. Omer, ‘to keep a fractious old
-lady company, they didn’t very well agree, and she didn’t stop. At last
+lady company, they didn’t very [[Well|well]] agree, and she didn’t stop. At last
 she came here, apprenticed for three years. Nearly two of ‘em are over,
 and she has been as good a girl as ever was. Worth any six! Minnie, is
 she worth any six, now?’
@@ -110,16 +110,16 @@ she worth any six, now?’
 
 ‘Very good,’ said Mr. Omer. ‘That’s right. And so, young gentleman,’ he
 added, after a few moments’ further rubbing of his chin, ‘that you may
-not consider me long-winded as well as short-breathed, I believe that’s
+not consider me long-winded as [[Well|well]] as short-breathed, I believe that’s
 all about it.’
 
 As they had spoken in a subdued tone, while speaking of Em’ly, I had no
-doubt that she was near. On my asking now, if that were not so, Mr.
+[[Doubt|doubt]] that she was near. On my asking now, if that were not so, Mr.
 Omer nodded yes, and nodded towards the door of the parlour. My hurried
 inquiry if I might peep in, was answered with a free permission; and,
 looking through the glass, I saw her sitting at her work. I saw her, a
 most beautiful little creature, with the cloudless blue eyes, that had
-looked into my childish heart, turned laughingly upon another child
+looked into my childish heart, turned laughingly upon another [[Child|child]]
 of Minnie’s who was playing near her; with enough of wilfulness in her
 bright face to justify what I had heard; with much of the old capricious
 coyness lurking in it; but with nothing in her pretty looks, I am sure,
@@ -131,7 +131,7 @@ it was the tune that never DOES leave off--was beating, softly, all the
 while.
 
 ‘Wouldn’t you like to step in,’ said Mr. Omer, ‘and speak to her? Walk
-in and speak to her, sir! Make yourself at home!’
+in and speak to her, sir! Make yourself at [[Home|home]]!’
 
 I was too bashful to do so then--I was afraid of confusing her, and I
 was no less afraid of confusing myself.--but I informed myself of the

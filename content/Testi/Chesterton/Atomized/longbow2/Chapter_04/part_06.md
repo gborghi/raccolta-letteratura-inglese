@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4 (part 6)"
+title: "[[longbow2]] — Chapter 4 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-It was at a subsequent meeting in London that Crane and Pierce had an
+It was at a subsequent meeting in [[London]] that Crane and Pierce had an
 opportunity of learning, more or less, the true story of the affair,
 in the form of another letter from the parson to the lawyer.
 
@@ -27,7 +27,7 @@ about leather and about horse-hair.'"
 
 "About what?" asked Pierce.
 
-"Horse-hair," said Hood with severity.  "He goes on, `The truth
+"Horse-hair," said Hood with severity.  "He goes on, `The [[Truth|truth]]
 is they thought they could do what they liked with me because I
 always boasted that I hadn't got one, and never wanted to have one;
 but when they found I had got one, and I must really say a jolly
@@ -100,7 +100,7 @@ never even occurred to me that her nose would be out of joint.
 Rather funny to be talking about noses, isn't it, for I suppose
 really it was her rival's nose that figured most prominently. 
 Think of having a rival with a nose like that to turn up at you! 
-Talk about a spire pointing to the stars--'"
+Talk about a spire pointing to the [[Stars|stars]]--'"
 
 "I think," said Crane, interposing mildly, "that it would be
 better if you resumed your duties as official interpreter. 
@@ -115,13 +115,13 @@ Though we have not met for ten years, I knew from the first glimpse
 of her face that she had been worrying, in a powerful secretive sort
 of way; worrying about something she didn't understand and would
 not inquire about.  I remember long ago, when she was an ordinary
-fox-hunting squire's daughter and White was one of Sydney Smith's
+fox-hunting squire's daughter and White was one of Sydney [[smith|Smith]]'s
 wild curates, how she sulked for two months over a mistake about
 a post-card that could have been explained in two minutes. 
 At least it could have been explained by anybody except White. 
 But you will understand that if he tried to explain the post-card
 on another post-card, the results may not have been luminous,
-let alone radiant."
+let [[Alone|alone]] radiant."
 
 "But what has all this to do with noses?" inquired Pierce.
 
@@ -129,10 +129,10 @@ let alone radiant."
 know who was the rival with the long nose?"
 
 He paused for a moment and then continued, "It occurred to me as soon
-as I had guessed at the nature of the nose which may certainly
+as I had guessed at the [[Nature|nature]] of the nose which may certainly
 be called the main feature of the story.  An elusive, flexible and
-insinuating nose, the serpent of their Eden.  Well, they seem
-to have returned to their Eden now; and I have no doubt it will
+insinuating nose, the serpent of their Eden.  [[Well]], they seem
+to have returned to their Eden now; and I have no [[Doubt|doubt]] it will
 be all right; for it is when people are separated that these sort
-of secrets spring up between them.  After all, it was a mystery
+of [[Secrets|secrets]] [[Spring|spring]] up between them.  After all, it was a mystery
 to us and we cannot be surprised if it was a mystery to her."

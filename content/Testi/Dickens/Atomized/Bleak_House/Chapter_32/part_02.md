@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 32 (part 2)"
+title: "Bleak [[house|House]] — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -24,8 +24,8 @@ sinking to the spirits.”
 “Then, you see, you live in a lonesome way, and in a lonesome room,
 with a black circumstance hanging over it,” says Mr. Snagsby, looking
 in past the other’s shoulder along the dark passage and then falling
-back a step to look up at the house. “I couldn’t live in that room
-alone, as you do, sir. I should get so fidgety and worried of an
+back a step to look up at the [[house]]. “I couldn’t live in that room
+[[Alone|alone]], as you do, sir. I should get so fidgety and worried of an
 evening, sometimes, that I should be driven to come to the door and
 stand here sooner than sit there. But then it’s very true that you
 didn’t see, in your room, what I saw there. That makes a difference.”
@@ -33,10 +33,10 @@ didn’t see, in your room, what I saw there. That makes a difference.”
 “I know quite enough about it,” returns Tony.
 
 “It’s not agreeable, is it?” pursues Mr. Snagsby, coughing his cough
-of mild persuasion behind his hand. “Mr. Krook ought to consider it
-in the rent. I hope he does, I am sure.”
+of mild [[Persuasion|persuasion]] behind his hand. “Mr. Krook ought to consider it
+in the rent. I [[Hope|hope]] he does, I am sure.”
 
-“I hope he does,” says Tony. “But I doubt it.”
+“I [[Hope|hope]] he does,” says Tony. “But I [[Doubt|doubt]] it.”
 
 “You find the rent too high, do you, sir?” returns the stationer.
 “Rents ARE high about here. I don’t know how it is exactly, but the
@@ -44,7 +44,7 @@ law seems to put things up in price. Not,” adds Mr. Snagsby with his
 apologetic cough, “that I mean to say a word against the profession I
 get my living by.”
 
-Mr. Weevle again glances up and down the court and then looks at the
+Mr. Weevle again glances up and down the [[Court|court]] and then looks at the
 stationer. Mr. Snagsby, blankly catching his eye, looks upward for a
 star or so and coughs a cough expressive of not exactly seeing his
 way out of this conversation.
@@ -72,23 +72,23 @@ really very respectable indeed. Eminently respectable, sir,” adds Mr.
 Snagsby with a misgiving that he has not improved the matter.
 
 “It’s a curious coincidence, as you say,” answers Weevle, once more
-glancing up and down the court.
+glancing up and down the [[Court|court]].
 
 “Seems a fate in it, don’t there?” suggests the stationer.
 
 “There does.”
 
 “Just so,” observes the stationer with his confirmatory cough. “Quite
-a fate in it. Quite a fate. Well, Mr. Weevle, I am afraid I must bid
-you good night”—Mr. Snagsby speaks as if it made him desolate to go,
+a fate in it. Quite a fate. [[Well]], Mr. Weevle, I am afraid I must bid
+you good [[Night|night]]”—Mr. Snagsby speaks as if it made him desolate to go,
 though he has been casting about for any means of escape ever since
 he stopped to speak—“my little woman will be looking for me else.
-Good night, sir!”
+Good [[Night|night]], sir!”
 
-If Mr. Snagsby hastens home to save his little woman the trouble of
+If Mr. Snagsby hastens [[Home|home]] to save his little woman the trouble of
 looking for him, he might set his mind at rest on that score. His
 little woman has had her eye upon him round the Sol’s Arms all this
-time and now glides after him with a pocket handkerchief wrapped over
+[[Time|time]] and now glides after him with a pocket handkerchief wrapped over
 her head, honouring Mr. Weevle and his doorway with a searching
 glance as she goes past.
 
@@ -110,7 +110,7 @@ says Tony.
 
 “You said about ten,” Tony repeats. “Yes, so you did say about ten.
 But according to my count, it’s ten times ten—it’s a hundred
-o’clock. I never had such a night in my life!”
+o’[[Clock|clock]]. I never had such a [[Night|night]] in my life!”
 
 “What has been the matter?”
 
@@ -134,7 +134,7 @@ table.
 unbearably dull, suicidal room—and old Boguey downstairs, I
 suppose.” Mr. Weevle moodily pushes the snuffers-tray from him with
 his elbow, leans his head on his hand, puts his feet on the fender,
-and looks at the fire. Mr. Guppy, observing him, slightly tosses his
+and looks at the [[Fire|fire]]. Mr. Guppy, observing him, slightly tosses his
 head and sits down on the other side of the table in an easy
 attitude.
 
@@ -147,7 +147,7 @@ construction of his sentence.
 
 “No. No business. He was only sauntering by and stopped to prose.”
 
-“I thought it was Snagsby,” says Mr. Guppy, “and thought it as well
+“I thought it was Snagsby,” says Mr. Guppy, “and thought it as [[Well|well]]
 that he shouldn’t see me, so I waited till he was gone.”
 
 “There we go again, William G.!” cried Tony, looking up for an
@@ -156,8 +156,8 @@ commit a murder, we couldn’t have more mystery about it!”
 
 Mr. Guppy affects to smile, and with the view of changing the
 conversation, looks with an admiration, real or pretended, round the
-room at the Galaxy Gallery of British Beauty, terminating his survey
-with the portrait of Lady Dedlock over the mantelshelf, in which she
+room at the Galaxy Gallery of British [[Beauty]], terminating his survey
+with the portrait of [[Lady Dedlock]] over the mantelshelf, in which she
 is represented on a terrace, with a pedestal upon the terrace, and a
 vase upon the pedestal, and her shawl upon the vase, and a prodigious
 piece of fur upon the shawl, and her arm on the prodigious piece of

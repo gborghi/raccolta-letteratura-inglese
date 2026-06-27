@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 3)"
+title: "[[Persuasion]] — Chapter 22 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Oh! yes. My father would be well pleased if the gentlemen were richer,
+“Oh! yes. My father would be [[Well|well]] pleased if the gentlemen were richer,
 
 but he has no other fault to find. Money, you know, coming down with
 
@@ -48,7 +48,7 @@ such hands! Your father and mother seem so totally free from all those
 
 ambitious feelings which have led to so much misconduct and misery,
 
-both in young and old. I hope you think Louisa perfectly recovered
+both in young and old. I [[Hope|hope]] you think Louisa perfectly recovered
 
 now?”
 
@@ -62,7 +62,7 @@ laughing or dancing; it is quite different. If one happens only to shut
 
 the door a little hard, she starts and wriggles like a young dab-chick
 
-in the water; and Benwick sits at her elbow, reading verses, or
+in the [[Water|water]]; and Benwick sits at her elbow, reading verses, or
 
 whispering to her, all day long.”
 
@@ -74,7 +74,7 @@ know,” said she; “but I do believe him to be an excellent young man.”
 
 
 
-“To be sure he is. Nobody doubts it; and I hope you do not think I am
+“To be sure he is. Nobody doubts it; and I [[Hope|hope]] you do not think I am
 
 so illiberal as to want every man to have the same objects and
 
@@ -82,13 +82,13 @@ pleasures as myself. I have a great value for Benwick; and when one can
 
 but get him to talk, he has plenty to say. His reading has done him no
 
-harm, for he has fought as well as read. He is a brave fellow. I got
+harm, for he has fought as [[Well|well]] as read. He is a brave fellow. I got
 
 more acquainted with him last Monday than ever I did before. We had a
 
 famous set-to at rat-hunting all the morning in my father’s great
 
-barns; and he played his part so well that I have liked him the better
+barns; and he played his part so [[Well|well]] that I have liked him the better
 
 ever since.”
 
@@ -108,17 +108,17 @@ blessings if she could, but she did not want to lessen theirs.
 
 
 
-The visit passed off altogether in high good humour. Mary was in
+The visit passed off altogether in high good [[Humour|humour]]. Mary was in
 
-excellent spirits, enjoying the gaiety and the change, and so well
+excellent spirits, enjoying the gaiety and the change, and so [[Well|well]]
 
-satisfied with the journey in her mother-in-law’s carriage with four
+satisfied with the [[Journey|journey]] in her mother-in-law’s carriage with four
 
 horses, and with her own complete independence of Camden Place, that
 
 she was exactly in a temper to admire everything as she ought, and
 
-enter most readily into all the superiorities of the house, as they
+enter most readily into all the superiorities of the [[house]], as they
 
 were detailed to her. She had no demands on her father or sister, and
 
@@ -128,7 +128,7 @@ drawing-rooms.
 
 
 
-Elizabeth was, for a short time, suffering a good deal. She felt that
+Elizabeth was, for a short [[Time|time]], [[Suffering|suffering]] a good deal. She felt that
 
 Mrs Musgrove and all her party ought to be asked to dine with them; but
 
@@ -138,7 +138,7 @@ servants, which a dinner must betray, witnessed by those who had been
 
 always so inferior to the Elliots of Kellynch. It was a struggle
 
-between propriety and vanity; but vanity got the better, and then
+between propriety and [[Vanity|vanity]]; but [[Vanity|vanity]] got the better, and then
 
 Elizabeth was happy again. These were her internal persuasions: “Old
 
@@ -170,7 +170,7 @@ Dalrymple and Miss Carteret, who were fortunately already engaged to
 
 come; and she could not have received a more gratifying attention. Miss
 
-Elliot was to have the honour of calling on Mrs Musgrove in the course
+Elliot was to have the [[Honour|honour]] of calling on Mrs Musgrove in the course
 
 of the morning; and Anne walked off with Charles and Mary, to go and
 
@@ -178,7 +178,7 @@ see her and Henrietta directly.
 
 
 
-Her plan of sitting with Lady Russell must give way for the present.
+Her plan of sitting with [[Lady Russell]] must give way for the present.
 
 They all three called in Rivers Street for a couple of minutes; but
 
@@ -186,7 +186,7 @@ Anne convinced herself that a day’s delay of the intended communication
 
 could be of no consequence, and hastened forward to the White Hart, to
 
-see again the friends and companions of the last autumn, with an
+see again the friends and companions of the last [[Autumn|autumn]], with an
 
 eagerness of good-will which many associations contributed to form.
 
@@ -206,8 +206,8 @@ usefulness when they were in distress. It was a heartiness, and a
 
 warmth, and a sincerity which Anne delighted in the more, from the sad
 
-want of such blessings at home. She was entreated to give them as much
+want of such blessings at [[Home|home]]. She was entreated to give them as much
 
-of her time as possible, invited for every day and all day long, or
+of her [[Time|time]] as possible, invited for every day and all day long, or
 
 rather claimed as part of the family; and, in return, she naturally

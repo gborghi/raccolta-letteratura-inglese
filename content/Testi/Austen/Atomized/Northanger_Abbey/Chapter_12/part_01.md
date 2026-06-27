@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 11 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 11 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,13 +36,13 @@ barometer about him, declined giving any absolute promise of sunshine.
 
 She applied to Mrs. Allen, and Mrs. Allen’s opinion was more positive.
 
-“She had no doubt in the world of its being a very fine day, if the
+“She had no [[Doubt|doubt]] in the world of its being a very fine day, if the
 
 clouds would only go off, and the sun keep out.”
 
 
 
-At about eleven o’clock, however, a few specks of small rain upon the
+At about eleven o’[[Clock|clock]], however, a few specks of small rain upon the
 
 windows caught Catherine’s watchful eye, and “Oh! dear, I do believe it
 
@@ -74,7 +74,7 @@ nothing, or it may hold up before twelve.”
 
 After a short pause, “It comes on faster and faster!” said Catherine,
 
-as she stood watching at a window.
+as she stood watching at a [[Window|window]].
 
 
 
@@ -90,7 +90,7 @@ umbrella!”
 
 “They are disagreeable things to carry. I would much rather take a
 
-chair at any time.”
+chair at any [[Time|time]].”
 
 
 
@@ -102,11 +102,11 @@ dry!”
 
 “Anybody would have thought so indeed. There will be very few people in
 
-the pump-room, if it rains all the morning. I hope Mr. Allen will put
+the pump-room, if it rains all the morning. I [[Hope|hope]] Mr. Allen will put
 
 on his greatcoat when he goes, but I dare say he will not, for he had
 
-rather do anything in the world than walk out in a greatcoat; I wonder
+rather do anything in the world than walk out in a greatcoat; I [[Wonder|wonder]]
 
 he should dislike it, it must be so comfortable.”
 
@@ -114,19 +114,19 @@ he should dislike it, it must be so comfortable.”
 
 The rain continued—fast, though not heavy. Catherine went every five
 
-minutes to the clock, threatening on each return that, if it still kept
+minutes to the [[Clock|clock]], threatening on each return that, if it still kept
 
 on raining another five minutes, she would give up the matter as
 
-hopeless. The clock struck twelve, and it still rained. “You will not
+hopeless. The [[Clock|clock]] struck twelve, and it still rained. “You will not
 
 be able to go, my dear.”
 
 
 
-“I do not quite despair yet. I shall not give it up till a quarter
+“I do not quite [[Despair|despair]] yet. I shall not give it up till a quarter
 
-after twelve. This is just the time of day for it to clear up, and I do
+after twelve. This is just the [[Time|time]] of day for it to clear up, and I do
 
 think it looks a little lighter. There, it is twenty minutes after
 
@@ -134,7 +134,7 @@ twelve, and now I _shall_ give it up entirely. Oh! that we had such
 
 weather here as they had at Udolpho, or at least in Tuscany and the
 
-south of France!—the night that poor St. Aubin died!—such beautiful
+south of France!—the [[Night|night]] that poor St. Aubin died!—such beautiful
 
 weather!”
 
@@ -148,7 +148,7 @@ the sky began voluntarily to clear. A gleam of sunshine took her quite
 
 by surprise; she looked round; the clouds were parting, and she
 
-instantly returned to the window to watch over and encourage the happy
+instantly returned to the [[Window|window]] to watch over and encourage the happy
 
 appearance. Ten minutes more made it certain that a bright afternoon
 
@@ -174,11 +174,11 @@ had surprised her so much a few mornings back.
 
 
 
-“Isabella, my brother, and Mr. Thorpe, I declare! they are coming for
+“[[Isabella]], my brother, and Mr. Thorpe, I declare! they are coming for
 
 me perhaps—but I shall not go—I cannot go indeed, for you know Miss
 
-Tilney may still call.” Mrs. Allen agreed to it. John Thorpe was soon
+Tilney may still call.” Mrs. Allen agreed to it. [[John Thorpe]] was soon
 
 with them, and his voice was with them yet sooner, for on the stairs he
 
@@ -186,7 +186,7 @@ was calling out to Miss Morland to be quick. “Make haste! make haste!”
 
 as he threw open the door. “Put on your hat this moment—there is no
 
-time to be lost—we are going to Bristol. How d’ye do, Mrs. Allen?”
+[[Time|time]] to be lost—we are going to Bristol. How d’ye do, Mrs. Allen?”
 
 
 
@@ -204,7 +204,7 @@ delightful? We shall have a most heavenly drive. You are to thank your
 
 brother and me for the scheme; it darted into our heads at
 
-breakfast-time, I verily believe at the same instant; and we should
+breakfast-[[Time|time]], I verily believe at the same instant; and we should
 
 have been off two hours ago if it had not been for this detestable
 
@@ -216,33 +216,33 @@ country air and quiet! so much better than going to the Lower Rooms. We
 
 shall drive directly to Clifton and dine there; and, as soon as dinner
 
-is over, if there is time for it, go on to Kingsweston.”
+is over, if there is [[Time|time]] for it, go on to Kingsweston.”
 
 
 
-“I doubt our being able to do so much,” said Morland.
+“I [[Doubt|doubt]] our being able to do so much,” said Morland.
 
 
 
 “You croaking fellow!” cried Thorpe. “We shall be able to do ten times
 
-more. Kingsweston! aye, and Blaize Castle too, and anything else we can
+more. Kingsweston! aye, and Blaize [[Castle]] too, and anything else we can
 
 hear of; but here is your sister says she will not go.”
 
 
 
-“Blaize Castle!” cried Catherine. “What is that?”
+“Blaize [[Castle]]!” cried Catherine. “What is that?”
 
 
 
-“The finest place in England—worth going fifty miles at any time to
+“The finest place in England—worth going fifty miles at any [[Time|time]] to
 
 see.”
 
 
 
-“What, is it really a castle, an old castle?”
+“What, is it really a [[Castle|castle]], an old [[Castle|castle]]?”
 
 
 
@@ -274,4 +274,4 @@ see.”
 
 
 
-“I cannot go, because”—looking down as she spoke, fearful of Isabella’s
+“I cannot go, because”—looking down as she spoke, fearful of [[Isabella]]’s

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 21 (part 2)"
+title: "[[The Professor]] — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -56,7 +56,7 @@ blaspheme, so I’ll leave a blank)--cometh.
 
 
 
-“HUNSDEN YORKE HUNSDEN.”
+“HUNSDEN [[Yorke Hunsden|YORKE HUNSDEN]].”
 
 
 
@@ -70,7 +70,7 @@ between the autograph and the character: what affinity was there here?
 
 I recalled the writer’s peculiar face and certain traits I suspected,
 
-rather than knew, to appertain to his nature, and I answered, “A great
+rather than knew, to appertain to his [[Nature|nature]], and I answered, “A great
 
 deal.”
 
@@ -82,7 +82,7 @@ coming charged with the expectation of finding me on the summit of
 
 prosperity, about to be married, to step into a warm nest, to lie
 
-comfortably down by the side of a snug, well-fed little mate.
+comfortably down by the side of a snug, [[Well|well]]-fed little mate.
 
 
 
@@ -92,7 +92,7 @@ I. “What will he say when, instead of a pair of plump turtle doves,
 
 billing and cooing in a bower of roses, he finds a single lean
 
-cormorant, standing mateless and shelterless on poverty’s bleak cliff?
+cormorant, standing mateless and shelterless on [[Poverty|poverty]]’s bleak cliff?
 
 Oh, confound him! Let him come, and let him laugh at the contrast
 
@@ -124,17 +124,17 @@ it with me, met and satisfied the wish of my heart. Two results of her
 
 letter were then pleasant, sweet as two draughts of nectar; but applying
 
-my lips for the third time to the cup, and they were excoriated as with
+my lips for the third [[Time|time]] to the cup, and they were excoriated as with
 
 vinegar and gall.
 
 
 
-Two persons whose desires are moderate may live well enough in Brussels
+Two persons whose desires are moderate may live [[Well|well]] enough in Brussels
 
 on an income which would scarcely afford a respectable maintenance for
 
-one in London: and that, not because the necessaries of life are so
+one in [[London]]: and that, not because the necessaries of life are so
 
 much dearer in the latter capital, or taxes so much higher than in the
 
@@ -142,7 +142,7 @@ former, but because the English surpass in folly all the nations on
 
 God’s earth, and are more abject slaves to custom, to opinion, to
 
-the desire to keep up a certain appearance, than the Italians are to
+the [[Desire|desire]] to keep up a certain appearance, than the Italians are to
 
 priestcraft, the French to vain-glory, the Russians to their Czar, or
 
@@ -170,7 +170,7 @@ of 50l., have gone straight to her this very evening, and spoken out the
 
 words which, repressed, kept fretting my heart with fever; our united
 
-income would, as we should have managed it, have sufficed well for
+income would, as we should have managed it, have sufficed [[Well|well]] for
 
 our mutual support; since we lived in a country where economy was not
 
@@ -180,9 +180,9 @@ was not synonymous with vulgarity in these various points. But the
 
 placeless usher, bare of resource, and unsupported by connections, must
 
-not think of this; such a sentiment as love, such a word as marriage,
+not think of this; such a sentiment as [[Love|love]], such a word as [[Marriage|marriage]],
 
-were misplaced in his heart, and on his lips. Now for the first time did
+were misplaced in his heart, and on his lips. Now for the first [[Time|time]] did
 
 I truly feel what it was to be poor; now did the sacrifice I had made
 
@@ -194,9 +194,9 @@ fanatical; I took several turns in my room, under the goading influence
 
 of most poignant remorse; I walked a quarter of an hour from the wall to
 
-the window; and at the window, self-reproach seemed to face me; at the
+the [[Window|window]]; and at the [[Window|window]], [[Self|self]]-reproach seemed to face me; at the
 
-wall, self-disdain: all at once out spoke Conscience:--
+wall, [[Self|self]]-disdain: all at once out spoke [[Conscience]]:--
 
 
 
@@ -206,9 +206,9 @@ you shall not bait him thus by thoughts of what might have been; he
 
 relinquished a temporary and contingent good to avoid a permanent and
 
-certain evil he did well. Let him reflect now, and when your blinding
+certain evil he did [[Well|well]]. Let him reflect now, and when your blinding
 
-dust and deafening hum subside, he will discover a path.”
+[[Dust|dust]] and deafening hum subside, he will discover a path.”
 
 
 

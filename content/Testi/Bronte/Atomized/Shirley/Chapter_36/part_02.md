@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 2)"
+title: "[[Shirley]] — Chapter 36 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,11 +22,11 @@ you, return not here.'
 
 a thinker; his meditative eye shines on me strangely sometimes. He half
 
-feels what links me to Shirley; he half guesses that there is a dearer
+feels what links me to [[Shirley]]; he half guesses that there is a dearer
 
 delight in the reserve with which I am treated than in all the
 
-endearments he is allowed. The young, lame, half-grown lion would growl
+endearments he is allowed. The young, lame, half-grown [[Lion|lion]] would growl
 
 at me now and then, because I have tamed his lioness and am her keeper,
 
@@ -38,13 +38,13 @@ life with all of Adam's race that have gone before or will come after
 
 you. Your destiny can be no exception to the common lot; be grateful
 
-that your love is overlooked thus early, before it can claim any
+that your [[Love|love]] is overlooked thus early, before it can claim any
 
 affinity to passion. An hour's fret, a pang of envy, suffice to express
 
-what you feel. Jealousy hot as the sun above the line, rage destructive
+what you feel. [[Jealousy]] hot as the sun above the line, rage destructive
 
-as the tropic storm, the clime of your sensations ignores--as yet.
+as the tropic [[Storm|storm]], the clime of your sensations ignores--as yet.
 
 
 
@@ -60,9 +60,9 @@ have the gift to proceed peacefully and powerfully in your course
 
 without alarming by one eccentric movement. It was not my present
 
-intention to utter one word of love to her, or to reveal one glimpse of
+intention to utter one word of [[Love|love]] to her, or to reveal one glimpse of
 
-the fire in which I wasted. Presumptuous I never have been; presumptuous
+the [[Fire|fire]] in which I wasted. Presumptuous I never have been; presumptuous
 
 I never will be. Rather than even _seem_ selfish and interested, I would
 
@@ -86,7 +86,7 @@ and my voice, when I called it into exercise, was firm.
 
 
 
-"'This day week you will be alone at Fieldhead, Miss Keeldar.'
+"'This day week you will be [[Alone|alone]] at Fieldhead, Miss Keeldar.'
 
 
 
@@ -94,7 +94,7 @@ and my voice, when I called it into exercise, was firm.
 
 
 
-"'He leaves you dissatisfied.'
+"'He [[Leaves|leaves]] you dissatisfied.'
 
 
 
@@ -102,7 +102,7 @@ and my voice, when I called it into exercise, was firm.
 
 
 
-"'He departs as he came--no better for his journey. This is mortifying.'
+"'He departs as he came--no better for his [[Journey|journey]]. This is mortifying.'
 
 
 
@@ -112,7 +112,7 @@ lay new ones.'
 
 
 
-"'In his way Mr. Sympson honestly wished you well. All he has done or
+"'In his way Mr. Sympson honestly wished you [[Well|well]]. All he has done or
 
 intended to do he believed to be for the best.'
 
@@ -138,7 +138,7 @@ onset against me, when he had quitted you worsted.'
 
 "'I shall be parted from Henry for a while (if he and I live we shall
 
-meet again somehow, for we love each other) and be ousted from the bosom
+meet again somehow, for we [[Love|love]] each other) and be ousted from the bosom
 
 of the Sympson family for ever. Happily this change does not leave me
 
@@ -156,7 +156,7 @@ quiver on your shoulder holds more arrows than one; your bow is provided
 
 with a second string. Such too is your brother's wont. You two might go
 
-forth homeless hunters to the loneliest western wilds; all would be well
+forth homeless hunters to the loneliest western wilds; all would be [[Well|well]]
 
 with you. The hewn tree would make you a hut, the cleared forest yield
 
@@ -184,13 +184,13 @@ which you could not give your heart.'
 
 with me in spirit when I did not see you? Have you entered into my
 
-day-dreams, and beheld my brain labouring at its scheme of a future?'
+day-[[Dreams|dreams]], and beheld my brain labouring at its scheme of a future?'
 
 
 
 "She had separated a slip of paper for lighting tapers--a spill, as it
 
-is called--into fragments. She threw morsel by morsel into the fire, and
+is called--into fragments. She threw morsel by morsel into the [[Fire|fire]], and
 
 stood pensively watching them consume. She did not speak.
 
@@ -212,17 +212,17 @@ habitually at another man's table--no more be the appendage of a family.
 
 I am now a man of thirty; I have never been free since I was a boy of
 
-ten. I have such a thirst for freedom, such a deep passion to know her
+ten. I have such a thirst for [[Freedom|freedom]], such a deep passion to know her
 
-and call her mine, such a day-desire and night-longing to win her and
+and call her mine, such a day-[[Desire|desire]] and [[Night|night]]-[[Longing|longing]] to win her and
 
-possess her, I will not refuse to cross the Atlantic for her sake; her I
+possess her, I will not refuse to [[Cross|cross]] the Atlantic for her sake; her I
 
 will follow deep into virgin woods. Mine it shall not be to accept a
 
 savage girl as a slave--she could not be a wife. I know no white woman
 
-whom I love that would accompany me; but I am certain Liberty will await
+whom I [[Love|love]] that would accompany me; but I am certain Liberty will await
 
 me, sitting under a pine. When I call her she will come to my loghouse,
 

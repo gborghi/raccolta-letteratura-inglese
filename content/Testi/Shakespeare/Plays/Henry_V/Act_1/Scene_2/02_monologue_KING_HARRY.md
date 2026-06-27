@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act I, Scene 2 — monologue (KING HARRY) [2]"
+title: "[[Henry V]] — Act I, Scene 2 — monologue ([[King|KING]] HARRY) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING HARRY | Sure we thank you. My learnèd lord, we pray you to proceed, And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim. And God forbid, my dear and faithful lord, That you should fashion, wrest, or bow your reading, Or nicely charge your understanding soul With opening titles miscreate, whose right Suits not in native colours with the truth; For God doth know how many now in health Shall drop their blood in approbation Of what your reverence shall incite us to. Therefore take heed how you impawn our person, How you awake our sleeping sword of war; We charge you in the name of God take heed. For never two such kingdoms did contend Without much fall of blood, whose guiltless drops Are every one a woe, a sore complaint ’Gainst him whose wrongs gives edge unto the swords That makes such waste in brief mortality. Under this conjuration speak, my lord, For we will hear, note, and believe in heart That what you speak is in your conscience washed As pure as sin with baptism. |
+| [[King|KING]] HARRY | Sure we thank you. My learnèd lord, we pray you to proceed, And justly and religiously unfold Why the law Salic that they have in France Or should or should not bar us in our claim. And God forbid, my dear and faithful lord, That you should fashion, wrest, or bow your reading, Or nicely charge your understanding [[Soul|soul]] With opening titles miscreate, whose right Suits not in native colours with the [[Truth|truth]]; For God doth know how many now in health Shall drop their [[Blood|blood]] in approbation Of what your reverence shall incite us to. Therefore take heed how you impawn our person, How you awake our sleeping [[Sword|sword]] of war; We charge you in the name of God take heed. For never two such kingdoms did contend Without much fall of [[Blood|blood]], whose guiltless drops Are every one a woe, a sore complaint ’Gainst him whose wrongs gives edge unto the swords That makes such waste in brief [[Mortality|mortality]]. Under this conjuration speak, my lord, For we will hear, note, and believe in heart That what you speak is in your [[Conscience|conscience]] washed As pure as sin with baptism. |

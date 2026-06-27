@@ -29,11 +29,11 @@ ham. When he had folded it into a number of layers, one over another,
 so that it was small in the palm of his hand, he began to flatten it
 between both his hands, and to eye Clennam attentively.
 
-‘I wonder,’ he at length said, compressing his green packet with some
+‘I [[Wonder|wonder]],’ he at length said, compressing his green packet with some
 force, ‘that if it’s not worth your while to take care of yourself for
 your own sake, it’s not worth doing for some one else’s.’
 
-‘Truly,’ returned Arthur, with a sigh and a smile, ‘I don’t know for
+‘Truly,’ returned [[arthur|Arthur]], with a sigh and a smile, ‘I don’t know for
 whose.’
 
 ‘Mr Clennam,’ said John, warmly, ‘I am surprised that a gentleman who
@@ -44,14 +44,14 @@ should be capable of the heartlessness of treating mine in that way. I
 am astonished at it, sir. Really and truly I am astonished!’
 
 Having got upon his feet to emphasise his concluding words, Young John
-sat down again, and fell to rolling his green packet on his right leg;
+sat down again, and fell to [[rolling]] his green packet on his right leg;
 never taking his eyes off Clennam, but surveying him with a fixed look
 of indignant reproach.
 
 ‘I had got over it, sir,’ said John. ‘I had conquered it, knowing that
 it _must_ be conquered, and had come to the resolution to think no more
-about it. I shouldn’t have given my mind to it again, I hope, if to this
-prison you had not been brought, and in an hour unfortunate for me,
+about it. I shouldn’t have given my mind to it again, I [[Hope|hope]], if to this
+[[Prison|prison]] you had not been brought, and in an hour unfortunate for me,
 this day!’ (In his agitation Young John adopted his mother’s powerful
 construction of sentences.) ‘When you first came upon me, sir, in the
 Lodge, this day, more as if a Upas tree had been made a capture of than
@@ -68,24 +68,24 @@ when I ever so gently hint at it, and throw me back upon myself. For, do
 not, sir,’ said Young John, ‘do not be so base as to deny that dodge you
 do, and thrown me back upon myself you have!’
 
-All amazement, Arthur gazed at him like one lost, only saying, ‘What is
+All amazement, [[arthur|Arthur]] gazed at him like one lost, only saying, ‘What is
 it? What do you mean, John?’ But, John, being in that state of mind in
 which nothing would seem to be more impossible to a certain class of
 people than the giving of an answer, went ahead blindly.
 
 ‘I hadn’t,’ John declared, ‘no, I hadn’t, and I never had the
 audaciousness to think, I am sure, that all was anything but lost. I
-hadn’t, no, why should I say I hadn’t if I ever had, any hope that it
+hadn’t, no, why should I say I hadn’t if I ever had, any [[Hope|hope]] that it
 was possible to be so blest, not after the words that passed, not even
 if barriers insurmountable had not been raised! But is that a reason why
-I am to have no memory, why I am to have no thoughts, why I am to have
+I am to have no [[Memory|memory]], why I am to have no thoughts, why I am to have
 no sacred spots, nor anything?’
 
-‘What can you mean?’ cried Arthur.
+‘What can you mean?’ cried [[arthur|Arthur]].
 
-‘It’s all very well to trample on it, sir,’ John went on, scouring a
+‘It’s all very [[Well|well]] to trample on it, sir,’ John went on, scouring a
 very prairie of wild words, ‘if a person can make up his mind to be
-guilty of the action. It’s all very well to trample on it, but it’s
+guilty of the action. It’s all very [[Well|well]] to trample on it, but it’s
 there. It may be that it couldn’t be trampled upon if it wasn’t there.
 But that doesn’t make it gentlemanly, that doesn’t make it honourable,
 that doesn’t justify throwing a person back upon himself after he has
@@ -96,25 +96,25 @@ female criminals he’s expected to be.’
 Ridiculous as the incoherence of his talk was, there was yet a
 truthfulness in Young John’s simple, sentimental character, and a sense
 of being wounded in some very tender respect, expressed in his burning
-face and in the agitation of his voice and manner, which Arthur must
+face and in the agitation of his voice and manner, which [[arthur|Arthur]] must
 have been cruel to disregard. He turned his thoughts back to the
 starting-point of this unknown injury; and in the meantime Young John,
 having rolled his green packet pretty round, cut it carefully into three
 pieces, and laid it on a plate as if it were some particular delicacy.
 
-‘It seems to me just possible,’ said Arthur, when he had retraced the
-conversation to the water-cresses and back again, ‘that you have made
+‘It seems to me just possible,’ said [[arthur|Arthur]], when he had retraced the
+conversation to the [[Water|water]]-cresses and back again, ‘that you have made
 some reference to Miss Dorrit.’
 
 ‘It is just possible, sir,’ returned John Chivery.
 
-‘I don’t understand it. I hope I may not be so unlucky as to make you
+‘I don’t understand it. I [[Hope|hope]] I may not be so unlucky as to make you
 think I mean to offend you again, for I never have meant to offend you
 yet, when I say I don’t understand it.’
 
 ‘Sir,’ said Young John, ‘will you have the perfidy to deny that you know
 and long have known that I felt towards Miss Dorrit, call it not the
-presumption of love, but adoration and sacrifice?’
+presumption of [[Love|love]], but adoration and sacrifice?’
 
 ‘Indeed, John, I will not have any perfidy if I know it; why you should
 suspect me of it I am at a loss to think. Did you ever hear from Mrs

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN"
+title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER THIRTY-SEVEN
 
-TOM PINCH, GOING ASTRAY, FINDS THAT HE IS NOT THE ONLY PERSON IN THAT
+[[Tom Pinch|TOM PINCH]], GOING ASTRAY, FINDS THAT HE IS NOT THE ONLY PERSON IN THAT
 PREDICAMENT. HE RETALIATES UPON A FALLEN FOE
 
 
@@ -26,15 +26,15 @@ country legends as doing a lively retail business in the Metropolis;
 nor did it mark him out as the prey of ring-droppers, pea and
 thimble-riggers, duffers, touters, or any of those bloodless sharpers,
 who are, perhaps, a little better known to the Police. He fell into
-conversation with no gentleman who took him into a public-house, where
+conversation with no gentleman who took him into a public-[[house]], where
 there happened to be another gentleman who swore he had more money than
 any gentleman, and very soon proved he had more money than one gentleman
 by taking his away from him; neither did he fall into any other of
 the numerous man-traps which are set up without notice, in the public
-grounds of this city. But he lost his way. He very soon did that; and in
+grounds of this [[City|city]]. But he lost his way. He very soon did that; and in
 trying to find it again he lost it more and more.
 
-Now, Tom, in his guileless distrust of London, thought himself very
+Now, Tom, in his guileless distrust of [[London]], thought himself very
 knowing in coming to the determination that he would not ask to be
 directed to Furnival’s Inn, if he could help it; unless, indeed, he
 should happen to find himself near the Mint, or the Bank of England; in
@@ -43,18 +43,18 @@ in the perfect respectability of the concern. So on he went, looking up
 all the streets he came near, and going up half of them; and thus,
 by dint of not being true to Goswell Street, and filing off into
 Aldermanbury, and bewildering himself in Barbican, and being constant to
-the wrong point of the compass in London Wall, and then getting himself
+the wrong point of the compass in [[London]] Wall, and then getting himself
 crosswise into Thames Street, by an instinct that would have been
-marvellous if he had had the least desire or reason to go there, he
+marvellous if he had had the least [[Desire|desire]] or reason to go there, he
 found himself, at last, hard by the Monument.
 
 The Man in the Monument was quite as mysterious a being to Tom as the
-Man in the Moon. It immediately occurred to him that the lonely creature
+Man in the [[Moon]]. It immediately occurred to him that the lonely creature
 who held himself aloof from all mankind in that pillar like some old
 hermit was the very man of whom to ask his way. Cold, he might be;
 little sympathy he had, perhaps, with human passion--the column seemed
-too tall for that; but if Truth didn’t live in the base of the Monument,
-notwithstanding Pope’s couplet about the outside of it, where in London
+too tall for that; but if [[Truth]] didn’t live in the base of the Monument,
+notwithstanding Pope’s couplet about the outside of it, where in [[London]]
 (thought Tom) was she likely to be found!
 
 Coming close below the pillar, it was a great encouragement to Tom to
@@ -87,10 +87,10 @@ the money to stop here. Oh, my eye!’
 The Man in the Monument was a Cynic; a worldly man! Tom couldn’t ask his
 way of HIM. He was prepared to put no confidence in anything he said.
 
-‘My gracious!’ cried a well-known voice behind Mr Pinch. ‘Why, to be
+‘My gracious!’ cried a [[Well|well]]-known voice behind Mr Pinch. ‘Why, to be
 sure it is!’
 
-At the same time he was poked in the back by a parasol. Turning round
+At the same [[Time|time]] he was poked in the back by a parasol. Turning round
 to inquire into this salute, he beheld the eldest daughter of his late
 patron.
 
@@ -100,7 +100,7 @@ patron.
 
 ‘I have rather wandered from my way,’ said Tom. ‘I--’
 
-‘I hope you have run away,’ said Charity. ‘It would be quite spirited
+‘I [[Hope|hope]] you have run away,’ said [[Charity]]. ‘It would be quite spirited
 and proper if you had, when my Papa so far forgets himself.’
 
 ‘I have left him,’ returned Tom. ‘But it was perfectly understood on
@@ -108,11 +108,11 @@ both sides. It was not done clandestinely.’
 
 ‘Is he married?’ asked Cherry, with a spasmodic shake of her chin.
 
-‘No, not yet,’ said Tom, colouring; ‘to tell you the truth, I don’t
+‘No, not yet,’ said Tom, colouring; ‘to tell you the [[Truth|truth]], I don’t
 think he is likely to be, if--if Miss Graham is the object of his
 passion.’
 
-‘Tcha, Mr Pinch!’ cried Charity, with sharp impatience, ‘you’re very
+‘Tcha, Mr Pinch!’ cried [[Charity]], with sharp impatience, ‘you’re very
 easily deceived. You don’t know the arts of which such a creature is
 capable. Oh! it’s a wicked world.’
 
@@ -130,24 +130,24 @@ impossible to explain. Won’t you walk in?’
 The great stress on the two last words suggested to Tom that he was
 expected to say something in reference to them. So he said.
 
-‘Only at present! Are you going home again soon?’
+‘Only at present! Are you going [[Home|home]] again soon?’
 
-‘No, Mr Pinch,’ returned Charity. ‘No, thank you. No! A mother-in-law
+‘No, Mr Pinch,’ returned [[Charity]]. ‘No, thank you. No! A mother-in-law
 who is younger than--I mean to say, who is as nearly as possible about
-the same age as one’s self, would not quite suit my spirit. Not quite!’
+the same age as one’s [[Self|self]], would not quite suit my spirit. Not quite!’
 said Cherry, with a spiteful shiver.
 
 ‘I thought from your saying “at present”’--Tom observed.
 
 ‘Really, upon my word! I had no idea you would press me so very closely
-on the subject, Mr Pinch,’ said Charity, blushing, ‘or I should not have
+on the subject, Mr Pinch,’ said [[Charity]], blushing, ‘or I should not have
 been so foolish as to allude to--oh really!--won’t you walk in?’
 
 Tom mentioned, to excuse himself, that he had an appointment in
 Furnival’s Inn, and that coming from Islington he had taken a few wrong
 turnings, and arrived at the Monument instead. Miss Pecksniff simpered
 very much when he asked her if she knew the way to Furnival’s Inn, and
-at length found courage to reply.
+at length found [[Courage|courage]] to reply.
 
 ‘A gentleman who is a friend of mine, or at least who is not exactly a
 friend so much as a sort of acquaintance--Oh upon my word, I hardly
@@ -159,8 +159,8 @@ to prevent your going wrong again. You had better walk in. You will very
 likely find my sister Merry here,’ she said with a curious toss of her
 head, and anything but an agreeable smile.
 
-‘Then, I think, I’ll endeavour to find my way alone,’ said Tom, ‘for I
-fear she would not be very glad to see me. That unfortunate occurrence,
+‘Then, I think, I’ll endeavour to find my way [[Alone|alone]],’ said Tom, ‘for I
+[[Fear|fear]] she would not be very glad to see me. That unfortunate occurrence,
 in relation to which you and I had some amicable words together, in
 private, is not likely to have impressed her with any friendly feeling
 towards me. Though it really was not my fault.’
@@ -172,15 +172,15 @@ she would bear you any mighty ill will for it, if she had.’
 ‘You don’t say so?’ cried Tom, who was really concerned by this
 insinuation.
 
-‘I say nothing,’ said Charity. ‘If I had not already known what shocking
+‘I say nothing,’ said [[Charity]]. ‘If I had not already known what shocking
 things treachery and deceit are in themselves, Mr Pinch, I might perhaps
-have learnt it from the success they meet with--from the success they
+have learnt it from the [[success]] they meet with--from the [[success]] they
 meet with.’ Here she smiled as before. ‘But I don’t say anything. On the
 contrary, I should scorn it. You had better walk in!’
 
 There was something hidden here, which piqued Tom’s interest and
 troubled his tender heart. When, in a moment’s irresolution, he looked
-at Charity, he could not but observe a struggle in her face between
+at [[Charity]], he could not but observe a struggle in her face between
 a sense of triumph and a sense of shame; nor could he but remark how,
 meeting even his eyes, which she cared so little for, she turned away
 her own, for all the splenetic defiance in her manner.
@@ -189,7 +189,7 @@ An uneasy thought entered Tom’s head; a shadowy misgiving that the
 altered relations between himself and Pecksniff were somehow to involve
 an altered knowledge on his part of other people, and were to give him
 an insight into much of which he had had no previous suspicion. And yet
-he put no definite construction upon Charity’s proceedings. He certainly
+he put no definite construction upon [[Charity]]’s proceedings. He certainly
 had no idea that as he had been the audience and spectator of her
 mortification, she grasped with eager delight at any opportunity of
 reproaching her sister with his presence in HER far deeper misery; for
@@ -200,10 +200,10 @@ to conceal. In short, he had merely a confused impression that Miss
 Pecksniff was not quite sisterly or kind; and being curious to set it
 right, accompanied her as she desired.
 
-The house-door being opened, she went in before Tom, requesting him to
+The [[house]]-door being opened, she went in before Tom, requesting him to
 follow her; and led the way to the parlour door.
 
-‘Oh, Merry!’ she said, looking in, ‘I am so glad you have not gone home.
+‘Oh, Merry!’ she said, looking in, ‘I am so glad you have not gone [[Home|home]].
 Who do you think I have met in the street, and brought to see you! Mr
 Pinch! There. Now you ARE surprised, I am sure!’
 
@@ -212,18 +212,18 @@ Not half so much.
 
 ‘Mr Pinch has left Papa, my dear,’ said Cherry, ‘and his prospects are
 quite flourishing. I have promised that Augustus, who is going that way,
-shall escort him to the place he wants. Augustus, my child, where are
+shall escort him to the place he wants. Augustus, my [[Child|child]], where are
 you?’
 
 With these words Miss Pecksniff screamed her way out of the parlour,
-calling on Augustus Moddle to appear; and left Tom Pinch alone with her
+calling on Augustus Moddle to appear; and left [[Tom Pinch]] [[Alone|alone]] with her
 sister.
 
 If she had always been his kindest friend; if she had treated him
 through all his servitude with such consideration as was never yet
 received by struggling man; if she had lightened every moment of those
 many years, and had ever spared and never wounded him; his honest heart
-could not have swelled before her with a deeper pity, or a purer freedom
+could not have swelled before her with a deeper pity, or a purer [[Freedom|freedom]]
 from all base remembrance than it did then.
 
 ‘My gracious me! You are really the last person in the world I should
@@ -231,13 +231,13 @@ have thought of seeing, I am sure!’
 
 Tom was sorry to hear her speaking in her old manner. He had not
 expected that. Yet he did not feel it a contradiction that he should be
-sorry to see her so unlike her old self, and sorry at the same time
+sorry to see her so unlike her old [[Self|self]], and sorry at the same [[Time|time]]
 to hear her speaking in her old manner. The two things seemed quite
 natural.
 
-‘I wonder you find any gratification in coming to see me. I can’t think
+‘I [[Wonder|wonder]] you find any gratification in coming to see me. I can’t think
 what put it in your head. I never had much in seeing you. There was no
-love lost between us, Mr Pinch, at any time, I think.’
+[[Love|love]] lost between us, Mr Pinch, at any [[Time|time]], I think.’
 
 Her bonnet lay beside her on the sofa, and she was very busy with the
 ribbons as she spoke. Much too busy to be conscious of the work her
@@ -250,12 +250,12 @@ an old friend. Don’t let us rake up bygones,’ said Tom. ‘If I ever
 offended you, forgive me.’
 
 She looked at him for a moment; dropped her bonnet from her hands;
-spread them before her altered face, and burst into tears.
+spread them before her altered face, and burst into [[Tears|tears]].
 
-‘Oh, Mr Pinch!’ she said, ‘although I never used you well, I did believe
-your nature was forgiving. I did not think you could be cruel.’
+‘Oh, Mr Pinch!’ she said, ‘although I never used you [[Well|well]], I did believe
+your [[Nature|nature]] was forgiving. I did not think you could be cruel.’
 
-She spoke as little like her old self now, for certain, as Tom
+She spoke as little like her old [[Self|self]] now, for certain, as Tom
 could possibly have wished. But she seemed to be appealing to him
 reproachfully, and he did not understand her.
 
@@ -276,9 +276,9 @@ you, forgive me; I may have done so, many times. You never injured or
 offended me. How, then, could I possibly retort, if even I were stern
 and bad enough to wish to do it!’
 
-After a little while she thanked him, through her tears and sobs, and
+After a little while she thanked him, through her [[Tears|tears]] and sobs, and
 told him she had never been at once so sorry and so comforted, since she
-left home. Still she wept bitterly; and it was the greater pain to Tom
+left [[Home|home]]. Still she wept bitterly; and it was the greater [[Pain|pain]] to Tom
 to see her weeping, from her standing in especial need, just then, of
 sympathy and tenderness.
 
@@ -290,10 +290,10 @@ long.’
 ‘And will be again,’ said Tom.
 
 ‘No, never more. No, never, never more. If you should talk with old Mr
-Chuzzlewit, at any time,’ she added, looking hurriedly into his face--‘I
+Chuzzlewit, at any [[Time|time]],’ she added, looking hurriedly into his face--‘I
 sometimes thought he liked you, but suppressed it--will you promise me
 to tell him that you saw me here, and that I said I bore in mind the
-time we talked together in the churchyard?’
+[[Time|time]] we talked together in the churchyard?’
 
 Tom promised that he would.
 
@@ -307,9 +307,9 @@ it was that he and the old man would ever meet again, because he thought
 it might disturb her more.
 
 ‘If he should ever know this, through your means, dear Mr Pinch,’ said
-Mercy, ‘tell him that I sent the message, not for myself, but that he
+[[Mercy]], ‘tell him that I sent the message, not for myself, but that he
 might be more forbearing and more patient, and more trustful to some
-other person, in some other time of need. Tell him that if he could know
+other person, in some other [[Time|time]] of need. Tell him that if he could know
 how my heart trembled in the balance that day, and what a very little
 would have turned the scale, his own would bleed with pity for me.’
 
@@ -322,9 +322,9 @@ if he had thrown himself in my way for but one other quarter of an hour;
 if he had extended his compassion for a vain, unthinking, miserable
 girl, in but the least degree; he might, and I believe he would, have
 saved her! Tell him that I don’t blame him, but am grateful for the
-effort that he made; but ask him for the love of God, and youth, and
+effort that he made; but ask him for the [[Love|love]] of God, and youth, and
 in merciful consideration for the struggle which an ill-advised and
-unwakened nature makes to hide the strength it thinks its weakness--ask
+unwakened [[Nature|nature]] makes to hide the strength it thinks its weakness--ask
 him never, never, to forget this, when he deals with one again!’
 
 Although Tom did not hold the clue to her full meaning, he could guess
@@ -333,10 +333,10 @@ meant to say, some words of consolation. She felt and understood them,
 whether they were spoken or no. He was not quite certain, afterwards,
 but that she had tried to kneel down at his feet, and bless him.
 
-He found that he was not alone in the room when she had left it. Mrs
+He found that he was not [[Alone|alone]] in the room when she had left it. Mrs
 Todgers was there, shaking her head. Tom had never seen Mrs Todgers, it
 is needless to say, but he had a perception of her being the lady of the
-house; and he saw some genuine compassion in her eyes, that won his good
+[[house]]; and he saw some genuine compassion in her eyes, that won his good
 opinion.
 
 ‘Ah, sir! You are an old friend, I see,’ said Mrs Todgers.
@@ -371,27 +371,27 @@ very small one in her case, that she might have been excused for looking
 sharp after it, lest it should entirely vanish from her sight--had taken
 a firm hold on Mrs Todgers’s attention. But in some odd nook in Mrs
 Todgers’s breast, up a great many steps, and in a corner easy to be
-overlooked, there was a secret door, with ‘Woman’ written on the spring,
-which, at a touch from Mercy’s hand, had flown wide open, and admitted
+overlooked, there was a secret door, with ‘Woman’ written on the [[Spring|spring]],
+which, at a touch from [[Mercy]]’s hand, had flown wide open, and admitted
 her for shelter.
 
-When boarding-house accounts are balanced with all other ledgers, and
+When boarding-[[house]] accounts are balanced with all other ledgers, and
 the books of the Recording Angel are made up for ever, perhaps there may
 be seen an entry to thy credit, lean Mrs Todgers, which shall make thee
 beautiful!
 
 She was growing beautiful so rapidly in Tom’s eyes; for he saw that she
 was poor, and that this good had sprung up in her from among the sordid
-strivings of her life; that she might have been a very Venus in a minute
+strivings of her life; that she might have been a very [[Venus]] in a minute
 more, if Miss Pecksniff had not entered with her friend.
 
-‘Mr Thomas Pinch!’ said Charity, performing the ceremony of introduction
-with evident pride. ‘Mr Moddle. Where’s my sister?’
+‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
+with evident [[Pride|pride]]. ‘Mr Moddle. Where’s my sister?’
 
 ‘Gone, Miss Pecksniff,’ Mrs Todgers answered. ‘She had appointed to be
-home.’
+[[Home|home]].’
 
-‘Ah!’ said Charity, looking at Tom. ‘Oh, dear me!’
+‘Ah!’ said [[Charity]], looking at Tom. ‘Oh, dear me!’
 
 ‘She’s greatly altered since she’s been Anoth--since she’s been married,
 Mrs Todgers!’ observed Moddle.
@@ -400,10 +400,10 @@ Mrs Todgers!’ observed Moddle.
 believe you have said that fifty thousand times, in my hearing. What a
 Prose you are!’
 
-This was succeeded by some trifling love passages, which appeared to
+This was succeeded by some trifling [[Love|love]] passages, which appeared to
 originate with, if not to be wholly carried on by Miss Pecksniff. At any
 rate, Mr Moddle was much slower in his responses than is customary
-with young lovers, and exhibited a lowness of spirits which was quite
+with young [[lovers]], and exhibited a lowness of spirits which was quite
 oppressive.
 
 He did not improve at all when Tom and he were in the streets, but
@@ -423,12 +423,12 @@ interest.
 ‘I don’t,’ said Mr Moddle. ‘The Elements may have me when they please.
 I’m ready.’
 
-Tom inferred from these, and other expressions of the same nature, that
+Tom inferred from these, and other expressions of the same [[Nature|nature]], that
 he was jealous. Therefore he allowed him to take his own course; which
 was such a gloomy one, that he felt a load removed from his mind when
 they parted company at the gate of Furnival’s Inn.
 
-It was now a couple of hours past John Westlock’s dinner-time; and he
+It was now a couple of hours past John Westlock’s dinner-[[Time|time]]; and he
 was walking up and down the room, quite anxious for Tom’s safety. The
 table was spread; the wine was carefully decanted; and the dinner smelt
 delicious.
@@ -436,7 +436,7 @@ delicious.
 ‘Why, Tom, old boy, where on earth have you been? Your box is here. Get
 your boots off instantly, and sit down!’
 
-‘I am sorry to say I can’t stay, John,’ replied Tom Pinch, who was
+‘I am sorry to say I can’t stay, John,’ replied [[Tom Pinch]], who was
 breathless with the haste he had made in running up the stairs.
 
 ‘Can’t stay!’
@@ -453,13 +453,13 @@ John Westlock was perfectly confounded by this reply, and vowed he would
 not touch a morsel until Tom had explained himself fully. So Tom sat
 down, and told him all; to which he listened with the greatest interest.
 
-He knew Tom too well, and respected his delicacy too much, to ask him
+He knew Tom too [[Well|well]], and respected his delicacy too much, to ask him
 why he had taken these measures without communicating with him first. He
 quite concurred in the expediency of Tom’s immediately returning to his
 sister, as he knew so little of the place in which he had left her, and
 good-humouredly proposed to ride back with him in a cab, in which he
 might convey his box. Tom’s proposition that he should sup with them
-that night, he flatly rejected, but made an appointment with him for the
+that [[Night|night]], he flatly rejected, but made an appointment with him for the
 morrow. ‘And now Tom,’ he said, as they rode along, ‘I have a question
 to ask you to which I expect a manly and straightforward answer. Do you
 want any money? I am pretty sure you do.’
@@ -476,10 +476,10 @@ borrow it; and then drove off as hard as she could go.’
 
 ‘And a blessing on every dimple in her handsome face, say I!’ cried
 John, ‘though why you should give her the preference over me, I don’t
-know. Never mind. I bide my time, Tom.’
+know. Never mind. I bide my [[Time|time]], Tom.’
 
-‘And I hope you’ll continue to bide it,’ returned Tom, gayly. ‘For I
-owe you more, already, in a hundred other ways, than I can ever hope to
+‘And I [[Hope|hope]] you’ll continue to bide it,’ returned Tom, gayly. ‘For I
+owe you more, already, in a hundred other ways, than I can ever [[Hope|hope]] to
 pay.’
 
 They parted at the door of Tom’s new residence. John Westlock, sitting
@@ -487,7 +487,7 @@ in the cab, and, catching a glimpse of a blooming little busy creature
 darting out to kiss Tom and to help him with his box, would not have had
 the least objection to change places with him.
 
-Well! she WAS a cheerful little thing; and had a quaint, bright
+[[Well]]! she WAS a cheerful little thing; and had a quaint, bright
 quietness about her that was infinitely pleasant. Surely she was the
 best sauce for chops ever invented. The potatoes seemed to take a
 pleasure in sending up their grateful steam before her; the froth upon

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 7 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ windows; and I like to be quiet.”
 
 “Oh! as good as to say you wish we would all of us mind our own
 
-business, and let you alone.”
+business, and let you [[Alone|alone]].”
 
 
 
@@ -30,13 +30,13 @@ business, and let you alone.”
 
 of course I am glad to see them occasionally. No one can be happy in
 
-eternal solitude. Therefore, Mr. Fergus, if you choose to enter my
+eternal [[Solitude|solitude]]. Therefore, Mr. Fergus, if you choose to enter my
 
-house as a friend, I will make you welcome; if not, I must confess, I
+[[house]] as a friend, I will make you welcome; if not, I must confess, I
 
 would rather you kept away.” She then turned and addressed some
 
-observation to Rose or Eliza.
+observation to [[Rose]] or Eliza.
 
 
 
@@ -56,13 +56,13 @@ often, that we are quite sick of that game; so that a stranger coming
 
 amongst us makes an invaluable addition to our exhausted sources of
 
-amusement. Well, the question, or questions, you are requested to
+amusement. [[Well]], the question, or questions, you are requested to
 
 solve—”
 
 
 
-“Hold your tongue, Fergus!” cried Rose, in a fever of apprehension and
+“Hold your tongue, Fergus!” cried [[Rose]], in a fever of apprehension and
 
 wrath.
 
@@ -80,13 +80,13 @@ south; some say—”
 
 
 
-“Well, Mr. Fergus, I’ll tell you. I’m an Englishwoman—and I don’t see
+“[[Well]], Mr. Fergus, I’ll tell you. I’m an Englishwoman—and I don’t see
 
-why any one should doubt it—and I was born in the country, neither in
+why any one should [[Doubt|doubt]] it—and I was born in the country, neither in
 
 the extreme north nor south of our happy isle; and in the country I
 
-have chiefly passed my life, and now I hope you are satisfied; for I am
+have chiefly passed my life, and now I [[Hope|hope]] you are satisfied; for I am
 
 not disposed to answer any more questions at present.”
 
@@ -98,7 +98,7 @@ not disposed to answer any more questions at present.”
 
 “No, not one more!” laughed she, and, instantly quitting her seat, she
 
-sought refuge at the window by which I was seated, and, in very
+sought refuge at the [[Window|window]] by which I was seated, and, in very
 
 desperation, to escape my brother’s persecutions, endeavoured to draw
 
@@ -110,17 +110,17 @@ me into conversation.
 
 plainly evincing her disquietude, “have you forgotten the fine sea-view
 
-we were speaking of some time ago? I think I must trouble you, now, to
+we were speaking of some [[Time|time]] ago? I think I must trouble you, now, to
 
 tell me the nearest way to it; for if this beautiful weather continue,
 
-I shall, perhaps, be able to walk there, and take my sketch; I have
+I shall, perhaps, be able to walk there, and take my [[Sketch|sketch]]; I have
 
 exhausted every other subject for painting; and I long to see it.”
 
 
 
-I was about to comply with her request, but Rose would not suffer me to
+I was about to comply with her request, but [[Rose]] would not suffer me to
 
 proceed.
 
@@ -130,7 +130,7 @@ proceed.
 
 —— Bay you are thinking about, I suppose, Mrs. Graham? It is a very
 
-long walk, too far for you, and out of the question for Arthur. But we
+long walk, too far for you, and out of the question for [[arthur|Arthur]]. But we
 
 were thinking about making a picnic to see it some fine day; and, if
 
@@ -142,7 +142,7 @@ all be delighted to have you amongst us.”
 
 Poor Mrs. Graham looked dismayed, and attempted to make excuses, but
 
-Rose, either compassionating her lonely life, or anxious to cultivate
+[[Rose]], either compassionating her lonely life, or anxious to cultivate
 
 her acquaintance, was determined to have her; and every objection was
 
@@ -154,11 +154,11 @@ miles distant.
 
 
 
-“Just a nice walk for the gentlemen,” continued Rose; “but the ladies
+“Just a nice walk for the gentlemen,” continued [[Rose]]; “but the ladies
 
 will drive and walk by turns; for we shall have our pony-carriage,
 
-which will be plenty large enough to contain little Arthur and three
+which will be plenty large enough to contain little [[arthur|Arthur]] and three
 
 ladies, together with your sketching apparatus, and our provisions.”
 
@@ -166,9 +166,9 @@ ladies, together with your sketching apparatus, and our provisions.”
 
 So the proposal was finally acceded to; and, after some further
 
-discussion respecting the time and manner of the projected excursion,
+discussion respecting the [[Time|time]] and manner of the projected excursion,
 
-we rose, and took our leave.
+we [[Rose|rose]], and took our leave.
 
 
 
@@ -176,7 +176,7 @@ But this was only March: a cold, wet April, and two weeks of May passed
 
 over before we could venture forth on our expedition with the
 
-reasonable hope of obtaining that pleasure we sought in pleasant
+reasonable [[Hope|hope]] of obtaining that pleasure we sought in pleasant
 
 prospects, cheerful society, fresh air, good cheer and exercise,
 
@@ -186,7 +186,7 @@ Then, on a glorious morning, we gathered our forces and set forth. The
 
 company consisted of Mrs. and Master Graham, Mary and Eliza Millward,
 
-Jane and Richard Wilson, and Rose, Fergus, and Gilbert Markham.
+Jane and [[Richard]] Wilson, and [[Rose]], Fergus, and [[Gilbert Markham]].
 
 
 
@@ -202,7 +202,7 @@ inclined to go, but when I mentioned Mrs. Graham, thinking it might be
 
 a further inducement, it appeared to have a contrary effect, and he
 
-declined it altogether, and, to confess the truth, the decision was not
+declined it altogether, and, to confess the [[Truth|truth]], the decision was not
 
 displeasing to me, though I could scarcely tell you why.
 
@@ -210,7 +210,7 @@ displeasing to me, though I could scarcely tell you why.
 
 It was about midday when we reached the place of our destination. Mrs.
 
-Graham walked all the way to the cliffs; and little Arthur walked the
+Graham walked all the way to the cliffs; and little [[arthur|Arthur]] walked the
 
 greater part of it too; for he was now much more hardy and active than
 
@@ -226,13 +226,13 @@ far behind, or passing through distant fields and lanes.
 
 I have a very pleasant recollection of that walk, along the hard,
 
-white, sunny road, shaded here and there with bright green trees, and
+white, sunny [[Road|road]], shaded here and there with bright green trees, and
 
 adorned with flowery banks and blossoming hedges of delicious
 
 fragrance; or through pleasant fields and lanes, all glorious in the
 
-sweet flowers and brilliant verdure of delightful May. It was true,
+sweet [[Flowers|flowers]] and brilliant verdure of delightful May. It was true,
 
 Eliza was not beside me; but she was with her friends in the
 

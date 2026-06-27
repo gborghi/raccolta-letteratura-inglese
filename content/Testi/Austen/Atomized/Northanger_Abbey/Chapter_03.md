@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 2"
+title: "[[Northanger Abbey]] — Chapter 2"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER 2
 
 
 
-In addition to what has been already said of Catherine Morland’s
+In addition to what has been already said of [[Catherine Morland]]’s
 
 personal and mental endowments, when about to be launched into all the
 
@@ -50,15 +50,15 @@ alarming presentiments of evil to her beloved Catherine from this
 
 terrific separation must oppress her heart with sadness, and drown her
 
-in tears for the last day or two of their being together; and advice of
+in [[Tears|tears]] for the last day or two of their being together; and advice of
 
-the most important and applicable nature must of course flow from her
+the most important and applicable [[Nature|nature]] must of course flow from her
 
 wise lips in their parting conference in her closet. Cautions against
 
 the violence of such noblemen and baronets as delight in forcing young
 
-ladies away to some remote farm-house, must, at such a moment, relieve
+ladies away to some remote farm-[[house]], must, at such a moment, relieve
 
 the fulness of her heart. Who would not think so? But Mrs. Morland knew
 
@@ -70,7 +70,7 @@ her daughter from their machinations. Her cautions were confined to the
 
 following points. “I beg, Catherine, you will always wrap yourself up
 
-very warm about the throat, when you come from the Rooms at night; and
+very warm about the throat, when you come from the Rooms at [[Night|night]]; and
 
 I wish you would try to keep some account of the money you spend; I
 
@@ -82,7 +82,7 @@ Sally, or rather Sarah (for what young lady of common gentility will
 
 reach the age of sixteen without altering her name as far as she can?),
 
-must from situation be at this time the intimate friend and confidante
+must from situation be at this [[Time|time]] the intimate friend and confidante
 
 of her sister. It is remarkable, however, that she neither insisted on
 
@@ -92,7 +92,7 @@ transmitting the character of every new acquaintance, nor a detail of
 
 every interesting conversation that Bath might produce. Everything
 
-indeed relative to this important journey was done, on the part of the
+indeed relative to this important [[Journey|journey]] was done, on the part of the
 
 Morlands, with a degree of moderation and composure, which seemed
 
@@ -112,13 +112,13 @@ guineas, and promised her more when she wanted it.
 
 Under these unpromising auspices, the parting took place, and the
 
-journey began. It was performed with suitable quietness and uneventful
+[[Journey|journey]] began. It was performed with suitable quietness and uneventful
 
 safety. Neither robbers nor tempests befriended them, nor one lucky
 
-overturn to introduce them to the hero. Nothing more alarming occurred
+overturn to introduce them to the [[Hero|hero]]. Nothing more alarming occurred
 
-than a fear, on Mrs. Allen’s side, of having once left her clogs behind
+than a [[Fear|fear]], on Mrs. Allen’s side, of having once left her clogs behind
 
 her at an inn, and that fortunately proved to be groundless.
 
@@ -150,7 +150,7 @@ probably, contribute to reduce poor Catherine to all the desperate
 
 wretchedness of which a last volume is capable—whether by her
 
-imprudence, vulgarity, or jealousy—whether by intercepting her letters,
+imprudence, vulgarity, or [[Jealousy|jealousy]]—whether by intercepting her letters,
 
 ruining her character, or turning her out of doors.
 
@@ -160,9 +160,9 @@ Mrs. Allen was one of that numerous class of females, whose society can
 
 raise no other emotion than surprise at there being any men in the
 
-world who could like them well enough to marry them. She had neither
+world who could like them [[Well|well]] enough to marry them. She had neither
 
-beauty, genius, accomplishment, nor manner. The air of a gentlewoman, a
+[[Beauty|beauty]], genius, accomplishment, nor manner. The air of a gentlewoman, a
 
 great deal of quiet, inactive good temper, and a trifling turn of mind
 
@@ -202,7 +202,7 @@ Mrs. Allen was so long in dressing that they did not enter the ballroom
 
 till late. The season was full, the room crowded, and the two ladies
 
-squeezed in as well as they could. As for Mr. Allen, he repaired
+squeezed in as [[Well|well]] as they could. As for Mr. Allen, he repaired
 
 directly to the card-room, and left them to enjoy a mob by themselves.
 
@@ -244,15 +244,15 @@ comprehensive view of all the company beneath her, and of all the
 
 dangers of her late passage through them. It was a splendid sight, and
 
-she began, for the first time that evening, to feel herself at a ball:
+she began, for the first [[Time|time]] that evening, to feel herself at a ball:
 
-she longed to dance, but she had not an acquaintance in the room. Mrs.
+she longed to [[Dance|dance]], but she had not an acquaintance in the room. Mrs.
 
 Allen did all that she could do in such a case by saying very placidly,
 
-every now and then, “I wish you could dance, my dear—I wish you could
+every now and then, “I wish you could [[Dance|dance]], my dear—I wish you could
 
-get a partner.” For some time her young friend felt obliged to her for
+get a partner.” For some [[Time|time]] her young friend felt obliged to her for
 
 these wishes; but they were repeated so often, and proved so totally
 
@@ -274,7 +274,7 @@ against by people, the generality of whose faces possessed nothing to
 
 interest, and with all of whom she was so wholly unacquainted that she
 
-could not relieve the irksomeness of imprisonment by the exchange of a
+could not relieve the irksomeness of [[Imprisonment|imprisonment]] by the exchange of a
 
 syllable with any of her fellow captives; and when at last arrived in
 
@@ -298,7 +298,7 @@ having preserved her gown from injury. “It would have been very
 
 shocking to have it torn,” said she, “would not it? It is such a
 
-delicate muslin. For my part I have not seen anything I like so well in
+delicate muslin. For my part I have not seen anything I like so [[Well|well]] in
 
 the whole room, I assure you.”
 
@@ -366,25 +366,25 @@ _must_ know somebody.”
 
 here with all my heart, and then I should get you a partner. I should
 
-be so glad to have you dance. There goes a strange-looking woman! what
+be so glad to have you [[Dance|dance]]. There goes a strange-looking woman! what
 
 an odd gown she has got on! how old-fashioned it is! look at the back.”
 
 
 
-After some time they received an offer of tea from one of their
+After some [[Time|time]] they received an offer of tea from one of their
 
 neighbours; it was thankfully accepted, and this introduced a light
 
-conversation with the gentleman who offered it, which was the only time
+conversation with the gentleman who offered it, which was the only [[Time|time]]
 
 that anybody spoke to them during the evening, till they were
 
-discovered and joined by Mr. Allen when the dance was over.
+discovered and joined by Mr. Allen when the [[Dance|dance]] was over.
 
 
 
-“Well, Miss Morland,” said he, directly, “I hope you have had an
+“[[Well]], Miss Morland,” said he, directly, “I [[Hope|hope]] you have had an
 
 agreeable ball.”
 
@@ -396,11 +396,11 @@ great yawn.
 
 
 
-“I wish she had been able to dance,” said his wife; “I wish we could
+“I wish she had been able to [[Dance|dance]],” said his wife; “I wish we could
 
 have got a partner for her. I have been saying how glad I should be if
 
-the Skinners were here this winter instead of last; or if the Parrys
+the Skinners were here this [[Winter|winter]] instead of last; or if the Parrys
 
 had come, as they talked of once, she might have danced with George
 
@@ -408,7 +408,7 @@ Parry. I am so sorry she has not had a partner!”
 
 
 
-“We shall do better another evening I hope,” was Mr. Allen’s
+“We shall do better another evening I [[Hope|hope]],” was Mr. Allen’s
 
 consolation.
 
@@ -418,7 +418,7 @@ The company began to disperse when the dancing was over—enough to leave
 
 space for the remainder to walk about in some comfort; and now was the
 
-time for a heroine, who had not yet played a very distinguished part in
+[[Time|time]] for a heroine, who had not yet played a very distinguished part in
 
 the events of the evening, to be noticed and admired. Every five
 
@@ -426,7 +426,7 @@ minutes, by removing some of the crowd, gave greater openings for her
 
 charms. She was now seen by many young men who had not been near her
 
-before. Not one, however, started with rapturous wonder on beholding
+before. Not one, however, started with rapturous [[Wonder|wonder]] on beholding
 
 her, no whisper of eager inquiry ran round the room, nor was she once
 
@@ -444,12 +444,12 @@ hearing, two gentlemen pronounced her to be a pretty girl. Such words
 
 had their due effect; she immediately thought the evening pleasanter
 
-than she had found it before—her humble vanity was contented—she felt
+than she had found it before—her humble [[Vanity|vanity]] was contented—she felt
 
 more obliged to the two young men for this simple praise than a
 
 true quality heroine would have been for fifteen sonnets in celebration
 
-of her charms, and went to her chair in good humour with everybody, and
+of her charms, and went to her chair in good [[Humour|humour]] with everybody, and
 
 perfectly satisfied with her share of public attention.

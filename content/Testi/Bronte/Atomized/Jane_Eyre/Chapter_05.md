@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 5"
+title: "[[Jane Eyre]] — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,15 +17,15 @@ tags:
 CHAPTER V
 
 
-Five o’clock had hardly struck on the morning of the 19th of January,
+Five o’[[Clock|clock]] had hardly struck on the morning of the 19th of January,
 when Bessie brought a candle into my closet and found me already up and
 nearly dressed. I had risen half-an-hour before her entrance, and had
-washed my face, and put on my clothes by the light of a half-moon just
-setting, whose rays streamed through the narrow window near my crib. I
+washed my face, and put on my clothes by the light of a half-[[Moon|moon]] just
+setting, whose rays streamed through the narrow [[Window|window]] near my crib. I
 was to leave Gateshead that day by a coach which passed the lodge gates
-at six A.M. Bessie was the only person yet risen; she had lit a fire in
+at six A.M. Bessie was the only person yet risen; she had lit a [[Fire|fire]] in
 the nursery, where she now proceeded to make my breakfast. Few children
-can eat when excited with the thoughts of a journey; nor could I.
+can eat when excited with the thoughts of a [[Journey|journey]]; nor could I.
 Bessie, having pressed me in vain to take a few spoonfuls of the boiled
 milk and bread she had prepared for me, wrapped up some biscuits in a
 paper and put them into my bag; then she helped me on with my pelisse
@@ -33,7 +33,7 @@ and bonnet, and wrapping herself in a shawl, she and I left the
 nursery. As we passed Mrs. Reed’s bedroom, she said, “Will you go in
 and bid Missis good-bye?”
 
-“No, Bessie: she came to my crib last night when you were gone down to
+“No, Bessie: she came to my crib last [[Night|night]] when you were gone down to
 supper, and said I need not disturb her in the morning, or my cousins
 either; and she told me to remember that she had always been my best
 friend, and to speak of her and be grateful to her accordingly.”
@@ -53,11 +53,11 @@ has been my foe.”
 “Good-bye to Gateshead!” cried I, as we passed through the hall and
 went out at the front door.
 
-The moon was set, and it was very dark; Bessie carried a lantern, whose
-light glanced on wet steps and gravel road sodden by a recent thaw. Raw
-and chill was the winter morning: my teeth chattered as I hastened down
+The [[Moon|moon]] was set, and it was very dark; Bessie carried a lantern, whose
+light glanced on wet steps and gravel [[Road|road]] sodden by a recent thaw. Raw
+and chill was the [[Winter|winter]] morning: my teeth chattered as I hastened down
 the drive. There was a light in the porter’s lodge: when we reached it,
-we found the porter’s wife just kindling her fire: my trunk, which had
+we found the porter’s wife just kindling her [[Fire|fire]]: my trunk, which had
 been carried down the evening before, stood corded at the door. It
 wanted but a few minutes of six, and shortly after that hour had
 struck, the distant roll of wheels announced the coming coach; I went
@@ -71,8 +71,8 @@ to the door and watched its lamps approach rapidly through the gloom.
 
 “Fifty miles.”
 
-“What a long way! I wonder Mrs. Reed is not afraid to trust her so far
-alone.”
+“What a long way! I [[Wonder|wonder]] Mrs. Reed is not afraid to trust her so far
+[[Alone|alone]].”
 
 The coach drew up; there it was at the gates with its four horses and
 its top laden with passengers: the guard and coachman loudly urged
@@ -87,15 +87,15 @@ lifted me into the inside.
 Gateshead; thus whirled away to unknown, and, as I then deemed, remote
 and mysterious regions.
 
-I remember but little of the journey; I only know that the day seemed
+I remember but little of the [[Journey|journey]]; I only know that the day seemed
 to me of a preternatural length, and that we appeared to travel over
-hundreds of miles of road. We passed through several towns, and in one,
+hundreds of miles of [[Road|road]]. We passed through several towns, and in one,
 a very large one, the coach stopped; the horses were taken out, and the
 passengers alighted to dine. I was carried into an inn, where the guard
 wanted me to have some dinner; but, as I had no appetite, he left me in
 an immense room with a fireplace at each end, a chandelier pendent from
 the ceiling, and a little red gallery high up against the wall filled
-with musical instruments. Here I walked about for a long time, feeling
+with musical instruments. Here I walked about for a long [[Time|time]], feeling
 very strange, and mortally apprehensive of some one coming in and
 kidnapping me; for I believed in kidnappers, their exploits having
 frequently figured in Bessie’s fireside chronicles. At last the guard
@@ -107,27 +107,27 @@ The afternoon came on wet and somewhat misty: as it waned into dusk, I
 began to feel that we were getting very far indeed from Gateshead: we
 ceased to pass through towns; the country changed; great grey hills
 heaved up round the horizon: as twilight deepened, we descended a
-valley, dark with wood, and long after night had overclouded the
-prospect, I heard a wild wind rushing amongst trees.
+valley, dark with wood, and long after [[Night|night]] had overclouded the
+prospect, I heard a wild [[Wind|wind]] rushing amongst trees.
 
 Lulled by the sound, I at last dropped asleep; I had not long slumbered
 when the sudden cessation of motion awoke me; the coach-door was open,
 and a person like a servant was standing at it: I saw her face and
 dress by the light of the lamps.
 
-“Is there a little girl called Jane Eyre here?” she asked. I answered
+“Is there a little girl called [[Jane Eyre]] here?” she asked. I answered
 “Yes,” and was then lifted out; my trunk was handed down, and the coach
 instantly drove away.
 
 I was stiff with long sitting, and bewildered with the noise and motion
-of the coach: gathering my faculties, I looked about me. Rain, wind,
+of the coach: gathering my faculties, I looked about me. Rain, [[Wind|wind]],
 and darkness filled the air; nevertheless, I dimly discerned a wall
 before me and a door open in it; through this door I passed with my new
-guide: she shut and locked it behind her. There was now visible a house
+guide: she shut and locked it behind her. There was now visible a [[house]]
 or houses—for the building spread far—with many windows, and lights
 burning in some; we went up a broad pebbly path, splashing wet, and
 were admitted at a door; then the servant led me through a passage into
-a room with a fire, where she left me alone.
+a room with a [[Fire|fire]], where she left me [[Alone|alone]].
 
 I stood and warmed my numbed fingers over the blaze, then I looked
 round; there was no candle, but the uncertain light from the hearth
@@ -140,9 +140,9 @@ behind.
 
 The first was a tall lady with dark hair, dark eyes, and a pale and
 large forehead; her figure was partly enveloped in a shawl, her
-countenance was grave, her bearing erect.
+countenance was [[Grave|grave]], her bearing erect.
 
-“The child is very young to be sent alone,” said she, putting her
+“The [[Child|child]] is very young to be sent [[Alone|alone]],” said she, putting her
 candle down on the table. She considered me attentively for a minute or
 two, then further added—
 
@@ -151,14 +151,14 @@ she asked, placing her hand on my shoulder.
 
 “A little, ma’am.”
 
-“And hungry too, no doubt: let her have some supper before she goes to
-bed, Miss Miller. Is this the first time you have left your parents to
+“And hungry too, no [[Doubt|doubt]]: let her have some supper before she goes to
+bed, Miss Miller. Is this the first [[Time|time]] you have left your parents to
 come to school, my little girl?”
 
 I explained to her that I had no parents. She inquired how long they
 had been dead: then how old I was, what was my name, whether I could
 read, write, and sew a little: then she touched my cheek gently with
-her forefinger, and saying, “She hoped I should be a good child,”
+her forefinger, and saying, “She hoped I should be a good [[Child|child]],”
 dismissed me along with Miss Miller.
 
 The lady I had left might be about twenty-nine; the one who went with
@@ -169,7 +169,7 @@ who had always a multiplicity of tasks on hand: she looked, indeed,
 what I afterwards found she really was, an under-teacher. Led by her, I
 passed from compartment to compartment, from passage to passage, of a
 large and irregular building; till, emerging from the total and
-somewhat dreary silence pervading that portion of the house we had
+somewhat dreary [[Silence|silence]] pervading that portion of the [[house]] we had
 traversed, we came upon the hum of many voices, and presently entered a
 wide, long room, with great deal tables, two at each end, on each of
 which burnt a pair of candles, and seated all round on benches, a
@@ -193,29 +193,29 @@ the books and removed them. Miss Miller again gave the word of command—
 
 The tall girls went out and returned presently, each bearing a tray,
 with portions of something, I knew not what, arranged thereon, and a
-pitcher of water and mug in the middle of each tray. The portions were
-handed round; those who liked took a draught of the water, the mug
+pitcher of [[Water|water]] and mug in the middle of each tray. The portions were
+handed round; those who liked took a draught of the [[Water|water]], the mug
 being common to all. When it came to my turn, I drank, for I was
 thirsty, but did not touch the food, excitement and fatigue rendering
 me incapable of eating: I now saw, however, that it was a thin oaten
 cake shared into fragments.
 
 The meal over, prayers were read by Miss Miller, and the classes filed
-off, two and two, upstairs. Overpowered by this time with weariness, I
+off, two and two, upstairs. Overpowered by this [[Time|time]] with weariness, I
 scarcely noticed what sort of a place the bedroom was, except that,
-like the schoolroom, I saw it was very long. To-night I was to be Miss
+like the schoolroom, I saw it was very long. To-[[Night|night]] I was to be Miss
 Miller’s bed-fellow; she helped me to undress: when laid down I glanced
 at the long rows of beds, each of which was quickly filled with two
 occupants; in ten minutes the single light was extinguished, and amidst
-silence and complete darkness I fell asleep.
+[[Silence|silence]] and complete darkness I fell asleep.
 
-The night passed rapidly: I was too tired even to dream; I only once
-awoke to hear the wind rave in furious gusts, and the rain fall in
+The [[Night|night]] passed rapidly: I was too tired even to dream; I only once
+awoke to hear the [[Wind|wind]] rave in furious gusts, and the rain fall in
 torrents, and to be sensible that Miss Miller had taken her place by my
 side. When I again unclosed my eyes, a loud bell was ringing; the girls
-were up and dressing; day had not yet begun to dawn, and a rushlight or
-two burned in the room. I too rose reluctantly; it was bitter cold, and
-I dressed as well as I could for shivering, and washed when there was a
+were up and dressing; day had not yet begun to [[Dawn|dawn]], and a rushlight or
+two burned in the room. I too [[Rose|rose]] reluctantly; it was bitter cold, and
+I dressed as [[Well|well]] as I could for shivering, and washed when there was a
 basin at liberty, which did not occur soon, as there was but one basin
 to six girls, on the stands down the middle of the room. Again the bell
 rang: all formed in file, two and two, and in that order descended the
@@ -225,10 +225,10 @@ read by Miss Miller; afterwards she called out—
 “Form classes!”
 
 A great tumult succeeded for some minutes, during which Miss Miller
-repeatedly exclaimed, “Silence!” and “Order!” When it subsided, I saw
+repeatedly exclaimed, “[[Silence]]!” and “Order!” When it subsided, I saw
 them all drawn up in four semicircles, before four chairs, placed at
 the four tables; all held books in their hands, and a great book, like
-a Bible, lay on each table, before the vacant seat. A pause of some
+a [[Bible]], lay on each table, before the vacant seat. A pause of some
 seconds succeeded, filled up by the low, vague hum of numbers; Miss
 Miller walked from class to class, hushing this indefinite sound.
 
@@ -236,13 +236,13 @@ A distant bell tinkled: immediately three ladies entered the room, each
 walked to a table and took her seat; Miss Miller assumed the fourth
 vacant chair, which was that nearest the door, and around which the
 smallest of the children were assembled: to this inferior class I was
-called, and placed at the bottom of it.
+called, and placed at the [[Bottom|bottom]] of it.
 
 Business now began: the day’s Collect was repeated, then certain texts
 of Scripture were said, and to these succeeded a protracted reading of
-chapters in the Bible, which lasted an hour. By the time that exercise
+chapters in the [[Bible]], which lasted an hour. By the [[Time|time]] that exercise
 was terminated, day had fully dawned. The indefatigable bell now
-sounded for the fourth time: the classes were marshalled and marched
+sounded for the fourth [[Time|time]]: the classes were marshalled and marched
 into another room to breakfast: how glad I was to behold a prospect of
 getting something to eat! I was now nearly sick from inanition, having
 taken so little the day before.
@@ -251,20 +251,20 @@ The refectory was a great, low-ceiled, gloomy room; on two long tables
 smoked basins of something hot, which, however, to my dismay, sent
 forth an odour far from inviting. I saw a universal manifestation of
 discontent when the fumes of the repast met the nostrils of those
-destined to swallow it; from the van of the procession, the tall girls
-of the first class, rose the whispered words—
+destined to [[Swallow|swallow]] it; from the van of the procession, the tall girls
+of the first class, [[Rose|rose]] the whispered words—
 
 “Disgusting! The porridge is burnt again!”
 
-“Silence!” ejaculated a voice; not that of Miss Miller, but one of the
+“[[Silence]]!” ejaculated a voice; not that of Miss Miller, but one of the
 upper teachers, a little and dark personage, smartly dressed, but of
 somewhat morose aspect, who installed herself at the top of one table,
 while a more buxom lady presided at the other. I looked in vain for her
-I had first seen the night before; she was not visible: Miss Miller
+I had first seen the [[Night|night]] before; she was not visible: Miss Miller
 occupied the foot of the table where I sat, and a strange,
 foreign-looking, elderly lady, the French teacher, as I afterwards
 found, took the corresponding seat at the other board. A long grace was
-said and a hymn sung; then a servant brought in some tea for the
+said and a [[Hymn|hymn]] sung; then a servant brought in some tea for the
 teachers, and the meal began.
 
 Ravenous, and now very faint, I devoured a spoonful or two of my
@@ -272,9 +272,9 @@ portion without thinking of its taste; but the first edge of hunger
 blunted, I perceived I had got in hand a nauseous mess; burnt porridge
 is almost as bad as rotten potatoes; famine itself soon sickens over
 it. The spoons were moved slowly: I saw each girl taste her food and
-try to swallow it; but in most cases the effort was soon relinquished.
+try to [[Swallow|swallow]] it; but in most cases the effort was soon relinquished.
 Breakfast was over, and none had breakfasted. Thanks being returned for
-what we had not got, and a second hymn chanted, the refectory was
+what we had not got, and a second [[Hymn|hymn]] chanted, the refectory was
 evacuated for the schoolroom. I was one of the last to go out, and in
 passing the tables, I saw one teacher take a basin of the porridge and
 taste it; she looked at the others; all their countenances expressed
@@ -283,7 +283,7 @@ displeasure, and one of them, the stout one, whispered—
 “Abominable stuff! How shameful!”
 
 A quarter of an hour passed before lessons again began, during which
-the schoolroom was in a glorious tumult; for that space of time it
+the schoolroom was in a glorious tumult; for that space of [[Time|time]] it
 seemed to be permitted to talk loud and more freely, and they used
 their privilege. The whole conversation ran on the breakfast, which one
 and all abused roundly. Poor things! it was the sole consolation they
@@ -293,13 +293,13 @@ heard the name of Mr. Brocklehurst pronounced by some lips; at which
 Miss Miller shook her head disapprovingly; but she made no great effort
 to check the general wrath; doubtless she shared in it.
 
-A clock in the schoolroom struck nine; Miss Miller left her circle, and
+A [[Clock|clock]] in the schoolroom struck nine; Miss Miller left her circle, and
 standing in the middle of the room, cried—
 
-“Silence! To your seats!”
+“[[Silence]]! To your seats!”
 
 Discipline prevailed: in five minutes the confused throng was resolved
-into order, and comparative silence quelled the Babel clamour of
+into order, and comparative [[Silence|silence]] quelled the Babel clamour of
 tongues. The upper teachers now punctually resumed their posts: but
 still, all seemed to wait. Ranged on benches down the sides of the
 room, the eighty girls sat motionless and erect; a quaint assemblage
@@ -316,16 +316,16 @@ prettiest.
 I was still looking at them, and also at intervals examining the
 teachers—none of whom precisely pleased me; for the stout one was a
 little coarse, the dark one not a little fierce, the foreigner harsh
-and grotesque, and Miss Miller, poor thing! looked purple,
+and [[Grotesque|grotesque]], and Miss Miller, poor thing! looked purple,
 weather-beaten, and over-worked—when, as my eye wandered from face to
-face, the whole school rose simultaneously, as if moved by a common
-spring.
+face, the whole school [[Rose|rose]] simultaneously, as if moved by a common
+[[Spring|spring]].
 
 What was the matter? I had heard no order given: I was puzzled. Ere I
 had gathered my wits, the classes were again seated: but as all eyes
 were now turned to one point, mine followed the general direction, and
-encountered the personage who had received me last night. She stood at
-the bottom of the long room, on the hearth; for there was a fire at
+encountered the personage who had received me last [[Night|night]]. She stood at
+the [[Bottom|bottom]] of the long room, on the hearth; for there was a [[Fire|fire]] at
 each end; she surveyed the two rows of girls silently and gravely. Miss
 Miller approaching, seemed to ask her a question, and having received
 her answer, went back to her place, and said aloud—
@@ -346,18 +346,18 @@ trimming of black velvet; a gold watch (watches were not so common then
 as now) shone at her girdle. Let the reader add, to complete the
 picture, refined features; a complexion, if pale, clear; and a stately
 air and carriage, and he will have, at least, as clearly as words can
-give it, a correct idea of the exterior of Miss Temple—Maria Temple, as
-I afterwards saw the name written in a prayer-book intrusted to me to
+give it, a correct idea of the exterior of Miss Temple—[[Maria]] Temple, as
+I afterwards saw the name written in a [[prayer]]-book intrusted to me to
 carry to church.
 
 The superintendent of Lowood (for such was this lady) having taken her
 seat before a pair of globes placed on one of the tables, summoned the
 first class round her, and commenced giving a lesson on geography; the
-lower classes were called by the teachers: repetitions in history,
+lower classes were called by the teachers: repetitions in [[history]],
 grammar, &c., went on for an hour; writing and arithmetic succeeded,
 and music lessons were given by Miss Temple to some of the elder girls.
-The duration of each lesson was measured by the clock, which at last
-struck twelve. The superintendent rose—
+The duration of each lesson was measured by the [[Clock|clock]], which at last
+struck twelve. The superintendent [[Rose|rose]]—
 
 “I have a word to address to the pupils,” said she.
 
@@ -365,7 +365,7 @@ The tumult of cessation from lessons was already breaking forth, but it
 sank at her voice. She went on—
 
 “You had this morning a breakfast which you could not eat; you must be
-hungry:—I have ordered that a lunch of bread and cheese shall be served
+hungry:—I have ordered that a lunch of bread and [[cheese]] shall be served
 to all.”
 
 The teachers looked at her with a sort of surprise.
@@ -373,19 +373,19 @@ The teachers looked at her with a sort of surprise.
 “It is to be done on my responsibility,” she added, in an explanatory
 tone to them, and immediately afterwards left the room.
 
-The bread and cheese was presently brought in and distributed, to the
+The bread and [[cheese]] was presently brought in and distributed, to the
 high delight and refreshment of the whole school. The order was now
-given “To the garden!” Each put on a coarse straw bonnet, with strings
+given “To the [[Garden|garden]]!” Each put on a coarse straw bonnet, with strings
 of coloured calico, and a cloak of grey frieze. I was similarly
 equipped, and, following the stream, I made my way into the open air.
 
-The garden was a wide inclosure, surrounded with walls so high as to
+The [[Garden|garden]] was a wide inclosure, surrounded with walls so high as to
 exclude every glimpse of prospect; a covered verandah ran down one
 side, and broad walks bordered a middle space divided into scores of
 little beds: these beds were assigned as gardens for the pupils to
-cultivate, and each bed had an owner. When full of flowers they would
+cultivate, and each bed had an owner. When full of [[Flowers|flowers]] they would
 doubtless look pretty; but now, at the latter end of January, all was
-wintry blight and brown decay. I shuddered as I stood and looked round
+wintry blight and brown [[Decay|decay]]. I shuddered as I stood and looked round
 me: it was an inclement day for outdoor exercise; not positively rainy,
 but darkened by a drizzling yellow fog; all under foot was still
 soaking wet with the floods of yesterday. The stronger among the girls
@@ -404,11 +404,11 @@ thinking. My reflections were too undefined and fragmentary to merit
 record: I hardly yet knew where I was; Gateshead and my past life
 seemed floated away to an immeasurable distance; the present was vague
 and strange, and of the future I could form no conjecture. I looked
-round the convent-like garden, and then up at the house—a large
+round the convent-like [[Garden|garden]], and then up at the [[house]]—a large
 building, half of which seemed grey and old, the other half quite new.
 The new part, containing the schoolroom and dormitory, was lit by
 mullioned and latticed windows, which gave it a church-like aspect; a
-stone tablet over the door bore this inscription:—
+stone tablet over the door bore this [[Inscription|inscription]]:—
 
 LOWOOD INSTITUTION.
 
@@ -438,7 +438,7 @@ which she examined me.
 
 “What is it about?” I continued. I hardly know where I found the
 hardihood thus to open a conversation with a stranger; the step was
-contrary to my nature and habits: but I think her occupation touched a
+contrary to my [[Nature|nature]] and habits: but I think her occupation touched a
 chord of sympathy somewhere; for I too liked reading, though of a
 frivolous and childish kind; I could not digest or comprehend the
 serious or substantial.
@@ -455,25 +455,25 @@ relapse into her former studious mood: again I ventured to disturb her—
 “Can you tell me what the writing on that stone over the door means?
 What is Lowood Institution?”
 
-“This house where you are come to live.”
+“This [[house]] where you are come to live.”
 
 “And why do they call it Institution? Is it in any way different from
 other schools?”
 
-“It is partly a charity-school: you and I, and all the rest of us, are
-charity-children. I suppose you are an orphan: are not either your
+“It is partly a [[Charity|charity]]-school: you and I, and all the rest of us, are
+[[Charity|charity]]-children. I suppose you are an [[Orphan|orphan]]: are not either your
 father or your mother dead?”
 
 “Both died before I can remember.”
 
-“Well, all the girls here have lost either one or both parents, and
+“[[Well]], all the girls here have lost either one or both parents, and
 this is called an institution for educating orphans.”
 
 “Do we pay no money? Do they keep us for nothing?”
 
 “We pay, or our friends pay, fifteen pounds a year for each.”
 
-“Then why do they call us charity-children?”
+“Then why do they call us [[Charity|charity]]-children?”
 
 “Because fifteen pounds is not enough for board and teaching, and the
 deficiency is supplied by subscription.”
@@ -481,19 +481,19 @@ deficiency is supplied by subscription.”
 “Who subscribes?”
 
 “Different benevolent-minded ladies and gentlemen in this neighbourhood
-and in London.”
+and in [[London]].”
 
 “Who was Naomi Brocklehurst?”
 
-“The lady who built the new part of this house as that tablet records,
+“The lady who built the new part of this [[house]] as that tablet records,
 and whose son overlooks and directs everything here.”
 
 “Why?”
 
 “Because he is treasurer and manager of the establishment.”
 
-“Then this house does not belong to that tall lady who wears a watch,
-and who said we were to have some bread and cheese?”
+“Then this [[house]] does not belong to that tall lady who wears a watch,
+and who said we were to have some bread and [[cheese]]?”
 
 “To Miss Temple? Oh, no! I wish it did: she has to answer to Mr.
 Brocklehurst for all she does. Mr. Brocklehurst buys all our food and
@@ -513,17 +513,17 @@ all our clothes.”
 
 “And what are the other teachers called?”
 
-“The one with red cheeks is called Miss Smith; she attends to the work,
+“The one with red cheeks is called Miss [[smith|Smith]]; she attends to the work,
 and cuts out—for we make our own clothes, our frocks, and pelisses, and
 everything; the little one with black hair is Miss Scatcherd; she
-teaches history and grammar, and hears the second class repetitions;
+teaches [[history]] and grammar, and hears the second class repetitions;
 and the one who wears a shawl, and has a pocket-handkerchief tied to
 her side with a yellow ribband, is Madame Pierrot: she comes from
 Lisle, in France, and teaches French.”
 
 “Do you like the teachers?”
 
-“Well enough.”
+“[[Well]] enough.”
 
 “Do you like the little black one, and the Madame ——?—I cannot
 pronounce her name as you do.”
@@ -540,7 +540,7 @@ because she knows far more than they do.”
 
 “Two years.”
 
-“Are you an orphan?”
+“Are you an [[Orphan|orphan]]?”
 
 “My mother is dead.”
 
@@ -550,9 +550,9 @@ because she knows far more than they do.”
 the present: now I want to read.”
 
 But at that moment the summons sounded for dinner; all re-entered the
-house. The odour which now filled the refectory was scarcely more
+[[house]]. The odour which now filled the refectory was scarcely more
 appetising than that which had regaled our nostrils at breakfast: the
-dinner was served in two huge tin-plated vessels, whence rose a strong
+dinner was served in two huge tin-plated vessels, whence [[Rose|rose]] a strong
 steam redolent of rancid fat. I found the mess to consist of
 indifferent potatoes and strange shreds of rusty meat, mixed and cooked
 together. Of this preparation a tolerably abundant plateful was
@@ -560,29 +560,29 @@ apportioned to each pupil. I ate what I could, and wondered within
 myself whether every day’s fare would be like this.
 
 After dinner, we immediately adjourned to the schoolroom: lessons
-recommenced, and were continued till five o’clock.
+recommenced, and were continued till five o’[[Clock|clock]].
 
 The only marked event of the afternoon was, that I saw the girl with
 whom I had conversed in the verandah dismissed in disgrace by Miss
-Scatcherd from a history class, and sent to stand in the middle of the
+Scatcherd from a [[history]] class, and sent to stand in the middle of the
 large schoolroom. The punishment seemed to me in a high degree
 ignominious, especially for so great a girl—she looked thirteen or
 upwards. I expected she would show signs of great distress and shame;
 but to my surprise she neither wept nor blushed: composed, though
-grave, she stood, the central mark of all eyes. “How can she bear it so
+[[Grave|grave]], she stood, the central mark of all eyes. “How can she bear it so
 quietly—so firmly?” I asked of myself. “Were I in her place, it seems
-to me I should wish the earth to open and swallow me up. She looks as
+to me I should wish the earth to open and [[Swallow|swallow]] me up. She looks as
 if she were thinking of something beyond her punishment—beyond her
 situation: of something not round her nor before her. I have heard of
-day-dreams—is she in a day-dream now? Her eyes are fixed on the floor,
+day-[[Dreams|dreams]]—is she in a day-dream now? Her eyes are fixed on the floor,
 but I am sure they do not see it—her sight seems turned in, gone down
 into her heart: she is looking at what she can remember, I believe; not
-at what is really present. I wonder what sort of a girl she is—whether
+at what is really present. I [[Wonder|wonder]] what sort of a girl she is—whether
 good or naughty.”
 
 Soon after five P.M. we had another meal, consisting of a small mug of
 coffee, and half-a-slice of brown bread. I devoured my bread and drank
 my coffee with relish; but I should have been glad of as much more—I
 was still hungry. Half-an-hour’s recreation succeeded, then study; then
-the glass of water and the piece of oat-cake, prayers, and bed. Such
+the glass of [[Water|water]] and the piece of oat-cake, prayers, and bed. Such
 was my first day at Lowood.

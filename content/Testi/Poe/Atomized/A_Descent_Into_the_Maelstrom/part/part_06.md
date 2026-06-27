@@ -1,5 +1,5 @@
 ---
-title: "A Descent Into the Maelstrom (part 6)"
+title: "[[A Descent Into the Maelstrom]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
@@ -21,21 +21,21 @@ tags:
       unobstructed view, from the manner in which the smack hung on the
       inclined surface of the pool. She was quite upon an even
       keel—that is to say, her deck lay in a plane parallel with that
-      of the water—but this latter sloped at an angle of more than
+      of the [[Water|water]]—but this latter sloped at an angle of more than
       forty-five degrees, so that we seemed to be lying upon our
       beam-ends. I could not help observing, nevertheless, that I had
       scarcely more difficulty in maintaining my hold and footing in
       this situation, than if we had been upon a dead level; and this,
-      I suppose, was owing to the speed at which we revolved.
+      I suppose, was owing to the [[Speed|speed]] at which we revolved.
 
-      “The rays of the moon seemed to search the very bottom of the
+      “The rays of the [[Moon|moon]] seemed to search the very [[Bottom|bottom]] of the
       profound gulf; but still I could make out nothing distinctly, on
       account of a thick mist in which everything there was enveloped,
       and over which there hung a magnificent rainbow, like that narrow
       and tottering bridge which Mussulmen say is the only pathway
-      between Time and Eternity. This mist, or spray, was no doubt
+      between [[Time]] and [[Eternity]]. This mist, or spray, was no [[Doubt|doubt]]
       occasioned by the clashing of the great walls of the funnel, as
-      they all met together at the bottom—but the yell that went up to
+      they all met together at the [[Bottom|bottom]]—but the yell that went up to
       the Heavens from out of that mist, I dare not attempt to
       describe.
 
@@ -52,7 +52,7 @@ tags:
       object in the embrace of the whirl. Both above and below us were
       visible fragments of vessels, large masses of building timber and
       trunks of trees, with many smaller articles, such as pieces of
-      house furniture, broken boxes, barrels and staves. I have already
+      [[house]] furniture, broken boxes, barrels and staves. I have already
       described the unnatural curiosity which had taken the place of my
       original terrors. It appeared to grow upon me as I drew nearer
       and nearer to my dreadful doom. I now began to watch, with a
@@ -60,17 +60,17 @@ tags:
       company. I _must_ have been delirious, for I even sought
       _amusement_ in speculating upon the relative velocities of their
       several descents toward the foam below. ‘This fir tree,’ I found
-      myself at one time saying, ‘will certainly be the next thing that
+      myself at one [[Time|time]] saying, ‘will certainly be the next thing that
       takes the awful plunge and disappears,’—and then I was
-      disappointed to find that the wreck of a Dutch merchant ship
+      disappointed to find that the wreck of a Dutch merchant [[Ship|ship]]
       overtook it and went down before. At length, after making several
-      guesses of this nature, and being deceived in all—this fact—the
+      guesses of this [[Nature|nature]], and being deceived in all—this fact—the
       fact of my invariable miscalculation, set me upon a train of
       reflection that made my limbs again tremble, and my heart beat
       heavily once more.
 
-      “It was not a new terror that thus affected me, but the dawn of a
-      more exciting _hope_. This hope arose partly from memory, and
+      “It was not a new terror that thus affected me, but the [[Dawn|dawn]] of a
+      more exciting _hope_. This [[Hope|hope]] arose partly from [[Memory|memory]], and
       partly from present observation. I called to mind the great
       variety of buoyant matter that strewed the coast of Lofoden,
       having been absorbed and then thrown forth by the Moskoe-ström.
@@ -83,7 +83,7 @@ tags:
       ones which had been _completely absorbed_—that the others had
       entered the whirl at so late a period of the tide, or, for some
       reason, had descended so slowly after entering, that they did not
-      reach the bottom before the turn of the flood came, or of the
+      reach the [[Bottom|bottom]] before the turn of the flood came, or of the
       ebb, as the case might be. I conceived it possible, in either
       instance, that they might thus be whirled up again to the level
       of the ocean, without undergoing the fate of those which had been
@@ -92,7 +92,7 @@ tags:
       rule, the larger the bodies were, the more rapid their
       descent—the second, that, between two masses of equal extent, the
       one spherical, and the other _of any other shape_, the
-      superiority in speed of descent was with the sphere—the third,
+      superiority in [[Speed|speed]] of descent was with the sphere—the third,
       that, between two masses of equal size, the one cylindrical, and
       the other of any other shape, the cylinder was absorbed the more
       slowly. Since my escape, I have had several conversations on this
@@ -103,7 +103,7 @@ tags:
       consequence of the forms of the floating fragments—and showed me
       how it happened that a cylinder, swimming in a vortex, offered
       more resistance to its suction, and was drawn in with greater
-      difficulty than an equally bulky body, of any form whatever. (*1)
+      difficulty than an equally bulky [[Body|body]], of any form whatever. (*1)
 
       “There was one startling circumstance which went a great way in
       enforcing these observations, and rendering me anxious to turn

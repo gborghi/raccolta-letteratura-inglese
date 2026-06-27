@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 9 (part 3)"
+title: "[[Emma]] — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -25,7 +25,7 @@ common phrase, be _well_ married, here is the comfortable fortune, the
 respectable establishment, the rise in the world which must satisfy
 them.”
 
-“Yes, very true. How nicely you talk; I love to hear you. You
+“Yes, very true. How nicely you talk; I [[Love|love]] to hear you. You
 understand every thing. You and Mr. Elton are one as clever as the
 other. This charade!—If I had studied a twelvemonth, I could never have
 made any thing like it.”
@@ -46,12 +46,12 @@ Harriet was too intent on the lines to hear. The most satisfactory
 comparisons were rising in her mind.
 
 “It is one thing,” said she, presently—her cheeks in a glow—“to have
-very good sense in a common way, like every body else, and if there is
+very good sense in a common way, like every [[Body|body]] else, and if there is
 any thing to say, to sit down and write a letter, and say just what you
 must, in a short way; and another, to write verses and charades like
 this.”
 
-Emma could not have desired a more spirited rejection of Mr. Martin’s
+[[Emma]] could not have desired a more spirited rejection of Mr. Martin’s
 prose.
 
 “Such sweet lines!” continued Harriet—“these two last!—But how shall I
@@ -61,7 +61,7 @@ Woodhouse, what can we do about that?”
 “Leave it to me. You do nothing. He will be here this evening, I dare
 say, and then I will give it him back, and some nonsense or other will
 pass between us, and you shall not be committed.—Your soft eyes shall
-chuse their own time for beaming. Trust to me.”
+chuse their own [[Time|time]] for beaming. Trust to me.”
 
 “Oh! Miss Woodhouse, what a pity that I must not write this beautiful
 charade into my book! I am sure I have not got one half so good.”
@@ -77,25 +77,25 @@ because you divide them. The couplet does not cease to be, nor does its
 meaning change. But take it away, and all _appropriation_ ceases, and a
 very pretty gallant charade remains, fit for any collection. Depend
 upon it, he would not like to have his charade slighted, much better
-than his passion. A poet in love must be encouraged in both capacities,
+than his passion. A poet in [[Love|love]] must be encouraged in both capacities,
 or neither. Give me the book, I will write it down, and then there can
 be no possible reflection on you.”
 
 Harriet submitted, though her mind could hardly separate the parts, so
 as to feel quite sure that her friend were not writing down a
-declaration of love. It seemed too precious an offering for any degree
+declaration of [[Love|love]]. It seemed too precious an offering for any degree
 of publicity.
 
 “I shall never let that book go out of my own hands,” said she.
 
-“Very well,” replied Emma; “a most natural feeling; and the longer it
+“Very [[Well|well]],” replied [[Emma]]; “a most natural feeling; and the longer it
 lasts, the better I shall be pleased. But here is my father coming: you
 will not object to my reading the charade to him. It will be giving him
 so much pleasure! He loves any thing of the sort, and especially any
 thing that pays woman a compliment. He has the tenderest spirit of
 gallantry towards us all!—You must let me read it to him.”
 
-Harriet looked grave.
+Harriet looked [[Grave|grave]].
 
 “My dear Harriet, you must not refine too much upon this charade.—You
 will betray your feelings improperly, if you are too conscious and too
@@ -107,10 +107,10 @@ than towards you. Do not let us be too solemn on the business. He has
 encouragement enough to proceed, without our sighing out our souls over
 this charade.”
 
-“Oh! no—I hope I shall not be ridiculous about it. Do as you please.”
+“Oh! no—I [[Hope|hope]] I shall not be ridiculous about it. Do as you please.”
 
 Mr. Woodhouse came in, and very soon led to the subject again, by the
-recurrence of his very frequent inquiry of “Well, my dears, how does
+recurrence of his very frequent inquiry of “[[Well]], my dears, how does
 your book go on?—Have you got any thing fresh?”
 
 “Yes, papa; we have something to read you, something quite fresh. A
@@ -126,14 +126,14 @@ foreseen, especially struck with the complimentary conclusion.
 “Aye, that’s very just, indeed, that’s very properly said. Very true.
 ‘Woman, lovely woman.’ It is such a pretty charade, my dear, that I can
 easily guess what fairy brought it.—Nobody could have written so
-prettily, but you, Emma.”
+prettily, but you, [[Emma]].”
 
-Emma only nodded, and smiled.—After a little thinking, and a very
+[[Emma]] only nodded, and smiled.—After a little thinking, and a very
 tender sigh, he added,
 
 “Ah! it is no difficulty to see who you take after! Your dear mother
-was so clever at all those things! If I had but her memory! But I can
-remember nothing;—not even that particular riddle which you have heard
+was so clever at all those things! If I had but her [[Memory|memory]]! But I can
+remember nothing;—not even that particular [[Riddle|riddle]] which you have heard
 me mention; I can only recollect the first stanza; and there are
 several.
 

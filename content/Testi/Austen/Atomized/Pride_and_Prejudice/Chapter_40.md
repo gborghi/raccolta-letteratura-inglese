@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 40"
+title: "[[Pride and Prejudice]] — Chapter 40"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -65,7 +65,7 @@ enough to make one good sort of man; and of late it has been shifting
 about pretty much. For my part, I am inclined to believe it all Mr.
 Darcy’s, but you shall do as you choose.”
 
-It was some time, however, before a smile could be extorted from Jane.
+It was some [[Time|time]], however, before a smile could be extorted from Jane.
 
 “I do not know when I have been more shocked,” said she. “Wickham so
 very bad! It is almost past belief. And poor Mr. Darcy! dear Lizzy,
@@ -83,7 +83,7 @@ light as a feather.”
 “Poor Wickham! there is such an expression of goodness in his
 countenance! such an openness and gentleness in his manner.”
 
-“There certainly was some great mismanagement in the education of those
+“There certainly was some great mismanagement in the [[Education|education]] of those
 two young men. One has got all the goodness, and the other all the
 appearance of it.”
 
@@ -122,10 +122,10 @@ make his communication public. On the contrary, every particular
 relative to his sister was meant to be kept as much as possible to
 myself; and if I endeavour to undeceive people as to the rest of his
 conduct, who will believe me? The general prejudice against Mr. Darcy is
-so violent, that it would be the death of half the good people in
+so violent, that it would be the [[Death|death]] of half the good people in
 Meryton, to attempt to place him in an amiable light. I am not equal to
 it. Wickham will soon be gone; and, therefore, it will not signify to
-anybody here what he really is. Some time hence it will be all found
+anybody here what he really is. Some [[Time|time]] hence it will be all found
 out, and then we may laugh at their stupidity in not knowing it before.
 At present I will say nothing about it.”
 
@@ -134,7 +134,7 @@ ever. He is now, perhaps, sorry for what he has done, and anxious to
 re-establish a character. We must not make him desperate.”
 
 The tumult of Elizabeth’s mind was allayed by this conversation. She
-had got rid of two of the secrets which had weighed on her for a
+had got rid of two of the [[Secrets|secrets]] which had weighed on her for a
 fortnight, and was certain of a willing listener in Jane, whenever she
 might wish to talk again of either. But there was still something
 lurking behind, of which prudence forbade the disclosure. She dared not
@@ -148,10 +148,10 @@ able to tell what Bingley may tell in a much more agreeable manner
 himself. The liberty of communication cannot be mine till it has lost
 all its value!”
 
-She was now, on being settled at home, at leisure to observe the real
+She was now, on being settled at [[Home|home]], at leisure to observe the real
 state of her sister’s spirits. Jane was not happy. She still cherished a
 very tender affection for Bingley. Having never even fancied herself in
-love before, her regard had all the warmth of first attachment, and from
+[[Love|love]] before, her regard had all the warmth of first attachment, and from
 her age and disposition, greater steadiness than first attachments often
 boast; and so fervently did she value his remembrance, and prefer him to
 every other man, that all her good sense, and all her attention to the
@@ -159,13 +159,13 @@ feelings of her friends, were requisite to check the indulgence of those
 regrets which must have been injurious to her own health and their
 tranquillity.
 
-“Well, Lizzy,” said Mrs. Bennet, one day, “what is your opinion _now_ of
+“[[Well]], Lizzy,” said Mrs. Bennet, one day, “what is your opinion _now_ of
 this sad business of Jane’s? For my part, I am determined never to speak
 of it again to anybody. I told my sister Philips so the other day. But I
-cannot find out that Jane saw anything of him in London. Well, he is a
+cannot find out that Jane saw anything of him in [[London]]. [[Well]], he is a
 very undeserving young man--and I do not suppose there is the least
 chance in the world of her ever getting him now. There is no talk of his
-coming to Netherfield again in the summer; and I have inquired of
+coming to Netherfield again in the [[Summer|summer]]; and I have inquired of
 everybody, too, who is likely to know.”
 
 [Illustration:
@@ -175,17 +175,17 @@ everybody, too, who is likely to know.”
 
 “I do not believe that he will ever live at Netherfield any more.”
 
-“Oh, well! it is just as he chooses. Nobody wants him to come; though I
+“Oh, [[Well|well]]! it is just as he chooses. Nobody wants him to come; though I
 shall always say that he used my daughter extremely ill; and, if I was
-her, I would not have put up with it. Well, my comfort is, I am sure
+her, I would not have put up with it. [[Well]], my comfort is, I am sure
 Jane will die of a broken heart, and then he will be sorry for what he
 has done.”
 
 But as Elizabeth could not receive comfort from any such expectation she
 made no answer.
 
-“Well, Lizzy,” continued her mother, soon afterwards, “and so the
-Collinses live very comfortable, do they? Well, well, I only hope it
+“[[Well]], Lizzy,” continued her mother, soon afterwards, “and so the
+Collinses live very comfortable, do they? [[Well]], [[Well|well]], I only [[Hope|hope]] it
 will last. And what sort of table do they keep? Charlotte is an
 excellent manager, I dare say. If she is half as sharp as her mother,
 she is saving enough. There is nothing extravagant in _their_
@@ -195,14 +195,14 @@ housekeeping, I dare say.”
 
 “A great deal of good management, depend upon it. Yes, yes. _They_ will
 take care not to outrun their income. _They_ will never be distressed
-for money. Well, much good may it do them! And so, I suppose, they often
+for money. [[Well]], much good may it do them! And so, I suppose, they often
 talk of having Longbourn when your father is dead. They look upon it
 quite as their own, I dare say, whenever that happens.”
 
 “It was a subject which they could not mention before me.”
 
-“No; it would have been strange if they had. But I make no doubt they
-often talk of it between themselves. Well, if they can be easy with an
+“No; it would have been strange if they had. But I make no [[Doubt|doubt]] they
+often talk of it between themselves. [[Well]], if they can be easy with an
 estate that is not lawfully their own, so much the better. _I_ should be
 ashamed of having one that was only entailed on me.”
 

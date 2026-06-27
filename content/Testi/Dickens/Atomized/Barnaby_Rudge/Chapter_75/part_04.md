@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 75 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 75 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -22,7 +22,7 @@ pledge, known only to these people, and which the worst among them
 respect, not to tell your name: but, in a fantastic pattern on the
 stick, he had carved some letters, and when the hangman asked it, he
 bade him, especially if he should ever meet with her son in after life,
-remember that place well.’
+remember that place [[Well|well]].’
 
 ‘What place?’
 
@@ -32,12 +32,12 @@ The knight finished his cup of chocolate with an appearance of infinite
 relish, and carefully wiped his lips upon his handkerchief.
 
 ‘Sir John,’ said the locksmith, ‘this is all that has been told to me;
-but since these two men have been left for death, they have conferred
+but since these two men have been left for [[Death|death]], they have conferred
 together closely. See them, and hear what they can add. See this Dennis,
 and learn from him what he has not trusted to me. If you, who hold the
 clue to all, want corroboration (which you do not), the means are easy.’
 
-‘And to what,’ said Sir John Chester, rising on his elbow, after
+‘And to what,’ said [[Sir John Chester]], rising on his elbow, after
 smoothing the pillow for its reception; ‘my dear, good-natured,
 estimable Mr Varden--with whom I cannot be angry if I would--to what
 does all this tend?’
@@ -50,7 +50,7 @@ who has disclosed his existence to you. At the worst, I suppose to your
 seeing your son, and awakening him to a sense of his crime and danger.
 He has no such sense now. Think what his life must have been, when he
 said in my hearing, that if I moved you to anything, it would be to
-hastening his death, and ensuring his silence, if you had it in your
+hastening his [[Death|death]], and ensuring his [[Silence|silence]], if you had it in your
 power!’
 
 ‘And have you, my good Mr Varden,’ said Sir John in a tone of mild
@@ -68,12 +68,12 @@ pursue this topic for another moment.’
 ‘Think better of it, sir, when I am gone,’ returned the locksmith;
 ‘think better of it, sir. Although you have, thrice within as many
 weeks, turned your lawful son, Mr Edward, from your door, you may have
-time, you may have years to make your peace with HIM, Sir John: but that
-twelve o’clock will soon be here, and soon be past for ever.’
+[[Time|time]], you may have years to make your peace with HIM, Sir John: but that
+twelve o’[[Clock|clock]] will soon be here, and soon be past for ever.’
 
 ‘I thank you very much,’ returned the knight, kissing his delicate hand
 to the locksmith, ‘for your guileless advice; and I only wish, my good
-soul, although your simplicity is quite captivating, that you had a
+[[Soul|soul]], although your simplicity is quite captivating, that you had a
 little more worldly wisdom. I never so much regretted the arrival of my
 hairdresser as I do at this moment. God bless you! Good morning! You’ll
 not forget my message to the ladies, Mr Varden? Peak, show Mr Varden to
@@ -82,7 +82,7 @@ the door.’
 Gabriel said no more, but gave the knight a parting look, and left him.
 As he quitted the room, Sir John’s face changed; and the smile gave
 place to a haggard and anxious expression, like that of a weary actor
-jaded by the performance of a difficult part. He rose from his bed with
+jaded by the performance of a difficult part. He [[Rose|rose]] from his bed with
 a heavy sigh, and wrapped himself in his morning-gown.
 
 ‘So she kept her word,’ he said, ‘and was constant to her threat! I
@@ -96,8 +96,8 @@ hanged. I could have done no more if I had known of our relationship;
 and there are a great many fathers who have never done as much for THEIR
 natural children.--The hairdresser may come in, Peak!’
 
-The hairdresser came in; and saw in Sir John Chester (whose
-accommodating conscience was soon quieted by the numerous precedents
+The hairdresser came in; and saw in [[Sir John Chester]] (whose
+accommodating [[Conscience|conscience]] was soon quieted by the numerous precedents
 that occurred to him in support of his last observation), the same
 imperturbable, fascinating, elegant gentleman he had seen yesterday, and
 many yesterdays before.

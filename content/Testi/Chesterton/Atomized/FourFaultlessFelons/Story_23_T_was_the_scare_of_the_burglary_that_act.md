@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was the scare of the burglary that actually started the story towards"
+title: "[[FourFaultlessFelons]] — T was the scare of the burglary that actually started the story towards"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -40,19 +40,19 @@ regularize the Victorian household and add even to the secretary an extra
 
 touch of gentility. But there was a difference, because the aunt, who was
 
-a Mrs. Milton-Mowbray, was given to suddenly getting back on the
+a Mrs. [[Milton]]-[[Mowbray]], was given to suddenly getting back on the
 
-high-horse and then sliding off again, while her niece, with a more
+high-[[Horse|horse]] and then sliding off again, while her niece, with a more
 
 negative dignity, trod the dusty path of duty as a proud pedestrian. On
 
-this occasion Millicent Milton had been engaged all the evening in
+this occasion Millicent [[Milton]] had been engaged all the evening in
 
 soothing her aunt, and after that experience, felt she would like to
 
-spend a little time in soothing herself. Instead of going to bed, she
+spend a little [[Time|time]] in soothing herself. Instead of going to bed, she
 
-took up a book and began reading by the dying fire. She read on till it
+took up a book and began reading by the dying [[Fire|fire]]. She read on till it
 
 was very late, without realizing that everybody else had presumably
 
@@ -68,7 +68,7 @@ in the angle between the two rooms stood the safe.
 
 
 
-She had the best sort of quite unconscious courage, and she simply walked
+She had the best sort of quite unconscious [[Courage|courage]], and she simply walked
 
 out into the hall and looked. What she saw astounded her by being so
 
@@ -100,7 +100,7 @@ here?"
 
 
 
-"Well, I'm not climbing the Matterhorn or playing the trombone at
+"[[Well]], I'm not climbing the Matterhorn or playing the trombone at
 
 present," grunted the man in a gruff and distant voice. "I suppose it's
 
@@ -108,15 +108,15 @@ plain enough what I am doing."
 
 
 
-Then, after a silence, he resumed in a warning tone: "Don't you go saying
+Then, after a [[Silence|silence]], he resumed in a warning tone: "Don't you go saying
 
 that brooch thing there is yours, because it isn't. I didn't even get it
 
 out of this safe; let's say I lifted it off another family earlier in the
 
-evening. It's a pretty thing-sort of imitation fourteenth century, with
+evening. It's a pretty thing-sort of [[Imitation|imitation]] fourteenth century, with
 
-Amor Vincit Omnia on it. It's all very well to say that love conquers
+Amor Vincit Omnia on it. It's all very [[Well|well]] to say that [[Love|love]] conquers
 
 everything, and force is no remedy and all that. But I've forced this
 
@@ -128,7 +128,7 @@ There was something rather paralysing about the way in which the burglar
 
 placidly went on talking without even looking round; and she thought it a
 
-little odd that he should know the meaning of the Latin inscription,
+little odd that he should know the meaning of the Latin [[Inscription|inscription]],
 
 simple as it was. Nor could she bring herself to scream or run or stop
 
@@ -148,7 +148,7 @@ extraordinary creature called the English Lady. You can pick her out in
 
 foreign hotels and pensions. The Prioress was nicer than most of those,
 
-but she's got all the marks; fussing about her little dogs; being
+but she's got all the marks; fussing about her little [[dogs]]; being
 
 particular about table-manners; not liking mice killed; the whole darned
 
@@ -168,7 +168,7 @@ they are getting rare?"
 
 
 
-Miss Millicent Milton probably did possess, like the Prioress of Chaucer,
+Miss Millicent [[Milton]] probably did possess, like the Prioress of Chaucer,
 
 the more gracious virtues of the English Lady. But it must in honesty be
 
@@ -182,7 +182,7 @@ begun to talk about English literature in the tones of her own class, her
 
 whole judgement was turned upside down, and she had a chaotic idea that
 
-he could not really be a criminal at all. In abstract logic, she would
+he could not really be a criminal at all. In abstract [[logic]], she would
 
 have been obliged to admit that it ought not to make any difference. In
 
@@ -202,7 +202,7 @@ conveyed by the very vague colloquialisms which such people employ; as
 
 that he wasn't exactly a real burglar, or that it was "Quite Different",
 
-or that there was "some mistake". What she really meant (to the grave
+or that there was "some mistake". What she really meant (to the [[Grave|grave]]
 
 disadvantage of all her culture and her world) was that there were some
 
@@ -232,15 +232,15 @@ that his mouth was always twisting with mockery, rather as if it had
 
 taught itself always to mock, and yet his dark, sunken eyes were not only
 
-grave but in some sort of mad way, enthusiastic. If the grotesque beard
+[[Grave|grave]] but in some sort of mad way, enthusiastic. If the [[Grotesque|grotesque]] beard
 
 could have completely covered the mouth like a mask, they might have been
 
-the eyes of a fanatic in the desert shouting a battle-cry of belief. He
+the eyes of a fanatic in the [[Desert|desert]] shouting a battle-cry of belief. He
 
 must be deeply indignant with society to have turned to this lawless
 
-life; or perhaps he had had a tragedy with a woman or something. She
+life; or perhaps he had had a [[Tragedy|tragedy]] with a woman or something. She
 
 wondered what the real story was, and what the woman was like.
 
@@ -254,13 +254,13 @@ embarrassment about talking.
 
 
 
-"It's jolly fine of you to stand there like that-well, that's another
+"It's jolly fine of you to stand there like that-[[Well|well]], that's another
 
 trait. The English Lady is brave; Edith Cavell was a type of the tribe.
 
 But there are other tribes now, and that sort of brooch generally belongs
 
-to the last sort of person for whom it was made. That alone would be a
+to the last sort of person for whom it was made. That [[Alone|alone]] would be a
 
 justification for the trade of burglary, which keeps things briskly in
 
@@ -276,11 +276,11 @@ straight away, at the expense of my professional profits. But why should
 
 some vulgar cockatoo of a sham Countess own a thing like that? We want
 
-more theft, house-breaking and highway robbery to shift and rearrange the
+more theft, [[house]]-breaking and highway robbery to shift and rearrange the
 
 furniture of society; to regroup-if you follow me-its goods and chattels,
 
-as if after a spring-cleaning; to--"
+as if after a [[spring]]-cleaning; to--"
 
 
 
@@ -294,7 +294,7 @@ doorway, and looking a very small and shrunken figure in an enormous
 
 purple dressing-gown. It was not until that moment that she awoke to
 
-astonishment at her own silence and composure; or saw anything odd in the
+astonishment at her own [[Silence|silence]] and composure; or saw anything odd in the
 
 fact that she had stood listening to the criminal in front of the safe,
 
@@ -364,7 +364,7 @@ this? Why here, of all places?"
 
 
 
-"Why, to tell you the truth," said the other, "I thought that our
+"Why, to tell you the [[Truth|truth]]," said the other, "I thought that our
 
 respected Papa might want a little moral support."
 
@@ -376,7 +376,7 @@ of moral support you are!"
 
 
 
-"I am a very moral support," observed the stranger with proper pride.
+"I am a very moral support," observed the stranger with proper [[Pride|pride]].
 
 "Don't you realize it? I am the only real son and heir. I am the only man
 
@@ -434,7 +434,7 @@ Adventurers of the family."
 
 Norman Nadoway raised a protesting hand, but the other went on with a
 
-sweep of spontaneous satire.
+sweep of spontaneous [[Satire|satire]].
 
 
 
@@ -448,7 +448,7 @@ Nadoway-because the Name of Nadoway stinks to the ends of the earth!
 
 Because the business was founded on every sort of swindling and sweating
 
-and grinding the faces of the poor and cheating the widow and orphan.
+and grinding the faces of the poor and cheating the widow and [[Orphan|orphan]].
 
 And, above all, on robbery-on robbing rivals and partners and everybody
 
@@ -486,7 +486,7 @@ gutter. You try it, and see what sort of dirt you will eat! You don't
 
 know anything about the way men are turned into criminals; the shifts and
 
-the delays and the despair, and the hopes that an honest job may turn up,
+the delays and the [[Despair|despair]], and the hopes that an honest job may turn up,
 
 that end by taking a dishonest one. You've no right to be so damned
 
@@ -502,7 +502,7 @@ was not only staggered but strongly moved.
 
 
 
-"All this," said John Nadoway after a silence, "doesn't explain what
+"All this," said John Nadoway after a [[Silence|silence]], "doesn't explain what
 
 you're doing here. As you probably know, there's practically nothing in
 
@@ -512,7 +512,7 @@ it. I can't quite make out what you're up to, in any case."
 
 
 
-"Well," said Alan, with his ironical smile, "you can examine the safe and
+"[[Well]]," said Alan, with his ironical smile, "you can examine the safe and
 
 the rest of the premises after I've gone. Perhaps you may make a few
 
@@ -526,11 +526,11 @@ unmistakable, upon Millicent's ear, the sound of something at once
 
 alarming and amusing; something she had been subconsciously expecting for
 
-a long time past. In the room beyond, her aunt had awakened; probably she
+a long [[Time|time]] past. In the room beyond, her aunt had awakened; probably she
 
 had awakened to all the melodramatic possibilities of an interruption in
 
-the middle of the night. The Victorian tradition had still its living
+the middle of the [[Night|night]]. The Victorian tradition had still its living
 
 witness. Millicent herself had been frozen into a cool acceptance of the
 
@@ -538,7 +538,7 @@ adventure-an acceptance she could not fully explain even to herself. But
 
 somebody at least had shrieked, in a respectable manner, on hearing a
 
-house-breaker.
+[[house]]-breaker.
 
 
 
@@ -550,13 +550,13 @@ family. The only chance was for the burglar to bolt with the promptitude
 
 of any other burglar. He turned and darted through the apartments on his
 
-left, which happened to be the apartments of Miss Milton and Mrs.
+left, which happened to be the apartments of Miss [[Milton]] and Mrs.
 
-Mowbray, so that shriek after shriek now rent the air. But a crash of
+[[Mowbray]], so that shriek after shriek now rent the air. But a crash of
 
-glass from a remote window told the rest that the intruder had managed to
+glass from a remote [[Window|window]] told the rest that the intruder had managed to
 
-burst out of the house and disappear in the darkness of the garden, and
+burst out of the [[house]] and disappear in the darkness of the [[Garden|garden]], and
 
 they all, for varied and rather complex reasons, heaved their separate
 
@@ -568,7 +568,7 @@ Millicent, needless to say, had to resume in a serious manner the duties
 
 of soothing an aunt; so that the shriek faded into shrill questions. Then
 
-she went into her own room, beyond which the hole in the burst window
+she went into her own room, beyond which the hole in the burst [[Window|window]]
 
 showed a black star in the slate-green of the glass. Then she realized
 
@@ -576,8 +576,8 @@ that, right in the path of the disappearing robber, there was
 
 deliberately spread out for inspection, on her own dressing-table, as
 
-crown jewels are spread out upon velvet, the silver chain and studded
+[[Crown|crown]] jewels are spread out upon velvet, the silver chain and studded
 
 clasp which had been fancifully dedicated to the Prioress, and on which
 
-was written in Latin "Love Conquers All".
+was written in Latin "[[Love]] Conquers All".

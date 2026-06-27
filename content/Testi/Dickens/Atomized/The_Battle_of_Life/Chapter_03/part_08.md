@@ -20,21 +20,21 @@ Still she looked fixedly upon her, and made no reply.
 fondly to that breast from which she had been so long exiled, ‘if you
 were not a happy wife and mother—if I had no little namesake here—if
 Alfred, my kind brother, were not your own fond husband—from whence could
-I derive the ecstasy I feel to-night!  But, as I left here, so I have
-returned.  My heart has known no other love, my hand has never been
+I derive the ecstasy I feel to-[[Night|night]]!  But, as I left here, so I have
+returned.  My heart has known no other [[Love|love]], my hand has never been
 bestowed apart from it.  I am still your maiden sister, unmarried,
 unbetrothed: your own loving old Marion, in whose affection you exist
-alone and have no partner, Grace!’
+[[Alone|alone]] and have no partner, Grace!’
 
 She understood her now.  Her face relaxed: sobs came to her relief; and
 falling on her neck, she wept and wept, and fondled her as if she were a
-child again.
+[[Child|child]] again.
 
 When they were more composed, they found that the Doctor, and his sister
 good Aunt Martha, were standing near at hand, with Alfred.
 
 ‘This is a weary day for me,’ said good Aunt Martha, smiling through her
-tears, as she embraced her nieces; ‘for I lose my dear companion in
+[[Tears|tears]], as she embraced her nieces; ‘for I lose my dear companion in
 making you all happy; and what can you give me, in return for my Marion?’
 
 ‘A converted brother,’ said the Doctor.
@@ -44,7 +44,7 @@ as—’
 
 ‘No, pray don’t,’ said the doctor penitently.
 
-‘Well, I won’t,’ replied Aunt Martha.  ‘But, I consider myself ill used.
+‘[[Well]], I won’t,’ replied Aunt Martha.  ‘But, I consider myself ill used.
 I don’t know what’s to become of me without my Marion, after we have
 lived together half-a-dozen years.’
 
@@ -54,12 +54,12 @@ quarrel now, Martha.’
 ‘Or you must get married, Aunt,’ said Alfred.
 
 ‘Indeed,’ returned the old lady, ‘I think it might be a good speculation
-if I were to set my cap at Michael Warden, who, I hear, is come home much
+if I were to set my cap at [[Michael Warden]], who, I hear, is come [[Home|home]] much
 the better for his absence in all respects.  But as I knew him when he
 was a boy, and I was not a very young woman then, perhaps he mightn’t
 respond.  So I’ll make up my mind to go and live with Marion, when she
 marries, and until then (it will not be very long, I dare say) to live
-alone.  What do _you_ say, Brother?’
+[[Alone|alone]].  What do _you_ say, Brother?’
 
 ‘I’ve a great mind to say it’s a ridiculous world altogether, and there’s
 nothing serious in it,’ observed the poor old Doctor.
@@ -84,14 +84,14 @@ laid open to your view the transports of this family, long severed and
 now reunited.  Therefore, I will not follow the poor Doctor through his
 humbled recollection of the sorrow he had had, when Marion was lost to
 him; nor, will I tell how serious he had found that world to be, in which
-some love, deep-anchored, is the portion of all human creatures; nor, how
+some [[Love|love]], deep-anchored, is the portion of all human creatures; nor, how
 such a trifle as the absence of one little unit in the great absurd
 account, had stricken him to the ground.  Nor, how, in compassion for his
-distress, his sister had, long ago, revealed the truth to him by slow
+distress, his sister had, long ago, revealed the [[Truth|truth]] to him by slow
 degrees, and brought him to the knowledge of the heart of his
-self-banished daughter, and to that daughter’s side.
+[[Self|self]]-banished daughter, and to that daughter’s side.
 
-Nor, how Alfred Heathfield had been told the truth, too, in the course of
+Nor, how [[Alfred Heathfield]] had been told the [[Truth|truth]], too, in the course of
 that then current year; and Marion had seen him, and had promised him, as
 her brother, that on her birth-day, in the evening, Grace should know it
 from her lips at last.
@@ -114,7 +114,7 @@ from behind the door, ‘you are among old friends.’
 Mrs. Snitchey having delivered her congratulations, took her husband
 aside.
 
-‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my nature to
+‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my [[Nature|nature]] to
 rake up the ashes of the departed.’
 
 ‘No, my dear,’ returned her husband.
@@ -124,25 +124,25 @@ rake up the ashes of the departed.’
 ‘Yes, my dear, he is deceased,’ said Snitchey.
 
 ‘But I ask you if you recollect,’ pursued his wife, ‘that evening of the
-ball?  I only ask you that.  If you do; and if your memory has not
+ball?  I only ask you that.  If you do; and if your [[Memory|memory]] has not
 entirely failed you, Mr. Snitchey; and if you are not absolutely in your
-dotage; I ask you to connect this time with that—to remember how I begged
+dotage; I ask you to connect this [[Time|time]] with that—to remember how I begged
 and prayed you, on my knees—’
 
 ‘Upon your knees, my dear?’ said Mr. Snitchey.
 
 ‘Yes,’ said Mrs. Snitchey, confidently, ‘and you know it—to beware of
 that man—to observe his eye—and now to tell me whether I was right, and
-whether at that moment he knew secrets which he didn’t choose to tell.’
+whether at that moment he knew [[Secrets|secrets]] which he didn’t choose to tell.’
 
 ‘Mrs. Snitchey,’ returned her husband, in her ear, ‘Madam.  Did you ever
 observe anything in _my_ eye?’
 
 ‘No,’ said Mrs. Snitchey, sharply.  ‘Don’t flatter yourself.’
 
-‘Because, Madam, that night,’ he continued, twitching her by the sleeve,
-‘it happens that we both knew secrets which we didn’t choose to tell, and
+‘Because, Madam, that [[Night|night]],’ he continued, twitching her by the sleeve,
+‘it happens that we both knew [[Secrets|secrets]] which we didn’t choose to tell, and
 both knew just the same professionally.  And so the less you say about
 such things the better, Mrs. Snitchey; and take this as a warning to have
-wiser and more charitable eyes another time.  Miss Marion, I brought a
+wiser and more charitable eyes another [[Time|time]].  Miss Marion, I brought a
 friend of yours along with me.  Here!  Mistress!’

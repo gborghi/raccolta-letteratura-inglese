@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 15"
+title: "[[Villette]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XV.
 THE LONG VACATION.
 
 
-Following Madame Beck’s fête, with its three preceding weeks of
+Following [[Madame Beck]]’s fête, with its three preceding weeks of
 relaxation, its brief twelve hours’ burst of hilarity and dissipation,
 and its one subsequent day of utter languor, came a period of reaction;
 two months of real application, of close, hard study. These two months,
@@ -27,7 +27,7 @@ working months in the year. To them was procrastinated—into them
 concentrated, alike by professors, mistresses, and pupils—the main
 burden of preparation for the examinations preceding the distribution
 of prizes. Candidates for rewards had then to work in good earnest;
-masters and teachers had to set their shoulders to the wheel, to urge
+masters and teachers had to set their shoulders to the [[Wheel|wheel]], to urge
 on the backward, and diligently aid and train the more promising. A
 showy demonstration—a telling exhibition—must be got up for public
 view, and all means were fair to this end.
@@ -42,32 +42,32 @@ Isles.
 
 The examination-day arrived. Awful day! Prepared for with anxious care,
 dressed for with silent despatch—nothing vaporous or fluttering now—no
-white gauze or azure streamers; the grave, close, compact was the order
+white gauze or azure streamers; the [[Grave|grave]], close, compact was the order
 of the toilette. It seemed to me that I was this day, especially
-doomed—the main burden and trial falling on me alone of all the female
+doomed—the main burden and trial falling on me [[Alone|alone]] of all the female
 teachers. The others were not expected to examine in the studies they
-taught; the professor of literature, M. Paul, taking upon himself this
+taught; [[The Professor|the professor]] of literature, M. Paul, taking upon himself this
 duty. He, this school autocrat, gathered all and sundry reins into the
 hollow of his one hand; he irefully rejected any colleague; he would
 not have help. Madame herself, who evidently rather wished to undertake
 the examination in geography—her favourite study, which she taught
-well—was forced to succumb, and be subordinate to her despotic
+[[Well|well]]—was forced to succumb, and be subordinate to her despotic
 kinsman’s direction. The whole staff of instructors, male and female,
-he set aside, and stood on the examiner’s estrade alone. It irked him
+he set aside, and stood on the examiner’s estrade [[Alone|alone]]. It irked him
 that he was forced to make one exception to this rule. He could not
-manage English: he was obliged to leave that branch of education in the
+manage English: he was obliged to leave that branch of [[Education|education]] in the
 English teacher’s hands; which he did, not without a flash of naïve
-jealousy.
+[[Jealousy|jealousy]].
 
 A constant crusade against the “amour-propre” of every human being but
 himself, was the crotchet of this able, but fiery and grasping little
 man. He had a strong relish for public representation in his own
 person, but an extreme abhorrence of the like display in any other. He
 quelled, he kept down when he could; and when he could not, he fumed
-like a bottled storm.
+like a bottled [[Storm|storm]].
 
 On the evening preceding the examination-day, I was walking in the
-garden, as were the other teachers and all the boarders. M. Emanuel
+[[Garden|garden]], as were the other teachers and all the boarders. M. Emanuel
 joined me in the “allée défendue;” his cigar was at his lips; his
 paletôt—a most characteristic garment of no particular shape—hung dark
 and menacing; the tassel of his bonnet grec sternly shadowed his left
@@ -87,8 +87,8 @@ have been: I speak of the case as it stood. On me school-triumphs shed
 but a cold lustre. I had wondered—and I wondered now—how it was that
 for him they seemed to shine as with hearth-warmth and hearth-glow.
 _He_ cared for them perhaps too much; _I_, probably, too little.
-However, I had my own fancies as well as he. I liked, for instance, to
-see M. Emanuel jealous; it lit up his nature, and woke his spirit; it
+However, I had my own fancies as [[Well|well]] as he. I liked, for instance, to
+see M. Emanuel jealous; it lit up his [[Nature|nature]], and woke his spirit; it
 threw all sorts of queer lights and shadows over his dun face, and into
 his violet-azure eyes (he used to say that his black hair and blue eyes
 were “une de ses beautés”). There was a relish in his anger; it was
@@ -98,22 +98,22 @@ asked where the English examination came in—whether at the commencement
 or close of the day?
 
 “I hesitate,” said he, “whether at the very beginning, before many
-persons are come, and when your aspiring nature will not be gratified
+persons are come, and when your aspiring [[Nature|nature]] will not be gratified
 by a large audience, or quite at the close, when everybody is tired,
 and only a jaded and worn-out attention will be at your service.”
 
 “Que vous êtes dur, Monsieur!” I said, affecting dejection.
 
 “One ought to be ‘dur’ with you. You are one of those beings who must
-be _kept down_. I know you! I know you! Other people in this house see
-you pass, and think that a colourless shadow has gone by. As for me, I
+be _kept down_. I know you! I know you! Other people in this [[house]] see
+you pass, and think that a colourless [[Shadow|shadow]] has gone by. As for me, I
 scrutinized your face once, and it sufficed.”
 
 “You are satisfied that you understand me?”
 
 Without answering directly, he went on, “Were you not gratified when
 you succeeded in that vaudeville? I watched you and saw a passionate
-ardour for triumph in your physiognomy. What fire shot into the glance!
+ardour for triumph in your physiognomy. What [[Fire|fire]] shot into the glance!
 Not mere light, but flame: je me tiens pour averti.”
 
 “What feeling I had on that occasion, Monsieur—and pardon me, if I say,
@@ -123,11 +123,11 @@ assigned me. I had not the slightest sympathy with the audience below
 the stage. They are good people, doubtless, but do I know them? Are
 they anything to me? Can I care for being brought before their view
 again to-morrow? Will the examination be anything but a task to me—a
-task I wish well over?”
+task I wish [[Well|well]] over?”
 
 “Shall I take it out of your hands?”
 
-“With all my heart; if you do not fear failure.”
+“With all my heart; if you do not [[Fear|fear]] failure.”
 
 “But I should fail. I only know three phrases of English, and a few
 words: par exemple, de sonn, de mone, de stare—est-ce bien dit? My
@@ -140,17 +140,17 @@ have no English examination, eh?”
 
 “Very heartily.”
 
-He smoked his cigar in silence. He turned suddenly.
+He smoked his cigar in [[Silence|silence]]. He turned suddenly.
 
-“Donnez-moi la main,” said he, and the spite and jealousy melted out of
+“Donnez-moi la main,” said he, and the spite and [[Jealousy|jealousy]] melted out of
 his face, and a generous kindliness shone there instead.
 
 “Come, we will not be rivals, we will be friends,” he pursued. “The
 examination shall take place, and I will choose a good moment; and
 instead of vexing and hindering, as I felt half-inclined ten minutes
-ago—for I have my malevolent moods: I always had from childhood—I will
+ago—for I have my malevolent moods: I always had from [[Childhood|childhood]]—I will
 aid you sincerely. After all, you are solitary and a stranger, and have
-your way to make and your bread to earn; it may be well that you should
+your way to make and your bread to earn; it may be [[Well|well]] that you should
 become known. We will be friends: do you agree?”
 
 “Out of my heart, Monsieur. I am glad of a friend. I like that better
@@ -158,65 +158,65 @@ than a triumph.”
 
 “Pauvrette!” said he, and turned away and left the alley.
 
-The examination passed over well; M. Paul was as good as his word, and
+The examination passed over [[Well|well]]; M. Paul was as good as his word, and
 did his best to make my part easy. The next day came the distribution
-of prizes; that also passed; the school broke up; the pupils went home,
+of prizes; that also passed; the school broke up; the pupils went [[Home|home]],
 and now began the long vacation.
 
-That vacation! Shall I ever forget it? I think not. Madame Beck went,
+That vacation! Shall I ever forget it? I think not. [[Madame Beck]] went,
 the first day of the holidays, to join her children at the sea-side;
 all the three teachers had parents or friends with whom they took
-refuge; every professor quitted the city; some went to Paris, some to
-Boue-Marine; M. Paul set forth on a pilgrimage to Rome; the house was
+refuge; every professor quitted the [[City|city]]; some went to [[Paris]], some to
+Boue-Marine; M. Paul set forth on a pilgrimage to Rome; the [[house]] was
 left quite empty, but for me, a servant, and a poor deformed and
 imbecile pupil, a sort of crétin, whom her stepmother in a distant
-province would not allow to return home.
+province would not allow to return [[Home|home]].
 
 My heart almost died within me; miserable longings strained its chords.
 How long were the September days! How silent, how lifeless! How vast
 and void seemed the desolate premises! How gloomy the forsaken
-garden—grey now with the dust of a town summer departed. Looking
+[[Garden|garden]]—grey now with the [[Dust|dust]] of a town [[Summer|summer]] departed. Looking
 forward at the commencement of those eight weeks, I hardly knew how I
 was to live to the end. My spirits had long been gradually sinking; now
 that the prop of employment was withdrawn, they went down fast. Even to
-look forward was not to hope: the dumb future spoke no comfort, offered
+look forward was not to [[Hope|hope]]: the dumb future spoke no comfort, offered
 no promise, gave no inducement to bear present evil in reliance on
 future good. A sorrowful indifference to existence often pressed on
-me—a despairing resignation to reach betimes the end of all things
+me—a despairing [[Resignation|resignation]] to reach betimes the end of all things
 earthly. Alas! When I had full leisure to look on life as life must be
-looked on by such as me, I found it but a hopeless desert: tawny sands,
-with no green fields, no palm-tree, no well in view. The hopes which
+looked on by such as me, I found it but a hopeless [[Desert|desert]]: tawny sands,
+with no green fields, no palm-tree, no [[Well|well]] in view. The hopes which
 are dear to youth, which bear it up and lead it on, I knew not and
 dared not know. If they knocked at my heart sometimes, an inhospitable
 bar to admission must be inwardly drawn. When they turned away thus
-rejected, tears sad enough sometimes flowed: but it could not be
-helped: I dared not give such guests lodging. So mortally did I fear
+rejected, [[Tears|tears]] sad enough sometimes flowed: but it could not be
+helped: I dared not give such guests lodging. So mortally did I [[Fear|fear]]
 the sin and weakness of presumption.
 
 Religious reader, you will preach to me a long sermon about what I have
 just written, and so will you, moralist: and you, stern sage: you,
-stoic, will frown; you, cynic, sneer; you, epicure, laugh. Well, each
+stoic, will frown; you, cynic, sneer; you, epicure, laugh. [[Well]], each
 and all, take it your own way. I accept the sermon, frown, sneer, and
 laugh; perhaps you are all right: and perhaps, circumstanced like me,
 you would have been, like me, wrong. The first month was, indeed, a
 long, black, heavy month to me.
 
-The crétin did not seem unhappy. I did my best to feed her well and
+The crétin did not seem unhappy. I did my best to feed her [[Well|well]] and
 keep her warm, and she only asked food and sunshine, or when that
-lacked, fire. Her weak faculties approved of inertion: her brain, her
+lacked, [[Fire|fire]]. Her weak faculties approved of inertion: her brain, her
 eyes, her ears, her heart slept content; they could not wake to work,
 so lethargy was their Paradise.
 
 Three weeks of that vacation were hot, fair, and dry, but the fourth
 and fifth were tempestuous and wet. I do not know why that change in
-the atmosphere made a cruel impression on me, why the raging storm and
+the atmosphere made a cruel impression on me, why the raging [[Storm|storm]] and
 beating rain crushed me with a deadlier paralysis than I had
 experienced while the air had remained serene; but so it was; and my
 nervous system could hardly support what it had for many days and
-nights to undergo in that huge empty house. How I used to pray to
+nights to undergo in that huge empty [[house]]. How I used to pray to
 Heaven for consolation and support! With what dread force the
 conviction would grasp me that Fate was my permanent foe, never to be
-conciliated. I did not, in my heart, arraign the mercy or justice of
+conciliated. I did not, in my heart, arraign the [[Mercy|mercy]] or justice of
 God for this; I concluded it to be a part of his great plan that some
 must deeply suffer while they live, and I thrilled in the certainty
 that of this number, I was one.
@@ -224,100 +224,100 @@ that of this number, I was one.
 It was some relief when an aunt of the crétin, a kind old woman, came
 one day, and took away my strange, deformed companion. The hapless
 creature had been at times a heavy charge; I could not take her out
-beyond the garden, and I could not leave her a minute alone: for her
-poor mind, like her body, was warped: its propensity was to evil. A
+beyond the [[Garden|garden]], and I could not leave her a minute [[Alone|alone]]: for her
+poor mind, like her [[Body|body]], was warped: its propensity was to evil. A
 vague bent to mischief, an aimless malevolence, made constant vigilance
 indispensable. As she very rarely spoke, and would sit for hours
 together moping and mowing, and distorting her features with
 indescribable grimaces, it was more like being prisoned with some
 strange tameless animal, than associating with a human being. Then
 there were personal attentions to be rendered which required the nerve
-of a hospital nurse; my resolution was so tried, it sometimes fell
+of a hospital [[Nurse|nurse]]; my resolution was so tried, it sometimes fell
 dead-sick. These duties should not have fallen on me; a servant, now
 absent, had rendered them hitherto, and in the hurry of holiday
 departure, no substitute to fill this office had been provided. This
 tax and trial were by no means the least I have known in life. Still,
-menial and distasteful as they were, my mental pain was far more
+menial and distasteful as they were, my mental [[Pain|pain]] was far more
 wasting and wearing. Attendance on the crétin deprived me often of the
-power and inclination to swallow a meal, and sent me faint to the fresh
-air, and the well or fountain in the court; but this duty never wrung
-my heart, or brimmed my eyes, or scalded my cheek with tears hot as
+power and inclination to [[Swallow|swallow]] a meal, and sent me faint to the fresh
+air, and the [[Well|well]] or fountain in the [[Court|court]]; but this duty never wrung
+my heart, or brimmed my eyes, or scalded my cheek with [[Tears|tears]] hot as
 molten metal.
 
 The crétin being gone, I was free to walk out. At first I lacked
-courage to venture very far from the Rue Fossette, but by degrees I
-sought the city gates, and passed them, and then went wandering away
+[[Courage|courage]] to venture very far from the Rue Fossette, but by degrees I
+sought the [[City|city]] gates, and passed them, and then went wandering away
 far along chaussées, through fields, beyond cemeteries, Catholic and
 Protestant, beyond farmsteads, to lanes and little woods, and I know
 not where. A goad thrust me on, a fever forbade me to rest; a want of
-companionship maintained in my soul the cravings of a most deadly
-famine. I often walked all day, through the burning noon and the arid
+companionship maintained in my [[Soul|soul]] the cravings of a most deadly
+famine. I often walked all day, through the burning [[Noon|noon]] and the arid
 afternoon, and the dusk evening, and came back with moonrise.
 
-While wandering in solitude, I would sometimes picture the present
-probable position of others, my acquaintance. There was Madame Beck at
+While wandering in [[Solitude|solitude]], I would sometimes picture the present
+probable position of others, my acquaintance. There was [[Madame Beck]] at
 a cheerful watering-place with her children, her mother, and a whole
 troop of friends who had sought the same scene of relaxation. Zélie St.
-Pierre was at Paris, with her relatives; the other teachers were at
-their homes. There was Ginevra Fanshawe, whom certain of her
+Pierre was at [[Paris]], with her relatives; the other teachers were at
+their homes. There was [[Ginevra Fanshawe]], whom certain of her
 connections had carried on a pleasant tour southward. Ginevra seemed to
 me the happiest. She was on the route of beautiful scenery; these
 September suns shone for her on fertile plains, where harvest and
 vintage matured under their mellow beam. These gold and crystal moons
-rose on her vision over blue horizons waved in mounted lines.
+[[Rose|rose]] on her vision over blue horizons waved in mounted lines.
 
-But all this was nothing; I too felt those autumn suns and saw those
+But all this was nothing; I too felt those [[Autumn|autumn]] suns and saw those
 harvest moons, and I almost wished to be covered in with earth and
 turf, deep out of their influence; for I could not live in their light,
 nor make them comrades, nor yield them affection. But Ginevra had a
 kind of spirit with her, empowered to give constant strength and
 comfort, to gladden daylight and embalm darkness; the best of the good
 genii that guard humanity curtained her with his wings, and canopied
-her head with his bending form. By True Love was Ginevra followed:
-never could she be alone. Was she insensible to this presence? It
+her head with his bending form. By True [[Love]] was Ginevra followed:
+never could she be [[Alone|alone]]. Was she insensible to this presence? It
 seemed to me impossible: I could not realize such deadness. I imagined
 her grateful in secret, loving now with reserve; but purposing one day
-to show how much she loved: I pictured her faithful hero half conscious
+to show how much she loved: I pictured her faithful [[Hero|hero]] half conscious
 of her coy fondness, and comforted by that consciousness: I conceived
 an electric chord of sympathy between them, a fine chain of mutual
-understanding, sustaining union through a separation of a hundred
-leagues—carrying, across mound and hollow, communication by prayer and
+understanding, sustaining [[Union|union]] through a separation of a hundred
+leagues—carrying, across mound and hollow, communication by [[prayer]] and
 wish. Ginevra gradually became with me a sort of heroine. One day,
 perceiving this growing illusion, I said, “I really believe my nerves
 are getting overstretched: my mind has suffered somewhat too much a
-malady is growing upon it—what shall I do? How shall I keep well?”
+malady is growing upon it—what shall I do? How shall I keep [[Well|well]]?”
 
-Indeed there was no way to keep well under the circumstances. At last a
-day and night of peculiarly agonizing depression were succeeded by
-physical illness, I took perforce to my bed. About this time the Indian
-summer closed and the equinoctial storms began; and for nine dark and
+Indeed there was no way to keep [[Well|well]] under the circumstances. At last a
+day and [[Night|night]] of peculiarly agonizing depression were succeeded by
+physical illness, I took perforce to my bed. About this [[Time|time]] the Indian
+[[Summer|summer]] closed and the equinoctial storms began; and for nine dark and
 wet days, of which the hours rushed on all turbulent, deaf,
 dishevelled—bewildered with sounding hurricane—I lay in a strange fever
-of the nerves and blood. Sleep went quite away. I used to rise in the
-night, look round for her, beseech her earnestly to return. A rattle of
-the window, a cry of the blast only replied—Sleep never came!
+of the nerves and [[Blood|blood]]. [[Sleep]] went quite away. I used to rise in the
+[[Night|night]], look round for her, beseech her earnestly to return. A rattle of
+the [[Window|window]], a cry of the blast only replied—[[Sleep]] never came!
 
 I err. She came once, but in anger. Impatient of my importunity she
-brought with her an avenging dream. By the clock of St. Jean Baptiste,
+brought with her an avenging dream. By the [[Clock|clock]] of St. Jean Baptiste,
 that dream remained scarce fifteen minutes—a brief space, but sufficing
 to wring my whole frame with unknown anguish; to confer a nameless
 experience that had the hue, the mien, the terror, the very tone of a
-visitation from eternity. Between twelve and one that night a cup was
-forced to my lips, black, strong, strange, drawn from no well, but
-filled up seething from a bottomless and boundless sea. Suffering,
+visitation from [[Eternity|eternity]]. Between twelve and one that [[Night|night]] a cup was
+forced to my lips, black, strong, strange, drawn from no [[Well|well]], but
+filled up seething from a bottomless and boundless sea. [[Suffering]],
 brewed in temporal or calculable measure, and mixed for mortal lips,
-tastes not as this suffering tasted. Having drank and woke, I thought
+tastes not as this [[Suffering|suffering]] tasted. Having drank and woke, I thought
 all was over: the end come and past by. Trembling fearfully—as
 consciousness returned—ready to cry out on some fellow-creature to help
 me, only that I knew no fellow-creature was near enough to catch the
-wild summons—Goton in her far distant attic could not hear—I rose on my
+wild summons—Goton in her far distant attic could not hear—I [[Rose|rose]] on my
 knees in bed. Some fearful hours went over me: indescribably was I
 torn, racked and oppressed in mind. Amidst the horrors of that dream I
-think the worst lay here. Methought the well-loved dead, who had loved
-_me_ well in life, met me elsewhere, alienated: galled was my inmost
-spirit with an unutterable sense of despair about the future. Motive
+think the worst lay here. Methought the [[Well|well]]-loved dead, who had loved
+_me_ [[Well|well]] in life, met me elsewhere, alienated: galled was my inmost
+spirit with an unutterable sense of [[Despair|despair]] about the future. Motive
 there was none why I should try to recover or wish to live; and yet
-quite unendurable was the pitiless and haughty voice in which Death
+quite unendurable was the pitiless and haughty voice in which [[Death]]
 challenged me to engage his unknown terrors. When I tried to pray I
 could only utter these words: “From my youth up Thy terrors have I
 suffered with a troubled mind.”
@@ -328,28 +328,28 @@ On bringing me my tea next morning Goton urged me to call in a doctor.
 I would not: I thought no doctor could cure me.
 
 One evening—and I was not delirious: I was in my sane mind, I got up—I
-dressed myself, weak and shaking. The solitude and the stillness of the
+dressed myself, weak and shaking. The [[Solitude|solitude]] and the stillness of the
 long dormitory could not be borne any longer; the ghastly white beds
-were turning into spectres—the coronal of each became a death’s-head,
-huge and sun-bleached—dead dreams of an elder world and mightier race
+were turning into spectres—the coronal of each became a [[Death|death]]’s-head,
+huge and sun-bleached—dead [[Dreams|dreams]] of an elder world and mightier race
 lay frozen in their wide gaping eyeholes. That evening more firmly than
-ever fastened into my soul the conviction that Fate was of stone, and
-Hope a false idol—blind, bloodless, and of granite core. I felt, too,
+ever fastened into my [[Soul|soul]] the conviction that Fate was of stone, and
+[[Hope]] a false idol—blind, bloodless, and of granite core. I felt, too,
 that the trial God had appointed me was gaining its climax, and must
 now be turned by my own hands, hot, feeble, trembling as they were. It
 rained still, and blew; but with more clemency, I thought, than it had
 poured and raged all day. Twilight was falling, and I deemed its
-influence pitiful; from the lattice I saw coming night-clouds trailing
+influence pitiful; from the lattice I saw coming [[Night|night]]-clouds trailing
 low like banners drooping. It seemed to me that at this hour there was
-affection and sorrow in Heaven above for all pain suffered on earth
+affection and sorrow in Heaven above for all [[Pain|pain]] suffered on earth
 beneath; the weight of my dreadful dream became alleviated—that
 insufferable thought of being no more loved—no more owned, half-yielded
-to hope of the contrary—I was sure this hope would shine clearer if I
-got out from under this house-roof, which was crushing as the slab of a
-tomb, and went outside the city to a certain quiet hill, a long way
+to [[Hope|hope]] of the contrary—I was sure this [[Hope|hope]] would shine clearer if I
+got out from under this [[house]]-roof, which was crushing as the slab of a
+tomb, and went outside the [[City|city]] to a certain quiet [[Hill|hill]], a long way
 distant in the fields. Covered with a cloak (I could not be delirious,
 for I had sense and recollection to put on warm clothing), forth I set.
-The bells of a church arrested me in passing; they seemed to call me in
+[[The Bells|The bells]] of a church arrested me in passing; they seemed to call me in
 to the _salut_, and I went in. Any solemn rite, any spectacle of
 sincere worship, any opening for appeal to God was as welcome to me
 then as bread to one in extremity of want. I knelt down with others on
@@ -360,14 +360,14 @@ Few worshippers were assembled, and, the _salut_ over, half of them
 departed. I discovered soon that those left remained to confess. I did
 not stir. Carefully every door of the church was shut; a holy quiet
 sank upon, and a solemn shade gathered about us. After a space,
-breathless and spent in prayer, a penitent approached the confessional.
+breathless and spent in [[prayer]], a penitent approached the confessional.
 I watched. She whispered her avowal; her shrift was whispered back; she
 returned consoled. Another went, and another. A pale lady, kneeling
 near me, said in a low, kind voice:—“Go you now, I am not quite
 prepared.”
 
-Mechanically obedient, I rose and went. I knew what I was about; my
-mind had run over the intent with lightning-speed. To take this step
+Mechanically obedient, I [[Rose|rose]] and went. I knew what I was about; my
+mind had run over the intent with [[Lightning|lightning]]-[[Speed|speed]]. To take this step
 could not make me more wretched than I was; it might soothe me.
 
 The priest within the confessional never turned his eyes to regard me;
@@ -384,12 +384,12 @@ not, I think, lack feeling or intelligence. He inquired, not unkindly,
 why, being a Protestant, I came to him?
 
 I said I was perishing for a word of advice or an accent of comfort. I
-had been living for some weeks quite alone; I had been ill; I had a
+had been living for some weeks quite [[Alone|alone]]; I had been ill; I had a
 pressure of affliction on my mind of which it would hardly any longer
 endure the weight.
 
 “Was it a sin, a crime?” he inquired, somewhat startled. I reassured
-him on this point, and, as well as I could, I showed him the mere
+him on this point, and, as [[Well|well]] as I could, I showed him the mere
 outline of my experience.
 
 He looked thoughtful, surprised, puzzled. “You take me unawares,” said
@@ -401,7 +401,7 @@ circumstances.”
 Of course, I had not expected he would be; but the mere relief of
 communication in an ear which was human and sentient, yet
 consecrated—the mere pouring out of some portion of long accumulating,
-long pent-up pain into a vessel whence it could not be again
+long pent-up [[Pain|pain]] into a vessel whence it could not be again
 diffused—had done me good. I was already solaced.
 
 “Must I go, father?” I asked of him as he sat silent.
@@ -411,26 +411,26 @@ compassionate eye—“for the present you had better go: but I assure you
 your words have struck me. Confession, like other things, is apt to
 become formal and trivial with habit. You have come and poured your
 heart out; a thing seldom done. I would fain think your case over, and
-take it with me to my oratory. Were you of our faith I should know what
+take it with me to my oratory. Were you of our [[Faith|faith]] I should know what
 to say—a mind so tossed can find repose but in the bosom of retreat,
-and the punctual practice of piety. The world, it is well known, has no
+and the punctual practice of piety. The world, it is [[Well|well]] known, has no
 satisfaction for that class of natures. Holy men have bidden penitents
-like you to hasten their path upward by penance, self-denial, and
-difficult good works. Tears are given them here for meat and
+like you to hasten their path upward by penance, [[Self|self]]-denial, and
+difficult good works. [[Tears]] are given them here for meat and
 drink—bread of affliction and waters of affliction—their recompence
 comes hereafter. It is my own conviction that these impressions under
 which you are smarting are messengers from God to bring you back to the
-true Church. You were made for our faith: depend upon it our faith
-alone could heal and help you—Protestantism is altogether too dry,
+true Church. You were made for our [[Faith|faith]]: depend upon it our [[Faith|faith]]
+[[Alone|alone]] could heal and help you—Protestantism is altogether too dry,
 cold, prosaic for you. The further I look into this matter, the more
 plainly I see it is entirely out of the common order of things. On no
 account would I lose sight of you. Go, my daughter, for the present;
 but return to me again.”
 
-I rose and thanked him. I was withdrawing when he signed me to return.
+I [[Rose|rose]] and thanked him. I was withdrawing when he signed me to return.
 
 “You must not come to this church,” said he: “I see you are ill, and
-this church is too cold; you must come to my house: I live——” (and he
+this church is too cold; you must come to my [[house]]: I live——” (and he
 gave me his address). “Be there to-morrow morning at ten.”
 
 In reply to this appointment, I only bowed; and pulling down my veil,
@@ -451,27 +451,27 @@ we all know ourselves weak in many; the probabilities are that had I
 visited Numero 10, Rue des Mages, at the hour and day appointed, I
 might just now, instead of writing this heretic narrative, be counting
 my beads in the cell of a certain Carmelite convent on the Boulevard of
-Crécy, in Villette. There was something of Fénélon about that benign
+Crécy, in [[Villette]]. There was something of Fénélon about that benign
 old priest; and whatever most of his brethren may be, and whatever I
 may think of his Church and creed (and I like neither), of himself I
 must ever retain a grateful recollection. He was kind when I needed
 kindness; he did me good. May Heaven bless him!
 
-Twilight had passed into night, and the lamps were lit in the streets
+Twilight had passed into [[Night|night]], and the lamps were lit in the streets
 ere I issued from that sombre church. To turn back was now become
-possible to me; the wild longing to breathe this October wind on the
-little hill far without the city walls had ceased to be an imperative
+possible to me; the wild [[Longing|longing]] to breathe this October [[Wind|wind]] on the
+little [[Hill|hill]] far without the [[City|city]] walls had ceased to be an imperative
 impulse, and was softened into a wish with which Reason could cope: she
 put it down, and I turned, as I thought, to the Rue Fossette. But I had
-become involved in a part of the city with which I was not familiar; it
+become involved in a part of the [[City|city]] with which I was not familiar; it
 was the old part, and full of narrow streets of picturesque, ancient,
 and mouldering houses. I was much too weak to be very collected, and I
 was still too careless of my own welfare and safety to be cautious; I
 grew embarrassed; I got immeshed in a network of turns unknown. I was
 lost and had no resolution to ask guidance of any passenger.
 
-If the storm had lulled a little at sunset, it made up now for lost
-time. Strong and horizontal thundered the current of the wind from
+If the [[Storm|storm]] had lulled a little at sunset, it made up now for lost
+[[Time|time]]. Strong and horizontal thundered the current of the [[Wind|wind]] from
 north-west to south-east; it brought rain like spray, and sometimes a
 sharp hail, like shot: it was cold and pierced me to the vitals. I bent
 my head to meet it, but it beat me back. My heart did not fail at all

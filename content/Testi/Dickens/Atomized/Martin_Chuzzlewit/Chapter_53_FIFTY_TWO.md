@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 53: FIFTY TWO"
+title: "[[Martin Chuzzlewit]] — Chapter 53: FIFTY TWO"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -24,17 +24,17 @@ frequently in danger of abrupt disclosure through the bursting forth
 of the indignation he had hoarded up during his residence with Mr
 Pecksniff, were retarded, but not beyond a few hours, by the occurrences
 just now related. Stunned, as he had been at first by the intelligence
-conveyed to him through Tom Pinch and John Westlock, of the supposed
-manner of his brother’s death; overwhelmed as he was by the subsequent
+conveyed to him through [[Tom Pinch]] and John Westlock, of the supposed
+manner of his brother’s [[Death|death]]; overwhelmed as he was by the subsequent
 narratives of Chuffey and Nadgett, and the forging of that chain of
-circumstances ending in the death of Jonas, of which catastrophe he was
+circumstances ending in the [[Death|death]] of Jonas, of which catastrophe he was
 immediately informed; scattered as his purposes and hopes were for the
 moment, by the crowding in of all these incidents between him and his
 end; still their very intensity and the tumult of their assemblage
 nerved him to the rapid and unyielding execution of his scheme. In every
 single circumstance, whether it were cruel, cowardly, or false, he
-saw the flowering of the same pregnant seed. Self; grasping, eager,
-narrow-ranging, overreaching self; with its long train of suspicions,
+saw the flowering of the same pregnant seed. [[Self]]; grasping, eager,
+narrow-ranging, overreaching [[Self|self]]; with its long train of suspicions,
 lusts, deceits, and all their growing consequences; was the root of the
 vile tree. Mr Pecksniff had so presented his character before the old
 man’s eyes, that he--the good, the tolerant, enduring Pecksniff--had
@@ -51,47 +51,47 @@ unnaturally nurtured energy consequent upon their long suppression. And
 these two tides of resolution setting into one and sweeping on, became
 so strong and vigorous, that, to prevent themselves from being carried
 away before it, Heaven knows where, was as much as John Westlock and
-Mark Tapley together (though they were tolerably energetic too) could
+[[Mark Tapley]] together (though they were tolerably energetic too) could
 manage to effect.
 
 He had sent for John Westlock immediately on his arrival; and John,
-under the conduct of Tom Pinch, had waited on him. Having a lively
+under the conduct of [[Tom Pinch]], had waited on him. Having a lively
 recollection of Mr Tapley, he had caused that gentleman’s attendance to
 be secured, through John’s means, without delay; and thus, as we have
-seen, they had all repaired together to the City. But his grandson he
+seen, they had all repaired together to the [[City]]. But his grandson he
 had refused to see until to-morrow, when Mr Tapley was instructed to
-summon him to the Temple at ten o’clock in the forenoon. Tom he would
+summon him to the Temple at ten o’[[Clock|clock]] in the forenoon. Tom he would
 not allow to be employed in anything, lest he should be wrongfully
 suspected; but he was a party to all their proceedings, and was with
-them until late at night--until after they knew of the death of Jonas;
-when he went home to tell all these wonders to little Ruth, and to
+them until late at [[Night|night]]--until after they knew of the [[Death|death]] of Jonas;
+when he went [[Home|home]] to tell all these wonders to little Ruth, and to
 prepare her for accompanying him to the Temple in the morning, agreeably
 to Mr Chuzzlewit’s particular injunction.
 
 It was characteristic of old Martin, and his looking on to something
 which he had distinctly before him, that he communicated to them nothing
 of his intentions, beyond such hints of reprisal on Mr Pecksniff as they
-gathered from the game he had played in that gentleman’s house, and the
+gathered from the game he had played in that gentleman’s [[house]], and the
 brightening of his eyes whenever his name was mentioned. Even to John
 Westlock, in whom he was evidently disposed to place great confidence
 (which may indeed be said of every one of them), he gave no explanation
 whatever. He merely requested him to return in the morning; and with
-this for their utmost satisfaction, they left him, when the night was
-far advanced, alone.
+this for their utmost satisfaction, they left him, when the [[Night|night]] was
+far advanced, [[Alone|alone]].
 
-The events of such a day might have worn out the body and spirit of
+The events of such a day might have worn out the [[Body|body]] and spirit of
 a much younger man than he, but he sat in deep and painful meditation
 until the morning was bright. Nor did he even then seek any prolonged
-repose, but merely slumbered in his chair, until seven o’clock, when Mr
-Tapley had appointed to come to him by his desire; and came--as fresh
+repose, but merely slumbered in his chair, until seven o’[[Clock|clock]], when Mr
+Tapley had appointed to come to him by his [[Desire|desire]]; and came--as fresh
 and clean and cheerful as the morning itself.
 
 ‘You are punctual,’ said Mr Chuzzlewit, opening the door to him in reply
 to his light knock, which had roused him instantly.
 
 ‘My wishes, sir,’ replied Mr Tapley, whose mind would appear from the
-context to have been running on the matrimonial service, ‘is to love,
-honour, and obey. The clock’s a-striking now, sir.’
+context to have been running on the matrimonial service, ‘is to [[Love|love]],
+[[Honour|honour]], and obey. The [[Clock|clock]]’s a-striking now, sir.’
 
 ‘Come in!’
 
@@ -123,7 +123,7 @@ deceived, sir.’
 
 ‘Meaning both him and me.’
 
-‘Well, sir,’ said Mr Tapley. ‘In your old opinions of each other. As
+‘[[Well]], sir,’ said Mr Tapley. ‘In your old opinions of each other. As
 to him, sir, and his opinions, I know he’s a altered man. I know it.
 I know’d it long afore he spoke to you t’other day, and I must say it.
 Nobody don’t know half as much of him as I do. Nobody can’t. There
@@ -133,7 +133,7 @@ but--’
 
 ‘Go on,’ said Martin. ‘Why do you stop?’
 
-‘But it--well! I beg your pardon, but I think it may have been you, sir.
+‘But it--[[Well|well]]! I beg your pardon, but I think it may have been you, sir.
 Unintentional I think it may have been you. I don’t believe that neither
 of you gave the other quite a fair chance. There! Now I’ve got rid on
 it,’ said Mr Tapley in a fit of desperation: ‘I can’t go a-carryin’ it
@@ -147,7 +147,7 @@ quite prepared to go.
 ‘So you think,’ said Martin, ‘that his old faults are, in some degree,
 of my creation, do you?’
 
-‘Well, sir,’ retorted Mr Tapley, ‘I’m werry sorry, but I can’t unsay it.
+‘[[Well]], sir,’ retorted Mr Tapley, ‘I’m werry sorry, but I can’t unsay it.
 It’s hardly fair of you, sir, to make a ignorant man conwict himself in
 this way, but I DO think so. I am as respectful disposed to you, sir, as
 a man can be; but I DO think so.’
@@ -159,7 +159,7 @@ of Martin’s face, as he looked attentively at him, without replying.
 
 ‘Werry much so,’ Mr Tapley replied.
 
-‘And I a learned, well-instructed man, you think?’
+‘And I a learned, [[Well|well]]-instructed man, you think?’
 
 ‘Likewise wery much so,’ Mr Tapley answered.
 
@@ -180,11 +180,11 @@ both. That’s all, sir.’
 
 His frankness was so genuine that it plainly WAS all.
 
-‘Perhaps,’ said Martin, ‘he may think you are going to desert him, and
+‘Perhaps,’ said Martin, ‘he may think you are going to [[Desert|desert]] him, and
 to serve me?’
 
 ‘I have served him in that sort of way, sir,’ replied Mark, without the
-loss of any atom of his self-possession; ‘and we have been that sort of
+loss of any atom of his [[Self|self]]-possession; ‘and we have been that sort of
 companions in misfortune, that my opinion is, he don’t believe a word on
 it. No more than you do, sir.’
 
@@ -216,11 +216,11 @@ busy.
 
 But when he had put Mr Chuzzlewit’s clothes in good order for dressing,
 and when that gentleman was dressed and sitting at his breakfast,
-Mr Tapley’s feelings of wonder began to return upon him with great
+Mr Tapley’s feelings of [[Wonder|wonder]] began to return upon him with great
 violence; and, standing beside the old man with a napkin under his
 arm (it was as natural and easy to joke to Mark to be a butler in the
 Temple, as it had been to volunteer as cook on board the Screw), he
-found it difficult to resist the temptation of casting sidelong glances
+found it difficult to resist the [[Temptation|temptation]] of casting sidelong glances
 at him very often. Nay, he found it impossible; and accordingly yielded
 to this impulse so often, that Martin caught him in the fact some fifty
 times. The extraordinary things Mr Tapley did with his own face when
@@ -231,7 +231,7 @@ interested in the habits and customs of the flies upon the ceiling, or
 the sparrows out of doors; or the overwhelming politeness with which
 he endeavoured to hide his confusion by handing the muffin; may not
 unreasonably be assumed to have exercised the utmost power of feature
-that even Martin Chuzzlewit the elder possessed.
+that even [[Martin Chuzzlewit]] the elder possessed.
 
 But he sat perfectly quiet and took his breakfast at his leisure, or
 made a show of doing so, for he scarcely ate or drank, and frequently
@@ -240,7 +240,7 @@ down to his breakfast at the same table; and Mr Chuzzlewit, quite silent
 still, walked up and down the room.
 
 Mark cleared away in due course, and set a chair out for him, in which,
-as the time drew on towards ten o’clock, he took his seat, leaning his
+as the [[Time|time]] drew on towards ten o’[[Clock|clock]], he took his seat, leaning his
 hands upon his stick, and clenching them upon the handle, and resting
 his chin on them again. All his impatience and abstraction of manner had
 vanished now; and as he sat there, looking, with his keen eyes, steadily
@@ -262,7 +262,7 @@ his eyebrows to the highest possible pitch, implying thereby that he
 considered himself in an unsatisfactory position. Mr Chuzzlewit received
 him very courteously.
 
-Mark waited at the door for Tom Pinch and his sister, who were coming up
+Mark waited at the door for [[Tom Pinch]] and his sister, who were coming up
 the stairs. The old man went to meet them; took their hands in his;
 and kissed her on the cheek. As this looked promising, Mr Tapley smiled
 benignantly.
@@ -288,7 +288,7 @@ stock.
 
 Not the least curious feature in this assemblage was, that everybody
 present was so much surprised and embarrassed by the sight of everybody
-else, that nobody ventured to speak. Mr Chuzzlewit alone broke silence.
+else, that nobody ventured to speak. Mr Chuzzlewit [[Alone|alone]] broke [[Silence|silence]].
 
 ‘Set the door open, Mark!’ he said; ‘and come here.’
 
@@ -305,9 +305,9 @@ then with open arms came darting in.
 Old Martin merely looked at him; but Mr Pecksniff started back as if he
 had received the charge from an electric battery.
 
-‘My venerable friend is well?’ cried Mr Pecksniff.
+‘My venerable friend is [[Well|well]]?’ cried Mr Pecksniff.
 
-‘Quite well.’
+‘Quite [[Well|well]].’
 
 It seemed to reassure the anxious inquirer. He clasped his hands and,
 looking upwards with a pious joy, silently expressed his gratitude.
@@ -323,7 +323,7 @@ you now, vermin and swarmers (I regret to make use of these strong
 expressions, my dear sir, but there are times when honest indignation
 will not be controlled), must you now, vermin and swarmers (for I WILL
 repeat it), take advantage of his unprotected state, assemble round
-him from all quarters, as wolves and vultures, and other animals of
+him from all quarters, as wolves and vultures, and other [[Animals|animals]] of
 the feathered tribe assemble round--I will not say round carrion or a
 carcass, for Mr Chuzzlewit is quite the contrary--but round their prey;
 their prey; to rifle and despoil; gorging their voracious maws, and
@@ -337,11 +337,11 @@ manner, with his hand.
 leave him, I say! Begone! Abscond! You had better be off! Wander over
 the face of the earth, young sirs, like vagabonds as you are, and do not
 presume to remain in a spot which is hallowed by the grey hairs of the
-patriarchal gentleman to whose tottering limbs I have the honour to act
-as an unworthy, but I hope an unassuming, prop and staff. And you, my
+patriarchal gentleman to whose tottering limbs I have the [[Honour|honour]] to act
+as an unworthy, but I [[Hope|hope]] an unassuming, prop and staff. And you, my
 tender sir,’ said Mr Pecksniff, addressing himself in a tone of gentle
 remonstrance to the old man, ‘how could you ever leave me, though even
-for this short period! You have absented yourself, I do not doubt, upon
+for this short period! You have absented yourself, I do not [[Doubt|doubt]], upon
 some act of kindness to me; bless you for it; but you must not do it;
 you must not be so venturesome. I should really be angry with you if I
 could, my friend!’
@@ -350,15 +350,15 @@ He advanced with outstretched arms to take the old man’s hand. But he
 had not seen how the hand clasped and clutched the stick within its
 grasp. As he came smiling on, and got within his reach, old Martin, with
 his burning indignation crowded into one vehement burst, and flashing
-out of every line and wrinkle in his face, rose up, and struck him down
+out of every line and wrinkle in his face, [[Rose|rose]] up, and struck him down
 upon the ground.
 
-With such a well-directed nervous blow, that down he went, as heavily
+With such a [[Well|well]]-directed nervous blow, that down he went, as heavily
 and true as if the charge of a Life-Guardsman had tumbled him out of a
 saddle. And whether he was stunned by the shock, or only confused by the
-wonder and novelty of this warm reception, he did not offer to get up
+[[Wonder|wonder]] and novelty of this warm reception, he did not offer to get up
 again; but lay there, looking about him with a disconcerted meekness
-in his face so enormously ridiculous, that neither Mark Tapley nor John
+in his face so enormously ridiculous, that neither [[Mark Tapley]] nor John
 Westlock could repress a smile, though both were actively interposing to
 prevent a repetition of the blow; which the old man’s gleaming eyes and
 vigorous attitude seemed to render one of the most probable events in
@@ -395,23 +395,23 @@ Martin was about to answer, but he stopped him, and went on.
 
 ‘The fault was mine no less than yours. Mark has told me so today, and
 I have known it long; though not so long as I might have done. Mary, my
-love, come here.’
+[[Love|love]], come here.’
 
 As she trembled and was very pale, he sat her in his own chair, and
 stood beside it with her hand in his; and Martin standing by him.
 
-‘The curse of our house,’ said the old man, looking kindly down upon
-her, ‘has been the love of self; has ever been the love of self. How
+‘The curse of our [[house]],’ said the old man, looking kindly down upon
+her, ‘has been the [[Love|love]] of [[Self|self]]; has ever been the [[Love|love]] of [[Self|self]]. How
 often have I said so, when I never knew that I had wrought it upon
 others.’
 
 He drew one hand through Martin’s arm, and standing so, between them,
 proceeded thus:
 
-‘You all know how I bred this orphan up, to tend me. None of you can
+‘You all know how I bred this [[Orphan|orphan]] up, to tend me. None of you can
 know by what degrees I have come to regard her as a daughter; for
-she has won upon me, by her self-forgetfulness, her tenderness, her
-patience, all the goodness of her nature, when Heaven is her witness
+she has won upon me, by her [[Self|self]]-forgetfulness, her tenderness, her
+patience, all the goodness of her [[Nature|nature]], when Heaven is her witness
 that I took but little pains to draw it forth. It blossomed without
 cultivation, and it ripened without heat. I cannot find it in my heart
 to say that I am sorry for it now, or yonder fellow might be holding up
@@ -433,12 +433,12 @@ without reason in the beginning--and thus I once doubted you, Martin.’
 ‘Listen, hypocrite! Listen, smooth-tongued, servile, crawling knave!’
 said Martin. ‘Listen, you shallow dog. What! When I was seeking him, you
 had already spread your nets; you were already fishing for him, were ye?
-When I lay ill in this good woman’s house and your meek spirit pleaded
+When I lay ill in this good woman’s [[house]] and your meek spirit pleaded
 for my grandson, you had already caught him, had ye? Counting on the
-restoration of the love you knew I bore him, you designed him for one
+restoration of the [[Love|love]] you knew I bore him, you designed him for one
 of your two daughters did ye? Or failing that, you traded in him as a
 speculation which at any rate should blind me with the lustre of your
-charity, and found a claim upon me! Why, even then I knew you, and I
+[[Charity|charity]], and found a claim upon me! Why, even then I knew you, and I
 told you so. Did I tell you that I knew you, even then?’
 
 ‘I am not angry, sir,’ said Mr Pecksniff, softly. ‘I can bear a great
@@ -450,14 +450,14 @@ render them in words. I stated them at length to him, before his own
 children, syllable by syllable, as coarsely as I could, and with as much
 offence, and with as plain an exposition of my contempt, as words--not
 looks and manner merely--could convey. If I had only called the angry
-blood into his face, I would have wavered in my purpose. If I had only
+[[Blood|blood]] into his face, I would have wavered in my purpose. If I had only
 stung him into being a man for a minute I would have abandoned it. If he
 had offered me one word of remonstrance, in favour of the grandson whom
 he supposed I had disinherited; if he had pleaded with me, though never
 so faintly, against my appeal to him to abandon him to misery and
-cast him from his house; I think I could have borne with him for ever
+cast him from his [[house]]; I think I could have borne with him for ever
 afterwards. But not a word, not a word. Pandering to the worst of human
-passions was the office of his nature; and faithfully he did his work!’
+passions was the office of his [[Nature|nature]]; and faithfully he did his work!’
 
 ‘I am not angry,’ observed Mr Pecksniff. ‘I am hurt, Mr Chuzzlewit;
 wounded in my feelings; but I am not angry, my good sir.’
@@ -467,25 +467,25 @@ Mr Chuzzlewit resumed.
 ‘Once resolved to try him, I was resolute to pursue the trial to the
 end; but while I was bent on fathoming the depth of his duplicity, I
 made a sacred compact with myself that I would give him credit on the
-other side for any latent spark of goodness, honour, forbearance--any
+other side for any latent spark of goodness, [[Honour|honour]], forbearance--any
 virtue--that might glimmer in him. For first to last there has been no
 such thing. Not once. He cannot say I have not given him opportunity.
 He cannot say I have ever led him on. He cannot say I have not left
 him freely to himself in all things; or that I have not been a passive
 instrument in his hands, which he might have used for good as easily as
-evil. Or if he can, he Lies! And that’s his nature, too.’
+evil. Or if he can, he Lies! And that’s his [[Nature|nature]], too.’
 
-‘Mr Chuzzlewit,’ interrupted Pecksniff, shedding tears. ‘I am not angry,
+‘Mr Chuzzlewit,’ interrupted Pecksniff, shedding [[Tears|tears]]. ‘I am not angry,
 sir. I cannot be angry with you. But did you never, my dear sir,
-express a desire that the unnatural young man who by his wicked arts has
-estranged your good opinion from me, for the time being; only for the
-time being; that your grandson, Mr Chuzzlewit, should be dismissed my
-house? Recollect yourself, my Christian friend.’
+express a [[Desire|desire]] that the unnatural young man who by his wicked arts has
+estranged your good opinion from me, for the [[Time|time]] being; only for the
+[[Time|time]] being; that your grandson, Mr Chuzzlewit, should be dismissed my
+[[house]]? Recollect yourself, my Christian friend.’
 
 ‘I have said so, have I not?’ retorted the old man, sternly. ‘I could
 not tell how far your specious hypocrisy had deceived him, knave; and
 knew no better way of opening his eyes than by presenting you before him
-in your own servile character. Yes. I did express that desire. And you
+in your own servile character. Yes. I did express that [[Desire|desire]]. And you
 leaped to meet it; and you met it; and turning in an instant on the
 hand you had licked and beslavered, as only such hounds can, you
 strengthened, and confirmed, and justified me in my scheme.’
@@ -500,7 +500,7 @@ virtues, he never could have bowed as he bowed then.
 ‘Tigg,’ suggested Mark.
 
 ‘Of Tigg; brought begging messages to me on behalf of a friend of his,
-and an unworthy relative of mine; and finding him a man well enough
+and an unworthy relative of mine; and finding him a man [[Well|well]] enough
 suited to my purpose, I employed him to glean some news of you, Martin,
 for me. It was from him I learned that you had taken up your abode with
 yonder fellow. It was he, who meeting you here in town, one evening--you
@@ -524,61 +524,61 @@ indirectly, any act or part in the fate of that unhappy man, by putting
 means, however small, within his reach, Heaven forgive me! I might have
 known, perhaps, that he would misuse money; that it was ill-bestowed
 upon him; and that sown by his hands it could engender mischief only.
-But I never thought of him at that time as having the disposition or
+But I never thought of him at that [[Time|time]] as having the disposition or
 ability to be a serious impostor, or otherwise than as a thoughtless,
 idle-humoured, dissipated spendthrift, sinning more against himself than
 others, and frequenting low haunts and indulging vicious tastes, to his
 own ruin only.’
 
 ‘Beggin’ your pardon, sir,’ said Mr Tapley, who had Mrs Lupin on his
-arm by this time, quite agreeably; ‘if I may make so bold as say so, my
+arm by this [[Time|time]], quite agreeably; ‘if I may make so bold as say so, my
 opinion is, as you was quite correct, and that he turned out perfectly
 nat’ral for all that. There’s surprisin’ number of men sir, who as long
 as they’ve only got their own shoes and stockings to depend upon, will
-walk down hill, along the gutters quiet enough and by themselves, and
+walk down [[Hill|hill]], along the gutters quiet enough and by themselves, and
 not do much harm. But set any on ‘em up with a coach and horses, sir;
 and it’s wonderful what a knowledge of drivin’ he’ll show, and how he’ll
 fill his wehicle with passengers, and start off in the middle of the
-road, neck or nothing, to the Devil! Bless your heart, sir, there’s ever
+[[Road|road]], neck or nothing, to the Devil! Bless your heart, sir, there’s ever
 so many Tiggs a-passin’ this here Temple-gate any hour in the day, that
 only want a chance to turn out full-blown Montagues every one!’
 
 ‘Your ignorance, as you call it, Mark,’ said Mr Chuzzlewit, ‘is wiser
 than some men’s enlightenment, and mine among them. You are right; not
-for the first time to-day. Now hear me out, my dears. And hear me, you,
+for the first [[Time|time]] to-day. Now hear me out, my dears. And hear me, you,
 who, if what I have been told be accurately stated, are Bankrupt in
 pocket no less than in good name! And when you have heard me, leave this
-place, and poison my sight no more!’
+place, and [[Poison|poison]] my sight no more!’
 
 Mr Pecksniff laid his hand upon his breast, and bowed again.
 
-‘The penance I have done in this house,’ said Mr Chuzzlewit, ‘has earned
+‘The penance I have done in this [[house]],’ said Mr Chuzzlewit, ‘has earned
 this reflection with it constantly, above all others. That if it had
 pleased Heaven to visit such infirmity on my old age as really had
 reduced me to the state in which I feigned to be, I should have brought
 its misery upon myself. Oh, you whose wealth, like mine, has been a
 source of continual unhappiness, leading you to distrust the nearest and
-dearest, and to dig yourself a living grave of suspicion and reserve;
+dearest, and to dig yourself a living [[Grave|grave]] of suspicion and reserve;
 take heed that, having cast off all whom you might have bound to you,
-and tenderly, you do not become in your decay the instrument of such a
+and tenderly, you do not become in your [[Decay|decay]] the instrument of such a
 man as this, and waken in another world to the knowledge of such wrong
 as would embitter Heaven itself, if wrong or you could ever reach it!’
 
 And then he told them how he had sometimes thought, in the beginning,
-that love might grow up between Mary and Martin; and how he had pleased
+that [[Love|love]] might grow up between Mary and Martin; and how he had pleased
 his fancy with the picture of observing it when it was new, and taking
-them to task, apart, in counterfeited doubt, and then confessing to them
+them to task, apart, in counterfeited [[Doubt|doubt]], and then confessing to them
 that it had been an object dear to his heart; and by his sympathy with
 them, and generous provision for their young fortunes, establishing a
 claim on their affection and regard which nothing should wither, and
 which should surround his old age with means of happiness. How in the
-first dawn of this design, and when the pleasure of such a scheme for
+first [[Dawn|dawn]] of this design, and when the pleasure of such a scheme for
 the happiness of others was new and indistinct within him, Martin had
 come to tell him that he had already chosen for himself; knowing that
 he, the old man, had some faint project on that head, but ignorant whom
 it concerned. How it was little comfort to him to know that Martin
 had chosen Her, because the grace of his design was lost, and because
-finding that she had returned his love, he tortured himself with
+finding that she had returned his [[Love|love]], he tortured himself with
 the reflection that they, so young, to whom he had been so kind a
 benefactor, were already like the world, and bent on their own selfish,
 stealthy ends. How in the bitterness of this impression, and of his past
@@ -586,21 +586,21 @@ experience, he had reproached Martin so harshly (forgetting that he had
 never invited his confidence on such a point, and confounding what
 he had meant to do with what he had done), that high words sprung up
 between them, and they separated in wrath. How he loved him still, and
-hoped he would return. How on the night of his illness at the Dragon,
+hoped he would return. How on the [[Night|night]] of his illness at the Dragon,
 he had secretly written tenderly of him, and made him his heir, and
-sanctioned his marriage with Mary; and how, after his interview with Mr
+sanctioned his [[Marriage|marriage]] with Mary; and how, after his interview with Mr
 Pecksniff, he had distrusted him again, and burnt the paper to ashes,
 and had lain down in his bed distracted by suspicions, doubts, and
 regrets.
 
 And then he told them how, resolved to probe this Pecksniff, and to
-prove the constancy and truth of Mary (to himself no less than
+prove the constancy and [[Truth|truth]] of Mary (to himself no less than
 Martin), he had conceived and entered on his plan; and how, beneath her
 gentleness and patience, he had softened more and more; still more and
-more beneath the goodness and simplicity, the honour and the manly faith
-of Tom. And when he spoke of Tom, he said God bless him; and the tears
+more beneath the goodness and simplicity, the [[Honour|honour]] and the manly [[Faith|faith]]
+of Tom. And when he spoke of Tom, he said God bless him; and the [[Tears|tears]]
 were in his eyes; for he said that Tom, mistrusted and disliked by him
-at first, had come like summer rain upon his heart; and had disposed it
+at first, had come like [[Summer|summer]] rain upon his heart; and had disposed it
 to believe in better things. And Martin took him by the hand, and Mary
 too, and John, his old friend, stoutly too; and Mark, and Mrs Lupin,
 and his sister, little Ruth. And peace of mind, deep, tranquil peace of
@@ -611,13 +611,13 @@ in which he stood indebted to society, in the matter of Tom’s
 dismissal; and how, having often heard disparagement of Mr Westlock from
 Pecksniffian lips, and knowing him to be a friend to Tom, he had used,
 through his confidential agent and solicitor, that little artifice which
-had kept him in readiness to receive his unknown friend in London. And
+had kept him in readiness to receive his unknown friend in [[London]]. And
 he called on Mr Pecksniff (by the name of Scoundrel) to remember that
 there again he had not trapped him to do evil, but that he had done it
 of his own free will and agency; nay, that he had cautioned him against
 it. And once again he called on Mr Pecksniff (by the name of Hang-dog)
-to remember that when Martin coming home at last, an altered man, had
-sued for the forgiveness which awaited him, he, Pecksniff, had rejected
+to remember that when Martin coming [[Home|home]] at last, an altered man, had
+sued for the [[Forgiveness|forgiveness]] which awaited him, he, Pecksniff, had rejected
 him in language of his own, and had remorsely stepped in between him and
 the least touch of natural tenderness. ‘For which,’ said the old man,
 ‘if the bending of my finger would remove a halter from your neck, I
@@ -625,18 +625,18 @@ wouldn’t bend it!’
 
 ‘Martin,’ he added, ‘your rival has not been a dangerous one, but Mrs
 Lupin here has played duenna for some weeks; not so much to watch your
-love as to watch her lover. For that Ghoul’--his fertility in finding
+[[Love|love]] as to watch her [[Lover|lover]]. For that Ghoul’--his fertility in finding
 names for Mr Pecksniff was astonishing--‘would have crawled into her
 daily walks otherwise, and polluted the fresh air. What’s this? Her hand
 is trembling strangely. See if you can hold it.’
 
-Hold it! If he clasped it half as tightly as he did her waist. Well,
-well!
+Hold it! If he clasped it half as tightly as he did her waist. [[Well]],
+[[Well|well]]!
 
 But it was good in him that even then, in his high fortune and
 happiness, with her lips nearly printed on his own, and her proud young
-beauty in his close embrace, he had a hand still left to stretch out to
-Tom Pinch.
+[[Beauty|beauty]] in his close embrace, he had a hand still left to stretch out to
+[[Tom Pinch]].
 
 ‘Oh, Tom! Dear Tom! I saw you, accidentally, coming here. Forgive me!’
 
@@ -690,8 +690,8 @@ pocket-handkerchief, ‘of your old familiar frankness. You have paid for
 it. I was about to make the remark. You have deceived me, sir. Thank you
 again. I am glad of it. To see you in the possession of your health and
 faculties on any terms, is, in itself, a sufficient recompense. To have
-been deceived implies a trusting nature. Mine is a trusting nature. I
-am thankful for it. I would rather have a trusting nature, do you know,
+been deceived implies a trusting [[Nature|nature]]. Mine is a trusting [[Nature|nature]]. I
+am thankful for it. I would rather have a trusting [[Nature|nature]], do you know,
 sir, than a doubting one!’
 
 Here Mr Pecksniff, with a sad smile, bowed, and wiped his eyes.
@@ -700,8 +700,8 @@ Here Mr Pecksniff, with a sad smile, bowed, and wiped his eyes.
 ‘by whom I have not been deceived. I have forgiven those persons on the
 spot. That was my duty; and, of course, I have done it. Whether it was
 worthy of you to partake of my hospitality, and to act the part you
-did act in my house, that, sir, is a question which I leave to your own
-conscience. And your conscience does not acquit you. No, sir, no!’
+did act in my [[house]], that, sir, is a question which I leave to your own
+[[Conscience|conscience]]. And your [[Conscience|conscience]] does not acquit you. No, sir, no!’
 
 Pronouncing these last words in a loud and solemn voice, Mr Pecksniff
 was not so absolutely lost in his own fervour as to be unmindful of the
@@ -713,44 +713,44 @@ delicate and exquisite portion of the human anatomy--the brain. Several
 blows have been inflicted, sir, without a walking-stick, upon that
 tenderer portion of my frame--my heart. You have mentioned, sir,
 my being bankrupt in my purse. Yes, sir, I am. By an unfortunate
-speculation, combined with treachery, I find myself reduced to poverty;
-at a time, sir, when the child of my bosom is widowed, and affliction
+speculation, combined with treachery, I find myself reduced to [[Poverty|poverty]];
+at a [[Time|time]], sir, when the [[Child|child]] of my bosom is widowed, and affliction
 and disgrace are in my family.’
 
 Here Mr Pecksniff wiped his eyes again, and gave himself two or three
 little knocks upon the breast, as if he were answering two or three
 other little knocks from within, given by the tinkling hammer of his
-conscience, to express ‘Cheer up, my boy!’
+[[Conscience|conscience]], to express ‘Cheer up, my boy!’
 
 ‘I know the human mind, although I trust it. That is my weakness. Do I
 not know, sir’--here he became exceedingly plaintive and was observed to
-glance towards Tom Pinch--‘that my misfortunes bring this treatment on
+glance towards [[Tom Pinch]]--‘that my misfortunes bring this treatment on
 me? Do I not know, sir, that but for them I never should have heard what
-I have heard to-day? Do I not know that in the silence and the solitude
-of night, a little voice will whisper in your ear, Mr Chuzzlewit, “This
-was not well. This was not well, sir!” Think of this, sir (if you will
+I have heard to-day? Do I not know that in the [[Silence|silence]] and the [[Solitude|solitude]]
+of [[Night|night]], a little voice will whisper in your ear, Mr Chuzzlewit, “This
+was not [[Well|well]]. This was not [[Well|well]], sir!” Think of this, sir (if you will
 have the goodness), remote from the impulses of passion, and apart from
 the specialities, if I may use that strong remark, of prejudice. And if
 you ever contemplate the silent tomb, sir, which you will excuse me for
-entertaining some doubt of your doing, after the conduct into which you
+entertaining some [[Doubt|doubt]] of your doing, after the conduct into which you
 have allowed yourself to be betrayed this day; if you ever contemplate
 the silent tomb sir, think of me. If you find yourself approaching to
 the silent tomb, sir, think of me. If you should wish to have anything
 inscribed upon your silent tomb, sir, let it be, that I--ah, my
-remorseful sir! that I--the humble individual who has now the honour of
+remorseful sir! that I--the humble individual who has now the [[Honour|honour]] of
 reproaching you, forgave you. That I forgave you when my injuries were
 fresh, and when my bosom was newly wrung. It may be bitterness to you to
 hear it now, sir, but you will live to seek a consolation in it. May you
 find a consolation in it when you want it, sir! Good morning!’
 
-With this sublime address, Mr Pecksniff departed. But the effect of
+With this [[Sublime|sublime]] address, Mr Pecksniff departed. But the effect of
 his departure was much impaired by his being immediately afterwards run
 against, and nearly knocked down, by a monstrously excited little man in
 velveteen shorts and a very tall hat; who came bursting up the stairs,
 and straight into the chambers of Mr Chuzzlewit, as if he were deranged.
 
 ‘Is there anybody here that knows him?’ cried the little man. ‘Is there
-anybody here that knows him? Oh, my stars, is there anybody here that
+anybody here that knows him? Oh, my [[Stars|stars]], is there anybody here that
 knows him?’
 
 They looked at each other for an explanation; but nobody knew anything
@@ -762,18 +762,18 @@ repeating in a shrill voice, ‘IS there anybody here that knows him?’
 ‘If your brains is not turned topjy turjey, Mr Sweedlepipes!’ exclaimed
 another voice, ‘hold that there nige of yourn, I beg you, sir.’
 
-At the same time Mrs Gamp was seen in the doorway; out of breath from
+At the same [[Time|time]] Mrs Gamp was seen in the doorway; out of breath from
 coming up so many stairs, and panting fearfully; but dropping curtseys
 to the last.
 
 ‘Excuge the weakness of the man,’ said Mrs Gamp, eyeing Mr Sweedlepipe
-with great indignation; ‘and well I might expect it, as I should have
+with great indignation; ‘and [[Well|well]] I might expect it, as I should have
 know’d, and wishin’ he was drownded in the Thames afore I had brought
 him here, which not a blessed hour ago he nearly shaved the noge off
 from the father of as lovely a family as ever, Mr Chuzzlewit, was born
 three sets of twins, and would have done it, only he see it a-goin’ in
 the glass, and dodged the rager. And never, Mr Sweedlepipes, I do assure
-you, sir, did I so well know what a misfortun it was to be acquainted
+you, sir, did I so [[Well|well]] know what a misfortun it was to be acquainted
 with you, as now I do, which so I say, sir, and I don’t deceive you!’
 
 ‘I ask your pardon, ladies and gentlemen all,’ cried the little barber,
@@ -804,36 +804,36 @@ over him. ‘I never see sech a boy! It’s all his fun. He’s full of it.
 He shall go into the business along with me. I am determined he shall.
 We’ll make it Sweedlepipe and Bailey. He shall have the sporting branch
 (what a one he’ll be for the matches!) and me the shavin’. I’ll make
-over the birds to him as soon as ever he’s well enough. He shall have
+over the [[Birds|birds]] to him as soon as ever he’s [[Well|well]] enough. He shall have
 the little bullfinch in the shop, and all. He’s sech a boy! I ask your
 pardon, ladies and gentlemen, but I thought there might be some one here
 that know’d him!’
 
-Mrs Gamp had observed, not without jealousy and scorn, that a favourable
+Mrs Gamp had observed, not without [[Jealousy|jealousy]] and scorn, that a favourable
 impression appeared to exist in behalf of Mr Sweedlepipe and his
 young friend; and that she had fallen rather into the background in
 consequence. She now struggled to the front, therefore, and stated her
 business.
 
-‘Which, Mr Chuzzlewit,’ she said, ‘is well beknown to Mrs Harris as has
+‘Which, Mr Chuzzlewit,’ she said, ‘is [[Well|well]] beknown to Mrs Harris as has
 one sweet infant (though she DO not wish it known) in her own family by
 the mother’s side, kep in spirits in a bottle; and that sweet babe she
 see at Greenwich Fair, a-travelling in company with a pink-eyed lady,
-Prooshan dwarf, and livin’ skelinton, which judge her feelings when the
-barrel organ played, and she was showed her own dear sister’s child, the
+Prooshan [[Dwarf|dwarf]], and livin’ skelinton, which judge her feelings when the
+barrel organ played, and she was showed her own dear sister’s [[Child|child]], the
 same not bein’ expected from the outside picter, where it was painted
 quite contrairy in a livin’ state, a many sizes larger, and performing
-beautiful upon the Arp, which never did that dear child know or do;
+beautiful upon the Arp, which never did that dear [[Child|child]] know or do;
 since breathe it never did, to speak on in this wale! And Mrs Harris, Mr
 Chuzzlewit, has knowed me many year, and can give you information that
 the lady which is widdered can’t do better and may do worse, than let me
-wait upon her, which I hope to do. Permittin’ the sweet faces as I see
+wait upon her, which I [[Hope|hope]] to do. Permittin’ the sweet faces as I see
 afore me.’
 
 ‘Oh!’ said Mr Chuzzlewit. ‘Is that your business? Was this good person
 paid for the trouble we gave her?’
 
-‘I paid her, sir,’ returned Mark Tapley; ‘liberal.’
+‘I paid her, sir,’ returned [[Mark Tapley]]; ‘liberal.’
 
 ‘The young man’s words is true,’ said Mrs Gamp, ‘and thank you kindly.’
 
@@ -849,7 +849,7 @@ Martin, looking gravely at the astonished Mrs Gamp, ‘as hinting at the
 expediency of a little less liquor, and a little more humanity, and
 a little less regard for herself, and a little more regard for her
 patients, and perhaps a trifle of additional honesty. Or when Mrs Gamp
-gets into trouble, Mr Sweedlepipe, it had better not be at a time when I
+gets into trouble, Mr Sweedlepipe, it had better not be at a [[Time|time]] when I
 am near enough to the Old Bailey to volunteer myself as a witness to her
 character. Endeavour to impress that upon her at your leisure, if you
 please.’
@@ -867,19 +867,19 @@ The old man looked about him, with a smile, until his eyes rested on Tom
 Pinch’s sister; when he smiled the more.
 
 ‘We will all dine here together,’ he said; ‘and as you and Mary have
-enough to talk of, Martin, you shall keep house for us until the
+enough to talk of, Martin, you shall keep [[house]] for us until the
 afternoon, with Mr and Mrs Tapley. I must see your lodgings in the
 meanwhile, Tom.’
 
 Tom was quite delighted. So was Ruth. She would go with them.
 
-‘Thank you, my love,’ said Mr Chuzzlewit. ‘But I am afraid I must take
+‘Thank you, my [[Love|love]],’ said Mr Chuzzlewit. ‘But I am afraid I must take
 Tom a little out of the way, on business. Suppose you go on first, my
 dear?’
 
 Pretty little Ruth was equally delighted to do that.
 
-‘But not alone,’ said Martin, ‘not alone. Mr Westlock, I dare say, will
+‘But not [[Alone|alone]],’ said Martin, ‘not [[Alone|alone]]. Mr Westlock, I dare say, will
 escort you.’
 
 Why, of course he would: what else had Mr Westlock in his mind? How dull

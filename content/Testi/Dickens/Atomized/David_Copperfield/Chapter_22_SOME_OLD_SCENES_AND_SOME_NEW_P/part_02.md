@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-‘You come upon me,’ he said, almost angrily, ‘like a reproachful ghost!’
+‘You come upon me,’ he said, almost angrily, ‘like a reproachful [[Ghost|ghost]]!’
 
 ‘I was obliged to announce myself, somehow,’ I replied. ‘Have I called
-you down from the stars?’
+you down from the [[Stars|stars]]?’
 
 ‘No,’ he answered. ‘No.’
 
 ‘Up from anywhere, then?’ said I, taking my seat near him.
 
-‘I was looking at the pictures in the fire,’ he returned.
+‘I was looking at the pictures in the [[Fire|fire]],’ he returned.
 
 ‘But you are spoiling them for me,’ said I, as he stirred it quickly
 with a piece of burning wood, striking out of it a train of red-hot
@@ -31,74 +31,74 @@ sparks that went careering up the little chimney, and roaring out into
 the air.
 
 ‘You would not have seen them,’ he returned. ‘I detest this mongrel
-time, neither day nor night. How late you are! Where have you been?’
+[[Time|time]], neither day nor [[Night|night]]. How late you are! Where have you been?’
 
 ‘I have been taking leave of my usual walk,’ said I.
 
 ‘And I have been sitting here,’ said Steerforth, glancing round the
-room, ‘thinking that all the people we found so glad on the night of
+room, ‘thinking that all the people we found so glad on the [[Night|night]] of
 our coming down, might--to judge from the present wasted air of the
 place--be dispersed, or dead, or come to I don’t know what harm. David,
 I wish to God I had had a judicious father these last twenty years!’
 
 ‘My dear Steerforth, what is the matter?’
 
-‘I wish with all my soul I had been better guided!’ he exclaimed. ‘I
-wish with all my soul I could guide myself better!’
+‘I wish with all my [[Soul|soul]] I had been better guided!’ he exclaimed. ‘I
+wish with all my [[Soul|soul]] I could guide myself better!’
 
 There was a passionate dejection in his manner that quite amazed me. He
 was more unlike himself than I could have supposed possible.
 
 ‘It would be better to be this poor Peggotty, or his lout of a nephew,’
 he said, getting up and leaning moodily against the chimney-piece, with
-his face towards the fire, ‘than to be myself, twenty times richer and
+his face towards the [[Fire|fire]], ‘than to be myself, twenty times richer and
 twenty times wiser, and be the torment to myself that I have been, in
 this Devil’s bark of a boat, within the last half-hour!’
 
 I was so confounded by the alteration in him, that at first I could only
-observe him in silence, as he stood leaning his head upon his hand, and
-looking gloomily down at the fire. At length I begged him, with all
-the earnestness I felt, to tell me what had occurred to cross him so
-unusually, and to let me sympathize with him, if I could not hope to
-advise him. Before I had well concluded, he began to laugh--fretfully at
+observe him in [[Silence|silence]], as he stood leaning his head upon his hand, and
+looking gloomily down at the [[Fire|fire]]. At length I begged him, with all
+the earnestness I felt, to tell me what had occurred to [[Cross|cross]] him so
+unusually, and to let me sympathize with him, if I could not [[Hope|hope]] to
+advise him. Before I had [[Well|well]] concluded, he began to laugh--fretfully at
 first, but soon with returning gaiety.
 
 ‘Tut, it’s nothing, Daisy! nothing!’ he replied. ‘I told you at the
-inn in London, I am heavy company for myself, sometimes. I have been a
-nightmare to myself, just now--must have had one, I think. At odd dull
-times, nursery tales come up into the memory, unrecognized for what
+inn in [[London]], I am heavy company for myself, sometimes. I have been a
+[[nightmare]] to myself, just now--must have had one, I think. At odd dull
+times, nursery tales come up into the [[Memory|memory]], unrecognized for what
 they are. I believe I have been confounding myself with the bad boy who
 “didn’t care”, and became food for lions--a grander kind of going to
-the dogs, I suppose. What old women call the horrors, have been creeping
+the [[dogs]], I suppose. What old women call the horrors, have been creeping
 over me from head to foot. I have been afraid of myself.’
 
 ‘You are afraid of nothing else, I think,’ said I.
 
 ‘Perhaps not, and yet may have enough to be afraid of too,’ he answered.
-‘Well! So it goes by! I am not about to be hipped again, David; but I
-tell you, my good fellow, once more, that it would have been well for me
+‘[[Well]]! So it goes by! I am not about to be hipped again, David; but I
+tell you, my good fellow, once more, that it would have been [[Well|well]] for me
 (and for more than me) if I had had a steadfast and judicious father!’
 
 His face was always full of expression, but I never saw it express such
 a dark kind of earnestness as when he said these words, with his glance
-bent on the fire.
+bent on the [[Fire|fire]].
 
 ‘So much for that!’ he said, making as if he tossed something light
 into the air, with his hand. “‘Why, being gone, I am a man again,” like
-Macbeth. And now for dinner! If I have not (Macbeth-like) broken up the
+[[Macbeth]]. And now for dinner! If I have not ([[Macbeth]]-like) broken up the
 feast with most admired disorder, Daisy.’
 
-‘But where are they all, I wonder!’ said I.
+‘But where are they all, I [[Wonder|wonder]]!’ said I.
 
 ‘God knows,’ said Steerforth. ‘After strolling to the ferry looking
 for you, I strolled in here and found the place deserted. That set me
 thinking, and you found me thinking.’
 
-The advent of Mrs. Gummidge with a basket, explained how the house had
+The advent of Mrs. Gummidge with a basket, explained how the [[house]] had
 happened to be empty. She had hurried out to buy something that was
 needed, against Mr. Peggotty’s return with the tide; and had left the
 door open in the meanwhile, lest Ham and little Em’ly, with whom it was
-an early night, should come home while she was gone. Steerforth, after
+an early [[Night|night]], should come [[Home|home]] while she was gone. Steerforth, after
 very much improving Mrs. Gummidge’s spirits by a cheerful salutation and
 a jocose embrace, took my arm, and hurried me away.
 
@@ -119,13 +119,13 @@ tossing on the sea here. I wish there was not.’
 ‘As long as the novelty should last,’ said I, laughing.
 
 ‘Like enough,’ he returned; ‘though there’s a sarcastic meaning in that
-observation for an amiable piece of innocence like my young friend.
-Well! I dare say I am a capricious fellow, David. I know I am; but
+observation for an amiable piece of [[innocence]] like my young friend.
+[[Well]]! I dare say I am a capricious fellow, David. I know I am; but
 while the iron is hot, I can strike it vigorously too. I could pass
 a reasonably good examination already, as a pilot in these waters, I
 think.’
 
-‘Mr. Peggotty says you are a wonder,’ I returned.
+‘Mr. Peggotty says you are a [[Wonder|wonder]],’ I returned.
 
 ‘A nautical phenomenon, eh?’ laughed Steerforth.
 

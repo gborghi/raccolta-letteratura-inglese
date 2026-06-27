@@ -21,14 +21,14 @@ no very great good-will.
 morning, good morning!  Grace, my dear!  Marion!  Here are Messrs.
 Snitchey and Craggs.  Where’s Alfred!’
 
-‘He’ll be back directly, father, no doubt,’ said Grace.  ‘He had so much
+‘He’ll be back directly, father, no [[Doubt|doubt]],’ said Grace.  ‘He had so much
 to do this morning in his preparations for departure, that he was up and
 out by daybreak.  Good morning, gentlemen.’
 
-‘Ladies!’ said Mr. Snitchey, ‘for Self and Craggs,’ who bowed, ‘good
+‘Ladies!’ said Mr. Snitchey, ‘for [[Self]] and Craggs,’ who bowed, ‘good
 morning!  Miss,’ to Marion, ‘I kiss your hand.’  Which he did.  ‘And I
 wish you’—which he might or might not, for he didn’t look, at first
-sight, like a gentleman troubled with many warm outpourings of soul, in
+sight, like a gentleman troubled with many warm outpourings of [[Soul|soul]], in
 behalf of other people, ‘a hundred happy returns of this auspicious day.’
 
 ‘Ha ha ha!’ laughed the Doctor thoughtfully, with his hands in his
@@ -36,14 +36,14 @@ pockets.  ‘The great farce in a hundred acts!’
 
 ‘You wouldn’t, I am sure,’ said Mr. Snitchey, standing a small
 professional blue bag against one leg of the table, ‘cut the great farce
-short for this actress, at all events, Doctor Jeddler.’
+short for this actress, at all events, [[Doctor Jeddler]].’
 
 ‘No,’ returned the Doctor.  ‘God forbid!  May she live to laugh at it, as
 long as she _can_ laugh, and then say, with the French wit, “The farce is
 ended; draw the curtain.”’
 
 ‘The French wit,’ said Mr. Snitchey, peeping sharply into his blue bag,
-‘was wrong, Doctor Jeddler, and your philosophy is altogether wrong,
+‘was wrong, [[Doctor Jeddler]], and your [[philosophy]] is altogether wrong,
 depend upon it, as I have often told you.  Nothing serious in life!  What
 do you call law?’
 
@@ -82,14 +82,14 @@ twinkles in his eyes, as if something struck sparks out of them.  The
 three natural kingdoms, indeed, had each a fanciful representative among
 this brotherhood of disputants; for Snitchey was like a magpie or raven
 (only not so sleek), and the Doctor had a streaked face like a
-winter-pippin, with here and there a dimple to express the peckings of
-the birds, and a very little bit of pigtail behind that stood for the
+[[Winter|winter]]-pippin, with here and there a dimple to express the peckings of
+the [[Birds|birds]], and a very little bit of pigtail behind that stood for the
 stalk.
 
-As the active figure of a handsome young man, dressed for a journey, and
+As the active figure of a handsome young man, dressed for a [[Journey|journey]], and
 followed by a porter bearing several packages and baskets, entered the
-orchard at a brisk pace, and with an air of gaiety and hope that accorded
-well with the morning, these three drew together, like the brothers of
+orchard at a brisk pace, and with an air of gaiety and [[Hope|hope]] that accorded
+[[Well|well]] with the morning, these three drew together, like the brothers of
 the sister Fates, or like the Graces most effectually disguised, or like
 the three weird prophets on the heath, and greeted him.
 
@@ -98,7 +98,7 @@ the three weird prophets on the heath, and greeted him.
 ‘A hundred happy returns of this auspicious day, Mr. Heathfield!’ said
 Snitchey, bowing low.
 
-‘Returns!’ Craggs murmured in a deep voice, all alone.
+‘Returns!’ Craggs murmured in a deep voice, all [[Alone|alone]].
 
 ‘Why, what a battery!’ exclaimed Alfred, stopping short, ‘and
 one—two—three—all foreboders of no good, in the great sea before me.  I
@@ -106,14 +106,14 @@ am glad you are not the first I have met this morning: I should have
 taken it for a bad omen.  But, Grace was the first—sweet, pleasant
 Grace—so I defy you all!’
 
-‘If you please, Mister, I was the first you know,’ said Clemency Newcome.
+‘If you please, Mister, I was the first you know,’ said [[Clemency Newcome]].
 ‘She was walking out here, before sunrise, you remember.  I was in the
-house.’
+[[house]].’
 
 ‘That’s true!  Clemency was the first,’ said Alfred.  ‘So I defy you with
 Clemency.’
 
-‘Ha, ha, ha,—for Self and Craggs,’ said Snitchey.  ‘What a defiance!’
+‘Ha, ha, ha,—for [[Self]] and Craggs,’ said Snitchey.  ‘What a defiance!’
 
 ‘Not so bad a one as it appears, may be,’ said Alfred, shaking hands
 heartily with the Doctor, and also with Snitchey and Craggs, and then
@@ -132,7 +132,7 @@ discreetly stationed herself, as to cut off her sister and Alfred from
 the rest of the company.  Snitchey and Craggs sat at opposite corners,
 with the blue bag between them for safety; the Doctor took his usual
 position, opposite to Grace.  Clemency hovered galvanically about the
-table, as waitress; and the melancholy Britain, at another and a smaller
+table, as waitress; and the [[Melancholy|melancholy]] Britain, at another and a smaller
 board, acted as Grand Carver of a round of beef and a ham.
 
 ‘Meat?’ said Britain, approaching Mr. Snitchey, with the carving knife
@@ -142,4 +142,4 @@ and fork in his hands, and throwing the question at him like a missile.
 
 ‘Do _you_ want any?’ to Craggs.
 
-‘Lean and well done,’ replied that gentleman.
+‘Lean and [[Well|well]] done,’ replied that gentleman.

@@ -34,22 +34,22 @@ was a most respectable and reliable apothecary, or he
 would not have had the custom of families, especially
 among the upper classes; but he enjoyed as a hobby,
 the study of the dark days and lands where his science
-had lain sometimes on the borders of magic and
+had lain sometimes on the borders of [[Magic|magic]] and
 sometimes upon the borders of murder.  Hence it often
 happened that persons, who in their serious senses
-were well aware of his harmless and useful habits,
-would leave his shop on some murky and foggy night,
+were [[Well|well]] aware of his harmless and useful habits,
+would leave his shop on some murky and foggy [[Night|night]],
 with their heads so full of wild tales of the eating
 of hemp or the poisoning of roses, they could hardly
-help fancying that the shop, with its glowing moon
-of crimson or saffron, like bowls of blood and sulphur,
-was really a house of the Black Art.
+help fancying that the shop, with its glowing [[Moon|moon]]
+of crimson or saffron, like bowls of [[Blood|blood]] and sulphur,
+was really a [[house]] of the Black Art.
 
 It was doubtless for such conversational pleasures,
-in part, that Hibbs However entered the shop; as well
+in part, that Hibbs However entered the shop; as [[Well|well]]
 as for a small glass of the same restorative medicine
 which he had been taking when Leveson found him by
-the open window.  But this did not prevent Hibbs
+the open [[Window|window]].  But this did not prevent Hibbs
 from expressing considerable surprise and some
 embarrassment when Leveson entered the same chemist's
 and asked for the same chemical.  Indeed, Leveson
@@ -63,27 +63,27 @@ sick of it.  Where are you going?"
 
 "I thought," said Mr. Hibbs, "of dropping in at
 this Post-Futurist exhibition.  I believe Lord Ivywood
-will be there; he is showing it to the Prophet.
+will be there; he is showing it to the [[Prophet]].
 I don't pretend to know much about art, but I hear it's
 very fine."
 
-There was a long silence and Mr. Leveson said,
+There was a long [[Silence|silence]] and Mr. Leveson said,
 "People always prejudiced against new ideas."
 
-Then there was another long silence and Mr. Hibbs
+Then there was another long [[Silence|silence]] and Mr. Hibbs
 said, "After all, they said the same of Whistler."
 
 Refreshed by this ritual, Mr. Leveson became
 conscious of the existence of Crooke, and said to him,
 cheerfully, "That's so in your department, too, isn't it?
 I suppose the greatest pioneers in chemistry were
-unpopular in their own time."
+unpopular in their own [[Time|time]]."
 
 "Look at the Borgias," said Mr. Crooke.  "They
 got themselves quite disliked."
 
 "You're very flippant, you know," said Leveson, in
-a fatigued way.  "Well, so long.  Are you coming,
+a fatigued way.  "[[Well]], so long.  Are you coming,
 Hibbs?"
 
 And the two gentlemen, who were both attired in
@@ -92,7 +92,7 @@ themselves down the street.  It was a fine, sunny day, the
 twin of the day before that had shone so brightly on
 the white town of Peaceways; and their walk was a
 pleasant one, along a handsome street with high houses
-and small trees that overlooked the river all the way.
+and small trees that overlooked the [[River|river]] all the way.
 For the pictures were exhibited in a small but famous
 gallery, a rather rococo building of which the entrance
 steps almost descended upon the Thames.  The building
@@ -104,7 +104,7 @@ costume.  But even the sight of that fragrant
 eastern flower did not seem to revive altogether the
 spirits of the drooping Secretary.
 
-"You have coome," said the beaming Prophet, "to
+"You have coome," said the beaming [[Prophet]], "to
 see the decoration?  It is approo-ooved.  I haf
 approo-ooved it."
 
@@ -123,7 +123,7 @@ frames.  Every one I have approo-ooved.  No trace
 of ze Man form.  No trace of ze Animal form.  All
 decoration as goo-ood as the goo-oodest of carpets;
 it harms not.  Lord Ivywood smile of happiness; for
-I tell him Islam indeed progresses.  Ze old Moslems
+I tell him [[Islam]] indeed progresses.  Ze old Moslems
 allow to draw the picture of the vegetable.  Here I
 hunt even for the vegetable.  And there is no
 vegetable."
@@ -131,8 +131,8 @@ vegetable."
 Hibbs, whose trade was tact, naturally did not
 think it wise that the eminent Misysra should go on
 lecturing from a tall flight of steps to the whole street
-and river, so he had slipped past with a general proposal
-to go in and see.  The Prophet and the Secretary
+and [[River|river]], so he had slipped past with a general proposal
+to go in and see.  The [[Prophet]] and the Secretary
 followed; and all entered the outer hall where Lord
 Ivywood stood with the white face of a statue.  He
 was the only statue the New Moslems were allowed
@@ -152,7 +152,7 @@ figures or groups of that world drifted through the
 Exhibition of the Post-Futurists.  It is a very small
 world, but it is just big enough and just small enough
 to govern a country--that is, a country with no
-religion.  And it has all the vanity of a mob; and all
+religion.  And it has all the [[Vanity|vanity]] of a mob; and all
 the reticence of a secret society.
 
 Leveson instantly went up to Lord Ivywood, pulled
@@ -166,7 +166,7 @@ like cold marble than before.
 "I made all possible inquiries about their subsequent
 route," the Secretary was heard saying, "and the most
 serious feature is that they seem to have taken the
-road for London."
+[[Road|road]] for [[London]]."
 
 "Quite so," replied the statue, "they will be easier
 to capture here."
@@ -186,13 +186,13 @@ sudden appearance of that blameless diplomatist
 quickened the mental current to a cataract.  But as
 he could not insult Hibbs, whom socially he did not
 even know; and could not insult Ivywood, with whom
-he had just had a formal reconciliation, it was
+he had just had a formal [[Reconciliation|reconciliation]], it was
 absolutely necessary that he should insult something else
-instead.  All watchers for the Dawn will be deeply
+instead.  All watchers for the [[Dawn]] will be deeply
 distressed to know that the Post-Futurist School of
 Painting received the full effects of this perverted
-wrath.  In vain did Mr. Leveson affirm from time to
-time, "People always prejudiced against new ideas."
+wrath.  In vain did Mr. Leveson affirm from [[Time|time]] to
+[[Time|time]], "People always prejudiced against new ideas."
 Vainly did Mr. Hibbs say at the proper intervals,
 "After all, they said the same of Whistler."  Not by
 such decent formalities was the frenzy of Dorian to
@@ -202,22 +202,22 @@ be appeased.
 he said, "he passes it as a good wall-paper.  I should
 say it was a bad wall-paper; the sort of wall-paper
 that gives a sick man fever when he hasn't got it.  But
-to call it pictures--you might as well call it seats for
-the Lord Mayor's Show.  A seat isn't a seat if you
-can't see the Lord Mayor's Show.  A picture isn't a
+to call it pictures--you might as [[Well|well]] call it seats for
+the [[Lord Mayor]]'s Show.  A seat isn't a seat if you
+can't see the [[Lord Mayor]]'s Show.  A picture isn't a
 picture if you can't see any picture.  You can sit down
-at home more comfortably than you can at a procession.
-And you can walk about at home more comfortably
+at [[Home|home]] more comfortably than you can at a procession.
+And you can walk about at [[Home|home]] more comfortably
 than you can at a picture gallery.  There's only
 one thing to be said for a street show or a picture
 show--and that is whether there is anything to be
 shown.  Now, then!  Show me something!"
 
-"Well," said Lord Ivywood, good humouredly, motioning
+"[[Well]]," said Lord Ivywood, good humouredly, motioning
 toward the wall in front of him, "let me show
 you the 'Portrait of an Old Lady.'"
 
-"Well," said Dorian, stolidly, "which is it?"
+"[[Well]]," said Dorian, stolidly, "which is it?"
 
 Mr. Hibbs made a hasty gesture of identification,
 but was so unfortunate as to point to the picture of
@@ -235,10 +235,10 @@ stopped at one glass, and returned with a full
 diplomatic responsibility.
 
 He returned to find that Dorian Wimpole had forgotten
-all the facts of time, place, and personal pride,
+all the facts of [[Time|time]], place, and personal [[Pride|pride]],
 in an argument with Lord Ivywood, exactly as he had
 forgotten such facts in an argument with Patrick
-Dalroy, in a dark wood with a donkey-cart.  And Philip
+Dalroy, in a dark wood with a [[donkey]]-cart.  And Philip
 Ivywood was interested also; his cold eyes even shone;
 for though his pleasure was almost purely intellectual,
 it was utterly sincere.
@@ -246,7 +246,7 @@ it was utterly sincere.
 "And I do trust the untried; I do follow the
 inexperienced," he was saying quietly, with his fine
 inflections of voice.  "You say this is changing the very
-nature of Art.  I want to change the very nature of
+[[Nature|nature]] of Art.  I want to change the very [[Nature|nature]] of
 Art.  Everything lives by turning into something else.
 Exaggeration is growth."
 
@@ -260,19 +260,19 @@ I hardly think such jokes are in your line.  But don't
 you see, my good Philip, that even then the joke
 depends on its looking like a cow and not only like a
 thing with feathers.  Even then the joke depends on
-the whale as well as the legs.  You can combine up to
+the whale as [[Well|well]] as the legs.  You can combine up to
 a certain point; you can distort up to a certain point;
-after that you lose the identity; and with that you lose
+after that you lose the [[Identity|identity]]; and with that you lose
 everything.  A Centaur is so much of a man with so
-much of a horse.  The Centaur must not be hastily
-identified with the Horsy Man.  And the Mermaid
+much of a [[Horse|horse]].  The Centaur must not be hastily
+identified with the Horsy Man.  And the [[Mermaid]]
 must be maidenly; even if there is something fishy
 about her social conduct."
 
 "No," said Lord Ivywood, in the same quiet way, "I
 understand what you mean, and I don't agree.  I
 should like the Centaur to turn into something else,
-that is neither man nor horse."
+that is neither man nor [[Horse|horse]]."
 
 "But not something that has nothing of either?"
 asked the poet.
@@ -286,10 +286,10 @@ that has changed entirely has not changed at all.  It
 has no bridge of crisis.  It can remember no change.
 If you wake up tomorrow and you simply _are_ Mrs.
 Dope, an old woman who lets lodgings at Broadstairs
---well, I don't doubt Mrs. Dope is a saner and
+--[[Well|well]], I don't [[Doubt|doubt]] Mrs. Dope is a saner and
 happier person than you are.  But in what way have
 _you_ progressed?  What part of _you_ is better?  Don't
-you see this prime fact of identity is the limit set on
+you see this prime fact of [[Identity|identity]] is the limit set on
 all living things?"
 
 "No," said Philip, with suppressed but sudden violence,
@@ -303,7 +303,7 @@ Lady Joan, who was looking with tedium at a rich
 pattern of purple and green in which Misysra attempted
 to interest her (imploring her to disregard the mere
 title, which idolatrously stated it as "First Communion
-in the Snow"), abruptly turned her full face to
+in the [[Snow]]"), abruptly turned her full face to
 Dorian.  It was a face to which few men could feel
 indifferent, especially when thus suddenly shown them.
 
@@ -312,9 +312,9 @@ mean he would resent the limits of metre and rhyme
 and so on?"
 
 The poet reflected for a moment and then said,
-"Well, partly; but I mean more than that too.  As one
+"[[Well]], partly; but I mean more than that too.  As one
 can be candid in the family, I may say that what everyone
-says about him is that he has no humour.  But
+says about him is that he has no [[Humour|humour]].  But
 that's not my complaint at all.  I think my complaint
 is that he has no pathos.  That is, he does not feel
 human limitations.  That is, he will not write poetry."
@@ -336,15 +336,15 @@ he dropped it again and confronted Joan with a face
 paler than usual.
 
 "Joan," he said, "I would walk where no man has
-walked; and find something beyond tears and laughter.
-My road shall be my road indeed; for I will make it,
+walked; and find something beyond [[Tears|tears]] and laughter.
+My [[Road|road]] shall be my [[Road|road]] indeed; for I will make it,
 like the Romans.  And my adventures shall not be in
 the hedges and the gutters, but in the borders of the
 ever advancing brain.  I will think what was unthinkable
-until I thought it; I will love what never lived
+until I thought it; I will [[Love|love]] what never lived
 until I loved it--I will be as lonely as the First Man."
 
-"They say," she said, after a silence, "that the first
+"They say," she said, after a [[Silence|silence]], "that the first
 man fell."
 
 "You mean the priests?" he answered.  "Yes, but
@@ -359,7 +359,7 @@ pictures, yourself?"
 "I see the breaking of the barriers," he answered,
 "beyond that I see nothing."
 
-She looked at the floor for a little time and traced
+She looked at the floor for a little [[Time|time]] and traced
 patterns with her parasol, like one who has really
 received food for thought.  Then she said, suddenly,
 
@@ -431,7 +431,7 @@ know if it was raining, say?"
 countryside," inquired Dorian, scientifically, "a woman
 --let us say an old woman."
 
-"Aye," said the man, with good humour.
+"Aye," said the man, with good [[Humour|humour]].
 
 "What on earth are you doing with the creature?"
 whispered Enid, feverishly.
@@ -445,7 +445,7 @@ my asking; you see we are responsible while we keep
 the place going."
 
 There soared up into the sky like a cloud of rooks
-the eager vanity of the North.
+the eager [[Vanity|vanity]] of the North.
 
 "We collier lads are none so badly educated, lad,"
 he said.  "In the town a' was born in there was a
@@ -459,11 +459,11 @@ woman and the other rain in the hills.  It's a mere
 formality.  You shall have your drink when you've
 said which is which."
 
-The northerner bowed his huge body before the two
+The northerner bowed his huge [[Body|body]] before the two
 frames and peered into them patiently.  The long stillness
 that followed seemed to be something of a strain
-on Joan, who rose in a restless manner, first went to
-look out of a window and then went out of the front
+on Joan, who [[Rose|rose]] in a restless manner, first went to
+look out of a [[Window|window]] and then went out of the front
 door.
 
 At length the art-critic lifted a large, puzzled but
@@ -482,12 +482,12 @@ payment by the rapid method of running out of the
 gallery on to the steps outside.
 
 Joan was already standing there.  Out the little side
-window she had seen the incredible thing she
+[[Window|window]] she had seen the incredible thing she
 expected to see; which explained the ludicrous scene
-inside.  She saw the red and blue wooden flag of Mr.
+inside.  She saw the red and blue wooden [[Flag|flag]] of Mr.
 Pump standing up in the flower-beds in the sun, as
 serenely as if it were a tall and tropical flower;
-and yet, in the brief interval between the window and
+and yet, in the brief interval between the [[Window|window]] and
 the door it had vanished, as if to remind her it was a
 flying dream.  But two men were in a little motor
 outside, which was in the very act of starting.  They
@@ -495,11 +495,11 @@ were in motoring disguise, but she knew who they
 were.  All that was deep in her, all that was sceptical,
 all that was stoical, all that was noble, made her
 stand as still as one of the pillars of the porch; but a
-dog, bearing the name of Quoodle, sprang up in the
+dog, bearing the name of [[quoodle|Quoodle]], sprang up in the
 moving car, and barked with joy at the mere sight of
 her, and though she had borne all else, something in
-that bestial innocence of an animal suddenly blinded
-her with tears.
+that bestial [[innocence]] of an animal suddenly blinded
+her with [[Tears|tears]].
 
 It could not, however, blind her to the extraordinary
 fact that followed.  Mr. Dorian Wimpole, attired in

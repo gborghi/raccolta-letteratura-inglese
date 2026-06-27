@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 10 (part 3)"
+title: "[[The Professor]] — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,7 +34,7 @@ convenient to me, and the rest of my lesson passed without interruption.
 
 A bell clanging out in the yard announced the moment for the cessation
 
-of school labours. I heard our own bell at the same time, and that of a
+of school labours. I heard our own bell at the same [[Time|time]], and that of a
 
 certain public college immediately after. Order dissolved instantly; up
 
@@ -78,7 +78,7 @@ Brussels.
 
 
 
-“Well, you have given your first lesson,” began Mdlle. Reuter in the
+“[[Well]], you have given your first lesson,” began Mdlle. Reuter in the
 
 most calm, equable voice, as though quite unconscious of the chaos from
 
@@ -170,9 +170,9 @@ she was applying now this test, now that, hoping in the end to find some
 
 chink, some niche, where she could put in her little firm foot and stand
 
-upon my neck--mistress of my nature. Do not mistake me, reader, it was
+upon my neck--mistress of my [[Nature|nature]]. Do not mistake me, reader, it was
 
-no amorous influence she wished to gain--at that time it was only the
+no amorous influence she wished to gain--at that [[Time|time]] it was only the
 
 power of the politician to which she aspired; I was now installed as a
 
@@ -224,7 +224,7 @@ a specimen, and a most sensible and respectable specimen, too, whose
 
 staple ingredient is abstract reason. No Talleyrand was ever more
 
-passionless than Zoraide Reuter!” So I thought then; I found
+passionless than [[Zoraide Reuter]]!” So I thought then; I found
 
 afterwards that blunt susceptibilities are very consistent with strong
 

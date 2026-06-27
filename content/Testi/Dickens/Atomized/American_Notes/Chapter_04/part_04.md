@@ -22,22 +22,22 @@ to have displayed a considerable degree of intelligence.
 ‘But suddenly she sickened again; her disease raged with great violence
 during five weeks, when her eyes and ears were inflamed, suppurated, and
 their contents were discharged.  But though sight and hearing were gone
-for ever, the poor child’s sufferings were not ended.  The fever raged
+for ever, the poor [[Child|child]]’s sufferings were not ended.  The fever raged
 during seven weeks; for five months she was kept in bed in a darkened
 room; it was a year before she could walk unsupported, and two years
 before she could sit up all day.  It was now observed that her sense of
 smell was almost entirely destroyed; and, consequently, that her taste
 was much blunted.
 
-‘It was not until four years of age that the poor child’s bodily health
+‘It was not until four years of age that the poor [[Child|child]]’s bodily health
 seemed restored, and she was able to enter upon her apprenticeship of
 life and the world.
 
-‘But what a situation was hers!  The darkness and the silence of the tomb
+‘But what a situation was hers!  The darkness and the [[Silence|silence]] of the tomb
 were around her: no mother’s smile called forth her answering smile, no
 father’s voice taught her to imitate his sounds:—they, brothers and
 sisters, were but forms of matter which resisted her touch, but which
-differed not from the furniture of the house, save in warmth, and in the
+differed not from the furniture of the [[house]], save in warmth, and in the
 power of locomotion; and not even in these respects from the dog and the
 cat.
 
@@ -45,10 +45,10 @@ cat.
 die, nor be maimed nor mutilated; and though most of its avenues of
 communication with the world were cut off, it began to manifest itself
 through the others.  As soon as she could walk, she began to explore the
-room, and then the house; she became familiar with the form, density,
+room, and then the [[house]]; she became familiar with the form, density,
 weight, and heat, of every article she could lay her hands upon.  She
 followed her mother, and felt her hands and arms, as she was occupied
-about the house; and her disposition to imitate, led her to repeat
+about the [[house]]; and her disposition to imitate, led her to repeat
 everything herself.  She even learned to sew a little, and to knit.’
 
 The reader will scarcely need to be told, however, that the opportunities
@@ -59,9 +59,9 @@ with her great privations, must soon have reduced her to a worse
 condition than that of the beasts that perish, but for timely and
 unhoped-for aid.
 
-‘At this time, I was so fortunate as to hear of the child, and
+‘At this [[Time|time]], I was so fortunate as to hear of the [[Child|child]], and
 immediately hastened to Hanover to see her.  I found her with a
-well-formed figure; a strongly-marked, nervous-sanguine temperament; a
+[[Well|well]]-formed figure; a strongly-marked, nervous-sanguine temperament; a
 large and beautifully-shaped head; and the whole system in healthy
 action.  The parents were easily induced to consent to her coming to
 Boston, and on the 4th of October, 1837, they brought her to the
@@ -99,9 +99,9 @@ approbation, patting on the head.
 ‘The same process was then repeated with all the articles which she could
 handle; and she very easily learned to place the proper labels upon them.
 It was evident, however, that the only intellectual exercise was that of
-imitation and memory.  She recollected that the label _book_ was placed
-upon a book, and she repeated the process first from imitation, next from
-memory, with only the motive of love of approbation, but apparently
+[[Imitation|imitation]] and [[Memory|memory]].  She recollected that the label _book_ was placed
+upon a book, and she repeated the process first from [[Imitation|imitation]], next from
+[[Memory|memory]], with only the motive of [[Love|love]] of approbation, but apparently
 without the intellectual perception of any relation between the things.
 
 ‘After a while, instead of labels, the individual letters were given to
@@ -110,16 +110,16 @@ spell _book_, _key_, &c.; then they were mixed up in a heap and a sign
 was made for her to arrange them herself so as to express the words
 _book_, _key_, &c.; and she did so.
 
-‘Hitherto, the process had been mechanical, and the success about as
-great as teaching a very knowing dog a variety of tricks.  The poor child
+‘Hitherto, the process had been mechanical, and the [[success]] about as
+great as teaching a very knowing dog a variety of tricks.  The poor [[Child|child]]
 had sat in mute amazement, and patiently imitated everything her teacher
-did; but now the truth began to flash upon her: her intellect began to
+did; but now the [[Truth|truth]] began to flash upon her: her intellect began to
 work: she perceived that here was a way by which she could herself make
 up a sign of anything that was in her own mind, and show it to another
 mind; and at once her countenance lighted up with a human expression: it
 was no longer a dog, or parrot: it was an immortal spirit, eagerly
-seizing upon a new link of union with other spirits!  I could almost fix
-upon the moment when this truth dawned upon her mind, and spread its
+seizing upon a new link of [[Union|union]] with other spirits!  I could almost fix
+upon the moment when this [[Truth|truth]] dawned upon her mind, and spread its
 light to her countenance; I saw that the great obstacle was overcome; and
 that henceforward nothing but patient and persevering, but plain and
 straightforward, efforts were to be used.

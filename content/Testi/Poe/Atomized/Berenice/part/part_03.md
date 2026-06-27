@@ -1,5 +1,5 @@
 ---
-title: "Berenice (part 3)"
+title: "[[Berenice]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Berenice-(Poe)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-      Was it my own excited imagination—or the misty influence of the
+      Was it my own excited [[Imagination|imagination]]—or the misty influence of the
       atmosphere—or the uncertain twilight of the chamber—or the gray
       draperies which fell around her figure—that caused in it so
       vacillating and indistinct an outline? I could not tell. She
       spoke no word; and I—not for worlds could I have uttered a
       syllable. An icy chill ran through my frame; a sense of
       insufferable anxiety oppressed me; a consuming curiosity pervaded
-      my soul; and sinking back upon the chair, I remained for some
-      time breathless and motionless, with my eyes riveted upon her
+      my [[Soul|soul]]; and sinking back upon the chair, I remained for some
+      [[Time|time]] breathless and motionless, with my eyes riveted upon her
       person. Alas! its emaciation was excessive, and not one vestige
       of the former being lurked in any single line of the contour. My
       burning glances at length fell upon the face.
@@ -31,11 +31,11 @@ tags:
       the once jetty hair fell partially over it, and overshadowed the
       hollow temples with innumerable ringlets, now of a vivid yellow,
       and jarring discordantly, in their fantastic character, with the
-      reigning melancholy of the countenance. The eyes were lifeless,
+      reigning [[Melancholy|melancholy]] of the countenance. The eyes were lifeless,
       and lustreless, and seemingly pupilless, and I shrank
       involuntarily from their glassy stare to the contemplation of the
       thin and shrunken lips. They parted; and in a smile of peculiar
-      meaning, _the teeth_ of the changed Berenice disclosed themselves
+      meaning, _the teeth_ of the changed [[Berenice]] disclosed themselves
       slowly to my view. Would to God that I had never beheld them, or
       that, having done so, I had died!
 
@@ -45,7 +45,7 @@ tags:
       would not be driven away, the white and ghastly _spectrum_ of the
       teeth. Not a speck on their surface—not a shade on their
       enamel—not an indenture in their edges—but what that period of
-      her smile had sufficed to brand in upon my memory. I saw them
+      her smile had sufficed to brand in upon my [[Memory|memory]]. I saw them
       _now_ even more unequivocally than I beheld them _then_. The
       teeth!—the teeth!—they were here, and there, and everywhere, and
       visibly and palpably before me; long, narrow, and excessively
@@ -54,48 +54,48 @@ tags:
       fury of my _monomania_, and I struggled in vain against its
       strange and irresistible influence. In the multiplied objects of
       the external world I had no thoughts but for the teeth. For these
-      I longed with a phrenzied desire. All other matters and all
+      I longed with a phrenzied [[Desire|desire]]. All other matters and all
       different interests became absorbed in their single
-      contemplation. They—they alone were present to the mental eye,
+      contemplation. They—they [[Alone|alone]] were present to the mental eye,
       and they, in their sole individuality, became the essence of my
       mental life. I held them in every light. I turned them in every
       attitude. I surveyed their characteristics. I dwelt upon their
       peculiarities. I pondered upon their conformation. I mused upon
-      the alteration in their nature. I shuddered as I assigned to them
-      in imagination a sensitive and sentient power, and even when
+      the alteration in their [[Nature|nature]]. I shuddered as I assigned to them
+      in [[Imagination|imagination]] a sensitive and sentient power, and even when
       unassisted by the lips, a capability of moral expression. Of
-      Mademoiselle Salle it has been well said, “_Que tous ses pas
-      etaient des sentiments_,” and of Berenice I more seriously
+      Mademoiselle Salle it has been [[Well|well]] said, “_Que tous ses pas
+      etaient des sentiments_,” and of [[Berenice]] I more seriously
       believed _que toutes ses dents etaient des idées_. _Des
       idées!_—ah here was the idiotic thought that destroyed me! _Des
       idées!_—ah, _therefore_ it was that I coveted them so madly! I
-      felt that their possession could alone ever restore me to peace,
+      felt that their possession could [[Alone|alone]] ever restore me to peace,
       in giving me back to reason.
 
       And the evening closed in upon me thus—and then the darkness
       came, and tarried, and went—and the day again dawned—and the
-      mists of a second night were now gathering around—and still I sat
+      mists of a second [[Night|night]] were now gathering around—and still I sat
       motionless in that solitary room—and still I sat buried in
       meditation—and still the _phantasma_ of the teeth maintained its
       terrible ascendancy, as, with the most vivid hideous
       distinctness, it floated about amid the changing lights and
-      shadows of the chamber. At length there broke in upon my dreams a
+      shadows of the chamber. At length there broke in upon my [[Dreams|dreams]] a
       cry as of horror and dismay; and thereunto, after a pause,
       succeeded the sound of troubled voices, intermingled with many
-      low moanings of sorrow or of pain. I arose from my seat, and
+      low moanings of sorrow or of [[Pain|pain]]. I arose from my seat, and
       throwing open one of the doors of the library, saw standing out
-      in the ante-chamber a servant maiden, all in tears, who told me
-      that Berenice was—no more! She had been seized with epilepsy in
-      the early morning, and now, at the closing in of the night, the
-      grave was ready for its tenant, and all the preparations for the
+      in the ante-chamber a servant maiden, all in [[Tears|tears]], who told me
+      that [[Berenice]] was—no more! She had been seized with epilepsy in
+      the early morning, and now, at the closing in of the [[Night|night]], the
+      [[Grave|grave]] was ready for its tenant, and all the preparations for the
       burial were completed.
 
       I found myself sitting in the library, and again sitting there
-      alone. It seemed that I had newly awakened from a confused and
-      exciting dream. I knew that it was now midnight, and I was well
-      aware, that since the setting of the sun, Berenice had been
+      [[Alone|alone]]. It seemed that I had newly awakened from a confused and
+      exciting dream. I knew that it was now midnight, and I was [[Well|well]]
+      aware, that since the setting of the sun, [[Berenice]] had been
       interred. But of that dreary period which intervened I had no
-      positive, at least no definite comprehension. Yet its memory was
+      positive, at least no definite comprehension. Yet its [[Memory|memory]] was
       replete with horror—horror more horrible from being vague, and
       terror more terrible from ambiguity. It was a fearful page in the
       record my existence, written all over with dim, and hideous, and
@@ -116,17 +116,17 @@ tags:
       singular but simple ones of the poet Ebn Zaiat:—“_Dicebant mihi
       sodales si sepulchrum amicae visitarem, curas meas aliquantulum
       fore levatas_.” Why then, as I perused them, did the hairs of my
-      head erect themselves on end, and the blood of my body become
+      head erect themselves on end, and the [[Blood|blood]] of my [[Body|body]] become
       congealed within my veins?
 
       There came a light tap at the library door—and, pale as the
       tenant of a tomb, a menial entered upon tiptoe. His looks were
       wild with terror, and he spoke to me in a voice tremulous, husky,
       and very low. What said he?—some broken sentences I heard. He
-      told of a wild cry disturbing the silence of the night—of the
+      told of a wild cry disturbing the [[Silence|silence]] of the [[Night|night]]—of the
       gathering together of the household—of a search in the direction
       of the sound; and then his tones grew thrillingly distinct as he
-      whispered me of a violated grave—of a disfigured body enshrouded,
+      whispered me of a violated [[Grave|grave]]—of a disfigured [[Body|body]] enshrouded,
       yet still breathing—still palpitating—_still alive_!
 
       He pointed to garments;—they were muddy and clotted with gore. I

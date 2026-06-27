@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION"
+title: "[[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/conversion-(Chesterton)"
@@ -16,27 +16,27 @@ tags:
 
 CHAPTER I:  INTRODUCTORY:  A NEW RELIGION
 
-The Catholic faith used to be called the Old Religion; but at the present
+The Catholic [[Faith|faith]] used to be called the Old Religion; but at the present
 moment it has a recognized place among the New Religions.  This has
-nothing to do with its truth or falsehood; but it is a fact that has
+nothing to do with its [[Truth|truth]] or falsehood; but it is a fact that has
 a great deal to do with the understanding of the modern world.
 
 It would be very undesirable that modern men should accept
 Catholicism merely as a novelty; but it is a novelty.
 It does act upon its existing environment with the peculiar force
 and freshness of a novelty.  Even those who denounce it generally
-denounce it as a novelty; as an innovation and not merely a survival.
+denounce it as a novelty; as an innovation and not merely a [[Survival|survival]].
 They talk of the "advanced" party in the Church of England;
 they talk of the "aggression" of the Church of Rome.  When they
 talk of an Extremist they are as likely to mean a Ritualist
 as a Socialist.  Given any normal respectable Protestant family,
-Anglican or Puritan, in England or America, we shall find
+Anglican or Puritan, in England or [[america|America]], we shall find
 that Catholicism is actually for practical purposes treated
-as a new religion, that is, a revolution.  It is not a survival.
+as a new religion, that is, a revolution.  It is not a [[Survival|survival]].
 It is not in that sense an antiquity.  It does not necessarily
 owe anything to tradition.  In places where tradition can do
 nothing for it, in places where all the tradition is against it,
-it is intruding on its own merits; not as a tradition but a truth.
+it is intruding on its own merits; not as a tradition but a [[Truth|truth]].
 The father of some such Anglican or American Puritan family
 will find, very often, that all his children are breaking away
 from his own more or less Christian compromise (regarded as normal
@@ -54,29 +54,29 @@ off their feet and leave older people bewildered or annoyed.
 Catholicism indeed, even more than the others, is often spoken
 of as if it were actually one of the wild passions of youth.
 Optimistic aunts and uncles say that the youth will "get over it,"
-as if it were a childish love affair or that unfortunate
+as if it were a childish [[Love|love]] affair or that unfortunate
 business with the barmaid.  Darker and sterner aunts and uncles,
 perhaps at a rather earlier period, used actually to talk
 about it as an indecent indulgence, as if its literature were
 literally a sort of pornography.  Newman remarks quite naturally,
-as if there were nothing odd about it at the time,
-that an undergraduate found with an ascetic manual or a book
+as if there were nothing odd about it at the [[Time|time]],
+that an undergraduate found with an [[ascetic]] manual or a book
 of monastic meditations was under a sort of cloud or taint,
 as having been caught with "a bad book" in his possession.
 He had been wallowing in the sensual pleasure of Nones or inflaming
 his lusts by contemplating an incorrect number of candles.
-It is perhaps no longer the custom to regard conversion
+It is perhaps no longer the custom to regard [[conversion]]
 as a form of dissipation; but it is still common to regard
-conversion as a form of revolt.  And as regards the established
+[[conversion]] as a form of revolt.  And as regards the established
 convention of much of the modern world, it is a revolt.
 The worthy merchant of the middle class, the worthy farmer
 of the Middle West, when he sends his son to college, does now
 feel a faint alarm lest the boy should fall among thieves,
-in the sense of Communists; but he has the same sort of fear
+in the sense of Communists; but he has the same sort of [[Fear|fear]]
 lest he should fall among Catholics.
 
-Now he has no fear lest he should fall among Calvinists.  He has
-no fear that his children will become seventeenth-century
+Now he has no [[Fear|fear]] lest he should fall among Calvinists.  He has
+no [[Fear|fear]] that his children will become seventeenth-century
 Supralapsarians, however much he may dislike that doctrine.
 He is not even particularly troubled by the possibility
 of their adopting the extreme solifidian conceptions once
@@ -84,7 +84,7 @@ common among some of the more extravagant Methodists.  He is
 not likely to await with terror the telegram that will inform
 him that his son has become a Fifth-Monarchy man, any more
 than that he has joined the Albigensians.  He does not exactly
-lie awake at night wondering whether Tom at Oxford has become
+lie awake at [[Night|night]] wondering whether Tom at [[Oxford]] has become
 a Lutheran any more than a Lollard.  All these religions he dimly
 recognises as dead religions; or at any rate as old religions.
 And he is only frightened of new religions.  He is only frightened
@@ -96,7 +96,7 @@ and novelty of Rome.
 Now this is rather odd; because Rome is not so very new.
 Among these annoying new religions, one is rather an old religion;
 but it is the only old religion that is so new.  When it was
-originally and really new, no doubt a Roman father often found
+originally and really new, no [[Doubt|doubt]] a Roman father often found
 himself in the same position as the Anglican or Puritan father.
 He too might find all his children going strange ways and deserting
 the household gods and the sacred temple of the Capitol.  He too might
@@ -108,7 +108,7 @@ who had learned vegetarianism from the Hindoos, and so on.
 Though the Roman father, unlike the Victorian father, might have
 the pleasure of exercising the patria potestas and cutting off the heads
 of all the heretics, he could not cut off the stream of all the heresies.
-Only by this time most of the streams have run rather dry.
+Only by this [[Time|time]] most of the streams have run rather dry.
 It is now seldom necessary for the anxious parent to warn his
 children against the undesirable society of the Bull of Mithras,
 or even to wean him from the exclusive contemplation of Orpheus;
@@ -124,7 +124,7 @@ is used to.  It is coming in as something fresh and disturbing,
 whether as it came to the Greeks who were always seeking
 some new thing, or as it came to the shepherds who first heard
 the cry upon the hills of the good news that our language calls
-the Gospel.  We can explain the fact of the Greeks in the time
+the Gospel.  We can explain the fact of the Greeks in the [[Time|time]]
 of St. Paul regarding it as a new thing, because it was a new thing.
 But who will explain why it is still as new to the last of the converts
 as it was to the first of the shepherds?  It is as if a man a hundred
@@ -136,7 +136,7 @@ That is what has to be explained and cannot be explained away;
 nothing can turn the legend into a myth.  We have seen with our own
 eyes and heard with our own ears this great modern quarrel between
 young Catholics and old Protestants; and it is the first step
-to recognise in any study of modern conversion.
+to recognise in any study of modern [[conversion]].
 
 I am not going to talk about numbers and statistics, though I
 may say something about them later.  The first fact to realise is
@@ -149,10 +149,10 @@ a Catholic monk, because he has a spontaneous and even impatient
 personal enthusiasm for the doctrine of Virginity as it appeared
 to St. Catherine or St. Clare.  But how many men become Baptist
 ministers because they have a personal horror of the idea
-of an innocent infant coming unconsciously to Christ?  How many
+of an [[Innocent|innocent]] infant coming unconsciously to [[Christ]]?  How many
 honest Presbyterian ministers in Scotland really want to go back
 to John Knox, as a Catholic mystic might want to go back to John
-of the Cross?  These men inherit positions which they feel they
+of the [[Cross]]?  These men inherit positions which they feel they
 can hold with reasonable consistency and general agreement;
 but they do inherit them.  For them religion is tradition.
 We Catholics naturally do not sneer at tradition; but we say
@@ -167,8 +167,8 @@ for being outside ours.  In other words, the old creed of their
 communion has ceased to function as a fresh and stimulating idea.
 It is at best a motto or a war cry and at the worst a catchword.
 But it is not meeting contemporary ideas like a contemporary idea.
-In their time and in their turn we believe that those
-other contemporary ideas will also prove their mortality
+In their [[Time|time]] and in their turn we believe that those
+other contemporary ideas will also prove their [[Mortality|mortality]]
 by having also become mottoes and catchwords and traditions.
 A century or two hence Spiritualism may be a tradition and Socialism
 may be a tradition and Christian Science may be a tradition.
@@ -176,8 +176,8 @@ But Catholicism will not be a tradition.  It will still be a nuisance
 and a new and dangerous thing.
 
 These are the general considerations which govern any personal
-study of conversion to the Catholic faith.  The Church has defended
-tradition in a time which stupidly denied and despised tradition.
+study of [[conversion]] to the Catholic [[Faith|faith]].  The Church has defended
+tradition in a [[Time|time]] which stupidly denied and despised tradition.
 But that is simply because the Church is always the only thing defending
 whatever is at the moment stupidly despised.  It is already beginning
 to appear as the only champion of reason in the twentieth century,
@@ -185,32 +185,32 @@ as it was the only champion of tradition in the nineteenth.
 We know that the higher mathematics is trying to deny that two
 and two make four and the higher mysticism to imagine something
 that is beyond good and evil.  Amid all these anti-rational
-philosophies, ours will remain the only rational philosophy.
+philosophies, ours will remain the only rational [[philosophy]].
 In the same spirit the Church did indeed point out the value
-of tradition to a time which treated it as quite valueless.
+of tradition to a [[Time|time]] which treated it as quite valueless.
 The nineteenth-century neglect of tradition and mania for mere documents
 were altogether nonsensical.  They amounted to saying that men
 always tell lies to children but men never make mistakes in books.
 But though our sympathies are traditional because they are human,
 it is not that part of the thing which stamps it as divine.
-The mark of the Faith is not tradition; it is conversion.
-It is the miracle by which men find truth in spite of tradition
+The mark of the [[Faith]] is not tradition; it is [[conversion]].
+It is the miracle by which men find [[Truth|truth]] in spite of tradition
 and often with the rending of all the roots of humanity.
 
-It is with the nature of this process that I propose to deal;
+It is with the [[Nature|nature]] of this process that I propose to deal;
 and it is difficult to deal with it without introducing something
 of a personal element.  My own is only a very trivial case but
 naturally it is the case I know best; and I shall be compelled
 in the pages that follow to take many illustrations from it.
-I have therefore thought it well to put first this general note
-on the nature of the movement in my time; to show that I am well
+I have therefore thought it [[Well|well]] to put first this general note
+on the [[Nature|nature]] of the movement in my [[Time|time]]; to show that I am [[Well|well]]
 aware that it is a very much larger and even a very much later
 movement than is implied in describing my own life or generation.
 I believe it will be more and more an issue for the rising
 generation and for the generation after that, as they discover
-the actual alternative in the awful actualities of our time.
-And Catholics when they stand up together and sing "Faith
+the actual alternative in the awful actualities of our [[Time|time]].
+And Catholics when they stand up together and sing "[[Faith]]
 of our Fathers" may realise almost with amusement that they
-might well be singing "Faith of our Children."  And in many cases
+might [[Well|well]] be singing "[[Faith]] of our Children."  And in many cases
 the return has been so recent as almost to deserve the description
 of a Children's Crusade.

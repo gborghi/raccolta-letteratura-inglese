@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 46 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 46 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 “Oh! where, where is my uncle?” cried Elizabeth, darting from her seat
 as she finished the letter, in eagerness to follow him, without losing a
-moment of the time so precious; but as she reached the door, it was
+moment of the [[Time|time]] so precious; but as she reached the door, it was
 opened by a servant, and Mr. Darcy appeared. Her pale face and
 impetuous manner made him start, and before he could recover himself
 enough to speak, she, in whose mind every idea was superseded by Lydia’s
@@ -27,13 +27,13 @@ I have not an instant to lose.”
 “Good God! what is the matter?” cried he, with more feeling than
 politeness; then recollecting himself, “I will not detain you a minute;
 but let me, or let the servant, go after Mr. and Mrs. Gardiner. You are
-not well enough; you cannot go yourself.”
+not [[Well|well]] enough; you cannot go yourself.”
 
 Elizabeth hesitated; but her knees trembled under her, and she felt how
 little would be gained by her attempting to pursue them. Calling back
 the servant, therefore, she commissioned him, though in so breathless an
 accent as made her almost unintelligible, to fetch his master and
-mistress home instantly.
+mistress [[Home|home]] instantly.
 
 On his quitting the room, she sat down, unable to support herself, and
 looking so miserably ill, that it was impossible for Darcy to leave her,
@@ -42,10 +42,10 @@ or to refrain from saying, in a tone of gentleness and commiseration,
 present relief? A glass of wine; shall I get you one? You are very ill.”
 
 “No, I thank you,” she replied, endeavouring to recover herself. “There
-is nothing the matter with me. I am quite well, I am only distressed by
+is nothing the matter with me. I am quite [[Well|well]], I am only distressed by
 some dreadful news which I have just received from Longbourn.”
 
-She burst into tears as she alluded to it, and for a few minutes could
+She burst into [[Tears|tears]] as she alluded to it, and for a few minutes could
 not speak another word. Darcy, in wretched suspense, could only say
 something indistinctly of his
 
@@ -54,12 +54,12 @@ something indistinctly of his
      “I have not an instant to lose”
 ]
 
-concern, and observe her in compassionate silence. At length she spoke
+concern, and observe her in compassionate [[Silence|silence]]. At length she spoke
 again. “I have just had a letter from Jane, with such dreadful news. It
 cannot be concealed from anyone. My youngest sister has left all her
 friends--has eloped; has thrown herself into the power of--of Mr.
 Wickham. They are gone off together from Brighton. _You_ know him too
-well to doubt the rest. She has no money, no connections, nothing that
+[[Well|well]] to [[Doubt|doubt]] the rest. She has no money, no connections, nothing that
 can tempt him to--she is lost for ever.”
 
 Darcy was fixed in astonishment.
@@ -73,17 +73,17 @@ all too late now.”
 “I am grieved, indeed,” cried Darcy: “grieved--shocked. But is it
 certain, absolutely certain?”
 
-“Oh, yes! They left Brighton together on Sunday night, and were traced
-almost to London, but not beyond: they are certainly not gone to
+“Oh, yes! They left Brighton together on [[Sunday]] [[Night|night]], and were traced
+almost to [[London]], but not beyond: they are certainly not gone to
 Scotland.”
 
 “And what has been done, what has been attempted, to recover her?”
 
-“My father has gone to London, and Jane has written to beg my uncle’s
-immediate assistance, and we shall be off, I hope, in half an hour. But
-nothing can be done; I know very well that nothing can be done. How is
+“My father has gone to [[London]], and Jane has written to beg my uncle’s
+immediate assistance, and we shall be off, I [[Hope|hope]], in half an hour. But
+nothing can be done; I know very [[Well|well]] that nothing can be done. How is
 such a man to be worked on? How are they even to be discovered? I have
-not the smallest hope. It is every way horrible!”
+not the smallest [[Hope|hope]]. It is every way horrible!”
 
 Darcy shook his head in silent acquiescence.
 
@@ -96,13 +96,13 @@ and down the room in earnest meditation; his brow contracted, his air
 gloomy. Elizabeth soon observed, and instantly understood it. Her power
 was sinking; everything _must_ sink under such a proof of family
 weakness, such an assurance of the deepest disgrace. She could neither
-wonder nor condemn; but the belief of his self-conquest brought nothing
+[[Wonder|wonder]] nor condemn; but the belief of his [[Self|self]]-conquest brought nothing
 consolatory to her bosom, afforded no palliation of her distress. It
 was, on the contrary, exactly calculated to make her understand her own
 wishes; and never had she so honestly felt that she could have loved
-him, as now, when all love must be vain.
+him, as now, when all [[Love|love]] must be vain.
 
-But self, though it would intrude, could not engross her. Lydia--the
+But [[Self|self]], though it would intrude, could not engross her. Lydia--the
 humiliation, the misery she was bringing on them all--soon swallowed up
 every private care; and covering her face with her handkerchief,
 Elizabeth was soon lost to everything else; and, after a pause of
@@ -115,16 +115,16 @@ to plead in excuse of my stay, but real, though unavailing concern.
 Would to Heaven that anything could be either said or done on my part,
 that might offer consolation to such distress! But I will not torment
 you with vain wishes, which may seem purposely to ask for your thanks.
-This unfortunate affair will, I fear, prevent my sister’s having the
+This unfortunate affair will, I [[Fear|fear]], prevent my sister’s having the
 pleasure of seeing you at Pemberley to-day.”
 
 “Oh, yes! Be so kind as to apologize for us to Miss Darcy. Say that
-urgent business calls us home immediately. Conceal the unhappy truth as
+urgent business calls us [[Home|home]] immediately. Conceal the unhappy [[Truth|truth]] as
 long as it is possible. I know it cannot be long.”
 
 He readily assured her of his secrecy, again expressed his sorrow for
 her distress, wished it a happier conclusion than there was at present
-reason to hope, and, leaving his compliments for her relations, with
+reason to [[Hope|hope]], and, leaving his compliments for her relations, with
 only one serious parting look, went away.
 
 As he quitted the room, Elizabeth felt how improbable it was that they

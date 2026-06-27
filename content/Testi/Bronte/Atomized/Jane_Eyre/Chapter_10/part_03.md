@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 10 (part 3)"
+title: "[[Jane Eyre]] — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“If J.E., who advertised in the _——shire Herald_ of last Thursday,
+“If J.E., who advertised in the _——shire Herald_ of last [[thursday|Thursday]],
 possesses the acquirements mentioned, and if she is in a position to
 give satisfactory references as to character and competency, a
 situation can be offered her where there is but one pupil, a little
@@ -26,18 +26,18 @@ particulars to the direction:—
 
 I examined the document long: the writing was old-fashioned and rather
 uncertain, like that of an elderly lady. This circumstance was
-satisfactory: a private fear had haunted me, that in thus acting for
+satisfactory: a private [[Fear|fear]] had haunted me, that in thus acting for
 myself, and by my own guidance, I ran the risk of getting into some
 scrape; and, above all things, I wished the result of my endeavours to
 be respectable, proper, _en règle_. I now felt that an elderly lady was
 no bad ingredient in the business I had on hand. Mrs. Fairfax! I saw
 her in a black gown and widow’s cap; frigid, perhaps, but not uncivil:
 a model of elderly English respectability. Thornfield! that, doubtless,
-was the name of her house: a neat orderly spot, I was sure; though I
+was the name of her [[house]]: a neat orderly spot, I was sure; though I
 failed in my efforts to conceive a correct plan of the premises.
 Millcote, ——shire; I brushed up my recollections of the map of England;
 yes, I saw it; both the shire and the town. ——shire was seventy miles
-nearer London than the remote county where I now resided: that was a
+nearer [[London]] than the remote county where I now resided: that was a
 recommendation to me. I longed to go where there was life and movement:
 Millcote was a large manufacturing town on the banks of the A——: a busy
 place enough, doubtless: so much the better; it would be a complete
@@ -49,9 +49,9 @@ Here the socket of the candle dropped, and the wick went out.
 
 Next day new steps were to be taken; my plans could no longer be
 confined to my own breast; I must impart them in order to achieve their
-success. Having sought and obtained an audience of the superintendent
+[[success]]. Having sought and obtained an audience of the superintendent
 during the noontide recreation, I told her I had a prospect of getting
-a new situation where the salary would be double what I now received
+a new situation where the salary would be [[Double|double]] what I now received
 (for at Lowood I only got £15 per annum); and requested she would break
 the matter for me to Mr. Brocklehurst, or some of the committee, and
 ascertain whether they would permit me to mention them as references.
@@ -63,14 +63,14 @@ might do as I pleased: she had long relinquished all interference in my
 affairs.” This note went the round of the committee, and at last, after
 what appeared to me most tedious delay, formal leave was given me to
 better my condition if I could; and an assurance added, that as I had
-always conducted myself well, both as teacher and pupil, at Lowood, a
+always conducted myself [[Well|well]], both as teacher and pupil, at Lowood, a
 testimonial of character and capacity, signed by the inspectors of that
 institution, should forthwith be furnished me.
 
 This testimonial I accordingly received in about a month, forwarded a
 copy of it to Mrs. Fairfax, and got that lady’s reply, stating that she
 was satisfied, and fixing that day fortnight as the period for my
-assuming the post of governess in her house.
+assuming the post of governess in her [[house]].
 
 I now busied myself in preparations: the fortnight passed rapidly. I
 had not a very large wardrobe, though it was adequate to my wants; and
@@ -85,30 +85,30 @@ sought in all my drawers to see that no article was left behind; and
 now having nothing more to do, I sat down and tried to rest. I could
 not; though I had been on foot all day, I could not now repose an
 instant; I was too much excited. A phase of my life was closing
-to-night, a new one opening to-morrow: impossible to slumber in the
+to-[[Night|night]], a new one opening to-morrow: impossible to slumber in the
 interval; I must watch feverishly while the change was being
 accomplished.
 
 “Miss,” said a servant who met me in the lobby, where I was wandering
 like a troubled spirit, “a person below wishes to see you.”
 
-“The carrier, no doubt,” I thought, and ran downstairs without inquiry.
+“The carrier, no [[Doubt|doubt]],” I thought, and ran downstairs without inquiry.
 I was passing the back-parlour or teachers’ sitting-room, the door of
 which was half open, to go to the kitchen, when some one ran out—
 
 “It’s her, I am sure!—I could have told her anywhere!” cried the
 individual who stopped my progress and took my hand.
 
-I looked: I saw a woman attired like a well-dressed servant, matronly,
+I looked: I saw a woman attired like a [[Well|well]]-dressed servant, matronly,
 yet still young; very good-looking, with black hair and eyes, and
 lively complexion.
 
-“Well, who is it?” she asked, in a voice and with a smile I half
+“[[Well]], who is it?” she asked, in a voice and with a smile I half
 recognised; “you’ve not quite forgotten me, I think, Miss Jane?”
 
 In another second I was embracing and kissing her rapturously: “Bessie!
 Bessie! Bessie!” that was all I said; whereat she half laughed, half
-cried, and we both went into the parlour. By the fire stood a little
+cried, and we both went into the parlour. By the [[Fire|fire]] stood a little
 fellow of three years old, in plaid frock and trousers.
 
 “That is my little boy,” said Bessie directly.
@@ -122,11 +122,11 @@ a little girl besides Bobby there, that I’ve christened Jane.”
 
 “I live at the lodge: the old porter has left.”
 
-“Well, and how do they all get on? Tell me everything about them,
+“[[Well]], and how do they all get on? Tell me everything about them,
 Bessie: but sit down first; and, Bobby, come and sit on my knee, will
 you?” but Bobby preferred sidling over to his mother.
 
 “You’re not grown so very tall, Miss Jane, nor so very stout,”
-continued Mrs. Leaven. “I dare say they’ve not kept you too well at
+continued Mrs. Leaven. “I dare say they’ve not kept you too [[Well|well]] at
 school: Miss Reed is the head and shoulders taller than you are; and
 Miss Georgiana would make two of you in breadth.”

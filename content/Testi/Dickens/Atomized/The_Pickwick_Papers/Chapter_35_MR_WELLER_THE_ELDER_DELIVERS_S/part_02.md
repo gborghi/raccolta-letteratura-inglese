@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -23,21 +23,21 @@ Market at a good round pace, very different from his recent lingering
 one. Looking round him, he there beheld a signboard on which the
 painter’s art had delineated something remotely resembling a cerulean
 elephant with an aquiline nose in lieu of trunk. Rightly conjecturing
-that this was the Blue Boar himself, he stepped into the house, and
+that this was the Blue Boar himself, he stepped into the [[house]], and
 inquired concerning his parent.
 
 ‘He won’t be here this three-quarters of an hour or more,’ said the
 young lady who superintended the domestic arrangements of the Blue Boar.
 
 ‘Wery good, my dear,’ replied Sam. ‘Let me have nine-penn’oth o’ brandy-
-and-water luke, and the inkstand, will you, miss?’
+and-[[Water|water]] luke, and the inkstand, will you, miss?’
 
-The brandy-and-water luke, and the inkstand, having been carried into
+The brandy-and-[[Water|water]] luke, and the inkstand, having been carried into
 the little parlour, and the young lady having carefully flattened down
 the coals to prevent their blazing, and carried away the poker to
-preclude the possibility of the fire being stirred, without the full
+preclude the possibility of the [[Fire|fire]] being stirred, without the full
 privity and concurrence of the Blue Boar being first had and obtained,
-Sam Weller sat himself down in a box near the stove, and pulled out the
+[[Sam Weller]] sat himself down in a box near the stove, and pulled out the
 sheet of gilt-edged letter-paper, and the hard-nibbed pen. Then looking
 carefully at the pen to see that there were no hairs in it, and dusting
 down the table, so that there might be no crumbs of bread under the
@@ -64,7 +64,7 @@ entrance of his parent.
 ‘Vell, my Prooshan Blue,’ responded the son, laying down his pen.
 ‘What’s the last bulletin about mother-in-law?’
 
-‘Mrs. Veller passed a very good night, but is uncommon perwerse, and
+‘Mrs. Veller passed a very good [[Night|night]], but is uncommon perwerse, and
 unpleasant this mornin’. Signed upon oath, Tony Veller, Esquire. That’s
 the last vun as was issued, Sammy,’ replied Mr. Weller, untying his
 shawl.
@@ -78,7 +78,7 @@ difficulties, Sammy?’
 ‘I’ve done now,’ said Sam, with slight embarrassment; ‘I’ve been a-
 writin’.’
 
-‘So I see,’ replied Mr. Weller. ‘Not to any young ‘ooman, I hope,
+‘So I see,’ replied Mr. Weller. ‘Not to any young ‘ooman, I [[Hope|hope]],
 Sammy?’
 
 ‘Why, it’s no use a-sayin’ it ain’t,’ replied Sam; ‘it’s a walentine.’
@@ -100,15 +100,15 @@ and drank off its contents.
 ‘Wot’s the matter now?’ said Sam.
 
 ‘Nev’r mind, Sammy,’ replied Mr. Weller, ‘it’ll be a wery agonisin’
-trial to me at my time of life, but I’m pretty tough, that’s vun
+trial to me at my [[Time|time]] of life, but I’m pretty tough, that’s vun
 consolation, as the wery old turkey remarked wen the farmer said he wos
-afeerd he should be obliged to kill him for the London market.’
+afeerd he should be obliged to kill him for the [[London]] market.’
 
 
 ‘Wot’ll be a trial?’ inquired Sam.
 
 ‘To see you married, Sammy--to see you a dilluded wictim, and thinkin’
-in your innocence that it’s all wery capital,’ replied Mr. Weller. ‘It’s
+in your [[innocence]] that it’s all wery capital,’ replied Mr. Weller. ‘It’s
 a dreadful trial to a father’s feelin’s, that ‘ere, Sammy--’
 
 ‘Nonsense,’ said Sam. ‘I ain’t a-goin’ to get married, don’t you fret
@@ -123,20 +123,20 @@ that the result was attained by combining the two sources of
 consolation, for he repeated the second in a low tone, very frequently;
 ringing the bell meanwhile, to order in the first. He then divested
 himself of his upper coat; and lighting the pipe and placing himself in
-front of the fire with his back towards it, so that he could feel its
-full heat, and recline against the mantel-piece at the same time, turned
+front of the [[Fire|fire]] with his back towards it, so that he could feel its
+full heat, and recline against the mantel-piece at the same [[Time|time]], turned
 towards Sam, and, with a countenance greatly mollified by the softening
-influence of tobacco, requested him to ‘fire away.’
+influence of tobacco, requested him to ‘[[Fire|fire]] away.’
 
 Sam dipped his pen into the ink to be ready for any corrections, and
 began with a very theatrical air--
 
 ‘“Lovely--“’
 
-‘Stop,’ said Mr. Weller, ringing the bell. ‘A double glass o’ the
+‘Stop,’ said Mr. Weller, ringing the bell. ‘A [[Double|double]] glass o’ the
 inwariable, my dear.’
 
-‘Very well, Sir,’ replied the girl; who with great quickness appeared,
+‘Very [[Well|well]], Sir,’ replied the girl; who with great quickness appeared,
 vanished, returned, and disappeared.
 
 ‘They seem to know your ways here,’ observed Sam.

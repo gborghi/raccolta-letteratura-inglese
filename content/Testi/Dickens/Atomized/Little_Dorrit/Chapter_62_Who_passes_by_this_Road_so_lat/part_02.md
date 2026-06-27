@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 22: Who passes by this Road so late? (part 2)"
+title: "Little Dorrit — Chapter 22: Who passes by this [[Road]] so late? (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -20,10 +20,10 @@ tags:
 be so soon driven out of the field, where a much older and a much more
 sensitively interested man contended with fortitude so long.’
 
-As there was no moving him, Daniel Doyce returned the grasp of his hand,
-and, casting a farewell look round the counting-house, went down-stairs
+As there was no moving him, [[Daniel Doyce]] returned the grasp of his hand,
+and, casting a farewell look round the counting-[[house]], went down-stairs
 with him. Doyce was to go to Southampton to join the small staff of
-his fellow-travellers; and a coach was at the gate, well furnished and
+his fellow-travellers; and a coach was at the gate, [[Well|well]] furnished and
 packed, and ready to take him there. The workmen were at the gate to see
 him off, and were mightily proud of him. ‘Good luck to you, Mr Doyce!’
 said one of the number. ‘Wherever you go, they’ll find as they’ve got a
@@ -38,9 +38,9 @@ the concussion of the air had blown it out of Bleeding Heart Yard.
 
 Mr Baptist, as a grateful little fellow in a position of trust, was
 among the workmen, and had done as much towards the cheering as a mere
-foreigner could. In truth, no men on earth can cheer like Englishmen,
-who do so rally one another’s blood and spirit when they cheer in
-earnest, that the stir is like the rush of their whole history, with all
+foreigner could. In [[Truth|truth]], no men on earth can cheer like Englishmen,
+who do so rally one another’s [[Blood|blood]] and spirit when they cheer in
+earnest, that the stir is like the rush of their whole [[history]], with all
 its standards waving at once, from Saxon Alfred’s downwards. Mr Baptist
 had been in a manner whirled away before the onset, and was taking his
 breath in quite a scared condition when Clennam beckoned him to follow
@@ -48,51 +48,51 @@ up-stairs, and return the books and papers to their places.
 
 In the lull consequent on the departure--in that first vacuity which
 ensues on every separation, foreshadowing the great separation that
-is always overhanging all mankind--Arthur stood at his desk, looking
+is always overhanging all mankind--[[arthur|Arthur]] stood at his desk, looking
 dreamily out at a gleam of sun. But his liberated attention soon
 reverted to the theme that was foremost in his thoughts, and began, for
-the hundredth time, to dwell upon every circumstance that had impressed
-itself upon his mind on the mysterious night when he had seen the man at
+the hundredth [[Time|time]], to dwell upon every circumstance that had impressed
+itself upon his mind on the mysterious [[Night|night]] when he had seen the man at
 his mother’s. Again the man jostled him in the crooked street, again
 he followed the man and lost him, again he came upon the man in the
-court-yard looking at the house, again he followed the man and stood
+[[Court|court]]-yard looking at the [[house]], again he followed the man and stood
 beside him on the door-steps.
 
 
-     ‘Who passes by this road so late?
+     ‘Who passes by this [[Road|road]] so late?
           Compagnon de la Majolaine;
-     Who passes by this road so late?
+     Who passes by this [[Road|road]] so late?
           Always gay!’
 
 
-It was not the first time, by many, that he had recalled the song of the
-child’s game, of which the fellow had hummed this verse while they stood
+It was not the first [[Time|time]], by many, that he had recalled the [[Song|song]] of the
+[[Child|child]]’s game, of which the fellow had hummed this verse while they stood
 side by side; but he was so unconscious of having repeated it audibly,
 that he started to hear the next verse.
 
 
-     ‘Of all the king’s knights ‘tis the flower,
+     ‘Of all the [[King|king]]’s knights ‘tis the flower,
          Compagnon de la Majolaine;
-     Of all the king’s knights ‘tis the flower,
+     Of all the [[King|king]]’s knights ‘tis the flower,
           Always gay!’
 
 
 Cavalletto had deferentially suggested the words and tune, supposing him
 to have stopped short for want of more.
 
-‘Ah! You know the song, Cavalletto?’
+‘Ah! You know the [[Song|song]], Cavalletto?’
 
 ‘By Bacchus, yes, sir! They all know it in France. I have heard it many
-times, sung by the little children. The last time when it I have heard,’
+times, sung by the little children. The last [[Time|time]] when it I have heard,’
 said Mr Baptist, formerly Cavalletto, who usually went back to his
-native construction of sentences when his memory went near home, ‘is
-from a sweet little voice. A little voice, very pretty, very innocent.
+native construction of sentences when his [[Memory|memory]] went near [[Home|home]], ‘is
+from a sweet little voice. A little voice, very pretty, very [[Innocent|innocent]].
 Altro!’
 
-‘The last time I heard it,’ returned Arthur, ‘was in a voice quite the
-reverse of pretty, and quite the reverse of innocent.’ He said it more
+‘The last [[Time|time]] I heard it,’ returned [[arthur|Arthur]], ‘was in a voice quite the
+reverse of pretty, and quite the reverse of [[Innocent|innocent]].’ He said it more
 to himself than to his companion, and added to himself, repeating
-the man’s next words. ‘Death of my life, sir, it’s my character to be
+the man’s next words. ‘[[Death]] of my life, sir, it’s my character to be
 impatient!’
 
 ‘EH!’ cried Cavalletto, astounded, and with all his colour gone in a
@@ -100,7 +100,7 @@ moment.
 
 ‘What is the matter?’
 
-‘Sir! You know where I have heard that song the last time?’
+‘Sir! You know where I have heard that [[Song|song]] the last [[Time|time]]?’
 
 With his rapid native action, his hands made the outline of a high hook
 nose, pushed his eyes near together, dishevelled his hair, puffed out
@@ -111,12 +111,12 @@ very remarkable and sinister smile. The whole change passed over him
 like a flash of light, and he stood in the same instant, pale and
 astonished, before his patron.
 
-‘In the name of Fate and wonder,’ said Clennam, ‘what do you mean? Do
+‘In the name of Fate and [[Wonder|wonder]],’ said Clennam, ‘what do you mean? Do
 you know a man of the name of Blandois?’
 
 ‘No!’ said Mr Baptist, shaking his head.
 
-‘You have just now described a man who was by when you heard that song;
+‘You have just now described a man who was by when you heard that [[Song|song]];
 have you not?’
 
 ‘Yes!’ said Mr Baptist, nodding fifty times.

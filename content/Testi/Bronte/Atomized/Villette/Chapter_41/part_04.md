@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 39 (part 4)"
+title: "[[Villette]] — Chapter 39 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -17,28 +17,28 @@ tags:
 These oil-twinkling streets are very still: I like them for their
 lowliness and peace. Homeward-bound burghers pass me now and then, but
 these companies are pedestrians, make little noise, and are soon gone.
-So well do I love Villette under her present aspect, not willingly
+So [[Well|well]] do I [[Love|love]] [[Villette]] under her present aspect, not willingly
 would I re-enter under a roof, but that I am bent on pursuing my
 strange adventure to a successful close, and quietly regaining my bed
-in the great dormitory, before Madame Beck comes home.
+in the great dormitory, before [[Madame Beck]] comes [[Home|home]].
 
 Only one street lies between me and the Rue Fossette; as I enter it,
-for the first time, the sound of a carriage tears up the deep peace of
+for the first [[Time|time]], the sound of a carriage [[Tears|tears]] up the deep peace of
 this quarter. It comes this way—comes very fast. How loud sounds its
 rattle on the paved path! The street is narrow, and I keep carefully to
 the causeway. The carriage thunders past, but what do I see, or fancy I
 see, as it rushes by? Surely something white fluttered from that
-window—surely a hand waved a handkerchief. Was that signal meant for
+[[Window|window]]—surely a hand waved a handkerchief. Was that signal meant for
 me? Am I known? Who could recognise me? That is not M. de
 Bassompierre’s carriage, nor Mrs. Bretton’s; and besides, neither the
 Hôtel Crécy nor the château of La Terrasse lies in that direction.
-Well, I have no time for conjecture; I must hurry home.
+[[Well]], I have no [[Time|time]] for conjecture; I must hurry [[Home|home]].
 
 Gaining the Rue Fossette, reaching the pensionnat, all there was still;
 no fiacre had yet arrived with Madame and Désirée. I had left the great
-door ajar; should I find it thus? Perhaps the wind or some other
+door ajar; should I find it thus? Perhaps the [[Wind|wind]] or some other
 accident may have thrown it to with sufficient force to start the
-spring-bolt? In that case, hopeless became admission; my adventure must
+[[spring]]-bolt? In that case, hopeless became admission; my adventure must
 issue in catastrophe. I lightly pushed the heavy leaf; would it yield?
 
 Yes. As soundless, as unresisting, as if some propitious genius had
@@ -49,8 +49,8 @@ sought the dormitory, and reached my couch.
 Ay! I reached it, and once more drew a free inspiration. The next
 moment, I almost shrieked—almost, but not quite, thank Heaven!
 
-Throughout the dormitory, throughout the house, there reigned at this
-hour the stillness of death. All slept, and in such hush, it seemed
+Throughout the dormitory, throughout the [[house]], there reigned at this
+hour the stillness of [[Death|death]]. All slept, and in such hush, it seemed
 that none dreamed. Stretched on the nineteen beds lay nineteen forms,
 at full-length and motionless. On mine—the twentieth couch—nothing
 _ought_ to have lain: I had left it void, and void should have found
@@ -59,11 +59,11 @@ usurping shape, supine, long, and strange? Is it a robber who has made
 his way through the open street-door, and lies there in wait? It looks
 very black, I think it looks—not human. Can it be a wandering dog that
 has come in from the street and crept and nestled hither? Will it
-spring, will it leap out if I approach? Approach I must. Courage! One
+[[spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
 step!—
 
-My head reeled, for by the faint night-lamp, I saw stretched on my bed
-the old phantom—the NUN.
+My head reeled, for by the faint [[Night|night]]-lamp, I saw stretched on my bed
+the old [[Phantom|phantom]]—the NUN.
 
 A cry at this moment might have ruined me. Be the spectacle what it
 might, I could afford neither consternation, scream, nor swoon.
@@ -80,25 +80,25 @@ around me—down in shreds and fragments—and I trode upon her.
 Here again—behold the branchless tree, the unstabled Rosinante; the
 film of cloud, the flicker of moonshine. The long nun proved a long
 bolster dressed in a long black stole, and artfully invested with a
-white veil. The garments in very truth, strange as it may seem, were
+white veil. The garments in very [[Truth|truth]], strange as it may seem, were
 genuine nun’s garments, and by some hand they had been disposed with a
 view to illusion. Whence came these vestments? Who contrived this
 artifice? These questions still remained. To the head-bandage was
 pinned a slip of paper: it bore in pencil these mocking words—
 
-“The nun of the attic bequeaths to Lucy Snowe her wardrobe. She will be
+“The nun of the attic bequeaths to [[Lucy Snowe]] her wardrobe. She will be
 seen in the Rue Fossette no more.”
 
 And what and who was she that had haunted me? She, I had actually seen
 three times. Not a woman of my acquaintance had the stature of that
-ghost. She was not of a female height. Not to any man I knew could the
+[[Ghost|ghost]]. She was not of a female height. Not to any man I knew could the
 machination, for a moment, be attributed.
 
 Still mystified beyond expression, but as thoroughly, as suddenly,
 relieved from all sense of the spectral and unearthly; scorning also to
-wear out my brain with the fret of a trivial though insoluble riddle, I
+wear out my brain with the fret of a trivial though insoluble [[Riddle|riddle]], I
 just bundled together stole, veil, and bandages, thrust them beneath my
 pillow, lay down, listened till I heard the wheels of Madame’s
-home-returning fiacre, then turned, and worn out by many nights’
+[[Home|home]]-returning fiacre, then turned, and worn out by many nights’
 vigils, conquered, too, perhaps, by the now reacting narcotic, I deeply
 slept.

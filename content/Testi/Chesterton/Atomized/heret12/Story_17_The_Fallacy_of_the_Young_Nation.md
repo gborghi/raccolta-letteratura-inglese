@@ -1,5 +1,5 @@
 ---
-title: "heret12 — The Fallacy of the Young Nation"
+title: "[[heret12]] — The Fallacy of the Young Nation"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/heret12-(Chesterton)"
@@ -29,15 +29,15 @@ is the conscious ritualism which is comparatively simple,
 the unconscious ritual which is really heavy and complicated.
 The ritual which is comparatively rude and straightforward
 is the ritual which people call "ritualistic."  It consists
-of plain things like bread and wine and fire, and men falling
+of plain things like bread and wine and [[Fire|fire]], and men falling
 on their faces.  But the ritual which is really complex,
 and many coloured, and elaborate, and needlessly formal,
 is the ritual which people enact without knowing it.
-It consists not of plain things like wine and fire, but of
+It consists not of plain things like wine and [[Fire|fire]], but of
 really peculiar, and local, and exceptional, and ingenious things--
-things like door-mats, and door-knockers, and electric bells,
+things like door-mats, and door-knockers, and electric [[Bells|bells]],
 and silk hats, and white ties, and shiny cards, and confetti.
-The truth is that the modern man scarcely ever gets back
+The [[Truth|truth]] is that the modern man scarcely ever gets back
 to very old and simple things except when he is performing
 some religious mummery.  The modern man can hardly get
 away from ritual except by entering a ritualistic church.
@@ -69,8 +69,8 @@ I imagine that Mr. Kensit takes off his hat to a lady; and what can
 be more solemn and absurd, considered in the abstract, than,
 symbolizing the existence of the other sex by taking off a portion
 of your clothing and waving it in the air?  This, I repeat,
-is not a natural and primitive symbol, like fire or food.
-A man might just as well have to take off his waistcoat to a lady;
+is not a natural and primitive symbol, like [[Fire|fire]] or food.
+A man might just as [[Well|well]] have to take off his waistcoat to a lady;
 and if a man, by the social ritual of his civilization,
 had to take off his waistcoat to a lady, every chivalrous
 and sensible man would take off his waistcoat to a lady.
@@ -98,11 +98,11 @@ so often a false sentiment.  When we talk, for instance,
 of some unscrupulous commercial figure, and say that he would
 do anything for money, we use quite an inaccurate expression,
 and we slander him very much.  He would not do anything for money.
-He would do some things for money; he would sell his soul
+He would do some things for money; he would sell his [[Soul|soul]]
 for money, for instance; and, as Mirabeau humorously said,
 he would be quite wise "to take money for muck."
 He would oppress humanity for money; but then it happens
-that humanity and the soul are not things that he believes in;
+that humanity and the [[Soul|soul]] are not things that he believes in;
 they are not his ideals.  But he has his own dim and
 delicate ideals; and he would not violate these for money.
 He would not drink out of the soup-tureen, for money.
@@ -110,9 +110,9 @@ He would not wear his coat-tails in front, for money.  He would
 not spread a report that he had softening of the brain, for money.
 In the actual practice of life we find, in the matter of ideals,
 exactly what we have already found in the matter of ritual.
-We find that while there is a perfectly genuine danger of fanaticism
+We find that while there is a perfectly genuine danger of [[Fanaticism|fanaticism]]
 from the men who have unworldly ideals, the permanent and urgent
-danger of fanaticism is from the men who have worldly ideals.
+danger of [[Fanaticism|fanaticism]] is from the men who have worldly ideals.
 
 People who say that an ideal is a dangerous thing, that it
 deludes and intoxicates, are perfectly right.  But the ideal
@@ -130,7 +130,7 @@ impossible to persuade ourselves that we have attained it.
 But it is easy to attain a low ideal; consequently, it is easier
 still to persuade ourselves that we have attained it when we
 have done nothing of the kind.  To take a random example.
-It might be called a high ambition to wish to be an archangel;
+It might be called a high [[Ambition|ambition]] to wish to be an archangel;
 the man who entertained such an ideal would very possibly
 exhibit asceticism, or even frenzy, but not, I think, delusion.
 He would not think he was an archangel, and go about flapping
@@ -160,10 +160,10 @@ But the modern politician does not say, "It would be a good thing
 if there were a British Imperialism dominating the world."
 He says, "It is a good thing that there is a British Imperialism
 dominating the world;" whereas clearly there is nothing of the kind.
-The old Liberal would say "There ought to be a good Irish government
+The old Liberal would say "There ought to be a good Irish [[government]]
 in Ireland."  But the ordinary modern Unionist does not say,
-"There ought to be a good English government in Ireland."  He says,
-"There is a good English government in Ireland;" which is absurd.
+"There ought to be a good English [[government]] in Ireland."  He says,
+"There is a good English [[government]] in Ireland;" which is absurd.
 In short, the modern politicians seem to think that a man becomes
 practical merely by making assertions entirely about practical things.
 Apparently, a delusion does not matter as long as it is a
@@ -184,23 +184,23 @@ And when we come actually to examine the main stock notions of our
 modern practical politicians, we find that those main stock notions are
 mainly delusions.  A great many instances might be given of the fact.
 We might take, for example, the case of that strange class of notions
-which underlie the word "union," and all the eulogies heaped upon it.
-Of course, union is no more a good thing in itself than separation
-is a good thing in itself.  To have a party in favour of union
+which underlie the word "[[Union|union]]," and all the eulogies heaped upon it.
+Of course, [[Union|union]] is no more a good thing in itself than separation
+is a good thing in itself.  To have a party in favour of [[Union|union]]
 and a party in favour of separation is as absurd as to have a party
 in favour of going upstairs and a party in favour of going downstairs.
 The question is not whether we go up or down stairs, but where we
-are going to, and what we are going for?  Union is strength; union is
+are going to, and what we are going for?  [[Union]] is strength; [[Union|union]] is
 also weakness.  It is a good thing to harness two horses to a cart;
 but it is not a good thing to try and turn two hansom cabs into
 one four-wheeler. Turning ten nations into one empire may happen
 to be as feasible as turning ten shillings into one half-sovereign.
 Also it may happen to be as preposterous as turning ten terriers
 into one mastiff.  The question in all cases is not a question of
-union or absence of union, but of identity or absence of identity.
+[[Union|union]] or absence of [[Union|union]], but of [[Identity|identity]] or absence of [[Identity|identity]].
 Owing to certain historical and moral causes, two nations may be
 so united as upon the whole to help each other.  Thus England
-and Scotland pass their time in paying each other compliments;
+and Scotland pass their [[Time|time]] in paying each other compliments;
 but their energies and atmospheres run distinct and parallel,
 and consequently do not clash.  Scotland continues to be educated
 and Calvinistic; England continues to be uneducated and happy.
@@ -209,39 +209,39 @@ two nations may be so united as only to hamper each other;
 their lines do clash and do not run parallel.  Thus, for instance,
 England and Ireland are so united that the Irish can sometimes
 rule England, but can never rule Ireland.  The educational systems,
-including the last Education Act, are here, as in the case of Scotland,
+including the last [[Education]] Act, are here, as in the case of Scotland,
 a very good test of the matter.  The overwhelming majority of Irishmen
 believe in a strict Catholicism; the overwhelming majority of Englishmen
 believe in a vague Protestantism.  The Irish party in the Parliament
-of Union is just large enough to prevent the English education
+of [[Union]] is just large enough to prevent the English [[Education|education]]
 being indefinitely Protestant, and just small enough to prevent
-the Irish education being definitely Catholic.  Here we have a state
+the Irish [[Education|education]] being definitely Catholic.  Here we have a state
 of things which no man in his senses would ever dream of wishing
 to continue if he had not been bewitched by the sentimentalism
-of the mere word "union."
+of the mere word "[[Union|union]]."
 
-This example of union, however, is not the example which I propose
-to take of the ingrained futility and deception underlying
+This example of [[Union|union]], however, is not the example which I propose
+to take of the ingrained futility and [[Deception|deception]] underlying
 all the assumptions of the modern practical politician.
 I wish to speak especially of another and much more general delusion.
 It pervades the minds and speeches of all the practical men of all parties;
 and it is a childish blunder built upon a single false metaphor.
 I refer to the universal modern talk about young nations and new nations;
-about America being young, about New Zealand being new.  The whole thing
-is a trick of words.  America is not young, New Zealand is not new.
+about [[America]] being young, about New Zealand being new.  The whole thing
+is a trick of words.  [[America]] is not young, New Zealand is not new.
 It is a very discussable question whether they are not both much
 older than England or Ireland.
 
-Of course we may use the metaphor of youth about America or
+Of course we may use the metaphor of youth about [[America]] or
 the colonies, if we use it strictly as implying only a recent origin.
 But if we use it (as we do use it) as implying vigour, or vivacity,
-or crudity, or inexperience, or hope, or a long life before them
+or crudity, or inexperience, or [[Hope|hope]], or a long life before them
 or any of the romantic attributes of youth, then it is surely
 as clear as daylight that we are duped by a stale figure of speech.
 We can easily see the matter clearly by applying it to any other
 institution parallel to the institution of an independent nationality.
 If a club called "The Milk and Soda League" (let us say)
-was set up yesterday, as I have no doubt it was, then, of course,
+was set up yesterday, as I have no [[Doubt|doubt]] it was, then, of course,
 "The Milk and Soda League" is a young club in the sense that it
 was set up yesterday, but in no other sense.  It may consist
 entirely of moribund old gentlemen.  It may be moribund itself.
@@ -251,26 +251,26 @@ of the fact that it will most probably go bankrupt to-morrow.
 All this appears very obvious when we put it in this form.
 Any one who adopted the young-community delusion with regard
 to a bank or a butcher's shop would be sent to an asylum.
-But the whole modern political notion that America and the colonies
+But the whole modern political notion that [[America]] and the colonies
 must be very vigorous because they are very new, rests upon no
-better foundation.  That America was founded long after England does
-not make it even in the faintest degree more probable that America
-will not perish a long time before England.  That England existed
+better foundation.  That [[America]] was founded long after England does
+not make it even in the faintest degree more probable that [[America]]
+will not perish a long [[Time|time]] before England.  That England existed
 before her colonies does not make it any the less likely that she
 will exist after her colonies.  And when we look at the actual
-history of the world, we find that great European nations almost
+[[history]] of the world, we find that great European nations almost
 invariably have survived the vitality of their colonies.
-When we look at the actual history of the world, we find, that if
+When we look at the actual [[history]] of the world, we find, that if
 there is a thing that is born old and dies young, it is a colony.
 The Greek colonies went to pieces long before the Greek civilization.
 The Spanish colonies have gone to pieces long before the nation of Spain--
-nor does there seem to be any reason to doubt the possibility or even
+nor does there seem to be any reason to [[Doubt|doubt]] the possibility or even
 the probability of the conclusion that the colonial civilization,
 which owes its origin to England, will be much briefer and much less
 vigorous than the civilization of England itself.  The English nation
 will still be going the way of all European nations when the Anglo-Saxon
 race has gone the way of all fads.  Now, of course, the interesting
-question is, have we, in the case of America and the colonies,
+question is, have we, in the case of [[America]] and the colonies,
 any real evidence of a moral and intellectual youth as opposed
 to the indisputable triviality of a merely chronological youth?
 Consciously or unconsciously, we know that we have no such evidence,
@@ -298,7 +298,7 @@ forces were more useful or more heroic than the gunners at Colenso
 or the Fighting Fifth.  And of this contention there is not,
 and never has been, one stick or straw of evidence.
 
-A similar attempt is made, and with even less success, to represent
+A similar attempt is made, and with even less [[success]], to represent
 the literature of the colonies as something fresh and vigorous
 and important.  The imperialist magazines are constantly springing
 upon us some genius from Queensland or Canada, through whom we
@@ -308,13 +308,13 @@ in literature as such (and I, for one, confess that I am
 only slightly interested in literature as such), will freely
 admit that the stories of these geniuses smell of nothing
 but printer's ink, and that not of first-rate quality.
-By a great effort of Imperial imagination the generous
+By a great effort of Imperial [[Imagination|imagination]] the generous
 English people reads into these works a force and a novelty.
 But the force and the novelty are not in the new writers;
 the force and the novelty are in the ancient heart of
 the English.  Anybody who studies them impartially will know
 that the first-rate writers of the colonies are not even
-particularly novel in their note and atmosphere, are not only
+particularly [[Novel|novel]] in their note and atmosphere, are not only
 not producing a new kind of good literature, but are not even
 in any particular sense producing a new kind of bad literature.
 The first-rate writers of the new countries are really almost
@@ -344,9 +344,9 @@ And, of course, there are individual exceptions in a minor way.
 I remember in particular some Australian tales by Mr. McIlwain
 which were really able and effective, and which, for that reason,
 I suppose, are not presented to the public with blasts of a trumpet.
-But my general contention if put before any one with a love
+But my general contention if put before any one with a [[Love|love]]
 of letters, will not be disputed if it is understood.
-It is not the truth that the colonial civilization
+It is not the [[Truth|truth]] that the colonial civilization
 as a whole is giving us, or shows any signs of giving us,
 a literature which will startle and renovate our own.
 It may be a very good thing for us to have an affectionate
@@ -355,7 +355,7 @@ The colonies may have given England a new emotion; I only say
 that they have not given the world a new book.
 
 Touching these English colonies, I do not wish to be misunderstood.
-I do not say of them or of America that they have not a future,
+I do not say of them or of [[America]] that they have not a future,
 or that they will not be great nations.  I merely deny the whole
 established modern expression about them.  I deny that they are "destined"
 to a future.  I deny that they are "destined" to be great nations.
@@ -364,65 +364,65 @@ All the absurd physical metaphors, such as youth and age,
 living and dying, are, when applied to nations, but pseudo-scientific
 attempts to conceal from men the awful liberty of their lonely souls.
 
-In the case of America, indeed, a warning to this effect is instant
-and essential.  America, of course, like every other human thing,
+In the case of [[America]], indeed, a warning to this effect is instant
+and essential.  [[America]], of course, like every other human thing,
 can in spiritual sense live or die as much as it chooses.  But at the present
-moment the matter which America has very seriously to consider is not how
+moment the matter which [[America]] has very seriously to consider is not how
 near it is to its birth and beginning, but how near it may be to its end.
 It is only a verbal question whether the American civilization is young;
 it may become a very practical and urgent question whether it is dying.
 When once we have cast aside, as we inevitably have after a moment's thought,
 the fanciful physical metaphor involved in the word "youth," what serious
-evidence have we that America is a fresh force and not a stale one?
+evidence have we that [[America]] is a fresh force and not a stale one?
 It has a great many people, like China; it has a great deal of money, like
-defeated Carthage or dying Venice.  It is full of bustle and excitability,
+defeated Carthage or dying [[Venice]].  It is full of bustle and excitability,
 like Athens after its ruin, and all the Greek cities in their decline.
 It is fond of new things; but the old are always fond of new things.
 Young men read chronicles, but old men read newspapers.  It admires
-strength and good looks; it admires a big and barbaric beauty in its women,
+strength and good looks; it admires a big and barbaric [[Beauty|beauty]] in its women,
 for instance; but so did Rome when the Goth was at the gates.
-All these are things quite compatible with fundamental tedium and decay.
+All these are things quite compatible with fundamental tedium and [[Decay|decay]].
 There are three main shapes or symbols in which a nation can show itself
-essentially glad and great--by the heroic in government, by the heroic
-in arms, and by the heroic in art.  Beyond government, which is, as it were,
-the very shape and body of a nation, the most significant thing about
+essentially glad and great--by the heroic in [[government]], by the heroic
+in arms, and by the heroic in art.  Beyond [[government]], which is, as it were,
+the very shape and [[Body|body]] of a nation, the most significant thing about
 any citizen is his artistic attitude towards a holiday and his moral
 attitude towards a fight--that is, his way of accepting life and his way
-of accepting death.
+of accepting [[Death|death]].
 
-Subjected to these eternal tests, America does not appear by any means
+Subjected to these eternal tests, [[America]] does not appear by any means
 as particularly fresh or untouched.  She appears with all the weakness
 and weariness of modern England or of any other Western power.
 In her politics she has broken up exactly as England has
 broken up, into a bewildering opportunism and insincerity.
 In the matter of war and the national attitude towards war,
-her resemblance to England is even more manifest and melancholy.
+her resemblance to England is even more manifest and [[Melancholy|melancholy]].
 It may be said with rough accuracy that there are three stages
 in the life of a strong people.  First, it is a small power,
 and fights small powers.  Then it is a great power,
 and fights great powers.  Then it is a great power, and fights
 small powers, but pretends that they are great powers, in order
-to rekindle the ashes of its ancient emotion and vanity.
+to rekindle the ashes of its ancient emotion and [[Vanity|vanity]].
 After that, the next step is to become a small power itself.
 England exhibited this symptom of decadence very badly in the war
-with the Transvaal; but America exhibited it worse in the war
+with the Transvaal; but [[America]] exhibited it worse in the war
 with Spain.  There was exhibited more sharply and absurdly than
 anywhere else the ironic contrast between the very careless choice
 of a strong line and the very careful choice of a weak enemy.
-America added to all her other late Roman or Byzantine elements
+[[America]] added to all her other late Roman or Byzantine elements
 the element of the Caracallan triumph, the triumph over nobody.
 
 But when we come to the last test of nationality,
 the test of art and letters, the case is almost terrible.
 The English colonies have produced no great artists; and that fact
 may prove that they are still full of silent possibilities
-and reserve force.  But America has produced great artists.
+and reserve force.  But [[America]] has produced great artists.
 And that fact most certainly proves that she is full of a fine
 futility and the end of all things.  Whatever the American men
 of genius are, they are not young gods making a young world.
 Is the art of Whistler a brave, barbaric art, happy and headlong?
 Does Mr. Henry James infect us with the spirit of a schoolboy?
 No; the colonies have not spoken, and they are safe.
-Their silence may be the silence of the unborn.
-But out of America has come a sweet and startling cry,
+Their [[Silence|silence]] may be the [[Silence|silence]] of the [[unborn]].
+But out of [[America]] has come a sweet and startling cry,
 as unmistakable as the cry of a dying man.

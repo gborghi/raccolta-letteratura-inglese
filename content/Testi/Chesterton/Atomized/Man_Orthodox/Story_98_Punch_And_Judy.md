@@ -27,14 +27,14 @@ I have heard the oddest things said about Punch by literary men.
 I have heard him called Pagan.  I have heard him degraded
 to the level of the Superman.  Surely, however, it is obvious
 that Punch is the most Christian of all possible figures.
-Punch is Christian because Punch is grotesque.
+Punch is Christian because Punch is [[Grotesque|grotesque]].
 
 The one thing that we have all forgotten about Mr Punch is
 the one thing that our fathers made most prominent--his hump.
 The victories of Punch are, indeed, the victories of a
 violent person, but they are the victories of a hunchback.
-That is, they are the victories of a grotesque cripple.
-No human being of any imagination ever took the smallest interest
+That is, they are the victories of a [[Grotesque|grotesque]] cripple.
+No human being of any [[Imagination|imagination]] ever took the smallest interest
 in the victories of the strong.  It is only the victories
 of the weak that can be interesting.  And all the victories,
 almost literally without exception, which humanity has
@@ -54,7 +54,7 @@ with a hump is a match for all the organized forces of society,
 including the Beadle and the Hangman.  The emphasis is not on
 the fact that he claims victory or has a right to expect it;
 the point is that he does not expect the victory, but does get it.
-The whole point of the story is that of a forlorn hope.
+The whole point of the story is that of a forlorn [[Hope|hope]].
 The whole point is not that Punch puts his foot down, but that
 he has his back to the wall ...
 
@@ -81,8 +81,8 @@ he is lifting the same three fingers that all High Pontiffs
 have lifted in benediction.
 
 If Punch and Judy is permitted to die, there will die with it
-three things.  First, a genuine historic survival of the old
-Christian farce, in which the clown or fool always had
+three things.  First, a genuine historic [[Survival|survival]] of the old
+Christian farce, in which the clown or [[Fool|fool]] always had
 the best of everybody.  Secondly, there will die a definite
 mode of dexterity; one which could be applied to a hundred
 other hearty pantomimes besides this of Punch and Judy.

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44 (part 4)"
+title: "[[Sense and Sensibility]] — Chapter 44 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -18,17 +18,17 @@ was impossible. All that I had to do, was to avoid you both. I sent no
 
 answer to Marianne, intending by that to preserve myself from her
 
-farther notice; and for some time I was even determined not to call in
+farther notice; and for some [[Time|time]] I was even determined not to call in
 
 Berkeley Street;—but at last, judging it wiser to affect the air of a
 
 cool, common acquaintance than anything else, I watched you all safely
 
-out of the house one morning, and left my name.”
+out of the [[house]] one morning, and left my name.”
 
 
 
-“Watched us out of the house!”
+“Watched us out of the [[house]]!”
 
 
 
@@ -42,11 +42,11 @@ Bond Street, there was hardly a day in which I did not catch a glimpse
 
 of one or other of you; and nothing but the most constant watchfulness
 
-on my side, a most invariably prevailing desire to keep out of your
+on my side, a most invariably prevailing [[Desire|desire]] to keep out of your
 
 sight, could have separated us so long. I avoided the Middletons as
 
-much as possible, as well as everybody else who was likely to prove an
+much as possible, as [[Well|well]] as everybody else who was likely to prove an
 
 acquaintance in common. Not aware of their being in town, however, I
 
@@ -54,7 +54,7 @@ blundered on Sir John, I believe, the first day of his coming, and the
 
 day after I had called at Mrs. Jennings’s. He asked me to a party, a
 
-dance at his house in the evening. Had he _not_ told me as an
+[[Dance|dance]] at his [[house]] in the evening. Had he _not_ told me as an
 
 inducement that you and your sister were to be there, I should have
 
@@ -72,9 +72,9 @@ pity me, Miss Dashwood, pity my situation as it was _then_. With my
 
 head and heart full of your sister, I was forced to play the happy
 
-lover to another woman! Those three or four weeks were worse than all.
+[[Lover|lover]] to another woman! Those three or four weeks were worse than all.
 
-Well, at last, as I need not tell you, you were forced on me; and what
+[[Well]], at last, as I need not tell you, you were forced on me; and what
 
 a sweet figure I cut! what an evening of agony it was! Marianne,
 
@@ -86,11 +86,11 @@ explanation, with those bewitching eyes fixed in such speaking
 
 solicitude on my face! and Sophia, jealous as the devil on the other
 
-hand, looking all that was—Well, it does not signify; it is over now.
+hand, looking all that was—[[Well]], it does not signify; it is over now.
 
 Such an evening! I ran away from you all as soon as I could; but not
 
-before I had seen Marianne’s sweet face as white as death. _That_ was
+before I had seen Marianne’s sweet face as white as [[Death|death]]. _That_ was
 
 the last, last look I ever had of her; the last manner in which she
 
@@ -112,7 +112,7 @@ rousing himself, broke it thus:
 
 
 
-“Well, let me make haste and be gone. Your sister is certainly better,
+“[[Well]], let me make haste and be gone. Your sister is certainly better,
 
 certainly out of danger?”
 
@@ -154,7 +154,7 @@ Affecting that air of playfulness, therefore, which is delightful in a
 
 woman one loves, she opened the letter directly, and read its contents.
 
-She was well paid for her impudence. She read what made her wretched.
+She was [[Well|well]] paid for her impudence. She read what made her wretched.
 
 Her wretchedness I could have borne, but her passion—her malice—At all
 
@@ -178,7 +178,7 @@ happy thoughts and gentle diction. But what could I do!—we were
 
 engaged, every thing in preparation, the day almost fixed—But I am
 
-talking like a fool. Preparation! Day! In honest words, her money was
+talking like a [[Fool|fool]]. Preparation! Day! In honest words, her money was
 
 necessary to me, and in a situation like mine, any thing was to be done
 

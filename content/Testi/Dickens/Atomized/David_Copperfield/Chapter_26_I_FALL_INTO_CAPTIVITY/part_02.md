@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 2)"
+title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,8 +19,8 @@ and lifted up their legs as if they knew they belonged to Doctors’
 Commons. There was a good deal of competition in the Commons on all
 points of display, and it turned out some very choice equipages then;
 though I always have considered, and always shall consider, that in my
-time the great article of competition there was starch: which I think
-was worn among the proctors to as great an extent as it is in the nature
+[[Time|time]] the great article of competition there was starch: which I think
+was worn among the proctors to as great an extent as it is in the [[Nature|nature]]
 of man to bear.
 
 We were very pleasant, going down, and Mr. Spenlow gave me some hints in
@@ -39,7 +39,7 @@ business? He replied, that a good case of a disputed will, where there
 was a neat little estate of thirty or forty thousand pounds, was,
 perhaps, the best of all. In such a case, he said, not only were there
 very pretty pickings, in the way of arguments at every stage of the
-proceedings, and mountains upon mountains of evidence on interrogatory
+proceedings, and [[Mountains|mountains]] upon [[Mountains|mountains]] of evidence on interrogatory
 and counter-interrogatory (to say nothing of an appeal lying, first to
 the Delegates, and then to the Lords), but, the costs being pretty sure
 to come out of the estate at last, both sides went at it in a lively
@@ -47,14 +47,14 @@ and spirited manner, and expense was no consideration. Then, he launched
 into a general eulogium on the Commons. What was to be particularly
 admired (he said) in the Commons, was its compactness. It was the most
 conveniently organized place in the world. It was the complete idea of
-snugness. It lay in a nutshell. For example: You brought a divorce case,
+snugness. It lay in a nutshell. For example: You brought a [[divorce]] case,
 or a restitution case, into the Consistory. Very good. You tried it in
 the Consistory. You made a quiet little round game of it, among a family
 group, and you played it out at leisure. Suppose you were not satisfied
 with the Consistory, what did you do then? Why, you went into the
-Arches. What was the Arches? The same court, in the same room, with the
+Arches. What was the Arches? The same [[Court|court]], in the same room, with the
 same bar, and the same practitioners, but another judge, for there the
-Consistory judge could plead any court-day as an advocate. Well, you
+Consistory judge could plead any [[Court|court]]-day as an advocate. [[Well]], you
 played your round game out again. Still you were not satisfied. Very
 good. What did you do then? Why, you went to the Delegates. Who were the
 Delegates? Why, the Ecclesiastical Delegates were the advocates without
@@ -82,20 +82,20 @@ old friend the bushel brought in by the head and shoulders (as he always
 is, I observe), I give up a subject for lost.
 
 This is a digression. I was not the man to touch the Commons, and
-bring down the country. I submissively expressed, by my silence, my
+bring down the country. I submissively expressed, by my [[Silence|silence]], my
 acquiescence in all I had heard from my superior in years and knowledge;
 and we talked about The Stranger and the Drama, and the pairs of horses,
 until we came to Mr. Spenlow’s gate.
 
-There was a lovely garden to Mr. Spenlow’s house; and though that was
-not the best time of the year for seeing a garden, it was so beautifully
+There was a lovely [[Garden|garden]] to Mr. Spenlow’s [[house]]; and though that was
+not the best [[Time|time]] of the year for seeing a [[Garden|garden]], it was so beautifully
 kept, that I was quite enchanted. There was a charming lawn, there were
 clusters of trees, and there were perspective walks that I could just
 distinguish in the dark, arched over with trellis-work, on which shrubs
-and flowers grew in the growing season. ‘Here Miss Spenlow walks by
+and [[Flowers|flowers]] grew in the growing season. ‘Here Miss Spenlow walks by
 herself,’ I thought. ‘Dear me!’
 
-We went into the house, which was cheerfully lighted up, and into a hall
+We went into the [[house]], which was cheerfully lighted up, and into a hall
 where there were all sorts of hats, caps, great-coats, plaids, gloves,
 whips, and walking-sticks. ‘Where is Miss Dora?’ said Mr. Spenlow to the
 servant. ‘Dora!’ I thought. ‘What a beautiful name!’
@@ -103,13 +103,13 @@ servant. ‘Dora!’ I thought. ‘What a beautiful name!’
 We turned into a room near at hand (I think it was the identical
 breakfast-room, made memorable by the brown East Indian sherry), and I
 heard a voice say, ‘Mr. Copperfield, my daughter Dora, and my daughter
-Dora’s confidential friend!’ It was, no doubt, Mr. Spenlow’s voice,
+Dora’s confidential friend!’ It was, no [[Doubt|doubt]], Mr. Spenlow’s voice,
 but I didn’t know it, and I didn’t care whose it was. All was over in a
 moment. I had fulfilled my destiny. I was a captive and a slave. I loved
-Dora Spenlow to distraction!
+[[Dora Spenlow]] to distraction!
 
 She was more than human to me. She was a Fairy, a Sylph, I don’t
 know what she was--anything that no one ever saw, and everything that
-everybody ever wanted. I was swallowed up in an abyss of love in an
+everybody ever wanted. I was swallowed up in an abyss of [[Love|love]] in an
 instant. There was no pausing on the brink; no looking down, or looking
 back; I was gone, headlong, before I had sense to say a word to her.

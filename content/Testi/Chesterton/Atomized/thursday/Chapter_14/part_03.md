@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 14 (part 3)"
+title: "[[thursday]] — Chapter 14 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -25,15 +25,15 @@ suddenly threw up his hands like a lost spirit.
 my friend in the dark!"
 
 "Dead!" snorted the Secretary.  "You will not find him dead easily.
-If he has been tipped out of the car, we shall find him rolling
+If he has been tipped out of the car, we shall find him [[rolling]]
 as a colt rolls in a field, kicking his legs for fun."
 
-"Clashing his hoofs," said the Professor.  "The colts do,
+"Clashing his hoofs," said [[The Professor|the Professor]].  "The colts do,
 and so did Pan."
 
 "Pan again!" said Dr. Bull irritably.  "You seem to think Pan is everything."
 
-"So he is," said the Professor, "in Greek.  He means everything."
+"So he is," said [[The Professor|the Professor]], "in Greek.  He means everything."
 
 "Don't forget," said the Secretary, looking down, "that he also means Panic."
 
@@ -47,10 +47,10 @@ Then he added with an indescribable gesture--
 It would be like one of his larks."
 
 He strode off towards the distant trees with a new energy,
-his rags and ribbons fluttering in the wind.  The others
+his rags and ribbons fluttering in the [[Wind|wind]].  The others
 followed him in a more footsore and dubious manner.
 And almost at the same moment all six men realised that they
-were not alone in the little field.
+were not [[Alone|alone]] in the little field.
 
 Across the square of turf a tall man was advancing
 towards them, leaning on a strange long staff like a sceptre.
@@ -59,22 +59,22 @@ its colour was that shade between blue, violet and grey
 which can be seen in certain shadows of the woodland.
 His hair was whitish grey, and at the first glance, taken along
 with his knee-breeches, looked as if it was powdered.
-His advance was very quiet; but for the silver frost upon his head,
+His advance was very quiet; but for the silver [[Frost|frost]] upon his head,
 he might have been one to the shadows of the wood.
 
 "Gentlemen," he said, "my master has a carriage waiting for you
-in the road just by."
+in the [[Road|road]] just by."
 
 "Who is your master?" asked Syme, standing quite still.
 
 "I was told you knew his name," said the man respectfully.
 
-There was a silence, and then the Secretary said--
+There was a [[Silence|silence]], and then the Secretary said--
 
 "Where is this carriage?"
 
 "It has been waiting only a few moments," said the stranger.
-"My master has only just come home."
+"My master has only just come [[Home|home]]."
 
 Syme looked left and right upon the patch of green field
 in which he found himself.  The hedges were ordinary hedges,
@@ -88,24 +88,24 @@ colour of the red and brown and golden sky.
 
 "Show us the place," Syme said briefly, and without a word the man
 in the violet coat turned his back and walked towards a gap in the hedge,
-which let in suddenly the light of a white road.
+which let in suddenly the light of a white [[Road|road]].
 
 As the six wanderers broke out upon this thoroughfare, they saw
-the white road blocked by what looked like a long row of carriages,
-such a row of carriages as might close the approach to some house
+the white [[Road|road]] blocked by what looked like a long row of carriages,
+such a row of carriages as might close the approach to some [[house]]
 in Park Lane.  Along the side of these carriages stood a rank
 of splendid servants, all dressed in the grey-blue uniform,
-and all having a certain quality of stateliness and freedom
+and all having a certain quality of stateliness and [[Freedom|freedom]]
 which would not commonly belong to the servants of a gentleman,
-but rather to the officials and ambassadors of a great king.
+but rather to the officials and ambassadors of a great [[King|king]].
 There were no less than six carriages waiting, one for each
 of the tattered and miserable band.  All the attendants
-(as if in court-dress) wore swords, and as each man crawled
+(as if in [[Court|court]]-dress) wore swords, and as each man crawled
 into his carriage they drew them, and saluted with a sudden
 blaze of steel.
 
 "What can it all mean?" asked Bull of Syme as they separated.
-"Is this another joke of Sunday's?"
+"Is this another joke of [[Sunday]]'s?"
 
 "I don't know," said Syme as he sank wearily back in the cushions
 of his carriage; "but if it is, it's one of the jokes you talk about.
@@ -129,19 +129,19 @@ taken out of his hands he fell back on the cushions in a frank collapse.
 Very gradually and very vaguely he realised into what rich roads
 the carriage was carrying him.  He saw that they passed the stone
 gates of what might have been a park, that they began gradually
-to climb a hill which, while wooded on both sides, was somewhat more
+to climb a [[Hill|hill]] which, while wooded on both sides, was somewhat more
 orderly than a forest.  Then there began to grow upon him, as upon
-a man slowly waking from a healthy sleep, a pleasure in everything.
+a man slowly waking from a healthy [[Sleep|sleep]], a pleasure in everything.
 He felt that the hedges were what hedges should be, living walls;
 that a hedge is like a human army, disciplined, but all the more alive.
 He saw high elms behind the hedges, and vaguely thought how happy boys
 would be climbing there.  Then his carriage took a turn of the path,
 and he saw suddenly and quietly, like a long, low, sunset cloud,
-a long, low house, mellow in the mild light of sunset.
+a long, low [[house]], mellow in the mild light of sunset.
 All the six friends compared notes afterwards and quarrelled;
 but they all agreed that in some unaccountable way the place reminded
 them of their boyhood.  It was either this elm-top or that crooked path,
-it was either this scrap of orchard or that shape of a window;
+it was either this scrap of orchard or that shape of a [[Window|window]];
 but each man of them declared that he could remember this place
 before he could remember his mother.
 

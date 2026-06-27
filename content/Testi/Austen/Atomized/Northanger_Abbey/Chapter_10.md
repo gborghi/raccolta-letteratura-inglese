@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 9"
+title: "[[Northanger Abbey]] — Chapter 9"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,15 +26,15 @@ was as follows. It appeared first in a general dissatisfaction with
 
 everybody about her, while she remained in the rooms, which speedily
 
-brought on considerable weariness and a violent desire to go home.
+brought on considerable weariness and a violent [[Desire|desire]] to go [[Home|home]].
 
 This, on arriving in Pulteney Street, took the direction of
 
 extraordinary hunger, and when that was appeased, changed into an
 
-earnest longing to be in bed; such was the extreme point of her
+earnest [[Longing|longing]] to be in bed; such was the extreme point of her
 
-distress; for when there she immediately fell into a sound sleep which
+distress; for when there she immediately fell into a sound [[Sleep|sleep]] which
 
 lasted nine hours, and from which she awoke perfectly revived, in
 
@@ -44,7 +44,7 @@ of her heart was to improve her acquaintance with Miss Tilney, and
 
 almost her first resolution, to seek her for that purpose, in the
 
-pump-room at noon. In the pump-room, one so newly arrived in Bath must
+pump-room at [[Noon|noon]]. In the pump-room, one so newly arrived in Bath must
 
 be met with, and that building she had already found so favourable for
 
@@ -58,7 +58,7 @@ friend from within its walls. Her plan for the morning thus settled,
 
 she sat quietly down to her book after breakfast, resolving to remain
 
-in the same place and the same employment till the clock struck one;
+in the same place and the same employment till the [[Clock|clock]] struck one;
 
 and from habitude very little incommoded by the remarks and
 
@@ -76,21 +76,21 @@ whether there were anyone at leisure to answer her or not. At about
 
 half past twelve, a remarkably loud rap drew her in haste to the
 
-window, and scarcely had she time to inform Catherine of there being
+[[Window|window]], and scarcely had she [[Time|time]] to inform Catherine of there being
 
 two open carriages at the door, in the first only a servant, her
 
-brother driving Miss Thorpe in the second, before John Thorpe came
+brother driving Miss Thorpe in the second, before [[John Thorpe]] came
 
-running upstairs, calling out, “Well, Miss Morland, here I am. Have you
+running upstairs, calling out, “[[Well]], Miss Morland, here I am. Have you
 
 been waiting long? We could not come before; the old devil of a
 
-coachmaker was such an eternity finding out a thing fit to be got into,
+coachmaker was such an [[Eternity|eternity]] finding out a thing fit to be got into,
 
 and now it is ten thousand to one but they break down before we are out
 
-of the street. How do you do, Mrs. Allen? A famous ball last night, was
+of the street. How do you do, Mrs. Allen? A famous ball last [[Night|night]], was
 
 not it? Come, Miss Morland, be quick, for the others are in a
 
@@ -116,7 +116,7 @@ Mrs. Allen for her opinion; “but really I did not expect you.”
 
 
 
-“Not expect me! that’s a good one! and what a dust you would have made,
+“Not expect me! that’s a good one! and what a [[Dust|dust]] you would have made,
 
 if I had not come.”
 
@@ -128,15 +128,15 @@ away, for Mrs. Allen, not being at all in the habit of conveying any
 
 expression herself by a look, was not aware of its being ever intended
 
-by anybody else; and Catherine, whose desire of seeing Miss Tilney
+by anybody else; and Catherine, whose [[Desire|desire]] of seeing Miss Tilney
 
 again could at that moment bear a short delay in favour of a drive, and
 
 who thought there could be no impropriety in her going with Mr. Thorpe,
 
-as Isabella was going at the same time with James, was therefore
+as [[Isabella]] was going at the same [[Time|time]] with James, was therefore
 
-obliged to speak plainer. “Well, ma’am, what do you say to it? Can you
+obliged to speak plainer. “[[Well]], ma’am, what do you say to it? Can you
 
 spare me for an hour or two? Shall I go?”
 
@@ -148,19 +148,19 @@ placid indifference. Catherine took the advice, and ran off to get
 
 ready. In a very few minutes she reappeared, having scarcely allowed
 
-the two others time enough to get through a few short sentences in her
+the two others [[Time|time]] enough to get through a few short sentences in her
 
 praise, after Thorpe had procured Mrs. Allen’s admiration of his gig;
 
 and then receiving her friend’s parting good wishes, they both hurried
 
-downstairs. “My dearest creature,” cried Isabella, to whom the duty of
+downstairs. “My dearest creature,” cried [[Isabella]], to whom the duty of
 
-friendship immediately called her before she could get into the
+[[Friendship|friendship]] immediately called her before she could get into the
 
 carriage, “you have been at least three hours getting ready. I was
 
-afraid you were ill. What a delightful ball we had last night. I have a
+afraid you were ill. What a delightful ball we had last [[Night|night]]. I have a
 
 thousand things to say to you; but make haste and get in, for I long to
 
@@ -178,7 +178,7 @@ dote on her.”
 
 “You will not be frightened, Miss Morland,” said Thorpe, as he handed
 
-her in, “if my horse should dance about a little at first setting off.
+her in, “if my [[Horse|horse]] should [[Dance|dance]] about a little at first setting off.
 
 He will, most likely, give a plunge or two, and perhaps take the rest
 
@@ -198,7 +198,7 @@ knowledge of its owner, she sat peaceably down, and saw Thorpe sit down
 
 by her. Everything being then arranged, the servant who stood at the
 
-horse’s head was bid in an important voice “to let him go,” and off
+[[Horse|horse]]’s head was bid in an important voice “to let him go,” and off
 
 they went in the quietest manner imaginable, without a plunge or a
 
@@ -214,7 +214,7 @@ he had then held the reins, and the singular discernment and dexterity
 
 with which he had directed his whip. Catherine, though she could not
 
-help wondering that with such perfect command of his horse, he should
+help wondering that with such perfect command of his [[Horse|horse]], he should
 
 think it necessary to alarm her with a relation of its tricks,
 
@@ -230,7 +230,7 @@ an hour) by no means alarmingly fast, gave herself up to all the
 
 enjoyment of air and exercise of the most invigorating kind, in a fine
 
-mild day of February, with the consciousness of safety. A silence of
+mild day of February, with the consciousness of safety. A [[Silence|silence]] of
 
 several minutes succeeded their first short dialogue; it was broken by
 
@@ -272,7 +272,7 @@ adding in explanation, “Old Allen, the man you are with.”
 
 “Aye, that is what I meant. He seems a good kind of old fellow enough,
 
-and has lived very well in his time, I dare say; he is not gouty for
+and has lived very [[Well|well]] in his [[Time|time]], I dare say; he is not gouty for
 
 nothing. Does he drink his bottle a day now?”
 
@@ -280,7 +280,7 @@ nothing. Does he drink his bottle a day now?”
 
 “His bottle a day! no. Why should you think of such a thing? He is a
 
-very temperate man, and you could not fancy him in liquor last night?”
+very temperate man, and you could not fancy him in liquor last [[Night|night]]?”
 
 
 
@@ -310,11 +310,11 @@ be. Our foggy climate wants help.”
 
 “And yet I have heard that there is a great deal of wine drunk in
 
-Oxford.”
+[[Oxford]].”
 
 
 
-“Oxford! there is no drinking at Oxford now, I assure you. Nobody
+“[[Oxford]]! there is no drinking at [[Oxford]] now, I assure you. Nobody
 
 drinks there. You would hardly meet with a man who goes beyond his four
 
@@ -326,7 +326,7 @@ about five pints a head. It was looked upon as something out of the
 
 common way. _Mine_ is famous good stuff, to be sure. You would not
 
-often meet with anything like it in Oxford—and that may account for it.
+often meet with anything like it in [[Oxford]]—and that may account for it.
 
 But this will just give you a notion of the general rate of drinking
 
@@ -350,7 +350,7 @@ almost to oaths, which adorned it, and Catherine was left, when it
 
 ended, with rather a strengthened belief of there being a great deal of
 
-wine drunk in Oxford, and the same happy conviction of her brother’s
+wine drunk in [[Oxford]], and the same happy conviction of her brother’s
 
 comparative sobriety.
 
@@ -358,13 +358,13 @@ comparative sobriety.
 
 Thorpe’s ideas then all reverted to the merits of his own equipage, and
 
-she was called on to admire the spirit and freedom with which his horse
+she was called on to admire the spirit and [[Freedom|freedom]] with which his [[Horse|horse]]
 
-moved along, and the ease which his paces, as well as the excellence of
+moved along, and the ease which his paces, as [[Well|well]] as the excellence of
 
 the springs, gave the motion of the carriage. She followed him in all
 
-his admiration as well as she could. To go before or beyond him was
+his admiration as [[Well|well]] as she could. To go before or beyond him was
 
 impossible. His knowledge and her ignorance of the subject, his
 
@@ -378,9 +378,9 @@ between them without any difficulty that his equipage was altogether
 
 the most complete of its kind in England, his carriage the neatest, his
 
-horse the best goer, and himself the best coachman. “You do not really
+[[Horse|horse]] the best goer, and himself the best coachman. “You do not really
 
-think, Mr. Thorpe,” said Catherine, venturing after some time to
+think, Mr. Thorpe,” said Catherine, venturing after some [[Time|time]] to
 
 consider the matter as entirely decided, and to offer some little
 
@@ -392,9 +392,9 @@ variation on the subject, “that James’s gig will break down?”
 
 your life? There is not a sound piece of iron about it. The wheels have
 
-been fairly worn out these ten years at least—and as for the body! upon
+been fairly worn out these ten years at least—and as for the [[Body|body]]! upon
 
-my soul, you might shake it to pieces yourself with a touch. It is the
+my [[Soul|soul]], you might shake it to pieces yourself with a touch. It is the
 
 most devilish little rickety business I ever beheld! thank God! we have
 
@@ -436,7 +436,7 @@ such very different accounts of the same thing; for she had not been
 
 brought up to understand the propensities of a rattle, nor to know to
 
-how many idle assertions and impudent falsehoods the excess of vanity
+how many idle assertions and impudent falsehoods the excess of [[Vanity|vanity]]
 
 will lead. Her own family were plain, matter-of-fact people who seldom
 
@@ -448,7 +448,7 @@ therefore of telling lies to increase their importance, or of asserting
 
 at one moment what they would contradict the next. She reflected on the
 
-affair for some time in much perplexity, and was more than once on the
+affair for some [[Time|time]] in much perplexity, and was more than once on the
 
 point of requesting from Mr. Thorpe a clearer insight into his real
 
@@ -476,13 +476,13 @@ and sold for incredible sums; of racing matches, in which his judgment
 
 had infallibly foretold the winner; of shooting parties, in which he
 
-had killed more birds (though without having one good shot) than all
+had killed more [[Birds|birds]] (though without having one good shot) than all
 
 his companions together; and described to her some famous day’s sport,
 
 with the fox-hounds, in which his foresight and skill in directing the
 
-dogs had repaired the mistakes of the most experienced huntsman, and in
+[[dogs]] had repaired the mistakes of the most experienced huntsman, and in
 
 which the boldness of his riding, though it had never endangered his
 
@@ -496,11 +496,11 @@ Little as Catherine was in the habit of judging for herself, and
 
 unfixed as were her general notions of what men ought to be, she could
 
-not entirely repress a doubt, while she bore with the effusions of his
+not entirely repress a [[Doubt|doubt]], while she bore with the effusions of his
 
 endless conceit, of his being altogether completely agreeable. It was a
 
-bold surmise, for he was Isabella’s brother; and she had been assured
+bold surmise, for he was [[Isabella]]’s brother; and she had been assured
 
 by James that his manners would recommend him to all her sex; but in
 
@@ -516,11 +516,11 @@ powers of giving universal pleasure.
 
 
 
-When they arrived at Mrs. Allen’s door, the astonishment of Isabella
+When they arrived at Mrs. Allen’s door, the astonishment of [[Isabella]]
 
 was hardly to be expressed, on finding that it was too late in the day
 
-for them to attend her friend into the house: “Past three o’clock!” It
+for them to attend her friend into the [[house]]: “Past three o’[[Clock|clock]]!” It
 
 was inconceivable, incredible, impossible! and she would neither
 
@@ -538,13 +538,13 @@ two hours and a half had ever gone off so swiftly before, as Catherine
 
 was called on to confirm; Catherine could not tell a falsehood even to
 
-please Isabella; but the latter was spared the misery of her friend’s
+please [[Isabella]]; but the latter was spared the misery of her friend’s
 
 dissenting voice, by not waiting for her answer. Her own feelings
 
 entirely engrossed her; her wretchedness was most acute on finding
 
-herself obliged to go directly home. It was ages since she had had a
+herself obliged to go directly [[Home|home]]. It was ages since she had had a
 
 moment’s conversation with her dearest Catherine; and, though she had
 
@@ -560,11 +560,11 @@ and went on.
 
 Catherine found Mrs. Allen just returned from all the busy idleness of
 
-the morning, and was immediately greeted with, “Well, my dear, here you
+the morning, and was immediately greeted with, “[[Well]], my dear, here you
 
-are,” a truth which she had no greater inclination than power to
+are,” a [[Truth|truth]] which she had no greater inclination than power to
 
-dispute; “and I hope you have had a pleasant airing?”
+dispute; “and I [[Hope|hope]] you have had a pleasant airing?”
 
 
 
@@ -666,7 +666,7 @@ by for her when her mother died.”
 
 is; but, however, he is a very fine young man, Mrs. Hughes says, and
 
-likely to do very well.”
+likely to do very [[Well|well]].”
 
 
 
@@ -684,4 +684,4 @@ was, she could only lament her ill luck, and think over what she had
 
 lost, till it was clear to her that the drive had by no means been very
 
-pleasant and that John Thorpe himself was quite disagreeable.
+pleasant and that [[John Thorpe]] himself was quite disagreeable.

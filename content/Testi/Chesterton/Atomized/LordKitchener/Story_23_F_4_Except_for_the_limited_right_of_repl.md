@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — F.4.  Except for the limited right of replacement or refund set forth"
+title: "[[LordKitchener]] — F.4.  Except for the limited right of replacement or refund set forth"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

@@ -15,7 +15,7 @@ tags:
 
 
 The Veneering dinners are excellent dinners—or new people wouldn’t
-come—and all goes well. Notably, Lady Tippins has made a series of
+come—and all goes [[Well|well]]. Notably, Lady Tippins has made a series of
 experiments on her digestive functions, so extremely complicated and
 daring, that if they could be published with their results it might
 benefit the human race. Having taken in provisions from all parts of the
@@ -41,7 +41,7 @@ green fan upon the knuckles of her left hand—which is particularly rich
 in knuckles, ‘I insist upon your telling all that is to be told about
 the man from Jamaica.’
 
-‘Give you my honour I never heard of any man from Jamaica, except the
+‘Give you my [[Honour|honour]] I never heard of any man from Jamaica, except the
 man who was a brother,’ replies Mortimer.
 
 ‘Tobago, then.’
@@ -59,27 +59,27 @@ unfulfilled impression, for he goes in again.
 
 ‘Now, my dear Mrs Veneering,’ quoth Lady Tippins, I appeal to you
 whether this is not the basest conduct ever known in this world? I carry
-my lovers about, two or three at a time, on condition that they are very
-obedient and devoted; and here is my oldest lover-in-chief, the head of
+my [[lovers]] about, two or three at a [[Time|time]], on condition that they are very
+obedient and devoted; and here is my oldest [[Lover|lover]]-in-chief, the head of
 all my slaves, throwing off his allegiance before company! And here is
-another of my lovers, a rough Cymon at present certainly, but of whom
-I had most hopeful expectations as to his turning out well in course of
-time, pretending that he can’t remember his nursery rhymes! On purpose
+another of my [[lovers]], a rough Cymon at present certainly, but of whom
+I had most hopeful expectations as to his turning out [[Well|well]] in course of
+[[Time|time]], pretending that he can’t remember his nursery rhymes! On purpose
 to annoy me, for he knows how I doat upon them!’
 
-A grisly little fiction concerning her lovers is Lady Tippins’s point.
-She is always attended by a lover or two, and she keeps a little list
-of her lovers, and she is always booking a new lover, or striking out an
-old lover, or putting a lover in her black list, or promoting a lover to
-her blue list, or adding up her lovers, or otherwise posting her book.
-Mrs Veneering is charmed by the humour, and so is Veneering. Perhaps it
+A grisly little fiction concerning her [[lovers]] is Lady Tippins’s point.
+She is always attended by a [[Lover|lover]] or two, and she keeps a little list
+of her [[lovers]], and she is always booking a new [[Lover|lover]], or striking out an
+old [[Lover|lover]], or putting a [[Lover|lover]] in her black list, or promoting a [[Lover|lover]] to
+her blue list, or adding up her [[lovers]], or otherwise posting her book.
+Mrs Veneering is charmed by the [[Humour|humour]], and so is Veneering. Perhaps it
 is enhanced by a certain yellow play in Lady Tippins’s throat, like the
 legs of scratching poultry.
 
 ‘I banish the false wretch from this moment, and I strike him out of
-my Cupidon (my name for my Ledger, my dear,) this very night. But I am
+my Cupidon (my name for my Ledger, my dear,) this very [[Night|night]]. But I am
 resolved to have the account of the man from Somewhere, and I beg you
-to elicit it for me, my love,’ to Mrs Veneering, ‘as I have lost my own
+to elicit it for me, my [[Love|love]],’ to Mrs Veneering, ‘as I have lost my own
 influence. Oh, you perjured man!’ This to Mortimer, with a rattle of her
 fan.
 
@@ -97,7 +97,7 @@ Then the four Buffers, taking heart of grace all four at once, say:
 ‘Man from Nowhere, perhaps!’
 
 And then Mrs Veneering—for the Lady Tippins’s winning wiles are
-contagious—folds her hands in the manner of a supplicating child, turns
+contagious—folds her hands in the manner of a supplicating [[Child|child]], turns
 to her left neighbour, and says, ‘Tease! Pay! Man from Tumwhere!’ At
 which the four Buffers, again mysteriously moved all four at once,
 explain, ‘You can’t resist!’
@@ -106,7 +106,7 @@ explain, ‘You can’t resist!’
 embarrassing to have the eyes of Europe upon me to this extent, and my
 only consolation is that you will all of you execrate Lady Tippins in
 your secret hearts when you find, as you inevitably will, the man from
-Somewhere a bore. Sorry to destroy romance by fixing him with a local
+Somewhere a bore. Sorry to destroy [[Romance|romance]] by fixing him with a local
 habitation, but he comes from the place, the name of which escapes me,
 but will suggest itself to everybody else here, where they make the
 wine.’
@@ -124,16 +124,16 @@ one who has anything to tell, generally tells it to anybody else in
 preference.
 
 ‘The man,’ Mortimer goes on, addressing Eugene, ‘whose name is Harmon,
-was only son of a tremendous old rascal who made his money by Dust.’
+was only son of a tremendous old rascal who made his money by [[Dust]].’
 
 ‘Red velveteens and a bell?’ the gloomy Eugene inquires.
 
 ‘And a ladder and basket if you like. By which means, or by others, he
-grew rich as a Dust Contractor, and lived in a hollow in a hilly country
-entirely composed of Dust. On his own small estate the growling old
+grew rich as a [[Dust]] Contractor, and lived in a hollow in a hilly country
+entirely composed of [[Dust]]. On his own small estate the growling old
 vagabond threw up his own mountain range, like an old volcano, and its
-geological formation was Dust. Coal-dust, vegetable-dust, bone-dust,
-crockery dust, rough dust and sifted dust,—all manner of Dust.’
+geological formation was [[Dust]]. Coal-[[Dust|dust]], vegetable-[[Dust|dust]], bone-[[Dust|dust]],
+crockery [[Dust|dust]], rough [[Dust|dust]] and sifted [[Dust|dust]],—all manner of [[Dust]].’
 
 A passing remembrance of Mrs Veneering, here induces Mortimer to address
 his next half-dozen words to her; after which he wanders away again,
@@ -147,11 +147,11 @@ was natural) by rendering these attentions to the wife of his bosom,
 he next found himself at leisure to bestow a similar recognition on the
 claims of his daughter. He chose a husband for her, entirely to his own
 satisfaction and not in the least to hers, and proceeded to settle upon
-her, as her marriage portion, I don’t know how much Dust, but something
+her, as her [[Marriage|marriage]] portion, I don’t know how much [[Dust]], but something
 immense. At this stage of the affair the poor girl respectfully
 intimated that she was secretly engaged to that popular character whom
-the novelists and versifiers call Another, and that such a marriage
-would make Dust of her heart and Dust of her life—in short, would
+the novelists and versifiers call Another, and that such a [[Marriage|marriage]]
+would make [[Dust]] of her heart and [[Dust]] of her life—in short, would
 set her up, on a very extensive scale, in her father’s business.
-Immediately, the venerable parent—on a cold winter’s night, it is
+Immediately, the venerable parent—on a cold [[Winter|winter]]’s [[Night|night]], it is
 said—anathematized and turned her out.’

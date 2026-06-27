@@ -19,9 +19,9 @@ tags:
 ‘Ye-es,’ returned Eugene, disparagingly, ‘they work; but don’t you think
 they overdo it? They work so much more than they need—they make so much
 more than they can eat—they are so incessantly boring and buzzing at
-their one idea till Death comes upon them—that don’t you think they
+their one idea till [[Death]] comes upon them—that don’t you think they
 overdo it? And are human labourers to have no holidays, because of the
-bees? And am I never to have change of air, because the bees don’t? Mr
+[[Bees|bees]]? And am I never to have change of air, because the [[Bees|bees]] don’t? Mr
 Boffin, I think honey excellent at breakfast; but, regarded in the light
 of my conventional schoolmaster and moralist, I protest against the
 tyrannical humbug of your friend the bee. With the highest respect for
@@ -58,9 +58,9 @@ Boffin’s wealth—’
 ‘—And his romantic manner of acquiring it, make him conspicuous. You
 were pointed out to me the other day.’
 
-‘Well,’ said Mr Boffin, ‘I should say I was a disappintment to you when
+‘[[Well]],’ said Mr Boffin, ‘I should say I was a disappintment to you when
 I WAS pinted out, if your politeness would allow you to confess it, for
-I am well aware I am not much to look at. What might you want with me?
+I am [[Well|well]] aware I am not much to look at. What might you want with me?
 Not in the law, are you?’
 
 ‘No, sir.’
@@ -82,14 +82,14 @@ Boffin, rather angry.
 
 ‘If you will allow me to walk beside you, Mr Boffin, I will tell you.
 Would you object to turn aside into this place—I think it is called
-Clifford’s Inn—where we can hear one another better than in the roaring
+[[Clifford]]’s Inn—where we can hear one another better than in the roaring
 street?’
 
 (‘Now,’ thought Mr Boffin, ‘if he proposes a game at skittles, or meets
 a country gentleman just come into property, or produces any article
 of jewellery he has found, I’ll knock him down!’ With this discreet
 reflection, and carrying his stick in his arms much as Punch carries
-his, Mr Boffin turned into Clifford’s Inn aforesaid.)
+his, Mr Boffin turned into [[Clifford]]’s Inn aforesaid.)
 
 ‘Mr Boffin, I happened to be in Chancery Lane this morning, when I saw
 you going along before me. I took the liberty of following you, trying
@@ -115,14 +115,14 @@ and his voice was agreeable in tone, albeit constrained.
 
 ‘When I add, I can discern for myself what the general tongue says of
 you—that you are quite unspoiled by Fortune, and not uplifted—I trust
-you will not, as a man of an open nature, suspect that I mean to flatter
+you will not, as a man of an open [[Nature|nature]], suspect that I mean to flatter
 you, but will believe that all I mean is to excuse myself, these being
 my only excuses for my present intrusion.’
 
 (‘How much?’ thought Mr Boffin. ‘It must be coming to money. How much?’)
 
 ‘You will probably change your manner of living, Mr Boffin, in your
-changed circumstances. You will probably keep a larger house, have many
+changed circumstances. You will probably keep a larger [[house]], have many
 matters to arrange, and be beset by numbers of correspondents. If you
 would try me as your Secretary—’
 
@@ -130,11 +130,11 @@ would try me as your Secretary—’
 
 ‘Your Secretary.’
 
-‘Well,’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
+‘[[Well]],’ said Mr Boffin, under his breath, ‘that’s a queer thing!’
 
-‘Or,’ pursued the stranger, wondering at Mr Boffin’s wonder, ‘if you
+‘Or,’ pursued the stranger, wondering at Mr Boffin’s [[Wonder|wonder]], ‘if you
 would try me as your man of business under any name, I know you would
-find me faithful and grateful, and I hope you would find me useful. You
+find me faithful and grateful, and I [[Hope|hope]] you would find me useful. You
 may naturally think that my immediate object is money. Not so, for
 I would willingly serve you a year—two years—any term you might
 appoint—before that should begin to be a consideration between us.’

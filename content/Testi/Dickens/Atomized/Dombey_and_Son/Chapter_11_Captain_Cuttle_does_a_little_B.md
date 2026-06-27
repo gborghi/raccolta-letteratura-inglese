@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 17: Captain Cuttle does a little Business for the Young People"
+title: "Dombey and Son — Chapter 17: [[Captain Cuttle]] does a little Business for the Young People"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Dombey-and-Son-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
- CHAPTER XVII. Captain Cuttle does a little Business for the Young People
+ CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People

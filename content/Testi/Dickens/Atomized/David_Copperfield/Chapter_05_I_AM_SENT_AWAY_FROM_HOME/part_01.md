@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 5: I AM SENT AWAY FROM HOME (part 1)"
+title: "[[David Copperfield]] — Chapter 5: I AM SENT AWAY FROM [[Home|HOME]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CHAPTER 5. I AM SENT AWAY FROM HOME
+CHAPTER 5. I AM SENT AWAY FROM [[Home|HOME]]
 
 
 We might have gone about half a mile, and my pocket-handkerchief was
@@ -29,19 +29,19 @@ cakes which she crammed into my pockets, and a purse which she put into
 my hand, but not one word did she say. After another and a final squeeze
 with both arms, she got down from the cart and ran away; and, my belief
 is, and has always been, without a solitary button on her gown. I
-picked up one, of several that were rolling about, and treasured it as a
-keepsake for a long time.
+picked up one, of several that were [[rolling]] about, and treasured it as a
+keepsake for a long [[Time|time]].
 
 The carrier looked at me, as if to inquire if she were coming back. I
 shook my head, and said I thought not. ‘Then come up,’ said the carrier
-to the lazy horse; who came up accordingly.
+to the lazy [[Horse|horse]]; who came up accordingly.
 
-Having by this time cried as much as I possibly could, I began to think
+Having by this [[Time|time]] cried as much as I possibly could, I began to think
 it was of no use crying any more, especially as neither Roderick Random,
 nor that Captain in the Royal British Navy, had ever cried, that I
 could remember, in trying situations. The carrier, seeing me in this
 resolution, proposed that my pocket-handkerchief should be spread upon
-the horse’s back to dry. I thanked him, and assented; and particularly
+the [[Horse|horse]]’s back to dry. I thanked him, and assented; and particularly
 small it looked, under those circumstances.
 
 I had now leisure to examine the purse. It was a stiff leather purse,
@@ -49,14 +49,14 @@ with a snap, and had three bright shillings in it, which Peggotty had
 evidently polished up with whitening, for my greater delight. But its
 most precious contents were two half-crowns folded together in a bit
 of paper, on which was written, in my mother’s hand, ‘For Davy. With my
-love.’ I was so overcome by this, that I asked the carrier to be so good
+[[Love|love]].’ I was so overcome by this, that I asked the carrier to be so good
 as to reach me my pocket-handkerchief again; but he said he thought I
 had better do without it, and I thought I really had, so I wiped my eyes
 on my sleeve and stopped myself.
 
 For good, too; though, in consequence of my previous emotions, I was
 still occasionally seized with a stormy sob. After we had jogged on for
-some little time, I asked the carrier if he was going all the way.
+some little [[Time|time]], I asked the carrier if he was going all the way.
 
 ‘All the way where?’ inquired the carrier.
 
@@ -64,9 +64,9 @@ some little time, I asked the carrier if he was going all the way.
 
 ‘Where’s there?’ inquired the carrier.
 
-‘Near London,’ I said.
+‘Near [[London]],’ I said.
 
-‘Why that horse,’ said the carrier, jerking the rein to point him out,
+‘Why that [[Horse|horse]],’ said the carrier, jerking the rein to point him out,
 ‘would be deader than pork afore he got over half the ground.’
 
 ‘Are you only going to Yarmouth then?’ I asked.
@@ -91,8 +91,8 @@ slouching way, on the footboard of the cart with an arm on each knee.
 ‘Yes. She makes all our pastry, and does all our cooking.’
 
 ‘Do she though?’ said Mr. Barkis. He made up his mouth as if to whistle,
-but he didn’t whistle. He sat looking at the horse’s ears, as if he saw
-something new there; and sat so, for a considerable time. By and by, he
+but he didn’t whistle. He sat looking at the [[Horse|horse]]’s ears, as if he saw
+something new there; and sat so, for a considerable [[Time|time]]. By and by, he
 said:
 
 ‘No sweethearts, I b’lieve?’
@@ -112,19 +112,19 @@ refreshment.
 ‘Didn’t she, though!’ said Mr. Barkis.
 
 Again he made up his mouth to whistle, and again he didn’t whistle, but
-sat looking at the horse’s ears.
+sat looking at the [[Horse|horse]]’s ears.
 
 ‘So she makes,’ said Mr. Barkis, after a long interval of reflection,
 ‘all the apple parsties, and doos all the cooking, do she?’
 
 I replied that such was the fact.
 
-‘Well. I’ll tell you what,’ said Mr. Barkis. ‘P’raps you might be
+‘[[Well]]. I’ll tell you what,’ said Mr. Barkis. ‘P’raps you might be
 writin’ to her?’
 
 ‘I shall certainly write to her,’ I rejoined.
 
-‘Ah!’ he said, slowly turning his eyes towards me. ‘Well! If you was
+‘Ah!’ he said, slowly turning his eyes towards me. ‘[[Well]]! If you was
 writin’ to her, p’raps you’d recollect to say that Barkis was willin’;
 would you?’
 
@@ -143,14 +143,14 @@ gravity, ‘Barkis is willin’. That’s the message,’ I readily undertook
 its transmission. While I was waiting for the coach in the hotel
 at Yarmouth that very afternoon, I procured a sheet of paper and
 an inkstand, and wrote a note to Peggotty, which ran thus: ‘My dear
-Peggotty. I have come here safe. Barkis is willing. My love to mama.
+Peggotty. I have come here safe. Barkis is willing. My [[Love|love]] to mama.
 Yours affectionately. P.S. He says he particularly wants you to
 know--BARKIS IS WILLING.’
 
 When I had taken this commission on myself prospectively, Mr. Barkis
-relapsed into perfect silence; and I, feeling quite worn out by all that
+relapsed into perfect [[Silence|silence]]; and I, feeling quite worn out by all that
 had happened lately, lay down on a sack in the cart and fell asleep. I
 slept soundly until we got to Yarmouth; which was so entirely new
 and strange to me in the inn-yard to which we drove, that I at once
-abandoned a latent hope I had had of meeting with some of Mr. Peggotty’s
+abandoned a latent [[Hope|hope]] I had had of meeting with some of Mr. Peggotty’s
 family there, perhaps even with little Em’ly herself.

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 2)"
+title: "[[Shirley]] — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-sweet? I saw that Robert felt its beauty, and he must have felt it with
+sweet? I saw that Robert felt its [[Beauty|beauty]], and he must have felt it with
 
 his man's heart, not with my dim woman's perceptions. They look to me
 
 like two great happy spirits. Yonder silvered pavement reminds me of
 
-that white shore we believe to be beyond the death-flood. They have
+that white shore we believe to be beyond the [[Death|death]]-flood. They have
 
 reached it; they walk there united. And what am I, standing here in
 
-shadow, shrinking into concealment, my mind darker than my hiding-place?
+[[Shadow|shadow]], shrinking into concealment, my mind darker than my hiding-place?
 
 I am one of this world, no spirit--a poor doomed mortal, who asks, in
 
@@ -32,31 +32,31 @@ ignorance and hopelessness, wherefore she was born, to what end she
 
 lives; whose mind for ever runs on the question, how she shall at last
 
-encounter, and by whom be sustained through death.
+encounter, and by whom be sustained through [[Death|death]].
 
 
 
 "This is the worst passage I have come to yet; still I was quite
 
-prepared for it. I gave Robert up, and gave him up to Shirley, the first
+prepared for it. I gave Robert up, and gave him up to [[Shirley]], the first
 
 day I heard she was come, the first moment I saw her--rich, youthful,
 
-and lovely. She has him now. He is her lover. She is his darling. She
+and lovely. She has him now. He is her [[Lover|lover]]. She is his darling. She
 
 will be far more his darling yet when they are married. The more Robert
 
-knows of Shirley the more his soul will cleave to her. They will both be
+knows of [[Shirley]] the more his [[Soul|soul]] will cleave to her. They will both be
 
 happy, and I do not grudge them their bliss; but I groan under my own
 
-misery. Some of my suffering is very acute. Truly I ought not to have
+misery. Some of my [[Suffering|suffering]] is very acute. Truly I ought not to have
 
 been born; they should have smothered me at the first cry."
 
 
 
-Here, Shirley stepping aside to gather a dewy flower, she and her
+Here, [[Shirley]] stepping aside to gather a dewy flower, she and her
 
 companion turned into a path that lay nearer the gate. Some of their
 
@@ -64,15 +64,15 @@ conversation became audible. Caroline would not stay to listen. She
 
 passed away noiselessly, and the moonlight kissed the wall which her
 
-shadow had dimmed. The reader is privileged to remain, and try what he
+[[Shadow|shadow]] had dimmed. The reader is privileged to remain, and try what he
 
 can make of the discourse.
 
 
 
-"I cannot conceive why nature did not give you a bulldog's head, for you
+"I cannot conceive why [[Nature|nature]] did not give you a bulldog's head, for you
 
-have all a bulldog's tenacity," said Shirley.
+have all a bulldog's tenacity," said [[Shirley]].
 
 
 
@@ -94,7 +94,7 @@ presence I have been no bulldog."
 
 
 
-"Your very silence indicates your race. How little you talk in general,
+"Your very [[Silence|silence]] indicates your race. How little you talk in general,
 
 yet how deeply you scheme! You are far-seeing; you are calculating."
 
@@ -102,7 +102,7 @@ yet how deeply you scheme! You are far-seeing; you are calculating."
 
 "I know the ways of these people. I have gathered information of their
 
-intentions. My note last night informed you that Barraclough's trial had
+intentions. My note last [[Night|night]] informed you that Barraclough's trial had
 
 ended in his conviction and sentence to transportation. His associates
 
@@ -132,7 +132,7 @@ spirit. I now feel satisfied. On the whole, I relish the position."
 
 before you still better than you would relish the execution of a
 
-government order for army-cloth."
+[[government]] order for army-cloth."
 
 
 
@@ -160,7 +160,7 @@ present."
 
 "I am aware--I have heard all about your differences. Depend upon it,
 
-they will melt away. He cannot resist the temptation of an alliance
+they will melt away. He cannot resist the [[Temptation|temptation]] of an alliance
 
 under present circumstances."
 
@@ -180,7 +180,7 @@ excellent."
 
 
 
-"Well, you shall have him, Mr. Moore--that is, if I can win him."
+"[[Well]], you shall have him, Mr. Moore--that is, if I can win him."
 
 
 
@@ -230,7 +230,7 @@ the world, that we shall each do as we please."
 
 
 
-"Three nights in the week I sleep in the mill--but I require little
+"Three nights in the week I [[Sleep|sleep]] in the mill--but I require little
 
 rest--and when it is moonlight and mild I often haunt the Hollow till
 
@@ -238,7 +238,7 @@ daybreak."
 
 
 
-"When I was a very little girl, Mr. Moore, my nurse used to tell me
+"When I was a very little girl, Mr. Moore, my [[Nurse|nurse]] used to tell me
 
 tales of fairies being seen in that Hollow. That was before my father
 
@@ -248,7 +248,7 @@ falling under enchantment."
 
 
 
-"I fear it is done," said Moore, in a low voice.
+"I [[Fear|fear]] it is done," said Moore, in a low voice.
 
 
 
@@ -262,26 +262,26 @@ Miss Keeldar.
 
 
 
-"Far more so. For instance, how would you like to meet Michael Hartley,
+"Far more so. For instance, how would you like to meet [[Michael]] Hartley,
 
 that mad Calvinist and Jacobin weaver? They say he is addicted to
 
-poaching, and often goes abroad at night with his gun."
+poaching, and often goes abroad at [[Night|night]] with his gun."
 
 
 
 "I have already had the luck to meet him. We held a long argument
 
-together one night. A strange little incident it was; I liked it."
+together one [[Night|night]]. A strange little incident it was; I liked it."
 
 
 
-"Liked it? I admire your taste! Michael is not sane. Where did you meet
+"Liked it? I admire your taste! [[Michael]] is not sane. Where did you meet
 
 him?"
 
 
 
-"In the deepest, shadiest spot in the glen, where the water runs low,
+"In the deepest, shadiest spot in the glen, where the [[Water|water]] runs low,
 
 under brushwood. We sat down near that plank bridge. It was moonlight,

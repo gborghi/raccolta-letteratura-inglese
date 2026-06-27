@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.7.  Do not charge a fee for access to, viewing, displaying,"
+title: "[[WhatISawInAmerica]] — E.7.  Do not charge a fee for access to, viewing, displaying,"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

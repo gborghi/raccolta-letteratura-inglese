@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 18 (part 1)"
+title: "[[Emma]] — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -17,10 +17,10 @@ tags:
 CHAPTER XVIII
 
 
-Mr. Frank Churchill did not come. When the time proposed drew near,
+Mr. [[Frank Churchill]] did not come. When the [[Time|time]] proposed drew near,
 Mrs. Weston’s fears were justified in the arrival of a letter of
 excuse. For the present, he could not be spared, to his “very great
-mortification and regret; but still he looked forward with the hope of
+mortification and regret; but still he looked forward with the [[Hope|hope]] of
 coming to Randalls at no distant period.”
 
 Mrs. Weston was exceedingly disappointed—much more disappointed, in
@@ -28,10 +28,10 @@ fact, than her husband, though her dependence on seeing the young man
 had been so much more sober: but a sanguine temper, though for ever
 expecting more good than occurs, does not always pay for its hopes by
 any proportionate depression. It soon flies over the present failure,
-and begins to hope again. For half an hour Mr. Weston was surprized and
+and begins to [[Hope|hope]] again. For half an hour Mr. Weston was surprized and
 sorry; but then he began to perceive that Frank’s coming two or three
-months later would be a much better plan; better time of year; better
-weather; and that he would be able, without any doubt, to stay
+months later would be a much better plan; better [[Time|time]] of year; better
+weather; and that he would be able, without any [[Doubt|doubt]], to stay
 considerably longer with them than if he had come sooner.
 
 These feelings rapidly restored his comfort, while Mrs. Weston, of a
@@ -39,14 +39,14 @@ more apprehensive disposition, foresaw nothing but a repetition of
 excuses and delays; and after all her concern for what her husband was
 to suffer, suffered a great deal more herself.
 
-Emma was not at this time in a state of spirits to care really about
-Mr. Frank Churchill’s not coming, except as a disappointment at
+[[Emma]] was not at this [[Time|time]] in a state of spirits to care really about
+Mr. [[Frank Churchill]]’s not coming, except as a disappointment at
 Randalls. The acquaintance at present had no charm for her. She wanted,
-rather, to be quiet, and out of temptation; but still, as it was
-desirable that she should appear, in general, like her usual self, she
+rather, to be quiet, and out of [[Temptation|temptation]]; but still, as it was
+desirable that she should appear, in general, like her usual [[Self|self]], she
 took care to express as much interest in the circumstance, and enter as
 warmly into Mr. and Mrs. Weston’s disappointment, as might naturally
-belong to their friendship.
+belong to their [[Friendship|friendship]].
 
 She was the first to announce it to Mr. Knightley; and exclaimed quite
 as much as was necessary, (or, being acting a part, perhaps rather
@@ -69,7 +69,7 @@ but his uncle and aunt will not spare him.”
 “I cannot believe that he has not the power of coming, if he made a
 point of it. It is too unlikely, for me to believe it without proof.”
 
-“How odd you are! What has Mr. Frank Churchill done, to make you
+“How odd you are! What has Mr. [[Frank Churchill]] done, to make you
 suppose him such an unnatural creature?”
 
 “I am not supposing him at all an unnatural creature, in suspecting
@@ -78,7 +78,7 @@ little for any thing but his own pleasure, from living with those who
 have always set him the example of it. It is a great deal more natural
 than one could wish, that a young man, brought up by those who are
 proud, luxurious, and selfish, should be proud, luxurious, and selfish
-too. If Frank Churchill had wanted to see his father, he would have
+too. If [[Frank Churchill]] had wanted to see his father, he would have
 contrived it between September and January. A man at his age—what is
 he?—three or four-and-twenty—cannot be without the means of doing as
 much as that. It is impossible.”
@@ -99,9 +99,9 @@ leave the Churchills.”
 “Yes, sometimes he can.”
 
 “And those times are whenever he thinks it worth his while; whenever
-there is any temptation of pleasure.”
+there is any [[Temptation|temptation]] of pleasure.”
 
-“It is very unfair to judge of any body’s conduct, without an intimate
+“It is very unfair to judge of any [[Body|body]]’s conduct, without an intimate
 knowledge of their situation. Nobody, who has not been in the interior
 of a family, can say what the difficulties of any individual of that
 family may be. We ought to be acquainted with Enscombe, and with Mrs.
@@ -109,9 +109,9 @@ Churchill’s temper, before we pretend to decide upon what her nephew
 can do. He may, at times, be able to do a great deal more than he can
 at others.”
 
-“There is one thing, Emma, which a man can always do, if he chuses, and
+“There is one thing, [[Emma]], which a man can always do, if he chuses, and
 that is, his duty; not by manoeuvring and finessing, but by vigour and
-resolution. It is Frank Churchill’s duty to pay this attention to his
+resolution. It is [[Frank Churchill]]’s duty to pay this attention to his
 father. He knows it to be so, by his promises and messages; but if he
 wished to do it, it might be done. A man who felt rightly would say at
 once, simply and resolutely, to Mrs. Churchill—‘Every sacrifice of mere
@@ -122,11 +122,11 @@ shall, therefore, set off to-morrow.’—If he would say so to her at
 once, in the tone of decision becoming a man, there would be no
 opposition made to his going.”
 
-“No,” said Emma, laughing; “but perhaps there might be some made to his
+“No,” said [[Emma]], laughing; “but perhaps there might be some made to his
 coming back again. Such language for a young man entirely dependent, to
 use!—Nobody but you, Mr. Knightley, would imagine it possible. But you
 have not an idea of what is requisite in situations directly opposite
-to your own. Mr. Frank Churchill to be making such a speech as that to
+to your own. Mr. [[Frank Churchill]] to be making such a speech as that to
 the uncle and aunt, who have brought him up, and are to provide for
 him!—Standing up in the middle of the room, I suppose, and speaking as
 loud as he could!—How can you imagine such conduct practicable?”

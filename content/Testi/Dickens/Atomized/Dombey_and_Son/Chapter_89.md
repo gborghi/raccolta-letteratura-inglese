@@ -19,19 +19,19 @@ Contrasts
 
 
 Turn we our eyes upon two homes; not lying side by side, but wide
-apart, though both within easy range and reach of the great city of
-London.
+apart, though both within easy range and reach of the great [[City|city]] of
+[[London]].
 
 The first is situated in the green and wooded country near Norwood. It
 is not a mansion; it is of no pretensions as to size; but it is
 beautifully arranged, and tastefully kept. The lawn, the soft, smooth
-slope, the flower-garden, the clumps of trees where graceful forms of
+slope, the flower-[[Garden|garden]], the clumps of trees where graceful forms of
 ash and willow are not wanting, the conservatory, the rustic verandah
 with sweet-smelling creeping plants entwined about the pillars, the
-simple exterior of the house, the well-ordered offices, though all upon
+simple exterior of the [[house]], the [[Well|well]]-ordered offices, though all upon
 the diminutive scale proper to a mere cottage, bespeak an amount of
 elegant comfort within, that might serve for a palace. This indication
-is not without warrant; for, within, it is a house of refinement and
+is not without warrant; for, within, it is a [[house]] of refinement and
 luxury. Rich colours, excellently blended, meet the eye at every turn;
 in the furniture—its proportions admirably devised to suit the shapes
 and sizes of the small rooms; on the walls; upon the floors; tingeing
@@ -42,16 +42,16 @@ games of skill and chance set forth on tables—fantastic chessmen, dice,
 backgammon, cards, and billiards.
 
 And yet amidst this opulence of comfort, there is something in the
-general air that is not well. Is it that the carpets and the cushions
+general air that is not [[Well|well]]. Is it that the carpets and the cushions
 are too soft and noiseless, so that those who move or repose among them
 seem to act by stealth? Is it that the prints and pictures do not
-commemorate great thoughts or deeds, or render nature in the Poetry of
+commemorate great thoughts or deeds, or render [[Nature|nature]] in the Poetry of
 landscape, hall, or hut, but are of one voluptuous cast—mere shows of
 form and colour—and no more? Is it that the books have all their gold
 outside, and that the titles of the greater part qualify them to be
 companions of the prints and pictures? Is it that the completeness and
-the beauty of the place are here and there belied by an affectation of
-humility, in some unimportant and inexpensive regard, which is as false
+the [[Beauty|beauty]] of the place are here and there belied by an affectation of
+[[Humility|humility]], in some unimportant and inexpensive regard, which is as false
 as the face of the too truly painted portrait hanging yonder, or its
 original at breakfast in his easy chair below it? Or is it that, with
 the daily breath of that original and master of all here, there issues
@@ -59,8 +59,8 @@ forth some subtle portion of himself, which gives a vague expression of
 himself to everything about him?
 
 It is Mr Carker the Manager who sits in the easy chair. A gaudy parrot
-in a burnished cage upon the table tears at the wires with her beak,
-and goes walking, upside down, in its dome-top, shaking her house and
+in a burnished cage upon the table [[Tears|tears]] at the wires with her beak,
+and goes walking, upside down, in its dome-top, shaking her [[house]] and
 screeching; but Mr Carker is indifferent to the bird, and looks with a
 musing smile at a picture on the opposite wall.
 
@@ -81,44 +81,44 @@ his breakfast, and calls to the chafing and imprisoned bird, who coming
 down into a pendant gilded hoop within the cage, like a great
 wedding-ring, swings in it, for his delight.
 
-The second home is on the other side of London, near to where the busy
-great north road of bygone days is silent and almost deserted, except
-by wayfarers who toil along on foot. It is a poor small house, barely
+The second [[Home|home]] is on the other side of [[London]], near to where the busy
+great north [[Road|road]] of bygone days is silent and almost deserted, except
+by wayfarers who toil along on foot. It is a poor small [[house]], barely
 and sparely furnished, but very clean; and there is even an attempt to
-decorate it, shown in the homely flowers trained about the porch and in
-the narrow garden. The neighbourhood in which it stands has as little
+decorate it, shown in the homely [[Flowers|flowers]] trained about the porch and in
+the narrow [[Garden|garden]]. The neighbourhood in which it stands has as little
 of the country to recommend it, as it has of the town. It is neither of
 the town nor country. The former, like the giant in his travelling
 boots, has made a stride and passed it, and has set his
 brick-and-mortar heel a long way in advance; but the intermediate space
 between the giant’s feet, as yet, is only blighted country, and not
 town; and, here, among a few tall chimneys belching smoke all day and
-night, and among the brick-fields and the lanes where turf is cut, and
+[[Night|night]], and among the brick-fields and the lanes where turf is cut, and
 where the fences tumble down, and where the dusty nettles grow, and
 where a scrap or two of hedge may yet be seen, and where the
-bird-catcher still comes occasionally, though he swears every time to
-come no more—this second home is to be found.”
+bird-catcher still comes occasionally, though he swears every [[Time|time]] to
+come no more—this second [[Home|home]] is to be found.”
 
 She who inhabits it, is she who left the first in her devotion to an
-outcast brother. She withdrew from that home its redeeming spirit, and
+outcast brother. She withdrew from that [[Home|home]] its redeeming spirit, and
 from its master’s breast his solitary angel: but though his liking for
 her is gone, after this ungrateful slight as he considers it; and
 though he abandons her altogether in return, an old idea of her is not
-quite forgotten even by him. Let her flower-garden, in which he never
+quite forgotten even by him. Let her flower-[[Garden|garden]], in which he never
 sets his foot, but which is yet maintained, among all his costly
 alterations, as if she had quitted it but yesterday, bear witness!
 
-Harriet Carker has changed since then, and on her beauty there has
-fallen a heavier shade than Time of his unassisted self can cast,
-all-potent as he is—the shadow of anxiety and sorrow, and the daily
-struggle of a poor existence. But it is beauty still; and still a
-gentle, quiet, and retiring beauty that must be sought out, for it
+Harriet Carker has changed since then, and on her [[Beauty|beauty]] there has
+fallen a heavier shade than [[Time]] of his unassisted [[Self|self]] can cast,
+all-potent as he is—the [[Shadow|shadow]] of anxiety and sorrow, and the daily
+struggle of a poor existence. But it is [[Beauty|beauty]] still; and still a
+gentle, quiet, and retiring [[Beauty|beauty]] that must be sought out, for it
 cannot vaunt itself; if it could, it would be what it is, no more.
 
 Yes. This slight, small, patient figure, neatly dressed in homely
 stuffs, and indicating nothing but the dull, household virtues, that
-have so little in common with the received idea of heroism and
-greatness, unless, indeed, any ray of them should shine through the
+have so little in common with the received idea of [[Heroism|heroism]] and
+[[Greatness|greatness]], unless, indeed, any ray of them should shine through the
 lives of the great ones of the earth, when it becomes a constellation
 and is tracked in Heaven straightway—this slight, small, patient
 figure, leaning on the man still young but worn and grey, is she, his
@@ -128,8 +128,8 @@ hopefully upon his barren way.
 
 “It is early, John,” she said. “Why do you go so early?”
 
-“Not many minutes earlier than usual, Harriet. If I have the time to
-spare, I should like, I think—it’s a fancy—to walk once by the house
+“Not many minutes earlier than usual, Harriet. If I have the [[Time|time]] to
+spare, I should like, I think—it’s a fancy—to walk once by the [[house]]
 where I took leave of him.”
 
 “I wish I had ever seen or known him, John.”
@@ -143,7 +143,7 @@ companion to you in speaking about him, than I may seem now.”
 “My dearest sister! Is there anything within the range of rejoicing or
 regret, in which I am not sure of your companionship?”
 
-“I hope you think not, John, for surely there is nothing!”
+“I [[Hope|hope]] you think not, John, for surely there is nothing!”
 
 “How could you be better to me, or nearer to me then, than you are in
 this, or anything?” said her brother. “I feel that you did know him,
@@ -165,34 +165,34 @@ association. Whether you share that knowledge, or do not, my dear—”
 
 “I do not,” she said quietly.
 
-“It is still the truth, Harriet, and my mind is lighter when I think of
+“It is still the [[Truth|truth]], Harriet, and my mind is lighter when I think of
 him for that which made it so much heavier then.” He checked himself in
-his tone of melancholy, and smiled upon her as he said “Good-bye!”
+his tone of [[Melancholy|melancholy]], and smiled upon her as he said “Good-bye!”
 
-“Good-bye, dear John! In the evening, at the old time and place, I
-shall meet you as usual on your way home. Good-bye.”
+“Good-bye, dear John! In the evening, at the old [[Time|time]] and place, I
+shall meet you as usual on your way [[Home|home]]. Good-bye.”
 
-The cordial face she lifted up to his to kiss him, was his home, his
+The cordial face she lifted up to his to kiss him, was his [[Home|home]], his
 life, his universe, and yet it was a portion of his punishment and
 grief; for in the cloud he saw upon it—though serene and calm as any
 radiant cloud at sunset—and in the constancy and devotion of her life,
-and in the sacrifice she had made of ease, enjoyment, and hope, he saw
+and in the sacrifice she had made of ease, enjoyment, and [[Hope|hope]], he saw
 the bitter fruits of his old crime, for ever ripe and fresh.
 
 She stood at the door looking after him, with her hands loosely clasped
 in each other, as he made his way over the frowzy and uneven patch of
-ground which lay before their house, which had once (and not long ago)
+ground which lay before their [[house]], which had once (and not long ago)
 been a pleasant meadow, and was now a very waste, with a disorderly
 crop of beginnings of mean houses, rising out of the rubbish, as if
 they had been unskilfully sown there. Whenever he looked back—as once
 or twice he did—her cordial face shone like a light upon his heart; but
-when he plodded on his way, and saw her not, the tears were in her eyes
+when he plodded on his way, and saw her not, the [[Tears|tears]] were in her eyes
 as she stood watching him.
 
 Her pensive form was not long idle at the door. There was daily duty to
 discharge, and daily work to do—for such commonplace spirits that are
 not heroic, often work hard with their hands—and Harriet was soon busy
-with her household tasks. These discharged, and the poor house made
+with her household tasks. These discharged, and the poor [[house]] made
 quite neat and orderly, she counted her little stock of money, with an
 anxious face, and went out thoughtfully to buy some necessaries for
 their table, planning and conniving, as she went, how to save. So
@@ -200,7 +200,7 @@ sordid are the lives of such low natures, who are not only not heroic
 to their valets and waiting-women, but have neither valets nor
 waiting-women to be heroic to withal!
 
-While she was absent, and there was no one in the house, there
+While she was absent, and there was no one in the [[house]], there
 approached it by a different way from that the brother had taken, a
 gentleman, a very little past his prime of life perhaps, but of a
 healthy florid hue, an upright presence, and a bright clear aspect,
@@ -211,7 +211,7 @@ and honest eyes to great advantage.
 
 After knocking once at the door, and obtaining no response, this
 gentleman sat down on a bench in the little porch to wait. A certain
-skilful action of his fingers as he hummed some bars, and beat time on
+skilful action of his fingers as he hummed some bars, and beat [[Time|time]] on
 the seat beside him, seemed to denote the musician; and the
 extraordinary satisfaction he derived from humming something very slow
 and long, which had no recognisable tune, seemed to denote that he was
@@ -220,7 +220,7 @@ a scientific one.
 The gentleman was still twirling a theme, which seemed to go round and
 round and round, and in and in and in, and to involve itself like a
 corkscrew twirled upon a table, without getting any nearer to anything,
-when Harriet appeared returning. He rose up as she advanced, and stood
+when Harriet appeared returning. He [[Rose|rose]] up as she advanced, and stood
 with his head uncovered.
 
 “You are come again, Sir!” she said, faltering.
@@ -242,21 +242,21 @@ again,” he added, laying his hand gently on her arm, for an instant,
 
 She was somewhat confused and agitated, and could make no ready answer.
 
-“It is the mirror of truth,” said her visitor, “and gentleness. Excuse
+“It is the [[Mirror|mirror]] of [[Truth|truth]],” said her visitor, “and gentleness. Excuse
 my trusting to it, and returning.”
 
 His manner of saying these words, divested them entirely of the
-character of compliments. It was so plain, grave, unaffected, and
+character of compliments. It was so plain, [[Grave|grave]], unaffected, and
 sincere, that she bent her head, as if at once to thank him, and
 acknowledge his sincerity.
 
 “The disparity between our ages,” said the gentleman, “and the
 plainness of my purpose, empower me, I am glad to think, to speak my
-mind. That is my mind; and so you see me for the second time.”
+mind. That is my mind; and so you see me for the second [[Time|time]].”
 
-“There is a kind of pride, Sir,” she returned, after a moment’s
-silence, “or what may be supposed to be pride, which is mere duty. I
-hope I cherish no other.”
+“There is a kind of [[Pride|pride]], Sir,” she returned, after a moment’s
+[[Silence|silence]], “or what may be supposed to be [[Pride|pride]], which is mere duty. I
+[[Hope|hope]] I cherish no other.”
 
 “For yourself,” he said.
 
@@ -264,7 +264,7 @@ hope I cherish no other.”
 
 “But—pardon me—” suggested the gentleman. “For your brother John?”
 
-“Proud of his love, I am,” said Harriet, looking full upon her visitor,
+“Proud of his [[Love|love]], I am,” said Harriet, looking full upon her visitor,
 and changing her manner on the instant—not that it was less composed
 and quiet, but that there was a deep impassioned earnestness in it that
 made the very tremble in her voice a part of her firmness, “and proud
@@ -281,10 +281,10 @@ good purpose. I am quite sure of it.”
 much obliged to you. You do me justice, I assure you. You were going to
 say, that I, who know the story of John Carker’s life—”
 
-“May think it pride in me,” she continued, “when I say that I am proud
-of him! I am. You know the time was, when I was not—when I could not
-be—but that is past. The humility of many years, the uncomplaining
-expiation, the true repentance, the terrible regret, the pain I know he
+“May think it [[Pride|pride]] in me,” she continued, “when I say that I am proud
+of him! I am. You know the [[Time|time]] was, when I was not—when I could not
+be—but that is past. The [[Humility|humility]] of many years, the uncomplaining
+expiation, the true repentance, the terrible regret, the [[Pain|pain]] I know he
 has even in my affection, which he thinks has cost me dear, though
 Heaven knows I am happy, but for his sorrow I—oh, Sir, after what I
 have seen, let me conjure you, if you are in any place of power, and
@@ -293,19 +293,19 @@ cannot be recalled; while there is a GOD above us to work changes in
 the hearts He made.”
 
 “Your brother is an altered man,” returned the gentleman,
-compassionately. “I assure you I don’t doubt it.”
+compassionately. “I assure you I don’t [[Doubt|doubt]] it.”
 
 “He was an altered man when he did wrong,” said Harriet. “He is an
-altered man again, and is his true self now, believe me, Sir.”
+altered man again, and is his true [[Self|self]] now, believe me, Sir.”
 
 “But we go on,” said her visitor, rubbing his forehead, in an absent
 manner, with his hand, and then drumming thoughtfully on the table, “we
 go on in our clockwork routine, from day to day, and can’t make out, or
 follow, these changes. They—they’re a metaphysical sort of thing. We—we
-haven’t leisure for it. We—we haven’t courage. They’re not taught at
+haven’t leisure for it. We—we haven’t [[Courage|courage]]. They’re not taught at
 schools or colleges, and we don’t know how to set about it. In short,
 we are so d——d business-like,” said the gentleman, walking to the
-window, and back, and sitting down again, in a state of extreme
+[[Window|window]], and back, and sitting down again, in a state of extreme
 dissatisfaction and vexation.
 
 “I am sure,” said the gentleman, rubbing his forehead again; and
@@ -315,12 +315,12 @@ anything. One don’t see anything, one don’t hear anything, one don’t
 know anything; that’s the fact. We go on taking everything for granted,
 and so we go on, until whatever we do, good, bad, or indifferent, we do
 from habit. Habit is all I shall have to report, when I am called upon
-to plead to my conscience, on my death-bed. ‘Habit,’ says I; ‘I was
+to plead to my [[Conscience|conscience]], on my [[Death|death]]-bed. ‘Habit,’ says I; ‘I was
 deaf, dumb, blind, and paralytic, to a million things, from habit.’
-‘Very business-like indeed, Mr What’s-your-name,’ says Conscience, ‘but
+‘Very business-like indeed, Mr What’s-your-name,’ says [[Conscience]], ‘but
 it won’t do here!’”
 
-The gentleman got up and walked to the window again and back: seriously
+The gentleman got up and walked to the [[Window|window]] again and back: seriously
 uneasy, though giving his uneasiness this peculiar expression.
 
 “Miss Harriet,” he said, resuming his chair, “I wish you would let me
@@ -330,11 +330,11 @@ present. Do I?”
 “Yes,” she answered with a smile.
 
 “I believe every word you have said,” he returned. “I am full of
-self-reproach that I might have known this and seen this, and known you
-and seen you, any time these dozen years, and that I never have. I
+[[Self|self]]-reproach that I might have known this and seen this, and known you
+and seen you, any [[Time|time]] these dozen years, and that I never have. I
 hardly know how I ever got here—creature that I am, not only of my own
 habit, but of other people’s! But having done so, let me do something.
-I ask it in all honour and respect. You inspire me with both, in the
+I ask it in all [[Honour|honour]] and respect. You inspire me with both, in the
 highest degree. Let me do something.”
 
 “We are contented, Sir.”
@@ -346,21 +346,21 @@ have been in the habit of thinking that there was nothing wanting to be
 done for him; that it was all settled and over; in short, of not
 thinking at all about it. I am different now. Let me do something for
 him. You too,” said the visitor, with careful delicacy, “have need to
-watch your health closely, for his sake, and I fear it fails.”
+watch your health closely, for his sake, and I [[Fear|fear]] it fails.”
 
 “Whoever you may be, Sir,” answered Harriet, raising her eyes to his
 face, “I am deeply grateful to you. I feel certain that in all you say,
 you have no object in the world but kindness to us. But years have
 passed since we began this life; and to take from my brother any part
 of what has so endeared him to me, and so proved his better
-resolution—any fragment of the merit of his unassisted, obscure, and
+resolution—any [[Fragment|fragment]] of the merit of his unassisted, obscure, and
 forgotten reparation—would be to diminish the comfort it will be to him
-and me, when that time comes to each of us, of which you spoke just
-now. I thank you better with these tears than any words. Believe it,
+and me, when that [[Time|time]] comes to each of us, of which you spoke just
+now. I thank you better with these [[Tears|tears]] than any words. Believe it,
 pray.”
 
 The gentleman was moved, and put the hand she held out, to his lips,
-much as a tender father might kiss the hand of a dutiful child. But
+much as a tender father might kiss the hand of a dutiful [[Child|child]]. But
 more reverently.
 
 “If the day should ever come,” said Harriet, “when he is restored, in
@@ -375,10 +375,10 @@ brother.”
 “You touch upon a subject that is never breathed between us; not even
 between us,” said Harriet.
 
-“I beg your forgiveness,” said the visitor. “I should have known it. I
+“I beg your [[Forgiveness|forgiveness]],” said the visitor. “I should have known it. I
 entreat you to forget that I have done so, inadvertently. And now, as I
 dare urge no more—as I am not sure that I have a right to do so—though
-Heaven knows, even that doubt may be habit,” said the gentleman,
+Heaven knows, even that [[Doubt|doubt]] may be habit,” said the gentleman,
 rubbing his head, as despondently as before, “let me; though a
 stranger, yet no stranger; ask two favours.”
 
@@ -389,15 +389,15 @@ will suffer me to be as your right hand. My name shall then be at your
 service; it is useless now, and always insignificant.”
 
 “Our choice of friends,” she answered, smiling faintly, “is not so
-great, that I need any time for consideration. I can promise that.”
+great, that I need any [[Time|time]] for consideration. I can promise that.”
 
 “The second, that you will allow me sometimes, say every Monday
-morning, at nine o’clock—habit again—I must be businesslike,” said the
+morning, at nine o’[[Clock|clock]]—habit again—I must be businesslike,” said the
 gentleman, with a whimsical inclination to quarrel with himself on that
-head, “in walking past, to see you at the door or window. I don’t ask
+head, “in walking past, to see you at the door or [[Window|window]]. I don’t ask
 to come in, as your brother will be gone out at that hour. I don’t ask
 to speak to you. I merely ask to see, for the satisfaction of my own
-mind, that you are well, and without intrusion to remind you, by the
+mind, that you are [[Well|well]], and without intrusion to remind you, by the
 sight of me, that you have a friend—an elderly friend, grey-haired
 already, and fast growing greyer—whom you may ever command.”
 
@@ -405,7 +405,7 @@ The cordial face looked up in his; confided in it; and promised.
 
 “I understand, as before,” said the gentleman, rising, “that you
 purpose not to mention my visit to John Carker, lest he should be at
-all distressed by my acquaintance with his history. I am glad of it,
+all distressed by my acquaintance with his [[history]]. I am glad of it,
 for it is out of the ordinary course of things, and—habit again!” said
 the gentleman, checking himself impatiently, “as if there were no
 better course than the ordinary course!”
@@ -413,83 +413,83 @@ better course than the ordinary course!”
 With that he turned to go, and walking, bareheaded, to the outside of
 the little porch, took leave of her with such a happy mixture of
 unconstrained respect and unaffected interest, as no breeding could
-have taught, no truth mistrusted, and nothing but a pure and single
+have taught, no [[Truth|truth]] mistrusted, and nothing but a pure and single
 heart expressed.
 
 Many half-forgotten emotions were awakened in the sister’s mind by this
 visit. It was so very long since any other visitor had crossed their
 threshold; it was so very long since any voice of apathy had made sad
 music in her ears; that the stranger’s figure remained present to her,
-hours afterwards, when she sat at the window, plying her needle; and
+hours afterwards, when she sat at the [[Window|window]], plying her needle; and
 his words seemed newly spoken, again and again. He had touched the
-spring that opened her whole life; and if she lost him for a short
+[[Spring|spring]] that opened her whole life; and if she lost him for a short
 space, it was only among the many shapes of the one great recollection
 of which that life was made.
 
 Musing and working by turns; now constraining herself to be steady at
-her needle for a long time together, and now letting her work fall,
+her needle for a long [[Time|time]] together, and now letting her work fall,
 unregarded, on her lap, and straying wheresoever her busier thoughts
 led, Harriet Carker found the hours glide by her, and the day steal on.
 The morning, which had been bright and clear, gradually became
-overcast; a sharp wind set in; the rain fell heavily; and a dark mist
+overcast; a sharp [[Wind|wind]] set in; the rain fell heavily; and a dark mist
 drooping over the distant town, hid it from the view.
 
-She often looked with compassion, at such a time, upon the stragglers
-who came wandering into London, by the great highway hard by, and who,
+She often looked with compassion, at such a [[Time|time]], upon the stragglers
+who came wandering into [[London]], by the great highway hard by, and who,
 footsore and weary, and gazing fearfully at the huge town before them,
 as if foreboding that their misery there would be but as a drop of
-water in the sea, or as a grain of sea-sand on the shore, went
+[[Water|water]] in the sea, or as a grain of sea-sand on the shore, went
 shrinking on, cowering before the angry weather, and looking as if the
 very elements rejected them. Day after day, such travellers crept past,
 but always, as she thought, in one direction—always towards the town.
 Swallowed up in one phase or other of its immensity, towards which they
 seemed impelled by a desperate fascination, they never returned. Food
-for the hospitals, the churchyards, the prisons, the river, fever,
-madness, vice, and death,—they passed on to the monster, roaring in the
+for the hospitals, the churchyards, the prisons, the [[River|river]], fever,
+[[Madness|madness]], vice, and [[Death|death]],—they passed on to the [[Monster|monster]], roaring in the
 distance, and were lost.
 
 [Illustration]
 
-The chill wind was howling, and the rain was falling, and the day was
+The chill [[Wind|wind]] was howling, and the rain was falling, and the day was
 darkening moodily, when Harriet, raising her eyes from the work on
 which she had long since been engaged with unremitting constancy, saw
 one of these travellers approaching.
 
 A woman. A solitary woman of some thirty years of age; tall;
-well-formed; handsome; miserably dressed; the soil of many country
-roads in varied weather—dust, chalk, clay, gravel—clotted on her grey
+[[Well|well]]-formed; handsome; miserably dressed; the soil of many country
+roads in varied weather—[[Dust|dust]], [[chalk]], clay, gravel—clotted on her grey
 cloak by the streaming wet; no bonnet on her head, nothing to defend
 her rich black hair from the rain, but a torn handkerchief; with the
-fluttering ends of which, and with her hair, the wind blinded her so
+fluttering ends of which, and with her hair, the [[Wind|wind]] blinded her so
 that she often stopped to push them back, and look upon the way she was
 going.
 
 She was in the act of doing so, when Harriet observed her. As her
 hands, parting on her sunburnt forehead, swept across her face, and
 threw aside the hindrances that encroached upon it, there was a
-reckless and regardless beauty in it: a dauntless and depraved
+reckless and regardless [[Beauty|beauty]] in it: a dauntless and depraved
 indifference to more than weather: a carelessness of what was cast upon
 her bare head from Heaven or earth: that, coupled with her misery and
-loneliness, touched the heart of her fellow-woman. She thought of all
+[[Loneliness|loneliness]], touched the heart of her fellow-woman. She thought of all
 that was perverted and debased within her, no less than without: of
 modest graces of the mind, hardened and steeled, like these attractions
 of the person; of the many gifts of the Creator flung to the winds like
-the wild hair; of all the beautiful ruin upon which the storm was
-beating and the night was coming.
+the wild hair; of all the beautiful ruin upon which the [[Storm|storm]] was
+beating and the [[Night|night]] was coming.
 
 Thinking of this, she did not turn away with a delicate indignation—too
 many of her own compassionate and tender sex too often do—but pitied
 her.
 
 Her fallen sister came on, looking far before her, trying with her
-eager eyes to pierce the mist in which the city was enshrouded, and
+eager eyes to pierce the mist in which the [[City|city]] was enshrouded, and
 glancing, now and then, from side to side, with the bewildered—and
 uncertain aspect of a stranger. Though her tread was bold and
 courageous, she was fatigued, and after a moment of irresolution,—sat
 down upon a heap of stones; seeking no shelter from the rain, but
 letting it rain on her as it would.
 
-She was now opposite the house; raising her head after resting it for a
+She was now opposite the [[house]]; raising her head after resting it for a
 moment on both hands, her eyes met those of Harriet.
 
 In a moment, Harriet was at the door; and the other, rising from her
@@ -504,9 +504,9 @@ her.
 the little porch, “is better than where you were. You are very welcome
 to rest here.”
 
-The wanderer looked at her, in doubt and surprise, but without any
+The wanderer looked at her, in [[Doubt|doubt]] and surprise, but without any
 expression of thankfulness; and sitting down, and taking off one of her
-worn shoes to beat out the fragments of stone and dust that were
+worn shoes to beat out the fragments of stone and [[Dust|dust]] that were
 inside, showed that her foot was cut and bleeding.
 
 Harriet uttering an expression of pity, the traveller looked up with a
@@ -523,12 +523,12 @@ against it, and wept. Not like a woman, but like a stern man surprised
 into that weakness; with a violent heaving of her breast, and struggle
 for recovery, that showed how unusual the emotion was with her.
 
-She submitted to be led into the house, and, evidently more in
+She submitted to be led into the [[house]], and, evidently more in
 gratitude than in any care for herself, washed and bound the injured
 place. Harriet then put before her fragments of her own frugal dinner,
 and when she had eaten of them, though sparingly, besought her, before
-resuming her road (which she showed her anxiety to do), to dry her
-clothes before the fire. Again, more in gratitude than with any
+resuming her [[Road|road]] (which she showed her anxiety to do), to dry her
+clothes before the [[Fire|fire]]. Again, more in gratitude than with any
 evidence of concern in her own behalf, she sat down in front of it, and
 unbinding the handkerchief about her head, and letting her thick wet
 hair fall down below her waist, sat drying it with the palms of her
@@ -545,7 +545,7 @@ though it were a heap of serpents.
 “Are you a stranger in this place?” asked Harriet.
 
 “A stranger!” she returned, stopping between each short reply, and
-looking at the fire. “Yes. Ten or a dozen years a stranger. I have had
+looking at the [[Fire|fire]]. “Yes. Ten or a dozen years a stranger. I have had
 no almanack where I have been. Ten or a dozen years. I don’t know this
 part. It’s much altered since I went away.”
 
@@ -558,7 +558,7 @@ entertainer. “I have been one myself.”
 “Heaven help you and forgive you!” was the gentle answer.
 
 “Ah! Heaven help me and forgive me!” she returned, nodding her head at
-the fire. “If man would help some of us a little more, God would
+the [[Fire|fire]]. “If man would help some of us a little more, God would
 forgive us all the sooner perhaps.”
 
 But she was softened by the earnest manner, and the cordial face so
@@ -572,26 +572,26 @@ She opened her arms, as though the exhibition of her outward form would
 show the moral wretch she was; and letting them drop at her sides, hung
 down her head.
 
-“There is nothing we may not hope to repair; it is never too late to
+“There is nothing we may not [[Hope|hope]] to repair; it is never too late to
 amend,” said Harriet. “You are penitent?”
 
 “No,” she answered. “I am not! I can’t be. I am no such thing. Why
 should I be penitent, and all the world go free? They talk to me of my
 penitence. Who’s penitent for the wrongs that have been done to me?”
 
-She rose up, bound her handkerchief about her head, and turned to move
+She [[Rose|rose]] up, bound her handkerchief about her head, and turned to move
 away.
 
 “Where are you going?” said Harriet.
 
-“Yonder,” she answered, pointing with her hand. “To London.”
+“Yonder,” she answered, pointing with her hand. “To [[London]].”
 
-“Have you any home to go to?”
+“Have you any [[Home|home]] to go to?”
 
 “I think I have a mother. She’s as much a mother, as her dwelling is a
-home,” she answered with a bitter laugh.
+[[Home|home]],” she answered with a bitter laugh.
 
-“Take this,” cried Harriet, putting money in her hand. “Try to do well.
+“Take this,” cried Harriet, putting money in her hand. “Try to do [[Well|well]].
 It is very little, but for one day it may keep you from harm.”
 
 “Are you married?” said the other, faintly, as she took it.
@@ -601,12 +601,12 @@ give you more.”
 
 “Will you let me kiss you?”
 
-Seeing no scorn or repugnance in her face, the object of her charity
+Seeing no scorn or repugnance in her face, the object of her [[Charity|charity]]
 bent over her as she asked the question, and pressed her lips against
 her cheek. Once more she caught her arm, and covered her eyes with it;
 and then was gone.
 
-Gone into the deepening night, and howling wind, and pelting rain;
-urging her way on towards the mist-enshrouded city where the blurred
+Gone into the deepening [[Night|night]], and howling [[Wind|wind]], and pelting rain;
+urging her way on towards the mist-enshrouded [[City|city]] where the blurred
 lights gleamed; and with her black hair, and disordered head-gear,
 fluttering round her reckless face.

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,14 +20,14 @@ UNTIMELY DOWNFALL OF MR. STIGGINS
 Considering it a matter of delicacy to abstain from introducing either
 Bob Sawyer or Ben Allen to the young couple, until they were fully
 prepared to expect them, and wishing to spare Arabella’s feelings as
-much as possible, Mr. Pickwick proposed that he and Sam should alight in
+much as possible, Mr. [[Pickwick]] proposed that he and Sam should alight in
 the neighbourhood of the George and Vulture, and that the two young men
 should for the present take up their quarters elsewhere. To this they
 very readily agreed, and the proposition was accordingly acted upon; Mr.
 Ben Allen and Mr. Bob Sawyer betaking themselves to a sequestered pot-
 shop on the remotest confines of the Borough, behind the bar door of
 which their names had in other days very often appeared at the head of
-long and complex calculations worked in white chalk.
+long and complex calculations worked in white [[chalk]].
 
 ‘Dear me, Mr. Weller,’ said the pretty housemaid, meeting Sam at the
 door.
@@ -51,7 +51,7 @@ letter been waiting here for you four days; you hadn’t gone away, half
 an hour, when it came; and more than that, it’s got “immediate,” on the
 outside.’
 
-‘Vere is it, my love?’ inquired Sam.
+‘Vere is it, my [[Love|love]]?’ inquired Sam.
 
 ‘I took care of it, for you, or I dare say it would have been lost long
 before this,’ replied Mary. ‘There, take it; it’s more than you
@@ -67,18 +67,18 @@ unconsciousness, ‘you seem to have grown very fond of it all at once.’
 
 To this Mr. Weller only replied by a wink, the intense meaning of which
 no description could convey the faintest idea of; and, sitting himself
-down beside Mary on a window-seat, opened the letter and glanced at the
+down beside Mary on a [[Window|window]]-seat, opened the letter and glanced at the
 contents.
 
 ‘Hollo!’ exclaimed Sam, ‘wot’s all this?’
 
-‘Nothing the matter, I hope?’ said Mary, peeping over his shoulder.
+‘Nothing the matter, I [[Hope|hope]]?’ said Mary, peeping over his shoulder.
 
 ‘Bless them eyes o’ yourn!’ said Sam, looking up.
 
 ‘Never mind my eyes; you had much better read your letter,’ said the
 pretty housemaid; and as she said so, she made the eyes twinkle with
-such slyness and beauty that they were perfectly irresistible.
+such slyness and [[Beauty|beauty]] that they were perfectly irresistible.
 
 Sam refreshed himself with a kiss, and read as follows:--
 
@@ -90,18 +90,18 @@ Sam refreshed himself with a kiss, and read as follows:--
 ‘I am wery sorry to have the pleasure of being a Bear of ill news your
 Mother in law cort cold consekens of imprudently settin too long on the
 damp grass in the rain a hearin of a shepherd who warnt able to leave
-off till late at night owen to his having vound his-self up vith brandy
-and vater and not being able to stop his-self till he got a little sober
+off till late at [[Night|night]] owen to his having vound his-[[Self|self]] up vith brandy
+and vater and not being able to stop his-[[Self|self]] till he got a little sober
 which took a many hours to do the doctor says that if she’d svallo’d
 varm brandy and vater artervards insted of afore she mightn’t have been
 no vus her veels wos immedetly greased and everythink done to set her
 agoin as could be inwented your father had hopes as she vould have
 vorked round as usual but just as she wos a turnen the corner my boy she
-took the wrong road and vent down hill vith a welocity you never see and
+took the wrong [[Road|road]] and vent down [[Hill|hill]] vith a welocity you never see and
 notvithstandin that the drag wos put on drectly by the medikel man it
 wornt of no use at all for she paid the last pike at twenty minutes
-afore six o’clock yesterday evenin havin done the jouney wery much under
-the reglar time vich praps was partly owen to her haven taken in wery
+afore six o’[[Clock|clock]] yesterday evenin havin done the jouney wery much under
+the reglar [[Time|time]] vich praps was partly owen to her haven taken in wery
 little luggage by the vay your father says that if you vill come and see
 me Sammy he vill take it as a wery great favor for I am wery lonely
 Samivel N. B. he _vill _have it spelt that vay vich I say ant right and
@@ -128,14 +128,14 @@ do. You’re right, Mary, my dear.’
 
 Having satisfied himself on this point, Sam read the letter all over,
 once more, and, appearing to form a clear notion of its contents for the
-first time, ejaculated thoughtfully, as he folded it up--
+first [[Time|time]], ejaculated thoughtfully, as he folded it up--
 
 ‘And so the poor creetur’s dead! I’m sorry for it. She warn’t a bad-
-disposed ‘ooman, if them shepherds had let her alone. I’m wery sorry for
+disposed ‘ooman, if them shepherds had let her [[Alone|alone]]. I’m wery sorry for
 it.’
 
 Mr. Weller uttered these words in so serious a manner, that the pretty
-housemaid cast down her eyes and looked very grave.
+housemaid cast down her eyes and looked very [[Grave|grave]].
 
 ‘Hows’ever,’ said Sam, putting the letter in his pocket with a gentle
 sigh, ‘it wos to be--and wos, as the old lady said arter she’d married

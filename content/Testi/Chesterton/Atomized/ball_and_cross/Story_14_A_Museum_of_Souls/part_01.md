@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Museum of Souls (part 1)"
+title: "ball and [[Cross|cross]] — A Museum of Souls (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -20,17 +20,17 @@ The man with the good hat and the jumping elbow went by very quickly;
 yet the man with the bad hat, who thought he was God, overtook him.
 He ran after him and jumped over a bed of geraniums to catch him.
 
-"I beg your Majesty's pardon," he said, with mock humility,
+"I beg your Majesty's pardon," he said, with mock [[Humility|humility]],
 "but here is a quarrel which you ought really to judge."
 
 Then as he led the heavy, silk-hatted man back towards the group,
 he caught MacIan's ear in order to whisper:  "This poor gentleman is mad;
-he thinks he is Edward VII."  At this the self-appointed Creator
+he thinks he is Edward VII."  At this the [[Self|self]]-appointed Creator
 slightly winked.  "Of course you won't trust him much; come to me
 for everything.  But in my position one has to meet so many people.
 One has to be broadminded."
 
-The big banker in the black frock-coat and hat was standing quite grave
+The big banker in the black frock-coat and hat was standing quite [[Grave|grave]]
 and dignified on the lawn, save for his slight twitch of one limb,
 and he did not seem by any means unworthy of the part which the other
 promptly forced upon him.
@@ -42,7 +42,7 @@ us as the proper seconds.  Seconds--yes, seconds----" and here
 the speaker was once more shaken with his old malady of laughter.
 
 "Yes, you and I are both seconds--and these two gentlemen can
-obviously fight in front of us.  You, he-he, are the king.
+obviously fight in front of us.  You, he-he, are the [[King|king]].
 I am God; really, they could hardly have better supporters.
 They have come to the right place."
 
@@ -57,15 +57,15 @@ And MacIan answered, with an adamantine stupidity:
 
 There was a long stillness, and their eyes involuntarily took
 in the landscape, as they had taken in all the landscapes of their
-everlasting combat; the bright, square garden behind the shop;
+everlasting combat; the bright, square [[Garden|garden]] behind the shop;
 the whole lift and leaning of the side of Hampstead Heath; the little
-garden of the decadent choked with flowers; the square of sand
+[[Garden|garden]] of the decadent choked with [[Flowers|flowers]]; the square of sand
 beside the sea at sunrise.  They both felt at the same moment all
-the breadth and blossoming beauty of that paradise, the coloured trees,
+the breadth and blossoming [[Beauty|beauty]] of that paradise, the coloured trees,
 the natural and restful nooks and also the great wall of stone--
 more awful than the wall of China--from which no flesh could flee.
 
-Turnbull was moodily balancing his sword in his hand as the other spoke;
+Turnbull was moodily balancing his [[Sword|sword]] in his hand as the other spoke;
 then he started, for a mouth whispered quite close to his ear.
 With a softness incredible in any cat, the huge, heavy man in the black
 hat and frock-coat had crept across the lawn from his own side
@@ -78,12 +78,12 @@ and I expect we're watched, but----"
 
 Something in Turnbull made him want suddenly to be sick on the grass;
 the mere healthy and heathen horror of the unclean; the mere inhumane
-hatred of the inhuman state of madness.  He seemed to hear all round
-him the hateful whispers of that place, innumerable as leaves
-whispering in the wind, and each of them telling eagerly some evil
+hatred of the inhuman state of [[Madness|madness]].  He seemed to hear all round
+him the hateful whispers of that place, innumerable as [[Leaves|leaves]]
+whispering in the [[Wind|wind]], and each of them telling eagerly some evil
 that had not happened or some terrific secret which was not true.
 All the rationalist and plain man revolted within him against bowing
-down for a moment in that forest of deception and egotistical darkness.
+down for a moment in that forest of [[Deception|deception]] and egotistical darkness.
 He wanted to blow up that palace of delusions with dynamite;
 and in some wild way, which I will not defend, he tried to do it.
 
@@ -106,7 +106,7 @@ he said, abruptly, "why do we have two sets of teeth?"
 
 "Yes," cried Turnbull, advancing on him swiftly and with animated
 gestures, "why does teething hurt?  Why do growing pains hurt?
-Why are measles catching?  Why does a rose have thorns?
+Why are measles catching?  Why does a [[Rose|rose]] have thorns?
 Why do rhinoceroses have horns?  Why is the horn on the top of the nose?
 Why haven't I a horn on the top of my nose, eh?"  And he struck
 the bridge of his nose smartly with his forefinger to indicate
@@ -119,27 +119,27 @@ and meaningless world of yours.  You make a hundred seeds and only one
 bears fruit.  You make a million worlds and only one seems inhabited.
 What do you mean by it, eh?  What do you mean by it?"
 
-The unhappy lunatic had fallen back before this quite novel form
+The unhappy lunatic had fallen back before this quite [[Novel|novel]] form
 of attack, and lifted his burnt-out cigarette almost like one warding
 off a blow.  Turnbull went on like a torrent.
 
 "A man died yesterday in Ealing.  You murdered him.
 A girl had the toothache in Croydon.  You gave it her.
-Fifty sailors were drowned off Selsey Bill.  You scuttled their ship.
+Fifty sailors were drowned off Selsey Bill.  You scuttled their [[Ship|ship]].
 What have you got to say for yourself, eh?"
 
 The representative of omnipotence looked as if he had left most of
 these things to his subordinates; he passed a hand over his wrinkling
 brow and said in a voice much saner than any he had yet used:
 
-"Well, if you dislike my assistance, of course--perhaps the
+"[[Well]], if you dislike my assistance, of course--perhaps the
 other gentleman----"
 
 "The other gentleman," cried Turnbull, scornfully, "is a
 submissive and loyal and obedient gentleman.  He likes
-the people who wear crowns, whether of diamonds or of stars.
+the people who wear crowns, whether of diamonds or of [[Stars|stars]].
 He believes in the divine right of kings, and it is appropriate
-enough that he should have the king for his second.  But it
+enough that he should have the [[King|king]] for his second.  But it
 is not appropriate to me that I should have God for my second.
 God is not good enough.  I dislike and I deny the divine right of kings.
 But I dislike more and I deny more the divine right of divinity."

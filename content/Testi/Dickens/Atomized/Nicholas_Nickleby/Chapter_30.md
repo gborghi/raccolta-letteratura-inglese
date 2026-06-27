@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30"
+title: "[[Nicholas Nickleby]] — Chapter 30"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,28 +16,28 @@ tags:
 
 CHAPTER 30
 
-Festivities are held in honour of Nicholas, who suddenly withdraws
-himself from the Society of Mr. Vincent Crummles and his Theatrical
+Festivities are held in [[Honour|honour]] of Nicholas, who suddenly withdraws
+himself from the Society of Mr. [[Vincent Crummles]] and his Theatrical
 Companions
 
 
-Mr. Vincent Crummles was no sooner acquainted with the public
+Mr. [[Vincent Crummles]] was no sooner acquainted with the public
 announcement which Nicholas had made relative to the probability of
 his shortly ceasing to be a member of the company, than he evinced many
-tokens of grief and consternation; and, in the extremity of his despair,
+tokens of grief and consternation; and, in the extremity of his [[Despair|despair]],
 even held out certain vague promises of a speedy improvement not only in
 the amount of his regular salary, but also in the contingent emoluments
 appertaining to his authorship. Finding Nicholas bent upon quitting the
 society--for he had now determined that, even if no further tidings came
 from Newman, he would, at all hazards, ease his mind by repairing to
-London and ascertaining the exact position of his sister--Mr. Crummles
+[[London]] and ascertaining the exact position of his sister--Mr. Crummles
 was fain to content himself by calculating the chances of his coming
 back again, and taking prompt and energetic measures to make the most of
 him before he went away.
 
 ‘Let me see,’ said Mr. Crummles, taking off his outlaw’s wig, the better
 to arrive at a cool-headed view of the whole case. ‘Let me see. This is
-Wednesday night. We’ll have posters out the first thing in the morning,
+Wednesday [[Night|night]]. We’ll have posters out the first thing in the morning,
 announcing positively your last appearance for tomorrow.’
 
 ‘But perhaps it may not be my last appearance, you know,’ said Nicholas.
@@ -45,7 +45,7 @@ announcing positively your last appearance for tomorrow.’
 leaving before the end of the week.’
 
 ‘So much the better,’ returned Mr. Crummles. ‘We can have positively
-your last appearance, on Thursday--re-engagement for one night more, on
+your last appearance, on [[thursday|Thursday]]--re-engagement for one [[Night|night]] more, on
 Friday--and, yielding to the wishes of numerous influential patrons, who
 were disappointed in obtaining seats, on Saturday. That ought to bring
 three very decent houses.’
@@ -57,7 +57,7 @@ smiling.
 vexation; ‘three is not enough, and it’s very bungling and irregular
 not to have more, but if we can’t help it we can’t, so there’s no use
 in talking. A novelty would be very desirable. You couldn’t sing a comic
-song on the pony’s back, could you?’
+[[Song|song]] on the pony’s back, could you?’
 
 ‘No,’ replied Nicholas, ‘I couldn’t indeed.’
 
@@ -90,7 +90,7 @@ from long experience exactly where the largest capitals ought to go), he
 seriously applied himself to the composition of the poster.
 
 ‘Heigho!’ sighed Nicholas, as he threw himself back in the prompter’s
-chair, after telegraphing the needful directions to Smike, who had been
+chair, after telegraphing the needful directions to [[Smike]], who had been
 playing a meagre tailor in the interlude, with one skirt to his coat,
 and a little pocket-handkerchief with a large hole in it, and a woollen
 nightcap, and a red nose, and other distinctive marks peculiar to
@@ -105,7 +105,7 @@ have made it if I had known you had been within hearing.’
 
 ‘What a dear that Mr. Digby is!’ said Miss Snevellicci, as the tailor
 went off on the opposite side, at the end of the piece, with great
-applause. (Smike’s theatrical name was Digby.)
+applause. ([[Smike]]’s theatrical name was Digby.)
 
 ‘I’ll tell him presently, for his gratification, that you said so,’
 returned Nicholas.
@@ -117,12 +117,12 @@ waiting to be questioned, but no questioning came, for Nicholas was
 thinking about more serious matters.
 
 ‘How kind it is of you,’ resumed Miss Snevellicci, after a short
-silence, ‘to sit waiting here for him night after night, night after
-night, no matter how tired you are; and taking so much pains with him,
+[[Silence|silence]], ‘to sit waiting here for him [[Night|night]] after [[Night|night]], [[Night|night]] after
+[[Night|night]], no matter how tired you are; and taking so much pains with him,
 and doing it all with as much delight and readiness as if you were
 coining gold by it!’
 
-‘He well deserves all the kindness I can show him, and a great deal
+‘He [[Well|well]] deserves all the kindness I can show him, and a great deal
 more,’ said Nicholas. ‘He is the most grateful, single-hearted,
 affectionate creature that ever breathed.’
 
@@ -138,7 +138,7 @@ anything out of him.’
 ‘What SHOULD they get out of him?’ asked Nicholas, turning round with
 some abruptness.
 
-‘Zooks! what a fire-eater you are, Johnson!’ returned Mr. Folair, pulling
+‘Zooks! what a [[Fire|fire]]-eater you are, Johnson!’ returned Mr. Folair, pulling
 up the heel of his dancing shoe. ‘I’m only talking of the natural
 curiosity of the people here, to know what he has been about all his
 life.’
@@ -178,9 +178,9 @@ from somewhere, for doing something or other.’
 
 ‘That’s a part of what he says,’ added Mr. Folair. ‘I mention it as the
 friend of both parties, and in strict confidence. I don’t agree with
-him, you know. He says he takes Digby to be more knave than fool; and
+him, you know. He says he takes Digby to be more knave than [[Fool|fool]]; and
 old Fluggers, who does the heavy business you know, HE says that when he
-delivered messages at Covent Garden the season before last, there used
+delivered messages at Covent [[Garden]] the season before last, there used
 to be a pickpocket hovering about the coach-stand who had exactly the
 face of Digby; though, as he very properly says, Digby may not be the
 same, but only his brother, or some near relation.’
@@ -211,12 +211,12 @@ observed Miss Snevellicci in her most winning tones.
 
 ‘Not I,’ replied Nicholas. ‘If I were going to remain here, I might
 think it worth my while to embroil myself. As it is, let them talk till
-they are hoarse. But here,’ added Nicholas, as Smike approached, ‘here
-comes the subject of a portion of their good-nature, so let he and I say
-good night together.’
+they are hoarse. But here,’ added Nicholas, as [[Smike]] approached, ‘here
+comes the subject of a portion of their good-[[Nature|nature]], so let he and I say
+good [[Night|night]] together.’
 
 ‘No, I will not let either of you say anything of the kind,’ returned
-Miss Snevellicci. ‘You must come home and see mama, who only came to
+Miss Snevellicci. ‘You must come [[Home|home]] and see mama, who only came to
 Portsmouth today, and is dying to behold you. Led, my dear, persuade Mr
 Johnson.’
 
@@ -225,7 +225,7 @@ YOU can’t persuade him--’ Miss Ledrook said no more, but intimated, by
 a dexterous playfulness, that if Miss Snevellicci couldn’t persuade him,
 nobody could.
 
-‘Mr. and Mrs. Lillyvick have taken lodgings in our house, and share our
+‘Mr. and Mrs. Lillyvick have taken lodgings in our [[house]], and share our
 sitting-room for the present,’ said Miss Snevellicci. ‘Won’t that induce
 you?’
 
@@ -238,20 +238,20 @@ giddy thing; and Miss Ledrook said that Miss Snevellicci needn’t colour
 up quite so much; and Miss Snevellicci beat Miss Ledrook, and Miss
 Ledrook beat Miss Snevellicci.
 
-‘Come,’ said Miss Ledrook, ‘it’s high time we were there, or we shall
+‘Come,’ said Miss Ledrook, ‘it’s high [[Time|time]] we were there, or we shall
 have poor Mrs. Snevellicci thinking that you have run away with her
 daughter, Mr. Johnson; and then we should have a pretty to-do.’
 
 ‘My dear Led,’ remonstrated Miss Snevellicci, ‘how you do talk!’
 
-Miss Ledrook made no answer, but taking Smike’s arm in hers, left her
+Miss Ledrook made no answer, but taking [[Smike]]’s arm in hers, left her
 friend and Nicholas to follow at their pleasure; which it pleased them,
 or rather pleased Nicholas, who had no great fancy for a TETE-A-TETE
 under the circumstances, to do at once.
 
 There were not wanting matters of conversation when they reached the
 street, for it turned out that Miss Snevellicci had a small basket to
-carry home, and Miss Ledrook a small bandbox, both containing such minor
+carry [[Home|home]], and Miss Ledrook a small bandbox, both containing such minor
 articles of theatrical costume as the lady performers usually carried to
 and fro every evening. Nicholas would insist upon carrying the basket,
 and Miss Snevellicci would insist upon carrying it herself, which
@@ -269,7 +269,7 @@ that they never had seen such a wicked creature in all their born
 days--never.
 
 Lightening the way with such pleasantry as this, they arrived at the
-tailor’s house in no time; and here they made quite a little party,
+tailor’s [[house]] in no [[Time|time]]; and here they made quite a little party,
 there being present besides Mr. Lillyvick and Mrs. Lillyvick, not only
 Miss Snevellicci’s mama, but her papa also. And an uncommonly fine man
 Miss Snevellicci’s papa was, with a hook nose, and a white forehead, and
@@ -284,10 +284,10 @@ have you got to say to me?’
 
 Such was, and in such an attitude sat Miss Snevellicci’s papa, who had
 been in the profession ever since he had first played the ten-year-old
-imps in the Christmas pantomimes; who could sing a little, dance a
+imps in the Christmas pantomimes; who could sing a little, [[Dance|dance]] a
 little, fence a little, act a little, and do everything a little, but
 not much; who had been sometimes in the ballet, and sometimes in the
-chorus, at every theatre in London; who was always selected in virtue
+[[Chorus|chorus]], at every theatre in [[London]]; who was always selected in virtue
 of his figure to play the military visitors and the speechless noblemen;
 who always wore a smart dress, and came on arm-in-arm with a smart lady
 in short petticoats,--and always did it too with such an air that people
@@ -301,7 +301,7 @@ the background.
 
 To these good people Nicholas was presented with much formality. The
 introduction being completed, Miss Snevellicci’s papa (who was scented
-with rum-and-water) said that he was delighted to make the acquaintance
+with rum-and-[[Water|water]]) said that he was delighted to make the acquaintance
 of a gentleman so highly talented; and furthermore remarked, that there
 hadn’t been such a hit made--no, not since the first appearance of his
 friend Mr. Glavormelly, at the Coburg.
@@ -316,16 +316,16 @@ papa. ‘Then you have never seen acting yet. If he had lived--’
 ‘Oh, he is dead, is he?’ interrupted Nicholas.
 
 ‘He is,’ said Mr. Snevellicci, ‘but he isn’t in Westminster Abbey, more’s
-the shame. He was a--. Well, no matter. He is gone to that bourne from
-whence no traveller returns. I hope he is appreciated THERE.’
+the shame. He was a--. [[Well]], no matter. He is gone to that bourne from
+whence no traveller returns. I [[Hope|hope]] he is appreciated THERE.’
 
 So saying Miss Snevellicci’s papa rubbed the tip of his nose with a very
 yellow silk handkerchief, and gave the company to understand that these
 recollections overcame him.
 
-‘Well, Mr. Lillyvick,’ said Nicholas, ‘and how are you?’
+‘[[Well]], Mr. Lillyvick,’ said Nicholas, ‘and how are you?’
 
-‘Quite well, sir,’ replied the collector. ‘There is nothing like the
+‘Quite [[Well|well]], sir,’ replied the collector. ‘There is nothing like the
 married state, sir, depend upon it.’
 
 ‘Indeed!’ said Nicholas, laughing.
@@ -351,16 +351,16 @@ many more such, Mr. Lillyvick jerked his elbow into Nicholas’s side, and
 chuckled till his face became quite purple in the attempt to keep down
 his satisfaction.
 
-By this time the cloth had been laid under the joint superintendence of
+By this [[Time|time]] the cloth had been laid under the joint superintendence of
 all the ladies, upon two tables put together, one being high and narrow,
 and the other low and broad. There were oysters at the top, sausages
-at the bottom, a pair of snuffers in the centre, and baked potatoes
+at the [[Bottom|bottom]], a pair of snuffers in the centre, and baked potatoes
 wherever it was most convenient to put them. Two additional chairs were
 brought in from the bedroom: Miss Snevellicci sat at the head of the
 table, and Mr. Lillyvick at the foot; and Nicholas had not only
-the honour of sitting next Miss Snevellicci, but of having Miss
+the [[Honour|honour]] of sitting next Miss Snevellicci, but of having Miss
 Snevellicci’s mama on his right hand, and Miss Snevellicci’s papa over
-the way. In short, he was the hero of the feast; and when the table was
+the way. In short, he was the [[Hero|hero]] of the feast; and when the table was
 cleared and something warm introduced, Miss Snevellicci’s papa got up
 and proposed his health in a speech containing such affecting allusions
 to his coming departure, that Miss Snevellicci wept, and was compelled
@@ -371,7 +371,7 @@ the bedroom. ‘Say, when she comes back, that she exerts herself too
 much.’
 
 Miss Ledrook eked out this speech with so many mysterious nods and
-frowns before she shut the door again, that a profound silence came upon
+frowns before she shut the door again, that a profound [[Silence|silence]] came upon
 all the company, during which Miss Snevellicci’s papa looked very
 big indeed--several sizes larger than life--at everybody in turn, but
 particularly at Nicholas, and kept on perpetually emptying his tumbler
@@ -398,18 +398,18 @@ that way.
 
 ‘Pray, pa, don’t,’ interposed Miss Snevellicci.
 
-‘Don’t what, my child?’
+‘Don’t what, my [[Child|child]]?’
 
 ‘Talk in that way.’
 
-‘Why not?’ said Mr. Snevellicci. ‘I hope you don’t suppose there’s
+‘Why not?’ said Mr. Snevellicci. ‘I [[Hope|hope]] you don’t suppose there’s
 anybody here who is to prevent my talking as I like?’
 
 ‘Nobody wants to, pa,’ rejoined his daughter.
 
 ‘Nobody would if they did want to,’ said Mr. Snevellicci. ‘I am not
 ashamed of myself, Snevellicci is my name; I’m to be found in Broad
-Court, Bow Street, when I’m in town. If I’m not at home, let any man
+[[Court]], Bow Street, when I’m in town. If I’m not at [[Home|home]], let any man
 ask for me at the stage-door. Damme, they know me at the stage-door
 I suppose. Most men have seen my portrait at the cigar shop round the
 corner. I’ve been mentioned in the newspapers before now, haven’t I?
@@ -418,25 +418,25 @@ with the affections of my daughter, I wouldn’t talk. I’d astonish him
 without talking; that’s my way.’
 
 So saying, Mr. Snevellicci struck the palm of his left hand three smart
-blows with his clenched fist; pulled a phantom nose with his right thumb
+blows with his clenched fist; pulled a [[Phantom|phantom]] nose with his right thumb
 and forefinger, and swallowed another glassful at a draught. ‘That’s my
 way,’ repeated Mr. Snevellicci.
 
-Most public characters have their failings; and the truth is that Mr
-Snevellicci was a little addicted to drinking; or, if the whole truth
+Most public characters have their failings; and the [[Truth|truth]] is that Mr
+Snevellicci was a little addicted to drinking; or, if the whole [[Truth|truth]]
 must be told, that he was scarcely ever sober. He knew in his cups three
 distinct stages of intoxication,--the dignified--the quarrelsome--the
 amorous. When professionally engaged he never got beyond the dignified;
 in private circles he went through all three, passing from one to
 another with a rapidity of transition often rather perplexing to those
-who had not the honour of his acquaintance.
+who had not the [[Honour|honour]] of his acquaintance.
 
 Thus Mr. Snevellicci had no sooner swallowed another glassful than he
 smiled upon all present in happy forgetfulness of having exhibited
 symptoms of pugnacity, and proposed ‘The ladies! Bless their hearts!’ in
 a most vivacious manner.
 
-‘I love ‘em,’ said Mr. Snevellicci, looking round the table, ‘I love ‘em,
+‘I [[Love|love]] ‘em,’ said Mr. Snevellicci, looking round the table, ‘I [[Love|love]] ‘em,
 every one.’
 
 ‘Not every one,’ reasoned Mr. Lillyvick, mildly.
@@ -445,15 +445,15 @@ every one.’
 
 ‘That would include the married ladies, you know,’ said Mr. Lillyvick.
 
-‘I love them too, sir,’ said Mr. Snevellicci.
+‘I [[Love|love]] them too, sir,’ said Mr. Snevellicci.
 
-The collector looked into the surrounding faces with an aspect of grave
+The collector looked into the surrounding faces with an aspect of [[Grave|grave]]
 astonishment, seeming to say, ‘This is a nice man!’ and appeared a
 little surprised that Mrs. Lillyvick’s manner yielded no evidences of
 horror and indignation.
 
-‘One good turn deserves another,’ said Mr. Snevellicci. ‘I love them
-and they love me.’ And as if this avowal were not made in sufficient
+‘One good turn deserves another,’ said Mr. Snevellicci. ‘I [[Love|love]] them
+and they [[Love|love]] me.’ And as if this avowal were not made in sufficient
 disregard and defiance of all moral obligations, what did Mr. Snevellicci
 do? He winked--winked openly and undisguisedly; winked with his right
 eye--upon Henrietta Lillyvick!
@@ -476,7 +476,7 @@ him, all doubled up, into a chair, as if he had been a stuffed figure.
 ‘What do you mean to do? What do you want to do? What is the matter with
 you?’
 
-While Nicholas raised up the collector, Smike had performed the same
+While Nicholas raised up the collector, [[Smike]] had performed the same
 office for Mr. Snevellicci, who now regarded his late adversary in tipsy
 amazement.
 
@@ -491,7 +491,7 @@ inquiring look of Nicholas. ‘Nobody has said anything to me.’
 Lillyvick couldn’t bring himself to utter the word, but he counterfeited
 the motion of the eye.
 
-‘Well!’ cried Mrs. Lillyvick. ‘Do you suppose nobody is ever to look at
+‘[[Well]]!’ cried Mrs. Lillyvick. ‘Do you suppose nobody is ever to look at
 me? A pretty thing to be married indeed, if that was law!’
 
 ‘You didn’t mind it?’ cried the collector.
@@ -517,18 +517,18 @@ all round, beginning with Mrs. Lillyvick.
 The unhappy collector looked piteously at his wife, as if to see whether
 there was any one trait of Miss Petowker left in Mrs. Lillyvick, and
 finding too surely that there was not, begged pardon of all the company
-with great humility, and sat down such a crest-fallen, dispirited,
+with great [[Humility|humility]], and sat down such a crest-fallen, dispirited,
 disenchanted man, that despite all his selfishness and dotage, he was
 quite an object of compassion.
 
 Miss Snevellicci’s papa being greatly exalted by this triumph, and
 incontestable proof of his popularity with the fair sex, quickly grew
-convivial, not to say uproarious; volunteering more than one song of
+convivial, not to say uproarious; volunteering more than one [[Song|song]] of
 no inconsiderable length, and regaling the social circle between-whiles
 with recollections of divers splendid women who had been supposed to
 entertain a passion for himself, several of whom he toasted by name,
-taking occasion to remark at the same time that if he had been a little
-more alive to his own interest, he might have been rolling at that
+taking occasion to remark at the same [[Time|time]] that if he had been a little
+more alive to his own interest, he might have been [[rolling]] at that
 moment in his chariot-and-four. These reminiscences appeared to awaken
 no very torturing pangs in the breast of Mrs. Snevellicci, who was
 sufficiently occupied in descanting to Nicholas upon the manifold
@@ -536,76 +536,76 @@ accomplishments and merits of her daughter. Nor was the young lady
 herself at all behind-hand in displaying her choicest allurements; but
 these, heightened as they were by the artifices of Miss Ledrook, had no
 effect whatever in increasing the attentions of Nicholas, who, with the
-precedent of Miss Squeers still fresh in his memory, steadily resisted
+precedent of Miss Squeers still fresh in his [[Memory|memory]], steadily resisted
 every fascination, and placed so strict a guard upon his behaviour that
 when he had taken his leave the ladies were unanimous in pronouncing him
-quite a monster of insensibility.
+quite a [[Monster|monster]] of insensibility.
 
 Next day the posters appeared in due course, and the public were
 informed, in all the colours of the rainbow, and in letters afflicted
 with every possible variation of spinal deformity, how that Mr. Johnson
-would have the honour of making his last appearance that evening, and
+would have the [[Honour|honour]] of making his last appearance that evening, and
 how that an early application for places was requested, in consequence
 of the extraordinary overflow attendant on his performances,--it being
-a remarkable fact in theatrical history, but one long since established
+a remarkable fact in theatrical [[history]], but one long since established
 beyond dispute, that it is a hopeless endeavour to attract people to a
 theatre unless they can be first brought to believe that they will never
 get into it.
 
-Nicholas was somewhat at a loss, on entering the theatre at night,
+Nicholas was somewhat at a loss, on entering the theatre at [[Night|night]],
 to account for the unusual perturbation and excitement visible in the
-countenances of all the company, but he was not long in doubt as to the
+countenances of all the company, but he was not long in [[Doubt|doubt]] as to the
 cause, for before he could make any inquiry respecting it Mr. Crummles
 approached, and in an agitated tone of voice, informed him that there
-was a London manager in the boxes.
+was a [[London]] manager in the boxes.
 
 ‘It’s the phenomenon, depend upon it, sir,’ said Crummles, dragging
 Nicholas to the little hole in the curtain that he might look through at
-the London manager. ‘I have not the smallest doubt it’s the fame of the
+the [[London]] manager. ‘I have not the smallest [[Doubt|doubt]] it’s the fame of the
 phenomenon--that’s the man; him in the great-coat and no shirt-collar.
 She shall have ten pound a week, Johnson; she shall not appear on the
-London boards for a farthing less. They shan’t engage her either, unless
+[[London]] boards for a farthing less. They shan’t engage her either, unless
 they engage Mrs. Crummles too--twenty pound a week for the pair; or I’ll
 tell you what, I’ll throw in myself and the two boys, and they shall
 have the family for thirty. I can’t say fairer than that. They must take
 us all, if none of us will go without the others. That’s the way some of
-the London people do, and it always answers. Thirty pound a week--it’s
+the [[London]] people do, and it always answers. Thirty pound a week--it’s
 too cheap, Johnson. It’s dirt cheap.’
 
-Nicholas replied, that it certainly was; and Mr. Vincent Crummles taking
+Nicholas replied, that it certainly was; and Mr. [[Vincent Crummles]] taking
 several huge pinches of snuff to compose his feelings, hurried away to
 tell Mrs. Crummles that he had quite settled the only terms that could be
 accepted, and had resolved not to abate one single farthing.
 
 When everybody was dressed and the curtain went up, the excitement
-occasioned by the presence of the London manager increased a
-thousand-fold. Everybody happened to know that the London manager had
+occasioned by the presence of the [[London]] manager increased a
+thousand-fold. Everybody happened to know that the [[London]] manager had
 come down specially to witness his or her own performance, and all were
 in a flutter of anxiety and expectation. Some of those who were not
 on in the first scene, hurried to the wings, and there stretched their
 necks to have a peep at him; others stole up into the two little private
 boxes over the stage-doors, and from that position reconnoitred the
-London manager. Once the London manager was seen to smile--he smiled
+[[London]] manager. Once the [[London]] manager was seen to smile--he smiled
 at the comic countryman’s pretending to catch a blue-bottle, while Mrs
 Crummles was making her greatest effect. ‘Very good, my fine fellow,’
 said Mr. Crummles, shaking his fist at the comic countryman when he came
-off, ‘you leave this company next Saturday night.’
+off, ‘you leave this company next Saturday [[Night|night]].’
 
 In the same way, everybody who was on the stage beheld no audience but
-one individual; everybody played to the London manager. When Mr. Lenville
+one individual; everybody played to the [[London]] manager. When Mr. Lenville
 in a sudden burst of passion called the emperor a miscreant, and then
 biting his glove, said, ‘But I must dissemble,’ instead of looking
 gloomily at the boards and so waiting for his cue, as is proper in such
-cases, he kept his eye fixed upon the London manager. When Miss Bravassa
-sang her song at her lover, who according to custom stood ready to shake
+cases, he kept his eye fixed upon the [[London]] manager. When Miss Bravassa
+sang her [[Song|song]] at her [[Lover|lover]], who according to custom stood ready to shake
 hands with her between the verses, they looked, not at each other, but
-at the London manager. Mr. Crummles died point blank at him; and when the
-two guards came in to take the body off after a very hard death, it was
-seen to open its eyes and glance at the London manager. At length the
-London manager was discovered to be asleep, and shortly after that
+at the [[London]] manager. Mr. Crummles died point blank at him; and when the
+two guards came in to take the [[Body|body]] off after a very hard [[Death|death]], it was
+seen to open its eyes and glance at the [[London]] manager. At length the
+[[London]] manager was discovered to be asleep, and shortly after that
 he woke up and went away, whereupon all the company fell foul of the
 unhappy comic countryman, declaring that his buffoonery was the sole
-cause; and Mr. Crummles said, that he had put up with it a long time, but
+cause; and Mr. Crummles said, that he had put up with it a long [[Time|time]], but
 that he really couldn’t stand it any longer, and therefore would feel
 obliged by his looking out for another engagement.
 
@@ -614,19 +614,19 @@ feeling upon the subject was one of sincere satisfaction that the great
 man went away before he appeared. He went through his part in the
 two last pieces as briskly as he could, and having been received with
 unbounded favour and unprecedented applause--so said the bills for next
-day, which had been printed an hour or two before--he took Smike’s arm
-and walked home to bed.
+day, which had been printed an hour or two before--he took [[Smike]]’s arm
+and walked [[Home|home]] to bed.
 
-With the post next morning came a letter from Newman Noggs, very inky,
+With the post next morning came a letter from [[Newman Noggs]], very inky,
 very short, very dirty, very small, and very mysterious, urging Nicholas
-to return to London instantly; not to lose an instant; to be there that
-night if possible.
+to return to [[London]] instantly; not to lose an instant; to be there that
+[[Night|night]] if possible.
 
 ‘I will,’ said Nicholas. ‘Heaven knows I have remained here for the
 best, and sorely against my own will; but even now I may have dallied
-too long. What can have happened? Smike, my good fellow, here--take my
+too long. What can have happened? [[Smike]], my good fellow, here--take my
 purse. Put our things together, and pay what little debts we owe--quick,
-and we shall be in time for the morning coach. I will only tell them
+and we shall be in [[Time|time]] for the morning coach. I will only tell them
 that we are going, and will return to you immediately.’
 
 So saying, he took his hat, and hurrying away to the lodgings of Mr
@@ -639,11 +639,11 @@ The door being opened, Nicholas ran upstairs without any ceremony, and
 bursting into the darkened sitting-room on the one-pair front, found
 that the two Master Crummleses had sprung out of the sofa-bedstead and
 were putting on their clothes with great rapidity, under the impression
-that it was the middle of the night, and the next house was on fire.
+that it was the middle of the [[Night|night]], and the next [[house]] was on [[Fire|fire]].
 
 Before he could undeceive them, Mr. Crummles came down in a flannel gown
 and nightcap; and to him Nicholas briefly explained that circumstances
-had occurred which rendered it necessary for him to repair to London
+had occurred which rendered it necessary for him to repair to [[London]]
 immediately.
 
 ‘So goodbye,’ said Nicholas; ‘goodbye, goodbye.’
@@ -656,7 +656,7 @@ this week against them, or if that will not repay you, say at once what
 will. Quick, quick.’
 
 ‘We’ll cry quits about that,’ returned Crummles. ‘But can’t we have one
-last night more?’
+last [[Night|night]] more?’
 
 ‘Not an hour--not a minute,’ replied Nicholas, impatiently.
 
@@ -686,14 +686,14 @@ leading him to a contemplation of the extreme scantiness of his
 attire, he shut the door abruptly, and retired upstairs with great
 precipitation.
 
-Smike had made good speed while Nicholas was absent, and with his help
+[[Smike]] had made good [[Speed|speed]] while Nicholas was absent, and with his help
 everything was soon ready for their departure. They scarcely stopped to
 take a morsel of breakfast, and in less than half an hour arrived at the
 coach-office: quite out of breath with the haste they had made to reach
-it in time. There were yet a few minutes to spare, so, having secured
+it in [[Time|time]]. There were yet a few minutes to spare, so, having secured
 the places, Nicholas hurried into a slopseller’s hard by, and bought
-Smike a great-coat. It would have been rather large for a substantial
-yeoman, but the shopman averring (and with considerable truth) that
+[[Smike]] a great-coat. It would have been rather large for a substantial
+yeoman, but the shopman averring (and with considerable [[Truth|truth]]) that
 it was a most uncommon fit, Nicholas would have purchased it in his
 impatience if it had been twice the size.
 
@@ -707,7 +707,7 @@ the voice of Mr. Crummles exclaim, ‘It is he--my friend, my friend!’
 ‘what are you about?’
 
 The manager made no reply, but strained him to his breast again,
-exclaiming as he did so, ‘Farewell, my noble, my lion-hearted boy!’
+exclaiming as he did so, ‘Farewell, my noble, my [[Lion|lion]]-hearted boy!’
 
 In fact, Mr. Crummles, who could never lose any opportunity for
 professional display, had turned out for the express purpose of taking a
@@ -716,16 +716,16 @@ now, to that young gentleman’s most profound annoyance, inflicting upon
 him a rapid succession of stage embraces, which, as everybody knows, are
 performed by the embracer’s laying his or her chin on the shoulder of
 the object of affection, and looking over it. This Mr. Crummles did in
-the highest style of melodrama, pouring forth at the same time all
+the highest style of [[Melodrama|melodrama]], pouring forth at the same [[Time|time]] all
 the most dismal forms of farewell he could think of, out of the stock
 pieces. Nor was this all, for the elder Master Crummles was going
-through a similar ceremony with Smike; while Master Percy Crummles, with
+through a similar ceremony with [[Smike]]; while Master Percy Crummles, with
 a very little second-hand camlet cloak, worn theatrically over his left
 shoulder, stood by, in the attitude of an attendant officer, waiting to
 convey the two victims to the scaffold.
 
-The lookers-on laughed very heartily, and as it was as well to put a
+The lookers-on laughed very heartily, and as it was as [[Well|well]] to put a
 good face upon the matter, Nicholas laughed too when he had succeeded
-in disengaging himself; and rescuing the astonished Smike, climbed up
-to the coach roof after him, and kissed his hand in honour of the absent
+in disengaging himself; and rescuing the astonished [[Smike]], climbed up
+to the coach roof after him, and kissed his hand in [[Honour|honour]] of the absent
 Mrs. Crummles as they rolled away.

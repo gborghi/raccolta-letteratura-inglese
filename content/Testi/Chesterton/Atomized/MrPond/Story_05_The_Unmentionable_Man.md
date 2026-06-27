@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man"
+title: "[[MrPond]] — The Unmentionable Man"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -30,7 +30,7 @@ said he could not see the sense of things; and was deaf to the
 
 wistful questions of his friend Gahagan, about whether he might
 
-perhaps see the nonsense.  There was no nonsense about Sir Hubert
+perhaps see the nonsense.  There was no nonsense about Sir [[Hubert]]
 
 Wotton; and there was a great deal of nonsense about Captain
 
@@ -64,15 +64,15 @@ to give our friend his high and rightful rank in the biological
 
 order.  I need not trouble you with the arguments.  Pond wears a
 
-beard.  He and the oyster alone confront the world of modern
+beard.  He and the oyster [[Alone|alone]] confront the world of modern
 
 fashions with such a decoration.  When he shuts up his head he is
 
-as close as an oyster.  When he persuades us to swallow something,
+as close as an oyster.  When he persuades us to [[Swallow|swallow]] something,
 
 it is only afterwards (as we have often agreed) that we realize
 
-what a monster of the deep we have swallowed.  But, above all,
+what a [[Monster|monster]] of the deep we have swallowed.  But, above all,
 
 within that oyster are the paradoxes; which are pearls of great
 
@@ -92,7 +92,7 @@ This question of deporting dangerous characters, even when they are
 
 only suspects, has some curious and baffling problems.  I remember
 
-one rather queer case, in which a government had to consider the
+one rather queer case, in which a [[government]] had to consider the
 
 deporting of a desirable alien--"
 
@@ -134,35 +134,35 @@ wanted him to stay, and that was why it seemed obvious that he must
 
 go.  He was something which, without profanity, I trust, I might
 
-call the desire of all nations; or what poets have described as the
+call the [[Desire|desire]] of all nations; or what poets have described as the
 
-world's desire.  And yet he was not deported.  Although he was
+world's [[Desire|desire]].  And yet he was not deported.  Although he was
 
-desired, he was not deported.  That is the only real paradox."
+desired, he was not deported.  That is the only real [[Paradox|paradox]]."
 
 
 
-"Oh," said the staring Wotton.  "So that's the real paradox."
+"Oh," said the staring Wotton.  "So that's the real [[Paradox|paradox]]."
 
 
 
 "You should remember something of the case, Wotton," went on Mr.
 
-Pond.  "It was about that time when we went over to Paris together
+Pond.  "It was about that [[Time|time]] when we went over to [[Paris]] together
 
 about a rather delicate--"
 
 
 
-"Pond in Paris," murmured Gahagan.  "Pond in his Pagan Youth, when
+"Pond in [[Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
 
-(as Swinburne says so beautifully) 'Love was the pearl of his
+(as Swinburne says so beautifully) '[[Love]] was the pearl of his
 
-oyster and Venus rose red out of wine.'"
+oyster and [[Venus]] [[Rose|rose]] red out of wine.'"
 
 
 
-"Paris is on the way to many capitals," replied Pond with
+"[[Paris]] is on the way to many capitals," replied Pond with
 
 diplomatic reserve.  "In any case, there is no need to define the
 
@@ -182,13 +182,13 @@ equality; in face of a world deeply disturbed about economic
 
 equality.  When I went there, a strike in the transport services
 
-had brought the life of the capital to a deadlock; the Government
+had brought the life of the capital to a deadlock; the [[government|Government]]
 
 was accused of being under the influence of a millionaire named
 
 Kramp, who controlled the lines involved; and the crisis was the
 
-more alarming because it was insisted (on the Government side) that
+more alarming because it was insisted (on the [[government|Government]] side) that
 
 the strike was secretly engineered by the famous terrorist,
 
@@ -222,7 +222,7 @@ various ways.  The first case was commonplace enough, it might
 
 seem; consisting merely of talking to a bookseller who was
 
-otherwise a fairly ordinary shopkeeper, but well acquainted with
+otherwise a fairly ordinary shopkeeper, but [[Well|well]] acquainted with
 
 early eighteenth-century scientific books; and the period was a
 
@@ -246,13 +246,13 @@ conversation, in a café, was much more vigorous and vigilant, and
 
 belonged to a younger world.  But he also was very serious; a dark,
 
-strenuous young man who was a Government official actually
+strenuous young man who was a [[government|Government]] official actually
 
-believing in the Government; or at least in the principles of the
+believing in the [[government|Government]]; or at least in the principles of the
 
-Government; and he was the sort of man who thinks first about
+[[government|Government]]; and he was the sort of man who thinks first about
 
-principles.  He denounced the strike and even the trade union; not
+principles.  He denounced the strike and even the trade [[Union|union]]; not
 
 because he was a snob, for he lived as simply as a workman; but
 
@@ -260,15 +260,15 @@ because he really did believe in the old individualistic theory of
 
 what he called free contract.  The type is almost unknown in
 
-England; the theory is more common in America.  But nobody who
+England; the theory is more common in [[america|America]].  But nobody who
 
 looked at the baldish, rather corrugated brow that bulged between
 
 the streaks of black hair, and the anxious, though angry, eyes,
 
-could doubt that he was in fanatical good faith.  His name was
+could [[Doubt|doubt]] that he was in fanatical good [[Faith|faith]].  His name was
 
-Marcus, and he held a minor Government office, in which he could
+Marcus, and he held a minor [[government|Government]] office, in which he could
 
 survey with satisfaction the principles of the Republic, without
 
@@ -296,21 +296,21 @@ some tangle of talk and laughter; they seemed to have stopped by
 
 the table merely for the sake of the talk.  The next moment a
 
-string of gutter-children invaded his solitude and received the
+string of gutter-children invaded his [[Solitude|solitude]] and received the
 
 pieces of sugar not used for his coffee; then a hulking and rather
 
 sulky-looking labourer came up and talked to him, for a much longer
 
-time than any of the others.  Strangest of all, a lady, of the
+[[Time|time]] than any of the others.  Strangest of all, a lady, of the
 
-stiff aristocratic sort seldom seen outside the house in such
+stiff aristocratic sort seldom seen outside the [[house]] in such
 
 countries, actually got out of a carriage and stood staring at the
 
 strange gentleman; and then got into the carriage again.  These
 
-things alone might have led Pond to look at the person in question;
+things [[Alone|alone]] might have led Pond to look at the person in question;
 
 but in fact, for some reason or other, he had looked at him with
 
@@ -328,17 +328,17 @@ a ring with a stone coloured like a kingfisher, the only spot of
 
 luxury on what was otherwise a rather threadbare appearance; and in
 
-the grey shadow of the white hat his eyes shone as blue as the
+the grey [[Shadow|shadow]] of the white hat his eyes shone as blue as the
 
 stone.  There was nothing in his position that claimed prominence;
 
 he did not sit in the front but up against the wall of the café,
 
-just under a creeper and a fire-escape.  Despite the little crowds
+just under a creeper and a [[Fire|fire]]-escape.  Despite the little crowds
 
 that clustered round him, he had in the intervals an odd air of
 
-preferring to be alone.  Pond made many inquiries, then and
+preferring to be [[Alone|alone]].  Pond made many inquiries, then and
 
 afterwards, about his name; but learnt nothing except that he was
 
@@ -358,7 +358,7 @@ name, did not very clearly emerge.
 
 "Everybody knows him and nobody knows who he is," replied Marcus in
 
-a rather grating voice.  "But I'm jolly well going to find out."
+a rather grating voice.  "But I'm jolly [[Well|well]] going to find out."
 
 
 
@@ -370,7 +370,7 @@ paper, were distributing it among a considerable number of
 
 purchasers in the crowd outside the café; a black block thus
 
-rapidly diversified with blots of blood-red colour.  Some, indeed,
+rapidly diversified with blots of [[Blood|blood]]-red colour.  Some, indeed,
 
 looked at the paper only to jeer at it; some with a colder
 
@@ -384,7 +384,7 @@ ring: M. Louis.
 
 
 
-"Well," said Marcus, with a darkening brow.  "Let them.  It's their
+"[[Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
 
 last chance, I suppose."
 
@@ -416,7 +416,7 @@ and that's probably the last issue."
 
 
 
-M. Marcus proved himself a true prophet, so far as concerned the
+M. Marcus proved himself a true [[Prophet|prophet]], so far as concerned the
 
 general situation next morning.
 
@@ -430,7 +430,7 @@ seized all copies of it everywhere; and the black-clad bourgeoisie
 
 sitting outside the café were now blameless and unspotted with any
 
-hues of blood; save in one corner under the fire-escape and the
+hues of [[Blood|blood]]; save in one corner under the [[Fire|fire]]-escape and the
 
 creeper, where M. Louis was reading his copy of the sanguinary
 
@@ -460,7 +460,7 @@ umbrella like a sabre.  This was the eminent and highly militant
 
 Dr. Koch, the Minister of the Interior; he had been presiding over
 
-the police raid, and his rolling eye instantly spotted the one red
+the police raid, and his [[rolling]] eye instantly spotted the one red
 
 spot in the corner of the crowded café.  He planted himself before
 
@@ -512,7 +512,7 @@ grinding his teeth.  "Anyhow, you shan't arrest us or hold up the
 
 whole machinery of society by a trick like this.  Do you think we
 
-will let that sort of dirty little red rusty nail in the road stop
+will let that sort of dirty little red rusty nail in the [[Road|road]] stop
 
 all the wheels of progress?"
 
@@ -522,9 +522,9 @@ all the wheels of progress?"
 
 wheels of your sort of progress have ever done anything yet but
 
-grind the faces of the poor?  No; I have not the honour of being
+grind the faces of the poor?  No; I have not the [[Honour|honour]] of being
 
-one of the citizens of your State; one of those happy, joyful, well-
+one of the citizens of your State; one of those happy, joyful, [[Well|well]]-
 
 fed, wealthy citizens one sees standing about in the street, on
 
@@ -568,13 +568,13 @@ fancy about who he is."
 
 what he is.  Not a nice fancy."  And he strode abruptly away from
 
-the table and up the street alone.
+the table and up the street [[Alone|alone]].
 
 
 
 Mr. Pond remained seated in a condition of profound thought.  After
 
-some minutes he rose and made his way towards the table where his
+some minutes he [[Rose|rose]] and made his way towards the table where his
 
 friend the bookseller, the excellent Huss, was still seated in
 
@@ -608,7 +608,7 @@ and saluting like an army; and a great shout, seeming to shake the
 
 lamp-posts and little trees, went up for the one man who remained
 
-faithful to the red rag.  M. Louis rose and gravely bowed to the
+faithful to the red rag.  M. Louis [[Rose|rose]] and gravely bowed to the
 
 applauding mob.  Mr. Pond sat down opposite his friend the
 
@@ -616,7 +616,7 @@ bookseller and scrutinized his whiskered face with interest.
 
 
 
-"Well," said Mr. Pond, "our friend over there looks as if he might
+"[[Well]]," said Mr. Pond, "our friend over there looks as if he might
 
 soon be the leader of the revolutionary party."
 
@@ -644,7 +644,7 @@ capitalism."
 
 
 
-"Oh," said Mr. Pond; and an understanding began to dawn in his
+"Oh," said Mr. Pond; and an understanding began to [[Dawn|dawn]] in his
 
 eyes.  After a moment he said:  "I apologize most sincerely, old
 
@@ -664,7 +664,7 @@ sect talks its own language.  You could tell a man was a Buddhist
 
 from his way of saying he was not a Buddhist.  It's no business of
 
-mine; and I won't mention it to a soul, if you prefer not.  I only
+mine; and I won't mention it to a [[Soul|soul]], if you prefer not.  I only
 
 ventured to say that the man over there seems to be very popular
 
@@ -680,9 +680,9 @@ a scientific movement.  We are not moral.  We have done with
 
 bourgeois ideologies of right and wrong.  We are Realpolilik.  What
 
-helps the program of Marx is alone good.  What hinders the program
+helps the program of Marx is [[Alone|alone]] good.  What hinders the program
 
-of Marx is alone evil.  But there are limits.  There are names so
+of Marx is [[Alone|alone]] evil.  But there are limits.  There are names so
 
 infamous, there are persons so infamous, that they must always be
 
@@ -716,7 +716,7 @@ Tarnowski the Terrorist is now said to be fomenting strikes and
 
 revolutions not only in this country but definitely in this
 
-capital.  Well, our friend in the white hat seems to me to be
+capital.  [[Well]], our friend in the white hat seems to me to be
 
 rather an old hand."
 
@@ -748,7 +748,7 @@ Mr. Huss stiffened and sat as still as a stone idol; but the change
 
 in the face of the graven image was appalling.  It suggested some
 
-nightmare story of a man at a solitary table finding he was dining
+[[nightmare]] story of a man at a solitary table finding he was dining
 
 with a devil.
 
@@ -766,7 +766,7 @@ and apparently to be repeated indefinitely without control.
 
 
 
-"Well," interrupted Pond, mildly exasperated, "how can you possibly
+"[[Well]]," interrupted Pond, mildly exasperated, "how can you possibly
 
 know that he is not Tarnowski?"
 
@@ -798,7 +798,7 @@ it."
 
 "That," observed the other with guttural slowness, "is what I think
 
-you call a paradox."
+you call a [[Paradox|paradox]]."
 
 
 
@@ -834,7 +834,7 @@ black, bloodshot with the glimpses of the Bolshevist journal.  In
 
 the social sense at least, there seemed to be a clearance in the
 
-storm, of the strikers if not the strike; the threat of riots had
+[[Storm|storm]], of the strikers if not the strike; the threat of riots had
 
 been outmanoeuvred; and the police were picketed at intervals down
 
@@ -862,9 +862,9 @@ him in a merely nonsensical manner, as if they had been dolls or
 
 dummies in some delightful puppet-play; their cocked hats carrying
 
-a vague memory of the beadle in a Punch-and-Judy show.  Through all
+a vague [[Memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
 
-this coloured comedy there advanced the rigid figure of M. Marcus,
+this coloured [[Comedy|comedy]] there advanced the rigid figure of M. Marcus,
 
 with a visage which announced vividly that that political Puritan
 
@@ -872,9 +872,9 @@ did not believe in puppet-shows.
 
 
 
-"Well," he said, glaring at Pond with a sort of controlled rage, "I
+"[[Well]]," he said, glaring at Pond with a sort of controlled rage, "I
 
-fancy I can guess the truth about HIM."
+fancy I can guess the [[Truth|truth]] about HIM."
 
 
 
@@ -896,7 +896,7 @@ to be hanged."
 
 
 
-"I fear I do not understand anything yet," answered Pond mildly,
+"I [[Fear|fear]] I do not understand anything yet," answered Pond mildly,
 
 "except that for some reason he cannot even be deported."
 
@@ -904,13 +904,13 @@ to be hanged."
 
 "Looks very patriarchal, doesn't he, sitting in the sunshine and
 
-playing with the children?  It was darker last night and I caught
+playing with the children?  It was darker last [[Night|night]] and I caught
 
 him in a darker piece of business. . . .  Listen to this, first of
 
 all.  It was at the end of dusk, yesterday evening; and but for
 
-myself, he was alone in the café; I don't think he saw me; but I
+myself, he was [[Alone|alone]] in the café; I don't think he saw me; but I
 
 don't know if he would care.  There drove up a dark, closely
 
@@ -942,7 +942,7 @@ because he's a blackmailer."
 
 
 
-For the first time the rage of Marcus seemed mixed with a sort of
+For the first [[Time|time]] the rage of Marcus seemed mixed with a sort of
 
 embarrassment, almost amounting to shame, as he looked down
 
@@ -950,7 +950,7 @@ scowling at the table.
 
 
 
-"It has no doubt occurred to you," proceeded Pond placidly, "that
+"It has no [[Doubt|doubt]] occurred to you," proceeded Pond placidly, "that
 
 the second inference involves some suggestions that are rather
 
@@ -958,7 +958,7 @@ delicate; especially if I may say so, for a man in your position."
 
 
 
-Marcus remained in a silence swollen with anger; then at last he
+Marcus remained in a [[Silence|silence]] swollen with anger; then at last he
 
 broke out abruptly, as if beyond control:  "I'll swear the Prime
 
@@ -996,11 +996,11 @@ saying:  "Oh, you don't understand."
 
 
 
-There was a lengthy silence and then Pond resumed:
+There was a lengthy [[Silence|silence]] and then Pond resumed:
 
 
 
-"I understand the horrid truth that you yourself are a perfectly
+"I understand the horrid [[Truth|truth]] that you yourself are a perfectly
 
 honourable and high-minded person and that your own problem is
 
@@ -1032,7 +1032,7 @@ Socialist?"
 
 
 
-"Well," replied Marcus, after a spasm of concentration, "I suppose
+"[[Well]]," replied Marcus, after a spasm of concentration, "I suppose
 
 one ought to imagine.  I suppose he might hold that, the Republic
 
@@ -1046,7 +1046,7 @@ contracts."
 
 I wanted.  It is an important contribution to Pond's Law of
 
-Paradox, if I may be pardoned for expressing myself so playfully.
+[[Paradox]], if I may be pardoned for expressing myself so playfully.
 
 And now let us go and talk to M. Louis."
 
@@ -1060,7 +1060,7 @@ Some vivacious and talkative young men were taking leave of M.
 
 Louis, who courteously invited the newcomers to the empty chairs,
 
-saying something about "my young friends often enliven my solitude
+saying something about "my young friends often enliven my [[Solitude|solitude]]
 
 with their rather Socialistic views."
 
@@ -1082,7 +1082,7 @@ pretend that a bargain between a starving man and a man with all
 
 the food is anything but a leonine contract."  He glanced up at the
 
-fire-escape, a ladder leading up to the balcony of a very high
+[[Fire|fire]]-escape, a ladder leading up to the balcony of a very high
 
 attic above.  "I live in that garret; or rather on that balcony.
 
@@ -1098,7 +1098,7 @@ for his hundred million.  Hell, indeed, is not out of the picture;
 
 for it is a sin of injustice to force an advantage against the
 
-desperate.  Well, all those poor men are desperate; they all hang
+desperate.  [[Well]], all those poor men are desperate; they all hang
 
 starving on spikes.  If they must not bargain collectively, they
 
@@ -1114,9 +1114,9 @@ Pond's eye followed it and found the balcony fitted out with what
 
 looked like a bedstead, a screen, and an old looking-glass, all
 
-very shabby.  The only other object was a dusty old cross-hilted
+very shabby.  The only other object was a dusty old [[Cross|cross]]-hilted
 
-sword, such as might have come from a curiosity shop.  Mr. Pond
+[[Sword|sword]], such as might have come from a curiosity shop.  Mr. Pond
 
 eyed this last object with considerable curiosity.
 
@@ -1150,15 +1150,15 @@ turned for an instant and fired.
 
 
 
-"A little reminder, perhaps, that it is time to go to bed," said M.
+"A little reminder, perhaps, that it is [[Time|time]] to go to bed," said M.
 
-Louis gaily.  "I go up by the fire-escape and I sleep on the
+Louis gaily.  "I go up by the [[Fire|fire]]-escape and I [[Sleep|sleep]] on the
 
-balcony.  Doctors think so much of this open-air treatment.  Well,
+balcony.  Doctors think so much of this open-air treatment.  [[Well]],
 
 my people have always gone to bed in public; so many tramps do,
 
-don't they?  Good night, gentlemen."
+don't they?  Good [[Night|night]], gentlemen."
 
 
 
@@ -1170,7 +1170,7 @@ prepare for slumber.
 
 
 
-"Pond," said Marcus, "we are in a nightmare of nonsense."
+"Pond," said Marcus, "we are in a [[nightmare]] of nonsense."
 
 
 
@@ -1188,7 +1188,7 @@ I think I have discovered a rather useful principle.  It is this.
 
 Men may argue FOR principles not entirely their own, for various
 
-reasons; as a joke in a rag debate, or covered by professional
+reasons; as a joke in a rag [[debate]], or covered by professional
 
 etiquette, like a barrister, or merely exaggerating something
 
@@ -1224,7 +1224,7 @@ Leo XIII.  Therefore, he represents something even older than your
 
 Rousseau and your Revolution.  I knew after five words that he was
 
-not the blackmailing blackguard of romance; and yet he is romantic.
+not the blackmailing blackguard of [[Romance|romance]]; and yet he is romantic.
 
 And he could be legally arrested; but only for a rather curious
 
@@ -1240,7 +1240,7 @@ him in the street.  You argued truly that ladies in your country
 
 think so much of formality and propriety, that they could never do
 
-this except in some extreme of agony and despair.  It did not occur
+this except in some extreme of agony and [[Despair|despair]].  It did not occur
 
 to you that, perhaps, it might be only an extreme of formality and
 
@@ -1250,19 +1250,19 @@ propriety."
 
 Marcus began slowly:  "What the devil--"  And then Mr. Pond rapped
 
-out quite smartly:  "And then the sword.  What is a sword FOR?
+out quite smartly:  "And then the [[Sword|sword]].  What is a [[Sword|sword]] FOR?
 
-It's absurd to say for fighting; he wouldn't wave a mediæval sword
+It's absurd to say for fighting; he wouldn't wave a mediæval [[Sword|sword]]
 
 against people shooting him with guns.  If it were for duels he
 
-would have a duelling-sword; and probably two in a case.  What else
+would have a duelling-[[Sword|sword]]; and probably two in a case.  What else
 
-can you do with a sword?  Well, you can swallow it; and at one time
+can you do with a [[Sword|sword]]?  [[Well]], you can [[Swallow|swallow]] it; and at one [[Time|time]]
 
 I really had a fancy he might be a conjurer.  But it's too big a
 
-swallow; so is the notion.  What CAN be done with a sword, but not
+[[Swallow|swallow]]; so is the notion.  What CAN be done with a [[Sword|sword]], but not
 
 with a spear or gun or battle-axe?  Have you heard of the Accolade?
 
@@ -1276,13 +1276,13 @@ custom it can only be done--"
 
 
 
-"Only by a King," said Pond.  And the young Republican sprang up
+"Only by a [[King]]," said Pond.  And the young Republican sprang up
 
 rigid at the challenge.
 
 
 
-"Yes," continued Pond, "the King has crept back among you.  It is
+"Yes," continued Pond, "the [[King]] has crept back among you.  It is
 
 not your fault.  Republics might be all right if Republicans were
 
@@ -1292,7 +1292,7 @@ not . . . and that's what he meant about going to bed in public.
 
 You know the old kings really did.  But he had another reason.  He
 
-had one real fear; that they might deport him secretly.  They could
+had one real [[Fear|fear]]; that they might deport him secretly.  They could
 
 deport him technically, of course; all these Republics have laws
 
@@ -1320,9 +1320,9 @@ could they say:  'Yes, he is popular, he is on the side of the
 
 people and the poor; the young men accept his leadership; but he is
 
-the King and therefore he must go'?  They know how horribly near
+the [[King]] and therefore he must go'?  They know how horribly near
 
-the world is to answering:  'Yes; he is the King and, by God, he
+the world is to answering:  'Yes; he is the [[King]] and, by God, he
 
 shall stay.'"
 
@@ -1334,7 +1334,7 @@ shall stay.'"
 
 Mr. Pond had told this story, at somewhat greater length but in far
 
-more classic diction; and by that time had actually finished the
+more classic diction; and by that [[Time|time]] had actually finished the
 
 oysters.  He gazed pensively at the shells and added:  "You will of
 

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -45,7 +45,7 @@ The doctor let Mr Crimple’s leg fall suddenly, as if he were already in
 that agreeable condition; turned down his wristbands again, and looked
 triumphantly at the chairman.
 
-‘We know a few secrets of nature in our profession, sir,’ said the
+‘We know a few [[Secrets|secrets]] of [[Nature|nature]] in our profession, sir,’ said the
 doctor. ‘Of course we do. We study for that; we pass the Hall and the
 College for that; and we take our station in society BY that. It’s
 extraordinary how little is known on these subjects generally. Where
@@ -66,13 +66,13 @@ Crimple.
 ‘You think you do,’ replied the doctor; ‘but science knows better. There
 was a patient of mine once,’ touching one of the many mourning rings
 upon his fingers, and slightly bowing his head, ‘a gentleman who did
-me the honour to make a very handsome mention of me in his will--“in
+me the [[Honour|honour]] to make a very handsome mention of me in his will--“in
 testimony,” as he was pleased to say, “of the unremitting zeal, talent,
 and attention of my friend and medical attendant, John Jobling, Esquire,
 M.R.C.S.,”--who was so overcome by the idea of having all his life
 laboured under an erroneous view of the locality of this important
 organ, that when I assured him on my professional reputation, he was
-mistaken, he burst into tears, put out his hand, and said, “Jobling,
+mistaken, he burst into [[Tears|tears]], put out his hand, and said, “Jobling,
 God bless you!” Immediately afterwards he became speechless, and was
 ultimately buried at Brixton.’
 
@@ -87,10 +87,10 @@ and drink whenever we can. Eh, Mr Crimple?’
 The resident Director acquiesced rather sulkily, as if the gratification
 of replenishing his stomach had been impaired by the unsettlement of his
 preconceived opinions in reference to its situation. But the appearance
-of the porter and under-porter with a tray covered with a snow-white
+of the porter and under-porter with a tray covered with a [[Snow|snow]]-white
 cloth, which, being thrown back, displayed a pair of cold roast fowls,
 flanked by some potted meats and a cool salad, quickly restored his
-good humour. It was enhanced still further by the arrival of a bottle
+good [[Humour|humour]]. It was enhanced still further by the arrival of a bottle
 of excellent madeira, and another of champagne; and he soon attacked
 the repast with an appetite scarcely inferior to that of the medical
 officer.
@@ -103,7 +103,7 @@ joyous and red-faced, insomuch that every mouthful he ate, and every
 drop of wine he swallowed, seemed to impart new lustre to his eyes, and
 to light up new sparks in his nose and forehead.
 
-In certain quarters of the City and its neighbourhood, Mr Jobling was,
+In certain quarters of the [[City]] and its neighbourhood, Mr Jobling was,
 as we have already seen in some measure, a very popular character. He
 had a portentously sagacious chin, and a pompous voice, with a rich
 huskiness in some of its tones that went directly to the heart, like a
@@ -112,7 +112,7 @@ His neckerchief and shirt-frill were ever of the whitest, his clothes of
 the blackest and sleekest, his gold watch-chain of the heaviest, and
 his seals of the largest. His boots, which were always of the brightest,
 creaked as he walked. Perhaps he could shake his head, rub his hands,
-or warm himself before a fire, better than any man alive; and he had a
+or warm himself before a [[Fire|fire]], better than any man alive; and he had a
 peculiar way of smacking his lips and saying, ‘Ah!’ at intervals while
 patients detailed their symptoms, which inspired great confidence. It
 seemed to express, ‘I know what you’re going to say better than you do;

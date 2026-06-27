@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 23"
+title: "[[Agnes Grey]] — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -19,8 +19,8 @@ THE PARK
 
 
 I came down a little before eight, next morning, as I knew by the
-striking of a distant clock. There was no appearance of breakfast. I
-waited above an hour before it came, still vainly longing for access to
+striking of a distant [[Clock|clock]]. There was no appearance of breakfast. I
+waited above an hour before it came, still vainly [[Longing|longing]] for access to
 the library; and, after that lonely repast was concluded, I waited
 again about an hour and a half in great suspense and discomfort,
 uncertain what to do. At length Lady Ashby came to bid me good-morning.
@@ -69,7 +69,7 @@ than either of us, and she never said anything against it—quite the
 contrary. And then I thought he adored me, and would let me have my own
 way: he did pretend to do so at first, but now he does not care a bit
 about me. Yet I should not care for that: he might do as he pleased, if
-I might only be free to amuse myself and to stay in London, or have a
+I might only be free to amuse myself and to stay in [[London]], or have a
 few friends down here: but _he will_ do as he pleases, and I must be a
 prisoner and a slave. The moment he saw I could enjoy myself without
 him, and that others knew my value better than himself, the selfish
@@ -79,17 +79,17 @@ needs have me down in the country, to lead the life of a nun, lest I
 should dishonour him or bring him to ruin; as if he had not been ten
 times worse every way, with his betting-book, and his gaming-table, and
 his opera-girls, and his Lady This and Mrs. That—yes, and his bottles
-of wine, and glasses of brandy-and-water too! Oh, I would give ten
+of wine, and glasses of brandy-and-[[Water|water]] too! Oh, I would give ten
 thousand worlds to be Miss Murray again! It is _too_ bad to feel life,
-health, and beauty wasting away, unfelt and unenjoyed, for such a brute
-as that!” exclaimed she, fairly bursting into tears in the bitterness
+health, and [[Beauty|beauty]] wasting away, unfelt and unenjoyed, for such a brute
+as that!” exclaimed she, fairly bursting into [[Tears|tears]] in the bitterness
 of her vexation.
 
-Of course, I pitied her exceedingly; as well for her false idea of
+Of course, I pitied her exceedingly; as [[Well|well]] for her false idea of
 happiness and disregard of duty, as for the wretched partner with whom
 her fate was linked. I said what I could to comfort her, and offered
 such counsels as I thought she most required: advising her, first, by
-gentle reasoning, by kindness, example, and persuasion, to try to
+gentle reasoning, by kindness, example, and [[Persuasion|persuasion]], to try to
 ameliorate her husband; and then, when she had done all she could, if
 she still found him incorrigible, to endeavour to abstract herself from
 him—to wrap herself up in her own integrity, and trouble herself as
@@ -99,7 +99,7 @@ herself with the care and nurture of her little daughter; assuring her
 she would be amply rewarded by witnessing its progress in strength and
 wisdom, and receiving its genuine affection.
 
-“But I can’t devote myself entirely to a child,” said she; “it may
+“But I can’t devote myself entirely to a [[Child|child]],” said she; “it may
 die—which is not at all improbable.”
 
 “But, with care, many a delicate infant has become a strong man or
@@ -115,7 +115,7 @@ father will leave it no inheritance that he can possibly squander away.
 What pleasure can I have in seeing a girl grow up to eclipse me, and
 enjoy those pleasures that I am for ever debarred from? But supposing I
 could be so generous as to take delight in this, still it is _only_ a
-child; and I can’t centre all my hopes in a child: that is only one
+[[Child|child]]; and I can’t centre all my hopes in a [[Child|child]]: that is only one
 degree better than devoting oneself to a dog. And as for all the wisdom
 and goodness you have been trying to instil into me—that is all very
 right and proper, I daresay, and if I were some twenty years older, I
@@ -128,7 +128,7 @@ the earlier you become wise and good, the more of happiness you secure.
 And now, Lady Ashby, I have one more piece of advice to offer you,
 which is, that you will not make an enemy of your mother-in-law. Don’t
 get into the way of holding her at arms’ length, and regarding her with
-jealous distrust. I never saw her, but I have heard good as well as
+jealous distrust. I never saw her, but I have heard good as [[Well|well]] as
 evil respecting her; and I imagine that, though cold and haughty in her
 general demeanour, and even exacting in her requirements, she has
 strong affections for those who can reach them; and, though so blindly
@@ -136,9 +136,9 @@ attached to her son, she is not without good principles, or incapable
 of hearing reason. If you would but conciliate her a little, and adopt
 a friendly, open manner—and even confide your grievances to her—real
 grievances, such as you have a right to complain of—it is my firm
-belief that she would, in time, become your faithful friend, and a
+belief that she would, in [[Time|time]], become your faithful friend, and a
 comfort and support to you, instead of the incubus you describe her.”
-But I fear my advice had little effect upon the unfortunate young lady;
+But I [[Fear|fear]] my advice had little effect upon the unfortunate young lady;
 and, finding I could render myself so little serviceable, my residence
 at Ashby Park became doubly painful. But still, I must stay out that
 day and the following one, as I had promised to do so: though,
@@ -146,10 +146,10 @@ resisting all entreaties and inducements to prolong my visit further, I
 insisted upon departing the next morning; affirming that my mother
 would be lonely without me, and that she impatiently expected my
 return. Nevertheless, it was with a heavy heart that I bade adieu to
-poor Lady Ashby, and left her in her princely home. It was no slight
+poor Lady Ashby, and left her in her princely [[Home|home]]. It was no slight
 additional proof of her unhappiness, that she should so cling to the
-consolation of my presence, and earnestly desire the company of one
+consolation of my presence, and earnestly [[Desire|desire]] the company of one
 whose general tastes and ideas were so little congenial to her own—whom
 she had completely forgotten in her hour of prosperity, and whose
 presence would be rather a nuisance than a pleasure, if she could but
-have half her heart’s desire.
+have half her heart’s [[Desire|desire]].

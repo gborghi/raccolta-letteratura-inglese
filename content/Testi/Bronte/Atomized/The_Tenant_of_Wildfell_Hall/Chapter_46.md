@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 46"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 46"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -34,13 +34,13 @@ Millwards and Wilsons, and such was my present appreciation of Eliza
 
 Millward’s disposition, that, if once she got a clue to the story, I
 
-should fear she would soon find means to enlighten Mr. Huntingdon upon
+should [[Fear|fear]] she would soon find means to enlighten Mr. Huntingdon upon
 
 the place of his wife’s retreat. I would therefore wait patiently till
 
 these weary six months were over, and then, when the fugitive had found
 
-another home, and I was permitted to write to her, I would beg to be
+another [[Home|home]], and I was permitted to write to her, I would beg to be
 
 allowed to clear her name from these vile calumnies: at present I must
 
@@ -68,11 +68,11 @@ thought I could not, though sometimes I felt a pang of remorse for my
 
 undutiful conduct to her, and made an effort to amend, attended with
 
-some partial success; and indeed I was generally more humanised in my
+some partial [[success]]; and indeed I was generally more humanised in my
 
-demeanour to her than to any one else, Mr. Lawrence excepted. Rose and
+demeanour to her than to any one else, Mr. Lawrence excepted. [[Rose]] and
 
-Fergus usually shunned my presence; and it was well they did, for I was
+Fergus usually shunned my presence; and it was [[Well|well]] they did, for I was
 
 not fit company for them, nor they for me, under the present
 
@@ -82,9 +82,9 @@ circumstances.
 
 Mrs. Huntingdon did not leave Wildfell Hall till above two months after
 
-our farewell interview. During that time she never appeared at church,
+our farewell interview. During that [[Time|time]] she never appeared at church,
 
-and I never went near the house: I only knew she was still there by her
+and I never went near the [[house]]: I only knew she was still there by her
 
 brother’s brief answers to my many and varied inquiries respecting her.
 
@@ -92,7 +92,7 @@ I was a very constant and attentive visitor to him throughout the whole
 
 period of his illness and convalescence; not only from the interest I
 
-took in his recovery, and my desire to cheer him up and make the utmost
+took in his recovery, and my [[Desire|desire]] to cheer him up and make the utmost
 
 possible amends for my former “brutality,” but from my growing
 
@@ -100,9 +100,9 @@ attachment to himself, and the increasing pleasure I found in his
 
 society—partly from his increased cordiality to me, but chiefly on
 
-account of his close connection, both in blood and in affection, with
+account of his close connection, both in [[Blood|blood]] and in affection, with
 
-my adored Helen. I loved him for it better than I liked to express: and
+my adored [[Helen]]. I loved him for it better than I liked to express: and
 
 I took a secret delight in pressing those slender white fingers, so
 
@@ -126,9 +126,9 @@ His recovery was not quite so rapid as he had expected it to be; he was
 
 not able to mount his pony till a fortnight after the date of our
 
-reconciliation; and the first use he made of his returning strength was
+[[Reconciliation|reconciliation]]; and the first use he made of his returning strength was
 
-to ride over by night to Wildfell Hall, to see his sister. It was a
+to ride over by [[Night|night]] to Wildfell Hall, to see his sister. It was a
 
 hazardous enterprise both for him and for her, but he thought it
 
@@ -142,7 +142,7 @@ of the visit but the inmates of the old Hall, except myself; and I
 
 believe it had not been his intention to mention it to me, for when I
 
-came to see him the next day, and observed he was not so well as he
+came to see him the next day, and observed he was not so [[Well|well]] as he
 
 ought to have been, he merely said he had caught cold by being out too
 
@@ -186,13 +186,13 @@ the venture, and with what precautions he had made it.
 
 “She is not positively ill,” returned he; “and she will recover her
 
-spirits in a while, I have no doubt—but so many trials have been almost
+spirits in a while, I have no [[Doubt|doubt]]—but so many trials have been almost
 
 too much for her. How threatening those clouds look,” continued he,
 
-turning towards the window. “We shall have thunder-showers before
+turning towards the [[Window|window]]. “We shall have thunder-showers before
 
-night, I imagine, and they are just in the midst of stacking my corn.
+[[Night|night]], I imagine, and they are just in the midst of stacking my corn.
 
 Have you got yours all in yet?”
 
@@ -218,7 +218,7 @@ conversation was chiefly on the subject of her intended departure,
 
 which I begged her to delay till I was better able to assist her in her
 
-search after another home.”
+search after another [[Home|home]].”
 
 
 
@@ -244,7 +244,7 @@ should think too much of her, than lest you should forget her.”
 
 
 
-“But I fear _your_ anxiety is quite the other way respecting her.”
+“But I [[Fear|fear]] _your_ anxiety is quite the other way respecting her.”
 
 
 
@@ -252,9 +252,9 @@ should think too much of her, than lest you should forget her.”
 
 me altogether. She knows it is impossible that I should forget _her;_
 
-and she is right to wish me not to remember her too well. I should not
+and she is right to wish me not to remember her too [[Well|well]]. I should not
 
-desire her to regret me _too_ deeply; but I can scarcely imagine she
+[[Desire|desire]] her to regret me _too_ deeply; but I can scarcely imagine she
 
 will make herself very unhappy about me, because I know I am not worthy
 
@@ -264,11 +264,11 @@ of it, except in my appreciation of her.”
 
 “You are neither of you worthy of a broken heart,—nor of all the sighs,
 
-and tears, and sorrowful thoughts that have been, and I fear will be,
+and [[Tears|tears]], and sorrowful thoughts that have been, and I [[Fear|fear]] will be,
 
 wasted upon you both; but, at present, each has a more exalted opinion
 
-of the other than, I fear, he or she deserves; and my sister’s feelings
+of the other than, I [[Fear|fear]], he or she deserves; and my sister’s feelings
 
 are naturally full as keen as yours, and I believe _more_ constant; but
 
@@ -294,7 +294,7 @@ her thoughts—” he hesitated.
 
 “No; the question was not broached between us: there was no necessity
 
-for it, for I had no doubt that such was her determination.”
+for it, for I had no [[Doubt|doubt]] that such was her determination.”
 
 
 
@@ -306,7 +306,7 @@ for it, for I had no doubt that such was her determination.”
 
 
 
-“Oh, well!” was my only audible reply; but I internally answered,—“No,
+“Oh, [[Well|well]]!” was my only audible reply; but I internally answered,—“No,
 
 Lawrence, you’re wrong there: she is _not_ determined to forget me. It
 
@@ -340,7 +340,7 @@ displeasure which is so commonly the reward of those who give
 
 disagreeable information, or tender their advice unasked. In this,
 
-believe me, I was actuated by no motives of revenge for the occasional
+believe me, I was actuated by no motives of [[Revenge|revenge]] for the occasional
 
 annoyances I had lately sustained from him,—nor yet by any feeling of
 
@@ -348,11 +348,11 @@ malevolent enmity towards Miss Wilson, but purely by the fact that I
 
 could not endure that such a woman should be Mrs. Huntingdon’s sister,
 
-and that, as well for his own sake as for hers, I could not bear to
+and that, as [[Well|well]] for his own sake as for hers, I could not bear to
 
-think of his being deceived into a union with one so unworthy of him,
+think of his being deceived into a [[Union|union]] with one so unworthy of him,
 
-and so utterly unfitted to be the partner of his quiet home, and the
+and so utterly unfitted to be the partner of his quiet [[Home|home]], and the
 
 companion of his life. He had had uncomfortable suspicions on that head
 
@@ -360,11 +360,11 @@ himself, I imagined; but such was his inexperience, and such were the
 
 lady’s powers of attraction, and her skill in bringing them to bear
 
-upon his young imagination, that they had not disturbed him long; and I
+upon his young [[Imagination|imagination]], that they had not disturbed him long; and I
 
 believe the only effectual causes of the vacillating indecision that
 
-had preserved him hitherto from making an actual declaration of love,
+had preserved him hitherto from making an actual declaration of [[Love|love]],
 
 was the consideration of her connections, and especially of her mother,
 
@@ -422,11 +422,11 @@ not as you choose—only please to remember that it is not my custom to
 
 speak falsely, and that in this case I can have no motive for
 
-misrepresenting the truth—”
+misrepresenting the [[Truth|truth]]—”
 
 
 
-“Well, Markham, what now?”
+“[[Well]], Markham, what now?”
 
 
 
@@ -468,11 +468,11 @@ indignation.
 
 
 
-“Well, as I cannot prove it, I must content myself with asserting that
+“[[Well]], as I cannot prove it, I must content myself with asserting that
 
 it is so to the best of my belief; but as you would not willingly marry
 
-Miss Wilson if it _were_ so, you will do well to be cautious, till you
+Miss Wilson if it _were_ so, you will do [[Well|well]] to be cautious, till you
 
 have proved it to be otherwise.”
 
@@ -522,7 +522,7 @@ cold-hearted, ambitious, artful, shallow-minded—”
 
 
 
-“No; let me finish:—you don’t know that, if you married her, your home
+“No; let me finish:—you don’t know that, if you married her, your [[Home|home]]
 
 would be rayless and comfortless; and it would break your heart at last
 
@@ -530,7 +530,7 @@ to find yourself united to one so wholly incapable of sharing your
 
 tastes, feelings, and ideas—so utterly destitute of sensibility, good
 
-feeling, and true nobility of soul.”
+feeling, and true nobility of [[Soul|soul]].”
 
 
 
@@ -544,7 +544,7 @@ only conduces to preserve you from that fatal mistake.”
 
 
 
-“Well!” returned he, with a rather wintry smile—“I’m glad you have
+“[[Well]]!” returned he, with a rather wintry smile—“I’m glad you have
 
 overcome or forgotten your own afflictions so far as to be able to
 
@@ -558,9 +558,9 @@ life.”
 
 We parted—somewhat coldly again: but still we did not cease to be
 
-friends; and my well-meant warning, though it might have been more
+friends; and my [[Well|well]]-meant warning, though it might have been more
 
-judiciously delivered, as well as more thankfully received, was not
+judiciously delivered, as [[Well|well]] as more thankfully received, was not
 
 wholly unproductive of the desired effect: his visit to the Wilsons was
 
@@ -598,6 +598,6 @@ the sudden cold neglect and ultimate desertion of her former admirer.
 
 Had I done wrong to blight her cherished hopes? I think not; and
 
-certainly my conscience has never accused me, from that day to this, of
+certainly my [[Conscience|conscience]] has never accused me, from that day to this, of
 
 any evil design in the matter.

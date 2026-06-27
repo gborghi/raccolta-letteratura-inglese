@@ -20,23 +20,23 @@ And the dripping wall is high,
 So it was there he took the air  
 Beneath the leaden sky,  
 And by each side a Warder walked,  
-For fear the man might die.  
+For [[Fear|fear]] the man might die.  
 Or else he sat with those who watched  
-His anguish night and day;  
-Who watched him when he rose to weep,  
+His anguish [[Night|night]] and day;  
+Who watched him when he [[Rose|rose]] to weep,  
 And when he crouched to pray;  
 Who watched him lest himself should rob  
 Their scaffold of its prey.  
 The Governor was strong upon  
 The Regulations Act:  
-The Doctor said that Death was but  
+The Doctor said that [[Death]] was but  
 A scientific fact:  
 And twice a day the Chaplain called,  
 And left a little tract.  
 And twice a day he smoked his pipe,  
 And drank his quart of beer:  
-His soul was resolute, and held  
-No hiding-place for fear;  
+His [[Soul|soul]] was resolute, and held  
+No hiding-place for [[Fear|fear]];  
 He often said that he was glad  
 The hangman’s hands were near.  
 But why he said so strange a thing  
@@ -50,7 +50,7 @@ To comfort or console:
 And what should Human Pity do  
 Pent up in Murderers’ Hole?  
 What word of grace in such a place  
-Could help a brother’s soul?  
+Could help a brother’s [[Soul|soul]]?  
 With slouch and swing around the ring  
 We trod the Fools’ Parade!  
 We did not care: we knew we were  
@@ -72,52 +72,52 @@ Terror was lying still.
 So still it lay that every day  
 Crawled like a weed-clogged wave:  
 And we forgot the bitter lot  
-That waits for fool and knave,  
+That waits for [[Fool|fool]] and knave,  
 Till once, as we tramped in from work,  
-We passed an open grave.  
+We passed an open [[Grave|grave]].  
 With yawning mouth the yellow hole  
 Gaped for a living thing;  
-The very mud cried out for blood  
+The very mud cried out for [[Blood|blood]]  
 To the thirsty asphalte ring:  
-And we knew that ere one dawn grew fair  
+And we knew that ere one [[Dawn|dawn]] grew fair  
 Some prisoner had to swing.  
-Right in we went, with soul intent  
-On Death and Dread and Doom:  
+Right in we went, with [[Soul|soul]] intent  
+On [[Death]] and Dread and Doom:  
 The hangman, with his little bag,  
 Went shuffling through the gloom:  
 And each man trembled as he crept  
 Into his numbered tomb.  
-That night the empty corridors  
-Were full of forms of Fear,  
+That [[Night|night]] the empty corridors  
+Were full of forms of [[Fear]],  
 And up and down the iron town  
 Stole feet we could not hear,  
-And through the bars that hide the stars  
+And through the bars that hide the [[Stars|stars]]  
 White faces seemed to peer.  
-He lay as one who lies and dreams  
+He lay as one who lies and [[Dreams|dreams]]  
 In a pleasant meadow-land,  
 The watchers watched him as he slept,  
 And could not understand  
-How one could sleep so sweet a sleep  
+How one could [[Sleep|sleep]] so sweet a [[Sleep|sleep]]  
 With a hangman close at hand.  
-But there is no sleep when men must weep  
+But there is no [[Sleep|sleep]] when men must weep  
 Who never yet have wept:  
-So we - the fool, the fraud, the knave -  
+So we - the [[Fool|fool]], the fraud, the knave -  
 That endless vigil kept,  
-And through each brain on hands of pain  
+And through each brain on hands of [[Pain|pain]]  
 Another’s terror crept.  
 Alas! it is a fearful thing  
-To feel another’s guilt!  
-For, right within, the sword of Sin  
+To feel another’s [[Guilt|guilt]]!  
+For, right within, the [[Sword|sword]] of Sin  
 Pierced to its poisoned hilt,  
-And as molten lead were the tears we shed  
-For the blood we had not spilt.  
+And as molten lead were the [[Tears|tears]] we shed  
+For the [[Blood|blood]] we had not spilt.  
 The Warders with their shoes of felt  
 Crept by each padlocked door,  
 And peeped and saw, with eyes of awe,  
 Grey figures on the floor,  
 And wondered why men knelt to pray  
 Who never prayed before.  
-All through the night we knelt and prayed,  
+All through the [[Night|night]] we knelt and prayed,  
 Mad mourners of a corse!  
 The troubled plumes of midnight were  
 The plumes upon a hearse:  
@@ -127,11 +127,11 @@ The grey cock crew, the red cock crew,
 But never came the day:  
 And crooked shapes of Terror crouched,  
 In the corners where we lay:  
-And each evil sprite that walks by night  
+And each evil sprite that walks by [[Night|night]]  
 Before us seemed to play.  
 They glided past, they glided fast,  
 Like travellers through a mist:  
-They mocked the moon in a rigadoon  
+They mocked the [[Moon|moon]] in a rigadoon  
 Of delicate turn and twist,  
 And with formal pace and loathsome grace  
 The phantoms kept their tryst.  
@@ -140,11 +140,11 @@ Slim shadows hand in hand:
 About, about, in ghostly rout  
 They trod a saraband:  
 And the damned grotesques made arabesques,  
-Like the wind upon the sand!  
+Like the [[Wind|wind]] upon the sand!  
 With the pirouettes of marionettes,  
 They tripped on pointed tread:  
-But with flutes of Fear they filled the ear,  
-As their grisly masque they led,  
+But with flutes of [[Fear]] they filled the ear,  
+As their grisly [[Masque|masque]] they led,  
 And loud they sang, and long they sang,  
 For they sang to wake the dead.  
 ‘Oho!’ they cried, ‘The world is wide,  
@@ -152,12 +152,12 @@ But fettered limbs go lame!
 And once, or twice, to throw the dice  
 Is a gentlemanly game,  
 But he does not win who plays with Sin  
-In the secret House of Shame.’  
+In the secret [[house|House]] of Shame.’  
 No things of air these antics were,  
 That frolicked with such glee:  
 To men whose lives were held in gyves,  
 And whose feet might not go free,  
-Ah! wounds of Christ! they were living things,  
+Ah! wounds of [[Christ]]! they were living things,  
 Most terrible to see.  
 Around, around, they waltzed and wound;  
 Some wheeled in smirking pairs;  
@@ -165,42 +165,42 @@ With the mincing step of a demirep
 Some sidled up the stairs:  
 And with subtle sneer, and fawning leer,  
 Each helped us at our prayers.  
-The morning wind began to moan,  
-But still the night went on:  
+The morning [[Wind|wind]] began to moan,  
+But still the [[Night|night]] went on:  
 Through its giant loom the web of gloom  
 Crept till each thread was spun:  
 And, as we prayed, we grew afraid  
 Of the Justice of the Sun.  
-The moaning wind went wandering round  
-The weeping prison-wall:  
-Till like a wheel of turning steel  
+The moaning [[Wind|wind]] went wandering round  
+The weeping [[Prison|prison]]-wall:  
+Till like a [[Wheel|wheel]] of turning steel  
 We felt the minutes crawl:  
-O moaning wind! what had we done  
+O moaning [[Wind|wind]]! what had we done  
 To have such a seneschal?  
 At last I saw the shadowed bars,  
 Like a lattice wrought in lead,  
 Move right across the whitewashed wall  
 That faced my three-plank bed,  
 And I knew that somewhere in the world  
-God’s dreadful dawn was red.  
-At six o’clock we cleaned our cells,  
+God’s dreadful [[Dawn|dawn]] was red.  
+At six o’[[Clock|clock]] we cleaned our cells,  
 At seven all was still,  
 But the sough and swing of a mighty wing  
-The prison seemed to fill,  
-For the Lord of Death with icy breath  
+The [[Prison|prison]] seemed to fill,  
+For the Lord of [[Death]] with icy breath  
 Had entered in to kill.  
 He did not pass in purple pomp,  
-Nor ride a moon-white steed.  
+Nor ride a [[Moon|moon]]-white steed.  
 Three yards of cord and a sliding board  
 Are all the gallows’ need:  
 So with rope of shame the Herald came  
 To do the secret deed.  
 We were as men who through a fen  
 Of filthy darkness grope:  
-We did not dare to breathe a prayer,  
+We did not dare to breathe a [[Prayer|prayer]],  
 Or to give our anguish scope:  
 Something was dead in each of us,  
-And what was dead was Hope.  
+And what was dead was [[Hope]].  
 For Man’s grim Justice goes its way,  
 And will not swerve aside:  
 It slays the weak, it slays the strong,  
@@ -219,21 +219,21 @@ So, like things of stone in a valley lone,
 Quiet we sat and dumb:  
 But each man’s heart beat thick and quick,  
 Like a madman on a drum!  
-With sudden shock the prison-clock  
+With sudden shock the [[Prison|prison]]-[[Clock|clock]]  
 Smote on the shivering air,  
-And from all the gaol rose up a wail  
-Of impotent despair,  
+And from all the gaol [[Rose|rose]] up a wail  
+Of impotent [[Despair|despair]],  
 Like the sound that frightened marshes hear  
 From some leper in his lair.  
 And as one sees most fearful things  
-In the crystal of a dream,  
+In the crystal of [[A Dream|a dream]],  
 We saw the greasy hempen rope  
 Hooked to the blackened beam,  
-And heard the prayer the hangman’s snare  
+And heard the [[Prayer|prayer]] the hangman’s snare  
 Strangled into a scream.  
 And all the woe that moved him so  
 That he gave that bitter cry,  
 And the wild regrets, and the bloody sweats,  
-None knew so well as I:  
+None knew so [[Well|well]] as I:  
 For he who lives more lives than one  
 More deaths than one must die.  

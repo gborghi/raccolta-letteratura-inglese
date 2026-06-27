@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 35 (part 4)"
+title: "[[Shirley]] — Chapter 35 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,7 +30,7 @@ look as if you would leave me. We will make no more agitating allusions;
 
 we will resume our gossip. Do not tremble; look me in the face. See what
 
-a poor, pale, grim phantom I am--more pitiable than formidable."
+a poor, pale, grim [[Phantom|phantom]] I am--more pitiable than formidable."
 
 
 
@@ -40,7 +40,7 @@ are," she said, as her eye fell under his.
 
 
 
-"To return to Shirley," pursued Moore: "is it your opinion that she is
+"To return to [[Shirley]]," pursued Moore: "is it your opinion that she is
 
 ever likely to marry?"
 
@@ -62,7 +62,7 @@ ever likely to marry?"
 
 
 
-"I cannot affirm that she said so. No such confession as 'I love this
+"I cannot affirm that she said so. No such confession as 'I [[Love|love]] this
 
 man or that' passed her lips."
 
@@ -74,7 +74,7 @@ man or that' passed her lips."
 
 "But the feeling made its way in spite of her, and I saw it. She spoke
 
-of one man in a strain not to be misunderstood. Her voice alone was
+of one man in a strain not to be misunderstood. Her voice [[Alone|alone]] was
 
 sufficient testimony. Having wrung from her an opinion on your
 
@@ -104,7 +104,7 @@ happiness is dear to her as her own life."
 
 "I charged her with the fact. She did not deny, she did not avow, but
 
-looked at me. I saw her eyes by the snow-gleam. It was quite enough. I
+looked at me. I saw her eyes by the [[Snow|snow]]-gleam. It was quite enough. I
 
 triumphed over her mercilessly."
 
@@ -116,7 +116,7 @@ free?"
 
 
 
-"Whatever _I_ am, Shirley is a bondswoman. Lioness, she has found her
+"Whatever _I_ am, [[Shirley]] is a bondswoman. Lioness, she has found her
 
 captor. Mistress she may be of all round her, but her own mistress she
 
@@ -138,13 +138,13 @@ imperial?"
 
 
 
-"I confess nothing; but I say that haughty Shirley is no more free than
+"I confess nothing; but I say that haughty [[Shirley]] is no more free than
 
 was Hagar."
 
 
 
-"And who, pray, is the Abraham, the hero of a patriarch who has achieved
+"And who, pray, is the Abraham, the [[Hero|hero]] of a patriarch who has achieved
 
 such a conquest?"
 
@@ -188,7 +188,7 @@ you change your note before I have done with you."
 
 
 
-"Then it is some person unworthy of her. I don't know a soul in
+"Then it is some person unworthy of her. I don't know a [[Soul|soul]] in
 
 Briarfield parish her equal."
 
@@ -218,7 +218,7 @@ Caroline smiled.
 
 "Then I _am_ puzzled; for the head which owns this bounteous fall of
 
-hazel curls is an excellent little thinking machine, most accurate in
+hazel curls is an excellent little thinking [[Machine|machine]], most accurate in
 
 its working. It boasts a correct, steady judgment, inherited from
 
@@ -262,7 +262,7 @@ your feet."
 
 like the loveliest of her pictures of the Virgin. I think I will embrace
 
-her faith and kneel and adore."
+her [[Faith|faith]] and kneel and adore."
 
 
 
@@ -274,13 +274,13 @@ you commit extravagances."
 
 "You have stolen my senses. Just now nothing will come into my mind but
 
-_les litanies de la sainte Vièrge. Rose céleste, reine des anges_!"
+_les litanies de la sainte Vièrge. [[Rose]] céleste, reine des anges_!"
 
 
 
-"_Tour d'ivoire, maison d'or_--is not that the jargon? Well, sit down
+"_Tour d'ivoire, maison d'or_--is not that the jargon? [[Well]], sit down
 
-quietly, and guess your riddle."
+quietly, and guess your [[Riddle|riddle]]."
 
 
 
@@ -300,7 +300,7 @@ your aunt."
 
 
 
-"I'll tell my uncle; I'll tell Shirley!" cried Caroline, laughing
+"I'll tell my uncle; I'll tell [[Shirley]]!" cried Caroline, laughing
 
 gleefully. "Guess again, Robert; your blunders are charming."
 
@@ -316,13 +316,13 @@ gleefully. "Guess again, Robert; your blunders are charming."
 
 "Yours! Ay, the whole generation of women in Briarfield seem to have
 
-made an idol of that priest. I wonder why; he is bald, sand-blind,
+made an idol of that priest. I [[Wonder|wonder]] why; he is bald, sand-blind,
 
 gray-haired."
 
 
 
-"Fanny will be here to fetch me before you have solved the riddle, if
+"Fanny will be here to fetch me before you have solved the [[Riddle|riddle]], if
 
 you don't make haste."
 
@@ -360,11 +360,11 @@ on her shawl.
 
 
 
-"Must I call Shirley a noble creature now?" he asked.
+"Must I call [[Shirley]] a noble creature now?" he asked.
 
 
 
-"If you wish to speak the truth, certainly."
+"If you wish to speak the [[Truth|truth]], certainly."
 
 
 
@@ -376,7 +376,7 @@ on her shawl.
 
 
 
-"Must I at length love her downright, Cary?"
+"Must I at length [[Love|love]] her downright, Cary?"
 
 
 
@@ -390,11 +390,11 @@ between the loving and the petulant.
 
 
 
-"Indeed, you must not love her; the bare idea is perverse."
+"Indeed, you must not [[Love|love]] her; the bare idea is perverse."
 
 
 
-"But then she is handsome, peculiarly handsome. Hers is a beauty that
+"But then she is handsome, peculiarly handsome. Hers is a [[Beauty|beauty]] that
 
 grows on you. You think her but graceful when you first see her; you
 
@@ -406,7 +406,7 @@ discover her to be beautiful when you have known her for a year."
 
 
 
-"O Cary, I have no love to give. Were the goddess of beauty to woo me, I
+"O Cary, I have no [[Love|love]] to give. Were the goddess of [[Beauty|beauty]] to woo me, I
 
 could not meet her advances. There is no heart which I can call mine in
 
@@ -414,7 +414,7 @@ this breast."
 
 
 
-"So much the better; you are a great deal safer without. Good-night."
+"So much the better; you are a great deal safer without. Good-[[Night|night]]."
 
 
 
@@ -444,7 +444,7 @@ to stay?"
 
 
 
-"Cyril Hall. I owe more than one twinge of jealousy to that quarter."
+"Cyril Hall. I owe more than one twinge of [[Jealousy|jealousy]] to that quarter."
 
 
 

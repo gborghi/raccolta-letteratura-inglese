@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 15 (part 4)"
+title: "[[Great Expectations]] — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-It was a very dark night when it was all over, and when I set out with
-Mr. Wopsle on the walk home. Beyond town, we found a heavy mist out,
+It was a very dark [[Night|night]] when it was all over, and when I set out with
+Mr. Wopsle on the walk [[Home|home]]. Beyond town, we found a heavy mist out,
 and it fell wet and thick. The turnpike lamp was a blur, quite out of
 the lamp’s usual place apparently, and its rays looked solid substance
-on the fog. We were noticing this, and saying how that the mist rose
-with a change of wind from a certain quarter of our marshes, when we
-came upon a man, slouching under the lee of the turnpike house.
+on the fog. We were noticing this, and saying how that the mist [[Rose|rose]]
+with a change of [[Wind|wind]] from a certain quarter of our marshes, when we
+came upon a man, slouching under the lee of the turnpike [[house]].
 
 “Halloa!” we said, stopping. “Orlick there?”
 
@@ -29,7 +29,7 @@ chance of company.”
 
 “You are late,” I remarked.
 
-Orlick not unnaturally answered, “Well? And _you_’re late.”
+Orlick not unnaturally answered, “[[Well]]? And _you_’re late.”
 
 “We have been,” said Mr. Wopsle, exalted with his late performance,—“we
 have been indulging, Mr. Orlick, in an intellectual evening.”
@@ -44,24 +44,24 @@ is going again.”
 
 “At the Hulks?” said I.
 
-“Ay! There’s some of the birds flown from the cages. The guns have been
+“Ay! There’s some of the [[Birds|birds]] flown from the cages. The guns have been
 going since dark, about. You’ll hear one presently.”
 
 In effect, we had not walked many yards further, when the
-well-remembered boom came towards us, deadened by the mist, and heavily
-rolled away along the low grounds by the river, as if it were pursuing
+[[Well|well]]-remembered boom came towards us, deadened by the mist, and heavily
+rolled away along the low grounds by the [[River|river]], as if it were pursuing
 and threatening the fugitives.
 
-“A good night for cutting off in,” said Orlick. “We’d be puzzled how to
-bring down a jail-bird on the wing, to-night.”
+“A good [[Night|night]] for cutting off in,” said Orlick. “We’d be puzzled how to
+bring down a jail-bird on the wing, to-[[Night|night]].”
 
 The subject was a suggestive one to me, and I thought about it in
-silence. Mr. Wopsle, as the ill-requited uncle of the evening’s
-tragedy, fell to meditating aloud in his garden at Camberwell. Orlick,
+[[Silence|silence]]. Mr. Wopsle, as the ill-requited uncle of the evening’s
+[[Tragedy|tragedy]], fell to meditating aloud in his [[Garden|garden]] at Camberwell. Orlick,
 with his hands in his pockets, slouched heavily at my side. It was very
 dark, very wet, very muddy, and so we splashed along. Now and then, the
 sound of the signal cannon broke upon us again, and again rolled
-sulkily along the course of the river. I kept myself to myself and my
+sulkily along the course of the [[River|river]]. I kept myself to myself and my
 thoughts. Mr. Wopsle died amiably at Camberwell, and exceedingly game
 on Bosworth Field, and in the greatest agonies at Glastonbury. Orlick
 sometimes growled, “Beat it out, beat it out,—Old Clem! With a clink
@@ -70,7 +70,7 @@ not drunk.
 
 Thus, we came to the village. The way by which we approached it took us
 past the Three Jolly Bargemen, which we were surprised to find—it being
-eleven o’clock—in a state of commotion, with the door wide open, and
+eleven o’[[Clock|clock]]—in a state of commotion, with the door wide open, and
 unwonted lights that had been hastily caught up and put down scattered
 about. Mr. Wopsle dropped in to ask what was the matter (surmising that
 a convict had been taken), but came running out in a great hurry.
@@ -80,8 +80,8 @@ place, Pip. Run all!”
 
 “What is it?” I asked, keeping up with him. So did Orlick, at my side.
 
-“I can’t quite understand. The house seems to have been violently
-entered when Joe Gargery was out. Supposed by convicts. Somebody has
+“I can’t quite understand. The [[house]] seems to have been violently
+entered when [[Joe Gargery]] was out. Supposed by convicts. Somebody has
 been attacked and hurt.”
 
 We were running too fast to admit of more being said, and we made no
@@ -92,5 +92,5 @@ of the kitchen. The unemployed bystanders drew back when they saw me,
 and so I became aware of my sister,—lying without sense or movement on
 the bare boards where she had been knocked down by a tremendous blow on
 the back of the head, dealt by some unknown hand when her face was
-turned towards the fire,—destined never to be on the Rampage again,
+turned towards the [[Fire|fire]],—destined never to be on the Rampage again,
 while she was the wife of Joe.

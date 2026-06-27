@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 38 (part 4)"
+title: "Bleak [[house|House]] — Chapter 38 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -34,21 +34,21 @@ possible because you announced this impression of yours to me in a
 confidence which I have really wished to respect—and which I always
 have respected, as you remember. I have mentioned my illness. There
 really is no reason why I should hesitate to say that I know very
-well that any little delicacy I might have had in making a request to
+[[Well|well]] that any little delicacy I might have had in making a request to
 you is quite removed. Therefore I make the entreaty I have now
-preferred, and I hope you will have sufficient consideration for me
+preferred, and I [[Hope|hope]] you will have sufficient consideration for me
 to accede to it.”
 
 I must do Mr. Guppy the further justice of saying that he had looked
 more and more ashamed and that he looked most ashamed and very
 earnest when he now replied with a burning face, “Upon my word and
-honour, upon my life, upon my soul, Miss Summerson, as I am a living
+[[Honour|honour]], upon my life, upon my [[Soul|soul]], Miss Summerson, as I am a living
 man, I’ll act according to your wish! I’ll never go another step in
 opposition to it. I’ll take my oath to it if it will be any
-satisfaction to you. In what I promise at this present time touching
+satisfaction to you. In what I promise at this present [[Time|time]] touching
 the matters now in question,” continued Mr. Guppy rapidly, as if he
-were repeating a familiar form of words, “I speak the truth, the
-whole truth, and nothing but the truth, so—”
+were repeating a familiar form of words, “I speak the [[Truth|truth]], the
+whole [[Truth|truth]], and nothing but the [[Truth|truth]], so—”
 
 “I am quite satisfied,” said I, rising at this point, “and I thank
 you very much. Caddy, my dear, I am ready!”
@@ -56,12 +56,12 @@ you very much. Caddy, my dear, I am ready!”
 Mr. Guppy’s mother returned with Caddy (now making me the recipient
 of her silent laughter and her nudges), and we took our leave. Mr.
 Guppy saw us to the door with the air of one who was either
-imperfectly awake or walking in his sleep; and we left him there,
+imperfectly awake or walking in his [[Sleep|sleep]]; and we left him there,
 staring.
 
 But in a minute he came after us down the street without any hat, and
 with his long hair all blown about, and stopped us, saying fervently,
-“Miss Summerson, upon my honour and soul, you may depend upon me!”
+“Miss Summerson, upon my [[Honour|honour]] and [[Soul|soul]], you may depend upon me!”
 
 “I do,” said I, “quite confidently.”
 
@@ -70,13 +70,13 @@ staying with the other, “but this lady being present—your own
 witness—it might be a satisfaction to your mind (which I should wish
 to set at rest) if you was to repeat those admissions.”
 
-“Well, Caddy,” said I, turning to her, “perhaps you will not be
+“[[Well]], Caddy,” said I, turning to her, “perhaps you will not be
 surprised when I tell you, my dear, that there never has been any
 engagement—”
 
-“No proposal or promise of marriage whatsoever,” suggested Mr. Guppy.
+“No proposal or promise of [[Marriage|marriage]] whatsoever,” suggested Mr. Guppy.
 
-“No proposal or promise of marriage whatsoever,” said I, “between
+“No proposal or promise of [[Marriage|marriage]] whatsoever,” said I, “between
 this gentleman—”
 
 “William Guppy, of Penton Place, Pentonville, in the county of
@@ -92,24 +92,24 @@ I gave them.
 
 “Married woman, I believe?” said Mr. Guppy. “Married woman. Thank
 you. Formerly Caroline Jellyby, spinster, then of Thavies Inn, within
-the city of London, but extra-parochial; now of Newman Street, Oxford
+the [[City|city]] of [[London]], but extra-parochial; now of Newman Street, [[Oxford]]
 Street. Much obliged.”
 
-He ran home and came running back again.
+He ran [[Home|home]] and came running back again.
 
 “Touching that matter, you know, I really and truly am very sorry
 that my arrangements in life, combined with circumstances over which
 I have no control, should prevent a renewal of what was wholly
-terminated some time back,” said Mr. Guppy to me forlornly and
+terminated some [[Time|time]] back,” said Mr. Guppy to me forlornly and
 despondently, “but it couldn’t be. Now COULD it, you know! I only put
 it to you.”
 
 I replied it certainly could not. The subject did not admit of a
-doubt. He thanked me and ran to his mother’s again—and back again.
+[[Doubt|doubt]]. He thanked me and ran to his mother’s again—and back again.
 
 “It’s very honourable of you, miss, I am sure,” said Mr. Guppy. “If
-an altar could be erected in the bowers of friendship—but, upon my
-soul, you may rely upon me in every respect save and except the
+an altar could be erected in the bowers of [[Friendship|friendship]]—but, upon my
+[[Soul|soul]], you may rely upon me in every respect save and except the
 tender passion only!”
 
 The struggle in Mr. Guppy’s breast and the numerous oscillations it

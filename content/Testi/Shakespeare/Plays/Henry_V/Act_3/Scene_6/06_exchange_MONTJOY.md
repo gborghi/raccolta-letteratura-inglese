@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act III, Scene 6 — exchange (MONTJOY) [6]"
+title: "[[Henry V]] — Act III, Scene 6 — exchange (MONTJOY) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -16,5 +16,5 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | MONTJOY | I shall deliver so. Thanks to your highness. Exit |
-| GLOUCESTER | I hope they will not come upon us now. |
-| KING HARRY | We are in God’s hand, brother, not in theirs. March to the bridge. It now draws toward night. Beyond the river we’ll encamp ourselves, And on tomorrow bid them march away. Exeunt |
+| [[Gloucester|GLOUCESTER]] | I [[Hope|hope]] they will not come upon us now. |
+| [[King|KING]] HARRY | We are in God’s hand, brother, not in theirs. March to the bridge. It now draws toward [[Night|night]]. Beyond the [[River|river]] we’ll encamp ourselves, And on tomorrow bid them march away. Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 23 (part 4)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-“I’ll not miss ye twice!” repeats the poor soul in the street, and not
+“I’ll not miss ye twice!” repeats the poor [[Soul|soul]] in the street, and not
 so civilly. “I lost ye last, where that omnibus you got into nigh your
-journey’s end plied betwixt the station and the place. I wasn’t so much
+[[Journey|journey]]’s end plied betwixt the station and the place. I wasn’t so much
 as certain that you even went right on to the place. Now I know ye did.
 My gentleman from Cloisterham, I’ll be there before ye, and bide your
 coming. I’ve swore my oath that I’ll not miss ye twice!”
 
-Accordingly, that same evening the poor soul stands in Cloisterham High
-Street, looking at the many quaint gables of the Nuns’ House, and
-getting through the time as she best can until nine o’clock; at which
+Accordingly, that same evening the poor [[Soul|soul]] stands in Cloisterham High
+Street, looking at the many quaint gables of the Nuns’ [[house|House]], and
+getting through the [[Time|time]] as she best can until nine o’[[Clock|clock]]; at which
 hour she has reason to suppose that the arriving omnibus passengers may
 have some interest for her. The friendly darkness, at that hour,
 renders it easy for her to ascertain whether this be so or not; and it
@@ -34,7 +34,7 @@ is so, for the passenger not to be missed twice arrives among the rest.
 An observation addressed to the air, and yet it might be addressed to
 the passenger, so compliantly does he go on along the High Street until
 he comes to an arched gateway, at which he unexpectedly vanishes. The
-poor soul quickens her pace; is swift, and close upon him entering
+poor [[Soul|soul]] quickens her pace; is swift, and close upon him entering
 under the gateway; but only sees a postern staircase on one side of it,
 and on the other side an ancient vaulted room, in which a large-headed,
 gray-haired gentleman is writing, under the odd circumstances of
@@ -54,7 +54,7 @@ toll-taker of the gateway: though the way is free.
 
 “Bless ye! Whisper. What’s his name, deary?”
 
-“Surname Jasper, Christian name John. Mr. John Jasper.”
+“Surname Jasper, Christian name John. Mr. [[John Jasper]].”
 
 “Has he a calling, good gentleman?”
 
@@ -67,7 +67,7 @@ toll-taker of the gateway: though the way is free.
 “What’s that?”
 
 Mr. Datchery rises from his papers, and comes to his doorstep. “Do you
-know what a cathedral is?” he asks, jocosely.
+know what a [[Cathedral|cathedral]] is?” he asks, jocosely.
 
 The woman nods.
 
@@ -75,10 +75,10 @@ The woman nods.
 
 She looks puzzled, casting about in her mind to find a definition, when
 it occurs to her that it is easier to point out the substantial object
-itself, massive against the dark-blue sky and the early stars.
+itself, massive against the dark-blue sky and the early [[Stars|stars]].
 
 “That’s the answer. Go in there at seven to-morrow morning, and you may
-see Mr. John Jasper, and hear him too.”
+see Mr. [[John Jasper]], and hear him too.”
 
 “Thank ye! Thank ye!”
 
@@ -102,13 +102,13 @@ It’s a long way to come for that, though.”
 The woman looks up quickly. If Mr. Datchery thinks she is to be so
 induced to declare where she comes from, he is of a much easier temper
 than she is. But she acquits him of such an artful thought, as he
-lounges along, like the chartered bore of the city, with his uncovered
+lounges along, like the chartered bore of the [[City|city]], with his uncovered
 gray hair blowing about, and his purposeless hands rattling the loose
 money in the pockets of his trousers.
 
 The chink of the money has an attraction for her greedy ears. “Wouldn’t
 you help me to pay for my traveller’s lodging, dear gentleman, and to
-pay my way along? I am a poor soul, I am indeed, and troubled with a
+pay my way along? I am a poor [[Soul|soul]], I am indeed, and troubled with a
 grievous cough.”
 
 “You know the travellers’ lodging, I perceive, and are making directly
@@ -119,8 +119,8 @@ money. “Been here often, my good woman?”
 
 “Ay, ay?”
 
-They have arrived at the entrance to the Monks’ Vineyard. An
-appropriate remembrance, presenting an exemplary model for imitation,
+They have arrived at the entrance to the [[Monks]]’ Vineyard. An
+appropriate remembrance, presenting an exemplary model for [[Imitation|imitation]],
 is revived in the woman’s mind by the sight of the place. She stops at
 the gate, and says energetically:
 
@@ -138,11 +138,11 @@ tone, “I wanted the money to lay it out on a medicine as does me good,
 and as I deal in. I told the young gentleman so, and he gave it me, and
 I laid it out honest to the last brass farden. I want to lay out the
 same sum in the same way now; and if you’ll give it me, I’ll lay it out
-honest to the last brass farden again, upon my soul!”
+honest to the last brass farden again, upon my [[Soul|soul]]!”
 
 “What’s the medicine?”
 
-“I’ll be honest with you beforehand, as well as after. It’s opium.”
+“I’ll be honest with you beforehand, as [[Well|well]] as after. It’s opium.”
 
 Mr. Datchery, with a sudden change of countenance, gives her a sudden
 look.

@@ -20,32 +20,32 @@ _On the Child_
 
 THERE was recently reported in the papers the meeting of certain
 eminent ladies, of a political and philanthropic sort, who discussed
-the great modern problem of what is to be done with The Child.
-I need not say that The Child is always discussed as if he were a monster,
+the great modern problem of what is to be done with The [[Child]].
+I need not say that The [[Child]] is always discussed as if he were a [[Monster|monster]],
 of immense size, vast complexity, and strange and startling novelty.
-Nor need I remind the reader that The Child is not a child:
-any child we comfortable people have ever seen.  The Child is
-not Jack or Joan or Peter; he is not Cousin Ethel's child or one
+Nor need I remind the reader that The [[Child]] is not a [[Child|child]]:
+any [[Child|child]] we comfortable people have ever seen.  The [[Child]] is
+not Jack or Joan or Peter; he is not Cousin Ethel's [[Child|child]] or one
 of Uncle William's children.  He is a creature entirely solitary
 and _sui generis;_ and he lives in the slums.
 
 A great many remarks were made, most of them sincere,
 some of them sensible, and several of them highly comic.
 I think the passage I like best is one in which a particular female
-philanthropist said that any poor child would feel happy at the sight
+philanthropist said that any poor [[Child|child]] would feel happy at the sight
 of a policeman, so long as he was dressed like a policeman;
-but that the child might be filled with maniacal terror if
+but that the [[Child|child]] might be filled with maniacal terror if
 he were dressed like an ordinary man.  It would seem, that is,
 that not only are all policemen always kind to all poor people,
 but that they are the only men who are ever kind to any poor people.
-I am not The Child, and therefore I was not brought up in the slums.
+I am not The [[Child]], and therefore I was not brought up in the slums.
 But I know a little more about the slums than that.  All these
 other sayings, however, sink into a second place, in my opinion,
 compared with one simple remark, which will seem to most people as
-innocent as it is simple.  Nevertheless, in that one artless observation--
+[[Innocent|innocent]] as it is simple.  Nevertheless, in that one artless observation--
 I might almost say, in that one unconscious confession--was contained
 the whole complex of contradictions and falsehoods which have
-in our time ruined the relation of social classes and destroyed
+in our [[Time|time]] ruined the relation of social classes and destroyed
 the common morals of the community.  A very famous political lady,
 who certainly believes that what she says represents the most lofty
 luminous idealism, uttered on this occasion the following words:
@@ -56,16 +56,16 @@ like one who has suddenly located and smashed a wasp.
 I said to myself:  "That's it!  She's got it!  She's got
 the exactly correct formula for the worst and most poisonous of
 all the political wrongs that rot out the entrails of the world.
-That is what has wrecked democracy; wrecked domesticity
-through the breadth and depth of democracy; wrecked dignity
-as the only prop and pillar of domesticity and democracy.
-That is what has taken away from the poor man the pride and
-honour of the father of a household, so that he can no longer
-really feel any pride or honour in being a citizen; still less
-in being merely a voter.  The Englishman's house is no longer
-his castle, nor is he king of the castle; the _charbonnier_
+That is what has wrecked [[democracy]]; wrecked domesticity
+through the breadth and depth of [[democracy]]; wrecked dignity
+as the only prop and pillar of domesticity and [[democracy]].
+That is what has taken away from the poor man the [[Pride|pride]] and
+[[Honour|honour]] of the father of a household, so that he can no longer
+really feel any [[Pride|pride]] or [[Honour|honour]] in being a citizen; still less
+in being merely a voter.  The Englishman's [[house]] is no longer
+his [[Castle|castle]], nor is he [[King|king]] of the [[Castle|castle]]; the _charbonnier_
 is no longer _maître chez lui;_ his hut is not his hut;
-his children are not his children; and democracy is dead.
+his children are not his children; and [[democracy]] is dead.
 She means no harm.  She knows not what she does.  She does not
 even understand what she says.  She does not comprehend a word
 of the terrible sentence that she has spoken.  But it is spoken."
@@ -95,11 +95,11 @@ accidentally revealed by a chance phrase.  The poor children
 are born under the power and protection of a governing class,
 as wards in Chancery are born under the power and protection
 of the Lord Chancellor; they inherit that status,
-whether our own conscience inclines us to call it a status
-of slavery or of safety.  Note that the lady does not say--
-though she doubtless would say--"When I hear of a child
+whether our own [[Conscience|conscience]] inclines us to call it a status
+of [[Slavery|slavery]] or of safety.  Note that the lady does not say--
+though she doubtless would say--"When I hear of a [[Child|child]]
 being beaten with a red-hot poker, the common human bond
-makes me feel as angry as if it were my own child."
+makes me feel as angry as if it were my own [[Child|child]]."
 She does not deal with hard cases, or even individual cases;
 she generalizes from the start.  She assumes that she will,
 in fact, manage, she assumes that she will be allowed to manage,
@@ -110,7 +110,7 @@ and unresistingly admitted this great heresy against humanity.
 The notion of making the head of a humble family really
 independent and responsible, like a citizen, has really vanished
 from the mind of most of the realists of our real world.
-It is the less wonder that it has never even entered the head
+It is the less [[Wonder|wonder]] that it has never even entered the head
 of an idealist.
 
 The trouble is that in our society the ideal is more wrong than
@@ -119,30 +119,30 @@ the principles of respect for private property, lest they
 should revolt and despoil the rich.  As a fact, it is the rich
 who have to be taught about the existence of private property,
 and especially about the existence of private life.
-No ragged mob is likely to storm the nurseries of Mayfair,
+No ragged mob is likely to [[Storm|storm]] the nurseries of Mayfair,
 or steal the perambulators from the French nurses, or the pupils
 from the German governesses, parading in Kensington Gardens.
 But philanthropists, under various excuses, do really raid
-the playgrounds of the poor.  They regard such a raid as a reform;
-and, in truth, it is a revolution.  Modern writers are very ready
+the playgrounds of the poor.  They regard such a raid as a [[Reform|reform]];
+and, in [[Truth|truth]], it is a revolution.  Modern writers are very ready
 to cover great historic events with sweeping denunciations
 of crime; to say the Great War was murder on a large scale
 or that the Russian Revolution was theft on a large scale.
 They hardly realize how much of educational and philanthropic
-reform has been kidnapping on a large scale.  That is, it has shown
+[[Reform|reform]] has been kidnapping on a large scale.  That is, it has shown
 an increasing disregard for the privacy of the private citizen,
 considered as a parent.  I have called it a revolution;
-and at bottom it is really a Bolshevist revolution.
+and at [[Bottom|bottom]] it is really a Bolshevist revolution.
 For what could be more purely and perfectly Communist than
 to say that you regard other people's children as if they
 were your own?
 
-True, as yet the man who treats other people's dogs as if they
+True, as yet the man who treats other people's [[dogs]] as if they
 were his own is called a dog-stealer. The man who is caught,
-caring for somebody else's horse as if it were his own,
-is called a horse-thief. But even that is only true if the thieves
-are poor and too ignorant to plead excuses of humanitarianism.
-The wealthy Communist who so treats a child is not called a kidnapper.
+caring for somebody else's [[Horse|horse]] as if it were his own,
+is called a [[Horse|horse]]-thief. But even that is only true if the thieves
+are poor and too ignorant to plead excuses of [[Humanitarianism|humanitarianism]].
+The wealthy Communist who so treats a [[Child|child]] is not called a kidnapper.
 Which only shows that Communism, anyhow _our_ Communism, would not
 be the rule of the poor, nor even the unruliness of the poor;
 but only the extension of the existing unruliness of the rich.

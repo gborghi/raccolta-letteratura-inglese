@@ -18,7 +18,7 @@ Stephen had remained quietly attentive, in his usual thoughtful attitude,
 with his hand at his chin.  He now spoke in a voice rather less steady
 than usual.
 
-‘No one, excepting myseln, can ever know what honour, an’ what love, an’
+‘No one, excepting myseln, can ever know what [[Honour|honour]], an’ what [[Love|love]], an’
 respect, I bear to Rachael, or wi’ what cause.  When I passed that
 promess, I towd her true, she were th’ Angel o’ my life.  ’Twere a solemn
 promess.  ’Tis gone fro’ me, for ever.’
@@ -47,7 +47,7 @@ is freely his, to help him on his way?  Will you entreat him to take it?’
 for him to know his heart, and what is right according to it.’
 
 Louisa looked, in part incredulous, in part frightened, in part overcome
-with quick sympathy, when this man of so much self-command, who had been
+with quick sympathy, when this man of so much [[Self|self]]-command, who had been
 so plain and steady through the late interview, lost his composure in a
 moment, and now stood with his hand before his face.  She stretched out
 hers, as if she would have touched him; then checked herself, and
@@ -84,15 +84,15 @@ in his hand.
 what it is, because it may not come to anything.  But there’s no harm in
 my trying.’
 
-His breath fell like a flame of fire on Stephen’s ear, it was so hot.
+His breath fell like a flame of [[Fire|fire]] on Stephen’s ear, it was so hot.
 
 ‘That was our light porter at the Bank,’ said Tom, ‘who brought you the
-message to-night.  I call him our light porter, because I belong to the
+message to-[[Night|night]].  I call him our light porter, because I belong to the
 Bank too.’
 
 Stephen thought, ‘What a hurry he is in!’  He spoke so confusedly.
 
-‘Well!’ said Tom.  ‘Now look here!  When are you off?’
+‘[[Well]]!’ said Tom.  ‘Now look here!  When are you off?’
 
 ‘T’ day’s Monday,’ replied Stephen, considering.  ‘Why, sir, Friday or
 Saturday, nigh ’bout.’
@@ -104,7 +104,7 @@ no harm done.  So I tell you what.  You’ll know our light porter again?’
 
 ‘Yes, sure,’ said Stephen.
 
-‘Very well,’ returned Tom.  ‘When you leave work of a night, between this
+‘Very [[Well|well]],’ returned Tom.  ‘When you leave work of a [[Night|night]], between this
 and your going away, just hang about the Bank an hour or so, will you?
 Don’t take on, as if you meant anything, if he should see you hanging
 about there; because I shan’t put him up to speak to you, unless I find I
@@ -119,12 +119,12 @@ round and round, in an extraordinary manner.
 ‘I understand, sir,’ said Stephen.
 
 ‘Now look here!’ repeated Tom.  ‘Be sure you don’t make any mistake then,
-and don’t forget.  I shall tell my sister as we go home, what I have in
+and don’t forget.  I shall tell my sister as we go [[Home|home]], what I have in
 view, and she’ll approve, I know.  Now look here!  You’re all right, are
-you?  You understand all about it?  Very well then.  Come along, Loo!’
+you?  You understand all about it?  Very [[Well|well]] then.  Come along, Loo!’
 
 He pushed the door open as he called to her, but did not return into the
-room, or wait to be lighted down the narrow stairs.  He was at the bottom
+room, or wait to be lighted down the narrow stairs.  He was at the [[Bottom|bottom]]
 when she began to descend, and was in the street before she could take
 his arm.
 
@@ -134,12 +134,12 @@ in a state of inexpressible admiration of Mrs. Bounderby, and, like an
 unaccountable old woman, wept, ‘because she was such a pretty dear.’  Yet
 Mrs. Pegler was so flurried lest the object of her admiration should
 return by chance, or anybody else should come, that her cheerfulness was
-ended for that night.  It was late too, to people who rose early and
+ended for that [[Night|night]].  It was late too, to people who [[Rose|rose]] early and
 worked hard; therefore the party broke up; and Stephen and Rachael
 escorted their mysterious acquaintance to the door of the Travellers’
-Coffee House, where they parted from her.
+Coffee [[house|House]], where they parted from her.
 
 They walked back together to the corner of the street where Rachael
-lived, and as they drew nearer and nearer to it, silence crept upon them.
+lived, and as they drew nearer and nearer to it, [[Silence|silence]] crept upon them.
 When they came to the dark corner where their unfrequent meetings always
 ended, they stopped, still silent, as if both were afraid to speak.

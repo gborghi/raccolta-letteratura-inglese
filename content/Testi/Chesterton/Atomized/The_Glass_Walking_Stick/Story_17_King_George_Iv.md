@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — King George Iv"
+title: "The Glass Walking Stick — [[King]] George Iv"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-KING GEORGE IV
+[[King|KING]] GEORGE IV
 
-I HAVE just been reading what is not only a very excellent biography,
+I HAVE just been reading what is not only a very excellent [[Biography|biography]],
 but a very much-needed book.  It.  is a study of `George the Fourth'
 by Mr Shane Leslie.  It is in no sense what even shallow
 people would call a whitewashing of George IV, though it is
@@ -57,12 +57,12 @@ The Whigs hated him for having been a Whig more than for being a Tory.
 But the aristocrats who had known him knew he was intelligent,
 knew he had understood what he was doing and what he was undoing His
 very intelligence let him in for a charge of intellectual treason.
-That was the sort of monster he was--a constitutional monarch
+That was the sort of [[Monster|monster]] he was--a constitutional monarch
 who could not act for himself, and yet could think for himself.
 
 The second cause that coincides with this was the genuine
-popular legend of the pathos and innocence of Queen Caroline.
-Now about that the King may have been wrong, but he certainly
+popular legend of the pathos and [[innocence]] of [[Queen]] Caroline.
+Now about that the [[King]] may have been wrong, but he certainly
 was not inhumanly or inconceivably wrong; and the wrong
 certainly was not all on one side.  George was really wrong
 not in divorcing Caroline, but in marrying Caroline.
@@ -74,25 +74,25 @@ George was very properly pelted for being false to his wife;
 only he was really being false to quite another wife.
 Anyhow, his popularity with posterity was killed by those two
 combining forces.  It was killed by the horror of the populace
-who knew nothing about him, and the jealousy of the gentry
-who knew too much about him.  But the time has come when a more
+who knew nothing about him, and the [[Jealousy|jealousy]] of the gentry
+who knew too much about him.  But the [[Time|time]] has come when a more
 rational and reliable estimate can be made than was possible
 to the Whig tradition which Thackeray inherited from Macaulay;
 and with admirable wit, sympathy, and compact criticism,
 Mr Shane Leslie has made it.
 
-In truth, there is a great deal to praise in George IV.  At any rate,
+In [[Truth|truth]], there is a great deal to praise in George IV.  At any rate,
 there was a very great deal to praise in the Prince Regent.
 It was not entirely his fault if there was less to praise in
-the King than there had been in the Prince.  If ever a man's life
+the [[King]] than there had been in the Prince.  If ever a man's life
 was broken and brutally mismanaged by other people, it was his.
-His father was a fool who repeatedly relieved the monotony
+His father was a [[Fool|fool]] who repeatedly relieved the monotony
 of that fact by becoming a lunatic.  If anything, he was quieter
-and less mischievous as a lunatic than he was as a fool.
+and less mischievous as a lunatic than he was as a [[Fool|fool]].
 He pestered and oppressed his children, and drove them into
 dark and devious ways.  Yet even here there is a good example
 of the way in which the world is unjust to the Prince Regent.
-It has often been repeated that he wanted his child to be
+It has often been repeated that he wanted his [[Child|child]] to be
 trained to be truthful, and admitted that he had fallen into
 lax ways in such matters, through the false position into
 which the old family tyranny had forced him in his youth.
@@ -102,7 +102,7 @@ The confession is not a proof of how false he was, but of how
 candid he was.
 
 He was forbidden by bigots and tyrants to call his wife his wife,
-and that is a situation which no man's sense of honour will
+and that is a situation which no man's sense of [[Honour|honour]] will
 ever perfectly survive.  It broke George's career across
 the middle; and the second half was a crippled thing.
 Yet even as a cripple he did things that the active and
@@ -138,24 +138,24 @@ George's liberality was anything but a mere party pose and the making
 of a cabal against his father.  He was liberal about the very things
 on which most party Whigs were not liberal at all--for instance,
 he sympathized with the point of view of the Irish.  If he could
-have come to the throne with his real wife as a Queen, it is possible
-that the whole tragedy of a hundred years might have been averted.
+have come to the throne with his real wife as a [[Queen]], it is possible
+that the whole [[Tragedy|tragedy]] of a hundred years might have been averted.
 There are a great many good things that might have happened if the younger
-and more generous George could have become a normal and national King.
+and more generous George could have become a normal and national [[King]].
 There is nothing that can be done now except do reasonable justice
-to his memory; and it was long before anybody thought of doing it.
+to his [[Memory|memory]]; and it was long before anybody thought of doing it.
 But nobody who reads Mr Shane Leslie's lively and pointed paragraphs
 has any excuse for thinking that Thackeray exhausted the subject or
 that there is no picture of George except in the cartoons of Gilray.
-He will know well enough that the man who kept a complete set of
+He will know [[Well|well]] enough that the man who kept a complete set of
 Jane Austen in each of his houses, that he might read at any moment,
 was not a coarse and comic drunkard understanding nothing but bruisers
 and cock-fighting. He will know that the man who endangered his
-crown out of chivalrous devotion to a devout and religious woman
+[[Crown|crown]] out of chivalrous devotion to a devout and religious woman
 was not an utterly selfish satyr whose very appetite was cold.
 He will know that the friend of Fox and Sheridan cannot possibly
 have been a mere dummy dressed up as a dandy; and that the man whom
 Canning and Castlereagh often thought too clever for them can hardly
-have been entirely a fool.
+have been entirely a [[Fool|fool]].
 
 79

@@ -21,7 +21,7 @@ lecture on antiquities and novelties, and the cause of his
 
 restlessness was soon apparent, and indeed approaching. Lord
 
-Bulmer's sister, Juliet Bray, was coming slowly across the lawn,
+Bulmer's sister, [[Juliet]] Bray, was coming slowly across the lawn,
 
 accompanied by one gentleman and followed by two others. The young
 
@@ -38,7 +38,7 @@ had been paying a round of visits at various English country houses,
 
 and exactly what he was doing for diplomacy at Prior's Park was as
 
-much a secret as any diplomatist could desire. The obvious thing to
+much a secret as any diplomatist could [[Desire|desire]]. The obvious thing to
 
 say of his appearance was that he would have been extremely handsome
 
@@ -76,7 +76,7 @@ understood that he had been a judge and police official in India, and
 
 that he had enemies, who had represented his measures against crime as
 
-themselves almost criminal. He was a brown skeleton of a man with dark,
+themselves almost criminal. He was a brown [[skeleton]] of a man with dark,
 
 deep, sunken eyes and a black mustache that hid the meaning of his
 
@@ -87,7 +87,7 @@ his movements were much more alert than those of his lounging companion.
 
 they came within hailing distance. "You've all got to put on
 
-masquerade things and very likely skates as well, though the prince
+masquerade things and very likely skates as [[Well|well]], though the prince
 
 says they don't go with it; but we don't care about that. It's
 
@@ -95,14 +95,14 @@ freezing already, and we don't often get such a chance in England."
 "Even in India we don't exactly skate all the year round," observed
 
 Mr. Brain.
-"And even Italy is not primarily associated with ice," said the
+"And even [[Italy]] is not primarily associated with ice," said the
 
 Italian.
-"Italy is primarily associated with ices," remarked Mr. Horne
+"[[Italy]] is primarily associated with ices," remarked Mr. Horne
 
 Fisher. "I mean with ice cream men. Most people in this country
 
-imagine that Italy is entirely populated with ice cream men and
+imagine that [[Italy]] is entirely populated with ice cream men and
 
 organ grinders. There certainly are a lot of them; perhaps they're
 
@@ -116,12 +116,12 @@ army of organ grinders might pick up hints, and their monkeys might
 pick up all sort of things."
 "The organs are organized in fact," said the flippant Mr. Fisher.
 
-"Well, I've known it pretty cold before now in Italy and even in
+"[[Well]], I've known it pretty cold before now in [[Italy]] and even in
 
 India, up on the Himalayan slopes. The ice on our own little round
 
 pond will be quite cozy by comparison."
-Juliet Bray was an attractive lady with dark hair and eyebrows and
+[[Juliet]] Bray was an attractive lady with dark hair and eyebrows and
 
 dancing eyes, and there was a geniality and even generosity in her
 
@@ -137,11 +137,11 @@ most respectable and reluctant of them with her mediaeval
 
 masquerade. And it really seemed as if she could command the
 
-elements also, like a witch. For the weather steadily hardened and
+elements also, like a [[Witch|witch]]. For the weather steadily hardened and
 
-sharpened; that night the ice of the lake, glimmering in the
+sharpened; that [[Night|night]] the ice of the lake, glimmering in the
 
-moonlight, was like a marble floor, and they had begun to dance and
+moonlight, was like a marble floor, and they had begun to [[Dance|dance]] and
 
 skate on it before it was dark.
 Prior's Park, or, more properly, the surrounding district of
@@ -150,7 +150,7 @@ Holinwall, was a country seat that had become a suburb; having once
 
 had only a dependent village at its doors, it now found outside all
 
-its doors the signals of the expansion of London. Mr. Haddow, who
+its doors the signals of the expansion of [[London]]. Mr. Haddow, who
 
 was engaged in historical researches both in the library and the
 
@@ -172,14 +172,14 @@ constantly shifting their homes from one suburb to another, or their
 
 children from one school to another, could have no corporate
 
-continuity. They had all that forgetfulness of history that goes
+continuity. They had all that forgetfulness of [[history]] that goes
 
-everywhere with the extension of education.
+everywhere with the extension of [[Education|education]].
 Nevertheless, when he came out of the library next morning and saw
 
 the wintry trees standing round the frozen pond like a black forest,
 
-he felt he might well have been far in the depths of the country.
+he felt he might [[Well|well]] have been far in the depths of the country.
 
 The old wall running round the park kept that inclosure itself still
 

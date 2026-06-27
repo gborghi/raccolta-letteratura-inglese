@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 49 (part 3)"
+title: "Bleak [[house|House]] — Chapter 49 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,7 +22,7 @@ got into action. “If that don’t bring you round, George,” says she,
 the two together MUST do it.”
 
 “You ought to do it of yourself,” George answers; “I know that very
-well, Mrs. Bagnet. I’ll tell you how, one way and another, the blues
+[[Well|well]], Mrs. Bagnet. I’ll tell you how, one way and another, the blues
 have got to be too many for me. Here was this poor lad. ’Twas dull
 work to see him dying as he did, and not be able to help him.”
 
@@ -42,7 +42,7 @@ His was a bad case too, in a different way. Then the two got mixed up
 in a man’s mind with a flinty old rascal who had to do with both. And
 to think of that rusty carbine, stock and barrel, standing up on end
 in his corner, hard, indifferent, taking everything so evenly—it
-made flesh and blood tingle, I do assure you.”
+made flesh and [[Blood|blood]] tingle, I do assure you.”
 
 “My advice to you,” returns Mrs. Bagnet, “is to light your pipe and
 tingle that way. It’s wholesomer and comfortabler, and better for the
@@ -66,7 +66,7 @@ The toast having been drunk with enthusiasm, Mrs. Bagnet returns
 thanks in a neat address of corresponding brevity. This model
 composition is limited to the three words “And wishing yours!” which
 the old girl follows up with a nod at everybody in succession and a
-well-regulated swig of the mixture. This she again follows up, on the
+[[Well|well]]-regulated swig of the mixture. This she again follows up, on the
 present occasion, by the wholly unexpected exclamation, “Here’s a
 man!”
 
@@ -82,7 +82,7 @@ remarkable man.
 
 “Yes,” says the man, coming in and closing the door. “I was going
 down the street here when I happened to stop and look in at the
-musical instruments in the shop-window—a friend of mine is in want
+musical instruments in the shop-[[Window|window]]—a friend of mine is in want
 of a second-hand wiolinceller of a good tone—and I saw a party
 enjoying themselves, and I thought it was you in the corner; I
 thought I couldn’t be mistaken. How goes the world with you, George,
@@ -104,7 +104,7 @@ and ten.”
 “I generally am near,” returns Mr. Bucket, “being so fond of
 children. A friend of mine has had nineteen of ’em, ma’am, all by one
 mother, and she’s still as fresh and rosy as the morning. Not so much
-so as yourself, but, upon my soul, she comes near you! And what do
+so as yourself, but, upon my [[Soul|soul]], she comes near you! And what do
 you call these, my darling?” pursues Mr. Bucket, pinching Malta’s
 cheeks. “These are peaches, these are. Bless your heart! And what do
 you think about father? Do you think father could recommend a
@@ -129,7 +129,7 @@ You haven’t got anything on your mind, you know.”
 your mind, you know! And have these pets got anything on THEIR minds,
 eh? Not they, but they’ll be upon the minds of some of the young
 fellows, some of these days, and make ’em precious low-spirited. I
-ain’t much of a prophet, but I can tell you that, ma’am.”
+ain’t much of a [[Prophet|prophet]], but I can tell you that, ma’am.”
 
 Mrs. Bagnet, quite charmed, hopes Mr. Bucket has a family of his own.
 

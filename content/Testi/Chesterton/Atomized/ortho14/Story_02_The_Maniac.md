@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Maniac"
+title: "[[ortho14]] — The Maniac"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ortho14-(Chesterton)"
@@ -29,67 +29,67 @@ my eye caught an omnibus on which was written "Hanwell." I said to him,
 "Shall I tell you where the men are who believe most in themselves?
 For I can tell you.  I know of men who believe in themselves
 more colossally than Napoleon or Caesar.  I know where flames
-the fixed star of certainty and success.  I can guide you to
+the fixed star of certainty and [[success]].  I can guide you to
 the thrones of the Super-men.  The men who really believe in
 themselves are all in lunatic asylums."  He said mildly that
 there were a good many men after all who believed in themselves
 and who were not in lunatic asylums.  "Yes, there are," I retorted,
 "and you of all men ought to know them.  That drunken poet from whom
-you would not take a dreary tragedy, he believed in himself. 
-That elderly minister with an epic from whom you were hiding in a back room,
+you would not take a dreary [[Tragedy|tragedy]], he believed in himself. 
+That elderly minister with an [[Epic|epic]] from whom you were hiding in a back room,
 he believed in himself.  If you consulted your business experience
-instead of your ugly individualistic philosophy, you would know that
+instead of your ugly individualistic [[philosophy]], you would know that
 believing in himself is one of the commonest signs of a rotter. 
 Actors who can't act believe in themselves; and debtors who won't pay.
 It would be much truer to say that a man will certainly fail,
-because he believes in himself. Complete self-confidence is
-not merely a sin; complete self-confidence is a weakness. 
-Believing utterly in one's self is a hysterical and superstitious
+because he believes in himself. Complete [[Self|self]]-confidence is
+not merely a sin; complete [[Self|self]]-confidence is a weakness. 
+Believing utterly in one's [[Self|self]] is a hysterical and superstitious
 belief like believing in Joanna Southcote:  the man who has it
 has `Hanwell' written on his face as plain as it is written on
 that omnibus."  And to all this my friend the publisher made this
-very deep and effective reply, "Well, if a man is not to believe
+very deep and effective reply, "[[Well]], if a man is not to believe
 in himself, in what is he to believe?"  After a long pause I replied,
-"I will go home and write a book in answer to that question." 
+"I will go [[Home|home]] and write a book in answer to that question." 
 This is the book that I have written in answer to it.
 
-     But I think this book may well start where our argument started
---in the neighbourhood of the mad-house.  Modern masters of
+     But I think this book may [[Well|well]] start where our argument started
+--in the neighbourhood of the mad-[[house]].  Modern masters of
 science are much impressed with the need of beginning all
 inquiry with a fact.  The ancient masters of religion were
 quite equally impressed with that necessity. They began with
 the fact of sin--a fact as practical as potatoes.  Whether or
-no man could be washed in miraculous waters, there was no doubt
+no man could be washed in miraculous waters, there was no [[Doubt|doubt]]
 at any rate that he wanted washing. But certain religious
-leaders in London, not mere materialists, have begun in our day
-not to deny the highly disputable water, but to deny the
-indisputable dirt.  Certain new theologians dispute original sin,
+leaders in [[London]], not mere materialists, have begun in our day
+not to deny the highly disputable [[Water|water]], but to deny the
+indisputable dirt.  Certain new theologians dispute [[Original Sin|original sin]],
 which is the only part of Christian theology which can really be proved.
 Some followers of the Reverend R.J.Campbell, in their almost too
 fastidious spirituality, admit divine sinlessness, which they
-cannot see even in their dreams.  But they essentially deny
+cannot see even in their [[Dreams|dreams]].  But they essentially deny
 human sin, which they can see in the street.  The strongest saints
 and the strongest sceptics alike took positive evil as the starting-point
 of their argument.  If it be true (as it certainly is) that
 a man can feel exquisite happiness in skinning a cat,
 then the religious philosopher can only draw one of two deductions. 
 He must either deny the existence of God, as all atheists do;
-or he must deny the present union between God and man,
+or he must deny the present [[Union|union]] between God and man,
 as all Christians do.  The new theologians seem to think it
 a highly rationalistic solution to deny the cat.
 
      In this remarkable situation it is plainly not now possible
-(with any hope of a universal appeal) to start, as our fathers did,
+(with any [[Hope|hope]] of a universal appeal) to start, as our fathers did,
 with the fact of sin.  This very fact which was to them (and is to me)
 as plain as a pikestaff, is the very fact that has been specially
 diluted or denied.  But though moderns deny the existence of sin,
 I do not think that they have yet denied the existence of a lunatic asylum. 
 We all agree still that there is a collapse of the intellect as
-unmistakable as a falling house.  Men deny hell, but not, as yet,
-Hanwell.  For the purpose of our primary argument the one may very well
+unmistakable as a falling [[house]].  Men deny hell, but not, as yet,
+Hanwell.  For the purpose of our primary argument the one may very [[Well|well]]
 stand where the other stood.  I mean that as all thoughts and
 theories were once judged by whether they tended to make a man lose
-his soul, so for our present purpose all modern thoughts and theories
+his [[Soul|soul]], so for our present purpose all modern thoughts and theories
 may be judged by whether they tend to make a man lose his wits.
 
      It is true that some speak lightly and loosely of insanity
@@ -106,38 +106,38 @@ and which makes him mad.  It is only because we see the irony of
 his idea that we think him even amusing; it is only because he does not
 see the irony of his idea that he is put in Hanwell at all. 
 In short, oddities only strike ordinary people.  Oddities do not strike
-odd people. This is why ordinary people have a much more exciting time;
+odd people. This is why ordinary people have a much more exciting [[Time|time]];
 while odd people are always complaining of the dulness of life. 
 This is also why the new novels die so quickly, and why the old
-fairy tales endure for ever.  The old fairy tale makes the hero
+fairy tales endure for ever.  The old fairy tale makes the [[Hero|hero]]
 a normal human boy; it is his adventures that are startling;
 they startle him because he is normal.  But in the modern
-psychological novel the hero is abnormal; the centre is not central. 
+psychological [[Novel|novel]] the [[Hero|hero]] is abnormal; the centre is not central. 
 Hence the fiercest adventures fail to affect him adequately,
 and the book is monotonous.  You can make a story out of
-a hero among dragons; but not out of a dragon among dragons. 
+a [[Hero|hero]] among dragons; but not out of a dragon among dragons. 
 The fairy tale discusses what a sane man will do in a mad world. 
-The sober realistic novel of to-day discusses what an essential lunatic
+The sober realistic [[Novel|novel]] of to-day discusses what an essential lunatic
 will do in a dull world.
 
-     Let us begin, then, with the mad-house; from this evil and
-fantastic inn let us set forth on our intellectual journey.
-Now, if we are to glance at the philosophy of sanity, the first
+     Let us begin, then, with the mad-[[house]]; from this evil and
+fantastic inn let us set forth on our intellectual [[Journey|journey]].
+Now, if we are to glance at the [[philosophy]] of [[Sanity|sanity]], the first
 thing to do in the matter is to blot out one big and common mistake. 
-There is a notion adrift everywhere that imagination, especially
-mystical imagination, is dangerous to man's mental balance. 
+There is a notion adrift everywhere that [[Imagination|imagination]], especially
+mystical [[Imagination|imagination]], is dangerous to man's mental balance. 
 Poets are commonly spoken of as psychologically unreliable;
 and generally there is a vague association between wreathing laurels
-in your hair and sticking straws in it. Facts and history
+in your hair and sticking straws in it. Facts and [[history]]
 utterly contradict this view.  Most of the very great poets
 have been not only sane, but extremely business-like; and if
 Shakespeare ever really held horses, it was because he was much
-the safest man to hold them. Imagination does not breed insanity.
+the safest man to hold them. [[Imagination]] does not breed insanity.
 Exactly what does breed insanity is reason.  Poets do not go mad;
 but chess-players do.  Mathematicians go mad, and cashiers;
 but creative artists very seldom.  I am not, as will be seen,
-in any sense attacking logic:  I only say that this danger does
-lie in logic, not in imagination.  Artistic paternity is as
+in any sense attacking [[logic]]:  I only say that this danger does
+lie in [[logic]], not in [[Imagination|imagination]].  Artistic paternity is as
 wholesome as physical paternity.  Moreover, it is worthy of
 remark that when a poet really was morbid it was commonly
 because he had some weak spot of rationality on his brain. 
@@ -148,7 +148,7 @@ like a poem.  He avowedly preferred the black discs of draughts,
 because they were more like the mere black dots on a diagram.
 Perhaps the strongest case of all is this:  that only one great
 English poet went mad, Cowper. And he was definitely driven mad
-by logic, by the ugly and alien logic of predestination.
+by [[logic]], by the ugly and alien [[logic]] of predestination.
 Poetry was not the disease, but the medicine; poetry partly kept him
 in health.  He could sometimes forget the red and thirsty hell
 to which his hideous necessitarianism dragged him among the wide waters
@@ -161,7 +161,7 @@ some of his critics who have discovered that he was somebody else.
 And though St. John the Evangelist saw many strange monsters in his vision,
 he saw no creature so wild as one of his own commentators. 
 The general fact is simple.  Poetry is sane because it floats easily
-in an infinite sea; reason seeks to cross the infinite sea,
+in an infinite sea; reason seeks to [[Cross|cross]] the infinite sea,
 and so make it finite.  The result is mental exhaustion,
 like the physical exhaustion of Mr. Holbein.  To accept everything
 is an exercise, to understand everything a strain.  The poet only desires
@@ -172,17 +172,17 @@ seeks to get the heavens into his head.  And it is his head that splits.
      It is a small matter, but not irrelevant, that this
 striking mistake is commonly supported by a striking misquotation.
 We have all heard people cite the celebrated line of Dryden as
-"Great genius is to madness near allied."  But Dryden did not say
-that great genius was to madness near allied.  Dryden was a
+"Great genius is to [[Madness|madness]] near allied."  But Dryden did not say
+that great genius was to [[Madness|madness]] near allied.  Dryden was a
 great genius himself, and knew better. It would have been hard
 to find a man more romantic than he, or more sensible.
-What Dryden said was this, "Great wits are oft to madness near allied";
+What Dryden said was this, "Great wits are oft to [[Madness|madness]] near allied";
 and that is true.  It is the pure promptitude of the intellect
 that is in peril of a breakdown.  Also people might remember of
 what sort of man Dryden was talking.  He was not talking of any
 unworldly visionary like Vaughan or George Herbert. He was talking
 of a cynical man of the world, a sceptic, a diplomatist, a great
-practical politician.  Such men are indeed to madness near allied. 
+practical politician.  Such men are indeed to [[Madness|madness]] near allied. 
 Their incessant calculation of their own brains and other
 people's brains is a dangerous trade.  It is always perilous to
 the mind to reckon up the mind.  A flippant person has asked
@@ -195,7 +195,7 @@ engaged in a controversy with the CLARION on the matter of free will,
 that able writer Mr. R.B.Suthers said that free will was lunacy,
 because it meant causeless actions, and the actions of a lunatic
 would be causeless.  I do not dwell here upon the disastrous
-lapse in determinist logic.  Obviously if any actions, even a lunatic's,
+lapse in determinist [[logic]].  Obviously if any actions, even a lunatic's,
 can be causeless, determinism is done for.  If the chain of causation
 can be broken for a madman, it can be broken for a man.  But my
 purpose is to point out something more practical.  It was
@@ -224,7 +224,7 @@ than a maze. If you argue with a madman, it is extremely
 probable that you will get the worst of it; for in many ways his
 mind moves all the quicker for not being delayed by the things
 that go with good judgment.  He is not hampered by a sense of
-humour or by charity, or by the dumb certainties of experience. 
+[[Humour|humour]] or by [[Charity|charity]], or by the dumb certainties of experience. 
 He is the more logical for losing certain sane affections. 
 Indeed, the common phrase for insanity is in this respect a
 misleading one.  The madman is not the man who has lost his reason.
@@ -234,17 +234,17 @@ The madman is the man who has lost everything except his reason.
 and often in a purely rational sense satisfactory.  Or, to speak
 more strictly, the insane explanation, if not conclusive,
 is at least unanswerable; this may be observed specially in the
-two or three commonest kinds of madness.  If a man says (for instance)
+two or three commonest kinds of [[Madness|madness]].  If a man says (for instance)
 that men have a conspiracy against him, you cannot dispute it
 except by saying that all the men deny that they are conspirators;
 which is exactly what conspirators would do.  His explanation
 covers the facts as much as yours.  Or if a man says that he is
-the rightful King of England, it is no complete answer to say
+the rightful [[King]] of England, it is no complete answer to say
 that the existing authorities call him mad; for if he were
-King of England that might be the wisest thing for the existing
-authorities to do.  Or if a man says that he is Jesus Christ,
+[[King]] of England that might be the wisest thing for the existing
+authorities to do.  Or if a man says that he is Jesus [[Christ]],
 it is no answer to tell him that the world denies his divinity;
-for the world denied Christ's.
+for the world denied [[Christ]]'s.
 
      Nevertheless he is wrong.  But if we attempt to trace his error
 in exact terms, we shall not find it quite so easy as we had supposed. 
@@ -255,10 +255,10 @@ quite as infinite, it is not so large.  In the same way the
 insane explanation is quite as complete as the sane one, but
 it is not so large.  A bullet is quite as round as the world,
 but it is not the world.  There is such a thing as a narrow universality;
-there is such a thing as a small and cramped eternity; you may
+there is such a thing as a small and cramped [[Eternity|eternity]]; you may
 see it in many modern religions. Now, speaking quite externally
 and empirically, we may say that the strongest and most
-unmistakable MARK of madness is this combination between a
+unmistakable MARK of [[Madness|madness]] is this combination between a
 logical completeness and a spiritual contraction.  The lunatic's
 theory explains a large number of things, but it does not
 explain them in a large way.  I mean that if you or I were
@@ -273,14 +273,14 @@ against this obsession, I suppose we should say something like this:
 "Oh, I admit that you have your case and have it by heart,
 and that many things do fit into other things as you say.
 I admit that your explanation explains a great deal; but what
-a great deal it leaves out!  Are there no other stories in the
+a great deal it [[Leaves|leaves]] out!  Are there no other stories in the
 world except yours; and are all men busy with your business? 
 Suppose we grant the details; perhaps when the man in the street
 did not seem to see you it was only his cunning; perhaps when
 the policeman asked you your name it was only because he knew it already.
 But how much happier you would be if you only knew that these
 people cared nothing about you!  How much larger your life would be
-if your self could become smaller in it; if you could really
+if your [[Self|self]] could become smaller in it; if you could really
 look at other men with common curiosity and pleasure; if you
 could see them walking as they are in their sunny selfishness
 and their virile indifference!  You would begin to be interested
@@ -288,22 +288,22 @@ in them, because they were not interested in you.  You would
 break out of this tiny and tawdry theatre in which your own
 little plot is always being played, and you would find yourself
 under a freer sky, in a street full of splendid strangers."
-Or suppose it were the second case of madness, that of a man who
-claims the crown, your impulse would be to answer, "All right! 
-Perhaps you know that you are the King of England; but why do you care?
+Or suppose it were the second case of [[Madness|madness]], that of a man who
+claims the [[Crown|crown]], your impulse would be to answer, "All right! 
+Perhaps you know that you are the [[King]] of England; but why do you care?
 Make one magnificent effort and you will be a human being and
 look down on all the kings of the earth."  Or it might be the
-third case, of the madman who called himself Christ.  If we said
+third case, of the madman who called himself [[Christ]].  If we said
 what we felt, we should say, "So you are the Creator and Redeemer
 of the world: but what a small world it must be!  What a little
 heaven you must inhabit, with angels no bigger than butterflies!
 How sad it must be to be God; and an inadequate God!  Is there
-really no life fuller and no love more marvellous than yours;
+really no life fuller and no [[Love|love]] more marvellous than yours;
 and is it really in your small and painful pity that all flesh
-must put its faith?  How much happier you would be, how much
+must put its [[Faith|faith]]?  How much happier you would be, how much
 more of you there would be, if the hammer of a higher God could smash
-your small cosmos, scattering the stars like spangles, and leave you
-in the open, free like other men to look up as well as down!"
+your small cosmos, scattering the [[Stars|stars]] like spangles, and leave you
+in the open, free like other men to look up as [[Well|well]] as down!"
 
      And it must be remembered that the most purely practical
 science does take this view of mental evil; it does not seek to
@@ -313,21 +313,21 @@ free thought.  Theology rebukes certain thoughts by calling
 them blasphemous.  Science rebukes certain thoughts by calling
 them morbid.  For example, some religious societies discouraged
 men more or less from thinking about sex.  The new scientific
-society definitely discourages men from thinking about death;
+society definitely discourages men from thinking about [[Death|death]];
 it is a fact, but it is considered a morbid fact. And in
 dealing with those whose morbidity has a touch of mania, modern
-science cares far less for pure logic than a dancing Dervish. 
+science cares far less for pure [[logic]] than a dancing Dervish. 
 In these cases it is not enough that the unhappy man should
-desire truth; he must desire health.  Nothing can save him but
+[[Desire|desire]] [[Truth|truth]]; he must [[Desire|desire]] health.  Nothing can save him but
 a blind hunger for normality, like that of a beast.  A man cannot
 think himself out of mental evil; for it is actually the organ
 of thought that has become diseased, ungovernable, and,
-as it were, independent.  He can only be saved by will or faith.
+as it were, independent.  He can only be saved by will or [[Faith|faith]].
 The moment his mere reason moves, it moves in the old circular rut;
 he will go round and round his logical circle, just as a man in
 a third-class carriage on the Inner Circle will go round and round
 the Inner Circle unless he performs the voluntary, vigorous,
-and mystical act of getting out at Gower Street.  Decision is
+and mystical act of getting out at [[Gower]] Street.  Decision is
 the whole business here; a door must be shut for ever. 
 Every remedy is a desperate remedy.  Every cure is a miraculous cure.
 Curing a madman is not arguing with a philosopher; it is
@@ -337,7 +337,7 @@ intolerant--as intolerant as Bloody Mary.  Their attitude is
 really this:  that the man must stop thinking, if he is to go on living.
 Their counsel is one of intellectual amputation.  If thy HEAD
 offend thee, cut it off; for it is better, not merely to enter
-the Kingdom of Heaven as a child, but to enter it as an imbecile,
+the Kingdom of Heaven as a [[Child|child]], but to enter it as an imbecile,
 rather than with your whole intellect to be cast into hell
 --or into Hanwell.
 
@@ -345,7 +345,7 @@ rather than with your whole intellect to be cast into hell
 frequently a successful reasoner.  Doubtless he could be
 vanquished in mere reason, and the case against him put logically.
 But it can be put much more precisely in more general and even
-aesthetic terms.  He is in the clean and well-lit prison of
+aesthetic terms.  He is in the clean and [[Well|well]]-lit [[Prison|prison]] of
 one idea:  he is sharpened to one painful point.  He is without
 healthy hesitation and healthy complexity.  Now, as I explain
 in the introduction, I have determined in these early chapters
@@ -373,29 +373,29 @@ leaving everything out.  Contemplate some able and sincere materialist,
 as, for instance, Mr. McCabe, and you will have exactly this
 unique sensation.  He understands everything, and everything
 does not seem worth understanding.  His cosmos may be complete
-in every rivet and cog-wheel, but still his cosmos is smaller
+in every rivet and cog-[[Wheel|wheel]], but still his cosmos is smaller
 than our world.  Somehow his scheme, like the lucid scheme of
 the madman, seems unconscious of the alien energies and the
 large indifference of the earth; it is not thinking of the real
 things of the earth, of fighting peoples or proud mothers,
-or first love or fear upon the sea.  The earth is so very large,
+or first [[Love|love]] or [[Fear|fear]] upon the sea.  The earth is so very large,
 and the cosmos is so very small.  The cosmos is about the
 smallest hole that a man can hide his head in.
 
      It must be understood that I am not now discussing the relation
-of these creeds to truth; but, for the present, solely their relation
-to health.  Later in the argument I hope to attack the question
+of these creeds to [[Truth|truth]]; but, for the present, solely their relation
+to health.  Later in the argument I [[Hope|hope]] to attack the question
 of objective verity; here I speak only of a phenomenon of psychology. 
 I do not for the present attempt to prove to Haeckel that
 materialism is untrue, any more than I attempted to prove to the man
-who thought he was Christ that he was labouring under an error. 
+who thought he was [[Christ]] that he was labouring under an error. 
 I merely remark here on the fact that both cases have the same
 kind of completeness and the same kind of incompleteness. 
 You can explain a man's detention at Hanwell by an indifferent
 public by saying that it is the crucifixion of a god of whom the
 world is not worthy.  The explanation does explain.  Similarly you
 may explain the order in the universe by saying that all things,
-even the souls of men, are leaves inevitably unfolding on
+even the souls of men, are [[Leaves|leaves]] inevitably unfolding on
 an utterly unconscious tree--the blind destiny of matter. 
 The explanation does explain, though not, of course, so completely
 as the madman's. But the point here is that the normal human mind
@@ -409,12 +409,12 @@ more grey, narrow, and trivial than many separate aspects of it.
 The parts seem greater than the whole.
 
 
-     For we must remember that the materialist philosophy
+     For we must remember that the materialist [[philosophy]]
 (whether true or not) is certainly much more limiting than any religion. 
 In one sense, of course, all intelligent ideas are narrow. 
 They cannot be broader than themselves.  A Christian is only
 restricted in the same sense that an atheist is restricted.
-He cannot think Christianity false and continue to be a Christian;
+He cannot think [[Christianity]] false and continue to be a Christian;
 and the atheist cannot think atheism false and continue to be an atheist.
 But as it happens, there is a very special sense in which
 materialism has more restrictions than spiritualism. 
@@ -425,7 +425,7 @@ we shall see that his is really much more of a pure veto than mine.
 The Christian is quite free to believe that there is
 a considerable amount of settled order and inevitable development
 in the universe.  But the materialist is not allowed to admit
-into his spotless machine the slightest speck of spiritualism
+into his spotless [[Machine|machine]] the slightest speck of spiritualism
 or miracle.  Poor Mr. McCabe is not allowed to retain even the
 tiniest imp, though it might be hiding in a pimpernel. 
 The Christian admits that the universe is manifold and even
@@ -435,36 +435,36 @@ the devil, a touch of the saint, a touch of the citizen.  Nay,
 the really sane man knows that he has a touch of the madman. 
 But the materialist's world is quite simple and solid, just as
 the madman is quite sure he is sane.  The materialist is sure
-that history has been simply and solely a chain of causation,
+that [[history]] has been simply and solely a chain of causation,
 just as the interesting person before mentioned is quite sure
 that he is simply and solely a chicken.  Materialists and madmen
 never have doubts.
 
      Spiritual doctrines do not actually limit the mind as do
-materialistic denials.  Even if I believe in immortality I need not
-think about it.  But if I disbelieve in immortality I must not
-think about it.  In the first case the road is open and I can
-go as far as I like; in the second the road is shut.  But the case
-is even stronger, and the parallel with madness is yet more strange. 
+materialistic denials.  Even if I believe in [[Immortality|immortality]] I need not
+think about it.  But if I disbelieve in [[Immortality|immortality]] I must not
+think about it.  In the first case the [[Road|road]] is open and I can
+go as far as I like; in the second the [[Road|road]] is shut.  But the case
+is even stronger, and the parallel with [[Madness|madness]] is yet more strange. 
 For it was our case against the exhaustive and logical theory of
 the lunatic that, right or wrong, it gradually destroyed his
 humanity.  Now it is the charge against the main deductions
 of the materialist that, right or wrong, they gradually destroy
-his humanity; I do not mean only kindness, I mean hope, courage,
+his humanity; I do not mean only kindness, I mean [[Hope|hope]], [[Courage|courage]],
 poetry, initiative, all that is human.  For instance, when
 materialism leads men to complete fatalism (as it generally does),
 it is quite idle to pretend that it is in any sense a liberating force.
-It is absurd to say that you are especially advancing freedom
+It is absurd to say that you are especially advancing [[Freedom|freedom]]
 when you only use free thought to destroy free will.  The determinists
-come to bind, not to loose.  They may well call their law the "chain"
+come to bind, not to loose.  They may [[Well|well]] call their law the "chain"
 of causation.  It is the worst chain that ever fettered a human being.
 You may use the language of liberty, if you like, about
 materialistic teaching, but it is obvious that this is just as
 inapplicable to it as a whole as the same language when applied
-to a man locked up in a mad-house.  You may say, if you like,
+to a man locked up in a mad-[[house]].  You may say, if you like,
 that the man is free to think himself a poached egg.  But it is
 surely a more massive and important fact that if he is a poached egg
-he is not free to eat, drink, sleep, walk, or smoke a cigarette. 
+he is not free to eat, drink, [[Sleep|sleep]], walk, or smoke a cigarette. 
 Similarly you may say, if you like, that the bold determinist
 speculator is free to disbelieve in the reality of the will. 
 But it is a much more massive and important fact that he is not free
@@ -475,14 +475,14 @@ for the mustard.
 
      In passing from this subject I may note that there is
 a queer fallacy to the effect that materialistic fatalism is in
-some way favourable to mercy, to the abolition of cruel punishments
+some way favourable to [[Mercy|mercy]], to the abolition of cruel punishments
 or punishments of any kind.  This is startlingly the reverse of
-the truth.  It is quite tenable that the doctrine of necessity
-makes no difference at all; that it leaves the flogger flogging
+the [[Truth|truth]].  It is quite tenable that the doctrine of necessity
+makes no difference at all; that it [[Leaves|leaves]] the flogger flogging
 and the kind friend exhorting as before.  But obviously if it
 stops either of them it stops the kind exhortation.  That the sins
 are inevitable does not prevent punishment; if it prevents
-anything it prevents persuasion.  Determinism is quite as
+anything it prevents [[Persuasion|persuasion]].  Determinism is quite as
 likely to lead to cruelty as it is certain to lead to cowardice. 
 Determinism is not inconsistent with the cruel treatment of criminals. 
 What it is (perhaps) inconsistent with is the generous treatment
@@ -498,7 +498,7 @@ at once unanswerable and intolerable.
 
      Of course it is not only of the materialist that all this
 is true.  The same would apply to the other extreme of
-speculative logic.  There is a sceptic far more terrible than
+speculative [[logic]].  There is a sceptic far more terrible than
 he who believes that everything began in matter.  It is possible
 to meet the sceptic who believes that everything began in himself. 
 He doubts not the existence of angels or devils, but the existence
@@ -512,26 +512,26 @@ in the looking-glass, those writers who talk about impressing
 their personalities instead of creating life for the world,
 all these people have really only an inch between them and this
 awful emptiness.  Then when this kindly world all round the man
-has been blackened out like a lie; when friends fade into ghosts,
+has been blackened out like a lie; when friends fade into [[Ghosts|ghosts]],
 and the foundations of the world fail; then when the man,
-believing in nothing and in no man, is alone in his own nightmare,
+believing in nothing and in no man, is [[Alone|alone]] in his own [[nightmare]],
 then the great individualistic motto shall be written over him
-in avenging irony.  The stars will be only dots in the blackness
-of his own brain; his mother's face will be only a sketch from
+in avenging irony.  The [[Stars|stars]] will be only dots in the blackness
+of his own brain; his mother's face will be only a [[Sketch|sketch]] from
 his own insane pencil on the walls of his cell.  But over his
-cell shall be written, with dreadful truth, "He believes in
+cell shall be written, with dreadful [[Truth|truth]], "He believes in
 himself."
 
 
      All that concerns us here, however, is to note that this
-panegoistic extreme of thought exhibits the same paradox as
+panegoistic extreme of thought exhibits the same [[Paradox|paradox]] as
 the other extreme of materialism.  It is equally complete in theory
 and equally crippling in practice.  For the sake of simplicity,
 it is easier to state the notion by saying that a man can believe
-that he is always in a dream.  Now, obviously there can be
-no positive proof given to him that he is not in a dream,
+that he is always in [[A Dream|a dream]].  Now, obviously there can be
+no positive proof given to him that he is not in [[A Dream|a dream]],
 for the simple reason that no proof can be offered that might
-not be offered in a dream.  But if the man began to burn down London
+not be offered in [[A Dream|a dream]].  But if the man began to burn down [[London]]
 and say that his housekeeper would soon call him to breakfast,
 we should take him and put him with other logicians in a place
 which has often been alluded to in the course of this chapter. 
@@ -539,21 +539,21 @@ The man who cannot believe his senses, and the man who cannot believe
 anything else, are both insane, but their insanity is proved not
 by any error in their argument, but by the manifest mistake of
 their whole lives.  They have both locked themselves up in two boxes,
-painted inside with the sun and stars; they are both unable to get out,
+painted inside with the sun and [[Stars|stars]]; they are both unable to get out,
 the one into the health and happiness of heaven, the other even
 into the health and happiness of the earth.  Their position is
 quite reasonable; nay, in a sense it is infinitely reasonable,
 just as a threepenny bit is infinitely circular.  But there is
-such a thing as a mean infinity, a base and slavish eternity. 
+such a thing as a mean infinity, a base and slavish [[Eternity|eternity]]. 
 It is amusing to notice that many of the moderns, whether sceptics
 or mystics, have taken as their sign a certain eastern symbol,
 which is the very symbol of this ultimate nullity.  When they wish
-to represent eternity, they represent it by a serpent with his tail
+to represent [[Eternity|eternity]], they represent it by a serpent with his tail
 in his mouth.  There is a startling sarcasm in the image of
-that very unsatisfactory meal.  The eternity of the material fatalists,
-the eternity of the eastern pessimists, the eternity of the
+that very unsatisfactory meal.  The [[Eternity|eternity]] of the material fatalists,
+the [[Eternity|eternity]] of the eastern pessimists, the [[Eternity|eternity]] of the
 supercilious theosophists and higher scientists of to-day is,
-indeed, very well presented by a serpent eating his tail,
+indeed, very [[Well|well]] presented by a serpent eating his tail,
 a degraded animal who destroys even himself.
 
      This chapter is purely practical and is concerned with
@@ -564,17 +564,17 @@ principles goes mad; he begins to think at the wrong end.  And for
 the rest of these pages we have to try and discover what is the
 right end.  But we may ask in conclusion, if this be what
 drives men mad, what is it that keeps them sane?  By the end of
-this book I hope to give a definite, some will think a far too
+this book I [[Hope|hope]] to give a definite, some will think a far too
 definite, answer.  But for the moment it is possible in the
 same solely practical manner to give a general answer touching
-what in actual human history keeps men sane.  Mysticism keeps
+what in actual human [[history]] keeps men sane.  Mysticism keeps
 men sane.  As long as you have mystery you have health; when you
 destroy mystery you create morbidity.  The ordinary man has always
 been sane because the ordinary man has always been a mystic. 
 He has permitted the twilight.  He has always had one foot in
 earth and the other in fairyland.  He has always left himself
-free to doubt his gods; but (unlike the agnostic of to-day) free
-also to believe in them.  He has always cared more for truth
+free to [[Doubt|doubt]] his gods; but (unlike the agnostic of to-day) free
+also to believe in them.  He has always cared more for [[Truth|truth]]
 than for consistency.  If he saw two truths that seemed to
 contradict each other, he would take the two truths and the
 contradiction along with them.  His spiritual sight is stereoscopic,
@@ -598,21 +598,21 @@ but because of this his relations with the housemaid become of a
 sparkling and crystal clearness.  He puts the seed of dogma in
 a central darkness; but it branches forth in all directions with
 abounding natural health.  As we have taken the circle as the symbol
-of reason and madness, we may very well take the cross as the
+of reason and [[Madness|madness]], we may very [[Well|well]] take the [[Cross|cross]] as the
 symbol at once of mystery and of health.  Buddhism is centripetal,
-but Christianity is centrifugal:  it breaks out.  For the
-circle is perfect and infinite in its nature; but it is fixed
+but [[Christianity]] is centrifugal:  it breaks out.  For the
+circle is perfect and infinite in its [[Nature|nature]]; but it is fixed
 for ever in its size; it can never be larger or smaller. 
-But the cross, though it has at its heart a collision and a
+But the [[Cross|cross]], though it has at its heart a collision and a
 contradiction, can extend its four arms for ever without
-altering its shape. Because it has a paradox in its centre it
+altering its shape. Because it has a [[Paradox|paradox]] in its centre it
 can grow without changing.  The circle returns upon itself and
-is bound.  The cross opens its arms to the four winds; it is a
+is bound.  The [[Cross|cross]] opens its arms to the four winds; it is a
 signpost for free travellers.
 
-     Symbols alone are of even a cloudy value in speaking of
-this deep matter; and another symbol from physical nature will
-express sufficiently well the real place of mysticism before mankind. 
+     Symbols [[Alone|alone]] are of even a cloudy value in speaking of
+this deep matter; and another symbol from physical [[Nature|nature]] will
+express sufficiently [[Well|well]] the real place of mysticism before mankind. 
 The one created thing which we cannot look at is the one thing
 in the light of which we look at everything.  Like the sun at noonday,
 mysticism explains everything else by the blaze of its own
@@ -620,14 +620,14 @@ victorious invisibility.  Detached intellectualism is
 (in the exact sense of a popular phrase) all moonshine;
 for it is light without heat, and it is secondary light,
 reflected from a dead world.  But the Greeks were right when
-they made Apollo the god both of imagination and of sanity;
+they made [[Apollo]] the god both of [[Imagination|imagination]] and of [[Sanity|sanity]];
 for he was both the patron of poetry and the patron of healing. 
 Of necessary dogmas and a special creed I shall speak later. 
 But that transcendentalism by which all men live has primarily
 much the position of the sun in the sky.  We are conscious of it
 as of a kind of splendid confusion; it is something both shining
-and shapeless, at once a blaze and a blur.  But the circle of the moon
+and shapeless, at once a blaze and a blur.  But the circle of the [[Moon|moon]]
 is as clear and unmistakable, as recurrent and inevitable,
-as the circle of Euclid on a blackboard.  For the moon is
-utterly reasonable; and the moon is the mother of lunatics
+as the circle of Euclid on a blackboard.  For the [[Moon|moon]] is
+utterly reasonable; and the [[Moon|moon]] is the mother of lunatics
 and has given to them all her name.

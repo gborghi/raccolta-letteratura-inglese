@@ -27,15 +27,15 @@ of subtracting the original thought with which everything began.
 I mean that men will build up institutions and elaborations round
 the central pillar of some thought.  Then, after the passage of centuries,
 the central pillar falls down, but the rest of the edifice remains.
-Such an edifice is not always in danger, but it is in decay.
+Such an edifice is not always in danger, but it is in [[Decay|decay]].
 
 Our forefathers in the morning of the world appear in certain
 ancient and, as I think, eternal attitudes; in the posture of the
 performance of certain primal human acts; such as hunting or dancing
 or feasting or sacrificing to the gods.  It is right and natural
-that these things should grow richer and more complex with time.
+that these things should grow richer and more complex with [[Time|time]].
 But it is decadent and dangerous when these things forget their origin
-and alter their inmost nature; when, after a stretch of centuries,
+and alter their inmost [[Nature|nature]]; when, after a stretch of centuries,
 they have turned into something else, sometimes into some thing opposite.
 
 In order to avoid the fascinating topics of drink and religion,
@@ -44,16 +44,16 @@ reversed its old character.  The essence of the change is this;
 that men began with the comparatively generous idea of killing
 wild beasts and have ended up with the comparatively paltry
 idea of preserving them.  ... I do not mean to indicate
-that I think it wrong to preserve or shoot birds; I do not.
+that I think it wrong to preserve or shoot [[Birds|birds]]; I do not.
 I merely use this reversal of the heroic in hunting as an instance
 of the way in which over-elaborate societies end up with their tails
 in their mouths; in a posture not merely twisted, but inverted.
 
 Of course, there are other instances.  There was the primitive
 man offering sacrifice to the gods.  The sacrificer builds
-an altar and pours wine or blood or something on it and holds
+an altar and pours wine or [[Blood|blood]] or something on it and holds
 up his hands to the sky and talks to somebody he can't see.
-Then, as time goes on, he turns his remarks into an ordered
+Then, as [[Time|time]] goes on, he turns his remarks into an ordered
 chant and then, perhaps, into a written book; and he has
 a roof to cover the people who come to see him sacrifice,
 and a lectern to read the book from, and a sort of forum or pulpit
@@ -62,7 +62,7 @@ And then, when civilization has grown for some centuries,
 there comes an Ethical Society--the advance guard of barbarism.
 You may know it by this extraordinary fact; that it doesn't take
 away the additions and excretions round the old human thing;
-it takes away the old human thing itself.  It leaves the reading-desk
+it takes away the old human thing itself.  It [[Leaves|leaves]] the reading-desk
 and the talking-box and the people sitting still on hard seats.
 But it takes away the altar.  It takes away the God.
 It takes away the number it first thought of.
@@ -79,4 +79,4 @@ the modern world, which is first and last a topsy-turvy world.
 That is why the few mild and rational people are accused
 of standing on their heads.
 
-                              Illustrated London News, February 24th, 1912
+                              Illustrated [[London]] News, February 24th, 1912

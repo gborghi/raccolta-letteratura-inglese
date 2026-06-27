@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 8)"
+title: "[[Maelzel's Chess-Player]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -16,11 +16,11 @@ tags:
 
       give it the appearance of being crowded with mechanism. Now the
 
-      direct inference from this is that the machine is not a pure
+      direct inference from this is that the [[Machine|machine]] is not a pure
 
-      machine. For if it were, the inventor, so far from wishing its
+      [[Machine|machine]]. For if it were, the inventor, so far from wishing its
 
-      mechanism to appear complex, and using deception for the purpose
+      mechanism to appear complex, and using [[Deception|deception]] for the purpose
 
       of giving it this appearance, would have been especially desirous
 
@@ -52,7 +52,7 @@ tags:
 
       better, or of intentional neglect—accidental neglect being out of
 
-      the question, when we consider that the whole time of the
+      the question, when we consider that the whole [[Time|time]] of the
 
       ingenious proprietor is occupied in the improvement of his
 
@@ -82,13 +82,13 @@ tags:
 
       convince any assemblage of persons that these wooden automata
 
-      were not living creatures. We cannot, therefore, doubt Mr.
+      were not living creatures. We cannot, therefore, [[Doubt|doubt]] Mr.
 
       Maelzel’s ability, and we must necessarily suppose that he
 
       intentionally suffered his Chess Player to remain the same
 
-      artificial and unnatural figure which Baron Kempelen (no doubt
+      artificial and unnatural figure which Baron Kempelen (no [[Doubt|doubt]]
 
       also through design) originally made it. What this design was it
 
@@ -104,7 +104,7 @@ tags:
 
 
 
-      7. When, a short time previous to the commencement of the game,
+      7. When, a short [[Time|time]] previous to the commencement of the game,
 
       the Automaton is wound up by the exhibiter as usual, an ear in
 
@@ -114,7 +114,7 @@ tags:
 
       that the axis turned by the key in the box of the Chess-Player,
 
-      cannot possibly be connected with either a weight, a spring, or
+      cannot possibly be connected with either a weight, a [[spring]], or
 
       any system of machinery whatever. The inference here is the same
 
@@ -128,7 +128,7 @@ tags:
 
       8. When the question is demanded explicitly of Maelzel—“Is the
 
-      Automaton a pure machine or not?” his reply is invariably the
+      Automaton a pure [[Machine|machine]] or not?” his reply is invariably the
 
       same—“I will say nothing about it.” Now the notoriety of the
 
@@ -136,11 +136,11 @@ tags:
 
       are owing more especially to the prevalent opinion that it is a
 
-      pure machine, than to any other circumstance. Of course, then, it
+      pure [[Machine|machine]], than to any other circumstance. Of course, then, it
 
       is the interest of the proprietor to represent it as a pure
 
-      machine. And what more obvious, and more effectual method could
+      [[Machine|machine]]. And what more obvious, and more effectual method could
 
       there be of impressing the spectators with this desired idea,
 
@@ -148,13 +148,13 @@ tags:
 
       other hand, what more obvious and effectual method could there be
 
-      of exciting a disbelief in the Automaton’s being a pure machine,
+      of exciting a disbelief in the Automaton’s being a pure [[Machine|machine]],
 
       than by withholding such explicit declaration? For, people will
 
       naturally reason thus,—It is Maelzel’s interest to represent this
 
-      thing a pure machine—he refuses to do so, directly, in words,
+      thing a pure [[Machine|machine]]—he refuses to do so, directly, in words,
 
       although he does not scruple, and is evidently anxious to do so,
 
@@ -164,9 +164,9 @@ tags:
 
       more direct testimony of words—the inference is, that a
 
-      consciousness of its not being a pure machine, is the reason of
+      consciousness of its not being a pure [[Machine|machine]], is the reason of
 
-      his silence—his actions cannot implicate him in a falsehood—his
+      his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
 
       words may.
 
@@ -178,11 +178,11 @@ tags:
 
       it, he holds a lighted candle at the back door (as mentioned
 
-      above) and moves the entire machine to and fro with a view of
+      above) and moves the entire [[Machine|machine]] to and fro with a view of
 
       convincing the company that the cupboard No. 1 is entirely filled
 
-      with machinery. When the machine is thus moved about, it will be
+      with machinery. When the [[Machine|machine]] is thus moved about, it will be
 
       apparent to any careful observer, that whereas that portion of
 
@@ -190,7 +190,7 @@ tags:
 
       unwavering, the portion farther within fluctuates, in a very
 
-      slight degree, with the movements of the machine. This
+      slight degree, with the movements of the [[Machine|machine]]. This
 
       circumstance first aroused in us the suspicion that the more
 

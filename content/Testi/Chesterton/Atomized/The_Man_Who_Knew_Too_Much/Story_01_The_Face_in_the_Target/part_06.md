@@ -38,7 +38,7 @@ only pausing, in a sort of ecstasy, to point out the celebrated gilt
 
 summerhouse on which the gilt weathercock still stood crooked. It
 
-was dusk turning to dark by the time they reached the remote green
+was dusk turning to dark by the [[Time|time]] they reached the remote green
 
 by the poplars and accepted the new and aimless game of shooting at
 
@@ -80,7 +80,7 @@ them. The target stood up in the dim grass like a dark goblin
 
 grinning at them, and it was literally grinning. It had two eyes
 
-like stars, and in similar livid points of light were picked out the
+like [[Stars|stars]], and in similar livid points of light were picked out the
 
 two upturned and open nostrils and the two ends of the wide and
 
@@ -90,9 +90,9 @@ eyebrows; and one of them ran upward almost erect. It was a
 
 brilliant caricature done in bright dotted lines and March knew of
 
-whom. It shone in the shadowy grass, smeared with sea fire as if one
+whom. It shone in the shadowy grass, smeared with sea [[Fire|fire]] as if one
 
-of the submarine monsters had crawled into the twilight garden; but
+of the submarine monsters had crawled into the twilight [[Garden|garden]]; but
 
 it had the head of a dead man.
 "It's only luminous paint," said Burke. "Old Fisher's been having a
@@ -100,7 +100,7 @@ it had the head of a dead man.
 joke with that phosphorescent stuff of his."
 "Seems to be meant for old Puggy"' observed Sir Howard. "Hits him
 
-off very well."
+off very [[Well|well]]."
 With that they all laughed, except Jenkins. When they had all done,
 
 he made a noise like the first effort of an animal to laugh, and
@@ -111,9 +111,9 @@ It was by the little watercourse in the moors, on the slope under
 
 the hanging rock, that March met his new friend Fisher, by
 
-appointment, shortly after the ugly and almost grotesque scene that
+appointment, shortly after the ugly and almost [[Grotesque|grotesque]] scene that
 
-had broken up the group in the garden.
+had broken up the group in the [[Garden|garden]].
 "It was a monkey-trick of mine," observed Fisher, gloomily, "putting
 
 phosphorus on the target; but the only chance to make him jump was
@@ -134,7 +134,7 @@ you gave me the first suggestion yourself. Oh yes, you did; and it
 
 was a very shrewd one. You said a man wouldn't take sandwiches with
 
-him to dine at a great house. It was quite true; and the inference
+him to dine at a [[Great House|great house]]. It was quite true; and the inference
 
 was that, though he was going there, he didn't mean to dine there.
 
@@ -170,7 +170,7 @@ cousin's account of his bad shooting. He'd shot a cockade off a hat
 
 and a weathercock off a building. Now, in fact, a man must shoot
 
-very well indeed to shoot so badly as that. He must shoot very
+very [[Well|well]] indeed to shoot so badly as that. He must shoot very
 
 neatly to hit the cockade and not the head, or even the hat. If the
 

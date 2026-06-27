@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 12)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-Might-have-beens of literary history." Dickens certainly was not merely
+Might-have-beens of literary [[history]]." Dickens certainly was not merely
 
 a great Might-have-been. Dickens, to say the least of him, was a great
 
 Was. Yet this fails fully to express the richness of his talent; for
 
-the truth is that he was a great Was and also a great Might-have-been.
+the [[Truth|truth]] is that he was a great Was and also a great Might-have-been.
 
 He said what he had to say, and yet not all he had to say. Wild
 
@@ -32,7 +32,7 @@ that at the end there was a vast mass of them left over, ideas that he
 
 literally had not the opportunity to develop, tales that he literally
 
-had not the time to tell. This is shown clearly in his private notes and
+had not the [[Time|time]] to tell. This is shown clearly in his private notes and
 
 letters, which are full of schemes singularly striking and suggestive,
 
@@ -42,11 +42,11 @@ these _Christmas Stories_, collected out of the chaotic opulence of
 
 _Household Words_ and _All the Year Round_. He wrote short stories
 
-actually because he had not time to write long stories. He often put
+actually because he had not [[Time|time]] to write long stories. He often put
 
-into the short story a deep and branching idea which would have done
+into the [[Short Story|short story]] a deep and branching idea which would have done
 
-very well for a long story; many of his long stories, so to speak, broke
+very [[Well|well]] for a long story; many of his long stories, so to speak, broke
 
 off short. This is where he differs from most who are called the
 
@@ -60,11 +60,11 @@ Examine for example this case of the waiter in _Somebody's Luggage_.
 
 Dickens obviously knew enough about that waiter to have made him a
 
-running spring of joy throughout a whole novel; as the beadle is in
+running [[spring]] of joy throughout a whole [[Novel|novel]]; as the beadle is in
 
 _Oliver Twist_, or the undertaker in _Martin Chuzzlewit_. Every touch of
 
-him tingles with truth, from the vague gallantry with which he asks,
+him tingles with [[Truth|truth]], from the vague gallantry with which he asks,
 
 "Would'st thou know, fair reader (if of the adorable female sex)" to the
 
@@ -74,61 +74,61 @@ pegs as is desirable for the future comfort of all parties." If Dickens
 
 had developed this character at full length in a book he would have
 
-preserved for ever in literature a type of great humour and great value,
+preserved for ever in literature a type of great [[Humour|humour]] and great value,
 
-and a type which may only too soon be disappearing from English history.
+and a type which may only too soon be disappearing from English [[history]].
 
 He would have eternalised the English waiter. He still exists in some
 
 sound old taverns and decent country inns, but there is no one left
 
-really capable of singing his praises. I know that Mr. Bernard Shaw has
+really capable of singing his praises. I know that Mr. Bernard [[Shaw]] has
 
 done something of the sort in the delightfully whimsical account of
 
 William in _You Never Can Tell_. But nothing will persuade me that Mr.
 
-Bernard Shaw can really understand the English waiter. He can never have
+Bernard [[Shaw]] can really understand the English waiter. He can never have
 
 ordered wine from him for instance. And though the English waiter is by
 
-the nature of things solemn about everything, he can never reach the
+the [[Nature|nature]] of things solemn about everything, he can never reach the
 
 true height and ecstasy of his solemnity except about wine. What the
 
-real English waiter would do or say if Mr. Shaw asked him for a
+real English waiter would do or say if Mr. [[Shaw]] asked him for a
 
-vegetarian meal I cannot dare to predict. I rather think that for the
+[[vegetarian]] meal I cannot dare to predict. I rather think that for the
 
-first time in his life he would laugh--a horrible sight.
+first [[Time|time]] in his life he would laugh--a horrible sight.
 
 
 
 Dickens's waiter is described by one who is not merely witty, truthful,
 
-and observant, like Mr. Bernard Shaw, but one who really knew the
+and observant, like Mr. Bernard [[Shaw]], but one who really knew the
 
 atmosphere of inns, one who knew and even liked the smell of beef, and
 
 beer, and brandy. Hence there is a richness in Dickens's portrait which
 
-does not exist in Mr. Shaw's. Mr. Shaw's waiter is merely a man of tact;
+does not exist in Mr. [[Shaw]]'s. Mr. [[Shaw]]'s waiter is merely a man of tact;
 
-Dickens's is a man of principle. Mr. Shaw's waiter is an opportunist,
+Dickens's is a man of principle. Mr. [[Shaw]]'s waiter is an opportunist,
 
-just as Mr. Shaw is an opportunist in politics. Dickens's waiter is
+just as Mr. [[Shaw]] is an opportunist in politics. Dickens's waiter is
 
 ready to stand up seriously for "the true principles of waitering,"
 
 just as Dickens was ready to stand up for the true principles of
 
-Liberalism. Mr. Shaw's waiter is agnostic; his motto is "You never can
+Liberalism. Mr. [[Shaw]]'s waiter is agnostic; his motto is "You never can
 
 tell." Dickens's waiter is a dogmatist; his motto is "You can tell; I
 
 will tell you." And the true old-fashioned English waiter had really
 
-this grave and even moral attitude; he was the servant of the customers
+this [[Grave|grave]] and even moral attitude; he was the servant of the customers
 
 as a priest is the servant of the faithful, but scarcely in any less
 
@@ -158,17 +158,17 @@ sketches scattered about these short stories. But there are many others,
 
 and one at least demands special mention; I mean Mrs. Lirriper, the
 
-London landlady. Not only did Dickens never do anything better in a
+[[London]] landlady. Not only did Dickens never do anything better in a
 
 literary sense, but he never performed more perfectly his main moral
 
 function, that of insisting through laughter and flippancy upon the
 
-virtue of Christian charity. There has been much broad farce against the
+virtue of Christian [[Charity|charity]]. There has been much broad farce against the
 
-lodging-house keeper: he alone could have written broad farce in her
+lodging-[[house]] keeper: he [[Alone|alone]] could have written broad farce in her
 
-favour. It is fashionable to represent the landlady as a tyrant; it is
+favour. It is fashionable to represent the landlady as a [[Tyrant|tyrant]]; it is
 
 too much forgotten that if she is one of the oppressors she is at least
 
@@ -188,6 +188,6 @@ Wozenham. But in Mrs. Lirriper he went further and did not fare worse.
 
 In Mrs. Lirriper he suggested quite truly how huge a mass of real good
 
-humour, of grand unconscious patience, of unfailing courtesy and
+[[Humour|humour]], of grand unconscious patience, of unfailing courtesy and
 
 constant and difficult benevolence is concealed behind many a

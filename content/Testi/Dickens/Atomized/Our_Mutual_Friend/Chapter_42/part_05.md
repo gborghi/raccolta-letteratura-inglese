@@ -29,7 +29,7 @@ name.’
 the other, but I never dreamt of that one! I shouldn’t object to your
 baulking either of the pair, dodger, for they are both conceited enough;
 but that one is as cool a customer as ever I met with. Got a beard
-besides, and presumes upon it. Well done, old ’un! Go on and prosper!’
+besides, and presumes upon it. [[Well]] done, old ’un! Go on and prosper!’
 
 Brightened by this unexpected commendation, Riah asked were there more
 instructions for him?
@@ -38,10 +38,10 @@ instructions for him?
 orders you have got.’ Dismissed with those pleasing words, the old man
 took his broad hat and staff, and left the great presence: more as if he
 were some superior creature benignantly blessing Mr Fledgeby, than the
-poor dependent on whom he set his foot. Left alone, Mr Fledgeby locked
-his outer door, and came back to his fire.
+poor dependent on whom he set his foot. Left [[Alone|alone]], Mr Fledgeby locked
+his outer door, and came back to his [[Fire|fire]].
 
-‘Well done you!’ said Fascination to himself. ‘Slow, you may be; sure,
+‘[[Well]] done you!’ said Fascination to himself. ‘Slow, you may be; sure,
 you are!’ This he twice or thrice repeated with much complacency, as he
 again dispersed the legs of the Turkish trousers and bent the knees.
 
@@ -49,7 +49,7 @@ again dispersed the legs of the Turkish trousers and bent the knees.
 brought down with it! Now, when I heard the story told at Lammle’s, I
 didn’t make a jump at Riah. Not a hit of it; I got at him by degrees.’
 Herein he was quite accurate; it being his habit, not to jump, or
-leap, or make an upward spring, at anything in life, but to crawl at
+leap, or make an upward [[Spring|spring]], at anything in life, but to crawl at
 everything.
 
 ‘I got at him,’ pursued Fledgeby, feeling for his whisker, ‘by degrees.

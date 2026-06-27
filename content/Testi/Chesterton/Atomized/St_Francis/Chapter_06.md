@@ -21,28 +21,28 @@ THE LITTLE POOR MAN
 
 
 From that cavern, that was a furnace of glowing gratitude
-and humility, there came forth one of the strongest and strangest
-and most original personalities that human history has known.
+and [[Humility|humility]], there came forth one of the strongest and strangest
+and most original personalities that human [[history]] has known.
 He was, among other things, emphatically what we call a character;
-almost as we speak of a character in a good novel or play.
+almost as we speak of a character in a good [[Novel|novel]] or play.
 He was not only a humanist but a humourist; a humourist especially
-in the old English sense of a man always in his humour,
+in the old English sense of a man always in his [[Humour|humour]],
 going his own way and doing what nobody else would have done.
 The anecdotes about him have a certain biographical
 quality of which the most familiar example is Dr. Johnson;
-which belongs in another way to William Blake or to Charles Lamb.
+which belongs in another way to William Blake or to Charles [[Lamb]].
 The atmosphere can only be defined by a sort of antithesis;
 the act is always unexpected and never inappropriate.
 Before the thing is said or done it cannot even be conjectured;
 but after it is said or done it is felt to be merely characteristic.
 It is surprisingly and yet inevitably individual.  This quality
 of abrupt fitness and bewildering consistency belongs to St. Francis
-in a way that marks him out from most men of his time.  Men are learning
+in a way that marks him out from most men of his [[Time|time]].  Men are learning
 more and more of the solid social virtues of medieval civilisation;
 but those impressions are still social rather than individual.
 The medieval world was far ahead of the modern world in its sense
-of the things in which all men are at one:  death and the daylight
-of reason and the common conscience that holds communities together.
+of the things in which all men are at one:  [[Death|death]] and the daylight
+of reason and the common [[Conscience|conscience]] that holds communities together.
 Its generalisations were saner and sounder than the mad materialistic
 theories of to-day; nobody would have tolerated a Schopenhauer scorning
 life or a Nietzsche living only for scorn.  But the modern world is
@@ -58,14 +58,14 @@ of St. Francis have really contrived to leave behind a portrait;
 something almost resembling a devout and affectionate caricature.
 There are lines and colours in it that are personal almost
 to the extent of being perverse, if one can use the word
-perversity of an inversion that was also a conversion.
+perversity of an inversion that was also a [[conversion]].
 Even among the saints he has the air of a sort of eccentric,
 if one may use the word of one whose eccentricity consisted in always
 turning towards the centre.
 
 Before resuming the narrative of his first adventures, and the building
 of the great brotherhood which was the beginning of so merciful
-a revolution, I think it well to complete this imperfect personal
+a revolution, I think it [[Well|well]] to complete this imperfect personal
 portrait here; and having attempted in the last chapter a tentative
 description of the process, to add in this chapter a few touches
 to describe the result.  I mean by the result the real man as he was
@@ -76,7 +76,7 @@ that followed; men acted quite differently according to whether
 they had met him or not.  If we see afterwards a vast tumult,
 an appeal to the Pope, mobs of men in brown habits besieging
 the seats of authority, Papal pronouncements, heretical sessions,
-trial and triumphant survival, the world full of a new movement,
+trial and triumphant [[Survival|survival]], the world full of a new movement,
 the friar a household word in every corner of Europe, and if we ask why
 all this happened, we can only approximate to any answer to our own
 question if we can, in some faint and indirect imaginative fashion,
@@ -85,7 +85,7 @@ There is no answer except that Francis Bernardone had happened;
 and we must try in some sense to see what we should have seen if he had
 happened to us.  In other words, after some groping suggestions
 about his life from the inside, we must again consider it from
-the outside; as if he were a stranger coming up the road towards us,
+the outside; as if he were a stranger coming up the [[Road|road]] towards us,
 along the hills of Umbria, between the olives or the vines.
 
 Francis of Assisi was slight in figure with that sort of
@@ -95,7 +95,7 @@ middle-sized, his biographers say; he was certainly very active and,
 considering what he went through, must have been tolerably tough.
 He was of the brownish Southern colouring, with a dark beard thin
 and pointed such as appears in pictures under the hoods of elves.
-And his eyes glowed with the fire that fretted him night and day.
+And his eyes glowed with the [[Fire|fire]] that fretted him [[Night|night]] and day.
 There is something about the description of all he said and did
 which suggests that, even more than most Italians, he turned
 naturally to a passionate pantomime of gestures.  If this was so it
@@ -109,33 +109,33 @@ of the medieval drama, and therefore of the modern drama.
 He was the very reverse of a theatrical person in the selfish sense;
 but for all that he was pre-eminently a dramatic person.
 This side of him can best be suggested by taking what is commonly regarded
-as a reposeful quality; what is commonly described as a love of nature.
+as a reposeful quality; what is commonly described as a [[Love|love]] of [[Nature|nature]].
 We are compelled to use the term; and it is entirely the wrong term.
 
-St. Francis was not a lover of nature.  Properly understood,
-a lover of nature was precisely what he was not.  The phrase implies
+St. Francis was not a [[Lover|lover]] of [[Nature|nature]].  Properly understood,
+a [[Lover|lover]] of [[Nature|nature]] was precisely what he was not.  The phrase implies
 accepting the material universe as a vague environment, a sort
 of sentimental pantheism.  In the romantic period of literature,
 in the age of Byron and Scott, it was easy enough to imagine
 that a hermit in the ruins of a chapel (preferably by moonlight)
 might find peace and a mild pleasure in the harmony of solemn forests and
-silent stars, while he pondered over some scroll or illuminated volume,
-about the liturgical nature of which the author was a little vague.
-In short, the hermit might love nature as a background.
+silent [[Stars|stars]], while he pondered over some scroll or illuminated volume,
+about the liturgical [[Nature|nature]] of which the author was a little vague.
+In short, the hermit might [[Love|love]] [[Nature|nature]] as a background.
 Now for St. Francis nothing was ever in the background.  We might say
 that his mind had no background, except perhaps that divine darkness
-out of which the divine love had called up every coloured creature
+out of which the [[Divine Love|divine love]] had called up every coloured creature
 one by one.  He saw everything as dramatic, distinct from its setting,
 not all of a piece like a picture but in action like a play.
 A bird went by him like an arrow; something with a story and a purpose,
-though it was a purpose of life and not a purpose of death.
+though it was a purpose of life and not a purpose of [[Death|death]].
 A bush could stop him like a brigand; and indeed he was as ready
 to welcome the brigand as the bush.
 
 In a word, we talk about a man who cannot see the wood for the trees.
 St. Francis was a man who did not want to see the wood for the trees.
 He wanted to see each tree as a separate and almost a sacred thing,
-being a child of God and therefore a brother or sister of man.
+being a [[Child|child]] of God and therefore a brother or sister of man.
 But he did not want to stand against a piece of stage scenery used merely
 as a background, and inscribed in a general fashion:  "Scene; a wood."
 In this sense we might say that he was too dramatic for the drama.
@@ -145,21 +145,21 @@ would really have come walking to Dunsinane.  Everything would
 have been in the foreground; and in that sense in the footlights.
 Everything would be in every sense a character.  This is the quality
 in which, as a poet, he is the very opposite of a pantheist.
-He did not call nature his mother; he called a particular
-donkey his brother or a particular sparrow his sister.
+He did not call [[Nature|nature]] his mother; he called a particular
+[[donkey]] his brother or a particular sparrow his sister.
 If he had called a pelican his aunt or an elephant his uncle as
 he might possibly have done, e would still have meant that they were
 particular creatures assigned by their Creator to particular places;
 not mere expressions of the evolutionary energy of things.
-That is where his mysticism is so close to the common sense of the child.
-A child has no difficulty about understanding that God made the dog
-and the cat; though he is well aware that the making of dogs and cats
-out of nothing is a mysterious process beyond his own imagination.
-But no child would understand what you meant if you mixed up the dog
-and the cat and everything else into one monster with myriad legs
-and called it nature.  The child would resolutely refuse to make
+That is where his mysticism is so close to the common sense of the [[Child|child]].
+A [[Child|child]] has no difficulty about understanding that God made the dog
+and the cat; though he is [[Well|well]] aware that the making of [[dogs]] and cats
+out of nothing is a mysterious process beyond his own [[Imagination|imagination]].
+But no [[Child|child]] would understand what you meant if you mixed up the dog
+and the cat and everything else into one [[Monster|monster]] with myriad legs
+and called it [[Nature|nature]].  The [[Child|child]] would resolutely refuse to make
 head or tail of any such animal.  St. Francis was a mystic,
-but he believed in mysticism and not in mystification.
+but he believed in mysticism and not in [[Mystification|mystification]].
 As a mystic he was the mortal enemy of all those mystics who melt away
 the edges of things and dissolve an entity into its environment.
 He was a mystic of the daylight and the darkness; but not a mystic
@@ -171,22 +171,22 @@ In this matter he really was akin to the best spirit of his age, which had
 just won its victory over the nominalism of the twelfth century.
 In this indeed there was something symbolic in the contemporary art
 and decoration of his period; as in the art of heraldry.  The Franciscan
-birds and beasts were really rather like heraldic birds and beasts;
-not in the sense of being fabulous animals but in the sense of being
+[[Birds|birds]] and beasts were really rather like heraldic [[Birds|birds]] and beasts;
+not in the sense of being fabulous [[Animals|animals]] but in the sense of being
 treated as if they were facts, clear and positive and unaffected
 by the illusions of atmosphere and perspective.  In that sense he did
 see a bird sable on a field azure or a sheep argent on a field vert.
-But the heraldry of humility was richer than the heraldry of pride;
+But the heraldry of [[Humility|humility]] was richer than the heraldry of [[Pride|pride]];
 for it saw all these things that God had given as something
 more precious and unique than the blazonry that princes and peers
 had only given to themselves.  Indeed out of the depths of that
-surrender it rose higher than the highest titles of the feudal age;
-than the laurel of Ceasar or the Iron Crown of Lombardy.
+surrender it [[Rose|rose]] higher than the highest titles of the feudal age;
+than the laurel of Ceasar or the Iron [[Crown]] of Lombardy.
 It is an example of extremes that meet, that the Little Poor Man,
 who had stripped himself of everything and named himself as nothing,
-took the same title that has been the wild vaunt of the vanity
+took the same title that has been the wild vaunt of the [[Vanity|vanity]]
 of the gorgeous Asiatic autocrat, and called himself the Brother
-of the Sun and Moon.
+of the Sun and [[Moon]].
 
 This quality, of something outstanding and even startling in things
 as St. Francis saw them, is here important as illustrating
@@ -197,7 +197,7 @@ as a poet.  But he had one poetic privilege denied to most poets.
 In that respect indeed he might be called the one happy poet among
 all the unhappy poets of the world.  He was a poet whose whole life
 was a poem.  He was not so much a minstrel merely singing his own
-songs as a dramatist capable of acting the whole of his own play.
+[[songs]] as a dramatist capable of acting the whole of his own play.
 The things he said were more imaginative than the things he wrote.
 The things he did were more imaginative than the things he said.
 His whole course through life was a series of scenes in which he had
@@ -205,42 +205,42 @@ a sort of perpetual luck in bringing things to a beautiful crisis.
 To talk about the art of living has come to sound rather artificial
 than artistic.  But St. Francis did in a definite sense make the very act
 of living an art, though it was an unpremeditated art.  Many of his
-acts will seem grotesque and puzzling to a rationalistic taste.
+acts will seem [[Grotesque|grotesque]] and puzzling to a rationalistic taste.
 But they were always acts and not explanations; and they always
 meant what he meant them to mean.  The amazing vividness with
-which he stamped himself on the memory and imagination of mankind
+which he stamped himself on the [[Memory|memory]] and [[Imagination|imagination]] of mankind
 is very largely due to the fact that he was seen again and again
 under such dramatic conditions.  From the moment when he rent
 his robes and flung them at his father's feet to the moment when
-he stretched himself in death on the bare earth in the pattern
-of the cross, his life was made up of these unconscious attitudes
+he stretched himself in [[Death|death]] on the bare earth in the pattern
+of the [[Cross|cross]], his life was made up of these unconscious attitudes
 and unhesitating gestures.  It would be easy to fill page after page
 with examples; but I will here pursue the method found convenient
-everywhere in this short sketch, and take one typical example,
+everywhere in this short [[Sketch|sketch]], and take one typical example,
 dwelling on it with a little more detail than would be possible
-in a catalogue, in the hope of making the meaning more clear.
+in a catalogue, in the [[Hope|hope]] of making the meaning more clear.
 The example taken here occurred in the last days of his life,
 but it refers back in a rather curious fashion to the first;
-and rounds off the remarkable unity of that romance of religion.
+and rounds off the remarkable [[unity]] of that [[Romance|romance]] of religion.
 
-The phrase about his brotherhood with the sun and moon,
-and with the water and the fire, occurs of course in his famous poem
+The phrase about his brotherhood with the sun and [[Moon|moon]],
+and with the [[Water|water]] and the [[Fire|fire]], occurs of course in his famous poem
 called the Canticle of the Creatures or the Canticle of the Sun.
 He sang it wandering in the meadows in the sunnier season
 of his own career, when he was pouring upwards into the sky all
 the passions of a poet.  It is a supremely characteristic work,
-and much of St. Francis could be reconstructed from that work alone.
+and much of St. Francis could be reconstructed from that work [[Alone|alone]].
 Though in some ways the thing is as simple and straightforward
 as a ballad, there is a delicate instinct of differentiation in it.
 Notice, for instance, the sense of sex in inanimate things,
 which goes far beyond the arbitrary genders of a grammar.
-It was not for nothing that he called fire his brother, fierce and gay
-and strong, and water his sister, pure and clear and inviolate.
+It was not for nothing that he called [[Fire|fire]] his brother, fierce and gay
+and strong, and [[Water|water]] his sister, pure and clear and inviolate.
 Remember that St. Francis was neither encumbered nor assisted by all
-that Greek and Roman polytheism turned into allegory, which has been
+that Greek and Roman polytheism turned into [[Allegory|allegory]], which has been
 to European poetry often an inspiration, too often a convention.
 Whether he gained or lost by his contempt of learning, it never
-occurred to him to connect Neptune and the nymphs with the water
+occurred to him to connect Neptune and the nymphs with the [[Water|water]]
 or Vulcan and the Cyclops with the flame.  This point exactly
 illustrates what has already been suggested; that, so far from being
 a revival of paganism, the Franciscan renascence was a sort of fresh
@@ -253,44 +253,44 @@ but he knew at a glance the goddesses from the gods.
 This fanciful instinct for the sexes is not the only example of an
 imaginative instinct of the kind.  There is just the same quaint
 felicity in the fact that he singles out the sun with a slightly
-more courtly title besides that of brother; a phrase that one king
+more courtly title besides that of brother; a phrase that one [[King|king]]
 might use of another, corresponding to "Monsieur notre frere."
-It is like a faint half ironic shadow of the shining primacy
+It is like a faint half ironic [[Shadow|shadow]] of the shining primacy
 that it had held in the pagan heavens.  A bishop is said to have
 complained of a Nonconformist saying Paul instead of Saint Paul;
 and to have added, "He might at least have called him Mr. Paul."
 So St. Francis is free of all obligation to cry out in praise
-or terror on the Lord God Apollo, but in his new nursery heavens,
+or terror on the Lord God [[Apollo]], but in his new nursery heavens,
 he salutes him as Mr. Sun.  Those are the things in which he has
 a sort of inspired infancy, only to be paralleled in nursery tales.
 Something of the same hazy but healthy awe makes the story of Br'er Fox
 and Br'er Rabbit refer respectfully to Mr. Man.
 
-This poem, full of the mirth of youth and the memories of childhood,
+This poem, full of the mirth of youth and the memories of [[Childhood|childhood]],
 runs through his whole life like a refrain, and scraps of it turn
 up continually in the ordinary habit of his talk.  Perhaps the last
 appearance of its special language was in an incident that has always
 seemed to me intensely impressive, and is at any rate very illustrative
 of the great manner and gesture of which I speak.  Impressions of
-that kind are a matter of imagination and in that sense of taste.
+that kind are a matter of [[Imagination|imagination]] and in that sense of taste.
 It is idle to argue about them; for it is the whole point of them
 that they have passed beyond words; and even when they use words,
 seem to be completed by some ritual movement like a blessing or a blow.
 So, in a supreme example, there is something far past all exposition,
-something like the sweeping movement and mighty shadow of a hand,
-darkening even the darkness of Gethsemane; "Sleep on now, and take
+something like the sweeping movement and mighty [[Shadow|shadow]] of a hand,
+darkening even the darkness of Gethsemane; "[[Sleep]] on now, and take
 your rest... " Yet there are people who have started to paraphrase
 and expand the story of the Passion.
 
 St. Francis was a dying man.  We might say he was an old man,
-at the time this typical incident occurred; but in fact he was only
+at the [[Time|time]] this typical incident occurred; but in fact he was only
 prematurely old; for he was not fifty when he died, worn out with his
 fighting and fasting life.  But when he came down from the awful
 asceticism and more awful revelation of Alverno, he was a broken man.
 As will be apparent when these events are touched on in their turn,
-it was not only sickness and bodily decay that may well have
+it was not only sickness and bodily [[Decay|decay]] that may [[Well|well]] have
 darkened his life; he had been recently disappointed in his
-main mission to end the Crusades by the conversion of Islam;
+main mission to end the [[Crusades]] by the [[conversion]] of [[Islam]];
 he had been still more disappointed by the signs of compromise
 and a more political or practical spirit in his own order;
 he had spent his last energies in protest.
@@ -298,39 +298,39 @@ he had spent his last energies in protest.
 At this point he was told that he was going blind.
 If the faintest hint has been given here of what St. Francis felt
 about the glory and pageantry of earth and sky, about the heraldic
-shape and colour and symbolism of birds and beasts and flowers,
+shape and colour and symbolism of [[Birds|birds]] and beasts and [[Flowers|flowers]],
 some notion may be formed of what it meant to him to go blind.
-Yet the remedy might well have seemed worse than the disease.
+Yet the remedy might [[Well|well]] have seemed worse than the disease.
 The remedy, admittedly an uncertain remedy, was to cauterise the eye,
 and that without any anaesthetic.  In other words it was to burn
 his living eyeballs with a red-hot iron.  Many of the tortures
-of martyrdom, which he envied in martyrology and sought vainly in Syria,
+of [[Martyrdom|martyrdom]], which he envied in martyrology and sought vainly in Syria,
 can have been no worse.  When they took the brand from the furnace,
-he rose as with an urbane gesture and spoke as to an invisible presence:
-"Brother Fire, God made you beautiful and strong and useful;
+he [[Rose|rose]] as with an urbane gesture and spoke as to an invisible presence:
+"Brother [[Fire]], God made you beautiful and strong and useful;
 I pray you be courteous with me."
 
 If there be any such thing as the art of life, it seems
 to me that such a moment was one of its masterpieces.
 Not too many poets has it been given to remember their own poetry
-at such a moment, still less to live one of their own poems.
+at such a moment, still less to live one of their own [[Poems|poems]].
 Even William Blake would have been disconcerted if, while he was
 re-reading the noble lines, "Tiger, tiger, burning bright," a large
-live Bengal tiger had put his head in at the window of the cottage
+live Bengal tiger had put his head in at the [[Window|window]] of the cottage
 in Felpham, evidently with every intention of biting his head off.
 He might have wavered before politely saluting it, above all by calmly
 completing the recitation of the poem to the quadruped to whom it
 was dedicated.  Shelley, who wished to be a cloud or a leaf carried
-before the wind, have been mildly surprised to find himself turning
+before the [[Wind|wind]], have been mildly surprised to find himself turning
 slowly head over heels in mid-air a thousand feet above the sea.
 Even Keats, knowing that his hold on life was a frail one, might have
 been disturbed to discover that the true, the blushful Hippocrene
 of which he had just partaken freely had indeed contained a drug,
-which really ensured that he should cease upon the midnight with no pain.
-For Francis there was no drug; and for Francis there was plenty of pain.
-But his first thought was one of his first fancies from the songs
-of his youth.  He remembered the time when a flame was a flower,
-only the most glorious and gaily coloured of the flowers in the garden
+which really ensured that he should cease upon the midnight with no [[Pain|pain]].
+For Francis there was no drug; and for Francis there was plenty of [[Pain|pain]].
+But his first thought was one of his first fancies from the [[songs]]
+of his youth.  He remembered the [[Time|time]] when a flame was a flower,
+only the most glorious and gaily coloured of the [[Flowers|flowers]] in the [[Garden|garden]]
 of God; and when that shining thing returned to him in the shape
 of an instrument of torture, he hailed it from afar like an old friend,
 calling it by the nickname which might most truly be called
@@ -338,7 +338,7 @@ its Christian name.
 
 That is only one incident out of a life of such incidents;
 and I have selected it partly because it shows what is meant
-here by that shadow of gesture there is in all his words,
+here by that [[Shadow|shadow]] of gesture there is in all his words,
 the dramatic gesture of the south; and partly because its
 special reference to courtesy covers the next fact to be noted.
 The popular instinct of St. Francis, and his perpetual preoccupation
@@ -355,27 +355,27 @@ But anyhow that was not the equality which Francis of Assisi encouraged;
 but an equality of the opposite kind; it was a camaraderie actually
 founded on courtesy.
 
-Even in that fairy borderland of his mere fancies about flowers
-and animals and even inanimate things, he retained this
+Even in that fairy borderland of his mere fancies about [[Flowers|flowers]]
+and [[Animals|animals]] and even inanimate things, he retained this
 permanent posture of a sort of deference.  A friend of mine said
 that somebody was the sort of man who apologises to the cat.
 St. Francis really would have apologised to the cat.
-When he was about to preach in a wood full of the chatter of birds,
+When he was about to preach in a wood full of the chatter of [[Birds|birds]],
 he said, with a gentle gesture, "Little sisters, if you have
-now had your say, it is time that I also should be heard."
-And all the birds were silent; as I for one can very easily believe.
+now had your say, it is [[Time|time]] that I also should be heard."
+And all the [[Birds|birds]] were silent; as I for one can very easily believe.
 In deference to my special design of making matters intelligible
 to average modernity, I have treated separately the subject of
 the miraculous powers that St. Francis most certainly possessed.
 
 But even apart from any miraculous powers, men of that magnetic sort,
-with that intense interest in animals, often have an extraordinary
+with that intense interest in [[Animals|animals]], often have an extraordinary
 power over them.  St. Francis's power was always exercised with this
 elaborate politeness.  Much of it was doubtless a sort of symbolic joke,
 a pious pantomime intended to convey the vital distinction
 in his divine mission, that he not only loved but reverenced God
 in all his creatures.  In this sense he had the air not only
-of apologising to the cat or to the birds, but of apologising
+of apologising to the cat or to the [[Birds|birds]], but of apologising
 to a chair for sitting on it or to a table for sitting down at it.
 Any one who had followed him through life merely to laugh at him,
 as a sort of lovable lunatic, might easily have had an impression as of
@@ -394,14 +394,14 @@ from any mere demagogue is that he never either deceived or was deceived
 by the illusion of mass-suggestion. Whatever his taste in monsters,
 he never saw before him a many-headed beast.  He only saw the image
 of God multiplied but never monotonous.  To him a man was always a man
-and did not disappear in a dense crowd any more than in a desert.
+and did not disappear in a dense crowd any more than in a [[Desert|desert]].
 He honoured all men; that is, he not only loved but respected them all.
 What gave him his extraordinary personal power was this;
 that from the Pope to the beggar, from the sultan of Syria
 in his pavilion to the ragged robbers crawling out of the wood,
 there was never a man who looked into those brown burning eyes without
 being certain that Francis Bernardone was really interested in him;
-in his own inner individual life from the cradle to the grave;
+in his own inner individual life from the cradle to the [[Grave|grave]];
 that he himself was being valued and taken seriously, and not
 merely added to the spoils of some social policy or the names
 in some clerical document.  Now for this particular moral and
@@ -411,34 +411,34 @@ beneficence does not express it, for it is not mere pity.
 It can only be conveyed by a certain grand manner which may be called
 good manners.  We may say if we like that St. Francis, in the bare
 and barren simplicity of his life, had clung to one rag of luxury;
-the manners of a court.
+the manners of a [[Court|court]].
 
-But whereas in a court there is one king and a hundred courtiers,
+But whereas in a [[Court|court]] there is one [[King|king]] and a hundred courtiers,
 in this story there was one courtier, moving among a hundred kings.
 For he treated the whole mob of men as a mob of kings.
 And this was really and truly the only attitude that will
 appeal to that part of man to which he wished to appeal.
 It cannot be done by giving gold or even bread; for it is
 a proverb that any reveller may fling largesse in mere scorn.
-It cannot even be done by giving time and attention; for any
+It cannot even be done by giving [[Time|time]] and attention; for any
 number of philanthropists and benevolent bureaucrats do such
 work with a scorn far more cold and horrible in their hearts.
 No plans or proposals or efficient rearrangements will give back
-to a broken man his self-respect and sense of speaking with an equal.
+to a broken man his [[Self|self]]-respect and sense of speaking with an equal.
 One gesture will do it.
 
 With that gesture Francis of Assisi moved among men; and it was soon
-found to have something in it of magic and to act, in a double sense,
+found to have something in it of [[Magic|magic]] and to act, in a [[Double|double]] sense,
 like a charm.  But it must always be conceived as a completely
 natural gesture; for indeed it was almost a gesture of apology.
 He must be imagined as moving thus swiftly through the world with
 a sort of impetuous politeness; almost like the movement of a man
 who stumbles on one knee half in haste and half in obeisance.
 The eager face under the brown hood was that of a man always
-going somewhere, as if he followed as well as watched the flight
-of the birds.  And this sense of motion is indeed the meaning
+going somewhere, as if he followed as [[Well|well]] as watched the flight
+of the [[Birds|birds]].  And this sense of motion is indeed the meaning
 of the whole revolution that he made; for the work that has now
-to be described was of the nature of an earthquake or a volcano,
+to be described was of the [[Nature|nature]] of an earthquake or a volcano,
 an explosion that drove outwards with dynamic energy the forces
 stored up by ten centuries in the monastic fortress or arsenal
 and scattered all its riches recklessly to the ends of the earth.
@@ -450,4 +450,4 @@ The servants of God who had been a besieged garrison became
 a marching army; the ways of the world were filled as with thunder
 with the trampling of their feet and far ahead of that ever swelling
 host went a man singing; as simply he had sung that morning
-in the winter woods, where he walked alone.
+in the [[Winter|winter]] woods, where he walked [[Alone|alone]].

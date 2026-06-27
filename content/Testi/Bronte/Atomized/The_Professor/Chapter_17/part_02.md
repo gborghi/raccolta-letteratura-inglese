@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 16 (part 2)"
+title: "[[The Professor]] — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,27 +20,27 @@ or, more awful still, if something flapped, as with wings, against the
 
 lattice, and then a raven or a white dove flew in and settled on the
 
-hearth, such a visitor would be a sure sign of misfortune to the house;
+hearth, such a visitor would be a sure sign of misfortune to the [[house]];
 
 therefore, heed my advice, and lift the latchet for nothing.”
 
 
 
-Her husband calls her away, both depart. The stranger, left alone,
+Her husband calls her away, both depart. The stranger, left [[Alone|alone]],
 
-listens awhile to the muffled snow-wind, the remote, swollen sound of
+listens awhile to the muffled [[Snow|snow]]-[[Wind|wind]], the remote, swollen sound of
 
-the river, and then he speaks.
+the [[River|river]], and then he speaks.
 
 
 
-“It is Christmas Eve,” says he, “I mark the date; here I sit alone on
+“It is Christmas Eve,” says he, “I mark the date; here I sit [[Alone|alone]] on
 
 a rude couch of rushes, sheltered by the thatch of a herdsman’s hut;
 
-I, whose inheritance was a kingdom, owe my night’s harbourage to a poor
+I, whose inheritance was a kingdom, owe my [[Night|night]]’s harbourage to a poor
 
-serf; my throne is usurped, my crown presses the brow of an invader; I
+serf; my throne is usurped, my [[Crown|crown]] presses the brow of an invader; I
 
 have no friends; my troops wander broken in the hills of Wales; reckless
 
@@ -52,9 +52,9 @@ and now thou standest before me resting thy hand on thy blunted blade.
 
 Ay; I see thine eye confront mine and demand why I still live, why I
 
-still hope. Pagan demon, I credit not thine omnipotence, and so cannot
+still [[Hope|hope]]. Pagan demon, I credit not thine omnipotence, and so cannot
 
-succumb to thy power. My God, whose Son, as on this night, took on Him
+succumb to thy power. My God, whose Son, as on this [[Night|night]], took on Him
 
 the form of man, and for man vouchsafed to suffer and bleed, controls
 
@@ -64,11 +64,11 @@ is sinless, eternal, all-wise--in Him is my trust; and though stripped
 
 and crushed by thee--though naked, desolate, void of resource--I do not
 
-despair, I cannot despair: were the lance of Guthrum now wet with my
+[[Despair|despair]], I cannot [[Despair|despair]]: were the lance of Guthrum now wet with my
 
-blood, I should not despair. I watch, I toil, I hope, I pray; Jehovah,
+[[Blood|blood]], I should not [[Despair|despair]]. I watch, I toil, I [[Hope|hope]], I pray; Jehovah,
 
-in his own time, will aid.”
+in his own [[Time|time]], will aid.”
 
 
 
@@ -88,13 +88,13 @@ had hitherto seen nothing like it in the course of my professorial
 
 experience. The girl’s mind had conceived a picture of the hut, of the
 
-two peasants, of the crownless king; she had imagined the wintry forest,
+two peasants, of the crownless [[King|king]]; she had imagined the wintry forest,
 
-she had recalled the old Saxon ghost-legends, she had appreciated
+she had recalled the old Saxon [[Ghost|ghost]]-legends, she had appreciated
 
-Alfred’s courage under calamity, she had remembered his Christian
+Alfred’s [[Courage|courage]] under calamity, she had remembered his Christian
 
-education, and had shown him, with the rooted confidence of those
+[[Education|education]], and had shown him, with the rooted confidence of those
 
 primitive days, relying on the scriptural Jehovah for aid against the
 
@@ -132,7 +132,7 @@ a consciousness of her own talents. “If she thinks she did a clever
 
 thing in composing that devoir, she will now look mortified,” thought
 
-I. Grave as usual, almost sombre, was her face; as usual, her eyes were
+I. [[Grave]] as usual, almost sombre, was her face; as usual, her eyes were
 
 fastened on the cahier open before her; there was something, I thought,
 
@@ -154,13 +154,13 @@ up the void, repaired in a moment the transient collapse of feature;
 
 still, I felt, rather than saw, during the whole course of the lesson,
 
-that a hope had been wrenched from her, and that if she did not show
+that a [[Hope|hope]] had been wrenched from her, and that if she did not show
 
 distress, it was because she would not.
 
 
 
-At four o’clock, when the bell rang and the room was in immediate
+At four o’[[Clock|clock]], when the bell rang and the room was in immediate
 
 tumult, instead of taking my hat and starting from the estrade, I sat
 
@@ -174,7 +174,7 @@ and was turning to depart:--
 
 
 
-“Come here,” said I, lifting my finger at the same time. She hesitated;
+“Come here,” said I, lifting my finger at the same [[Time|time]]. She hesitated;
 
 she could not hear the words amidst the uproar now pervading both
 
@@ -192,7 +192,7 @@ with diffident, easily embarrassed characters, and with some slight
 
 manual aid I presently got her placed just where I wanted her to be,
 
-that is, between my desk and the window, where she was screened from the
+that is, between my desk and the [[Window|window]], where she was screened from the
 
 rush of the second division, and where no one could sneak behind her to
 
@@ -204,6 +204,6 @@ listen.
 
 knew what I was doing would be considered a very strange thing, and,
 
-what was more, I did not care. Frances knew it also, and, I fear, by an
+what was more, I did not care. Frances knew it also, and, I [[Fear|fear]], by an
 
 appearance of agitation and trembling, that she cared much. I drew from

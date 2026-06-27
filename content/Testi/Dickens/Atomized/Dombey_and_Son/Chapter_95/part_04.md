@@ -17,35 +17,35 @@ tags:
 In the same composed, business-like way, the Captain stepped over to
 Leadenhall Market in the dusk, and effected an arrangement with a
 private watchman on duty there, to come and put up and take down the
-shutters of the wooden Midshipman every night and morning. He then
-called in at the eating-house to diminish by one half the daily rations
-theretofore supplied to the Midshipman, and at the public-house to stop
+shutters of the wooden Midshipman every [[Night|night]] and morning. He then
+called in at the eating-[[house]] to diminish by one half the daily rations
+theretofore supplied to the Midshipman, and at the public-[[house]] to stop
 the traitor’s beer. “My young man,” said the Captain, in explanation to
 the young lady at the bar, “my young man having bettered himself,
 Miss.” Lastly, the Captain resolved to take possession of the bed under
 the counter, and to turn in there o’ nights instead of upstairs, as
 sole guardian of the property.
 
-From this bed Captain Cuttle daily rose thenceforth, and clapped on his
-glazed hat at six o’clock in the morning, with the solitary air of
+From this bed [[Captain Cuttle]] daily [[Rose|rose]] thenceforth, and clapped on his
+glazed hat at six o’[[Clock|clock]] in the morning, with the solitary air of
 Crusoe finishing his toilet with his goat-skin cap; and although his
 fears of a visitation from the savage tribe, MacStinger, were somewhat
 cooled, as similar apprehensions on the part of that lone mariner used
 to be by the lapse of a long interval without any symptoms of the
 cannibals, he still observed a regular routine of defensive operations,
-and never encountered a bonnet without previous survey from his castle
+and never encountered a bonnet without previous survey from his [[Castle|castle]]
 of retreat. In the meantime (during which he received no call from Mr
 Toots, who wrote to say he was out of town) his own voice began to have
 a strange sound in his ears; and he acquired such habits of profound
 meditation from much polishing and stowing away of the stock, and from
-much sitting behind the counter reading, or looking out of window, that
+much sitting behind the counter reading, or looking out of [[Window|window]], that
 the red rim made on his forehead by the hard glazed hat, sometimes
 ached again with excess of reflection.
 
-The year being now expired, Captain Cuttle deemed it expedient to open
+The year being now expired, [[Captain Cuttle]] deemed it expedient to open
 the packet; but as he had always designed doing this in the presence of
 Rob the Grinder, who had brought it to him, and as he had an idea that
-it would be regular and ship-shape to open it in the presence of
+it would be regular and [[Ship|ship]]-shape to open it in the presence of
 somebody, he was sadly put to it for want of a witness. In this
 difficulty, he hailed one day with unusual delight the announcement in
 the Shipping Intelligence of the arrival of the Cautious Clara, Captain
@@ -62,11 +62,11 @@ a coming tonight.” Who being instructed to deliver those words and
 disappear, fulfilled his mission like a tarry spirit, charged with a
 mysterious warning.
 
-The Captain, well pleased to receive it, made preparation of pipes and
-rum and water, and awaited his visitor in the back parlour. At the hour
+The Captain, [[Well|well]] pleased to receive it, made preparation of pipes and
+rum and [[Water|water]], and awaited his visitor in the back parlour. At the hour
 of eight, a deep lowing, as of a nautical Bull, outside the shop-door,
 succeeded by the knocking of a stick on the panel, announced to the
-listening ear of Captain Cuttle, that Bunsby was alongside; whom he
+listening ear of [[Captain Cuttle]], that Bunsby was alongside; whom he
 instantly admitted, shaggy and loose, and with his stolid mahogany
 visage, as usual, appearing to have no consciousness of anything before
 it, but to be attentively observing something that was taking place in
@@ -90,7 +90,7 @@ the Captain sincerely believed.
 
 “Every letter,” said the Captain.
 
-“For why?” growled Bunsby, looking at his friend for the first time.
+“For why?” growled Bunsby, looking at his friend for the first [[Time|time]].
 “Which way? If so, why not? Therefore.” With these oracular words—they
 seemed almost to make the Captain giddy; they launched him upon such a
 sea of speculation and conjecture—the sage submitted to be helped off
@@ -99,7 +99,7 @@ where his hand presently alighted on the rum-bottle, from which he
 brewed a stiff glass of grog; and presently afterwards on a pipe, which
 he filled, lighted, and began to smoke.
 
-Captain Cuttle, imitating his visitor in the matter of these
+[[Captain Cuttle]], imitating his visitor in the matter of these
 particulars, though the rapt and imperturbable manner of the great
 Commander was far above his powers, sat in the opposite corner of the
 fireside, observing him respectfully, and as if he waited for some
@@ -110,7 +110,7 @@ once, when taking his pipe from his lips to make room for his glass, he
 incidentally remarked with exceeding gruffness, that his name was Jack
 Bunsby—a declaration that presented but small opening for
 conversation—the Captain bespeaking his attention in a short
-complimentary exordium, narrated the whole history of Uncle Sol’s
+complimentary exordium, narrated the whole [[history]] of Uncle Sol’s
 departure, with the change it had produced in his own life and
 fortunes; and concluded by placing the packet on the table.
 
@@ -122,7 +122,7 @@ Bunsby nodded again.
 
 The Captain accordingly broke the seal, and disclosed to view two
 folded papers, of which he severally read the endorsements, thus: “Last
-Will and Testament of Solomon Gills.” “Letter for Ned Cuttle.”
+Will and Testament of [[Solomon Gills]].” “Letter for Ned Cuttle.”
 
 Bunsby, with his eye on the coast of Greenland, seemed to listen for
 the contents. The Captain therefore hemmed to clear his throat, and

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 22 (part 5)"
+title: "[[The Professor]] — Chapter 22 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 case, and having transported the whole concern to my bed-room, put it
 
-out of sight under my bed. My pleasure was now poisoned by pungent pain;
+out of sight under my bed. My pleasure was now poisoned by pungent [[Pain|pain]];
 
 I determined to look no more till I could look at my ease. If Hunsden
 
@@ -32,9 +32,9 @@ Too anxious to remain any longer quiescent, I had no sooner breakfasted,
 
 than I repaired once more to M. Vandenhuten’s, scarcely hoping to find
 
-him at home; for a week had barely elapsed since my first call: but
+him at [[Home|home]]; for a week had barely elapsed since my first call: but
 
-fancying I might be able to glean information as to the time when his
+fancying I might be able to glean information as to the [[Time|time]] when his
 
 return was expected. A better result awaited me than I had anticipated,
 
@@ -44,7 +44,7 @@ to Brussels on business for the day. He received me with the quiet
 
 kindness of a sincere though not excitable man. I had not sat five
 
-minutes alone with him in his bureau, before I became aware of a sense
+minutes [[Alone|alone]] with him in his bureau, before I became aware of a sense
 
 of ease in his presence, such as I rarely experienced with strangers.
 
@@ -76,17 +76,17 @@ both to plan and to practise, to conceive and to realize. The Dutchman
 
 was benevolent, the Englishman susceptible; in short our characters
 
-dovetailed, but my mind having more fire and action than his,
+dovetailed, but my mind having more [[Fire|fire]] and action than his,
 
 instinctively assumed and kept the predominance.
 
 
 
-This point settled, and my position well ascertained, I addressed him
+This point settled, and my position [[Well|well]] ascertained, I addressed him
 
 on the subject of my affairs with that genuine frankness which full
 
-confidence can alone inspire. It was a pleasure to him to be so appealed
+confidence can [[Alone|alone]] inspire. It was a pleasure to him to be so appealed
 
 to; he thanked me for giving him this opportunity of using a little
 
@@ -96,7 +96,7 @@ so much to be helped, as to be put into the way of helping myself;
 
 of him I did not want exertion--that was to be my part--but only
 
-information and recommendation. Soon after I rose to go. He held out his
+information and recommendation. Soon after I [[Rose|rose]] to go. He held out his
 
 hand at parting--an action of greater significance with foreigners
 
@@ -114,7 +114,7 @@ The next fortnight was a period of many alternations; my existence
 
 during its lapse resembled a sky of one of those autumnal nights which
 
-are specially haunted by meteors and falling stars. Hopes and fears,
+are specially haunted by meteors and falling [[Stars|stars]]. Hopes and fears,
 
 expectations and disappointments, descended in glancing showers from
 
@@ -124,7 +124,7 @@ each vanishing apparition. M. Vandenhuten aided me faithfully; he set me
 
 on the track of several places, and himself made efforts to secure
 
-them for me; but for a long time solicitation and recommendation were
+them for me; but for a long [[Time|time]] solicitation and recommendation were
 
 vain--the door either shut in my face when I was about to walk in,
 
@@ -134,7 +134,7 @@ useless. Feverish and roused, no disappointment arrested me; defeat
 
 following fast on defeat served as stimulants to will. I forgot
 
-fastidiousness, conquered reserve, thrust pride from me: I asked, I
+fastidiousness, conquered reserve, thrust [[Pride|pride]] from me: I asked, I
 
 persevered, I remonstrated, I dunned. It is so that openings are forced
 

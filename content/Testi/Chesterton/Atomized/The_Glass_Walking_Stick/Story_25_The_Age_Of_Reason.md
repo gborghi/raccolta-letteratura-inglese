@@ -21,7 +21,7 @@ I
 THE eighteenth century is an excellent illustration of a false
 historical fashion.  It is the fashion of abusing a thing, first for one
 obvious reason, then for another quite opposite reason; and then leaving
-it alone with all its incompatible vices unreconciled and unexplained.
+it [[Alone|alone]] with all its incompatible vices unreconciled and unexplained.
 Any one can describe that age as the age of powder and patches
 and high-heeled shoes and elaborate bows and mincing compliments.
 Anybody can describe it as the age of bludgeons and bloody noses
@@ -45,12 +45,12 @@ But that does not explain anything; not even our own antagonism
 or our own action.
 
 I have had to deal with a similar fallacy in relation to
-religious history.  I have pointed out that the people who only
-wanted to make a case against Christianity or the Middle Ages,
-or what not, were content simply to say that monks were too meek
+religious [[history]].  I have pointed out that the people who only
+wanted to make a case against [[Christianity]] or the Middle Ages,
+or what not, were content simply to say that [[Monks|monks]] were too meek
 and Crusaders too fierce, and feudalism too crude and heraldry
 too complicated.  In other words, they blamed the age for being
-as mild as the Confessor and as violent as Coeur de Lion,
+as mild as the Confessor and as violent as Coeur de [[Lion]],
 but they gave no reason for the same thing being two opposite
 things at once.  Many of them, in criticizing what I said,
 have thought it quite enough to say that the two statements
@@ -60,7 +60,7 @@ its contradiction; until (especially) you under stand
 even its misunderstanding.
 
 The only way to understand an age, whether it be the Age of Reason
-or the Age of Faith, is to get behind these mere criminal charges,
+or the Age of [[Faith]], is to get behind these mere criminal charges,
 which are used to support each other and really destroy each other.
 It is to find some common spirit that can be polished in that particular
 way and coarse in that particular way.  A mystical conviction is the cause
@@ -68,16 +68,16 @@ both of the Franciscan being friendly and the Crusader being hostile.
 A rational conviction is the cause both of Dr Johnson being ceremonious
 and Dr Johnson being rude.  But it is necessary to realize something
 of what that rational conviction really was; and the only spirit
-in which it is worth while to study history is the spirit which can
-feel a certain enthusiasm for the ideal of each time in turn.
+in which it is worth while to study [[history]] is the spirit which can
+feel a certain enthusiasm for the ideal of each [[Time|time]] in turn.
 
 The eighteenth century itself is not a century, as centuries go,
 that is specially attractive to me.  There were not enough
 fairy-tales in it for my taste; certainly there were not anything
 like so many people believing in fairies then as there are now.
 It had no great understanding of children.  The men of that
-time had forgotten the Holy Child of medieval times and had
-not yet heard of the Happy Child of modern literature.
+[[Time|time]] had forgotten the Holy [[Child]] of medieval times and had
+not yet heard of the Happy [[Child]] of modern literature.
 They could not imagine a Peter Pan, for they had lost
 the religious traditions both of Pan and of Peter.
 They had silenced all those subconscious voices which speak
@@ -112,7 +112,7 @@ because to us they are new even in being old.  It may throw some
 light on our character or conditions that this or that detail
 stands out in a startling fashion from the other details.
 But it does not throw much light on the minds of our ancestors.
-The really valuable sort of historical imagination is to guess
+The really valuable sort of historical [[Imagination|imagination]] is to guess
 the things they were thinking about.
 
 The religion of the eighteenth century was finely expressed
@@ -121,12 +121,12 @@ famous as the Associated Societies of Edinburgh University.
 It was Gloria hominis ratio et oratio:  the glory of man is reason
 and speech.  Their ideal was public spirit in the true sense of
 the publishing of things; the power of declaring aloud in the forum
-the secrets of the palace or the corruptions of the senate.
-There were secrets and corruptions enough, of course, as there are
-in all times; not so many, I think, as there are in our own time.
-But this was the vision, the ambition, the daydream.
+the [[Secrets|secrets]] of the palace or the corruptions of the senate.
+There were [[Secrets|secrets]] and corruptions enough, of course, as there are
+in all times; not so many, I think, as there are in our own [[Time|time]].
+But this was the vision, the [[Ambition|ambition]], the daydream.
 This was what an honest man wanted to be and a dishonest man
-pretended to be.  The ideal type of that time was what Walpole
+pretended to be.  The ideal type of that [[Time|time]] was what Walpole
 called a Boy; what the Boy called a Patriot.  He was to be
 a lucid orator denouncing courtiers and placemen; a tribune.
 He can only be under stood in the light of that great Latin
@@ -145,7 +145,7 @@ it was talked about.  It was exposed and even punished.
 Great men like Marlborough, powerful men like Dundas,
 were really forced to resign; often even forced to disgorge.
 They were much less completely protected than corrupt
-politicians in our own time; and it is no very satisfactory
+politicians in our own [[Time|time]]; and it is no very satisfactory
 proof of their artificiality and our realism that they powdered
 heads while we whitewash reputations.
 
@@ -154,22 +154,22 @@ II
 It seems to me that it would be an extraordinarily interesting
 study of the mind of the eighteenth century to picture
 what that mind would really expect to see in the twentieth.
-There would be something very subtle in the comedy of a
+There would be something very subtle in the [[Comedy|comedy]] of a
 gentleman of the eighteenth century dealing with ladies of
 the twentieth century.  It would be curious to note how he would
 be in some ways more coarse and in some ways more polished.
 He would probably be plainer in his speech, but more ceremonious
 in his movements.  He would say things to the lady while bowing
-over her hand which the most sprightly hero of our recent
+over her hand which the most sprightly [[Hero|hero]] of our recent
 fiction would hardly say to her while sitting on her head.
 When Marie Antoinette and her courtiers posed in the manner
 of the shepherds of Watteau, they were already talking about
-the dawn of a more enlightened and liberal age, and may well
+the [[Dawn|dawn]] of a more enlightened and liberal age, and may [[Well|well]]
 have wondered about the world in the twentieth century.
 When Hogarth was drawing some satiric series like the Stages
-of Cruelty, he may well have wondered whether the world would
+of Cruelty, he may [[Well|well]] have wondered whether the world would
 still be as barbarous in the twentieth century, or whether
-by that time reason and philanthropy would have prevailed.
+by that [[Time|time]] reason and philanthropy would have prevailed.
 Naturally it would depend a great deal on the sort of individual
 who was precipitated from their age to ours; there were doubtless
 many commonplace cock-fighting squires who knew as little
@@ -194,22 +194,22 @@ or Laissez Faire had not made a huge addition to human
 happiness by the beginning of the twentieth century.
 As a matter of fact, as applied, they have made a huge addition
 to human muddle and misery, and taken us round by a long detour
-(and a very dusty road) back to very much where we were before.
-We have to consider anew the nature of Liberty and its relation
+(and a very dusty [[Road|road]]) back to very much where we were before.
+We have to consider anew the [[Nature|nature]] of Liberty and its relation
 to Governments.  In that sense we are all of us really back
 in the eighteenth century.
 
 III
 
 Unless I am much mistaken, modern people are going to have
-a reaction against democracy before they have tried it.
+a reaction against [[democracy]] before they have tried it.
 We are always being told that the present system in highly
-organized industrial states is democracy; and that being so,
-it is hardly to be wondered at that democracy has become unpopular.
-But it is not really true that popular government has
+organized industrial states is [[democracy]]; and that being so,
+it is hardly to be wondered at that [[democracy]] has become unpopular.
+But it is not really true that popular [[government]] has
 become unpopular.  It is rather that people have ceased
-to think that in either sense our government is popular.
-The truth is that those who developed the democratic doctrine
+to think that in either sense our [[government]] is popular.
+The [[Truth|truth]] is that those who developed the democratic doctrine
 in modern times did not intend it for anything at all resembling
 the modern world, perhaps the most ancient of all possible worlds.
 They thought of the agricultural commonwealths of antiquity,
@@ -219,27 +219,27 @@ Those eighteenth-century idealists often actually lived
 in villages; always in countries that were dotted with villages.
 They did not know what sort of a world of steam
 and steel their descendants were going to inherit.
-The French Revolution came before the Industrial Revolution.
+The [[French Revolution]] came before the [[Industrial Revolution]].
 They were perpetually talking about the citizen, but they thought
-of him as a citizen and not merely as something in the city.
+of him as a citizen and not merely as something in the [[City|city]].
 They certainly had no conception of the colossal and complicated
-thing that we now mean by a city.
+thing that we now mean by a [[City|city]].
 
 It is highly characteristic of the tone of the eighteenth
-century that they generally talked of London as `the town'.
+century that they generally talked of [[London]] as `the town'.
 They said:  `All the town is talking about my Lord Banglebury's
 duel with Mr Pickles.'  In the sound and sense of the word
 there was something compact and comfortable; as of a world
 still small enough to know itself, like a village.
-When these people talked about democracy they did indeed mean
-the government of the people, by the people, for the people.
-But they meant the government of people they knew, by people
-they knew, for people they knew.  They meant the government
+When these people talked about [[democracy]] they did indeed mean
+the [[government]] of the people, by the people, for the people.
+But they meant the [[government]] of people they knew, by people
+they knew, for people they knew.  They meant the [[government]]
 of people who knew each other, by people who knew each other,
 for people who knew each other.  I think it highly doubtful
 whether any of the eighteenth-century democratic theorists,
 whether Payne or Jefferson or Condorcet, would have expected
-a vast and vague society like ours to be a democracy.
+a vast and vague society like ours to be a [[democracy]].
 I think they would have thought it, however reluctantly,
 a case for Caesar and the panem et circenses.  But it is not,
 of course, merely the material side of society that has
@@ -247,19 +247,19 @@ upset such calculations.  It is much more the moral factor;
 which is also, in every sense, alas! a very material factor.
 It is what the scientific, or those who think themselves scientific,
 always call the economic factor.  It can be expressed better
-in one word; and that word is not democracy but plutocracy.
+in one word; and that word is not [[democracy]] but plutocracy.
 
 It must always be remembered that the scale of financial action
-was then smaller even for the rich.  The Court of Versailles
+was then smaller even for the rich.  The [[Court]] of Versailles
 did not handle such sums as any stockjobber will now waste
 on a week's luxury.  Kings and queens were richer relatively
 and not positively.  And the size of economic operations today
-is a new and abnormal power in the history of the world.
+is a new and abnormal power in the [[history]] of the world.
 It covers much more of the surface of the world.
 It is international where the old luxury was almost local.
 But this vulgar and sprawling plutocracy does not deserve to be
-called a democracy, even by one who uses it as a term of abuse.
-The old classic spirit of democracy is much more present
+called a [[democracy]], even by one who uses it as a term of abuse.
+The old classic spirit of [[democracy]] is much more present
 in the independent citizen who is ready to resist it,
 who in this respect is much more like the Stoic and Tribune
 admired by the Fathers of the Republic.

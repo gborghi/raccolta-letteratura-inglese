@@ -23,7 +23,7 @@ tags:
 ‘Creature!’
 
 ‘Hush! hush!’ interrupted Mr. Percy Noakes, who was one of the very few
-by whom this dialogue had been overheard. ‘Hush!—pray, silence for the
+by whom this dialogue had been overheard. ‘Hush!—pray, [[Silence|silence]] for the
 duet.’
 
 After a great deal of preparatory crowing and humming, the captain
@@ -42,23 +42,23 @@ Here, the singer was interrupted by varied cries of the most dreadful
 description, proceeding from some grove in the immediate vicinity of
 the starboard paddle-box.
 
-‘My child!’ screamed Mrs. Fleetwood. ‘My child! it is his voice—I know
+‘My [[Child|child]]!’ screamed Mrs. Fleetwood. ‘My [[Child|child]]! it is his voice—I know
 it.’
 
 Mr. Fleetwood, accompanied by several gentlemen, here rushed to the
 quarter from whence the noise proceeded, and an exclamation of horror
 burst from the company; the general impression being, that the little
-innocent had either got his head in the water, or his legs in the
+[[Innocent|innocent]] had either got his head in the [[Water|water]], or his legs in the
 machinery.
 
 ‘What is the matter?’ shouted the agonised father, as he returned with
-the child in his arms.
+the [[Child|child]] in his arms.
 
 ‘Oh! oh! oh!’ screamed the small sufferer again.
 
 ‘What is the matter, dear?’ inquired the father once more—hastily
 stripping off the nankeen frock, for the purpose of ascertaining
-whether the child had one bone which was not smashed to pieces.
+whether the [[Child|child]] had one bone which was not smashed to pieces.
 
 ‘Oh! oh!—I’m so frightened!’
 
@@ -69,12 +69,12 @@ relapsing into convulsions at the bare recollection.
 
 ‘He!—who?’ cried everybody, crowding round him.
 
-‘Oh!—him!’ replied the child, pointing at Hardy, who affected to be the
+‘Oh!—him!’ replied the [[Child|child]], pointing at Hardy, who affected to be the
 most concerned of the whole group.
 
 The real state of the case at once flashed upon the minds of all
 present, with the exception of the Fleetwoods and the Wakefields. The
-facetious Hardy, in fulfilment of his promise, had watched the child to
+facetious Hardy, in fulfilment of his promise, had watched the [[Child|child]] to
 a remote part of the vessel, and, suddenly appearing before him with
 the most awful contortions of visage, had produced his paroxysm of
 terror. Of course, he now observed that it was hardly necessary for him
@@ -89,7 +89,7 @@ commendation. Miss Emily sung her part, without the slightest reference
 to the captain; and the captain sang so loud, that he had not the
 slightest idea what was being done by his partner. After having gone
 through the last few eighteen or nineteen bars by himself, therefore,
-he acknowledged the plaudits of the circle with that air of self-denial
+he acknowledged the plaudits of the circle with that air of [[Self|self]]-denial
 which men usually assume when they think they have done something to
 astonish the company.
 
@@ -117,7 +117,7 @@ looked as if they knew how to play, but disdained to do it.
 At length, the Misses Briggs began in real earnest. It was a new
 Spanish composition, for three voices and three guitars. The effect was
 electrical. All eyes were turned upon the captain, who was reported to
-have once passed through Spain with his regiment, and who must be well
+have once passed through Spain with his regiment, and who must be [[Well|well]]
 acquainted with the national music. He was in raptures. This was
 sufficient; the trio was encored; the applause was universal; and never
 had the Tauntons suffered such a complete defeat.
@@ -125,8 +125,8 @@ had the Tauntons suffered such a complete defeat.
 ‘Bravo! bravo!’ ejaculated the captain;—‘bravo!’
 
 ‘Pretty! isn’t it, sir?’ inquired Mr. Samuel Briggs, with the air of a
-self-satisfied showman. By-the-bye, these were the first words he had
-been heard to utter since he left Boswell-court the evening before.
+[[Self|self]]-satisfied showman. By-the-bye, these were the first words he had
+been heard to utter since he left Boswell-[[Court|court]] the evening before.
 
 ‘De-lightful!’ returned the captain, with a flourish, and a military
 cough;—‘de-lightful!’
@@ -156,12 +156,12 @@ lost no opportunity of showing off his travels, real or pretended.
 ‘When I was in the East Indies,’ replied the captain—(here was a
 discovery—he had been in the East Indies!)—‘when I was in the East
 Indies, I was once stopping a few thousand miles up the country, on a
-visit at the house of a very particular friend of mine, Ram Chowdar
+visit at the [[house]] of a very particular friend of mine, Ram Chowdar
 Doss Azuph Al Bowlar—a devilish pleasant fellow. As we were enjoying
 our hookahs, one evening, in the cool verandah in front of his villa,
 we were rather surprised by the sudden appearance of thirty-four of his
 Kit-ma-gars (for he had rather a large establishment there),
-accompanied by an equal number of Con-su-mars, approaching the house
+accompanied by an equal number of Con-su-mars, approaching the [[house]]
 with a threatening aspect, and beating a tom-tom. The Ram started up—’
 
 ‘Who?’ inquired the bald gentleman, intensely interested.
@@ -170,7 +170,7 @@ with a threatening aspect, and beating a tom-tom. The Ram started up—’
 
 ‘Oh!’ said the old gentleman, ‘beg your pardon; pray go on.’
 
-‘—Started up and drew a pistol. “Helves,” said he, “my boy,”—he always
+‘—Started up and drew a [[Pistol|pistol]]. “Helves,” said he, “my boy,”—he always
 called me, my boy—“Helves,” said he, “do you hear that tom-tom?” “I
 do,” said I. His countenance, which before was pale, assumed a most
 frightful appearance; his whole visage was distorted, and his frame

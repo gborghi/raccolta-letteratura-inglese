@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 3"
+title: "[[Agnes Grey]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER III.
 A FEW MORE LESSONS
 
 
-I rose next morning with a feeling of hopeful exhilaration, in spite of
+I [[Rose|rose]] next morning with a feeling of hopeful exhilaration, in spite of
 the disappointments already experienced; but I found the dressing of
 Mary Ann was no light matter, as her abundant hair was to be smeared
 with pomade, plaited in three long tails, and tied with bows of ribbon:
 a task my unaccustomed fingers found great difficulty in performing.
-She told me her nurse could do it in half the time, and, by keeping up
+She told me her [[Nurse|nurse]] could do it in half the [[Time|time]], and, by keeping up
 a constant fidget of impatience, contrived to render me still longer.
 When all was done, we went into the schoolroom, where I met my other
-pupil, and chatted with the two till it was time to go down to
+pupil, and chatted with the two till it was [[Time|time]] to go down to
 breakfast. That meal being concluded, and a few civil words having been
 exchanged with Mrs. Bloomfield, we repaired to the schoolroom again,
 and commenced the business of the day. I found my pupils very backward,
@@ -35,32 +35,32 @@ not without abilities. Mary Ann could scarcely read a word, and was so
 careless and inattentive that I could hardly get on with her at all.
 However, by dint of great labour and patience, I managed to get
 something done in the course of the morning, and then accompanied my
-young charge out into the garden and adjacent grounds, for a little
+young charge out into the [[Garden|garden]] and adjacent grounds, for a little
 recreation before dinner. There we got along tolerably together, except
 that I found they had no notion of going with me: I must go with them,
 wherever they chose to lead me. I must run, walk, or stand, exactly as
 it suited their fancy. This, I thought, was reversing the order of
-things; and I found it doubly disagreeable, as on this as well as
+things; and I found it doubly disagreeable, as on this as [[Well|well]] as
 subsequent occasions, they seemed to prefer the dirtiest places and the
 most dismal occupations. But there was no remedy; either I must follow
 them, or keep entirely apart from them, and thus appear neglectful of
-my charge. To-day, they manifested a particular attachment to a well at
-the bottom of the lawn, where they persisted in dabbling with sticks
-and pebbles for above half an hour. I was in constant fear that their
-mother would see them from the window, and blame me for allowing them
+my charge. To-day, they manifested a particular attachment to a [[Well|well]] at
+the [[Bottom|bottom]] of the lawn, where they persisted in dabbling with sticks
+and pebbles for above half an hour. I was in constant [[Fear|fear]] that their
+mother would see them from the [[Window|window]], and blame me for allowing them
 thus to draggle their clothes and wet their feet and hands, instead of
 taking exercise; but no arguments, commands, or entreaties could draw
 them away. If _she_ did not see them, some one else did—a gentleman on
-horseback had entered the gate and was proceeding up the road; at the
+horseback had entered the gate and was proceeding up the [[Road|road]]; at the
 distance of a few paces from us he paused, and calling to the children
-in a waspish penetrating tone, bade them “keep out of that water.”
+in a waspish penetrating tone, bade them “keep out of that [[Water|water]].”
 “Miss Grey,” said he, “(I suppose it _is_ Miss Grey), I am surprised
 that you should allow them to dirty their clothes in that manner! Don’t
 you see how Miss Bloomfield has soiled her frock? and that Master
 Bloomfield’s socks are quite wet? and both of them without gloves?
 Dear, dear! Let me _request_ that in future you will keep them _decent_
 at least!” so saying, he turned away, and continued his ride up to the
-house. This was Mr. Bloomfield. I was surprised that he should nominate
+[[house]]. This was Mr. Bloomfield. I was surprised that he should nominate
 his children Master and Miss Bloomfield; and still more so, that he
 should speak so uncivilly to me, their governess, and a perfect
 stranger to himself. Presently the bell rang to summon us in. I dined
@@ -81,7 +81,7 @@ he pronounced it not fit to be eaten, and called for the cold beef.
 goodness is roasted out of it? And can’t you see that all that nice,
 red gravy is completely dried away?”
 
-“Well, I think the _beef_ will suit you.”
+“[[Well]], I think the _beef_ will suit you.”
 
 The beef was set before him, and he began to carve, but with the most
 rueful expressions of discontent.
@@ -102,12 +102,12 @@ carved it quite properly here, yesterday.”
 
 “No _doubt_ they cut it wrong in the kitchen—the savages! Dear—dear!
 Did ever any one see such a fine piece of beef so completely ruined?
-But remember that, in future, when a decent dish leaves this table,
+But remember that, in future, when a decent dish [[Leaves|leaves]] this table,
 they shall not _touch_ it in the kitchen. Remember _that_, Mrs.
 Bloomfield!”
 
 Notwithstanding the ruinous state of the beef, the gentleman managed to
-cut himself some delicate slices, part of which he ate in silence. When
+cut himself some delicate slices, part of which he ate in [[Silence|silence]]. When
 he next spoke, it was, in a less querulous tone, to ask what there was
 for dinner.
 
@@ -126,7 +126,7 @@ suspending his knife and fork in astonishment.
 
 “No. I told the cook to get some fish—I did not particularize what.”
 
-“Well, that beats everything! A lady professes to keep house, and
+“[[Well]], that beats everything! A lady professes to keep [[house]], and
 doesn’t even know what fish is for dinner! professes to order fish, and
 doesn’t specify what!”
 
@@ -139,7 +139,7 @@ anything that was not my own fault.
 In the afternoon we applied to lessons again: then went out again; then
 had tea in the schoolroom; then I dressed Mary Ann for dessert; and
 when she and her brother had gone down to the dining-room, I took the
-opportunity of beginning a letter to my dear friends at home: but the
+opportunity of beginning a letter to my dear friends at [[Home|home]]: but the
 children came up before I had half completed it. At seven I had to put
 Mary Ann to bed; then I played with Tom till eight, when he, too, went;
 and I finished my letter and unpacked my clothes, which I had hitherto
@@ -151,16 +151,16 @@ My task of instruction and surveillance, instead of becoming easier as
 my charges and I got better accustomed to each other, became more
 arduous as their characters unfolded. The name of governess, I soon
 found, was a mere mockery as applied to me: my pupils had no more
-notion of obedience than a wild, unbroken colt. The habitual fear of
+notion of obedience than a wild, unbroken colt. The habitual [[Fear|fear]] of
 their father’s peevish temper, and the dread of the punishments he was
 wont to inflict when irritated, kept them generally within bounds in
-his immediate presence. The girls, too, had some fear of their mother’s
+his immediate presence. The girls, too, had some [[Fear|fear]] of their mother’s
 anger; and the boy might occasionally be bribed to do as she bid him by
-the hope of reward; but I had no rewards to offer; and as for
+the [[Hope|hope]] of reward; but I had no rewards to offer; and as for
 punishments, I was given to understand, the parents reserved that
 privilege to themselves; and yet they expected me to keep my pupils in
-order. Other children might be guided by the fear of anger and the
-desire of approbation; but neither the one nor the other had any effect
+order. Other children might be guided by the [[Fear|fear]] of anger and the
+[[Desire|desire]] of approbation; but neither the one nor the other had any effect
 upon these.
 
 Master Tom, not content with refusing to be ruled, must needs set up as
@@ -170,9 +170,9 @@ and, as he was a tall, strong boy of his years, this occasioned no
 trifling inconvenience. A few sound boxes on the ear, on such
 occasions, might have settled the matter easily enough: but as, in that
 case, he might make up some story to his mother which she would be sure
-to believe, as she had such unshaken faith in his veracity—though I had
+to believe, as she had such unshaken [[Faith|faith]] in his veracity—though I had
 already discovered it to be by no means unimpeachable—I determined to
-refrain from striking him, even in self-defence; and, in his most
+refrain from striking him, even in [[Self|self]]-defence; and, in his most
 violent moods, my only resource was to throw him on his back and hold
 his hands and feet till the frenzy was somewhat abated. To the
 difficulty of preventing him from doing what he ought not, was added
@@ -183,7 +183,7 @@ powers were so limited, I must make the best use of what I had.
 
 As there were no settled hours for study and play, I resolved to give
 my pupils a certain task, which, with moderate attention, they could
-perform in a short time; and till this was done, however weary I was,
+perform in a short [[Time|time]]; and till this was done, however weary I was,
 or however perverse they might be, nothing short of parental
 interference should induce me to suffer them to leave the schoolroom,
 even if I should sit with my chair against the door to keep them in.
@@ -199,7 +199,7 @@ them, too, in the simplest and most effective manner. When I reproved
 them, or refused to gratify their wishes, after a glaring fault, it
 should be more in sorrow than in anger: their little hymns and prayers
 I would make plain and clear to their understanding; when they said
-their prayers at night and asked pardon for their offences, I would
+their prayers at [[Night|night]] and asked pardon for their offences, I would
 remind them of the sins of the past day, solemnly, but in perfect
 kindness, to avoid raising a spirit of opposition; penitential hymns
 should be said by the naughty, cheerful ones by the comparatively good;
@@ -207,34 +207,34 @@ and every kind of instruction I would convey to them, as much as
 possible, by entertaining discourse—apparently with no other object
 than their present amusement in view.
 
-By these means I hoped in time both to benefit the children and to gain
+By these means I hoped in [[Time|time]] both to benefit the children and to gain
 the approbation of their parents; and also to convince my friends at
-home that I was not so wanting in skill and prudence as they supposed.
+[[Home|home]] that I was not so wanting in skill and prudence as they supposed.
 I knew the difficulties I had to contend with were great; but I knew
 (at least I believed) unremitting patience and perseverance could
-overcome them; and night and morning I implored Divine assistance to
+overcome them; and [[Night|night]] and morning I implored Divine assistance to
 this end. But either the children were so incorrigible, the parents so
 unreasonable, or myself so mistaken in my views, or so unable to carry
 them out, that my best intentions and most strenuous efforts seemed
 productive of no better result than sport to the children,
 dissatisfaction to their parents, and torment to myself.
 
-The task of instruction was as arduous for the body as the mind. I had
+The task of instruction was as arduous for the [[Body|body]] as the mind. I had
 to run after my pupils to catch them, to carry or drag them to the
 table, and often forcibly to hold them there till the lesson was done.
 Tom I frequently put into a corner, seating myself before him in a
 chair, with a book which contained the little task that must be said or
 read, before he was released, in my hand. He was not strong enough to
-push both me and the chair away, so he would stand twisting his body
-and face into the most grotesque and singular contortions—laughable, no
-doubt, to an unconcerned spectator, but not to me—and uttering loud
+push both me and the chair away, so he would stand twisting his [[Body|body]]
+and face into the most [[Grotesque|grotesque]] and singular contortions—laughable, no
+[[Doubt|doubt]], to an unconcerned spectator, but not to me—and uttering loud
 yells and doleful outcries, intended to represent weeping but wholly
-without the accompaniment of tears. I knew this was done solely for the
+without the accompaniment of [[Tears|tears]]. I knew this was done solely for the
 purpose of annoying me; and, therefore, however I might inwardly
 tremble with impatience and irritation, I manfully strove to suppress
 all visible signs of molestation, and affected to sit with calm
 indifference, waiting till it should please him to cease this pastime,
-and prepare for a run in the garden, by casting his eye on the book and
+and prepare for a run in the [[Garden|garden]], by casting his eye on the book and
 reading or repeating the few words he was required to say. Sometimes he
 was determined to do his writing badly; and I had to hold his hand to
 prevent him from purposely blotting or disfiguring the paper.
@@ -249,7 +249,7 @@ to my great joy, he would have the sense to see that his wisest policy
 was to finish his tasks, and go out and amuse himself till I and his
 sisters came to join him; which frequently was not at all, for Mary Ann
 seldom followed his example in this particular: she apparently
-preferred rolling on the floor to any other amusement: down she would
+preferred [[rolling]] on the floor to any other amusement: down she would
 drop like a leaden weight; and when I, with great difficulty, had
 succeeded in rooting her thence, I had still to hold her up with one
 arm, while with the other I held the book from which she was to read or
@@ -258,7 +258,7 @@ heavy for one arm to bear, I transferred it to the other; or, if both
 were weary of the burden, I carried her into a corner, and told her she
 might come out when she should find the use of her feet, and stand up:
 but she generally preferred lying there like a log till dinner or
-tea-time, when, as I could not deprive her of her meals, she must be
+tea-[[Time|time]], when, as I could not deprive her of her meals, she must be
 liberated, and would come crawling out with a grin of triumph on her
 round, red face. Often she would stubbornly refuse to pronounce some
 particular word in her lesson; and now I regret the lost labour I have
@@ -308,7 +308,7 @@ she not out with her brother?”
 “I cannot get her to finish her lessons.”
 
 “But Mary Ann must be a _good_ girl, and finish her lessons.” This was
-blandly spoken to the child. “And I hope I shall _never_ hear such
+blandly spoken to the [[Child|child]]. “And I [[Hope|hope]] I shall _never_ hear such
 terrible cries again!”
 
 And fixing her cold, stony eyes upon me with a look that could not be
@@ -320,40 +320,40 @@ that seemed to say, “Ah! I’m too sharp for you; you shan’t trick it out
 of me, either.”
 
 On another occasion, I pretended to forget the whole affair; and talked
-and played with her as usual, till night, when I put her to bed; then
-bending over her, while she lay all smiles and good humour, just before
+and played with her as usual, till [[Night|night]], when I put her to bed; then
+bending over her, while she lay all smiles and good [[Humour|humour]], just before
 departing, I said, as cheerfully and kindly as before—“Now, Mary Ann,
-just tell me that word before I kiss you good-night. You are a good
+just tell me that word before I kiss you good-[[Night|night]]. You are a good
 girl now, and, of course, you will say it.”
 
 “No, I won’t.”
 
 “Then I can’t kiss you.”
 
-“Well, I don’t care.”
+“[[Well]], I don’t care.”
 
 In vain I expressed my sorrow; in vain I lingered for some symptom of
-contrition; she really “didn’t care,” and I left her alone, and in
+contrition; she really “didn’t care,” and I left her [[Alone|alone]], and in
 darkness, wondering most of all at this last proof of insensate
-stubbornness. In _my_ childhood I could not imagine a more afflictive
-punishment than for my mother to refuse to kiss me at night: the very
+stubbornness. In _my_ [[Childhood|childhood]] I could not imagine a more afflictive
+punishment than for my mother to refuse to kiss me at [[Night|night]]: the very
 idea was terrible. More than the idea I never felt, for, happily, I
 never committed a fault that was deemed worthy of such penalty; but
 once I remember, for some transgression of my sister’s, our mother
 thought proper to inflict it upon her: what _she_ felt, I cannot tell;
-but my sympathetic tears and suffering for her sake I shall not soon
+but my sympathetic [[Tears|tears]] and [[Suffering|suffering]] for her sake I shall not soon
 forget.
 
 Another troublesome trait in Mary Ann was her incorrigible propensity
 to keep running into the nursery, to play with her little sisters and
-the nurse. This was natural enough, but, as it was against her mother’s
-express desire, I, of course, forbade her to do so, and did my utmost
+the [[Nurse|nurse]]. This was natural enough, but, as it was against her mother’s
+express [[Desire|desire]], I, of course, forbade her to do so, and did my utmost
 to keep her with me; but that only increased her relish for the
 nursery, and the more I strove to keep her out of it, the oftener she
 went, and the longer she stayed, to the great dissatisfaction of Mrs.
-Bloomfield, who, I well knew, would impute all the blame of the matter
+Bloomfield, who, I [[Well|well]] knew, would impute all the blame of the matter
 to me. Another of my trials was the dressing in the morning: at one
-time she would not be washed; at another she would not be dressed,
+[[Time|time]] she would not be washed; at another she would not be dressed,
 unless she might wear some particular frock, that I knew her mother
 would not like her to have; at another she would scream and run away if
 I attempted to touch her hair. So that, frequently, when, after much
@@ -363,20 +363,20 @@ observations from “papa,” spoken at me, if not to me, were sure to be
 my meed: for few things irritated the latter so much as want of
 punctuality at meal times. Then, among the minor annoyances, was my
 inability to satisfy Mrs. Bloomfield with her daughter’s dress; and the
-child’s hair “was never fit to be seen.” Sometimes, as a powerful
+[[Child|child]]’s hair “was never fit to be seen.” Sometimes, as a powerful
 reproach to me, she would perform the office of tire woman herself, and
 then complain bitterly of the trouble it gave her.
 
 When little Fanny came into the schoolroom, I hoped she would be mild
 and inoffensive, at least; but a few days, if not a few hours, sufficed
 to destroy the illusion: I found her a mischievous, intractable little
-creature, given up to falsehood and deception, young as she was, and
+creature, given up to falsehood and [[Deception|deception]], young as she was, and
 alarmingly fond of exercising her two favourite weapons of offence and
 defence: that of spitting in the faces of those who incurred her
 displeasure, and bellowing like a bull when her unreasonable desires
 were not gratified. As she, generally, was pretty quiet in her parents’
 presence, and they were impressed with the notion of her being a
-remarkably gentle child, her falsehoods were readily believed, and her
+remarkably gentle [[Child|child]], her falsehoods were readily believed, and her
 loud uproars led them to suspect harsh and injudicious treatment on my
 part; and when, at length, her bad disposition became manifest even to
 their prejudiced eyes, I felt that the whole was attributed to me.
@@ -399,9 +399,9 @@ my own defence: now I judged it my wisest plan to subdue every
 resentful impulse, suppress every sensitive shrinking, and go on
 perseveringly, doing my best; for, irksome as my situation was, I
 earnestly wished to retain it. I thought, if I could struggle on with
-unremitting firmness and integrity, the children would in time become
+unremitting firmness and integrity, the children would in [[Time|time]] become
 more humanized: every month would contribute to make them some little
-wiser, and, consequently, more manageable; for a child of nine or ten
+wiser, and, consequently, more manageable; for a [[Child|child]] of nine or ten
 as frantic and ungovernable as these at six and seven would be a
 maniac.
 
@@ -415,13 +415,13 @@ that, I did not even regret the step I had taken. I longed to show my
 friends that, even now, I was competent to undertake the charge, and
 able to acquit myself honourably to the end; and if ever I felt it
 degrading to submit so quietly, or intolerable to toil so constantly, I
-would turn towards my home, and say within myself—
+would turn towards my [[Home|home]], and say within myself—
 
 They may crush, but they shall not subdue me!
 ’Tis of thee that I think, not of them.
 
 
-About Christmas I was allowed to visit home; but my holiday was only of
+About Christmas I was allowed to visit [[Home|home]]; but my holiday was only of
 a fortnight’s duration: “For,” said Mrs. Bloomfield, “I thought, as you
 had seen your friends so lately, you would not care for a longer stay.”
 I left her to think so still: but she little knew how long, how

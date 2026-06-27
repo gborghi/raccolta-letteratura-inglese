@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — D.  The copyright laws of the place where you are located also govern"
+title: "[[WhatISawInAmerica]] — D.  The copyright laws of the place where you are located also govern"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY"
+title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER 19. I LOOK ABOUT ME, AND MAKE A DISCOVERY
 
 
 I am doubtful whether I was at heart glad or sorry, when my school-days
-drew to an end, and the time came for my leaving Doctor Strong’s. I had
+drew to an end, and the [[Time|time]] came for my leaving Doctor Strong’s. I had
 been very happy there, I had a great attachment for the Doctor, and I
 was eminent and distinguished in that little world. For these reasons
 I was sorry to go; but for other reasons, unsubstantial enough, I
@@ -36,7 +36,7 @@ juvenile experiences went for little or nothing then; and that life was
 more like a great fairy story, which I was just about to begin to read,
 than anything else.
 
-My aunt and I had held many grave deliberations on the calling to which
+My aunt and I had held many [[Grave|grave]] deliberations on the calling to which
 I should be devoted. For a year or more I had endeavoured to find a
 satisfactory answer to her often-repeated question, ‘What I would like
 to be?’ But I had no particular liking, that I could discover, for
@@ -44,7 +44,7 @@ anything. If I could have been inspired with a knowledge of the science
 of navigation, taken the command of a fast-sailing expedition, and gone
 round the world on a triumphant voyage of discovery, I think I might
 have considered myself completely suited. But, in the absence of any
-such miraculous provision, my desire was to apply myself to some pursuit
+such miraculous provision, my [[Desire|desire]] was to apply myself to some pursuit
 that would not lie too heavily upon her purse; and to do my duty in it,
 whatever it might be.
 
@@ -59,7 +59,7 @@ rattling his money.
 ‘Trot, I tell you what, my dear,’ said my aunt, one morning in the
 Christmas season when I left school: ‘as this knotty point is still
 unsettled, and as we must not make a mistake in our decision if we can
-help it, I think we had better take a little breathing-time. In the
+help it, I think we had better take a little breathing-[[Time|time]]. In the
 meanwhile, you must try to look at it from a new point of view, and not
 as a schoolboy.’
 
@@ -75,28 +75,28 @@ called.
 
 ‘Of all things in the world, aunt, I should like it best!’
 
-‘Well,’ said my aunt, ‘that’s lucky, for I should like it too. But
+‘[[Well]],’ said my aunt, ‘that’s lucky, for I should like it too. But
 it’s natural and rational that you should like it. And I am very
-well persuaded that whatever you do, Trot, will always be natural and
+[[Well|well]] persuaded that whatever you do, Trot, will always be natural and
 rational.’
 
-‘I hope so, aunt.’
+‘I [[Hope|hope]] so, aunt.’
 
-‘Your sister, Betsey Trotwood,’ said my aunt, ‘would have been as
+‘Your sister, [[Betsey Trotwood]],’ said my aunt, ‘would have been as
 natural and rational a girl as ever breathed. You’ll be worthy of her,
 won’t you?’
 
-‘I hope I shall be worthy of YOU, aunt. That will be enough for me.’
+‘I [[Hope|hope]] I shall be worthy of YOU, aunt. That will be enough for me.’
 
-‘It’s a mercy that poor dear baby of a mother of yours didn’t live,’
+‘It’s a [[Mercy|mercy]] that poor dear baby of a mother of yours didn’t live,’
 said my aunt, looking at me approvingly, ‘or she’d have been so vain
-of her boy by this time, that her soft little head would have been
+of her boy by this [[Time|time]], that her soft little head would have been
 completely turned, if there was anything of it left to turn.’ (My aunt
 always excused any weakness of her own in my behalf, by transferring it
 in this way to my poor mother.) ‘Bless me, Trotwood, how you do remind
 me of her!’
 
-‘Pleasantly, I hope, aunt?’ said I.
+‘Pleasantly, I [[Hope|hope]], aunt?’ said I.
 
 ‘He’s as like her, Dick,’ said my aunt, emphatically, ‘he’s as like her,
 as she was that afternoon before she began to fret--bless my heart, he’s
@@ -109,7 +109,7 @@ as like her, as he can look at me out of his two eyes!’
 ‘He is very like David!’ said Mr. Dick.
 
 ‘But what I want you to be, Trot,’ resumed my aunt, ‘--I don’t mean
-physically, but morally; you are very well physically--is, a firm
+physically, but morally; you are very [[Well|well]] physically--is, a firm
 fellow. A fine firm fellow, with a will of your own. With resolution,’
 said my aunt, shaking her cap at me, and clenching her hand. ‘With
 determination. With character, Trot--with strength of character that is
@@ -121,10 +121,10 @@ I intimated that I hoped I should be what she described.
 
 ‘That you may begin, in a small way, to have a reliance upon yourself,
 and to act for yourself,’ said my aunt, ‘I shall send you upon your
-trip, alone. I did think, once, of Mr. Dick’s going with you; but, on
+trip, [[Alone|alone]]. I did think, once, of Mr. Dick’s going with you; but, on
 second thoughts, I shall keep him to take care of me.’
 
-Mr. Dick, for a moment, looked a little disappointed; until the honour
+Mr. Dick, for a moment, looked a little disappointed; until the [[Honour|honour]]
 and dignity of having to take care of the most wonderful woman in the
 world, restored the sunshine to his face.
 
@@ -133,23 +133,23 @@ world, restored the sunshine to his face.
 ‘Oh, certainly,’ said Mr. Dick, in a hurry, ‘I intend, Trotwood, to get
 that done immediately--it really must be done immediately! And then it
 will go in, you know--and then--’ said Mr. Dick, after checking himself,
-and pausing a long time, ‘there’ll be a pretty kettle of fish!’
+and pausing a long [[Time|time]], ‘there’ll be a pretty kettle of fish!’
 
 In pursuance of my aunt’s kind scheme, I was shortly afterwards fitted
 out with a handsome purse of money, and a portmanteau, and tenderly
 dismissed upon my expedition. At parting, my aunt gave me some good
 advice, and a good many kisses; and said that as her object was that I
 should look about me, and should think a little, she would recommend me
-to stay a few days in London, if I liked it, either on my way down into
+to stay a few days in [[London]], if I liked it, either on my way down into
 Suffolk, or in coming back. In a word, I was at liberty to do what I
 would, for three weeks or a month; and no other conditions were imposed
-upon my freedom than the before-mentioned thinking and looking about me,
+upon my [[Freedom|freedom]] than the before-mentioned thinking and looking about me,
 and a pledge to write three times a week and faithfully report myself.
 
 I went to Canterbury first, that I might take leave of Agnes and Mr.
-Wickfield (my old room in whose house I had not yet relinquished), and
+Wickfield (my old room in whose [[house]] I had not yet relinquished), and
 also of the good Doctor. Agnes was very glad to see me, and told me that
-the house had not been like itself since I had left it.
+the [[house]] had not been like itself since I had left it.
 
 ‘I am sure I am not like myself when I am away,’ said I. ‘I seem to
 want my right hand, when I miss you. Though that’s not saying much; for
@@ -159,7 +159,7 @@ consults with you, and is guided by you, Agnes.’
 ‘Everyone who knows me, spoils me, I believe,’ she answered, smiling.
 
 ‘No. It’s because you are like no one else. You are so good, and so
-sweet-tempered. You have such a gentle nature, and you are always
+sweet-tempered. You have such a gentle [[Nature|nature]], and you are always
 right.’
 
 ‘You talk,’ said Agnes, breaking into a pleasant laugh, as she sat at
@@ -168,15 +168,15 @@ work, ‘as if I were the late Miss Larkins.’
 ‘Come! It’s not fair to abuse my confidence,’ I answered, reddening at
 the recollection of my blue enslaver. ‘But I shall confide in you, just
 the same, Agnes. I can never grow out of that. Whenever I fall into
-trouble, or fall in love, I shall always tell you, if you’ll let
-me--even when I come to fall in love in earnest.’
+trouble, or fall in [[Love|love]], I shall always tell you, if you’ll let
+me--even when I come to fall in [[Love|love]] in earnest.’
 
 ‘Why, you have always been in earnest!’ said Agnes, laughing again.
 
-‘Oh! that was as a child, or a schoolboy,’ said I, laughing in my turn,
+‘Oh! that was as a [[Child|child]], or a schoolboy,’ said I, laughing in my turn,
 not without being a little shame-faced. ‘Times are altering now, and I
 suppose I shall be in a terrible state of earnestness one day or other.
-My wonder is, that you are not in earnest yourself, by this time,
+My [[Wonder|wonder]] is, that you are not in earnest yourself, by this [[Time|time]],
 Agnes.’
 
 Agnes laughed again, and shook her head.
@@ -184,9 +184,9 @@ Agnes laughed again, and shook her head.
 ‘Oh, I know you are not!’ said I, ‘because if you had been you would
 have told me. Or at least’--for I saw a faint blush in her face, ‘you
 would have let me find it out for myself. But there is no one that I
-know of, who deserves to love you, Agnes. Someone of a nobler character,
+know of, who deserves to [[Love|love]] you, Agnes. Someone of a nobler character,
 and more worthy altogether than anyone I have ever seen here, must rise
-up, before I give my consent. In the time to come, I shall have a wary
+up, before I give my consent. In the [[Time|time]] to come, I shall have a wary
 eye on all admirers; and shall exact a great deal from the successful
 one, I assure you.’
 
@@ -196,13 +196,13 @@ mere children. But Agnes, now suddenly lifting up her eyes to mine, and
 speaking in a different manner, said:
 
 ‘Trotwood, there is something that I want to ask you, and that I may not
-have another opportunity of asking for a long time, perhaps--something
+have another opportunity of asking for a long [[Time|time]], perhaps--something
 I would ask, I think, of no one else. Have you observed any gradual
 alteration in Papa?’
 
 I had observed it, and had often wondered whether she had too. I must
 have shown as much, now, in my face; for her eyes were in a moment cast
-down, and I saw tears in them.
+down, and I saw [[Tears|tears]] in them.
 
 ‘Tell me what it is,’ she said, in a low voice.
 
@@ -226,13 +226,13 @@ it, or of having shown his condition in spite of himself, seems to make
 him so uneasy, that next day he is worse, and next day worse, and so he
 becomes jaded and haggard. Do not be alarmed by what I say, Agnes, but
 in this state I saw him, only the other evening, lay down his head upon
-his desk, and shed tears like a child.’
+his desk, and shed [[Tears|tears]] like a [[Child|child]].’
 
 Her hand passed softly before my lips while I was yet speaking, and in
 a moment she had met her father at the door of the room, and was hanging
 on his shoulder. The expression of her face, as they both looked towards
 me, I felt to be very touching. There was such deep fondness for him,
-and gratitude to him for all his love and care, in her beautiful look;
+and gratitude to him for all his [[Love|love]] and care, in her beautiful look;
 and there was such a fervent appeal to me to deal tenderly by him, even
 in my inmost thoughts, and to let no harsh construction find any place
 against him; she was, at once, so proud of him and devoted to him, yet
@@ -244,7 +244,7 @@ We were to drink tea at the Doctor’s. We went there at the usual hour;
 and round the study fireside found the Doctor, and his young wife, and
 her mother. The Doctor, who made as much of my going away as if I were
 going to China, received me as an honoured guest; and called for a log
-of wood to be thrown on the fire, that he might see the face of his old
+of wood to be thrown on the [[Fire|fire]], that he might see the face of his old
 pupil reddening in the blaze.
 
 ‘I shall not see many more new faces in Trotwood’s stead, Wickfield,’
@@ -252,7 +252,7 @@ said the Doctor, warming his hands; ‘I am getting lazy, and want ease.
 I shall relinquish all my young people in another six months, and lead a
 quieter life.’
 
-‘You have said so, any time these ten years, Doctor,’ Mr. Wickfield
+‘You have said so, any [[Time|time]] these ten years, Doctor,’ Mr. Wickfield
 answered.
 
 ‘But now I mean to do it,’ returned the Doctor. ‘My first master will
@@ -261,7 +261,7 @@ contracts, and to bind us firmly to them, like a couple of knaves.’
 
 ‘And to take care,’ said Mr. Wickfield, ‘that you’re not imposed on, eh?
 As you certainly would be, in any contract you should make for yourself.
-Well! I am ready. There are worse tasks than that, in my calling.’
+[[Well]]! I am ready. There are worse tasks than that, in my calling.’
 
 ‘I shall have nothing to think of then,’ said the Doctor, with a smile,
 ‘but my Dictionary; and this other contract-bargain--Annie.’
@@ -272,7 +272,7 @@ timidity, that his attention became fixed upon her, as if something were
 suggested to his thoughts.
 
 ‘There is a post come in from India, I observe,’ he said, after a short
-silence.
+[[Silence|silence]].
 
 ‘By the by! and letters from Mr. Jack Maldon!’ said the Doctor.
 
@@ -283,7 +283,7 @@ his spirit, not his constitution, that he ventured on so boldly. Annie,
 my dear, I am sure you must perfectly recollect that your cousin
 never was strong--not what can be called ROBUST, you know,’ said Mrs.
 Markleham, with emphasis, and looking round upon us generally, ‘--from
-the time when my daughter and himself were children together, and
+the [[Time|time]] when my daughter and himself were children together, and
 walking about, arm-in-arm, the livelong day.’
 
 Annie, thus addressed, made no reply.
@@ -293,10 +293,10 @@ Mr. Wickfield.
 
 ‘Ill!’ replied the Old Soldier. ‘My dear sir, he’s all sorts of things.’
 
-‘Except well?’ said Mr. Wickfield.
+‘Except [[Well|well]]?’ said Mr. Wickfield.
 
-‘Except well, indeed!’ said the Old Soldier. ‘He has had dreadful
-strokes of the sun, no doubt, and jungle fevers and agues, and every
+‘Except [[Well|well]], indeed!’ said the Old Soldier. ‘He has had dreadful
+strokes of the sun, no [[Doubt|doubt]], and jungle fevers and agues, and every
 kind of thing you can mention. As to his liver,’ said the Old Soldier
 resignedly, ‘that, of course, he gave up altogether, when he first went
 out!’
@@ -311,14 +311,14 @@ Say? Not he. You might drag him at the heels of four wild horses first.’
 
 ‘Annie, my dear,’ returned her mother, ‘once for all, I must really beg
 that you will not interfere with me, unless it is to confirm what I say.
-You know as well as I do that your cousin Maldon would be dragged at the
+You know as [[Well|well]] as I do that your cousin Maldon would be dragged at the
 heels of any number of wild horses--why should I confine myself to four!
 I WON’T confine myself to four--eight, sixteen, two-and-thirty, rather
 than say anything calculated to overturn the Doctor’s plans.’
 
 ‘Wickfield’s plans,’ said the Doctor, stroking his face, and looking
 penitently at his adviser. ‘That is to say, our joint plans for him. I
-said myself, abroad or at home.’
+said myself, abroad or at [[Home|home]].’
 
 ‘And I said’ added Mr. Wickfield gravely, ‘abroad. I was the means of
 sending him abroad. It’s my responsibility.’
@@ -331,9 +331,9 @@ overturn the Doctor’s plans. I know him,’ said the Old Soldier, fanning
 herself, in a sort of calm prophetic agony, ‘and I know he’ll die there,
 sooner than he’ll overturn the Doctor’s plans.’
 
-‘Well, well, ma’am,’ said the Doctor cheerfully, ‘I am not bigoted to
+‘[[Well]], [[Well|well]], ma’am,’ said the Doctor cheerfully, ‘I am not bigoted to
 my plans, and I can overturn them myself. I can substitute some other
-plans. If Mr. Jack Maldon comes home on account of ill health, he must
+plans. If Mr. Jack Maldon comes [[Home|home]] on account of ill health, he must
 not be allowed to go back, and we must endeavour to make some more
 suitable and fortunate provision for him in this country.’
 
@@ -347,8 +347,8 @@ her old playfellow; and entertained us with some particulars concerning
 other deserving members of her family, whom it was desirable to set on
 their deserving legs.
 
-All this time, her daughter Annie never once spoke, or lifted up her
-eyes. All this time, Mr. Wickfield had his glance upon her as she sat
+All this [[Time|time]], her daughter Annie never once spoke, or lifted up her
+eyes. All this [[Time|time]], Mr. Wickfield had his glance upon her as she sat
 by his own daughter’s side. It appeared to me that he never thought of
 being observed by anyone; but was so intent upon her, and upon his own
 thoughts in connexion with her, as to be quite absorbed. He now asked
@@ -358,9 +358,9 @@ to whom he had written?
 ‘Why, here,’ said Mrs. Markleham, taking a letter from the chimney-piece
 above the Doctor’s head, ‘the dear fellow says to the Doctor
 himself--where is it? Oh!--“I am sorry to inform you that my health is
-suffering severely, and that I fear I may be reduced to the necessity
-of returning home for a time, as the only hope of restoration.” That’s
-pretty plain, poor fellow! His only hope of restoration! But Annie’s
+[[Suffering|suffering]] severely, and that I [[Fear|fear]] I may be reduced to the necessity
+of returning [[Home|home]] for a [[Time|time]], as the only [[Hope|hope]] of restoration.” That’s
+pretty plain, poor fellow! His only [[Hope|hope]] of restoration! But Annie’s
 letter is plainer still. Annie, show me that letter again.’
 
 ‘Not now, mama,’ she pleaded in a low tone.
@@ -369,7 +369,7 @@ letter is plainer still. Annie, show me that letter again.’
 ridiculous persons in the world,’ returned her mother, ‘and perhaps the
 most unnatural to the claims of your own family. We never should have
 heard of the letter at all, I believe, unless I had asked for it myself.
-Do you call that confidence, my love, towards Doctor Strong? I am
+Do you call that confidence, my [[Love|love]], towards Doctor Strong? I am
 surprised. You ought to know better.’
 
 The letter was reluctantly produced; and as I handed it to the old lady,
@@ -385,7 +385,7 @@ at us in a state of placid satisfaction. ‘Now I have found it. “You may
 not be surprised to hear, Annie,”--no, to be sure, knowing that he never
 was really strong; what did I say just now?--“that I have undergone
 so much in this distant place, as to have decided to leave it at all
-hazards; on sick leave, if I can; on total resignation, if that is
+hazards; on sick leave, if I can; on total [[Resignation|resignation]], if that is
 not to be obtained. What I have endured, and do endure here, is
 insupportable.” And but for the promptitude of that best of creatures,’
 said Mrs. Markleham, telegraphing the Doctor as before, and refolding
@@ -406,51 +406,51 @@ herself, there was a blank between her and Mr. Wickfield which separated
 them wholly from each other; secondly, that Mr. Wickfield seemed
 to dislike the intimacy between her and Agnes, and to watch it with
 uneasiness. And now, I must confess, the recollection of what I had seen
-on that night when Mr. Maldon went away, first began to return upon me
-with a meaning it had never had, and to trouble me. The innocent beauty
-of her face was not as innocent to me as it had been; I mistrusted the
+on that [[Night|night]] when Mr. Maldon went away, first began to return upon me
+with a meaning it had never had, and to trouble me. The [[Innocent|innocent]] [[Beauty|beauty]]
+of her face was not as [[Innocent|innocent]] to me as it had been; I mistrusted the
 natural grace and charm of her manner; and when I looked at Agnes by her
 side, and thought how good and true Agnes was, suspicions arose within
-me that it was an ill-assorted friendship.
+me that it was an ill-assorted [[Friendship|friendship]].
 
 She was so happy in it herself, however, and the other was so happy too,
 that they made the evening fly away as if it were but an hour. It closed
-in an incident which I well remember. They were taking leave of each
+in an incident which I [[Well|well]] remember. They were taking leave of each
 other, and Agnes was going to embrace her and kiss her, when Mr.
 Wickfield stepped between them, as if by accident, and drew Agnes
-quickly away. Then I saw, as though all the intervening time had been
-cancelled, and I were still standing in the doorway on the night of the
-departure, the expression of that night in the face of Mrs. Strong, as
+quickly away. Then I saw, as though all the intervening [[Time|time]] had been
+cancelled, and I were still standing in the doorway on the [[Night|night]] of the
+departure, the expression of that [[Night|night]] in the face of Mrs. Strong, as
 it confronted his.
 
 I cannot say what an impression this made upon me, or how impossible I
 found it, when I thought of her afterwards, to separate her from this
-look, and remember her face in its innocent loveliness again. It haunted
-me when I got home. I seemed to have left the Doctor’s roof with a dark
+look, and remember her face in its [[Innocent|innocent]] loveliness again. It haunted
+me when I got [[Home|home]]. I seemed to have left the Doctor’s roof with a dark
 cloud lowering on it. The reverence that I had for his grey head, was
-mingled with commiseration for his faith in those who were treacherous
+mingled with commiseration for his [[Faith|faith]] in those who were treacherous
 to him, and with resentment against those who injured him. The impending
-shadow of a great affliction, and a great disgrace that had no distinct
+[[Shadow|shadow]] of a great affliction, and a great disgrace that had no distinct
 form in it yet, fell like a stain upon the quiet place where I had
 worked and played as a boy, and did it a cruel wrong. I had no pleasure
-in thinking, any more, of the grave old broad-leaved aloe-trees, which
+in thinking, any more, of the [[Grave|grave]] old broad-leaved aloe-trees, which
 remained shut up in themselves a hundred years together, and of the trim
 smooth grass-plot, and the stone urns, and the Doctor’s walk, and the
-congenial sound of the Cathedral bell hovering above them all. It was as
+congenial sound of the [[Cathedral]] bell hovering above them all. It was as
 if the tranquil sanctuary of my boyhood had been sacked before my face,
-and its peace and honour given to the winds.
+and its peace and [[Honour|honour]] given to the winds.
 
-But morning brought with it my parting from the old house, which Agnes
+But morning brought with it my parting from the old [[house]], which Agnes
 had filled with her influence; and that occupied my mind sufficiently.
-I should be there again soon, no doubt; I might sleep again--perhaps
+I should be there again soon, no [[Doubt|doubt]]; I might [[Sleep|sleep]] again--perhaps
 often--in my old room; but the days of my inhabiting there were gone,
-and the old time was past. I was heavier at heart when I packed up such
+and the old [[Time|time]] was past. I was heavier at heart when I packed up such
 of my books and clothes as still remained there to be sent to Dover,
-than I cared to show to Uriah Heep; who was so officious to help me,
+than I cared to show to [[Uriah Heep]]; who was so officious to help me,
 that I uncharitably thought him mighty glad that I was going.
 
 I got away from Agnes and her father, somehow, with an indifferent show
-of being very manly, and took my seat upon the box of the London coach.
+of being very manly, and took my seat upon the box of the [[London]] coach.
 I was so softened and forgiving, going through the town, that I had half
 a mind to nod to my old enemy the butcher, and throw him five shillings
 to drink. But he looked such a very obdurate butcher as he stood
@@ -458,7 +458,7 @@ scraping the great block in the shop, and moreover, his appearance was
 so little improved by the loss of a front tooth which I had knocked out,
 that I thought it best to make no advances.
 
-The main object on my mind, I remember, when we got fairly on the road,
+The main object on my mind, I remember, when we got fairly on the [[Road|road]],
 was to appear as old as possible to the coachman, and to speak extremely
 gruff. The latter point I achieved at great personal inconvenience; but
 I stuck to it, because I felt it was a grown-up sort of thing.
@@ -466,15 +466,15 @@ I stuck to it, because I felt it was a grown-up sort of thing.
 ‘You are going through, sir?’ said the coachman.
 
 ‘Yes, William,’ I said, condescendingly (I knew him); ‘I am going to
-London. I shall go down into Suffolk afterwards.’
+[[London]]. I shall go down into Suffolk afterwards.’
 
 ‘Shooting, sir?’ said the coachman.
 
-He knew as well as I did that it was just as likely, at that time of
+He knew as [[Well|well]] as I did that it was just as likely, at that [[Time|time]] of
 year, I was going down there whaling; but I felt complimented, too.
 
 ‘I don’t know,’ I said, pretending to be undecided, ‘whether I shall
-take a shot or not.’ ‘Birds is got wery shy, I’m told,’ said William.
+take a shot or not.’ ‘[[Birds]] is got wery shy, I’m told,’ said William.
 
 ‘So I understand,’ said I.
 
@@ -514,7 +514,7 @@ with the eye with which he didn’t squint, in a very knowing manner.
 ‘I should think so,’ said the gentleman. ‘There ain’t no sort of orse
 that I ain’t bred, and no sort of dorg. Orses and dorgs is some
 men’s fancy. They’re wittles and drink to me--lodging, wife, and
-children--reading, writing, and Arithmetic--snuff, tobacker, and sleep.’
+children--reading, writing, and Arithmetic--snuff, tobacker, and [[Sleep|sleep]].’
 
 ‘That ain’t a sort of man to see sitting behind a coach-box, is it
 though?’ said William in my ear, as he handled the reins.
@@ -522,13 +522,13 @@ though?’ said William in my ear, as he handled the reins.
 I construed this remark into an indication of a wish that he should have
 my place, so I blushingly offered to resign it.
 
-‘Well, if you don’t mind, sir,’ said William, ‘I think it would be more
+‘[[Well]], if you don’t mind, sir,’ said William, ‘I think it would be more
 correct.’
 
 I have always considered this as the first fall I had in life. When I
 booked my place at the coach office I had had ‘Box Seat’ written against
-the entry, and had given the book-keeper half-a-crown. I was got up in
-a special great-coat and shawl, expressly to do honour to that
+the entry, and had given the book-keeper half-a-[[Crown|crown]]. I was got up in
+a special great-coat and shawl, expressly to do [[Honour|honour]] to that
 distinguished eminence; had glorified myself upon it a good deal; and
 had felt that I was a credit to the coach. And here, in the very first
 stage, I was supplanted by a shabby man with a squint, who had no other
@@ -540,26 +540,26 @@ A distrust of myself, which has often beset me in life on small
 occasions, when it would have been better away, was assuredly not
 stopped in its growth by this little incident outside the Canterbury
 coach. It was in vain to take refuge in gruffness of speech. I spoke
-from the pit of my stomach for the rest of the journey, but I felt
+from the pit of my stomach for the rest of the [[Journey|journey]], but I felt
 completely extinguished, and dreadfully young.
 
 It was curious and interesting, nevertheless, to be sitting up there
-behind four horses: well educated, well dressed, and with plenty of
+behind four horses: [[Well|well]] educated, [[Well|well]] dressed, and with plenty of
 money in my pocket; and to look out for the places where I had slept on
-my weary journey. I had abundant occupation for my thoughts, in every
-conspicuous landmark on the road. When I looked down at the trampers
-whom we passed, and saw that well-remembered style of face turned up,
+my weary [[Journey|journey]]. I had abundant occupation for my thoughts, in every
+conspicuous landmark on the [[Road|road]]. When I looked down at the trampers
+whom we passed, and saw that [[Well|well]]-remembered style of face turned up,
 I felt as if the tinker’s blackened hand were in the bosom of my shirt
 again. When we clattered through the narrow street of Chatham, and I
-caught a glimpse, in passing, of the lane where the old monster lived
+caught a glimpse, in passing, of the lane where the old [[Monster|monster]] lived
 who had bought my jacket, I stretched my neck eagerly to look for the
 place where I had sat, in the sun and in the shade, waiting for my
-money. When we came, at last, within a stage of London, and passed the
-veritable Salem House where Mr. Creakle had laid about him with a heavy
+money. When we came, at last, within a stage of [[London]], and passed the
+veritable Salem [[house|House]] where Mr. Creakle had laid about him with a heavy
 hand, I would have given all I had, for lawful permission to get down
 and thrash him, and let all the boys out like so many caged sparrows.
 
-We went to the Golden Cross at Charing Cross, then a mouldy sort of
+We went to the Golden [[Cross]] at Charing [[Cross]], then a mouldy sort of
 establishment in a close neighbourhood. A waiter showed me into the
 coffee-room; and a chambermaid introduced me to my small bedchamber,
 which smelt like a hackney-coach, and was shut up like a family vault.
@@ -568,10 +568,10 @@ of me at all: the chambermaid being utterly indifferent to my opinions
 on any subject, and the waiter being familiar with me, and offering
 advice to my inexperience.
 
-‘Well now,’ said the waiter, in a tone of confidence, ‘what would you
+‘[[Well]] now,’ said the waiter, in a tone of confidence, ‘what would you
 like for dinner? Young gentlemen likes poultry in general: have a fowl!’
 
-I told him, as majestically as I could, that I wasn’t in the humour for
+I told him, as majestically as I could, that I wasn’t in the [[Humour|humour]] for
 a fowl.
 
 ‘Ain’t you?’ said the waiter. ‘Young gentlemen is generally tired of
@@ -591,7 +591,7 @@ were not, and couldn’t be, but thought it manly to appear to expect.
 
 He soon came back to say that there were none (at which I was much
 surprised) and began to lay the cloth for my dinner in a box by the
-fire. While he was so engaged, he asked me what I would take with it;
+[[Fire|fire]]. While he was so engaged, he asked me what I would take with it;
 and on my replying ‘Half a pint of sherry,’ thought it a favourable
 opportunity, I am afraid, to extract that measure of wine from the
 stale leavings at the bottoms of several small decanters. I am of this
@@ -605,16 +605,16 @@ I was bashful enough to drink it, and say nothing.
 
 Being then in a pleasant frame of mind (from which I infer that
 poisoning is not always disagreeable in some stages of the process), I
-resolved to go to the play. It was Covent Garden Theatre that I chose;
-and there, from the back of a centre box, I saw Julius Caesar and the
+resolved to go to the play. It was Covent [[Garden]] Theatre that I chose;
+and there, from the back of a centre box, I saw [[Julius Caesar]] and the
 new Pantomime. To have all those noble Romans alive before me, and
 walking in and out for my entertainment, instead of being the stern
-taskmasters they had been at school, was a most novel and delightful
+taskmasters they had been at school, was a most [[Novel|novel]] and delightful
 effect. But the mingled reality and mystery of the whole show, the
 influence upon me of the poetry, the lights, the music, the company, the
 smooth stupendous changes of glittering and brilliant scenery, were so
 dazzling, and opened up such illimitable regions of delight, that when I
-came out into the rainy street, at twelve o’clock at night, I felt as if
+came out into the rainy street, at twelve o’[[Clock|clock]] at [[Night|night]], I felt as if
 I had come from the clouds, where I had been leading a romantic life
 for ages, to a bawling, splashing, link-lighted, umbrella-struggling,
 hackney-coach-jostling, patten-clinking, muddy, miserable world.
@@ -622,31 +622,31 @@ hackney-coach-jostling, patten-clinking, muddy, miserable world.
 I had emerged by another door, and stood in the street for a little
 while, as if I really were a stranger upon earth: but the unceremonious
 pushing and hustling that I received, soon recalled me to myself, and
-put me in the road back to the hotel; whither I went, revolving the
+put me in the [[Road|road]] back to the hotel; whither I went, revolving the
 glorious vision all the way; and where, after some porter and oysters,
-I sat revolving it still, at past one o’clock, with my eyes on the
-coffee-room fire.
+I sat revolving it still, at past one o’[[Clock|clock]], with my eyes on the
+coffee-room [[Fire|fire]].
 
 I was so filled with the play, and with the past--for it was, in a
 manner, like a shining transparency, through which I saw my earlier
 life moving along--that I don’t know when the figure of a handsome
-well-formed young man dressed with a tasteful easy negligence which I
-have reason to remember very well, became a real presence to me. But
+[[Well|well]]-formed young man dressed with a tasteful easy negligence which I
+have reason to remember very [[Well|well]], became a real presence to me. But
 I recollect being conscious of his company without having noticed his
-coming in--and my still sitting, musing, over the coffee-room fire.
+coming in--and my still sitting, musing, over the coffee-room [[Fire|fire]].
 
-At last I rose to go to bed, much to the relief of the sleepy waiter,
+At last I [[Rose|rose]] to go to bed, much to the relief of the sleepy waiter,
 who had got the fidgets in his legs, and was twisting them, and hitting
 them, and putting them through all kinds of contortions in his small
 pantry. In going towards the door, I passed the person who had come in,
 and saw him plainly. I turned directly, came back, and looked again. He
 did not know me, but I knew him in a moment.
 
-At another time I might have wanted the confidence or the decision to
+At another [[Time|time]] I might have wanted the confidence or the decision to
 speak to him, and might have put it off until next day, and might have
 lost him. But, in the then condition of my mind, where the play was
 still running high, his former protection of me appeared so deserving
-of my gratitude, and my old love for him overflowed my breast so freshly
+of my gratitude, and my old [[Love|love]] for him overflowed my breast so freshly
 and spontaneously, that I went up to him at once, with a fast-beating
 heart, and said:
 
@@ -660,7 +660,7 @@ recognition in his face.
 ‘My God!’ he suddenly exclaimed. ‘It’s little Copperfield!’
 
 I grasped him by both hands, and could not let them go. But for very
-shame, and the fear that it might displease him, I could have held him
+shame, and the [[Fear|fear]] that it might displease him, I could have held him
 round the neck and cried.
 
 ‘I never, never, never was so glad! My dear Steerforth, I am so
@@ -670,7 +670,7 @@ overjoyed to see you!’
 ‘Why, Copperfield, old boy, don’t be overpowered!’ And yet he was glad,
 too, I thought, to see how the delight I had in meeting him affected me.
 
-I brushed away the tears that my utmost resolution had not been able to
+I brushed away the [[Tears|tears]] that my utmost resolution had not been able to
 keep back, and I made a clumsy laugh of it, and we sat down together,
 side by side.
 
@@ -679,10 +679,10 @@ shoulder.
 
 ‘I came here by the Canterbury coach, today. I have been adopted by
 an aunt down in that part of the country, and have just finished my
-education there. How do YOU come to be here, Steerforth?’
+[[Education|education]] there. How do YOU come to be here, Steerforth?’
 
-‘Well, I am what they call an Oxford man,’ he returned; ‘that is to say,
-I get bored to death down there, periodically--and I am on my way now to
+‘[[Well]], I am what they call an [[Oxford]] man,’ he returned; ‘that is to say,
+I get bored to [[Death|death]] down there, periodically--and I am on my way now to
 my mother’s. You’re a devilish amiable-looking fellow, Copperfield. Just
 what you used to be, now I look at you! Not altered in the least!’
 
@@ -692,19 +692,19 @@ He laughed as he ran his hand through the clustering curls of his hair,
 and said gaily:
 
 ‘Yes, I am on an expedition of duty. My mother lives a little way out of
-town; and the roads being in a beastly condition, and our house tedious
+town; and the roads being in a beastly condition, and our [[house]] tedious
 enough, I remained here tonight instead of going on. I have not been in
 town half-a-dozen hours, and those I have been dozing and grumbling away
 at the play.’
 
-‘I have been at the play, too,’ said I. ‘At Covent Garden. What a
+‘I have been at the play, too,’ said I. ‘At Covent [[Garden]]. What a
 delightful and magnificent entertainment, Steerforth!’
 
 Steerforth laughed heartily.
 
 ‘My dear young Davy,’ he said, clapping me on the shoulder again, ‘you
 are a very Daisy. The daisy of the field, at sunrise, is not fresher
-than you are. I have been at Covent Garden, too, and there never was a
+than you are. I have been at Covent [[Garden]], too, and there never was a
 more miserable business. Holloa, you sir!’
 
 This was addressed to the waiter, who had been very attentive to our
@@ -714,10 +714,10 @@ recognition, at a distance, and now came forward deferentially.
 
 ‘Beg your pardon, sir?’
 
-‘Where does he sleep? What’s his number? You know what I mean,’ said
+‘Where does he [[Sleep|sleep]]? What’s his number? You know what I mean,’ said
 Steerforth.
 
-‘Well, sir,’ said the waiter, with an apologetic air. ‘Mr. Copperfield
+‘[[Well]], sir,’ said the waiter, with an apologetic air. ‘Mr. Copperfield
 is at present in forty-four, sir.’
 
 ‘And what the devil do you mean,’ retorted Steerforth, ‘by putting Mr.
@@ -732,13 +732,13 @@ sir.’
 The waiter immediately withdrew to make the exchange. Steerforth, very
 much amused at my having been put into forty-four, laughed again, and
 clapped me on the shoulder again, and invited me to breakfast with him
-next morning at ten o’clock--an invitation I was only too proud and
+next morning at ten o’[[Clock|clock]]--an invitation I was only too proud and
 happy to accept. It being now pretty late, we took our candles and went
 upstairs, where we parted with friendly heartiness at his door, and
 where I found my new room a great improvement on my old one, it not
 being at all musty, and having an immense four-post bedstead in it,
 which was quite a little landed estate. Here, among pillows enough for
 six, I soon fell asleep in a blissful condition, and dreamed of ancient
-Rome, Steerforth, and friendship, until the early morning coaches,
+Rome, Steerforth, and [[Friendship|friendship]], until the early morning coaches,
 rumbling out of the archway underneath, made me dream of thunder and the
 gods.

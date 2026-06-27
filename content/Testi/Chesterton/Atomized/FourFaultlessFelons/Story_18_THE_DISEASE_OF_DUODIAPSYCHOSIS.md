@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS"
+title: "[[FourFaultlessFelons]] — THE DISEASE OF DUODIAPSYCHOSIS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,7 +24,7 @@ shades and different degrees of indignation, only on the present occasion
 
 she had them all at once. She was angry because a visitor turned up at
 
-that time of night and entered by the window instead of the door; she was
+that [[Time|time]] of [[Night|night]] and entered by the [[Window|window]] instead of the door; she was
 
 angry that a person for whom she had felt some regard should behave like
 
@@ -52,9 +52,9 @@ unfinished pictures and peered into it. Then, equally feverishly, he
 
 examined another and then another. Then he turned on her a face about as
 
-reassuring as a skull and cross-bones, and said: "I am greatly grieved to
+reassuring as a skull and [[Cross|cross]]-bones, and said: "I am greatly grieved to
 
-say it, Miss Windrush. In plain words, your father is suffering from
+say it, Miss Windrush. In plain words, your father is [[Suffering|suffering]] from
 
 Duodiapsychosis."
 
@@ -88,9 +88,9 @@ wanted to live in a tree like a monkey?"
 
 painful business; but the hypothesis clearly covers the facts. Why should
 
-he wish always to be alone with the tree, unless his dealings with it
+he wish always to be [[Alone|alone]] with the tree, unless his dealings with it
 
-were more grotesque than seemed suitable to his social dignity?--you know
+were more [[Grotesque|grotesque]] than seemed suitable to his social dignity?--you know
 
 what this suburb is like! For that matter, his own horror of the suburb,
 
@@ -102,15 +102,15 @@ except the same Arboreal Atavism? For that matter, what else can explain
 
 the whole story-the story of how he found the tree and fixed on the tree?
 
-What was the nature of that ungovernable craving that first surged up in
+What was the [[Nature|nature]] of that ungovernable craving that first surged up in
 
 him at the very sight of the tree? An appetite as powerful as that must
 
-have come out of the depths of nature, out of the very roots of the
+have come out of the depths of [[Nature|nature]], out of the very roots of the
 
 evolutionary origin of man. It can only have been an anthropoid appetite.
 
-It is a melancholy but most convincing example of Doone's Law."
+It is a [[Melancholy|melancholy]] but most convincing example of Doone's Law."
 
 
 
@@ -124,7 +124,7 @@ never seen a tree before?"
 
 voice, "the peculiar features of the tree. It might have been designed to
 
-stimulate the faint memories of the original home of man. It is a tree
+stimulate the faint memories of the original [[Home|home]] of man. It is a tree
 
 that seems all branches, of which the very roots are like branches, and
 
@@ -204,7 +204,7 @@ canvases and frames of brown paper that hung above them, on which were
 
 traced in vortical lines and lurid colours the visions of the
 
-ambidextrous artist.
+ambidextrous [[artist]].
 
 
 
@@ -216,15 +216,15 @@ again and again like a monomania; for a tree has a radiating and
 
 centrifugal pattern that suggests the waving of both hands at once, with
 
-a brush in each. But a tree is not a wheel-there would be less harm in a
+a brush in each. But a tree is not a [[Wheel|wheel]]-there would be less harm in a
 
-wheel. Though a tree has branches on each side, they are not the same on
+[[Wheel|wheel]]. Though a tree has branches on each side, they are not the same on
 
 each side. And that is where the curse and the creeping peril begins."
 
 
 
-This time there was a deadly silence, which he himself broke by going on
+This [[Time|time]] there was a deadly [[Silence|silence]], which he himself broke by going on
 
 with the lecture.
 
@@ -232,7 +232,7 @@ with the lecture.
 
 "The attempt to render the variation of branches by simultaneous
 
-ambidextrous action leads to a dissociation of cerebral unity and
+ambidextrous action leads to a dissociation of cerebral [[unity]] and
 
 continuity, a breach of responsible moral control and co-ordinated
 
@@ -240,9 +240,9 @@ consecutive conservation--"
 
 
 
-In the black storm of her mind she had a lightning blaze of intuition and
+In the black [[Storm|storm]] of her mind she had a [[Lightning|lightning]] blaze of intuition and
 
-said: "Is this a sort of revenge?"
+said: "Is this a sort of [[Revenge|revenge]]?"
 
 
 
@@ -258,7 +258,7 @@ mountebank?" she cried in a tempest of indescribable fury. "Do you think
 
 I don't know why you're trying to make out my father isn't responsible?
 
-Because I told you he could turn you out of the house . . because ..."
+Because I told you he could turn you out of the [[house]] . . because ..."
 
 
 
@@ -278,7 +278,7 @@ stiff as a corpse and then suddenly the corpse came to life.
 
 "Yes!" he cried, leaping up. "You are right! It is you. It is you all the
 
-time! How can I leave you alone with him? You must believe me! I tell you
+[[Time|time]]! How can I leave you [[Alone|alone]] with him? You must believe me! I tell you
 
 the man is mad." He cried out suddenly in a new and ringing voice: "I
 
@@ -290,11 +290,11 @@ that?"
 
 She was so astounded at this burst of passion after all the pedantry,
 
-that for the first time something broke or wavered in her hard voice and
+that for the first [[Time|time]] something broke or wavered in her hard voice and
 
 she could only say: "If it is me you are thinking about, you must leave
 
-him alone."
+him [[Alone|alone]]."
 
 
 
@@ -312,13 +312,13 @@ have a duty to the public."
 
 
 
-And then, in the silence that followed, they both heard the sounds which
+And then, in the [[Silence|silence]] that followed, they both heard the sounds which
 
-could alone, perhaps, have aroused them from their dumb mutual defiance.
+could [[Alone|alone]], perhaps, have aroused them from their dumb mutual defiance.
 
 A long, light and swinging step was heard down the corridors, and the
 
-light humming of some post-prandial song, told Enid with sufficient
+light humming of some post-prandial [[Song|song]], told Enid with sufficient
 
 clearness who had returned, and the next moment Walter Windrush stood in
 
@@ -328,25 +328,25 @@ a tall and handsome old gentleman, and before him the figure of the
 
 sullen doctor looked not only square but almost squat. But when the
 
-artist looked across his studio, he saw the windows open and the
+[[artist]] looked across his studio, he saw the windows open and the
 
 festivity faded from his face.
 
 
 
-"I have just walked through your garden," said the doctor in a soft
+"I have just walked through your [[Garden|garden]]," said the doctor in a soft
 
 voice.
 
 
 
-"Then you will kindly walk out of my house," said the artist.
+"Then you will kindly walk out of my [[house]]," said the [[artist]].
 
 
 
 He had turned pale with anger or some other passion, but he spoke clearly
 
-and firmly. After a silence he said: "I must ask you to cease from any
+and firmly. After a [[Silence|silence]] he said: "I must ask you to cease from any
 
 communications with me and my family."
 
@@ -360,9 +360,9 @@ beyond his control.
 
 
 
-"You say I am to go out of this house. I say it is you who shall go out
+"You say I am to go out of this [[house]]. I say it is you who shall go out
 
-of this house!"
+of this [[house]]!"
 
 
 
@@ -386,23 +386,23 @@ Of the next frightful forty-eight hours in which the threat was carried
 
 out with all its consequences, Enid could never remember many details.
 
-But she remembered some nameless hour of night or morning that seemed but
+But she remembered some nameless hour of [[Night|night]] or morning that seemed but
 
-a part of a sleepless night, when she stood on the doorstep and looked
+a part of a sleepless [[Night|night]], when she stood on the doorstep and looked
 
 wildly up and down the street, as if expecting her neighbours to rescue
 
-her from a house on fire. And there crept upon her the cold certainty,
+her from a [[house]] on [[Fire|fire]]. And there crept upon her the cold certainty,
 
-more cruel than any fire, that in this sort of calamity there was no hope
+more cruel than any [[Fire|fire]], that in this sort of calamity there was no [[Hope|hope]]
 
-from neighbours, nor any appeal against the machine of modern oppression.
+from neighbours, nor any appeal against the [[Machine|machine]] of modern oppression.
 
 She saw a policeman standing near the next lamp-post, outside the next
 
-house. She thought of calling to the policeman, as if to save her from a
+[[house]]. She thought of calling to the policeman, as if to save her from a
 
-burglar, and then she realized that she might as well call to the
+burglar, and then she realized that she might as [[Well|well]] call to the
 
 lamp-post. If two doctors chose to testify that Walter Windrush was mad,
 
@@ -486,7 +486,7 @@ rather eagerly followed her into the street. The policeman saluted him;
 
 there was nothing much in that; policemen saluted her father and other
 
-well-known residents. But she did think it odd that he said to the
+[[Well|well]]-known residents. But she did think it odd that he said to the
 
 policeman, as he went off: "There's one thing more I must make sure of.
 
@@ -494,17 +494,17 @@ Unless I wire, things can go forward here as arranged."
 
 
 
-When she came back to her own house, she knew it was something worse than
+When she came back to her own [[house]], she knew it was something worse than
 
-a house of death. There was a black taxicab waiting outside it, which
+a [[house]] of [[Death|death]]. There was a black taxicab waiting outside it, which
 
 made her think of a funeral, almost with envy. If she had known who was
 
 already in the taxicab, she might have stopped and made a scene in the
 
-street. As it was, she burst into the house and found two grave,
+street. As it was, she burst into the [[house]] and found two [[Grave|grave]],
 
-dark-clad doctors sitting in the light of the bow-window in front, with a
+dark-clad doctors sitting in the light of the bow-[[Window|window]] in front, with a
 
 table between them, covered with official documents and pen and ink. One
 
@@ -530,7 +530,7 @@ of subconsciousness, or horizontal division of the mind, has been
 
 superseded by vertical division of the mind. But the layman has hardly
 
-heard yet of the new double or ambidextrous consciousness."
+heard yet of the new [[Double|double]] or ambidextrous consciousness."
 
 
 
@@ -542,7 +542,7 @@ He had a very soothing voice, and with it he earnestly did his best to
 
 soothe Enid Windrush. He really seemed to be profoundly touched with the
 
-tragedy of her position.
+[[Tragedy|tragedy]] of her position.
 
 
 
@@ -554,13 +554,13 @@ involved will be done. I will not disguise from you that your father is
 
 already in the cab outside, under the care of tactful and humane
 
-attendants. I will not disguise from you that some deception, such as has
+attendants. I will not disguise from you that some [[Deception|deception]], such as has
 
 to be used to the sick, has been employed in prevailing upon him, but I
 
-told him no more than the truth in saying that he was going with his best
+told him no more than the [[Truth|truth]] in saying that he was going with his best
 
-friends. These things are very terrible, my child, but perhaps we may all
+friends. These things are very terrible, my [[Child|child]], but perhaps we may all
 
 draw nearer to each other in--"
 
@@ -608,7 +608,7 @@ impatience. But, even as they had turned away from him, Doone had signed
 
 the paper and Judson snatched it up with furious haste and ran out of the
 
-house.
+[[house]].
 
 
 
@@ -624,11 +624,11 @@ leap of joy.
 
 
 
-Some time after-she could not have said how long-she still sat staring
+Some [[Time|time]] after-she could not have said how long-she still sat staring
 
-out of the bow-window into the empty street. She had reached that state
+out of the bow-[[Window|window]] into the empty street. She had reached that state
 
-when the soul feels that nothing worse can happen in the world. But she
+when the [[Soul|soul]] feels that nothing worse can happen in the world. But she
 
 was wrong. For it was only a few minutes later that two policemen and a
 

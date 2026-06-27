@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 2 (part 7)"
+title: "[[manalive]] — Chapter 2 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -23,7 +23,7 @@ and we found ourselves looking down into a lamp-lit sitting room,
 of the sort that in large houses often leads out of a bedroom,
 and is an adjunct to it.  Light thus breaking from beneath
 our feet like a soundless explosion, showed that the trapdoor
-just lifted was clogged with dust and rust, and had doubtless
+just lifted was clogged with [[Dust|dust]] and rust, and had doubtless
 been long disused until the advent of my enterprising friend.
 But I did not look at this long, for the sight of the shining
 room underneath us had an almost unnatural attractiveness.
@@ -60,13 +60,13 @@ and stood looking at me, `you've thought about that, too.'
 
 "`I can't express a millionth part of what I've thought of,' I cried,
 `but it's something like this... oh, can't you see it?  Why are children
-not afraid of Santa Claus, though he comes like a thief in the night?
+not afraid of Santa Claus, though he comes like a thief in the [[Night|night]]?
 He is permitted secrecy, trespass, almost treachery--because there are
 more toys where he has been.  What should we feel if there were less?
 Down what chimney from hell would come the goblin that should take
 away the children's balls and dolls while they slept?  Could a Greek
-tragedy be more gray and cruel than that daybreak and awakening?
-Dog-stealer, horse-stealer, man-stealer--can you think of anything
+[[Tragedy|tragedy]] be more gray and cruel than that daybreak and awakening?
+Dog-stealer, [[Horse|horse]]-stealer, man-stealer--can you think of anything
 so base as a toy-stealer?'
 
 "The burglar, as if absently, took a large revolver from his pocket and laid
@@ -77,7 +77,7 @@ fixed on my face.
 it's really wrong.  The goods of the unhappy children of men
 should be really respected because of their worthlessness.
 I know Naboth's vineyard is as painted as Noah's Ark.  I know
-Nathan's ewe-lamb is really a woolly baa-lamb on a wooden stand.
+Nathan's ewe-[[Lamb|lamb]] is really a woolly baa-[[Lamb|lamb]] on a wooden stand.
 That is why I could not take them away.  I did not mind so much,
 as long as I thought of men's things as their valuables;
 but I dare not put a hand upon their vanities.'
@@ -96,7 +96,7 @@ Don't you see there's something sacred in the silliness of such things?'
 "`It's not the last bottle,' answered my criminal calmly;
 `there's plenty more in the cellar.'
 
-"`You know the house, then?'  I said.
+"`You know the [[house]], then?'  I said.
 
 "`Too well,' he answered, with a sadness so strange as to have
 something eerie about it.  `I am always trying to forget what I know--
@@ -130,10 +130,10 @@ and talking with the same rather creepy confidentialness.
 I come in through skylights and trapdoors to find him;
 but whenever I find him--he is doing what I am doing.'
 
-"I sprang to my feet with a thrill of fear.  `There is some one coming,'
+"I sprang to my feet with a thrill of [[Fear|fear]].  `There is some one coming,'
 I cried, and my cry had something of a shriek in it.  Not from
 the stairs below, but along the passage from the inner bedchamber
 (which seemed somehow to make it more alarming), footsteps were
-coming nearer.  I am quite unable to say what mystery, or monster,
-or double, I expected to see when the door was pushed open from within.
+coming nearer.  I am quite unable to say what mystery, or [[Monster|monster]],
+or [[Double|double]], I expected to see when the door was pushed open from within.
 I am only quite certain that I did not expect to see what I did see.

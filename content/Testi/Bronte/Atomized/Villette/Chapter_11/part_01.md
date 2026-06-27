@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 11 (part 1)"
+title: "[[Villette]] — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,12 +18,12 @@ CHAPTER XI.
 THE PORTRESS’S CABINET.
 
 
-It was summer and very hot. Georgette, the youngest of Madame Beck’s
+It was [[Summer|summer]] and very hot. Georgette, the youngest of [[Madame Beck]]’s
 children, took a fever. Désirée, suddenly cured of her ailments, was,
 together with Fifine, packed off to Bonne-Maman, in the country, by way
 of precaution against infection. Medical aid was now really needed, and
 Madame, choosing to ignore the return of Dr. Pillule, who had been at
-home a week, conjured his English rival to continue his visits. One or
+[[Home|home]] a week, conjured his English rival to continue his visits. One or
 two of the pensionnaires complained of headache, and in other respects
 seemed slightly to participate in Georgette’s ailment. “Now, at last,”
 I thought, “Dr. Pillule must be recalled: the prudent directress will
@@ -52,7 +52,7 @@ She met the alarmed parents with a good-humoured, easy grace for nobody
 matched her in, I know not whether to say the possession or the
 assumption of a certain “rondeur et franchise de bonne femme;” which on
 various occasions gained the point aimed at with instant and complete
-success, where severe gravity and serious reasoning would probably have
+[[success]], where severe gravity and serious reasoning would probably have
 failed.
 
 “Ce pauvre Docteur Jean!” she would say, chuckling and rubbing joyously
@@ -77,8 +77,8 @@ occasion in a spirit of motherly partiality: she came off with flying
 colours; people liked her as a directress better than ever.
 
 To this day I never fully understood why she thus risked her interest
-for the sake of Dr. John. What people said, of course I know well: the
-whole house—pupils, teachers, servants included—affirmed that she was
+for the sake of Dr. John. What people said, of course I know [[Well|well]]: the
+whole [[house]]—pupils, teachers, servants included—affirmed that she was
 going to marry him. So they had settled it; difference of age seemed to
 make no obstacle in their eyes: it was to be so.
 
@@ -86,7 +86,7 @@ It must be admitted that appearances did not wholly discountenance this
 idea; Madame seemed so bent on retaining his services, so oblivious of
 her former protégé, Pillule. She made, too, such a point of personally
 receiving his visits, and was so unfailingly cheerful, blithe, and
-benignant in her manner to him. Moreover, she paid, about this time,
+benignant in her manner to him. Moreover, she paid, about this [[Time|time]],
 marked attention to dress: the morning dishabille, the nightcap and
 shawl, were discarded; Dr. John’s early visits always found her with
 auburn braids all nicely arranged, silk dress trimly fitted on, neat
@@ -94,7 +94,7 @@ laced brodequins in lieu of slippers: in short the whole toilette
 complete as a model, and fresh as a flower. I scarcely think, however,
 that her intention in this went further than just to show a very
 handsome man that she was not quite a plain woman; and plain she was
-not. Without beauty of feature or elegance of form, she pleased.
+not. Without [[Beauty|beauty]] of feature or elegance of form, she pleased.
 Without youth and its gay graces, she cheered. One never tired of
 seeing her: she was never monotonous, or insipid, or colourless, or
 flat. Her unfaded hair, her eye with its temperate blue light, her
@@ -102,17 +102,17 @@ cheek with its wholesome fruit-like bloom—these things pleased in
 moderation, but with constancy.
 
 Had she, indeed, floating visions of adopting Dr. John as a husband,
-taking him to her well-furnished home, endowing him with her savings,
+taking him to her [[Well|well]]-furnished [[Home|home]], endowing him with her savings,
 which were said to amount to a moderate competency, and making him
 comfortable for the rest of his life? Did Dr. John suspect her of such
 visions? I have met him coming out of her presence with a mischievous
 half-smile about his lips, and in his eyes a look as of masculine
-vanity elate and tickled. With all his good looks and good-nature, he
+[[Vanity|vanity]] elate and tickled. With all his good looks and good-[[Nature|nature]], he
 was not perfect; he must have been very imperfect if he roguishly
 encouraged aims he never intended to be successful. But did he not
 intend them to be successful? People said he had no money, that he was
 wholly dependent upon his profession. Madame—though perhaps some
 fourteen years his senior—was yet the sort of woman never to grow old,
 never to wither, never to break down. They certainly were on good
-terms. _He_ perhaps was not in love; but how many people ever _do_
-love, or at least marry for love, in this world. We waited the end.
+terms. _He_ perhaps was not in [[Love|love]]; but how many people ever _do_
+[[Love|love]], or at least marry for [[Love|love]], in this world. We waited the end.

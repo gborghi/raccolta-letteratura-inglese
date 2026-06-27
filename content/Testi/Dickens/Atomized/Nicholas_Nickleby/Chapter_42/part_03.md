@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 42 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,7 +26,7 @@ than otherwise.
 ‘Oh yes,’ rejoined Mrs. Browdie. ‘John ha’ done. John fixed tonight,
 because she had settled that she would go and drink tea with her father.
 And to make quite sure of there being nothing amiss, and of your being
-quite alone with us, he settled to go out there and fetch her home.’
+quite [[Alone|alone]] with us, he settled to go out there and fetch her [[Home|home]].’
 
 ‘That was a very good arrangement,’ said Nicholas, ‘though I am sorry to
 be the occasion of so much trouble.’
@@ -59,8 +59,8 @@ the pair of Wackfords.
 
 ‘This is the hend, is it?’ continued Miss Squeers, who, being excited,
 aspirated her h’s strongly; ‘this is the hend, is it, of all my
-forbearance and friendship for that double-faced thing--that viper,
-that--that--mermaid?’ (Miss Squeers hesitated a long time for this
+forbearance and [[Friendship|friendship]] for that [[Double|double]]-faced thing--that viper,
+that--that--[[Mermaid|mermaid]]?’ (Miss Squeers hesitated a long [[Time|time]] for this
 last epithet, and brought it out triumphantly at last, as if it quite
 clinched the business.) ‘This is the hend, is it, of all my bearing with
 her deceitfulness, her lowness, her falseness, her laying herself out to
@@ -70,7 +70,7 @@ my--for my--’
 ‘Gender,’ suggested Mr. Squeers, regarding the spectators with a
 malevolent eye--literally A malevolent eye.
 
-‘Yes,’ said Miss Squeers; ‘but I thank my stars that my ma is of the
+‘Yes,’ said Miss Squeers; ‘but I thank my [[Stars|stars]] that my ma is of the
 same--’
 
 ‘Hear, hear!’ remarked Mr. Squeers; ‘and I wish she was here to have a
@@ -117,12 +117,12 @@ inquired Mrs. Browdie, with great suavity of manner.
 
 ‘Oh, ma’am, how witty you are,’ retorted Miss Squeers with a low curtsy,
 ‘almost as witty, ma’am, as you are clever. How very clever it was in
-you, ma’am, to choose a time when I had gone to tea with my pa, and
+you, ma’am, to choose a [[Time|time]] when I had gone to tea with my pa, and
 was sure not to come back without being fetched! What a pity you never
 thought that other people might be as clever as yourself and spoil your
 plans!’
 
-‘You won’t vex me, child, with such airs as these,’ said the late Miss
+‘You won’t vex me, [[Child|child]], with such airs as these,’ said the late Miss
 Price, assuming the matron.
 
 ‘Don’t MISSIS me, ma’am, if you please,’ returned Miss Squeers, sharply.
@@ -137,8 +137,8 @@ to presume to meddle with my Christian name. Even my pity shall never
 make me forget what’s due to myself, Mr. Browdie. ‘Tilda,’ said Miss
 Squeers, with such a sudden accession of violence that John started in
 his boots, ‘I throw you off for ever, miss. I abandon you. I renounce
-you. I wouldn’t,’ cried Miss Squeers in a solemn voice, ‘have a child
-named ‘Tilda, not to save it from its grave.’
+you. I wouldn’t,’ cried Miss Squeers in a solemn voice, ‘have a [[Child|child]]
+named ‘Tilda, not to save it from its [[Grave|grave]].’
 
-‘As for the matther o’ that,’ observed John, ‘it’ll be time eneaf to
+‘As for the matther o’ that,’ observed John, ‘it’ll be [[Time|time]] eneaf to
 think aboot neaming of it when it cooms.’

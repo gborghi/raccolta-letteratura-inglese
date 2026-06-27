@@ -35,12 +35,12 @@ since a small part of his income was derived from the pilotage of timid
 women (mostly of a full habit and past the middle term of life) from
 Tellson’s side of the tides to the opposite shore. Brief as such
 companionship was in every separate instance, Mr. Cruncher never failed
-to become so interested in the lady as to express a strong desire to
-have the honour of drinking her very good health. And it was from
+to become so interested in the lady as to express a strong [[Desire|desire]] to
+have the [[Honour|honour]] of drinking her very good health. And it was from
 the gifts bestowed upon him towards the execution of this benevolent
 purpose, that he recruited his finances, as just now observed.
 
-Time was, when a poet sat upon a stool in a public place, and mused in
+[[Time]] was, when a poet sat upon a stool in a public place, and mused in
 the sight of men. Mr. Cruncher, sitting on a stool in a public place,
 but not being a poet, mused as little as possible, and looked about him.
 
@@ -117,14 +117,14 @@ that the crowd caught it up with eagerness, and loudly repeating the
 suggestion to have ’em out, and to pull ’em out, mobbed the two vehicles
 so closely that they came to a stop. On the crowd’s opening the coach
 doors, the one mourner scuffled out by himself and was in their hands
-for a moment; but he was so alert, and made such good use of his time,
+for a moment; but he was so alert, and made such good use of his [[Time|time]],
 that in another moment he was scouring away up a bye-street, after
 shedding his cloak, hat, long hatband, white pocket-handkerchief, and
-other symbolical tears.
+other symbolical [[Tears|tears]].
 
 These, the people tore to pieces and scattered far and wide with great
 enjoyment, while the tradesmen hurriedly shut up their shops; for a
-crowd in those times stopped at nothing, and was a monster much dreaded.
+crowd in those times stopped at nothing, and was a [[Monster|monster]] much dreaded.
 They had already got the length of opening the hearse to take the coffin
 out, when some brighter genius proposed instead, its being escorted to
 its destination amidst general rejoicing. Practical suggestions being
@@ -132,6 +132,6 @@ much needed, this suggestion, too, was received with acclamation, and
 the coach was immediately filled with eight inside and a dozen out,
 while as many people got on the roof of the hearse as could by any
 exercise of ingenuity stick upon it. Among the first of these volunteers
-was Jerry Cruncher himself, who modestly concealed his spiky head from
+was [[Jerry Cruncher]] himself, who modestly concealed his spiky head from
 the observation of Tellson’s, in the further corner of the mourning
 coach.

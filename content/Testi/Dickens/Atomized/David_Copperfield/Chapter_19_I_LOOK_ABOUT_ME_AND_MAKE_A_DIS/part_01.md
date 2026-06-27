@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)"
+title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER 19. I LOOK ABOUT ME, AND MAKE A DISCOVERY
 
 
 I am doubtful whether I was at heart glad or sorry, when my school-days
-drew to an end, and the time came for my leaving Doctor Strong’s. I had
+drew to an end, and the [[Time|time]] came for my leaving Doctor Strong’s. I had
 been very happy there, I had a great attachment for the Doctor, and I
 was eminent and distinguished in that little world. For these reasons
 I was sorry to go; but for other reasons, unsubstantial enough, I
@@ -36,7 +36,7 @@ juvenile experiences went for little or nothing then; and that life was
 more like a great fairy story, which I was just about to begin to read,
 than anything else.
 
-My aunt and I had held many grave deliberations on the calling to which
+My aunt and I had held many [[Grave|grave]] deliberations on the calling to which
 I should be devoted. For a year or more I had endeavoured to find a
 satisfactory answer to her often-repeated question, ‘What I would like
 to be?’ But I had no particular liking, that I could discover, for
@@ -44,7 +44,7 @@ anything. If I could have been inspired with a knowledge of the science
 of navigation, taken the command of a fast-sailing expedition, and gone
 round the world on a triumphant voyage of discovery, I think I might
 have considered myself completely suited. But, in the absence of any
-such miraculous provision, my desire was to apply myself to some pursuit
+such miraculous provision, my [[Desire|desire]] was to apply myself to some pursuit
 that would not lie too heavily upon her purse; and to do my duty in it,
 whatever it might be.
 
@@ -59,7 +59,7 @@ rattling his money.
 ‘Trot, I tell you what, my dear,’ said my aunt, one morning in the
 Christmas season when I left school: ‘as this knotty point is still
 unsettled, and as we must not make a mistake in our decision if we can
-help it, I think we had better take a little breathing-time. In the
+help it, I think we had better take a little breathing-[[Time|time]]. In the
 meanwhile, you must try to look at it from a new point of view, and not
 as a schoolboy.’
 
@@ -75,28 +75,28 @@ called.
 
 ‘Of all things in the world, aunt, I should like it best!’
 
-‘Well,’ said my aunt, ‘that’s lucky, for I should like it too. But
+‘[[Well]],’ said my aunt, ‘that’s lucky, for I should like it too. But
 it’s natural and rational that you should like it. And I am very
-well persuaded that whatever you do, Trot, will always be natural and
+[[Well|well]] persuaded that whatever you do, Trot, will always be natural and
 rational.’
 
-‘I hope so, aunt.’
+‘I [[Hope|hope]] so, aunt.’
 
-‘Your sister, Betsey Trotwood,’ said my aunt, ‘would have been as
+‘Your sister, [[Betsey Trotwood]],’ said my aunt, ‘would have been as
 natural and rational a girl as ever breathed. You’ll be worthy of her,
 won’t you?’
 
-‘I hope I shall be worthy of YOU, aunt. That will be enough for me.’
+‘I [[Hope|hope]] I shall be worthy of YOU, aunt. That will be enough for me.’
 
-‘It’s a mercy that poor dear baby of a mother of yours didn’t live,’
+‘It’s a [[Mercy|mercy]] that poor dear baby of a mother of yours didn’t live,’
 said my aunt, looking at me approvingly, ‘or she’d have been so vain
-of her boy by this time, that her soft little head would have been
+of her boy by this [[Time|time]], that her soft little head would have been
 completely turned, if there was anything of it left to turn.’ (My aunt
 always excused any weakness of her own in my behalf, by transferring it
 in this way to my poor mother.) ‘Bless me, Trotwood, how you do remind
 me of her!’
 
-‘Pleasantly, I hope, aunt?’ said I.
+‘Pleasantly, I [[Hope|hope]], aunt?’ said I.
 
 ‘He’s as like her, Dick,’ said my aunt, emphatically, ‘he’s as like her,
 as she was that afternoon before she began to fret--bless my heart, he’s
@@ -109,7 +109,7 @@ as like her, as he can look at me out of his two eyes!’
 ‘He is very like David!’ said Mr. Dick.
 
 ‘But what I want you to be, Trot,’ resumed my aunt, ‘--I don’t mean
-physically, but morally; you are very well physically--is, a firm
+physically, but morally; you are very [[Well|well]] physically--is, a firm
 fellow. A fine firm fellow, with a will of your own. With resolution,’
 said my aunt, shaking her cap at me, and clenching her hand. ‘With
 determination. With character, Trot--with strength of character that is
@@ -121,10 +121,10 @@ I intimated that I hoped I should be what she described.
 
 ‘That you may begin, in a small way, to have a reliance upon yourself,
 and to act for yourself,’ said my aunt, ‘I shall send you upon your
-trip, alone. I did think, once, of Mr. Dick’s going with you; but, on
+trip, [[Alone|alone]]. I did think, once, of Mr. Dick’s going with you; but, on
 second thoughts, I shall keep him to take care of me.’
 
-Mr. Dick, for a moment, looked a little disappointed; until the honour
+Mr. Dick, for a moment, looked a little disappointed; until the [[Honour|honour]]
 and dignity of having to take care of the most wonderful woman in the
 world, restored the sunshine to his face.
 
@@ -133,15 +133,15 @@ world, restored the sunshine to his face.
 ‘Oh, certainly,’ said Mr. Dick, in a hurry, ‘I intend, Trotwood, to get
 that done immediately--it really must be done immediately! And then it
 will go in, you know--and then--’ said Mr. Dick, after checking himself,
-and pausing a long time, ‘there’ll be a pretty kettle of fish!’
+and pausing a long [[Time|time]], ‘there’ll be a pretty kettle of fish!’
 
 In pursuance of my aunt’s kind scheme, I was shortly afterwards fitted
 out with a handsome purse of money, and a portmanteau, and tenderly
 dismissed upon my expedition. At parting, my aunt gave me some good
 advice, and a good many kisses; and said that as her object was that I
 should look about me, and should think a little, she would recommend me
-to stay a few days in London, if I liked it, either on my way down into
+to stay a few days in [[London]], if I liked it, either on my way down into
 Suffolk, or in coming back. In a word, I was at liberty to do what I
 would, for three weeks or a month; and no other conditions were imposed
-upon my freedom than the before-mentioned thinking and looking about me,
+upon my [[Freedom|freedom]] than the before-mentioned thinking and looking about me,
 and a pledge to write three times a week and faithfully report myself.

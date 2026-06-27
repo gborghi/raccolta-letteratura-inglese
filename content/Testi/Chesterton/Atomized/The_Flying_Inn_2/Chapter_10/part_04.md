@@ -39,23 +39,23 @@ by children's services run on the most ruthless lines
 of orthodoxy and by the League of the Red Rosette,
 the formidable atheist and anarchist organization.  As
 if this were not enough to swell the whirlpool of
-fanaticism, the old popular controversy between the Milnian
+[[Fanaticism|fanaticism]], the old popular controversy between the Milnian
 and the Complete Sublapsarians broke out again on
 the fated beach.  It is natural to conjecture that in
 the thickening atmosphere of theology in Pebblewick,
 some controversialist quoted the text 'An evil and
 adulterous generation _seek for a sign_.  But no sign
-shall be given it save the sign of the prophet Jonas.'
+shall be given it save the sign of the [[Prophet|prophet]] Jonas.'
 
 "A mind like that of Pooke will find it hard to
 credit, but it seems certain that the effect of this text
 on the ignorant peasantry of southern England was
 actually to make them go about looking for a sign,
 in the sense of those old tavern signs now so happily
-disappearing.  The 'sign of the Prophet Jonas,' they
-somehow translated in their stunted minds into a sign-board of the ship out of which Jonah was thrown.
+disappearing.  The 'sign of the [[Prophet]] Jonas,' they
+somehow translated in their stunted minds into a sign-board of the [[Ship|ship]] out of which Jonah was thrown.
 They went about literally looking for 'The Sign of
-the Ship,' and there are some cases of their suffering
+the [[Ship]],' and there are some cases of their [[Suffering|suffering]]
 Smail's Hallucination and actually seeing it.  The
 whole incident is a curious parallel to the Gospel
 narrative and a triumphant vindication of Huscher's law."

@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — An Apology For Buffoons (part 2)"
+title: "[[Well]] And Shallows — An Apology For Buffoons (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -18,7 +18,7 @@ I may be allowed to open my eyes for a moment at some of the
 literary models thus commended to me; but I shall soon close them
 again in healthful slumber.  And when the more refined critic
 implies that my own manner of writing almost makes him die,
-I think he over-estimates my power over life and death.
+I think he over-estimates my power over life and [[Death|death]].
 
 But I have begun with this personal example of alliteration;
 because a question like that of alliteration is not so
@@ -30,9 +30,9 @@ examples in which an exaggerated alliteration seems quite wrong.
 And yet those are exactly the examples which it would be
 most difficult for anybody to put right.  Byron (a splendid
 example of the sort of writer who does not bother much about
-avoiding anything) did not hesitate to say of his hero at Quatre Bras
+avoiding anything) did not hesitate to say of his [[Hero|hero]] at Quatre Bras
 that he "rushed into the field and foremost fighting fell."
-That is so extreme that we might well suppose it described
+That is so extreme that we might [[Well|well]] suppose it described
 the end of the life and adventures of Peter Piper.
 But I will trouble anybody to alter one word in the line
 so as to make it better; or even so as to make it sense.
@@ -42,7 +42,7 @@ the wrong words.  This is more often the case in
 connection with alliteration than many people imagine.
 I do not mean to claim any such exalted company when I say that,
 on this particular point of conduct, I agree with Byron.
-But Byron does not stand alone; Coleridge, a person of some culture,
+But Byron does not stand [[Alone|alone]]; Coleridge, a person of some culture,
 could burst out boisterously and without stopping for breath:
 
   The fair breeze blew, the white foam flew,
@@ -60,7 +60,7 @@ Dr. Johnson said, "The man who would make a pun would pick a pocket."
 How unlucky that the lexicographer and guardian of our language,
 in the very act of purging himself of puns, should have plunged
 so shamelessly deep into the mire of alliteration!  His example,
-in that very instance, would alone be enough to prove the first part
+in that very instance, would [[Alone|alone]] be enough to prove the first part
 of my case, even when it is brought forward against the second.
 Johnson spluttered out all those p's because he was an Englishman
 with a sense of the spirit and vigour of the English language;
@@ -89,7 +89,7 @@ disreputable company, as of course our refined stylists would do?
 I am presupposing that he is not out hunting for puns
 or similar monsters; I presuppose that he is walking
 down the street on some legitimate business of his own.
-But if the grotesque animal actually comes to meet him,
+But if the [[Grotesque|grotesque]] animal actually comes to meet him,
 if it stands obviously in his path, I think it is natural
 for him to take it in his stride.  At least it is natural
 to one sort of man engaged in one sort of business; and it is
@@ -126,7 +126,7 @@ when they offer themselves very obviously; as they often do.
 There are, I think in a general view, three different ways
 of dealing with them.  First, a man may reject them consciously;
 as the stylist of the serious school of Mr Wright does when
-he speaks of wind and H2O2, or instinctively writes, "In for a
+he speaks of [[Wind|wind]] and H2O2, or instinctively writes, "In for a
 penny in for a Treasury note of the value of twenty shillings."
 I do not say that these examples are taken from the text;
 but it is quite a mistake to suppose that such fastidiousness
@@ -144,7 +144,7 @@ alternative to "disown". Third, he may accept them unconsciously;
 and that is a great deal more dangerous than anything else,
 and a great deal more common than most people imagine.
 Nobody has yet made an adequate study of the effect of mere
-phonetics in confusing logic and misleading philosophers.
+phonetics in confusing [[logic]] and misleading philosophers.
 And the worst of that sort of danger is that it is deep and subtle.
 To decorate an argument with puns and verbal tricks may be
 a superficial folly.  But it is better than the sort of folly

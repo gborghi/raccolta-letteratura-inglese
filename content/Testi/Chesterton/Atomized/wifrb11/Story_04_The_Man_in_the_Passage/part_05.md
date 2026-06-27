@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage (part 5)"
+title: "[[wifrb11]] — The Man in the Passage (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -27,9 +27,9 @@ inside the outline.  The passage is of such length that anyone in
 the middle of it appears quite black against the light at the other end."
 The witness lowered his steady eyes once more and added: 
 "I had noticed the fact before, when Captain Cutler first entered it."
-There was another silence, and the judge leaned forward and made a note.
+There was another [[Silence|silence]], and the judge leaned forward and made a note.
 
-     "Well," said Sir Walter patiently, "what was the outline like?
+     "[[Well]]," said Sir Walter patiently, "what was the outline like?
 Was it, for instance, like the figure of the murdered woman?"
 
      "Not in the least," answered Seymour quietly.
@@ -38,7 +38,7 @@ Was it, for instance, like the figure of the murdered woman?"
 
      "It looked to me," replied the witness, "like a tall man."
 
-     Everyone in court kept his eyes riveted on his pen,
+     Everyone in [[Court|court]] kept his eyes riveted on his pen,
 or his umbrella-handle, or his book, or his boots or whatever
 he happened to be looking at.  They seemed to be holding their eyes
 away from the prisoner by main force; but they felt his figure in the dock,
@@ -66,7 +66,7 @@ after all."
 "After all!" he repeated slowly.  "So you did think at first
 it was a woman?"
 
-     Seymour looked troubled for the first time.  "It is hardly
+     Seymour looked troubled for the first [[Time|time]].  "It is hardly
 a point of fact," he said, "but if his lordship would like me
 to answer for my impression, of course I shall do so.  There was something
 about the thing that was not exactly a woman and yet was not quite a man;
@@ -90,9 +90,9 @@ with a too obvious snarl at the prisoner.  But the man was plainly shaken
 with sorrow and sincere anger, and Cowdray quickly excused him
 from confirming facts that were already fairly clear.
 
-     The defending counsel also was again brief in his cross-examination;
+     The defending counsel also was again brief in his [[Cross|cross]]-examination;
 although (as was his custom) even in being brief, he seemed to take
-a long time about it.  "You used a rather remarkable expression," he said,
+a long [[Time|time]] about it.  "You used a rather remarkable expression," he said,
 looking at Cutler sleepily.  "What do you mean by saying that
 it looked more like a beast than a man or a woman?"
 
@@ -116,25 +116,25 @@ was rather heavy and square than otherwise?"
 and rather faint voice.
 
      "Or again, he may not," said Mr Butler, and sat down suddenly
-for the second time.
+for the second [[Time|time]].
 
      The third, witness called by Sir Walter Cowdray was
 the little Catholic clergyman, so little, compared with the others,
 that his head seemed hardly to come above the box, so that it was like
-cross-examining a child.  But unfortunately Sir Walter had somehow
+[[Cross|cross]]-examining a [[Child|child]].  But unfortunately Sir Walter had somehow
 got it into his head (mostly by some ramifications of his family's religion)
-that Father Brown was on the side of the prisoner, because the prisoner
+that [[Father Brown]] was on the side of the prisoner, because the prisoner
 was wicked and foreign and even partly black.  Therefore he
-took Father Brown up sharply whenever that proud pontiff tried
+took [[Father Brown]] up sharply whenever that proud pontiff tried
 to explain anything; and told him to answer yes or no, and tell
-the plain facts without any jesuitry.  When Father Brown began,
+the plain facts without any jesuitry.  When [[Father Brown]] began,
 in his simplicity, to say who he thought the man in the passage was,
 the barrister told him that he did not want his theories.
 
      "A black shape was seen in the passage.  And you say you saw
-the black shape.  Well, what shape was it?"
+the black shape.  [[Well]], what shape was it?"
 
-     Father Brown blinked as under rebuke; but he had long known
-the literal nature of obedience.  "The shape," he said, "was short
+     [[Father Brown]] blinked as under rebuke; but he had long known
+the literal [[Nature|nature]] of obedience.  "The shape," he said, "was short
 and thick, but had two sharp, black projections curved upwards
 on each side of the head or top, rather like horns, and--"

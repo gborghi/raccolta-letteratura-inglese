@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-angel's tears? Is it a sound of emptied buckets, or of garden hose, or
+angel's [[Tears|tears]]? Is it a sound of emptied buckets, or of [[Garden|garden]] hose, or
 
 of mountain cataracts? That is the sort of question which Elizabeth
 
-Barrett's extreme love of the extreme was always tempting people to ask.
+Barrett's extreme [[Love|love]] of the extreme was always tempting people to ask.
 
 Yet the question, as asked, does her a heavy historical injustice; we
 
@@ -38,7 +38,7 @@ was her husband, he can go and live in the same hotel with the man who
 
 can believe that George Eliot owed anything to the extravagant
 
-imagination of Mr. George Henry Lewes. So far from Browning inspiring or
+[[Imagination|imagination]] of Mr. George Henry Lewes. So far from Browning inspiring or
 
 interfering, he did not in one sense interfere enough. Her real
 
@@ -54,7 +54,7 @@ Swinburne as the next name here. He is the only poet who was also, in
 
 the European sense, on the spot; even if, in the sense of the Gilbertian
 
-song, the spot was barred. He also knew that something rather crucial
+[[Song|song]], the spot was barred. He also knew that something rather crucial
 
 was happening to Christendom; he thought it was getting unchristened. It
 
@@ -62,9 +62,9 @@ is even a little amusing, indeed, that these two Pro-Italian poets
 
 almost conducted a political correspondence in rhyme. Mrs. Browning
 
-sternly reproached those who had ever doubted the good faith of the King
+sternly reproached those who had ever doubted the good [[Faith|faith]] of the [[King]]
 
-of Sardinia, whom she acclaimed as being truly a king. Swinburne,
+of Sardinia, whom she acclaimed as being truly a [[King|king]]. Swinburne,
 
 lyrically alluding to her as "Sea-eagle of English feather," broadly
 
@@ -72,13 +72,13 @@ hinted that the chief blunder of that wild fowl had been her support of
 
 an autocratic adventurer: "calling a crowned man royal, that was no more
 
-than a king." But it is not fair, even in this important connection, to
+than a [[King|king]]." But it is not fair, even in this important connection, to
 
-judge Swinburne by _Songs Before Sunrise_. They were songs before a
+judge Swinburne by _Songs Before Sunrise_. They were [[songs]] before a
 
 sunrise that has never turned up. Their dogmatic assertions have for a
 
-long time past stared starkly at us as nonsense. As, for instance, the
+long [[Time|time]] past stared starkly at us as nonsense. As, for instance, the
 
 phrase "Glory to Man in the Highest, for man is the master of things";
 
@@ -86,7 +86,7 @@ after which there is evidently nothing to be said, except that it is
 
 not true. But even where Swinburne had his greater grip, as in that
 
-grave and partly just poem _Before a Crucifix_, Swinburne, the most
+[[Grave|grave]] and partly just poem _Before a Crucifix_, Swinburne, the most
 
 Latin, the most learned, the most largely travelled of the Victorians,
 
@@ -106,7 +106,7 @@ no crucifixes: but only crucifixions.
 
 
 
-When we come to ethics and philosophy, doubtless we find Swinburne in
+When we come to ethics and [[philosophy]], doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
 
@@ -120,13 +120,13 @@ insurrection against priests and kings, Swinburne ought to have
 
 described the natural life of man, free and beautiful, and proved from
 
-this both the noxiousness and the needlessness of such chains.
+this both the noxiousness and the needlessness of such [[Chains|chains]].
 
-Unfortunately Swinburne rebelled against Nature first and then tried to
+Unfortunately Swinburne rebelled against [[Nature]] first and then tried to
 
-rebel against religion for doing exactly the same thing that he had
+[[Rebel|rebel]] against religion for doing exactly the same thing that he had
 
-done. His songs of joy are not really immoral; but his songs of sorrow
+done. His [[songs]] of joy are not really immoral; but his [[songs]] of sorrow
 
 are. But when he merely hurls at the priest the assertion that flesh is
 
@@ -138,7 +138,7 @@ went forth, as it were, as the champion of pagan change and pleasure, he
 
 heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
-refusing hope.
+refusing [[Hope|hope]].
 
 
 
@@ -166,13 +166,13 @@ would gather from both the eulogies and the satires, from the conscious
 
 and the unconscious imitations. On the contrary, it is a sort of
 
-fighting and profane parody of the Old Testament; and its lines are made
+fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
 
 of short English words like the short Roman swords. The first line of
 
-one of his finest poems, for instance, runs, "I have lived long enough
+one of his finest [[Poems|poems]], for instance, runs, "I have lived long enough
 
-to have seen one thing, that love hath an end." In that sentence only
+to have seen one thing, that [[Love|love]] hath an end." In that sentence only
 
 one small "e" gets outside the monosyllable. Through all his
 
@@ -180,7 +180,7 @@ interminable tragedies, he was fondest of lines like--
 
 
 
-    "If ever I leave off to honour you
+    "If ever I leave off to [[Honour|honour]] you
 
     God give me shame; I were the worst churl born."
 

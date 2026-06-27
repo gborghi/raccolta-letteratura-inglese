@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 47"
+title: "[[Barnaby Rudge]] — Chapter 47"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,23 +23,23 @@ occupy the foremost place; not only because it supports and upholds
 us when we most require to be sustained, but because in this source of
 consolation there is something, we have reason to believe, of the divine
 spirit; something of that goodness which detects amidst our own evil
-doings, a redeeming quality; something which, even in our fallen nature,
+doings, a redeeming quality; something which, even in our fallen [[Nature|nature]],
 we possess in common with the angels; which had its being in the old
-time when they trod the earth, and lingers on it yet, in pity.
+[[Time|time]] when they trod the earth, and lingers on it yet, in pity.
 
-How often, on their journey, did the widow remember with a grateful
+How often, on their [[Journey|journey]], did the widow remember with a grateful
 heart, that out of his deprivation Barnaby’s cheerfulness and affection
 sprung! How often did she call to mind that but for that, he might have
 been sullen, morose, unkind, far removed from her--vicious, perhaps, and
-cruel! How often had she cause for comfort, in his strength, and hope,
-and in his simple nature! Those feeble powers of mind which rendered him
+cruel! How often had she cause for comfort, in his strength, and [[Hope|hope]],
+and in his simple [[Nature|nature]]! Those feeble powers of mind which rendered him
 so soon forgetful of the past, save in brief gleams and flashes,--even
 they were a comfort now. The world to him was full of happiness; in
 every tree, and plant, and flower, in every bird, and beast, and tiny
-insect whom a breath of summer wind laid low upon the ground, he had
+insect whom a breath of [[Summer|summer]] [[Wind|wind]] laid low upon the ground, he had
 delight. His delight was hers; and where many a wise son would have
 made her sorrowful, this poor light-hearted idiot filled her breast with
-thankfulness and love.
+thankfulness and [[Love|love]].
 
 Their stock of money was low, but from the hoard she had told into the
 blind man’s hand, the widow had withheld one guinea. This, with the few
@@ -48,13 +48,13 @@ a goodly sum in bank. Moreover they had Grip in company; and when they
 must otherwise have changed the guinea, it was but to make him exhibit
 outside an alehouse door, or in a village street, or in the grounds or
 gardens of a mansion of the better sort, and scores who would have given
-nothing in charity, were ready to bargain for more amusement from the
+nothing in [[Charity|charity]], were ready to bargain for more amusement from the
 talking bird.
 
 One day--for they moved slowly, and although they had many rides in
-carts and waggons, were on the road a week--Barnaby, with Grip upon his
+carts and waggons, were on the [[Road|road]] a week--Barnaby, with Grip upon his
 shoulder and his mother following, begged permission at a trim lodge to
-go up to the great house, at the other end of the avenue, and show his
+go up to the [[Great House|great house]], at the other end of the avenue, and show his
 raven. The man within was inclined to give them admittance, and was
 indeed about to do so, when a stout gentleman with a long whip in his
 hand, and a flushed face which seemed to indicate that he had had his
@@ -82,7 +82,7 @@ linen drying on hedges, and stray poultry, eh? What hast got in that
 basket, lazy hound?’
 
 ‘Grip, Grip, Grip--Grip the clever, Grip the wicked, Grip the
-knowing--Grip, Grip, Grip,’ cried the raven, whom Barnaby had shut up
+knowing--Grip, Grip, Grip,’ cried [[The Raven|the raven]], whom Barnaby had shut up
 on the approach of this stern personage. ‘I’m a devil I’m a devil I’m a
 devil, Never say die Hurrah Bow wow wow, Polly put the kettle on we’ll
 all have tea.’
@@ -91,32 +91,32 @@ all have tea.’
 him.’
 
 Barnaby, thus condescendingly addressed, produced his bird, but not
-without much fear and trembling, and set him down upon the ground; which
+without much [[Fear|fear]] and trembling, and set him down upon the ground; which
 he had no sooner done than Grip drew fifty corks at least, and then
-began to dance; at the same time eyeing the gentleman with surprising
+began to [[Dance|dance]]; at the same [[Time|time]] eyeing the gentleman with surprising
 insolence of manner, and screwing his head so much on one side that he
 appeared desirous of screwing it off upon the spot.
 
 The cork-drawing seemed to make a greater impression on the gentleman’s
-mind, than the raven’s power of speech, and was indeed particularly
+mind, than [[The Raven|the raven]]’s power of speech, and was indeed particularly
 adapted to his habits and capacity. He desired to have that done again,
 but despite his being very peremptory, and notwithstanding that Barnaby
 coaxed to the utmost, Grip turned a deaf ear to the request, and
-preserved a dead silence.
+preserved a dead [[Silence|silence]].
 
-‘Bring him along,’ said the gentleman, pointing to the house. But Grip,
+‘Bring him along,’ said the gentleman, pointing to the [[house]]. But Grip,
 who had watched the action, anticipated his master, by hopping on before
 them;--constantly flapping his wings, and screaming ‘cook!’ meanwhile,
 as a hint perhaps that there was company coming, and a small collation
 would be acceptable.
 
 Barnaby and his mother walked on, on either side of the gentleman on
-horseback, who surveyed each of them from time to time in a proud and
+horseback, who surveyed each of them from [[Time|time]] to [[Time|time]] in a proud and
 coarse manner, and occasionally thundered out some question, the tone
 of which alarmed Barnaby so much that he could find no answer, and, as
 a matter of course, could make him no reply. On one of these occasions,
 when the gentleman appeared disposed to exercise his horsewhip, the
-widow ventured to inform him in a low voice and with tears in her eyes,
+widow ventured to inform him in a low voice and with [[Tears|tears]] in her eyes,
 that her son was of weak mind.
 
 ‘An idiot, eh?’ said the gentleman, looking at Barnaby as he spoke. ‘And
@@ -135,7 +135,7 @@ I’d make a difference in him in ten minutes, I’ll be bound.’
 mildly.
 
 ‘Then why don’t you shut him up? we pay enough for county institutions,
-damn ‘em. But thou’d rather drag him about to excite charity--of course.
+damn ‘em. But thou’d rather drag him about to excite [[Charity|charity]]--of course.
 Ay, I know thee.’
 
 Now, this gentleman had various endearing appellations among his
@@ -147,8 +147,8 @@ was a pity there were not more like him, and that because there were
 not, the country was going to rack and ruin every day. He was in the
 commission of the peace, and could write his name almost legibly; but
 his greatest qualifications were, that he was more severe with poachers,
-was a better shot, a harder rider, had better horses, kept better dogs,
-could eat more solid food, drink more strong wine, go to bed every night
+was a better shot, a harder rider, had better horses, kept better [[dogs]],
+could eat more solid food, drink more strong wine, go to bed every [[Night|night]]
 more drunk and get up every morning more sober, than any man in the
 county. In knowledge of horseflesh he was almost equal to a farrier, in
 stable learning he surpassed his own head groom, and in gluttony not
@@ -157,7 +157,7 @@ himself, but he was extremely patriotic, and usually drove his voters
 up to the poll with his own hands. He was warmly attached to church
 and state, and never appointed to the living in his gift any but a
 three-bottle man and a first-rate fox-hunter. He mistrusted the honesty
-of all poor people who could read and write, and had a secret jealousy
+of all poor people who could read and write, and had a secret [[Jealousy|jealousy]]
 of his own wife (a young lady whom he had married for what his friends
 called ‘the good old English reason,’ that her father’s property
 adjoined his own) for possessing those accomplishments in a greater
@@ -165,16 +165,16 @@ degree than himself. In short, Barnaby being an idiot, and Grip a
 creature of mere brute instinct, it would be very hard to say what this
 gentleman was.
 
-He rode up to the door of a handsome house approached by a great flight
-of steps, where a man was waiting to take his horse, and led the way
+He rode up to the door of a handsome [[house]] approached by a great flight
+of steps, where a man was waiting to take his [[Horse|horse]], and led the way
 into a large hall, which, spacious as it was, was tainted with the
-fumes of last night’s stale debauch. Greatcoats, riding-whips, bridles,
+fumes of last [[Night|night]]’s stale debauch. Greatcoats, riding-whips, bridles,
 top-boots, spurs, and such gear, were strewn about on all sides, and
-formed, with some huge stags’ antlers, and a few portraits of dogs and
+formed, with some huge stags’ antlers, and a few portraits of [[dogs]] and
 horses, its principal embellishments.
 
 Throwing himself into a great chair (in which, by the bye, he often
-snored away the night, when he had been, according to his admirers, a
+snored away the [[Night|night]], when he had been, according to his admirers, a
 finer country gentleman than usual) he bade the man to tell his mistress
 to come down: and presently there appeared, a little flurried, as it
 seemed, by the unwonted summons, a lady much younger than himself, who
@@ -198,9 +198,9 @@ She answered yes.
 into his breeches pockets. ‘She’ll tell thee so, of course. Most likely
 he’s hired, at so much a day. There. Get on. Make him do something.’
 
-Grip having by this time recovered his urbanity, condescended, at
+Grip having by this [[Time|time]] recovered his urbanity, condescended, at
 Barnaby’s solicitation, to repeat his various phrases of speech, and to
-go through the whole of his performances with the utmost success. The
+go through the whole of his performances with the utmost [[success]]. The
 corks, and the never say die, afforded the gentleman so much delight
 that he demanded the repetition of this part of the entertainment, until
 Grip got into his basket, and positively refused to say another word,
@@ -235,7 +235,7 @@ He was evidently about to make a very passionate retort, when a few
 murmured words from his wife happening to catch his ear, he turned
 sharply round, and said, ‘Eh? What?’
 
-‘We can hardly expect them to sell the bird, against their own desire,’
+‘We can hardly expect them to sell the bird, against their own [[Desire|desire]],’
 she faltered. ‘If they prefer to keep him--’
 
 ‘Prefer to keep him!’ he echoed. ‘These people, who go tramping about
@@ -247,22 +247,22 @@ the widow, ‘I say, yes.’
 Barnaby’s mother pleaded guilty to the accusation, and hoped there was
 no harm in it.
 
-‘No harm!’ said the gentleman. ‘No. No harm. No harm, ye old rebel, not
+‘No harm!’ said the gentleman. ‘No. No harm. No harm, ye old [[Rebel|rebel]], not
 a bit of harm. If my clerk was here, I’d set ye in the stocks, I would,
 or lay ye in jail for prowling up and down, on the look-out for petty
 larcenies, ye limb of a gipsy. Here, Simon, put these pilferers out,
-shove ‘em into the road, out with ‘em! Ye don’t want to sell the bird,
-ye that come here to beg, don’t ye? If they an’t out in double-quick,
-set the dogs upon ‘em!’
+shove ‘em into the [[Road|road]], out with ‘em! Ye don’t want to sell the bird,
+ye that come here to beg, don’t ye? If they an’t out in [[Double|double]]-quick,
+set the [[dogs]] upon ‘em!’
 
 They waited for no further dismissal, but fled precipitately, leaving
-the gentleman to storm away by himself (for the poor lady had already
-retreated), and making a great many vain attempts to silence Grip, who,
-excited by the noise, drew corks enough for a city feast as they hurried
+the gentleman to [[Storm|storm]] away by himself (for the poor lady had already
+retreated), and making a great many vain attempts to [[Silence|silence]] Grip, who,
+excited by the noise, drew corks enough for a [[City|city]] feast as they hurried
 down the avenue, and appeared to congratulate himself beyond measure on
 having been the cause of the disturbance. When they had nearly reached
 the lodge, another servant, emerging from the shrubbery, feigned to
-be very active in ordering them off, but this man put a crown into the
+be very active in ordering them off, but this man put a [[Crown|crown]] into the
 widow’s hand, and whispering that his lady sent it, thrust them gently
 from the gate.
 
@@ -274,10 +274,10 @@ either a perfect country gentleman, a thoroughbred Englishman, or
 a genuine John Bull; and that possibly the terms were sometimes
 misappropriated, not to say disgraced. She little thought then, that a
 circumstance so slight would ever influence their future fortunes; but
-time and experience enlightened her in this respect.
+[[Time|time]] and experience enlightened her in this respect.
 
 ‘Mother,’ said Barnaby, as they were sitting next day in a waggon which
-was to take them within ten miles of the capital, ‘we’re going to London
+was to take them within ten miles of the capital, ‘we’re going to [[London]]
 first, you said. Shall we see that blind man there?’
 
 She was about to answer ‘Heaven forbid!’ but checked herself, and told
@@ -286,17 +286,17 @@ him No, she thought not; why did he ask?
 ‘He’s a wise man,’ said Barnaby, with a thoughtful countenance. ‘I wish
 that we may meet with him again. What was it that he said of crowds?
 That gold was to be found where people crowded, and not among the
-trees and in such quiet places? He spoke as if he loved it; London is a
+trees and in such quiet places? He spoke as if he loved it; [[London]] is a
 crowded place; I think we shall meet him there.’
 
-‘But why do you desire to see him, love?’ she asked.
+‘But why do you [[Desire|desire]] to see him, [[Love|love]]?’ she asked.
 
 ‘Because,’ said Barnaby, looking wistfully at her, ‘he talked to me
 about gold, which is a rare thing, and say what you will, a thing
 you would like to have, I know. And because he came and went away so
 strangely--just as white-headed old men come sometimes to my bed’s foot
-in the night, and say what I can’t remember when the bright day returns.
-He told me he’d come back. I wonder why he broke his word!’
+in the [[Night|night]], and say what I can’t remember when the bright day returns.
+He told me he’d come back. I [[Wonder|wonder]] why he broke his word!’
 
 ‘But you never thought of being rich or gay, before, dear Barnaby. You
 have always been contented.’
@@ -309,7 +309,7 @@ fleeting.
 But it was plain from what he had said, and from his returning to the
 point more than once that day, and on the next, that the blind man’s
 visit, and indeed his words, had taken strong possession of his mind.
-Whether the idea of wealth had occurred to him for the first time
+Whether the idea of wealth had occurred to him for the first [[Time|time]]
 on looking at the golden clouds that evening--and images were often
 presented to his thoughts by outward objects quite as remote and
 distant; or whether their poor and humble way of life had suggested it,
@@ -324,21 +324,21 @@ the dark.
 It filled her with uneasiness to find him harping on this string, but
 all that she could do, was to lead him quickly to some other subject,
 and to dismiss it from his brain. To caution him against their visitor,
-to show any fear or suspicion in reference to him, would only be, she
+to show any [[Fear|fear]] or suspicion in reference to him, would only be, she
 feared, to increase that interest with which Barnaby regarded him, and
-to strengthen his desire to meet him once again. She hoped, by plunging
+to strengthen his [[Desire|desire]] to meet him once again. She hoped, by plunging
 into the crowd, to rid herself of her terrible pursuer, and then, by
 journeying to a distance and observing increased caution, if that were
 possible, to live again unknown, in secrecy and peace.
 
-They reached, in course of time, their halting-place within ten miles of
-London, and lay there for the night, after bargaining to be carried on
+They reached, in course of [[Time|time]], their halting-place within ten miles of
+[[London]], and lay there for the [[Night|night]], after bargaining to be carried on
 for a trifle next day, in a light van which was returning empty, and was
-to start at five o’clock in the morning. The driver was punctual, the
-road good--save for the dust, the weather being very hot and dry--and at
+to start at five o’[[Clock|clock]] in the morning. The driver was punctual, the
+[[Road|road]] good--save for the [[Dust|dust]], the weather being very hot and dry--and at
 seven in the forenoon of Friday the second of June, one thousand seven
 hundred and eighty, they alighted at the foot of Westminster Bridge,
-bade their conductor farewell, and stood alone, together, on the
-scorching pavement. For the freshness which night sheds upon such
+bade their conductor farewell, and stood [[Alone|alone]], together, on the
+scorching pavement. For the freshness which [[Night|night]] sheds upon such
 busy thoroughfares had already departed, and the sun was shining with
 uncommon lustre.

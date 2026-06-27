@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 2 (part 1)"
+title: "[[queertrades]] — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -21,13 +21,13 @@ The Painful Fall of a Great Reputation
 
 Basil Grant and I were talking one day in what is perhaps the most perfect
 place for talking on earth--the top of a tolerably deserted tramcar.
-To talk on the top of a hill is superb, but to talk on the top
-of a flying hill is a fairy tale.
+To talk on the top of a [[Hill|hill]] is superb, but to talk on the top
+of a flying [[Hill|hill]] is a fairy tale.
 
-The vast blank space of North London was flying by;
+The vast blank space of North [[London]] was flying by;
 the very pace gave us a sense of its immensity and its meanness.
-It was, as it were, a base infinitude, a squalid eternity,
-and we felt the real horror of the poor parts of London, the horror
+It was, as it were, a base infinitude, a squalid [[Eternity|eternity]],
+and we felt the real horror of the poor parts of [[London]], the horror
 that is so totally missed and misrepresented by the sensational
 novelists who depict it as being a matter of narrow streets,
 filthy houses, criminals and maniacs, and dens of vice.
@@ -49,15 +49,15 @@ there was one thing we knew we should not see--anything really great,
 central, of the first class, anything that humanity had adored.
 And with revulsion indescribable our emotions returned, I think,
 to those really close and crooked entries, to those really mean streets,
-to those genuine slums which lie round the Thames and the City,
+to those genuine slums which lie round the Thames and the [[City]],
 in which nevertheless a real possibility remains that at any chance
-corner the great cross of the great cathedral of Wren may strike
+corner the great [[Cross|cross]] of the great [[Cathedral|cathedral]] of Wren may strike
 down the street like a thunderbolt.
 
 "But you must always remember also," said Grant to me, in his
 heavy abstracted way, when I had urged this view, "that the very
 vileness of the life of these ordered plebeian places bears
-witness to the victory of the human soul.  I agree with you.
+witness to the victory of the human [[Soul|soul]].  I agree with you.
 I agree that they have to live in something worse than barbarism.
 They have to live in a fourth-rate civilization.  But yet I am
 practically certain that the majority of people here are good people.
@@ -100,17 +100,17 @@ passing crowd, but though there was nothing about him sufficient
 to attract a startled notice, there was quite enough to demand
 a curious consideration when once that notice was attracted.
 He wore a black top-hat, but there was enough in it of those strange
-curves whereby the decadent artist of the eighties tried to turn
+curves whereby the decadent [[artist]] of the eighties tried to turn
 the top-hat into something as rhythmic as an Etruscan vase.
 His hair, which was largely grey, was curled with the instinct
-of one who appreciated the gradual beauty of grey and silver.
+of one who appreciated the gradual [[Beauty|beauty]] of grey and silver.
 The rest of his face was oval and, I thought, rather Oriental;
 he had two black tufts of moustache.
 
 "What has he done?"  I asked.
 
 "I am not sure of the details," said Grant, "but his besetting
-sin is a desire to intrigue to the disadvantage of others.
+sin is a [[Desire|desire]] to intrigue to the disadvantage of others.
 Probably he has adopted some imposture or other to effect his plan."
 
 "What plan?"  I asked.  "If you know all about him, why don't you
@@ -127,7 +127,7 @@ man in England?"
 
 "I meant what I said," said Basil Grant calmly.  "The moment
 I saw that man, I saw all these people stricken with a sudden
-and splendid innocence.  I saw that while all ordinary poor men
+and splendid [[innocence]].  I saw that while all ordinary poor men
 in the streets were being themselves, he was not being himself.
 I saw that all the men in these slums, cadgers, pickpockets,
 hooligans, are all, in the deepest sense, trying to be good.
@@ -137,8 +137,8 @@ And I saw that that man was trying to be evil."
 
 "In God's name, look at his face," cried out Basil in a voice
 that startled the driver.  "Look at the eyebrows.  They mean
-that infernal pride which made Satan so proud that he sneered
+that infernal [[Pride|pride]] which made [[Satan]] so proud that he sneered
 even at heaven when he was one of the first angels in it.
 Look at his moustaches, they are so grown as to insult humanity.
 In the name of the sacred heavens look at his hair.  In the name
-of God and the stars, look at his hat."
+of God and the [[Stars|stars]], look at his hat."

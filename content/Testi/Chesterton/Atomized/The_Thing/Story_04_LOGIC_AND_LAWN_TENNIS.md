@@ -1,5 +1,5 @@
 ---
-title: "The Thing — LOGIC AND LAWN TENNIS"
+title: "The Thing — [[logic|LOGIC]] AND LAWN TENNIS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Thing-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-LOGIC AND LAWN TENNIS
+[[logic|LOGIC]] AND LAWN TENNIS
 
-WHEN we say that we doubt the intellectual improvement produced
+WHEN we say that we [[Doubt|doubt]] the intellectual improvement produced
 by Protestantism and Rationalism and the modern world, there generally
 arises a very confused controversy, which is a sort of tangle
 of terminology.  But, broadly speaking, the difference between us
@@ -81,16 +81,16 @@ But what he does not understand is the thing which he supposes
 to be understood.  He thoroughly knows his subject and yet he does
 not know what he is talking about; because he does not know
 what he is taking for granted.  He does not realise the relation
-of means and ends, or axioms and inferences, in his own philosophy.
+of means and ends, or axioms and inferences, in his own [[philosophy]].
 And nobody would probably be more surprised and even legitimately
 indignant than he, if I were to say that the first principles of his
-philosophy appear to be as follows:  (1) There is in the nature of things
+[[philosophy]] appear to be as follows:  (1) There is in the [[Nature|nature]] of things
 a certain absolute and divine Being, whose name is Mr. Lawn Tennis.
 (2) All men exist for the good and glory of this Mr. Tennis and
 are bound to approximate to his perfections and fulfil his will.
 (3) To this higher duty they are bound to surrender their natural
-desire for enjoyment in this life.  (4) They are bound to put
-this loyalty first; and to love it more passionately than
+[[Desire|desire]] for enjoyment in this life.  (4) They are bound to put
+this loyalty first; and to [[Love|love]] it more passionately than
 patriotic tradition, the preservation of their own national type
 and national culture; not to mention even their national virtues.
 That is the creed or scheme of doctrine that is here developed
@@ -101,7 +101,7 @@ It does not occur to such thinkers that some people may possibly
 like it because it is English and enjoy it because it is enjoyable.
 There is some abstract divine standard in the thing, to which it is
 everybody's duty to rise, at any sacrifice of pleasure or affection.
-When Christians say this of the sacrifices made for Christ,
+When Christians say this of the sacrifices made for [[Christ]],
 it sounds rather a hard saying.  But when tennis-players say it
 about the sacrifices demanded by tennis, it sounds quite ordinary
 and casual in the confusion of current thought and expression.
@@ -109,15 +109,15 @@ And nobody notices that a sort of human sacrifice is being offered
 to a sort of new and nameless god.
 
 In the good old days of Victorian rationalism it used to be
-the conventional habit to scoff at St. Thomas Aquinas and the
-mediaeval theologians; and especially to repeat perpetually a well-worn
-joke about the man who discussed how many angels could dance on
+the conventional habit to scoff at St. Thomas [[aquinas|Aquinas]] and the
+mediaeval theologians; and especially to repeat perpetually a [[Well|well]]-worn
+joke about the man who discussed how many angels could [[Dance|dance]] on
 the point of a needle.  The comfortable and commercial Victorians,
-with their money and merchandise, might well have felt a sharper
+with their money and merchandise, might [[Well|well]] have felt a sharper
 end of the same needle, even if it was the other end of it.
 It would have been good for their souls to have looked for
 that needle, not in the haystack of mediaeval metaphysics,
-but in the neat needle-case of their own favourite pocket Bible.
+but in the neat needle-case of their own favourite pocket [[Bible]].
 It would have been better for them to meditate, not on how many angels
 could go on the point of a needle, but on how many camels could go
 through the eye of it.  But there is another comment on this curious
@@ -127,7 +127,7 @@ on a needle, at least he did not argue as if the object of angels
 was to stand on a needle; as if God had created all the Angels
 and Archangels, all the Thrones, Virtues, Powers and Principalities,
 solely in order that there might be something to clothe
-and decorate the unseemly nakedness of the point of a needle.
+and decorate the unseemly [[Nakedness|nakedness]] of the point of a needle.
 But that is the way that modern rationalists reason.
 The mediaeval mystic would not even have said that a needle exists
 to be a standing-ground for angels.  The mediaeval mystic would have
@@ -157,7 +157,7 @@ is in sharp and instant need; as the poisoned are in need of medicine.
 I have here taken only one example which happened to catch
 my eye out of a hundred thousand that flash past every hour.
 And as Tennis, like every other good game, has to be played
-with the head as well as the hand, I think it highly desirable
+with the head as [[Well|well]] as the hand, I think it highly desirable
 that it should be occasionally discussed at least as intelligently
 as it is played.
 

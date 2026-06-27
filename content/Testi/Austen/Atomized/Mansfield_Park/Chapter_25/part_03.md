@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 25 (part 3)"
+title: "[[Mansfield Park]] — Chapter 25 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-“And Fanny had much rather it were William’s,” said Edmund, smiling at
+“And Fanny had much rather it were William’s,” said [[Edmund]], smiling at
 her. “Poor Fanny! not allowed to cheat herself as she wishes!”
 
-“Mr. Bertram,” said Miss Crawford, a few minutes afterwards, “you know
+“Mr. [[Bertram]],” said Miss Crawford, a few minutes afterwards, “you know
 Henry to be such a capital improver, that you cannot possibly engage in
 anything of the sort at Thornton Lacey without accepting his help. Only
 think how useful he was at Sotherton! Only think what grand things were
 produced there by our all going with him one hot day in August to drive
-about the grounds, and see his genius take fire. There we went, and
-there we came home again; and what was done there is not to be told!”
+about the grounds, and see his genius take [[Fire|fire]]. There we went, and
+there we came [[Home|home]] again; and what was done there is not to be told!”
 
 Fanny’s eyes were turned on Crawford for a moment with an expression
-more than grave—even reproachful; but on catching his, were instantly
+more than [[Grave|grave]]—even reproachful; but on catching his, were instantly
 withdrawn. With something of consciousness he shook his head at his
 sister, and laughingly replied, “I cannot say there was much done at
 Sotherton; but it was a hot day, and we were all walking after each
@@ -38,10 +38,10 @@ things very differently now. Do not think of me as I appeared then.”
 Sotherton was a word to catch Mrs. Norris, and being just then in the
 happy leisure which followed securing the odd trick by Sir Thomas’s
 capital play and her own against Dr. and Mrs. Grant’s great hands, she
-called out, in high good-humour, “Sotherton! Yes, that is a place,
+called out, in high good-[[Humour|humour]], “Sotherton! Yes, that is a place,
 indeed, and we had a charming day there. William, you are quite out of
-luck; but the next time you come, I hope dear Mr. and Mrs. Rushworth
-will be at home, and I am sure I can answer for your being kindly
+luck; but the next [[Time|time]] you come, I [[Hope|hope]] dear Mr. and Mrs. Rushworth
+will be at [[Home|home]], and I am sure I can answer for your being kindly
 received by both. Your cousins are not of a sort to forget their
 relations, and Mr. Rushworth is a most amiable man. They are at
 Brighton now, you know; in one of the best houses there, as Mr.
@@ -74,21 +74,21 @@ last play, he became a looker-on at the other, he found his niece the
 object of attentions, or rather of professions, of a somewhat pointed
 character.
 
-Henry Crawford was in the first glow of another scheme about Thornton
-Lacey; and not being able to catch Edmund’s ear, was detailing it to
+[[Henry Crawford]] was in the first glow of another scheme about Thornton
+Lacey; and not being able to catch [[Edmund]]’s ear, was detailing it to
 his fair neighbour with a look of considerable earnestness. His scheme
-was to rent the house himself the following winter, that he might have
-a home of his own in that neighbourhood; and it was not merely for the
+was to rent the [[house]] himself the following [[Winter|winter]], that he might have
+a [[Home|home]] of his own in that neighbourhood; and it was not merely for the
 use of it in the hunting-season (as he was then telling her), though
 _that_ consideration had certainly some weight, feeling as he did that,
 in spite of all Dr. Grant’s very great kindness, it was impossible for
 him and his horses to be accommodated where they now were without
 material inconvenience; but his attachment to that neighbourhood did
 not depend upon one amusement or one season of the year: he had set his
-heart upon having a something there that he could come to at any time,
+heart upon having a something there that he could come to at any [[Time|time]],
 a little homestall at his command, where all the holidays of his year
 might be spent, and he might find himself continuing, improving, and
-_perfecting_ that friendship and intimacy with the Mansfield Park
+_perfecting_ that [[Friendship|friendship]] and intimacy with the [[Mansfield Park]]
 family which was increasing in value to him every day. Sir Thomas heard
 and was not offended. There was no want of respect in the young man’s
 address; and Fanny’s reception of it was so proper and modest, so calm
@@ -96,26 +96,26 @@ and uninviting, that he had nothing to censure in her. She said little,
 assented only here and there, and betrayed no inclination either of
 appropriating any part of the compliment to herself, or of
 strengthening his views in favour of Northamptonshire. Finding by whom
-he was observed, Henry Crawford addressed himself on the same subject
+he was observed, [[Henry Crawford]] addressed himself on the same subject
 to Sir Thomas, in a more everyday tone, but still with feeling.
 
 “I want to be your neighbour, Sir Thomas, as you have, perhaps, heard
-me telling Miss Price. May I hope for your acquiescence, and for your
+me telling Miss Price. May I [[Hope|hope]] for your acquiescence, and for your
 not influencing your son against such a tenant?”
 
 Sir Thomas, politely bowing, replied, “It is the only way, sir, in
 which I could _not_ wish you established as a permanent neighbour; but
-I hope, and believe, that Edmund will occupy his own house at Thornton
-Lacey. Edmund, am I saying too much?”
+I [[Hope|hope]], and believe, that [[Edmund]] will occupy his own [[house]] at Thornton
+Lacey. [[Edmund]], am I saying too much?”
 
-Edmund, on this appeal, had first to hear what was going on; but, on
+[[Edmund]], on this appeal, had first to hear what was going on; but, on
 understanding the question, was at no loss for an answer.
 
 “Certainly, sir, I have no idea but of residence. But, Crawford, though
-I refuse you as a tenant, come to me as a friend. Consider the house as
-half your own every winter, and we will add to the stables on your own
+I refuse you as a tenant, come to me as a friend. Consider the [[house]] as
+half your own every [[Winter|winter]], and we will add to the stables on your own
 improved plan, and with all the improvements of your improved plan that
-may occur to you this spring.”
+may occur to you this [[spring]].”
 
 “We shall be the losers,” continued Sir Thomas. “His going, though only
 eight miles, will be an unwelcome contraction of our family circle; but
@@ -123,13 +123,13 @@ I should have been deeply mortified if any son of mine could reconcile
 himself to doing less. It is perfectly natural that you should not have
 thought much on the subject, Mr. Crawford. But a parish has wants and
 claims which can be known only by a clergyman constantly resident, and
-which no proxy can be capable of satisfying to the same extent. Edmund
+which no proxy can be capable of satisfying to the same extent. [[Edmund]]
 might, in the common phrase, do the duty of Thornton, that is, he might
-read prayers and preach, without giving up Mansfield Park: he might
-ride over every Sunday, to a house nominally inhabited, and go through
+read prayers and preach, without giving up [[Mansfield Park]]: he might
+ride over every [[Sunday]], to a [[house]] nominally inhabited, and go through
 divine service; he might be the clergyman of Thornton Lacey every
 seventh day, for three or four hours, if that would content him. But it
-will not. He knows that human nature needs more lessons than a weekly
+will not. He knows that human [[Nature|nature]] needs more lessons than a weekly
 sermon can convey; and that if he does not live among his parishioners,
-and prove himself, by constant attention, their well-wisher and friend,
+and prove himself, by constant attention, their [[Well|well]]-wisher and friend,
 he does very little either for their good or his own.”

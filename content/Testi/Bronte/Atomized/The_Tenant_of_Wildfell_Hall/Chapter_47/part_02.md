@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 47 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,11 +16,11 @@ tags:
 
 within call, had been summoned by his master, from his employment of
 
-raking up the dead leaves on the lawn, to take him to the stables.
+raking up the dead [[Leaves|leaves]] on the lawn, to take him to the stables.
 
 
 
-My companion gravely took my arm, and leading me away to the garden,
+My companion gravely took my arm, and leading me away to the [[Garden|garden]],
 
 thus answered my question,—“She is at Grassdale Manor, in ——shire.”
 
@@ -50,7 +50,7 @@ words.
 
 
 
-“She did,” persisted he in the same grave, collected manner as before;
+“She did,” persisted he in the same [[Grave|grave]], collected manner as before;
 
 “and not without reason,” he continued, gently disengaging himself from
 
@@ -58,7 +58,7 @@ my grasp. “Mr. Huntingdon is ill.”
 
 
 
-“And so she went to nurse him?”
+“And so she went to [[Nurse|nurse]] him?”
 
 
 
@@ -66,7 +66,7 @@ my grasp. “Mr. Huntingdon is ill.”
 
 
 
-“Fool!” I could not help exclaiming, and Lawrence looked up with a
+“[[Fool]]!” I could not help exclaiming, and Lawrence looked up with a
 
 rather reproachful glance. “Is he dying, then?”
 
@@ -82,7 +82,7 @@ take care of him?”
 
 
 
-“None; he was alone, or she would not have gone.”
+“None; he was [[Alone|alone]], or she would not have gone.”
 
 
 
@@ -90,7 +90,7 @@ take care of him?”
 
 
 
-“What is? That he should be alone?”
+“What is? That he should be [[Alone|alone]]?”
 
 
 
@@ -120,15 +120,15 @@ it?”
 
 it was not by my advice that she went, for I detest that man as
 
-fervently as you can do,—except, indeed, that his reformation would
+fervently as you can do,—except, indeed, that his [[Reformation|reformation]] would
 
-give me much greater pleasure than his death; but all I did was to
+give me much greater pleasure than his [[Death|death]]; but all I did was to
 
 inform her of the circumstance of his illness (the consequence of a
 
-fall from his horse in hunting), and to tell her that that unhappy
+fall from his [[Horse|horse]] in hunting), and to tell her that that unhappy
 
-person, Miss Myers, had left him some time ago.”
+person, Miss Myers, had left him some [[Time|time]] ago.”
 
 
 
@@ -186,13 +186,13 @@ tell you all I can. Mr. Huntingdon is very ill, but not dying, or in
 
 any immediate danger; and he is rather better at present than he was
 
-when I came. I found the house in sad confusion: Mrs. Greaves, Benson,
+when I came. I found the [[house]] in sad confusion: Mrs. Greaves, Benson,
 
 every decent servant had left, and those that were come to supply their
 
 places were a negligent, disorderly set, to say no worse—I must change
 
-them again, if I stay. A professional nurse, a grim, hard old woman,
+them again, if I stay. A professional [[Nurse|nurse]], a grim, hard old woman,
 
 had been hired to attend the wretched invalid. He suffers much, and has
 
@@ -202,7 +202,7 @@ from the accident, however, were not very severe, and would, as the
 
 doctor says, have been but trifling to a man of temperate habits, but
 
-with _him_ it is very different. On the night of my arrival, when I
+with _him_ it is very different. On the [[Night|night]] of my arrival, when I
 
 first entered his room, he was lying in a kind of half delirium. He did
 
@@ -216,7 +216,7 @@ for?”
 
 
 
-“It is I, Arthur—it is Helen, your wife,” I replied.
+“It is I, [[arthur|Arthur]]—it is [[Helen]], your wife,” I replied.
 
 
 
@@ -234,7 +234,7 @@ the bed, I went and sat there, placing the light so as to shine full
 
 upon me, for I thought he might be dying, and I wanted him to know me.
 
-For a long time he lay silently looking upon me, first with a vacant
+For a long [[Time|time]] he lay silently looking upon me, first with a vacant
 
 stare, then with a fixed gaze of strange growing intensity. At last he
 
@@ -244,7 +244,7 @@ horrified whisper, with his eyes still fixed upon me, “Who is it?”
 
 
 
-“It is Helen Huntingdon,” said I, quietly rising at the same time, and
+“It is [[Helen Huntingdon]],” said I, quietly rising at the same [[Time|time]], and
 
 removing to a less conspicuous position.
 
@@ -260,21 +260,21 @@ like that!”
 
 
 
-I went at once, and sent the hired nurse; but next morning I ventured
+I went at once, and sent the hired [[Nurse|nurse]]; but next morning I ventured
 
-to enter his chamber again, and, taking the nurse’s place by his
+to enter his chamber again, and, taking the [[Nurse|nurse]]’s place by his
 
 bedside, I watched him and waited on him for several hours, showing
 
 myself as little as possible, and only speaking when necessary, and
 
-then not above my breath. At first he addressed me as the nurse, but,
+then not above my breath. At first he addressed me as the [[Nurse|nurse]], but,
 
-on my crossing the room to draw up the window-blinds, in obedience to
+on my crossing the room to draw up the [[Window|window]]-blinds, in obedience to
 
-his directions, he said, “No, it isn’t nurse; it’s Alice. Stay with me,
+his directions, he said, “No, it isn’t [[Nurse|nurse]]; it’s Alice. Stay with me,
 
-do! That old hag will be the death of me.”
+do! That old hag will be the [[Death|death]] of me.”
 
 
 
@@ -284,6 +284,6 @@ Alice, or some other name almost equally repugnant to my feelings. I
 
 forced myself to endure it for a while, fearing a contradiction might
 
-disturb him too much; but when, having asked for a glass of water,
+disturb him too much; but when, having asked for a glass of [[Water|water]],
 
 while I held it to his lips, he murmured, “Thanks, dearest!” I could

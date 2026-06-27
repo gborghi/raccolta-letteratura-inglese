@@ -15,15 +15,15 @@ tags:
 
 
 Here again of course even a superficial glance at the pageant
-of the street should not be content with its comedy.  There is
+of the street should not be content with its [[Comedy|comedy]].  There is
 an intellectual interest in the external pomp and air of placid
 power in these ordinary Orthodox parish priests; especially if we
-compare them with the comparatively prosaic and jog-trot good nature
-of the Roman monks, called in this country the Latins.  Mingling in
+compare them with the comparatively prosaic and jog-trot good [[Nature|nature]]
+of the Roman [[Monks|monks]], called in this country the Latins.  Mingling in
 the same crowd with these black-robed pontiffs can be seen shaven men
 in brown habits who seem in comparison to be both busy and obscure.
 These are the sons of St. Francis, who came to the East with a grand
-simplicity and thought to finish the Crusades with a smile.
+simplicity and thought to finish the [[Crusades]] with a smile.
 The spectator will be wise to accept this first contrast that strikes
 the eye with an impartial intellectual interest; it has nothing
 to do with personal character, of course, and many Greek priests
@@ -37,12 +37,12 @@ that stands for much that we associate with Protestantism.
 It is Roman Catholicism that is by comparison plain and practical
 and scornful of superstition and concerned for social work.
 It is Greek Catholicism that is stiff with gold and gorgeous
-with ceremonial, with its hold on ancient history and its inheritance
+with ceremonial, with its hold on ancient [[history]] and its inheritance
 of imperial tradition.  In the cant of our own society, we may say
 it is the Roman who rationalises and the Greek who Romanises.
 It is the Roman Catholic who is impatient with Russian and
 Greek childishness, and perpetually appealing for common sense.
-It is the Greek who defends such childishness as childlike faith
+It is the Greek who defends such childishness as childlike [[Faith|faith]]
 and would rebuke such common sense as common scepticism.  I do not
 speak of the theological tenets or even the deeper emotions involved,
 but only, as I have said, of contrasts visible even in the street.
@@ -62,12 +62,12 @@ forms of frozen yet fiery colours which we call jewels.
 I have seen the Greek Patriarch, that magnificent old gentleman,
 walking down the street like an emperor in the _Arabian Nights_,
 hung all over with historic jewels as thick as beads or buttons,
-with a gigantic cross of solid emeralds that might have been given him
+with a gigantic [[Cross|cross]] of solid emeralds that might have been given him
 by the green genii of the sea, if any of the genii are Christians.
 These things are toys, but I am entirely in favour of toys;
 and rubies and emeralds are almost as intoxicating as that sort
 of lustrous coloured paper they put inside Christmas crackers.
-This beauty has been best achieved in the North in the glory
+This [[Beauty|beauty]] has been best achieved in the North in the glory
 of coloured glass; and I have seen great Gothic windows
 in which one could really believe that the robes of martyrs
 were giant rubies or the starry sky a single enormous sapphire.
@@ -81,39 +81,39 @@ to an Eastern tale.  The Orthodox are at least more oriental
 in the sense of being more ornamental; more flat and decorative.
 The Romans are more Western, I might even say more modern,
 in the sense of having more realism even in their ritualism.
-The Greek cross is a cross; the Roman cross is a crucifix.
+The Greek [[Cross|cross]] is a [[Cross|cross]]; the Roman [[Cross|cross]] is a crucifix.
 
 But these are deeper matters; I am only trying to suggest a sort
-of silhouette of the crowd like the similar silhouette of the city,
+of silhouette of the crowd like the similar silhouette of the [[City|city]],
 a profile or outline of the heads and hats, like the profile of
 the towers and spires.  The tower that makes the Greek priest look
-like a walking catafalque is by no means alone among the horns thus
+like a walking catafalque is by no means [[Alone|alone]] among the horns thus
 fantastically exalted.  There is the peaked hood of the Armenian priest,
-for instance; the stately survival of that strange Monophysite
-heresy which perpetuated itself in pomp and pride mainly through
-the sublime accident of the Crusades.  That black cone also rises
+for instance; the stately [[Survival|survival]] of that strange Monophysite
+heresy which perpetuated itself in pomp and [[Pride|pride]] mainly through
+the [[Sublime|sublime]] accident of the [[Crusades]].  That black cone also rises
 above the crowd with something of the immemorial majesty of a pyramid;
 and rightly so, for it is typical of the prehistoric poetry
-by which these places live that some say it is a surviving memory
+by which these places live that some say it is a surviving [[Memory|memory]]
 of Ararat and the Ark.
 
 Again the high white headgear of the Bethlehem women,
 or to speak more strictly of the Bethlehem wives, has already
-been noted in another connection; but it is well to remark it
+been noted in another connection; but it is [[Well|well]] to remark it
 again among the colours of the crowd, because this at least has
 a significance essential to all criticism of such a crowd.
-Most travellers from the West regard such an Eastern city far too
-much as a Moslem city, like the lady whom Mr. Maurice Baring met who
-travelled all over Russia, and thought all the churches were mosques.
-But in truth it is very hard to generalise about Jerusalem, precisely
+Most travellers from the West regard such an Eastern [[City|city]] far too
+much as a Moslem [[City|city]], like the lady whom Mr. Maurice Baring met who
+travelled all over [[Russia]], and thought all the churches were mosques.
+But in [[Truth|truth]] it is very hard to generalise about Jerusalem, precisely
 because it contains everything, and its contrasts are real contrasts.
-And anybody who doubts that its Christianity is Christian, a thing
+And anybody who doubts that its [[Christianity]] is Christian, a thing
 fighting for our own culture and morals on the borders of Asia,
 need only consider the concrete fact of these women of Bethlehem
 and their costume.  There is no need to sneer in any unsympathetic
-fashion at all the domestic institutions of Islam; the sexes are
+fashion at all the domestic institutions of [[Islam]]; the sexes are
 never quite so stupid as some feminists represent; and I dare say
-a woman often has her own way in a harem as well as in a household.
+a woman often has her own way in a harem as [[Well|well]] as in a household.
 But the broad difference does remain.  And if there be one thing,
 I think, that can safely be said about all Asia and all oriental tribes,
 it is this; that if a married woman wears any distinctive mark,
@@ -125,13 +125,13 @@ as among the Jews; it may, I believe, be the blackening of the teeth
 and other queer expedients among the people of the Far East.
 But is never meant to make her look magnificent in public;
 and the Bethlehem wife is made to look magnificent in public.  She not
-only shows all the beauty of her face; and she is often very beautiful.
+only shows all the [[Beauty|beauty]] of her face; and she is often very beautiful.
 She also wears a towering erection which is as unmistakably
 meant to give her consequence as the triple tiara of the Pope.
-A woman wearing such a crown, and wearing it without a veil, does stand,
+A woman wearing such a [[Crown|crown]], and wearing it without a veil, does stand,
 and can only conceivably stand, for what we call the Western view
 of women, but should rather call the Christian view of women.
 This is the sort of dignity which must of necessity come from
-some vague memory of chivalry.  The woman may or may not be,
+some vague [[Memory|memory]] of chivalry.  The woman may or may not be,
 as the legend says, a lineal descendant of a Crusader.
 But whether or no she is his daughter, she is certainly his heiress.

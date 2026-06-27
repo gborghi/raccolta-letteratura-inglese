@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 35: DEPRESSION (part 2)"
+title: "[[David Copperfield]] — Chapter 35: DEPRESSION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -32,11 +32,11 @@ Barkis is uncommonly fond of you, Trot.’
 
 ‘There is nothing she would leave undone to prove it,’ said I.
 
-‘Nothing, I believe,’ returned my aunt. ‘Here, the poor fool has been
+‘Nothing, I believe,’ returned my aunt. ‘Here, the poor [[Fool|fool]] has been
 begging and praying about handing over some of her money--because she
 has got too much of it. A simpleton!’
 
-My aunt’s tears of pleasure were positively trickling down into the warm
+My aunt’s [[Tears|tears]] of pleasure were positively trickling down into the warm
 ale.
 
 ‘She’s the most ridiculous creature that ever was born,’ said my aunt.
@@ -48,10 +48,10 @@ Affecting to laugh, she got an opportunity of putting her hand to
 her eyes. Having availed herself of it, she resumed her toast and her
 discourse together.
 
-‘Ah! Mercy upon us!’ sighed my aunt. ‘I know all about it, Trot! Barkis
+‘Ah! [[Mercy]] upon us!’ sighed my aunt. ‘I know all about it, Trot! Barkis
 and myself had quite a gossip while you were out with Dick. I know all
 about it. I don’t know where these wretched girls expect to go to, for
-my part. I wonder they don’t knock out their brains against--against
+my part. I [[Wonder|wonder]] they don’t knock out their brains against--against
 mantelpieces,’ said my aunt; an idea which was probably suggested to her
 by her contemplation of mine.
 
@@ -64,10 +64,10 @@ I am sorry for your early experience.’
 As I bent forward, she put her tumbler on my knee to detain me, and
 said:
 
-‘Oh, Trot, Trot! And so you fancy yourself in love! Do you?’
+‘Oh, Trot, Trot! And so you fancy yourself in [[Love|love]]! Do you?’
 
 ‘Fancy, aunt!’ I exclaimed, as red as I could be. ‘I adore her with my
-whole soul!’
+whole [[Soul|soul]]!’
 
 ‘Dora, indeed!’ returned my aunt. ‘And you mean to say the little thing
 is very fascinating, I suppose?’
@@ -88,7 +88,7 @@ course; but I was in a manner struck by it, as a new one altogether.
 with the same kind of feeling with which I had repeated the preceding
 question.
 
-‘Well, well!’ said my aunt. ‘I only ask. I don’t depreciate her. Poor
+‘[[Well]], [[Well|well]]!’ said my aunt. ‘I only ask. I don’t depreciate her. Poor
 little couple! And so you think you were formed for one another, and are
 to go through a party-supper-table kind of life, like two pretty pieces
 of confectionery, do you, Trot?’
@@ -97,10 +97,10 @@ She asked me this so kindly, and with such a gentle air, half playful
 and half sorrowful, that I was quite touched.
 
 ‘We are young and inexperienced, aunt, I know,’ I replied; ‘and I dare
-say we say and think a good deal that is rather foolish. But we love
-one another truly, I am sure. If I thought Dora could ever love anybody
-else, or cease to love me; or that I could ever love anybody else, or
-cease to love her; I don’t know what I should do--go out of my mind, I
+say we say and think a good deal that is rather foolish. But we [[Love|love]]
+one another truly, I am sure. If I thought Dora could ever [[Love|love]] anybody
+else, or cease to [[Love|love]] me; or that I could ever [[Love|love]] anybody else, or
+cease to [[Love|love]] her; I don’t know what I should do--go out of my mind, I
 think!’
 
 ‘Ah, Trot!’ said my aunt, shaking her head, and smiling gravely; ‘blind,
@@ -122,14 +122,14 @@ cloud.
 of conceit with themselves, or to make them unhappy; so, though it is a
 girl and boy attachment, and girl and boy attachments very often--mind!
 I don’t say always!--come to nothing, still we’ll be serious about it,
-and hope for a prosperous issue one of these days. There’s time enough
+and [[Hope|hope]] for a prosperous issue one of these days. There’s [[Time|time]] enough
 for it to come to anything!’
 
-This was not upon the whole very comforting to a rapturous lover; but
+This was not upon the whole very comforting to a rapturous [[Lover|lover]]; but
 I was glad to have my aunt in my confidence, and I was mindful of
 her being fatigued. So I thanked her ardently for this mark of her
 affection, and for all her other kindnesses towards me; and after a
-tender good night, she took her nightcap into my bedroom.
+tender good [[Night|night]], she took her nightcap into my bedroom.
 
 How miserable I was, when I lay down! How I thought and thought about my
 being poor, in Mr. Spenlow’s eyes; about my not being what I thought I
@@ -146,16 +146,16 @@ was, to let my mind run on my own distress so much, I was so devoted
 to Dora that I could not help it. I knew that it was base in me not to
 think more of my aunt, and less of myself; but, so far, selfishness
 was inseparable from Dora, and I could not put Dora on one side for any
-mortal creature. How exceedingly miserable I was, that night!
+mortal creature. How exceedingly miserable I was, that [[Night|night]]!
 
-As to sleep, I had dreams of poverty in all sorts of shapes, but I
-seemed to dream without the previous ceremony of going to sleep. Now I
+As to [[Sleep|sleep]], I had [[Dreams|dreams]] of [[Poverty|poverty]] in all sorts of shapes, but I
+seemed to dream without the previous ceremony of going to [[Sleep|sleep]]. Now I
 was ragged, wanting to sell Dora matches, six bundles for a halfpenny;
 now I was at the office in a nightgown and boots, remonstrated with by
 Mr. Spenlow on appearing before the clients in that airy attire; now
 I was hungrily picking up the crumbs that fell from old Tiffey’s
 daily biscuit, regularly eaten when St. Paul’s struck one; now I was
 hopelessly endeavouring to get a licence to marry Dora, having nothing
-but one of Uriah Heep’s gloves to offer in exchange, which the whole
+but one of [[Uriah Heep]]’s gloves to offer in exchange, which the whole
 Commons rejected; and still, more or less conscious of my own room, I
-was always tossing about like a distressed ship in a sea of bed-clothes.
+was always tossing about like a distressed [[Ship|ship]] in a sea of bed-clothes.

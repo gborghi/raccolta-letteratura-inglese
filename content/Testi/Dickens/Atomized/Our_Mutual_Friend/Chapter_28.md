@@ -22,7 +22,7 @@ CUPID PROMPTED
 To use the cold language of the world, Mrs Alfred Lammle rapidly
 improved the acquaintance of Miss Podsnap. To use the warm language of
 Mrs Lammle, she and her sweet Georgiana soon became one: in heart, in
-mind, in sentiment, in soul.
+mind, in sentiment, in [[Soul|soul]].
 
 Whenever Georgiana could escape from the thraldom of Podsnappery; could
 throw off the bedclothes of the custard-coloured phaeton, and get up;
@@ -36,14 +36,14 @@ his part, on being informed where Georgiana was, swelled with patronage
 of the Lammles. That they, when unable to lay hold of him, should
 respectfully grasp at the hem of his mantle; that they, when they could
 not bask in the glory of him the sun, should take up with the pale
-reflected light of the watery young moon his daughter; appeared quite
+reflected light of the watery young [[Moon|moon]] his daughter; appeared quite
 natural, becoming, and proper. It gave him a better opinion of the
 discretion of the Lammles than he had heretofore held, as showing that
 they appreciated the value of the connexion. So, Georgiana repairing
 to her friend, Mr Podsnap went out to dinner, and to dinner, and yet to
 dinner, arm in arm with Mrs Podsnap: settling his obstinate head in his
 cravat and shirt-collar, much as if he were performing on the Pandean
-pipes, in his own honour, the triumphal march, See the conquering
+pipes, in his own [[Honour|honour]], the triumphal march, See the conquering
 Podsnap comes, Sound the trumpets, beat the drums!
 
 It was a trait in Mr Podsnap’s character (and in one form or other
@@ -54,14 +54,14 @@ such a case. ‘What do you mean? I have licensed this person. This person
 has taken out MY certificate. Through this person you strike at me,
 Podsnap the Great. And it is not that I particularly care for the
 person’s dignity, but that I do most particularly care for Podsnap’s.’
-Hence, if any one in his presence had presumed to doubt the
+Hence, if any one in his presence had presumed to [[Doubt|doubt]] the
 responsibility of the Lammles, he would have been mightily huffed. Not
 that any one did, for Veneering, M.P., was always the authority for
 their being very rich, and perhaps believed it. As indeed he might, if
 he chose, for anything he knew of the matter.
 
-Mr and Mrs Lammle’s house in Sackville Street, Piccadilly, was but
-a temporary residence. It has done well enough, they informed their
+Mr and Mrs Lammle’s [[house]] in Sackville Street, Piccadilly, was but
+a temporary residence. It has done [[Well|well]] enough, they informed their
 friends, for Mr Lammle when a bachelor, but it would not do now. So,
 they were always looking at palatial residences in the best situations,
 and always very nearly taking or buying one, but never quite concluding
@@ -75,15 +75,15 @@ And hereby they made another shining reputation; many persons of their
 acquaintance becoming by anticipation dissatisfied with their own
 houses, and envious of the non-existent Lammle structure.
 
-The handsome fittings and furnishings of the house in Sackville Street
-were piled thick and high over the skeleton up-stairs, and if it ever
+The handsome fittings and furnishings of the [[house]] in Sackville Street
+were piled thick and high over the [[skeleton]] up-stairs, and if it ever
 whispered from under its load of upholstery, ‘Here I am in the closet!’
 it was to very few ears, and certainly never to Miss Podsnap’s. What
 Miss Podsnap was particularly charmed with, next to the graces of
 her friend, was the happiness of her friend’s married life. This was
 frequently their theme of conversation.
 
-‘I am sure,’ said Miss Podsnap, ‘Mr Lammle is like a lover. At least
+‘I am sure,’ said Miss Podsnap, ‘Mr Lammle is like a [[Lover|lover]]. At least
 I—I should think he was.’
 
 ‘Georgiana, darling!’ said Mrs Lammle, holding up a forefinger, ‘Take
@@ -106,11 +106,11 @@ Mrs Lammle bestowed a sweet and loving smile upon her friend, which Miss
 Podsnap returned as she best could. They sat at lunch in Mrs Lammle’s
 own boudoir.
 
-‘And so, dearest Georgiana, Alfred is like your notion of a lover?’
+‘And so, dearest Georgiana, Alfred is like your notion of a [[Lover|lover]]?’
 
 ‘I don’t say that, Sophronia,’ Georgiana replied, beginning to conceal
-her elbows. ‘I haven’t any notion of a lover. The dreadful wretches that
-ma brings up at places to torment me, are not lovers. I only mean that
+her elbows. ‘I haven’t any notion of a [[Lover|lover]]. The dreadful wretches that
+ma brings up at places to torment me, are not [[lovers]]. I only mean that
 Mr—’
 
 ‘Again, dearest Georgiana?’
@@ -123,7 +123,7 @@ Mr—’
 attention. Now, don’t he?’
 
 ‘Truly, my dear,’ said Mrs Lammle, with a rather singular expression
-crossing her face. ‘I believe that he loves me, fully as much as I love
+crossing her face. ‘I believe that he loves me, fully as much as I [[Love|love]]
 him.’
 
 ‘Oh, what happiness!’ exclaimed Miss Podsnap.
@@ -132,7 +132,7 @@ him.’
 there is something suspicious in your enthusiastic sympathy with
 Alfred’s tenderness?’
 
-‘Good gracious no, I hope not!’
+‘Good gracious no, I [[Hope|hope]] not!’
 
 ‘Doesn’t it rather suggest,’ said Mrs Lammle archly, ‘that my
 Georgiana’s little heart is—’
@@ -145,7 +145,7 @@ Sophronia’s glance was as if a rather new light broke in upon her. It
 shaded off into a cool smile, as she said, with her eyes upon her lunch,
 and her eyebrows raised:
 
-‘You are quite wrong, my love, in your guess at my meaning. What I
+‘You are quite wrong, my [[Love|love]], in your guess at my meaning. What I
 insinuated was, that my Georgiana’s little heart was growing conscious
 of a vacancy.’
 
@@ -185,10 +185,10 @@ devoted to Sophronia.’
 ‘Sophronia!’ murmured Alfred. ‘My life!’ and kissed her hand. In return
 for which she kissed his watch-chain.
 
-‘But it was not I who was to be taken away and trampled upon, I hope?’
+‘But it was not I who was to be taken away and trampled upon, I [[Hope|hope]]?’
 said Alfred, drawing a seat between them.
 
-‘Ask Georgiana, my soul,’ replied his wife.
+‘Ask Georgiana, my [[Soul|soul]],’ replied his wife.
 
 Alfred touchingly appealed to Georgiana.
 
@@ -198,10 +198,10 @@ Alfred touchingly appealed to Georgiana.
 are,’ said the happy and fond Sophronia, smiling, ‘it was any one who
 should venture to aspire to Georgiana.’
 
-‘Sophronia, my love,’ remonstrated Mr Lammle, becoming graver, ‘you are
+‘Sophronia, my [[Love|love]],’ remonstrated Mr Lammle, becoming graver, ‘you are
 not serious?’
 
-‘Alfred, my love,’ returned his wife, ‘I dare say Georgiana was not, but
+‘Alfred, my [[Love|love]],’ returned his wife, ‘I dare say Georgiana was not, but
 I am.’
 
 ‘Now this,’ said Mr Lammle, ‘shows the accidental combinations that
@@ -214,12 +214,12 @@ told me.’
 ‘You dear one! And I anything that YOU told me.’
 
 How delightful those interchanges, and the looks accompanying them! Now,
-if the skeleton up-stairs had taken that opportunity, for instance, of
+if the [[skeleton]] up-stairs had taken that opportunity, for instance, of
 calling out ‘Here I am, suffocating in the closet!’
 
-‘I give you my honour, my dear Sophronia—’
+‘I give you my [[Honour|honour]], my dear Sophronia—’
 
-‘And I know what that is, love,’ said she.
+‘And I know what that is, [[Love|love]],’ said she.
 
 ‘You do, my darling—that I came into the room all but uttering young
 Fledgeby’s name. Tell Georgiana, dearest, about young Fledgeby.’
@@ -232,14 +232,14 @@ unresisting hands, and playfully holding them in her own at arms’
 length, sometimes near together and sometimes wide apart, went on:
 
 ‘You must know, you dearly beloved little goose, that once upon a
-time there was a certain person called young Fledgeby. And this young
+[[Time|time]] there was a certain person called young Fledgeby. And this young
 Fledgeby, who was of an excellent family and rich, was known to two
 other certain persons, dearly attached to one another and called Mr and
-Mrs Alfred Lammle. So this young Fledgeby, being one night at the play,
+Mrs Alfred Lammle. So this young Fledgeby, being one [[Night|night]] at the play,
 there sees with Mr and Mrs Alfred Lammle, a certain heroine called—’
 
 ‘No, don’t say Georgiana Podsnap!’ pleaded that young lady almost in
-tears. ‘Please don’t. Oh do do do say somebody else! Not Georgiana
+[[Tears|tears]]. ‘Please don’t. Oh do do do say somebody else! Not Georgiana
 Podsnap. Oh don’t, don’t, don’t!’
 
 ‘No other,’ said Mrs Lammle, laughing airily, and, full of affectionate
@@ -260,10 +260,10 @@ all the same for saying it.’
 ‘the poor young fellow only says that he is stricken all of a heap.’
 
 ‘Oh, what shall I ever do!’ interposed Georgiana. ‘Oh my goodness what a
-Fool he must be!’
+[[Fool]] he must be!’
 
 ‘—And implores to be asked to dinner, and to make a fourth at the play
-another time. And so he dines to-morrow and goes to the Opera with
+another [[Time|time]]. And so he dines to-morrow and goes to the Opera with
 us. That’s all. Except, my dear Georgiana—and what will you think of
 this!—that he is infinitely shyer than you, and far more afraid of you
 than you ever were of any one in all your days!’
@@ -279,17 +279,17 @@ was to come to admire, and that Georgiana was to come to be admired; and
 Georgiana with the entirely new sensation in her breast of having that
 prospect before her, and with many kisses from her dear Sophronia in
 present possession, preceded six feet one of discontented footman (an
-amount of the article that always came for her when she walked home) to
+amount of the article that always came for her when she walked [[Home|home]]) to
 her father’s dwelling.
 
 The happy pair being left together, Mrs Lammle said to her husband:
 
 ‘If I understand this girl, sir, your dangerous fascinations have
-produced some effect upon her. I mention the conquest in good time
+produced some effect upon her. I mention the conquest in good [[Time|time]]
 because I apprehend your scheme to be more important to you than your
-vanity.’
+[[Vanity|vanity]].’
 
-There was a mirror on the wall before them, and her eyes just caught
+There was a [[Mirror|mirror]] on the wall before them, and her eyes just caught
 him smirking in it. She gave the reflected image a look of the deepest
 disdain, and the image received it in the glass. Next moment they
 quietly eyed each other, as if they, the principals, had had no part in
@@ -306,7 +306,7 @@ who have once established an understanding, may not be over-fond of
 repeating the terms and objects of their conspiracy. Next day came; came
 Georgiana; and came Fledgeby.
 
-Georgiana had by this time seen a good deal of the house and its
+Georgiana had by this [[Time|time]] seen a good deal of the [[house]] and its
 frequenters. As there was a certain handsome room with a billiard table
 in it—on the ground floor, eating out a backyard—which might have
 been Mr Lammle’s office, or library, but was called by neither name, but
@@ -323,7 +323,7 @@ and in rushes and snatches. There were friends who seemed to be always
 coming and going across the Channel, on errands about the Bourse, and
 Greek and Spanish and India and Mexican and par and premium and discount
 and three quarters and seven eighths. There were other friends who
-seemed to be always lolling and lounging in and out of the City, on
+seemed to be always lolling and lounging in and out of the [[City]], on
 questions of the Bourse, and Greek and Spanish and India and Mexican and
 par and premium and discount and three quarters and seven eighths. They
 were all feverish, boastful, and indefinably loose; and they all ate and
@@ -345,22 +345,22 @@ short of the gentleman point.
 Young Fledgeby was none of these. Young Fledgeby had a peachy cheek,
 or a cheek compounded of the peach and the red red red wall on which
 it grows, and was an awkward, sandy-haired, small-eyed youth, exceeding
-slim (his enemies would have said lanky), and prone to self-examination
+slim (his enemies would have said lanky), and prone to [[Self|self]]-examination
 in the articles of whisker and moustache. While feeling for the whisker
 that he anxiously expected, Fledgeby underwent remarkable fluctuations
-of spirits, ranging along the whole scale from confidence to despair.
+of spirits, ranging along the whole scale from confidence to [[Despair|despair]].
 There were times when he started, as exclaiming ‘By Jupiter here it is
 at last!’ There were other times when, being equally depressed, he would
-be seen to shake his head, and give up hope. To see him at those periods
+be seen to shake his head, and give up [[Hope|hope]]. To see him at those periods
 leaning on a chimneypiece, like as on an urn containing the ashes of his
-ambition, with the cheek that would not sprout, upon the hand on which
+[[Ambition|ambition]], with the cheek that would not sprout, upon the hand on which
 that cheek had forced conviction, was a distressing sight.
 
 Not so was Fledgeby seen on this occasion. Arrayed in superb raiment,
-with his opera hat under his arm, he concluded his self-examination
+with his opera hat under his arm, he concluded his [[Self|self]]-examination
 hopefully, awaited the arrival of Miss Podsnap, and talked small-talk
 with Mrs Lammle. In facetious homage to the smallness of his talk, and
-the jerky nature of his manners, Fledgeby’s familiars had agreed to
+the jerky [[Nature|nature]] of his manners, Fledgeby’s familiars had agreed to
 confer upon him (behind his back) the honorary title of Fascination
 Fledgeby.
 
@@ -430,7 +430,7 @@ in a personal discussion.’
 Fledgeby must have conducted it on his side with immense art, for no
 appearance of uttering one syllable had escaped him.
 
-‘A personal discussion, Sophronia, my love? What discussion? Fledgeby, I
+‘A personal discussion, Sophronia, my [[Love|love]]? What discussion? Fledgeby, I
 am jealous. What discussion, Fledgeby?’
 
 ‘Shall I tell him, Mr Fledgeby?’ asked Mrs Lammle.
@@ -469,22 +469,22 @@ dress.’
 
 ‘And I,’ said Mr Lammle, ‘to Georgiana.’
 
-‘Georgy, my love,’ remarked Mrs Lammle aside to her dear girl, ‘I rely
+‘Georgy, my [[Love|love]],’ remarked Mrs Lammle aside to her dear girl, ‘I rely
 upon you not to go over to the opposition. Now, Mr Fledgeby.’
 
-Fascination wished to know if the colour were not called rose-colour?
+Fascination wished to know if the colour were not called [[Rose|rose]]-colour?
 Yes, said Mr Lammle; actually he knew everything; it was really
-rose-colour. Fascination took rose-colour to mean the colour of roses.
+[[Rose|rose]]-colour. Fascination took [[Rose|rose]]-colour to mean the colour of roses.
 (In this he was very warmly supported by Mr and Mrs Lammle.) Fascination
-had heard the term Queen of Flowers applied to the Rose. Similarly, it
-might be said that the dress was the Queen of Dresses. (‘Very happy,
+had heard the term [[Queen]] of [[Flowers]] applied to the [[Rose]]. Similarly, it
+might be said that the dress was the [[Queen]] of Dresses. (‘Very happy,
 Fledgeby!’ from Mr Lammle.) Notwithstanding, Fascination’s opinion
 was that we all had our eyes—or at least a large majority of us—and
 that—and—and his farther opinion was several ands, with nothing beyond
 them.
 
-‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to desert me in that way! Oh, Mr
-Fledgeby, to abandon my poor dear injured rose and declare for blue!’
+‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to [[Desert|desert]] me in that way! Oh, Mr
+Fledgeby, to abandon my poor dear injured [[Rose|rose]] and declare for blue!’
 
 ‘Victory, victory!’ cried Mr Lammle; ‘your dress is condemned, my dear.’
 
@@ -492,7 +492,7 @@ Fledgeby, to abandon my poor dear injured rose and declare for blue!’
 dear girl’s, ‘what does Georgy say?’
 
 ‘She says,’ replied Mr Lammle, interpreting for her, ‘that in her eyes
-you look well in any colour, Sophronia, and that if she had expected to
+you look [[Well|well]] in any colour, Sophronia, and that if she had expected to
 be embarrassed by so pretty a compliment as she has received, she would
 have worn another colour herself. Though I tell her, in reply, that it
 would not have saved her, for whatever colour she had worn would have
@@ -506,10 +506,10 @@ feeling on the part of Fledgeby, ‘he is right, he is right!’
 
 Still, no not even now, would they look at one another. Seeming to gnash
 his sparkling teeth, studs, eyes, and buttons, all at once, Mr Lammle
-secretly bent a dark frown on the two, expressive of an intense desire
+secretly bent a dark frown on the two, expressive of an intense [[Desire|desire]]
 to bring them together by knocking their heads together.
 
-‘Have you heard this opera of to-night, Fledgeby?’ he asked, stopping
+‘Have you heard this opera of to-[[Night|night]], Fledgeby?’ he asked, stopping
 very short, to prevent himself from running on into ‘confound you.’
 
 ‘Why no, not exactly,’ said Fledgeby. ‘In fact I don’t know a note of
@@ -521,7 +521,7 @@ Georgiana, faintly, under the sympathetic coincidence.
 ‘Why, then,’ said Mrs Lammle, charmed by the discovery which flowed from
 the premises, ‘you neither of you know it! How charming!’
 
-Even the craven Fledgeby felt that the time was now come when he must
+Even the craven Fledgeby felt that the [[Time|time]] was now come when he must
 strike a blow. He struck it by saying, partly to Mrs Lammle and partly
 to the circumambient air, ‘I consider myself very fortunate in being
 reserved by—’
@@ -532,14 +532,14 @@ whiskers to look out of, offered him the word ‘Destiny.’
 ‘No, I wasn’t going to say that,’ said Fledgeby. ‘I was going to say
 Fate. I consider it very fortunate that Fate has written in the book
 of—in the book which is its own property—that I should go to that
-opera for the first time under the memorable circumstances of going with
+opera for the first [[Time|time]] under the memorable circumstances of going with
 Miss Podsnap.’
 
 To which Georgiana replied, hooking her two little fingers in one
 another, and addressing the tablecloth, ‘Thank you, but I generally go
 with no one but you, Sophronia, and I like that very much.’
 
-Content perforce with this success for the time, Mr Lammle let Miss
+Content perforce with this [[success]] for the [[Time|time]], Mr Lammle let Miss
 Podsnap out of the room, as if he were opening her cage door, and Mrs
 Lammle followed. Coffee being presently served up stairs, he kept a
 watch on Fledgeby until Miss Podsnap’s cup was empty, and then directed
@@ -566,7 +566,7 @@ forward to address Mr Lammle to this purpose.
 ‘Alfred, my dear, Mr Fledgeby very justly says, apropos of the last
 scene, that true constancy would not require any such stimulant as the
 stage deems necessary.’ To which Mr Lammle would reply, ‘Ay, Sophronia,
-my love, but as Georgiana has observed to me, the lady had no sufficient
+my [[Love|love]], but as Georgiana has observed to me, the lady had no sufficient
 reason to know the state of the gentleman’s affections.’ To which Mrs
 Lammle would rejoin, ‘Very true, Alfred; but Mr Fledgeby points
 out,’ this. To which Alfred would demur: ‘Undoubtedly, Sophronia, but
@@ -576,19 +576,19 @@ of delicate sentiments, without having once opened their lips, save to
 say yes or no, and even that not to one another.
 
 Fledgeby took his leave of Miss Podsnap at the carriage door, and the
-Lammles dropped her at her own home, and on the way Mrs Lammle archly
+Lammles dropped her at her own [[Home|home]], and on the way Mrs Lammle archly
 rallied her, in her fond and protecting manner, by saying at intervals,
 ‘Oh little Georgiana, little Georgiana!’ Which was not much; but the
 tone added, ‘You have enslaved your Fledgeby.’
 
-And thus the Lammles got home at last, and the lady sat down moody and
+And thus the Lammles got [[Home|home]] at last, and the lady sat down moody and
 weary, looking at her dark lord engaged in a deed of violence with a
-bottle of soda-water as though he were wringing the neck of some unlucky
-creature and pouring its blood down his throat. As he wiped his dripping
+bottle of soda-[[Water|water]] as though he were wringing the neck of some unlucky
+creature and pouring its [[Blood|blood]] down his throat. As he wiped his dripping
 whiskers in an ogreish way, he met her eyes, and pausing, said, with no
 very gentle voice:
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Was such an absolute Booby necessary to the purpose?’
 
@@ -598,7 +598,7 @@ very gentle voice:
 
 ‘You sneer, perhaps; and you take a lofty air upon yourself perhaps!
 But I tell you this:—when that young fellow’s interest is concerned,
-he holds as tight as a horse-leech. When money is in question with that
+he holds as tight as a [[Horse|horse]]-leech. When money is in question with that
 young fellow, he is a match for the Devil.’
 
 ‘Is he a match for you?’
@@ -606,11 +606,11 @@ young fellow, he is a match for the Devil.’
 ‘He is. Almost as good a one as you thought me for you. He has no
 quality of youth in him, but such as you have seen to-day. Touch him
 upon money, and you touch no booby then. He really is a dolt, I suppose,
-in other things; but it answers his one purpose very well.’
+in other things; but it answers his one purpose very [[Well|well]].’
 
 ‘Has she money in her own right in any case?’
 
-‘Ay! she has money in her own right in any case. You have done so well
+‘Ay! she has money in her own right in any case. You have done so [[Well|well]]
 to-day, Sophronia, that I answer the question, though you know I object
-to any such questions. You have done so well to-day, Sophronia, that you
+to any such questions. You have done so [[Well|well]] to-day, Sophronia, that you
 must be tired. Get to bed.’

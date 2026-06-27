@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE"
+title: "The [[Pickwick]] Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,50 +19,50 @@ OF A COUPLE OF NICE YOUNG MEN BELONGING TO ONE OF THE LIBERAL
 PROFESSIONS; HOW THEY DISPORTED THEMSELVES ON THE ICE; AND HOW THEIR
 VISIT CAME TO A CONCLUSION
 
-Well, Sam,’ said Mr. Pickwick, as that favoured servitor entered his
-bed-chamber, with his warm water, on the morning of Christmas Day,
+[[Well]], Sam,’ said Mr. [[Pickwick]], as that favoured servitor entered his
+bed-chamber, with his warm [[Water|water]], on the morning of Christmas Day,
 ‘still frosty?’
 
-‘Water in the wash-hand basin’s a mask o’ ice, Sir,’ responded Sam.
+‘[[Water]] in the wash-hand basin’s a mask o’ ice, Sir,’ responded Sam.
 
-‘Severe weather, Sam,’ observed Mr. Pickwick.
+‘Severe weather, Sam,’ observed Mr. [[Pickwick]].
 
-‘Fine time for them as is well wropped up, as the Polar bear said to
+‘Fine [[Time|time]] for them as is [[Well|well]] wropped up, as the Polar bear said to
 himself, ven he was practising his skating,’ replied Mr. Weller.
 
-‘I shall be down in a quarter of an hour, Sam,’ said Mr. Pickwick,
+‘I shall be down in a quarter of an hour, Sam,’ said Mr. [[Pickwick]],
 untying his nightcap.
 
 ‘Wery good, sir,’ replied Sam. ‘There’s a couple o’ sawbones
 downstairs.’
 
-‘A couple of what!’ exclaimed Mr. Pickwick, sitting up in bed.
+‘A couple of what!’ exclaimed Mr. [[Pickwick]], sitting up in bed.
 
 ‘A couple o’ sawbones,’ said Sam.
 
-‘What’s a sawbones?’ inquired Mr. Pickwick, not quite certain whether it
+‘What’s a sawbones?’ inquired Mr. [[Pickwick]], not quite certain whether it
 was a live animal, or something to eat.
 
 ‘What! Don’t you know what a sawbones is, sir?’ inquired Mr. Weller. ‘I
 thought everybody know’d as a sawbones was a surgeon.’
 
-‘Oh, a surgeon, eh?’ said Mr. Pickwick, with a smile.
+‘Oh, a surgeon, eh?’ said Mr. [[Pickwick]], with a smile.
 
 ‘Just that, sir,’ replied Sam. ‘These here ones as is below, though,
 ain’t reg’lar thoroughbred sawbones; they’re only in trainin’.’
 
-In other words they’re medical students, I suppose?’ said Mr. Pickwick.
+In other words they’re medical students, I suppose?’ said Mr. [[Pickwick]].
 
-Sam Weller nodded assent.
+[[Sam Weller]] nodded assent.
 
-‘I am glad of it,’ said Mr. Pickwick, casting his nightcap energetically
+‘I am glad of it,’ said Mr. [[Pickwick]], casting his nightcap energetically
 on the counterpane. ‘They are fine fellows--very fine fellows; with
 judgments matured by observation and reflection; and tastes refined by
 reading and study. I am very glad of it.’
 
-‘They’re a-smokin’ cigars by the kitchen fire,’ said Sam.
+‘They’re a-smokin’ cigars by the kitchen [[Fire|fire]],’ said Sam.
 
-‘Ah!’ observed Mr. Pickwick, rubbing his hands, ‘overflowing with kindly
+‘Ah!’ observed Mr. [[Pickwick]], rubbing his hands, ‘overflowing with kindly
 feelings and animal spirits. Just what I like to see.’
 
 And one on ‘em,’ said Sam, not noticing his master’s interruption, ‘one
@@ -72,21 +72,21 @@ atween his knees, which he’s a-openin’ like steam, and as fast as he
 eats ‘em, he takes a aim vith the shells at young dropsy, who’s a
 sittin’ down fast asleep, in the chimbley corner.’
 
-‘Eccentricities of genius, Sam,’ said Mr. Pickwick. ‘You may retire.’
+‘Eccentricities of genius, Sam,’ said Mr. [[Pickwick]]. ‘You may retire.’
 
-Sam did retire accordingly. Mr. Pickwick at the expiration of the
+Sam did retire accordingly. Mr. [[Pickwick]] at the expiration of the
 quarter of an hour, went down to breakfast.
 
-‘Here he is at last!’ said old Mr. Wardle. ‘Pickwick, this is Miss
+‘Here he is at last!’ said old Mr. Wardle. ‘[[Pickwick]], this is Miss
 Allen’s brother, Mr. Benjamin Allen. Ben we call him, and so may you, if
 you like. This gentleman is his very particular friend, Mr.--’
 
 ‘Mr. Bob Sawyer,’ interposed Mr. Benjamin Allen; whereupon Mr. Bob
 Sawyer and Mr. Benjamin Allen laughed in concert.
 
-Mr. Pickwick bowed to Bob Sawyer, and Bob Sawyer bowed to Mr. Pickwick.
+Mr. [[Pickwick]] bowed to Bob Sawyer, and Bob Sawyer bowed to Mr. [[Pickwick]].
 Bob and his very particular friend then applied themselves most
-assiduously to the eatables before them; and Mr. Pickwick had an
+assiduously to the eatables before them; and Mr. [[Pickwick]] had an
 opportunity of glancing at them both.
 
 Mr. Benjamin Allen was a coarse, stout, thick-set young man, with black
@@ -102,29 +102,29 @@ appendage. He presented, altogether, rather a mildewy appearance, and
 emitted a fragrant odour of full-flavoured Cubas.
 
 Mr. Bob Sawyer, who was habited in a coarse, blue coat, which, without
-being either a greatcoat or a surtout, partook of the nature and
+being either a greatcoat or a surtout, partook of the [[Nature|nature]] and
 qualities of both, had about him that sort of slovenly smartness, and
 swaggering gait, which is peculiar to young gentlemen who smoke in the
-streets by day, shout and scream in the same by night, call waiters by
+streets by day, shout and scream in the same by [[Night|night]], call waiters by
 their Christian names, and do various other acts and deeds of an equally
 facetious description. He wore a pair of plaid trousers, and a large,
-rough, double-breasted waistcoat; out of doors, he carried a thick stick
+rough, [[Double|double]]-breasted waistcoat; out of doors, he carried a thick stick
 with a big top. He eschewed gloves, and looked, upon the whole,
 something like a dissipated Robinson Crusoe.
 
-Such were the two worthies to whom Mr. Pickwick was introduced, as he
+Such were the two worthies to whom Mr. [[Pickwick]] was introduced, as he
 took his seat at the breakfast-table on Christmas morning.
 
-‘Splendid morning, gentlemen,’ said Mr. Pickwick.
+‘Splendid morning, gentlemen,’ said Mr. [[Pickwick]].
 
 Mr. Bob Sawyer slightly nodded his assent to the proposition, and asked
 Mr. Benjamin Allen for the mustard.
 
-‘Have you come far this morning, gentlemen?’ inquired Mr. Pickwick.
+‘Have you come far this morning, gentlemen?’ inquired Mr. [[Pickwick]].
 
-‘Blue Lion at Muggleton,’ briefly responded Mr. Allen.
+‘Blue [[Lion]] at Muggleton,’ briefly responded Mr. Allen.
 
-‘You should have joined us last night,’ said Mr. Pickwick.
+‘You should have joined us last [[Night|night]],’ said Mr. [[Pickwick]].
 
 ‘So we should,’ replied Bob Sawyer, ‘but the brandy was too good to
 leave in a hurry; wasn’t it, Ben?’
@@ -134,7 +134,7 @@ the pork-chops either; were they, Bob?’
 
 ‘Decidedly not,’ said Bob. The particular friends resumed their attack
 upon the breakfast, more freely than before, as if the recollection of
-last night’s supper had imparted a new relish to the meal.
+last [[Night|night]]’s supper had imparted a new relish to the meal.
 
 ‘Peg away, Bob,’ said Mr. Allen, to his companion, encouragingly.
 
@@ -143,12 +143,12 @@ last night’s supper had imparted a new relish to the meal.
 ‘Nothing like dissecting, to give one an appetite,’ said Mr. Bob Sawyer,
 looking round the table.
 
-Mr. Pickwick slightly shuddered.
+Mr. [[Pickwick]] slightly shuddered.
 
 ‘By the bye, Bob,’ said Mr. Allen, ‘have you finished that leg yet?’
 
 ‘Nearly,’ replied Sawyer, helping himself to half a fowl as he spoke.
-‘It’s a very muscular one for a child’s.’
+‘It’s a very muscular one for a [[Child|child]]’s.’
 
 Is it?’ inquired Mr. Allen carelessly.
 
@@ -165,15 +165,15 @@ hold of any fellow that wants a head. I wish you’d take it.’
 ‘Can’t, indeed,’ rejoined Bob Sawyer, ‘I wouldn’t mind a brain, but I
 couldn’t stand a whole head.’
 
-Hush, hush, gentlemen, pray,’ said Mr. Pickwick, ‘I hear the ladies.’
+Hush, hush, gentlemen, pray,’ said Mr. [[Pickwick]], ‘I hear the ladies.’
 
-As Mr. Pickwick spoke, the ladies, gallantly escorted by Messrs.
+As Mr. [[Pickwick]] spoke, the ladies, gallantly escorted by Messrs.
 Snodgrass, Winkle, and Tupman, returned from an early walk.
 
 ‘Why, Ben!’ said Arabella, in a tone which expressed more surprise than
 pleasure at the sight of her brother.
 
-‘Come to take you home to-morrow,’ replied Benjamin.
+‘Come to take you [[Home|home]] to-morrow,’ replied Benjamin.
 
 Mr. Winkle turned pale.
 
@@ -194,8 +194,8 @@ of their eyes.
 The arrival of the two new visitors, and the consequent check upon Mr.
 Winkle and the young lady with the fur round her boots, would in all
 probability have proved a very unpleasant interruption to the hilarity
-of the party, had not the cheerfulness of Mr. Pickwick, and the good
-humour of the host, been exerted to the very utmost for the common weal.
+of the party, had not the cheerfulness of Mr. [[Pickwick]], and the good
+[[Humour|humour]] of the host, been exerted to the very utmost for the common weal.
 Mr. Winkle gradually insinuated himself into the good graces of Mr.
 Benjamin Allen, and even joined in a friendly conversation with Mr. Bob
 Sawyer; who, enlivened with the brandy, and the breakfast, and the
@@ -210,7 +210,7 @@ name on the seat of the pew, in corpulent letters of four inches long.
 
 ‘Now,’ said Wardle, after a substantial lunch, with the agreeable items
 of strong beer and cherry-brandy, had been done ample justice to, ‘what
-say you to an hour on the ice? We shall have plenty of time.’
+say you to an hour on the ice? We shall have plenty of [[Time|time]].’
 
 ‘Capital!’ said Mr. Benjamin Allen.
 
@@ -237,18 +237,18 @@ whereat Mr. Winkle expressed exquisite delight, and looked exquisitely
 uncomfortable.
 
 Old Wardle led the way to a pretty large sheet of ice; and the fat boy
-and Mr. Weller, having shovelled and swept away the snow which had
-fallen on it during the night, Mr. Bob Sawyer adjusted his skates with a
+and Mr. Weller, having shovelled and swept away the [[Snow|snow]] which had
+fallen on it during the [[Night|night]], Mr. Bob Sawyer adjusted his skates with a
 dexterity which to Mr. Winkle was perfectly marvellous, and described
 circles with his left leg, and cut figures of eight, and inscribed upon
 the ice, without once stopping for breath, a great many other pleasant
-and astonishing devices, to the excessive satisfaction of Mr. Pickwick,
+and astonishing devices, to the excessive satisfaction of Mr. [[Pickwick]],
 Mr. Tupman, and the ladies; which reached a pitch of positive
 enthusiasm, when old Wardle and Benjamin Allen, assisted by the
 aforesaid Bob Sawyer, performed some mystic evolutions, which they
 called a reel.
 
-All this time, Mr. Winkle, with his face and hands blue with the cold,
+All this [[Time|time]], Mr. Winkle, with his face and hands blue with the cold,
 had been forcing a gimlet into the sole of his feet, and putting his
 skates on, with the points behind, and getting the straps into a very
 complicated and entangled state, with the assistance of Mr. Snodgrass,
@@ -267,7 +267,7 @@ is, Sam!’
 Sir!’
 
 This last observation of Mr. Weller’s bore reference to a demonstration
-Mr. Winkle made at the instant, of a frantic desire to throw his feet in
+Mr. Winkle made at the instant, of a frantic [[Desire|desire]] to throw his feet in
 the air, and dash the back of his head on the ice.
 
 ‘These--these--are very awkward skates; ain’t they, Sam?’ inquired Mr.
@@ -275,7 +275,7 @@ Winkle, staggering.
 
 ‘I’m afeerd there’s a orkard gen’l’m’n in ‘em, Sir,’ replied Sam.
 
-‘Now, Winkle,’ cried Mr. Pickwick, quite unconscious that there was
+‘Now, Winkle,’ cried Mr. [[Pickwick]], quite unconscious that there was
 anything the matter. ‘Come; the ladies are all anxiety.’
 
 ‘Yes, yes,’ replied Mr. Winkle, with a ghastly smile. ‘I’m coming.’
@@ -284,7 +284,7 @@ anything the matter. ‘Come; the ladies are all anxiety.’
 ‘Now, Sir, start off!’
 
 ‘Stop an instant, Sam,’ gasped Mr. Winkle, clinging most affectionately
-to Mr. Weller. ‘I find I’ve got a couple of coats at home that I don’t
+to Mr. Weller. ‘I find I’ve got a couple of coats at [[Home|home]] that I don’t
 want, Sam. You may have them, Sam.’
 
 ‘Thank’ee, Sir,’ replied Mr. Weller.
@@ -300,9 +300,9 @@ afternoon, Sam.’
 right. I shall soon get in the way of it, Sam. Not too fast, Sam; not
 too fast.’
 
-Mr. Winkle, stooping forward, with his body half doubled up, was being
+Mr. Winkle, stooping forward, with his [[Body|body]] half doubled up, was being
 assisted over the ice by Mr. Weller, in a very singular and un-swan-like
-manner, when Mr. Pickwick most innocently shouted from the opposite
+manner, when Mr. [[Pickwick]] most innocently shouted from the opposite
 bank--
 
 ‘Sam!’
@@ -319,9 +319,9 @@ the agonised Pickwickian, and, in so doing, administered a considerable
 impetus to the unhappy Mr. Winkle. With an accuracy which no degree of
 dexterity or practice could have insured, that unfortunate gentleman
 bore swiftly down into the centre of the reel, at the very moment when
-Mr. Bob Sawyer was performing a flourish of unparalleled beauty. Mr.
+Mr. Bob Sawyer was performing a flourish of unparalleled [[Beauty|beauty]]. Mr.
 Winkle struck wildly against him, and with a loud crash they both fell
-heavily down. Mr. Pickwick ran to the spot. Bob Sawyer had risen to his
+heavily down. Mr. [[Pickwick]] ran to the spot. Bob Sawyer had risen to his
 feet, but Mr. Winkle was far too wise to do anything of the kind, in
 skates. He was seated on the ice, making spasmodic efforts to smile; but
 anguish was depicted on every lineament of his countenance.
@@ -339,21 +339,21 @@ eagerness.
 
 ‘Thank you,’ replied Mr. Winkle; ‘I’d rather not.’
 
-‘What do _you _think, Mr. Pickwick?’ inquired Bob Sawyer.
+‘What do _you _think, Mr. [[Pickwick]]?’ inquired Bob Sawyer.
 
-Mr. Pickwick was excited and indignant. He beckoned to Mr. Weller, and
+Mr. [[Pickwick]] was excited and indignant. He beckoned to Mr. Weller, and
 said in a stern voice, ‘Take his skates off.’
 
 ‘No; but really I had scarcely begun,’ remonstrated Mr. Winkle.
 
-‘Take his skates off,’ repeated Mr. Pickwick firmly.
+‘Take his skates off,’ repeated Mr. [[Pickwick]] firmly.
 
 The command was not to be resisted. Mr. Winkle allowed Sam to obey it,
-in silence.
+in [[Silence|silence]].
 
-‘Lift him up,’ said Mr. Pickwick. Sam assisted him to rise.
+‘Lift him up,’ said Mr. [[Pickwick]]. Sam assisted him to rise.
 
-Mr. Pickwick retired a few paces apart from the bystanders; and,
+Mr. [[Pickwick]] retired a few paces apart from the bystanders; and,
 beckoning his friend to approach, fixed a searching look upon him, and
 uttered in a low, but distinct and emphatic tone, these remarkable
 words--
@@ -364,18 +364,18 @@ A what?’ said Mr. Winkle, starting.
 
 ‘A humbug, Sir. I will speak plainer, if you wish it. An impostor, sir.’
 
-With those words, Mr. Pickwick turned slowly on his heel, and rejoined
+With those words, Mr. [[Pickwick]] turned slowly on his heel, and rejoined
 his friends.
 
-While Mr. Pickwick was delivering himself of the sentiment just
+While Mr. [[Pickwick]] was delivering himself of the sentiment just
 recorded, Mr. Weller and the fat boy, having by their joint endeavours
 cut out a slide, were exercising themselves thereupon, in a very
-masterly and brilliant manner. Sam Weller, in particular, was displaying
+masterly and brilliant manner. [[Sam Weller]], in particular, was displaying
 that beautiful feat of fancy-sliding which is currently denominated
 ‘knocking at the cobbler’s door,’ and which is achieved by skimming over
 the ice on one foot, and occasionally giving a postman’s knock upon it
 with the other. It was a good long slide, and there was something in the
-motion which Mr. Pickwick, who was very cold with standing still, could
+motion which Mr. [[Pickwick]], who was very cold with standing still, could
 not help envying.
 
 ‘It looks a nice warm exercise that, doesn’t it?’ he inquired of Wardle,
@@ -386,14 +386,14 @@ compasses, and drawn complicated problems on the ice.
 ‘Ah, it does, indeed,’ replied Wardle. ‘Do you slide?’
 
 ‘I used to do so, on the gutters, when I was a boy,’ replied Mr.
-Pickwick.
+[[Pickwick]].
 
 ‘Try it now,’ said Wardle.
 
-‘Oh, do, please, Mr. Pickwick!’ cried all the ladies.
+‘Oh, do, please, Mr. [[Pickwick]]!’ cried all the ladies.
 
 ‘I should be very happy to afford you any amusement,’ replied Mr.
-Pickwick, ‘but I haven’t done such a thing these thirty years.’
+[[Pickwick]], ‘but I haven’t done such a thing these thirty years.’
 
 ‘Pooh! pooh! Nonsense!’ said Wardle, dragging off his skates with the
 impetuosity which characterised all his proceedings. ‘Here; I’ll keep
@@ -401,21 +401,21 @@ you company; come along!’ And away went the good-tempered old fellow
 down the slide, with a rapidity which came very close upon Mr. Weller,
 and beat the fat boy all to nothing.
 
-Mr. Pickwick paused, considered, pulled off his gloves and put them in
+Mr. [[Pickwick]] paused, considered, pulled off his gloves and put them in
 his hat; took two or three short runs, baulked himself as often, and at
 last took another run, and went slowly and gravely down the slide, with
 his feet about a yard and a quarter apart, amidst the gratified shouts
 of all the spectators.
 
 ‘Keep the pot a-bilin’, Sir!’ said Sam; and down went Wardle again, and
-then Mr. Pickwick, and then Sam, and then Mr. Winkle, and then Mr. Bob
+then Mr. [[Pickwick]], and then Sam, and then Mr. Winkle, and then Mr. Bob
 Sawyer, and then the fat boy, and then Mr. Snodgrass, following closely
 upon each other’s heels, and running after each other with as much
 eagerness as if their future prospects in life depended on their
 expedition.
 
 It was the most intensely interesting thing, to observe the manner in
-which Mr. Pickwick performed his share in the ceremony; to watch the
+which Mr. [[Pickwick]] performed his share in the ceremony; to watch the
 torture of anxiety with which he viewed the person behind, gaining upon
 him at the imminent hazard of tripping him up; to see him gradually
 expend the painful force he had put on at first, and turn slowly round
@@ -423,7 +423,7 @@ on the slide, with his face towards the point from which he had started;
 to contemplate the playful smile which mantled on his face when he had
 accomplished the distance, and the eagerness with which he turned round
 when he had done so, and ran after his predecessor, his black gaiters
-tripping pleasantly through the snow, and his eyes beaming cheerfulness
+tripping pleasantly through the [[Snow|snow]], and his eyes beaming cheerfulness
 and gladness through his spectacles. And when he was knocked down (which
 happened upon the average every third round), it was the most
 invigorating sight that can possibly be imagined, to behold him gather
@@ -434,84 +434,84 @@ nothing Could abate.
 The sport was at its height, the sliding was at the quickest, the
 laughter was at the loudest, when a sharp smart crack was heard. There
 was a quick rush towards the bank, a wild scream from the ladies, and a
-shout from Mr. Tupman. A large mass of ice disappeared; the water
-bubbled up over it; Mr. Pickwick’s hat, gloves, and handkerchief were
-floating on the surface; and this was all of Mr. Pickwick that anybody
+shout from Mr. Tupman. A large mass of ice disappeared; the [[Water|water]]
+bubbled up over it; Mr. [[Pickwick]]’s hat, gloves, and handkerchief were
+floating on the surface; and this was all of Mr. [[Pickwick]] that anybody
 could see.
 
 Dismay and anguish were depicted on every countenance; the males turned
 pale, and the females fainted; Mr. Snodgrass and Mr. Winkle grasped each
 other by the hand, and gazed at the spot where their leader had gone
 down, with frenzied eagerness; while Mr. Tupman, by way of rendering the
-promptest assistance, and at the same time conveying to any persons who
+promptest assistance, and at the same [[Time|time]] conveying to any persons who
 might be within hearing, the clearest possible notion of the
-catastrophe, ran off across the country at his utmost speed, screaming
-‘Fire!’ with all his might.
+catastrophe, ran off across the country at his utmost [[Speed|speed]], screaming
+‘[[Fire]]!’ with all his might.
 
-It was at this moment, when old Wardle and Sam Weller were approaching
+It was at this moment, when old Wardle and [[Sam Weller]] were approaching
 the hole with cautious steps, and Mr. Benjamin Allen was holding a
 hurried consultation with Mr. Bob Sawyer on the advisability of bleeding
 the company generally, as an improving little bit of professional
 practice--it was at this very moment, that a face, head, and shoulders,
-emerged from beneath the water, and disclosed the features and
-spectacles of Mr. Pickwick.
+emerged from beneath the [[Water|water]], and disclosed the features and
+spectacles of Mr. [[Pickwick]].
 
 ‘Keep yourself up for an instant--for only one instant!’ bawled Mr.
 Snodgrass.
 
 ‘Yes, do; let me implore you--for my sake!’ roared Mr. Winkle, deeply
 affected. The adjuration was rather unnecessary; the probability being,
-that if Mr. Pickwick had declined to keep himself up for anybody else’s
-sake, it would have occurred to him that he might as well do so, for his
+that if Mr. [[Pickwick]] had declined to keep himself up for anybody else’s
+sake, it would have occurred to him that he might as [[Well|well]] do so, for his
 own.
 
-‘Do you feel the bottom there, old fellow?’ said Wardle.
+‘Do you feel the [[Bottom|bottom]] there, old fellow?’ said Wardle.
 
-‘Yes, certainly,’ replied Mr. Pickwick, wringing the water from his head
+‘Yes, certainly,’ replied Mr. [[Pickwick]], wringing the [[Water|water]] from his head
 and face, and gasping for breath. ‘I fell upon my back. I couldn’t get
 on my feet at first.’
 
-The clay upon so much of Mr. Pickwick’s coat as was yet visible, bore
+The clay upon so much of Mr. [[Pickwick]]’s coat as was yet visible, bore
 testimony to the accuracy of this statement; and as the fears of the
 spectators were still further relieved by the fat boy’s suddenly
-recollecting that the water was nowhere more than five feet deep,
+recollecting that the [[Water|water]] was nowhere more than five feet deep,
 prodigies of valour were performed to get him out. After a vast quantity
-of splashing, and cracking, and struggling, Mr. Pickwick was at length
+of splashing, and cracking, and struggling, Mr. [[Pickwick]] was at length
 fairly extricated from his unpleasant position, and once more stood on
 dry land.
 
-‘Oh, he’ll catch his death of cold,’ said Emily.
+‘Oh, he’ll catch his [[Death|death]] of cold,’ said Emily.
 
 ‘Dear old thing!’ said Arabella. ‘Let me wrap this shawl round you, Mr.
-Pickwick.’
+[[Pickwick]].’
 
 ‘Ah, that’s the best thing you can do,’ said Wardle; ‘and when you’ve
-got it on, run home as fast as your legs can carry you, and jump into
+got it on, run [[Home|home]] as fast as your legs can carry you, and jump into
 bed directly.’
 
 A dozen shawls were offered on the instant. Three or four of the
-thickest having been selected, Mr. Pickwick was wrapped up, and started
+thickest having been selected, Mr. [[Pickwick]] was wrapped up, and started
 off, under the guidance of Mr. Weller; presenting the singular
 phenomenon of an elderly gentleman, dripping wet, and without a hat,
 with his arms bound down to his sides, skimming over the ground, without
 any clearly-defined purpose, at the rate of six good English miles an
 hour.
 
-But Mr. Pickwick cared not for appearances in such an extreme case, and
-urged on by Sam Weller, he kept at the very top of his speed until he
+But Mr. [[Pickwick]] cared not for appearances in such an extreme case, and
+urged on by [[Sam Weller]], he kept at the very top of his [[Speed|speed]] until he
 reached the door of Manor Farm, where Mr. Tupman had arrived some five
 minutes before, and had frightened the old lady into palpitations of the
 heart by impressing her with the unalterable conviction that the kitchen
-chimney was on fire--a calamity which always presented itself in glowing
+chimney was on [[Fire|fire]]--a calamity which always presented itself in glowing
 colours to the old lady’s mind, when anybody about her evinced the
 smallest agitation.
 
-Mr. Pickwick paused not an instant until he was snug in bed. Sam Weller
-lighted a blazing fire in the room, and took up his dinner; a bowl of
-punch was carried up afterwards, and a grand carouse held in honour of
+Mr. [[Pickwick]] paused not an instant until he was snug in bed. [[Sam Weller]]
+lighted a blazing [[Fire|fire]] in the room, and took up his dinner; a bowl of
+punch was carried up afterwards, and a grand carouse held in [[Honour|honour]] of
 his safety. Old Wardle would not hear of his rising, so they made the
-bed the chair, and Mr. Pickwick presided. A second and a third bowl were
-ordered in; and when Mr. Pickwick awoke next morning, there was not a
+bed the chair, and Mr. [[Pickwick]] presided. A second and a third bowl were
+ordered in; and when Mr. [[Pickwick]] awoke next morning, there was not a
 symptom of rheumatism about him; which proves, as Mr. Bob Sawyer very
 justly observed, that there is nothing like hot punch in such cases; and
 that if ever hot punch did fail to act as a preventive, it was merely
@@ -519,13 +519,13 @@ because the patient fell into the vulgar error of not taking enough of
 it.
 
 The jovial party broke up next morning. Breakings-up are capital things
-in our school-days, but in after life they are painful enough. Death,
-self-interest, and fortune’s changes, are every day breaking up many a
+in our school-days, but in after life they are painful enough. [[Death]],
+[[Self|self]]-interest, and fortune’s changes, are every day breaking up many a
 happy group, and scattering them far and wide; and the boys and girls
 never come back again. We do not mean to say that it was exactly the
 case in this particular instance; all we wish to inform the reader is,
 that the different members of the party dispersed to their several
-homes; that Mr. Pickwick and his friends once more took their seats on
+homes; that Mr. [[Pickwick]] and his friends once more took their seats on
 the top of the Muggleton coach; and that Arabella Allen repaired to her
 place of destination, wherever it might have been--we dare say Mr.
 Winkle knew, but we confess we don’t--under the care and guardianship of
@@ -533,29 +533,29 @@ her brother Benjamin, and his most intimate and particular friend, Mr.
 Bob Sawyer.
 
 Before they separated, however, that gentleman and Mr. Benjamin Allen
-drew Mr. Pickwick aside with an air of some mystery; and Mr. Bob Sawyer,
-thrusting his forefinger between two of Mr. Pickwick’s ribs, and thereby
+drew Mr. [[Pickwick]] aside with an air of some mystery; and Mr. Bob Sawyer,
+thrusting his forefinger between two of Mr. [[Pickwick]]’s ribs, and thereby
 displaying his native drollery, and his knowledge of the anatomy of the
-human frame, at one and the same time, inquired--
+human frame, at one and the same [[Time|time]], inquired--
 
-‘I say, old boy, where do you hang out?’ Mr. Pickwick replied that he
+‘I say, old boy, where do you hang out?’ Mr. [[Pickwick]] replied that he
 was at present suspended at the George and Vulture.
 
 ‘I wish you’d come and see me,’ said Bob Sawyer.
 
-‘Nothing would give me greater pleasure,’ replied Mr. Pickwick.
+‘Nothing would give me greater pleasure,’ replied Mr. [[Pickwick]].
 
 ‘There’s my lodgings,’ said Mr. Bob Sawyer, producing a card. ‘Lant
 Street, Borough; it’s near Guy’s, and handy for me, you know. Little
 distance after you’ve passed St. George’s Church--turns out of the High
 Street on the right hand side the way.’
 
-‘I shall find it,’ said Mr. Pickwick.
+‘I shall find it,’ said Mr. [[Pickwick]].
 
-‘Come on Thursday fortnight, and bring the other chaps with you,’ said
-Mr. Bob Sawyer; ‘I’m going to have a few medical fellows that night.’
+‘Come on [[thursday|Thursday]] fortnight, and bring the other chaps with you,’ said
+Mr. Bob Sawyer; ‘I’m going to have a few medical fellows that [[Night|night]].’
 
-Mr. Pickwick expressed the pleasure it would afford him to meet the
+Mr. [[Pickwick]] expressed the pleasure it would afford him to meet the
 medical fellows; and after Mr. Bob Sawyer had informed him that he meant
 to be very cosy, and that his friend Ben was to be one of the party,
 they shook hands and separated.
@@ -565,7 +565,7 @@ Mr. Winkle was whispering, during this brief conversation, to Arabella
 Allen; and if so, what he said; and furthermore, whether Mr. Snodgrass
 was conversing apart with Emily Wardle; and if so, what _he_ said. To
 this, we reply, that whatever they might have said to the ladies, they
-said nothing at all to Mr. Pickwick or Mr. Tupman for eight-and-twenty
+said nothing at all to Mr. [[Pickwick]] or Mr. Tupman for eight-and-twenty
 miles, and that they sighed very often, refused ale and brandy, and
 looked gloomy. If our observant lady readers can deduce any satisfactory
 inferences from these facts, we beg them by all means to do so.

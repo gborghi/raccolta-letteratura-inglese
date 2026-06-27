@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 8 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,13 +26,13 @@ by any means reconcile her more to her lot; nor did the particulars
 
 which he entered into while they were standing up, of the horses and
 
-dogs of the friend whom he had just left, and of a proposed exchange of
+[[dogs]] of the friend whom he had just left, and of a proposed exchange of
 
 terriers between them, interest her so much as to prevent her looking
 
 very often towards that part of the room where she had left Mr. Tilney.
 
-Of her dear Isabella, to whom she particularly longed to point out that
+Of her dear [[Isabella]], to whom she particularly longed to point out that
 
 gentleman, she could see nothing. They were in different sets. She was
 
@@ -90,7 +90,7 @@ once by her appearance and her relationship to Mr. Tilney, was desirous
 
 of being acquainted with her, and readily talked therefore whenever she
 
-could think of anything to say, and had courage and leisure for saying
+could think of anything to say, and had [[Courage|courage]] and leisure for saying
 
 it. But the hindrance thrown in the way of a very speedy intimacy, by
 
@@ -98,7 +98,7 @@ the frequent want of one or more of these requisites, prevented their
 
 doing more than going through the first rudiments of an acquaintance,
 
-by informing themselves how well the other liked Bath, how much she
+by informing themselves how [[Well|well]] the other liked Bath, how much she
 
 admired its buildings and surrounding country, whether she drew, or
 
@@ -108,7 +108,7 @@ played, or sang, and whether she was fond of riding on horseback.
 
 The two dances were scarcely concluded before Catherine found her arm
 
-gently seized by her faithful Isabella, who in great spirits exclaimed,
+gently seized by her faithful [[Isabella]], who in great spirits exclaimed,
 
 “At last I have got you. My dearest creature, I have been looking for
 
@@ -118,13 +118,13 @@ knew I was in the other? I have been quite wretched without you.”
 
 
 
-“My dear Isabella, how was it possible for me to get at you? I could
+“My dear [[Isabella]], how was it possible for me to get at you? I could
 
 not even see where you were.”
 
 
 
-“So I told your brother all the time—but he would not believe me. Do go
+“So I told your brother all the [[Time|time]]—but he would not believe me. Do go
 
 and see for her, Mr. Morland, said I—but all in vain—he would not stir
 
@@ -174,7 +174,7 @@ satisfied, for you are not to know anything at all of the matter.”
 
 
 
-“Well, I declare I never knew anything like you. What can it signify to
+“[[Well]], I declare I never knew anything like you. What can it signify to
 
 you, what we are talking of. Perhaps we are talking about you;
 
@@ -184,15 +184,15 @@ something not very agreeable.”
 
 
 
-In this commonplace chatter, which lasted some time, the original
+In this commonplace chatter, which lasted some [[Time|time]], the original
 
-subject seemed entirely forgotten; and though Catherine was very well
+subject seemed entirely forgotten; and though Catherine was very [[Well|well]]
 
 pleased to have it dropped for a while, she could not avoid a little
 
-suspicion at the total suspension of all Isabella’s impatient desire to
+suspicion at the total suspension of all [[Isabella]]’s impatient [[Desire|desire]] to
 
-see Mr. Tilney. When the orchestra struck up a fresh dance, James would
+see Mr. Tilney. When the orchestra struck up a fresh [[Dance|dance]], James would
 
 have led his fair partner away, but she resisted. “I tell you, Mr.
 
@@ -200,7 +200,7 @@ Morland,” she cried, “I would not do such a thing for all the world.
 
 How can you be so teasing; only conceive, my dear Catherine, what your
 
-brother wants me to do. He wants me to dance with him again, though I
+brother wants me to do. He wants me to [[Dance|dance]] with him again, though I
 
 tell him that it is a most improper thing, and entirely against the
 
@@ -210,7 +210,7 @@ partners.”
 
 
 
-“Upon my honour,” said James, “in these public assemblies, it is as
+“Upon my [[Honour|honour]],” said James, “in these public assemblies, it is as
 
 often done as not.”
 

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 9"
+title: "[[Sense and Sensibility]] — Chapter 9"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER IX.
 
 The Dashwoods were now settled at Barton with tolerable comfort to
 
-themselves. The house and the garden, with all the objects surrounding
+themselves. The [[house]] and the [[Garden|garden]], with all the objects surrounding
 
 them, were now become familiar, and the ordinary pursuits which had
 
@@ -34,7 +34,7 @@ father. Sir John Middleton, who called on them every day for the first
 
 fortnight, and who was not in the habit of seeing much occupation at
 
-home, could not conceal his amazement on finding them always employed.
+[[Home|home]], could not conceal his amazement on finding them always employed.
 
 
 
@@ -60,19 +60,19 @@ described, the girls had, in one of their earliest walks, discovered an
 
 ancient respectable looking mansion which, by reminding them a little
 
-of Norland, interested their imagination and made them wish to be
+of Norland, interested their [[Imagination|imagination]] and made them wish to be
 
 better acquainted with it. But they learnt, on enquiry, that its
 
 possessor, an elderly lady of very good character, was unfortunately
 
-too infirm to mix with the world, and never stirred from home.
+too infirm to mix with the world, and never stirred from [[Home|home]].
 
 
 
 The whole country about them abounded in beautiful walks. The high
 
-downs which invited them from almost every window of the cottage to
+downs which invited them from almost every [[Window|window]] of the cottage to
 
 seek the exquisite enjoyment of air on their summits, were a happy
 
@@ -100,7 +100,7 @@ They gaily ascended the downs, rejoicing in their own penetration at
 
 every glimpse of blue sky; and when they caught in their faces the
 
-animating gales of a high south-westerly wind, they pitied the fears
+animating gales of a high south-westerly [[Wind|wind]], they pitied the fears
 
 which had prevented their mother and Elinor from sharing such
 
@@ -114,7 +114,7 @@ this?—Margaret, we will walk here at least two hours.”
 
 
 
-Margaret agreed, and they pursued their way against the wind, resisting
+Margaret agreed, and they pursued their way against the [[Wind|wind]], resisting
 
 it with laughing delight for about twenty minutes longer, when suddenly
 
@@ -124,13 +124,13 @@ their face. Chagrined and surprised, they were obliged, though
 
 unwillingly, to turn back, for no shelter was nearer than their own
 
-house. One consolation however remained for them, to which the exigence
+[[house]]. One consolation however remained for them, to which the exigence
 
 of the moment gave more than usual propriety,—it was that of running
 
-with all possible speed down the steep side of the hill which led
+with all possible [[Speed|speed]] down the steep side of the [[Hill|hill]] which led
 
-immediately to their garden gate.
+immediately to their [[Garden|garden]] gate.
 
 
 
@@ -140,13 +140,13 @@ brought her suddenly to the ground; and Margaret, unable to stop
 
 herself to assist her, was involuntarily hurried along, and reached the
 
-bottom in safety.
+[[Bottom|bottom]] in safety.
 
 
 
 A gentleman carrying a gun, with two pointers playing round him, was
 
-passing up the hill and within a few yards of Marianne, when her
+passing up the [[Hill|hill]] and within a few yards of Marianne, when her
 
 accident happened. He put down his gun and ran to her assistance. She
 
@@ -158,19 +158,19 @@ services; and perceiving that her modesty declined what her situation
 
 rendered necessary, took her up in his arms without farther delay, and
 
-carried her down the hill. Then passing through the garden, the gate of
+carried her down the [[Hill|hill]]. Then passing through the [[Garden|garden]], the gate of
 
 which had been left open by Margaret, he bore her directly into the
 
-house, whither Margaret was just arrived, and quitted not his hold till
+[[house]], whither Margaret was just arrived, and quitted not his hold till
 
 he had seated her in a chair in the parlour.
 
 
 
-Elinor and her mother rose up in amazement at their entrance, and while
+Elinor and her mother [[Rose|rose]] up in amazement at their entrance, and while
 
-the eyes of both were fixed on him with an evident wonder and a secret
+the eyes of both were fixed on him with an evident [[Wonder|wonder]] and a secret
 
 admiration which equally sprung from his appearance, he apologized for
 
@@ -182,11 +182,11 @@ additional charms from his voice and expression. Had he been even old,
 
 ugly, and vulgar, the gratitude and kindness of Mrs. Dashwood would
 
-have been secured by any act of attention to her child; but the
+have been secured by any act of attention to her [[Child|child]]; but the
 
-influence of youth, beauty, and elegance, gave an interest to the
+influence of youth, [[Beauty|beauty]], and elegance, gave an interest to the
 
-action which came home to her feelings.
+action which came [[Home|home]] to her feelings.
 
 
 
@@ -196,11 +196,11 @@ always attended her, invited him to be seated. But this he declined, as
 
 he was dirty and wet. Mrs. Dashwood then begged to know to whom she was
 
-obliged. His name, he replied, was Willoughby, and his present home was
+obliged. His name, he replied, was Willoughby, and his present [[Home|home]] was
 
-at Allenham, from whence he hoped she would allow him the honour of
+at Allenham, from whence he hoped she would allow him the [[Honour|honour]] of
 
-calling tomorrow to enquire after Miss Dashwood. The honour was readily
+calling tomorrow to enquire after Miss Dashwood. The [[Honour|honour]] was readily
 
 granted, and he then departed, to make himself still more interesting,
 
@@ -208,7 +208,7 @@ in the midst of a heavy rain.
 
 
 
-His manly beauty and more than common gracefulness were instantly the
+His manly [[Beauty|beauty]] and more than common gracefulness were instantly the
 
 theme of general admiration, and the laugh which his gallantry raised
 
@@ -220,15 +220,15 @@ rest, for the confusion which crimsoned over her face, on his lifting
 
 her up, had robbed her of the power of regarding him after their
 
-entering the house. But she had seen enough of him to join in all the
+entering the [[house]]. But she had seen enough of him to join in all the
 
 admiration of the others, and with an energy which always adorned her
 
 praise. His person and air were equal to what her fancy had ever drawn
 
-for the hero of a favourite story; and in his carrying her into the
+for the [[Hero|hero]] of a favourite story; and in his carrying her into the
 
-house with so little previous formality, there was a rapidity of
+[[house]] with so little previous formality, there was a rapidity of
 
 thought which particularly recommended the action to her. Every
 
@@ -238,7 +238,7 @@ residence was in their favourite village, and she soon found out that
 
 of all manly dresses a shooting-jacket was the most becoming. Her
 
-imagination was busy, her reflections were pleasant, and the pain of a
+[[Imagination|imagination]] was busy, her reflections were pleasant, and the [[Pain|pain]] of a
 
 sprained ankle was disregarded.
 
@@ -258,7 +258,7 @@ gentleman of the name of Willoughby at Allenham.
 
 good news however; I will ride over tomorrow, and ask him to dinner on
 
-Thursday.”
+[[thursday|Thursday]].”
 
 
 
@@ -292,7 +292,7 @@ Sir John was rather puzzled.
 
 
 
-“Upon my soul,” said he, “I do not know much about him as to all
+“Upon my [[Soul|soul]],” said he, “I do not know much about him as to all
 
 _that_. But he is a pleasant, good humoured fellow, and has got the
 
@@ -310,7 +310,7 @@ mind.
 
 
 
-“But who is he?” said Elinor. “Where does he come from? Has he a house
+“But who is he?” said Elinor. “Where does he come from? Has he a [[house]]
 
 at Allenham?”
 
@@ -322,9 +322,9 @@ told them that Mr. Willoughby had no property of his own in the
 
 country; that he resided there only while he was visiting the old lady
 
-at Allenham Court, to whom he was related, and whose possessions he was
+at Allenham [[Court]], to whom he was related, and whose possessions he was
 
-to inherit; adding, “Yes, yes, he is very well worth catching I can
+to inherit; adding, “Yes, yes, he is very [[Well|well]] worth catching I can
 
 tell you, Miss Dashwood; he has a pretty little estate of his own in
 
@@ -358,7 +358,7 @@ will not be ineligible.”
 
 Sir John. “I remember last Christmas at a little hop at the park, he
 
-danced from eight o’clock till four, without once sitting down.”
+danced from eight o’[[Clock|clock]] till four, without once sitting down.”
 
 
 
@@ -396,7 +396,7 @@ intended; and ‘setting one’s cap at a man,’ or ‘making a conquest,’ ar
 
 the most odious of all. Their tendency is gross and illiberal; and if
 
-their construction could ever be deemed clever, time has long ago
+their construction could ever be deemed clever, [[Time|time]] has long ago
 
 destroyed all its ingenuity.”
 
@@ -410,7 +410,7 @@ heartily as if he did, and then replied,
 
 “Ay, you will make conquests enough, I dare say, one way or other. Poor
 
-Brandon! he is quite smitten already, and he is very well worth setting
+Brandon! he is quite smitten already, and he is very [[Well|well]] worth setting
 
 your cap at, I can tell you, in spite of all this tumbling about and
 

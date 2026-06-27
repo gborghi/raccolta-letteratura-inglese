@@ -16,42 +16,42 @@ tags:
 
 _From a letter of "Johnny Bouquet," in N. Y. "Tribune," March 27, '81._
 
-"I visited at Salisbury, N. C., the prison pen or the site of it, from
+"I visited at Salisbury, N. C., the [[Prison|prison]] pen or the site of it, from
 which nearly 11,000 victims of southern politicians were buried, being
 confined in a pen without shelter, exposed to all the elements could do,
-to all the disease herding animals together could create, and to all
-the starvation and cruelty an incompetent and intense caitiff government
+to all the disease herding [[Animals|animals]] together could create, and to all
+the starvation and cruelty an incompetent and intense caitiff [[government]]
 could accomplish. From the conversation and almost from the recollection
 of the northern people this place has dropp' d, but not so in the gossip
 of the Salisbury people, nearly all of whom say that the half was
-never told; that such was the nature of habitual outrage here that when
+never told; that such was the [[Nature|nature]] of habitual outrage here that when
 Federal prisoners escaped the townspeople harbor'd them in their barns,
 afraid the vengeance of God would fall on them, to deliver even their
-enemies back to such cruelty. Said one old man at the Boyden House, who
+enemies back to such cruelty. Said one old man at the Boyden [[house|House]], who
 join'd in the conversation one evening: 'There were often men buried out
-of that prison pen still alive. I have the testimony of a surgeon that
+of that [[Prison|prison]] pen still alive. I have the testimony of a surgeon that
 he had seen them pull'd out of the dead cart with their eyes open and
 taking notice, but too weak to lift a finger. There was not the least
-excuse for such treatment, as the confederate government had seized
-every sawmill in the region, and could just as well have put up shelter
+excuse for such treatment, as the confederate [[government]] had seized
+every sawmill in the region, and could just as [[Well|well]] have put up shelter
 for these prisoners as not, wood being plentiful here. It will be hard
 to make any honest man in Salisbury say that there was the slightest
 necessity for those prisoners having to live in old tents, caves
-and holes half-full of water. Representations were made to the Davis
-government against the officers in charge of it, but no attention
+and holes half-full of [[Water|water]]. Representations were made to the Davis
+[[government]] against the officers in charge of it, but no attention
 was paid to them. Promotion was the punishment for cruelty there. The
 inmates were skeletons. Hell could have no terrors for any man who died
 there, except the inhuman keepers.'"
 
 
-DEATH OF A PENNSYLVANIA SOLDIER
+[[Death|DEATH]] OF A PENNSYLVANIA SOLDIER
 
 _Frank H. Irwin, company E, 93rd Pennsylvania--died May 1, '65--My
-letter to his mother_--Dear madam: No doubt you and Frank's friends have
-heard the sad fact of his death in hospital here, through his uncle,
+letter to his mother_--Dear madam: No [[Doubt|doubt]] you and Frank's friends have
+heard the sad fact of his [[Death|death]] in hospital here, through his uncle,
 or the lady from Baltimore, who took his things. (I have not seen them,
 only heard of them visiting Frank.) I will write you a few lines--as
-a casual friend that sat by his death-bed. Your son, corporal Frank H.
+a casual friend that sat by his [[Death|death]]-bed. Your son, corporal Frank H.
 Irwin, was wounded near fort Fisher, Virginia, March 25th, 1865--the
 wound was in the left knee, pretty bad. He was sent up to Washington,
 was receiv'd in ward C, Armory-square hospital, March 28th--the wound
@@ -59,25 +59,25 @@ became worse, and on the 4th of April the leg was amputated a little
 above the knee--the operation was perform' d by Dr. Bliss, one of the
 best surgeons in the army--he did the whole operation himself--there was
 a good deal of bad matter gather'd--the bullet was found in the knee.
-For a couple of weeks afterwards he was doing pretty well. I visited
+For a couple of weeks afterwards he was doing pretty [[Well|well]]. I visited
 and sat by him frequently, as he was fond of having me. The last ten or
 twelve days of April I saw that his case was critical. He previously had
 some fever, with cold spells. The last week in April he was much of
-the time flighty--but always mild and gentle. He died first of May. The
-actual cause of death was pyaemia, (the absorption of the matter in the
+the [[Time|time]] flighty--but always mild and gentle. He died first of May. The
+actual cause of [[Death|death]] was pyaemia, (the absorption of the matter in the
 system instead of its discharge.) Frank, as far as I saw, had everything
 requisite in surgical treatment, nursing, &c. He had watches much of the
-time. He was so good and well-behaved and affectionate, I myself liked
+[[Time|time]]. He was so good and [[Well|well]]-behaved and affectionate, I myself liked
 him very much. I was in the habit of coming in afternoons and sitting by
 him, and soothing him, and he liked to have me--liked to put his arm out
 and lay his hand on my knee--would keep it so a long while. Toward the
-last he was more restless and flighty at night--often fancied himself
+last he was more restless and flighty at [[Night|night]]--often fancied himself
 with his regiment--by his talk sometimes seem'd as if his feelings
 were hurt by being blamed by his officers for something he was entirely
-innocent of--said, "I never in my life was thought capable of such a
+[[Innocent|innocent]] of--said, "I never in my life was thought capable of such a
 thing, and never was." At other times he would fancy himself talking as
 it seem'd to children or such like, his relatives I suppose, and giving
-them good advice; would talk to them a long while. All the time he was
+them good advice; would talk to them a long while. All the [[Time|time]] he was
 out of his head not one single bad word or idea escaped him. It was
 remark'd that many a man's conversation in his senses was not half as
 good as Frank's delirium. He seem'd quite willing to die--he had become
@@ -89,8 +89,8 @@ that he behaved so brave, so composed, and so sweet and affectionate,
 it could not be surpass'd. And now like many other noble and good men,
 after serving his country as a soldier, he has yielded up his young life
 at the very outset in her service. Such things are gloomy--yet there
-is a text, "God doeth all things well"--the meaning of which, after due
-time, appears to the soul.
+is a text, "God doeth all things [[Well|well]]"--the meaning of which, after due
+[[Time|time]], appears to the [[Soul|soul]].
 
 I thought perhaps a few words, though from a stranger, about your son,
 from one who was with him at the last, might be worth while--for I loved
@@ -103,7 +103,7 @@ W. W.
 
 THE ARMIES RETURNING
 
-_May 7_.--Sunday.--To-day as I was walking a mile or two south of
+_May 7_.--[[Sunday]].--To-day as I was walking a mile or two south of
 Alexandria, I fell in with several large squads of the returning Western
 army, (Sherman's men as they call'd themselves) about a thousand in all,
 the largest portion of them half sick, some convalescents, on their way
@@ -114,6 +114,6 @@ with curiosity, and talk'd with off and on for over an hour. Here and
 there was one very sick; but all were able to walk, except some of
 the last, who had given out, and were seated on the ground, faint and
 despondent. These I tried to cheer, told them the camp they were to
-reach was only a little way further over the hill, and so got them up
+reach was only a little way further over the [[Hill|hill]], and so got them up
 and started, accompanying some of the worst a little way, and helping
 them, or putting them under the support of stronger comrades.

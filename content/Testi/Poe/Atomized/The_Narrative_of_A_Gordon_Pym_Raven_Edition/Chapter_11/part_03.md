@@ -26,7 +26,7 @@ tags:
 
 
 
-      About noon Parker declared that he saw land off the larboard
+      About [[Noon|noon]] Parker declared that he saw land off the larboard
 
       quarter, and it was with the utmost difficulty I could restrain
 
@@ -38,15 +38,15 @@ tags:
 
       direction pointed out, I could not perceive the faintest
 
-      appearance of the shore—indeed, I was too well aware that we were
+      appearance of the shore—indeed, I was too [[Well|well]] aware that we were
 
-      far from any land to indulge in a hope of that nature. It was a
+      far from any land to indulge in a [[Hope|hope]] of that [[Nature|nature]]. It was a
 
-      long time, nevertheless, before I could convince Parker of his
+      long [[Time|time]], nevertheless, before I could convince Parker of his
 
-      mistake. He then burst into a flood of tears, weeping like a
+      mistake. He then burst into a flood of [[Tears|tears]], weeping like a
 
-      child, with loud cries and sobs, for two or three hours, when
+      [[Child|child]], with loud cries and sobs, for two or three hours, when
 
       becoming exhausted, he fell asleep.
 
@@ -54,7 +54,7 @@ tags:
 
       Peters and Augustus now made several ineffectual efforts to
 
-      swallow portions of the leather. I advised them to chew it and
+      [[Swallow|swallow]] portions of the leather. I advised them to chew it and
 
       spit it out; but they were too excessively debilitated to be able
 
@@ -62,7 +62,7 @@ tags:
 
       intervals, and found some relief from so doing; my chief distress
 
-      was for water, and I was only prevented from taking a draught
+      was for [[Water|water]], and I was only prevented from taking a draught
 
       from the sea by remembering the horrible consequences which thus
 
@@ -76,7 +76,7 @@ tags:
 
       to the eastward, and on our larboard bow. She appeared to be a
 
-      large ship, and was coming nearly athwart us, being probably
+      large [[Ship|ship]], and was coming nearly athwart us, being probably
 
       twelve or fifteen miles distant. None of my companions had as yet
 
@@ -98,19 +98,19 @@ tags:
 
       tearing their hair, and praying and cursing by turns. I was so
 
-      affected by their conduct, as well as by what I considered a sure
+      affected by their conduct, as [[Well|well]] as by what I considered a sure
 
       prospect of deliverance, that I could not refrain from joining in
 
-      with their madness, and gave way to the impulses of my gratitude
+      with their [[Madness|madness]], and gave way to the impulses of my gratitude
 
-      and ecstasy by lying and rolling on the deck, clapping my hands,
+      and ecstasy by lying and [[rolling]] on the deck, clapping my hands,
 
       shouting, and other similar acts, until I was suddenly called to
 
       my recollection, and once more to the extreme human misery and
 
-      despair, by perceiving the ship all at once with her stern fully
+      [[Despair|despair]], by perceiving the [[Ship|ship]] all at once with her stern fully
 
       presented toward us, and steering in a direction nearly opposite
 
@@ -118,7 +118,7 @@ tags:
 
 
 
-      It was some time before I could induce my poor companions to
+      It was some [[Time|time]] before I could induce my poor companions to
 
       believe that this sad reverse in our prospects had actually taken
 
@@ -130,11 +130,11 @@ tags:
 
       affected me. In spite of all I could say or do to the contrary,
 
-      he persisted in saying that the ship was rapidly nearing us, and
+      he persisted in saying that the [[Ship|ship]] was rapidly nearing us, and
 
       in making preparations to go on board of her. Some seaweed
 
-      floating by the brig, he maintained that it was the ship’s boat,
+      floating by the brig, he maintained that it was the [[Ship|ship]]’s boat,
 
       and endeavoured to throw himself upon it, howling and shrieking
 
@@ -146,7 +146,7 @@ tags:
 
       Having become in some degree pacified, we continued to watch the
 
-      ship until we finally lost sight of her, the weather becoming
+      [[Ship|ship]] until we finally lost sight of her, the weather becoming
 
       hazy, with a light breeze springing up. As soon as she was
 
@@ -154,7 +154,7 @@ tags:
 
       expression of countenance which made me shudder. There was about
 
-      him an air of self-possession which I had not noticed in him
+      him an air of [[Self|self]]-possession which I had not noticed in him
 
       until now, and before he opened his lips my heart told me what he
 

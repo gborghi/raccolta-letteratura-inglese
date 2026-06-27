@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-"I know there's water here," said Pump.  "They
+"I know there's [[Water|water]] here," said Pump.  "They
 couldn't keep it out of the stone-work when they
 made the tunnel, and old Ivywood hit the hydraulic
 engineer with a spirit level.  With the bit of covert
 here and the sea behind us we ought to be able to get
-food of one kind or another, when the cheese has given
+food of one kind or another, when the [[cheese]] has given
 out, and donkeys can eat anything.  By the way," he
 added with some embarrassment, "you don't mind my
 saying it, Captain, but I think we'd better keep that
@@ -36,7 +36,7 @@ which I will take a glass now, to celebrate our
 glorious victory over Leveson and his tin tabernacle."
 
 He drained one glass and then sat down on the
-cask, as if to put temptation behind him.  His blue
+cask, as if to put [[Temptation|temptation]] behind him.  His blue
 ruminant bull's eye seemed to plunge deeper and deeper
 into the emerald twilight of the trees in front of him,
 and it was long before he spoke again.
@@ -46,13 +46,13 @@ a friend of yours--a gentleman named Bunchy Robinson,
 I think--was also a _habitué_ here."
 
 "Yes, he knew the way," answered Pump, leading
-the donkey to the most suitable patch of pasturage.
+the [[donkey]] to the most suitable patch of pasturage.
 
 "May we, do you think, have the pleasure of a visit
 from Mr. Robinson?" inquired the Captain.
 
 "Not unless they're jolly careless up in Blackstone
-Gaol," replied Pump.  And he moved the cheese well
+Gaol," replied Pump.  And he moved the [[cheese]] [[Well|well]]
 into the arch of the tunnel.  Dalroy still sat with his
 square chin on his hand, staring at the mystery of the
 little wood.
@@ -61,18 +61,18 @@ little wood.
 Humphrey.
 
 "The deepest thoughts are all commonplaces," said
-Dalroy.  "That is why I believe in Democracy, which
-is more than you do, you foul blood-stained old British
+Dalroy.  "That is why I believe in [[democracy|Democracy]], which
+is more than you do, you foul [[Blood|blood]]-stained old British
 Tory.  And the deepest commonplace of all is that
-Vanitas Vanitatem, which is not pessimism but is
+[[Vanitas]] Vanitatem, which is not pessimism but is
 really the opposite of pessimism.  It is man's futility
 that makes us feel he must be a god.  And I think
 of this tunnel, and how the poor old lunatic walked
-about on this grass, watching it being built, the soul
-in him on fire with the future.  And he saw the whole
+about on this grass, watching it being built, the [[Soul|soul]]
+in him on [[Fire|fire]] with the future.  And he saw the whole
 world changed and the seas thronged with his new
 shipping; and now," and Dalroy's voice changed and
-broke, "now there is good pasture for the donkey
+broke, "now there is good pasture for the [[donkey]]
 and it is very quiet here."
 
 "Yes," said Pump, in some way that conveyed his
@@ -80,7 +80,7 @@ knowledge that the Captain was thinking of other
 things also.  The Captain went on dreamily:
 
 "And I think about another Lord Ivywood recorded
-in history who also had a great vision.  For it is a
+in [[history]] who also had a great vision.  For it is a
 great vision after all, and though the man is a prig,
 he is brave.  He also wants to drive a tunnel--between
 East and West--to make the Indian Empire more
@@ -94,11 +94,11 @@ be indeed enough life and growth in your England to
 leave it at last as this is left, buried in English forests
 and wasted by an English sea."
 
-The silence fell between them again, and again there
+The [[Silence|silence]] fell between them again, and again there
 was only the slight sound the animal made in eating.
 As Dalroy had said, it was very quiet there.
 
-But it was not quiet in Pebblewick that night;
+But it was not quiet in Pebblewick that [[Night|night]];
 when the Riot Act was read, and all the people who had
 seen the sign-board outside fought all the people who
 hadn't seen the sign-board outside; or when babies and

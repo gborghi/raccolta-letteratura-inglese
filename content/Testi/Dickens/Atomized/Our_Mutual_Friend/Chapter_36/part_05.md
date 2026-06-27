@@ -25,10 +25,10 @@ George Radfoot?’
 ‘Perhaps you done it yourself?’ said Riderhood, with a threatening
 action.
 
-‘I alone know,’ returned the man, sternly shaking his head, ‘the
-mysteries of that crime. I alone know that your trumped-up story cannot
-possibly be true. I alone know that it must be altogether false, and
-that you must know it to be altogether false. I come here to-night to
+‘I [[Alone|alone]] know,’ returned the man, sternly shaking his head, ‘the
+mysteries of that crime. I [[Alone|alone]] know that your trumped-up story cannot
+possibly be true. I [[Alone|alone]] know that it must be altogether false, and
+that you must know it to be altogether false. I come here to-[[Night|night]] to
 tell you so much of what I know, and no more.’
 
 Mr Riderhood, with his crooked eye upon his visitor, meditated for some
@@ -40,20 +40,20 @@ suddenly down. ‘And turn the key and stand by it! If you know all this,
 you sir,’ getting, as he spoke, between the visitor and the door, ‘why
 han’t you gone to Lawyer Lightwood?’
 
-‘That, also, is alone known to myself,’ was the cool answer.
+‘That, also, is [[Alone|alone]] known to myself,’ was the cool answer.
 
 ‘Don’t you know that, if you didn’t do the deed, what you say you could
 tell is worth from five to ten thousand pound?’ asked Riderhood.
 
-‘I know it very well, and when I claim the money you shall share it.’
+‘I know it very [[Well|well]], and when I claim the money you shall share it.’
 
 The honest man paused, and drew a little nearer to the visitor, and a
 little further from the door.
 
-‘I know it,’ repeated the man, quietly, ‘as well as I know that you and
+‘I know it,’ repeated the man, quietly, ‘as [[Well|well]] as I know that you and
 George Radfoot were one together in more than one dark business; and as
-well as I know that you, Roger Riderhood, conspired against an innocent
-man for blood-money; and as well as I know that I can—and that I swear
+[[Well|well]] as I know that you, Roger Riderhood, conspired against an [[Innocent|innocent]]
+man for [[Blood|blood]]-money; and as [[Well|well]] as I know that I can—and that I swear
 I will!—give you up on both scores, and be the proof against you in my
 own person, if you defy me!’
 
@@ -67,10 +67,10 @@ it worthy of yourself, to talk of my defying you afore ever you say what
 you want of me?’
 
 ‘I don’t want much,’ said the man. ‘This accusation of yours must not be
-left half made and half unmade. What was done for the blood-money must
+left half made and half unmade. What was done for the [[Blood|blood]]-money must
 be thoroughly undone.’
 
-‘Well; but Shipmate—’
+‘[[Well]]; but Shipmate—’
 
 ‘Don’t call me Shipmate,’ said the man.
 
@@ -78,19 +78,19 @@ be thoroughly undone.’
 Captain. It’s a honourable title, and you fully look it. Captain! Ain’t
 the man dead? Now I ask you fair. Ain’t Gaffer dead?’
 
-‘Well,’ returned the other, with impatience, ‘yes, he is dead. What
+‘[[Well]],’ returned the other, with impatience, ‘yes, he is dead. What
 then?’
 
 ‘Can words hurt a dead man, Captain? I only ask you fair.’
 
-‘They can hurt the memory of a dead man, and they can hurt his living
+‘They can hurt the [[Memory|memory]] of a dead man, and they can hurt his living
 children. How many children had this man?’
 
 ‘Meaning Gaffer, Captain?’
 
 ‘Of whom else are we speaking?’ returned the other, with a movement of
 his foot, as if Rogue Riderhood were beginning to sneak before him in
-the body as well as the spirit, and he spurned him off. ‘I have heard
+the [[Body|body]] as [[Well|well]] as the spirit, and he spurned him off. ‘I have heard
 of a daughter, and a son. I ask for information; I ask YOUR daughter; I
 prefer to speak to her. What children did Hexam leave?’
 
@@ -104,22 +104,22 @@ Thus encouraged, Pleasant explained that there were only Lizzie, the
 daughter in question, and the youth. Both very respectable, she added.
 
 ‘It is dreadful that any stigma should attach to them,’ said the
-visitor, whom the consideration rendered so uneasy that he rose, and
+visitor, whom the consideration rendered so uneasy that he [[Rose|rose]], and
 paced to and fro, muttering, ‘Dreadful! Unforeseen? How could it be
 foreseen!’ Then he stopped, and asked aloud: ‘Where do they live?’
 
 Pleasant further explained that only the daughter had resided with the
-father at the time of his accidental death, and that she had immediately
+father at the [[Time|time]] of his accidental [[Death|death]], and that she had immediately
 afterwards quitted the neighbourhood.
 
 ‘I know that,’ said the man, ‘for I have been to the place they dwelt
-in, at the time of the inquest. Could you quietly find out for me where
+in, at the [[Time|time]] of the inquest. Could you quietly find out for me where
 she lives now?’
 
-Pleasant had no doubt she could do that. Within what time, did she
-think? Within a day. The visitor said that was well, and he would return
+Pleasant had no [[Doubt|doubt]] she could do that. Within what [[Time|time]], did she
+think? Within a day. The visitor said that was [[Well|well]], and he would return
 for the information, relying on its being obtained. To this dialogue
-Riderhood had attended in silence, and he now obsequiously bespake the
+Riderhood had attended in [[Silence|silence]], and he now obsequiously bespake the
 Captain.
 
 ‘Captain! Mentioning them unfort’net words of mine respecting Gaffer,
@@ -181,9 +181,9 @@ such words as ‘you dog,’ very distinctly understood, ‘you shall share
 it.’
 
 Looking stedfastly at Riderhood, he once more said in a low voice, this
-time with a grim sort of admiration of him as a perfect piece of evil,
+[[Time|time]] with a grim sort of admiration of him as a perfect piece of evil,
 ‘What a liar you are!’ and, nodding his head twice or thrice over the
-compliment, passed out of the shop. But, to Pleasant he said good-night
+compliment, passed out of the shop. But, to Pleasant he said good-[[Night|night]]
 kindly.
 
 The honest man who gained his living by the sweat of his brow remained

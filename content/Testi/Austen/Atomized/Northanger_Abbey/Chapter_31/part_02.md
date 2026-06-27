@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 30 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 30 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-window, sir,” was information on Sarah’s side, which produced only a
+[[Window|window]], sir,” was information on Sarah’s side, which produced only a
 
 bow of acknowledgment from the gentleman, and a silencing nod from her
 
@@ -34,7 +34,7 @@ wishing it. Some explanation on his father’s account he had to give;
 
 but his first purpose was to explain himself, and before they reached
 
-Mr. Allen’s grounds he had done it so well that Catherine did not think
+Mr. Allen’s grounds he had done it so [[Well|well]] that Catherine did not think
 
 it could ever be repeated too often. She was assured of his affection;
 
@@ -48,15 +48,15 @@ excellencies of her character and truly loved her society, I must
 
 confess that his affection originated in nothing better than gratitude,
 
-or, in other words, that a persuasion of her partiality for him had
+or, in other words, that a [[Persuasion|persuasion]] of her partiality for him had
 
 been the only cause of giving her a serious thought. It is a new
 
-circumstance in romance, I acknowledge, and dreadfully derogatory of an
+circumstance in [[Romance|romance]], I acknowledge, and dreadfully derogatory of an
 
 heroine’s dignity; but if it be as new in common life, the credit of a
 
-wild imagination will at least be all my own.
+wild [[Imagination|imagination]] will at least be all my own.
 
 
 
@@ -88,7 +88,7 @@ listened to this account, could not but rejoice in the kind caution
 
 with which Henry had saved her from the necessity of a conscientious
 
-rejection, by engaging her faith before he mentioned the subject; and
+rejection, by engaging her [[Faith|faith]] before he mentioned the subject; and
 
 as he proceeded to give the particulars, and explain the motives of his
 
@@ -98,17 +98,17 @@ delight. The General had had nothing to accuse her of, nothing to lay
 
 to her charge, but her being the involuntary, unconscious object of a
 
-deception which his pride could not pardon, and which a better pride
+[[Deception|deception]] which his [[Pride|pride]] could not pardon, and which a better [[Pride|pride]]
 
 would have been ashamed to own. She was guilty only of being less rich
 
-than he had supposed her to be. Under a mistaken persuasion of her
+than he had supposed her to be. Under a mistaken [[Persuasion|persuasion]] of her
 
 possessions and claims, he had courted her acquaintance in Bath,
 
 solicited her company at Northanger, and designed her for his
 
-daughter-in-law. On discovering his error, to turn her from the house
+daughter-in-law. On discovering his error, to turn her from the [[house]]
 
 seemed the best, though to his feelings an inadequate proof of his
 
@@ -116,23 +116,23 @@ resentment towards herself, and his contempt of her family.
 
 
 
-John Thorpe had first misled him. The General, perceiving his son one
+[[John Thorpe]] had first misled him. The General, perceiving his son one
 
-night at the theatre to be paying considerable attention to Miss
+[[Night|night]] at the theatre to be paying considerable attention to Miss
 
 Morland, had accidentally inquired of Thorpe if he knew more of her
 
 than her name. Thorpe, most happy to be on speaking terms with a man of
 
-General Tilney’s importance, had been joyfully and proudly
+[[General Tilney]]’s importance, had been joyfully and proudly
 
-communicative; and being at that time not only in daily expectation of
+communicative; and being at that [[Time|time]] not only in daily expectation of
 
-Morland’s engaging Isabella, but likewise pretty well resolved upon
+Morland’s engaging [[Isabella]], but likewise pretty [[Well|well]] resolved upon
 
-marrying Catherine himself, his vanity induced him to represent the
+marrying Catherine himself, his [[Vanity|vanity]] induced him to represent the
 
-family as yet more wealthy than his vanity and avarice had made him
+family as yet more wealthy than his [[Vanity|vanity]] and avarice had made him
 
 believe them. With whomsoever he was, or was likely to be connected,
 
@@ -142,7 +142,7 @@ his intimacy with any acquaintance grew, so regularly grew their
 
 fortune. The expectations of his friend Morland, therefore, from the
 
-first overrated, had ever since his introduction to Isabella been
+first overrated, had ever since his introduction to [[Isabella]] been
 
 gradually increasing; and by merely adding twice as much for the
 
@@ -168,7 +168,7 @@ speak of her therefore as the almost acknowledged future heiress of
 
 Fullerton naturally followed. Upon such intelligence the General had
 
-proceeded; for never had it occurred to him to doubt its authority.
+proceeded; for never had it occurred to him to [[Doubt|doubt]] its authority.
 
 Thorpe’s interest in the family, by his sister’s approaching connection
 
@@ -176,7 +176,7 @@ with one of its members, and his own views on another (circumstances of
 
 which he boasted with almost equal openness), seemed sufficient
 
-vouchers for his truth; and to these were added the absolute facts of
+vouchers for his [[Truth|truth]]; and to these were added the absolute facts of
 
 the Allens being wealthy and childless, of Miss Morland’s being under
 
@@ -192,4 +192,4 @@ almost instantly determined to spare no pains in weakening his boasted
 
 interest and ruining his dearest hopes. Catherine herself could not be
 
-more ignorant at the time of all this, than his own children. Henry and
+more ignorant at the [[Time|time]] of all this, than his own children. Henry and

@@ -15,13 +15,13 @@ tags:
 
 
 What is the meaning of this popular superstition?  In existing relations
-of religion and good taste, I can only suggest it in a parable.
+of religion and good taste, I can only suggest it in a [[Parable|parable]].
 On the highest and hoariest of the ashpits of hell sits the oldest
 of all the Demons, whose name is Doom; it is he who has always
-blighted mankind with superstitions of the destiny and death of races;
+blighted mankind with superstitions of the destiny and [[Death|death]] of races;
 who told the old Greeks like Oedipus that they were bound to their
 blind crimes; who told the old feudal tribes that there was a curse
-on a castle or an abortion that was the burden of a family.
+on a [[Castle|castle]] or an abortion that was the burden of a family.
 And when modern science said `Heredity' the old fiend stirred,
 and saw a new chance of renewing the old bondage.  For however we take
 the symbols, it was a wise instinct by which heaven was symbolized
@@ -75,46 +75,46 @@ had not nodded or smiled at him on another morning, was most certainly
 in love, It was first love, calf-love, moon-calf-love, no doubt,
 but certainly human love; and if it wasn't I will modestly
 exclaim with Shakespeare, `I never writ nor no man ever loved.'
-And that Dante does mean the same young woman to reappear in the
+And that [[Dante]] does mean the same young woman to reappear in the
 Paradiso is obvious, not only from many phrases in the Paradiso,
 but from the quite definite words at the end of the Vita Nuova.
 But when the opposite extreme of criticism suggests that human
-love is the whole subject of both books, then, as Mr. Eliot shows,
+[[Love|love]] is the whole subject of both books, then, as Mr. Eliot shows,
 it makes even worse nonsense out of the whole business.
 
 For the Romantics of the nineteenth century really implied that God
 and the Universe, Heaven, Hell, and Purgatory, were all one elaborate
-and rather laborious compliment to Beatrice Portinari.  It is truer
-to say that, in the true sense, Beatrice is a compliment to God.
-She is lifted like flowers on an altar, or flames on a candlestick,
-to be an example of that earthly beauty which, used rightly, can lead us
-to heavenly beauty.  And in this case the critics have missed the whole
-point of the comparison between the Vita Nuova and the Divine Comedy.
+and rather laborious compliment to [[Beatrice]] Portinari.  It is truer
+to say that, in the true sense, [[Beatrice]] is a compliment to God.
+She is lifted like [[Flowers|flowers]] on an altar, or flames on a candlestick,
+to be an example of that earthly [[Beauty|beauty]] which, used rightly, can lead us
+to heavenly [[Beauty|beauty]].  And in this case the critics have missed the whole
+point of the comparison between the Vita Nuova and the Divine [[Comedy]].
 The point is that the first slight, youthful, merely emotional
 story is really a sad story; it is only the completion in Paradise
 that is a joyful story.  The former has an unhappy ending--or, rather,
 that most unhappy ending which consists in having no ending.
-It is the mere fragment of a human tragedy; it is only the
-religious epic that is, in the exact sense, a divine comedy.
-Dante is drawn as a dark and bitter spirit; but in fact he wrote
+It is the mere [[Fragment|fragment]] of a human [[Tragedy|tragedy]]; it is only the
+religious [[Epic|epic]] that is, in the exact sense, a divine [[Comedy|comedy]].
+[[Dante]] is drawn as a dark and bitter spirit; but in fact he wrote
 the only one of the great epics that really has a happy ending.
 
 The trouble was that the age of the Romantics was the age of
 the Rationalists, or those who thought they were Rationalists.
 Having figured as ruthless realists sweeping all spiritual visions
 like cobwebs out of the sky, they then suddenly became extravagant
-sentimentalists over some of the common or garden flowers they found
+sentimentalists over some of the common or [[Garden|garden]] [[Flowers|flowers]] they found
 growing naturally out of the earth.  Having forbidden all belief
 in the legend of Adam and Eve, they demanded universal and absolute
 belief in the legend of Edwin and Angelina.  They were not content
 with the natural sympathy we all have with such natural feelings;
-they really gave to them the supremacy of supernatural feelings--
-and (what is the real point) the only supernatural feelings.
+they really gave to them the supremacy of [[Supernatural|supernatural]] feelings--
+and (what is the real point) the only [[Supernatural|supernatural]] feelings.
 They did not use the coarse cant of our day; but they did, in fact,
 make Sex the supreme end of life for its own sake--in which they
-were much less sensible than the common or garden flowers.
-They therefore missed the whole meaning of Dante, which is
-that human love may indeed be a new life; but the new life
+were much less sensible than the common or [[Garden|garden]] [[Flowers|flowers]].
+They therefore missed the whole meaning of [[Dante]], which is
+that human [[Love|love]] may indeed be a new life; but the new life
 must be dedicated to a supreme good as much as the old life.
 All other goods are only manifestations of that supreme good, and must
-ultimately be referred to it, as Beatrice to the Beatific Vision.
+ultimately be referred to it, as [[Beatrice]] to the Beatific Vision.

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 1: INTRODUCTORY (part 1)"
+title: "[[The Professor]] — Chapter 1: INTRODUCTORY (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -52,15 +52,15 @@ theme of conversation was our companions or our masters we understood
 
 each other, and when I recurred to some sentiment of affection, some
 
-vague love of an excellent or beautiful object, whether in animate or
+vague [[Love|love]] of an excellent or beautiful object, whether in animate or
 
-inanimate nature, your sardonic coldness did not move me. I felt myself
+inanimate [[Nature|nature]], your sardonic coldness did not move me. I felt myself
 
 superior to that check THEN as I do NOW.
 
 
 
-“It is a long time since I wrote to you, and a still longer time since
+“It is a long [[Time|time]] since I wrote to you, and a still longer [[Time|time]] since
 
 I saw you. Chancing to take up a newspaper of your county the other day,
 
@@ -84,7 +84,7 @@ which is in his gift, if I would; then my other uncle, Mr. Seacombe,
 
 hinted that when I became rector of Seacombe-cum-Scaife, I might perhaps
 
-be allowed to take, as mistress of my house and head of my parish, one
+be allowed to take, as mistress of my [[house]] and head of my parish, one
 
 of my six cousins, his daughters, all of whom I greatly dislike.
 
@@ -94,19 +94,19 @@ of my six cousins, his daughters, all of whom I greatly dislike.
 
 thing, but I should have made a very bad one. As to the wife--oh how
 
-like a night-mare is the thought of being bound for life to one of
+like a [[Night|night]]-mare is the thought of being bound for life to one of
 
-my cousins! No doubt they are accomplished and pretty; but not an
+my cousins! No [[Doubt|doubt]] they are accomplished and pretty; but not an
 
 accomplishment, not a charm of theirs, touches a chord in my bosom.
 
-To think of passing the winter evenings by the parlour fire-side of
+To think of passing the [[Winter|winter]] evenings by the parlour [[Fire|fire]]-side of
 
-Seacombe Rectory alone with one of them--for instance, the large and
+Seacombe Rectory [[Alone|alone]] with one of them--for instance, the large and
 
-well-modelled statue, Sarah--no; I should be a bad husband, under such
+[[Well|well]]-modelled statue, Sarah--no; I should be a bad husband, under such
 
-circumstances, as well as a bad clergyman.
+circumstances, as [[Well|well]] as a bad clergyman.
 
 
 
@@ -122,7 +122,7 @@ father’s steps and engaging in trade?’ Now, I had had no thoughts of the
 
 sort. I do not think that my turn of mind qualifies me to make a good
 
-tradesman; my taste, my ambition does not lie in that way; but such was
+tradesman; my taste, my [[Ambition|ambition]] does not lie in that way; but such was
 
 the scorn expressed in Lord Tynedale’s countenance as he pronounced
 
@@ -140,7 +140,7 @@ remonstrate; they and I parted with mutual disgust. In reviewing this
 
 transaction, I find that I was quite right to shake off the burden of
 
-Tynedale’s patronage, but a fool to offer my shoulders instantly for the
+Tynedale’s patronage, but a [[Fool|fool]] to offer my shoulders instantly for the
 
 reception of another burden--one which might be more intolerable, and
 
@@ -156,17 +156,17 @@ possessor of the mill and business which was my father’s before he
 
 failed. You are aware that my father--once reckoned a Croesus of
 
-wealth--became bankrupt a short time previous to his death, and that my
+wealth--became bankrupt a short [[Time|time]] previous to his [[Death|death]], and that my
 
 mother lived in destitution for some six months after him, unhelped by
 
-her aristocratical brothers, whom she had mortally offended by her union
+her aristocratical brothers, whom she had mortally offended by her [[Union|union]]
 
 with Crimsworth, the----shire manufacturer. At the end of the six months
 
 she brought me into the world, and then herself left it without, I
 
-should think, much regret, as it contained little hope or comfort for
+should think, much regret, as it contained little [[Hope|hope]] or comfort for
 
 her.
 
@@ -184,11 +184,11 @@ of writing a fierce letter to the candidate, stating that if he and Lord
 
 Tynedale did not consent to do something towards the support of their
 
-sister’s orphan children, he would expose their relentless and malignant
+sister’s [[Orphan|orphan]] children, he would expose their relentless and malignant
 
 conduct towards that sister, and do his best to turn the circumstances
 
-against Mr. Seacombe’s election. That gentleman and Lord T. knew well
+against Mr. Seacombe’s election. That gentleman and Lord T. knew [[Well|well]]
 
 enough that the Crimsworths were an unscrupulous and determined race;
 
@@ -196,16 +196,16 @@ they knew also that they had influence in the borough of X----; and,
 
 making a virtue of necessity, they consented to defray the expenses of
 
-my education. I was sent to Eton, where I remained ten years, during
+my [[Education|education]]. I was sent to Eton, where I remained ten years, during
 
-which space of time Edward and I never met. He, when he grew up, entered
+which space of [[Time|time]] Edward and I never met. He, when he grew up, entered
 
 into trade, and pursued his calling with such diligence, ability, and
 
-success, that now, in his thirtieth year, he was fast making a fortune.
+[[success]], that now, in his thirtieth year, he was fast making a fortune.
 
 Of this I was apprised by the occasional short letters I received from
 
 him, some three or four times a year; which said letters never concluded
 
-without some expression of determined enmity against the house of
+without some expression of determined enmity against the [[house]] of

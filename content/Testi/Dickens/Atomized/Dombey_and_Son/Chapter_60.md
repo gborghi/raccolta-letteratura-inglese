@@ -20,14 +20,14 @@ Adventures
 
 
 Though the offices of Dombey and Son were within the liberties of the
-City of London, and within hearing of Bow Bells, when their clashing
+[[City]] of [[London]], and within hearing of Bow [[Bells]], when their clashing
 voices were not drowned by the uproar in the streets, yet were there
 hints of adventurous and romantic story to be observed in some of the
 adjacent objects. Gog and Magog held their state within ten minutes’
 walk; the Royal Exchange was close at hand; the Bank of England, with
 its vaults of gold and silver “down among the dead men” underground,
 was their magnificent neighbour. Just round the corner stood the rich
-East India House, teeming with suggestions of precious stuffs and
+East India [[house|House]], teeming with suggestions of precious stuffs and
 stones, tigers, elephants, howdahs, hookahs, umbrellas, palm trees,
 palanquins, and gorgeous princes of a brown complexion sitting on
 carpets, with their slippers very much turned up at the toes. Anywhere
@@ -45,37 +45,37 @@ endurable, and had the shoe buckles and flapped waistcoat the least
 reconcileable to human reason, and bore at its right eye the most
 offensively disproportionate piece of machinery—sole master and
 proprietor of that Midshipman, and proud of him too, an elderly
-gentleman in a Welsh wig had paid house-rent, taxes, rates, and dues,
-for more years than many a full-grown midshipman of flesh and blood has
+gentleman in a Welsh wig had paid [[house]]-rent, taxes, rates, and dues,
+for more years than many a full-grown midshipman of flesh and [[Blood|blood]] has
 numbered in his life; and midshipmen who have attained a pretty green
 old age, have not been wanting in the English Navy.
 
 The stock-in-trade of this old gentleman comprised chronometers,
 barometers, telescopes, compasses, charts, maps, sextants, quadrants,
 and specimens of every kind of instrument used in the working of a
-ship’s course, or the keeping of a ship’s reckoning, or the prosecuting
-of a ship’s discoveries. Objects in brass and glass were in his drawers
+[[Ship|ship]]’s course, or the keeping of a [[Ship|ship]]’s reckoning, or the prosecuting
+of a [[Ship|ship]]’s discoveries. Objects in brass and glass were in his drawers
 and on his shelves, which none but the initiated could have found the
 top of, or guessed the use of, or having once examined, could have ever
 got back again into their mahogany nests without assistance. Everything
 was jammed into the tightest cases, fitted into the narrowest corners,
 fenced up behind the most impertinent cushions, and screwed into the
 acutest angles, to prevent its philosophical composure from being
-disturbed by the rolling of the sea. Such extraordinary precautions
+disturbed by the [[rolling]] of the sea. Such extraordinary precautions
 were taken in every instance to save room, and keep the thing compact;
 and so much practical navigation was fitted, and cushioned, and screwed
 into every box (whether the box was a mere slab, as some were, or
 something between a cocked hat and a star-fish, as others were, and
 those quite mild and modest boxes as compared with others); that the
 shop itself, partaking of the general infection, seemed almost to
-become a snug, sea-going, ship-shape concern, wanting only good
+become a snug, sea-going, [[Ship|ship]]-shape concern, wanting only good
 sea-room, in the event of an unexpected launch, to work its way
-securely to any desert island in the world.
+securely to any [[Desert|desert]] island in the world.
 
 Many minor incidents in the household life of the Ships’
 Instrument-maker who was proud of his little Midshipman, assisted and
 bore out this fancy. His acquaintance lying chiefly among
-ship-chandlers and so forth, he had always plenty of the veritable
+[[Ship|ship]]-chandlers and so forth, he had always plenty of the veritable
 ships’ biscuit on his table. It was familiar with dried meats and
 tongues, possessing an extraordinary flavour of rope yarn. Pickles were
 produced upon it, in great wholesale jars, with “dealer in all kinds of
@@ -86,9 +86,9 @@ Frigate under weigh, was on the plates; outlandish shells, seaweeds,
 and mosses, decorated the chimney-piece; the little wainscotted back
 parlour was lighted by a sky-light, like a cabin.
 
-Here he lived too, in skipper-like state, all alone with his nephew
+Here he lived too, in skipper-like state, all [[Alone|alone]] with his nephew
 Walter: a boy of fourteen who looked quite enough like a midshipman, to
-carry out the prevailing idea. But there it ended, for Solomon Gills
+carry out the prevailing idea. But there it ended, for [[Solomon Gills]]
 himself (more generally called old Sol) was far from having a maritime
 appearance. To say nothing of his Welsh wig, which was as plain and
 stubborn a Welsh wig as ever was worn, and in which he looked like
@@ -103,42 +103,42 @@ and ornamented with glaring buttons, to the same suit of coffee-colour
 minus the inexpressibles, which were then of a pale nankeen. He wore a
 very precise shirt-frill, and carried a pair of first-rate spectacles
 on his forehead, and a tremendous chronometer in his fob, rather than
-doubt which precious possession, he would have believed in a conspiracy
-against it on part of all the clocks and watches in the City, and even
+[[Doubt|doubt]] which precious possession, he would have believed in a conspiracy
+against it on part of all the clocks and watches in the [[City]], and even
 of the very Sun itself. Such as he was, such he had been in the shop
 and parlour behind the little Midshipman, for years upon years; going
-regularly aloft to bed every night in a howling garret remote from the
+regularly aloft to bed every [[Night|night]] in a howling garret remote from the
 lodgers, where, when gentlemen of England who lived below at ease had
 little or no idea of the state of the weather, it often blew great
 guns.
 
-It is half-past five o’clock, and an autumn afternoon, when the reader
-and Solomon Gills become acquainted. Solomon Gills is in the act of
-seeing what time it is by the unimpeachable chronometer. The usual
-daily clearance has been making in the City for an hour or more; and
-the human tide is still rolling westward. “The streets have thinned,”
+It is half-past five o’[[Clock|clock]], and an [[Autumn|autumn]] afternoon, when the reader
+and [[Solomon Gills]] become acquainted. [[Solomon Gills]] is in the act of
+seeing what [[Time|time]] it is by the unimpeachable chronometer. The usual
+daily clearance has been making in the [[City]] for an hour or more; and
+the human tide is still [[rolling]] westward. “The streets have thinned,”
 as Mr Gills says, “very much.” It threatens to be wet tonight. All the
 weatherglasses in the shop are in low spirits, and the rain already
 shines upon the cocked hat of the wooden Midshipman.
 
-“Where’s Walter, I wonder!” said Solomon Gills, after he had carefully
+“Where’s Walter, I [[Wonder|wonder]]!” said [[Solomon Gills]], after he had carefully
 put up the chronometer again. “Here’s dinner been ready, half an hour,
 and no Walter!”
 
 Turning round upon his stool behind the counter, Mr Gills looked out
-among the instruments in the window, to see if his nephew might be
-crossing the road. No. He was not among the bobbing umbrellas, and he
+among the instruments in the [[Window|window]], to see if his nephew might be
+crossing the [[Road|road]]. No. He was not among the bobbing umbrellas, and he
 certainly was not the newspaper boy in the oilskin cap who was slowly
 working his way along the piece of brass outside, writing his name over
 Mr Gills’s name with his forefinger.
 
 “If I didn’t know he was too fond of me to make a run of it, and go and
-enter himself aboard ship against my wishes, I should begin to be
+enter himself aboard [[Ship|ship]] against my wishes, I should begin to be
 fidgetty,” said Mr Gills, tapping two or three weather-glasses with his
 knuckles. “I really should. All in the Downs, eh! Lots of moisture!
-Well! it’s wanted.”
+[[Well]]! it’s wanted.”
 
-“I believe,” said Mr Gills, blowing the dust off the glass top of a
+“I believe,” said Mr Gills, blowing the [[Dust|dust]] off the glass top of a
 compass-case, “that you don’t point more direct and due to the back
 parlour than the boy’s inclination does after all. And the parlour
 couldn’t bear straighter either. Due north. Not the twentieth part of a
@@ -149,10 +149,10 @@ point either way.”
 “Halloa, my boy!” cried the Instrument-maker, turning briskly round.
 “What! you are here, are you?”
 
-A cheerful looking, merry boy, fresh with running home in the rain;
+A cheerful looking, merry boy, fresh with running [[Home|home]] in the rain;
 fair-faced, bright-eyed, and curly-haired.
 
-“Well, Uncle, how have you got on without me all day? Is dinner ready?
+“[[Well]], Uncle, how have you got on without me all day? Is dinner ready?
 I’m so hungry.”
 
 “As to getting on,” said Solomon good-naturedly, “it would be odd if I
@@ -162,7 +162,7 @@ waiting for you. As to being hungry, I am!”
 
 “Come along then, Uncle!” cried the boy. “Hurrah for the admiral!”
 
-“Confound the admiral!” returned Solomon Gills. “You mean the Lord
+“Confound the admiral!” returned [[Solomon Gills]]. “You mean the Lord
 Mayor.”
 
 “No I don’t!” cried the boy. “Hurrah for the admiral! Hurrah for the
@@ -173,11 +173,11 @@ without resistance into the back parlour, as at the head of a boarding
 party of five hundred men; and Uncle Sol and his nephew were speedily
 engaged on a fried sole with a prospect of steak to follow.
 
-“The Lord Mayor, Wally,” said Solomon, “for ever! No more admirals. The
-Lord Mayor’s your admiral.”
+“The [[Lord Mayor]], Wally,” said Solomon, “for ever! No more admirals. The
+[[Lord Mayor]]’s your admiral.”
 
-“Oh, is he though!” said the boy, shaking his head. “Why, the Sword
-Bearer’s better than him. He draws his sword sometimes.”
+“Oh, is he though!” said the boy, shaking his head. “Why, the [[Sword]]
+Bearer’s better than him. He draws his [[Sword|sword]] sometimes.”
 
 “And a pretty figure he cuts with it for his pains,” returned the
 Uncle. “Listen to me, Wally, listen to me. Look on the mantelshelf.”
@@ -187,15 +187,15 @@ boy.
 
 “I have,” said his Uncle. “No more mugs now. We must begin to drink out
 of glasses today, Walter. We are men of business. We belong to the
-City. We started in life this morning.”
+[[City]]. We started in life this morning.”
 
-“Well, Uncle,” said the boy, “I’ll drink out of anything you like, so
+“[[Well]], Uncle,” said the boy, “I’ll drink out of anything you like, so
 long as I can drink to you. Here’s to you, Uncle Sol, and Hurrah for
 the—”
 
-“Lord Mayor,” interrupted the old man.
+“[[Lord Mayor]],” interrupted the old man.
 
-“For the Lord Mayor, Sheriffs, Common Council, and Livery,” said the
+“For the [[Lord Mayor]], Sheriffs, Common Council, and Livery,” said the
 boy. “Long life to ’em!”
 
 The uncle nodded his head with great satisfaction. “And now,” he said,
@@ -211,11 +211,11 @@ blue-bottle that looks as if it had hung there ever so long.”
 
 “Nothing else?” said the Uncle.
 
-“No, nothing else, except an old birdcage (I wonder how that ever came
+“No, nothing else, except an old birdcage (I [[Wonder|wonder]] how that ever came
 there!) and a coal-scuttle.”
 
 “No bankers’ books, or cheque books, or bills, or such tokens of wealth
-rolling in from day to day?” said old Sol, looking wistfully at his
+[[rolling]] in from day to day?” said old Sol, looking wistfully at his
 nephew out of the fog that always seemed to hang about him, and laying
 an unctuous emphasis upon the words.
 
@@ -239,37 +239,37 @@ he. But I could take my oath he said son, Uncle.”
 “No, it’s no matter, but he needn’t have been so sharp, I thought.
 There was no harm in it though he did say son. Then he told me that you
 had spoken to him about me, and that he had found me employment in the
-House accordingly, and that I was expected to be attentive and
+[[house|House]] accordingly, and that I was expected to be attentive and
 punctual, and then he went away. I thought he didn’t seem to like me
 much.”
 
 “You mean, I suppose,” observed the Instrument-maker, “that you didn’t
 seem to like him much?”
 
-“Well, Uncle,” returned the boy, laughing. “Perhaps so; I never thought
+“[[Well]], Uncle,” returned the boy, laughing. “Perhaps so; I never thought
 of that.”
 
 Solomon looked a little graver as he finished his dinner, and glanced
-from time to time at the boy’s bright face. When dinner was done, and
+from [[Time|time]] to [[Time|time]] at the boy’s bright face. When dinner was done, and
 the cloth was cleared away (the entertainment had been brought from a
-neighbouring eating-house), he lighted a candle, and went down below
+neighbouring eating-[[house]]), he lighted a candle, and went down below
 into a little cellar, while his nephew, standing on the mouldy
 staircase, dutifully held the light. After a moment’s groping here and
 there, he presently returned with a very ancient-looking bottle,
-covered with dust and dirt.
+covered with [[Dust|dust]] and dirt.
 
 “Why, Uncle Sol!” said the boy, “what are you about? that’s the
 wonderful Madeira!—there’s only one more bottle!”
 
-Uncle Sol nodded his head, implying that he knew very well what he was
-about; and having drawn the cork in solemn silence, filled two glasses
+Uncle Sol nodded his head, implying that he knew very [[Well|well]] what he was
+about; and having drawn the cork in solemn [[Silence|silence]], filled two glasses
 and set the bottle and a third clean glass on the table.
 
 “You shall drink the other bottle, Wally,” he said, “when you come to
 good fortune; when you are a thriving, respected, happy man; when the
 start in life you have made today shall have brought you, as I pray
 Heaven it may!—to a smooth part of the course you have to run, my
-child. My love to you!”
+[[Child|child]]. My [[Love|love]] to you!”
 
 Some of the fog that hung about old Sol seemed to have got into his
 throat; for he spoke huskily. His hand shook too, as he clinked his
@@ -277,8 +277,8 @@ glass against his nephew’s. But having once got the wine to his lips,
 he tossed it off like a man, and smacked them afterwards.
 
 “Dear Uncle,” said the boy, affecting to make light of it, while the
-tears stood in his eyes, “for the honour you have done me, et cetera,
-et cetera. I shall now beg to propose Mr Solomon Gills with three times
+[[Tears|tears]] stood in his eyes, “for the [[Honour|honour]] you have done me, et cetera,
+et cetera. I shall now beg to propose Mr [[Solomon Gills]] with three times
 three and one cheer more. Hurrah! and you’ll return thanks, Uncle, when
 we drink the last bottle together; won’t you?”
 
@@ -286,11 +286,11 @@ They clinked their glasses again; and Walter, who was hoarding his
 wine, took a sip of it, and held the glass up to his eye with as
 critical an air as he could possibly assume.
 
-His Uncle sat looking at him for some time in silence. When their eyes
+His Uncle sat looking at him for some [[Time|time]] in [[Silence|silence]]. When their eyes
 at last met, he began at once to pursue the theme that had occupied his
-thoughts, aloud, as if he had been speaking all the time.
+thoughts, aloud, as if he had been speaking all the [[Time|time]].
 
-“You see, Walter,” he said, “in truth this business is merely a habit
+“You see, Walter,” he said, “in [[Truth|truth]] this business is merely a habit
 with me. I am so accustomed to the habit that I could hardly live if I
 relinquished it: but there’s nothing doing, nothing doing. When that
 uniform was worn,” pointing out towards the little Midshipman, “then
@@ -301,7 +301,7 @@ my customers are.”
 
 “Never mind ’em, Uncle!”
 
-“Since you came home from weekly boarding-school at Peckham, for
+“Since you came [[Home|home]] from weekly boarding-school at Peckham, for
 instance—and that’s ten days,” said Solomon, “I don’t remember more
 than one person that has come into the shop.”
 
@@ -327,7 +327,7 @@ same tone.
 “But there were two of ’em, Uncle,” cried the boy, as if that were a
 great triumph. “You said only one.”
 
-“Well, Wally,” resumed the old man, after a short pause: “not being
+“[[Well]], Wally,” resumed the old man, after a short pause: “not being
 like the Savages who came on Robinson Crusoe’s Island, we can’t live on
 a man who asks for change for a sovereign, and a woman who inquires the
 way to Mile-End Turnpike. As I said just now, the world has gone past
@@ -336,20 +336,20 @@ the same as they used to be, apprentices are not the same, business is
 not the same, business commodities are not the same. Seven-eighths of
 my stock is old-fashioned. I am an old-fashioned man in an
 old-fashioned shop, in a street that is not the same as I remember it.
-I have fallen behind the time, and am too old to catch it again. Even
+I have fallen behind the [[Time|time]], and am too old to catch it again. Even
 the noise it makes a long way ahead, confuses me.”
 
 Walter was going to speak, but his Uncle held up his hand.
 
 “Therefore, Wally—therefore it is that I am anxious you should be early
-in the busy world, and on the world’s track. I am only the ghost of
+in the busy world, and on the world’s track. I am only the [[Ghost|ghost]] of
 this business—its substance vanished long ago; and when I die, its
-ghost will be laid. As it is clearly no inheritance for you then, I
+[[Ghost|ghost]] will be laid. As it is clearly no inheritance for you then, I
 have thought it best to use for your advantage, almost the only
-fragment of the old connexion that stands by me, through long habit.
+[[Fragment|fragment]] of the old connexion that stands by me, through long habit.
 Some people suppose me to be wealthy. I wish for your sake they were
 right. But whatever I leave behind me, or whatever I can give you, you
-in such a House as Dombey’s are in the road to use well and make the
+in such a [[house|House]] as Dombey’s are in the [[Road|road]] to use [[Well|well]] and make the
 most of. Be diligent, try to like it, my dear boy, work for a steady
 independence, and be happy!”
 
@@ -358,34 +358,34 @@ will,” said the boy, earnestly.
 
 “I know it,” said Solomon. “I am sure of it,” and he applied himself to
 a second glass of the old Madeira, with increased relish. “As to the
-Sea,” he pursued, “that’s well enough in fiction, Wally, but it won’t
+Sea,” he pursued, “that’s [[Well|well]] enough in fiction, Wally, but it won’t
 do in fact: it won’t do at all. It’s natural enough that you should
 think about it, associating it with all these familiar things; but it
 won’t do, it won’t do.”
 
-Solomon Gills rubbed his hands with an air of stealthy enjoyment, as he
+[[Solomon Gills]] rubbed his hands with an air of stealthy enjoyment, as he
 talked of the sea, though; and looked on the seafaring objects about
 him with inexpressible complacency.
 
 “Think of this wine for instance,” said old Sol, “which has been to the
 East Indies and back, I’m not able to say how often, and has been once
 round the world. Think of the pitch-dark nights, the roaring winds, and
-rolling seas:”
+[[rolling]] seas:”
 
-“The thunder, lightning, rain, hail, storm of all kinds,” said the boy.
+“The thunder, [[Lightning|lightning]], rain, hail, [[Storm|storm]] of all kinds,” said the boy.
 
 “To be sure,” said Solomon,—“that this wine has passed through. Think
 what a straining and creaking of timbers and masts: what a whistling
 and howling of the gale through ropes and rigging:”
 
 “What a clambering aloft of men, vying with each other who shall lie
-out first upon the yards to furl the icy sails, while the ship rolls
+out first upon the yards to furl the icy sails, while the [[Ship|ship]] rolls
 and pitches, like mad!” cried his nephew.
 
 “Exactly so,” said Solomon: “has gone on, over the old cask that held
 this wine. Why, when the Charming Sally went down in the—”
 
-“In the Baltic Sea, in the dead of night; five-and-twenty minutes past
+“In the Baltic Sea, in the dead of [[Night|night]]; five-and-twenty minutes past
 twelve when the captain’s watch stopped in his pocket; he lying dead
 against the main-mast—on the fourteenth of February, seventeen
 forty-nine!” cried Walter, with great animation.
@@ -395,31 +395,31 @@ hundred casks of such wine aboard; and all hands (except the first
 mate, first lieutenant, two seamen, and a lady, in a leaky boat) going
 to work to stave the casks, got drunk and died drunk, singing ‘Rule
 Britannia’, when she settled and went down, and ending with one awful
-scream in chorus.”
+scream in [[Chorus|chorus]].”
 
 “But when the George the Second drove ashore, Uncle, on the coast of
 Cornwall, in a dismal gale, two hours before daybreak, on the fourth of
 March, “seventy-one, she had near two hundred horses aboard; and the
 horses breaking loose down below, early in the gale, and tearing to and
-fro, and trampling each other to death, made such noises, and set up
-such human cries, that the crew believing the ship to be full of
+fro, and trampling each other to [[Death|death]], made such noises, and set up
+such human cries, that the crew believing the [[Ship|ship]] to be full of
 devils, some of the best men, losing heart and head, went overboard in
-despair, and only two were left alive, at last, to tell the tale.”
+[[Despair|despair]], and only two were left alive, at last, to tell the tale.”
 
 “And when,” said old Sol, “when the Polyphemus—”
 
 “Private West India Trader, burden three hundred and fifty tons,
 Captain, John Brown of Deptford. Owners, Wiggs and Co.,” cried Walter.
 
-“The same,” said Sol; “when she took fire, four days’ sail with a fair
-wind out of Jamaica Harbour, in the night—”
+“The same,” said Sol; “when she took [[Fire|fire]], four days’ sail with a fair
+[[Wind|wind]] out of Jamaica Harbour, in the [[Night|night]]—”
 
 “There were two brothers on board,” interposed his nephew, speaking
 very fast and loud, “and there not being room for both of them in the
 only boat that wasn’t swamped, neither of them would consent to go,
 until the elder took the younger by the waist, and flung him in. And
 then the younger, rising in the boat, cried out, ‘Dear Edward, think of
-your promised wife at home. I’m only a boy. No one waits at home for
+your promised wife at [[Home|home]]. I’m only a boy. No one waits at [[Home|home]] for
 me. Leap down into my place!’ and flung himself in the sea!”
 
 The kindling eye and heightened colour of the boy, who had risen from
@@ -427,9 +427,9 @@ his seat in the earnestness of what he said and felt, seemed to remind
 old Sol of something he had forgotten, or that his encircling mist had
 hitherto shut out. Instead of proceeding with any more anecdotes, as he
 had evidently intended but a moment before, he gave a short dry cough,
-and said, “Well! suppose we change the subject.”
+and said, “[[Well]]! suppose we change the subject.”
 
-The truth was, that the simple-minded Uncle in his secret attraction
+The [[Truth|truth]] was, that the simple-minded Uncle in his secret attraction
 towards the marvellous and adventurous—of which he was, in some sort, a
 distant relation, by his trade—had greatly encouraged the same
 attraction in the nephew; and that everything that had ever been put
@@ -461,7 +461,7 @@ and merely said:
 
 “How goes it?”
 
-“All well,” said Mr Gills, pushing the bottle towards him.
+“All [[Well|well]],” said Mr Gills, pushing the bottle towards him.
 
 He took it up, and having surveyed and smelt it, said with
 extraordinary expression:
@@ -474,9 +474,9 @@ Upon that he whistled as he filled his glass, and seemed to think they
 were making holiday indeed.
 
 “Wal”r!” he said, arranging his hair (which was thin) with his hook,
-and then pointing it at the Instrument-maker, “Look at him! Love!
-Honour! And Obey! Overhaul your catechism till you find that passage,
-and when found turn the leaf down. Success, my boy!”
+and then pointing it at the Instrument-maker, “Look at him! [[Love]]!
+[[Honour]]! And Obey! Overhaul your catechism till you find that passage,
+and when found turn the leaf down. [[success|Success]], my boy!”
 
 He was so perfectly satisfied both with his quotation and his reference
 to it, that he could not help repeating the words again in a low voice,
@@ -491,12 +491,12 @@ Norval’s father, ‘increase his store.’ At any rate he became silent,
 and remained so, until old Sol went out into the shop to light it up,
 when he turned to Walter, and said, without any introductory remark:—
 
-“I suppose he could make a clock if he tried?”
+“I suppose he could make a [[Clock|clock]] if he tried?”
 
-“I shouldn’t wonder, Captain Cuttle,” returned the boy.
+“I shouldn’t [[Wonder|wonder]], [[Captain Cuttle]],” returned the boy.
 
-“And it would go!” said Captain Cuttle, making a species of serpent in
-the air with his hook. “Lord, how that clock would go!”
+“And it would go!” said [[Captain Cuttle]], making a species of serpent in
+the air with his hook. “Lord, how that [[Clock|clock]] would go!”
 
 For a moment or two he seemed quite lost in contemplating the pace of
 this ideal timepiece, and sat looking at the boy as if his face were
@@ -504,12 +504,12 @@ the dial.
 
 “But he’s chock-full of science,” he observed, waving his hook towards
 the stock-in-trade. “Look’ye here! Here’s a collection of ’em. Earth,
-air, or water. It’s all one. Only say where you’ll have it. Up in a
+air, or [[Water|water]]. It’s all one. Only say where you’ll have it. Up in a
 balloon? There you are. Down in a bell? There you are. D’ye want to put
 the North Star in a pair of scales and weigh it? He’ll do it for you.”
 
-It may be gathered from these remarks that Captain Cuttle’s reverence
-for the stock of instruments was profound, and that his philosophy knew
+It may be gathered from these remarks that [[Captain Cuttle]]’s reverence
+for the stock of instruments was profound, and that his [[philosophy]] knew
 little or no distinction between trading in it and inventing it.
 
 “Ah!” he said, with a sigh, “it’s a fine thing to understand ’em. And
@@ -523,7 +523,7 @@ Nothing short of the wonderful Madeira, combined with the occasion
 could have ever loosened his tongue to the extent of giving utterance
 to this prodigious oration. He seemed quite amazed himself at the
 manner in which it opened up to view the sources of the taciturn
-delight he had had in eating Sunday dinners in that parlour for ten
+delight he had had in eating [[Sunday]] dinners in that parlour for ten
 years. Becoming a sadder and a wiser man, he mused and held his peace.
 
 “Come!” cried the subject of this admiration, returning. “Before you
@@ -534,11 +534,11 @@ have your glass of grog, Ned, we must finish the bottle.”
 “No more, thank’e, Uncle!”
 
 “Yes, yes,” said Sol, “a little more. We’ll finish the bottle, to the
-House, Ned—Walter’s House. Why it may be his House one of these days,
-in part. Who knows? Sir Richard Whittington married his master’s
+[[house|House]], Ned—Walter’s [[house|House]]. Why it may be his [[house|House]] one of these days,
+in part. Who knows? Sir [[Richard]] Whittington married his master’s
 daughter.”
 
-“‘Turn again Whittington, Lord Mayor of London, and when you are old
+“‘Turn again Whittington, [[Lord Mayor]] of [[London]], and when you are old
 you will never depart from it,’” interposed the Captain. “Wal”r!
 Overhaul the book, my lad.”
 
@@ -549,10 +549,10 @@ Overhaul the book, my lad.”
 “Has he?” cried the old man. “Indeed I think he has too.”
 
 “Oh! I know he has,” said the boy. “Some of ’em were talking about it
-in the office today. And they do say, Uncle and Captain Cuttle,”
+in the office today. And they do say, Uncle and [[Captain Cuttle]],”
 lowering his voice, “that he’s taken a dislike to her, and that she’s
 left, unnoticed, among the servants, and that his mind’s so set all the
-while upon having his son in the House, that although he’s only a baby
+while upon having his son in the [[house|House]], that although he’s only a baby
 now, he is going to have balances struck oftener than formerly, and the
 books kept closer than they used to be, and has even been seen (when he
 thought he wasn’t) walking in the Docks, looking at his ships and
@@ -573,7 +573,7 @@ old man, humouring the joke.
 “Nevertheless, we’ll drink him,” pursued Sol. “So, here’s to Dombey and
 Son.”
 
-“Oh, very well, Uncle,” said the boy, merrily. “Since you have
+“Oh, very [[Well|well]], Uncle,” said the boy, merrily. “Since you have
 introduced the mention of her, and have connected me with her and have
 said that I know all about her, I shall make bold to amend the toast.
 So here’s to Dombey—and Son—and Daughter!”

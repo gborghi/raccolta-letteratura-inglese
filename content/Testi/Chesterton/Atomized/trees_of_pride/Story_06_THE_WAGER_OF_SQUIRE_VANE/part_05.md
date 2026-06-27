@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE WAGER OF SQUIRE VANE (part 5)"
+title: "trees of [[Pride|pride]] — THE WAGER OF SQUIRE VANE (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -15,11 +15,11 @@ tags:
 
 
 He was brought to a standstill once, however, and that at
-the very gateway of the garden of the trees of knowledge.
+the very gateway of the [[Garden|garden]] of the trees of knowledge.
 Just outside the black entry of the wood, now curtained with greener
 and larger leafage, he came on a solitary figure.
 
-It was Martin, the woodcutter, wading in the bracken and looking
+It was Martin, the [[Woodcutter|woodcutter]], wading in the bracken and looking
 about him in rather a lost fashion.  The man seemed to be
 talking to himself.
 
@@ -36,23 +36,23 @@ Is there even this extra branch the idiots talked about?"
 
 There had been growing on Paynter the suspicion that the man before
 him was not perfectly sane; yet he was much more startled by the
-sudden and cold sanity that looked for an instant out of the woodman's
+sudden and cold [[Sanity|sanity]] that looked for an instant out of the woodman's
 eyes, as he answered in his ordinary manner.
 
-"Well, sir, did you count the branches before?"
+"[[Well]], sir, did you count the branches before?"
 
 Then he seemed to relapse; and Paynter left him wandering and wavering
 in the undergrowth; and entered the wood like one across whose
-sunny path a shadow has fallen for an instant.
+sunny path a [[Shadow|shadow]] has fallen for an instant.
 
 Diving under the wood, he was soon threading a leafy path which,
-even under that summer sun, shone only with an emerald twilight,
+even under that [[Summer|summer]] sun, shone only with an emerald twilight,
 as if it were on the floor of the sea.  It wound about more shakily
 than he had supposed, as if resolved to approach the central
-trees as if they were the heart of the maze at Hampton Court.
+trees as if they were the heart of the maze at Hampton [[Court]].
 They were the heart of the maze for him, anyhow; he sought them
-as straight as a crooked road would carry him; and, turning a
-final corner, he beheld, for the first time, the foundations
+as straight as a crooked [[Road|road]] would carry him; and, turning a
+final corner, he beheld, for the first [[Time|time]], the foundations
 of those towers of vegetation he had as yet only seen from above,
 as they stood waist-high in the woodland.  He found the suspicion
 correct which supposed the tree branched from one great root,
@@ -61,7 +61,7 @@ fungoids, was quite near the ground, and offered a first foothold.
 He put his foot in it, and without a flash of hesitation went aloft,
 like Jack climbing the Bean stalk.
 
-Above him the green roof of leaves and boughs seemed sealed like
+Above him the green roof of [[Leaves|leaves]] and boughs seemed sealed like
 a firmament of foliage; but, by bending and breaking the branches
 to right and left he slowly forced a passage upward; and had at last,
 and suddenly, the sensation coming out on the top of the world.
@@ -77,7 +77,7 @@ it was not inappropriate.  He did feel as if he were a primitive
 adventurer just come to the New World, instead of a modern traveler
 just come from it.
 
-"I wonder," he proceeded, "whether I am really the first that ever
+"I [[Wonder|wonder]]," he proceeded, "whether I am really the first that ever
 burst into this silent tree.  It looks like it.  Those--"
 
 He stopped and sat on his branch quite motionless, but his eyes
@@ -99,7 +99,7 @@ tropical terrors of his own idle tale surrounded and suffocated him.
 It seemed indeed some demon tree of the swamps; a vegetable
 serpent that fed on men.  Even the hideous farce in the fancy
 of digesting a whole man with the exception of his hat, seemed only
-to simplify the nightmare.  And he found himself gazing dully
+to simplify the [[nightmare]].  And he found himself gazing dully
 at one leaf of the tree, which happened to be turned toward him,
 so that the odd markings, which had partly made the legend,
 really looked a little like the eye in a peacock's feather.
@@ -108,10 +108,10 @@ It was as if the sleeping tree had opened one eye upon him.
 With a sharp effort he steadied himself in mind and posture on the bough;
 his reason returned, and he began to descend with the hat in his teeth.
 When he was back in the underworld of the wood, he studied the hat
-again and with closer attention.  In one place in the crown
+again and with closer attention.  In one place in the [[Crown|crown]]
 there was a hole or rent, which certainly had not been there
-when it had last lain on the table under the garden tree.
-He sat down, lit a cigarette, and reflected for a long time.
+when it had last lain on the table under the [[Garden|garden]] tree.
+He sat down, lit a cigarette, and reflected for a long [[Time|time]].
 
 A wood, even a small wood, is not an easy thing to search minutely;
 but he provided himself with some practical tests in the matter.
@@ -119,7 +119,7 @@ In one sense the very density of the thicket was a help;
 he could at least see where anyone had strayed from the path,
 by broken and trampled growths of every kind.  After many hours'
 industry, he had made a sort of new map of the place;
-and had decided beyond doubt that some person or persons had
+and had decided beyond [[Doubt|doubt]] that some person or persons had
 so strayed, for some purpose, in several defined directions.
 There was a way burst through the bushes, making a short cut
 across a loop of the wandering path; there was another forking
@@ -139,33 +139,33 @@ it was a round lid and presented a quaint appearance, like a flat cap
 with green feathers.  For though the disc itself was made of wood,
 there was a layer of earth on it with the live grass still growing there.
 And the removal of the round lid revealed a round hole, black as
-night and seemingly bottomless.  Paynter understood it instantly.
-It was rather near the sea for a well to be sunk, but the traveler
-had known wells sunk even nearer.  He rose to his feet with
+[[Night|night]] and seemingly bottomless.  Paynter understood it instantly.
+It was rather near the sea for a [[Well|well]] to be sunk, but the traveler
+had known wells sunk even nearer.  He [[Rose|rose]] to his feet with
 the great knife in his hand, a frown on his face, and his
 doubts resolved.  He no longer shrank from naming what he knew.
-This was not the first corpse that had been thrown down a well;
-here, without stone or epitaph, was the grave of Squire Vane.
+This was not the first corpse that had been thrown down a [[Well|well]];
+here, without stone or epitaph, was the [[Grave|grave]] of Squire Vane.
 In a flash all the mythological follies about saints and peacocks
 were forgotten; he was knocked on the head, as with a stone club,
 by the human common sense of crime.
 
-Cyprian Paynter stood long by the well in the wood, walked round
+Cyprian Paynter stood long by the [[Well|well]] in the wood, walked round
 it in meditation, examined its rim and the ring of grass about it,
 searched the surrounding soil thoroughly, came back and stood beside
-the well once more.  His researches and reflections had been so long
+the [[Well|well]] once more.  His researches and reflections had been so long
 that he had not realized that the day had passed and that the wood
 and the world round it were beginning already to be steeped
 in the enrichment of evening.  The day had been radiantly calm;
-the sea seemed to be as still as the well, and the well was as still
-as a mirror.  And then, quite without warning, the mirror moved
+the sea seemed to be as still as the [[Well|well]], and the [[Well|well]] was as still
+as a [[Mirror|mirror]].  And then, quite without warning, the [[Mirror|mirror]] moved
 of itself like a living thing.
 
-In the well, in the wood, the water leapt and gurgled, with a
-grotesque noise like something swallowing, and then settled again
-with a second sound.  Cyprian could not see into the well clearly,
+In the [[Well|well]], in the wood, the [[Water|water]] leapt and gurgled, with a
+[[Grotesque|grotesque]] noise like something swallowing, and then settled again
+with a second sound.  Cyprian could not see into the [[Well|well]] clearly,
 for the opening, from where he stood, was an ellipse, a mere slit,
 and half masked by thistles and rank grass like a green beard.
-For where he stood now was three yards away from the well,
+For where he stood now was three yards away from the [[Well|well]],
 and he had not yet himself realized that he had sprung back all
-that distance from the brink when the water spoke.
+that distance from the brink when the [[Water|water]] spoke.

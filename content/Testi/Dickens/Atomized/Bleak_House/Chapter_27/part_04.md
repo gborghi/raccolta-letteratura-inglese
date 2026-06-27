@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27 (part 4)"
+title: "Bleak [[house|House]] — Chapter 27 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -34,7 +34,7 @@ opinion than that of a college.”
 
 “College,” returns Mr. Bagnet in short sentences, bassoon-like. “What
 college could you leave—in another quarter of the world—with
-nothing but a grey cloak and an umbrella—to make its way home to
+nothing but a grey cloak and an umbrella—to make its way [[Home|home]] to
 Europe? The old girl would do it to-morrow. Did it once!”
 
 “You are right,” says Mr. George.
@@ -61,7 +61,7 @@ try the bassoon. The old girl borrowed a bassoon from the bandmaster
 of the Rifle Regiment. I practised in the trenches. Got on, got
 another, get a living by it!”
 
-George remarks that she looks as fresh as a rose and as sound as an
+George remarks that she looks as fresh as a [[Rose|rose]] and as sound as an
 apple.
 
 “The old girl,” says Mr. Bagnet in reply, “is a thoroughly fine
@@ -70,7 +70,7 @@ she gets on. I never saw the old girl’s equal. But I never own to it
 before her. Discipline must be maintained!”
 
 Proceeding to converse on indifferent matters, they walk up and down
-the little street, keeping step and time, until summoned by Quebec
+the little street, keeping step and [[Time|time]], until summoned by Quebec
 and Malta to do justice to the pork and greens, over which Mrs.
 Bagnet, like a military chaplain, says a short grace. In the
 distribution of these comestibles, as in every other household duty,
@@ -103,7 +103,7 @@ to state his case.
 
 This Mr. George does with great discretion, appearing to address
 himself to Mr. Bagnet, but having an eye solely on the old girl all
-the time, as Bagnet has himself. She, equally discreet, busies
+the [[Time|time]], as Bagnet has himself. She, equally discreet, busies
 herself with her needlework. The case fully stated, Mr. Bagnet
 resorts to his standard artifice for the maintenance of discipline.
 
@@ -131,10 +131,10 @@ the whole Bagnet family, according to their various ranges of
 experience.
 
 Through these means it comes to pass that Mr. George does not again
-rise to his full height in that parlour until the time is drawing on
+rise to his full height in that parlour until the [[Time|time]] is drawing on
 when the bassoon and fife are expected by a British public at the
-theatre; and as it takes time even then for Mr. George, in his
+theatre; and as it takes [[Time|time]] even then for Mr. George, in his
 domestic character of Bluffy, to take leave of Quebec and Malta and
 insinuate a sponsorial shilling into the pocket of his godson with
-felicitations on his success in life, it is dark when Mr. George
-again turns his face towards Lincoln’s Inn Fields.
+felicitations on his [[success]] in life, it is dark when Mr. George
+again turns his face towards [[Lincoln]]’s Inn Fields.

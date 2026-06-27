@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 1 (part 5)"
+title: "[[queertrades]] — Chapter 1 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -19,27 +19,27 @@ He paused a moment, and went on:
 "You could not adopt the ordinary explanation.  The ordinary
 explanation of putting on singular clothes is that you look
 nice in them; you would not think that Lord Kitchener dressed
-up like a ballet girl out of ordinary personal vanity.
+up like a ballet girl out of ordinary personal [[Vanity|vanity]].
 You would think it much more likely that he inherited a dancing
-madness from a great grandmother; or had been hypnotised at a seance;
-or threatened by a secret society with death if he refused the ordeal.
+[[Madness|madness]] from a great grandmother; or had been hypnotised at a seance;
+or threatened by a secret society with [[Death|death]] if he refused the ordeal.
 With Baden-Powell, say, it might be a bet--but not with Kitchener.
-I should know all that, because in my public days I knew him quite well.
-So I know that letter quite well, and criminals quite well.
+I should know all that, because in my public days I knew him quite [[Well|well]].
+So I know that letter quite [[Well|well]], and criminals quite [[Well|well]].
 It's not a criminal's letter.  It's all atmospheres."
 And he closed his eyes and passed his hand over his forehead.
 
 Rupert and the Major were regarding him with a mixture of respect
 and pity.  The former said,
 
-"Well, I'm going, anyhow, and shall continue to think--until your
+"[[Well]], I'm going, anyhow, and shall continue to think--until your
 spiritual mystery turns up--that a man who sends a note recommending
 a crime, that is, actually a crime that is actually carried out,
 at least tentatively, is, in all probability, a little casual
 in his moral tastes.  Can I have that revolver?"
 
 "Certainly," said Basil, getting up.  "But I am coming with you."
-And he flung an old cape or cloak round him, and took a sword-stick
+And he flung an old cape or cloak round him, and took a [[Sword|sword]]-stick
 from the corner.
 
 "You!" said Rupert, with some surprise, "you scarcely ever leave
@@ -51,20 +51,20 @@ Basil fitted on a formidable old white hat.
 "hear of anything on the face of the earth that I do not understand
 at once, without going to see it."
 
-And he led the way out into the purple night.
+And he led the way out into the purple [[Night|night]].
 
 We four swung along the flaring Lambeth streets, across
 Westminster Bridge, and along the Embankment in the direction
-of that part of Fleet Street which contained Tanner's Court.
+of that part of Fleet Street which contained Tanner's [[Court]].
 The erect, black figure of Major Brown, seen from behind, was a quaint
 contrast to the hound-like stoop and flapping mantle of young
 Rupert Grant, who adopted, with childlike delight, all the dramatic
-poses of the detective of fiction.  The finest among his many fine
-qualities was his boyish appetite for the colour and poetry of London.
-Basil, who walked behind, with his face turned blindly to the stars,
+poses of the [[Detective|detective]] of fiction.  The finest among his many fine
+qualities was his boyish appetite for the colour and poetry of [[London]].
+Basil, who walked behind, with his face turned blindly to the [[Stars|stars]],
 had the look of a somnambulist.
 
-Rupert paused at the corner of Tanner's Court, with a quiver of delight
+Rupert paused at the corner of Tanner's [[Court]], with a quiver of delight
 at danger, and gripped Basil's revolver in his great-coat pocket.
 
 "Shall we go in now?" he asked.
@@ -82,7 +82,7 @@ Rupert glanced at him and stared hard.
 "Basil," he cried, "you're trembling.  What's the matter--
 are you afraid?"
 
-"Cold, perhaps," said the Major, eyeing him.  There was no doubt
+"Cold, perhaps," said the Major, eyeing him.  There was no [[Doubt|doubt]]
 that he was shaking.
 
 At last, after a few moments' scrutiny, Rupert broke into a curse.
@@ -95,7 +95,7 @@ all three of us, within a yard of a den of ruffians--"
 are quite equal to a host," and he continued to quake with
 his mysterious mirth.
 
-Rupert turned with impatience and strode swiftly down the court,
+Rupert turned with impatience and strode swiftly down the [[Court|court]],
 the rest of us following.  When he reached the door of No. 14
 he turned abruptly, the revolver glittering in his hand.
 
@@ -111,7 +111,7 @@ suddenly over his shoulder, "when I say `Four', follow me with a rush.
 If I say `Hold him', pin the fellows down, whoever they are.
 If I say `Stop', stop.  I shall say that if there are more than three.
 If they attack us I shall empty my revolver on them.  Basil, have your
-sword-stick ready.  Now--one, two three, four!"
+[[Sword|sword]]-stick ready.  Now--one, two three, four!"
 
 With the sound of the word the door burst open, and we fell into
 the room like an invasion, only to stop dead.
@@ -141,7 +141,7 @@ clap he struck open the letter on the desk with his clenched fist.
 The man called Northover looked at it with unaffected interest
 and merely nodded.
 
-"Well, sir," said the Major, breathing hard, "what about that?"
+"[[Well]], sir," said the Major, breathing hard, "what about that?"
 
 "What about it, precisely," said the man with the moustache.
 

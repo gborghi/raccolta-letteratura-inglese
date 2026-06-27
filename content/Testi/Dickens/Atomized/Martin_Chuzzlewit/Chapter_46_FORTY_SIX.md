@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 46: FORTY SIX"
+title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,17 +16,17 @@ tags:
 
 CHAPTER FORTY-SIX
 
-IN WHICH MISS PECKSNIFF MAKES LOVE, MR JONAS MAKES WRATH, MRS GAMP MAKES
+IN WHICH MISS PECKSNIFF MAKES [[Love|LOVE]], MR JONAS MAKES WRATH, MRS GAMP MAKES
 TEA, AND MR CHUFFEY MAKES BUSINESS
 
 
-On the next day’s official duties coming to a close, Tom hurried home
-without losing any time by the way; and after dinner and a short rest
+On the next day’s official duties coming to a close, Tom hurried [[Home|home]]
+without losing any [[Time|time]] by the way; and after dinner and a short rest
 sallied out again, accompanied by Ruth, to pay his projected visit
 to Todgers’s. Tom took Ruth with him, not only because it was a great
 pleasure to him to have her for his companion whenever he could, but
 because he wished her to cherish and comfort poor Merry; which she, for
-her own part (having heard the wretched history of that young wife from
+her own part (having heard the wretched [[history]] of that young wife from
 Tom), was all eagerness to do.
 
 ‘She was so glad to see me,’ said Tom, ‘that I am sure she will be
@@ -34,7 +34,7 @@ glad to see you. Your sympathy is certain to be much more delicate and
 acceptable than mine.’
 
 ‘I am very far from being certain of that, Tom,’ she replied; ‘and
-indeed you do yourself an injustice. Indeed you do. But I hope she may
+indeed you do yourself an injustice. Indeed you do. But I [[Hope|hope]] she may
 like me, Tom.’
 
 ‘Oh, she is sure to do that!’ cried Tom, confidently.
@@ -44,29 +44,29 @@ thinking. Shouldn’t I, Tom, dear?’ said his little sister pinching him
 upon the cheek.
 
 Tom laughed, and said that with reference to this particular case he had
-no doubt at all of finding a disciple in Merry. ‘For you women,’ said
+no [[Doubt|doubt]] at all of finding a disciple in Merry. ‘For you women,’ said
 Tom, ‘you women, my dear, are so kind, and in your kindness have such
-nice perception; you know so well how to be affectionate and full of
+nice perception; you know so [[Well|well]] how to be affectionate and full of
 solicitude without appearing to be; your gentleness of feeling is like
 your touch so light and easy, that the one enables you to deal with
 wounds of the mind as tenderly as the other enables you to deal with
-wounds of the body. You are such--’
+wounds of the [[Body|body]]. You are such--’
 
-‘My goodness, Tom!’ his sister interposed. ‘You ought to fall in love
+‘My goodness, Tom!’ his sister interposed. ‘You ought to fall in [[Love|love]]
 immediately.’
 
 Tom put this observation off good humouredly, but somewhat gravely too;
 and they were soon very chatty again on some other subject.
 
-As they were passing through a street in the City, not very far from Mrs
-Todgers’s place of residence, Ruth checked Tom before the window of
+As they were passing through a street in the [[City]], not very far from Mrs
+Todgers’s place of residence, Ruth checked Tom before the [[Window|window]] of
 a large Upholstery and Furniture Warehouse, to call his attention to
 something very magnificent and ingenious, displayed there to the best
-advantage, for the admiration and temptation of the public. Tom had
+advantage, for the admiration and [[Temptation|temptation]] of the public. Tom had
 hazarded some most erroneous and extravagantly wrong guess in relation
 to the price of this article, and had joined his sister in laughing
 heartily at his mistake, when he pressed her arm in his, and pointed to
-two persons at a little distance, who were looking in at the same window
+two persons at a little distance, who were looking in at the same [[Window|window]]
 with a deep interest in the chests of drawers and tables.
 
 ‘Hush!’ Tom whispered. ‘Miss Pecksniff, and the young gentleman to whom
@@ -78,23 +78,23 @@ little sister.
 ‘Why, he is naturally a dismal young gentleman, I believe,’ said Tom
 ‘but he is very civil and inoffensive.’
 
-‘I suppose they are furnishing their house,’ whispered Ruth.
+‘I suppose they are furnishing their [[house]],’ whispered Ruth.
 
 ‘Yes, I suppose they are,’ replied Tom. ‘We had better avoid speaking to
 them.’
 
-They could not very well avoid looking at them, however, especially
+They could not very [[Well|well]] avoid looking at them, however, especially
 as some obstruction on the pavement, at a little distance, happened to
 detain them where they were for a few moments. Miss Pecksniff had quite
 the air of having taken the unhappy Moddle captive, and brought him
-up to the contemplation of the furniture like a lamb to the altar.
+up to the contemplation of the furniture like a [[Lamb|lamb]] to the altar.
 He offered no resistance, but was perfectly resigned and quiet. The
-melancholy depicted in the turn of his languishing head, and in his
+[[Melancholy|melancholy]] depicted in the turn of his languishing head, and in his
 dejected attitude, was extreme; and though there was a full-sized
-four-post bedstead in the window, such a tear stood trembling in his eye
+four-post bedstead in the [[Window|window]], such a tear stood trembling in his eye
 as seemed to blot it out.
 
-‘Augustus, my love,’ said Miss Pecksniff, ‘ask the price of the eight
+‘Augustus, my [[Love|love]],’ said Miss Pecksniff, ‘ask the price of the eight
 rosewood chairs, and the loo table.’
 
 ‘Perhaps they are ordered already,’ said Augustus. ‘Perhaps they are
@@ -106,12 +106,12 @@ Another’s.’
 
 He appeared, for the moment, to be quite overwhelmed and stupefied by
 the prospect of his approaching happiness; but recovering, entered the
-shop. He returned immediately, saying in a tone of despair
+shop. He returned immediately, saying in a tone of [[Despair|despair]]
 
 ‘Twenty-four pound ten!’
 
 Miss Pecksniff, turning to receive this announcement, became conscious
-of the observation of Tom Pinch and his sister.
+of the observation of [[Tom Pinch]] and his sister.
 
 ‘Oh, really!’ cried Miss Pecksniff, glancing about her, as if for some
 convenient means of sinking into the earth. ‘Upon my word, I--there
@@ -136,9 +136,9 @@ Ruth begged her not to think of it.
 
 ‘I mind your brother less than anybody else,’ simpered Miss Pecksniff.
 ‘But the indelicacy of meeting any gentleman under such circumstances!
-Augustus, my child, did you--’
+Augustus, my [[Child|child]], did you--’
 
-Here Miss Pecksniff whispered in his ear. The suffering Moddle repeated:
+Here Miss Pecksniff whispered in his ear. The [[Suffering|suffering]] Moddle repeated:
 
 ‘Twenty-four pound ten!’
 
@@ -147,27 +147,27 @@ speaking of the--’
 
 Here she whispered him again.
 
-‘If it’s the same patterned chintz as that in the window; thirty-two,
+‘If it’s the same patterned chintz as that in the [[Window|window]]; thirty-two,
 twelve, six,’ said Moddle, with a sigh. ‘And very dear.’
 
 Miss Pecksniff stopped him from giving any further explanation by laying
 her hand upon his lips, and betraying a soft embarrassment. She then
-asked Tom Pinch which way he was going.
+asked [[Tom Pinch]] which way he was going.
 
 ‘I was going to see if I could find your sister,’ answered Tom, ‘to whom
 I wished to say a few words. We were going to Mrs Todgers’s, where I had
 the pleasure of seeing her before.’
 
 ‘It’s of no use your going on, then,’ said Cherry, ‘for we have not
-long left there; and I know she is not at home. But I’ll take you to my
-sister’s house, if you please. Augustus--Mr Moddle, I mean--and myself,
+long left there; and I know she is not at [[Home|home]]. But I’ll take you to my
+sister’s [[house]], if you please. Augustus--Mr Moddle, I mean--and myself,
 are on our way to tea there, now. You needn’t think of HIM,’ she added,
 nodding her head as she observed some hesitation on Tom’s part. ‘He is
-not at home.’
+not at [[Home|home]].’
 
 ‘Are you sure?’ asked Tom.
 
-‘Oh, I am quite sure of that. I don’t want any MORE revenge,’ said Miss
+‘Oh, I am quite sure of that. I don’t want any MORE [[Revenge|revenge]],’ said Miss
 Pecksniff, expressively. ‘But, really, I must beg you two gentlemen to
 walk on, and allow me to follow with Miss Pinch. My dear, I never was so
 taken by surprise!’
@@ -175,7 +175,7 @@ taken by surprise!’
 In furtherance of this bashful arrangement, Moddle gave his arm to Tom;
 and Miss Pecksniff linked her own in Ruth’s.
 
-‘Of course, my love,’ said Miss Pecksniff, ‘it would be useless for me
+‘Of course, my [[Love|love]],’ said Miss Pecksniff, ‘it would be useless for me
 to disguise, after what you have seen, that I am about to be united to
 the gentleman who is walking with your brother. It would be in vain
 to conceal it. What do you think of him? Pray, let me have your candid
@@ -186,9 +186,9 @@ swain.
 
 ‘I am curious to know,’ said Miss Pecksniff, with loquacious frankness,
 ‘whether you have observed, or fancied, in this very short space of
-time, that he is of a rather melancholy turn?’
+[[Time|time]], that he is of a rather [[Melancholy|melancholy]] turn?’
 
-‘So very short a time,’ Ruth pleaded.
+‘So very short a [[Time|time]],’ Ruth pleaded.
 
 ‘No, no; but don’t let that interfere with your answer,’ returned Miss
 Pecksniff. ‘I am curious to hear what you say.’
@@ -196,11 +196,11 @@ Pecksniff. ‘I am curious to hear what you say.’
 Ruth acknowledged that he had impressed her at first sight as looking
 ‘rather low.’
 
-‘No, really?’ said Miss Pecksniff. ‘Well! that is quite remarkable!
+‘No, really?’ said Miss Pecksniff. ‘[[Well]]! that is quite remarkable!
 Everybody says the same. Mrs Todgers says the same; and Augustus informs
-me that it is quite a joke among the gentlemen in the house. Indeed, but
+me that it is quite a joke among the gentlemen in the [[house]]. Indeed, but
 for the positive commands I have laid upon him, I believe it would have
-been the occasion of loaded fire-arms being resorted to more than once.
+been the occasion of loaded [[Fire|fire]]-arms being resorted to more than once.
 What do you think is the cause of his appearance of depression?’
 
 Ruth thought of several things; such as his digestion, his tailor, his
@@ -210,45 +210,45 @@ them, she refrained from expressing an opinion.
 ‘My dear,’ said Miss Pecksniff; ‘I shouldn’t wish it to be known, but I
 don’t mind mentioning it to you, having known your brother for so many
 years--I refused Augustus three times. He is of a most amiable and
-sensitive nature, always ready to shed tears if you look at him, which
+sensitive [[Nature|nature]], always ready to shed [[Tears|tears]] if you look at him, which
 is extremely charming; and he has never recovered the effect of that
-cruelty. For it WAS cruel,’ said Miss Pecksniff, with a self-conviction
+cruelty. For it WAS cruel,’ said Miss Pecksniff, with a [[Self|self]]-conviction
 candour that might have adorned the diadem of her own papa. ‘There is
-no doubt of it. I look back upon my conduct now with blushes. I always
+no [[Doubt|doubt]] of it. I look back upon my conduct now with blushes. I always
 liked him. I felt that he was not to me what the crowd of young men who
 had made proposals had been, but something very different. Then what
 right had I to refuse him three times?’
 
-‘It was a severe trial of his fidelity, no doubt,’ said Ruth.
+‘It was a severe trial of his fidelity, no [[Doubt|doubt]],’ said Ruth.
 
 ‘My dear,’ returned Miss Pecksniff. ‘It was wrong. But such is the
 caprice and thoughtlessness of our sex! Let me be a warning to you.
 Don’t try the feelings of any one who makes you an offer, as I have
 tried the feelings of Augustus; but if you ever feel towards a person
-as I really felt towards him, at the very time when I was driving him
+as I really felt towards him, at the very [[Time|time]] when I was driving him
 to distraction, let that feeling find expression, if that person throws
 himself at your feet, as Augustus Moddle did at mine. Think,’ said Miss
 Pecksniff, ‘what my feelings would have been, if I had goaded him to
-suicide, and it had got into the papers!’
+[[suicide]], and it had got into the papers!’
 
-Ruth observed that she would have been full of remorse, no doubt.
+Ruth observed that she would have been full of remorse, no [[Doubt|doubt]].
 
 ‘Remorse!’ cried Miss Pecksniff, in a sort of snug and comfortable
 penitence. ‘What my remorse is at this moment, even after making
 reparation by accepting him, it would be impossible to tell you! Looking
-back upon my giddy self, my dear, now that I am sobered down and
+back upon my giddy [[Self|self]], my dear, now that I am sobered down and
 made thoughtful, by treading on the very brink of matrimony; and
 contemplating myself as I was when I was like what you are now; I
 shudder. I shudder. What is the consequence of my past conduct? Until
 Augustus leads me to the altar he is not sure of me. I have blighted and
 withered the affections of his heart to that extent that he is not sure
 of me. I see that preying on his mind and feeding on his vitals. What
-are the reproaches of my conscience, when I see this in the man I love!’
+are the reproaches of my [[Conscience|conscience]], when I see this in the man I [[Love|love]]!’
 
 Ruth endeavoured to express some sense of her unbounded and flattering
 confidence; and presumed that she was going to be married soon.
 
-‘Very soon indeed,’ returned Miss Pecksniff. ‘As soon as our house is
+‘Very soon indeed,’ returned Miss Pecksniff. ‘As soon as our [[house]] is
 ready. We are furnishing now as fast as we can.’
 
 In the same vein of confidence Miss Pecksniff ran through a general
@@ -259,12 +259,12 @@ short (as she told her), early and exclusive information on all points
 of interest connected with the event.
 
 While this was going forward in the rear, Tom and Mr Moddle walked on,
-arm in arm, in the front, in a state of profound silence, which Tom at
-last broke; after thinking for a long time what he could say that should
+arm in arm, in the front, in a state of profound [[Silence|silence]], which Tom at
+last broke; after thinking for a long [[Time|time]] what he could say that should
 refer to an indifferent topic, in respect of which he might rely, with
 some degree of certainty, on Mr Moddle’s bosom being unruffled.
 
-‘I wonder,’ said Tom, ‘that in these crowded streets the foot-passengers
+‘I [[Wonder|wonder]],’ said Tom, ‘that in these crowded streets the foot-passengers
 are not oftener run over.’
 
 Mr Moddle, with a dark look, replied:
@@ -279,25 +279,25 @@ them, and even cabs refuse to run them down. Ah!’ said Augustus, marking
 Tom’s astonishment. ‘There are such men. One of ‘em is a friend of
 mine.’
 
-‘Upon my word and honour,’ thought Tom, ‘this young gentleman is in
+‘Upon my word and [[Honour|honour]],’ thought Tom, ‘this young gentleman is in
 a state of mind which is very serious indeed!’ Abandoning all idea of
 conversation, he did not venture to say another word, but he was careful
 to keep a tight hold upon Augustus’s arm, lest he should fly into the
-road, and making another and a more successful attempt, should get up a
+[[Road|road]], and making another and a more successful attempt, should get up a
 private little Juggernaut before the eyes of his betrothed. Tom was
 so afraid of his committing this rash act, that he had scarcely ever
 experienced such mental relief as when they arrived in safety at Mrs
-Jonas Chuzzlewit’s house.
+[[Jonas Chuzzlewit]]’s [[house]].
 
 ‘Walk up, pray, Mr Pinch,’ said Miss Pecksniff. For Tom halted,
 irresolutely, at the door.
 
 ‘I am doubtful whether I should be welcome,’ replied Tom, ‘or, I ought
-rather to say, I have no doubt about it. I will send up a message, I
+rather to say, I have no [[Doubt|doubt]] about it. I will send up a message, I
 think.’
 
 ‘But what nonsense that is!’ returned Miss Pecksniff, speaking apart
-to Tom. ‘He is not at home, I am certain. I know he is not; and Merry
+to Tom. ‘He is not at [[Home|home]], I am certain. I know he is not; and Merry
 hasn’t the least idea that you ever--’
 
 ‘No,’ interrupted Tom. ‘Nor would I have her know it, on any account. I
@@ -310,23 +310,23 @@ stand here.’
 
 Tom still hesitated for he felt that he was in an awkward position. But
 Cherry passing him at this juncture, and leading his sister upstairs,
-and the house-door being at the same time shut behind them, he followed
-without quite knowing whether it was well or ill-judged so to do.
+and the [[house]]-door being at the same [[Time|time]] shut behind them, he followed
+without quite knowing whether it was [[Well|well]] or ill-judged so to do.
 
 ‘Merry, my darling!’ said the fair Miss Pecksniff, opening the door of
 the usual sitting-room. ‘Here are Mr Pinch and his sister come to see
 you! I thought we should find you here, Mrs Todgers! How do you do, Mrs
 Gamp? And how do you do, Mr Chuffey, though it’s of no use asking you
-the question, I am well aware.’
+the question, I am [[Well|well]] aware.’
 
 Honouring each of these parties, as she severally addressed them, with
-an acid smile, Miss Charity presented ‘Mr Moddle.’
+an acid smile, Miss [[Charity]] presented ‘Mr Moddle.’
 
 ‘I believe you have seen HIM before,’ she pleasantly observed.
-‘Augustus, my sweet child, bring me a chair.’
+‘Augustus, my sweet [[Child|child]], bring me a chair.’
 
-The sweet child did as he was told; and was then about to retire into a
-corner to mourn in secret, when Miss Charity, calling him in an audible
+The sweet [[Child|child]] did as he was told; and was then about to retire into a
+corner to mourn in secret, when Miss [[Charity]], calling him in an audible
 whisper a ‘little pet,’ gave him leave to come and sit beside her. It
 is to be hoped, for the general cheerfulness of mankind, that such a
 doleful little pet was never seen as Mr Moddle looked when he complied.
@@ -340,15 +340,15 @@ the aid of language, ‘Oh, good gracious! look here! Won’t some kind
 Christian help me!’
 
 But the ecstasies of Mrs Gamp were sufficient to have furnished forth
-a score of young lovers; and they were chiefly awakened by the sight of
-Tom Pinch and his sister. Mrs Gamp was a lady of that happy temperament
+a score of young [[lovers]]; and they were chiefly awakened by the sight of
+[[Tom Pinch]] and his sister. Mrs Gamp was a lady of that happy temperament
 which can be ecstatic without any other stimulating cause than a general
-desire to establish a large and profitable connection. She added daily
+[[Desire|desire]] to establish a large and profitable connection. She added daily
 so many strings to her bow, that she made a perfect harp of it; and upon
 that instrument she now began to perform an extemporaneous concerto.
 
 ‘Why, goodness me!’ she said, ‘Mrs Chuzzlewit! To think as I should see
-beneath this blessed ‘ouse, which well I know it, Miss Pecksniff, my
+beneath this blessed ‘ouse, which [[Well|well]] I know it, Miss Pecksniff, my
 sweet young lady, to be a ‘ouse as there is not a many like, worse luck,
 and wishin’ it were not so, which then this tearful walley would be
 changed into a flowerin’ guardian, Mr Chuffey; to think as I should see
@@ -359,9 +359,9 @@ yourn, my dear good lady, and YOUR good lady’s too, sir, Mr Moddle, if
 I may make so bold as speak so plain of what is plain enough to them as
 needn’t look through millstones, Mrs Todgers, to find out wot is wrote
 upon the wall behind. Which no offence is meant, ladies and gentlemen;
-none bein’ took, I hope. To think as I should see that smilinest and
+none bein’ took, I [[Hope|hope]]. To think as I should see that smilinest and
 sweetest face which me and another friend of mine, took notice of among
-the packages down London Bridge, in this promiscous place, is a surprige
+the packages down [[London]] Bridge, in this promiscous place, is a surprige
 in-deed!’
 
 Having contrived, in this happy manner, to invest every member of her
@@ -370,7 +370,7 @@ her address, Mrs Gamp dropped several curtseys to Ruth, and smilingly
 shaking her head a great many times, pursued the thread of her
 discourse:
 
-‘Now, ain’t we rich in beauty this here joyful arternoon, I’m sure. I
+‘Now, ain’t we rich in [[Beauty|beauty]] this here joyful arternoon, I’m sure. I
 knows a lady, which her name, I’ll not deceive you, Mrs Chuzzlewit, is
 Harris, her husband’s brother bein’ six foot three, and marked with
 a mad bull in Wellington boots upon his left arm, on account of his
@@ -379,10 +379,10 @@ when in a sitiwation which blessed is the man as has his quiver full of
 sech, as many times I’ve said to Gamp when words has roge betwixt us on
 account of the expense--and often have I said to Mrs Harris, “Oh, Mrs
 Harris, ma’am! your countenance is quite a angel’s!” Which, but
-for Pimples, it would be. “No, Sairey Gamp,” says she, “you best of
+for Pimples, it would be. “No, [[Sairey Gamp]],” says she, “you best of
 hard-working and industrious creeturs as ever was underpaid at any
 price, which underpaid you are, quite diff’rent. Harris had it done
-afore marriage at ten and six,” she says, “and wore it faithful next his
+afore [[Marriage|marriage]] at ten and six,” she says, “and wore it faithful next his
 heart till the colour run, when the money was declined to be give back,
 and no arrangement could be come to. But he never said it was a angel’s,
 Sairey, wotever he might have thought.” If Mrs Harris’s husband was
@@ -423,7 +423,7 @@ him. It’s hard to hear, but never mind him. He’ll die one day. There
 are three hundred and sixty-five days in the year--three hundred and
 sixty-six in leap year--and he may die on any one of ‘em.’
 
-‘You’re a wearing old soul, and that’s the sacred truth,’ said Mrs Gamp,
+‘You’re a wearing old [[Soul|soul]], and that’s the sacred [[Truth|truth]],’ said Mrs Gamp,
 contemplating him from a little distance with anything but favour, as he
 continued to mutter to himself. ‘It’s a pity that you don’t know wot you
 say, for you’d tire your own patience out if you did, and fret yourself
@@ -431,9 +431,9 @@ into a happy releage for all as knows you.’
 
 ‘His son,’ murmured the old man, lifting up his hand. ‘His son!’
 
-‘Well, I’m sure!’ said Mrs Gamp, ‘you’re a-settlin’ of it, Mr Chuffey.
-To your satigefaction, sir, I hope. But I wouldn’t lay a new pincushion
-on it myself, sir, though you ARE so well informed. Drat the old
+‘[[Well]], I’m sure!’ said Mrs Gamp, ‘you’re a-settlin’ of it, Mr Chuffey.
+To your satigefaction, sir, I [[Hope|hope]]. But I wouldn’t lay a new pincushion
+on it myself, sir, though you ARE so [[Well|well]] informed. Drat the old
 creetur, he’s a-layin’ down the law tolerable confident, too! A deal he
 knows of sons! or darters either! Suppose you was to favour us with some
 remarks on twins, sir, WOULD you be so good!’
@@ -461,7 +461,7 @@ somebody would like to try a new-laid egg or two, not biled too hard.
 Likeways, a few rounds o’ buttered toast, first cuttin’ off the crust,
 in consequence of tender teeth, and not too many of ‘em; which Gamp
 himself, Mrs Chuzzlewit, at one blow, being in liquor, struck out four,
-two single, and two double, as was took by Mrs Harris for a keepsake,
+two single, and two [[Double|double]], as was took by Mrs Harris for a keepsake,
 and is carried in her pocket at this present hour, along with two
 cramp-bones, a bit o’ ginger, and a grater like a blessed infant’s shoe,
 in tin, with a little heel to put the nutmeg in; as many times I’ve seen
@@ -470,10 +470,10 @@ and said, and used for candle when required, within the month.’
 As the privileges of the side-table--besides including the small
 prerogatives of sitting next the toast, and taking two cups of tea to
 other people’s one, and always taking them at a crisis, that is to
-say, before putting fresh water into the tea-pot, and after it had been
-standing for some time--also comprehended a full view of the company,
+say, before putting fresh [[Water|water]] into the tea-pot, and after it had been
+standing for some [[Time|time]]--also comprehended a full view of the company,
 and an opportunity of addressing them as from a rostrum, Mrs Gamp
-discharged the functions entrusted to her with extreme good-humour and
+discharged the functions entrusted to her with extreme good-[[Humour|humour]] and
 affability. Sometimes resting her saucer on the palm of her outspread
 hand, and supporting her elbow on the table, she stopped between her
 sips of tea to favour the circle with a smile, a wink, a roll of the
@@ -491,7 +491,7 @@ Mrs Todgers was occupied in knitting, and seldom spoke. Poor Merry held
 the hand of cheerful little Ruth between her own, and listening with
 evident pleasure to all she said, but rarely speaking herself, sometimes
 smiled, and sometimes kissed her on the cheek, and sometimes turned
-aside to hide the tears that trembled in her eyes. Tom felt this change
+aside to hide the [[Tears|tears]] that trembled in her eyes. Tom felt this change
 in her so much, and was so glad to see how tenderly Ruth dealt with her,
 and how she knew and answered to it, that he had not the heart to make
 any movement towards their departure, although he had long since given
@@ -499,7 +499,7 @@ utterance to all he came to say.
 
 The old clerk, subsiding into his usual state, remained profoundly
 silent, while the rest of the little assembly were thus occupied, intent
-upon the dreams, whatever they might be, which hardly seemed to stir
+upon the [[Dreams|dreams]], whatever they might be, which hardly seemed to stir
 the surface of his sluggish thoughts. The bent of these dull fancies
 combining probably with the silent feasting that was going on about him,
 and some struggling recollection of the last approach to revelry he had
@@ -537,7 +537,7 @@ no one dead? Foul play! Go see who it is!’
 
 She made a sign to them not to speak to him, which indeed they had
 little inclination to do; and remained silent herself. So did he for
-a short time; but then he repeated the same question with an eagerness
+a short [[Time|time]]; but then he repeated the same question with an eagerness
 that had a peculiar terror in it.
 
 ‘There’s some one dead,’ he said, ‘or dying; and I want to knows who it
@@ -559,7 +559,7 @@ he sat down again, and patted her upon the head. ‘They don’t tell me
 either; but I’ll watch, I’ll watch. They shall not hurt you; don’t be
 frightened. When you have sat up watching, I have sat up watching too.
 Aye, aye, I have!’ he piped out, clenching his weak, shrivelled hand.
-‘Many a night I have been ready!’
+‘Many a [[Night|night]] I have been ready!’
 
 He said this with such trembling gaps and pauses in his want of breath,
 and said it in his jealous secrecy so closely in her ear, that little
@@ -574,7 +574,7 @@ highest state of inflammation, when she now (there being nothing left to
 eat or drink) saw fit to interpose.
 
 ‘Why, highty tighty, sir!’ cried Mrs Gamp, ‘is these your manners? You
-want a pitcher of cold water throw’d over you to bring you round; that’s
+want a pitcher of cold [[Water|water]] throw’d over you to bring you round; that’s
 my belief, and if you was under Betsey Prig you’d have it, too, I do
 assure you, Mr Chuffey. Spanish Flies is the only thing to draw this
 nonsense out of you; and if anybody wanted to do you a kindness, they’d
@@ -588,8 +588,8 @@ was, I think!’
 ‘I ain’t no patience with him. You give him his own way too much by
 half. A worritin’ wexagious creetur!’
 
-No doubt with the view of carrying out the precepts she enforced, and
-‘bothering the old wictim’ in practice as well as in theory, Mrs Gamp
+No [[Doubt|doubt]] with the view of carrying out the precepts she enforced, and
+‘bothering the old wictim’ in practice as [[Well|well]] as in theory, Mrs Gamp
 took him by the collar of his coat, and gave him some dozen or two of
 hearty shakes backward and forward in his chair; that exercise being
 considered by the disciples of the Prig school of nursing (who are very
@@ -601,7 +601,7 @@ the triumph of her art.
 
 ‘There!’ she said, loosening the old man’s cravat, in consequence of his
 being rather black in the face, after this scientific treatment. ‘Now,
-I hope, you’re easy in your mind. If you should turn at all faint we
+I [[Hope|hope]], you’re easy in your mind. If you should turn at all faint we
 can soon rewive you, sir, I promige you. Bite a person’s thumbs, or
 turn their fingers the wrong way,’ said Mrs Gamp, smiling with the
 consciousness of at once imparting pleasure and instruction to her
@@ -610,7 +610,7 @@ auditors, ‘and they comes to, wonderful, Lord bless you!’
 As this excellent woman had been formerly entrusted with the care of Mr
 Chuffey on a previous occasion, neither Mrs Jonas nor anybody else had
 the resolution to interfere directly with her mode of treatment;
-though all present (Tom Pinch and his sister especially) appeared to be
+though all present ([[Tom Pinch]] and his sister especially) appeared to be
 disposed to differ from her views. For such is the rash boldness of the
 uninitiated, that they will frequently set up some monstrous abstract
 principle, such as humanity, or tenderness, or the like idle folly, in
@@ -620,22 +620,22 @@ and established the usage, and who must therefore be the best and most
 impartial judges of the subject.
 
 ‘Ah, Mr Pinch!’ said Miss Pecksniff. ‘It all comes of this unfortunate
-marriage. If my sister had not been so precipitate, and had not united
-herself to a Wretch, there would have been no Mr Chuffey in the house.’
+[[Marriage|marriage]]. If my sister had not been so precipitate, and had not united
+herself to a Wretch, there would have been no Mr Chuffey in the [[house]].’
 
 ‘Hush!’ cried Tom. ‘She’ll hear you.’
 
 ‘I should be very sorry if she did hear me, Mr Pinch,’ said Cherry,
-raising her voice a little; ‘for it is not in my nature to add to the
+raising her voice a little; ‘for it is not in my [[Nature|nature]] to add to the
 uneasiness of any person; far less of my own sister. I know what a
-sister’s duties are, Mr Pinch, and I hope I always showed it in my
-practice. Augustus, my dear child, find my pocket-handkerchief, and give
+sister’s duties are, Mr Pinch, and I [[Hope|hope]] I always showed it in my
+practice. Augustus, my dear [[Child|child]], find my pocket-handkerchief, and give
 it to me.’
 
 Augustus obeyed, and took Mrs Todgers aside to pour his griefs into her
 friendly bosom.
 
-‘I am sure, Mr Pinch,’ said Charity, looking after her betrothed and
+‘I am sure, Mr Pinch,’ said [[Charity]], looking after her betrothed and
 glancing at her sister, ‘that I ought to be very grateful for the
 blessings I enjoy, and those which are yet in store for me. When I
 contrast Augustus’--here she was modest and embarrased--‘who, I don’t
@@ -646,15 +646,15 @@ reversed; I have much to be thankful for, indeed, and much to make me
 humble and contented.’
 
 Contented she might have been, but humble she assuredly was not. Her
-face and manner experienced something so widely different from humility,
+face and manner experienced something so widely different from [[Humility|humility]],
 that Tom could not help understanding and despising the base motives
 that were working in her breast. He turned away, and said to Ruth, that
-it was time for them to go.
+it was [[Time|time]] for them to go.
 
 ‘I will write to your husband,’ said Tom to Merry, ‘and explain to him,
 as I would have done if I had met him here, that if he has sustained any
 inconvenience through my means, it is not my fault; a postman not being
-more innocent of the news he brings, than I was when I handed him that
+more [[Innocent|innocent]] of the news he brings, than I was when I handed him that
 letter.’
 
 ‘I thank you!’ said Merry. ‘It may do some good.’
@@ -676,20 +676,20 @@ and said in a surly tone:
 
 ‘I didn’t know you’d got a party.’
 
-As he looked, at the same time, either by accident or design, towards
+As he looked, at the same [[Time|time]], either by accident or design, towards
 Miss Pecksniff; and as Miss Pecksniff was only too delighted to quarrel
 with him, she instantly resented it.
 
 ‘Oh dear!’ she said, rising. ‘Pray don’t let us intrude upon your
 domestic happiness! That would be a pity. We have taken tea here, sir,
 in your absence; but if you will have the goodness to send us a note of
-the expense, receipted, we shall be happy to pay it. Augustus, my love,
+the expense, receipted, we shall be happy to pay it. Augustus, my [[Love|love]],
 we will go, if you please. Mrs Todgers, unless you wish to remain here,
 we shall be happy to take you with us. It would be a pity, indeed, to
 spoil the bliss which this gentleman always brings with him, especially
-into his own home.’
+into his own [[Home|home]].’
 
-‘Charity! Charity!’ remonstrated her sister, in such a heartfelt tone
+‘[[Charity]]! [[Charity]]!’ remonstrated her sister, in such a heartfelt tone
 that she might have been imploring her to show the cardinal virtue whose
 name she bore.
 
@@ -708,7 +708,7 @@ to go, you may go. But if you stay, please to be civil.’
 
 ‘Beast!’ cried Miss Pecksniff, sweeping past him. ‘Augustus! He is
 beneath your notice!’ Augustus had been making some faint and sickly
-demonstration of shaking his fist. ‘Come away, child,’ screamed Miss
+demonstration of shaking his fist. ‘Come away, [[Child|child]],’ screamed Miss
 Pecksniff, ‘I command you!’
 
 The scream was elicited from her by Augustus manifesting an intention to
@@ -717,12 +717,12 @@ a pull, and Mrs Todgers giving him a push they all three tumbled out
 of the room together, to the music of Miss Pecksniff’s shrill
 remonstrances.
 
-All this time Jonas had seen nothing of Tom and his sister; for they
+All this [[Time|time]] Jonas had seen nothing of Tom and his sister; for they
 were almost behind the door when he opened it, and he had sat down with
 his back towards them, and had purposely kept his eyes upon the opposite
 side of the street during his altercation with Miss Pecksniff, in order
 that his seeming carelessness might increase the exasperation of that
-wronged young damsel. His wife now faltered out that Tom had been
+wronged young [[Damsel|damsel]]. His wife now faltered out that Tom had been
 waiting to see him; and Tom advanced.
 
 The instant he presented himself, Jonas got up from his chair, and
@@ -732,7 +732,7 @@ done, but that his very passion and surprise made him irresolute, and
 gave Tom, in his calmness, an opportunity of being heard.
 
 ‘You have no cause to be violent, sir,’ said Tom. ‘Though what I wish to
-say relates to your own affairs, I know nothing of them, and desire to
+say relates to your own affairs, I know nothing of them, and [[Desire|desire]] to
 know nothing of them.’
 
 Jonas was too enraged to speak. He held the door open; and stamping his
@@ -763,35 +763,35 @@ speak again, Jonas set upon him like a savage; and in the quickness and
 ferocity of his attack would have surely done him some grievous injury,
 defenceless as he was, and embarrassed by having his frightened sister
 clinging to his arm, if Merry had not run between them, crying to
-Tom for the love of Heaven to leave the house. The agony of this poor
+Tom for the [[Love|love]] of Heaven to leave the [[house]]. The agony of this poor
 creature, the terror of his sister, the impossibility of making himself
 audible, and the equal impossibility of bearing up against Mrs Gamp, who
 threw herself upon him like a feather-bed, and forced him backwards down
 the stairs by the mere oppression of her dead weight, prevailed. Tom
-shook the dust of that house off his feet, without having mentioned
+shook the [[Dust|dust]] of that [[house]] off his feet, without having mentioned
 Nadgett’s name.
 
 If the name could have passed his lips; if Jonas, in the insolence of
-his vile nature, had never roused him to do that old act of manliness,
+his vile [[Nature|nature]], had never roused him to do that old act of manliness,
 for which (and not for his last offence) he hated him with such
 malignity; if Jonas could have learned, as then he could and would have
 learned, through Tom’s means, what unsuspected spy there was upon him;
 he would have been saved from the commission of a Guilty Deed, then
 drawing on towards its black accomplishment. But the fatality was of
 his own working; the pit was of his own digging; the gloom that gathered
-round him was the shadow of his own life.
+round him was the [[Shadow|shadow]] of his own life.
 
 His wife had closed the door, and thrown herself before it, on the
 ground, upon her knees. She held up her hands to him now, and besought
-him not to be harsh with her, for she had interposed in fear of
+him not to be harsh with her, for she had interposed in [[Fear|fear]] of
 bloodshed.
 
 ‘So, so!’ said Jonas, looking down upon her, as he fetched his breath.
 ‘These are your friends, are they, when I am away? You plot and tamper
 with this sort of people, do you?’
 
-‘No, indeed! I have no knowledge of these secrets, and no clue to
-their meaning. I have never seen him since I left home but once--but
+‘No, indeed! I have no knowledge of these [[Secrets|secrets]], and no clue to
+their meaning. I have never seen him since I left [[Home|home]] but once--but
 twice--before to-day.’
 
 ‘Oh!’ sneered Jonas, catching at this correction. ‘But once, but twice,
@@ -799,13 +799,13 @@ eh? Which do you mean? Twice and once, perhaps. Three times! How many
 more, you lying jade?’
 
 As he made an angry motion with his hand, she shrunk down hastily. A
-suggestive action! Full of a cruel truth!
+suggestive action! Full of a cruel [[Truth|truth]]!
 
 ‘How many more times?’ he repeated.
 
 ‘No more. The other morning, and to-day, and once besides.’
 
-He was about to retort upon her, when the clock struck. He started
+He was about to retort upon her, when the [[Clock|clock]] struck. He started
 stopped, and listened; appearing to revert to some engagement, or to
 some other subject, a secret within his own breast, recalled to him by
 this record of the progress of the hours.
@@ -816,22 +816,22 @@ Having helped her to rise, or rather hauled her up by the arm, he went
 on to say:
 
 ‘Listen to me, young lady; and don’t whine when you have no occasion, or
-I may make some for you. If I find him in my house again, or find that
-you have seen him in anybody else’s house, you’ll repent it. If you are
+I may make some for you. If I find him in my [[house]] again, or find that
+you have seen him in anybody else’s [[house]], you’ll repent it. If you are
 not deaf and dumb to everything that concerns me, unless you have my
 leave to hear and speak, you’ll repent it. If you don’t obey exactly
-what I order, you’ll repent it. Now, attend. What’s the time?’
+what I order, you’ll repent it. Now, attend. What’s the [[Time|time]]?’
 
 ‘It struck eight a minute ago.’
 
 He looked towards her intently; and said, with a laboured distinctness,
 as if he had got the words off by heart:
 
-‘I have been travelling day and night, and am tired. I have lost some
+‘I have been travelling day and [[Night|night]], and am tired. I have lost some
 money, and that don’t improve me. Put my supper in the little off-room
-below, and have the truckle-bed made. I shall sleep there to-night, and
-maybe to-morrow night; and if I can sleep all day to-morrow, so much
-the better, for I’ve got trouble to sleep off, if I can. Keep the house
+below, and have the truckle-bed made. I shall [[Sleep|sleep]] there to-[[Night|night]], and
+maybe to-morrow [[Night|night]]; and if I can [[Sleep|sleep]] all day to-morrow, so much
+the better, for I’ve got trouble to [[Sleep|sleep]] off, if I can. Keep the [[house]]
 quiet, and don’t call me. Mind! Don’t call me. Don’t let anybody call
 me. Let me lie there.’
 
@@ -840,20 +840,20 @@ She said it should be done. Was that all?
 ‘All what? You must be prying and questioning!’ he angrily retorted.
 ‘What more do you want to know?’
 
-‘I want to know nothing, Jonas, but what you tell me. All hope of
+‘I want to know nothing, Jonas, but what you tell me. All [[Hope|hope]] of
 confidence between us has long deserted me!’
 
-‘Ecod, I should hope so!’ he muttered.
+‘Ecod, I should [[Hope|hope]] so!’ he muttered.
 
 ‘But if you will tell me what you wish, I will be obedient and will
 try to please you. I make no merit of that, for I have no friend in
-my father or my sister, but am quite alone. I am very humble and
+my father or my sister, but am quite [[Alone|alone]]. I am very humble and
 submissive. You told me you would break my spirit, and you have done so.
 Do not break my heart too!’
 
 She ventured, as she said these words, to lay her hand upon his
 shoulder. He suffered it to rest there, in his exultation; and the whole
-mean, abject, sordid, pitiful soul of the man, looked at her, for the
+mean, abject, sordid, pitiful [[Soul|soul]] of the man, looked at her, for the
 moment, through his wicked eyes.
 
 For the moment only; for, with the same hurried return to something
@@ -889,7 +889,7 @@ frightful.’
 old, clerk, and looked at him. ‘Ha!’
 
 ‘The creetur’s head’s so hot,’ said Mrs Gamp, ‘that you might heat a
-flat-iron at it. And no wonder I am sure, considerin’ the things he
+flat-iron at it. And no [[Wonder|wonder]] I am sure, considerin’ the things he
 said!’
 
 ‘Said!’ cried Jonas. ‘What did he say?’
@@ -899,23 +899,23 @@ palpitations, and turning up her eyes replied in a faint voice:
 
 ‘The awfulest things, Mr Chuzzlewit, as ever I heerd! Which Mrs Harris’s
 father never spoke a word when took so, some does and some don’t, except
-sayin’ when he come round, “Where is Sairey Gamp?” But raly, sir, when
+sayin’ when he come round, “Where is [[Sairey Gamp]]?” But raly, sir, when
 Mr Chuffey comes to ask who’s lyin’ dead upstairs, and--’
 
 ‘Who’s lying dead upstairs!’ repeated Jonas, standing aghast.
 
 Mrs Gamp nodded, made as if she were swallowing, and went on.
 
-‘Who’s lying dead upstairs; sech was his Bible language; and where was
+‘Who’s lying dead upstairs; sech was his [[Bible]] language; and where was
 Mr Chuzzlewit as had the only son; and when he goes upstairs a-looking
 in the beds and wandering about the rooms, and comes down again
-a-whisperin’ softly to his-self about foul play and that; it gives me
+a-whisperin’ softly to his-[[Self|self]] about foul play and that; it gives me
 sech a turn, I don’t deny it, Mr Chuzzlewit, that I never could have kep
 myself up but for a little drain o’ spirits, which I seldom touches, but
 could always wish to know where to find, if so dispoged, never knowin’
 wot may happen next, the world bein’ so uncertain.’
 
-‘Why, the old fool’s mad!’ cried Jonas, much disturbed.
+‘Why, the old [[Fool|fool]]’s mad!’ cried Jonas, much disturbed.
 
 ‘That’s my opinion, sir,’ said Mrs Gamp, ‘and I will not deceive you. I
 believe as Mr Chuffey, sir, rekwires attention (if I may make so bold),
@@ -937,13 +937,13 @@ expressively, as scenting a job.
 room upstairs?’ asked Jonas.
 
 ‘Me and a friend of mine, one off, one on, could do it, Mr Chuzzlewit,’
-replied the nurse; ‘our charges not bein’ high, but wishin’ they was
+replied the [[Nurse|nurse]]; ‘our charges not bein’ high, but wishin’ they was
 lower, and allowance made considerin’ not strangers. Me and Betsey Prig,
 sir, would undertake Mr Chuffey reasonable,’ said Mrs Gamp, looking at
 him with her head on one side, as if he had been a piece of goods, for
 which she was driving a bargain; ‘and give every satigefaction. Betsey
-Prig has nussed a many lunacies, and well she knows their ways,
-which puttin’ ‘em right close afore the fire, when fractious, is the
+Prig has nussed a many lunacies, and [[Well|well]] she knows their ways,
+which puttin’ ‘em right close afore the [[Fire|fire]], when fractious, is the
 certainest and most compoging.’
 
 While Mrs Gamp discoursed to this effect, Jonas was walking up and down
@@ -953,12 +953,12 @@ made a stop, and said:
 ‘I must look after him, I suppose, or I may have him doing some
 mischief. What say you?’
 
-‘Nothin’ more likely!’ Mrs Gamp replied. ‘As well I have experienged, I
+‘Nothin’ more likely!’ Mrs Gamp replied. ‘As [[Well|well]] I have experienged, I
 do assure you, sir.’
 
-‘Well! Look after him for the present, and--let me see--three days from
-this time let the other woman come here, and we’ll see if we can make
-a bargain of it. About nine or ten o’clock at night, say. Keep your eye
+‘[[Well]]! Look after him for the present, and--let me see--three days from
+this [[Time|time]] let the other woman come here, and we’ll see if we can make
+a bargain of it. About nine or ten o’[[Clock|clock]] at [[Night|night]], say. Keep your eye
 upon him in the meanwhile, and don’t talk about it. He’s as mad as a
 March hare!’
 
@@ -968,7 +968,7 @@ March hare!’
 have told you.’
 
 Leaving Mrs Gamp in the act of repeating all she had been told, and
-of producing in support of her memory and trustworthiness, many
+of producing in support of her [[Memory|memory]] and trustworthiness, many
 commendations selected from among the most remarkable opinions of the
 celebrated Mrs Harris, he descended to the little room prepared for him,
 and pulling off his coat and his boots, put them outside the door before
@@ -991,7 +991,7 @@ the same game all along. Old dog! He shall be gagged!’
 
 He paced the room again in the same restless and unsteady way; and then
 sat down upon the bedstead, leaning his chin upon his hand, and looking
-at the table. When he had looked at it for a long time, he remembered
+at the table. When he had looked at it for a long [[Time|time]], he remembered
 his supper; and resuming the chair he had first occupied, began to eat
 with great rapacity; not like a hungry man, but as if he were determined
 to do it. He drank too, roundly; sometimes stopping in the middle of a
@@ -999,30 +999,30 @@ draught to walk, and change his seat and walk again, and dart back to
 the table and fall to, in a ravenous hurry, as before.
 
 It was now growing dark. As the gloom of evening, deepening into
-night, came on, another dark shade emerging from within him seemed to
+[[Night|night]], came on, another dark shade emerging from within him seemed to
 overspread his face, and slowly change it. Slowly, slowly; darker and
 darker; more and more haggard; creeping over him by little and little,
-until it was black night within him and without.
+until it was black [[Night|night]] within him and without.
 
 The room in which he had shut himself up, was on the ground floor, at
-the back of the house. It was lighted by a dirty skylight, and had a
+the back of the [[house]]. It was lighted by a dirty skylight, and had a
 door in the wall, opening into a narrow covered passage or blind-alley,
-very little frequented after five or six o’clock in the evening, and
+very little frequented after five or six o’[[Clock|clock]] in the evening, and
 not in much use as a thoroughfare at any hour. But it had an outlet in a
 neighbouring street.
 
-The ground on which this chamber stood had, at one time, not within his
+The ground on which this chamber stood had, at one [[Time|time]], not within his
 recollection, been a yard; and had been converted to its present purpose
 for use as an office. But the occasion for it died with the man who
 built it; and saving that it had sometimes served as an apology for a
 spare bedroom, and that the old clerk had once held it (but that was
 years ago) as his recognized apartment, it had been little troubled by
 Anthony Chuzzlewit and Son. It was a blotched, stained, mouldering room,
-like a vault; and there were water-pipes running through it, which at
-unexpected times in the night, when other things were quiet, clicked and
+like a vault; and there were [[Water|water]]-pipes running through it, which at
+unexpected times in the [[Night|night]], when other things were quiet, clicked and
 gurgled suddenly, as if they were choking.
 
-The door into the court had not been open for a long, long time; but the
+The door into the [[Court|court]] had not been open for a long, long [[Time|time]]; but the
 key had always hung in one place, and there it hung now. He was prepared
 for its being rusty; for he had a little bottle of oil in his pocket and
 the feather of a pen, with which he lubricated the key and the lock too,
@@ -1032,7 +1032,7 @@ state, and tossed from side to side to tumble it. In his restless
 condition that was easily done.
 
 When he arose, he took from his portmanteau, which he had caused to be
-carried into that place when he came home, a pair of clumsy shoes,
+carried into that place when he came [[Home|home]], a pair of clumsy shoes,
 and put them on his feet; also a pair of leather leggings, such
 as countrymen are used to wear, with straps to fasten them to the
 waistband. In these he dressed himself at leisure. Lastly, he took out
@@ -1040,18 +1040,18 @@ a common frock of coarse dark jean, which he drew over his own
 under-clothing; and a felt hat--he had purposely left his own upstairs.
 He then sat himself down by the door, with the key in his hand, waiting.
 
-He had no light; the time was dreary, long, and awful. The ringers were
-practicing in a neighbouring church, and the clashing of the bells was
-almost maddening. Curse the clamouring bells, they seemed to know that
+He had no light; the [[Time|time]] was dreary, long, and awful. The ringers were
+practicing in a neighbouring church, and the clashing of [[The Bells|the bells]] was
+almost maddening. Curse the clamouring [[Bells|bells]], they seemed to know that
 he was listening at the door, and to proclaim it in a crowd of voices to
 all the town! Would they never be still?
 
-They ceased at last, and then the silence was so new and terrible that
-it seemed the prelude to some dreadful noise. Footsteps in the court!
+They ceased at last, and then the [[Silence|silence]] was so new and terrible that
+it seemed the prelude to some dreadful noise. Footsteps in the [[Court|court]]!
 Two men. He fell back from the door on tiptoe, as if they could have
 seen him through its wooden panels.
 
-They passed on, talking (he could make out) about a skeleton which had
+They passed on, talking (he could make out) about a [[skeleton]] which had
 been dug up yesterday, in some work of excavation near at hand, and was
 supposed to be that of a murdered man. ‘So murder is not always found
 out, you see,’ they said to one another as they turned the corner.
@@ -1060,7 +1060,7 @@ Hush!
 
 He put the key into the lock, and turned it. The door resisted for a
 while, but soon came stiffly open; mingling with the sense of fever in
-his mouth, a taste of rust, and dust, and earth, and rotting wood. He
+his mouth, a taste of rust, and [[Dust|dust]], and earth, and rotting wood. He
 looked out; passed out; locked it after him.
 
 All was clear and quiet, as he fled away.

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 4"
+title: "[[Northanger Abbey]] — Chapter 4"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,7 +36,7 @@ out, up the steps and down; people whom nobody cared about, and nobody
 
 wanted to see; and he only was absent. “What a delightful place Bath
 
-is,” said Mrs. Allen as they sat down near the great clock, after
+is,” said Mrs. Allen as they sat down near the great [[Clock|clock]], after
 
 parading the room till they were tired; “and how pleasant it would be
 
@@ -46,9 +46,9 @@ if we had any acquaintance here.”
 
 This sentiment had been uttered so often in vain that Mrs. Allen had no
 
-particular reason to hope it would be followed with more advantage now;
+particular reason to [[Hope|hope]] it would be followed with more advantage now;
 
-but we are told to “despair of nothing we would attain,” as “unwearied
+but we are told to “[[Despair|despair]] of nothing we would attain,” as “unwearied
 
 diligence our point would gain”; and the unwearied diligence with which
 
@@ -62,7 +62,7 @@ her attentively for several minutes, addressed her with great
 
 complaisance in these words: “I think, madam, I cannot be mistaken; it
 
-is a long time since I had the pleasure of seeing you, but is not your
+is a long [[Time|time]] since I had the pleasure of seeing you, but is not your
 
 name Allen?” This question answered, as it readily was, the stranger
 
@@ -72,13 +72,13 @@ features of a former schoolfellow and intimate, whom she had seen only
 
 once since their respective marriages, and that many years ago. Their
 
-joy on this meeting was very great, as well it might, since they had
+joy on this meeting was very great, as [[Well|well]] it might, since they had
 
 been contented to know nothing of each other for the last fifteen
 
 years. Compliments on good looks now passed; and, after observing how
 
-time had slipped away since they were last together, how little they
+[[Time|time]] had slipped away since they were last together, how little they
 
 had thought of meeting in Bath, and what a pleasure it was to see an
 
@@ -92,11 +92,11 @@ little of what the other said. Mrs. Thorpe, however, had one great
 
 advantage as a talker, over Mrs. Allen, in a family of children; and
 
-when she expatiated on the talents of her sons, and the beauty of her
+when she expatiated on the talents of her sons, and the [[Beauty|beauty]] of her
 
 daughters, when she related their different situations and views—that
 
-John was at Oxford, Edward at Merchant Taylors’, and William at sea—and
+John was at [[Oxford]], Edward at Merchant Taylors’, and William at sea—and
 
 all of them more beloved and respected in their different station than
 
@@ -120,17 +120,17 @@ smart-looking females who, arm in arm, were then moving towards her.
 
 “My dear Mrs. Allen, I long to introduce them; they will be so
 
-delighted to see you: the tallest is Isabella, my eldest; is not she a
+delighted to see you: the tallest is [[Isabella]], my eldest; is not she a
 
 fine young woman? The others are very much admired too, but I believe
 
-Isabella is the handsomest.”
+[[Isabella]] is the handsomest.”
 
 
 
 The Miss Thorpes were introduced; and Miss Morland, who had been for a
 
-short time forgotten, was introduced likewise. The name seemed to
+short [[Time|time]] forgotten, was introduced likewise. The name seemed to
 
 strike them all; and, after speaking to her with great civility, the
 
@@ -146,7 +146,7 @@ known her anywhere for his sister!” was repeated by them all, two or
 
 three times over. For a moment Catherine was surprised; but Mrs. Thorpe
 
-and her daughters had scarcely begun the history of their acquaintance
+and her daughters had scarcely begun the [[history]] of their acquaintance
 
 with Mr. James Morland, before she remembered that her eldest brother
 
@@ -154,7 +154,7 @@ had lately formed an intimacy with a young man of his own college, of
 
 the name of Thorpe; and that he had spent the last week of the
 
-Christmas vacation with his family, near London.
+Christmas vacation with his family, near [[London]].
 
 
 
@@ -162,7 +162,7 @@ The whole being explained, many obliging things were said by the Miss
 
 Thorpes of their wish of being better acquainted with her; of being
 
-considered as already friends, through the friendship of their
+considered as already friends, through the [[Friendship|friendship]] of their
 
 brothers, etc., which Catherine heard with pleasure, and answered with
 
@@ -174,9 +174,9 @@ Thorpe, and take a turn with her about the room. Catherine was
 
 delighted with this extension of her Bath acquaintance, and almost
 
-forgot Mr. Tilney while she talked to Miss Thorpe. Friendship is
+forgot Mr. Tilney while she talked to Miss Thorpe. [[Friendship]] is
 
-certainly the finest balm for the pangs of disappointed love.
+certainly the finest balm for the pangs of disappointed [[Love|love]].
 
 
 
@@ -192,7 +192,7 @@ Morland, and at least four years better informed, had a very decided
 
 advantage in discussing such points; she could compare the balls of
 
-Bath with those of Tunbridge, its fashions with the fashions of London;
+Bath with those of Tunbridge, its fashions with the fashions of [[London]];
 
 could rectify the opinions of her new friend in many articles of
 
@@ -218,19 +218,19 @@ pump-room, but required, when they all quitted it together, that Miss
 
 Thorpe should accompany Miss Morland to the very door of Mr. Allen’s
 
-house; and that they should there part with a most affectionate and
+[[house]]; and that they should there part with a most affectionate and
 
 lengthened shake of hands, after learning, to their mutual relief, that
 
-they should see each other across the theatre at night, and say their
+they should see each other across the theatre at [[Night|night]], and say their
 
 prayers in the same chapel the next morning. Catherine then ran
 
 directly upstairs, and watched Miss Thorpe’s progress down the street
 
-from the drawing-room window; admired the graceful spirit of her walk,
+from the drawing-room [[Window|window]]; admired the graceful spirit of her walk,
 
-the fashionable air of her figure and dress; and felt grateful, as well
+the fashionable air of her figure and dress; and felt grateful, as [[Well|well]]
 
 she might, for the chance which had procured her such a friend.
 
@@ -238,13 +238,13 @@ she might, for the chance which had procured her such a friend.
 
 Mrs. Thorpe was a widow, and not a very rich one; she was a
 
-good-humoured, well-meaning woman, and a very indulgent mother. Her
+good-humoured, [[Well|well]]-meaning woman, and a very indulgent mother. Her
 
-eldest daughter had great personal beauty, and the younger ones, by
+eldest daughter had great personal [[Beauty|beauty]], and the younger ones, by
 
 pretending to be as handsome as their sister, imitating her air, and
 
-dressing in the same style, did very well.
+dressing in the same style, did very [[Well|well]].
 
 
 

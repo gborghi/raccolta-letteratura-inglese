@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE"
+title: "[[David Copperfield]] — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,24 +18,24 @@ CHAPTER 6. I ENLARGE MY CIRCLE OF ACQUAINTANCE
 
 
 I HAD led this life about a month, when the man with the wooden leg
-began to stump about with a mop and a bucket of water, from which I
+began to stump about with a mop and a bucket of [[Water|water]], from which I
 inferred that preparations were making to receive Mr. Creakle and the
 boys. I was not mistaken; for the mop came into the schoolroom before
 long, and turned out Mr. Mell and me, who lived where we could, and got
 on how we could, for some days, during which we were always in the way
 of two or three young women, who had rarely shown themselves before, and
-were so continually in the midst of dust that I sneezed almost as much
-as if Salem House had been a great snuff-box.
+were so continually in the midst of [[Dust|dust]] that I sneezed almost as much
+as if Salem [[house|House]] had been a great snuff-box.
 
-One day I was informed by Mr. Mell that Mr. Creakle would be home that
+One day I was informed by Mr. Mell that Mr. Creakle would be [[Home|home]] that
 evening. In the evening, after tea, I heard that he was come. Before
 bedtime, I was fetched by the man with the wooden leg to appear before
 him.
 
-Mr. Creakle’s part of the house was a good deal more comfortable than
-ours, and he had a snug bit of garden that looked pleasant after the
-dusty playground, which was such a desert in miniature, that I thought
-no one but a camel, or a dromedary, could have felt at home in it. It
+Mr. Creakle’s part of the [[house]] was a good deal more comfortable than
+ours, and he had a snug bit of [[Garden|garden]] that looked pleasant after the
+dusty playground, which was such a [[Desert|desert]] in miniature, that I thought
+no one but a camel, or a dromedary, could have felt at [[Home|home]] in it. It
 seemed to me a bold thing even to take notice that the passage looked
 comfortable, as I went on my way, trembling, to Mr. Creakle’s presence:
 which so abashed me, when I was ushered into it, that I hardly saw
@@ -47,7 +47,7 @@ and seals, in an arm-chair, with a tumbler and bottle beside him.
 be filed! Turn him round.’
 
 The wooden-legged man turned me about so as to exhibit the placard; and
-having afforded time for a full survey of it, turned me about again,
+having afforded [[Time|time]] for a full survey of it, turned me about again,
 with my face to Mr. Creakle, and posted himself at Mr. Creakle’s side.
 Mr. Creakle’s face was fiery, and his eyes were small, and deep in his
 head; he had thick veins in his forehead, a little nose, and a large
@@ -65,7 +65,7 @@ said Mr. Creakle. ‘What’s the report of this boy?’
 ‘There has been no opportunity.’
 
 I thought Mr. Creakle was disappointed. I thought Mrs. and Miss Creakle
-(at whom I now glanced for the first time, and who were, both, thin and
+(at whom I now glanced for the first [[Time|time]], and who were, both, thin and
 quiet) were not disappointed.
 
 ‘Come here, sir!’ said Mr. Creakle, beckoning to me.
@@ -77,7 +77,7 @@ Creakle, taking me by the ear; ‘and a worthy man he is, and a man of
 a strong character. He knows me, and I know him. Do YOU know me? Hey?’
 said Mr. Creakle, pinching my ear with ferocious playfulness.
 
-‘Not yet, sir,’ I said, flinching with the pain.
+‘Not yet, sir,’ I said, flinching with the [[Pain|pain]].
 
 ‘Not yet? Hey?’ repeated Mr. Creakle. ‘But you will soon. Hey?’
 
@@ -89,7 +89,7 @@ I was very much frightened, and said, I hoped so, if he pleased. I felt,
 all this while, as if my ear were blazing; he pinched it so hard.
 
 ‘I’ll tell you what I am,’ whispered Mr. Creakle, letting it go at last,
-with a screw at parting that brought the water into my eyes. ‘I’m a
+with a screw at parting that brought the [[Water|water]] into my eyes. ‘I’m a
 Tartar.’
 
 ‘A Tartar,’ said the man with the wooden leg.
@@ -101,9 +101,9 @@ I will have a thing done, I will have it done.’
 the wooden leg.
 
 ‘I am a determined character,’ said Mr. Creakle. ‘That’s what I am. I
-do my duty. That’s what I do. My flesh and blood’--he looked at Mrs.
+do my duty. That’s what I do. My flesh and [[Blood|blood]]’--he looked at Mrs.
 Creakle as he said this--‘when it rises against me, is not my flesh
-and blood. I discard it. Has that fellow’--to the man with the wooden
+and [[Blood|blood]]. I discard it. Has that fellow’--to the man with the wooden
 leg--‘been here again?’
 
 ‘No,’ was the answer.
@@ -116,7 +116,7 @@ begun to know me too, my young friend, and you may go. Take him away.’
 I was very glad to be ordered away, for Mrs. and Miss Creakle were both
 wiping their eyes, and I felt as uncomfortable for them as I did for
 myself. But I had a petition on my mind which concerned me so nearly,
-that I couldn’t help saying, though I wondered at my own courage:
+that I couldn’t help saying, though I wondered at my own [[Courage|courage]]:
 
 ‘If you please, sir--’
 
@@ -132,7 +132,7 @@ frighten me, I don’t know, but he made a burst out of his chair, before
 which I precipitately retreated, without waiting for the escort of the
 man with the wooden leg, and never once stopped until I reached my own
 bedroom, where, finding I was not pursued, I went to bed, as it was
-time, and lay quaking, for a couple of hours.
+[[Time|time]], and lay quaking, for a couple of hours.
 
 Next morning Mr. Sharp came back. Mr. Sharp was the first master, and
 superior to Mr. Mell. Mr. Mell took his meals with the boys, but
@@ -157,12 +157,12 @@ either disclosure or concealment, by presenting me to every other boy
 who came back, great or small, immediately on his arrival, in this form
 of introduction, ‘Look here! Here’s a game!’ Happily, too, the greater
 part of the boys came back low-spirited, and were not so boisterous at
-my expense as I had expected. Some of them certainly did dance about me
-like wild Indians, and the greater part could not resist the temptation
+my expense as I had expected. Some of them certainly did [[Dance|dance]] about me
+like wild Indians, and the greater part could not resist the [[Temptation|temptation]]
 of pretending that I was a dog, and patting and soothing me, lest I
 should bite, and saying, ‘Lie down, sir!’ and calling me Towzer. This
 was naturally confusing, among so many strangers, and cost me some
-tears, but on the whole it was much better than I had anticipated.
+[[Tears|tears]], but on the whole it was much better than I had anticipated.
 
 I was not considered as being formally received into the school,
 however, until J. Steerforth arrived. Before this boy, who was
@@ -207,7 +207,7 @@ Steerforth. ‘I say, young Copperfield, you’re going it!’
 
 I smiled because he smiled, but I was a little troubled in my mind, too.
 
-‘Well!’ said Steerforth. ‘We must make it stretch as far as we can;
+‘[[Well]]!’ said Steerforth. ‘We must make it stretch as far as we can;
 that’s all. I’ll do the best in my power for you. I can go out when I
 like, and I’ll smuggle the prog in.’ With these words he put the money
 in his pocket, and kindly told me not to make myself uneasy; he would
@@ -220,7 +220,7 @@ shillings’ worth, and laid it out on my bed in the moonlight, saying:
 
 ‘There you are, young Copperfield, and a royal spread you’ve got.’
 
-I couldn’t think of doing the honours of the feast, at my time of life,
+I couldn’t think of doing the honours of the feast, at my [[Time|time]] of life,
 while he was by; my hand shook at the very thought of it. I begged him
 to do me the favour of presiding; and my request being seconded by the
 other boys who were in that room, he acceded to it, and sat upon my
@@ -229,18 +229,18 @@ dispensing the currant wine in a little glass without a foot, which was
 his own property. As to me, I sat on his left hand, and the rest were
 grouped about us, on the nearest beds and on the floor.
 
-How well I recollect our sitting there, talking in whispers; or their
+How [[Well|well]] I recollect our sitting there, talking in whispers; or their
 talking, and my respectfully listening, I ought rather to say; the
-moonlight falling a little way into the room, through the window,
-painting a pale window on the floor, and the greater part of us in
-shadow, except when Steerforth dipped a match into a phosphorus-box,
+moonlight falling a little way into the room, through the [[Window|window]],
+painting a pale [[Window|window]] on the floor, and the greater part of us in
+[[Shadow|shadow]], except when Steerforth dipped a match into a phosphorus-box,
 when he wanted to look for anything on the board, and shed a blue glare
 over us that was gone directly! A certain mysterious feeling, consequent
 on the darkness, the secrecy of the revel, and the whisper in which
 everything was said, steals over me again, and I listen to all they tell
 me with a vague feeling of solemnity and awe, which makes me glad that
 they are all so near, and frightens me (though I feign to laugh) when
-Traddles pretends to see a ghost in the corner.
+Traddles pretends to see a [[Ghost|ghost]] in the corner.
 
 I heard all kinds of things about the school and all belonging to it.
 I heard that Mr. Creakle had not preferred his claim to being a Tartar
@@ -259,7 +259,7 @@ obstinate barbarian who had formerly assisted in the hop business, but
 had come into the scholastic line with Mr. Creakle, in consequence,
 as was supposed among the boys, of his having broken his leg in Mr.
 Creakle’s service, and having done a deal of dishonest work for him,
-and knowing his secrets. I heard that with the single exception of Mr.
+and knowing his [[Secrets|secrets]]. I heard that with the single exception of Mr.
 Creakle, Tungay considered the whole establishment, masters and boys,
 as his natural enemies, and that the only delight of his life was to be
 sour and malicious. I heard that Mr. Creakle had a son, who had not been
@@ -270,7 +270,7 @@ his father’s usage of his mother. I heard that Mr. Creakle had turned
 him out of doors, in consequence; and that Mrs. and Miss Creakle had
 been in a sad way, ever since.
 
-But the greatest wonder that I heard of Mr. Creakle was, there being one
+But the greatest [[Wonder|wonder]] that I heard of Mr. Creakle was, there being one
 boy in the school on whom he never ventured to lay a hand, and that
 boy being J. Steerforth. Steerforth himself confirmed this when it was
 stated, and said that he should like to begin to see him do it. On being
@@ -278,7 +278,7 @@ asked by a mild boy (not me) how he would proceed if he did begin to see
 him do it, he dipped a match into his phosphorus-box on purpose to shed
 a glare over his reply, and said he would commence by knocking him down
 with a blow on the forehead from the seven-and-sixpenny ink-bottle
-that was always on the mantelpiece. We sat in the dark for some time,
+that was always on the mantelpiece. We sat in the dark for some [[Time|time]],
 breathless.
 
 I heard that Mr. Sharp and Mr. Mell were both supposed to be wretchedly
@@ -294,21 +294,21 @@ against the coal-bill, and was called, on that account, ‘Exchange or
 Barter’--a name selected from the arithmetic book as expressing this
 arrangement. I heard that the table beer was a robbery of parents, and
 the pudding an imposition. I heard that Miss Creakle was regarded by the
-school in general as being in love with Steerforth; and I am sure, as I
+school in general as being in [[Love|love]] with Steerforth; and I am sure, as I
 sat in the dark, thinking of his nice voice, and his fine face, and his
 easy manner, and his curling hair, I thought it very likely. I heard
 that Mr. Mell was not a bad sort of fellow, but hadn’t a sixpence to
-bless himself with; and that there was no doubt that old Mrs. Mell, his
+bless himself with; and that there was no [[Doubt|doubt]] that old Mrs. Mell, his
 mother, was as poor as job. I thought of my breakfast then, and what had
 sounded like ‘My Charley!’ but I was, I am glad to remember, as mute as
 a mouse about it.
 
 The hearing of all this, and a good deal more, outlasted the banquet
-some time. The greater part of the guests had gone to bed as soon as the
+some [[Time|time]]. The greater part of the guests had gone to bed as soon as the
 eating and drinking were over; and we, who had remained whispering and
 listening half-undressed, at last betook ourselves to bed, too.
 
-‘Good night, young Copperfield,’ said Steerforth. ‘I’ll take care of
+‘Good [[Night|night]], young Copperfield,’ said Steerforth. ‘I’ll take care of
 you.’ ‘You’re very kind,’ I gratefully returned. ‘I am very much obliged
 to you.’
 
@@ -318,9 +318,9 @@ to you.’
 
 ‘That’s a pity,’ said Steerforth. ‘If you had had one, I should think
 she would have been a pretty, timid, little, bright-eyed sort of girl. I
-should have liked to know her. Good night, young Copperfield.’
+should have liked to know her. Good [[Night|night]], young Copperfield.’
 
-‘Good night, sir,’ I replied.
+‘Good [[Night|night]], sir,’ I replied.
 
 I thought of him very much after I went to bed, and raised myself,
 I recollect, to look at him where he lay in the moonlight, with his
@@ -328,4 +328,4 @@ handsome face turned up, and his head reclining easily on his arm. He
 was a person of great power in my eyes; that was, of course, the reason
 of my mind running on him. No veiled future dimly glanced upon him in
 the moonbeams. There was no shadowy picture of his footsteps, in the
-garden that I dreamed of walking in all night.
+[[Garden|garden]] that I dreamed of walking in all [[Night|night]].

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 29 (part 4)"
+title: "[[Sense and Sensibility]] — Chapter 29 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 you three, is there a creature in the world whom I would not rather
 
-suspect of evil than Willoughby, whose heart I know so well?”
+suspect of evil than Willoughby, whose heart I know so [[Well|well]]?”
 
 
 
@@ -26,13 +26,13 @@ detestably your enemy, let them be cheated of their malignant triumph,
 
 my dear sister, by seeing how nobly the consciousness of your own
 
-innocence and good intentions supports your spirits. It is a reasonable
+[[innocence]] and good intentions supports your spirits. It is a reasonable
 
-and laudable pride which resists such malevolence.”
+and laudable [[Pride|pride]] which resists such malevolence.”
 
 
 
-“No, no,” cried Marianne, “misery such as mine has no pride. I care not
+“No, no,” cried Marianne, “misery such as mine has no [[Pride|pride]]. I care not
 
 who knows that I am wretched. The triumph of seeing me so may be open
 
@@ -58,7 +58,7 @@ miserable—Oh! who can require it?”
 
 Again they were both silent. Elinor was employed in walking
 
-thoughtfully from the fire to the window, from the window to the fire,
+thoughtfully from the [[Fire|fire]] to the [[Window|window]], from the [[Window|window]] to the [[Fire|fire]],
 
 without knowing that she received warmth from one, or discerning
 
@@ -110,7 +110,7 @@ Another pause ensued; Marianne was greatly agitated, and it ended thus.
 
 
 
-“Elinor, I must go home. I must go and comfort mama. Can not we be gone
+“Elinor, I must go [[Home|home]]. I must go and comfort mama. Can not we be gone
 
 to-morrow?”
 
@@ -134,7 +134,7 @@ hasty removal as that.”
 
 
 
-“Well then, another day or two, perhaps; but I cannot stay here long, I
+“[[Well]] then, another day or two, perhaps; but I cannot stay here long, I
 
 cannot stay to endure the questions and remarks of all these people.
 
@@ -146,16 +146,16 @@ such a woman as Lady Middleton! Oh, what would _he_ say to that!”
 
 Elinor advised her to lie down again, and for a moment she did so; but
 
-no attitude could give her ease; and in restless pain of mind and body
+no attitude could give her ease; and in restless [[Pain|pain]] of mind and [[Body|body]]
 
 she moved from one posture to another, till growing more and more
 
 hysterical, her sister could with difficulty keep her on the bed at
 
-all, and for some time was fearful of being constrained to call for
+all, and for some [[Time|time]] was fearful of being constrained to call for
 
 assistance. Some lavender drops, however, which she was at length
 
-persuaded to take, were of use; and from that time till Mrs. Jennings
+persuaded to take, were of use; and from that [[Time|time]] till Mrs. Jennings
 
 returned, she continued on the bed quiet and motionless.

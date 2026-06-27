@@ -1,5 +1,5 @@
 ---
-title: "secret Fr Brown — Vii The Red Moon Of Meru (part 4)"
+title: "secret Fr Brown — Vii The Red [[Moon]] Of Meru (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/secret-Fr-Brown-(Chesterton)"
@@ -19,20 +19,20 @@ and for the moment all the group had turned again and were looking back
 into the inner room.
 
 It was at that moment that the thing happened. It was the impetuous
-Tommy, once more, who was the first to move, and this time to better
+Tommy, once more, who was the first to move, and this [[Time|time]] to better
 effect. Before anyone else had seen anything, when Hardcastle had barely
 remembered with a jump that he had left the gem on the stone sill, Tommy
 was across the cloister with the leap of a cat and, leaning with his
 head and shoulders out of the aperture between two columns, had cried
 out in a voice that rang down all the arches: "I've got him!"
 
-In that instant of time, just after they turned, and just before they
+In that instant of [[Time|time]], just after they turned, and just before they
 heard his triumphant cry, they had all seen it happen. Round the corner
 of one of the two columns, there had darted in and out again a brown or
 rather bronze-coloured hand, the colour of dead gold; such as they had
 seen elsewhere. The hand had struck as straight as a striking snake; as
 instantaneous as the flick of the long tongue of an ant-eater. But it
-had licked up the jewel. The stone slab of the window-sill shone bare
+had licked up the [[Jewel|jewel]]. The stone slab of the [[Window|window]]-sill shone bare
 in the pale and fading light.
 
 "I've got him," gasped Tommy Hunter; "but he's wriggling pretty hard.
@@ -40,7 +40,7 @@ You fellows run round him in front--he can't have got rid of it, anyhow."
 
 The others obeyed, some racing down the corridor and some leaping over
 the low wall, with the result that a little crowd, consisting of
-Hardcastle, Lord Mounteagle, Father Brown, and even the undetachable Mr.
+Hardcastle, Lord Mounteagle, [[Father Brown]], and even the undetachable Mr.
 Phroso of the bumps, had soon surrounded the captive Master of the
 Mountain, whom Hunter was hanging on to desperately by the collar with
 one hand, and shaking every now and then in a manner highly insensible
@@ -53,7 +53,7 @@ Three-quarters of an hour later. Hunter and Hardcastle, their top-
 hats, ties, gloves, slips and spats somewhat the worse for their recent
 activities, came face to face in the cloister and gazed at each other.
 
-"Well," asked Hardcastle with restraint, "have you any views on the
+"[[Well]]," asked Hardcastle with restraint, "have you any views on the
 mystery?"
 
 "Hang it all," replied Hunter; "you can't call it a mystery. Why, we all
@@ -75,18 +75,18 @@ him, convinced him that it covered no such meditation on Greek legend.
 "It's not on him, I admit," repeated Hunter, suddenly, "unless he's
 swallowed it."
 
-"Are we to dissect the Prophet, too?" asked the other smiling. "But here
+"Are we to dissect the [[Prophet]], too?" asked the other smiling. "But here
 comes our host."
 
 "This is a most distressing matter," said Lord Mounteagle, twisting his
 white moustache with a nervous and even tremulous hand. "Horrible thing
-to have a theft in one's house, let alone connecting it with a man like
+to have a theft in one's [[house]], let [[Alone|alone]] connecting it with a man like
 the Master. But, I confess, I can't quite make head or tail of the way
 in which he is talking about it. I wish you'd come inside and see what
 you think."
 
 They went in together, Hunter falling behind and dropping into
-conversation with Father Brown, who was kicking his heels round the
+conversation with [[Father Brown]], who was kicking his heels round the
 cloister.
 
 "You must be very strong," said the priest pleasantly. "You held him
@@ -96,7 +96,7 @@ hands to hold him, like one of those Indian gods."
 They took a turn or two round the cloister, talking; and then they also
 went into the inner room, where the Master of the Mountain was seated on
 a bench, in the capacity of a captive, but with more of the air of a
-king.
+[[King|king]].
 
 It was true, as Lord Mounteagle said, that his air and tone were not
 very easy to understand. He spoke with a serene, and yet secretive sense
@@ -106,7 +106,7 @@ whatever. He seemed to be laughing, in a still unfathomable fashion at
 their efforts to trace what they had all seen him take.
 
 "You are learning a little," he said, with insolent benevolence, "of the
-laws of time and space; about which your latest science is a thousand
+laws of [[Time|time]] and space; about which your latest science is a thousand
 years behind our oldest religion. You do not even know what is really
 meant by hiding a thing. Nay, my poor little friends, you do not even
 know what is meant by seeing a thing; or perhaps you would see this as
@@ -117,15 +117,15 @@ plainly as I do."
 "Here is a word of many meanings, also," replied the mystic. "But I did
 not say it was here. I only said I could see it."
 
-There was an irritated silence, and he went on sleepily.
+There was an irritated [[Silence|silence]], and he went on sleepily.
 
 "If you were to be utterly, unfathomably, silent, do you think you might
 hear a cry from the other end of the world? The cry of a worshipper
-alone in those mountains, where the original image sits, itself like a
+[[Alone|alone]] in those [[Mountains|mountains]], where the original image sits, itself like a
 mountain. Some say that even Jews and Moslems might worship that image;
 because it was never made by man. Hark! Do you hear the cry with which
 he lifts his head and sees in that socket of stone, that has been hollow
-for ages, the one red and angry moon that is the eye of the mountain?"
+for ages, the one red and angry [[Moon|moon]] that is the eye of the mountain?"
 
 "Do you really mean," cried Lord Mounteagle, a little shaken, "that you
 could make it pass from here to Mount Meru? I used to believe you had
@@ -133,7 +133,7 @@ great spiritual powers, but----"
 
 "Perhaps," said the Master, "I have more than you will ever believe."
 
-Hardcastle rose impatiently and began to pace the room with his hands in
+Hardcastle [[Rose|rose]] impatiently and began to pace the room with his hands in
 his pockets.
 
 "I never believed so much as you did; but I admit that powers of a-

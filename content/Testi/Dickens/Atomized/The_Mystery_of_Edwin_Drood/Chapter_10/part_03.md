@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 9 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 9 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -17,32 +17,32 @@ tags:
 “Yes, indeed, sir,” answered Rosa.
 
 “For which,” said Mr. Grewgious, with a bend of his head towards the
-corner window, “our warmest acknowledgments are due, and I am sure are
+corner [[Window|window]], “our warmest acknowledgments are due, and I am sure are
 rendered, to the maternal kindness and the constant care and
-consideration of the lady whom I have now the honour to see before me.”
+consideration of the lady whom I have now the [[Honour|honour]] to see before me.”
 
 This point, again, made but a lame departure from Mr. Grewgious, and
 never got to its destination; for, Miss Twinkleton, feeling that the
-courtesies required her to be by this time quite outside the
+courtesies required her to be by this [[Time|time]] quite outside the
 conversation, was biting the end of her pen, and looking upward, as
 waiting for the descent of an idea from any member of the Celestial
 Nine who might have one to spare.
 
 Mr. Grewgious smoothed his smooth head again, and then made another
-reference to his pocket-book; lining out “well and happy,” as disposed
+reference to his pocket-book; lining out “[[Well|well]] and happy,” as disposed
 of.
 
 “‘Pounds, shillings, and pence,’ is my next note. A dry subject for a
 young lady, but an important subject too. Life is pounds, shillings,
-and pence. Death is—” A sudden recollection of the death of her two
+and pence. [[Death]] is—” A sudden recollection of the [[Death|death]] of her two
 parents seemed to stop him, and he said in a softer tone, and evidently
-inserting the negative as an after-thought: “Death is _not_ pounds,
+inserting the negative as an after-thought: “[[Death]] is _not_ pounds,
 shillings, and pence.”
 
 His voice was as hard and dry as himself, and Fancy might have ground
 it straight, like himself, into high-dried snuff. And yet, through the
 very limited means of expression that he possessed, he seemed to
-express kindness. If Nature had but finished him off, kindness might
+express kindness. If [[Nature]] had but finished him off, kindness might
 have been recognisable in his face at this moment. But if the notches
 in his forehead wouldn’t fuse together, and if his face would work and
 couldn’t play, what could he do, poor man!
@@ -55,7 +55,7 @@ Rosa wanted for nothing, and therefore it was ample.
 “And you are not in debt?”
 
 Rosa laughed at the idea of being in debt. It seemed, to her
-inexperience, a comical vagary of the imagination. Mr. Grewgious
+inexperience, a comical vagary of the [[Imagination|imagination]]. Mr. Grewgious
 stretched his near sight to be sure that this was her view of the case.
 “Ah!” he said, as comment, with a furtive glance towards Miss
 Twinkleton, and lining out pounds, shillings, and pence: “I spoke of
@@ -65,7 +65,7 @@ Rosa felt what his next memorandum would prove to be, and was blushing
 and folding a crease in her dress with one embarrassed hand, long
 before he found it.
 
-“‘Marriage.’ Hem!” Mr. Grewgious carried his smoothing hand down over
+“‘[[Marriage]].’ Hem!” Mr. Grewgious carried his smoothing hand down over
 his eyes and nose, and even chin, before drawing his chair a little
 nearer, and speaking a little more confidentially: “I now touch, my
 dear, upon the point that is the direct cause of my troubling you with
@@ -91,12 +91,12 @@ emphasis was much too fine. “Good. And you correspond.”
 epistolary differences.
 
 “Such is the meaning that I attach to the word ‘correspond’ in this
-application, my dear,” said Mr. Grewgious. “Good. All goes well, time
-works on, and at this next Christmas-time it will become necessary, as
-a matter of form, to give the exemplary lady in the corner window, to
+application, my dear,” said Mr. Grewgious. “Good. All goes [[Well|well]], [[Time|time]]
+works on, and at this next Christmas-[[Time|time]] it will become necessary, as
+a matter of form, to give the exemplary lady in the corner [[Window|window]], to
 whom we are so much indebted, business notice of your departure in the
 ensuing half-year. Your relations with her are far more than business
-relations, no doubt; but a residue of business remains in them, and
+relations, no [[Doubt|doubt]]; but a residue of business remains in them, and
 business is business ever. I am a particularly Angular man,” proceeded
 Mr. Grewgious, as if it suddenly occurred to him to mention it, “and I
 am not used to give anything away. If, for these two reasons, some
@@ -117,11 +117,11 @@ Rosa sat still and silent. Perhaps her mind had not got quite so far as
 the ceremony yet, but was lagging on the way there.
 
 “Memorandum, ‘Will.’ Now, my dear,” said Mr. Grewgious, referring to
-his notes, disposing of “Marriage” with his pencil, and taking a paper
+his notes, disposing of “[[Marriage]]” with his pencil, and taking a paper
 from his pocket; “although I have before possessed you with the
-contents of your father’s will, I think it right at this time to leave
+contents of your father’s will, I think it right at this [[Time|time]] to leave
 a certified copy of it in your hands. And although Mr. Edwin is also
-aware of its contents, I think it right at this time likewise to place
+aware of its contents, I think it right at this [[Time|time]] likewise to place
 a certified copy of it in Mr. Jasper’s hand—”
 
 “Not in his own!” asked Rosa, looking up quickly. “Cannot the copy go
@@ -138,4 +138,4 @@ husband should be all in all. Yes. You observe that I say, I suppose.
 The fact is, I am a particularly Unnatural man, and I don’t know from
 my own knowledge.”
 
-Rosa looked at him with some wonder.
+Rosa looked at him with some [[Wonder|wonder]].

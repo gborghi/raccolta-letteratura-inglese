@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 57 (part 2)"
+title: "[[Great Expectations]] — Chapter 57 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,57 +14,57 @@ tags:
 </nav>
 
 
-“Pretty nigh, old chap. For, as I says to Biddy when the news of your
+“Pretty nigh, old chap. For, as I says to [[Biddy]] when the news of your
 being ill were brought by letter, which it were brought by the post,
 and being formerly single he is now married though underpaid for a deal
 of walking and shoe-leather, but wealth were not a object on his part,
-and marriage were the great wish of his hart—”
+and [[Marriage|marriage]] were the great wish of his hart—”
 
 “It is so delightful to hear you, Joe! But I interrupt you in what you
-said to Biddy.”
+said to [[Biddy]].”
 
 “Which it were,” said Joe, “that how you might be amongst strangers,
 and that how you and me having been ever friends, a wisit at such a
-moment might not prove unacceptabobble. And Biddy, her word were, ‘Go
-to him, without loss of time.’ That,” said Joe, summing up with his
-judicial air, “were the word of Biddy. ‘Go to him,’ Biddy say, ‘without
-loss of time.’ In short, I shouldn’t greatly deceive you,” Joe added,
-after a little grave reflection, “if I represented to you that the word
-of that young woman were, ‘without a minute’s loss of time.’”
+moment might not prove unacceptabobble. And [[Biddy]], her word were, ‘Go
+to him, without loss of [[Time|time]].’ That,” said Joe, summing up with his
+judicial air, “were the word of [[Biddy]]. ‘Go to him,’ [[Biddy]] say, ‘without
+loss of [[Time|time]].’ In short, I shouldn’t greatly deceive you,” Joe added,
+after a little [[Grave|grave]] reflection, “if I represented to you that the word
+of that young woman were, ‘without a minute’s loss of [[Time|time]].’”
 
 There Joe cut himself short, and informed me that I was to be talked to
 in great moderation, and that I was to take a little nourishment at
 stated frequent times, whether I felt inclined for it or not, and that
 I was to submit myself to all his orders. So I kissed his hand, and lay
-quiet, while he proceeded to indite a note to Biddy, with my love in
+quiet, while he proceeded to indite a note to [[Biddy]], with my [[Love|love]] in
 it.
 
-Evidently Biddy had taught Joe to write. As I lay in bed looking at
+Evidently [[Biddy]] had taught Joe to write. As I lay in bed looking at
 him, it made me, in my weak state, cry again with pleasure to see the
-pride with which he set about his letter. My bedstead, divested of its
+[[Pride|pride]] with which he set about his letter. My bedstead, divested of its
 curtains, had been removed, with me upon it, into the sitting-room, as
 the airiest and largest, and the carpet had been taken away, and the
-room kept always fresh and wholesome night and day. At my own
+room kept always fresh and wholesome [[Night|night]] and day. At my own
 writing-table, pushed into a corner and cumbered with little bottles,
 Joe now sat down to his great work, first choosing a pen from the
 pen-tray as if it were a chest of large tools, and tucking up his
 sleeves as if he were going to wield a crow-bar or sledgehammer. It was
 necessary for Joe to hold on heavily to the table with his left elbow,
-and to get his right leg well out behind him, before he could begin;
+and to get his right leg [[Well|well]] out behind him, before he could begin;
 and when he did begin he made every downstroke so slowly that it might
 have been six feet long, while at every upstroke I could hear his pen
 spluttering extensively. He had a curious idea that the inkstand was on
 the side of him where it was not, and constantly dipped his pen into
 space, and seemed quite satisfied with the result. Occasionally, he was
 tripped up by some orthographical stumbling-block; but on the whole he
-got on very well indeed; and when he had signed his name, and had
-removed a finishing blot from the paper to the crown of his head with
+got on very [[Well|well]] indeed; and when he had signed his name, and had
+removed a finishing blot from the paper to the [[Crown|crown]] of his head with
 his two forefingers, he got up and hovered about the table, trying the
 effect of his performance from various points of view, as it lay there,
 with unbounded satisfaction.
 
 Not to make Joe uneasy by talking too much, even if I had been able to
-talk much, I deferred asking him about Miss Havisham until next day. He
+talk much, I deferred asking him about [[Miss Havisham]] until next day. He
 shook his head when I then asked him if she had recovered.
 
 “Is she dead, Joe?”
@@ -85,13 +85,13 @@ come at everything by degrees.
 
 “Dear Joe, have you heard what becomes of her property?”
 
-“Well, old chap,” said Joe, “it do appear that she had settled the most
-of it, which I meantersay tied it up, on Miss Estella. But she had
+“[[Well]], old chap,” said Joe, “it do appear that she had settled the most
+of it, which I meantersay tied it up, on Miss [[Estella]]. But she had
 wrote out a little coddleshell in her own hand a day or two afore the
 accident, leaving a cool four thousand to Mr. Matthew Pocket. And why,
 do you suppose, above all things, Pip, she left that cool four thousand
 unto him? ‘Because of Pip’s account of him, the said Matthew.’ I am
-told by Biddy, that air the writing,” said Joe, repeating the legal
+told by [[Biddy]], that air the writing,” said Joe, repeating the legal
 turn as if it did him infinite good, “‘account of him the said
 Matthew.’ And a cool four thousand, Pip!”
 
@@ -113,7 +113,7 @@ chap?”
 
 Joe nodded. “Mrs. Camels,” by which I presently understood he meant
 Camilla, “she have five pound fur to buy rushlights to put her in
-spirits when she wake up in the night.”
+spirits when she wake up in the [[Night|night]].”
 
 The accuracy of these recitals was sufficiently obvious to me, to give
 me great confidence in Joe’s information. “And now,” said Joe, “you
@@ -124,11 +124,11 @@ dwelling-ouse.”
 “Whose?” said I.
 
 “Not, I grant you, but what his manners is given to blusterous,” said
-Joe, apologetically; “still, a Englishman’s ouse is his Castle, and
-castles must not be busted ’cept when done in war time. And wotsume’er
+Joe, apologetically; “still, a Englishman’s ouse is his [[Castle]], and
+castles must not be busted ’cept when done in war [[Time|time]]. And wotsume’er
 the failings on his part, he were a corn and seedsman in his hart.”
 
-“Is it Pumblechook’s house that has been broken into, then?”
+“Is it Pumblechook’s [[house]] that has been broken into, then?”
 
 “That’s it, Pip,” said Joe; “and they took his till, and they took his
 cash-box, and they drinked his wine, and they partook of his wittles,

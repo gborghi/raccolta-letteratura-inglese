@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Spring In The Soul"
+title: "Man Orthodox — The [[spring|Spring]] In The [[Soul]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE SPRING IN THE SOUL
+THE [[spring|SPRING]] IN THE [[Soul|SOUL]]

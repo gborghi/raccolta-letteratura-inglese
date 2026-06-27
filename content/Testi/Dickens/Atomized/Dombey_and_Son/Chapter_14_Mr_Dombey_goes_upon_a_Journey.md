@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 20: Mr Dombey goes upon a Journey"
+title: "Dombey and Son — Chapter 20: Mr Dombey goes upon a [[Journey]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Dombey-and-Son-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
- CHAPTER XX. Mr Dombey goes upon a Journey
+ CHAPTER XX. Mr Dombey goes upon a [[Journey]]

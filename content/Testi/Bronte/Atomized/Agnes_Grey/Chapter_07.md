@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 7"
+title: "[[Agnes Grey]] — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -19,35 +19,35 @@ HORTON LODGE
 
 
 The 31st of January was a wild, tempestuous day: there was a strong
-north wind, with a continual storm of snow drifting on the ground and
+north [[Wind|wind]], with a continual [[Storm|storm]] of [[Snow|snow]] drifting on the ground and
 whirling through the air. My friends would have had me delay my
 departure, but fearful of prejudicing my employers against me by such
 want of punctuality at the commencement of my undertaking, I persisted
 in keeping the appointment.
 
-I will not inflict upon my readers an account of my leaving home on
-that dark winter morning: the fond farewells, the long, long journey to
+I will not inflict upon my readers an account of my leaving [[Home|home]] on
+that dark [[Winter|winter]] morning: the fond farewells, the long, long [[Journey|journey]] to
 O——, the solitary waitings in inns for coaches or trains—for there were
 some railways then—and, finally, the meeting at O—— with Mr. Murray’s
 servant, who had been sent with the phaeton to drive me from thence to
-Horton Lodge. I will just state that the heavy snow had thrown such
+Horton Lodge. I will just state that the heavy [[Snow|snow]] had thrown such
 impediments in the way of both horses and steam-engines, that it was
-dark some hours before I reached my journey’s end, and that a most
-bewildering storm came on at last, which made the few miles’ space
+dark some hours before I reached my [[Journey|journey]]’s end, and that a most
+bewildering [[Storm|storm]] came on at last, which made the few miles’ space
 between O—— and Horton Lodge a long and formidable passage. I sat
-resigned, with the cold, sharp snow drifting through my veil and
-filling my lap, seeing nothing, and wondering how the unfortunate horse
-and driver could make their way even as well as they did; and indeed it
+resigned, with the cold, sharp [[Snow|snow]] drifting through my veil and
+filling my lap, seeing nothing, and wondering how the unfortunate [[Horse|horse]]
+and driver could make their way even as [[Well|well]] as they did; and indeed it
 was but a toilsome, creeping style of progression, to say the best of
 it. At length we paused; and, at the call of the driver, someone
 unlatched and rolled back upon their creaking hinges what appeared to
-be the park gates. Then we proceeded along a smoother road, whence,
+be the park gates. Then we proceeded along a smoother [[Road|road]], whence,
 occasionally, I perceived some huge, hoary mass gleaming through the
-darkness, which I took to be a portion of a snow-clad tree. After a
-considerable time we paused again, before the stately portico of a
-large house with long windows descending to the ground.
+darkness, which I took to be a portion of a [[Snow|snow]]-clad tree. After a
+considerable [[Time|time]] we paused again, before the stately portico of a
+large [[house]] with long windows descending to the ground.
 
-I rose with some difficulty from under the superincumbent snowdrift,
+I [[Rose|rose]] with some difficulty from under the superincumbent snowdrift,
 and alighted from the carriage, expecting that a kind and hospitable
 reception would indemnify me for the toils and hardships of the day. A
 gentlemanly person in black opened the door, and admitted me into a
@@ -64,18 +64,18 @@ upstairs. I replied in the affirmative, of course.
 Miss Matilda, a strapping hoyden of about fourteen, with a short frock
 and trousers, shrugged her shoulders and made a slight grimace, but
 took a candle and proceeded before me up the back stairs (a long,
-steep, double flight), and through a long, narrow passage, to a small
+steep, [[Double|double]] flight), and through a long, narrow passage, to a small
 but tolerably comfortable room. She then asked me if I would take some
 tea or coffee. I was about to answer No; but remembering that I had
-taken nothing since seven o’clock that morning, and feeling faint in
+taken nothing since seven o’[[Clock|clock]] that morning, and feeling faint in
 consequence, I said I would take a cup of tea. Saying she would tell
-“Brown,” the young lady departed; and by the time I had divested myself
-of my heavy, wet cloak, shawl, bonnet, &c., a mincing damsel came to
+“Brown,” the young lady departed; and by the [[Time|time]] I had divested myself
+of my heavy, wet cloak, shawl, bonnet, &c., a mincing [[Damsel|damsel]] came to
 say the young ladies desired to know whether I would take my tea up
 there or in the schoolroom. Under the plea of fatigue I chose to take
 it there. She withdrew; and, after a while, returned again with a small
 tea-tray, and placed it on the chest of drawers, which served as a
-dressing-table. Having civilly thanked her, I asked at what time I
+dressing-table. Having civilly thanked her, I asked at what [[Time|time]] I
 should be expected to rise in the morning.
 
 “The young ladies and gentlemen breakfast at half-past eight, ma’am,”
@@ -85,19 +85,19 @@ breakfast, I should think it will do if you rise soon after seven.”
 I desired her to be so kind as to call me at seven, and, promising to
 do so, she withdrew. Then, having broken my long fast on a cup of tea
 and a little thin bread and butter, I sat down beside the small,
-smouldering fire, and amused myself with a hearty fit of crying; after
+smouldering [[Fire|fire]], and amused myself with a hearty fit of crying; after
 which, I said my prayers, and then, feeling considerably relieved,
 began to prepare for bed. Finding that none of my luggage was brought
 up, I instituted a search for the bell; and failing to discover any
 signs of such a convenience in any corner of the room, I took my candle
 and ventured through the long passage, and down the steep stairs, on a
-voyage of discovery. Meeting a well-dressed female on the way, I told
+voyage of discovery. Meeting a [[Well|well]]-dressed female on the way, I told
 her what I wanted; but not without considerable hesitation, as I was
 not quite sure whether it was one of the upper servants, or Mrs. Murray
 herself: it happened, however, to be the lady’s-maid. With the air of
 one conferring an unusual favour, she vouchsafed to undertake the
 sending up of my things; and when I had re-entered my room, and waited
-and wondered a long time (greatly fearing that she had forgotten or
+and wondered a long [[Time|time]] (greatly fearing that she had forgotten or
 neglected to perform her promise, and doubting whether to keep waiting
 or go to bed, or go down again), my hopes, at length, were revived by
 the sound of voices and laughter, accompanied by the tramp of feet
@@ -105,7 +105,7 @@ along the passage; and presently the luggage was brought in by a
 rough-looking maid and a man, neither of them very respectful in their
 demeanour to me. Having shut the door upon their retiring footsteps,
 and unpacked a few of my things, I betook myself to rest; gladly
-enough, for I was weary in body and mind.
+enough, for I was weary in [[Body|body]] and mind.
 
 It was with a strange feeling of desolation, mingled with a strong
 sense of the novelty of my situation, and a joyless kind of curiosity
@@ -113,9 +113,9 @@ concerning what was yet unknown, that I awoke the next morning; feeling
 like one whirled away by enchantment, and suddenly dropped from the
 clouds into a remote and unknown land, widely and completely isolated
 from all he had ever seen or known before; or like a thistle-seed borne
-on the wind to some strange nook of uncongenial soil, where it must lie
+on the [[Wind|wind]] to some strange nook of uncongenial soil, where it must lie
 long enough before it can take root and germinate, extracting
-nourishment from what appears so alien to its nature: if, indeed, it
+nourishment from what appears so alien to its [[Nature|nature]]: if, indeed, it
 ever can. But this gives no proper idea of my feelings at all; and no
 one that has not lived such a retired, stationary life as mine, can
 possibly imagine what they were: hardly even if he has known what it is
@@ -126,7 +126,7 @@ I shall not soon forget the peculiar feeling with which I raised my
 blind and looked out upon the unknown world: a wide, white wilderness
 was all that met my gaze; a waste of
 
-Deserts tossed in snow,
+Deserts tossed in [[Snow|snow]],
 And heavy laden groves.
 
 
@@ -137,7 +137,7 @@ obvious importance, I determined with myself—I must begin with calling
 them Miss and Master. It seemed to me a chilling and unnatural piece of
 punctilio between the children of a family and their instructor and
 daily companion; especially where the former were in their early
-childhood, as at Wellwood House; but even there, my calling the little
+[[Childhood|childhood]], as at Wellwood [[house|House]]; but even there, my calling the little
 Bloomfields by their simple names had been regarded as an offensive
 liberty: as their parents had taken care to show me, by carefully
 designating them _Master_ and _Miss_ Bloomfield, &c., in speaking to
@@ -150,16 +150,16 @@ Miss and Master seemed to have a surprising effect in repressing all
 familiar, open-hearted kindness, and extinguishing every gleam of
 cordiality that might arise between us.
 
-As I cannot, like Dogberry, find it in my heart to bestow all my
+As I cannot, like [[Dogberry]], find it in my heart to bestow all my
 tediousness upon the reader, I will not go on to bore him with a minute
 detail of all the discoveries and proceedings of this and the following
-day. No doubt he will be amply satisfied with a slight sketch of the
+day. No [[Doubt|doubt]] he will be amply satisfied with a slight [[Sketch|sketch]] of the
 different members of the family, and a general view of the first year
 or two of my sojourn among them.
 
 To begin with the head: Mr. Murray was, by all accounts, a blustering,
 roystering, country squire: a devoted fox-hunter, a skilful
-horse-jockey and farrier, an active, practical farmer, and a hearty
+[[Horse|horse]]-jockey and farrier, an active, practical farmer, and a hearty
 _bon vivant_. By all accounts, I say; for, except on Sundays, when he
 went to church, I never saw him from month to month: unless, in
 crossing the hall or walking in the grounds, the figure of a tall,
@@ -175,24 +175,24 @@ Mrs. Murray was a handsome, dashing lady of forty, who certainly
 required neither rouge nor padding to add to her charms; and whose
 chief enjoyments were, or seemed to be, in giving or frequenting
 parties, and in dressing at the very top of the fashion. I did not see
-her till eleven o’clock on the morning after my arrival; when she
+her till eleven o’[[Clock|clock]] on the morning after my arrival; when she
 honoured me with a visit, just as my mother might step into the kitchen
 to see a new servant-girl: yet not so, either, for my mother would have
 seen her immediately after her arrival, and not waited till the next
 day; and, moreover, she would have addressed her in a more kind and
-friendly manner, and given her some words of comfort as well as a plain
+friendly manner, and given her some words of comfort as [[Well|well]] as a plain
 exposition of her duties; but Mrs. Murray did neither the one nor the
 other. She just stepped into the schoolroom on her return from ordering
 dinner in the housekeeper’s room, bade me good-morning, stood for two
-minutes by the fire, said a few words about the weather and the “rather
-rough” journey I must have had yesterday; petted her youngest child—a
+minutes by the [[Fire|fire]], said a few words about the weather and the “rather
+rough” [[Journey|journey]] I must have had yesterday; petted her youngest [[Child|child]]—a
 boy of ten—who had just been wiping his mouth and hands on her gown,
 after indulging in some savoury morsel from the housekeeper’s store;
 told me what a sweet, good boy he was; and then sailed out, with a
-self-complacent smile upon her face: thinking, no doubt, that she had
+[[Self|self]]-complacent smile upon her face: thinking, no [[Doubt|doubt]], that she had
 done quite enough for the present, and had been delightfully
 condescending into the bargain. Her children evidently held the same
-opinion, and I alone thought otherwise.
+opinion, and I [[Alone|alone]] thought otherwise.
 
 After this she looked in upon me once or twice, during the absence of
 my pupils, to enlighten me concerning my duties towards them. For the
@@ -208,7 +208,7 @@ heads, in order to fit them for school—the greatest possible quantity
 at least _without_ trouble to themselves. John might be a “little
 high-spirited,” and Charles might be a little “nervous and tedious—”
 
-“But at all events, Miss Grey,” said she, “I hope _you_ will keep your
+“But at all events, Miss Grey,” said she, “I [[Hope|hope]] _you_ will keep your
 temper, and be mild and patient throughout; especially with the dear
 little Charles; he is so extremely nervous and susceptible, and so
 utterly unaccustomed to anything but the tenderest treatment. You will
@@ -217,21 +217,21 @@ found all the governesses, even the very best of them, faulty in this
 particular. They wanted that meek and quiet spirit, which St. Matthew,
 or some of them, says is better than the putting on of apparel—you will
 know the passage to which I allude, for you are a clergyman’s daughter.
-But I have no doubt you will give satisfaction in this respect as well
+But I have no [[Doubt|doubt]] you will give satisfaction in this respect as [[Well|well]]
 as the rest. And remember, on all occasions, when any of the young
-people do anything improper, if persuasion and gentle remonstrance will
+people do anything improper, if [[Persuasion|persuasion]] and gentle remonstrance will
 not do, let one of the others come and tell me; for I can speak to them
 more plainly than it would be proper for you to do. And make them as
-happy as you can, Miss Grey, and I dare say you will do very well.”
+happy as you can, Miss Grey, and I dare say you will do very [[Well|well]].”
 
 I observed that while Mrs. Murray was so extremely solicitous for the
 comfort and happiness of her children, and continually talking about
-it, she never once mentioned mine; though they were at home, surrounded
+it, she never once mentioned mine; though they were at [[Home|home]], surrounded
 by friends, and I an alien among strangers; and I did not yet know
 enough of the world, not to be considerably surprised at this anomaly.
 
 Miss Murray, otherwise Rosalie, was about sixteen when I came, and
-decidedly a very pretty girl; and in two years longer, as time more
+decidedly a very pretty girl; and in two years longer, as [[Time|time]] more
 completely developed her form and added grace to her carriage and
 deportment, she became positively beautiful; and that in no common
 degree. She was tall and slender, yet not thin; perfectly formed,
@@ -246,15 +246,15 @@ form and face.
 
 Yet think not I have any dreadful disclosures to make: she was lively,
 light-hearted, and could be very agreeable, with those who did not
-cross her will. Towards me, when I first came, she was cold and
+[[Cross|cross]] her will. Towards me, when I first came, she was cold and
 haughty, then insolent and overbearing; but, on a further acquaintance,
-she gradually laid aside her airs, and in time became as deeply
+she gradually laid aside her airs, and in [[Time|time]] became as deeply
 attached to me as it was possible for _her_ to be to one of my
 character and position: for she seldom lost sight, for above half an
-hour at a time, of the fact of my being a hireling and a poor curate’s
+hour at a [[Time|time]], of the fact of my being a hireling and a poor curate’s
 daughter. And yet, upon the whole, I believe she respected me more than
-she herself was aware of; because I was the only person in the house
-who steadily professed good principles, habitually spoke the truth, and
+she herself was aware of; because I was the only person in the [[house]]
+who steadily professed good principles, habitually spoke the [[Truth|truth]], and
 generally endeavoured to make inclination bow to duty; and this I say,
 not, of course, in commendation of myself, but to show the unfortunate
 state of the family to which my services were, for the present,
@@ -264,7 +264,7 @@ taken a fancy to me, but because there was so much of what was pleasant
 and prepossessing in herself, that, in spite of her failings, I really
 liked her—when she did not rouse my indignation, or ruffle my temper by
 _too_ great a display of her faults. These, however, I would fain
-persuade myself were rather the effect of her education than her
+persuade myself were rather the effect of her [[Education|education]] than her
 disposition: she had never been perfectly taught the distinction
 between right and wrong; she had, like her brothers and sisters, been
 suffered, from infancy, to tyrannize over nurses, governesses, and
@@ -276,7 +276,7 @@ she was often testy and capricious; her mind had never been cultivated:
 her intellect, at best, was somewhat shallow; she possessed
 considerable vivacity, some quickness of perception, and some talent
 for music and the acquisition of languages, but till fifteen she had
-troubled herself to acquire nothing;—then the love of display had
+troubled herself to acquire nothing;—then the [[Love|love]] of display had
 roused her faculties, and induced her to apply herself, but only to the
 more showy accomplishments. And when I came it was the same: everything
 was neglected but French, German, music, singing, dancing, fancy-work,
@@ -284,11 +284,11 @@ and a little drawing—such drawing as might produce the greatest show
 with the smallest labour, and the principal parts of which were
 generally done by me. For music and singing, besides my occasional
 instructions, she had the attendance of the best master the country
-afforded; and in these accomplishments, as well as in dancing, she
+afforded; and in these accomplishments, as [[Well|well]] as in dancing, she
 certainly attained great proficiency. To music, indeed, she devoted too
-much of her time, as, governess though I was, I frequently told her;
+much of her [[Time|time]], as, governess though I was, I frequently told her;
 but her mother thought that if _she_ liked it, she _could_ not give too
-much time to the acquisition of so attractive an art. Of fancy-work I
+much [[Time|time]] to the acquisition of so attractive an art. Of fancy-work I
 knew nothing but what I gathered from my pupil and my own observation;
 but no sooner was I initiated, than she made me useful in twenty
 different ways: all the tedious parts of her work were shifted on to my
@@ -300,7 +300,7 @@ of.
 At sixteen, Miss Murray was something of a romp, yet not more so than
 is natural and allowable for a girl of that age, but at seventeen, that
 propensity, like all other things, began to give way to the ruling
-passion, and soon was swallowed up in the all-absorbing ambition to
+passion, and soon was swallowed up in the all-absorbing [[Ambition|ambition]] to
 attract and dazzle the other sex. But enough of her: now let us turn to
 her sister.
 
@@ -311,13 +311,13 @@ make a handsome woman; but she was far too big-boned and awkward ever
 to be called a pretty girl, and at present she cared little about it.
 Rosalie knew all her charms, and thought them even greater than they
 were, and valued them more highly than she ought to have done, had they
-been three times as great; Matilda thought she was well enough, but
+been three times as great; Matilda thought she was [[Well|well]] enough, but
 cared little about the matter; still less did she care about the
 cultivation of her mind, and the acquisition of ornamental
 accomplishments. The manner in which she learnt her lessons and
-practised her music was calculated to drive any governess to despair.
+practised her music was calculated to drive any governess to [[Despair|despair]].
 Short and easy as her tasks were, if done at all, they were slurred
-over, at any time and in any way; but generally at the least convenient
+over, at any [[Time|time]] and in any way; but generally at the least convenient
 times, and in the way least beneficial to herself, and least
 satisfactory to me: the short half-hour of practising was horribly
 strummed through; she, meantime, unsparingly abusing me, either for
@@ -328,8 +328,8 @@ conduct; but on each of those occasions, I received such reprehensive
 expostulations from her mother, as convinced me that, if I wished to
 keep the situation, I must even let Miss Matilda go on in her own way.
 
-When her lessons were over, however, her ill-humour was generally over
-too: while riding her spirited pony, or romping with the dogs or her
+When her lessons were over, however, her ill-[[Humour|humour]] was generally over
+too: while riding her spirited pony, or romping with the [[dogs]] or her
 brothers and sister, but especially with her dear brother John, she was
 as happy as a lark. As an animal, Matilda was all right, full of life,
 vigour, and activity; as an intelligent being, she was barbarously
@@ -339,7 +339,7 @@ reforming her manners, and aiding her to acquire those ornamental
 attainments which, unlike her sister, she despised as much as the rest.
 Her mother was partly aware of her deficiencies, and gave me many a
 lecture as to how I should try to form her tastes, and endeavour to
-rouse and cherish her dormant vanity; and, by insinuating, skilful
+rouse and cherish her dormant [[Vanity|vanity]]; and, by insinuating, skilful
 flattery, to win her attention to the desired objects—which I would not
 do; and how I should prepare and smooth the path of learning till she
 could glide along it without the least exertion to herself: which I
@@ -352,11 +352,11 @@ was, that from her father’s example she had learned to swear like a
 trooper. Her mother was greatly shocked at the “unlady-like trick,” and
 wondered “how she had picked it up.” “But you can soon break her of it,
 Miss Grey,” said she: “it is only a habit; and if you will just gently
-remind her every time she does so, I am sure she will soon lay it
+remind her every [[Time|time]] she does so, I am sure she will soon lay it
 aside.” I not only “gently reminded” her, I tried to impress upon her
 how wrong it was, and how distressing to the ears of decent people: but
 all in vain: I was only answered by a careless laugh, and, “Oh, Miss
-Grey, how shocked you are! I’m so glad!” or, “Well! I can’t help it;
+Grey, how shocked you are! I’m so glad!” or, “[[Well]]! I can’t help it;
 papa shouldn’t have taught me: I learned it all from him; and maybe a
 bit from the coachman.”
 
@@ -367,9 +367,9 @@ was as rough as a young bear, boisterous, unruly, unprincipled,
 untaught, unteachable—at least, for a governess under his mother’s eye.
 His masters at school might be able to manage him better—for to school
 he was sent, greatly to my relief, in the course of a year; in a state,
-it is true, of scandalous ignorance as to Latin, as well as the more
+it is true, of scandalous ignorance as to Latin, as [[Well|well]] as the more
 useful though more neglected things: and this, doubtless, would all be
-laid to the account of his education having been entrusted to an
+laid to the account of his [[Education|education]] having been entrusted to an
 ignorant female teacher, who had presumed to take in hand what she was
 wholly incompetent to perform. I was not delivered from his brother
 till full twelve months after, when he also was despatched in the same
@@ -385,11 +385,11 @@ nuisance to me: it was a trial of patience to live with him peaceably;
 to watch over him was worse; and to teach him, or pretend to teach him,
 was inconceivable. At ten years old, he could not read correctly the
 easiest line in the simplest book; and as, according to his mother’s
-principle, he was to be told every word, before he had time to hesitate
+principle, he was to be told every word, before he had [[Time|time]] to hesitate
 or examine its orthography, and never even to be informed, as a
 stimulant to exertion, that other boys were more forward than he, it is
 not surprising that he made but little progress during the two years I
-had charge of his education. His minute portions of Latin grammar, &c.,
+had charge of his [[Education|education]]. His minute portions of Latin grammar, &c.,
 were to be repeated over to him, till he chose to say he knew them, and
 then he was to be helped to say them; if he made mistakes in his little
 easy sums in arithmetic, they were to be shown him at once, and the sum
@@ -399,42 +399,42 @@ mistakes, but frequently set down his figures at random, without any
 calculation at all.
 
 I did not invariably confine myself to these rules: it was against my
-conscience to do so; but I seldom could venture to deviate from them in
+[[Conscience|conscience]] to do so; but I seldom could venture to deviate from them in
 the slightest degree, without incurring the wrath of my little pupil,
 and subsequently of his mamma; to whom he would relate my
 transgressions maliciously exaggerated, or adorned with embellishments
 of his own; and often, in consequence, was I on the point of losing or
-resigning my situation. But, for their sakes at home, I smothered my
-pride and suppressed my indignation, and managed to struggle on till my
+resigning my situation. But, for their sakes at [[Home|home]], I smothered my
+[[Pride|pride]] and suppressed my indignation, and managed to struggle on till my
 little tormentor was despatched to school; his father declaring that
-home education was “no go for him, it was plain; his mother spoiled him
+[[Home|home]] [[Education|education]] was “no go for him, it was plain; his mother spoiled him
 outrageously, and his governess could make no hand of him at all.”
 
 A few more observations about Horton Lodge and its ongoings, and I have
-done with dry description for the present. The house was a very
+done with dry description for the present. The [[house]] was a very
 respectable one; superior to Mr. Bloomfield’s, both in age, size, and
-magnificence: the garden was not so tastefully laid out; but instead of
+magnificence: the [[Garden|garden]] was not so tastefully laid out; but instead of
 the smooth-shaven lawn, the young trees guarded by palings, the grove
 of upstart poplars, and the plantation of firs, there was a wide park,
 stocked with deer, and beautified by fine old trees. The surrounding
 country itself was pleasant, as far as fertile fields, flourishing
-trees, quiet green lanes, and smiling hedges with wild-flowers
+trees, quiet green lanes, and smiling hedges with wild-[[Flowers|flowers]]
 scattered along their banks, could make it; but it was depressingly
 flat to one born and nurtured among the rugged hills of ——.
 
 We were situated nearly two miles from the village church, and,
-consequently, the family carriage was put in requisition every Sunday
+consequently, the family carriage was put in requisition every [[Sunday]]
 morning, and sometimes oftener. Mr. and Mrs. Murray generally thought
 it sufficient to show themselves at church once in the course of the
-day; but frequently the children preferred going a second time to
+day; but frequently the children preferred going a second [[Time|time]] to
 wandering about the grounds all the day with nothing to do. If some of
-my pupils chose to walk and take me with them, it was well for me; for
+my pupils chose to walk and take me with them, it was [[Well|well]] for me; for
 otherwise my position in the carriage was to be crushed into the corner
-farthest from the open window, and with my back to the horses: a
+farthest from the open [[Window|window]], and with my back to the horses: a
 position which invariably made me sick; and if I were not actually
 obliged to leave the church in the middle of the service, my devotions
 were disturbed with a feeling of languor and sickliness, and the
-tormenting fear of its becoming worse: and a depressing headache was
+tormenting [[Fear|fear]] of its becoming worse: and a depressing headache was
 generally my companion throughout the day, which would otherwise have
 been one of welcome rest, and holy, calm enjoyment.
 
@@ -442,7 +442,7 @@ been one of welcome rest, and holy, calm enjoyment.
 sick: it never makes _me_,” remarked Miss Matilda,
 
 “Nor me either,” said her sister; “but I dare say it would, if I sat
-where she does—such a nasty, horrid place, Miss Grey; I wonder how you
+where she does—such a nasty, horrid place, Miss Grey; I [[Wonder|wonder]] how you
 can bear it!”
 
 “I am obliged to bear it, since no choice is left me,”—I might have
@@ -454,9 +454,9 @@ arrangements of the day, I should find it a very difficult matter. I
 had all my meals in the schoolroom with my pupils, at such times as
 suited their fancy: sometimes they would ring for dinner before it was
 half cooked; sometimes they would keep it waiting on the table for
-above an hour, and then be out of humour because the potatoes were
+above an hour, and then be out of [[Humour|humour]] because the potatoes were
 cold, and the gravy covered with cakes of solid fat; sometimes they
-would have tea at four; frequently, they would storm at the servants
+would have tea at four; frequently, they would [[Storm|storm]] at the servants
 because it was not in precisely at five; and when these orders were
 obeyed, by way of encouragement to punctuality, they would keep it on
 the table till seven or eight.
@@ -467,8 +467,8 @@ determine “to get all the plaguy business over before breakfast,” and
 send the maid to call me up at half-past five, without any scruple or
 apology; sometimes, I was told to be ready precisely at six, and,
 having dressed in a hurry, came down to an empty room, and after
-waiting a long time in suspense, discovered that they had changed their
-minds, and were still in bed; or, perhaps, if it were a fine summer
+waiting a long [[Time|time]] in suspense, discovered that they had changed their
+minds, and were still in bed; or, perhaps, if it were a fine [[Summer|summer]]
 morning, Brown would come to tell me that the young ladies and
 gentlemen had taken a holiday, and were gone out; and then I was kept
 waiting for breakfast till I was almost ready to faint: they having
@@ -484,11 +484,11 @@ blame them for what was, perhaps, my own fault; for I never made any
 particular objections to sitting where they pleased; foolishly choosing
 to risk the consequences, rather than trouble them for my convenience.
 Their indecorous manner of doing their lessons was quite as remarkable
-as the caprice displayed in their choice of time and place. While
+as the caprice displayed in their choice of [[Time|time]] and place. While
 receiving my instructions, or repeating what they had learned, they
 would lounge upon the sofa, lie on the rug, stretch, yawn, talk to each
-other, or look out of the window; whereas, I could not so much as stir
-the fire, or pick up the handkerchief I had dropped, without being
+other, or look out of the [[Window|window]]; whereas, I could not so much as stir
+the [[Fire|fire]], or pick up the handkerchief I had dropped, without being
 rebuked for inattention by one of my pupils, or told that “mamma would
 not like me to be so careless.”
 
@@ -506,12 +506,12 @@ think, were not of the best order to begin with.
 
 I sometimes felt myself degraded by the life I led, and ashamed of
 submitting to so many indignities; and sometimes I thought myself a
-fool for caring so much about them, and feared I must be sadly wanting
-in Christian humility, or that charity which “suffereth long and is
+[[Fool|fool]] for caring so much about them, and feared I must be sadly wanting
+in Christian [[Humility|humility]], or that [[Charity|charity]] which “suffereth long and is
 kind, seeketh not her own, is not easily provoked, beareth all things,
 endureth all things.”
 
-But, with time and patience, matters began to be slightly ameliorated:
+But, with [[Time|time]] and patience, matters began to be slightly ameliorated:
 slowly, it is true, and almost imperceptibly; but I got rid of my male
 pupils (that was no trifling advantage), and the girls, as I intimated
 before concerning one of them, became a little less insolent, and began
@@ -522,9 +522,9 @@ be quite sure her approbation was sincere. She was very obliging,
 quiet, and peaceable in the main, but there were some things that put
 her out of temper: they did not much care for that, to be sure, but
 still it was better to keep her in tune; as when she was in a good
-humour she would talk to them, and be very agreeable and amusing
+[[Humour|humour]] she would talk to them, and be very agreeable and amusing
 sometimes, in her way; which was quite different to mamma’s, but still
-very well for a change. She had her own opinions on every subject, and
+very [[Well|well]] for a change. She had her own opinions on every subject, and
 kept steadily to them—very tiresome opinions they often were; as she
 was always thinking of what was right and what was wrong, and had a
 strange reverence for matters connected with religion, and an

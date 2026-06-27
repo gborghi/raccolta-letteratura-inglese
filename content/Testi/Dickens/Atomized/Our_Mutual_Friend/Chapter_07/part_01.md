@@ -19,44 +19,44 @@ Chapter 2
 THE MAN FROM SOMEWHERE
 
 
-Mr and Mrs Veneering were bran-new people in a bran-new house in a
-bran-new quarter of London. Everything about the Veneerings was spick
+Mr and Mrs Veneering were bran-new people in a bran-new [[house]] in a
+bran-new quarter of [[London]]. Everything about the Veneerings was spick
 and span new. All their furniture was new, all their friends were new,
 all their servants were new, their plate was new, their carriage was
 new, their harness was new, their horses were new, their pictures
 were new, they themselves were new, they were as newly married as was
 lawfully compatible with their having a bran-new baby, and if they had
-set up a great-grandfather, he would have come home in matting from the
-Pantechnicon, without a scratch upon him, French polished to the crown
+set up a great-grandfather, he would have come [[Home|home]] in matting from the
+Pantechnicon, without a scratch upon him, French polished to the [[Crown|crown]]
 of his head.
 
 For, in the Veneering establishment, from the hall-chairs with the new
 coat of arms, to the grand pianoforte with the new action, and upstairs
-again to the new fire-escape, all things were in a state of high varnish
+again to the new [[Fire|fire]]-escape, all things were in a state of high varnish
 and polish. And what was observable in the furniture, was observable in
 the Veneerings—the surface smelt a little too much of the workshop and
 was a trifle sticky.
 
-There was an innocent piece of dinner-furniture that went upon easy
+There was an [[Innocent|innocent]] piece of dinner-furniture that went upon easy
 castors and was kept over a livery stable-yard in Duke Street, Saint
 James’s, when not in use, to whom the Veneerings were a source of blind
 confusion. The name of this article was Twemlow. Being first cousin
 to Lord Snigsworth, he was in frequent requisition, and at many houses
 might be said to represent the dining-table in its normal state. Mr and
 Mrs Veneering, for example, arranging a dinner, habitually started with
-Twemlow, and then put leaves in him, or added guests to him. Sometimes,
-the table consisted of Twemlow and half a dozen leaves; sometimes, of
-Twemlow and a dozen leaves; sometimes, Twemlow was pulled out to his
-utmost extent of twenty leaves. Mr and Mrs Veneering on occasions of
+Twemlow, and then put [[Leaves|leaves]] in him, or added guests to him. Sometimes,
+the table consisted of Twemlow and half a dozen [[Leaves|leaves]]; sometimes, of
+Twemlow and a dozen [[Leaves|leaves]]; sometimes, Twemlow was pulled out to his
+utmost extent of twenty [[Leaves|leaves]]. Mr and Mrs Veneering on occasions of
 ceremony faced each other in the centre of the board, and thus the
 parallel still held; for, it always happened that the more Twemlow was
 pulled out, the further he found himself from the center, and nearer
-to the sideboard at one end of the room, or the window-curtains at the
+to the sideboard at one end of the room, or the [[Window|window]]-curtains at the
 other.
 
-But, it was not this which steeped the feeble soul of Twemlow in
+But, it was not this which steeped the feeble [[Soul|soul]] of Twemlow in
 confusion. This he was used to, and could take soundings of. The abyss
-to which he could find no bottom, and from which started forth the
+to which he could find no [[Bottom|bottom]], and from which started forth the
 engrossing and ever-swelling difficulty of his life, was the insoluble
 question whether he was Veneering’s oldest friend, or newest friend.
 To the excogitation of this problem, the harmless gentleman had devoted
@@ -65,7 +65,7 @@ and in the cold gloom, favourable to meditation, of Saint James’s
 Square. Thus. Twemlow had first known Veneering at his club, where
 Veneering then knew nobody but the man who made them known to one
 another, who seemed to be the most intimate friend he had in the world,
-and whom he had known two days—the bond of union between their souls,
+and whom he had known two days—the bond of [[Union|union]] between their souls,
 the nefarious conduct of the committee respecting the cookery of
 a fillet of veal, having been accidentally cemented at that date.
 Immediately upon this, Twemlow received an invitation to dine with
@@ -87,7 +87,7 @@ lodgings, with his hand to his forehead: ‘I must not think of this. This
 is enough to soften any man’s brain,’—and yet was always thinking of
 it, and could never form a conclusion.
 
-This evening the Veneerings give a banquet. Eleven leaves in the
+This evening the Veneerings give a banquet. Eleven [[Leaves|leaves]] in the
 Twemlow; fourteen in company all told. Four pigeon-breasted retainers in
 plain clothes stand in line in the hall. A fifth retainer, proceeding up
 the staircase with a mournful air—as who should say, ‘Here is another
@@ -96,7 +96,7 @@ Twemlow!’
 
 Mrs Veneering welcomes her sweet Mr Twemlow. Mr Veneering welcomes
 his dear Twemlow. Mrs Veneering does not expect that Mr Twemlow can in
-nature care much for such insipid things as babies, but so old a friend
+[[Nature|nature]] care much for such insipid things as babies, but so old a friend
 must please to look at baby. ‘Ah! You will know the friend of your
 family better, Tootleums,’ says Mr Veneering, nodding emotionally at
 that new article, ‘when you begin to take notice.’ He then begs to make
@@ -113,8 +113,8 @@ friendly interest, while the door stands open, ‘the Podsnaps.’
 A too, too smiling large man, with a fatal freshness on him, appearing
 with his wife, instantly deserts his wife and darts at Twemlow with:
 
-‘How do you do? So glad to know you. Charming house you have here. I
-hope we are not late. So glad of the opportunity, I am sure!’
+‘How do you do? So glad to know you. Charming [[house]] you have here. I
+[[Hope|hope]] we are not late. So glad of the opportunity, I am sure!’
 
 When the first shock fell upon him, Twemlow twice skipped back in
 his neat little shoes and his neat little silk stockings of a bygone

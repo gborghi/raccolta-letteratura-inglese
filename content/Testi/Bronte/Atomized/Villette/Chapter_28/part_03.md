@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 27 (part 3)"
+title: "[[Villette]] — Chapter 27 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Paulina was awed by the savants, but not quite to mutism: she conversed
+[[Paulina]] was awed by the savants, but not quite to mutism: she conversed
 modestly, diffidently; not without effort, but with so true a
 sweetness, so fine and penetrating a sense, that her father more than
 once suspended his own discourse to listen, and fixed on her an eye of
@@ -55,46 +55,46 @@ dashed at it with spirit. Dr. Bretton entering, one of the first, took
 up his station beside her. I thought he would not long maintain that
 post: there was a position near the hearth to which I expected to see
 him attracted: this position he only scanned with his eye; while _he_
-looked, others drew in. The grace and mind of Paulina charmed these
-thoughtful Frenchmen: the fineness of her beauty, the soft courtesy of
+looked, others drew in. The grace and mind of [[Paulina]] charmed these
+thoughtful Frenchmen: the fineness of her [[Beauty|beauty]], the soft courtesy of
 her manner, her immature, but real and inbred tact, pleased their
 national taste; they clustered about her, not indeed to talk science;
 which would have rendered her dumb, but to touch on many subjects in
 letters, in arts, in actual life, on which it soon appeared that she
 had both read and reflected. I listened. I am sure that though Graham
-stood aloof, he listened too: his hearing as well as his vision was
+stood aloof, he listened too: his hearing as [[Well|well]] as his vision was
 very fine, quick, discriminating. I knew he gathered the conversation;
 I felt that the mode in which it was sustained suited him
-exquisitely—pleased him almost to pain.
+exquisitely—pleased him almost to [[Pain|pain]].
 
-In Paulina there was more force, both of feeling and character; than
+In [[Paulina]] there was more force, both of feeling and character; than
 most people thought—than Graham himself imagined—than she would ever
-show to those who did not wish to see it. To speak truth, reader, there
-is no excellent beauty, no accomplished grace, no reliable refinement,
-without strength as excellent, as complete, as trustworthy. As well
+show to those who did not wish to see it. To speak [[Truth|truth]], reader, there
+is no excellent [[Beauty|beauty]], no accomplished grace, no reliable refinement,
+without strength as excellent, as complete, as trustworthy. As [[Well|well]]
 might you look for good fruit and blossom on a rootless and sapless
-tree, as for charms that will endure in a feeble and relaxed nature.
-For a little while, the blooming semblance of beauty may flourish round
+tree, as for charms that will endure in a feeble and relaxed [[Nature|nature]].
+For a little while, the blooming semblance of [[Beauty|beauty]] may flourish round
 weakness; but it cannot bear a blast: it soon fades, even in serenest
 sunshine. Graham would have started had any suggestive spirit whispered
-of the sinew and the stamina sustaining that delicate nature; but I who
-had known her as a child, knew or guessed by what a good and strong
+of the sinew and the stamina sustaining that delicate [[Nature|nature]]; but I who
+had known her as a [[Child|child]], knew or guessed by what a good and strong
 root her graces held to the firm soil of reality.
 
-While Dr. Bretton listened, and waited an opening in the magic circle,
+While Dr. Bretton listened, and waited an opening in the [[Magic|magic]] circle,
 his glance restlessly sweeping the room at intervals, lighted by chance
 on me, where I sat in a quiet nook not far from my godmother and M. de
-Bassompierre, who, as usual, were engaged in what Mr. Home called “a
+Bassompierre, who, as usual, were engaged in what Mr. [[Home]] called “a
 two-handed crack:” what the Count would have interpreted as a
 tête-à-tête. Graham smiled recognition, crossed the room, asked me how
 I was, told me I looked pale. I also had my own smile at my own
 thought: it was now about three months since Dr. John had spoken to
 me—a lapse of which he was not even conscious. He sat down, and became
-silent. His wish was rather to look than converse. Ginevra and Paulina
+silent. His wish was rather to look than converse. Ginevra and [[Paulina]]
 were now opposite to him: he could gaze his fill: he surveyed both
 forms—studied both faces.
 
-Several new guests, ladies as well as gentlemen, had entered the room
+Several new guests, ladies as [[Well|well]] as gentlemen, had entered the room
 since dinner, dropping in for the evening conversation; and amongst the
 gentlemen, I may incidentally observe, I had already noticed by
 glimpses, a severe, dark, professorial outline, hovering aloof in an
@@ -106,7 +106,7 @@ also, he changed his mind and held back. If that had been all, there
 would have been no cause for quarrel; but not satisfied with holding
 back, he puckered up his eyebrows, protruded his lip, and looked so
 ugly that I averted my eyes from the displeasing spectacle. M. Joseph
-Emanuel had arrived, as well as his austere brother, and at this very
+Emanuel had arrived, as [[Well|well]] as his austere brother, and at this very
 moment was relieving Ginevra at the piano. What a master-touch
 succeeded her school-girl jingle! In what grand, grateful tones the
-instrument acknowledged the hand of the true artist!
+instrument acknowledged the hand of the true [[Artist|artist]]!

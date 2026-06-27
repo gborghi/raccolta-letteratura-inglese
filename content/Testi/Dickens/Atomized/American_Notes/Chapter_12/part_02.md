@@ -20,7 +20,7 @@ the same manner, and follow in the same dull cheerless round.  All down
 the long table, there is scarcely a man who is in anything different from
 his neighbour.  It is quite a relief to have, sitting opposite, that
 little girl of fifteen with the loquacious chin: who, to do her justice,
-acts up to it, and fully identifies nature’s handwriting, for of all the
+acts up to it, and fully identifies [[Nature|nature]]’s handwriting, for of all the
 small chatterboxes that ever invaded the repose of drowsy ladies’ cabin,
 she is the first and foremost.  The beautiful girl, who sits a little
 beyond her—farther down the table there—married the young man with the
@@ -29,7 +29,7 @@ settle in the very Far West, where he has lived four years, but where she
 has never been.  They were both overturned in a stage-coach the other day
 (a bad omen anywhere else, where overturns are not so common), and his
 head, which bears the marks of a recent wound, is bound up still.  She
-was hurt too, at the same time, and lay insensible for some days; bright
+was hurt too, at the same [[Time|time]], and lay insensible for some days; bright
 as her eyes are, now.
 
 Further down still, sits a man who is going some miles beyond their place
@@ -37,18 +37,18 @@ of destination, to ‘improve’ a newly-discovered copper mine.  He carries
 the village—that is to be—with him: a few frame cottages, and an
 apparatus for smelting the copper.  He carries its people too.  They are
 partly American and partly Irish, and herd together on the lower deck;
-where they amused themselves last evening till the night was pretty far
+where they amused themselves last evening till the [[Night|night]] was pretty far
 advanced, by alternately firing off pistols and singing hymns.
 
 They, and the very few who have been left at table twenty minutes, rise,
 and go away.  We do so too; and passing through our little state-room,
 resume our seats in the quiet gallery without.
 
-A fine broad river always, but in some parts much wider than in others:
+A fine broad [[River|river]] always, but in some parts much wider than in others:
 and then there is usually a green island, covered with trees, dividing it
 into two streams.  Occasionally, we stop for a few minutes, maybe to take
 in wood, maybe for passengers, at some small town or village (I ought to
-say city, every place is a city here); but the banks are for the most
+say [[City|city]], every place is a [[City|city]] here); but the banks are for the most
 part deep solitudes, overgrown with trees, which, hereabouts, are already
 in leaf and very green.  For miles, and miles, and miles, these solitudes
 are unbroken by any sign of human life or trace of human footstep; nor is
@@ -59,7 +59,7 @@ about it, nestles under a rising ground, and sends its thread of blue
 smoke curling up into the sky.  It stands in the corner of the poor field
 of wheat, which is full of great unsightly stumps, like earthy
 butchers’-blocks.  Sometimes the ground is only just now cleared: the
-felled trees lying yet upon the soil: and the log-house only this morning
+felled trees lying yet upon the soil: and the log-[[house]] only this morning
 begun.  As we pass this clearing, the settler leans upon his axe or
 hammer, and looks wistfully at the people from the world.  The children
 creep out of the temporary hut, which is like a gipsy tent upon the
@@ -67,26 +67,26 @@ ground, and clap their hands and shout.  The dog only glances round at
 us, and then looks up into his master’s face again, as if he were
 rendered uneasy by any suspension of the common business, and had nothing
 more to do with pleasurers.  And still there is the same, eternal
-foreground.  The river has washed away its banks, and stately trees have
+foreground.  The [[River|river]] has washed away its banks, and stately trees have
 fallen down into the stream.  Some have been there so long, that they are
 mere dry, grizzly skeletons.  Some have just toppled over, and having
-earth yet about their roots, are bathing their green heads in the river,
+earth yet about their roots, are bathing their green heads in the [[River|river]],
 and putting forth new shoots and branches.  Some are almost sliding down,
 as you look at them.  And some were drowned so long ago, that their
 bleached arms start out from the middle of the current, and seem to try
-to grasp the boat, and drag it under water.
+to grasp the boat, and drag it under [[Water|water]].
 
-Through such a scene as this, the unwieldy machine takes its hoarse,
+Through such a scene as this, the unwieldy [[Machine|machine]] takes its hoarse,
 sullen way: venting, at every revolution of the paddles, a loud
 high-pressure blast; enough, one would think, to waken up the host of
 Indians who lie buried in a great mound yonder: so old, that mighty oaks
 and other forest trees have struck their roots into its earth; and so
-high, that it is a hill, even among the hills that Nature planted round
-it.  The very river, as though it shared one’s feelings of compassion for
+high, that it is a [[Hill|hill]], even among the hills that [[Nature]] planted round
+it.  The very [[River|river]], as though it shared one’s feelings of compassion for
 the extinct tribes who lived so pleasantly here, in their blessed
 ignorance of white existence, hundreds of years ago, steals out of its
 way to ripple near this mound: and there are few places where the Ohio
-sparkles more brightly than in the Big Grave Creek.
+sparkles more brightly than in the Big [[Grave]] Creek.
 
 All this I see as I sit in the little stern-gallery mentioned just now.
 Evening slowly steals upon the landscape and changes it before me, when
@@ -96,15 +96,15 @@ Five men, as many women, and a little girl.  All their worldly goods are
 a bag, a large chest and an old chair: one, old, high-backed,
 rush-bottomed chair: a solitary settler in itself.  They are rowed ashore
 in the boat, while the vessel stands a little off awaiting its return,
-the water being shallow.  They are landed at the foot of a high bank, on
+the [[Water|water]] being shallow.  They are landed at the foot of a high bank, on
 the summit of which are a few log cabins, attainable only by a long
 winding path.  It is growing dusk; but the sun is very red, and shines in
-the water and on some of the tree-tops, like fire.
+the [[Water|water]] and on some of the tree-tops, like [[Fire|fire]].
 
 The men get out of the boat first; help out the women; take out the bag,
 the chest, the chair; bid the rowers ‘good-bye;’ and shove the boat off
-for them.  At the first plash of the oars in the water, the oldest woman
-of the party sits down in the old chair, close to the water’s edge,
+for them.  At the first plash of the oars in the [[Water|water]], the oldest woman
+of the party sits down in the old chair, close to the [[Water|water]]’s edge,
 without speaking a word.  None of the others sit down, though the chest
 is large enough for many seats.  They all stand where they landed, as if
 stricken into stone; and look after the boat.  So they remain, quite

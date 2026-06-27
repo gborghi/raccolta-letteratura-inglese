@@ -33,7 +33,7 @@ _"Father, I am lonely in the dark. I want my eyes, my patient,
 willing eyes."_                                                   103
 
 _"A dot and--" here he glanced at the baby--"A dot and carry--I
-won't say it, for fear I should spoil it; but I was very near
+won't say it, for [[Fear|fear]] I should spoil it; but I was very near
 a joke."_                                                         108
 
 _Tilly Slowboy_                                                   112
@@ -41,7 +41,7 @@ _Tilly Slowboy_                                                   112
 _"That's the way I found him, sitting by the roadside! Upright as
 a milestone."_                                                    118
 
-_When suddenly, the struggling fire illuminated the whole chimney
+_When suddenly, the struggling [[Fire|fire]] illuminated the whole chimney
 with a glow of light; and the Cricket on the Hearth began
 to chirp!_                                                        166
 

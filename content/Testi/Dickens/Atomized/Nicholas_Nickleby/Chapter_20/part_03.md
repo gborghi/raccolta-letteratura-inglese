@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 20 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-In the first moment of surprise, and possibly of alarm, Ralph rose from
+In the first moment of surprise, and possibly of alarm, Ralph [[Rose|rose]] from
 his seat, and fell back a few paces, quite taken off his guard by this
 unexpected apparition. In another moment, he stood, fixed and immovable
 with folded arms, regarding his nephew with a scowl; while Kate and
@@ -25,12 +25,12 @@ violence which the fierce excitement of Nicholas appeared to threaten.
 consider--’
 
 ‘Consider, Kate!’ cried Nicholas, clasping her hand so tight in the
-tumult of his anger, that she could scarcely bear the pain. ‘When I
+tumult of his anger, that she could scarcely bear the [[Pain|pain]]. ‘When I
 consider all, and think of what has passed, I need be made of iron to
 stand before him.’
 
 ‘Or bronze,’ said Ralph, quietly; ‘there is not hardihood enough in
-flesh and blood to face it out.’
+flesh and [[Blood|blood]] to face it out.’
 
 ‘Oh dear, dear!’ cried Mrs. Nickleby, ‘that things should have come to
 such a pass as this!’
@@ -44,7 +44,7 @@ them?’ said Nicholas, looking round.
 under pretence of deserving the thanks she poured upon you, heaped every
 insult, wrong, and indignity upon my head. You, who sent me to a den
 where sordid cruelty, worthy of yourself, runs wanton, and youthful
-misery stalks precocious; where the lightness of childhood shrinks into
+misery stalks precocious; where the lightness of [[Childhood|childhood]] shrinks into
 the heaviness of age, and its every promise blights, and withers as it
 grows. I call Heaven to witness,’ said Nicholas, looking eagerly round,
 ‘that I have seen all this, and that he knows it.’
@@ -64,7 +64,7 @@ vilest cruelty. In so doing, I inflicted such punishment upon a wretch
 as he will not readily forget, though far less than he deserved from
 me. If the same scene were renewed before me now, I would take the same
 part; but I would strike harder and heavier, and brand him with such
-marks as he should carry to his grave, go to it when he would.’
+marks as he should carry to his [[Grave|grave]], go to it when he would.’
 
 ‘You hear?’ said Ralph, turning to Mrs. Nickleby. ‘Penitence, this!’
 
@@ -77,13 +77,13 @@ accuse you of--a ring is missing, and they dare to say that--’
 
 ‘The woman,’ said Nicholas, haughtily, ‘the wife of the fellow from whom
 these charges come, dropped--as I suppose--a worthless ring among some
-clothes of mine, early in the morning on which I left the house. At
+clothes of mine, early in the morning on which I left the [[house]]. At
 least, I know that she was in the bedroom where they lay, struggling
-with an unhappy child, and that I found it when I opened my bundle on
-the road. I returned it, at once, by coach, and they have it now.’
+with an unhappy [[Child|child]], and that I found it when I opened my bundle on
+the [[Road|road]]. I returned it, at once, by coach, and they have it now.’
 
 ‘I knew, I knew,’ said Kate, looking towards her uncle. ‘About this boy,
-love, in whose company they say you left?’
+[[Love|love]], in whose company they say you left?’
 
 ‘The boy, a silly, helpless creature, from brutality and hard usage, is
 with me now,’ rejoined Nicholas.
@@ -98,14 +98,14 @@ sir?’
 
 ‘No,’ repeated Nicholas, ‘not to the man with whom I found him. I would
 that I knew on whom he has the claim of birth: I might wring something
-from his sense of shame, if he were dead to every tie of nature.’
+from his sense of shame, if he were dead to every tie of [[Nature|nature]].’
 
 ‘Indeed!’ said Ralph. ‘Now, sir, will you hear a word or two from me?’
 
 ‘You can speak when and what you please,’ replied Nicholas, embracing
 his sister. ‘I take little heed of what you say or threaten.’
 
-‘Mighty well, sir,’ retorted Ralph; ‘but perhaps it may concern others,
+‘Mighty [[Well|well]], sir,’ retorted Ralph; ‘but perhaps it may concern others,
 who may think it worth their while to listen, and consider what I tell
 them. I will address your mother, sir, who knows the world.’
 
@@ -133,8 +133,8 @@ more.’
 
 If Ralph had not known and felt his power in wounding those he hated,
 his glances at Nicholas would have shown it him, in all its force, as
-he proceeded in the above address. Innocent as the young man was of all
-wrong, every artful insinuation stung, every well-considered sarcasm cut
+he proceeded in the above address. [[Innocent]] as the young man was of all
+wrong, every artful insinuation stung, every [[Well|well]]-considered sarcasm cut
 him to the quick; and when Ralph noted his pale face and quivering
-lip, he hugged himself to mark how well he had chosen the taunts best
+lip, he hugged himself to mark how [[Well|well]] he had chosen the taunts best
 calculated to strike deep into a young and ardent spirit.

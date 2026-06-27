@@ -21,20 +21,20 @@ atmosphere was oppressive and disagreeable; it was crowded, noisy,
 and confusing; half the pupils dropped asleep, or fell into a state of
 waking stupefaction; the other half kept them in either condition by
 maintaining a monotonous droning noise, as if they were performing, out
-of time and tune, on a ruder sort of bagpipe. The teachers, animated
+of [[Time|time]] and tune, on a ruder sort of bagpipe. The teachers, animated
 solely by good intentions, had no idea of execution, and a lamentable
 jumble was the upshot of their kind endeavours.
 
 It was a school for all ages, and for both sexes. The latter were kept
 apart, and the former were partitioned off into square assortments. But,
 all the place was pervaded by a grimly ludicrous pretence that every
-pupil was childish and innocent. This pretence, much favoured by the
+pupil was childish and [[Innocent|innocent]]. This pretence, much favoured by the
 lady-visitors, led to the ghastliest absurdities. Young women old in
 the vices of the commonest and worst life, were expected to profess
-themselves enthralled by the good child’s book, the Adventures of
+themselves enthralled by the good [[Child|child]]’s book, the Adventures of
 Little Margery, who resided in the village cottage by the mill; severely
 reproved and morally squashed the miller, when she was five and he was
-fifty; divided her porridge with singing birds; denied herself a new
+fifty; divided her porridge with singing [[Birds|birds]]; denied herself a new
 nankeen bonnet, on the ground that the turnips did not wear nankeen
 bonnets, neither did the sheep who ate them; who plaited straw and
 delivered the dreariest orations to all comers, at all sorts of
@@ -42,7 +42,7 @@ unseasonable times. So, unwieldy young dredgers and hulking mudlarks
 were referred to the experiences of Thomas Twopence, who, having
 resolved not to rob (under circumstances of uncommon atrocity) his
 particular friend and benefactor, of eighteenpence, presently came into
-supernatural possession of three and sixpence, and lived a shining light
+[[Supernatural|supernatural]] possession of three and sixpence, and lived a shining light
 ever afterwards. (Note, that the benefactor came to no good.) Several
 swaggering sinners had written their own biographies in the same strain;
 it always appearing from the lessons of those very boastful persons,
@@ -51,11 +51,11 @@ to make a good thing of it. Contrariwise, the adult pupils were taught
 to read (if they could learn) out of the New Testament; and by dint of
 stumbling over the syllables and keeping their bewildered eyes on the
 particular syllables coming round to their turn, were as absolutely
-ignorant of the sublime history, as if they had never seen or heard of
+ignorant of the [[Sublime|sublime]] [[history]], as if they had never seen or heard of
 it. An exceedingly and confoundingly perplexing jumble of a school,
 in fact, where black spirits and grey, red spirits and white, jumbled
-jumbled jumbled jumbled, jumbled every night. And particularly every
-Sunday night. For then, an inclined plane of unfortunate infants would
+jumbled jumbled jumbled, jumbled every [[Night|night]]. And particularly every
+[[Sunday]] [[Night|night]]. For then, an inclined plane of unfortunate infants would
 be handed over to the prosiest and worst of all the teachers with good
 intentions, whom nobody older would endure. Who, taking his stand on
 the floor before them as chief executioner, would be attended by a
@@ -96,22 +96,22 @@ from the jumble into a better school.
 ‘Why, she is not settled yet, Mr Headstone. I’d rather you didn’t see
 her till she is settled, if it was all the same to you.’
 
-‘Look here, Hexam.’ Mr Bradley Headstone, highly certificated
+‘Look here, Hexam.’ Mr [[Bradley Headstone]], highly certificated
 stipendiary schoolmaster, drew his right forefinger through one of the
-buttonholes of the boy’s coat, and looked at it attentively. ‘I hope
+buttonholes of the boy’s coat, and looked at it attentively. ‘I [[Hope|hope]]
 your sister may be good company for you?’
 
-‘Why do you doubt it, Mr Headstone?’
+‘Why do you [[Doubt|doubt]] it, Mr Headstone?’
 
 ‘I did not say I doubted it.’
 
 ‘No, sir; you didn’t say so.’
 
-Bradley Headstone looked at his finger again, took it out of the
+[[Bradley Headstone]] looked at his finger again, took it out of the
 buttonhole and looked at it closer, bit the side of it and looked at it
 again.
 
-‘You see, Hexam, you will be one of us. In good time you are sure to
+‘You see, Hexam, you will be one of us. In good [[Time|time]] you are sure to
 pass a creditable examination and become one of us. Then the question
 is—’
 
@@ -121,6 +121,6 @@ length the boy repeated:
 
 ‘The question is, sir—?’
 
-‘Whether you had not better leave well alone.’
+‘Whether you had not better leave [[Well|well]] [[Alone|alone]].’
 
-‘Is it well to leave my sister alone, Mr Headstone?’
+‘Is it [[Well|well]] to leave my sister [[Alone|alone]], Mr Headstone?’

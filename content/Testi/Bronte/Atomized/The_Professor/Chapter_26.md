@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25"
+title: "[[The Professor]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,13 +18,13 @@ CHAPTER XXV.
 
 
 
-IN two months more Frances had fulfilled the time of mourning for her
+IN two months more Frances had fulfilled the [[Time|time]] of mourning for her
 
 aunt. One January morning--the first of the new year holidays--I went in
 
 a fiacre, accompanied only by M. Vandenhuten, to the Rue Notre Dame aux
 
-Neiges, and having alighted alone and walked upstairs, I found Frances
+Neiges, and having alighted [[Alone|alone]] and walked upstairs, I found Frances
 
 apparently waiting for me, dressed in a style scarcely appropriate to
 
@@ -32,13 +32,13 @@ that cold, bright, frosty day. Never till now had I seen her attired in
 
 any other than black or sad-coloured stuff; and there she stood by the
 
-window, clad all in white, and white of a most diaphanous texture; her
+[[Window|window]], clad all in white, and white of a most diaphanous texture; her
 
 array was very simple, to be sure, but it looked imposing and festal
 
 because it was so clear, full, and floating; a veil shadowed her head,
 
-and hung below her knee; a little wreath of pink flowers fastened it
+and hung below her knee; a little wreath of pink [[Flowers|flowers]] fastened it
 
 to her thickly tressed Grecian plait, and thence it fell softly on each
 
@@ -68,7 +68,7 @@ Vandenhuten received her, and seated her beside himself; we drove all
 
 together to the Protestant chapel, went through a certain service in the
 
-Common Prayer Book, and she and I came out married. M. Vandenhuten had
+Common [[Prayer]] Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
 
@@ -78,9 +78,9 @@ We took no bridal trip; our modesty, screened by the peaceful obscurity
 
 of our station, and the pleasant isolation of our circumstances, did not
 
-exact that additional precaution. We repaired at once to a small house
+exact that additional precaution. We repaired at once to a small [[house]]
 
-I had taken in the faubourg nearest to that part of the city where the
+I had taken in the faubourg nearest to that part of the [[City|city]] where the
 
 scene of our avocations lay.
 
@@ -88,7 +88,7 @@ scene of our avocations lay.
 
 Three or four hours after the wedding ceremony, Frances, divested of her
 
-bridal snow, and attired in a pretty lilac gown of warmer materials,
+bridal [[Snow|snow]], and attired in a pretty lilac gown of warmer materials,
 
 a piquant black silk apron, and a lace collar with some finishing
 
@@ -102,7 +102,7 @@ snowing fast out of doors; the afternoon had turned out wild and
 
 cold; the leaden sky seemed full of drifts, and the street was already
 
-ankle-deep in the white downfall. Our fire burned bright, our new
+ankle-deep in the white downfall. Our [[Fire|fire]] burned bright, our new
 
 habitation looked brilliantly clean and fresh, the furniture was all
 
@@ -110,7 +110,7 @@ arranged, and there were but some articles of glass, china, books,
 
 &c., to put in order. Frances found in this business occupation till
 
-tea-time, and then, after I had distinctly instructed her how to make
+tea-[[Time|time]], and then, after I had distinctly instructed her how to make
 
 a cup of tea in rational English style, and after she had got over the
 
@@ -130,11 +130,11 @@ working people, destined to earn our bread by exertion, and that of the
 
 most assiduous kind. Our days were thoroughly occupied; we used to part
 
-every morning at eight o’clock, and not meet again till five P.M.; but
+every morning at eight o’[[Clock|clock]], and not meet again till five P.M.; but
 
 into what sweet rest did the turmoil of each busy day decline! Looking
 
-down the vista of memory, I see the evenings passed in that little
+down the vista of [[Memory|memory]], I see the evenings passed in that little
 
 parlour like a long string of rubies circling the dusky brow of the past.
 
@@ -150,7 +150,7 @@ to ourselves) Frances said to me, with a suddenness peculiar to her when
 
 she had been thinking long on a subject, and at last, having come to
 
-a conclusion, wished to test its soundness by the touchstone of my
+a conclusion, wished to test its soundness by the [[Touchstone|touchstone]] of my
 
 judgment:--
 
@@ -164,7 +164,7 @@ judgment:--
 
 deliberately stirring while enjoying, in anticipation, a walk I proposed
 
-to take with Frances, that fine summer day (it was June), to a certain
+to take with Frances, that fine [[Summer|summer]] day (it was June), to a certain
 
 farmhouse in the country, where we were to dine. “What now?” and I
 
@@ -208,7 +208,7 @@ it.”
 
 
 
-She went--as docile as a well-trained child; she was a curious mixture
+She went--as docile as a [[Well|well]]-trained [[Child|child]]; she was a curious mixture
 
 of tractability and firmness: I sat thinking about her, and wondering
 
@@ -226,7 +226,7 @@ the key with you?”
 
 “Kiss me, Mrs. Crimsworth,” was my not very apposite reply; but she
 
-looked so engaging in her light summer dress and little cottage bonnet,
+looked so engaging in her light [[Summer|summer]] dress and little cottage bonnet,
 
 and her manner in speaking to me was then, as always, so unaffectedly
 
@@ -252,21 +252,21 @@ it best.”
 
 Minnie having departed in clean cap and smart shawl, we, too, set out,
 
-leaving the house solitary and silent--silent, at least, but for
+leaving the [[house]] solitary and silent--silent, at least, but for
 
-the ticking of the clock. We were soon clear of Brussels; the fields
+the ticking of the [[Clock|clock]]. We were soon clear of Brussels; the fields
 
 received us, and then the lanes, remote from carriage-resounding
 
 CHAUSSEES. Ere long we came upon a nook, so rural, green, and secluded,
 
-it might have been a spot in some pastoral English province; a bank of
+it might have been a spot in some [[Pastoral|pastoral]] English province; a bank of
 
 short and mossy grass, under a hawthorn, offered a seat too tempting
 
 to be declined; we took it, and when we had admired and examined some
 
-English-looking wild-flowers growing at our feet, I recalled Frances’
+English-looking wild-[[Flowers|flowers]] growing at our feet, I recalled Frances’
 
 attention and my own to the topic touched on at breakfast.
 
@@ -280,7 +280,7 @@ proposed to begin a school. We already had the means for commencing on
 
 a careful scale, having lived greatly within our income. We possessed,
 
-too, by this time, an extensive and eligible connection, in the sense
+too, by this [[Time|time]], an extensive and eligible connection, in the sense
 
 advantageous to our business; for, though our circle of visiting
 
@@ -290,9 +290,9 @@ schools and families as teachers. When Frances had developed her plan,
 
 she intimated, in some closing sentences, her hopes for the future. If
 
-we only had good health and tolerable success, me might, she was sure,
+we only had good health and tolerable [[success]], me might, she was sure,
 
-in time realize an independency; and that, perhaps, before we were too
+in [[Time|time]] realize an independency; and that, perhaps, before we were too
 
 old to enjoy it; then both she and I would rest; and what was to hinder
 
@@ -324,19 +324,19 @@ wanted, ask and you shall have.”
 
 
 
-Frances’ eyes thanked me almost with tears; just a sparkle or two, soon
+Frances’ eyes thanked me almost with [[Tears|tears]]; just a sparkle or two, soon
 
 brushed away; she possessed herself of my hand too, and held it for
 
-some time very close clasped in both her own, but she said no more than
+some [[Time|time]] very close clasped in both her own, but she said no more than
 
 “Thank you, monsieur.”
 
 
 
-We passed a divine day, and came home late, lighted by a full summer
+We passed a divine day, and came [[Home|home]] late, lighted by a full [[Summer|summer]]
 
-moon.
+[[Moon|moon]].
 
 
 
@@ -352,15 +352,15 @@ strangers to amusement, never thought of indulgence, and yet, as
 
 our course ran side by side, as we marched hand in hand, we neither
 
-murmured, repented, nor faltered. Hope indeed cheered us; health kept us
+murmured, repented, nor faltered. [[Hope]] indeed cheered us; health kept us
 
 up; harmony of thought and deed smoothed many difficulties, and finally,
 
-success bestowed every now and then encouraging reward on diligence. Our
+[[success]] bestowed every now and then encouraging reward on diligence. Our
 
 school became one of the most popular in Brussels, and as by degrees
 
-we raised our terms and elevated our system of education, our choice of
+we raised our terms and elevated our system of [[Education|education]], our choice of
 
 pupils grew more select, and at length included the children of the
 
@@ -382,27 +382,27 @@ woman, though in another she remained unchanged. So different was
 
 she under different circumstances. I seemed to possess two wives. The
 
-faculties of her nature, already disclosed when I married her, remained
+faculties of her [[Nature|nature]], already disclosed when I married her, remained
 
 fresh and fair; but other faculties shot up strong, branched out
 
 broad, and quite altered the external character of the plant. Firmness,
 
-activity, and enterprise, covered with grave foliage, poetic feeling
+activity, and enterprise, covered with [[Grave|grave]] foliage, poetic feeling
 
-and fervour; but these flowers were still there, preserved pure and dewy
+and fervour; but these [[Flowers|flowers]] were still there, preserved pure and dewy
 
-under the umbrage of later growth and hardier nature: perhaps I only in
+under the umbrage of later growth and hardier [[Nature|nature]]: perhaps I only in
 
 the world knew the secret of their existence, but to me they were ever
 
-ready to yield an exquisite fragrance and present a beauty as chaste as
+ready to yield an exquisite fragrance and present a [[Beauty|beauty]] as chaste as
 
 radiant.
 
 
 
-In the daytime my house and establishment were conducted by Madame the
+In the daytime my [[house]] and establishment were conducted by Madame the
 
 directress, a stately and elegant woman, bearing much anxious thought on
 
@@ -412,7 +412,7 @@ after breakfast I used to part with this lady; I went to my college,
 
 she to her schoolroom; returning for an hour in the course of the day,
 
-I found her always in class, intently occupied; silence, industry,
+I found her always in class, intently occupied; [[Silence|silence]], industry,
 
 observance, attending on her presence. When not actually teaching,
 
@@ -430,17 +430,17 @@ formulas--she made her own phrases as she went on, and very nervous
 
 and impressive phrases they frequently were; often, when elucidating
 
-favourite points of history, or geography, she would wax genuinely
+favourite points of [[history]], or geography, she would wax genuinely
 
 eloquent in her earnestness. Her pupils, or at least the elder and more
 
-intelligent amongst them, recognized well the language of a superior
+intelligent amongst them, recognized [[Well|well]] the language of a superior
 
 mind; they felt too, and some of them received the impression of
 
 elevated sentiments; there was little fondling between mistress and
 
-girls, but some of Frances’ pupils in time learnt to love her sincerely,
+girls, but some of Frances’ pupils in [[Time|time]] learnt to [[Love|love]] her sincerely,
 
 all of them beheld her with respect; her general demeanour towards
 
@@ -452,15 +452,15 @@ In cases where reproof or punishment was called for she was usually
 
 forbearing enough; but if any took advantage of that forbearance, which
 
-sometimes happened, a sharp, sudden and lightning-like severity taught
+sometimes happened, a sharp, sudden and [[Lightning|lightning]]-like severity taught
 
 the culprit the extent of the mistake committed. Sometimes a gleam of
 
 tenderness softened her eyes and manner, but this was rare; only when
 
-a pupil was sick, or when it pined after home, or in the case of some
+a pupil was sick, or when it pined after [[Home|home]], or in the case of some
 
-little motherless child, or of one much poorer than its companions,
+little motherless [[Child|child]], or of one much poorer than its companions,
 
 whose scanty wardrobe and mean appointments brought on it the contempt
 
@@ -468,21 +468,21 @@ of the jewelled young countesses and silk-clad misses. Over such feeble
 
 fledglings the directress spread a wing of kindliest protection: it was
 
-to their bedside she came at night to tuck them warmly in; it was after
+to their bedside she came at [[Night|night]] to tuck them warmly in; it was after
 
-them she looked in winter to see that they always had a comfortable seat
+them she looked in [[Winter|winter]] to see that they always had a comfortable seat
 
 by the stove; it was they who by turns were summoned to the salon to
 
 receive some little dole of cake or fruit--to sit on a footstool at
 
-the fireside--to enjoy home comforts, and almost home liberty, for
+the fireside--to enjoy [[Home|home]] comforts, and almost [[Home|home]] liberty, for
 
 an evening together--to be spoken to gently and softly, comforted,
 
 encouraged, cherished--and when bedtime came, dismissed with a kiss
 
-of true tenderness. As to Julia and Georgiana G----, daughters of an
+of true tenderness. As to [[Julia]] and Georgiana G----, daughters of an
 
 English baronet, as to Mdlle. Mathilde de ----, heiress of a Belgian
 
@@ -492,7 +492,7 @@ careful of them as of the others, anxious for their progress, as for
 
 that of the rest--but it never seemed to enter her head to distinguish
 
-them by a mark of preference; one girl of noble blood she loved
+them by a mark of preference; one girl of noble [[Blood|blood]] she loved
 
 dearly--a young Irish baroness--lady Catherine ----; but it was for her
 
@@ -506,11 +506,11 @@ My afternoons were spent also in college, with the exception of an hour
 
 that my wife daily exacted of me for her establishment, and with which
 
-she would not dispense. She said that I must spend that time amongst her
+she would not dispense. She said that I must spend that [[Time|time]] amongst her
 
 pupils to learn their characters, to be AU COURANT with everything that
 
-was passing in the house, to become interested in what interested her,
+was passing in the [[house]], to become interested in what interested her,
 
 to be able to give her my opinion on knotty points when she required it,
 
@@ -530,13 +530,13 @@ joy to make me still the master in all things.
 
 
 
-At six o’clock P.M. my daily labours ceased. I then came home, for
+At six o’[[Clock|clock]] P.M. my daily labours ceased. I then came [[Home|home]], for
 
-my home was my heaven; ever at that hour, as I entered our private
+my [[Home|home]] was my heaven; ever at that hour, as I entered our private
 
 sitting-room, the lady-directress vanished from before my eyes, and
 
-Frances Henri, my own little lace-mender, was magically restored to my
+[[Frances Henri]], my own little lace-mender, was magically restored to my
 
 arms; much disappointed she would have been if her master had not been
 
@@ -548,7 +548,7 @@ been prompt to answer her soft, “Bon soir, monsieur.”
 
 Talk French to me she would, and many a punishment she has had for
 
-her wilfulness. I fear the choice of chastisement must have been
+her wilfulness. I [[Fear|fear]] the choice of chastisement must have been
 
 injudicious, for instead of correcting the fault, it seemed to encourage
 
@@ -560,7 +560,7 @@ spent them all in conversation, and my young Genevese, now that she was
 
 thoroughly accustomed to her English professor, now that she loved
 
-him too absolutely to fear him much, reposed in him a confidence so
+him too absolutely to [[Fear|fear]] him much, reposed in him a confidence so
 
 unlimited that topics of conversation could no more be wanting with him
 
@@ -568,7 +568,7 @@ than subjects for communion with her own heart. In those moments, happy
 
 as a bird with its mate, she would show me what she had of vivacity, of
 
-mirth, of originality in her well-dowered nature. She would show, too,
+mirth, of originality in her [[Well|well]]-dowered [[Nature|nature]]. She would show, too,
 
 some stores of raillery, of “malice,” and would vex, tease, pique me
 
@@ -604,7 +604,7 @@ had a difficulty in comprehending his deep, serene, and sober mind; his
 
 language, too, was not facile to her; she had to ask questions, to sue
 
-for explanations, to be like a child and a novice, and to acknowledge
+for explanations, to be like a [[Child|child]] and a novice, and to acknowledge
 
 me as her senior and director. Her instinct instantly penetrated and
 
@@ -622,7 +622,7 @@ in French, or entreated me in English; whether she jested with wit,
 
 or inquired with deference; narrated with interest, or listened with
 
-attention; whether she smiled at me or on me, always at nine o’clock I
+attention; whether she smiled at me or on me, always at nine o’[[Clock|clock]] I
 
 was left abandoned. She would extricate herself from my arms, quit
 
@@ -638,7 +638,7 @@ were wakeful, especially if any were sad, spoke to them and soothed
 
 them; stood some minutes to ascertain that all was safe and tranquil;
 
-trimmed the watch-light which burned in the apartment all night, then
+trimmed the watch-light which burned in the apartment all [[Night|night]], then
 
 withdrew, closing the door behind her without sound. Thence she glided
 
@@ -646,13 +646,13 @@ to our own chamber; it had a little cabinet within; this she sought;
 
 there, too, appeared a bed, but one, and that a very small one; her face
 
-(the night I followed and observed her) changed as she approached this
+(the [[Night|night]] I followed and observed her) changed as she approached this
 
-tiny couch; from grave it warmed to earnest; she shaded with one hand
+tiny couch; from [[Grave|grave]] it warmed to earnest; she shaded with one hand
 
 the lamp she held in the other; she bent above the pillow and hung
 
-over a child asleep; its slumber (that evening at least, and usually,
+over a [[Child|child]] asleep; its slumber (that evening at least, and usually,
 
 I believe) was sound and calm; no tear wet its dark eyelashes; no fever
 
@@ -664,7 +664,7 @@ flushed her face; feeling pleasurable, powerful, worked in her whole
 
 frame, which still was motionless. I saw, indeed, her heart heave, her
 
-lips were a little apart, her breathing grew somewhat hurried; the child
+lips were a little apart, her breathing grew somewhat hurried; the [[Child|child]]
 
 smiled; then at last the mother smiled too, and said in low soliloquy,
 
@@ -680,7 +680,7 @@ extinguished lamp--
 
 
 
-“Victor rests well: he smiled in his sleep; he has your smile,
+“Victor rests [[Well|well]]: he smiled in his [[Sleep|sleep]]; he has your smile,
 
 monsieur.”
 
@@ -688,9 +688,9 @@ monsieur.”
 
 The said Victor was of course her own boy, born in the third year of
 
-our marriage: his Christian name had been given him in honour of M.
+our [[Marriage|marriage]]: his Christian name had been given him in [[Honour|honour]] of M.
 
-Vandenhuten, who continued always our trusty and well-beloved friend.
+Vandenhuten, who continued always our trusty and [[Well|well]]-beloved friend.
 
 
 
@@ -700,7 +700,7 @@ good, just, and faithful husband. What she would have been had she
 
 married a harsh, envious, careless man--a profligate, a prodigal,
 
-a drunkard, or a tyrant--is another question, and one which I once
+a drunkard, or a [[Tyrant|tyrant]]--is another question, and one which I once
 
 propounded to her. Her answer, given after some reflection, was--
 
@@ -720,7 +720,7 @@ suddenly and silently.”
 
 “What, to a drunkard, a profligate, a selfish spendthrift, an unjust
 
-fool?”
+[[Fool|fool]]?”
 
 
 
@@ -748,29 +748,29 @@ eye, whose voice I determined to waken.
 
 
 
-“Monsieur, if a wife’s nature loathes that of the man she is wedded to,
+“Monsieur, if a wife’s [[Nature|nature]] loathes that of the man she is wedded to,
 
-marriage must be slavery. Against slavery all right thinkers revolt, and
+[[Marriage|marriage]] must be [[Slavery|slavery]]. Against [[Slavery|slavery]] all right thinkers revolt, and
 
 though torture be the price of resistance, torture must be dared: though
 
-the only road to freedom lie through the gates of death, those gates
+the only [[Road|road]] to [[Freedom|freedom]] lie through the gates of [[Death|death]], those gates
 
-must be passed; for freedom is indispensable. Then, monsieur, I would
+must be passed; for [[Freedom|freedom]] is indispensable. Then, monsieur, I would
 
 resist as far as my strength permitted; when that strength failed I
 
-should be sure of a refuge. Death would certainly screen me both from
+should be sure of a refuge. [[Death]] would certainly screen me both from
 
 bad laws and their consequences.”
 
 
 
-“Voluntary death, Frances?”
+“Voluntary [[Death|death]], Frances?”
 
 
 
-“No, monsieur. I’d have courage to live out every throe of anguish fate
+“No, monsieur. I’d have [[Courage|courage]] to live out every throe of anguish fate
 
 assigned me, and principle to contend for justice and liberty to the
 
@@ -802,7 +802,7 @@ should never have suited any man but Professor Crimsworth--no other
 
 gentleman, French, English, or Belgian, would have thought me amiable or
 
-handsome; and I doubt whether I should have cared for the approbation
+handsome; and I [[Doubt|doubt]] whether I should have cared for the approbation
 
 of many others, if I could have obtained it. Now, I have been Professor
 
@@ -842,9 +842,9 @@ independency. The rapidity with which we attained this end had its
 
 origin in three reasons:-- Firstly, we worked so hard for it; secondly,
 
-we had no incumbrances to delay success; thirdly, as soon as we had
+we had no incumbrances to delay [[success]]; thirdly, as soon as we had
 
-capital to invest, two well-skilled counsellors, one in Belgium, one in
+capital to invest, two [[Well|well]]-skilled counsellors, one in Belgium, one in
 
 England, viz. Vandenhuten and Hunsden, gave us each a word of advice
 
@@ -872,23 +872,23 @@ properly managed by right sympathy and unselfish activity, might
 
 help philanthropy in her enterprises, and put solace into the hand of
 
-charity.
+[[Charity|charity]].
 
 
 
 To England we now resolved to take wing; we arrived there safely;
 
-Frances realized the dream of her lifetime. We spent a whole summer
+Frances realized the dream of her lifetime. We spent a whole [[Summer|summer]]
 
-and autumn in travelling from end to end of the British islands, and
+and [[Autumn|autumn]] in travelling from end to end of the British islands, and
 
-afterwards passed a winter in London. Then we thought it high time
+afterwards passed a [[Winter|winter]] in [[London]]. Then we thought it high [[Time|time]]
 
 to fix our residence. My heart yearned towards my native county of
 
 ----shire; and it is in ----shire I now live; it is in the library of my
 
-own home I am now writing. That home lies amid a sequestered and rather
+own [[Home|home]] I am now writing. That [[Home|home]] lies amid a sequestered and rather
 
 hilly region, thirty miles removed from X----; a region whose verdure
 
@@ -896,31 +896,31 @@ the smoke of mills has not yet sullied, whose waters still run pure,
 
 whose swells of moorland preserve in some ferny glens that lie between
 
-them the very primal wildness of nature, her moss, her bracken, her
+them the very primal wildness of [[Nature|nature]], her moss, her bracken, her
 
-blue-bells, her scents of reed and heather, her free and fresh breezes.
+blue-[[Bells|bells]], her scents of reed and heather, her free and fresh breezes.
 
-My house is a picturesque and not too spacious dwelling, with low and
+My [[house]] is a picturesque and not too spacious dwelling, with low and
 
 long windows, a trellised and leaf-veiled porch over the front door,
 
-just now, on this summer evening, looking like an arch of roses and ivy.
+just now, on this [[Summer|summer]] evening, looking like an arch of roses and ivy.
 
-The garden is chiefly laid out in lawn, formed of the sod of the hills,
+The [[Garden|garden]] is chiefly laid out in lawn, formed of the sod of the hills,
 
-with herbage short and soft as moss, full of its own peculiar flowers,
+with herbage short and soft as moss, full of its own peculiar [[Flowers|flowers]],
 
 tiny and starlike, imbedded in the minute embroidery of their fine
 
-foliage. At the bottom of the sloping garden there is a wicket, which
+foliage. At the [[Bottom|bottom]] of the sloping [[Garden|garden]] there is a wicket, which
 
 opens upon a lane as green as the lawn, very long, shady, and little
 
 frequented; on the turf of this lane generally appear the first daisies
 
-of spring--whence its name--Daisy Lane; serving also as a distinction to
+of [[spring]]--whence its name--Daisy Lane; serving also as a distinction to
 
-the house.
+the [[house]].
 
 
 
@@ -930,13 +930,13 @@ wood--chiefly oak and beech--spreads shadowy about the vicinage of a
 
 very old mansion, one of the Elizabethan structures, much larger, as
 
-well as more antique than Daisy Lane, the property and residence of
+[[Well|well]] as more antique than Daisy Lane, the property and residence of
 
 an individual familiar both to me and to the reader. Yes, in Hunsden
 
 Wood--for so are those glades and that grey building, with many gables
 
-and more chimneys, named--abides Yorke Hunsden, still unmarried; never,
+and more chimneys, named--abides [[Yorke Hunsden]], still unmarried; never,
 
 I suppose, having yet found his ideal, though I know at least a score
 
@@ -946,7 +946,7 @@ assist him in the search.
 
 
 
-The estate fell to him by the death of his father, five years since; he
+The estate fell to him by the [[Death|death]] of his father, five years since; he
 
 has given up trade, after having made by it sufficient to pay off some
 
@@ -956,7 +956,7 @@ here, but I do not think he is resident above five months out of the
 
 twelve; he wanders from land to land, and spends some part of each
 
-winter in town: he frequently brings visitors with him when he comes to
+[[Winter|winter]] in town: he frequently brings visitors with him when he comes to
 
 ----shire, and these visitors are often foreigners; sometimes he has
 
@@ -976,7 +976,7 @@ of free trade. The foreign visitors, too, are politicians; they take a
 
 wider theme--European progress--the spread of liberal sentiments over
 
-the Continent; on their mental tablets, the names of Russia, Austria,
+the Continent; on their mental tablets, the names of [[Russia]], Austria,
 
 and the Pope, are inscribed in red ink. I have heard some of them talk
 
@@ -996,23 +996,23 @@ men he seemed leagued hand and heart.
 
 
 
-When Hunsden is staying alone at the Wood (which seldom happens) he
+When Hunsden is staying [[Alone|alone]] at the Wood (which seldom happens) he
 
 generally finds his way two or three times a week to Daisy Lane. He has
 
 a philanthropic motive for coming to smoke his cigar in our porch on
 
-summer evenings; he says he does it to kill the earwigs amongst the
+[[Summer|summer]] evenings; he says he does it to kill the earwigs amongst the
 
-roses, with which insects, but for his benevolent fumigations, he
+roses, with which [[Insects|insects]], but for his benevolent fumigations, he
 
 intimates we should certainly be overrun. On wet days, too, we are
 
-almost sure to see him; according to him, it gets on time to work
+almost sure to see him; according to him, it gets on [[Time|time]] to work
 
 me into lunacy by treading on my mental corns, or to force from Mrs.
 
-Crimsworth revelations of the dragon within her, by insulting the memory
+Crimsworth revelations of the dragon within her, by insulting the [[Memory|memory]]
 
 of Hofer and Tell.
 
@@ -1026,9 +1026,9 @@ an interesting study; their conversation is exciting and strange; the
 
 absence of all local narrowness both in the host and his chosen society
 
-gives a metropolitan, almost a cosmopolitan freedom and largeness to the
+gives a metropolitan, almost a cosmopolitan [[Freedom|freedom]] and largeness to the
 
-talk. Hunsden himself is a polite man in his own house: he has, when he
+talk. Hunsden himself is a polite man in his own [[house]]: he has, when he
 
 chooses to employ it, an inexhaustible power of entertaining guests; his
 
@@ -1038,7 +1038,7 @@ passages legendary, the low-ceiled chambers, with their long rows of
 
 diamond-paned lattices, have an old-world, haunted air: in his travels
 
-he has collected stores of articles of VERTU, which are well and
+he has collected stores of articles of VERTU, which are [[Well|well]] and
 
 tastefully disposed in his panelled or tapestried rooms: I have seen
 
@@ -1050,45 +1050,45 @@ an aristocratic connoisseur might have envied.
 
 When I and Frances have dined and spent an evening with Hunsden, he
 
-often walks home with us. His wood is large, and some of the timber
+often walks [[Home|home]] with us. His wood is large, and some of the timber
 
 is old and of huge growth. There are winding ways in it which, pursued
 
 through glade and brake, make the walk back to Daisy Lane a somewhat
 
-long one. Many a time, when we have had the benefit of a full moon,
+long one. Many a [[Time|time]], when we have had the benefit of a full [[Moon|moon]],
 
-and when the night has been mild and balmy, when, moreover, a certain
+and when the [[Night|night]] has been mild and balmy, when, moreover, a certain
 
-nightingale has been singing, and a certain stream, hid in alders, has
+[[Nightingale|nightingale]] has been singing, and a certain stream, hid in alders, has
 
-lent the song a soft accompaniment, the remote church-bell of the one
+lent the [[Song|song]] a soft accompaniment, the remote church-bell of the one
 
-hamlet in a district of ten miles, has tolled midnight ere the lord of
+[[Hamlet|hamlet]] in a district of ten miles, has tolled midnight ere the lord of
 
 the wood left us at our porch. Free-flowing was his talk at such hours,
 
-and far more quiet and gentle than in the day-time and before numbers.
+and far more quiet and gentle than in the day-[[Time|time]] and before numbers.
 
 He would then forget politics and discussion, and would dwell on the
 
-past times of his house, on his family history, on himself and his own
+past times of his [[house]], on his family [[history]], on himself and his own
 
 feelings--subjects each and all invested with a peculiar zest, for they
 
-were each and all unique. One glorious night in June, after I had been
+were each and all unique. One glorious [[Night|night]] in June, after I had been
 
 taunting him about his ideal bride and asking him when she would
 
-come and graft her foreign beauty on the old Hunsden oak, he answered
+come and graft her foreign [[Beauty|beauty]] on the old Hunsden oak, he answered
 
 suddenly--
 
 
 
-“You call her ideal; but see, here is her shadow; and there cannot be a
+“You call her ideal; but see, here is her [[Shadow|shadow]]; and there cannot be a
 
-shadow without a substance.”
+[[Shadow|shadow]] without a substance.”
 
 
 
@@ -1096,7 +1096,7 @@ He had led us from the depth of the “winding way” into a glade from
 
 whence the beeches withdrew, leaving it open to the sky; an unclouded
 
-moon poured her light into this glade, and Hunsden held out under her
+[[Moon|moon]] poured her light into this glade, and Hunsden held out under her
 
 beam an ivory miniature.
 
@@ -1114,7 +1114,7 @@ once said, “straight and harmonious features.” It was dark; the hair,
 
 raven-black, swept not only from the brow, but from the temples--seemed
 
-thrust away carelessly, as if such beauty dispensed with, nay,
+thrust away carelessly, as if such [[Beauty|beauty]] dispensed with, nay,
 
 despised arrangement. The Italian eye looked straight into you, and an
 
@@ -1158,11 +1158,11 @@ over it.
 
 
 
-“I am sure Lucia once wore chains and broke them,” was the strange
+“I am sure Lucia once wore [[Chains|chains]] and broke them,” was the strange
 
-answer. “I do not mean matrimonial chains,” she added, correcting
+answer. “I do not mean matrimonial [[Chains|chains]],” she added, correcting
 
-herself, as if she feared mis-interpretation, “but social chains of some
+herself, as if she feared mis-interpretation, “but social [[Chains|chains]] of some
 
 sort. The face is that of one who has made an effort, and a successful
 
@@ -1192,11 +1192,11 @@ hesitated.
 
 thought of marrying her; you admired her originality, her fearlessness,
 
-her energy of body and mind; you delighted in her talent, whatever that
+her energy of [[Body|body]] and mind; you delighted in her talent, whatever that
 
-was, whether song, dance, or dramatic representation; you worshipped her
+was, whether [[Song|song]], [[Dance|dance]], or dramatic representation; you worshipped her
 
-beauty, which was of the sort after your own heart: but I am sure she
+[[Beauty|beauty]], which was of the sort after your own heart: but I am sure she
 
 filled a sphere from whence you would never have thought of taking a
 
@@ -1216,7 +1216,7 @@ beside such a girandole as Lucia’s?”
 
 
 
-“Candid, at least; and the Professor will soon be dissatisfied with the
+“Candid, at least; and [[The Professor|the Professor]] will soon be dissatisfied with the
 
 dim light you give?”
 
@@ -1232,7 +1232,7 @@ now reached the wicket.
 
 
 
-I said, a few pages back, that this is a sweet summer evening; it
+I said, a few pages back, that this is a sweet [[Summer|summer]] evening; it
 
 is--there has been a series of lovely days, and this is the loveliest;
 
@@ -1278,19 +1278,19 @@ porcelain.
 
 
 
-Victor is as little of a pretty child as I am of a handsome man, or his
+Victor is as little of a pretty [[Child|child]] as I am of a handsome man, or his
 
 mother of a fine woman; he is pale and spare, with large eyes, as dark
 
 as those of Frances, and as deeply set as mine. His shape is symmetrical
 
-enough, but slight; his health is good. I never saw a child smile less
+enough, but slight; his health is good. I never saw a [[Child|child]] smile less
 
 than he does, nor one who knits such a formidable brow when sitting over
 
 a book that interests him, or while listening to tales of adventure,
 
-peril, or wonder, narrated by his mother, Hunsden, or myself. But
+peril, or [[Wonder|wonder]], narrated by his mother, Hunsden, or myself. But
 
 though still, he is not unhappy--though serious, not morose; he has a
 
@@ -1310,9 +1310,9 @@ His toys have been few, and he has never wanted more. For those he
 
 possesses, he seems to have contracted a partiality amounting to
 
-affection; this feeling, directed towards one or two living animals of
+affection; this feeling, directed towards one or two living [[Animals|animals]] of
 
-the house, strengthens almost to a passion.
+the [[house]], strengthens almost to a passion.
 
 
 
@@ -1324,23 +1324,23 @@ modified by the companionship and caresses of its young master. He would
 
 go nowhere, do nothing without Yorke; Yorke lay at his feet while he
 
-learned his lessons, played with him in the garden, walked with him in
+learned his lessons, played with him in the [[Garden|garden]], walked with him in
 
 the lane and wood, sat near his chair at meals, was fed always by his
 
 own hand, was the first thing he sought in the morning, the last he left
 
-at night. Yorke accompanied Mr. Hunsden one day to X----, and was bitten
+at [[Night|night]]. Yorke accompanied Mr. Hunsden one day to X----, and was bitten
 
 in the street by a dog in a rabid state. As soon as Hunsden had brought
 
-him home, and had informed me of the circumstance, I went into the yard
+him [[Home|home]], and had informed me of the circumstance, I went into the yard
 
 and shot him where he lay licking his wound: he was dead in an instant;
 
 he had not seen me level the gun; I stood behind him. I had scarcely
 
-been ten minutes in the house, when my ear was struck with sounds of
+been ten minutes in the [[house]], when my ear was struck with sounds of
 
 anguish: I repaired to the yard once more, for they proceeded thence.
 
@@ -1352,9 +1352,9 @@ bull-like neck, and lost in a passion of the wildest woe: he saw me.
 
 “Oh, papa, I’ll never forgive you! I’ll never forgive you!” was his
 
-exclamation. “You shot Yorke--I saw it from the window. I never believed
+exclamation. “You shot Yorke--I saw it from the [[Window|window]]. I never believed
 
-you could be so cruel--I can love you no more!”
+you could be so cruel--I can [[Love|love]] you no more!”
 
 
 
@@ -1368,7 +1368,7 @@ accent which I cannot render, but which pierced my heart, repeated--
 
 “He might have been cured--you should have tried--you should have burnt
 
-the wound with a hot iron, or covered it with caustic. You gave no time;
+the wound with a hot iron, or covered it with caustic. You gave no [[Time|time]];
 
 and now it is too late--he is dead!”
 
@@ -1380,23 +1380,23 @@ while, till his grief had somewhat exhausted him; and then I lifted him
 
 in my arms and carried him to his mother, sure that she would comfort
 
-him best. She had witnessed the whole scene from a window; she would not
+him best. She had witnessed the whole scene from a [[Window|window]]; she would not
 
-come out for fear of increasing my difficulties by her emotion, but she
+come out for [[Fear|fear]] of increasing my difficulties by her emotion, but she
 
 was ready now to receive him. She took him to her kind heart, and on
 
 to her gentle lap; consoled him but with her lips, her eyes, her soft
 
-embrace, for some time; and then, when his sobs diminished, told him
+embrace, for some [[Time|time]]; and then, when his sobs diminished, told him
 
-that Yorke had felt no pain in dying, and that if he had been left to
+that Yorke had felt no [[Pain|pain]] in dying, and that if he had been left to
 
 expire naturally, his end would have been most horrible; above all, she
 
 told him that I was not cruel (for that idea seemed to give exquisite
 
-pain to poor Victor), that it was my affection for Yorke and him which
+[[Pain|pain]] to poor Victor), that it was my affection for Yorke and him which
 
 had made me act so, and that I was now almost heart-broken to see him
 
@@ -1416,7 +1416,7 @@ effect: he grew calmer, rested his face on her shoulder, and lay still
 
 in her arms. Looking up, shortly, he asked his mother to tell him over
 
-again what she had said about Yorke having suffered no pain, and my not
+again what she had said about Yorke having suffered no [[Pain|pain]], and my not
 
 being cruel; the balmy words being repeated, he again pillowed his cheek
 
@@ -1438,21 +1438,21 @@ my son. I found, it is true, few elements of the “good fellow” or the
 
 over the wine cup, or which kindles the passions to a destroying
 
-fire; but I saw in the soil of his heart healthy and swelling germs
+[[Fire|fire]]; but I saw in the soil of his heart healthy and swelling germs
 
-of compassion, affection, fidelity. I discovered in the garden of his
+of compassion, affection, fidelity. I discovered in the [[Garden|garden]] of his
 
 intellect a rich growth of wholesome principles--reason, justice, moral
 
-courage, promised, if not blighted, a fertile bearing. So I bestowed on
+[[Courage|courage]], promised, if not blighted, a fertile bearing. So I bestowed on
 
-his large forehead, and on his cheek--still pale with tears--a proud and
+his large forehead, and on his cheek--still pale with [[Tears|tears]]--a proud and
 
 contented kiss, and sent him away comforted. Yet I saw him the next day
 
 laid on the mound under which Yorke had been buried, his face covered
 
-with his hands; he was melancholy for some weeks, and more than a year
+with his hands; he was [[Melancholy|melancholy]] for some weeks, and more than a year
 
 elapsed before he would listen to any proposal of having another dog.
 
@@ -1462,19 +1462,19 @@ Victor learns fast. He must soon go to Eton, where, I suspect, his first
 
 year or two will be utter wretchedness: to leave me, his mother, and his
 
-home, will give his heart an agonized wrench; then, the fagging will not
+[[Home|home]], will give his heart an agonized wrench; then, the fagging will not
 
-suit him--but emulation, thirst after knowledge, the glory of success,
+suit him--but emulation, thirst after knowledge, the glory of [[success]],
 
-will stir and reward him in time. Meantime, I feel in myself a strong
+will stir and reward him in [[Time|time]]. Meantime, I feel in myself a strong
 
 repugnance to fix the hour which will uproot my sole olive branch, and
 
 transplant it far from me; and, when I speak to Frances on the subject,
 
-I am heard with a kind of patient pain, as though I alluded to some
+I am heard with a kind of patient [[Pain|pain]], as though I alluded to some
 
-fearful operation, at which her nature shudders, but from which her
+fearful operation, at which her [[Nature|nature]] shudders, but from which her
 
 fortitude will not permit her to recoil. The step must, however, be
 
@@ -1494,9 +1494,9 @@ the offending Adam, and consider that it should be, if not WHIPPED out
 
 of him, at least soundly disciplined; and that he will be cheap of
 
-any amount of either bodily or mental suffering which will ground him
+any amount of either bodily or mental [[Suffering|suffering]] which will ground him
 
-radically in the art of self-control. Frances gives this something in
+radically in the art of [[Self|self]]-control. Frances gives this something in
 
 her son’s marked character no name; but when it appears in the grinding
 
@@ -1506,13 +1506,13 @@ feeling against disappointment, mischance, sudden sorrow, or supposed
 
 injustice, she folds him to her breast, or takes him to walk with her
 
-alone in the wood; then she reasons with him like any philosopher, and
+[[Alone|alone]] in the wood; then she reasons with him like any philosopher, and
 
 to reason Victor is ever accessible; then she looks at him with eyes of
 
-love, and by love Victor can be infallibly subjugated; but will reason
+[[Love|love]], and by [[Love|love]] Victor can be infallibly subjugated; but will reason
 
-or love be the weapons with which in future the world will meet his
+or [[Love|love]] be the weapons with which in future the world will meet his
 
 violence? Oh, no! for that flash in his black eye--for that cloud on
 
@@ -1520,9 +1520,9 @@ his bony brow--for that compression of his statuesque lips, the lad will
 
 some day get blows instead of blandishments--kicks instead of kisses;
 
-then for the fit of mute fury which will sicken his body and madden
+then for the fit of mute fury which will sicken his [[Body|body]] and madden
 
-his soul; then for the ordeal of merited and salutary suffering, out of
+his [[Soul|soul]]; then for the ordeal of merited and salutary [[Suffering|suffering]], out of
 
 which he will come (I trust) a wiser and a better man.
 
@@ -1532,7 +1532,7 @@ I see him now; he stands by Hunsden, who is seated on the lawn under the
 
 beech; Hunsden’s hand rests on the boy’s collar, and he is instilling
 
-God knows what principles into his ear. Victor looks well just now, for
+God knows what principles into his ear. Victor looks [[Well|well]] just now, for
 
 he listens with a sort of smiling interest; he never looks so like his
 
@@ -1552,11 +1552,11 @@ like a dove guarding its young from a hovering hawk; she says she wishes
 
 Hunsden had children of his own, for then he would better know the
 
-danger of inciting their pride end indulging their foibles.
+danger of inciting their [[Pride|pride]] end indulging their foibles.
 
 
 
-Frances approaches my library window; puts aside the honeysuckle which
+Frances approaches my library [[Window|window]]; puts aside the honeysuckle which
 
 half covers it, and tells me tea is ready; seeing that I continue busy
 
@@ -1578,7 +1578,7 @@ She draws a chair near, and sits down to wait till I have finished; her
 
 presence is as pleasant to my mind as the perfume of the fresh hay and
 
-spicy flowers, as the glow of the westering sun, as the repose of the
+spicy [[Flowers|flowers]], as the glow of the westering sun, as the repose of the
 
 midsummer eve are to my senses.
 
@@ -1588,7 +1588,7 @@ But Hunsden comes; I hear his step, and there he is, bending through the
 
 lattice, from which he has thrust away the woodbine with unsparing hand,
 
-disturbing two bees and a butterfly.
+disturbing two [[Bees|bees]] and a butterfly.
 
 
 
@@ -1598,7 +1598,7 @@ and make him lift up his head.”
 
 
 
-“Well, Hunsden? I hear you--”
+“[[Well]], Hunsden? I hear you--”
 
 
 

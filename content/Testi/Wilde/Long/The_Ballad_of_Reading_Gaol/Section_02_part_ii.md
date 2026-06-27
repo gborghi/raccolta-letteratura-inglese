@@ -29,8 +29,8 @@ And at every wandering cloud that trailed
 Its ravelled fleeces by.  
 He did not wring his hands, as do  
 Those witless men who dare  
-To try to rear the changeling Hope  
-In the cave of black Despair:  
+To try to rear the changeling [[Hope]]  
+In the [[Cave|cave]] of black [[Despair]]:  
 He only looked upon the sun,  
 And drank the morning air.  
 He did not wring his hands nor weep,  
@@ -39,7 +39,7 @@ But he drank the air as though it held
 Some healthful anodyne;  
 With open mouth he drank the sun  
 As though it had been wine!  
-And I and all the souls in pain,  
+And I and all the souls in [[Pain|pain]],  
 Who tramped the other ring,  
 Forgot if we ourselves had done  
 A great or little thing,  
@@ -51,7 +51,7 @@ And strange it was to see him look
 So wistfully at the day,  
 And strange it was to think that he  
 Had such a debt to pay.  
-For oak and elm have pleasant leaves  
+For oak and elm have pleasant [[Leaves|leaves]]  
 That in the springtime shoot:  
 But grim to see is the gallows-tree,  
 With its adder-bitten root,  
@@ -63,31 +63,31 @@ But who would stand in hempen band
 Upon a scaffold high,  
 And through a murderer’s collar take  
 His last look at the sky?  
-It is sweet to dance to violins  
-When Love and Life are fair:  
-To dance to flutes, to dance to lutes  
+It is sweet to [[Dance|dance]] to violins  
+When [[Love]] and Life are fair:  
+To [[Dance|dance]] to flutes, to [[Dance|dance]] to lutes  
 Is delicate and rare:  
 But it is not sweet with nimble feet  
-To dance upon the air!  
+To [[Dance|dance]] upon the air!  
 So with curious eyes and sick surmise  
 We watched him day by day,  
 And wondered if each one of us  
-Would end the self-same way,  
+Would end the [[Self|self]]-same way,  
 For none can tell to what red Hell  
-His sightless soul may stray.  
+His sightless [[Soul|soul]] may stray.  
 At last the dead man walked no more  
 Amongst the Trial Men,  
 And I knew that he was standing up  
 In the black dock’s dreadful pen,  
 And that never would I see his face  
 In God’s sweet world again.  
-Like two doomed ships that pass in storm  
+Like two doomed ships that pass in [[Storm|storm]]  
 We had crossed each other’s way:  
 But we made no sign, we said no word,  
 We had no word to say;  
-For we did not meet in the holy night,  
+For we did not meet in the holy [[Night|night]],  
 But in the shameful day.  
-A prison wall was round us both,  
+A [[Prison|prison]] wall was round us both,  
 Two outcast men we were:  
 The world had thrust us from its heart,  
 And God from out His care:  

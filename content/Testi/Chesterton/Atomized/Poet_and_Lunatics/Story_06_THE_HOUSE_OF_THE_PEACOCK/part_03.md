@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 3)"
+title: "Poet and Lunatics — THE [[house|HOUSE]] OF THE PEACOCK (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -36,12 +36,12 @@ told him that the appearance was not misleading... that the man who
 had thus come into this odd society had been in many odd societies,
 probably seeking for something more odd than he had ever found.
 
-It was some time, however, before any of these guests could show
+It was some [[Time|time]], however, before any of these guests could show
 anything of their quality, owing to the abounding liveliness and
 loquacity of their host.  Mr. Crundle may, perhaps, have thought
 it appropriate in a President of a Thirteen Club to talk thirteen
-to the dozen.  Anyhow, for some time he talked for the whole company,
-rolling about in his chair in radiant satisfaction, like a man
+to the dozen.  Anyhow, for some [[Time|time]] he talked for the whole company,
+[[rolling]] about in his chair in radiant satisfaction, like a man
 who has at last realized his wildest vision of happiness.
 Indeed, there was something almost abnormal about the gaiety and vivacity
 of this grey-haired merchant; it seemed to be fed from a fountain
@@ -72,20 +72,20 @@ beside the man called Noel, interposed in a conversational manner.
 a trace of it in looking at some old illuminated manuscripts
 of the ninth or tenth century.  There is a very curious design,
 in a stiff Byzantine style, representing the two armies preparing
-for the war in heaven.  But St. Michael is handing out spears
-to the good angels; while Satan is elaborately arming the rebel
+for the war in heaven.  But St. [[Michael]] is handing out spears
+to the good angels; while [[Satan]] is elaborately arming the [[Rebel|rebel]]
 angels with peacocks' feathers."
 
 Noel turned his hollow eyes sharply in the direction of the speaker.
 "That is really interesting," he said; "you mean it was all that old
-theological notion of the wickedness of pride?"
+theological notion of the wickedness of [[Pride|pride]]?"
 
-"Well, there's a whole peacock in the garden for you to pluck,"
+"[[Well]], there's a whole peacock in the [[Garden|garden]] for you to pluck,"
 cried Crundle in his boisterous manner, "if any of you want to go
 out fighting angels."
 
 "They are not very effective weapons," said Gale gravely, "and I
-fancy that is what the artist in the Dark Ages must have meant.
+fancy that is what the [[artist]] in the Dark Ages must have meant.
 There seems to me to be something that rather hits the wrong
 imperialism in the right place, about the contrast in the weapon;
 the fact that the right side was arming for a real and therefore
@@ -120,11 +120,11 @@ but he was stopped by something in the voice of Noel that seemed
 to make his violence a vain splutter.
 
 "I'm not a Christian," said Noel in a voice like stone.
-"It is useless now to wonder whether I wish I were.
+"It is useless now to [[Wonder|wonder]] whether I wish I were.
 But it seems to me that Mr. Gale's point is a perfectly fair one;
-that such a religion might well actually contradict such a superstition.
-And it seems to me also that the truth might be applied yet further.
+that such a religion might [[Well|well]] actually contradict such a superstition.
+And it seems to me also that the [[Truth|truth]] might be applied yet further.
 If I believed in God, I should not believe in a God who made happiness
 depend on knocking over a salt-cellar or seeing a peacock's feather.
-Whatever Christianity teaches, I presume it does not teach that
+Whatever [[Christianity]] teaches, I presume it does not teach that
 the Creator is crazy."

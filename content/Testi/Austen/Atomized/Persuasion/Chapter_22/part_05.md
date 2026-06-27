@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 5)"
+title: "[[Persuasion]] — Chapter 22 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -36,7 +36,7 @@ scandalous to go for the sake of his heir. What is Mr Elliot to me?”
 
 The careless expression was life to Anne, who saw that Captain
 
-Wentworth was all attention, looking and listening with his whole soul;
+Wentworth was all attention, looking and listening with his whole [[Soul|soul]];
 
 and that the last words brought his enquiring eyes from Charles to
 
@@ -52,7 +52,7 @@ invariably serious, most warmly opposing it, and not omitting to make
 
 it known that, however determined to go to Camden Place herself, she
 
-should not think herself very well used, if they went to the play
+should not think herself very [[Well|well]] used, if they went to the play
 
 without her. Mrs Musgrove interposed.
 
@@ -76,7 +76,7 @@ for the opportunity it gave her of decidedly saying—
 
 
 
-“If it depended only on my inclination, ma’am, the party at home
+“If it depended only on my inclination, ma’am, the party at [[Home|home]]
 
 (excepting on Mary’s account) would not be the smallest impediment. I
 
@@ -100,7 +100,7 @@ that he would go to the play to-morrow if nobody else would.
 
 
 
-Captain Wentworth left his seat, and walked to the fire-place; probably
+[[Captain Wentworth]] left his seat, and walked to the [[Fire|fire]]-place; probably
 
 for the sake of walking away from it soon afterwards, and taking a
 
@@ -120,7 +120,7 @@ card-player.”
 
 
 
-“You were not formerly, I know. You did not use to like cards; but time
+“You were not formerly, I know. You did not use to like cards; but [[Time|time]]
 
 makes many changes.”
 
@@ -136,7 +136,7 @@ indeed! Eight years and a half is a period.”
 
 
 
-Whether he would have proceeded farther was left to Anne’s imagination
+Whether he would have proceeded farther was left to Anne’s [[Imagination|imagination]]
 
 to ponder over in a calmer hour; for while still hearing the sounds he
 
@@ -144,7 +144,7 @@ had uttered, she was startled to other subjects by Henrietta, eager to
 
 make use of the present leisure for getting out, and calling on her
 
-companions to lose no time, lest somebody else should come in.
+companions to lose no [[Time|time]], lest somebody else should come in.
 
 
 
@@ -170,9 +170,9 @@ Walter and Miss Elliot, whose entrance seemed to give a general chill.
 
 Anne felt an instant oppression, and wherever she looked saw symptoms
 
-of the same. The comfort, the freedom, the gaiety of the room was over,
+of the same. The comfort, the [[Freedom|freedom]], the gaiety of the room was over,
 
-hushed into cold composure, determined silence, or insipid talk, to
+hushed into cold composure, determined [[Silence|silence]], or insipid talk, to
 
 meet the heartless elegance of her father and sister. How mortifying to
 
@@ -180,7 +180,7 @@ feel that it was so!
 
 
 
-Her jealous eye was satisfied in one particular. Captain Wentworth was
+Her jealous eye was satisfied in one particular. [[Captain Wentworth]] was
 
 acknowledged again by each, by Elizabeth more graciously than before.
 
@@ -196,17 +196,17 @@ dues of the Musgroves. “To-morrow evening, to meet a few friends: no
 
 formal party.” It was all said very gracefully, and the cards with
 
-which she had provided herself, the “Miss Elliot at home,” were laid on
+which she had provided herself, the “Miss Elliot at [[Home|home]],” were laid on
 
 the table, with a courteous, comprehensive smile to all, and one smile
 
-and one card more decidedly for Captain Wentworth. The truth was, that
+and one card more decidedly for [[Captain Wentworth]]. The [[Truth|truth]] was, that
 
 Elizabeth had been long enough in Bath to understand the importance of
 
 a man of such an air and appearance as his. The past was nothing. The
 
-present was that Captain Wentworth would move about well in her
+present was that [[Captain Wentworth]] would move about [[Well|well]] in her
 
 drawing-room. The card was pointedly given, and Sir Walter and
 

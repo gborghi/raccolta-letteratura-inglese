@@ -64,7 +64,7 @@ appreciating the presence--or the absence--of a particular and positive
 
 pleasure. He had no learning; he was not misled by the label on the
 
-bottle--for that is what learning largely meant in his time. He opened
+bottle--for that is what learning largely meant in his [[Time|time]]. He opened
 
 his mouth and shut his eyes and saw what the Age of Reason would give
 
@@ -84,7 +84,7 @@ not see that Dickens was primarily the most successful of all the
 
 onslaughts on the solid scientific school; because he did not attack
 
-from the standpoint of extraordinary faith, like Newman; or the
+from the standpoint of extraordinary [[Faith|faith]], like Newman; or the
 
 standpoint of extraordinary inspiration, like Carlyle; or the standpoint
 
@@ -98,7 +98,7 @@ educational schemes which he could see spread like a clear railway map
 
 all over the Continent, was much badgered about what he really thought
 
-was _wrong_ with English middle-class education. Despairing of
+was _wrong_ with English middle-class [[Education|education]]. Despairing of
 
 explaining to the English middle class the idea of high and central
 
@@ -120,7 +120,7 @@ sense, Dickens, the great romanticist, is truly the great realist also.
 
 For he had no abstractions: he had nothing except realities out of which
 
-to make a romance.
+to make a [[Romance|romance]].
 
 
 
@@ -156,11 +156,11 @@ exaggerations of his enemies or exaggerations of himself. Dickens was
 
 personal in a more godlike sense; he could multiply persons. He could
 
-create all the farce and tragedy of his age over again, with creatures
+create all the farce and [[Tragedy|tragedy]] of his age over again, with creatures
 
-unborn to sin and creatures unborn to suffer. That which had not been
+[[unborn]] to sin and creatures [[unborn]] to suffer. That which had not been
 
-achieved by the fierce facts of Cobbett, the burning dreams of Carlyle,
+achieved by the fierce facts of Cobbett, the burning [[Dreams|dreams]] of Carlyle,
 
 the white-hot proofs of Newman, was really or very nearly achieved by a
 

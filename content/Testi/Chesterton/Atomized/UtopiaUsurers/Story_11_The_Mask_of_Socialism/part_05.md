@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 5)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -16,23 +16,23 @@ tags:
 
 in the Middle Ages than they are now; but we will pass all that and
 
-consider recent history. The franchise has never been largely and
+consider recent [[history]]. The franchise has never been largely and
 
 liberally granted in England; half the males have no vote and are not
 
 likely to get one. It was _never_ granted in reply to pressure from
 
-awakened sections of the democracy; in every case there was a perfectly
+awakened sections of the [[Democracy|democracy]]; in every case there was a perfectly
 
 clear motive for granting it solely for the convenience of the
 
-aristocrats. The Great Reform Bill was not passed in response to such
+aristocrats. The Great [[Reform]] Bill was not passed in response to such
 
-riots as that which destroyed a Castle; nor did the men who destroyed
+riots as that which destroyed a [[Castle]]; nor did the men who destroyed
 
-the Castle get any advantage whatever out of the Great Reform Bill. The
+the [[Castle]] get any advantage whatever out of the Great [[Reform]] Bill. The
 
-Great Reform Bill was passed in order to seal an alliance between the
+Great [[Reform]] Bill was passed in order to seal an alliance between the
 
 landed aristocrats and the rich manufacturers of the north (an alliance
 
@@ -40,7 +40,7 @@ that rules us still); and the chief object of that alliance was to
 
 _prevent_ the English populace getting any political power in the
 
-general excitement after the French Revolution. No one can read
+general excitement after the [[French Revolution]]. No one can read
 
 Macaulay's speech on the Chartists, for instance, and not see that this
 
@@ -64,7 +64,7 @@ real thing that was going on was the steady despoiling of the poor
 
 of all power or wealth, until they find themselves to-day upon the
 
-threshold of slavery. That is The Working Man's History of England.
+threshold of [[Slavery|slavery]]. That is The Working Man's [[history|History]] of England.
 
 
 
@@ -90,7 +90,7 @@ by the coarse and Christless cynicism of other men. But, of course,
 
 this way of talking is exactly in accordance with the fashionable
 
-and official version of English history. Thus, you will read that the
+and official version of English [[history]]. Thus, you will read that the
 
 monasteries, places where men of the poorest origin could be powerful,
 
@@ -98,13 +98,13 @@ grew corrupt and gradually decayed. Or you will read that the mediaeval
 
 guilds of free workmen yielded at last to an inevitable economic law.
 
-You will read this; and you will be reading lies. They might as well say
+You will read this; and you will be reading lies. They might as [[Well|well]] say
 
-that Julius Caesar gradually decayed at the foot of Pompey's statue. You
+that [[Julius Caesar]] gradually decayed at the foot of [[Pompey]]'s statue. You
 
-might as well say that Abraham Lincoln yielded at last to an inevitable
+might as [[Well|well]] say that [[Abraham Lincoln]] yielded at last to an inevitable
 
-economic law. The free mediaeval guilds did not decay; they were
+economic law. The free mediaeval guilds did not [[Decay|decay]]; they were
 
 murdered. Solid men with solid guns and halberds, armed with lawful
 
@@ -156,7 +156,7 @@ reasonable. But if we were to say that it could by any possibility be
 
 represented as being the negro's fault that he was at that moment
 
-in America and not in Africa, we should be saying what is frankly
+in [[america|America]] and not in Africa, we should be saying what is frankly
 
 unreasonable. It is every bit as unreasonable to say the mere supineness
 
@@ -164,7 +164,7 @@ of the English workmen has put them in the capitalist slave-yard. The
 
 capitalist has put them in the capitalist slaveyard; and very cunning
 
-smiths have hammered the chains. It is just this creative criminality in
+smiths have hammered the [[Chains|chains]]. It is just this creative criminality in
 
 the authors of the system that we must not allow to be slurred over. The
 
@@ -180,21 +180,21 @@ him, he shall not get out of it.
 
 
 
-THE FRENCH REVOLUTION AND THE IRISH
+THE [[French Revolution|FRENCH REVOLUTION]] AND THE IRISH
 
 
 
-It will be long before the poison of the Party System is worked out
+It will be long before the [[Poison|poison]] of the Party System is worked out
 
-of the body politic. Some of its most indirect effects are the most
+of the [[Body|body]] politic. Some of its most indirect effects are the most
 
 dangerous. One that is very dangerous just now is this: that for most
 
-Englishmen the Party System falsifies history, and especially the
+Englishmen the Party System falsifies [[history]], and especially the
 
-history of revolutions. It falsifies history because it simplifies
+[[history]] of revolutions. It falsifies [[history]] because it simplifies
 
-history. It paints everything either Blue or Buff in the style of its
+[[history]]. It paints everything either Blue or Buff in the style of its
 
 own silly circus politics: while a real revolution has as many colours
 
@@ -204,4 +204,4 @@ this error we shall make very bad blunders about the real revolution
 
 which seems to grow more and more probable, especially among the Irish.
 
-And any human familiarity with history will teach a man this first of
+And any human familiarity with [[history]] will teach a man this first of

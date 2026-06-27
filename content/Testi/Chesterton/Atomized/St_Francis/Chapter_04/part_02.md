@@ -16,7 +16,7 @@ tags:
 
 Meanwhile the narrative naturally reverts to the problem of the
 ruined or at least neglected church, which had been the starting
-point of the saint's innocent crime and beatific punishment.
+point of the saint's [[Innocent|innocent]] crime and beatific punishment.
 That problem still predominated in his mind and was soon engaging
 his insatiable activities; but they were activities of a new sort;
 and he made no more attempts to interfere with commercial ethics
@@ -30,7 +30,7 @@ The way to build a church is to build it.
 
 He went about by himself collecting stones.  He begged all the people
 he met to give him stones.  In fact he became a new sort of beggar,
-reversing the parable; a beggar who asks not for bread but stone.
+reversing the [[Parable|parable]]; a beggar who asks not for bread but stone.
 Probably, as happened to him again and again throughout his
 extraordinary existence, the very queerness of the request gave it
 a sort of popularity; and all sorts of idle and luxurious people fell
@@ -42,13 +42,13 @@ told about Francis at this as at every other period of his life;
 but for the purpose here, which is one of simplification,
 it is best to dwell on this definite re-entrance of the saint
 into the world by the low gate of physical labour.  There does
-indeed run through the whole of his life a sort of double meaning,
-like his shadow thrown upon the wall.  All his actions had
-something of the character of an allegory; and it is likely enough
+indeed run through the whole of his life a sort of [[Double|double]] meaning,
+like his [[Shadow|shadow]] thrown upon the wall.  All his actions had
+something of the character of an [[Allegory|allegory]]; and it is likely enough
 that some leaden-witted scientific historian may some day try
-to prove that he himself was never anything but an allegory.
-It is true enough in this sense that he was labouring at a double task,
-and rebuilding something else as well as the church of St. Damien.
+to prove that he himself was never anything but an [[Allegory|allegory]].
+It is true enough in this sense that he was labouring at a [[Double|double]] task,
+and rebuilding something else as [[Well|well]] as the church of St. Damien.
 He was not only discovering the general lesson that his glory
 was not to be in overthrowing men in battle but in building up
 the positive and creative monuments of peace.  He was truly building
@@ -68,11 +68,11 @@ biographers to note the numerical symbolism of the three churches.
 There was at any rate a more historical and practical symbolism
 about two of them.  For the original church of St. Damian afterwards
 became the seat of his striking experiment of a female order,
-and of the pure and spiritual romance of St. Clare.  And the church
+and of the pure and spiritual [[Romance|romance]] of St. Clare.  And the church
 of the Portiuncula will remain forever as one of the great historic
 buildings of the world; for it was here that he gathered the little
-knot of friends and enthusiasts; it was the home of many homeless men.
-At this time, however, it is not clear that he had the definite
+knot of friends and enthusiasts; it was the [[Home|home]] of many homeless men.
+At this [[Time|time]], however, it is not clear that he had the definite
 idea of any such monastic developments.  How early the plan
 appeared in his own mind it is of course impossible to say;
 but on the face of events it first takes the form of a few friends
@@ -80,19 +80,19 @@ who attached themselves to him one by one because they shared his
 own passion for simplicity.  The account given of the form of their
 dedication is, however, significant; for it was that of an invocation
 of the simplification of life as suggested in the New Testament.
-The adoration of Christ had been a part of the man's passionate
-nature for a long time past.  But the imitation of Christ, as a sort
+The adoration of [[Christ]] had been a part of the man's passionate
+[[Nature|nature]] for a long [[Time|time]] past.  But the [[Imitation|imitation]] of [[Christ]], as a sort
 of plan or ordered scheme of life, may in that sense may be said
 to begin here.
 
 The two men who have the credit, apparently, of having
 first perceived something of what was happening in the world
-of the soul were a solid and wealthy citizen named Bernard of
+of the [[Soul|soul]] were a solid and wealthy citizen named Bernard of
 Quintaville and a canon from a neighbouring church named Peter.
 It is the more to their credit because Francis, if one may put it so,
-was by this time wallowing in poverty and association with lepers
+was by this [[Time|time]] wallowing in [[Poverty|poverty]] and association with lepers
 and ragged mendicants; and the two were men with much to give up;
-the one of comforts in the world and the other of ambition
+the one of comforts in the world and the other of [[Ambition|ambition]]
 in the church.  Bernard the rich burgher did quite literally
 and finally sell all he had and give it to the poor.  Peter did
 even more; for he descended from a chair of spiritual authority,
@@ -112,18 +112,18 @@ for he had no possessions.
 These three strange figures are said to have built themselves
 a sort of hut or den adjoining the leper hospital.  There they
 talked to each other, in the intervals of drudgery and danger
-(for it needed ten times more courage to look after a leper than
-to fight for the crown of Sicily), in the terms of their new life,
+(for it needed ten times more [[Courage|courage]] to look after a leper than
+to fight for the [[Crown|crown]] of Sicily), in the terms of their new life,
 almost like children talking a secret language.  Of these individual
-elements on their first friendship we can say little with certainty;
+elements on their first [[Friendship|friendship]] we can say little with certainty;
 but it is certain that they remained friends to the end.
 Bernard of Quintaville occupies in the story something of the position
-of Sir Bedivere, "first made and latest left of Arthur's knights,"
+of Sir Bedivere, "first made and latest left of [[arthur|Arthur]]'s knights,"
 for he reappears at the right hand side of the saint on
 his deathbed and receives some sort of special blessing.
 But all these things belong to another historical world and were quite
 remote from the ragged and fantastic trio in their tumble-down hut.
-They were not monks except perhaps in the most literal and archaic
+They were not [[Monks|monks]] except perhaps in the most literal and archaic
 sense which was identical with hermits.  They were, so to speak,
 three solitaries living together socially, but not as a society.
 The whole thing seems to have been intensely individual, as seen

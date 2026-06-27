@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE WAGER OF SQUIRE VANE"
+title: "trees of [[Pride|pride]] — THE WAGER OF SQUIRE VANE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/trees-of-pride-(Chesterton)"

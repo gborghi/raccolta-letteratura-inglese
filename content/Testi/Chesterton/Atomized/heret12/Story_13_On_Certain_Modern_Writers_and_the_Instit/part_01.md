@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Certain Modern Writers and the Institution of the Family (part 1)"
+title: "[[heret12]] — On Certain Modern Writers and the Institution of the Family (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/heret12-(Chesterton)"
@@ -23,10 +23,10 @@ that it has been the main cell and central unit of almost
 all societies hitherto, except, indeed, such societies
 as that of Lacedaemon, which went in for "efficiency,"
 and has, therefore, perished, and left not a trace behind.
-Christianity, even enormous as was its revolution, did not alter
+[[Christianity]], even enormous as was its revolution, did not alter
 this ancient and savage sanctity; it merely reversed it.
-It did not deny the trinity of father, mother, and child.
-It merely read it backwards, making it run child, mother, father.
+It did not deny the trinity of father, mother, and [[Child|child]].
+It merely read it backwards, making it run [[Child|child]], mother, father.
 This it called, not the family, but the Holy Family,
 for many things are made holy by being turned upside down.
 But some sages of our own decadence have made a serious attack
@@ -41,7 +41,7 @@ and not pleasant and not at one.
 It is not fashionable to say much nowadays of the advantages of
 the small community.  We are told that we must go in for large empires
 and large ideas.  There is one advantage, however, in the small state,
-the city, or the village, which only the wilfully blind can overlook.
+the [[City|city]], or the village, which only the wilfully blind can overlook.
 The man who lives in a small community lives in a much larger world.
 He knows much more of the fierce varieties and uncompromising divergences
 of men.  The reason is obvious.  In a large community we can choose
@@ -54,7 +54,7 @@ narrow is the clique.  The men of the clan live together because they
 all wear the same tartan or are all descended from the same sacred cow;
 but in their souls, by the divine luck of things, there will always
 be more colours than in any tartan.  But the men of the clique live
-together because they have the same kind of soul, and their narrowness
+together because they have the same kind of [[Soul|soul]], and their narrowness
 is a narrowness of spiritual coherence and contentment, like that
 which exists in hell.  A big society exists in order to form cliques.
 A big society is a society for the promotion of narrowness.
@@ -64,8 +64,8 @@ It is, in the most literal sense of the words, a society for the prevention
 of Christian knowledge.
 
 We can see this change, for instance, in the modern transformation
-of the thing called a club.  When London was smaller, and the parts
-of London more self-contained and parochial, the club was what it
+of the thing called a club.  When [[London]] was smaller, and the parts
+of [[London]] more [[Self|self]]-contained and parochial, the club was what it
 still is in villages, the opposite of what it is now in great cities.
 Then the club was valued as a place where a man could be sociable.
 Now the club is valued as a place where a man can be unsociable.
@@ -77,8 +77,8 @@ Its aim is to make a man comfortable, and to make a man comfortable
 is to make him the opposite of sociable.  Sociability, like all
 good things, is full of discomforts, dangers, and renunciations.
 The club tends to produce the most degraded of all combinations--
-the luxurious anchorite, the man who combines the self-indulgence
-of Lucullus with the insane loneliness of St. Simeon Stylites.
+the luxurious anchorite, the man who combines the [[Self|self]]-indulgence
+of [[Lucullus]] with the insane [[Loneliness|loneliness]] of St. Simeon Stylites.
 
 If we were to-morrow morning snowed up in the street in which we live,
 we should step suddenly into a much larger and much wilder world
@@ -93,10 +93,10 @@ and of this flight he is always ready with his own explanation.
 He says he is fleeing from his street because it is dull; he is lying.
 He is really fleeing from his street because it is a great deal too exciting.
 It is exciting because it is exacting; it is exacting because it is alive.
-He can visit Venice because to him the Venetians are only Venetians;
+He can visit [[Venice]] because to him the Venetians are only Venetians;
 the people in his own street are men.  He can stare at the Chinese
 because for him the Chinese are a passive thing to be stared at;
-if he stares at the old lady in the next garden, she becomes active.  He is
+if he stares at the old lady in the next [[Garden|garden]], she becomes active.  He is
 forced to flee, in short, from the too stimulating society of his equals--
 of free men, perverse, personal, deliberately different from himself.
 The street in Brixton is too glowing and overpowering.  He has to soothe
@@ -117,9 +117,9 @@ If our neighbours did not mind their own business they would be asked
 abruptly for their rent, and would rapidly cease to be our neighbours.
 What we really mean when we say that they cannot mind their own business
 is something much deeper.  We do not dislike them because they have
-so little force and fire that they cannot be interested in themselves.
-We dislike them because they have so much force and fire that they can be
-interested in us as well.  What we dread about our neighbours, in short, is
+so little force and [[Fire|fire]] that they cannot be interested in themselves.
+We dislike them because they have so much force and [[Fire|fire]] that they can be
+interested in us as [[Well|well]].  What we dread about our neighbours, in short, is
 not the narrowness of their horizon, but their superb tendency to broaden it.
 And all aversions to ordinary humanity have this general character.  They are
 not aversions to its feebleness (as is pretended), but to its energy.

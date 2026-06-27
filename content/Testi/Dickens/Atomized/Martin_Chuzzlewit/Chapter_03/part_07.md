@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 3 (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 3 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,7 +19,7 @@ bed, in all the dignity of Goodness, and addressed him thus, the old man
 cast an angry glance towards the candlestick, as if he were possessed
 by a strong inclination to launch it at his cousin’s head. But he
 constrained himself, and pointing with his finger to the door, informed
-him that his road lay there.
+him that his [[Road|road]] lay there.
 
 ‘Thank you,’ said Mr Pecksniff; ‘I am aware of that. I am going.
 But before I go, I crave your leave to speak, and more than that, Mr
@@ -30,7 +30,7 @@ me before. I will not say,’ continued Mr Pecksniff, drawing out his
 pocket-handkerchief, and winking with both eyes at once, as it were,
 against his will, ‘I will not say that you are mistaken in me. While
 you are in your present mood I would not say so for the world. I almost
-wish, indeed, that I had a different nature, that I might repress even
+wish, indeed, that I had a different [[Nature|nature]], that I might repress even
 this slight confession of weakness; which I cannot disguise from you;
 which I feel is humiliating; but which you will have the goodness to
 excuse. We will say, if you please,’ added Mr Pecksniff, with great
@@ -50,41 +50,41 @@ indefensible, monstrous. And I tell you, sir,’ said Mr Pecksniff,
 towering on tiptoe among the curtains, as if he were literally rising
 above all worldly considerations, and were fain to hold on tight, to
 keep himself from darting skyward like a rocket, ‘I tell you without
-fear or favour, that it will not do for you to be unmindful of your
+[[Fear|fear]] or favour, that it will not do for you to be unmindful of your
 grandson, young Martin, who has the strongest natural claim upon you.
 It will not do, sir,’ repeated Mr Pecksniff, shaking his head. ‘You may
 think it will do, but it won’t. You must provide for that young man;
 you shall provide for him; you WILL provide for him. I believe,’ said Mr
 Pecksniff, glancing at the pen-and-ink, ‘that in secret you have already
 done so. Bless you for doing so. Bless you for doing right, sir. Bless
-you for hating me. And good night!’
+you for hating me. And good [[Night|night]]!’
 
 So saying, Mr Pecksniff waved his right hand with much solemnity, and
 once more inserting it in his waistcoat, departed. There was emotion in
 his manner, but his step was firm. Subject to human weaknesses, he was
-upheld by conscience.
+upheld by [[Conscience|conscience]].
 
-Martin lay for some time, with an expression on his face of silent
-wonder, not unmixed with rage; at length he muttered in a whisper:
+Martin lay for some [[Time|time]], with an expression on his face of silent
+[[Wonder|wonder]], not unmixed with rage; at length he muttered in a whisper:
 
 ‘What does this mean? Can the false-hearted boy have chosen such a
 tool as yonder fellow who has just gone out? Why not! He has conspired
-against me, like the rest, and they are but birds of one feather. A new
-plot; a new plot! Oh self, self, self! At every turn nothing but self!’
+against me, like the rest, and they are but [[Birds|birds]] of one feather. A new
+plot; a new plot! Oh [[Self|self]], [[Self|self]], [[Self|self]]! At every turn nothing but [[Self|self]]!’
 
 He fell to trifling, as he ceased to speak, with the ashes of the burnt
 paper in the candlestick. He did so, at first, in pure abstraction, but
 they presently became the subject of his thoughts.
 
 ‘Another will made and destroyed,’ he said, ‘nothing determined on,
-nothing done, and I might have died to-night! I plainly see to what foul
+nothing done, and I might have died to-[[Night|night]]! I plainly see to what foul
 uses all this money will be put at last,’ he cried, almost writhing in
 the bed; ‘after filling me with cares and miseries all my life, it will
 perpetuate discord and bad passions when I am dead. So it always is.
 What lawsuits grow out of the graves of rich men, every day; sowing
 perjury, hatred, and lies among near kindred, where there should be
-nothing but love! Heaven help us, we have much to answer for! Oh self,
-self, self! Every man for himself, and no creature for me!’
+nothing but [[Love|love]]! Heaven help us, we have much to answer for! Oh [[Self|self]],
+[[Self|self]], [[Self|self]]! Every man for himself, and no creature for me!’
 
-Universal self! Was there nothing of its shadow in these reflections,
-and in the history of Martin Chuzzlewit, on his own showing?
+Universal [[Self|self]]! Was there nothing of its [[Shadow|shadow]] in these reflections,
+and in the [[history]] of [[Martin Chuzzlewit]], on his own showing?

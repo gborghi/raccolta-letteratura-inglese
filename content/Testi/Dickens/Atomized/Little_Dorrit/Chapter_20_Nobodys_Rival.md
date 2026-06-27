@@ -17,17 +17,17 @@ tags:
 CHAPTER 17. Nobody’s Rival
 
 
-Before breakfast in the morning, Arthur walked out to look about him.
+Before breakfast in the morning, [[arthur|Arthur]] walked out to look about him.
 As the morning was fine and he had an hour on his hands, he crossed the
-river by the ferry, and strolled along a footpath through some meadows.
+[[River|river]] by the ferry, and strolled along a footpath through some meadows.
 When he came back to the towing-path, he found the ferry-boat on the
 opposite side, and a gentleman hailing it and waiting to be taken over.
 
-This gentleman looked barely thirty. He was well dressed, of a sprightly
-and gay appearance, a well-knit figure, and a rich dark complexion. As
-Arthur came over the stile and down to the water’s edge, the lounger
+This gentleman looked barely thirty. He was [[Well|well]] dressed, of a sprightly
+and gay appearance, a [[Well|well]]-knit figure, and a rich dark complexion. As
+[[arthur|Arthur]] came over the stile and down to the [[Water|water]]’s edge, the lounger
 glanced at him for a moment, and then resumed his occupation of idly
-tossing stones into the water with his foot. There was something in his
+tossing stones into the [[Water|water]] with his foot. There was something in his
 way of spurning them out of their places with his heel, and getting them
 into the required position, that Clennam thought had an air of cruelty
 in it. Most of us have more or less frequently derived a similar
@@ -37,8 +37,8 @@ object.
 
 The gentleman’s thoughts were preoccupied, as his face showed, and he
 took no notice of a fine Newfoundland dog, who watched him attentively,
-and watched every stone too, in its turn, eager to spring into the
-river on receiving his master’s sign. The ferry-boat came over, however,
+and watched every stone too, in its turn, eager to [[Spring|spring]] into the
+[[River|river]] on receiving his master’s sign. The ferry-boat came over, however,
 without his receiving any sign, and when it grounded his master took him
 by the collar and walked him into it.
 
@@ -51,34 +51,34 @@ in his pockets, and towered between Clennam and the prospect. Man and
 dog both jumped lightly out as soon as they touched the other side, and
 went away. Clennam was glad to be rid of them.
 
-The church clock struck the breakfast hour as he walked up the little
-lane by which the garden-gate was approached. The moment he pulled the
+The church [[Clock|clock]] struck the breakfast hour as he walked up the little
+lane by which the [[Garden|garden]]-gate was approached. The moment he pulled the
 bell a deep loud barking assailed him from within the wall.
 
-‘I heard no dog last night,’ thought Clennam. The gate was opened by
+‘I heard no dog last [[Night|night]],’ thought Clennam. The gate was opened by
 one of the rosy maids, and on the lawn were the Newfoundland dog and the
 man.
 
 ‘Miss Minnie is not down yet, gentlemen,’ said the blushing portress, as
-they all came together in the garden. Then she said to the master of the
+they all came together in the [[Garden|garden]]. Then she said to the master of the
 dog, ‘Mr Clennam, sir,’ and tripped away.
 
 ‘Odd enough, Mr Clennam, that we should have met just now,’ said
 the man. Upon which the dog became mute. ‘Allow me to introduce
-myself--Henry Gowan. A pretty place this, and looks wonderfully well
+myself--Henry Gowan. A pretty place this, and looks wonderfully [[Well|well]]
 this morning!’
 
 The manner was easy, and the voice agreeable; but still Clennam thought,
-that if he had not made that decided resolution to avoid falling in love
+that if he had not made that decided resolution to avoid falling in [[Love|love]]
 with Pet, he would have taken a dislike to this Henry Gowan.
 
-‘It’s new to you, I believe?’ said this Gowan, when Arthur had extolled
+‘It’s new to you, I believe?’ said this Gowan, when [[arthur|Arthur]] had extolled
 the place.
 
 ‘Quite new. I made acquaintance with it only yesterday afternoon.’
 
 ‘Ah! Of course this is not its best aspect. It used to look charming in
-the spring, before they went away last time. I should like you to have
+the [[Spring|spring]], before they went away last [[Time|time]]. I should like you to have
 seen it then.’
 
 But for that resolution so often recalled, Clennam might have wished him
@@ -109,7 +109,7 @@ looking on who loved her.
 
 She disengaged herself now, and came to Clennam, and put her hand in his
 and wished him good morning, and gracefully made as if she would take
-his arm and be escorted into the house. To this Gowan had no objection.
+his arm and be escorted into the [[house]]. To this Gowan had no objection.
 No, he knew he was too safe.
 
 There was a passing cloud on Mr Meagles’s good-humoured face when they
@@ -118,38 +118,38 @@ but one of the party) came in to breakfast. Neither it, nor the touch
 of uneasiness on Mrs Meagles as she directed her eyes towards it, was
 unobserved by Clennam.
 
-‘Well, Gowan,’ said Mr Meagles, even suppressing a sigh; ‘how goes the
+‘[[Well]], Gowan,’ said Mr Meagles, even suppressing a sigh; ‘how goes the
 world with you this morning?’
 
-‘Much as usual, sir. Lion and I being determined not to waste anything
+‘Much as usual, sir. [[Lion]] and I being determined not to waste anything
 of our weekly visit, turned out early, and came over from Kingston, my
-present headquarters, where I am making a sketch or two.’ Then he told
+present headquarters, where I am making a [[Sketch|sketch]] or two.’ Then he told
 how he had met Mr Clennam at the ferry, and they had come over together.
 
-‘Mrs Gowan is well, Henry?’ said Mrs Meagles. (Clennam became
+‘Mrs Gowan is [[Well|well]], Henry?’ said Mrs Meagles. (Clennam became
 attentive.)
 
-‘My mother is quite well, thank you.’ (Clennam became inattentive.) ‘I
+‘My mother is quite [[Well|well]], thank you.’ (Clennam became inattentive.) ‘I
 have taken the liberty of making an addition to your family dinner-party
-to-day, which I hope will not be inconvenient to you or to Mr Meagles. I
-couldn’t very well get out of it,’ he explained, turning to the latter.
-‘The young fellow wrote to propose himself to me; and as he is well
+to-day, which I [[Hope|hope]] will not be inconvenient to you or to Mr Meagles. I
+couldn’t very [[Well|well]] get out of it,’ he explained, turning to the latter.
+‘The young fellow wrote to propose himself to me; and as he is [[Well|well]]
 connected, I thought you would not object to my transferring him here.’
 
 ‘Who _is_ the young fellow?’ asked Mr Meagles with peculiar complacency.
 
-‘He is one of the Barnacles. Tite Barnacle’s son, Clarence Barnacle, who
-is in his father’s Department. I can at least guarantee that the river
-shall not suffer from his visit. He won’t set it on fire.’
+‘He is one of the Barnacles. Tite Barnacle’s son, [[Clarence]] Barnacle, who
+is in his father’s Department. I can at least guarantee that the [[River|river]]
+shall not suffer from his visit. He won’t set it on [[Fire|fire]].’
 
 ‘Aye, aye?’ said Meagles. ‘A Barnacle is he? _We_ know something of that
 family, eh, Dan? By George, they are at the top of the tree, though! Let
 me see. What relation will this young fellow be to Lord Decimus now? His
 Lordship married, in seventeen ninety-seven, Lady Jemima Bilberry, who
-was the second daughter by the third marriage--no! There I am wrong!
+was the second daughter by the third [[Marriage|marriage]]--no! There I am wrong!
 That was Lady Seraphina--Lady Jemima was the first daughter by the
-second marriage of the fifteenth Earl of Stiltstalking with the
-Honourable Clementina Toozellem. Very well. Now this young fellow’s
+second [[Marriage|marriage]] of the fifteenth Earl of Stiltstalking with the
+Honourable Clementina Toozellem. Very [[Well|well]]. Now this young fellow’s
 father married a Stiltstalking and _his_ father married his cousin who
 was a Barnacle. The father of that father who married a Barnacle,
 married a Joddleby.--I am getting a little too far back, Gowan; I want
@@ -171,8 +171,8 @@ aunt.’
 ‘Of course she is.’
 
 ‘Aye, aye, aye?’ said Mr Meagles with much interest. ‘Indeed, indeed? We
-shall be glad to see him. We’ll entertain him as well as we can, in our
-humble way; and we shall not starve him, I hope, at all events.’
+shall be glad to see him. We’ll entertain him as [[Well|well]] as we can, in our
+humble way; and we shall not starve him, I [[Hope|hope]], at all events.’
 
 In the beginning of this dialogue, Clennam had expected some great
 harmless outburst from Mr Meagles, like that which had made him burst
@@ -183,7 +183,7 @@ subdue in him. Clennam looked at Doyce; but Doyce knew all about it
 beforehand, and looked at his plate, and made no sign, and said no word.
 
 ‘I am much obliged to you,’ said Gowan, to conclude the subject.
-‘Clarence is a great ass, but he is one of the dearest and best fellows
+‘[[Clarence]] is a great ass, but he is one of the dearest and best fellows
 that ever lived!’
 
 It appeared, before the breakfast was over, that everybody whom this
@@ -206,45 +206,45 @@ disagreeable or dangerous feature.
 It scarcely seemed, however, to afford Mr Meagles as much satisfaction
 as the Barnacle genealogy had done. The cloud that Clennam had never
 seen upon his face before that morning, frequently overcast it again;
-and there was the same shadow of uneasy observation of him on the comely
+and there was the same [[Shadow|shadow]] of uneasy observation of him on the comely
 face of his wife. More than once or twice when Pet caressed the dog,
 it appeared to Clennam that her father was unhappy in seeing her do it;
 and, in one particular instance when Gowan stood on the other side of
-the dog, and bent his head at the same time, Arthur fancied that he saw
-tears rise to Mr Meagles’s eyes as he hurried out of the room. It was
+the dog, and bent his head at the same [[Time|time]], [[arthur|Arthur]] fancied that he saw
+[[Tears|tears]] rise to Mr Meagles’s eyes as he hurried out of the room. It was
 either the fact too, or he fancied further, that Pet herself was not
 insensible to these little incidents; that she tried, with a more
 delicate affection than usual, to express to her good father how much
 she loved him; that it was on this account that she fell behind the
 rest, both as they went to church and as they returned from it, and
-took his arm. He could not have sworn but that as he walked alone in
-the garden afterwards, he had an instantaneous glimpse of her in
+took his arm. He could not have sworn but that as he walked [[Alone|alone]] in
+the [[Garden|garden]] afterwards, he had an instantaneous glimpse of her in
 her father’s room, clinging to both her parents with the greatest
 tenderness, and weeping on her father’s shoulder.
 
 The latter part of the day turning out wet, they were fain to keep the
-house, look over Mr Meagles’s collection, and beguile the time with
+[[house]], look over Mr Meagles’s collection, and beguile the [[Time|time]] with
 conversation. This Gowan had plenty to say for himself, and said it
-in an off-hand and amusing manner. He appeared to be an artist by
-profession, and to have been at Rome some time; yet he had a slight,
+in an off-hand and amusing manner. He appeared to be an [[artist]] by
+profession, and to have been at Rome some [[Time|time]]; yet he had a slight,
 careless, amateur way with him--a perceptible limp, both in his devotion
 to art and his attainments--which Clennam could scarcely understand.
 
-He applied to Daniel Doyce for help, as they stood together, looking out
-of window.
+He applied to [[Daniel Doyce]] for help, as they stood together, looking out
+of [[Window|window]].
 
 ‘You know Mr Gowan?’ he said in a low voice.
 
-‘I have seen him here. Comes here every Sunday when they are at home.’
+‘I have seen him here. Comes here every [[Sunday]] when they are at [[Home|home]].’
 
-‘An artist, I infer from what he says?’
+‘An [[artist]], I infer from what he says?’
 
-‘A sort of a one,’ said Daniel Doyce, in a surly tone.
+‘A sort of a one,’ said [[Daniel Doyce]], in a surly tone.
 
 ‘What sort of a one?’ asked Clennam, with a smile.
 
 ‘Why, he has sauntered into the Arts at a leisurely Pall-Mall pace,’
-said Doyce, ‘and I doubt if they care to be taken quite so coolly.’
+said Doyce, ‘and I [[Doubt|doubt]] if they care to be taken quite so coolly.’
 
 Pursuing his inquiries, Clennam found that the Gowan family were a very
 distant ramification of the Barnacles; and that the paternal Gowan,
@@ -252,10 +252,10 @@ originally attached to a legation abroad, had been pensioned off as a
 Commissioner of nothing particular somewhere or other, and had died at
 his post with his drawn salary in his hand, nobly defending it to the
 last extremity. In consideration of this eminent public service, the
-Barnacle then in power had recommended the Crown to bestow a pension of
+Barnacle then in power had recommended the [[Crown]] to bestow a pension of
 two or three hundred a-year on his widow; to which the next Barnacle in
 power had added certain shady and sedate apartments in the Palaces at
-Hampton Court, where the old lady still lived, deploring the degeneracy
+Hampton [[Court]], where the old lady still lived, deploring the degeneracy
 of the times in company with several other old ladies of both sexes. Her
 son, Mr Henry Gowan, inheriting from his father, the Commissioner, that
 very questionable help in life, a very small independence, had been
@@ -278,24 +278,24 @@ somehow, it had all failed. The prejudiced public had stood out against
 it obstinately. They had determined not to admire Lord Decimus’s
 picture. They had determined to believe that in every service, except
 their own, a man must qualify himself, by striving early and late, and
-by working heart and soul, might and main. So now Mr Gowan, like that
+by working heart and [[Soul|soul]], might and main. So now Mr Gowan, like that
 worn-out old coffin which never was Mahomet’s nor anybody else’s, hung
 midway between two points: jaundiced and jealous as to the one he had
 left: jaundiced and jealous as to the other that he couldn’t reach.
 
 Such was the substance of Clennam’s discoveries concerning him, made
-that rainy Sunday afternoon and afterwards.
+that rainy [[Sunday]] afternoon and afterwards.
 
-About an hour or so after dinner time, Young Barnacle appeared, attended
-by his eye-glass; in honour of whose family connections, Mr Meagles had
+About an hour or so after dinner [[Time|time]], Young Barnacle appeared, attended
+by his eye-glass; in [[Honour|honour]] of whose family connections, Mr Meagles had
 cashiered the pretty parlour-maids for the day, and had placed on duty
 in their stead two dingy men. Young Barnacle was in the last
-degree amazed and disconcerted at sight of Arthur, and had murmured
-involuntarily, ‘Look here! upon my soul, you know!’ before his presence
+degree amazed and disconcerted at sight of [[arthur|Arthur]], and had murmured
+involuntarily, ‘Look here! upon my [[Soul|soul]], you know!’ before his presence
 of mind returned.
 
 Even then, he was obliged to embrace the earliest opportunity of taking
-his friend into a window, and saying, in a nasal way that was a part of
+his friend into a [[Window|window]], and saying, in a nasal way that was a part of
 his general debility:
 
 ‘I want to speak to you, Gowan. I say. Look here. Who is that fellow?’
@@ -318,7 +318,7 @@ fellow.’
 know! Pervaded our Department--without an appointment--and said he
 wanted to know!’
 
-The stare of indignant wonder with which Young Barnacle accompanied
+The stare of indignant [[Wonder|wonder]] with which Young Barnacle accompanied
 this disclosure, would have strained his eyes injuriously but for
 the opportune relief of dinner. Mr Meagles (who had been extremely
 solicitous to know how his uncle and aunt were) begged him to conduct
@@ -328,14 +328,14 @@ hand, Mr Meagles looked as gratified as if his whole family were there.
 All the natural charm of the previous day was gone. The eaters of the
 dinner, like the dinner itself, were lukewarm, insipid, overdone--and
 all owing to this poor little dull Young Barnacle. Conversationless at
-any time, he was now the victim of a weakness special to the occasion,
+any [[Time|time]], he was now the victim of a weakness special to the occasion,
 and solely referable to Clennam. He was under a pressing and continual
 necessity of looking at that gentleman, which occasioned his eye-glass
 to get into his soup, into his wine-glass, into Mrs Meagles’s plate, to
 hang down his back like a bell-rope, and be several times disgracefully
 restored to his bosom by one of the dingy men. Weakened in mind by his
 frequent losses of this instrument, and its determination not to stick
-in his eye, and more and more enfeebled in intellect every time he
+in his eye, and more and more enfeebled in intellect every [[Time|time]] he
 looked at the mysterious Clennam, he applied spoons to his eyes,
 forks, and other foreign matters connected with the furniture of the
 dinner-table. His discovery of these mistakes greatly increased his
@@ -345,8 +345,8 @@ clearly seized with a dread that he was coming, by some artful device,
 round to that point of wanting to know, you know.
 
 It may be questioned, therefore, whether any one but Mr Meagles had much
-enjoyment of the time. Mr Meagles, however, thoroughly enjoyed Young
-Barnacle. As a mere flask of the golden water in the tale became a full
+enjoyment of the [[Time|time]]. Mr Meagles, however, thoroughly enjoyed Young
+Barnacle. As a mere flask of the golden [[Water|water]] in the tale became a full
 fountain when it was poured out, so Mr Meagles seemed to feel that this
 small spice of Barnacle imparted to his table the flavour of the whole
 family-tree. In its presence, his frank, fine, genuine qualities
@@ -355,15 +355,15 @@ something that did not belong to him, he was not himself. What a strange
 peculiarity on the part of Mr Meagles, and where should we find another
 such case!
 
-At last the wet Sunday wore itself out in a wet night; and Young
-Barnacle went home in a cab, feebly smoking; and the objectionable Gowan
+At last the wet [[Sunday]] wore itself out in a wet [[Night|night]]; and Young
+Barnacle went [[Home|home]] in a cab, feebly smoking; and the objectionable Gowan
 went away on foot, accompanied by the objectionable dog. Pet had taken
 the most amiable pains all day to be friendly with Clennam, but Clennam
 had been a little reserved since breakfast--that is to say, would have
 been, if he had loved her.
 
 When he had gone to his own room, and had again thrown himself into the
-chair by the fire, Mr Doyce knocked at the door, candle in hand, to
+chair by the [[Fire|fire]], Mr Doyce knocked at the door, candle in hand, to
 ask him how and at what hour he proposed returning on the morrow? After
 settling this question, he said a word to Mr Doyce about this Gowan--who
 would have run in his head a good deal, if he had been his rival.
@@ -388,14 +388,14 @@ he came this morning?’ said Clennam.
 There was a pause on both sides. Mr Doyce, still looking at the flame of
 his candle, slowly resumed:
 
-‘The truth is, he has twice taken his daughter abroad in the hope of
+‘The [[Truth|truth]] is, he has twice taken his daughter abroad in the [[Hope|hope]] of
 separating her from Mr Gowan. He rather thinks she is disposed to like
 him, and he has painful doubts (I quite agree with him, as I dare say
-you do) of the hopefulness of such a marriage.’
+you do) of the hopefulness of such a [[Marriage|marriage]].’
 
 ‘There--’ Clennam choked, and coughed, and stopped.
 
-‘Yes, you have taken cold,’ said Daniel Doyce. But without looking at
+‘Yes, you have taken cold,’ said [[Daniel Doyce]]. But without looking at
 him.
 
 ‘--There is an engagement between them, of course?’ said Clennam airily.
@@ -406,26 +406,26 @@ our friend has yielded to a weekly visit, but that is the utmost. Minnie
 would not deceive her father and mother. You have travelled with them,
 and I believe you know what a bond there is among them, extending even
 beyond this present life. All that there is between Miss Minnie and Mr
-Gowan, I have no doubt we see.’
+Gowan, I have no [[Doubt|doubt]] we see.’
 
-‘Ah! We see enough!’ cried Arthur.
+‘Ah! We see enough!’ cried [[arthur|Arthur]].
 
-Mr Doyce wished him Good Night in the tone of a man who had heard a
+Mr Doyce wished him Good [[Night]] in the tone of a man who had heard a
 mournful, not to say despairing, exclamation, and who sought to infuse
-some encouragement and hope into the mind of the person by whom it had
+some encouragement and [[Hope|hope]] into the mind of the person by whom it had
 been uttered. Such tone was probably a part of his oddity, as one of
 a crotchety band; for how could he have heard anything of that kind,
 without Clennam’s hearing it too?
 
 The rain fell heavily on the roof, and pattered on the ground, and
 dripped among the evergreens and the leafless branches of the trees. The
-rain fell heavily, drearily. It was a night of tears.
+rain fell heavily, drearily. It was a [[Night|night]] of [[Tears|tears]].
 
-If Clennam had not decided against falling in love with Pet; if he
+If Clennam had not decided against falling in [[Love|love]] with Pet; if he
 had had the weakness to do it; if he had, little by little, persuaded
-himself to set all the earnestness of his nature, all the might of his
-hope, and all the wealth of his matured character, on that cast; if
+himself to set all the earnestness of his [[Nature|nature]], all the might of his
+[[Hope|hope]], and all the wealth of his matured character, on that cast; if
 he had done this and found that all was lost; he would have been,
-that night, unutterably miserable. As it was--
+that [[Night|night]], unutterably miserable. As it was--
 
 As it was, the rain fell heavily, drearily.

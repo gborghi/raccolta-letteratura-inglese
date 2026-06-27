@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,11 +20,11 @@ CHAPTER XII.
 
 
 
-I had, for some time past, dwelt upon the prospect of our being reduced
+I had, for some [[Time|time]] past, dwelt upon the prospect of our being reduced
 
 to this last horrible extremity, and had secretly made up my mind to
 
-suffer death in any shape or under any circumstances rather than resort
+suffer [[Death|death]] in any shape or under any circumstances rather than resort
 
 to such a course. Nor was this resolution in any degree weakened by the
 
@@ -36,7 +36,7 @@ aside; and mentally praying to God for power to dissuade him from the
 
 horrible purpose he entertained, I expostulated with him for a long
 
-time and in the most supplicating manner, begging him in the name of
+[[Time|time]] and in the most supplicating manner, begging him in the name of
 
 everything which he held sacred, and urging him by every species of
 
@@ -48,25 +48,25 @@ idea, and not to mention it to either of the other two.
 
 He heard all I said without attempting to controvert any of my
 
-arguments, and I had begun to hope that he would be prevailed upon to
+arguments, and I had begun to [[Hope|hope]] that he would be prevailed upon to
 
 do as I desired. But when I had ceased speaking, he said that he knew
 
-very well all I had said was true, and that to resort to such a course
+very [[Well|well]] all I had said was true, and that to resort to such a course
 
 was the most horrible alternative which could enter into the mind of
 
-man; but that he had now held out as long as human nature could be
+man; but that he had now held out as long as human [[Nature|nature]] could be
 
 sustained; that it was unnecessary for all to perish, when, by the
 
-death of one, it was possible, and even probable, that the rest might
+[[Death|death]] of one, it was possible, and even probable, that the rest might
 
 be finally preserved; adding that I might save myself the trouble of
 
 trying to turn him from his purpose, his mind having been thoroughly
 
-made up on the subject even before the appearance of the ship, and that
+made up on the subject even before the appearance of the [[Ship|ship]], and that
 
 only her heaving in sight had prevented him from mentioning his
 
@@ -82,7 +82,7 @@ come to our relief; again reiterating every argument I could devise,
 
 and which I thought likely to have influence with one of his rough
 
-nature. He said, in reply, that he had not spoken until the very last
+[[Nature|nature]]. He said, in reply, that he had not spoken until the very last
 
 possible moment; that he could exist no longer without sustenance of
 
@@ -112,9 +112,9 @@ sea. Upon this he immediately seized me by the throat, and drawing a
 
 knife, made several ineffectual efforts to stab me in the stomach; an
 
-atrocity which his excessive debility alone prevented him from
+atrocity which his excessive debility [[Alone|alone]] prevented him from
 
-accomplishing. In the mean time, being roused to a high pitch of anger,
+accomplishing. In the mean [[Time|time]], being roused to a high pitch of anger,
 
 I forced him to the vessel's side, with the full intention of throwing
 
@@ -144,7 +144,7 @@ strength of mind to side with myself in resisting any attempt to
 
 execute so dreadful a purpose; and, with the aid of either one of them,
 
-I had no fear of being able to prevent its accomplishment. Being
+I had no [[Fear|fear]] of being able to prevent its accomplishment. Being
 
 disappointed in this expectation, it became absolutely necessary that I
 
@@ -152,7 +152,7 @@ should attend to my own safety, as a further resistance on my part
 
 might possibly be considered by men in their frightful condition a
 
-sufficient excuse for refusing me fair play in the tragedy that I knew
+sufficient excuse for refusing me fair play in the [[Tragedy|tragedy]] that I knew
 
 would speedily be enacted.
 
@@ -164,7 +164,7 @@ requesting a delay of about one hour, in order that the fog which had
 
 gathered around us might have an opportunity of lifting, when it was
 
-possible that the ship we had seen might be again in sight. After great
+possible that the [[Ship|ship]] we had seen might be again in sight. After great
 
 difficulty I obtained from them a promise to wait thus long; and, as I
 
@@ -180,13 +180,13 @@ It is with extreme reluctance that I dwell upon the appalling scene
 
 which ensued; a scene which, with its minutest details, no after events
 
-have been able to efface in the slightest degree from my memory, and
+have been able to efface in the slightest degree from my [[Memory|memory]], and
 
 whose stern recollection will imbitter every future moment of my
 
 existence. Let me run over this portion of my narrative with as much
 
-haste as the nature of the events to be spoken of will permit. The only
+haste as the [[Nature|nature]] of the events to be spoken of will permit. The only
 
 method we could devise for the terrific lottery, in which we were to
 

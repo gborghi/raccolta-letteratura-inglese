@@ -28,16 +28,16 @@ the evidence you mean to give?’ he asked, when he had finished reading.
 can’t say more than that for ’em.’
 
 ‘I’ll take this man myself, sir,’ said Mr Inspector to Lightwood. Then
-to Riderhood, ‘Is he at home? Where is he? What’s he doing? You have
-made it your business to know all about him, no doubt.’
+to Riderhood, ‘Is he at [[Home|home]]? Where is he? What’s he doing? You have
+made it your business to know all about him, no [[Doubt|doubt]].’
 
 Riderhood said what he did know, and promised to find out in a few
 minutes what he didn’t know.
 
 ‘Stop,’ said Mr Inspector; ‘not till I tell you: We mustn’t look like
 business. Would you two gentlemen object to making a pretence of taking
-a glass of something in my company at the Fellowships? Well-conducted
-house, and highly respectable landlady.’
+a glass of something in my company at the Fellowships? [[Well]]-conducted
+[[house]], and highly respectable landlady.’
 
 They replied that they would be happy to substitute a reality for the
 pretence, which, in the main, appeared to be as one with Mr Inspector’s
@@ -46,8 +46,8 @@ meaning.
 ‘Very good,’ said he, taking his hat from its peg, and putting a pair of
 handcuffs in his pocket as if they were his gloves. ‘Reserve!’ Reserve
 saluted. ‘You know where to find me?’ Reserve again saluted. ‘Riderhood,
-when you have found out concerning his coming home, come round to the
-window of Cosy, tap twice at it, and wait for me. Now, gentlemen.’
+when you have found out concerning his coming [[Home|home]], come round to the
+[[Window|window]] of Cosy, tap twice at it, and wait for me. Now, gentlemen.’
 
 As the three went out together, and Riderhood slouched off from under
 the trembling lamp his separate way, Lightwood asked the officer what he
@@ -62,7 +62,7 @@ characters, would have been jointly and pretty equally ‘in it;’ but that
 this man had ‘spotted’ the other, to save himself and get the money.
 
 ‘And I think,’ added Mr Inspector, in conclusion, ‘that if all goes
-well with him, he’s in a tolerable way of getting it. But as this is the
+[[Well|well]] with him, he’s in a tolerable way of getting it. But as this is the
 Fellowships, gentlemen, where the lights are, I recommend dropping
 the subject. You can’t do better than be interested in some lime works
 anywhere down about Northfleet, and doubtful whether some of your lime
@@ -72,4 +72,4 @@ don’t get into bad company as it comes up in barges.’
 interested in lime.’
 
 ‘Without lime,’ returned that unmoved barrister-at-law, ‘my existence
-would be unilluminated by a ray of hope.’
+would be unilluminated by a ray of [[Hope|hope]].’

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 39 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,15 +26,15 @@ muffins.
 
 ‘In where, miss?’
 
-‘In here--in the house!’ replied Miss Squeers. ‘My pa--Mr. Wackford
-Squeers--he’s stopping here. Is he at home?’
+‘In here--in the [[house]]!’ replied Miss Squeers. ‘My pa--Mr. Wackford
+Squeers--he’s stopping here. Is he at [[Home|home]]?’
 
-‘I didn’t know there was any gen’l’man of that name in the house, miss’
+‘I didn’t know there was any gen’l’man of that name in the [[house]], miss’
 replied the waiter. ‘There may be, in the coffee-room.’
 
 MAY BE. Very pretty this, indeed! Here was Miss Squeers, who had been
-depending, all the way to London, upon showing her friends how much
-at home she would be, and how much respectful notice her name and
+depending, all the way to [[London]], upon showing her friends how much
+at [[Home|home]] she would be, and how much respectful notice her name and
 connections would excite, told that her father MIGHT be there! ‘As if he
 was a feller!’ observed Miss Squeers, with emphatic indignation.
 
@@ -42,12 +42,12 @@ was a feller!’ observed Miss Squeers, with emphatic indignation.
 pigeon-pie, will ‘ee? Dang the chap,’ muttered John, looking into the
 empty dish as the waiter retired; ‘does he ca’ this a pie--three yoong
 pigeons and a troifling matther o’ steak, and a crust so loight that you
-doant know when it’s in your mooth and when it’s gane? I wonder hoo many
+doant know when it’s in your mooth and when it’s gane? I [[Wonder|wonder]] hoo many
 pies goes to a breakfast!’
 
 After a short interval, which John Browdie employed upon the ham and
 a cold round of beef, the waiter returned with another pie, and the
-information that Mr. Squeers was not stopping in the house, but that he
+information that Mr. Squeers was not stopping in the [[house]], but that he
 came there every day and that directly he arrived, he should be shown
 upstairs. With this, he retired; and he had not retired two minutes,
 when he returned with Mr. Squeers and his hopeful son.
@@ -74,11 +74,11 @@ moralising way, ‘before you’re aware of it; mine did upon me.’
 Wackford tuck into something fat, I’ll be obliged to you. Give it him in
 his fingers, else the waiter charges it on, and there’s lot of profit on
 this sort of vittles without that. If you hear the waiter coming, sir,
-shove it in your pocket and look out of the window, d’ye hear?’
+shove it in your pocket and look out of the [[Window|window]], d’ye hear?’
 
 ‘I’m awake, father,’ replied the dutiful Wackford.
 
-‘Well,’ said Squeers, turning to his daughter, ‘it’s your turn to be
+‘[[Well]],’ said Squeers, turning to his daughter, ‘it’s your turn to be
 married next. You must make haste.’
 
 ‘Oh, I’m in no hurry,’ said Miss Squeers, very sharply.
@@ -111,7 +111,7 @@ Browdie did it for her, and added, ‘Nickleby?’
 
 ‘No,’ said Squeers. ‘But next door to him though.’
 
-‘You can’t mean Smike?’ cried Miss Squeers, clapping her hands.
+‘You can’t mean [[Smike]]?’ cried Miss Squeers, clapping her hands.
 
 ‘Yes, I can though,’ rejoined her father. ‘I’ve got him, hard and fast.’
 
@@ -140,12 +140,12 @@ hands. ‘It was pretty neatly done, and pretty quick too.’
 aboot it, mun; coom, quick!’
 
 Although he could not keep pace with John Browdie’s impatience, Mr
-Squeers related the lucky chance by which Smike had fallen into his
+Squeers related the lucky chance by which [[Smike]] had fallen into his
 hands, as quickly as he could, and, except when he was interrupted by
 the admiring remarks of his auditors, paused not in the recital until he
 had brought it to an end.
 
-‘For fear he should give me the slip, by any chance,’ observed Squeers,
+‘For [[Fear|fear]] he should give me the slip, by any chance,’ observed Squeers,
 when he had finished, looking very cunning, ‘I’ve taken three outsides
 for tomorrow morning--for Wackford and him and me--and have arranged to
 leave the accounts and the new boys to the agent, don’t you see? So it’s

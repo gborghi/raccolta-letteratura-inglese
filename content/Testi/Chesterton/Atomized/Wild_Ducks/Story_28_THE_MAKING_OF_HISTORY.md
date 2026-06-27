@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — THE MAKING OF HISTORY"
+title: "Wild Ducks — THE MAKING OF [[history|HISTORY]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE MAKING OF HISTORY
+THE MAKING OF [[history|HISTORY]]

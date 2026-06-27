@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 12 (part 3)"
+title: "[[Persuasion]] — Chapter 12 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -22,7 +22,7 @@ tags:
 
 
 
-“Not till the first week of August, when he came home from the Cape,
+“Not till the first week of August, when he came [[Home|home]] from the Cape,
 
 just made into the Grappler. I was at Plymouth dreading to hear of him;
 
@@ -32,13 +32,13 @@ There the news must follow him, but who was to tell it? not I. I would
 
 as soon have been run up to the yard-arm. Nobody could do it, but that
 
-good fellow” (pointing to Captain Wentworth). “The Laconia had come
+good fellow” (pointing to [[Captain Wentworth]]). “The Laconia had come
 
 into Plymouth the week before; no danger of her being sent to sea
 
 again. He stood his chance for the rest; wrote up for leave of absence,
 
-but without waiting the return, travelled night and day till he got to
+but without waiting the return, travelled [[Night|night]] and day till he got to
 
 Portsmouth, rowed off to the Grappler that instant, and never left the
 
@@ -62,13 +62,13 @@ spoke again, it was of something totally different.
 
 Mrs Harville’s giving it as her opinion that her husband would have
 
-quite walking enough by the time he reached home, determined the
+quite walking enough by the [[Time|time]] he reached [[Home|home]], determined the
 
 direction of all the party in what was to be their last walk; they
 
 would accompany them to their door, and then return and set off
 
-themselves. By all their calculations there was just time for this; but
+themselves. By all their calculations there was just [[Time|time]] for this; but
 
 as they drew near the Cobb, there was such a general wish to walk along
 
@@ -82,13 +82,13 @@ interchange of invitations and promises which may be imagined, they
 
 parted from Captain and Mrs Harville at their own door, and still
 
-accompanied by Captain Benwick, who seemed to cling to them to the
+accompanied by [[Captain Benwick]], who seemed to cling to them to the
 
 last, proceeded to make the proper adieus to the Cobb.
 
 
 
-Anne found Captain Benwick again drawing near her. Lord Byron’s “dark
+Anne found [[Captain Benwick]] again drawing near her. Lord Byron’s “dark
 
 blue seas” could not fail of being brought forward by their present
 
@@ -98,13 +98,13 @@ was possible. It was soon drawn, perforce another way.
 
 
 
-There was too much wind to make the high part of the new Cobb pleasant
+There was too much [[Wind|wind]] to make the high part of the new Cobb pleasant
 
 for the ladies, and they agreed to get down the steps to the lower, and
 
 all were contented to pass quietly and carefully down the steep flight,
 
-excepting Louisa; she must be jumped down them by Captain Wentworth. In
+excepting Louisa; she must be jumped down them by [[Captain Wentworth]]. In
 
 all their walks, he had had to jump her from the stiles; the sensation
 
@@ -122,19 +122,19 @@ am determined I will:” he put out his hands; she was too precipitate by
 
 half a second, she fell on the pavement on the Lower Cobb, and was
 
-taken up lifeless! There was no wound, no blood, no visible bruise; but
+taken up lifeless! There was no wound, no [[Blood|blood]], no visible bruise; but
 
-her eyes were closed, she breathed not, her face was like death. The
+her eyes were closed, she breathed not, her face was like [[Death|death]]. The
 
 horror of the moment to all who stood around!
 
 
 
-Captain Wentworth, who had caught her up, knelt with her in his arms,
+[[Captain Wentworth]], who had caught her up, knelt with her in his arms,
 
 looking on her with a face as pallid as her own, in an agony of
 
-silence. “She is dead! she is dead!” screamed Mary, catching hold of
+[[Silence|silence]]. “She is dead! she is dead!” screamed Mary, catching hold of
 
 her husband, and contributing with his own horror to make him
 
@@ -142,7 +142,7 @@ immoveable; and in another moment, Henrietta, sinking under the
 
 conviction, lost her senses too, and would have fallen on the steps,
 
-but for Captain Benwick and Anne, who caught and supported her between
+but for [[Captain Benwick]] and Anne, who caught and supported her between
 
 them.
 
@@ -150,7 +150,7 @@ them.
 
 “Is there no one to help me?” were the first words which burst from
 
-Captain Wentworth, in a tone of despair, and as if all his own strength
+[[Captain Wentworth]], in a tone of [[Despair|despair]], and as if all his own strength
 
 were gone.
 
@@ -164,13 +164,13 @@ temples; here are salts; take them, take them.”
 
 
 
-Captain Benwick obeyed, and Charles at the same moment, disengaging
+[[Captain Benwick]] obeyed, and Charles at the same moment, disengaging
 
 himself from his wife, they were both with him; and Louisa was raised
 
 up and supported more firmly between them, and everything was done that
 
-Anne had prompted, but in vain; while Captain Wentworth, staggering
+Anne had prompted, but in vain; while [[Captain Wentworth]], staggering
 
 against the wall for his support, exclaimed in the bitterest agony—
 
@@ -192,7 +192,7 @@ eagerly suggested—
 
 
 
-“Captain Benwick, would not it be better for Captain Benwick? He knows
+“[[Captain Benwick]], would not it be better for [[Captain Benwick]]? He knows
 
 where a surgeon is to be found.”
 
@@ -200,7 +200,7 @@ where a surgeon is to be found.”
 
 Every one capable of thinking felt the advantage of the idea, and in a
 
-moment (it was all done in rapid moments) Captain Benwick had resigned
+moment (it was all done in rapid moments) [[Captain Benwick]] had resigned
 
 the poor corpse-like figure entirely to the brother’s care, and was off
 
@@ -210,7 +210,7 @@ for the town with the utmost rapidity.
 
 As to the wretched party left behind, it could scarcely be said which
 
-of the three, who were completely rational, was suffering most: Captain
+of the three, who were completely rational, was [[Suffering|suffering]] most: Captain
 
 Wentworth, Anne, or Charles, who, really a very affectionate brother,
 
@@ -230,7 +230,7 @@ instinct supplied, to Henrietta, still tried, at intervals, to suggest
 
 comfort to the others, tried to quiet Mary, to animate Charles, to
 
-assuage the feelings of Captain Wentworth. Both seemed to look to her
+assuage the feelings of [[Captain Wentworth]]. Both seemed to look to her
 
 for directions.
 

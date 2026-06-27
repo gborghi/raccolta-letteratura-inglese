@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of Silence (part 9)"
+title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -19,7 +19,7 @@ recent, and that the more feminine background was quite old. His eye
 caught a strip of faded tapestry, which startled him into speech, to
 
 the momentary oblivion of bigger matters.
-"This place was furnished from the great house," he said.
+"This place was furnished from the [[Great House|great house]]," he said.
 "Yes," replied the other, "and I think you know why."
 "I think I do," said Horne Fisher, "and before I go on to more
 
@@ -29,7 +29,7 @@ both the bigamist and the bandit. His first wife was not dead when
 
 he married the Jewess; she was imprisoned on this island. She bore
 
-him a child here, who now haunts his birthplace under the name of
+him a [[Child|child]] here, who now haunts his birthplace under the name of
 
 Long Adam. A bankruptcy company promoter named Werner discovered the
 
@@ -49,17 +49,17 @@ what could you expect?"'
 
 said his brother, sulkily. "We all thought you were so clever. How
 
-could we know you were going to be—well, really, such a rotten
+could we know you were going to be—[[Well|well]], really, such a rotten
 
 failure?"
 "This is rather curious," said the candidate, frowning. "Without
 
-vanity, I was not under the impression that my candidature was a
+[[Vanity|vanity]], I was not under the impression that my candidature was a
 
 failure. All the big meetings were successful and crowds of people
 
 have promised me votes."
-"I should jolly well think they had," said Henry, grimly. "You've
+"I should jolly [[Well|well]] think they had," said Henry, grimly. "You've
 
 made a landslide with your confounded acres and a cow, and Verner
 
@@ -67,10 +67,10 @@ can hardly get a vote anywhere. Oh, it's too rotten for anything!"
 "What on earth do you mean?"
 "I see," said Fisher, "and you, I think, are a pillar and ornament
 
-of the Reform party. As you say, I am not clever."
+of the [[Reform]] party. As you say, I am not clever."
 The appeal to party loyalty fell on deaf ears; for the pillar of
 
-Reform was brooding on other things. At last he said, in a more
+[[Reform]] was brooding on other things. At last he said, in a more
 
 troubled voice:
 "I didn't want you to catch me; I knew it would be a shock. But I
@@ -96,7 +96,7 @@ scoundrel and hypocrite as ever sold himself to ruin his country.
 There, I can't say handsomer than that. Thank you for the cigars,
 
 old man. I'll have one if you don't mind."
-By the time that Horne Fisher had ended his telling of this story to
+By the [[Time|time]] that Horne Fisher had ended his telling of this story to
 
 Harold March they had come out into one of the public parks and
 
@@ -107,7 +107,7 @@ a blue and empty sky; and there was something incongruous in the
 words with which the narration ended.
 "I have been in that room ever since," said Horne Fisher. "I am in
 
-it now. I won the election, but I never went to the House. My life
+it now. I won the election, but I never went to the [[house|House]]. My life
 
 has been a life in that little room on that lonely island. Plenty of
 

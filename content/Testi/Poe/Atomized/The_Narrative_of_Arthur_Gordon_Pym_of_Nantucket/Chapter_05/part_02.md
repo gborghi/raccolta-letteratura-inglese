@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 6 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -28,7 +28,7 @@ result is occasioned by _settling_ during the voyage, and is the more
 
 perceptible in proportion to the roughness of the weather experienced.
 
-If grain loosely thrown in a vessel, then, is ever so well secured by
+If grain loosely thrown in a vessel, then, is ever so [[Well|well]] secured by
 
 shifting-boards and stanchions, it will be liable to shift in a long
 
@@ -54,7 +54,7 @@ ports of Europe, which sail daily with partial cargoes, even of the
 
 most dangerous species, and without any precautions whatever. The
 
-wonder is that no more accidents occur than do actually happen. A
+[[Wonder|wonder]] is that no more accidents occur than do actually happen. A
 
 lamentable instance of this heedlessness occurred to my knowledge in
 
@@ -78,15 +78,15 @@ than light breezes; but when within a day's sail of Madeira there came
 
 on a strong gale from the N. N. E. which forced him to lie to. He
 
-brought the schooner to the wind under a double-reefed foresail alone,
+brought the schooner to the [[Wind|wind]] under a [[Double|double]]-reefed foresail [[Alone|alone]],
 
-when she rode as well as any vessel could be expected to do, and
+when she rode as [[Well|well]] as any vessel could be expected to do, and
 
-shipped not a drop of water. Towards night the gale somewhat abated,
+shipped not a drop of [[Water|water]]. Towards [[Night|night]] the gale somewhat abated,
 
 and she rolled with more unsteadiness than before, but still did very
 
-well, until a heavy lurch threw her upon her beam-ends to starboard.
+[[Well|well]], until a heavy lurch threw her upon her beam-ends to starboard.
 
 The corn was then heard to shift bodily, the force of the movement
 
@@ -106,11 +106,11 @@ The stowage on board the Grampus was most clumsily done, if stowage
 
 that could be called which was little better than a promiscuous
 
-huddling together of oil-casks[1] and ship furniture. I have already
+huddling together of oil-casks[1] and [[Ship|ship]] furniture. I have already
 
 spoken of the condition of articles in the hold. On the orlop deck
 
-there was space enough for my body (as I have stated) between the
+there was space enough for my [[Body|body]] (as I have stated) between the
 
 oil-casks and the upper deck; a space was left open around the main
 
@@ -132,13 +132,13 @@ ascertain.]
 
 
 
-By the time my friend had got safely into the berth, and readjusted his
+By the [[Time|time]] my friend had got safely into the berth, and readjusted his
 
 handcuffs and the rope, it was broad daylight. We had made a narrow
 
 escape indeed; for scarcely had he arranged all matters, when the mate
 
-came below, with Dirk Peters and the cook. They talked for some time
+came below, with Dirk Peters and the cook. They talked for some [[Time|time]]
 
 about the vessel from the Cape Verds, and seemed to be excessively
 
@@ -154,17 +154,17 @@ negro would fall against the pea-jacket, which was hung up to conceal
 
 the aperture, in which case all would have been discovered, and our
 
-lives would, no doubt, have been instantly sacrificed. Our good fortune
+lives would, no [[Doubt|doubt]], have been instantly sacrificed. Our good fortune
 
 prevailed, however; and although he frequently touched it as the vessel
 
 rolled, he never pressed against it sufficiently to bring about a
 
-discovery. The bottom of the jacket had been carefully fastened to the
+discovery. The [[Bottom|bottom]] of the jacket had been carefully fastened to the
 
 bulkhead, so that the hole might not be seen by its swinging to one
 
-side. All this time Tiger was lying in the foot of the berth, and
+side. All this [[Time|time]] Tiger was lying in the foot of the berth, and
 
 appeared to have recovered in some measure his faculties, for I could
 
@@ -182,13 +182,13 @@ with Augustus, and we could now see that the greater part of his
 
 apparent intoxication, while the two others were with him, was a feint.
 
-He answered all my companion's questions with perfect freedom; told him
+He answered all my companion's questions with perfect [[Freedom|freedom]]; told him
 
-that he had no doubt of his father's having been picked up, as there
+that he had no [[Doubt|doubt]] of his father's having been picked up, as there
 
 were no less than five sail in sight just before sundown on the day he
 
-was cut adrift; and used other language of a consolatory nature, which
+was cut adrift; and used other language of a consolatory [[Nature|nature]], which
 
 occasioned me no less surprise than pleasure. Indeed, I began to
 

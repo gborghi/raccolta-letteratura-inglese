@@ -1,5 +1,5 @@
 ---
-title: "Henry VI Part One — Act III, Scene 4"
+title: "[[Henry VI]] Part One — Act III, Scene 4"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/HENRY-VI-PART-ONE-(Shakespeare)"
@@ -16,5 +16,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | An alarum. Enter Lord Talbot in an excursion |
-| TALBOT | France, thou shalt rue this treason with thy tears,<br>If Talbot but survive thy treachery.<br>Pucelle, that witch, that damnèd sorceress,<br>Hath wrought this hellish mischief unawares,<br>That hardly we escaped the pride of France. Exit |
+| *(didascalia)* | An alarum. Enter [[Lord Talbot]] in an excursion |
+| TALBOT | France, thou shalt rue this treason with thy [[Tears|tears]],<br>If Talbot but survive thy treachery.<br>Pucelle, that [[Witch|witch]], that damnèd sorceress,<br>Hath wrought this hellish mischief unawares,<br>That hardly we escaped the [[Pride|pride]] of France. Exit |

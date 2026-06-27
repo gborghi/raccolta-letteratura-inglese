@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 32 (part 1)"
+title: "[[Great Expectations]] — Chapter 32 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -23,24 +23,24 @@ for, though I had never seen the handwriting in which it was addressed,
 I divined whose hand it was. It had no set beginning, as Dear Mr. Pip,
 or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:—
 
-“I am to come to London the day after to-morrow by the midday coach. I
-believe it was settled you should meet me? At all events Miss Havisham
+“I am to come to [[London]] the day after to-morrow by the midday coach. I
+believe it was settled you should meet me? At all events [[Miss Havisham]]
 has that impression, and I write in obedience to it. She sends you her
 regard.
 
 
-“Yours, ESTELLA.”
+“Yours, [[Estella|ESTELLA]].”
 
 
-If there had been time, I should probably have ordered several suits of
+If there had been [[Time|time]], I should probably have ordered several suits of
 clothes for this occasion; but as there was not, I was fain to be
 content with those I had. My appetite vanished instantly, and I knew no
 peace or rest until the day arrived. Not that its arrival brought me
 either; for, then I was worse than ever, and began haunting the
 coach-office in Wood Street, Cheapside, before the coach had left the
-Blue Boar in our town. For all that I knew this perfectly well, I still
+Blue Boar in our town. For all that I knew this perfectly [[Well|well]], I still
 felt as if it were not safe to let the coach-office be out of my sight
-longer than five minutes at a time; and in this condition of unreason I
+longer than five minutes at a [[Time|time]]; and in this condition of unreason I
 had performed the first half-hour of a watch of four or five hours,
 when Wemmick ran against me.
 
@@ -48,24 +48,24 @@ when Wemmick ran against me.
 thought this was _your_ beat.”
 
 I explained that I was waiting to meet somebody who was coming up by
-coach, and I inquired after the Castle and the Aged.
+coach, and I inquired after the [[Castle]] and the Aged.
 
 “Both flourishing thankye,” said Wemmick, “and particularly the Aged.
 He’s in wonderful feather. He’ll be eighty-two next birthday. I have a
 notion of firing eighty-two times, if the neighbourhood shouldn’t
 complain, and that cannon of mine should prove equal to the pressure.
-However, this is not London talk. Where do you think I am going to?”
+However, this is not [[London]] talk. Where do you think I am going to?”
 
 “To the office?” said I, for he was tending in that direction.
 
 “Next thing to it,” returned Wemmick, “I am going to Newgate. We are in
-a banker’s-parcel case just at present, and I have been down the road
+a banker’s-parcel case just at present, and I have been down the [[Road|road]]
 taking a squint at the scene of action, and thereupon must have a word
 or two with our client.”
 
 “Did your client commit the robbery?” I asked.
 
-“Bless your soul and body, no,” answered Wemmick, very drily. “But he
+“Bless your [[Soul|soul]] and [[Body|body]], no,” answered Wemmick, very drily. “But he
 is accused of it. So might you or I be. Either of us might be accused
 of it, you know.”
 
@@ -73,34 +73,34 @@ of it, you know.”
 
 “Yah!” said Wemmick, touching me on the breast with his forefinger;
 “you’re a deep one, Mr. Pip! Would you like to have a look at Newgate?
-Have you time to spare?”
+Have you [[Time|time]] to spare?”
 
-I had so much time to spare, that the proposal came as a relief,
-notwithstanding its irreconcilability with my latent desire to keep my
+I had so much [[Time|time]] to spare, that the proposal came as a relief,
+notwithstanding its irreconcilability with my latent [[Desire|desire]] to keep my
 eye on the coach-office. Muttering that I would make the inquiry
-whether I had time to walk with him, I went into the office, and
+whether I had [[Time|time]] to walk with him, I went into the office, and
 ascertained from the clerk with the nicest precision and much to the
 trying of his temper, the earliest moment at which the coach could be
-expected,—which I knew beforehand, quite as well as he. I then rejoined
+expected,—which I knew beforehand, quite as [[Well|well]] as he. I then rejoined
 Mr. Wemmick, and affecting to consult my watch, and to be surprised by
 the information I had received, accepted his offer.
 
 We were at Newgate in a few minutes, and we passed through the lodge
-where some fetters were hanging up on the bare walls among the prison
-rules, into the interior of the jail. At that time jails were much
+where some fetters were hanging up on the bare walls among the [[Prison|prison]]
+rules, into the interior of the jail. At that [[Time|time]] jails were much
 neglected, and the period of exaggerated reaction consequent on all
 public wrongdoing—and which is always its heaviest and longest
 punishment—was still far off. So, felons were not lodged and fed better
-than soldiers (to say nothing of paupers), and seldom set fire to their
+than soldiers (to say nothing of paupers), and seldom set [[Fire|fire]] to their
 prisons with the excusable object of improving the flavour of their
-soup. It was visiting time when Wemmick took me in, and a potman was
+soup. It was visiting [[Time|time]] when Wemmick took me in, and a potman was
 going his rounds with beer; and the prisoners, behind bars in yards,
 were buying beer, and talking to friends; and a frowzy, ugly,
 disorderly, depressing scene it was.
 
 It struck me that Wemmick walked among the prisoners much as a gardener
 might walk among his plants. This was first put into my head by his
-seeing a shoot that had come up in the night, and saying, “What,
+seeing a shoot that had come up in the [[Night|night]], and saying, “What,
 Captain Tom? Are _you_ there? Ah, indeed!” and also, “Is that Black
 Bill behind the cistern? Why I didn’t look for you these two months;
 how do you find yourself?” Equally in his stopping at the bars and
@@ -131,7 +131,7 @@ said, “Notice the man I shall shake hands with.” I should have done so,
 without the preparation, as he had shaken hands with no one yet.
 
 Almost as soon as he had spoken, a portly upright man (whom I can see
-now, as I write) in a well-worn olive-coloured frock-coat, with a
+now, as I write) in a [[Well|well]]-worn olive-coloured frock-coat, with a
 peculiar pallor overspreading the red in his complexion, and eyes that
 went wandering about when he tried to fix them, came up to a corner of
 the bars, and put his hand to his hat—which had a greasy and fatty

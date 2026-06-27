@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 16)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 16)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -24,7 +24,7 @@ tags:
 
       distance from the point of sight, to admit of any very accurate
 
-      examination. Nevertheless, what could be seen was of a nature
+      examination. Nevertheless, what could be seen was of a [[Nature|nature]]
 
       singular and exciting. Northwardly from that huge rim before
 
@@ -52,7 +52,7 @@ tags:
 
       blackness. Farther than this, little could be ascertained. By
 
-      twelve o’clock the circular centre had materially decreased in
+      twelve o’[[Clock|clock]] the circular centre had materially decreased in
 
       circumference, and by seven P.M. I lost sight of it entirely; the
 
@@ -90,7 +90,7 @@ tags:
 
       perceive that the balloon now hovered above the range of great
 
-      lakes in the continent of North America, and was holding a
+      lakes in the continent of North [[America]], and was holding a
 
       course, due south, which would bring me to the tropics. This
 
@@ -98,13 +98,13 @@ tags:
 
       satisfaction, and I hailed it as a happy omen of ultimate
 
-      success. Indeed, the direction I had hitherto taken, had filled
+      [[success]]. Indeed, the direction I had hitherto taken, had filled
 
       me with uneasiness; for it was evident that, had I continued it
 
       much longer, there would have been no possibility of my arriving
 
-      at the moon at all, whose orbit is inclined to the ecliptic at
+      at the [[Moon|moon]] at all, whose orbit is inclined to the ecliptic at
 
       only the small angle of 5° 8′ 48″.
 
@@ -124,7 +124,7 @@ tags:
 
       “April 10th. I was suddenly aroused from slumber, about five
 
-      o’clock this morning, by a loud, crackling, and terrific sound,
+      o’[[Clock|clock]] this morning, by a loud, crackling, and terrific sound,
 
       for which I could in no manner account. It was of very brief
 
@@ -152,7 +152,7 @@ tags:
 
       diameter of the earth, and a considerable increase, now
 
-      observable for the first time, in that of the moon itself, which
+      observable for the first [[Time|time]], in that of the [[Moon|moon]] itself, which
 
       wanted only a few days of being full. It now required long and
 
@@ -194,7 +194,7 @@ tags:
 
       which now subtended from the balloon an angle of very little more
 
-      than twenty-five degrees. The moon could not be seen at all,
+      than twenty-five degrees. The [[Moon|moon]] could not be seen at all,
 
       being nearly in my zenith. I still continued in the plane of the
 

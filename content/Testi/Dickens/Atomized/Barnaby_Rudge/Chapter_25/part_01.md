@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 25 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 25 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 Chapter 25
 
 
-Leaving the favoured, and well-received, and flattered of the world;
+Leaving the favoured, and [[Well|well]]-received, and flattered of the world;
 him of the world most worldly, who never compromised himself by an
 ungentlemanly action, and never was guilty of a manly one; to lie
-smilingly asleep--for even sleep, working but little change in his
+smilingly asleep--for even [[Sleep|sleep]], working but little change in his
 dissembling face, became with him a piece of cold, conventional
 hypocrisy--we follow in the steps of two slow travellers on foot, making
 towards Chigwell.
@@ -31,20 +31,20 @@ The widow, to whom each painful mile seemed longer than the last, toiled
 wearily along; while Barnaby, yielding to every inconstant impulse,
 fluttered here and there, now leaving her far behind, now lingering far
 behind himself, now darting into some by-lane or path and leaving her
-to pursue her way alone, until he stealthily emerged again and came upon
-her with a wild shout of merriment, as his wayward and capricious nature
+to pursue her way [[Alone|alone]], until he stealthily emerged again and came upon
+her with a wild shout of merriment, as his wayward and capricious [[Nature|nature]]
 prompted. Now he would call to her from the topmost branch of some high
 tree by the roadside; now using his tall staff as a leaping-pole, come
 flying over ditch or hedge or five-barred gate; now run with surprising
-swiftness for a mile or more on the straight road, and halting, sport
+swiftness for a mile or more on the straight [[Road|road]], and halting, sport
 upon a patch of grass with Grip till she came up. These were his
 delights; and when his patient mother heard his merry voice, or looked
 into his flushed and healthy face, she would not have abated them by one
-sad word or murmur, though each had been to her a source of suffering in
+sad word or murmur, though each had been to her a source of [[Suffering|suffering]] in
 the same degree as it was to him of pleasure.
 
 It is something to look upon enjoyment, so that it be free and wild and
-in the face of nature, though it is but the enjoyment of an idiot. It is
+in the face of [[Nature|nature]], though it is but the enjoyment of an idiot. It is
 something to know that Heaven has left the capacity of gladness in such
 a creature’s breast; it is something to be assured that, however lightly
 men may crush that faculty in their fellows, the Great Creator of
@@ -56,31 +56,31 @@ Ye men of gloom and austerity, who paint the face of Infinite
 Benevolence with an eternal frown; read in the Everlasting Book, wide
 open to your view, the lesson it would teach. Its pictures are not in
 black and sombre hues, but bright and glowing tints; its music--save
-when ye drown it--is not in sighs and groans, but songs and cheerful
-sounds. Listen to the million voices in the summer air, and find one
-dismal as your own. Remember, if ye can, the sense of hope and pleasure
+when ye drown it--is not in sighs and groans, but [[songs]] and cheerful
+sounds. Listen to the million voices in the [[Summer|summer]] air, and find one
+dismal as your own. Remember, if ye can, the sense of [[Hope|hope]] and pleasure
 which every glad return of day awakens in the breast of all your kind
-who have not changed their nature; and learn some wisdom even from the
+who have not changed their [[Nature|nature]]; and learn some wisdom even from the
 witless, when their hearts are lifted up they know not why, by all the
 mirth and happiness it brings.
 
 The widow’s breast was full of care, was laden heavily with secret dread
 and sorrow; but her boy’s gaiety of heart gladdened her, and beguiled
-the long journey. Sometimes he would bid her lean upon his arm, and
+the long [[Journey|journey]]. Sometimes he would bid her lean upon his arm, and
 would keep beside her steadily for a short distance; but it was more his
-nature to be rambling to and fro, and she better liked to see him free
+[[Nature|nature]] to be rambling to and fro, and she better liked to see him free
 and happy, even than to have him near her, because she loved him better
 than herself.
 
 She had quitted the place to which they were travelling, directly after
 the event which had changed her whole existence; and for two-and-twenty
-years had never had courage to revisit it. It was her native village.
+years had never had [[Courage|courage]] to revisit it. It was her native village.
 How many recollections crowded on her mind when it appeared in sight!
 
-Two-and-twenty years. Her boy’s whole life and history. The last time
+Two-and-twenty years. Her boy’s whole life and [[history]]. The last [[Time|time]]
 she looked back upon those roofs among the trees, she carried him in her
-arms, an infant. How often since that time had she sat beside him night
-and day, watching for the dawn of mind that never came; how had she
+arms, an infant. How often since that [[Time|time]] had she sat beside him [[Night|night]]
+and day, watching for the [[Dawn|dawn]] of mind that never came; how had she
 feared, and doubted, and yet hoped, long after conviction forced itself
 upon her! The little stratagems she had devised to try him, the little
 tokens he had given in his childish way--not of dulness but of something
@@ -88,36 +88,36 @@ infinitely worse, so ghastly and unchildlike in its cunning--came back
 as vividly as if but yesterday had intervened. The room in which they
 used to be; the spot in which his cradle stood; he, old and elfin-like
 in face, but ever dear to her, gazing at her with a wild and vacant
-eye, and crooning some uncouth song as she sat by and rocked him; every
+eye, and crooning some uncouth [[Song|song]] as she sat by and rocked him; every
 circumstance of his infancy came thronging back, and the most trivial,
 perhaps, the most distinctly.
 
-His older childhood, too; the strange imaginings he had; his terror of
+His older [[Childhood|childhood]], too; the strange imaginings he had; his terror of
 certain senseless things--familiar objects he endowed with life; the
 slow and gradual breaking out of that one horror, in which, before his
 birth, his darkened intellect began; how, in the midst of all, she had
-found some hope and comfort in his being unlike another child, and had
+found some [[Hope|hope]] and comfort in his being unlike another [[Child|child]], and had
 gone on almost believing in the slow development of his mind until he
-grew a man, and then his childhood was complete and lasting; one after
+grew a man, and then his [[Childhood|childhood]] was complete and lasting; one after
 another, all these old thoughts sprung up within her, strong after their
 long slumber and bitterer than ever.
 
-She took his arm and they hurried through the village street. It was
+She took his arm and they hurried through [[The Village Street|the village street]]. It was
 the same as it was wont to be in old times, yet different too, and wore
 another air. The change was in herself, not it; but she never thought of
 that, and wondered at its alteration, and where it lay, and what it was.
 
 The people all knew Barnaby, and the children of the place came flocking
 round him--as she remembered to have done with their fathers and mothers
-round some silly beggarman, when a child herself. None of them knew her;
-they passed each well-remembered house, and yard, and homestead; and
-striking into the fields, were soon alone again.
+round some silly beggarman, when a [[Child|child]] herself. None of them knew her;
+they passed each [[Well|well]]-remembered [[house]], and yard, and homestead; and
+striking into the fields, were soon [[Alone|alone]] again.
 
-The Warren was the end of their journey. Mr Haredale was walking in the
-garden, and seeing them as they passed the iron gate, unlocked it, and
+The Warren was the end of their [[Journey|journey]]. Mr Haredale was walking in the
+[[Garden|garden]], and seeing them as they passed the iron gate, unlocked it, and
 bade them enter that way.
 
 ‘At length you have mustered heart to visit the old place,’ he said to
 the widow. ‘I am glad you have.’
 
-‘For the first time, and the last, sir,’ she replied.
+‘For the first [[Time|time]], and the last, sir,’ she replied.

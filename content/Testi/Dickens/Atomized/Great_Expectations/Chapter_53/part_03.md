@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 53 (part 3)"
+title: "[[Great Expectations]] — Chapter 53 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,17 +19,17 @@ while he said a dozen words, but that what he did say presented
 pictures to me, and not mere words. In the excited and exalted state of
 my brain, I could not think of a place without seeing it, or of persons
 without seeing them. It is impossible to overstate the vividness of
-these images, and yet I was so intent, all the time, upon him
-himself,—who would not be intent on the tiger crouching to spring!—that
+these images, and yet I was so intent, all the [[Time|time]], upon him
+himself,—who would not be intent on the tiger crouching to [[spring]]!—that
 I knew of the slightest action of his fingers.
 
-When he had drunk this second time, he rose from the bench on which he
+When he had drunk this second [[Time|time]], he [[Rose|rose]] from the bench on which he
 sat, and pushed the table aside. Then, he took up the candle, and,
 shading it with his murderous hand so as to throw its light on me,
 stood before me, looking at me and enjoying the sight.
 
 “Wolf, I’ll tell you something more. It was Old Orlick as you tumbled
-over on your stairs that night.”
+over on your stairs that [[Night|night]].”
 
 I saw the staircase with its extinguished lamps. I saw the shadows of
 the heavy stair-rails, thrown by the watchman’s lantern on the wall. I
@@ -37,7 +37,7 @@ saw the rooms that I was never to see again; here, a door half open;
 there, a door closed; all the articles of furniture around.
 
 “And why was Old Orlick there? I’ll tell you something more, wolf. You
-and her _have_ pretty well hunted me out of this country, so far as
+and her _have_ pretty [[Well|well]] hunted me out of this country, so far as
 getting a easy living in it goes, and I’ve took up with new companions,
 and new masters. Some of ’em writes my letters when I wants ’em
 wrote,—do you mind?—writes my letters, wolf! They writes fifty hands;
@@ -57,7 +57,7 @@ out to sea!
 “_You_ with a uncle too! Why, I know’d you at Gargery’s when you was so
 small a wolf that I could have took your weazen betwixt this finger and
 thumb and chucked you away dead (as I’d thoughts o’ doing, odd times,
-when I see you loitering amongst the pollards on a Sunday), and you
+when I see you loitering amongst the pollards on a [[Sunday]]), and you
 hadn’t found no uncles then. No, not you! But when Old Orlick come for
 to hear that your uncle Provis had most like wore the leg-iron wot Old
 Orlick had picked up, filed asunder, on these meshes ever so many year
@@ -68,14 +68,14 @@ that—hey?”
 In his savage taunting, he flared the candle so close at me that I
 turned my face aside to save it from the flame.
 
-“Ah!” he cried, laughing, after doing it again, “the burnt child dreads
-the fire! Old Orlick knowed you was burnt, Old Orlick knowed you was
+“Ah!” he cried, laughing, after doing it again, “the burnt [[Child|child]] dreads
+the [[Fire|fire]]! Old Orlick knowed you was burnt, Old Orlick knowed you was
 smuggling your uncle Provis away, Old Orlick’s a match for you and
-know’d you’d come to-night! Now I’ll tell you something more, wolf, and
+know’d you’d come to-[[Night|night]]! Now I’ll tell you something more, wolf, and
 this ends it. There’s them that’s as good a match for your uncle Provis
 as Old Orlick has been for you. Let him ’ware them, when he’s lost his
 nevvy! Let him ’ware them, when no man can’t find a rag of his dear
-relation’s clothes, nor yet a bone of his body. There’s them that can’t
+relation’s clothes, nor yet a bone of his [[Body|body]]. There’s them that can’t
 and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same
 land with them, and that’s had such sure information of him when he was
 alive in another land, as that he couldn’t and shouldn’t leave it
@@ -85,14 +85,14 @@ Compeyson, Magwitch, and the gallows!”
 
 He flared the candle at me again, smoking my face and hair, and for an
 instant blinding me, and turned his powerful back as he replaced the
-light on the table. I had thought a prayer, and had been with Joe and
-Biddy and Herbert, before he turned towards me again.
+light on the table. I had thought a [[Prayer|prayer]], and had been with Joe and
+[[Biddy]] and Herbert, before he turned towards me again.
 
 There was a clear space of a few feet between the table and the
 opposite wall. Within this space, he now slouched backwards and
 forwards. His great strength seemed to sit stronger upon him than ever
 before, as he did this with his hands hanging loose and heavy at his
-sides, and with his eyes scowling at me. I had no grain of hope left.
+sides, and with his eyes scowling at me. I had no grain of [[Hope|hope]] left.
 Wild as my inward hurry was, and wonderful the force of the pictures
 that rushed by me instead of thoughts, I could yet clearly understand
 that, unless he had resolved that I was within a few moments of surely
@@ -107,15 +107,15 @@ his hand, and licked up. Then, with a sudden hurry of violence and
 swearing horribly, he threw the bottle from him, and stooped; and I saw
 in his hand a stone-hammer with a long heavy handle.
 
-The resolution I had made did not desert me, for, without uttering one
+The resolution I had made did not [[Desert|desert]] me, for, without uttering one
 vain word of appeal to him, I shouted out with all my might, and
 struggled with all my might. It was only my head and my legs that I
 could move, but to that extent I struggled with all the force, until
 then unknown, that was within me. In the same instant I heard
 responsive shouts, saw figures and a gleam of light dash in at the
 door, heard voices and tumult, and saw Orlick emerge from a struggle of
-men, as if it were tumbling water, clear the table at a leap, and fly
-out into the night.
+men, as if it were tumbling [[Water|water]], clear the table at a leap, and fly
+out into the [[Night|night]].
 
 After a blank, I found that I was lying unbound, on the floor, in the
 same place, with my head on some one’s knee. My eyes were fixed on the

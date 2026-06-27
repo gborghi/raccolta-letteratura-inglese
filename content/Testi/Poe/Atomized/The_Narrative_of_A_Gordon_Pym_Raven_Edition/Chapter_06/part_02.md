@@ -50,7 +50,7 @@ tags:
 
       weather experienced. If grain loosely thrown in a vessel, then,
 
-      is ever so well secured by shifting-boards and stanchions, it
+      is ever so [[Well|well]] secured by shifting-boards and stanchions, it
 
       will be liable to shift in a long passage so greatly as to bring
 
@@ -76,7 +76,7 @@ tags:
 
       partial cargoes, even of the most dangerous species, and without
 
-      any precaution whatever. The wonder is that no more accidents
+      any precaution whatever. The [[Wonder|wonder]] is that no more accidents
 
       occur than do actually happen. A lamentable instance of this
 
@@ -102,15 +102,15 @@ tags:
 
       sail of Madeira there came on a strong gale from the N. N. E.
 
-      which forced him to lie-to. He brought the schooner to the wind
+      which forced him to lie-to. He brought the schooner to the [[Wind|wind]]
 
-      under a double-reefed foresail alone, when she rode as well as
+      under a [[Double|double]]-reefed foresail [[Alone|alone]], when she rode as [[Well|well]] as
 
       any vessel could be expected to do, and shipped not a drop of
 
-      water. Toward night the gale somewhat abated, and she rolled with
+      [[Water|water]]. Toward [[Night|night]] the gale somewhat abated, and she rolled with
 
-      more unsteadiness than before, but still did very well, until a
+      more unsteadiness than before, but still did very [[Well|well]], until a
 
       heavy lurch threw her upon her beam-ends to starboard. The corn
 
@@ -132,11 +132,11 @@ tags:
 
       stowage that could be called which was little better than a
 
-      promiscuous huddling together of oil-casks {*1} and ship
+      promiscuous huddling together of oil-casks {*1} and [[Ship|ship]]
 
       furniture. I have already spoken of the condition of articles in
 
-      the hold. On the orlop deck there was space enough for my body
+      the hold. On the orlop deck there was space enough for my [[Body|body]]
 
       (as I have stated) between the oil-casks and the upper deck; a
 
@@ -152,7 +152,7 @@ tags:
 
 
 
-      By the time my friend had got safely into the berth, and
+      By the [[Time|time]] my friend had got safely into the berth, and
 
       readjusted his handcuffs and the rope, it was broad daylight. We
 
@@ -160,7 +160,7 @@ tags:
 
       matters, when the mate came below, with Dirk Peters and the cook.
 
-      They talked for some time about the vessel from the Cape Verds,
+      They talked for some [[Time|time]] about the vessel from the Cape Verds,
 
       and seemed to be excessively anxious for her appearance. At
 
@@ -176,17 +176,17 @@ tags:
 
       the aperture, in which case all would have been discovered, and
 
-      our lives would, no doubt, have been instantly sacrificed. Our
+      our lives would, no [[Doubt|doubt]], have been instantly sacrificed. Our
 
       good fortune prevailed, however; and although he frequently
 
       touched it as the vessel rolled, he never pressed against it
 
-      sufficiently to bring about a discovery. The bottom of the jacket
+      sufficiently to bring about a discovery. The [[Bottom|bottom]] of the jacket
 
       had been carefully fastened to the bulkhead, so that the hole
 
-      might not be seen by its swinging to one side. All this time
+      might not be seen by its swinging to one side. All this [[Time|time]]
 
       Tiger was lying in the foot of the berth, and appeared to have
 

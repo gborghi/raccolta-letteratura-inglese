@@ -19,18 +19,18 @@ Chapter 1
 LODGERS IN QUEER STREET
 
 
-It was a foggy day in London, and the fog was heavy and dark. Animate
-London, with smarting eyes and irritated lungs, was blinking, wheezing,
-and choking; inanimate London was a sooty spectre, divided in purpose
+It was a foggy day in [[London]], and the fog was heavy and dark. Animate
+[[London]], with smarting eyes and irritated lungs, was blinking, wheezing,
+and choking; inanimate [[London]] was a sooty spectre, divided in purpose
 between being visible and invisible, and so being wholly neither.
 Gaslights flared in the shops with a haggard and unblest air, as knowing
-themselves to be night-creatures that had no business abroad under the
+themselves to be [[Night|night]]-creatures that had no business abroad under the
 sun; while the sun itself when it was for a few moments dimly indicated
 through circling eddies of fog, showed as if it had gone out and were
 collapsing flat and cold. Even in the surrounding country it was a foggy
-day, but there the fog was grey, whereas in London it was, at about
+day, but there the fog was grey, whereas in [[London]] it was, at about
 the boundary line, dark yellow, and a little within it brown, and then
-browner, and then browner, until at the heart of the City—which call
+browner, and then browner, until at the heart of the [[City]]—which call
 Saint Mary Axe—it was rusty-black. From any point of the high ridge of
 land northward, it might have been discerned that the loftiest buildings
 made an occasional struggle to get their heads above the foggy sea, and
@@ -39,23 +39,23 @@ this was not perceivable in the streets at their feet, where the whole
 metropolis was a heap of vapour charged with muffled sound of wheels,
 and enfolding a gigantic catarrh.
 
-At nine o’clock on such a morning, the place of business of Pubsey and
+At nine o’[[Clock|clock]] on such a morning, the place of business of Pubsey and
 Co. was not the liveliest object even in Saint Mary Axe—which is not a
-very lively spot—with a sobbing gaslight in the counting-house window,
+very lively spot—with a sobbing gaslight in the counting-[[house]] [[Window|window]],
 and a burglarious stream of fog creeping in to strangle it through the
 keyhole of the main door. But the light went out, and the main door
 opened, and Riah came forth with a bag under his arm.
 
 Almost in the act of coming out at the door, Riah went into the fog, and
-was lost to the eyes of Saint Mary Axe. But the eyes of this history
+was lost to the eyes of Saint Mary Axe. But the eyes of this [[history]]
 can follow him westward, by Cornhill, Cheapside, Fleet Street, and the
-Strand, to Piccadilly and the Albany. Thither he went at his grave and
+Strand, to Piccadilly and the Albany. Thither he went at his [[Grave|grave]] and
 measured pace, staff in hand, skirt at heel; and more than one head,
 turning to look back at his venerable figure already lost in the mist,
 supposed it to be some ordinary figure indistinctly seen, which fancy
 and the fog had worked into that passing likeness.
 
-Arrived at the house in which his master’s chambers were on the
+Arrived at the [[house]] in which his master’s chambers were on the
 second floor, Riah proceeded up the stairs, and paused at Fascination
 Fledgeby’s door. Making free with neither bell nor knocker, he struck
 upon the door with the top of his staff, and, having listened, sat down
@@ -64,21 +64,21 @@ that he sat down on the raw dark staircase, as many of his ancestors
 had probably sat down in dungeons, taking what befell him as it might
 befall.
 
-After a time, when he had grown so cold as to be fain to blow upon his
+After a [[Time|time]], when he had grown so cold as to be fain to blow upon his
 fingers, he arose and knocked with his staff again, and listened again,
 and again sat down to wait. Thrice he repeated these actions before his
 listening ears were greeted by the voice of Fledgeby, calling from his
 bed, ‘Hold your row!—I’ll come and open the door directly!’ But, in
-lieu of coming directly, he fell into a sweet sleep for some quarter of
+lieu of coming directly, he fell into a sweet [[Sleep|sleep]] for some quarter of
 an hour more, during which added interval Riah sat upon the stairs and
 waited with perfect patience.
 
 At length the door stood open, and Mr Fledgeby’s retreating drapery
 plunged into bed again. Following it at a respectful distance, Riah
-passed into the bed-chamber, where a fire had been sometime lighted, and
+passed into the bed-chamber, where a [[Fire|fire]] had been sometime lighted, and
 was burning briskly.
 
-‘Why, what time of night do you mean to call it?’ inquired Fledgeby,
+‘Why, what [[Time|time]] of [[Night|night]] do you mean to call it?’ inquired Fledgeby,
 turning away beneath the clothes, and presenting a comfortable rampart
 of shoulder to the chilled figure of the old man.
 
@@ -92,16 +92,16 @@ of shoulder to the chilled figure of the old man.
 
 ‘Chill and bitter,’ said Riah, drawing out a handkerchief, and wiping
 the moisture from his beard and long grey hair as he stood on the verge
-of the rug, with his eyes on the acceptable fire.
+of the rug, with his eyes on the acceptable [[Fire|fire]].
 
 With a plunge of enjoyment, Fledgeby settled himself afresh.
 
-‘Any snow, or sleet, or slush, or anything of that sort?’ he asked.
+‘Any [[Snow|snow]], or sleet, or slush, or anything of that sort?’ he asked.
 
 ‘No, sir, no. Not quite so bad as that. The streets are pretty clean.’
 
 ‘You needn’t brag about it,’ returned Fledgeby, disappointed in his
-desire to heighten the contrast between his bed and the streets. ‘But
+[[Desire|desire]] to heighten the contrast between his bed and the streets. ‘But
 you’re always bragging about something. Got the books there?’
 
 ‘They are here, sir.’
@@ -114,7 +114,7 @@ With another comfortable plunge, Mr Fledgeby fell asleep again. The old
 man, having obeyed his directions, sat down on the edge of a chair, and,
 folding his hands before him, gradually yielded to the influence of the
 warmth, and dozed. He was roused by Mr Fledgeby’s appearing erect at
-the foot of the bed, in Turkish slippers, rose-coloured Turkish trousers
+the foot of the bed, in Turkish slippers, [[Rose|rose]]-coloured Turkish trousers
 (got cheap from somebody who had cheated some other somebody out of
 them), and a gown and cap to correspond. In that costume he would have
 left nothing to be desired, if he had been further fitted out with a
@@ -124,7 +124,7 @@ bottomless chair, a lantern, and a bunch of matches.
 are you up to next, sitting there with your eyes shut? You ain’t asleep.
 Catch a weasel at it, and catch a Jew!’
 
-‘Truly, sir, I fear I nodded,’ said the old man.
+‘Truly, sir, I [[Fear|fear]] I nodded,’ said the old man.
 
 ‘Not you!’ returned Fledgeby, with a cunning look. ‘A telling move with
 a good many, I dare say, but it won’t put ME off my guard. Not a bad
@@ -175,7 +175,7 @@ inquiry,’ Fascination coolly answered.
 out your vouchers, and don’t talk Jerusalem palaver.’
 
 The vouchers were produced, and for the next half-hour Mr Fledgeby
-concentrated his sublime attention on them. They and the accounts were
+concentrated his [[Sublime|sublime]] attention on them. They and the accounts were
 all found correct, and the books and the papers resumed their places in
 the bag.
 
@@ -199,7 +199,7 @@ Fledgeby. ‘Can you get it at waste-paper price? That’s the question.’
 
 Riah shook his head, and Fledgeby cast his small eyes down the list.
 They presently began to twinkle, and he no sooner became conscious of
-their twinkling, than he looked up over his shoulder at the grave face
+their twinkling, than he looked up over his shoulder at the [[Grave|grave]] face
 above him, and moved to the chimney-piece. Making a desk of it, he stood
 there with his back to the old man, warming his knees, perusing the list
 at his leisure, and often returning to some lines of it, as though
@@ -220,7 +220,7 @@ Riah in a low voice to take his cue as it should be given him, replied,
 Saint Mary Axe, that I am trying to make terms for an unfortunate friend
 with in a matter of some dishonoured bills. But really Pubsey and Co.
 are so strict with their debtors, and so hard to move, that I seem to be
-wasting my time. Can’t I make ANY terms with you on my friend’s part, Mr
+wasting my [[Time|time]]. Can’t I make ANY terms with you on my friend’s part, Mr
 Riah?’
 
 ‘I am but the representative of another, sir,’ returned the Jew in a low
@@ -237,7 +237,7 @@ his hidden joke.
 ‘Always the same, always the same!’ said Lammle. ‘Mr—’
 
 ‘Riah, Pubsey and Co. Saint Mary Axe,’ Fledgeby put in, as he wiped away
-the tears that trickled from his eyes, so rare was his enjoyment of his
+the [[Tears|tears]] that trickled from his eyes, so rare was his enjoyment of his
 secret joke.
 
 ‘Mr Riah is bound to observe the invariable forms for such cases made
@@ -259,7 +259,7 @@ like to try to make terms with you once again before you go.’
 The old man, who had never raised his eyes during the whole transaction
 of Mr Fledgeby’s joke, silently bowed and passed out by the door which
 Fledgeby opened for him. Having closed it on him, Fledgeby returned to
-Lammle, standing with his back to the bedroom fire, with one hand under
+Lammle, standing with his back to the bedroom [[Fire|fire]], with one hand under
 his coat-skirts, and all his whiskers in the other.
 
 ‘Halloa!’ said Fledgeby. ‘There’s something wrong!’
@@ -268,12 +268,12 @@ his coat-skirts, and all his whiskers in the other.
 
 ‘Because you show it,’ replied Fledgeby in unintentional rhyme.
 
-‘Well then; there is,’ said Lammle; ‘there IS something wrong; the whole
+‘[[Well]] then; there is,’ said Lammle; ‘there IS something wrong; the whole
 thing’s wrong.’
 
 ‘I say!’ remonstrated Fascination very slowly, and sitting down with his
 hands on his knees to stare at his glowering friend with his back to the
-fire.
+[[Fire|fire]].
 
 ‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
 ‘the whole thing’s wrong. The game’s up.’
@@ -287,8 +287,8 @@ Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
 Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
 sense of the polite attentions of Mrs Alfred Lammle and yourself towards
 our daughter, Georgiana. Allow us also, wholly to reject them for the
-future, and to communicate our final desire that the two families
-may become entire strangers. I have the honour to be, Sir, your most
+future, and to communicate our final [[Desire|desire]] that the two families
+may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
 obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
 three blank sides of this note, quite as long and earnestly as at the
 first expressive side, and then looked at Lammle, who responded with
@@ -309,12 +309,12 @@ connected with that feature operating as a timely warning, he took it
 thoughtfully between his thumb and forefinger, and pondered; Lammle
 meanwhile eyeing him with furtive eyes.
 
-‘Well!’ said Fledgeby. ‘This won’t improve with talking about. If we
+‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
 ever find out who did it, we’ll mark that person. There’s nothing more
 to be said, except that you undertook to do what circumstances prevent
 your doing.’
 
-‘And that you undertook to do what you might have done by this time, if
+‘And that you undertook to do what you might have done by this [[Time|time]], if
 you had made a prompter use of circumstances,’ snarled Lammle.
 
 ‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
@@ -328,7 +328,7 @@ affair?’
 your pocket, and now hand it over.’
 
 Lammle produced it, not without reluctance. Fledgeby looked at it,
-identified it, twisted it up, and threw it into the fire. They both
+identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
 looked at it as it blazed, went out, and flew in feathery ash up the
 chimney.
 
@@ -375,7 +375,7 @@ Fledgeby, watching him with a twitch in his mean face which did duty
 there for a smile, looked very like the tormentor who was pinching.
 
 ‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
-revenge it on my unfortunate friend. How’s your very clever and
+[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
 agreeable wife? She knows we have broken down?’
 
 ‘I showed her the letter.’
@@ -399,8 +399,8 @@ lay it upon me? To ask another question.’
 to her. Good-bye!’
 
 They shook hands, and Lammle strode out pondering. Fledgeby saw him
-into the fog, and, returning to the fire and musing with his face to it,
-stretched the legs of the rose-coloured Turkish trousers wide apart, and
+into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
+stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
 meditatively bent his knees, as if he were going down upon them.
 
 ‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
@@ -415,7 +415,7 @@ Turkish trousers, straightened himself on his knees, and called out
 to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
 re-entering with a gentleness monstrously in contrast with the character
 he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
-laughing, ‘Good! Good! Upon my soul it is uncommon good!’
+laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’
 
 ‘Now, old ’un,’ proceeded Fledgeby, when he had had his laugh out,
 ‘you’ll buy up these lots that I mark with my pencil—there’s a tick
@@ -446,12 +446,12 @@ started and paused.
 Showing that he was taken by surprise, the old man looked at his master
 with some passing confusion, which the master highly enjoyed.
 
-‘Is she in the house I pay rent and taxes for in Saint Mary Axe?’
+‘Is she in the [[house]] I pay rent and taxes for in Saint Mary Axe?’
 demanded Fledgeby.
 
 ‘No, sir.’
 
-‘Is she in your garden up atop of that house—gone up to be dead, or
+‘Is she in your [[Garden|garden]] up atop of that [[house]]—gone up to be dead, or
 whatever the game is?’ asked Fledgeby.
 
 ‘No, sir.’
@@ -459,7 +459,7 @@ whatever the game is?’ asked Fledgeby.
 ‘Where is she then?’
 
 Riah bent his eyes upon the ground, as if considering whether he could
-answer the question without breach of faith, and then silently raised
+answer the question without breach of [[Faith|faith]], and then silently raised
 them to Fledgeby’s face, as if he could not.
 
 ‘Come!’ said Fledgeby. ‘I won’t press that just now. But I want to know
@@ -472,7 +472,7 @@ inquiry.
 ‘You can’t be a gallivanting dodger,’ said Fledgeby. ‘For you’re a
 “regular pity the sorrows”, you know—if you DO know any Christian
 rhyme—“whose trembling limbs have borne him to”—et cetrer. You’re one
-of the Patriarchs; you’re a shaky old card; and you can’t be in love
+of the Patriarchs; you’re a shaky old card; and you can’t be in [[Love|love]]
 with this Lizzie?’
 
 ‘O, sir!’ expostulated Riah. ‘O, sir, sir, sir!’
@@ -480,20 +480,20 @@ with this Lizzie?’
 ‘Then why,’ retorted Fledgeby, with some slight tinge of a blush, ‘don’t
 you out with your reason for having your spoon in the soup at all?’
 
-‘Sir, I will tell you the truth. But (your pardon for the stipulation)
-it is in sacred confidence; it is strictly upon honour.’
+‘Sir, I will tell you the [[Truth|truth]]. But (your pardon for the stipulation)
+it is in sacred confidence; it is strictly upon [[Honour|honour]].’
 
-‘Honour too!’ cried Fledgeby, with a mocking lip. ‘Honour among Jews.
-Well. Cut away.’
+‘[[Honour]] too!’ cried Fledgeby, with a mocking lip. ‘[[Honour]] among Jews.
+[[Well]]. Cut away.’
 
-‘It is upon honour, sir?’ the other still stipulated, with respectful
+‘It is upon [[Honour|honour]], sir?’ the other still stipulated, with respectful
 firmness.
 
-‘Oh, certainly. Honour bright,’ said Fledgeby.
+‘Oh, certainly. [[Honour]] bright,’ said Fledgeby.
 
 The old man, never bidden to sit down, stood with an earnest hand laid
 on the back of the young man’s easy chair. The young man sat looking at
-the fire with a face of listening curiosity, ready to check him off and
+the [[Fire|fire]] with a face of listening curiosity, ready to check him off and
 catch him tripping.
 
 ‘Cut away,’ said Fledgeby. ‘Start with your motive.’
@@ -504,17 +504,17 @@ Mr Fledgeby could only express the feelings to which this incredible
 statement gave rise in his breast, by a prodigiously long derisive
 sniff.
 
-‘How I came to know, and much to esteem and to respect, this damsel, I
-mentioned when you saw her in my poor garden on the house-top,’ said the
+‘How I came to know, and much to esteem and to respect, this [[Damsel|damsel]], I
+mentioned when you saw her in my poor [[Garden|garden]] on the [[house]]-top,’ said the
 Jew.
 
-‘Did you?’ said Fledgeby, distrustfully. ‘Well. Perhaps you did,
+‘Did you?’ said Fledgeby, distrustfully. ‘[[Well]]. Perhaps you did,
 though.’
 
 ‘The better I knew her, the more interest I felt in her fortunes. They
 gathered to a crisis. I found her beset by a selfish and ungrateful
 brother, beset by an unacceptable wooer, beset by the snares of a more
-powerful lover, beset by the wiles of her own heart.’
+powerful [[Lover|lover]], beset by the wiles of her own heart.’
 
 ‘She took to one of the chaps then?’
 
@@ -532,13 +532,13 @@ help her, and it was I. And she is gone.’
 
 ‘What did you do with her?’ asked Fledgeby, feeling his cheek.
 
-‘I placed her,’ said the old man, ‘at a distance;’ with a grave smooth
+‘I placed her,’ said the old man, ‘at a distance;’ with a [[Grave|grave]] smooth
 outward sweep from one another of his two open hands at arm’s length;
 ‘at a distance—among certain of our people, where her industry would
-serve her, and where she could hope to exercise it, unassailed from any
+serve her, and where she could [[Hope|hope]] to exercise it, unassailed from any
 quarter.’
 
-Fledgeby’s eyes had come from the fire to notice the action of his hands
+Fledgeby’s eyes had come from the [[Fire|fire]] to notice the action of his hands
 when he said ‘at a distance.’ Fledgeby now tried (very unsuccessfully)
 to imitate that action, as he shook his head and said, ‘Placed her in
 that direction, did you? Oh you circular old dodger!’
@@ -546,11 +546,11 @@ that direction, did you? Oh you circular old dodger!’
 With one hand across his breast and the other on the easy chair, Riah,
 without justifying himself, waited for further questioning. But, that it
 was hopeless to question him on that one reserved point, Fledgeby, with
-his small eyes too near together, saw full well.
+his small eyes too near together, saw full [[Well|well]].
 
-‘Lizzie,’ said Fledgeby, looking at the fire again, and then looking up.
-‘Humph, Lizzie. You didn’t tell me the other name in your garden atop of
-the house. I’ll be more communicative with you. The other name’s Hexam.’
+‘Lizzie,’ said Fledgeby, looking at the [[Fire|fire]] again, and then looking up.
+‘Humph, Lizzie. You didn’t tell me the other name in your [[Garden|garden]] atop of
+the [[house]]. I’ll be more communicative with you. The other name’s Hexam.’
 
 Riah bent his head in assent.
 
@@ -573,7 +573,7 @@ name.’
 the other, but I never dreamt of that one! I shouldn’t object to your
 baulking either of the pair, dodger, for they are both conceited enough;
 but that one is as cool a customer as ever I met with. Got a beard
-besides, and presumes upon it. Well done, old ’un! Go on and prosper!’
+besides, and presumes upon it. [[Well]] done, old ’un! Go on and prosper!’
 
 Brightened by this unexpected commendation, Riah asked were there more
 instructions for him?
@@ -582,10 +582,10 @@ instructions for him?
 orders you have got.’ Dismissed with those pleasing words, the old man
 took his broad hat and staff, and left the great presence: more as if he
 were some superior creature benignantly blessing Mr Fledgeby, than the
-poor dependent on whom he set his foot. Left alone, Mr Fledgeby locked
-his outer door, and came back to his fire.
+poor dependent on whom he set his foot. Left [[Alone|alone]], Mr Fledgeby locked
+his outer door, and came back to his [[Fire|fire]].
 
-‘Well done you!’ said Fascination to himself. ‘Slow, you may be; sure,
+‘[[Well]] done you!’ said Fascination to himself. ‘Slow, you may be; sure,
 you are!’ This he twice or thrice repeated with much complacency, as he
 again dispersed the legs of the Turkish trousers and bent the knees.
 
@@ -593,7 +593,7 @@ again dispersed the legs of the Turkish trousers and bent the knees.
 brought down with it! Now, when I heard the story told at Lammle’s, I
 didn’t make a jump at Riah. Not a hit of it; I got at him by degrees.’
 Herein he was quite accurate; it being his habit, not to jump, or
-leap, or make an upward spring, at anything in life, but to crawl at
+leap, or make an upward [[Spring|spring]], at anything in life, but to crawl at
 everything.
 
 ‘I got at him,’ pursued Fledgeby, feeling for his whisker, ‘by degrees.

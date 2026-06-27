@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 3)"
+title: "[[MrPond]] — A Tall Story (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 excitability of the Latins.  No, madam, I do not think she is
 
-climbing down the fire-escape.  I think she is saying that her
+climbing down the [[Fire|fire]]-escape.  I think she is saying that her
 
-pupils do not love her, and thinking about weltschmerz and suicide.
+pupils do not [[Love|love]] her, and thinking about weltschmerz and [[suicide]].
 
 And really, poor woman, she is in a very hard position."
 
@@ -34,7 +34,7 @@ victory."
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
-Englishwomen stranded in Germany by poverty or duty or dependence.
+Englishwomen stranded in [[Germany]] by [[Poverty|poverty]] or duty or dependence.
 
 If she loves her native land, it only shows she is a human being.
 
@@ -60,15 +60,15 @@ if anything she touched could remain trivial.
 
 sometimes recall to you the greatest and noblest work that ever
 
-came out of Germany."
+came out of [[Germany]]."
 
 
 
-"You refer to Goethe's Faust, I presume," she replied.
+"You refer to Goethe's [[Faust]], I presume," she replied.
 
 
 
-"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I fear I have
+"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[Fear|fear]] I have
 
 forgotten for the moment whether the story we call Puss-in-Boots
 
@@ -92,7 +92,7 @@ Pickles, in lights and various other embellishments, supported by
 
 that world-famed comedian who called himself Alberto Tizzi and was
 
-born in the Blackfriars Road.
+born in the Blackfriars [[Road]].
 
 
 
@@ -100,7 +100,7 @@ When he returned to his office at twilight, and, turning, beheld
 
 the figure of Mrs. Hartog-Haggard again hovering without, Mr. Pond
 
-began to think he was in a nightmare.  He wondered wildly whether
+began to think he was in a [[nightmare]].  He wondered wildly whether
 
 she had drawn some dark conclusions from his own meeting with the
 
@@ -118,11 +118,11 @@ room, crying out as she came:
 
 
 
-"Mr. Pond, do you know what is right opposite your own house?"
+"Mr. Pond, do you know what is right opposite your own [[house]]?"
 
 
 
-"Well, I think so," said Mr. Pond, doubtfully, "more or less."
+"[[Well]], I think so," said Mr. Pond, doubtfully, "more or less."
 
 
 
@@ -148,17 +148,17 @@ names?  Why, that makes it worse than ever!"
 
 
 
-"Well," said Mr. Pond, rising suddenly, and with a curtness that
+"[[Well]]," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
 
 
 
-And for the third time did Mr. Pond take some steps to verify the
+And for the third [[Time|time]] did Mr. Pond take some steps to verify the
 
 Hartog-Haggard revelations.  He took the ten or twelve steps
 
-necessary to take him across the road and into the shop of C.
+necessary to take him across the [[Road|road]] and into the shop of C.
 
 Schiller, amid all the shining sabres and yataghans.  It was a very
 
@@ -176,7 +176,7 @@ your own fault if there's a row of some kind and a Jingo mob comes
 
 here and breaks your windows for your absurd German name.  I know
 
-very well this is no quarrel of yours.  I am well aware," Mr. Pond
+very [[Well|well]] this is no quarrel of yours.  I am [[Well|well]] aware," Mr. Pond
 
 continued with an earnest gaze, "that you never invaded Belgium.  I
 
@@ -192,7 +192,7 @@ your fathers who go back to the most ancient priesthood of the
 
 world?  And you'll get into trouble with the Germans, too, some
 
-day, if you go about calling yourself Schiller.  You might as well
+day, if you go about calling yourself Schiller.  You might as [[Well|well]]
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
@@ -212,9 +212,9 @@ with unusual brevity; and left the shop to return to the office.
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
-towards the doorway, rose at his entrance; but Pond waved him to
+towards the doorway, [[Rose|rose]] at his entrance; but Pond waved him to
 
-his seat again and, lighting a cigarette, began to moon about the
+his seat again and, lighting a cigarette, began to [[Moon|moon]] about the
 
 room in a rather moody fashion.  He did not believe that there was
 
@@ -226,7 +226,7 @@ possibilities about the last.  Mr. Levy was certainly not a German;
 
 and it was very improbable that he was a real enthusiast for
 
-Germany; but it was not altogether impossible to suppose, in the
+[[Germany]]; but it was not altogether impossible to suppose, in the
 
 tangle and distraction of all the modern international muddle, that
 

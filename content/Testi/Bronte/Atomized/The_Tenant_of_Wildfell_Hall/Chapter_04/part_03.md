@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 4 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ to himself.
 
 “But don’t you think, Mr. Millward,” suggested he, when at length that
 
-gentleman paused in his discourse, “that when a child may be naturally
+gentleman paused in his discourse, “that when a [[Child|child]] may be naturally
 
 prone to intemperance—by the fault of its parents or ancestors, for
 
@@ -50,7 +50,7 @@ intoxicating liquors; but a parent’s authority cannot last for ever;
 
 children are naturally prone to hanker after forbidden things; and a
 
-child, in such a case, would be likely to have a strong curiosity to
+[[Child|child]], in such a case, would be likely to have a strong curiosity to
 
 taste, and try the effect of what has been so lauded and enjoyed by
 
@@ -64,11 +64,11 @@ pretend to be a judge of such matters, but it seems to me, that this
 
 plan of Mrs. Graham’s, as you describe it, Mrs. Markham, extraordinary
 
-as it may be, is not without its advantages; for here you see the child
+as it may be, is not without its advantages; for here you see the [[Child|child]]
 
-is delivered at once from temptation; he has no secret curiosity, no
+is delivered at once from [[Temptation|temptation]]; he has no secret curiosity, no
 
-hankering desire; he is as well acquainted with the tempting liquors as
+hankering [[Desire|desire]]; he is as [[Well|well]] acquainted with the tempting liquors as
 
 he ever wishes to be; and is thoroughly disgusted with them, without
 
@@ -78,27 +78,27 @@ having suffered from their effects.”
 
 “And is that right, sir? Have I not proven to you how wrong it is—how
 
-contrary to Scripture and to reason, to teach a child to look with
+contrary to Scripture and to reason, to teach a [[Child|child]] to look with
 
-contempt and disgust upon the blessings of Providence, instead of to
+contempt and disgust upon the blessings of [[Providence]], instead of to
 
 use them aright?”
 
 
 
-“You may consider laudanum a blessing of Providence, sir,” replied Mr.
+“You may consider laudanum a blessing of [[Providence]], sir,” replied Mr.
 
 Lawrence, smiling; “and yet, you will allow that most of us had better
 
 abstain from it, even in moderation; but,” added he, “I would not
 
-desire you to follow out my simile too closely—in witness whereof I
+[[Desire|desire]] you to follow out my simile too closely—in witness whereof I
 
 finish my glass.”
 
 
 
-“And take another, I hope, Mr. Lawrence,” said my mother, pushing the
+“And take another, I [[Hope|hope]], Mr. Lawrence,” said my mother, pushing the
 
 bottle towards him.
 
@@ -136,11 +136,11 @@ bitter for my taste.”
 
 He made no reply, but looked down and bit his lip, and shortly after
 
-rose and sauntered up to Miss Wilson, as much repelled by me, I fancy,
+[[Rose|rose]] and sauntered up to Miss Wilson, as much repelled by me, I fancy,
 
-as attracted by her. I scarcely noticed it at the time, but afterwards
+as attracted by her. I scarcely noticed it at the [[Time|time]], but afterwards
 
-I was led to recall this and other trifling facts, of a similar nature,
+I was led to recall this and other trifling facts, of a similar [[Nature|nature]],
 
 to my remembrance, when—but I must not anticipate.
 
@@ -152,7 +152,7 @@ scandal to be present on the occasion, though one of the village
 
 musicians was engaged to direct our evolutions with his violin. But
 
-Mary Millward obstinately refused to join us; and so did Richard
+Mary Millward obstinately refused to join us; and so did [[Richard]]
 
 Wilson, though my mother earnestly entreated him to do so, and even
 
@@ -160,7 +160,7 @@ offered to be his partner.
 
 
 
-We managed very well without them, however. With a single set of
+We managed very [[Well|well]] without them, however. With a single set of
 
 quadrilles, and several country dances, we carried it on to a pretty
 
@@ -168,11 +168,11 @@ late hour; and at length, having called upon our musician to strike up
 
 a waltz, I was just about to whirl Eliza round in that delightful
 
-dance, accompanied by Lawrence and Jane Wilson, and Fergus and Rose,
+[[Dance|dance]], accompanied by Lawrence and Jane Wilson, and Fergus and [[Rose]],
 
 when Mr. Millward interposed with:—“No, no; I don’t allow that! Come,
 
-it’s time to be going now.”
+it’s [[Time|time]] to be going now.”
 
 
 
@@ -180,15 +180,15 @@ it’s time to be going now.”
 
 
 
-“High time, my girl—high time! Moderation in all things, remember!
+“High [[Time|time]], my girl—high [[Time|time]]! Moderation in all things, remember!
 
 That’s the plan—‘Let your moderation be known unto all men!’”
 
 
 
-But in revenge I followed Eliza into the dimly-lighted passage, where,
+But in [[Revenge|revenge]] I followed Eliza into the dimly-lighted passage, where,
 
-under pretence of helping her on with her shawl, I fear I must plead
+under pretence of helping her on with her shawl, I [[Fear|fear]] I must plead
 
 guilty to snatching a kiss behind her father’s back, while he was
 
@@ -208,9 +208,9 @@ evening.
 
 “My dear Gilbert,” said she, “I wish you wouldn’t do so! You know how
 
-deeply I have your advantage at heart, how I love you and prize you
+deeply I have your advantage at heart, how I [[Love|love]] you and prize you
 
-above everything else in the world, and how much I long to see you well
+above everything else in the world, and how much I long to see you [[Well|well]]
 
 settled in life—and how bitterly it would grieve me to see you married
 
@@ -218,7 +218,7 @@ to that girl—or any other in the neighbourhood. What you _see_ in her I
 
 don’t know. It isn’t only the want of money that I think about—nothing
 
-of the kind—but there’s neither beauty, nor cleverness, nor goodness,
+of the kind—but there’s neither [[Beauty|beauty]], nor cleverness, nor goodness,
 
 nor anything else that’s desirable. If you knew your own value, as I
 
@@ -230,7 +230,7 @@ and see how many better there are. Take my word for it, you will.”
 
 
 
-“Well, mother, do be quiet!—I hate to be lectured!—I’m not going to
+“[[Well]], mother, do be quiet!—I hate to be lectured!—I’m not going to
 
 marry yet, I tell you; but—dear me! mayn’t I enjoy myself at _all?_”
 
@@ -250,7 +250,7 @@ heart—so there’s an end of it.”
 
 
 
-“Well, don’t cry about it, mother,” said I, for the tears were gushing
+“[[Well]], don’t cry about it, mother,” said I, for the [[Tears|tears]] were gushing
 
 from her eyes; “there, let that kiss efface the one I gave Eliza; don’t
 

@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act II, Scene 1 — exchange (OBERON) [2]"
+title: "A Midsummer Nights Dream — Act II, Scene 1 — exchange ([[Oberon|OBERON]]) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| OBERON | How canst thou thus for shame, Titania, Glance at my credit with Hippolyta, Knowing I know thy love to Theseus? Didst not thou lead him through the glimmering night From Perigouna whom he ravished, And make him with fair Aegles break his faith, With Ariadne and Antiopa? |
+| [[Oberon|OBERON]] | How canst thou thus for shame, [[Titania]], Glance at my credit with [[Hippolyta]], Knowing I know thy [[Love|love]] to [[Theseus]]? Didst not thou lead him through the glimmering [[Night|night]] From Perigouna whom he ravished, And make him with fair Aegles break his [[Faith|faith]], With Ariadne and Antiopa? |

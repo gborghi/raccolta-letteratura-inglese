@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -28,7 +28,7 @@ they could get, and looked at the almanac and one or two papers which
 were wafered against the wall, with as much open-eyed reverence as if
 they had been the finest efforts of the old masters.
 
-‘Well, I’ll bet you half a dozen of claret on it; come!’ said Wilkins
+‘[[Well]], I’ll bet you half a dozen of claret on it; come!’ said Wilkins
 Flasher, Esquire, resuming the conversation to which Mr. Pell’s entrance
 had caused a momentary interruption.
 
@@ -38,8 +38,8 @@ ruler. Wilkins Flasher, Esquire, was balancing himself on two legs of an
 office stool, spearing a wafer-box with a penknife, which he dropped
 every now and then with great dexterity into the very centre of a small
 red wafer that was stuck outside. Both gentlemen had very open
-waistcoats and very rolling collars, and very small boots, and very big
-rings, and very little watches, and very large guard-chains, and
+waistcoats and very [[rolling]] collars, and very small boots, and very big
+rings, and very little watches, and very large guard-[[Chains|chains]], and
 symmetrical inexpressibles, and scented pocket-handkerchiefs.
 
 ‘I never bet half a dozen!’ said the other gentleman. ‘I’ll take a
@@ -55,7 +55,7 @@ gentleman entered it also, in another little book with another gold
 pencil-case.
 
 ‘I see there’s a notice up this morning about Boffer,’ observed Mr.
-Simmery. ‘Poor devil, he’s expelled the house!’
+Simmery. ‘Poor devil, he’s expelled the [[house]]!’
 
 ‘I’ll bet you ten guineas to five, he cuts his throat,’ said Wilkins
 Flasher, Esquire.
@@ -72,7 +72,7 @@ himself.’
 ‘Kills himself, in fact,’ said Wilkins Flasher, Esquire.
 
 ‘Just so,’ replied Mr. Simmery, putting it down. ‘“Flasher--ten guineas
-to five, Boffer kills himself.” Within what time shall we say?’
+to five, Boffer kills himself.” Within what [[Time|time]] shall we say?’
 
 ‘A fortnight?’ suggested Wilkins Flasher, Esquire.
 
@@ -82,12 +82,12 @@ smash a fly with the ruler. ‘Say a week.’
 ‘Split the difference,’ said Wilkins Flasher, Esquire. ‘Make it ten
 days.’
 
-‘Well; ten days,’ rejoined Mr. Simmery.
+‘[[Well]]; ten days,’ rejoined Mr. Simmery.
 
 So it was entered down on the little books that Boffer was to kill
 himself within ten days, or Wilkins Flasher, Esquire, was to hand over
 to Frank Simmery, Esquire, the sum of ten guineas; and that if Boffer
-did kill himself within that time, Frank Simmery, Esquire, would pay to
+did kill himself within that [[Time|time]], Frank Simmery, Esquire, would pay to
 Wilkins Flasher, Esquire, five guineas, instead.
 
 ‘I’m very sorry he has failed,’ said Wilkins Flasher, Esquire. ‘Capital
@@ -102,7 +102,7 @@ Five guineas my man outbids your man.’
 ‘Done.’
 
 Another entry was made in the little books, with the gold pencil-cases;
-and Mr. Simmery, having by this time killed all the flies and taken all
+and Mr. Simmery, having by this [[Time|time]] killed all the flies and taken all
 the bets, strolled away to the Stock Exchange to see what was going
 forward.
 
@@ -113,7 +113,7 @@ three friends staring at all they beheld in unbounded astonishment, and
 Sam encountering everything with a coolness which nothing could disturb.
 
 Crossing a courtyard which was all noise and bustle, and passing a
-couple of porters who seemed dressed to match the red fire engine which
+couple of porters who seemed dressed to match the red [[Fire|fire]] engine which
 was wheeled away into a corner, they passed into an office where their
 business was to be transacted, and where Pell and Mr. Flasher left them
 standing for a few moments, while they went upstairs into the Will
@@ -164,13 +164,13 @@ been for the prompt, though, at first sight, undutiful behaviour of Sam,
 who, seizing his father by the skirt of the coat, dragged him to the
 counter, and pinned him there, until he had affixed his signature to a
 couple of instruments; which, from Mr. Weller’s habit of printing, was a
-work of so much labour and time, that the officiating clerk peeled and
+work of so much labour and [[Time|time]], that the officiating clerk peeled and
 ate three Ribstone pippins while it was performing.
 
 As the elder Mr. Weller insisted on selling out his portion forthwith,
 they proceeded from the bank to the gate of the Stock Exchange, to which
 Wilkins Flasher, Esquire, after a short absence, returned with a cheque
-on Smith, Payne, & Smith, for five hundred and thirty pounds; that being
+on [[smith|Smith]], Payne, & [[smith|Smith]], for five hundred and thirty pounds; that being
 the money to which Mr. Weller, at the market price of the day, was
 entitled, in consideration of the balance of the second Mrs. Weller’s
 funded savings. Sam’s two hundred pounds stood transferred to his name,
@@ -180,10 +180,10 @@ office.
 
 Mr. Weller was at first obstinately determined on cashing the cheque in
 nothing but sovereigns; but it being represented by the umpires that by
-so doing he must incur the expense of a small sack to carry them home
+so doing he must incur the expense of a small sack to carry them [[Home|home]]
 in, he consented to receive the amount in five-pound notes.
 
-‘My son,’ said Mr. Weller, as they came out of the banking-house--‘my
+‘My son,’ said Mr. Weller, as they came out of the banking-[[house]]--‘my
 son and me has a wery partickler engagement this arternoon, and I should
 like to have this here bis’ness settled out of hand, so let’s jest go
 straight avay someveres, vere ve can hordit the accounts.’
@@ -197,9 +197,9 @@ and one on which he boarded, lodged, and washed, for six months
 afterwards.
 
 The umpires having partaken of a dram, shook hands and departed, as they
-had to drive out of town that night. Mr. Solomon Pell, finding that
+had to drive out of town that [[Night|night]]. Mr. Solomon Pell, finding that
 nothing more was going forward, either in the eating or drinking way,
-took a friendly leave, and Sam and his father were left alone.
+took a friendly leave, and Sam and his father were left [[Alone|alone]].
 
 ‘There!’ said Mr. Weller, thrusting his pocket-book in his side pocket.
 ‘Vith the bills for the lease, and that, there’s eleven hundred and

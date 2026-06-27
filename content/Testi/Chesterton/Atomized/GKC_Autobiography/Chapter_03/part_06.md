@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 3 (part 6)"
+title: "[[GKC-Autobiography]] — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -41,7 +41,7 @@ was not merely disguised but denied among most normal schoolboys.
 Doubtless, I came to know the Jews because in this sense they were
 a little abnormal, as I was then becoming a little abnormal myself.
 Yet there is nothing I have come to count more normal,
-and nothing I desire more to restore to its normal place,
+and nothing I [[Desire|desire]] more to restore to its normal place,
 than those two things; the family and the theory of thanks.
 And then, in the light of these virtues as seen from within,
 it was often possible to understand the origin and even the
@@ -65,7 +65,7 @@ will not explain them away.  Nor have the Jews a worse enemy than
 the sort of Jew sceptic who sometimes tries to explain himself away.
 I have seen a whole book full of alternative theories of the particular
 historic cause of such a delusion about a difference; that it came
-from mediaeval priests or was burnt into us by the Inquisition;
+from mediaeval priests or was burnt into us by the [[Inquisition]];
 that it was a tribal theory arising out of Teutonism; that it
 was revolutionary envy of the few Jews who happened to be the big
 bankers of Capitalism; that it was Capitalist resistance to
@@ -87,18 +87,18 @@ and the schoolboys recognised them, not with any great hostility
 except in patches; but with the integration of instinct.  What they
 saw was not Semites or Schismatics or capitalists or revolutionists,
 but foreigners; only foreigners that were not called foreigners.
-This did not prevent friendship and affection, especially in my own case;
+This did not prevent [[Friendship|friendship]] and affection, especially in my own case;
 but then it never has prevented it in the case of ordinary foreigners.
 One of these early friends of mine, now Professor of Latin at
 University College, happened to have all the Jewish virtues, and also
 all the others there are; he afterwards became a member of the little
-club already described; and passed through Oxford with distinction;
+club already described; and passed through [[Oxford]] with distinction;
 probably greater distinction than my other friends.
 
 Most of the members of our little club, however, thus passed
 on to the older Universities and were promising figures either
 on the academic or social and political side; two of them being
-Presidents of the Oxford and two of the Cambridge Union.
+Presidents of the [[Oxford]] and two of the Cambridge [[Union]].
 Oldershaw, characteristically enough, was almost instantly found
 immersed and entangled in the establishment of yet another
 unofficial paper, called the J.C.R., in which were not a few
@@ -111,7 +111,7 @@ and composed the simple lines that end:
 
   It seems a pity certainly
   That two such men as we
-  By such a trifle as the Grave
+  By such a trifle as the [[Grave]]
   Should separated be.
   'Twas ever thus; we might have had
   A pleasant afternoon,
@@ -134,14 +134,14 @@ There seemed a general tendency of these schoolfellows of mine
 to excel in light verse; Fordham, who went to Cambridge,
 has written many satiric lyrics which have been published
 and many satiric dramas which ought to be published.
-If I wind up here some of the stories of my old friends, it is not
+If I [[Wind|wind]] up here some of the stories of my old friends, it is not
 because I dismiss them from my memories, but because I must admit
 a multitude of much less interesting people into my memoirs.
 One contrast in their subsequent careers has always struck me as a
 curious case of the incalculable individuality and freewill of man.
 A friend of Fordham, normal, virile and ambitious, popular rather
 in the sense of fashionable, always struck me as the sort of man who
-could wear a uniform in camp or court, serving the obvious virtues.
+could wear a uniform in camp or [[Court|court]], serving the obvious virtues.
 When the Great War came, he became an uncompromising and unconventional
 Pacifist agitator.  Another, a friend of Vernède, one of those rare
 spiritual types in which a Puritan tradition has really flowered into
@@ -149,15 +149,15 @@ a full Hellenic culture, is the most unselfish man I ever knew in my life,
 of the sort that is still unsatisfied even with its own unselfishness.
 I should say he was something rather like a saint; but I should
 never have been surprised if he had been a Conscientious Objector.
-As a fact, he went to the Front in a flash like fire; and had his
+As a fact, he went to the Front in a flash like [[Fire|fire]]; and had his
 leg shot off in his first battle.
 
-But all this time very queer things were groping and wrestling
+But all this [[Time|time]] very queer things were groping and wrestling
 inside my own undeveloped mind; and I have said nothing of them
 in this chapter; for it was the sustained and successful
 effort of most of my school life to keep them to myself.
-I said farewell to my friends when they went up to Oxford and Cambridge;
-while I, who was at that time almost wholly taken up with the idea
+I said farewell to my friends when they went up to [[Oxford]] and Cambridge;
+while I, who was at that [[Time|time]] almost wholly taken up with the idea
 of drawing pictures, went to an Art School and brought my boyhood
 to an end.
 

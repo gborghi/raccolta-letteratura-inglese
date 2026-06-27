@@ -1,5 +1,5 @@
 ---
-title: "Mystification (part 4)"
+title: "[[Mystification]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mystification-(Poe)"
@@ -30,7 +30,7 @@ tags:
 
       which, however, was converted into a smile of the most ludicrous
 
-      self-complacency as he came to the rigmarole about Injuriae per
+      [[Self|self]]-complacency as he came to the rigmarole about Injuriae per
 
       applicationem, per constructionem, et per se. Having finished
 
@@ -50,7 +50,7 @@ tags:
 
       the fullest, the most honorable, and the most unequivocally
 
-      satisfactory nature.
+      satisfactory [[Nature|nature]].
 
 
 
@@ -82,7 +82,7 @@ tags:
 
       present to the ear all the outward signs of intelligibility, and
 
-      even of profundity, while in fact not a shadow of meaning
+      even of profundity, while in fact not a [[Shadow|shadow]] of meaning
 
       existed. The key to the whole was found in leaving out every
 
