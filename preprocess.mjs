@@ -109,6 +109,9 @@ const CONTENT = path.join(ROOT, "content")
 const TESTI_REL = "Testi"
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "index.json")
 const KW_JSON = path.join(ROOT, "quartz", "static", "works_kw.json")
+// LLM-extracted per-chapter tags (characters/themes/plot), committed source of
+// truth for #17 chapter interlinking. Optional: absent on a fresh checkout.
+const CHAPTER_TAGS = path.join(ROOT, "data", "chapter_tags.json")
 
 const STOPWORDS = new Set((
   // English
@@ -622,6 +625,91 @@ async function main() {
     console.log(
       `related.json: ${Object.keys(related).length} works with related links`,
     )
+  }
+
+  // ---- Chapter-level interlinking by characters/themes/plot (#17) ----
+  // Reads the LLM-extracted per-chapter tags (data/chapter_tags.json) and links
+  // each chapter to the chapters that share the most (and rarest) characters and
+  // themes, rarity-weighted exactly like the work-level pass. Characters are
+  // work-specific so they bind chapters within a work; themes are cross-work, so
+  // a chapter in one novel can surface a thematically-twin chapter in another.
+  // Emits chapter_related.json; the RelatedWorks component renders it on chapter
+  // pages ("Capitoli correlati"). Skipped silently if the tags file is absent.
+  try {
+    const raw = await fs.readFile(CHAPTER_TAGS, "utf8")
+    const tags = JSON.parse(raw)
+    const unitMeta = new Map() // href -> { title, work, workHref }
+    for (const u of Object.values(excerpts)) {
+      unitMeta.set(u.href, {
+        title: String(u.title || "").replace(/\[\[|\]\]/g, ""),
+        work: u.work || "",
+        workHref: u.workHref || "",
+      })
+    }
+    const TOP_N = 6
+    const DF_CAP = 200
+    // token = "c:<character>" or "t:<theme>"; build per-chapter token lists + df.
+    const chapTokens = new Map()
+    const df = new Map()
+    for (const [href, t] of Object.entries(tags)) {
+      const toks = [
+        ...(t.characters || []).map((c) => "c:" + c),
+        ...(t.themes || []).map((x) => "t:" + String(x).toLowerCase().trim()),
+      ]
+      chapTokens.set(href, toks)
+      for (const tok of new Set(toks)) df.set(tok, (df.get(tok) || 0) + 1)
+    }
+    const tokenWorks = new Map() // token -> [chapter hrefs]
+    for (const [href, toks] of chapTokens) {
+      for (const tok of new Set(toks)) {
+        if ((df.get(tok) || 0) > DF_CAP) continue
+        let arr = tokenWorks.get(tok)
+        if (!arr) tokenWorks.set(tok, (arr = []))
+        arr.push(href)
+      }
+    }
+    const chapterRelated = {}
+    for (const [href, toks] of chapTokens) {
+      const score = new Map() // other href -> { s, shared }
+      for (const tok of new Set(toks)) {
+        const d = df.get(tok) || 0
+        if (d < 2 || d > DF_CAP) continue
+        const weight = 1 / Math.log2(d + 1)
+        for (const other of tokenWorks.get(tok) || []) {
+          if (other === href) continue
+          let v = score.get(other)
+          if (!v) score.set(other, (v = { s: 0, shared: 0 }))
+          v.s += weight
+          v.shared += 1
+        }
+      }
+      if (!score.size) continue
+      const top = [...score.entries()]
+        .sort((a, b) => b[1].s - a[1].s || b[1].shared - a[1].shared)
+        .slice(0, TOP_N)
+        .map(([oh, v]) => {
+          const m = unitMeta.get(oh) || {}
+          const plot = tags[oh]?.plot || ""
+          return {
+            href: oh,
+            title: m.title || oh,
+            work: m.work || "",
+            shared: v.shared,
+            plot: plot.length > 160 ? plot.slice(0, 157) + "…" : plot,
+          }
+        })
+      if (top.length) chapterRelated[href] = top
+    }
+    await fs.writeFile(
+      path.join(ROOT, "quartz", "static", "chapter_related.json"),
+      JSON.stringify(chapterRelated),
+    )
+    console.log(
+      `chapter_related.json: ${Object.keys(chapterRelated).length} chapters with related links`,
+    )
+  } catch (e) {
+    if (e.code !== "ENOENT") throw e
+    console.log("chapter_tags.json absent — skipping chapter interlinking")
   }
 
   const authors = [...new Set(works.map((w) => w.author).filter(Boolean))].sort()

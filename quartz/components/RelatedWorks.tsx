@@ -14,6 +14,9 @@ const style = `
 .related-works li { padding: 0.15rem 0; line-height: 1.3; }
 .related-works a { font-weight: 600; }
 .related-works .rw-author { color: var(--gray); font-size: 0.85rem; }
+.related-works li.rw-chapter { padding: 0.35rem 0; }
+.related-works .rw-plot { color: var(--gray); font-size: 0.8rem; font-weight: 400;
+  line-height: 1.35; margin-top: 0.15rem; }
 `
 
 export default (() => {
