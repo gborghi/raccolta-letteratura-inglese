@@ -28,6 +28,7 @@ import CercaPage from "./CercaPage"
 import ConceptWorks from "./ConceptWorks"
 import RadialWheel from "./RadialWheel"
 import BraniTable from "./BraniTable"
+import RelatedWorks from "./RelatedWorks"
 
 export {
   OpereTable,
@@ -35,6 +36,7 @@ export {
   ConceptWorks,
   RadialWheel,
   BraniTable,
+  RelatedWorks,
   ArticleTitle,
   Content,
   TagContent,

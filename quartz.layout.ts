@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ConceptWorks(),
     Component.RadialWheel(),
     Component.BraniTable(),
+    Component.RelatedWorks(),
   ],
   footer: Component.Footer({
     links: {

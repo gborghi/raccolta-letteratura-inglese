@@ -570,6 +570,60 @@ async function main() {
     JSON.stringify(conceptIndex),
   )
 
+  // ---- Horizontal work<->work links: "Opere correlate" ----
+  // For each work, find the works that share the most (and rarest) concept
+  // tags. Concept rarity is weighted (1/log2(df+1)) so a niche shared archetype
+  // counts more than a ubiquitous one; very generic concepts (linking more than
+  // DF_CAP works) are dropped as noise and to bound the O(df^2) pairing cost.
+  // Emit related.json keyed by work href; the RelatedWorks component renders it
+  // client-side on each work page (no per-note content rewrite).
+  {
+    const DF_CAP = 80
+    const TOP_N = 8
+    const workMeta = new Map(works.map((w) => [w.href, w]))
+    const workConcepts = new Map() // work href -> [{ slug, weight }]
+    for (const [slug, entry] of Object.entries(conceptIndex)) {
+      const df = entry.works.length
+      if (df < 2 || df > DF_CAP) continue
+      const weight = 1 / Math.log2(df + 1)
+      for (const h of entry.works) {
+        if (!workMeta.has(h)) continue
+        let arr = workConcepts.get(h)
+        if (!arr) workConcepts.set(h, (arr = []))
+        arr.push({ slug, weight })
+      }
+    }
+    const related = {}
+    for (const [h, concepts] of workConcepts) {
+      const score = new Map() // other href -> { s, shared }
+      for (const { slug, weight } of concepts) {
+        for (const other of conceptIndex[slug].works) {
+          if (other === h || !workMeta.has(other)) continue
+          let v = score.get(other)
+          if (!v) score.set(other, (v = { s: 0, shared: 0 }))
+          v.s += weight
+          v.shared += 1
+        }
+      }
+      if (!score.size) continue
+      const top = [...score.entries()]
+        .sort((a, b) => b[1].s - a[1].s || b[1].shared - a[1].shared)
+        .slice(0, TOP_N)
+        .map(([oh, v]) => {
+          const m = workMeta.get(oh)
+          return { href: oh, title: m.title, author: m.author, shared: v.shared }
+        })
+      if (top.length) related[h] = top
+    }
+    await fs.writeFile(
+      path.join(ROOT, "quartz", "static", "related.json"),
+      JSON.stringify(related),
+    )
+    console.log(
+      `related.json: ${Object.keys(related).length} works with related links`,
+    )
+  }
+
   const authors = [...new Set(works.map((w) => w.author).filter(Boolean))].sort()
   const clusters = [...new Set(works.map((w) => w.cluster).filter(Boolean))].sort()
 
