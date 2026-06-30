@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_60_AGNES/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_61_I_AM_SHOWN_TWO_INTERESTING_PEN/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_60_agnes/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_61_i_am_shown_two_interesting_pen/part_02">part 02 ›</a></div>
 </nav>
 
 

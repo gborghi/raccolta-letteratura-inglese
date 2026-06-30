@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER THE SECOND."
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_48_HAPTER_I">‹ Story 48 HAPTER I</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_50_HAPTER_IIMR_MINNS_AND_HIS_COUSIN">Story 50 HAPTER IIMR MINNS AND HIS COUSIN ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_48_hapter_i">‹ Story 48 HAPTER I</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_50_hapter_iimr_minns_and_his_cousin">Story 50 HAPTER IIMR MINNS AND HIS COUSIN ›</a></div>
 </nav>
 
 

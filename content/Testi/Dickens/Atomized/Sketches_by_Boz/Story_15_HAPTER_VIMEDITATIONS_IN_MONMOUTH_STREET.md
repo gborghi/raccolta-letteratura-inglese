@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VI—MEDITATIONS IN MONMOUTH-STREET"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_14_HAPTER_VSEVEN_DIALS">‹ Story 14 HAPTER VSEVEN DIALS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_16_HAPTER_VIIHACKNEY_COACH_STANDS">Story 16 HAPTER VIIHACKNEY COACH STANDS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_14_hapter_vseven_dials">‹ Story 14 HAPTER VSEVEN DIALS</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_16_hapter_viihackney_coach_stands">Story 16 HAPTER VIIHACKNEY COACH STANDS ›</a></div>
 </nav>
 
 

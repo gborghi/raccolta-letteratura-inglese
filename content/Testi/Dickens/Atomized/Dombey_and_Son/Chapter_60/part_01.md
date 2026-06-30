@@ -2,15 +2,15 @@
 title: "Dombey and Son — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Dombey-and-Son-(Dickens)"
+parentWork: "works/dombey-and-son-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_59/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_60/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_59/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_60/part_02">part 02 ›</a></div>
 </nav>
 
 

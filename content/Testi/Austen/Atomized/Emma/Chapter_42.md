@@ -2,15 +2,15 @@
 title: "[[Emma]] — Chapter 4"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Emma-(Austen)"
+parentWork: "works/emma-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_41">‹ Chapter 41</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_43">Chapter 43 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_41">‹ Chapter 41</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_43">Chapter 43 ›</a></div>
 </nav>
 
 

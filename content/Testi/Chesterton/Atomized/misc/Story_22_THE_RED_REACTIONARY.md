@@ -2,15 +2,15 @@
 title: "[[misc]] — THE RED REACTIONARY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_21_THE_MYSTAGOGUE">‹ Story 21 THE MYSTAGOGUE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_23_THE_SEPARATIST_AND_SACRED_THINGS">Story 23 THE SEPARATIST AND SACRED THINGS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_21_the_mystagogue">‹ Story 21 THE MYSTAGOGUE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_23_the_separatist_and_sacred_things">Story 23 THE SEPARATIST AND SACRED THINGS ›</a></div>
 </nav>
 
 

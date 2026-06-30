@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Antipholus-of-Syracuse"></div>
+<div class="concept-works" data-slug="characters/antipholus-of-syracuse"></div>
 
 #graph/character

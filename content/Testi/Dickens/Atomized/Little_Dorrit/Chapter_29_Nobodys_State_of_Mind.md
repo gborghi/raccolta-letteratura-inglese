@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 26: Nobody’s State of Mind"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_28_Conspirators_and_Others">‹ Chapter 28 Conspirators and Others</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_30_Five_and_Twenty">Chapter 30 Five and Twenty ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_28_conspirators_and_others">‹ Chapter 28 Conspirators and Others</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_30_five_and_twenty">Chapter 30 Five and Twenty ›</a></div>
 </nav>
 
 

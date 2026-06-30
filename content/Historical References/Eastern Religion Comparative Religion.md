@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Eastern-Religion-Comparative-Religion"></div>
+<div class="concept-works" data-slug="historical-references/eastern-religion-comparative-religion"></div>
 
 #graph/histref

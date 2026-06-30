@@ -2,15 +2,15 @@
 title: "The Man Who Knew Too Much — The Temple of [[Silence]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
+parentWork: "works/the-man-who-knew-too-much-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_06_The_Hole_in_the_Wall">‹ Story 06 The Hole in the Wall</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_08_The_Vengeance_of_the_Statue">Story 08 The Vengeance of the Statue ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall">‹ Story 06 The Hole in the Wall</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue">Story 08 The Vengeance of the Statue ›</a></div>
 </nav>
 
 

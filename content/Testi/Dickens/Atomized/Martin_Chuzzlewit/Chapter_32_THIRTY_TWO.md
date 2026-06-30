@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 32: THIRTY TWO"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_31_THIRTY_ONE">‹ Chapter 31 THIRTY ONE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_33_THIRTY_THREE">Chapter 33 THIRTY THREE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one">‹ Chapter 31 THIRTY ONE</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_33_thirty_three">Chapter 33 THIRTY THREE ›</a></div>
 </nav>
 
 

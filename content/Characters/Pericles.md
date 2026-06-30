@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Pericles"></div>
+<div class="concept-works" data-slug="characters/pericles"></div>
 
 #graph/character

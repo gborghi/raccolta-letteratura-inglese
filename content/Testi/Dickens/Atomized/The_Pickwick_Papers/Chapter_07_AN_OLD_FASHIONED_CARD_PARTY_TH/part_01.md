@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_06_A_SHORT_ONE_SHOWING_AMONG_OTHE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_07_AN_OLD_FASHIONED_CARD_PARTY_TH/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_a_short_one_showing_among_othe/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_an_old_fashioned_card_party_th/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Seth-Pecksniff"></div>
+<div class="concept-works" data-slug="characters/seth-pecksniff"></div>
 
 #graph/character

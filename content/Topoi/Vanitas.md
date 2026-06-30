@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Vanitas"></div>
+<div class="concept-works" data-slug="topoi/vanitas"></div>
 
 #graph/topos

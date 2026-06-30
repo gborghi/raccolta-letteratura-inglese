@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Sleep-·-Sleeper-Awakes-·-Resurrection"></div>
+<div class="concept-works" data-slug="clusters/sleep-·-sleeper-awakes-·-resurrection"></div>

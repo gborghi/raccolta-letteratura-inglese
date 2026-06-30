@@ -2,15 +2,15 @@
 title: "Twelve Types — THOMAS CARLYLE (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle/part_03">part 03 ›</a></div>
 </nav>
 
 

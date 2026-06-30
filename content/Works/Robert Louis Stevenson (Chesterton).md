@@ -48,16 +48,16 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_08)
-- [Chapter 09](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_09)
-- [Chapter 10](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_10)
+- [Chapter 01](/testi/chesterton/atomized/robert_louis_stevenson/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/robert_louis_stevenson/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/robert_louis_stevenson/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/robert_louis_stevenson/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/robert_louis_stevenson/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/robert_louis_stevenson/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/robert_louis_stevenson/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/robert_louis_stevenson/chapter_08)
+- [Chapter 09](/testi/chesterton/atomized/robert_louis_stevenson/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/robert_louis_stevenson/chapter_10)
 
 ## Testo integrale / Full text
 

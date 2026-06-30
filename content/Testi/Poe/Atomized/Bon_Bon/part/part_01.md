@@ -2,15 +2,15 @@
 title: "[[Bon-Bon]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Bon-Bon-(Poe)"
+parentWork: "works/bon-bon-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Bon-Bon-(Poe)">Bon Bon</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Bon_Bon/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/bon-bon-(poe)">Bon Bon</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/bon_bon/part/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Florence-Dombey"></div>
+<div class="concept-works" data-slug="characters/florence-dombey"></div>
 
 #graph/character

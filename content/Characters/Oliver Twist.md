@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Oliver-Twist"></div>
+<div class="concept-works" data-slug="characters/oliver-twist"></div>
 
 #graph/character

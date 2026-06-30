@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cressida"></div>
+<div class="concept-works" data-slug="characters/cressida"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "[[Wuthering Heights]] — Chapter 28 (part 1)"
 author: "Bronte"
 unitType: excerpt
-parentWork: "Works/Wuthering-Heights-(Bronte)"
+parentWork: "works/wuthering-heights-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_28/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_27/part_04">‹ part 04</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_28/part_02">part 02 ›</a></div>
 </nav>
 
 

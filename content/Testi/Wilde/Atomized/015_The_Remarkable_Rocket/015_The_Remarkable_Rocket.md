@@ -2,14 +2,14 @@
 title: "The [[Remarkable Rocket]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Remarkable-Rocket-(Wilde)"
+parentWork: "works/the-remarkable-rocket-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Remarkable-Rocket-(Wilde)">015 The Remarkable Rocket</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-remarkable-rocket-(wilde)">015 The Remarkable Rocket</a></div>
 </nav>
 
 

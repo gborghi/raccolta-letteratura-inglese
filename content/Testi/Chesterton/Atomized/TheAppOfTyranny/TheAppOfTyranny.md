@@ -2,14 +2,14 @@
 title: "[[TheAppOfTyranny]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/TheAppOfTyranny-(Chesterton)"
+parentWork: "works/theappoftyranny-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/TheAppOfTyranny-(Chesterton)">TheAppOfTyranny</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/theappoftyranny-(chesterton)">TheAppOfTyranny</a></div>
 </nav>
 
 

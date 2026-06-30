@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Guilt-·-Conscience-·-Fate-and-Free-Will"></div>
+<div class="concept-works" data-slug="clusters/guilt-·-conscience-·-fate-and-free-will"></div>

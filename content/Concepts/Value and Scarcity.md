@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Value-and-Scarcity"></div>
+<div class="concept-works" data-slug="concepts/value-and-scarcity"></div>
 
 #graph/concept

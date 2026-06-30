@@ -2,15 +2,15 @@
 title: "[[The Black Cat]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Black-Cat-(Poe)"
+parentWork: "works/the-black-cat-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Black-Cat-(Poe)">The Black Cat</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Black_Cat/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-black-cat-(poe)">The Black Cat</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_black_cat/part/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Twelve Types — THE POSITION OF SIR WALTER SCOTT"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_10_SAVONAROLA">‹ Story 10 SAVONAROLA</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_02_WILLIAM_MORRIS_AND_HIS_SCHOOL/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_10_savonarola">‹ Story 10 SAVONAROLA</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school/part_01">part 01 ›</a></div>
 </nav>
 
 

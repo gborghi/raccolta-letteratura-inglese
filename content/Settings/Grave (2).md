@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Grave-(2)"></div>
+<div class="concept-works" data-slug="settings/grave-(2)"></div>
 
 #graph/setting

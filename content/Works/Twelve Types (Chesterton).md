@@ -29,17 +29,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 CHARLOTTE BRONTE](/Testi/Chesterton/Atomized/Twelve_Types/Story_01_CHARLOTTE_BRONTE)
-- [Story 02 WILLIAM MORRIS AND HIS SCHOOL](/Testi/Chesterton/Atomized/Twelve_Types/Story_02_WILLIAM_MORRIS_AND_HIS_SCHOOL)
-- [Story 03 THE OPTIMISM OF BYRON](/Testi/Chesterton/Atomized/Twelve_Types/Story_03_THE_OPTIMISM_OF_BYRON)
-- [Story 04 POPE AND THE ART OF SATIRE](/Testi/Chesterton/Atomized/Twelve_Types/Story_04_POPE_AND_THE_ART_OF_SATIRE)
-- [Story 05 FRANCIS](/Testi/Chesterton/Atomized/Twelve_Types/Story_05_FRANCIS)
-- [Story 06 ROSTAND](/Testi/Chesterton/Atomized/Twelve_Types/Story_06_ROSTAND)
-- [Story 07 CHARLES II](/Testi/Chesterton/Atomized/Twelve_Types/Story_07_CHARLES_II)
-- [Story 08 THOMAS CARLYLE](/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE)
-- [Story 09 TOLSTOY AND THE CULT OF SIMPLICITY](/Testi/Chesterton/Atomized/Twelve_Types/Story_09_TOLSTOY_AND_THE_CULT_OF_SIMPLICITY)
-- [Story 10 SAVONAROLA](/Testi/Chesterton/Atomized/Twelve_Types/Story_10_SAVONAROLA)
-- [Story 11 THE POSITION OF SIR WALTER SCOTT](/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT)
+- [Story 01 CHARLOTTE BRONTE](/testi/chesterton/atomized/twelve_types/story_01_charlotte_bronte)
+- [Story 02 WILLIAM MORRIS AND HIS SCHOOL](/testi/chesterton/atomized/twelve_types/story_02_william_morris_and_his_school)
+- [Story 03 THE OPTIMISM OF BYRON](/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron)
+- [Story 04 POPE AND THE ART OF SATIRE](/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire)
+- [Story 05 FRANCIS](/testi/chesterton/atomized/twelve_types/story_05_francis)
+- [Story 06 ROSTAND](/testi/chesterton/atomized/twelve_types/story_06_rostand)
+- [Story 07 CHARLES II](/testi/chesterton/atomized/twelve_types/story_07_charles_ii)
+- [Story 08 THOMAS CARLYLE](/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle)
+- [Story 09 TOLSTOY AND THE CULT OF SIMPLICITY](/testi/chesterton/atomized/twelve_types/story_09_tolstoy_and_the_cult_of_simplicity)
+- [Story 10 SAVONAROLA](/testi/chesterton/atomized/twelve_types/story_10_savonarola)
+- [Story 11 THE POSITION OF SIR WALTER SCOTT](/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott)
 
 ## Testo integrale / Full text
 

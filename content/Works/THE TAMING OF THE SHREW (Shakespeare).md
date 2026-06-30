@@ -59,20 +59,20 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Act_1 · Scene_1](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_1/Scene_1)
-- [Act_1 · Scene_2](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_1/Scene_2)
-- [Act_2 · Scene_1](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_2/Scene_1)
-- [Act_3 · Scene_1](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_3/Scene_1)
-- [Act_3 · Scene_2](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_3/Scene_2)
-- [Act_3 · Scene_3](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_3/Scene_3)
-- [Act_4 · Scene_1](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_1)
-- [Act_4 · Scene_2](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_2)
-- [Act_4 · Scene_3](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_3)
-- [Act_4 · Scene_4](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_4)
-- [Act_4 · Scene_5](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_5)
-- [Act_4 · Scene_6](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_6)
-- [Act_5 · Scene_1](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_5/Scene_1)
-- [Act_5 · Scene_2](/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_5/Scene_2)
+- [Act_1 · Scene_1](/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_1)
+- [Act_1 · Scene_2](/testi/shakespeare/plays/the_taming_of_the_shrew/act_1/scene_2)
+- [Act_2 · Scene_1](/testi/shakespeare/plays/the_taming_of_the_shrew/act_2/scene_1)
+- [Act_3 · Scene_1](/testi/shakespeare/plays/the_taming_of_the_shrew/act_3/scene_1)
+- [Act_3 · Scene_2](/testi/shakespeare/plays/the_taming_of_the_shrew/act_3/scene_2)
+- [Act_3 · Scene_3](/testi/shakespeare/plays/the_taming_of_the_shrew/act_3/scene_3)
+- [Act_4 · Scene_1](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_1)
+- [Act_4 · Scene_2](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_2)
+- [Act_4 · Scene_3](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_3)
+- [Act_4 · Scene_4](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_4)
+- [Act_4 · Scene_5](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_5)
+- [Act_4 · Scene_6](/testi/shakespeare/plays/the_taming_of_the_shrew/act_4/scene_6)
+- [Act_5 · Scene_1](/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_1)
+- [Act_5 · Scene_2](/testi/shakespeare/plays/the_taming_of_the_shrew/act_5/scene_2)
 
 
 ## Testo integrale / Full text

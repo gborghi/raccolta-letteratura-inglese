@@ -2,14 +2,14 @@
 title: "[[Villette]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/Villette-(Bronte)"
+parentWork: "works/villette-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
 </nav>
 
 

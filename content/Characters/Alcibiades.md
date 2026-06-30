@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Alcibiades"></div>
+<div class="concept-works" data-slug="characters/alcibiades"></div>
 
 #graph/character

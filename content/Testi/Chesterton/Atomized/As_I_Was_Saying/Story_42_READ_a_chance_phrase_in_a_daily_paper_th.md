@@ -2,15 +2,15 @@
 title: "As I Was Saying — READ a chance phrase in a daily paper the other day; indeed, I had"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_41_T_is_often_said_truly_though_perhaps_not">‹ Story 41 T is often said truly though perhaps not</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_43_T_is_well_that_students_sternly_devoted">Story 43 T is well that students sternly devoted ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_41_t_is_often_said_truly_though_perhaps_not">‹ Story 41 T is often said truly though perhaps not</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_43_t_is_well_that_students_sternly_devoted">Story 43 T is well that students sternly devoted ›</a></div>
 </nav>
 
 

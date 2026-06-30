@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Concealment-Hidden-Identity"></div>
+<div class="concept-works" data-slug="motifs/concealment-hidden-identity"></div>
 
 #graph/motif

@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE TERMS OF A TRAITOR (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_36_THE_TERMS_OF_A_TRAITOR/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_36_THE_TERMS_OF_A_TRAITOR/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_36_the_terms_of_a_traitor/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_36_the_terms_of_a_traitor/part_03">part 03 ›</a></div>
 </nav>
 
 

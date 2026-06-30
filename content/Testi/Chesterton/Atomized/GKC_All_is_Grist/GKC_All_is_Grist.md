@@ -2,14 +2,14 @@
 title: "GKC All is Grist"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/GKC-All-is-Grist-(Chesterton)"
+parentWork: "works/gkc-all-is-grist-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-All-is-Grist-(Chesterton)">GKC All is Grist</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
 </nav>
 
 

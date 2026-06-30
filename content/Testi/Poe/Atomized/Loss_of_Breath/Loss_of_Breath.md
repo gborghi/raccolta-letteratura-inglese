@@ -2,14 +2,14 @@
 title: "[[Loss of Breath]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Loss-of-Breath-(Poe)"
+parentWork: "works/loss-of-breath-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Loss-of-Breath-(Poe)">Loss of Breath</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/loss-of-breath-(poe)">Loss of Breath</a></div>
 </nav>
 
 

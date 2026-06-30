@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_11_VEGETARIANISM_IN_THE_DRAWING_R">‹ Chapter 11 VEGETARIANISM IN THE DRAWING R</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_13_THE_BATTLE_OF_THE_TUNNEL">Chapter 13 THE BATTLE OF THE TUNNEL ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r">‹ Chapter 11 VEGETARIANISM IN THE DRAWING R</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">Chapter 13 THE BATTLE OF THE TUNNEL ›</a></div>
 </nav>
 
 

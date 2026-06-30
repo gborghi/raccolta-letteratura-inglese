@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — T will be best, both for the reader and the writer, not to bother about"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_30_THE_MENACE_OF_THE_WORD">‹ Story 30 THE MENACE OF THE WORD</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_32_THE_PROCESSION_OF_THE_PLOTTERS">Story 32 THE PROCESSION OF THE PLOTTERS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_30_the_menace_of_the_word">‹ Story 30 THE MENACE OF THE WORD</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_32_the_procession_of_the_plotters">Story 32 THE PROCESSION OF THE PLOTTERS ›</a></div>
 </nav>
 
 

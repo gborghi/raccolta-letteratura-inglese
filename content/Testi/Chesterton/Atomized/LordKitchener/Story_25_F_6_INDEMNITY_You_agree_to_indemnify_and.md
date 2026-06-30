@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_24_F_5_Some_states_do_not_allow_disclaimers">‹ Story 24 F 5 Some states do not allow disclaimers</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_24_f_5_some_states_do_not_allow_disclaimers">‹ Story 24 F 5 Some states do not allow disclaimers</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_02_ord_kitchener/part_01">part 01 ›</a></div>
 </nav>
 
 

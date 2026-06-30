@@ -2,14 +2,14 @@
 title: "[[A Predicament]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/A-Predicament-(Poe)"
+parentWork: "works/a-predicament-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/A-Predicament-(Poe)">A Predicament</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/a-predicament-(poe)">A Predicament</a></div>
 </nav>
 
 

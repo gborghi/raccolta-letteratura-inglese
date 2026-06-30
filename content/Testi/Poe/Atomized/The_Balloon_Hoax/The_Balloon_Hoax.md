@@ -2,14 +2,14 @@
 title: "[[The Balloon-Hoax]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Balloon-Hoax-(Poe)"
+parentWork: "works/the-balloon-hoax-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Balloon-Hoax-(Poe)">The Balloon Hoax</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-balloon-hoax-(poe)">The Balloon Hoax</a></div>
 </nav>
 
 

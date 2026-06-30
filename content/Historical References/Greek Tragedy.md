@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Greek-Tragedy"></div>
+<div class="concept-works" data-slug="historical-references/greek-tragedy"></div>
 
 #graph/histref

@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION">‹ Chapter 01 INTRODUCTORY A NEW RELIGION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES">Chapter 03 THE REAL OBSTACLES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion">‹ Chapter 01 INTRODUCTORY A NEW RELIGION</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles">Chapter 03 THE REAL OBSTACLES ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_04_THE_INN_FINDS_WINGS">‹ Chapter 04 THE INN FINDS WINGS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_06_THE_HOLE_IN_HEAVEN">Chapter 06 THE HOLE IN HEAVEN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_04_the_inn_finds_wings">‹ Chapter 04 THE INN FINDS WINGS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_06_the_hole_in_heaven">Chapter 06 THE HOLE IN HEAVEN ›</a></div>
 </nav>
 
 

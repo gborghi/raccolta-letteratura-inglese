@@ -2,14 +2,14 @@
 title: "The Narrative of A. Gordon Pym (Raven Edition)"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)"
+parentWork: "works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
 </nav>
 
 

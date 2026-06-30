@@ -2,15 +2,15 @@
 title: "[[The Professor]] — Chapter 8"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/The-Professor-(Bronte)"
+parentWork: "works/the-professor-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Professor/Chapter_08">‹ Chapter 08</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_10">Chapter 10 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/the_professor/chapter_08">‹ Chapter 08</a><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_10">Chapter 10 ›</a></div>
 </nav>
 
 

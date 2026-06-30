@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Sea-·-Water-·-Sea"></div>
+<div class="concept-works" data-slug="clusters/sea-·-water-·-sea"></div>

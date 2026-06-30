@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Swords-and-Weapons-·-Power-and-Corruption-·-Tyrant"></div>
+<div class="concept-works" data-slug="clusters/swords-and-weapons-·-power-and-corruption-·-tyrant"></div>

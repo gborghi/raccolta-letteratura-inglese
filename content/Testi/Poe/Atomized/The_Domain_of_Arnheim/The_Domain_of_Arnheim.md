@@ -2,14 +2,14 @@
 title: "[[The Domain of Arnheim]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Domain-of-Arnheim-(Poe)"
+parentWork: "works/the-domain-of-arnheim-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Domain-of-Arnheim-(Poe)">The Domain of Arnheim</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-domain-of-arnheim-(poe)">The Domain of Arnheim</a></div>
 </nav>
 
 

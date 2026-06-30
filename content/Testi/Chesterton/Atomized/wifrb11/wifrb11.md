@@ -2,14 +2,14 @@
 title: "[[wifrb11]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
 </nav>
 
 

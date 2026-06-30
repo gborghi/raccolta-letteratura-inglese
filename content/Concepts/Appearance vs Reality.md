@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Appearance-vs-Reality"></div>
+<div class="concept-works" data-slug="concepts/appearance-vs-reality"></div>
 
 #graph/concept

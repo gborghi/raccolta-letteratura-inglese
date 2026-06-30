@@ -2,14 +2,14 @@
 title: "alarms and discursions"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/alarms-and-discursions-(Chesterton)"
+parentWork: "works/alarms-and-discursions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/alarms-and-discursions-(Chesterton)">alarms and discursions</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/alarms-and-discursions-(chesterton)">alarms and discursions</a></div>
 </nav>
 
 

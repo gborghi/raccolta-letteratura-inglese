@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE VANISHING PRINCE (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_02_THE_FACE_IN_THE_TARGET/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_02_the_face_in_the_target/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_03_the_vanishing_prince/part_02">part 02 ›</a></div>
 </nav>
 
 

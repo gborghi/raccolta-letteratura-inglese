@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Apologetics"></div>
+<div class="concept-works" data-slug="forms/apologetics"></div>
 
 #graph/form

@@ -2,15 +2,15 @@
 title: "A [[Child]]'s [[history|History]] of England — N October last, we did ourselves the immortal credit of recording, at an"
 author: "Dickens"
 unitType: story
-parentWork: "Works/A-Child's-History-of-England-(Dickens)"
+parentWork: "works/a-child's-history-of-england-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_03_OACH_HOUSE_ORIGINAL_PIG">‹ Story 03 OACH HOUSE ORIGINAL PIG</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_05_ARGE_ROOM_BOOT_JACK_AND_COUNTENANCE">Story 05 ARGE ROOM BOOT JACK AND COUNTENANCE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_03_oach_house_original_pig">‹ Story 03 OACH HOUSE ORIGINAL PIG</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_05_arge_room_boot_jack_and_countenance">Story 05 ARGE ROOM BOOT JACK AND COUNTENANCE ›</a></div>
 </nav>
 
 

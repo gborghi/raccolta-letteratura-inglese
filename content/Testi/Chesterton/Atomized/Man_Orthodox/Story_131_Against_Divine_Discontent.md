@@ -2,15 +2,15 @@
 title: "Man Orthodox — Against Divine Discontent"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_130_Politics_And_Discontent">‹ Story 130 Politics And Discontent</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_132_Religion_And_Revolution">Story 132 Religion And Revolution ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_130_politics_and_discontent">‹ Story 130 Politics And Discontent</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_132_religion_and_revolution">Story 132 Religion And Revolution ›</a></div>
 </nav>
 
 

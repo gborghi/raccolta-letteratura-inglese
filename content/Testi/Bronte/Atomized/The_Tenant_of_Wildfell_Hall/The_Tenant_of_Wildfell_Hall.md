@@ -2,14 +2,14 @@
 title: "[[The Tenant of Wildfell Hall]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
+parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
 </nav>
 
 

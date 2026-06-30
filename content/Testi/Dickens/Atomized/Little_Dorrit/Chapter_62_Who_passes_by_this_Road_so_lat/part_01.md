@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 22: Who passes by this [[Road]] so late? (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_61_The_History_of_a_Self_Tormento/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_62_Who_passes_by_this_Road_so_lat/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_61_the_history_of_a_self_tormento/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_62_who_passes_by_this_road_so_lat/part_02">part 02 ›</a></div>
 </nav>
 
 

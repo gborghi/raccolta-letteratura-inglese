@@ -2,14 +2,14 @@
 title: "AS YOU LIKE IT"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/AS-YOU-LIKE-IT-(Shakespeare)"
+parentWork: "works/as-you-like-it-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/AS-YOU-LIKE-IT-(Shakespeare)">As You Like It</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XI—ASTLEY’S (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_20_HAPTER_XIASTLEYS/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_21_HAPTER_XIIGREENWICH_FAIR/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_20_hapter_xiastleys/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_21_hapter_xiigreenwich_fair/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_25_IN_WHICH_MR_SAMUEL_WELLER_BEGI">‹ Chapter 25 IN WHICH MR SAMUEL WELLER BEGI</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_27_SHOWING_AMONG_A_VARIETY_OF_PLE">Chapter 27 SHOWING AMONG A VARIETY OF PLE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_25_in_which_mr_samuel_weller_begi">‹ Chapter 25 IN WHICH MR SAMUEL WELLER BEGI</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_showing_among_a_variety_of_ple">Chapter 27 SHOWING AMONG A VARIETY OF PLE ›</a></div>
 </nav>
 
 

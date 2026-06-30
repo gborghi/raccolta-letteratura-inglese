@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Mirror"></div>
+<div class="concept-works" data-slug="motifs/mirror"></div>
 
 #graph/motif

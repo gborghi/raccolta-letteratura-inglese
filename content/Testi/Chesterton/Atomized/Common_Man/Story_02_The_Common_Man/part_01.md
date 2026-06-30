@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The [[Common Man]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary">‹ Story 43 If Don John Of Austria Had Married Mary</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_02_The_Common_Man/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_43_if_don_john_of_austria_had_married_mary">‹ Story 43 If Don John Of Austria Had Married Mary</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_02_the_common_man/part_02">part 02 ›</a></div>
 </nav>
 
 

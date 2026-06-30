@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE FANTASTIC FRIENDS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_02_THE_YELLOW_BIRD">Story 02 THE YELLOW BIRD ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird">Story 02 THE YELLOW BIRD ›</a></div>
 </nav>
 
 

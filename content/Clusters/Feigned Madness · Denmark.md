@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Feigned-Madness-·-Denmark"></div>
+<div class="concept-works" data-slug="clusters/feigned-madness-·-denmark"></div>

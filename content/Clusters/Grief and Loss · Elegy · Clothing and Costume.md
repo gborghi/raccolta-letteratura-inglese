@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Grief-and-Loss-·-Elegy-·-Clothing-and-Costume"></div>
+<div class="concept-works" data-slug="clusters/grief-and-loss-·-elegy-·-clothing-and-costume"></div>

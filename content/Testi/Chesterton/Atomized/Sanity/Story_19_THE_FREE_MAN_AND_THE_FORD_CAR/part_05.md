@@ -2,15 +2,15 @@
 title: "[[Sanity]] — THE FREE MAN AND THE FORD CAR (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_19_THE_FREE_MAN_AND_THE_FORD_CAR/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_19_THE_FREE_MAN_AND_THE_FORD_CAR/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_19_the_free_man_and_the_ford_car/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_19_the_free_man_and_the_ford_car/part_06">part 06 ›</a></div>
 </nav>
 
 

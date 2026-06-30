@@ -2,14 +2,14 @@
 title: "[[Jane Eyre]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/Jane-Eyre-(Bronte)"
+parentWork: "works/jane-eyre-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
 </nav>
 
 

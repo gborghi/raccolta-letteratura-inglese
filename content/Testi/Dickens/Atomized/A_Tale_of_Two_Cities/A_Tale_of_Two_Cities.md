@@ -2,14 +2,14 @@
 title: "A Tale of Two Cities"
 author: "Dickens"
 unitType: work
-parentWork: "Works/A-Tale-of-Two-Cities-(Dickens)"
+parentWork: "works/a-tale-of-two-cities-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-tale-of-two-cities-(dickens)">A Tale of Two Cities</a></div>
 </nav>
 
 

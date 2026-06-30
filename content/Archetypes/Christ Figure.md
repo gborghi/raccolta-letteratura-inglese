@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Christ-Figure"></div>
+<div class="concept-works" data-slug="archetypes/christ-figure"></div>
 
 #graph/archetype

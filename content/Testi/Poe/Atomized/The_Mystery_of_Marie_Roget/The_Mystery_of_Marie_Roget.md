@@ -2,14 +2,14 @@
 title: "[[The Mystery of Marie Roget]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
+parentWork: "works/the-mystery-of-marie-roget-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Mystery-of-Marie-Roget-(Poe)">The Mystery of Marie Roget</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-mystery-of-marie-roget-(poe)">The Mystery of Marie Roget</a></div>
 </nav>
 
 

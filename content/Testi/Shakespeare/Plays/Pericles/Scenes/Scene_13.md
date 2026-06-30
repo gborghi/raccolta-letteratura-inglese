@@ -2,15 +2,15 @@
 title: "[[Pericles]] — Scene 13"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/PERICLES-(Shakespeare)"
+parentWork: "works/pericles-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_12">‹ Scene 12</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_14">Scene 14 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/pericles/scenes/scene_12">‹ Scene 12</a><a class="ex-next" href="/testi/shakespeare/plays/pericles/scenes/scene_14">Scene 14 ›</a></div>
 </nav>
 
 

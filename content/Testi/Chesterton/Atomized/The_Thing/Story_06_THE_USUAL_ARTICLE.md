@@ -2,15 +2,15 @@
 title: "The Thing — THE USUAL ARTICLE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_05_OBSTINATE_ORTHODOXY">‹ Story 05 OBSTINATE ORTHODOXY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_07_WHY_I_AM_A_CATHOLIC">Story 07 WHY I AM A CATHOLIC ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy">‹ Story 05 OBSTINATE ORTHODOXY</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_07_why_i_am_a_catholic">Story 07 WHY I AM A CATHOLIC ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Purple Wig"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_06_The_Head_of_Caesar">‹ Story 06 The Head of Caesar</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_08_The_Perishing_of_the_Pendragons">Story 08 The Perishing of the Pendragons ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar">‹ Story 06 The Head of Caesar</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_08_the_perishing_of_the_pendragons">Story 08 The Perishing of the Pendragons ›</a></div>
 </nav>
 
 

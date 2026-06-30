@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Negative-Capability"></div>
+<div class="concept-works" data-slug="concepts/negative-capability"></div>
 
 #graph/concept

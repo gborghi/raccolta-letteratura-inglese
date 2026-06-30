@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 52: FIFTY ONE (part 8)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_52_FIFTY_ONE/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_53_FIFTY_TWO/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_52_fifty_one/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_53_fifty_two/part_01">part 01 ›</a></div>
 </nav>
 
 

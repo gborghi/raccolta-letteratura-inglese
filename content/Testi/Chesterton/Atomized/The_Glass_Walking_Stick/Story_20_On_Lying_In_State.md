@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — On Lying In State"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_19_King_George_V">‹ Story 19 King George V</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_21_The_Alphabet_Of_Giants">Story 21 The Alphabet Of Giants ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_19_king_george_v">‹ Story 19 King George V</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_21_the_alphabet_of_giants">Story 21 The Alphabet Of Giants ›</a></div>
 </nav>
 
 

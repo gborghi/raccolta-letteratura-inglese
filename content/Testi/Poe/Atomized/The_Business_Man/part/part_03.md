@@ -2,15 +2,15 @@
 title: "[[The Business Man]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Business-Man-(Poe)"
+parentWork: "works/the-business-man-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Business-Man-(Poe)">The Business Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Business_Man/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Business_Man/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-business-man-(poe)">The Business Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_business_man/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_business_man/part/part_04">part 04 ›</a></div>
 </nav>
 
 

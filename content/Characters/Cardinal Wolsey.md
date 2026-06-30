@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cardinal-Wolsey"></div>
+<div class="concept-works" data-slug="characters/cardinal-wolsey"></div>
 
 #graph/character

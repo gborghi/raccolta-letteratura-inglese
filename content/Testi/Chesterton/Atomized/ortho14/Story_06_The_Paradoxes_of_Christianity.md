@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The Paradoxes of [[Christianity]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World">‹ Story 05 The Flag of the World</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_07_The_Eternal_Revolution">Story 07 The Eternal Revolution ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_05_the_flag_of_the_world">‹ Story 05 The Flag of the World</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_07_the_eternal_revolution">Story 07 The Eternal Revolution ›</a></div>
 </nav>
 
 

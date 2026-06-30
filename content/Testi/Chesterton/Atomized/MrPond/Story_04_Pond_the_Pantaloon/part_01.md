@@ -2,15 +2,15 @@
 title: "[[MrPond]] — Pond the Pantaloon (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_03_When_Doctors_Agree/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_04_Pond_the_Pantaloon/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_03_when_doctors_agree/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_04_pond_the_pantaloon/part_02">part 02 ›</a></div>
 </nav>
 
 

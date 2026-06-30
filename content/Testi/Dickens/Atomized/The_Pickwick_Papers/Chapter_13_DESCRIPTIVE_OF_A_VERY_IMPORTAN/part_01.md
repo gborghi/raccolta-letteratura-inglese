@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_12_INVOLVING_ANOTHER_JOURNEY_AND/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_involving_another_journey_and/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_13_descriptive_of_a_very_importan/part_02">part 02 ›</a></div>
 </nav>
 
 

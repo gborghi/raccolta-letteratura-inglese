@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE TERMS OF A TRAITOR"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_35_THE_UNREASONABLENESS_OF_WOMAN">‹ Story 35 THE UNREASONABLENESS OF WOMAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_37_THE_SPEAKING_OF_THE_WORD">Story 37 THE SPEAKING OF THE WORD ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_35_the_unreasonableness_of_woman">‹ Story 35 THE UNREASONABLENESS OF WOMAN</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_37_the_speaking_of_the_word">Story 37 THE SPEAKING OF THE WORD ›</a></div>
 </nav>
 
 

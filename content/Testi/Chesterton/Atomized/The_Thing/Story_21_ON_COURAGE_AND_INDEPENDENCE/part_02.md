@@ -2,15 +2,15 @@
 title: "The Thing — ON [[Courage|COURAGE]] AND INDEPENDENCE (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_21_ON_COURAGE_AND_INDEPENDENCE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_22_THE_NORDIC_HINDOO/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_21_on_courage_and_independence/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo/part_01">part 01 ›</a></div>
 </nav>
 
 

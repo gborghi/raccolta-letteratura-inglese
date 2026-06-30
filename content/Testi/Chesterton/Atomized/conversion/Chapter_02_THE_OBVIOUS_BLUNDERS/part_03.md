@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_02_THE_OBVIOUS_BLUNDERS/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_02_THE_OBVIOUS_BLUNDERS/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders/part_04">part 04 ›</a></div>
 </nav>
 
 

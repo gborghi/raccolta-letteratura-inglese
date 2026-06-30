@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Elizabethan-England"></div>
+<div class="concept-works" data-slug="historical-references/elizabethan-england"></div>
 
 #graph/histref

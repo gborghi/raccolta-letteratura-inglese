@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise,"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_62_Who_passes_by_this_Road_so_lat">‹ Chapter 62 Who passes by this Road so lat</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_64_The_Evening_of_a_Long_Day">Chapter 64 The Evening of a Long Day ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_62_who_passes_by_this_road_so_lat">‹ Chapter 62 Who passes by this Road so lat</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_64_the_evening_of_a_long_day">Chapter 64 The Evening of a Long Day ›</a></div>
 </nav>
 
 

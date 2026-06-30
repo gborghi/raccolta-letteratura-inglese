@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_24_NCIDENTAL_DAMAGES_EVEN_IF_YOU_GIVE_NOTIC">‹ Story 24 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_26_F_4_Except_for_the_limited_right_of_repl">Story 26 F 4 Except for the limited right of repl ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_24_ncidental_damages_even_if_you_give_notic">‹ Story 24 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_26_f_4_except_for_the_limited_right_of_repl">Story 26 F 4 Except for the limited right of repl ›</a></div>
 </nav>
 
 

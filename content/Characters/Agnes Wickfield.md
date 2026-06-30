@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Agnes-Wickfield"></div>
+<div class="concept-works" data-slug="characters/agnes-wickfield"></div>
 
 #graph/character

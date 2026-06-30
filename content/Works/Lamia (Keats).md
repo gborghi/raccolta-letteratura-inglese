@@ -43,8 +43,8 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 01 part i](/Testi/Keats/Long/Lamia/Section_01_part_i)
-- [Section 02 part ii](/Testi/Keats/Long/Lamia/Section_02_part_ii)
+- [Section 01 part i](/testi/keats/long/lamia/section_01_part_i)
+- [Section 02 part ii](/testi/keats/long/lamia/section_02_part_ii)
 
 
 ## Testo integrale / Full text

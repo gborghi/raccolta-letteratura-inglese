@@ -2,14 +2,14 @@
 title: "[[ZAPOLYA A CHRISTMAS TALE IN TWO PARTS|ZAPOLYA A CHRISTMAS TALE IN TWO PARTS]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/ZAPOLYA-A-CHRISTMAS-TALE-IN-TWO-PARTS-(Coleridge)"
+parentWork: "works/zapolya-a-christmas-tale-in-two-parts-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/ZAPOLYA-A-CHRISTMAS-TALE-IN-TWO-PARTS-(Coleridge)">Zapolya A Christmas Tale in Two Parts</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/zapolya-a-christmas-tale-in-two-parts-(coleridge)">Zapolya A Christmas Tale in Two Parts</a></div>
 </nav>
 
 

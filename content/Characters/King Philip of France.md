@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/King-Philip-of-France"></div>
+<div class="concept-works" data-slug="characters/king-philip-of-france"></div>
 
 #graph/character

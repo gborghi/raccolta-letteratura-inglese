@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_40_Bad_Wounds_the_Young">‹ Story 40 Bad Wounds the Young</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_42_Battle_of_Gettysburg">Story 42 Battle of Gettysburg ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_40_bad_wounds_the_young">‹ Story 40 Bad Wounds the Young</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_42_battle_of_gettysburg">Story 42 Battle of Gettysburg ›</a></div>
 </nav>
 
 

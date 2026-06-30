@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE [[Court|COURT]] NEWSMAN EVER"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_33_WHICH_IS_ALL_ABOUT_THE_LAW_AND">‹ Chapter 33 WHICH IS ALL ABOUT THE LAW AND</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_35_MR_WELLER_THE_ELDER_DELIVERS_S">Chapter 35 MR WELLER THE ELDER DELIVERS S ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_33_which_is_all_about_the_law_and">‹ Chapter 33 WHICH IS ALL ABOUT THE LAW AND</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_35_mr_weller_the_elder_delivers_s">Chapter 35 MR WELLER THE ELDER DELIVERS S ›</a></div>
 </nav>
 
 

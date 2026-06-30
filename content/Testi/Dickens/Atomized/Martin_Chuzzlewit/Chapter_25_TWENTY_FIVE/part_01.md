@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_24_TWENTY_FOUR/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_25_TWENTY_FIVE/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_24_twenty_four/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_25_twenty_five/part_02">part 02 ›</a></div>
 </nav>
 
 

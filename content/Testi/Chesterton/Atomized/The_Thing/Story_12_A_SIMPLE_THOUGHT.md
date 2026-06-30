@@ -2,15 +2,15 @@
 title: "The Thing — A SIMPLE THOUGHT"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_11_PROTESTANTISM_A_PROBLEM_NOVEL">‹ Story 11 PROTESTANTISM A PROBLEM NOVEL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_13_THE_CALL_TO_THE_BARBARIANS">Story 13 THE CALL TO THE BARBARIANS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_11_protestantism_a_problem_novel">‹ Story 11 PROTESTANTISM A PROBLEM NOVEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_13_the_call_to_the_barbarians">Story 13 THE CALL TO THE BARBARIANS ›</a></div>
 </nav>
 
 

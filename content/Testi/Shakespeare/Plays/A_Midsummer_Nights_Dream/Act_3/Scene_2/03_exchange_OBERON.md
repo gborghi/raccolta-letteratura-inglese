@@ -2,14 +2,14 @@
 title: "A Midsummer Nights Dream — Act III, Scene 2 — exchange ([[Oberon|OBERON]]) [3]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)"
+parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)">A Midsummer Nights Dream</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
 </nav>
 
 

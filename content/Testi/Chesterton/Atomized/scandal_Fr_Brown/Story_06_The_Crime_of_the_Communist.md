@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The Crime of the Communist"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_05_The_Pursuit_of_Mr_Blue">‹ Story 05 The Pursuit of Mr Blue</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_07_The_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue">‹ Story 05 The Pursuit of Mr Blue</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully ›</a></div>
 </nav>
 
 

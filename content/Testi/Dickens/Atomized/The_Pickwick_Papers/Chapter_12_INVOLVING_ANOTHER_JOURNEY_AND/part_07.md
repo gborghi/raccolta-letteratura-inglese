@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 11: INVOLVING ANOTHER [[Journey|JOURNEY]], AND AN ANTIQUARIAN DISCOVERY; (part 7)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_12_INVOLVING_ANOTHER_JOURNEY_AND/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_involving_another_journey_and/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_13_descriptive_of_a_very_importan/part_01">part 01 ›</a></div>
 </nav>
 
 

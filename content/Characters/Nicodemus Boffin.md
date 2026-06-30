@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Nicodemus-Boffin"></div>
+<div class="concept-works" data-slug="characters/nicodemus-boffin"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "[[Northanger Abbey]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Northanger-Abbey-(Austen)"
+parentWork: "works/northanger-abbey-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_17/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_17/part_03">part 03 ›</a></div>
 </nav>
 
 

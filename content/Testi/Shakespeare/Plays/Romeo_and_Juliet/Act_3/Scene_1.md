@@ -2,15 +2,15 @@
 title: "[[Romeo]] and [[Juliet]] — Act III, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
+parentWork: "works/romeo-and-juliet-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_2/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_3/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/romeo_and_juliet/act_2/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/romeo_and_juliet/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

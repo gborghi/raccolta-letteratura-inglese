@@ -2,15 +2,15 @@
 title: "[[debate]] — R. [[Shaw|SHAW]]:  Mr. Belloc, and Ladies and Gentlemen.  Our subject"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_04_R_BELLOC_I_am_here_to_take_the_chair_in">‹ Story 04 R BELLOC I am here to take the chair in</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_06_R_CHESTERTON_Ladies_and_gentlemen_The_an">Story 06 R CHESTERTON Ladies and gentlemen The an ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_04_r_belloc_i_am_here_to_take_the_chair_in">‹ Story 04 R BELLOC I am here to take the chair in</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_06_r_chesterton_ladies_and_gentlemen_the_an">Story 06 R CHESTERTON Ladies and gentlemen The an ›</a></div>
 </nav>
 
 

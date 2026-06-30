@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER IX—[[London|LONDON]] RECREATIONS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_17_HAPTER_VIIIDOCTORS_COMMONS">‹ Story 17 HAPTER VIIIDOCTORS COMMONS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_19_HAPTER_XTHE_RIVER">Story 19 HAPTER XTHE RIVER ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_17_hapter_viiidoctors_commons">‹ Story 17 HAPTER VIIIDOCTORS COMMONS</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_19_hapter_xthe_river">Story 19 HAPTER XTHE RIVER ›</a></div>
 </nav>
 
 

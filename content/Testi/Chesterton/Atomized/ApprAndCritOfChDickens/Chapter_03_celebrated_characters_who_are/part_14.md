@@ -2,15 +2,15 @@
 title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 14)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
+parentWork: "works/apprandcritofchdickens-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are/part_13">‹ part 13</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are/part_15">part 15 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_03_celebrated_characters_who_are/part_13">‹ part 13</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_03_celebrated_characters_who_are/part_15">part 15 ›</a></div>
 </nav>
 
 

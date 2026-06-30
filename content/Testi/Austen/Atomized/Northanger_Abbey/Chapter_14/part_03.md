@@ -2,15 +2,15 @@
 title: "[[Northanger Abbey]] — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Northanger-Abbey-(Austen)"
+parentWork: "works/northanger-abbey-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_15/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_15/part_01">part 01 ›</a></div>
 </nav>
 
 

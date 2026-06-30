@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Death-and-Love"></div>
+<div class="concept-works" data-slug="concepts/death-and-love"></div>
 
 #graph/concept

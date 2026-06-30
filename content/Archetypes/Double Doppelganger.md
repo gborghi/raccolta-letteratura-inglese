@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Double-Doppelganger"></div>
+<div class="concept-works" data-slug="archetypes/double-doppelganger"></div>
 
 #graph/archetype

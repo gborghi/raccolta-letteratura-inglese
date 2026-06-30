@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/J.-Alfred-Prufrock"></div>
+<div class="concept-works" data-slug="characters/j.-alfred-prufrock"></div>
 
 #graph/character

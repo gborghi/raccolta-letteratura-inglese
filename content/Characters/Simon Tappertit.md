@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Simon-Tappertit"></div>
+<div class="concept-works" data-slug="characters/simon-tappertit"></div>
 
 #graph/character

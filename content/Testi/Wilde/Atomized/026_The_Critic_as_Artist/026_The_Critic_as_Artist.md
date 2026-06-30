@@ -2,14 +2,14 @@
 title: "The Critic as [[artist|Artist]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Critic-as-Artist-(Wilde)"
+parentWork: "works/the-critic-as-artist-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Critic-as-Artist-(Wilde)">026 The Critic as Artist</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-critic-as-artist-(wilde)">026 The Critic as Artist</a></div>
 </nav>
 
 

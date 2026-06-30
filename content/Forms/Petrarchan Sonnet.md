@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Petrarchan-Sonnet"></div>
+<div class="concept-works" data-slug="forms/petrarchan-sonnet"></div>
 
 #graph/form

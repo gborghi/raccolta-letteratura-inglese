@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My First Reading--Lafayette"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_08_Paumanok_and_my_Life_on_it_as_Child_and">‹ Story 08 Paumanok and my Life on it as Child and</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_10_Printing_Office_Old_Brooklyn">Story 10 Printing Office Old Brooklyn ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_08_paumanok_and_my_life_on_it_as_child_and">‹ Story 08 Paumanok and my Life on it as Child and</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_10_printing_office_old_brooklyn">Story 10 Printing Office Old Brooklyn ›</a></div>
 </nav>
 
 

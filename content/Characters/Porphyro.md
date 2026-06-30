@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Porphyro"></div>
+<div class="concept-works" data-slug="characters/porphyro"></div>
 
 #graph/character

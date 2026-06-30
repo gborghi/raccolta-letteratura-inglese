@@ -2,14 +2,14 @@
 title: "De Profundis"
 author: "Wilde"
 unitType: work
-parentWork: "Works/De-Profundis-(Wilde)"
+parentWork: "works/de-profundis-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/De-Profundis-(Wilde)">029 De Profundis</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/de-profundis-(wilde)">029 De Profundis</a></div>
 </nav>
 
 

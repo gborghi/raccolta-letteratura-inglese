@@ -2,14 +2,14 @@
 title: "Spice Of Life"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Spice-Of-Life-(Chesterton)"
+parentWork: "works/spice-of-life-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Nell's-Grandfather"></div>
+<div class="concept-works" data-slug="characters/nell's-grandfather"></div>
 
 #graph/character

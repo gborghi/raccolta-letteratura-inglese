@@ -2,14 +2,14 @@
 title: "2 [[Henry IV]] — Act IV, Scene 3 — exchange (PRINCE HARRY) [12]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/2-HENRY-IV-(Shakespeare)"
+parentWork: "works/2-henry-iv-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/2-henry-iv-(shakespeare)">2 Henry IV</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "The Old Curiosity Shop"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Old-Curiosity-Shop-(Dickens)"
+parentWork: "works/the-old-curiosity-shop-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_18_Mrs_Flintwinch_has_another_Dre/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_19_Nobodys_Weakness/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_18_mrs_flintwinch_has_another_dre/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_19_nobodys_weakness/part_01">part 01 ›</a></div>
 </nav>
 
 

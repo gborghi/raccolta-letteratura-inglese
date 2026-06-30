@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Opening of the Secession War"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_17_Sources_of_Character_Results_1860">‹ Story 17 Sources of Character Results 1860</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_19_National_Uprising_and_Volunteering">Story 19 National Uprising and Volunteering ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_17_sources_of_character_results_1860">‹ Story 17 Sources of Character Results 1860</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_19_national_uprising_and_volunteering">Story 19 National Uprising and Volunteering ›</a></div>
 </nav>
 
 

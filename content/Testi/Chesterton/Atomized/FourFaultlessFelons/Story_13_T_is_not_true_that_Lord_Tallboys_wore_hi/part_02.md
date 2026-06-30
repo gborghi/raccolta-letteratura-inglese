@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_13_T_is_not_true_that_Lord_Tallboys_wore_hi/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_13_T_is_not_true_that_Lord_Tallboys_wore_hi/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_t_is_not_true_that_lord_tallboys_wore_hi/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_13_t_is_not_true_that_lord_tallboys_wore_hi/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_22_SHOWING_HOW_DODSON_AND_FOGG_WE">‹ Chapter 22 SHOWING HOW DODSON AND FOGG WE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_24_MR_PICKWICK_JOURNEYS_TO_IPSWIC">Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_showing_how_dodson_and_fogg_we">‹ Chapter 22 SHOWING HOW DODSON AND FOGG WE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_mr_pickwick_journeys_to_ipswic">Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC ›</a></div>
 </nav>
 
 

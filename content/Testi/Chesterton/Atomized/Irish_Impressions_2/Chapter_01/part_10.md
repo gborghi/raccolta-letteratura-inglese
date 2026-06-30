@@ -2,15 +2,15 @@
 title: "Irish Impressions — Chapter 1 (part 10)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Irish-Impressions-(Chesterton)-(2)"
+parentWork: "works/irish-impressions-(chesterton)-(2)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)-(2)">Irish Impressions 2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions_2/Chapter_01/part_09">‹ part 09</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions_2/Chapter_01/part_11">part 11 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)-(2)">Irish Impressions 2</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions_2/chapter_01/part_09">‹ part 09</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions_2/chapter_01/part_11">part 11 ›</a></div>
 </nav>
 
 

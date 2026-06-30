@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Power-and-Corruption"></div>
+<div class="concept-works" data-slug="concepts/power-and-corruption"></div>
 
 #graph/concept

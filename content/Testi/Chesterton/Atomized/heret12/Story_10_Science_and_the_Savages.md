@@ -2,15 +2,15 @@
 title: "[[heret12]] — Science and the Savages"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_09_On_Sandals_and_Simplicity">‹ Story 09 On Sandals and Simplicity</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_11_Paganism_and_Mr_Lowes_Dickinson">Story 11 Paganism and Mr Lowes Dickinson ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_09_on_sandals_and_simplicity">‹ Story 09 On Sandals and Simplicity</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson">Story 11 Paganism and Mr Lowes Dickinson ›</a></div>
 </nav>
 
 

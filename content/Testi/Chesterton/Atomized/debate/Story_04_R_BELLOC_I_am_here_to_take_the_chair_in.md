@@ -2,15 +2,15 @@
 title: "[[debate]] — R. BELLOC:  I am here to take the chair in the [[debate]] between two"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_03_O_WE_AGREE">‹ Story 03 O WE AGREE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_05_R_SHAW_Mr_Belloc_and_Ladies_and_Gentleme">Story 05 R SHAW Mr Belloc and Ladies and Gentleme ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_03_o_we_agree">‹ Story 03 O WE AGREE</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_05_r_shaw_mr_belloc_and_ladies_and_gentleme">Story 05 R SHAW Mr Belloc and Ladies and Gentleme ›</a></div>
 </nav>
 
 

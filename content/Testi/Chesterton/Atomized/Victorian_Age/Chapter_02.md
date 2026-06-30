@@ -2,15 +2,15 @@
 title: "Victorian Age — Chapter 2"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/Victorian-Age-(Chesterton)"
+parentWork: "works/victorian-age-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Victorian-Age-(Chesterton)">Victorian Age</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_01">‹ Chapter 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_03">Chapter 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/victorian-age-(chesterton)">Victorian Age</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/victorian_age/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/victorian_age/chapter_03">Chapter 03 ›</a></div>
 </nav>
 
 

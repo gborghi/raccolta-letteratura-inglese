@@ -2,15 +2,15 @@
 title: "[[THE PICCOLOMINI]] — Act I, Scene 1"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-PICCOLOMINI-(Coleridge)"
+parentWork: "works/the-piccolomini-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-PICCOLOMINI-(Coleridge)">Piccolomini</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Coleridge/Plays/Piccolomini/Act_1/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-piccolomini-(coleridge)">Piccolomini</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/coleridge/plays/piccolomini/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

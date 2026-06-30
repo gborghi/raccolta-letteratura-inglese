@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 22: Who passes by this [[Road]] so late?"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_61_The_History_of_a_Self_Tormento">‹ Chapter 61 The History of a Self Tormento</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_63_Mistress_Affery_makes_a_Condit">Chapter 63 Mistress Affery makes a Condit ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_61_the_history_of_a_self_tormento">‹ Chapter 61 The History of a Self Tormento</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_63_mistress_affery_makes_a_condit">Chapter 63 Mistress Affery makes a Condit ›</a></div>
 </nav>
 
 

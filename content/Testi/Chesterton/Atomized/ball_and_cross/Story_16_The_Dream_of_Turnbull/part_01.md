@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Dream of Turnbull (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_15_The_Dream_of_MacIan/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_16_The_Dream_of_Turnbull/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_15_the_dream_of_macian/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_the_dream_of_turnbull/part_02">part 02 ›</a></div>
 </nav>
 
 

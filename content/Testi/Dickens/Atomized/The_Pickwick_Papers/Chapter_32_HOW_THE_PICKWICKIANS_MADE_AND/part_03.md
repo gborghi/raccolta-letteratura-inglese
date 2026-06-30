@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_32_HOW_THE_PICKWICKIANS_MADE_AND/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_32_HOW_THE_PICKWICKIANS_MADE_AND/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_how_the_pickwickians_made_and/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_how_the_pickwickians_made_and/part_04">part 04 ›</a></div>
 </nav>
 
 

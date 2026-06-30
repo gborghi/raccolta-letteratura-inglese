@@ -2,15 +2,15 @@
 title: "trees of [[Pride|pride]] — THE WAGER OF SQUIRE VANE (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/trees-of-pride-(Chesterton)"
+parentWork: "works/trees-of-pride-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_06_THE_WAGER_OF_SQUIRE_VANE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_06_THE_WAGER_OF_SQUIRE_VANE/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">trees of pride</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_06_the_wager_of_squire_vane/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_06_the_wager_of_squire_vane/part_03">part 03 ›</a></div>
 </nav>
 
 

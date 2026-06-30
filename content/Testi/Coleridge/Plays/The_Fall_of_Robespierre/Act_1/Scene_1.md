@@ -2,15 +2,15 @@
 title: "[[THE FALL OF ROBESPIERRE]] — Act I, Scene 1"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-FALL-OF-ROBESPIERRE-(Coleridge)"
+parentWork: "works/the-fall-of-robespierre-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-FALL-OF-ROBESPIERRE-(Coleridge)">The Fall of Robespierre</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Coleridge/Plays/The_Fall_of_Robespierre/Act_2/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-fall-of-robespierre-(coleridge)">The Fall of Robespierre</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/coleridge/plays/the_fall_of_robespierre/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

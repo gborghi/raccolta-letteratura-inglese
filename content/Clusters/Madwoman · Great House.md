@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Madwoman-·-Great-House"></div>
+<div class="concept-works" data-slug="clusters/madwoman-·-great-house"></div>

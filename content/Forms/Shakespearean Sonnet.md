@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Shakespearean-Sonnet"></div>
+<div class="concept-works" data-slug="forms/shakespearean-sonnet"></div>
 
 #graph/form

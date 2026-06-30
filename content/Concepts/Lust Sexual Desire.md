@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Lust-Sexual-Desire"></div>
+<div class="concept-works" data-slug="concepts/lust-sexual-desire"></div>
 
 #graph/concept

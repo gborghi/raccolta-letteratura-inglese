@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON JANE AUSTEN IN THE GENERAL ELECTION"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_32_ON_THE_INNOCENCE_OF_MACAULAY">‹ Story 32 ON THE INNOCENCE OF MACAULAY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_34_ON_DICTATORSHIPS">Story 34 ON DICTATORSHIPS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_32_on_the_innocence_of_macaulay">‹ Story 32 ON THE INNOCENCE OF MACAULAY</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_34_on_dictatorships">Story 34 ON DICTATORSHIPS ›</a></div>
 </nav>
 
 

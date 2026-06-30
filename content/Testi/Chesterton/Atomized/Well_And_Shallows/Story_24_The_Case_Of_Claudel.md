@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — The Case Of Claudel"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_23_Killing_The_Nerve">‹ Story 23 Killing The Nerve</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_25_The_Higher_Nihilism">Story 25 The Higher Nihilism ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_23_killing_the_nerve">‹ Story 23 Killing The Nerve</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_25_the_higher_nihilism">Story 25 The Higher Nihilism ›</a></div>
 </nav>
 
 

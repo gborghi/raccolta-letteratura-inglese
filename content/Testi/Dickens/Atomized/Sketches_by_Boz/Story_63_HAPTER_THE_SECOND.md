@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER THE SECOND"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_62_HAPTER_THE_FIRST">‹ Story 62 HAPTER THE FIRST</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_64_HAPTER_XITHE_BLOOMSBURY_CHRISTENING">Story 64 HAPTER XITHE BLOOMSBURY CHRISTENING ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_62_hapter_the_first">‹ Story 62 HAPTER THE FIRST</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_64_hapter_xithe_bloomsbury_christening">Story 64 HAPTER XITHE BLOOMSBURY CHRISTENING ›</a></div>
 </nav>
 
 

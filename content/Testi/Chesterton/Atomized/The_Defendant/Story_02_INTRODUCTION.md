@@ -2,15 +2,15 @@
 title: "The Defendant — INTRODUCTION"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_01_IN_DEFENCE_OF_A_NEW_EDITION">‹ Story 01 IN DEFENCE OF A NEW EDITION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_03_A_DEFENCE_OF_PENNY_DREADFULS">Story 03 A DEFENCE OF PENNY DREADFULS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_01_in_defence_of_a_new_edition">‹ Story 01 IN DEFENCE OF A NEW EDITION</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_03_a_defence_of_penny_dreadfuls">Story 03 A DEFENCE OF PENNY DREADFULS ›</a></div>
 </nav>
 
 

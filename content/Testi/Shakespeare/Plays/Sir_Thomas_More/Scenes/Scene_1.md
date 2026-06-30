@@ -2,15 +2,15 @@
 title: "[[Sir Thomas More]] — Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
+parentWork: "works/sir-thomas-more-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

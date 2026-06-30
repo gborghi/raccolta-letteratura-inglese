@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The Oracle of the Dog"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven">‹ Story 02 The Arrow of Heaven</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_04_The_Miracle_of_Moon_Crescent">Story 04 The Miracle of Moon Crescent ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven">‹ Story 02 The Arrow of Heaven</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent">Story 04 The Miracle of Moon Crescent ›</a></div>
 </nav>
 
 

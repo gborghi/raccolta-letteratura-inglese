@@ -2,15 +2,15 @@
 title: "[[Barnaby Rudge]] — Chapter 61 (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Barnaby-Rudge-(Dickens)"
+parentWork: "works/barnaby-rudge-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_59/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_61/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_59/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_61/part_02">part 02 ›</a></div>
 </nav>
 
 

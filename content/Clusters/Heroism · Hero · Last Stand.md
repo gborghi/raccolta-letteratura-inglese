@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Heroism-·-Hero-·-Last-Stand"></div>
+<div class="concept-works" data-slug="clusters/heroism-·-hero-·-last-stand"></div>

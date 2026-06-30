@@ -2,14 +2,14 @@
 title: "[[TheCrimesOfEngland]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
+parentWork: "works/thecrimesofengland-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/TheCrimesOfEngland-(Chesterton)">TheCrimesOfEngland</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a></div>
 </nav>
 
 

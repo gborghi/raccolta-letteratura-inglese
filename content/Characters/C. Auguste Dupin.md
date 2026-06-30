@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/C.-Auguste-Dupin"></div>
+<div class="concept-works" data-slug="characters/c.-auguste-dupin"></div>
 
 #graph/character

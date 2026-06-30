@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Monsters And The Middle Ages"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_04_On_Reading">‹ Story 04 On Reading</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_06_What_Novelists_Are_For">Story 06 What Novelists Are For ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_04_on_reading">‹ Story 04 On Reading</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_06_what_novelists_are_for">Story 06 What Novelists Are For ›</a></div>
 </nav>
 
 

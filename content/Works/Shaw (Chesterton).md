@@ -31,15 +31,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 INTRODUCTION TO THE FIRST EDITION](/Testi/Chesterton/Atomized/Shaw/Story_01_INTRODUCTION_TO_THE_FIRST_EDITION)
-- [Story 02 THE PROBLEM OF A PREFACE](/Testi/Chesterton/Atomized/Shaw/Story_02_THE_PROBLEM_OF_A_PREFACE)
-- [Story 03 THE IRISHMAN](/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN)
-- [Story 04 THE PURITAN](/Testi/Chesterton/Atomized/Shaw/Story_04_THE_PURITAN)
-- [Story 05 THE PROGRESSIVE](/Testi/Chesterton/Atomized/Shaw/Story_05_THE_PROGRESSIVE)
-- [Story 06 THE CRITIC](/Testi/Chesterton/Atomized/Shaw/Story_06_THE_CRITIC)
-- [Story 07 THE DRAMATIST](/Testi/Chesterton/Atomized/Shaw/Story_07_THE_DRAMATIST)
-- [Story 08 THE PHILOSOPHER](/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER)
-- [Story 09 THE LATER PHASES](/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES)
+- [Story 01 INTRODUCTION TO THE FIRST EDITION](/testi/chesterton/atomized/shaw/story_01_introduction_to_the_first_edition)
+- [Story 02 THE PROBLEM OF A PREFACE](/testi/chesterton/atomized/shaw/story_02_the_problem_of_a_preface)
+- [Story 03 THE IRISHMAN](/testi/chesterton/atomized/shaw/story_03_the_irishman)
+- [Story 04 THE PURITAN](/testi/chesterton/atomized/shaw/story_04_the_puritan)
+- [Story 05 THE PROGRESSIVE](/testi/chesterton/atomized/shaw/story_05_the_progressive)
+- [Story 06 THE CRITIC](/testi/chesterton/atomized/shaw/story_06_the_critic)
+- [Story 07 THE DRAMATIST](/testi/chesterton/atomized/shaw/story_07_the_dramatist)
+- [Story 08 THE PHILOSOPHER](/testi/chesterton/atomized/shaw/story_08_the_philosopher)
+- [Story 09 THE LATER PHASES](/testi/chesterton/atomized/shaw/story_09_the_later_phases)
 
 ## Testo integrale / Full text
 

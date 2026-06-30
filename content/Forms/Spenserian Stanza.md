@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Spenserian-Stanza"></div>
+<div class="concept-works" data-slug="forms/spenserian-stanza"></div>
 
 #graph/form

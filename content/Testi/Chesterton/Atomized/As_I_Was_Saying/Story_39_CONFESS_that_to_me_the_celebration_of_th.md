@@ -2,15 +2,15 @@
 title: "As I Was Saying — CONFESS that to me the celebration of the Centenary of William Morris"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_38_HAPPENED_to_meet_again_recently_after_ma">‹ Story 38 HAPPENED to meet again recently after ma</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_40_ANY_modern_debates_are_still_revolving_r">Story 40 ANY modern debates are still revolving r ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_38_happened_to_meet_again_recently_after_ma">‹ Story 38 HAPPENED to meet again recently after ma</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_40_any_modern_debates_are_still_revolving_r">Story 40 ANY modern debates are still revolving r ›</a></div>
 </nav>
 
 

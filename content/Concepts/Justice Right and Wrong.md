@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Justice-Right-and-Wrong"></div>
+<div class="concept-works" data-slug="concepts/justice-right-and-wrong"></div>
 
 #graph/concept

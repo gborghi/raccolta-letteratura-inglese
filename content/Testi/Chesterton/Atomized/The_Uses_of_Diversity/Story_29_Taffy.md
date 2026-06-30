@@ -2,15 +2,15 @@
 title: "The Uses of Diversity — Taffy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
+parentWork: "works/the-uses-of-diversity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_28_Dickens_Again">‹ Story 28 Dickens Again</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_30_Ego_et_Shavius_Meus">Story 30 Ego et Shavius Meus ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_28_dickens_again">‹ Story 28 Dickens Again</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_30_ego_et_shavius_meus">Story 30 Ego et Shavius Meus ›</a></div>
 </nav>
 
 

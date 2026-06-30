@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Monsieur-Pelet"></div>
+<div class="concept-works" data-slug="characters/monsieur-pelet"></div>
 
 #graph/character

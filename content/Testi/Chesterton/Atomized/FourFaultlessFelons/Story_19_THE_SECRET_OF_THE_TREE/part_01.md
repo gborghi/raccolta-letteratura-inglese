@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE SECRET OF THE TREE (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_18_THE_DISEASE_OF_DUODIAPSYCHOSIS/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_19_THE_SECRET_OF_THE_TREE/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_the_disease_of_duodiapsychosis/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_the_secret_of_the_tree/part_02">part 02 ›</a></div>
 </nav>
 
 

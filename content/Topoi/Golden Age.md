@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Golden-Age"></div>
+<div class="concept-works" data-slug="topoi/golden-age"></div>
 
 #graph/topos

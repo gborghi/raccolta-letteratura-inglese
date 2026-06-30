@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Strange Crime of John Boulnois"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_10_The_Salad_of_Colonel_Cray">‹ Story 10 The Salad of Colonel Cray</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_12_The_Fairy_Tale_of_Father_Brown">Story 12 The Fairy Tale of Father Brown ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_10_the_salad_of_colonel_cray">‹ Story 10 The Salad of Colonel Cray</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_12_the_fairy_tale_of_father_brown">Story 12 The Fairy Tale of Father Brown ›</a></div>
 </nav>
 
 

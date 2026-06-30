@@ -2,14 +2,14 @@
 title: "[[GKC-Autobiography]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/GKC-Autobiography-(Chesterton)"
+parentWork: "works/gkc-autobiography-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Autobiography-(Chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
 </nav>
 
 

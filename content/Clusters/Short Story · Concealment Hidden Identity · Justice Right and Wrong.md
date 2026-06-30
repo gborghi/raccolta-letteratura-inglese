@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Short-Story-·-Concealment-Hidden-Identity-·-Justice-Right-and-Wrong"></div>
+<div class="concept-works" data-slug="clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong"></div>

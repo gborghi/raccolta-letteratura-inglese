@@ -2,14 +2,14 @@
 title: "[[The Angel of the Odd]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
+parentWork: "works/the-angel-of-the-odd-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Angel-of-the-Odd-(Poe)">The Angel of the Odd</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-angel-of-the-odd-(poe)">The Angel of the Odd</a></div>
 </nav>
 
 

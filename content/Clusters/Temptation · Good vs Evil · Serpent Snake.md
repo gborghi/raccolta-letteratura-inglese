@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Temptation-·-Good-vs-Evil-·-Serpent-Snake"></div>
+<div class="concept-works" data-slug="clusters/temptation-·-good-vs-evil-·-serpent-snake"></div>

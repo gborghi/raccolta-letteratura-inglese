@@ -2,15 +2,15 @@
 title: "The Thing — THE [[Slavery|SLAVERY]] OF THE MIND"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS">‹ Story 24 SOME OF OUR ERRORS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_26_INGE_VERSUS_BARNES">Story 26 INGE VERSUS BARNES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors">‹ Story 24 SOME OF OUR ERRORS</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes">Story 26 INGE VERSUS BARNES ›</a></div>
 </nav>
 
 

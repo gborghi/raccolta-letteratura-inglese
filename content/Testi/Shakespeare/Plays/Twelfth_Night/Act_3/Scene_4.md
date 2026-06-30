@@ -2,15 +2,15 @@
 title: "[[Twelfth Night]] — Act III, Scene 4"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
+parentWork: "works/twelfth-night-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_3/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_4/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/twelfth-night-(shakespeare)">Twelfth Night</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/twelfth_night/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/twelfth_night/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

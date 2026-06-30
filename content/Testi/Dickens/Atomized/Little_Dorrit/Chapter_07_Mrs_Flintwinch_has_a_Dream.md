@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 4: Mrs Flintwinch has [[A Dream|a Dream]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_06_Home">‹ Chapter 06 Home</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_08_Family_Affairs">Chapter 08 Family Affairs ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_06_home">‹ Chapter 06 Home</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_08_family_affairs">Chapter 08 Family Affairs ›</a></div>
 </nav>
 
 

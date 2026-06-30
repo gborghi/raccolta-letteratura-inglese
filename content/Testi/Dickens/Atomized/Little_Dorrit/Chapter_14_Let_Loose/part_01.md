@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 11: Let Loose (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_13_Containing_the_whole_Science_o/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_14_Let_Loose/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_13_containing_the_whole_science_o/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_14_let_loose/part_02">part 02 ›</a></div>
 </nav>
 
 

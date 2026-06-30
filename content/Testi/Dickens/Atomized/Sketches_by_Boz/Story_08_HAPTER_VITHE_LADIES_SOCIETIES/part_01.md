@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VI—THE LADIES’ SOCIETIES (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_07_R_BUNGS_NARRATIVE/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_08_HAPTER_VITHE_LADIES_SOCIETIES/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_07_r_bungs_narrative/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_08_hapter_vithe_ladies_societies/part_02">part 02 ›</a></div>
 </nav>
 
 

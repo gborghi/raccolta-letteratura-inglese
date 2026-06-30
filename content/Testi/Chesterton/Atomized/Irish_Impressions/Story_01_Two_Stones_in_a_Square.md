@@ -2,15 +2,15 @@
 title: "Irish Impressions — Two Stones in a Square"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Irish-Impressions-(Chesterton)"
+parentWork: "works/irish-impressions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_02_The_Root_of_Reality">Story 02 The Root of Reality ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality">Story 02 The Root of Reality ›</a></div>
 </nav>
 
 

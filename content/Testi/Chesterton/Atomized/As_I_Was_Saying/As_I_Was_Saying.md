@@ -2,14 +2,14 @@
 title: "As I Was Saying"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
 </nav>
 
 

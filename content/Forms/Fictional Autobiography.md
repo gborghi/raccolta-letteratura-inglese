@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Fictional-Autobiography"></div>
+<div class="concept-works" data-slug="forms/fictional-autobiography"></div>
 
 #graph/form

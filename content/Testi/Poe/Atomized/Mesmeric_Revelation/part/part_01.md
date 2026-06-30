@@ -2,15 +2,15 @@
 title: "[[Mesmeric Revelation]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Mesmeric-Revelation-(Poe)"
+parentWork: "works/mesmeric-revelation-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Mesmeric-Revelation-(Poe)">Mesmeric Revelation</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Mesmeric_Revelation/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/mesmeric-revelation-(poe)">Mesmeric Revelation</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/mesmeric_revelation/part/part_02">part 02 ›</a></div>
 </nav>
 
 

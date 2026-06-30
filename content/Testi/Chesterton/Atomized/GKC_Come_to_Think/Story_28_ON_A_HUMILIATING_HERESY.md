@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON A HUMILIATING HERESY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_27_ON_VULGARITY">‹ Story 27 ON VULGARITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_29_ON_ORIGINAL_SIN">Story 29 ON ORIGINAL SIN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_27_on_vulgarity">‹ Story 27 ON VULGARITY</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_29_on_original_sin">Story 29 ON ORIGINAL SIN ›</a></div>
 </nav>
 
 

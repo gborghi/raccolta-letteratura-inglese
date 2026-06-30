@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_56_CONTAINING_SOME_PARTICULARS_RE">‹ Chapter 56 CONTAINING SOME PARTICULARS RE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_58_AN_IMPORTANT_CONFERENCE_TAKES">Chapter 58 AN IMPORTANT CONFERENCE TAKES ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_56_containing_some_particulars_re">‹ Chapter 56 CONTAINING SOME PARTICULARS RE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_58_an_important_conference_takes">Chapter 58 AN IMPORTANT CONFERENCE TAKES ›</a></div>
 </nav>
 
 

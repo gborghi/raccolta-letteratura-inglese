@@ -2,15 +2,15 @@
 title: "[[misc]] — THE SEPARATIST AND SACRED THINGS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_22_THE_RED_REACTIONARY">‹ Story 22 THE RED REACTIONARY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_24_THE_MUMMER">Story 24 THE MUMMER ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_22_the_red_reactionary">‹ Story 22 THE RED REACTIONARY</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_24_the_mummer">Story 24 THE MUMMER ›</a></div>
 </nav>
 
 

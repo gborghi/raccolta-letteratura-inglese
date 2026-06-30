@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY">‹ Chapter 26 I FALL INTO CAPTIVITY</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET">Chapter 28 Mr MICAWBERS GAUNTLET ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity">‹ Chapter 26 I FALL INTO CAPTIVITY</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet">Chapter 28 Mr MICAWBERS GAUNTLET ›</a></div>
 </nav>
 
 

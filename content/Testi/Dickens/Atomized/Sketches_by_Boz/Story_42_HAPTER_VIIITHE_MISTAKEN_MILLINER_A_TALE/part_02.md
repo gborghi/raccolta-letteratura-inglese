@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VIII—THE MISTAKEN MILLINER. A TALE OF [[Ambition|AMBITION]] (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_42_HAPTER_VIIITHE_MISTAKEN_MILLINER_A_TALE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_43_HAPTER_IXTHE_DANCING_ACADEMY/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_42_hapter_viiithe_mistaken_milliner_a_tale/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_43_hapter_ixthe_dancing_academy/part_01">part 01 ›</a></div>
 </nav>
 
 

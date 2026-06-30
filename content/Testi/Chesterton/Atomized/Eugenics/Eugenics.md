@@ -2,14 +2,14 @@
 title: "[[Eugenics]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Eugenics-(Chesterton)"
+parentWork: "works/eugenics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Eugenics-(Chesterton)">Eugenics</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/eugenics-(chesterton)">Eugenics</a></div>
 </nav>
 
 

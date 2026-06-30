@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Shirley-Keeldar"></div>
+<div class="concept-works" data-slug="characters/shirley-keeldar"></div>
 
 #graph/character

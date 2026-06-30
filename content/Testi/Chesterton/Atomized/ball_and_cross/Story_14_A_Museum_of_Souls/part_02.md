@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — A Museum of Souls (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_14_A_Museum_of_Souls/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_14_A_Museum_of_Souls/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_14_a_museum_of_souls/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_14_a_museum_of_souls/part_03">part 03 ›</a></div>
 </nav>
 
 

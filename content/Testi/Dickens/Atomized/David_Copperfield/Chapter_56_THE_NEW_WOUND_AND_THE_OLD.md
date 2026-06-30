@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 56: THE NEW WOUND, AND THE OLD"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_55_TEMPEST">‹ Chapter 55 TEMPEST</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_57_THE_EMIGRANTS">Chapter 57 THE EMIGRANTS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_55_tempest">‹ Chapter 55 TEMPEST</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_57_the_emigrants">Chapter 57 THE EMIGRANTS ›</a></div>
 </nav>
 
 

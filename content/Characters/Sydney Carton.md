@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sydney-Carton"></div>
+<div class="concept-works" data-slug="characters/sydney-carton"></div>
 
 #graph/character

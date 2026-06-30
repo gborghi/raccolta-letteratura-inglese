@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hugh-the-Miller"></div>
+<div class="concept-works" data-slug="characters/hugh-the-miller"></div>
 
 #graph/character

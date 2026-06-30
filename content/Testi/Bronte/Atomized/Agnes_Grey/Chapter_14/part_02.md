@@ -2,15 +2,15 @@
 title: "[[Agnes Grey]] — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
-parentWork: "Works/Agnes-Grey-(Bronte)"
+parentWork: "works/agnes-grey-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_15_ll_come_and_meet_you_when_Ive/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_15_ll_come_and_meet_you_when_ive/part_01">part 01 ›</a></div>
 </nav>
 
 

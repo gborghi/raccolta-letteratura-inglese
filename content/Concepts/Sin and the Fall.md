@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Sin-and-the-Fall"></div>
+<div class="concept-works" data-slug="concepts/sin-and-the-fall"></div>
 
 #graph/concept

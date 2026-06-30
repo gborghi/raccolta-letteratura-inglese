@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_41_The_Most_Inspiriting_of_all_War_s_Shows">‹ Story 41 The Most Inspiriting of all War s Shows</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_43_A_Cavalry_Camp">Story 43 A Cavalry Camp ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_41_the_most_inspiriting_of_all_war_s_shows">‹ Story 41 The Most Inspiriting of all War s Shows</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_43_a_cavalry_camp">Story 43 A Cavalry Camp ›</a></div>
 </nav>
 
 

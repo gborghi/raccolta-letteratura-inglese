@@ -2,15 +2,15 @@
 title: "Measure for Measure — Act I, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/MEASURE-FOR-MEASURE-(Shakespeare)"
+parentWork: "works/measure-for-measure-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Measure_for_Measure/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Measure_for_Measure/Act_1/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/measure-for-measure-(shakespeare)">Measure for Measure</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/measure_for_measure/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/measure_for_measure/act_1/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

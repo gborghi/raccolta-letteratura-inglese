@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — T was not until the following evening, as already noted, that the news"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_08_THE_DETECTIVE_AND_THE_PARSON">‹ Story 08 THE DETECTIVE AND THE PARSON</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_10_THE_THEORY_OF_MODERATE_MURDER">Story 10 THE THEORY OF MODERATE MURDER ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_the_detective_and_the_parson">‹ Story 08 THE DETECTIVE AND THE PARSON</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_10_the_theory_of_moderate_murder">Story 10 THE THEORY OF MODERATE MURDER ›</a></div>
 </nav>
 
 

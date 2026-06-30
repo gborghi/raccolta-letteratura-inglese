@@ -2,15 +2,15 @@
 title: "[[Maelzel's Chess-Player]] (part 6)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
+parentWork: "works/maelzel's-chess-player-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Maelzel's-Chess-Player-(Poe)">Maelzel s Chess Player</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Maelzel_s_Chess_Player/part/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Poe/Atomized/Maelzel_s_Chess_Player/part/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/maelzel's-chess-player-(poe)">Maelzel s Chess Player</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_05">‹ part 05</a><a class="ex-next" href="/testi/poe/atomized/maelzel_s_chess_player/part/part_07">part 07 ›</a></div>
 </nav>
 
 

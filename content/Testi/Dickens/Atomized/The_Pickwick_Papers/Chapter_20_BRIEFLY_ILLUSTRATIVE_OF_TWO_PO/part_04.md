@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_20_BRIEFLY_ILLUSTRATIVE_OF_TWO_PO/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_21_A_PLEASANT_DAY_WITH_AN_UNPLEAS/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_20_briefly_illustrative_of_two_po/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_a_pleasant_day_with_an_unpleas/part_01">part 01 ›</a></div>
 </nav>
 
 

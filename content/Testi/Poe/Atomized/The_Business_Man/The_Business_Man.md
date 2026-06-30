@@ -2,14 +2,14 @@
 title: "[[The Business Man]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Business-Man-(Poe)"
+parentWork: "works/the-business-man-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Business-Man-(Poe)">The Business Man</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-business-man-(poe)">The Business Man</a></div>
 </nav>
 
 

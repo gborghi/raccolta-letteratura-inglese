@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Countess-of-Rossillion"></div>
+<div class="concept-works" data-slug="characters/countess-of-rossillion"></div>
 
 #graph/character

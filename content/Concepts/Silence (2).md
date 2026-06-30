@@ -9,6 +9,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Silence-(2)"></div>
+<div class="concept-works" data-slug="concepts/silence-(2)"></div>
 
 #graph/concept

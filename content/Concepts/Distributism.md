@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Distributism"></div>
+<div class="concept-works" data-slug="concepts/distributism"></div>
 
 #graph/concept

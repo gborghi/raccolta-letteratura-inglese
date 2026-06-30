@@ -38,17 +38,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Scandal of Father Brown](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_01_The_Scandal_of_Father_Brown)
-- [Story 02 The Quick One](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_02_The_Quick_One)
-- [Story 03 The Blast of the Book](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_03_The_Blast_of_the_Book)
-- [Story 04 The Green Man](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_04_The_Green_Man)
-- [Story 05 The Pursuit of Mr Blue](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_05_The_Pursuit_of_Mr_Blue)
-- [Story 06 The Crime of the Communist](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_06_The_Crime_of_the_Communist)
-- [Story 07 The gardens had been tended so carefully](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_07_The_gardens_had_been_tended_so_carefully)
-- [Story 08 The Point of a Pin](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin)
-- [Story 09 I mean it s easy to say you ve thrown it](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_09_I_mean_it_s_easy_to_say_you_ve_thrown_it)
-- [Story 10 The Insoluble Problem](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem)
-- [Story 11 The Vampire of the Village](/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_11_The_Vampire_of_the_Village)
+- [Story 01 The Scandal of Father Brown](/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown)
+- [Story 02 The Quick One](/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one)
+- [Story 03 The Blast of the Book](/testi/chesterton/atomized/scandal_fr_brown/story_03_the_blast_of_the_book)
+- [Story 04 The Green Man](/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man)
+- [Story 05 The Pursuit of Mr Blue](/testi/chesterton/atomized/scandal_fr_brown/story_05_the_pursuit_of_mr_blue)
+- [Story 06 The Crime of the Communist](/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist)
+- [Story 07 The gardens had been tended so carefully](/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully)
+- [Story 08 The Point of a Pin](/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin)
+- [Story 09 I mean it s easy to say you ve thrown it](/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it)
+- [Story 10 The Insoluble Problem](/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem)
+- [Story 11 The Vampire of the Village](/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village)
 
 ## Testo integrale / Full text
 

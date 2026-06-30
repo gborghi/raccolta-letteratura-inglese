@@ -2,15 +2,15 @@
 title: "[[Loss of Breath]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Loss-of-Breath-(Poe)"
+parentWork: "works/loss-of-breath-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Loss-of-Breath-(Poe)">Loss of Breath</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Loss_of_Breath/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/loss-of-breath-(poe)">Loss of Breath</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/loss_of_breath/part/part_02">part 02 ›</a></div>
 </nav>
 
 

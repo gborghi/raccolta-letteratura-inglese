@@ -2,15 +2,15 @@
 title: "The Uses of Diversity — Pageants and Dress"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
+parentWork: "works/the-uses-of-diversity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_23_Mormonism">‹ Story 23 Mormonism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_25_On_Stage_Costume">Story 25 On Stage Costume ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_23_mormonism">‹ Story 23 Mormonism</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_25_on_stage_costume">Story 25 On Stage Costume ›</a></div>
 </nav>
 
 

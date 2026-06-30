@@ -2,15 +2,15 @@
 title: "William Cobbett — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/William-Cobbett-(Chesterton)"
+parentWork: "works/william-cobbett-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/William-Cobbett-(Chesterton)">William Cobbett</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/William_Cobbett/Chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/William_Cobbett/Chapter_01/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/william-cobbett-(chesterton)">William Cobbett</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/william_cobbett/chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/william_cobbett/chapter_01/part_03">part 03 ›</a></div>
 </nav>
 
 

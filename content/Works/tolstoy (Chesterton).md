@@ -28,9 +28,9 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Tolstoy](/Testi/Chesterton/Atomized/tolstoy/Story_01_Tolstoy)
-- [Story 02 Leo Tolstoy As Writer](/Testi/Chesterton/Atomized/tolstoy/Story_02_Leo_Tolstoy_As_Writer)
-- [Story 03 G H Perris](/Testi/Chesterton/Atomized/tolstoy/Story_03_G_H_Perris)
+- [Story 01 Tolstoy](/testi/chesterton/atomized/tolstoy/story_01_tolstoy)
+- [Story 02 Leo Tolstoy As Writer](/testi/chesterton/atomized/tolstoy/story_02_leo_tolstoy_as_writer)
+- [Story 03 G H Perris](/testi/chesterton/atomized/tolstoy/story_03_g_h_perris)
 
 ## Testo integrale / Full text
 

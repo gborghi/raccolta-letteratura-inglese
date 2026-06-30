@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Sign of the Broken [[Sword]] (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_11_The_Sign_of_the_Broken_Sword/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_12_The_Three_Tools_of_Death/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[The Man That Was Used Up]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
+parentWork: "works/the-man-that-was-used-up-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Man-That-Was-Used-Up-(Poe)">The Man That Was Used Up</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Man_That_Was_Used_Up/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-man-that-was-used-up-(poe)">The Man That Was Used Up</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_man_that_was_used_up/part/part_02">part 02 ›</a></div>
 </nav>
 
 

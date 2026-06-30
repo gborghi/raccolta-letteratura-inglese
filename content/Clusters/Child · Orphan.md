@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Child-·-Orphan"></div>
+<div class="concept-works" data-slug="clusters/child-·-orphan"></div>

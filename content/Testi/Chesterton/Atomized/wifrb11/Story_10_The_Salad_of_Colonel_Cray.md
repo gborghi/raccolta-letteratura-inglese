@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Salad of Colonel Cray"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs">‹ Story 09 The God of the Gongs</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_11_The_Strange_Crime_of_John_Boulnois">Story 11 The Strange Crime of John Boulnois ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">‹ Story 09 The God of the Gongs</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_11_the_strange_crime_of_john_boulnois">Story 11 The Strange Crime of John Boulnois ›</a></div>
 </nav>
 
 

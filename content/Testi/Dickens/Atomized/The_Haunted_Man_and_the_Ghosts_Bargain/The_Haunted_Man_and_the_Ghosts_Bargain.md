@@ -2,14 +2,14 @@
 title: "The Haunted Man and the [[Ghost]]'s Bargain"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
+parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)">The Haunted Man and the Ghosts Bargain</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-haunted-man-and-the-ghost's-bargain-(dickens)">The Haunted Man and the Ghosts Bargain</a></div>
 </nav>
 
 

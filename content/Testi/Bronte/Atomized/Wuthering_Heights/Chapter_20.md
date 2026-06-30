@@ -2,15 +2,15 @@
 title: "[[Wuthering Heights]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Wuthering-Heights-(Bronte)"
+parentWork: "works/wuthering-heights-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_19">‹ Chapter 19</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_21">Chapter 21 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_21">Chapter 21 ›</a></div>
 </nav>
 
 

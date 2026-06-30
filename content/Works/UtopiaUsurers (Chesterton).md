@@ -30,17 +30,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 A Song of Swords](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_01_A_Song_of_Swords)
-- [Story 02 Utopia of Usurers](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_02_Utopia_of_Usurers)
-- [Story 03 Art and Advertisement](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_03_Art_and_Advertisement)
-- [Story 04 Letters and the New Laureates](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_04_Letters_and_the_New_Laureates)
-- [Story 05 Unbusinesslike Business](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_05_Unbusinesslike_Business)
-- [Story 06 The War on Holidays](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_06_The_War_on_Holidays)
-- [Story 07 The Church of the Servile State](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_07_The_Church_of_the_Servile_State)
-- [Story 08 Science and the Eugenists](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_08_Science_and_the_Eugenists)
-- [Story 09 The Evolution of the Prison](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_09_The_Evolution_of_the_Prison)
-- [Story 10 The Lash for Labour](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_10_The_Lash_for_Labour)
-- [Story 11 The Mask of Socialism](/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism)
+- [Story 01 A Song of Swords](/testi/chesterton/atomized/utopiausurers/story_01_a_song_of_swords)
+- [Story 02 Utopia of Usurers](/testi/chesterton/atomized/utopiausurers/story_02_utopia_of_usurers)
+- [Story 03 Art and Advertisement](/testi/chesterton/atomized/utopiausurers/story_03_art_and_advertisement)
+- [Story 04 Letters and the New Laureates](/testi/chesterton/atomized/utopiausurers/story_04_letters_and_the_new_laureates)
+- [Story 05 Unbusinesslike Business](/testi/chesterton/atomized/utopiausurers/story_05_unbusinesslike_business)
+- [Story 06 The War on Holidays](/testi/chesterton/atomized/utopiausurers/story_06_the_war_on_holidays)
+- [Story 07 The Church of the Servile State](/testi/chesterton/atomized/utopiausurers/story_07_the_church_of_the_servile_state)
+- [Story 08 Science and the Eugenists](/testi/chesterton/atomized/utopiausurers/story_08_science_and_the_eugenists)
+- [Story 09 The Evolution of the Prison](/testi/chesterton/atomized/utopiausurers/story_09_the_evolution_of_the_prison)
+- [Story 10 The Lash for Labour](/testi/chesterton/atomized/utopiausurers/story_10_the_lash_for_labour)
+- [Story 11 The Mask of Socialism](/testi/chesterton/atomized/utopiausurers/story_11_the_mask_of_socialism)
 
 ## Testo integrale / Full text
 

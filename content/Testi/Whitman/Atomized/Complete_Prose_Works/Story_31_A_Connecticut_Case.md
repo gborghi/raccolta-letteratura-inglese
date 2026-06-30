@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Connecticut Case"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_30_An_Army_Hospital_Ward">‹ Story 30 An Army Hospital Ward</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_32_Brooklyn_Boys">Story 32 Brooklyn Boys ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_30_an_army_hospital_ward">‹ Story 30 An Army Hospital Ward</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_32_brooklyn_boys">Story 32 Brooklyn Boys ›</a></div>
 </nav>
 
 

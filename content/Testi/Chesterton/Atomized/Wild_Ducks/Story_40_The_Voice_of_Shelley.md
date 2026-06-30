@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Voice of Shelley"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_39_A_Plea_for_Hasty_Journalism">‹ Story 39 A Plea for Hasty Journalism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_41_The_Great_Translation">Story 41 The Great Translation ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_39_a_plea_for_hasty_journalism">‹ Story 39 A Plea for Hasty Journalism</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_41_the_great_translation">Story 41 The Great Translation ›</a></div>
 </nav>
 
 

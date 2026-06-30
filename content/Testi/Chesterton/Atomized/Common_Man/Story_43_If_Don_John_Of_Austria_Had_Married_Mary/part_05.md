@@ -2,15 +2,15 @@
 title: "[[Common Man]] — If [[Don John of Austria|Don John Of Austria]] Had Married Mary [[Queen]] Of Scots (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_43_if_don_john_of_austria_had_married_mary/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_43_if_don_john_of_austria_had_married_mary/part_06">part 06 ›</a></div>
 </nav>
 
 

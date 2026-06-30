@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Friendship-·-Tears"></div>
+<div class="concept-works" data-slug="clusters/friendship-·-tears"></div>

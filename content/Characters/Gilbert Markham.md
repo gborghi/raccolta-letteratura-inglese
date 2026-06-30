@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Gilbert-Markham"></div>
+<div class="concept-works" data-slug="characters/gilbert-markham"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 11: Let Loose"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_13_Containing_the_whole_Science_o">‹ Chapter 13 Containing the whole Science o</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_15_Bleeding_Heart_Yard">Chapter 15 Bleeding Heart Yard ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_13_containing_the_whole_science_o">‹ Chapter 13 Containing the whole Science o</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_15_bleeding_heart_yard">Chapter 15 Bleeding Heart Yard ›</a></div>
 </nav>
 
 

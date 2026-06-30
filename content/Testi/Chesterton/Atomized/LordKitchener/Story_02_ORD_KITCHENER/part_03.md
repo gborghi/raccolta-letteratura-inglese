@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — ORD KITCHENER (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_02_ord_kitchener/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_02_ord_kitchener/part_04">part 04 ›</a></div>
 </nav>
 
 

@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Martyrdom-·-Martyr-Saint-·-Cross"></div>
+<div class="concept-works" data-slug="clusters/martyrdom-·-martyr-saint-·-cross"></div>

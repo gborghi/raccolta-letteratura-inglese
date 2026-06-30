@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_40_HOW_MR_WINKLE_WHEN_HE_STEPPED">‹ Chapter 40 HOW MR WINKLE WHEN HE STEPPED</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_42_INTRODUCES_MR_PICKWICK_TO_A_NE">Chapter 42 INTRODUCES MR PICKWICK TO A NE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_40_how_mr_winkle_when_he_stepped">‹ Chapter 40 HOW MR WINKLE WHEN HE STEPPED</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_42_introduces_mr_pickwick_to_a_ne">Chapter 42 INTRODUCES MR PICKWICK TO A NE ›</a></div>
 </nav>
 
 

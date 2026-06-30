@@ -2,15 +2,15 @@
 title: "The Two Gentlemen of [[Verona]] — Act II, Scene 7"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
+parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Two_Gentlemen_of_Verona/Act_2/Scene_6">‹ Scene 6</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Two_Gentlemen_of_Verona/Act_3/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-gentlemen-of-verona-(shakespeare)">The Two Gentlemen of Verona</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_2/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/the_two_gentlemen_of_verona/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

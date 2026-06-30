@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — St George For England"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_14_About_Christianity">‹ Story 14 About Christianity</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_16_The_National_Anthem">Story 16 The National Anthem ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_14_about_christianity">‹ Story 14 About Christianity</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_16_the_national_anthem">Story 16 The National Anthem ›</a></div>
 </nav>
 
 

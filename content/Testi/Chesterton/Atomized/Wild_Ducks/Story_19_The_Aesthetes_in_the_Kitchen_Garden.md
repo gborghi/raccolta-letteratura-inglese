@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Aesthetes in the Kitchen [[Garden]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_18_The_Blindness_of_the_Sightseer">‹ Story 18 The Blindness of the Sightseer</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_20_The_Need_of_Personalities_in_Politics">Story 20 The Need of Personalities in Politics ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_18_the_blindness_of_the_sightseer">‹ Story 18 The Blindness of the Sightseer</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_20_the_need_of_personalities_in_politics">Story 20 The Need of Personalities in Politics ›</a></div>
 </nav>
 
 

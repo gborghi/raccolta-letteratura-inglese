@@ -2,14 +2,14 @@
 title: "[[Mellonta Tauta]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Mellonta-Tauta-(Poe)"
+parentWork: "works/mellonta-tauta-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Mellonta-Tauta-(Poe)">Mellonta Tauta</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/mellonta-tauta-(poe)">Mellonta Tauta</a></div>
 </nav>
 
 

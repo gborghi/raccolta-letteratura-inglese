@@ -2,14 +2,14 @@
 title: "[[How to Write a Blackwood Article]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
+parentWork: "works/how-to-write-a-blackwood-article-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/How-to-Write-a-Blackwood-Article-(Poe)">How to Write a Blackwood Article</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/how-to-write-a-blackwood-article-(poe)">How to Write a Blackwood Article</a></div>
 </nav>
 
 

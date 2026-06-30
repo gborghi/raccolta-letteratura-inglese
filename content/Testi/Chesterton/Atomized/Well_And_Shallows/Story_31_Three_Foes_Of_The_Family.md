@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — Three Foes Of The Family"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_30_Babies_And_Distributism">‹ Story 30 Babies And Distributism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_32_The_Don_And_The_Cavalier">Story 32 The Don And The Cavalier ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_30_babies_and_distributism">‹ Story 30 Babies And Distributism</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_32_the_don_and_the_cavalier">Story 32 The Don And The Cavalier ›</a></div>
 </nav>
 
 

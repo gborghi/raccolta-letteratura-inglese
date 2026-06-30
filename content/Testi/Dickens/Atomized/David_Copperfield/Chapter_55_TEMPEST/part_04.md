@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 55: TEMPEST (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_55_TEMPEST/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_56_THE_NEW_WOUND_AND_THE_OLD/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_55_tempest/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_56_the_new_wound_and_the_old/part_01">part 01 ›</a></div>
 </nav>
 
 

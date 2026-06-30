@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Military-Camp"></div>
+<div class="concept-works" data-slug="settings/military-camp"></div>
 
 #graph/setting

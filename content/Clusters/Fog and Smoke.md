@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Fog-and-Smoke"></div>
+<div class="concept-works" data-slug="clusters/fog-and-smoke"></div>

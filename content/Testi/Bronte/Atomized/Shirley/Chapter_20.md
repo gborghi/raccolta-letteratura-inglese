@@ -2,15 +2,15 @@
 title: "[[Shirley]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Shirley-(Bronte)"
+parentWork: "works/shirley-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_19">‹ Chapter 19</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_21">Chapter 21 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_21">Chapter 21 ›</a></div>
 </nav>
 
 

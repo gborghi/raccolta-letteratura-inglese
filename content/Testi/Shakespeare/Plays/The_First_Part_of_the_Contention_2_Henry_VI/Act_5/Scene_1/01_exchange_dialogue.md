@@ -2,14 +2,14 @@
 title: "The First Part of the Contention (2 [[Henry VI]]) — Act V, Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"
+parentWork: "works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-first-part-of-the-contention---(2-henry-vi)-(shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 </nav>
 
 

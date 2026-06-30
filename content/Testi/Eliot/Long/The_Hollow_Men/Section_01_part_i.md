@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · The Hollow Men</div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Eliot/Long/The_Hollow_Men/Section_02_part_ii">Section 02 part ii ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/eliot/long/the_hollow_men/section_02_part_ii">Section 02 part ii ›</a></div>
 </nav>
 
 

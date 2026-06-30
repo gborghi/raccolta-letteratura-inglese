@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — Tom [[Jones]] And The Escorial"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_07_The_Tradition_Of_Toledo">‹ Story 07 The Tradition Of Toledo</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_09_Poetry_In_Action">Story 09 Poetry In Action ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_07_the_tradition_of_toledo">‹ Story 07 The Tradition Of Toledo</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_09_poetry_in_action">Story 09 Poetry In Action ›</a></div>
 </nav>
 
 

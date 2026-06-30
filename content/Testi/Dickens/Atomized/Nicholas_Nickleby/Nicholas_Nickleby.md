@@ -2,14 +2,14 @@
 title: "[[Nicholas Nickleby]]"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Nicholas-Nickleby-(Dickens)"
+parentWork: "works/nicholas-nickleby-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
 </nav>
 
 

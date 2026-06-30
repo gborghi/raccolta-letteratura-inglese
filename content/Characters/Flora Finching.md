@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Flora-Finching"></div>
+<div class="concept-works" data-slug="characters/flora-finching"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — E.5.  Do not copy, display, perform, distribute or redistribute this"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_14_E_4_Do_not_unlink_or_detach_or_remove_th">‹ Story 14 E 4 Do not unlink or detach or remove th</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_16_E_6_You_may_convert_to_and_distribute_th">Story 16 E 6 You may convert to and distribute th ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_14_e_4_do_not_unlink_or_detach_or_remove_th">‹ Story 14 E 4 Do not unlink or detach or remove th</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_16_e_6_you_may_convert_to_and_distribute_th">Story 16 E 6 You may convert to and distribute th ›</a></div>
 </nav>
 
 

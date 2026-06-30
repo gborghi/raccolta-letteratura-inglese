@@ -2,15 +2,15 @@
 title: "[[TheAppOfTyranny]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/TheAppOfTyranny-(Chesterton)"
+parentWork: "works/theappoftyranny-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/TheAppOfTyranny-(Chesterton)">TheAppOfTyranny</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_04/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/theappoftyranny-(chesterton)">TheAppOfTyranny</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/theappoftyranny/chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/theappoftyranny/chapter_04/part_01">part 01 ›</a></div>
 </nav>
 
 

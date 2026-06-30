@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Crusades"></div>
+<div class="concept-works" data-slug="historical-references/crusades"></div>
 
 #graph/histref

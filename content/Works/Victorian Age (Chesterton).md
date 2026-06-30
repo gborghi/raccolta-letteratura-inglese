@@ -30,10 +30,10 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_04)
+- [Chapter 01](/testi/chesterton/atomized/victorian_age/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/victorian_age/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/victorian_age/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/victorian_age/chapter_04)
 
 ## Testo integrale / Full text
 

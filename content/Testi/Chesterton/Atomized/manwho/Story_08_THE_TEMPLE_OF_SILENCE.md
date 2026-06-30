@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_07_THE_HOLE_IN_THE_WALL">‹ Story 07 THE HOLE IN THE WALL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_09_THE_VENGEANCE_OF_THE_STATUE">Story 09 THE VENGEANCE OF THE STATUE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_07_the_hole_in_the_wall">‹ Story 07 THE HOLE IN THE WALL</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_09_the_vengeance_of_the_statue">Story 09 THE VENGEANCE OF THE STATUE ›</a></div>
 </nav>
 
 

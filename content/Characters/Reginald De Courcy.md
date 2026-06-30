@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Reginald-De-Courcy"></div>
+<div class="concept-works" data-slug="characters/reginald-de-courcy"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 4: THE WORLD INSIDE OUT (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_04_THE_WORLD_INSIDE_OUT/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_04_THE_WORLD_INSIDE_OUT/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out/part_03">part 03 ›</a></div>
 </nav>
 
 

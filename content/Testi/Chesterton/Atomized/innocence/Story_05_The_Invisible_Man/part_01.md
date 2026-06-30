@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Invisible Man (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_05_the_invisible_man/part_02">part 02 ›</a></div>
 </nav>
 
 

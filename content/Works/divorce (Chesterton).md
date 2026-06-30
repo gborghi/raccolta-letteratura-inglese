@@ -31,15 +31,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/divorce/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/divorce/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/divorce/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/divorce/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/divorce/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/divorce/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/divorce/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/divorce/Chapter_08)
-- [Chapter 09](/Testi/Chesterton/Atomized/divorce/Chapter_09)
+- [Chapter 01](/testi/chesterton/atomized/divorce/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/divorce/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/divorce/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/divorce/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/divorce/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/divorce/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/divorce/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/divorce/chapter_08)
+- [Chapter 09](/testi/chesterton/atomized/divorce/chapter_09)
 
 ## Testo integrale / Full text
 

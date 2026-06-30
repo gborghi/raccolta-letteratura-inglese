@@ -34,15 +34,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Two Stones in a Square](/Testi/Chesterton/Atomized/Irish_Impressions/Story_01_Two_Stones_in_a_Square)
-- [Story 02 The Root of Reality](/Testi/Chesterton/Atomized/Irish_Impressions/Story_02_The_Root_of_Reality)
-- [Story 03 The Family and the Feud](/Testi/Chesterton/Atomized/Irish_Impressions/Story_03_The_Family_and_the_Feud)
-- [Story 04 The Paradox of Labour](/Testi/Chesterton/Atomized/Irish_Impressions/Story_04_The_Paradox_of_Labour)
-- [Story 05 The Englishman in Ireland](/Testi/Chesterton/Atomized/Irish_Impressions/Story_05_The_Englishman_in_Ireland)
-- [Story 06 The Mistake of England](/Testi/Chesterton/Atomized/Irish_Impressions/Story_06_The_Mistake_of_England)
-- [Story 07 The Mistake of Ireland](/Testi/Chesterton/Atomized/Irish_Impressions/Story_07_The_Mistake_of_Ireland)
-- [Story 08 An Example and a Question](/Testi/Chesterton/Atomized/Irish_Impressions/Story_08_An_Example_and_a_Question)
-- [Story 09 Belfast and the Religious Problem](/Testi/Chesterton/Atomized/Irish_Impressions/Story_09_Belfast_and_the_Religious_Problem)
+- [Story 01 Two Stones in a Square](/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square)
+- [Story 02 The Root of Reality](/testi/chesterton/atomized/irish_impressions/story_02_the_root_of_reality)
+- [Story 03 The Family and the Feud](/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud)
+- [Story 04 The Paradox of Labour](/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour)
+- [Story 05 The Englishman in Ireland](/testi/chesterton/atomized/irish_impressions/story_05_the_englishman_in_ireland)
+- [Story 06 The Mistake of England](/testi/chesterton/atomized/irish_impressions/story_06_the_mistake_of_england)
+- [Story 07 The Mistake of Ireland](/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland)
+- [Story 08 An Example and a Question](/testi/chesterton/atomized/irish_impressions/story_08_an_example_and_a_question)
+- [Story 09 Belfast and the Religious Problem](/testi/chesterton/atomized/irish_impressions/story_09_belfast_and_the_religious_problem)
 
 
 ## Testo integrale / Full text

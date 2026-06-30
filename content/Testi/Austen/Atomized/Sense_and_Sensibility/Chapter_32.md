@@ -2,15 +2,15 @@
 title: "[[Sense and Sensibility]] — Chapter 32"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Sense-and-Sensibility-(Austen)"
+parentWork: "works/sense-and-sensibility-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_31">‹ Chapter 31</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_33">Chapter 33 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_31">‹ Chapter 31</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_33">Chapter 33 ›</a></div>
 </nav>
 
 

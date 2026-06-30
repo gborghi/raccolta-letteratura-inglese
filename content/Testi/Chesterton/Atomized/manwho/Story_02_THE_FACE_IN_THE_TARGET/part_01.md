@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE FACE IN THE TARGET (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_09_THE_VENGEANCE_OF_THE_STATUE">‹ Story 09 THE VENGEANCE OF THE STATUE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_02_THE_FACE_IN_THE_TARGET/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_09_the_vengeance_of_the_statue">‹ Story 09 THE VENGEANCE OF THE STATUE</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_02_the_face_in_the_target/part_02">part 02 ›</a></div>
 </nav>
 
 

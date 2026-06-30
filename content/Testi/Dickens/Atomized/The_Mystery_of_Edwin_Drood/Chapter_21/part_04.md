@@ -2,15 +2,15 @@
 title: "The Mystery of [[Edwin Drood]] — Chapter 20 (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
+parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_24_hear_Neville_moving_too_Are_yo/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_21/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_24_hear_neville_moving_too_are_yo/part_01">part 01 ›</a></div>
 </nav>
 
 

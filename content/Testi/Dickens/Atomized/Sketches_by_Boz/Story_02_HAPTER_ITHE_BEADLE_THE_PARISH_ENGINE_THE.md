@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER I—THE BEADLE. THE PARISH ENGINE. THE SCHOOLMASTER"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_01_ONDON_CHAPMAN_HALL_ld">‹ Story 01 ONDON CHAPMAN HALL ld</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_03_HAPTER_IITHE_CURATE_THE_OLD_LADY_THE_HAL">Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_01_ondon_chapman_hall_ld">‹ Story 01 ONDON CHAPMAN HALL ld</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_03_hapter_iithe_curate_the_old_lady_the_hal">Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL ›</a></div>
 </nav>
 
 

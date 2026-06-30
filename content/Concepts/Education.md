@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Education"></div>
+<div class="concept-works" data-slug="concepts/education"></div>
 
 #graph/concept

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Dance-of-Death"></div>
+<div class="concept-works" data-slug="topoi/dance-of-death"></div>
 
 #graph/topos

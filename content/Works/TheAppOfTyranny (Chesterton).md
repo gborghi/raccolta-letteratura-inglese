@@ -30,11 +30,11 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_05)
+- [Chapter 01](/testi/chesterton/atomized/theappoftyranny/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/theappoftyranny/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/theappoftyranny/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/theappoftyranny/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/theappoftyranny/chapter_05)
 
 ## Testo integrale / Full text
 

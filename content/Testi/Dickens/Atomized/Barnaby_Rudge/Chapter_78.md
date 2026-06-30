@@ -2,15 +2,15 @@
 title: "[[Barnaby Rudge]] — Chapter 78"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Barnaby-Rudge-(Dickens)"
+parentWork: "works/barnaby-rudge-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_77">‹ Chapter 77</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_79">Chapter 79 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_77">‹ Chapter 77</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_79">Chapter 79 ›</a></div>
 </nav>
 
 

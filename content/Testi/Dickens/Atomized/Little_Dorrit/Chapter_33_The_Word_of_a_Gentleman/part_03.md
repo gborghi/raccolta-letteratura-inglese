@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 30: The Word of a Gentleman (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_33_The_Word_of_a_Gentleman/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_33_The_Word_of_a_Gentleman/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_33_the_word_of_a_gentleman/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_33_the_word_of_a_gentleman/part_04">part 04 ›</a></div>
 </nav>
 
 

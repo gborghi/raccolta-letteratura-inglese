@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Heathcliff"></div>
+<div class="concept-works" data-slug="characters/heathcliff"></div>
 
 #graph/character

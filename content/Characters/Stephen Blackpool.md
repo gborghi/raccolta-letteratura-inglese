@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Stephen-Blackpool"></div>
+<div class="concept-works" data-slug="characters/stephen-blackpool"></div>
 
 #graph/character

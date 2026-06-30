@@ -2,15 +2,15 @@
 title: "[[Incredulity|incredulity]] Fr Brown — The Oracle of the Dog (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
+parentWork: "works/incredulity-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_03_The_Oracle_of_the_Dog/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_03_The_Oracle_of_the_Dog/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_03_the_oracle_of_the_dog/part_08">part 08 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Fanaticism"></div>
+<div class="concept-works" data-slug="concepts/fanaticism"></div>
 
 #graph/concept

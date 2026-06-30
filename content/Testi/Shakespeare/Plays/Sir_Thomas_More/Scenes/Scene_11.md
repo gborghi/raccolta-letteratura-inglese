@@ -2,15 +2,15 @@
 title: "[[Sir Thomas More]] — Scene 11"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
+parentWork: "works/sir-thomas-more-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_10">‹ Scene 10</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_12">Scene 12 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_10">‹ Scene 10</a><a class="ex-next" href="/testi/shakespeare/plays/sir_thomas_more/scenes/scene_12">Scene 12 ›</a></div>
 </nav>
 
 

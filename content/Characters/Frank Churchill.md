@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Frank-Churchill"></div>
+<div class="concept-works" data-slug="characters/frank-churchill"></div>
 
 #graph/character

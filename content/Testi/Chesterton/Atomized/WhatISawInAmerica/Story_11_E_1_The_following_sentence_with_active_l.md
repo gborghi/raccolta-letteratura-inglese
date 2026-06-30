@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — E.1.  The following sentence, with active links to, or other immediate"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_10_E_Unless_you_have_removed_all_references">‹ Story 10 E Unless you have removed all references</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_12_E_2_If_an_individual_Project_Gutenberg_t">Story 12 E 2 If an individual Project Gutenberg t ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_10_e_unless_you_have_removed_all_references">‹ Story 10 E Unless you have removed all references</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_12_e_2_if_an_individual_project_gutenberg_t">Story 12 E 2 If an individual Project Gutenberg t ›</a></div>
 </nav>
 
 

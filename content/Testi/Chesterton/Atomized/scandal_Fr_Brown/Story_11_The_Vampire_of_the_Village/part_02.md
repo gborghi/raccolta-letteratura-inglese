@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The Vampire of the Village (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_11_The_Vampire_of_the_Village/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_11_The_Vampire_of_the_Village/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_11_the_vampire_of_the_village/part_03">part 03 ›</a></div>
 </nav>
 
 

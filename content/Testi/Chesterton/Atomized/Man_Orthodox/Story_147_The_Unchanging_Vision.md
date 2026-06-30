@@ -2,15 +2,15 @@
 title: "Man Orthodox — The Unchanging Vision"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_146_The_Living_Past">‹ Story 146 The Living Past</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_148_The_White_House">Story 148 The White House ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_146_the_living_past">‹ Story 146 The Living Past</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_148_the_white_house">Story 148 The White House ›</a></div>
 </nav>
 
 

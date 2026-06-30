@@ -2,15 +2,15 @@
 title: "[[Agnes Grey]] — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Agnes-Grey-(Bronte)"
+parentWork: "works/agnes-grey-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_14">‹ Chapter 14</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_16">Chapter 16 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_14">‹ Chapter 14</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_16">Chapter 16 ›</a></div>
 </nav>
 
 

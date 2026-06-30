@@ -2,15 +2,15 @@
 title: "[[tolstoy]] — Leo [[tolstoy|Tolstoy]] As Writer (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/tolstoy-(Chesterton)"
+parentWork: "works/tolstoy-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/tolstoy-(Chesterton)">tolstoy</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/tolstoy/Story_03_G_H_Perris">‹ Story 03 G H Perris</a><a class="ex-next" href="/Testi/Chesterton/Atomized/tolstoy/Story_02_Leo_Tolstoy_As_Writer/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tolstoy-(chesterton)">tolstoy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tolstoy/story_03_g_h_perris">‹ Story 03 G H Perris</a><a class="ex-next" href="/testi/chesterton/atomized/tolstoy/story_02_leo_tolstoy_as_writer/part_02">part 02 ›</a></div>
 </nav>
 
 

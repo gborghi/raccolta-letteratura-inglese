@@ -2,15 +2,15 @@
 title: "Man Orthodox — The White [[house|House]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_147_The_Unchanging_Vision">‹ Story 147 The Unchanging Vision</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_149_The_Iconoclast">Story 149 The Iconoclast ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_147_the_unchanging_vision">‹ Story 147 The Unchanging Vision</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_149_the_iconoclast">Story 149 The Iconoclast ›</a></div>
 </nav>
 
 

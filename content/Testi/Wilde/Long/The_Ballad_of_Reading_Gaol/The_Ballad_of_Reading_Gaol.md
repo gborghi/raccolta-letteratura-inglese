@@ -2,14 +2,14 @@
 title: "The Ballad of Reading Gaol"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Ballad-of-Reading-Gaol-(Wilde)"
+parentWork: "works/the-ballad-of-reading-gaol-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Ballad-of-Reading-Gaol-(Wilde)">The Ballad of Reading Gaol</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-ballad-of-reading-gaol-(wilde)">The Ballad of Reading Gaol</a></div>
 </nav>
 
 

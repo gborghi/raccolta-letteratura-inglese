@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Common-Man-(2)"></div>
+<div class="concept-works" data-slug="archetypes/common-man-(2)"></div>
 
 #graph/archetype

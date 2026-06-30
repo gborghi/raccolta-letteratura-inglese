@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Lyric-·-Romantic-Love-·-Marriage-and-Fidelity"></div>
+<div class="concept-works" data-slug="clusters/lyric-·-romantic-love-·-marriage-and-fidelity"></div>

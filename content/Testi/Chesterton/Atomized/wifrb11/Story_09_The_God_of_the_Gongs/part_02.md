@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The God of the Gongs (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs/part_03">part 03 ›</a></div>
 </nav>
 
 

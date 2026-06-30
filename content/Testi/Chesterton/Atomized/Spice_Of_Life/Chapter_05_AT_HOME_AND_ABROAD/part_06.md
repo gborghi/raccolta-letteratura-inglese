@@ -2,15 +2,15 @@
 title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Spice-Of-Life-(Chesterton)"
+parentWork: "works/spice-of-life-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad/part_07">part 07 ›</a></div>
 </nav>
 
 

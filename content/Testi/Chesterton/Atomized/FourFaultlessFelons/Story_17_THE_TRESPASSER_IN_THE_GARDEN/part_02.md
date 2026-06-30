@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE TRESPASSER IN THE [[Garden|GARDEN]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_the_trespasser_in_the_garden/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_the_trespasser_in_the_garden/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Paradise-Lost"></div>
+<div class="concept-works" data-slug="topoi/paradise-lost"></div>
 
 #graph/topos

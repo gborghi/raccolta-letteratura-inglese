@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Crown"></div>
+<div class="concept-works" data-slug="motifs/crown"></div>
 
 #graph/motif

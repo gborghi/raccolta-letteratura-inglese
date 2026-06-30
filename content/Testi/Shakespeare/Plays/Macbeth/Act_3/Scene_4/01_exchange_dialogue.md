@@ -2,14 +2,14 @@
 title: "[[Macbeth]] — Act III, Scene 4 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/MACBETH-(Shakespeare)"
+parentWork: "works/macbeth-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/macbeth-(shakespeare)">Macbeth</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_08_VOX_POPULI_VOX_DEI/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_08_VOX_POPULI_VOX_DEI/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei/part_03">part 03 ›</a></div>
 </nav>
 
 

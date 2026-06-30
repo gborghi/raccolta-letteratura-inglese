@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Napoleonic-Wars-the-Navy"></div>
+<div class="concept-works" data-slug="historical-references/napoleonic-wars-the-navy"></div>
 
 #graph/histref

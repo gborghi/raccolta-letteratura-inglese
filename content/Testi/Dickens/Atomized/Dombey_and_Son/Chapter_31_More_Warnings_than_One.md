@@ -2,15 +2,15 @@
 title: "Dombey and Son — Chapter 37: More Warnings than One"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Dombey-and-Son-(Dickens)"
+parentWork: "works/dombey-and-son-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_30_Housewarming">‹ Chapter 30 Housewarming</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_32_Miss_Tox_improves_an_Old_Acqua">Chapter 32 Miss Tox improves an Old Acqua ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_30_housewarming">‹ Chapter 30 Housewarming</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_32_miss_tox_improves_an_old_acqua">Chapter 32 Miss Tox improves an Old Acqua ›</a></div>
 </nav>
 
 

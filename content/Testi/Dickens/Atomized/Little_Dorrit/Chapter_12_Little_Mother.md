@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 9: Little Mother"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_11_The_Lock">‹ Chapter 11 The Lock</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_13_Containing_the_whole_Science_o">Chapter 13 Containing the whole Science o ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_11_the_lock">‹ Chapter 11 The Lock</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_13_containing_the_whole_science_o">Chapter 13 Containing the whole Science o ›</a></div>
 </nav>
 
 

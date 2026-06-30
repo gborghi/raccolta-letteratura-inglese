@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Stars-·-Night-·-Military-Camp"></div>
+<div class="concept-works" data-slug="clusters/stars-·-night-·-military-camp"></div>

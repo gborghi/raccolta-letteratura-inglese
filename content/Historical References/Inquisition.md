@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Inquisition"></div>
+<div class="concept-works" data-slug="historical-references/inquisition"></div>
 
 #graph/histref

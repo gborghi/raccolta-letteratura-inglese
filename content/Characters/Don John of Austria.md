@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Don-John-of-Austria"></div>
+<div class="concept-works" data-slug="characters/don-john-of-austria"></div>
 
 #graph/character

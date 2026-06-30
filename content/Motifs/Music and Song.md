@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Music-and-Song"></div>
+<div class="concept-works" data-slug="motifs/music-and-song"></div>
 
 #graph/motif

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Edward-Chamberlayne"></div>
+<div class="concept-works" data-slug="characters/edward-chamberlayne"></div>
 
 #graph/character

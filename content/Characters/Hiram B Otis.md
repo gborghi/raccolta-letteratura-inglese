@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hiram-B-Otis"></div>
+<div class="concept-works" data-slug="characters/hiram-b-otis"></div>
 
 #graph/character

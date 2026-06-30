@@ -2,15 +2,15 @@
 title: "[[Timon]] of Athens — Act IV, Scene 2"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
+parentWork: "works/timon-of-athens-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_4/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_4/Scene_3">Scene 3 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/timon-of-athens-(shakespeare)">Timon of Athens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/timon_of_athens/act_4/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/timon_of_athens/act_4/scene_3">Scene 3 ›</a></div>
 </nav>
 
 

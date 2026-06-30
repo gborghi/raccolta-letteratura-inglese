@@ -2,15 +2,15 @@
 title: "[[Agnes Grey]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Agnes-Grey-(Bronte)"
+parentWork: "works/agnes-grey-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_02">‹ Chapter 02</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_04">Chapter 04 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/agnes-grey-(bronte)">Agnes Grey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/agnes_grey/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/bronte/atomized/agnes_grey/chapter_04">Chapter 04 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 7: Mostly, Prunes and Prism (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_47_Mostly_Prunes_and_Prism/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_48_The_Dowager_Mrs_Gowan_is_remin/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_47_mostly_prunes_and_prism/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_48_the_dowager_mrs_gowan_is_remin/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Calpurnia"></div>
+<div class="concept-works" data-slug="characters/calpurnia"></div>
 
 #graph/character

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Prophetess-Seer"></div>
+<div class="concept-works" data-slug="archetypes/prophetess-seer"></div>
 
 #graph/archetype

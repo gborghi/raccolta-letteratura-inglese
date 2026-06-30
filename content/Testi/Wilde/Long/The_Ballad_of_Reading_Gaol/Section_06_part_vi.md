@@ -2,15 +2,15 @@
 title: "The Ballad of Reading Gaol — Part VI"
 author: "Wilde"
 unitType: section
-parentWork: "Works/The-Ballad-of-Reading-Gaol-(Wilde)"
+parentWork: "works/the-ballad-of-reading-gaol-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Ballad-of-Reading-Gaol-(Wilde)">The Ballad of Reading Gaol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_05_part_v">‹ Section 05 part v</a><span></span></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-ballad-of-reading-gaol-(wilde)">The Ballad of Reading Gaol</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v">‹ Section 05 part v</a><span></span></div>
 </nav>
 
 

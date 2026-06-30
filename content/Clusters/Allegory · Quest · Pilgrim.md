@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Allegory-·-Quest-·-Pilgrim"></div>
+<div class="concept-works" data-slug="clusters/allegory-·-quest-·-pilgrim"></div>

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Book-of-Nature"></div>
+<div class="concept-works" data-slug="topoi/book-of-nature"></div>
 
 #graph/topos

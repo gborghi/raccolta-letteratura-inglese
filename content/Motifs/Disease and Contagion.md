@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Disease-and-Contagion"></div>
+<div class="concept-works" data-slug="motifs/disease-and-contagion"></div>
 
 #graph/motif

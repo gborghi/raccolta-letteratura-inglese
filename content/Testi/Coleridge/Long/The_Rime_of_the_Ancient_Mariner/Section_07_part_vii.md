@@ -2,15 +2,15 @@
 title: "The Rime of the [[Ancient Mariner]] — Part VII"
 author: "Coleridge"
 unitType: section
-parentWork: "Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)"
+parentWork: "works/the-rime-of-the-ancient-mariner-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)">The Rime of the Ancient Mariner</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_06_part_vi">‹ Section 06 part vi</a><span></span></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-rime-of-the-ancient-mariner-(coleridge)">The Rime of the Ancient Mariner</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_06_part_vi">‹ Section 06 part vi</a><span></span></div>
 </nav>
 
 

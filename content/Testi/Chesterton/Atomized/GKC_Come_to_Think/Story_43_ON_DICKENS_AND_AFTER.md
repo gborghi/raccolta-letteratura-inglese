@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON DICKENS AND AFTER"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_42_ON_FOCH">‹ Story 42 ON FOCH</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_44_ON_THE_KING">Story 44 ON THE KING ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_42_on_foch">‹ Story 42 ON FOCH</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_44_on_the_king">Story 44 ON THE KING ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Reading The [[Riddle]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_11_The_Pantomime">‹ Story 11 The Pantomime</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_13_A_Tale_Of_Two_Cities">Story 13 A Tale Of Two Cities ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_the_pantomime">‹ Story 11 The Pantomime</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_13_a_tale_of_two_cities">Story 13 A Tale Of Two Cities ›</a></div>
 </nav>
 
 

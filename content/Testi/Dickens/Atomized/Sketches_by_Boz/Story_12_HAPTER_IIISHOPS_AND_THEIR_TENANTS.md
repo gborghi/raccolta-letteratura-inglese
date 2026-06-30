@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER III—SHOPS AND THEIR TENANTS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_11_HAPTER_IITHE_STREETSNIGHT">‹ Story 11 HAPTER IITHE STREETSNIGHT</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_13_HAPTER_IVSCOTLAND_YARD">Story 13 HAPTER IVSCOTLAND YARD ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_11_hapter_iithe_streetsnight">‹ Story 11 HAPTER IITHE STREETSNIGHT</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_13_hapter_ivscotland_yard">Story 13 HAPTER IVSCOTLAND YARD ›</a></div>
 </nav>
 
 

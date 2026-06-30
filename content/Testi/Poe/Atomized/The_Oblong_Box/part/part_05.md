@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Oblong Box</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Oblong_Box/part/part_04">‹ part 04</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_oblong_box/part/part_04">‹ part 04</a><span></span></div>
 </nav>
 
 

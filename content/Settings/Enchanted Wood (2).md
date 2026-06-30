@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Enchanted-Wood-(2)"></div>
+<div class="concept-works" data-slug="settings/enchanted-wood-(2)"></div>
 
 #graph/setting

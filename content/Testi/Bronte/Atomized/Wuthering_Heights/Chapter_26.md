@@ -2,15 +2,15 @@
 title: "[[Wuthering Heights]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Wuthering-Heights-(Bronte)"
+parentWork: "works/wuthering-heights-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_25">‹ Chapter 25</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_27">Chapter 27 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/wuthering_heights/chapter_25">‹ Chapter 25</a><a class="ex-next" href="/testi/bronte/atomized/wuthering_heights/chapter_27">Chapter 27 ›</a></div>
 </nav>
 
 

@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · Ash-Wednesday</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/Ash-Wednesday/Section_03_iii">‹ Section 03 iii</a><a class="ex-next" href="/Testi/Eliot/Long/Ash-Wednesday/Section_05_v">Section 05 v ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/ash-wednesday/section_03_iii">‹ Section 03 iii</a><a class="ex-next" href="/testi/eliot/long/ash-wednesday/section_05_v">Section 05 v ›</a></div>
 </nav>
 
 

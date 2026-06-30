@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Earl-of-Worcester"></div>
+<div class="concept-works" data-slug="characters/earl-of-worcester"></div>
 
 #graph/character

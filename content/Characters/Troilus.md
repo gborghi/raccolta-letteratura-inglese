@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Troilus"></div>
+<div class="concept-works" data-slug="characters/troilus"></div>
 
 #graph/character

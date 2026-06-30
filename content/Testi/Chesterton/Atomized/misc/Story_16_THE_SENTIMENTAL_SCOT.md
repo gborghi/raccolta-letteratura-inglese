@@ -2,15 +2,15 @@
 title: "[[misc]] — THE SENTIMENTAL SCOT"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_15_THE_REAL_JOURNALIST">‹ Story 15 THE REAL JOURNALIST</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_17_THE_SECTARIAN_OF_SOCIETY">Story 17 THE SECTARIAN OF SOCIETY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_15_the_real_journalist">‹ Story 15 THE REAL JOURNALIST</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_17_the_sectarian_of_society">Story 17 THE SECTARIAN OF SOCIETY ›</a></div>
 </nav>
 
 

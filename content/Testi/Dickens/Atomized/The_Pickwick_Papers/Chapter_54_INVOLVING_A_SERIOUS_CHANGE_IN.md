@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_53_IN_WHICH_MR_PICKWICK_ENCOUNTER">‹ Chapter 53 IN WHICH MR PICKWICK ENCOUNTER</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_55_COMPRISING_THE_FINAL_EXIT_OF_M">Chapter 55 COMPRISING THE FINAL EXIT OF M ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_53_in_which_mr_pickwick_encounter">‹ Chapter 53 IN WHICH MR PICKWICK ENCOUNTER</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_55_comprising_the_final_exit_of_m">Chapter 55 COMPRISING THE FINAL EXIT OF M ›</a></div>
 </nav>
 
 

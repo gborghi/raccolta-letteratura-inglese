@@ -2,15 +2,15 @@
 title: "Irish Impressions — The Englishman in Ireland"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Irish-Impressions-(Chesterton)"
+parentWork: "works/irish-impressions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_04_The_Paradox_of_Labour">‹ Story 04 The Paradox of Labour</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_06_The_Mistake_of_England">Story 06 The Mistake of England ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_04_the_paradox_of_labour">‹ Story 04 The Paradox of Labour</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_06_the_mistake_of_england">Story 06 The Mistake of England ›</a></div>
 </nav>
 
 

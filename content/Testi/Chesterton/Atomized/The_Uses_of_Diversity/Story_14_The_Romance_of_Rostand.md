@@ -2,15 +2,15 @@
 title: "The Uses of Diversity — The [[Romance]] of Rostand"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
+parentWork: "works/the-uses-of-diversity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_13_On_Pigs_as_Pets">‹ Story 13 On Pigs as Pets</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_15_Wishes">Story 15 Wishes ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_13_on_pigs_as_pets">‹ Story 13 On Pigs as Pets</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_15_wishes">Story 15 Wishes ›</a></div>
 </nav>
 
 

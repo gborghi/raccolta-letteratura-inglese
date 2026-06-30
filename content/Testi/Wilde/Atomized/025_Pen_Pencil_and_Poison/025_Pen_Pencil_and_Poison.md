@@ -2,14 +2,14 @@
 title: "Pen, Pencil and [[Poison]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/Pen,-Pencil-and-Poison-(Wilde)"
+parentWork: "works/pen,-pencil-and-poison-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/Pen,-Pencil-and-Poison-(Wilde)">025 Pen Pencil and Poison</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/pen,-pencil-and-poison-(wilde)">025 Pen Pencil and Poison</a></div>
 </nav>
 
 

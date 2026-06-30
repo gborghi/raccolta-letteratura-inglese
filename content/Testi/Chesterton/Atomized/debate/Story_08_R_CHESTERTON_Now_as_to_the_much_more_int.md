@@ -2,15 +2,15 @@
 title: "[[debate]] — R. CHESTERTON:  Now as to the much more interesting question,"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_07_OICE_Yes_he_is">‹ Story 07 OICE Yes he is</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_09_R_SHAW_I_cannot_say_that_Mr_Chesterton_h">Story 09 R SHAW I cannot say that Mr Chesterton h ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_07_oice_yes_he_is">‹ Story 07 OICE Yes he is</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_09_r_shaw_i_cannot_say_that_mr_chesterton_h">Story 09 R SHAW I cannot say that Mr Chesterton h ›</a></div>
 </nav>
 
 

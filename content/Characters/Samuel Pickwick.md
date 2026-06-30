@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Samuel-Pickwick"></div>
+<div class="concept-works" data-slug="characters/samuel-pickwick"></div>
 
 #graph/character

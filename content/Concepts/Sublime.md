@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Sublime"></div>
+<div class="concept-works" data-slug="concepts/sublime"></div>
 
 #graph/concept

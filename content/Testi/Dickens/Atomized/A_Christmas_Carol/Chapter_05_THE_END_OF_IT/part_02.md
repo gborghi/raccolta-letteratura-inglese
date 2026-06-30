@@ -2,15 +2,15 @@
 title: "A Christmas [[carol|Carol]] — Stave 5: THE END OF IT (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/A-Christmas-Carol-(Dickens)"
+parentWork: "works/a-christmas-carol-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_05_THE_END_OF_IT/part_01">‹ part 01</a><span></span></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_05_the_end_of_it/part_01">‹ part 01</a><span></span></div>
 </nav>
 
 

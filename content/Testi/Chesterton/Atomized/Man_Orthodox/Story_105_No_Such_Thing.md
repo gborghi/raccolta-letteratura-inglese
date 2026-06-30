@@ -2,15 +2,15 @@
 title: "Man Orthodox — No Such Thing"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_104_Rubbish">‹ Story 104 Rubbish</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_106_The_Protection_Of_The_Bible">Story 106 The Protection Of The Bible ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_104_rubbish">‹ Story 104 Rubbish</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_106_the_protection_of_the_bible">Story 106 The Protection Of The Bible ›</a></div>
 </nav>
 
 

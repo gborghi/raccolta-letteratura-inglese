@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hyperion"></div>
+<div class="concept-works" data-slug="characters/hyperion"></div>
 
 #graph/character

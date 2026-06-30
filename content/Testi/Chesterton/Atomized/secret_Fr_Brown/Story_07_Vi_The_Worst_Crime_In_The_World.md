@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Vi The Worst Crime In The World"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey">‹ Story 06 V The Vanishing Of Vaudrey</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_08_Vii_The_Red_Moon_Of_Meru">Story 08 Vii The Red Moon Of Meru ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_v_the_vanishing_of_vaudrey">‹ Story 06 V The Vanishing Of Vaudrey</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_vii_the_red_moon_of_meru">Story 08 Vii The Red Moon Of Meru ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_08_The_Ghost_of_Gideon_Wise/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_08_The_Ghost_of_Gideon_Wise/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise/part_04">part 04 ›</a></div>
 </nav>
 
 

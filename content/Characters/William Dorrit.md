@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/William-Dorrit"></div>
+<div class="concept-works" data-slug="characters/william-dorrit"></div>
 
 #graph/character

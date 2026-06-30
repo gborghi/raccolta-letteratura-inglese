@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The Scandal of [[Father Brown]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_01_The_Scandal_of_Father_Brown/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_01_The_Scandal_of_Father_Brown/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_01_the_scandal_of_father_brown/part_04">part 04 ›</a></div>
 </nav>
 
 

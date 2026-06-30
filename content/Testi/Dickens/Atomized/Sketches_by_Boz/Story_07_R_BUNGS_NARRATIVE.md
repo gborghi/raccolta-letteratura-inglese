@@ -2,15 +2,15 @@
 title: "Sketches by Boz — R BUNG’S NARRATIVE"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_06_HAPTER_VTHE_BROKERS_MAN">‹ Story 06 HAPTER VTHE BROKERS MAN</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_08_HAPTER_VITHE_LADIES_SOCIETIES">Story 08 HAPTER VITHE LADIES SOCIETIES ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_06_hapter_vthe_brokers_man">‹ Story 06 HAPTER VTHE BROKERS MAN</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_08_hapter_vithe_ladies_societies">Story 08 HAPTER VITHE LADIES SOCIETIES ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Joan-la-Pucelle"></div>
+<div class="concept-works" data-slug="characters/joan-la-pucelle"></div>
 
 #graph/character

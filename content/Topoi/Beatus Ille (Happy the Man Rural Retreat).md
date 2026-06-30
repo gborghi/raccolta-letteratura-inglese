@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Beatus-Ille-(Happy-the-Man-Rural-Retreat)"></div>
+<div class="concept-works" data-slug="topoi/beatus-ille-(happy-the-man-rural-retreat)"></div>
 
 #graph/topos

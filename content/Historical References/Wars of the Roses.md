@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Wars-of-the-Roses"></div>
+<div class="concept-works" data-slug="historical-references/wars-of-the-roses"></div>
 
 #graph/histref

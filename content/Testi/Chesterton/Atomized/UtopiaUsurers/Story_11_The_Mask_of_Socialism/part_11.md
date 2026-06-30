@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — The Mask of Socialism (part 11)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism/part_10">‹ part 10</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism/part_12">part 12 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_11_the_mask_of_socialism/part_10">‹ part 10</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_11_the_mask_of_socialism/part_12">part 12 ›</a></div>
 </nav>
 
 

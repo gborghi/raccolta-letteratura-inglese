@@ -2,15 +2,15 @@
 title: "Little Gidding — II"
 author: "Eliot"
 unitType: section
-parentWork: "Works/Little-Gidding-(Eliot)"
+parentWork: "works/little-gidding-(eliot)"
 tags:
   - graph/excerpt
   - author/Eliot
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Eliot · <a href="/Works/Little-Gidding-(Eliot)">Little Gidding</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/Little_Gidding/Section_01_part_i">‹ Section 01 part i</a><a class="ex-next" href="/Testi/Eliot/Long/Little_Gidding/Section_03_part_iii">Section 03 part iii ›</a></div>
+<div class="excerpt-crumb">Eliot · <a href="/works/little-gidding-(eliot)">Little Gidding</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/little_gidding/section_01_part_i">‹ Section 01 part i</a><a class="ex-next" href="/testi/eliot/long/little_gidding/section_03_part_iii">Section 03 part iii ›</a></div>
 </nav>
 
 

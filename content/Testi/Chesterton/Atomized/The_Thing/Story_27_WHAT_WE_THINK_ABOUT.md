@@ -2,15 +2,15 @@
 title: "The Thing — WHAT WE THINK ABOUT"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_26_INGE_VERSUS_BARNES">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_28_THE_OPTIMIST_AS_A_SUICIDE">Story 28 THE OPTIMIST AS A SUICIDE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_26_inge_versus_barnes">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_28_the_optimist_as_a_suicide">Story 28 THE OPTIMIST AS A SUICIDE ›</a></div>
 </nav>
 
 

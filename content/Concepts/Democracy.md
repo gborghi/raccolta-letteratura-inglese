@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Democracy"></div>
+<div class="concept-works" data-slug="concepts/democracy"></div>
 
 #graph/concept

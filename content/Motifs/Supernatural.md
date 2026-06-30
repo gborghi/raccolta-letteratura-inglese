@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Supernatural"></div>
+<div class="concept-works" data-slug="motifs/supernatural"></div>
 
 #graph/motif

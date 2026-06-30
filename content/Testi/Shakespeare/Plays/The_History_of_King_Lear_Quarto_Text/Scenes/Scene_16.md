@@ -2,15 +2,15 @@
 title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 16"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
+parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_History_of_King_Lear_Quarto_Text/Scenes/Scene_15">‹ Scene 15</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_History_of_King_Lear_Quarto_Text/Scenes/Scene_17">Scene 17 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_15">‹ Scene 15</a><a class="ex-next" href="/testi/shakespeare/plays/the_history_of_king_lear_quarto_text/scenes/scene_17">Scene 17 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Henry VI]] Part One — Act V, Scene 6"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/HENRY-VI-PART-ONE-(Shakespeare)"
+parentWork: "works/henry-vi-part-one-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-VI-PART-ONE-(Shakespeare)">Henry VI Part One</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_VI_Part_One/Act_5/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Henry_VI_Part_One/Act_5/Scene_7">Scene 7 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/henry_vi_part_one/act_5/scene_7">Scene 7 ›</a></div>
 </nav>
 
 

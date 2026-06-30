@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Stupor Passes--Something Else Begins"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_21_Battle_of_Bull_Run_July_1861">‹ Story 21 Battle of Bull Run July 1861</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_23_Down_at_the_Front">Story 23 Down at the Front ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_21_battle_of_bull_run_july_1861">‹ Story 21 Battle of Bull Run July 1861</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_23_down_at_the_front">Story 23 Down at the Front ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_01_A_SERMON_ON_INNS">‹ Chapter 01 A SERMON ON INNS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_03_THE_SIGN_OF_THE_OLD_SHIP">Chapter 03 THE SIGN OF THE OLD SHIP ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns">‹ Chapter 01 A SERMON ON INNS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_03_the_sign_of_the_old_ship">Chapter 03 THE SIGN OF THE OLD SHIP ›</a></div>
 </nav>
 
 

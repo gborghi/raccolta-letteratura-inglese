@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Thomas Carlyle (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_09_Thomas_Carlyle/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_10_Tolstoy_And_The_Cult_Of_Simplicity/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_09_thomas_carlyle/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_10_tolstoy_and_the_cult_of_simplicity/part_01">part 01 ›</a></div>
 </nav>
 
 

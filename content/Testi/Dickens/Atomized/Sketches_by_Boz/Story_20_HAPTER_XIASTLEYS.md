@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XI—ASTLEY’S"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_19_HAPTER_XTHE_RIVER">‹ Story 19 HAPTER XTHE RIVER</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_21_HAPTER_XIIGREENWICH_FAIR">Story 21 HAPTER XIIGREENWICH FAIR ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_19_hapter_xthe_river">‹ Story 19 HAPTER XTHE RIVER</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_21_hapter_xiigreenwich_fair">Story 21 HAPTER XIIGREENWICH FAIR ›</a></div>
 </nav>
 
 

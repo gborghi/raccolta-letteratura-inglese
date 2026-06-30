@@ -2,14 +2,14 @@
 title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — monologue ([[Friar Laurence|FRIAR LAURENCE]]) [6]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
+parentWork: "works/romeo-and-juliet-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/romeo-and-juliet-(shakespeare)">Romeo and Juliet</a></div>
 </nav>
 
 

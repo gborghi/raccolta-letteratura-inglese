@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Genealogy--Van Velsor and Whitman"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_03_Answer_to_an_Insisting_Friend">‹ Story 03 Answer to an Insisting Friend</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_05_The_Old_Whitman_and_Van_Velsor_Cemeterie">Story 05 The Old Whitman and Van Velsor Cemeterie ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_03_answer_to_an_insisting_friend">‹ Story 03 Answer to an Insisting Friend</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_05_the_old_whitman_and_van_velsor_cemeterie">Story 05 The Old Whitman and Van Velsor Cemeterie ›</a></div>
 </nav>
 
 

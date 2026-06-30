@@ -2,14 +2,14 @@
 title: "[[Wuthering Heights]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/Wuthering-Heights-(Bronte)"
+parentWork: "works/wuthering-heights-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/wuthering-heights-(bronte)">Wuthering Heights</a></div>
 </nav>
 
 

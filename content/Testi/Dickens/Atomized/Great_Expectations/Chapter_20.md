@@ -2,15 +2,15 @@
 title: "[[Great Expectations]] — Chapter 20"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Great-Expectations-(Dickens)"
+parentWork: "works/great-expectations-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_19">‹ Chapter 19</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_21">Chapter 21 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_19">‹ Chapter 19</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_21">Chapter 21 ›</a></div>
 </nav>
 
 

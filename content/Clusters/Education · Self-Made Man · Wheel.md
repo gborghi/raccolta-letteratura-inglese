@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Education-·-Self-Made-Man-·-Wheel"></div>
+<div class="concept-works" data-slug="clusters/education-·-self-made-man-·-wheel"></div>

@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The Pantomime"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_10_Paying_For_Patriotism">‹ Story 10 Paying For Patriotism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_12_Reading_The_Riddle">Story 12 Reading The Riddle ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_10_paying_for_patriotism">‹ Story 10 Paying For Patriotism</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_12_reading_the_riddle">Story 12 Reading The Riddle ›</a></div>
 </nav>
 
 

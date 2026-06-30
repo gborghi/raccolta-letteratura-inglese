@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Metamorphosis-Cocoon"></div>
+<div class="concept-works" data-slug="motifs/metamorphosis-cocoon"></div>
 
 #graph/motif

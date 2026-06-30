@@ -2,14 +2,14 @@
 title: "[[The Narrative of Arthur Gordon Pym of Nantucket]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
+parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 </nav>
 
 

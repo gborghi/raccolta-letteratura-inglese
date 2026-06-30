@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The Epitaph Of Pierpont Morgan"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_35_Concerning_A_Strange_City">‹ Story 35 Concerning A Strange City</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_37_The_New_Bigotry">Story 37 The New Bigotry ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_35_concerning_a_strange_city">‹ Story 35 Concerning A Strange City</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_37_the_new_bigotry">Story 37 The New Bigotry ›</a></div>
 </nav>
 
 

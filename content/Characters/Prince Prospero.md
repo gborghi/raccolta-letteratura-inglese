@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Prince-Prospero"></div>
+<div class="concept-works" data-slug="characters/prince-prospero"></div>
 
 #graph/character

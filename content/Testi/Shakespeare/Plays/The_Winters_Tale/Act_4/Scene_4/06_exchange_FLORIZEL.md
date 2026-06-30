@@ -2,14 +2,14 @@
 title: "The Winters Tale — Act IV, Scene 4 — exchange ([[Florizel|FLORIZEL]]) [6]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-WINTER’S-TALE-(Shakespeare)"
+parentWork: "works/the-winter’s-tale-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-WINTER’S-TALE-(Shakespeare)">The Winters Tale</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-winter’s-tale-(shakespeare)">The Winters Tale</a></div>
 </nav>
 
 

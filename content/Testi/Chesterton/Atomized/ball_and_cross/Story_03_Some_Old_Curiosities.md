@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — Some Old Curiosities"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_02_The_Religion_of_the_Stipendiary_Magistra">‹ Story 02 The Religion of the Stipendiary Magistra</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_04_A_Discussion_at_Dawn">Story 04 A Discussion at Dawn ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra">‹ Story 02 The Religion of the Stipendiary Magistra</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_04_a_discussion_at_dawn">Story 04 A Discussion at Dawn ›</a></div>
 </nav>
 
 

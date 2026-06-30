@@ -9,6 +9,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Fog-And-Smoke-Placeholder"></div>
+<div class="concept-works" data-slug="motifs/fog-and-smoke-placeholder"></div>
 
 #graph/motif

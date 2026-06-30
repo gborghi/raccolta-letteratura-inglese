@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The Doom of the Darnaways (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_06_The_Dagger_with_Wings/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_07_The_Doom_of_the_Darnaways/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — ETTERS OF 1864 (part 10)"
 author: "Whitman"
 unitType: excerpt
-parentWork: "Works/The-Wound-Dresser-(Whitman)"
+parentWork: "works/the-wound-dresser-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_07_ETTERS_OF_1864/part_09">‹ part 09</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_07_ETTERS_OF_1864/part_11">part 11 ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_07_etters_of_1864/part_09">‹ part 09</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_07_etters_of_1864/part_11">part 11 ›</a></div>
 </nav>
 
 

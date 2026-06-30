@@ -2,14 +2,14 @@
 title: "The Ballad of the White [[Horse]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
+parentWork: "works/the-ballad-of-the-white-horse-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Ballad-of-the-White-Horse-(Chesterton)">The Ballad of the White Horse</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
 </nav>
 
 

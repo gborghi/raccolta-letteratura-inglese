@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Night-Journey-Vision-·-Katabasis-Descent-·-Quest-Hero"></div>
+<div class="concept-works" data-slug="clusters/night-journey-vision-·-katabasis-descent-·-quest-hero"></div>

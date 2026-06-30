@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 35: IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_36_IS_WHOLLY_DEVOTED_TO_A_FULL_AN/part_09">‹ part 09</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_37_IN_WHICH_MR_PICKWICK_THINKS_HE/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_36_is_wholly_devoted_to_a_full_an/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_in_which_mr_pickwick_thinks_he/part_02">part 02 ›</a></div>
 </nav>
 
 

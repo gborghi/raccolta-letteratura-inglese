@@ -2,15 +2,15 @@
 title: "[[Pride and Prejudice]] — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_18/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_26/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_18/part_05">‹ part 05</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_26/part_02">part 02 ›</a></div>
 </nav>
 
 

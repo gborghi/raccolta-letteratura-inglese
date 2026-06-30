@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Abraham-Lincoln"></div>
+<div class="concept-works" data-slug="characters/abraham-lincoln"></div>
 
 #graph/character

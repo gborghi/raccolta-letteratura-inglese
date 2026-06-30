@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lord-George-Gordon"></div>
+<div class="concept-works" data-slug="characters/lord-george-gordon"></div>
 
 #graph/character

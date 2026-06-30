@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Margaret-of-Anjou"></div>
+<div class="concept-works" data-slug="characters/margaret-of-anjou"></div>
 
 #graph/character

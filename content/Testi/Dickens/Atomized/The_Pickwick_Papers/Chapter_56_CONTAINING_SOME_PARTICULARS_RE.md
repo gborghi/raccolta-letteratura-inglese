@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 54: CONTAINING SOME PARTICULARS RELATIVE TO THE [[Double|DOUBLE]] KNOCK,"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_55_COMPRISING_THE_FINAL_EXIT_OF_M">‹ Chapter 55 COMPRISING THE FINAL EXIT OF M</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_57_MR_SOLOMON_PELL_ASSISTED_BY_A">Chapter 57 MR SOLOMON PELL ASSISTED BY A ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_55_comprising_the_final_exit_of_m">‹ Chapter 55 COMPRISING THE FINAL EXIT OF M</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_57_mr_solomon_pell_assisted_by_a">Chapter 57 MR SOLOMON PELL ASSISTED BY A ›</a></div>
 </nav>
 
 

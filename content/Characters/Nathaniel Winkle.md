@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Nathaniel-Winkle"></div>
+<div class="concept-works" data-slug="characters/nathaniel-winkle"></div>
 
 #graph/character

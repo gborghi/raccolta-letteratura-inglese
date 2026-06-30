@@ -2,14 +2,14 @@
 title: "[[Titus Andronicus]] — Act III, Scene 1 — monologue (TITUS) [2]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/TITUS-ANDRONICUS-(Shakespeare)"
+parentWork: "works/titus-andronicus-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
 </nav>
 
 

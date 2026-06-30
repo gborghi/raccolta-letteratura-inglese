@@ -2,15 +2,15 @@
 title: "[[aquinas]] — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/aquinas-(Chesterton)"
+parentWork: "works/aquinas-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/aquinas-(Chesterton)">aquinas</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/aquinas/Chapter_07/part_03">‹ part 03</a><span></span></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/aquinas/chapter_07/part_03">‹ part 03</a><span></span></div>
 </nav>
 
 

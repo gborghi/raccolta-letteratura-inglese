@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Outsider"></div>
+<div class="concept-works" data-slug="archetypes/outsider"></div>
 
 #graph/archetype

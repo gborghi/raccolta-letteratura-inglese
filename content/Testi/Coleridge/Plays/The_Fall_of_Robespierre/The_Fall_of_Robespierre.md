@@ -2,14 +2,14 @@
 title: "[[THE FALL OF ROBESPIERRE|THE FALL OF ROBESPIERRE]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/THE-FALL-OF-ROBESPIERRE-(Coleridge)"
+parentWork: "works/the-fall-of-robespierre-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-FALL-OF-ROBESPIERRE-(Coleridge)">The Fall of Robespierre</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-fall-of-robespierre-(coleridge)">The Fall of Robespierre</a></div>
 </nav>
 
 

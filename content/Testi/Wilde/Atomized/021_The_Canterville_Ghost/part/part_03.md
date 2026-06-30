@@ -2,15 +2,15 @@
 title: "The Canterville [[Ghost]] (part 3)"
 author: "Wilde"
 unitType: excerpt
-parentWork: "Works/The-Canterville-Ghost-(Wilde)"
+parentWork: "works/the-canterville-ghost-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Canterville-Ghost-(Wilde)">021 The Canterville Ghost</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/021_The_Canterville_Ghost/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Wilde/Atomized/021_The_Canterville_Ghost/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-canterville-ghost-(wilde)">021 The Canterville Ghost</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/wilde/atomized/021_the_canterville_ghost/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/wilde/atomized/021_the_canterville_ghost/part/part_04">part 04 ›</a></div>
 </nav>
 
 

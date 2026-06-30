@@ -2,15 +2,15 @@
 title: "Bleak [[house|House]] — Chapter 56"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Bleak-House-(Dickens)"
+parentWork: "works/bleak-house-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_55">‹ Chapter 55</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_57">Chapter 57 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/bleak_house/chapter_55">‹ Chapter 55</a><a class="ex-next" href="/testi/dickens/atomized/bleak_house/chapter_57">Chapter 57 ›</a></div>
 </nav>
 
 

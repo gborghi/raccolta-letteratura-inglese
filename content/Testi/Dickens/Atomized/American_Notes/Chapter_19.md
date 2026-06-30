@@ -2,15 +2,15 @@
 title: "American Notes — Chapter 18"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/American-Notes-(Dickens)"
+parentWork: "works/american-notes-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/American-Notes-(Dickens)">American Notes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/American_Notes/Chapter_18">‹ Chapter 18</a><a class="ex-next" href="/Testi/Dickens/Atomized/American_Notes/Chapter_02/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/american_notes/chapter_18">‹ Chapter 18</a><a class="ex-next" href="/testi/dickens/atomized/american_notes/chapter_02/part_01">part 01 ›</a></div>
 </nav>
 
 

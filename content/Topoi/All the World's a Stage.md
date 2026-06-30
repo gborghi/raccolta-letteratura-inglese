@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/All-the-World's-a-Stage"></div>
+<div class="concept-works" data-slug="topoi/all-the-world's-a-stage"></div>
 
 #graph/topos

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_16_THE_SEVEN_MOODS_OF_DORIAN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_16_THE_SEVEN_MOODS_OF_DORIAN/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian/part_03">part 03 ›</a></div>
 </nav>
 
 

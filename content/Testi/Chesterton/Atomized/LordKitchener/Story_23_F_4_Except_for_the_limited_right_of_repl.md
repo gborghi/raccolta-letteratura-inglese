@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.4.  Except for the limited right of replacement or refund set forth"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_22_F_3_LIMITED_RIGHT_OF_REPLACEMENT_OR_REFU">‹ Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_24_F_5_Some_states_do_not_allow_disclaimers">Story 24 F 5 Some states do not allow disclaimers ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_22_f_3_limited_right_of_replacement_or_refu">‹ Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_24_f_5_some_states_do_not_allow_disclaimers">Story 24 F 5 Some states do not allow disclaimers ›</a></div>
 </nav>
 
 

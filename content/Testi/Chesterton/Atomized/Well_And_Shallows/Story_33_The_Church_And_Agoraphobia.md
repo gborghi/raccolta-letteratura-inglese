@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — The Church And Agoraphobia"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_32_The_Don_And_The_Cavalier">‹ Story 32 The Don And The Cavalier</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_34_Back_In_The_Fog">Story 34 Back In The Fog ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_32_the_don_and_the_cavalier">‹ Story 32 The Don And The Cavalier</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_34_back_in_the_fog">Story 34 Back In The Fog ›</a></div>
 </nav>
 
 

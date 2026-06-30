@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Trinculo"></div>
+<div class="concept-works" data-slug="characters/trinculo"></div>
 
 #graph/character

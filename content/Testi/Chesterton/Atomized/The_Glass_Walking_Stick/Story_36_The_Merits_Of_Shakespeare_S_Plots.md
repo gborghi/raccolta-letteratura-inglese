@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The Merits Of Shakespeare'S Plots"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_35_The_Narrowness_Of_Novelty">‹ Story 35 The Narrowness Of Novelty</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_37_A_Plea_For_The_Heroic_Couplet">Story 37 A Plea For The Heroic Couplet ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_35_the_narrowness_of_novelty">‹ Story 35 The Narrowness Of Novelty</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_37_a_plea_for_the_heroic_couplet">Story 37 A Plea For The Heroic Couplet ›</a></div>
 </nav>
 
 

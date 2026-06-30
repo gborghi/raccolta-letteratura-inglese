@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Odysseus-Ulysses"></div>
+<div class="concept-works" data-slug="characters/odysseus-ulysses"></div>
 
 #graph/character

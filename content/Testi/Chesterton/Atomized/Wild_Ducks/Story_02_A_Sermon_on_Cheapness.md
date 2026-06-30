@@ -2,15 +2,15 @@
 title: "Wild Ducks — A Sermon on Cheapness"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_01_IN_GENERAL">‹ Story 01 IN GENERAL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_03_On_Manners">Story 03 On Manners ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_01_in_general">‹ Story 01 IN GENERAL</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_03_on_manners">Story 03 On Manners ›</a></div>
 </nav>
 
 

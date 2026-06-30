@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Supernatural-(2)"></div>
+<div class="concept-works" data-slug="concepts/supernatural-(2)"></div>
 
 #graph/concept

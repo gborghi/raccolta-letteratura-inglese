@@ -2,15 +2,15 @@
 title: "Fancies Versis Fads — Book 1: MANUFACTURERS (part 33)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Fancies-Versis-Fads-(Chesterton)"
+parentWork: "works/fancies-versis-fads-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Fancies-Versis-Fads-(Chesterton)">Fancies Versis Fads</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS/part_32">‹ part 32</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS/part_34">part 34 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_32">‹ part 32</a><a class="ex-next" href="/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers/part_34">part 34 ›</a></div>
 </nav>
 
 

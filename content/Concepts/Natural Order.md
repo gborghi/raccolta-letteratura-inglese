@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Natural-Order"></div>
+<div class="concept-works" data-slug="concepts/natural-order"></div>
 
 #graph/concept

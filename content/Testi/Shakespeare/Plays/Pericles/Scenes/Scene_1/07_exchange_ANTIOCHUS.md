@@ -2,14 +2,14 @@
 title: "[[Pericles]] — Scene 1 — exchange ([[Antiochus|ANTIOCHUS]]) [7]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/PERICLES-(Shakespeare)"
+parentWork: "works/pericles-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[ortho14]] — Introduction in Defence of Everything Else"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_02_The_Maniac">Story 02 The Maniac ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_02_the_maniac">Story 02 The Maniac ›</a></div>
 </nav>
 
 

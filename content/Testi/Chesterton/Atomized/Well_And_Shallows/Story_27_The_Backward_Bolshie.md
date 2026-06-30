@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — The Backward Bolshie"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_26_The_Ascetic_At_Large">‹ Story 26 The Ascetic At Large</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_28_The_Last_Turn">Story 28 The Last Turn ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_26_the_ascetic_at_large">‹ Story 26 The Ascetic At Large</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_28_the_last_turn">Story 28 The Last Turn ›</a></div>
 </nav>
 
 

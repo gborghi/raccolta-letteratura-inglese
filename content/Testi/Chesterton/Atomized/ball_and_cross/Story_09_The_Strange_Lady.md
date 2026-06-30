@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Strange Lady"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_08_An_Interlude_of_Argument">‹ Story 08 An Interlude of Argument</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_10_The_Swords_Rejoined">Story 10 The Swords Rejoined ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_08_an_interlude_of_argument">‹ Story 08 An Interlude of Argument</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_10_the_swords_rejoined">Story 10 The Swords Rejoined ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_10_THE_CHARACTER_OF_QUOODLE">‹ Chapter 10 THE CHARACTER OF QUOODLE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_12_VEGETARIANISM_IN_THE_FOREST">Chapter 12 VEGETARIANISM IN THE FOREST ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_10_the_character_of_quoodle">‹ Chapter 10 THE CHARACTER OF QUOODLE</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest">Chapter 12 VEGETARIANISM IN THE FOREST ›</a></div>
 </nav>
 
 

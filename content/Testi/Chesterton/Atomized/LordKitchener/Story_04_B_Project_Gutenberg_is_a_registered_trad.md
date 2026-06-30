@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — B.  \"Project Gutenberg\" is a registered trademark.  It may only be"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_03_A_By_reading_or_using_any_part_of_this_P">‹ Story 03 A By reading or using any part of this P</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_05_C_The_Project_Gutenberg_Literary_Archive">Story 05 C The Project Gutenberg Literary Archive ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_03_a_by_reading_or_using_any_part_of_this_p">‹ Story 03 A By reading or using any part of this P</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_05_c_the_project_gutenberg_literary_archive">Story 05 C The Project Gutenberg Literary Archive ›</a></div>
 </nav>
 
 

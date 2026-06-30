@@ -2,15 +2,15 @@
 title: "[[heret12]] — On the Negative Spirit"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_01_Introductory_Remarks_on_the_Importance_o">‹ Story 01 Introductory Remarks on the Importance o</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_03_On_Mr_Rudyard_Kipling_and_Making_the_Wor">Story 03 On Mr Rudyard Kipling and Making the Wor ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o">‹ Story 01 Introductory Remarks on the Importance o</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_03_on_mr_rudyard_kipling_and_making_the_wor">Story 03 On Mr Rudyard Kipling and Making the Wor ›</a></div>
 </nav>
 
 

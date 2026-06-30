@@ -2,15 +2,15 @@
 title: "[[debate]] — R. CHESTERTON:  I am sure Mr. [[Shaw]] is very welcome"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_11_R_SHAW_I_now_want_to_ask_Mr_Chesterton_w">‹ Story 11 R SHAW I now want to ask Mr Chesterton w</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_13_R_BELLOC_I_was_told_when_I_accepted_this">Story 13 R BELLOC I was told when I accepted this ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_11_r_shaw_i_now_want_to_ask_mr_chesterton_w">‹ Story 11 R SHAW I now want to ask Mr Chesterton w</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_13_r_belloc_i_was_told_when_i_accepted_this">Story 13 R BELLOC I was told when I accepted this ›</a></div>
 </nav>
 
 

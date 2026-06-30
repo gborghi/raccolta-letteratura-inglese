@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Literary-Criticism"></div>
+<div class="concept-works" data-slug="forms/literary-criticism"></div>
 
 #graph/form

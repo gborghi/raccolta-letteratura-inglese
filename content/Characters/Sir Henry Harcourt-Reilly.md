@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sir-Henry-Harcourt-Reilly"></div>
+<div class="concept-works" data-slug="characters/sir-henry-harcourt-reilly"></div>
 
 #graph/character

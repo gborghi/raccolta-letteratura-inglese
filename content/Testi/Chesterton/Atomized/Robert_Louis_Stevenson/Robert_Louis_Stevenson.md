@@ -2,14 +2,14 @@
 title: "Robert Louis Stevenson"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Robert-Louis-Stevenson-(Chesterton)"
+parentWork: "works/robert-louis-stevenson-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Louis-Stevenson-(Chesterton)">Robert Louis Stevenson</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
 </nav>
 
 

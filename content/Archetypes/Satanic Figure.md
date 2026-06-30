@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Satanic-Figure"></div>
+<div class="concept-works" data-slug="archetypes/satanic-figure"></div>
 
 #graph/archetype

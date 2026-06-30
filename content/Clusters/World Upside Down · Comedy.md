@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/World-Upside-Down-·-Comedy"></div>
+<div class="concept-works" data-slug="clusters/world-upside-down-·-comedy"></div>

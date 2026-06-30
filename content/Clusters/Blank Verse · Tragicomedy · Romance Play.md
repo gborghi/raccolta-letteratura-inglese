@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Blank-Verse-·-Tragicomedy-·-Romance-Play"></div>
+<div class="concept-works" data-slug="clusters/blank-verse-·-tragicomedy-·-romance-play"></div>

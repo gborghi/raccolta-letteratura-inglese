@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_21_NCIDENTAL_DAMAGES_EVEN_IF_YOU_GIVE_NOTIC">‹ Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_23_F_4_Except_for_the_limited_right_of_repl">Story 23 F 4 Except for the limited right of repl ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_21_ncidental_damages_even_if_you_give_notic">‹ Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_23_f_4_except_for_the_limited_right_of_repl">Story 23 F 4 Except for the limited right of repl ›</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "The Battle of Life"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Battle-of-Life-(Dickens)"
+parentWork: "works/the-battle-of-life-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-battle-of-life-(dickens)">The Battle of Life</a></div>
 </nav>
 
 

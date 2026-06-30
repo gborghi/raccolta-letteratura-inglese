@@ -2,15 +2,15 @@
 title: "The Fall of [[Hyperion]] — Canto I"
 author: "Keats"
 unitType: section
-parentWork: "Works/The-Fall-of-Hyperion-(Keats)"
+parentWork: "works/the-fall-of-hyperion-(keats)"
 tags:
   - graph/excerpt
   - author/Keats
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Keats · <a href="/Works/The-Fall-of-Hyperion-(Keats)">The Fall of Hyperion</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Keats/Long/The_Fall_of_Hyperion/Section_02_canto_ii">Section 02 canto ii ›</a></div>
+<div class="excerpt-crumb">Keats · <a href="/works/the-fall-of-hyperion-(keats)">The Fall of Hyperion</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii">Section 02 canto ii ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Greek-Mythology"></div>
+<div class="concept-works" data-slug="historical-references/greek-mythology"></div>
 
 #graph/histref

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 5: A SHORT ONE--SHOWING, AMONG OTHER MATTERS, HOW Mr. [[Pickwick|PICKWICK]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N">‹ Chapter 05 A FIELD DAY AND BIVOUAC MORE N</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_07_AN_OLD_FASHIONED_CARD_PARTY_TH">Chapter 07 AN OLD FASHIONED CARD PARTY TH ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_a_field_day_and_bivouac_more_n">‹ Chapter 05 A FIELD DAY AND BIVOUAC MORE N</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_an_old_fashioned_card_party_th">Chapter 07 AN OLD FASHIONED CARD PARTY TH ›</a></div>
 </nav>
 
 

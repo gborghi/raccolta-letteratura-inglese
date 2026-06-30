@@ -2,15 +2,15 @@
 title: "[[The Colloquy of Monos and Una]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
+parentWork: "works/the-colloquy-of-monos-and-una-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Colloquy-of-Monos-and-Una-(Poe)">The Colloquy of Monos and Una</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Colloquy_of_Monos_and_Una/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-colloquy-of-monos-and-una-(poe)">The Colloquy of Monos and Una</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_colloquy_of_monos_and_una/part/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "dickens Britannica (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/dickens-Britannica-(Chesterton)"
+parentWork: "works/dickens-britannica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/dickens-Britannica-(Chesterton)">dickens Britannica</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/dickens_Britannica/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/dickens-britannica-(chesterton)">dickens Britannica</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/dickens_britannica/part/part_02">part 02 ›</a></div>
 </nav>
 
 

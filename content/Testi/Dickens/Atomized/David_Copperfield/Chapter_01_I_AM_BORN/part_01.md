@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 1: I AM BORN (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_64_A_LAST_RETROSPECT">‹ Chapter 64 A LAST RETROSPECT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_64_a_last_retrospect">‹ Chapter 64 A LAST RETROSPECT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_02">part 02 ›</a></div>
 </nav>
 
 

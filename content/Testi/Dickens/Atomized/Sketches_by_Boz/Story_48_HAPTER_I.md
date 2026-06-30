@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER I."
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_47_HAPTER_ITHE_BOARDING_HOUSE">‹ Story 47 HAPTER ITHE BOARDING HOUSE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_49_HAPTER_THE_SECOND">Story 49 HAPTER THE SECOND ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_47_hapter_ithe_boarding_house">‹ Story 47 HAPTER ITHE BOARDING HOUSE</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_49_hapter_the_second">Story 49 HAPTER THE SECOND ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Portrait of Mr. W. H. (part 2)"
 author: "Wilde"
 unitType: excerpt
-parentWork: "Works/The-Portrait-of-Mr.-W.-H.-(Wilde)"
+parentWork: "works/the-portrait-of-mr.-w.-h.-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Portrait-of-Mr.-W.-H.-(Wilde)">010 The Portrait of Mr W H</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/010_The_Portrait_of_Mr_W_H/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Wilde/Atomized/010_The_Portrait_of_Mr_W_H/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-portrait-of-mr.-w.-h.-(wilde)">010 The Portrait of Mr W H</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/wilde/atomized/010_the_portrait_of_mr_w_h/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/wilde/atomized/010_the_portrait_of_mr_w_h/part/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Perception-and-Consciousness"></div>
+<div class="concept-works" data-slug="concepts/perception-and-consciousness"></div>
 
 #graph/concept

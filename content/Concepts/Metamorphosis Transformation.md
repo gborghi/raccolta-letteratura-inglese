@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Metamorphosis-Transformation"></div>
+<div class="concept-works" data-slug="concepts/metamorphosis-transformation"></div>
 
 #graph/concept

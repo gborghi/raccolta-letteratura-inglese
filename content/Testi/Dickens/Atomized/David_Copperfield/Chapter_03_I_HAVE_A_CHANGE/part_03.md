@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change/part_04">part 04 ›</a></div>
 </nav>
 
 

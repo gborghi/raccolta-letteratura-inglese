@@ -2,15 +2,15 @@
 title: "[[heret12]] — Slum Novelists and the Slums (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_17_The_Fallacy_of_the_Young_Nation/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_18_Slum_Novelists_and_the_Slums/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_17_the_fallacy_of_the_young_nation/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_18_slum_novelists_and_the_slums/part_02">part 02 ›</a></div>
 </nav>
 
 

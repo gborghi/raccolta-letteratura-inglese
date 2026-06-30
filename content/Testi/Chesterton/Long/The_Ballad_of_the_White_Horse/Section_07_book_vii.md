@@ -2,15 +2,15 @@
 title: "The Ballad of the White [[Horse]] — Book VII"
 author: "Chesterton"
 unitType: section
-parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
+parentWork: "works/the-ballad-of-the-white-horse-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Ballad-of-the-White-Horse-(Chesterton)">The Ballad of the White Horse</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_06_book_vi">‹ Section 06 book vi</a><a class="ex-next" href="/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_08_book_viii">Section 08 book viii ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-ballad-of-the-white-horse-(chesterton)">The Ballad of the White Horse</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_06_book_vi">‹ Section 06 book vi</a><a class="ex-next" href="/testi/chesterton/long/the_ballad_of_the_white_horse/section_08_book_viii">Section 08 book viii ›</a></div>
 </nav>
 
 

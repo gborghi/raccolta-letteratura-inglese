@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Purple Wig (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_06_The_Head_of_Caesar/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_07_The_Purple_Wig/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig/part_02">part 02 ›</a></div>
 </nav>
 
 

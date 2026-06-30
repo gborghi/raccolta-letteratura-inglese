@@ -2,15 +2,15 @@
 title: "[[MrPond]] — The Crime of Captain Gahagan (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_02_The_Crime_of_Captain_Gahagan/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_02_The_Crime_of_Captain_Gahagan/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_02_the_crime_of_captain_gahagan/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_02_the_crime_of_captain_gahagan/part_07">part 07 ›</a></div>
 </nav>
 
 

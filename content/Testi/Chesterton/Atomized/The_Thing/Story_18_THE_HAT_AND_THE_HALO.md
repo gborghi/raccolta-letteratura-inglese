@@ -2,15 +2,15 @@
 title: "The Thing — THE HAT AND THE HALO"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_17_WHO_ARE_THE_CONSPIRATORS">‹ Story 17 WHO ARE THE CONSPIRATORS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_19_ON_TWO_ALLEGORIES">Story 19 ON TWO ALLEGORIES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_17_who_are_the_conspirators">‹ Story 17 WHO ARE THE CONSPIRATORS</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_19_on_two_allegories">Story 19 ON TWO ALLEGORIES ›</a></div>
 </nav>
 
 

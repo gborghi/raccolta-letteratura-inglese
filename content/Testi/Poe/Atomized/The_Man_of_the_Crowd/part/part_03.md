@@ -2,15 +2,15 @@
 title: "[[The Man of the Crowd]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Man-of-the-Crowd-(Poe)"
+parentWork: "works/the-man-of-the-crowd-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Man-of-the-Crowd-(Poe)">The Man of the Crowd</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Man_of_the_Crowd/part/part_02">‹ part 02</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-man-of-the-crowd-(poe)">The Man of the Crowd</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_man_of_the_crowd/part/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 

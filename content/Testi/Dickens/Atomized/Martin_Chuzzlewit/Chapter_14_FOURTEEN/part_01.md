@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 14: FOURTEEN (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_13_THIRTEEN/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_14_FOURTEEN/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_13_thirteen/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_14_fourteen/part_02">part 02 ›</a></div>
 </nav>
 
 

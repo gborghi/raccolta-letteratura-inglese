@@ -2,15 +2,15 @@
 title: "The Cricket on the Hearth — Chirp The Third"
 author: "Dickens"
 unitType: story
-parentWork: "Works/The-Cricket-on-the-Hearth-(Dickens)"
+parentWork: "works/the-cricket-on-the-hearth-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Second">‹ Story 06 Chirp The Second</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_First/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_second">‹ Story 06 Chirp The Second</a><a class="ex-next" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_first/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Sense and Sensibility]] — Chapter 27"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Sense-and-Sensibility-(Austen)"
+parentWork: "works/sense-and-sensibility-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_26">‹ Chapter 26</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_28">Chapter 28 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_26">‹ Chapter 26</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_28">Chapter 28 ›</a></div>
 </nav>
 
 

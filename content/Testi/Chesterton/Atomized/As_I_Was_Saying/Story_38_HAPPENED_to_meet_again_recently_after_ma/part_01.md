@@ -2,15 +2,15 @@
 title: "As I Was Saying — HAPPENED to meet again, recently, after many years, a very brilliant (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_37_N_dealing_with_such_things_as_Prohibitio/part_11">‹ part 11</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_38_HAPPENED_to_meet_again_recently_after_ma/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_37_n_dealing_with_such_things_as_prohibitio/part_11">‹ part 11</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_38_happened_to_meet_again_recently_after_ma/part_02">part 02 ›</a></div>
 </nav>
 
 

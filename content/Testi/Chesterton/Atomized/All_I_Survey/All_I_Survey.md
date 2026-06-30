@@ -2,14 +2,14 @@
 title: "All I Survey"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/All-I-Survey-(Chesterton)"
+parentWork: "works/all-i-survey-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/All-I-Survey-(Chesterton)">All I Survey</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
 </nav>
 
 

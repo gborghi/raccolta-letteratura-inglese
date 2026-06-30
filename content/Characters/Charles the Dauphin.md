@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Charles-the-Dauphin"></div>
+<div class="concept-works" data-slug="characters/charles-the-dauphin"></div>
 
 #graph/character

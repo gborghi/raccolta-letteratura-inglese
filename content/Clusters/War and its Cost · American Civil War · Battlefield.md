@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/War-and-its-Cost-·-American-Civil-War-·-Battlefield"></div>
+<div class="concept-works" data-slug="clusters/war-and-its-cost-·-american-civil-war-·-battlefield"></div>

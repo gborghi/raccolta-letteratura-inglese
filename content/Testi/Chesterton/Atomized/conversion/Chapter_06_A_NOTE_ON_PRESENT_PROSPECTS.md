@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 6: A NOTE ON PRESENT PROSPECTS"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_05_THE_EXCEPTION_PROVES_THE_RULE">‹ Chapter 05 THE EXCEPTION PROVES THE RULE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule">‹ Chapter 05 THE EXCEPTION PROVES THE RULE</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_01">part 01 ›</a></div>
 </nav>
 
 

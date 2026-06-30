@@ -145,7 +145,11 @@ function sluggify(s) {
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
+        // v5: @quartz-community/utils lowercases wikilink slugs while core emits
+        // pages at the (lowercased) file path. Lowercase here so every href we emit
+        // matches the lowercased content filenames (see the dest .toLowerCase() below).
+        .toLowerCase(),
     )
     .join("/")
     .replace(/\/$/, "")
@@ -415,7 +419,10 @@ async function publishUnits(rawSourceToWork) {
           outBody = stripLeadingH1IfMatchesTitle(outBody, title)
           outBody = nav + outBody
 
-          const dest = path.join(CONTENT, TESTI_REL, author, sub, it.relU.split("/").join(path.sep))
+          // Lowercase the output path so the emitted page slug matches the
+          // lowercased hrefs from sluggify() (v5 link-case fix).
+          const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
+          const dest = path.join(CONTENT, unitRel.split("/").join(path.sep))
           await fs.mkdir(path.dirname(dest), { recursive: true })
           await fs.writeFile(dest, fm + outBody)
           copied++
@@ -559,7 +566,9 @@ async function main() {
       }
     }
 
-    const dest = path.join(CONTENT, rel)
+    // Lowercase the output path (v5 link-case fix): pages emit at the file path,
+    // and our hrefs are lowercased in sluggify(), so the files must be lowercase too.
+    const dest = path.join(CONTENT, rel.toLowerCase())
     await fs.mkdir(path.dirname(dest), { recursive: true })
     await fs.writeFile(dest, matter.stringify(newContent, { ...data }))
     written++
@@ -637,7 +646,11 @@ async function main() {
   // pages ("Capitoli correlati"). Skipped silently if the tags file is absent.
   try {
     const raw = await fs.readFile(CHAPTER_TAGS, "utf8")
-    const tags = JSON.parse(raw)
+    // chapter_tags.json is keyed by the (case-preserved) #17 hrefs; lowercase the
+    // keys so they match the now-lowercased unit hrefs/slugs (v5 link-case fix).
+    const tags = Object.fromEntries(
+      Object.entries(JSON.parse(raw)).map(([k, v]) => [k.toLowerCase(), v]),
+    )
     const unitMeta = new Map() // href -> { title, work, workHref }
     for (const u of Object.values(excerpts)) {
       unitMeta.set(u.href, {

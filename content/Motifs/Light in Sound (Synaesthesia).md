@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Light-in-Sound-(Synaesthesia)"></div>
+<div class="concept-works" data-slug="motifs/light-in-sound-(synaesthesia)"></div>
 
 #graph/motif

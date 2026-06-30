@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Bret Harte (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_12_The_Position_Of_Sir_Walter_Scott/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_13_Bret_Harte/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_12_the_position_of_sir_walter_scott/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_13_bret_harte/part_02">part 02 ›</a></div>
 </nav>
 
 

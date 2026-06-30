@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Spiritual-Emptiness"></div>
+<div class="concept-works" data-slug="concepts/spiritual-emptiness"></div>
 
 #graph/concept

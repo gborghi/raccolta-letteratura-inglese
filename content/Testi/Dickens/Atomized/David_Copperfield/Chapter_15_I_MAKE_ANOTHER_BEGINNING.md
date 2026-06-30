@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 15: I MAKE ANOTHER BEGINNING"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU">‹ Chapter 14 MY AUNT MAKES UP HER MIND ABOU</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES">Chapter 16 I AM A NEW BOY IN MORE SENSES ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou">‹ Chapter 14 MY AUNT MAKES UP HER MIND ABOU</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_16_i_am_a_new_boy_in_more_senses">Chapter 16 I AM A NEW BOY IN MORE SENSES ›</a></div>
 </nav>
 
 

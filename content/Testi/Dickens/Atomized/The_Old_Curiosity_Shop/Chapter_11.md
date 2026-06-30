@@ -2,15 +2,15 @@
 title: "The Old Curiosity Shop — Chapter 11"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Old-Curiosity-Shop-(Dickens)"
+parentWork: "works/the-old-curiosity-shop-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_10">‹ Chapter 10</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_12">Chapter 12 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-old-curiosity-shop-(dickens)">The Old Curiosity Shop</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/dickens/atomized/the_old_curiosity_shop/chapter_12">Chapter 12 ›</a></div>
 </nav>
 
 

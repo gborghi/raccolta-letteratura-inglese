@@ -2,14 +2,14 @@
 title: "The [[Young King]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Young-King-(Wilde)"
+parentWork: "works/the-young-king-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Young-King-(Wilde)">016 The Young King</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-young-king-(wilde)">016 The Young King</a></div>
 </nav>
 
 

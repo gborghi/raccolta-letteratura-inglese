@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Patience-and-Waiting"></div>
+<div class="concept-works" data-slug="concepts/patience-and-waiting"></div>
 
 #graph/concept

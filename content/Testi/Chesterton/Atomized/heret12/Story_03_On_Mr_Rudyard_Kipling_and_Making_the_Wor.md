@@ -2,15 +2,15 @@
 title: "[[heret12]] — On Mr. Rudyard Kipling and Making the World Small"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit">‹ Story 02 On the Negative Spirit</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_04_Mr_Bernard_Shaw">Story 04 Mr Bernard Shaw ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">‹ Story 02 On the Negative Spirit</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_04_mr_bernard_shaw">Story 04 Mr Bernard Shaw ›</a></div>
 </nav>
 
 

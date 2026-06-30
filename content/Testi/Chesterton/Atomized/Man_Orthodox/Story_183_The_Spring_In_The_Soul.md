@@ -2,15 +2,15 @@
 title: "Man Orthodox — The [[Spring]] In The [[Soul]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_182_The_Three_Gifts">‹ Story 182 The Three Gifts</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_184_The_Person_Of_Jesus_Christ">Story 184 The Person Of Jesus Christ ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_182_the_three_gifts">‹ Story 182 The Three Gifts</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_184_the_person_of_jesus_christ">Story 184 The Person Of Jesus Christ ›</a></div>
 </nav>
 
 

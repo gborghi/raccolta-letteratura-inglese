@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lazarus-the-Risen-Man"></div>
+<div class="concept-works" data-slug="characters/lazarus-the-risen-man"></div>
 
 #graph/character

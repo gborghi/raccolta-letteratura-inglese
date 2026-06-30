@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Viii The Chief Mourner Of Marne (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_09_viii_the_chief_mourner_of_marne/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_09_viii_the_chief_mourner_of_marne/part_06">part 06 ›</a></div>
 </nav>
 
 

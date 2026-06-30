@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER THE FIRST"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_61_HAPTER_XA_PASSAGE_IN_THE_LIFE_OF_MR_WATK">‹ Story 61 HAPTER XA PASSAGE IN THE LIFE OF MR WATK</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_63_HAPTER_THE_SECOND">Story 63 HAPTER THE SECOND ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_61_hapter_xa_passage_in_the_life_of_mr_watk">‹ Story 61 HAPTER XA PASSAGE IN THE LIFE OF MR WATK</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_63_hapter_the_second">Story 63 HAPTER THE SECOND ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Ghost-of-Christmas-Present"></div>
+<div class="concept-works" data-slug="characters/ghost-of-christmas-present"></div>
 
 #graph/character

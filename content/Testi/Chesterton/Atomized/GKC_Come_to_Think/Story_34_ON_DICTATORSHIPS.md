@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON DICTATORSHIPS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_33_ON_JANE_AUSTEN_IN_THE_GENERAL_ELECTION">‹ Story 33 ON JANE AUSTEN IN THE GENERAL ELECTION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_35_ON_ABOLISHING_SUNDAY">Story 35 ON ABOLISHING SUNDAY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_33_on_jane_austen_in_the_general_election">‹ Story 33 ON JANE AUSTEN IN THE GENERAL ELECTION</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_35_on_abolishing_sunday">Story 35 ON ABOLISHING SUNDAY ›</a></div>
 </nav>
 
 

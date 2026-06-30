@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_62_A_LIGHT_SHINES_ON_MY_WAY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_63_A_VISITOR/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_62_a_light_shines_on_my_way/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_63_a_visitor/part_01">part 01 ›</a></div>
 </nav>
 
 

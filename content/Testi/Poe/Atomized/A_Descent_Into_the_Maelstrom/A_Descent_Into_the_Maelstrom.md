@@ -2,14 +2,14 @@
 title: "[[A Descent Into the Maelstrom]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
+parentWork: "works/a-descent-into-the-maelstrom-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/A-Descent-Into-the-Maelstrom-(Poe)">A Descent Into the Maelstrom</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/a-descent-into-the-maelstrom-(poe)">A Descent Into the Maelstrom</a></div>
 </nav>
 
 

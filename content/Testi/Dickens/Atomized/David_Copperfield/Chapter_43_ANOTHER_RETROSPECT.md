@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 43: ANOTHER RETROSPECT"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_42_MISCHIEF">‹ Chapter 42 MISCHIEF</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_44_OUR_HOUSEKEEPING">Chapter 44 OUR HOUSEKEEPING ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_42_mischief">‹ Chapter 42 MISCHIEF</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_44_our_housekeeping">Chapter 44 OUR HOUSEKEEPING ›</a></div>
 </nav>
 
 

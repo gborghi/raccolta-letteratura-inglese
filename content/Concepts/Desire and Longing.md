@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Desire-and-Longing"></div>
+<div class="concept-works" data-slug="concepts/desire-and-longing"></div>
 
 #graph/concept

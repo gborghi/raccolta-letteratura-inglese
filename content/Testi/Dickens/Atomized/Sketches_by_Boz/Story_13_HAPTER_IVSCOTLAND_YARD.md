@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER IV—SCOTLAND-YARD"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_12_HAPTER_IIISHOPS_AND_THEIR_TENANTS">‹ Story 12 HAPTER IIISHOPS AND THEIR TENANTS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_14_HAPTER_VSEVEN_DIALS">Story 14 HAPTER VSEVEN DIALS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_12_hapter_iiishops_and_their_tenants">‹ Story 12 HAPTER IIISHOPS AND THEIR TENANTS</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_14_hapter_vseven_dials">Story 14 HAPTER VSEVEN DIALS ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
+parentWork: "works/incredulity-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_04_The_Miracle_of_Moon_Crescent/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_04_The_Miracle_of_Moon_Crescent/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent/part_08">part 08 ›</a></div>
 </nav>
 
 

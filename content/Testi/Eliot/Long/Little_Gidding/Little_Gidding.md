@@ -2,14 +2,14 @@
 title: "Little Gidding"
 author: "Eliot"
 unitType: work
-parentWork: "Works/Little-Gidding-(Eliot)"
+parentWork: "works/little-gidding-(eliot)"
 tags:
   - graph/excerpt
   - author/Eliot
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Eliot · <a href="/Works/Little-Gidding-(Eliot)">Little Gidding</a></div>
+<div class="excerpt-crumb">Eliot · <a href="/works/little-gidding-(eliot)">Little Gidding</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/River-Thames"></div>
+<div class="concept-works" data-slug="settings/river-thames"></div>
 
 #graph/setting

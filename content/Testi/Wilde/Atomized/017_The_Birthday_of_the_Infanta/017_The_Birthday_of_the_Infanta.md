@@ -2,14 +2,14 @@
 title: "The Birthday of the [[Infanta]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Birthday-of-the-Infanta-(Wilde)"
+parentWork: "works/the-birthday-of-the-infanta-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Birthday-of-the-Infanta-(Wilde)">017 The Birthday of the Infanta</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-birthday-of-the-infanta-(wilde)">017 The Birthday of the Infanta</a></div>
 </nav>
 
 

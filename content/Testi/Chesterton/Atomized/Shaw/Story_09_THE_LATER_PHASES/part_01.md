@@ -2,15 +2,15 @@
 title: "[[Shaw]] — THE LATER PHASES (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Shaw-(Chesterton)"
+parentWork: "works/shaw-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER/part_15">‹ part 15</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_15">‹ part 15</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_09_the_later_phases/part_02">part 02 ›</a></div>
 </nav>
 
 

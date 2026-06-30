@@ -2,15 +2,15 @@
 title: "secret Fr Brown — The Secret Of [[Father Brown]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate">Story 02 I The Mirror Of The Magistrate ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_02_i_the_mirror_of_the_magistrate">Story 02 I The Mirror Of The Magistrate ›</a></div>
 </nav>
 
 

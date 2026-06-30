@@ -2,15 +2,15 @@
 title: "Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_11_the_position_of_sir_walter_scott/part_04">part 04 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Life-as-a-Battle"></div>
+<div class="concept-works" data-slug="topoi/life-as-a-battle"></div>
 
 #graph/topos

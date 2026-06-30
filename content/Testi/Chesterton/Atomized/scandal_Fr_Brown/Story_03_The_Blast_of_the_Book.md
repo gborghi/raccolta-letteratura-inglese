@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The Blast of the Book"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_02_The_Quick_One">‹ Story 02 The Quick One</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_04_The_Green_Man">Story 04 The Green Man ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_02_the_quick_one">‹ Story 02 The Quick One</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_04_the_green_man">Story 04 The Green Man ›</a></div>
 </nav>
 
 

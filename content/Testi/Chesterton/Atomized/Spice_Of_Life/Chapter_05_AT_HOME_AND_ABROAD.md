@@ -2,15 +2,15 @@
 title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/Spice-Of-Life-(Chesterton)"
+parentWork: "works/spice-of-life-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_04_THOUGHT_AND_BELIEF">‹ Chapter 04 THOUGHT AND BELIEF</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_06_THE_SPICE_OF_LIFE">Chapter 06 THE SPICE OF LIFE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief">‹ Chapter 04 THOUGHT AND BELIEF</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life">Chapter 06 THE SPICE OF LIFE ›</a></div>
 </nav>
 
 

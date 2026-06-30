@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Madame-Defarge"></div>
+<div class="concept-works" data-slug="characters/madame-defarge"></div>
 
 #graph/character

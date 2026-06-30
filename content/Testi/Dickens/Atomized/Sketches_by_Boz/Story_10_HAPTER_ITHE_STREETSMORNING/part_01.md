@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER I—THE STREETS—MORNING (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_09_HAPTER_VIIOUR_NEXT_DOOR_NEIGHBOUR/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_10_HAPTER_ITHE_STREETSMORNING/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_09_hapter_viiour_next_door_neighbour/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_10_hapter_ithe_streetsmorning/part_02">part 02 ›</a></div>
 </nav>
 
 

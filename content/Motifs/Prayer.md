@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Prayer"></div>
+<div class="concept-works" data-slug="motifs/prayer"></div>
 
 #graph/motif

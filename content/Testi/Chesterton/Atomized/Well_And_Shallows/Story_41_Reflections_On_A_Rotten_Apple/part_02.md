@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — Reflections On A Rotten Apple (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_41_Reflections_On_A_Rotten_Apple/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_41_Reflections_On_A_Rotten_Apple/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_41_reflections_on_a_rotten_apple/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_41_reflections_on_a_rotten_apple/part_03">part 03 ›</a></div>
 </nav>
 
 

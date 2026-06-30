@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Satire-of-Society"></div>
+<div class="concept-works" data-slug="concepts/satire-of-society"></div>
 
 #graph/concept

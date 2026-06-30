@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Katabasis-Descent"></div>
+<div class="concept-works" data-slug="topoi/katabasis-descent"></div>
 
 #graph/topos

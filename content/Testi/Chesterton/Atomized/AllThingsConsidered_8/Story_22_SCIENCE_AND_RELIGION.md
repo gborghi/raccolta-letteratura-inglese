@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — SCIENCE AND RELIGION"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_21_THE_WORSHIP_OF_THE_WEALTHY">‹ Story 21 THE WORSHIP OF THE WEALTHY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_23_THE_METHUSELAHITE">Story 23 THE METHUSELAHITE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_21_the_worship_of_the_wealthy">‹ Story 21 THE WORSHIP OF THE WEALTHY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_23_the_methuselahite">Story 23 THE METHUSELAHITE ›</a></div>
 </nav>
 
 

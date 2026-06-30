@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Epistolary-Diary-Novel"></div>
+<div class="concept-works" data-slug="forms/epistolary-diary-novel"></div>
 
 #graph/form

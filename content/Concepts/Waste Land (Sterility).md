@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Waste-Land-(Sterility)"></div>
+<div class="concept-works" data-slug="concepts/waste-land-(sterility)"></div>
 
 #graph/concept

@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_HOME/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_20_steerforths_home/part_01">part 01 ›</a></div>
 </nav>
 
 

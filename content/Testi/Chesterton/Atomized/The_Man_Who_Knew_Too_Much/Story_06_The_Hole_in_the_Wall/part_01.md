@@ -2,15 +2,15 @@
 title: "The Man Who Knew Too Much — The Hole in the Wall (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
+parentWork: "works/the-man-who-knew-too-much-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_05_The_Fad_of_the_Fisherman/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_06_The_Hole_in_the_Wall/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall/part_02">part 02 ›</a></div>
 </nav>
 
 

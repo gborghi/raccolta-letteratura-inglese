@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VII—HACKNEY-COACH STANDS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_15_HAPTER_VIMEDITATIONS_IN_MONMOUTH_STREET">‹ Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_17_HAPTER_VIIIDOCTORS_COMMONS">Story 17 HAPTER VIIIDOCTORS COMMONS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_15_hapter_vimeditations_in_monmouth_street">‹ Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_17_hapter_viiidoctors_commons">Story 17 HAPTER VIIIDOCTORS COMMONS ›</a></div>
 </nav>
 
 

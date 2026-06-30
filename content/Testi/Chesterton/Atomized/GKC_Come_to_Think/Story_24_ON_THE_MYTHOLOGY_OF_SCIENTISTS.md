@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON THE MYTHOLOGY OF SCIENTISTS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_23_ON_THE_TIMID_THINKERS">‹ Story 23 ON THE TIMID THINKERS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_25_ON_CHANGE">Story 25 ON CHANGE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_23_on_the_timid_thinkers">‹ Story 23 ON THE TIMID THINKERS</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_25_on_change">Story 25 ON CHANGE ›</a></div>
 </nav>
 
 

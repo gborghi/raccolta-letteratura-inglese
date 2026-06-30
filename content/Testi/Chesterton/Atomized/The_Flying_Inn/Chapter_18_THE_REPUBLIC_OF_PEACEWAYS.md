@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_17_THE_POET_IN_PARLIAMENT">‹ Chapter 17 THE POET IN PARLIAMENT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_19_THE_HOSPITALITY_OF_THE_CAPTAIN">Chapter 19 THE HOSPITALITY OF THE CAPTAIN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_17_the_poet_in_parliament">‹ Chapter 17 THE POET IN PARLIAMENT</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_19_the_hospitality_of_the_captain">Chapter 19 THE HOSPITALITY OF THE CAPTAIN ›</a></div>
 </nav>
 
 

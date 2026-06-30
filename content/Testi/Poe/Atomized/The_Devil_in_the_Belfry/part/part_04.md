@@ -2,15 +2,15 @@
 title: "[[The Devil in the Belfry]] (part 4)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
+parentWork: "works/the-devil-in-the-belfry-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Devil-in-the-Belfry-(Poe)">The Devil in the Belfry</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Devil_in_the_Belfry/part/part_03">‹ part 03</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-devil-in-the-belfry-(poe)">The Devil in the Belfry</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_devil_in_the_belfry/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
 

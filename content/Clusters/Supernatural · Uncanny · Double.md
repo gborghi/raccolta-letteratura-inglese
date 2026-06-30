@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Supernatural-·-Uncanny-·-Double"></div>
+<div class="concept-works" data-slug="clusters/supernatural-·-uncanny-·-double"></div>

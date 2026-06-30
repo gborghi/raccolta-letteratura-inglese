@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Harold-Skimpole"></div>
+<div class="concept-works" data-slug="characters/harold-skimpole"></div>
 
 #graph/character

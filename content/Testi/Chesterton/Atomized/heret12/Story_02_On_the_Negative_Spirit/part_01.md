@@ -2,15 +2,15 @@
 title: "[[heret12]] — On the Negative Spirit (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_01_Introductory_Remarks_on_the_Importance_o/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_01_introductory_remarks_on_the_importance_o/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit/part_02">part 02 ›</a></div>
 </nav>
 
 

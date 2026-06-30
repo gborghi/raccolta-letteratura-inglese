@@ -2,15 +2,15 @@
 title: "Man Orthodox — Assimilation And Rejection"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_179_A_Note_On_Comparative_Religion">‹ Story 179 A Note On Comparative Religion</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_181_The_Winter_Feast">Story 181 The Winter Feast ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_179_a_note_on_comparative_religion">‹ Story 179 A Note On Comparative Religion</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_181_the_winter_feast">Story 181 The Winter Feast ›</a></div>
 </nav>
 
 

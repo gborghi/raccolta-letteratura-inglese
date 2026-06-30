@@ -56,18 +56,18 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Blue Cross](/Testi/Chesterton/Atomized/innocence/Story_01_The_Blue_Cross)
-- [Story 02 The Secret Garden](/Testi/Chesterton/Atomized/innocence/Story_02_The_Secret_Garden)
-- [Story 03 The Queer Feet](/Testi/Chesterton/Atomized/innocence/Story_03_The_Queer_Feet)
-- [Story 04 The Flying Stars](/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars)
-- [Story 05 The Invisible Man](/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man)
-- [Story 06 The Honour of Israel Gow](/Testi/Chesterton/Atomized/innocence/Story_06_The_Honour_of_Israel_Gow)
-- [Story 07 The Wrong Shape](/Testi/Chesterton/Atomized/innocence/Story_07_The_Wrong_Shape)
-- [Story 08 The Sins of Prince Saradine](/Testi/Chesterton/Atomized/innocence/Story_08_The_Sins_of_Prince_Saradine)
-- [Story 09 The Hammer of God](/Testi/Chesterton/Atomized/innocence/Story_09_The_Hammer_of_God)
-- [Story 10 The Eye of Apollo](/Testi/Chesterton/Atomized/innocence/Story_10_The_Eye_of_Apollo)
-- [Story 11 The Sign of the Broken Sword](/Testi/Chesterton/Atomized/innocence/Story_11_The_Sign_of_the_Broken_Sword)
-- [Story 12 The Three Tools of Death](/Testi/Chesterton/Atomized/innocence/Story_12_The_Three_Tools_of_Death)
+- [Story 01 The Blue Cross](/testi/chesterton/atomized/innocence/story_01_the_blue_cross)
+- [Story 02 The Secret Garden](/testi/chesterton/atomized/innocence/story_02_the_secret_garden)
+- [Story 03 The Queer Feet](/testi/chesterton/atomized/innocence/story_03_the_queer_feet)
+- [Story 04 The Flying Stars](/testi/chesterton/atomized/innocence/story_04_the_flying_stars)
+- [Story 05 The Invisible Man](/testi/chesterton/atomized/innocence/story_05_the_invisible_man)
+- [Story 06 The Honour of Israel Gow](/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow)
+- [Story 07 The Wrong Shape](/testi/chesterton/atomized/innocence/story_07_the_wrong_shape)
+- [Story 08 The Sins of Prince Saradine](/testi/chesterton/atomized/innocence/story_08_the_sins_of_prince_saradine)
+- [Story 09 The Hammer of God](/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god)
+- [Story 10 The Eye of Apollo](/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo)
+- [Story 11 The Sign of the Broken Sword](/testi/chesterton/atomized/innocence/story_11_the_sign_of_the_broken_sword)
+- [Story 12 The Three Tools of Death](/testi/chesterton/atomized/innocence/story_12_the_three_tools_of_death)
 
 ## Testo integrale / Full text
 

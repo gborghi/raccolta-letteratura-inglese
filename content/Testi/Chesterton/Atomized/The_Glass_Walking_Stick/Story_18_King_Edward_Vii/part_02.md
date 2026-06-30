@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — [[King]] Edward Vii (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_18_King_Edward_Vii/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_18_King_Edward_Vii/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_18_king_edward_vii/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_18_king_edward_vii/part_03">part 03 ›</a></div>
 </nav>
 
 

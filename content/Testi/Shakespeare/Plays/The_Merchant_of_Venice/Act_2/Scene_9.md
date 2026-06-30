@@ -2,15 +2,15 @@
 title: "The Merchant of [[Venice]] — Act II, Scene 9"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
+parentWork: "works/the-merchant-of-venice-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Merchant_of_Venice/Act_2/Scene_8">‹ Scene 8</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Merchant_of_Venice/Act_3/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merchant_of_venice/act_2/scene_8">‹ Scene 8</a><a class="ex-next" href="/testi/shakespeare/plays/the_merchant_of_venice/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

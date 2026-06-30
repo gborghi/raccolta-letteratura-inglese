@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Nature-vs-Civilization"></div>
+<div class="concept-works" data-slug="concepts/nature-vs-civilization"></div>
 
 #graph/concept

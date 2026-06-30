@@ -2,15 +2,15 @@
 title: "[[heret12]] — On Mr. McCabe and a Divine Frivolity (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_15_On_Mr_McCabe_and_a_Divine_Frivolity/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_16_On_the_Wit_of_Whistler/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_15_on_mr_mccabe_and_a_divine_frivolity/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_16_on_the_wit_of_whistler/part_01">part 01 ›</a></div>
 </nav>
 
 

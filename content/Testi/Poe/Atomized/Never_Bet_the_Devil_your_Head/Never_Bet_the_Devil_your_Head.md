@@ -2,14 +2,14 @@
 title: "[[Never Bet the Devil your Head]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Never-Bet-the-Devil-your-Head-(Poe)"
+parentWork: "works/never-bet-the-devil-your-head-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Never-Bet-the-Devil-your-Head-(Poe)">Never Bet the Devil your Head</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/never-bet-the-devil-your-head-(poe)">Never Bet the Devil your Head</a></div>
 </nav>
 
 

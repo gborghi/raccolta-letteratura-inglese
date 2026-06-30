@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Secret [[Garden]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_01_The_Blue_Cross">‹ Story 01 The Blue Cross</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_03_The_Queer_Feet">Story 03 The Queer Feet ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_01_the_blue_cross">‹ Story 01 The Blue Cross</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet">Story 03 The Queer Feet ›</a></div>
 </nav>
 
 

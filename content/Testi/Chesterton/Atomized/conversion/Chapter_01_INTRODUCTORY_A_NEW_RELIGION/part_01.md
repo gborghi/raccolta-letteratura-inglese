@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_06_A_NOTE_ON_PRESENT_PROSPECTS">‹ Chapter 06 A NOTE ON PRESENT PROSPECTS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects">‹ Chapter 06 A NOTE ON PRESENT PROSPECTS</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion/part_02">part 02 ›</a></div>
 </nav>
 
 

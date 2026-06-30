@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Uriah-Heep"></div>
+<div class="concept-works" data-slug="characters/uriah-heep"></div>
 
 #graph/character

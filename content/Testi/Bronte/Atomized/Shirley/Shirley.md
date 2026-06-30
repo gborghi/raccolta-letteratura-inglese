@@ -2,14 +2,14 @@
 title: "[[Shirley]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/Shirley-(Bronte)"
+parentWork: "works/shirley-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
 </nav>
 
 

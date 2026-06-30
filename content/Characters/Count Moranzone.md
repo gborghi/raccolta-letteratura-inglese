@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Count-Moranzone"></div>
+<div class="concept-works" data-slug="characters/count-moranzone"></div>
 
 #graph/character

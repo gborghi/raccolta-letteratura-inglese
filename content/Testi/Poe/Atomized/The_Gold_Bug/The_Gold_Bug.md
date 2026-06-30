@@ -2,14 +2,14 @@
 title: "[[The Gold-Bug]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Gold-Bug-(Poe)"
+parentWork: "works/the-gold-bug-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Gold-Bug-(Poe)">The Gold Bug</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-gold-bug-(poe)">The Gold Bug</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Heaven-and-the-Afterlife"></div>
+<div class="concept-works" data-slug="concepts/heaven-and-the-afterlife"></div>
 
 #graph/concept

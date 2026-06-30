@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Comic-Verse-Song"></div>
+<div class="concept-works" data-slug="forms/comic-verse-song"></div>
 
 #graph/form

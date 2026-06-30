@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Night-Journey-Vision"></div>
+<div class="concept-works" data-slug="topoi/night-journey-vision"></div>
 
 #graph/topos

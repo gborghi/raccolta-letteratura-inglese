@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 3: THE SIGN OF “THE OLD [[Ship|SHIP]]”"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_02_THE_END_OF_OLIVE_ISLAND">‹ Chapter 02 THE END OF OLIVE ISLAND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_04_THE_INN_FINDS_WINGS">Chapter 04 THE INN FINDS WINGS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_02_the_end_of_olive_island">‹ Chapter 02 THE END OF OLIVE ISLAND</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_04_the_inn_finds_wings">Chapter 04 THE INN FINDS WINGS ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Thomas-Becket"></div>
+<div class="concept-works" data-slug="characters/thomas-becket"></div>
 
 #graph/character

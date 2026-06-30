@@ -2,15 +2,15 @@
 title: "[[The System of Doctor Tarr and Professor Fether]] (part 2)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
+parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)">The System of Doctor Tarr and Professor Fether</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_System_of_Doctor_Tarr_and_Professor_Fether/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/The_System_of_Doctor_Tarr_and_Professor_Fether/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-system-of-doctor-tarr-and-professor-fether-(poe)">The System of Doctor Tarr and Professor Fether</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_system_of_doctor_tarr_and_professor_fether/part/part_03">part 03 ›</a></div>
 </nav>
 
 

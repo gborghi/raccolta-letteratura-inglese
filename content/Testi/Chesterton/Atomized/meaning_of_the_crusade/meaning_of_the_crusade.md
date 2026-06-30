@@ -2,14 +2,14 @@
 title: "meaning of the crusade"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/meaning-of-the-crusade-(Chesterton)"
+parentWork: "works/meaning-of-the-crusade-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/meaning-of-the-crusade-(Chesterton)">meaning of the crusade</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/meaning-of-the-crusade-(chesterton)">meaning of the crusade</a></div>
 </nav>
 
 

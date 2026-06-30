@@ -2,15 +2,15 @@
 title: "[[The Angel of the Odd]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
+parentWork: "works/the-angel-of-the-odd-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Angel-of-the-Odd-(Poe)">The Angel of the Odd</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Angel_of_the_Odd/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Angel_of_the_Odd/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-angel-of-the-odd-(poe)">The Angel of the Odd</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_angel_of_the_odd/part/part_04">part 04 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "All I Survey — Chapter 24 (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/All-I-Survey-(Chesterton)"
+parentWork: "works/all-i-survey-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/All-I-Survey-(Chesterton)">All I Survey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/All_I_Survey/Chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/All_I_Survey/Chapter_32/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/all-i-survey-(chesterton)">All I Survey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/all_i_survey/chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/all_i_survey/chapter_32/part_01">part 01 ›</a></div>
 </nav>
 
 

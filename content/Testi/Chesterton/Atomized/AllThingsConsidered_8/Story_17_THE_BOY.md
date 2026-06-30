@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — THE BOY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_16_THOUGHTS_AROUND_KOEPENICK">‹ Story 16 THOUGHTS AROUND KOEPENICK</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_18_LIMERICKS_AND_COUNSELS_OF_PERFECTION">Story 18 LIMERICKS AND COUNSELS OF PERFECTION ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_16_thoughts_around_koepenick">‹ Story 16 THOUGHTS AROUND KOEPENICK</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_18_limericks_and_counsels_of_perfection">Story 18 LIMERICKS AND COUNSELS OF PERFECTION ›</a></div>
 </nav>
 
 

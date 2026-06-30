@@ -2,15 +2,15 @@
 title: "[[The Balloon-Hoax]] (part 6)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Balloon-Hoax-(Poe)"
+parentWork: "works/the-balloon-hoax-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Balloon-Hoax-(Poe)">The Balloon Hoax</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Balloon_Hoax/part/part_05">‹ part 05</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-balloon-hoax-(poe)">The Balloon Hoax</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_balloon_hoax/part/part_05">‹ part 05</a><span></span></div>
 </nav>
 
 

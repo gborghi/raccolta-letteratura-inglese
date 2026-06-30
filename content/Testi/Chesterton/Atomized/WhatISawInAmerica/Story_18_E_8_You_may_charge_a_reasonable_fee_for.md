@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — E.8.  You may charge a reasonable fee for copies of or providing"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_17_E_7_Do_not_charge_a_fee_for_access_to_vi">‹ Story 17 E 7 Do not charge a fee for access to vi</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_19_E_9_If_you_wish_to_charge_a_fee_or_distr">Story 19 E 9 If you wish to charge a fee or distr ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_17_e_7_do_not_charge_a_fee_for_access_to_vi">‹ Story 17 E 7 Do not charge a fee for access to vi</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_19_e_9_if_you_wish_to_charge_a_fee_or_distr">Story 19 E 9 If you wish to charge a fee or distr ›</a></div>
 </nav>
 
 

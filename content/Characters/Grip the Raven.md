@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Grip-the-Raven"></div>
+<div class="concept-works" data-slug="characters/grip-the-raven"></div>
 
 #graph/character

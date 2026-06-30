@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Paganism-and-Classical-Revival"></div>
+<div class="concept-works" data-slug="concepts/paganism-and-classical-revival"></div>
 
 #graph/concept

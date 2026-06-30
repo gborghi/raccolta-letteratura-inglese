@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Sonnet-·-Shakespearean-Sonnet-·-Jealousy"></div>
+<div class="concept-works" data-slug="clusters/sonnet-·-shakespearean-sonnet-·-jealousy"></div>

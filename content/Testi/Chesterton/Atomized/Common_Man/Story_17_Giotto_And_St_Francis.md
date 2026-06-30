@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Giotto And St.  Francis"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_16_The_Dangers_Of_Necromancy">‹ Story 16 The Dangers Of Necromancy</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_18_The_New_Groove">Story 18 The New Groove ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_16_the_dangers_of_necromancy">‹ Story 16 The Dangers Of Necromancy</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_18_the_new_groove">Story 18 The New Groove ›</a></div>
 </nav>
 
 

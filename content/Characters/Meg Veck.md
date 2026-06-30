@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Meg-Veck"></div>
+<div class="concept-works" data-slug="characters/meg-veck"></div>
 
 #graph/character

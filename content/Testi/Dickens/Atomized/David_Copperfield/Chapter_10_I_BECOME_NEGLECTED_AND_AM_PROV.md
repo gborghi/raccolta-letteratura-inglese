@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY">‹ Chapter 09 I HAVE A MEMORABLE BIRTHDAY</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT">Chapter 11 I BEGIN LIFE ON MY OWN ACCOUNT ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_09_i_have_a_memorable_birthday">‹ Chapter 09 I HAVE A MEMORABLE BIRTHDAY</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_11_i_begin_life_on_my_own_account">Chapter 11 I BEGIN LIFE ON MY OWN ACCOUNT ›</a></div>
 </nav>
 
 

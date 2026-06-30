@@ -2,14 +2,14 @@
 title: "The Uses of Diversity"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
+parentWork: "works/the-uses-of-diversity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
 </nav>
 
 

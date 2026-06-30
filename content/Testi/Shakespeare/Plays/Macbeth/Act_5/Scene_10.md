@@ -2,15 +2,15 @@
 title: "[[Macbeth]] — Act V, Scene 10"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/MACBETH-(Shakespeare)"
+parentWork: "works/macbeth-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Macbeth/Act_5/Scene_9">‹ Scene 9</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Macbeth/Act_5/Scene_11">Scene 11 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/macbeth-(shakespeare)">Macbeth</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/macbeth/act_5/scene_9">‹ Scene 9</a><a class="ex-next" href="/testi/shakespeare/plays/macbeth/act_5/scene_11">Scene 11 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 9: A DISCOVERY AND A CHASE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_09_STRONGLY_ILLUSTRATIVE_OF_THE_P">‹ Chapter 09 STRONGLY ILLUSTRATIVE OF THE P</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_11_CLEARING_UP_ALL_DOUBTS_IF_ANY">Chapter 11 CLEARING UP ALL DOUBTS IF ANY ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_strongly_illustrative_of_the_p">‹ Chapter 09 STRONGLY ILLUSTRATIVE OF THE P</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_11_clearing_up_all_doubts_if_any">Chapter 11 CLEARING UP ALL DOUBTS IF ANY ›</a></div>
 </nav>
 
 

@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/City-·-London-·-Theatrum-Mundi"></div>
+<div class="concept-works" data-slug="clusters/city-·-london-·-theatrum-mundi"></div>

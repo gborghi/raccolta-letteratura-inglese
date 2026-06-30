@@ -2,14 +2,14 @@
 title: "The Picture of [[Dorian Gray]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Picture-of-Dorian-Gray-(Wilde)"
+parentWork: "works/the-picture-of-dorian-gray-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Picture-of-Dorian-Gray-(Wilde)">009 The Picture of Dorian Gray</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-picture-of-dorian-gray-(wilde)">009 The Picture of Dorian Gray</a></div>
 </nav>
 
 

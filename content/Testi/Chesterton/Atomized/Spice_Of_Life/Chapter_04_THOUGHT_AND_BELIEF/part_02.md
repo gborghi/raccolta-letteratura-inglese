@@ -2,15 +2,15 @@
 title: "Spice Of Life — Part 3: THOUGHT AND BELIEF (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Spice-Of-Life-(Chesterton)"
+parentWork: "works/spice-of-life-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_04_THOUGHT_AND_BELIEF/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_04_THOUGHT_AND_BELIEF/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Oliver Twist]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Oliver-Twist-(Dickens)"
+parentWork: "works/oliver-twist-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Oliver-Twist-(Dickens)">Oliver Twist</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/Oliver_Twist/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/oliver-twist-(dickens)">Oliver Twist</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/oliver_twist/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

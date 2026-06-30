@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Order-vs-Chaos"></div>
+<div class="concept-works" data-slug="concepts/order-vs-chaos"></div>
 
 #graph/concept

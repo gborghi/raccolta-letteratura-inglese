@@ -2,15 +2,15 @@
 title: "trees of [[Pride|pride]] — THE TALE OF THE PEACOCK TREES"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/trees-of-pride-(Chesterton)"
+parentWork: "works/trees-of-pride-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_02_THE_WAGER_OF_SQUIRE_VANE">Story 02 THE WAGER OF SQUIRE VANE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">trees of pride</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_02_the_wager_of_squire_vane">Story 02 THE WAGER OF SQUIRE VANE ›</a></div>
 </nav>
 
 

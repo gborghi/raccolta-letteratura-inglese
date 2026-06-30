@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Vera-Sabouroff"></div>
+<div class="concept-works" data-slug="characters/vera-sabouroff"></div>
 
 #graph/character

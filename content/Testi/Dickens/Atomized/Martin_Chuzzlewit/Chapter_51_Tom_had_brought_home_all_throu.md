@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Book 51: Tom had brought [[Home|home]], all through, though it was a teaser to read;"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_50_FIFTY">‹ Chapter 50 FIFTY</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_52_FIFTY_ONE">Chapter 52 FIFTY ONE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_50_fifty">‹ Chapter 50 FIFTY</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_52_fifty_one">Chapter 52 FIFTY ONE ›</a></div>
 </nav>
 
 

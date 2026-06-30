@@ -2,15 +2,15 @@
 title: "[[misc]] — THE NAMELESS MAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_04_THE_MAN_WHO_THINKS_BACKWARDS">‹ Story 04 THE MAN WHO THINKS BACKWARDS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_06_THE_GARDENER_AND_THE_GUINEA">Story 06 THE GARDENER AND THE GUINEA ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_04_the_man_who_thinks_backwards">‹ Story 04 THE MAN WHO THINKS BACKWARDS</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_06_the_gardener_and_the_guinea">Story 06 THE GARDENER AND THE GUINEA ›</a></div>
 </nav>
 
 

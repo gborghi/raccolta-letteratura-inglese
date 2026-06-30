@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Maturation-and-Growth"></div>
+<div class="concept-works" data-slug="concepts/maturation-and-growth"></div>
 
 #graph/concept

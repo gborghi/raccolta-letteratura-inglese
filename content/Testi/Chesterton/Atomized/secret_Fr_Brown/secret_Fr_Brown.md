@@ -2,14 +2,14 @@
 title: "secret Fr Brown"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
 </nav>
 
 

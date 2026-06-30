@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Innocence-and-Experience"></div>
+<div class="concept-works" data-slug="concepts/innocence-and-experience"></div>
 
 #graph/concept

@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — THE VOTE AND THE [[house|HOUSE]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_04_ON_RUNNING_AFTER_ONE_S_HAT">‹ Story 04 ON RUNNING AFTER ONE S HAT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_06_CONCEIT_AND_CARICATURE">Story 06 CONCEIT AND CARICATURE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_04_on_running_after_one_s_hat">‹ Story 04 ON RUNNING AFTER ONE S HAT</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_06_conceit_and_caricature">Story 06 CONCEIT AND CARICATURE ›</a></div>
 </nav>
 
 

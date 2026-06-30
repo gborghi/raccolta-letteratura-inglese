@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The [[Romance]] Of [[history|History]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_09_Poetry_In_Action">‹ Story 09 Poetry In Action</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_11_The_Heraldic_Lion">Story 11 The Heraldic Lion ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_09_poetry_in_action">‹ Story 09 Poetry In Action</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_11_the_heraldic_lion">Story 11 The Heraldic Lion ›</a></div>
 </nav>
 
 

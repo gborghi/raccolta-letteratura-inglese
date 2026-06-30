@@ -2,14 +2,14 @@
 title: "[[REMORSE|REMORSE]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/REMORSE-(Coleridge)"
+parentWork: "works/remorse-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/REMORSE-(Coleridge)">Remorse</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/remorse-(coleridge)">Remorse</a></div>
 </nav>
 
 

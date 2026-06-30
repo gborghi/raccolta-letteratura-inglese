@@ -2,15 +2,15 @@
 title: "[[A Descent Into the Maelstrom]] (part 7)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
+parentWork: "works/a-descent-into-the-maelstrom-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/A-Descent-Into-the-Maelstrom-(Poe)">A Descent Into the Maelstrom</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/A_Descent_Into_the_Maelstrom/part/part_06">‹ part 06</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/a-descent-into-the-maelstrom-(poe)">A Descent Into the Maelstrom</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/a_descent_into_the_maelstrom/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
 

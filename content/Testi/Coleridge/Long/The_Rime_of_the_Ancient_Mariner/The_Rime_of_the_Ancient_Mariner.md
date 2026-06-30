@@ -2,14 +2,14 @@
 title: "THE RIME OF THE [[Ancient Mariner|ANCIENT MARINER]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)"
+parentWork: "works/the-rime-of-the-ancient-mariner-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)">The Rime of the Ancient Mariner</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-rime-of-the-ancient-mariner-(coleridge)">The Rime of the Ancient Mariner</a></div>
 </nav>
 
 

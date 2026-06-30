@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Philip-the-Bastard"></div>
+<div class="concept-works" data-slug="characters/philip-the-bastard"></div>
 
 #graph/character

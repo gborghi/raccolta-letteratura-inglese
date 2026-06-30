@@ -2,15 +2,15 @@
 title: "The Cricket on the Hearth — The Cricket On The Hearth"
 author: "Dickens"
 unitType: story
-parentWork: "Works/The-Cricket-on-the-Hearth-(Dickens)"
+parentWork: "works/the-cricket-on-the-hearth-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_01_Introduction">‹ Story 01 Introduction</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_03_The_Cricket_On_The_Hearth">Story 03 The Cricket On The Hearth ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_01_introduction">‹ Story 01 Introduction</a><a class="ex-next" href="/testi/dickens/atomized/the_cricket_on_the_hearth/story_03_the_cricket_on_the_hearth">Story 03 The Cricket On The Hearth ›</a></div>
 </nav>
 
 

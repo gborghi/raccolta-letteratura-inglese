@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The New Groove"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_17_Giotto_And_St_Francis">‹ Story 17 Giotto And St Francis</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_19_The_Real_Dr_Johnson">Story 19 The Real Dr Johnson ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_17_giotto_and_st_francis">‹ Story 17 Giotto And St Francis</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_19_the_real_dr_johnson">Story 19 The Real Dr Johnson ›</a></div>
 </nav>
 
 

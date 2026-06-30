@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Combat-Strife"></div>
+<div class="concept-works" data-slug="topoi/combat-strife"></div>
 
 #graph/topos

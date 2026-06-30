@@ -2,14 +2,14 @@
 title: "[[The System of Doctor Tarr and Professor Fether]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
+parentWork: "works/the-system-of-doctor-tarr-and-professor-fether-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)">The System of Doctor Tarr and Professor Fether</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-system-of-doctor-tarr-and-professor-fether-(poe)">The System of Doctor Tarr and Professor Fether</a></div>
 </nav>
 
 

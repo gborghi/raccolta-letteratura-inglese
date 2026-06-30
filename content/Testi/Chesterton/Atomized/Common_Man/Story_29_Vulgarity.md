@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Vulgarity"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_28_The_New_Case_For_Catholic_Schools">‹ Story 28 The New Case For Catholic Schools</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why">Story 30 The Revival Of Philosophy Why ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_28_the_new_case_for_catholic_schools">‹ Story 28 The New Case For Catholic Schools</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_30_the_revival_of_philosophy_why">Story 30 The Revival Of Philosophy Why ›</a></div>
 </nav>
 
 

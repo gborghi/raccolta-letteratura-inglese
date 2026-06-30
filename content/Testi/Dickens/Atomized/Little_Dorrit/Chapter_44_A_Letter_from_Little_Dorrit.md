@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 4: A Letter from Little Dorrit"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_43_On_the_Road">‹ Chapter 43 On the Road</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_45_Something_Wrong_Somewhere">Chapter 45 Something Wrong Somewhere ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_43_on_the_road">‹ Chapter 43 On the Road</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_45_something_wrong_somewhere">Chapter 45 Something Wrong Somewhere ›</a></div>
 </nav>
 
 

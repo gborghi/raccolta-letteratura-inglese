@@ -2,15 +2,15 @@
 title: "[[Metzengerstein]] (part 4)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Metzengerstein-(Poe)"
+parentWork: "works/metzengerstein-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Metzengerstein-(Poe)">Metzengerstein</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Metzengerstein/part/part_03">‹ part 03</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/metzengerstein-(poe)">Metzengerstein</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/metzengerstein/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
 

@@ -39,14 +39,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 00 argument](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_00_argument)
-- [Section 01 part i](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_01_part_i)
-- [Section 02 part ii](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_02_part_ii)
-- [Section 03 part iii](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_03_part_iii)
-- [Section 04 part iv](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_04_part_iv)
-- [Section 05 part v](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_05_part_v)
-- [Section 06 part vi](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_06_part_vi)
-- [Section 07 part vii](/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_07_part_vii)
+- [Section 00 argument](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_00_argument)
+- [Section 01 part i](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_01_part_i)
+- [Section 02 part ii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_02_part_ii)
+- [Section 03 part iii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_03_part_iii)
+- [Section 04 part iv](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_04_part_iv)
+- [Section 05 part v](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_05_part_v)
+- [Section 06 part vi](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_06_part_vi)
+- [Section 07 part vii](/testi/coleridge/long/the_rime_of_the_ancient_mariner/section_07_part_vii)
 
 
 ## Testo integrale / Full text

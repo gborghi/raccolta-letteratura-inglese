@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE ASYLUM OF ADVENTURE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL">‹ Story 07 THE PURPLE JEWEL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_01_THE_FANTASTIC_FRIENDS/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel">‹ Story 07 THE PURPLE JEWEL</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends/part_01">part 01 ›</a></div>
 </nav>
 
 

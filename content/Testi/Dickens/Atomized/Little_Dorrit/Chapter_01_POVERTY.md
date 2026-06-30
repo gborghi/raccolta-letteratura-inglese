@@ -2,15 +2,15 @@
 title: "Little Dorrit — Book 1: [[Poverty|POVERTY]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_02_RICHES">Chapter 02 RICHES ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_02_riches">Chapter 02 RICHES ›</a></div>
 </nav>
 
 

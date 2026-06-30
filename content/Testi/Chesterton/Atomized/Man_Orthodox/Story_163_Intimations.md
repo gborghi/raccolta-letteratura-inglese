@@ -2,15 +2,15 @@
 title: "Man Orthodox — Intimations"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_162_The_Sage">‹ Story 162 The Sage</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_164_The_Little_Things">Story 164 The Little Things ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_162_the_sage">‹ Story 162 The Sage</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_164_the_little_things">Story 164 The Little Things ›</a></div>
 </nav>
 
 

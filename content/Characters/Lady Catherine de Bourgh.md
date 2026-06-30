@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lady-Catherine-de-Bourgh"></div>
+<div class="concept-works" data-slug="characters/lady-catherine-de-bourgh"></div>
 
 #graph/character

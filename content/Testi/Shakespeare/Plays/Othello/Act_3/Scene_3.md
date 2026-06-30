@@ -2,15 +2,15 @@
 title: "[[Othello]] — Act III, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/OTHELLO-(Shakespeare)"
+parentWork: "works/othello-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Othello/Act_3/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Othello/Act_3/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/othello/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/othello/act_3/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

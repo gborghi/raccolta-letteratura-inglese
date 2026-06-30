@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Terror-and-Horror-·-Madness-·-Madness"></div>
+<div class="concept-works" data-slug="clusters/terror-and-horror-·-madness-·-madness"></div>

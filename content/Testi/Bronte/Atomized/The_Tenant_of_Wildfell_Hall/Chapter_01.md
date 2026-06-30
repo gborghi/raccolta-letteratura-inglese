@@ -2,15 +2,15 @@
 title: "[[The Tenant of Wildfell Hall]] — Chapter 1"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
+parentWork: "works/the-tenant-of-wildfell-hall-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-tenant-of-wildfell-hall-(bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/bronte/atomized/the_tenant_of_wildfell_hall/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

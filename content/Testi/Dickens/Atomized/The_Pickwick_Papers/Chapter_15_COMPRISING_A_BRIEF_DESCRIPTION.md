@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_14_SOME_ACCOUNT_OF_EATANSWILL_OF">‹ Chapter 14 SOME ACCOUNT OF EATANSWILL OF</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_16_IN_WHICH_IS_GIVEN_A_FAITHFUL_P">Chapter 16 IN WHICH IS GIVEN A FAITHFUL P ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_14_some_account_of_eatanswill_of">‹ Chapter 14 SOME ACCOUNT OF EATANSWILL OF</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_16_in_which_is_given_a_faithful_p">Chapter 16 IN WHICH IS GIVEN A FAITHFUL P ›</a></div>
 </nav>
 
 

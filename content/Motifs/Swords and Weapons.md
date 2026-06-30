@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Swords-and-Weapons"></div>
+<div class="concept-works" data-slug="motifs/swords-and-weapons"></div>
 
 #graph/motif

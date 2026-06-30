@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 24: MY FIRST DISSIPATION"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO">‹ Chapter 23 I CORROBORATE Mr DICK AND CHOO</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS">Chapter 25 GOOD AND BAD ANGELS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo">‹ Chapter 23 I CORROBORATE Mr DICK AND CHOO</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_25_good_and_bad_angels">Chapter 25 GOOD AND BAD ANGELS ›</a></div>
 </nav>
 
 

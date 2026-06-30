@@ -2,15 +2,15 @@
 title: "[[longbow2]] — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/longbow2-(Chesterton)"
+parentWork: "works/longbow2-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/longbow2-(Chesterton)">longbow2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/longbow2/Chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/longbow2/Chapter_03/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/longbow2-(chesterton)">longbow2</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/longbow2/chapter_03/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/longbow2/chapter_03/part_06">part 06 ›</a></div>
 </nav>
 
 

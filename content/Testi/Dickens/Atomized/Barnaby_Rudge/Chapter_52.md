@@ -2,15 +2,15 @@
 title: "[[Barnaby Rudge]] — Chapter 52"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Barnaby-Rudge-(Dickens)"
+parentWork: "works/barnaby-rudge-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_51">‹ Chapter 51</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_53">Chapter 53 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_51">‹ Chapter 51</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_53">Chapter 53 ›</a></div>
 </nav>
 
 

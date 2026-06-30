@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Polixenes"></div>
+<div class="concept-works" data-slug="characters/polixenes"></div>
 
 #graph/character

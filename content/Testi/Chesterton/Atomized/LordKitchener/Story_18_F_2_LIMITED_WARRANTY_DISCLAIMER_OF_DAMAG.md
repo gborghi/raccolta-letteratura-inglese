@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the \"Right"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_17_F_1_Project_Gutenberg_volunteers_and_emp">‹ Story 17 F 1 Project Gutenberg volunteers and emp</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_19_ABILITY_BREACH_OF_WARRANTY_OR_BREACH_OF">Story 19 ABILITY BREACH OF WARRANTY OR BREACH OF ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_17_f_1_project_gutenberg_volunteers_and_emp">‹ Story 17 F 1 Project Gutenberg volunteers and emp</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_19_ability_breach_of_warranty_or_breach_of">Story 19 ABILITY BREACH OF WARRANTY OR BREACH OF ›</a></div>
 </nav>
 
 

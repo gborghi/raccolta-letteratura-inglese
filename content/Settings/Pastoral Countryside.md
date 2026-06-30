@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Pastoral-Countryside"></div>
+<div class="concept-works" data-slug="settings/pastoral-countryside"></div>
 
 #graph/setting

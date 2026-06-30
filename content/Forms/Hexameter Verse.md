@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Hexameter-Verse"></div>
+<div class="concept-works" data-slug="forms/hexameter-verse"></div>
 
 #graph/form

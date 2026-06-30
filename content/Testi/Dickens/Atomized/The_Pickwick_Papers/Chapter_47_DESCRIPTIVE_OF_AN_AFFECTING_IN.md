@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_46_TREATS_OF_DIVERS_LITTLE_MATTER">‹ Chapter 46 TREATS OF DIVERS LITTLE MATTER</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_48_RECORDS_A_TOUCHING_ACT_OF_DELI">Chapter 48 RECORDS A TOUCHING ACT OF DELI ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_46_treats_of_divers_little_matter">‹ Chapter 46 TREATS OF DIVERS LITTLE MATTER</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_48_records_a_touching_act_of_deli">Chapter 48 RECORDS A TOUCHING ACT OF DELI ›</a></div>
 </nav>
 
 

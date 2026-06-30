@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Martyrdom"></div>
+<div class="concept-works" data-slug="concepts/martyrdom"></div>
 
 #graph/concept

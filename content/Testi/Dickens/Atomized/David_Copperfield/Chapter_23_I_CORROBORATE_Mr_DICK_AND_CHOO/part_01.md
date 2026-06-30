@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_22_some_old_scenes_and_some_new_p/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_23_i_corroborate_mr_dick_and_choo/part_02">part 02 ›</a></div>
 </nav>
 
 

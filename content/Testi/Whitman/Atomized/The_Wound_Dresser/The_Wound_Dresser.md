@@ -2,14 +2,14 @@
 title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion"
 author: "Whitman"
 unitType: work
-parentWork: "Works/The-Wound-Dresser-(Whitman)"
+parentWork: "works/the-wound-dresser-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
 </nav>
 
 

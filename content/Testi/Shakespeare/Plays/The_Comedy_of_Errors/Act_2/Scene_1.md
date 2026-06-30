@@ -2,15 +2,15 @@
 title: "The [[Comedy]] of Errors — Act II, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-COMEDY-OF-ERRORS-(Shakespeare)"
+parentWork: "works/the-comedy-of-errors-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_2/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The gardens had been tended so carefully as to achieve the final"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_06_The_Crime_of_the_Communist">‹ Story 06 The Crime of the Communist</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin">Story 08 The Point of a Pin ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_06_the_crime_of_the_communist">‹ Story 06 The Crime of the Communist</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">Story 08 The Point of a Pin ›</a></div>
 </nav>
 
 

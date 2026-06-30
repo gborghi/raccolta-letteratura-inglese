@@ -2,15 +2,15 @@
 title: "New Jerusalem — Chapter 13"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/New-Jerusalem-(Chesterton)"
+parentWork: "works/new-jerusalem-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/New-Jerusalem-(Chesterton)">New Jerusalem</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_12">‹ Chapter 12</a><a class="ex-next" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_01/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/new-jerusalem-(chesterton)">New Jerusalem</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/new_jerusalem/chapter_12">‹ Chapter 12</a><a class="ex-next" href="/testi/chesterton/atomized/new_jerusalem/chapter_01/part_01">part 01 ›</a></div>
 </nav>
 
 

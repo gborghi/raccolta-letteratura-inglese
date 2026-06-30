@@ -2,15 +2,15 @@
 title: "As I Was Saying — T is often said truly, though perhaps not often understood rightly, (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_40_ANY_modern_debates_are_still_revolving_r/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_41_T_is_often_said_truly_though_perhaps_not/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_40_any_modern_debates_are_still_revolving_r/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_41_t_is_often_said_truly_though_perhaps_not/part_02">part 02 ›</a></div>
 </nav>
 
 

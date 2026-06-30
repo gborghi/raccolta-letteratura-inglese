@@ -2,14 +2,14 @@
 title: "[[Bon-Bon]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Bon-Bon-(Poe)"
+parentWork: "works/bon-bon-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Bon-Bon-(Poe)">Bon Bon</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/bon-bon-(poe)">Bon Bon</a></div>
 </nav>
 
 

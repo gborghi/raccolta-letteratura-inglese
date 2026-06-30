@@ -2,15 +2,15 @@
 title: "The Defendant — A DEFENCE OF BABY-WORSHIP"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_15_A_DEFENCE_OF_SLANG">‹ Story 15 A DEFENCE OF SLANG</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_17_A_DEFENCE_OF_DETECTIVE_STORIES">Story 17 A DEFENCE OF DETECTIVE STORIES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_15_a_defence_of_slang">‹ Story 15 A DEFENCE OF SLANG</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_17_a_defence_of_detective_stories">Story 17 A DEFENCE OF DETECTIVE STORIES ›</a></div>
 </nav>
 
 

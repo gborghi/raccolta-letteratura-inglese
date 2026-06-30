@@ -28,19 +28,19 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 O WE AGREE](/Testi/Chesterton/Atomized/debate/Story_01_O_WE_AGREE)
-- [Story 02 ECIL PALMER](/Testi/Chesterton/Atomized/debate/Story_02_ECIL_PALMER)
-- [Story 03 O WE AGREE](/Testi/Chesterton/Atomized/debate/Story_03_O_WE_AGREE)
-- [Story 04 R BELLOC I am here to take the chair in](/Testi/Chesterton/Atomized/debate/Story_04_R_BELLOC_I_am_here_to_take_the_chair_in)
-- [Story 05 R SHAW Mr Belloc and Ladies and Gentleme](/Testi/Chesterton/Atomized/debate/Story_05_R_SHAW_Mr_Belloc_and_Ladies_and_Gentleme)
-- [Story 06 R CHESTERTON Ladies and gentlemen The an](/Testi/Chesterton/Atomized/debate/Story_06_R_CHESTERTON_Ladies_and_gentlemen_The_an)
-- [Story 07 OICE Yes he is](/Testi/Chesterton/Atomized/debate/Story_07_OICE_Yes_he_is)
-- [Story 08 R CHESTERTON Now as to the much more int](/Testi/Chesterton/Atomized/debate/Story_08_R_CHESTERTON_Now_as_to_the_much_more_int)
-- [Story 09 R SHAW I cannot say that Mr Chesterton h](/Testi/Chesterton/Atomized/debate/Story_09_R_SHAW_I_cannot_say_that_Mr_Chesterton_h)
-- [Story 10 R CHESTERTON Among the bewildering welte](/Testi/Chesterton/Atomized/debate/Story_10_R_CHESTERTON_Among_the_bewildering_welte)
-- [Story 11 R SHAW I now want to ask Mr Chesterton w](/Testi/Chesterton/Atomized/debate/Story_11_R_SHAW_I_now_want_to_ask_Mr_Chesterton_w)
-- [Story 12 R CHESTERTON I am sure Mr Shaw is very w](/Testi/Chesterton/Atomized/debate/Story_12_R_CHESTERTON_I_am_sure_Mr_Shaw_is_very_w)
-- [Story 13 R BELLOC I was told when I accepted this](/Testi/Chesterton/Atomized/debate/Story_13_R_BELLOC_I_was_told_when_I_accepted_this)
+- [Story 01 O WE AGREE](/testi/chesterton/atomized/debate/story_01_o_we_agree)
+- [Story 02 ECIL PALMER](/testi/chesterton/atomized/debate/story_02_ecil_palmer)
+- [Story 03 O WE AGREE](/testi/chesterton/atomized/debate/story_03_o_we_agree)
+- [Story 04 R BELLOC I am here to take the chair in](/testi/chesterton/atomized/debate/story_04_r_belloc_i_am_here_to_take_the_chair_in)
+- [Story 05 R SHAW Mr Belloc and Ladies and Gentleme](/testi/chesterton/atomized/debate/story_05_r_shaw_mr_belloc_and_ladies_and_gentleme)
+- [Story 06 R CHESTERTON Ladies and gentlemen The an](/testi/chesterton/atomized/debate/story_06_r_chesterton_ladies_and_gentlemen_the_an)
+- [Story 07 OICE Yes he is](/testi/chesterton/atomized/debate/story_07_oice_yes_he_is)
+- [Story 08 R CHESTERTON Now as to the much more int](/testi/chesterton/atomized/debate/story_08_r_chesterton_now_as_to_the_much_more_int)
+- [Story 09 R SHAW I cannot say that Mr Chesterton h](/testi/chesterton/atomized/debate/story_09_r_shaw_i_cannot_say_that_mr_chesterton_h)
+- [Story 10 R CHESTERTON Among the bewildering welte](/testi/chesterton/atomized/debate/story_10_r_chesterton_among_the_bewildering_welte)
+- [Story 11 R SHAW I now want to ask Mr Chesterton w](/testi/chesterton/atomized/debate/story_11_r_shaw_i_now_want_to_ask_mr_chesterton_w)
+- [Story 12 R CHESTERTON I am sure Mr Shaw is very w](/testi/chesterton/atomized/debate/story_12_r_chesterton_i_am_sure_mr_shaw_is_very_w)
+- [Story 13 R BELLOC I was told when I accepted this](/testi/chesterton/atomized/debate/story_13_r_belloc_i_was_told_when_i_accepted_this)
 
 ## Testo integrale / Full text
 

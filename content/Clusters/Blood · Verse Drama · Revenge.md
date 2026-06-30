@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Blood-·-Verse-Drama-·-Revenge"></div>
+<div class="concept-works" data-slug="clusters/blood-·-verse-drama-·-revenge"></div>

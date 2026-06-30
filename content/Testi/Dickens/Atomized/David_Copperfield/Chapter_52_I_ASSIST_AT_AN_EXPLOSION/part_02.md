@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_52_I_ASSIST_AT_AN_EXPLOSION/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_52_I_ASSIST_AT_AN_EXPLOSION/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[heret12]] — Paganism and Mr. Lowes Dickinson"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_10_Science_and_the_Savages">‹ Story 10 Science and the Savages</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_12_Celts_and_Celtophiles">Story 12 Celts and Celtophiles ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_10_science_and_the_savages">‹ Story 10 Science and the Savages</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_12_celts_and_celtophiles">Story 12 Celts and Celtophiles ›</a></div>
 </nav>
 
 

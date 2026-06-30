@@ -2,15 +2,15 @@
 title: "Man Orthodox — The Lesson"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_169_Life_And_Liberty">‹ Story 169 Life And Liberty</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_171_The_True_Critic">Story 171 The True Critic ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_169_life_and_liberty">‹ Story 169 Life And Liberty</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_171_the_true_critic">Story 171 The True Critic ›</a></div>
 </nav>
 
 

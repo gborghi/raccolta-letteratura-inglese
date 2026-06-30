@@ -2,14 +2,14 @@
 title: "[[Cymbeline]] — Act III, Scene 4 — exchange (PISANIO) [4]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/CYMBELINE-(Shakespeare)"
+parentWork: "works/cymbeline-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a></div>
 </nav>
 
 

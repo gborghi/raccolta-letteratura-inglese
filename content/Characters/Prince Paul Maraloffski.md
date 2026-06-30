@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Prince-Paul-Maraloffski"></div>
+<div class="concept-works" data-slug="characters/prince-paul-maraloffski"></div>
 
 #graph/character

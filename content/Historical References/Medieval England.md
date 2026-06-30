@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Medieval-England"></div>
+<div class="concept-works" data-slug="historical-references/medieval-england"></div>
 
 #graph/histref

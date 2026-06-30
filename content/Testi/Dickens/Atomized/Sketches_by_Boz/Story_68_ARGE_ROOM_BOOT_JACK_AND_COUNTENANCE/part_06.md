@@ -2,15 +2,15 @@
 title: "Sketches by Boz — ARGE ROOM, BOOT-JACK AND COUNTENANCE. (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_68_ARGE_ROOM_BOOT_JACK_AND_COUNTENANCE/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_68_ARGE_ROOM_BOOT_JACK_AND_COUNTENANCE/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_68_arge_room_boot_jack_and_countenance/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_68_arge_room_boot_jack_and_countenance/part_07">part 07 ›</a></div>
 </nav>
 
 

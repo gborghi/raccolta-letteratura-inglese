@@ -2,15 +2,15 @@
 title: "[[debate]] — R. [[Shaw|SHAW]]:  I now want to ask Mr. Chesterton why he insists,"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_10_R_CHESTERTON_Among_the_bewildering_welte">‹ Story 10 R CHESTERTON Among the bewildering welte</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_12_R_CHESTERTON_I_am_sure_Mr_Shaw_is_very_w">Story 12 R CHESTERTON I am sure Mr Shaw is very w ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_10_r_chesterton_among_the_bewildering_welte">‹ Story 10 R CHESTERTON Among the bewildering welte</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_12_r_chesterton_i_am_sure_mr_shaw_is_very_w">Story 12 R CHESTERTON I am sure Mr Shaw is very w ›</a></div>
 </nav>
 
 

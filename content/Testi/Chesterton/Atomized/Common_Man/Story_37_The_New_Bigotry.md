@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The New Bigotry"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_36_The_Epitaph_Of_Pierpont_Morgan">‹ Story 36 The Epitaph Of Pierpont Morgan</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_38_Books_For_Boys">Story 38 Books For Boys ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_36_the_epitaph_of_pierpont_morgan">‹ Story 36 The Epitaph Of Pierpont Morgan</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_38_books_for_boys">Story 38 Books For Boys ›</a></div>
 </nav>
 
 

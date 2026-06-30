@@ -2,15 +2,15 @@
 title: "[[misc]] — THE ARISTOCRATIC 'ARRY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_24_THE_MUMMER">‹ Story 24 THE MUMMER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_26_THE_NEW_THEOLOGIAN">Story 26 THE NEW THEOLOGIAN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_24_the_mummer">‹ Story 24 THE MUMMER</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_26_the_new_theologian">Story 26 THE NEW THEOLOGIAN ›</a></div>
 </nav>
 
 

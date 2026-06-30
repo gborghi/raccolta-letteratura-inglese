@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Edward-Murdstone"></div>
+<div class="concept-works" data-slug="characters/edward-murdstone"></div>
 
 #graph/character

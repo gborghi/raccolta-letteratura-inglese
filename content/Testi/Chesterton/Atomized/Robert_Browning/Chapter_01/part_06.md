@@ -2,15 +2,15 @@
 title: "Robert Browning — Chapter 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Robert-Browning-(Chesterton)"
+parentWork: "works/robert-browning-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Browning-(Chesterton)">Robert Browning</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Robert_Browning/Chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Robert_Browning/Chapter_01/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_01/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_01/part_07">part 07 ›</a></div>
 </nav>
 
 

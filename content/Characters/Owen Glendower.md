@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Owen-Glendower"></div>
+<div class="concept-works" data-slug="characters/owen-glendower"></div>
 
 #graph/character

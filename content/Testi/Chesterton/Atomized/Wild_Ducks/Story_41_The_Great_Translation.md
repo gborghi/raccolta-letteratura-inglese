@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Great [[Translation]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_40_The_Voice_of_Shelley">‹ Story 40 The Voice of Shelley</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_42_Jane_Austen_s_Juvenilia">Story 42 Jane Austen s Juvenilia ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_40_the_voice_of_shelley">‹ Story 40 The Voice of Shelley</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_42_jane_austen_s_juvenilia">Story 42 Jane Austen s Juvenilia ›</a></div>
 </nav>
 
 

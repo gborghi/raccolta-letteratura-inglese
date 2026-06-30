@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Premature Burial</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Premature_Burial/part/part_04">‹ part 04</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_premature_burial/part/part_04">‹ part 04</a><span></span></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER II—THE CURATE. THE OLD LADY. THE HALF-PAY CAPTAIN"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_02_HAPTER_ITHE_BEADLE_THE_PARISH_ENGINE_THE">‹ Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_04_HAPTER_IIITHE_FOUR_SISTERS">Story 04 HAPTER IIITHE FOUR SISTERS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_02_hapter_ithe_beadle_the_parish_engine_the">‹ Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_04_hapter_iiithe_four_sisters">Story 04 HAPTER IIITHE FOUR SISTERS ›</a></div>
 </nav>
 
 

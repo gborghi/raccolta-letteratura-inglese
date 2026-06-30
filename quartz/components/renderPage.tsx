@@ -1,6 +1,5 @@
 import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
-import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
@@ -9,6 +8,9 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import { styleText } from "util"
+import { resolveFrame } from "./frames"
+import type { TreeTransform } from "../plugins/types"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -19,6 +21,7 @@ interface RenderComponents {
   left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
+  frame?: string
 }
 
 const headerRegex = new RegExp(/h[1-6]/)
@@ -68,6 +71,7 @@ function renderTranscludes(
   cfg: GlobalConfiguration,
   slug: FullSlug,
   componentData: QuartzComponentProps,
+  visited: Set<FullSlug>,
 ) {
   // process transcludes in componentData
   visit(root, "element", (node, _index, _parent) => {
@@ -76,7 +80,43 @@ function renderTranscludes(
       if (classNames.includes("transclude")) {
         const inner = node.children[0] as Element
         const transcludeTarget = (inner.properties["data-slug"] ?? slug) as FullSlug
-        const page = componentData.allFiles.find((f) => f.slug === transcludeTarget)
+        if (visited.has(transcludeTarget)) {
+          console.warn(
+            styleText(
+              "yellow",
+              `Warning: Skipping circular transclusion: ${slug} -> ${transcludeTarget}`,
+            ),
+          )
+          node.children = [
+            {
+              type: "element",
+              tagName: "p",
+              properties: { style: "color: var(--secondary);" },
+              children: [
+                {
+                  type: "text",
+                  value: `Circular transclusion detected: ${transcludeTarget}`,
+                },
+              ],
+            },
+          ]
+          return
+        }
+        visited.add(transcludeTarget)
+
+        let page = componentData.allFiles.find((f) => f.slug === transcludeTarget)
+        if (!page) {
+          // Virtual pages from PageType plugins have slugs without extensions
+          // (e.g. "plugins/CanvasPage") but CrawlLinks resolves wikilinks like
+          // ![[CanvasPage.canvas]] to "plugins/CanvasPage.canvas". Fall back to
+          // stripping the extension from the transclude target.
+          const dotIdx = transcludeTarget.lastIndexOf(".")
+          const slashIdx = transcludeTarget.lastIndexOf("/")
+          if (dotIdx > slashIdx + 1) {
+            const stripped = transcludeTarget.slice(0, dotIdx) as FullSlug
+            page = componentData.allFiles.findLast((f) => f.slug === stripped)
+          }
+        }
         if (!page) {
           return
         }
@@ -192,11 +232,20 @@ export function renderPage(
   componentData: QuartzComponentProps,
   components: RenderComponents,
   pageResources: StaticResources,
+  treeTransforms?: TreeTransform[],
 ): string {
   // make a deep copy of the tree so we don't remove the transclusion references
   // for the file cached in contentMap in build.ts
   const root = clone(componentData.tree) as Root
-  renderTranscludes(root, cfg, slug, componentData)
+  const visited = new Set<FullSlug>([slug])
+  renderTranscludes(root, cfg, slug, componentData, visited)
+
+  // Run plugin-provided tree transforms (e.g. resolving inline bases codeblocks)
+  if (treeTransforms) {
+    for (const transform of treeTransforms) {
+      transform(root, slug, componentData)
+    }
+  }
 
   // set componentData.tree to the edited html that has transclusions rendered
   componentData.tree = root
@@ -210,64 +259,44 @@ export function renderPage(
     left,
     right,
     footer: Footer,
+    frame: frameName,
   } = components
-  const Header = HeaderConstructor()
   const Body = BodyConstructor()
-
-  const LeftComponent = (
-    <div class="left sidebar">
-      {left.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
-
-  const RightComponent = (
-    <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
+  const frame = resolveFrame(frameName)
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
-        <div id="quartz-root" class="page">
+      <body
+        data-slug={slug}
+        data-basepath={
+          cfg.baseUrl ? new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "") : ""
+        }
+      >
+        {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
+        <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
-            {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
-                </div>
-              </div>
-              <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
-              </div>
-            </div>
-            {RightComponent}
-            <Footer {...componentData} />
+            {[
+              frame.render({
+                componentData,
+                head: Head,
+                header,
+                beforeBody,
+                pageBody: Content,
+                afterBody,
+                left,
+                right,
+                footer: Footer,
+              }),
+            ]}
           </Body>
         </div>
       </body>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
-        .map((res) => JSResourceToScriptElement(res))}
+        .map((res) => JSResourceToScriptElement(res, true))}
     </html>
   )
 

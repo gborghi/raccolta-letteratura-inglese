@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Ferdinand-King-of-Navarre"></div>
+<div class="concept-works" data-slug="characters/ferdinand-king-of-navarre"></div>
 
 #graph/character

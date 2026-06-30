@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Nature-·-Book-of-Nature-·-Natural-Order"></div>
+<div class="concept-works" data-slug="clusters/nature-·-book-of-nature-·-natural-order"></div>

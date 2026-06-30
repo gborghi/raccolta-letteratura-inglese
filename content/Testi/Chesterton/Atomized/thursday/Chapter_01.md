@@ -2,15 +2,15 @@
 title: "[[thursday]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/thursday-(Chesterton)"
+parentWork: "works/thursday-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/thursday-(Chesterton)">thursday</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/thursday/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thursday-(chesterton)">thursday</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/thursday/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

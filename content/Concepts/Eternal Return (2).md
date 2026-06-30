@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Eternal-Return-(2)"></div>
+<div class="concept-works" data-slug="concepts/eternal-return-(2)"></div>
 
 #graph/concept

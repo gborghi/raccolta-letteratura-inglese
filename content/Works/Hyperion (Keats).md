@@ -55,9 +55,9 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 01 book i](/Testi/Keats/Long/Hyperion/Section_01_book_i)
-- [Section 02 book ii](/Testi/Keats/Long/Hyperion/Section_02_book_ii)
-- [Section 03 book iii](/Testi/Keats/Long/Hyperion/Section_03_book_iii)
+- [Section 01 book i](/testi/keats/long/hyperion/section_01_book_i)
+- [Section 02 book ii](/testi/keats/long/hyperion/section_02_book_ii)
+- [Section 03 book iii](/testi/keats/long/hyperion/section_03_book_iii)
 
 
 ## Testo integrale / Full text

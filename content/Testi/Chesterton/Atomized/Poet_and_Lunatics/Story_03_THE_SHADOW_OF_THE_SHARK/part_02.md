@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark/part_03">part 03 ›</a></div>
 </nav>
 
 

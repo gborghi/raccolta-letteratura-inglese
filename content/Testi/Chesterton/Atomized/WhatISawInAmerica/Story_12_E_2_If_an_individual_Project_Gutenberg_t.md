@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — E.2.  If an individual Project Gutenberg-tm electronic work is derived"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_11_E_1_The_following_sentence_with_active_l">‹ Story 11 E 1 The following sentence with active l</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_13_E_3_If_an_individual_Project_Gutenberg_t">Story 13 E 3 If an individual Project Gutenberg t ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_11_e_1_the_following_sentence_with_active_l">‹ Story 11 E 1 The following sentence with active l</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_13_e_3_if_an_individual_project_gutenberg_t">Story 13 E 3 If an individual Project Gutenberg t ›</a></div>
 </nav>
 
 

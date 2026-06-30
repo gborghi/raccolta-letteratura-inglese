@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER THE SECOND. (part 5)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_49_HAPTER_THE_SECOND/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_49_HAPTER_THE_SECOND/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_49_hapter_the_second/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_49_hapter_the_second/part_06">part 06 ›</a></div>
 </nav>
 
 

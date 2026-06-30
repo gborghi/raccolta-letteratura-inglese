@@ -2,15 +2,15 @@
 title: "The Thing — INTRODUCTION"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_02_Is_HUMANISM_A_RELIGION">Story 02 Is HUMANISM A RELIGION ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_02_is_humanism_a_religion">Story 02 Is HUMANISM A RELIGION ›</a></div>
 </nav>
 
 

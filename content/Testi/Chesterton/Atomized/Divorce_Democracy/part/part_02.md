@@ -2,15 +2,15 @@
 title: "[[divorce|Divorce]] [[Democracy]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Divorce-Democracy-(Chesterton)"
+parentWork: "works/divorce-democracy-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Divorce-Democracy-(Chesterton)">Divorce Democracy</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Divorce_Democracy/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Divorce_Democracy/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-democracy-(chesterton)">Divorce Democracy</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce_democracy/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/divorce_democracy/part/part_03">part 03 ›</a></div>
 </nav>
 
 

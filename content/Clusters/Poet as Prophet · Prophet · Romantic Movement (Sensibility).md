@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Poet-as-Prophet-·-Prophet-·-Romantic-Movement-(Sensibility)"></div>
+<div class="concept-works" data-slug="clusters/poet-as-prophet-·-prophet-·-romantic-movement-(sensibility)"></div>

@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — Reflections On A Rotten Apple"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_40_A_Grammar_Of_Knighthood">‹ Story 40 A Grammar Of Knighthood</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_42_Sex_And_Property">Story 42 Sex And Property ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_40_a_grammar_of_knighthood">‹ Story 40 A Grammar Of Knighthood</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_42_sex_and_property">Story 42 Sex And Property ›</a></div>
 </nav>
 
 

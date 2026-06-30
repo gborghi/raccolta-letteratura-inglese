@@ -2,14 +2,14 @@
 title: "[[The Purloined Letter]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Purloined-Letter-(Poe)"
+parentWork: "works/the-purloined-letter-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Purloined-Letter-(Poe)">The Purloined Letter</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-purloined-letter-(poe)">The Purloined Letter</a></div>
 </nav>
 
 

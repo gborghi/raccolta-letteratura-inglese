@@ -2,15 +2,15 @@
 title: "A Christmas [[carol|Carol]] — Stave 1: MARLEY'S [[Ghost|GHOST]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/A-Christmas-Carol-(Dickens)"
+parentWork: "works/a-christmas-carol-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS">Chapter 02 THE FIRST OF THE THREE SPIRITS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_02_the_first_of_the_three_spirits">Chapter 02 THE FIRST OF THE THREE SPIRITS ›</a></div>
 </nav>
 
 

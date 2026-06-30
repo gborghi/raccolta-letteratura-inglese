@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Grotesque"></div>
+<div class="concept-works" data-slug="concepts/grotesque"></div>
 
 #graph/concept

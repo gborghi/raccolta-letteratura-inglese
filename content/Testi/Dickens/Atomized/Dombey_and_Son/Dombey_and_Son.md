@@ -2,14 +2,14 @@
 title: "Dombey and Son"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Dombey-and-Son-(Dickens)"
+parentWork: "works/dombey-and-son-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
 </nav>
 
 

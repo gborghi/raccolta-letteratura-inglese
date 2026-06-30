@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE DISEASE OF DUODIAPSYCHOSIS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN">‹ Story 17 THE TRESPASSER IN THE GARDEN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_19_THE_SECRET_OF_THE_TREE">Story 19 THE SECRET OF THE TREE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_the_trespasser_in_the_garden">‹ Story 17 THE TRESPASSER IN THE GARDEN</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_the_secret_of_the_tree">Story 19 THE SECRET OF THE TREE ›</a></div>
 </nav>
 
 

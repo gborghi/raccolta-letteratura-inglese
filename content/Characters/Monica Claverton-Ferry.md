@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Monica-Claverton-Ferry"></div>
+<div class="concept-works" data-slug="characters/monica-claverton-ferry"></div>
 
 #graph/character

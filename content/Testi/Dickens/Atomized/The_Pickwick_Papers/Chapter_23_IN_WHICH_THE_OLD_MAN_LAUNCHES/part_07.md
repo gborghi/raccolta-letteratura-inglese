@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 7)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_23_IN_WHICH_THE_OLD_MAN_LAUNCHES/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_24_MR_PICKWICK_JOURNEYS_TO_IPSWIC/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_23_in_which_the_old_man_launches/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_24_mr_pickwick_journeys_to_ipswic/part_01">part 01 ›</a></div>
 </nav>
 
 

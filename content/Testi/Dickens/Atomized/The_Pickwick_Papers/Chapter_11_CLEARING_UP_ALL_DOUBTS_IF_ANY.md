@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_10_A_DISCOVERY_AND_A_CHASE">‹ Chapter 10 A DISCOVERY AND A CHASE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_12_INVOLVING_ANOTHER_JOURNEY_AND">Chapter 12 INVOLVING ANOTHER JOURNEY AND ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_a_discovery_and_a_chase">‹ Chapter 10 A DISCOVERY AND A CHASE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_12_involving_another_journey_and">Chapter 12 INVOLVING ANOTHER JOURNEY AND ›</a></div>
 </nav>
 
 

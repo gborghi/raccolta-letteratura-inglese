@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Evan-MacIan"></div>
+<div class="concept-works" data-slug="characters/evan-macian"></div>
 
 #graph/character

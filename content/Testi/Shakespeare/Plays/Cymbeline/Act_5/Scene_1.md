@@ -2,15 +2,15 @@
 title: "[[Cymbeline]] — Act V, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/CYMBELINE-(Shakespeare)"
+parentWork: "works/cymbeline-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Cymbeline/Act_4/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Cymbeline/Act_5/Scene_3">Scene 3 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/cymbeline-(shakespeare)">Cymbeline</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/cymbeline/act_4/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/cymbeline/act_5/scene_3">Scene 3 ›</a></div>
 </nav>
 
 

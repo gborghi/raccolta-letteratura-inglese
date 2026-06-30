@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Death-Personified"></div>
+<div class="concept-works" data-slug="characters/death-personified"></div>
 
 #graph/character

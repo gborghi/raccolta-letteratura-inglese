@@ -2,15 +2,15 @@
 title: "[[Common Man]] — A Note On Nudism"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_39_The_Outline_Of_Liberty">‹ Story 39 The Outline Of Liberty</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_41_Consulting_The_Encyclopaedia">Story 41 Consulting The Encyclopaedia ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_39_the_outline_of_liberty">‹ Story 39 The Outline Of Liberty</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_41_consulting_the_encyclopaedia">Story 41 Consulting The Encyclopaedia ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 25: THE FINDING OF THE SUPERMAN"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_24_THE_ENIGMAS_OF_LADY_JOAN">‹ Chapter 24 THE ENIGMAS OF LADY JOAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_01_A_SERMON_ON_INNS/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_24_the_enigmas_of_lady_joan">‹ Chapter 24 THE ENIGMAS OF LADY JOAN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_01_a_sermon_on_inns/part_01">part 01 ›</a></div>
 </nav>
 
 

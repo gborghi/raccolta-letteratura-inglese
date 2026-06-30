@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE CLEANSING OF THE NAME (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_29_THE_CLEANSING_OF_THE_NAME/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_33_T_has_already_been_explained_that_Pavoni/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_29_the_cleansing_of_the_name/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_33_t_has_already_been_explained_that_pavoni/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "As I Was Saying — HAPPENED to meet again, recently, after many years, a very brilliant"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_37_N_dealing_with_such_things_as_Prohibitio">‹ Story 37 N dealing with such things as Prohibitio</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_39_CONFESS_that_to_me_the_celebration_of_th">Story 39 CONFESS that to me the celebration of th ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_37_n_dealing_with_such_things_as_prohibitio">‹ Story 37 N dealing with such things as Prohibitio</a><a class="ex-next" href="/testi/chesterton/atomized/as_i_was_saying/story_39_confess_that_to_me_the_celebration_of_th">Story 39 CONFESS that to me the celebration of th ›</a></div>
 </nav>
 
 

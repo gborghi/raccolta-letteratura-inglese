@@ -2,15 +2,15 @@
 title: "The Thing — THE REVOLT AGAINST IDEAS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_14_ON_THE_NOVEL_WITH_A_PURPOSE">‹ Story 14 ON THE NOVEL WITH A PURPOSE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_16_THE_FEASTS_AND_THE_ASCETIC">Story 16 THE FEASTS AND THE ASCETIC ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_14_on_the_novel_with_a_purpose">‹ Story 14 ON THE NOVEL WITH A PURPOSE</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic">Story 16 THE FEASTS AND THE ASCETIC ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Immortality"></div>
+<div class="concept-works" data-slug="concepts/immortality"></div>
 
 #graph/concept

@@ -2,14 +2,14 @@
 title: "[[Richard II]] — Act I, Scene 3 — exchange ([[King|KING]] [[Richard|RICHARD]]) [2]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/RICHARD-II-(Shakespeare)"
+parentWork: "works/richard-ii-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-ii-(shakespeare)">Richard II</a></div>
 </nav>
 
 

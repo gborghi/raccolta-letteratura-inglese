@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov/part_05">part 05 ›</a></div>
 </nav>
 
 

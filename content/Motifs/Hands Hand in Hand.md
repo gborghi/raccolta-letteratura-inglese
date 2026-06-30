@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Hands-Hand-in-Hand"></div>
+<div class="concept-works" data-slug="motifs/hands-hand-in-hand"></div>
 
 #graph/motif

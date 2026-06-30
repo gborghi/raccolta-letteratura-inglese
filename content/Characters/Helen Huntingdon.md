@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Helen-Huntingdon"></div>
+<div class="concept-works" data-slug="characters/helen-huntingdon"></div>
 
 #graph/character

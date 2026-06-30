@@ -2,14 +2,14 @@
 title: "The Cricket on the Hearth"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Cricket-on-the-Hearth-(Dickens)"
+parentWork: "works/the-cricket-on-the-hearth-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-cricket-on-the-hearth-(dickens)">The Cricket on the Hearth</a></div>
 </nav>
 
 

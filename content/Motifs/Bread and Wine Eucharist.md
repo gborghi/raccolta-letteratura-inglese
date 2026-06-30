@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Bread-and-Wine-Eucharist"></div>
+<div class="concept-works" data-slug="motifs/bread-and-wine-eucharist"></div>
 
 #graph/motif

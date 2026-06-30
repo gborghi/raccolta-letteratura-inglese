@@ -2,15 +2,15 @@
 title: "[[Edward III]] — Scene 12"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/EDWARD-III-(Shakespeare)"
+parentWork: "works/edward-iii-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/EDWARD-III-(Shakespeare)">Edward III</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Edward_III/Scenes/Scene_11">‹ Scene 11</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Edward_III/Scenes/Scene_13">Scene 13 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/edward-iii-(shakespeare)">Edward III</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/edward_iii/scenes/scene_11">‹ Scene 11</a><a class="ex-next" href="/testi/shakespeare/plays/edward_iii/scenes/scene_13">Scene 13 ›</a></div>
 </nav>
 
 

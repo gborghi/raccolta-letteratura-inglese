@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Mesmerism"></div>
+<div class="concept-works" data-slug="concepts/mesmerism"></div>
 
 #graph/concept

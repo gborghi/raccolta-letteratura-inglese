@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE [[house|HOUSE]] OF THE PEACOCK (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_06_THE_HOUSE_OF_THE_PEACOCK/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel/part_01">part 01 ›</a></div>
 </nav>
 
 

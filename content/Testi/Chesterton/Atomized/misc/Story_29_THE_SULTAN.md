@@ -2,15 +2,15 @@
 title: "[[misc]] — THE SULTAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_28_THE_FALSE_PHOTOGRAPHER">‹ Story 28 THE FALSE PHOTOGRAPHER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_30_THE_ARCHITECT_OF_SPEARS">Story 30 THE ARCHITECT OF SPEARS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_28_the_false_photographer">‹ Story 28 THE FALSE PHOTOGRAPHER</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_30_the_architect_of_spears">Story 30 THE ARCHITECT OF SPEARS ›</a></div>
 </nav>
 
 

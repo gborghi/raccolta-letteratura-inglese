@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Poetic Principle</div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Poetic_Principle/part/part_02">part 02 ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_poetic_principle/part/part_02">part 02 ›</a></div>
 </nav>
 
 

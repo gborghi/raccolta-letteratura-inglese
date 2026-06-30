@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · The Waste Land</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/The_Waste_Land/Section_03_iii_the_fire_sermon">‹ Section 03 iii the fire sermon</a><a class="ex-next" href="/Testi/Eliot/Long/The_Waste_Land/Section_05_v_what_the_thunder_said">Section 05 v what the thunder said ›</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/the_waste_land/section_03_iii_the_fire_sermon">‹ Section 03 iii the fire sermon</a><a class="ex-next" href="/testi/eliot/long/the_waste_land/section_05_v_what_the_thunder_said">Section 05 v what the thunder said ›</a></div>
 </nav>
 
 

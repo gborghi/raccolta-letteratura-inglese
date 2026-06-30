@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON ESSAYS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_01_INTRODUCTION">‹ Story 01 INTRODUCTION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_03_ON_WHAT_WE_WOULD_DO_WITH_TWO_MILLION_IF">Story 03 ON WHAT WE WOULD DO WITH TWO MILLION IF ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_01_introduction">‹ Story 01 INTRODUCTION</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_03_on_what_we_would_do_with_two_million_if">Story 03 ON WHAT WE WOULD DO WITH TWO MILLION IF ›</a></div>
 </nav>
 
 

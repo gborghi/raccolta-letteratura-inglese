@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 47: FORTY SEVEN"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_46_FORTY_SIX">‹ Chapter 46 FORTY SIX</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_48_FORTY_EIGHT">Chapter 48 FORTY EIGHT ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_46_forty_six">‹ Chapter 46 FORTY SIX</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_48_forty_eight">Chapter 48 FORTY EIGHT ›</a></div>
 </nav>
 
 

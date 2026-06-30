@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · Burnt Norton</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/Burnt_Norton/Section_04_part_iv">‹ Section 04 part iv</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/burnt_norton/section_04_part_iv">‹ Section 04 part iv</a><span></span></div>
 </nav>
 
 

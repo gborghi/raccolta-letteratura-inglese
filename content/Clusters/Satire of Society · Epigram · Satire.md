@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Satire-of-Society-·-Epigram-·-Satire"></div>
+<div class="concept-works" data-slug="clusters/satire-of-society-·-epigram-·-satire"></div>

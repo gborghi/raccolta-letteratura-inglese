@@ -2,14 +2,14 @@
 title: "The Chimes"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Chimes-(Dickens)"
+parentWork: "works/the-chimes-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Chimes-(Dickens)">The Chimes</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a></div>
 </nav>
 
 

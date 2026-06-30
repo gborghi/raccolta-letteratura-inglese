@@ -2,15 +2,15 @@
 title: "A [[Child]]'s [[history|History]] of England — OACH-[[house|HOUSE]], ORIGINAL PIG."
 author: "Dickens"
 unitType: story
-parentWork: "Works/A-Child's-History-of-England-(Dickens)"
+parentWork: "works/a-child's-history-of-england-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_02_OACH_HOUSE_PIG_AND_TINDER_BOX">‹ Story 02 OACH HOUSE PIG AND TINDER BOX</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_04_N_October_last_we_did_ourselves_the_immo">Story 04 N October last we did ourselves the immo ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_02_oach_house_pig_and_tinder_box">‹ Story 02 OACH HOUSE PIG AND TINDER BOX</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_04_n_october_last_we_did_ourselves_the_immo">Story 04 N October last we did ourselves the immo ›</a></div>
 </nav>
 
 

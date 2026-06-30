@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Paying For Patriotism"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_09_The_Romance_Of_A_Rascal">‹ Story 09 The Romance Of A Rascal</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_11_The_Pantomime">Story 11 The Pantomime ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_09_the_romance_of_a_rascal">‹ Story 09 The Romance Of A Rascal</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_11_the_pantomime">Story 11 The Pantomime ›</a></div>
 </nav>
 
 

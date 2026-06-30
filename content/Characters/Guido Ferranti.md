@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Guido-Ferranti"></div>
+<div class="concept-works" data-slug="characters/guido-ferranti"></div>
 
 #graph/character

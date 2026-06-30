@@ -2,15 +2,15 @@
 title: "The Thing — THE IDOLS OF SCOTLAND"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_29_THE_OUTLINE_OF_THE_FALL">‹ Story 29 THE OUTLINE OF THE FALL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_31_IF_THEY_HAD_BELIEVED">Story 31 IF THEY HAD BELIEVED ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_29_the_outline_of_the_fall">‹ Story 29 THE OUTLINE OF THE FALL</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_31_if_they_had_believed">Story 31 IF THEY HAD BELIEVED ›</a></div>
 </nav>
 
 

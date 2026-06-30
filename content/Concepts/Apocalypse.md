@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Apocalypse"></div>
+<div class="concept-works" data-slug="concepts/apocalypse"></div>
 
 #graph/concept

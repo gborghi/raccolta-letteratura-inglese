@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/New-England-America"></div>
+<div class="concept-works" data-slug="settings/new-england-america"></div>
 
 #graph/setting

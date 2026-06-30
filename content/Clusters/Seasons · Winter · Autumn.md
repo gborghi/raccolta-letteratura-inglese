@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Seasons-·-Winter-·-Autumn"></div>
+<div class="concept-works" data-slug="clusters/seasons-·-winter-·-autumn"></div>

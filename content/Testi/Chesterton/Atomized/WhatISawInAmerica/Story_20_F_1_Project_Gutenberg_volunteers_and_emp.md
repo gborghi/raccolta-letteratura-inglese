@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — F.1.  Project Gutenberg volunteers and employees expend considerable"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_19_E_9_If_you_wish_to_charge_a_fee_or_distr">‹ Story 19 E 9 If you wish to charge a fee or distr</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_21_F_2_LIMITED_WARRANTY_DISCLAIMER_OF_DAMAG">Story 21 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_19_e_9_if_you_wish_to_charge_a_fee_or_distr">‹ Story 19 E 9 If you wish to charge a fee or distr</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_21_f_2_limited_warranty_disclaimer_of_damag">Story 21 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG ›</a></div>
 </nav>
 
 

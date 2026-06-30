@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 18: A RETROSPECT (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_18_a_retrospect/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -48,17 +48,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_04)
-- [Chapter 05 have but outlined it from the](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_05_have_but_outlined_it_from_the)
-- [Chapter 06 LE](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_06_LE)
-- [Chapter 07](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_08)
-- [Chapter 09](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_09)
-- [Chapter 10](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_10)
-- [Chapter 11](/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_11)
+- [Chapter 01](/testi/chesterton/atomized/st_francis_of_assisi/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/st_francis_of_assisi/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/st_francis_of_assisi/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/st_francis_of_assisi/chapter_04)
+- [Chapter 05 have but outlined it from the](/testi/chesterton/atomized/st_francis_of_assisi/chapter_05_have_but_outlined_it_from_the)
+- [Chapter 06 LE](/testi/chesterton/atomized/st_francis_of_assisi/chapter_06_le)
+- [Chapter 07](/testi/chesterton/atomized/st_francis_of_assisi/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/st_francis_of_assisi/chapter_08)
+- [Chapter 09](/testi/chesterton/atomized/st_francis_of_assisi/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/st_francis_of_assisi/chapter_10)
+- [Chapter 11](/testi/chesterton/atomized/st_francis_of_assisi/chapter_11)
 
 
 ## Testo integrale / Full text

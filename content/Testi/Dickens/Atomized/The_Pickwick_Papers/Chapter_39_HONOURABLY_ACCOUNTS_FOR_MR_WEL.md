@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_38_THE_CHIEF_FEATURES_OF_WHICH_WI">‹ Chapter 38 THE CHIEF FEATURES OF WHICH WI</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_40_HOW_MR_WINKLE_WHEN_HE_STEPPED">Chapter 40 HOW MR WINKLE WHEN HE STEPPED ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_38_the_chief_features_of_which_wi">‹ Chapter 38 THE CHIEF FEATURES OF WHICH WI</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_40_how_mr_winkle_when_he_stepped">Chapter 40 HOW MR WINKLE WHEN HE STEPPED ›</a></div>
 </nav>
 
 

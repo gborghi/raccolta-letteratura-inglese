@@ -2,15 +2,15 @@
 title: "[[The Mystery of Marie Roget]] (part 12)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
+parentWork: "works/the-mystery-of-marie-roget-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Mystery-of-Marie-Roget-(Poe)">The Mystery of Marie Roget</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Mystery_of_Marie_Roget/part/part_11">‹ part 11</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Mystery_of_Marie_Roget/part/part_13">part 13 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-mystery-of-marie-roget-(poe)">The Mystery of Marie Roget</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_11">‹ part 11</a><a class="ex-next" href="/testi/poe/atomized/the_mystery_of_marie_roget/part/part_13">part 13 ›</a></div>
 </nav>
 
 

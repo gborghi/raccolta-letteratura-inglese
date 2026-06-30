@@ -2,15 +2,15 @@
 title: "[[Lady Susan]] — ATHERINE VERNON. (part 1)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Lady-Susan-(Austen)"
+parentWork: "works/lady-susan-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Lady_Susan/Story_12_DE_COURCY">‹ Story 12 DE COURCY</a><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_09_ATHERINE_VERNON/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/lady_susan/story_12_de_courcy">‹ Story 12 DE COURCY</a><a class="ex-next" href="/testi/austen/atomized/lady_susan/story_09_atherine_vernon/part_02">part 02 ›</a></div>
 </nav>
 
 

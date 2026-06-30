@@ -2,15 +2,15 @@
 title: "The Thing — OBSTINATE ORTHODOXY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_04_LOGIC_AND_LAWN_TENNIS">‹ Story 04 LOGIC AND LAWN TENNIS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_06_THE_USUAL_ARTICLE">Story 06 THE USUAL ARTICLE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_04_logic_and_lawn_tennis">‹ Story 04 LOGIC AND LAWN TENNIS</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_06_the_usual_article">Story 06 THE USUAL ARTICLE ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 14: Taking Advice"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_53_The_Progress_of_an_Epidemic">‹ Chapter 53 The Progress of an Epidemic</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_55_No_just_Cause_or_Impediment_wh">Chapter 55 No just Cause or Impediment wh ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_53_the_progress_of_an_epidemic">‹ Chapter 53 The Progress of an Epidemic</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_55_no_just_cause_or_impediment_wh">Chapter 55 No just Cause or Impediment wh ›</a></div>
 </nav>
 
 

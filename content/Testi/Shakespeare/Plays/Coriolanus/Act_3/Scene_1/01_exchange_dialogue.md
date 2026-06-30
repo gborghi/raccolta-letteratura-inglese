@@ -2,14 +2,14 @@
 title: "[[Coriolanus]] — Act III, Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/CORIOLANUS-(Shakespeare)"
+parentWork: "works/coriolanus-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
 </nav>
 
 

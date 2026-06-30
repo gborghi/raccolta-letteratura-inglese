@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 24: The Evening of a Long Day (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_64_The_Evening_of_a_Long_Day/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_64_The_Evening_of_a_Long_Day/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_64_the_evening_of_a_long_day/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_64_the_evening_of_a_long_day/part_04">part 04 ›</a></div>
 </nav>
 
 

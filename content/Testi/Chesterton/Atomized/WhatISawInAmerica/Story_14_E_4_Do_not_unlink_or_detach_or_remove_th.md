@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_13_E_3_If_an_individual_Project_Gutenberg_t">‹ Story 13 E 3 If an individual Project Gutenberg t</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_15_E_5_Do_not_copy_display_perform_distribu">Story 15 E 5 Do not copy display perform distribu ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_13_e_3_if_an_individual_project_gutenberg_t">‹ Story 13 E 3 If an individual Project Gutenberg t</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_15_e_5_do_not_copy_display_perform_distribu">Story 15 E 5 Do not copy display perform distribu ›</a></div>
 </nav>
 
 

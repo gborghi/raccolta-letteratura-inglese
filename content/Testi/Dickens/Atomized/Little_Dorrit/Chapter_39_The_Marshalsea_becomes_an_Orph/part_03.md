@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan]] (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_39_The_Marshalsea_becomes_an_Orph/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_41_Fellow_Travellers/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_39_the_marshalsea_becomes_an_orph/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_41_fellow_travellers/part_01">part 01 ›</a></div>
 </nav>
 
 

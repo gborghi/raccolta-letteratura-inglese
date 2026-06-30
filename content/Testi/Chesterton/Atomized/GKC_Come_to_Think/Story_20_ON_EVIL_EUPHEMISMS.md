@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON EVIL EUPHEMISMS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_19_ON_CURRENT_CLAPTRAP">‹ Story 19 ON CURRENT CLAPTRAP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_21_ON_ENCYCLOPAEDIAS">Story 21 ON ENCYCLOPAEDIAS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_19_on_current_claptrap">‹ Story 19 ON CURRENT CLAPTRAP</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_21_on_encyclopaedias">Story 21 ON ENCYCLOPAEDIAS ›</a></div>
 </nav>
 
 

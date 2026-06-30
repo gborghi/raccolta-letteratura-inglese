@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — R. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_15_R_WALTER_WINDRUSH_the_eminent_and_eccent/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_16_THE_MAN_WITH_THE_BLACK_BAG/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_r_walter_windrush_the_eminent_and_eccent/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_man_with_the_black_bag/part_01">part 01 ›</a></div>
 </nav>
 
 

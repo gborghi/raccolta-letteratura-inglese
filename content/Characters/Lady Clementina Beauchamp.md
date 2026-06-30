@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lady-Clementina-Beauchamp"></div>
+<div class="concept-works" data-slug="characters/lady-clementina-beauchamp"></div>
 
 #graph/character

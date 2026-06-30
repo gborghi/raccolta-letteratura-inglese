@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Poet-as-Prophet"></div>
+<div class="concept-works" data-slug="topoi/poet-as-prophet"></div>
 
 #graph/topos

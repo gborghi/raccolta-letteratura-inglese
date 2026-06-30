@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The [[suicide|Suicide]] of Thought (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_03_The_Suicide_of_Thought/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_03_The_Suicide_of_Thought/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_03_the_suicide_of_thought/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_03_the_suicide_of_thought/part_03">part 03 ›</a></div>
 </nav>
 
 

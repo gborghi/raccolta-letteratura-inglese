@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The National Spirit"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_26_The_Victorians">‹ Story 26 The Victorians</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_28_The_Rights_Of_Ritual">Story 28 The Rights Of Ritual ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_26_the_victorians">‹ Story 26 The Victorians</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_28_the_rights_of_ritual">Story 28 The Rights Of Ritual ›</a></div>
 </nav>
 
 

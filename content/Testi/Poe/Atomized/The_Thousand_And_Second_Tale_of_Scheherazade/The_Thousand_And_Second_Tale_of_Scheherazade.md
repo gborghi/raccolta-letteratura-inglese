@@ -2,14 +2,14 @@
 title: "[[The Thousand-And-Second Tale of Scheherazade]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Thousand-And-Second-Tale-of-Scheherazade-(Poe)"
+parentWork: "works/the-thousand-and-second-tale-of-scheherazade-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Thousand-And-Second-Tale-of-Scheherazade-(Poe)">The Thousand And Second Tale of Scheherazade</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-thousand-and-second-tale-of-scheherazade-(poe)">The Thousand And Second Tale of Scheherazade</a></div>
 </nav>
 
 

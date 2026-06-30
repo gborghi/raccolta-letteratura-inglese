@@ -2,15 +2,15 @@
 title: "[[Sanity]] — THE SIMPLE [[Truth|TRUTH]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_11_SOME_ASPECTS_OF_THE_LAND">‹ Story 11 SOME ASPECTS OF THE LAND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_13_VOWS_AND_VOLUNTEERS">Story 13 VOWS AND VOLUNTEERS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_11_some_aspects_of_the_land">‹ Story 11 SOME ASPECTS OF THE LAND</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_13_vows_and_volunteers">Story 13 VOWS AND VOLUNTEERS ›</a></div>
 </nav>
 
 

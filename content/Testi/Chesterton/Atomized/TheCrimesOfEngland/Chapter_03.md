@@ -2,15 +2,15 @@
 title: "[[TheCrimesOfEngland]] — Chapter 3"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
+parentWork: "works/thecrimesofengland-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/TheCrimesOfEngland-(Chesterton)">TheCrimesOfEngland</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/TheCrimesOfEngland/Chapter_02">‹ Chapter 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/TheCrimesOfEngland/Chapter_04">Chapter 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/thecrimesofengland-(chesterton)">TheCrimesOfEngland</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/thecrimesofengland/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/chesterton/atomized/thecrimesofengland/chapter_04">Chapter 04 ›</a></div>
 </nav>
 
 

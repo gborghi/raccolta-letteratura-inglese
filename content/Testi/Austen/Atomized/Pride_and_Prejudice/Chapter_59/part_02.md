@@ -2,15 +2,15 @@
 title: "[[Pride and Prejudice]] — Chapter 59 (part 2)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_59/part_01">‹ part 01</a><span></span></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_59/part_01">‹ part 01</a><span></span></div>
 </nav>
 
 

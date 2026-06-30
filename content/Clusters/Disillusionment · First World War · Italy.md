@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Disillusionment-·-First-World-War-·-Italy"></div>
+<div class="concept-works" data-slug="clusters/disillusionment-·-first-world-war-·-italy"></div>

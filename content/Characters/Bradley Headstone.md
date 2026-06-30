@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Bradley-Headstone"></div>
+<div class="concept-works" data-slug="characters/bradley-headstone"></div>
 
 #graph/character

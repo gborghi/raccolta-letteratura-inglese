@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Equality-in-Death"></div>
+<div class="concept-works" data-slug="concepts/equality-in-death"></div>
 
 #graph/concept

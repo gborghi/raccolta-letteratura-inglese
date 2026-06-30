@@ -2,15 +2,15 @@
 title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — SS. and books, and the trunk, etc.--but I will see. Mother, your letter (part 4)"
 author: "Whitman"
 unitType: excerpt
-parentWork: "Works/The-Wound-Dresser-(Whitman)"
+parentWork: "works/the-wound-dresser-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_06_SS_and_books_and_the_trunk_etc_but_I_wil/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_06_SS_and_books_and_the_trunk_etc_but_I_wil/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_06_ss_and_books_and_the_trunk_etc_but_i_wil/part_03">‹ part 03</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_06_ss_and_books_and_the_trunk_etc_but_i_wil/part_05">part 05 ›</a></div>
 </nav>
 
 

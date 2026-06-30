@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Contemptus-Mundi"></div>
+<div class="concept-works" data-slug="topoi/contemptus-mundi"></div>
 
 #graph/topos

@@ -2,14 +2,14 @@
 title: "[[The Murders in the Rue Morgue]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
+parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Murders-in-the-Rue-Morgue-(Poe)">The Murders in the Rue Morgue</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-murders-in-the-rue-morgue-(poe)">The Murders in the Rue Morgue</a></div>
 </nav>
 
 

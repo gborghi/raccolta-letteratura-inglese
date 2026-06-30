@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — EDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_06_THE_MAN_WHO_COULD_NOT_HATE">‹ Story 06 THE MAN WHO COULD NOT HATE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_08_THE_DETECTIVE_AND_THE_PARSON">Story 08 THE DETECTIVE AND THE PARSON ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_06_the_man_who_could_not_hate">‹ Story 06 THE MAN WHO COULD NOT HATE</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_08_the_detective_and_the_parson">Story 08 THE DETECTIVE AND THE PARSON ›</a></div>
 </nav>
 
 

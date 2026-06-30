@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_42_Jane_Austen_s_Juvenilia">‹ Story 42 Jane Austen s Juvenilia</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_44_The_Words_of_Strong_Poetry">Story 44 The Words of Strong Poetry ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_42_jane_austen_s_juvenilia">‹ Story 42 Jane Austen s Juvenilia</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_44_the_words_of_strong_poetry">Story 44 The Words of Strong Poetry ›</a></div>
 </nav>
 
 

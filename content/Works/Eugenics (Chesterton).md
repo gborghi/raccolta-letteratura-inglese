@@ -30,9 +30,9 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 THE REAL AIM](/Testi/Chesterton/Atomized/Eugenics/Chapter_01_THE_REAL_AIM)
-- [Chapter 02](/Testi/Chesterton/Atomized/Eugenics/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/Eugenics/Chapter_03)
+- [Chapter 01 THE REAL AIM](/testi/chesterton/atomized/eugenics/chapter_01_the_real_aim)
+- [Chapter 02](/testi/chesterton/atomized/eugenics/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/eugenics/chapter_03)
 
 ## Testo integrale / Full text
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Unrequited-Frustrated-Love"></div>
+<div class="concept-works" data-slug="concepts/unrequited-frustrated-love"></div>
 
 #graph/concept

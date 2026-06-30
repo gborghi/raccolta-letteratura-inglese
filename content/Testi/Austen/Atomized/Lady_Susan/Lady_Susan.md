@@ -2,14 +2,14 @@
 title: "[[Lady Susan]]"
 author: "Austen"
 unitType: work
-parentWork: "Works/Lady-Susan-(Austen)"
+parentWork: "works/lady-susan-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a></div>
 </nav>
 
 

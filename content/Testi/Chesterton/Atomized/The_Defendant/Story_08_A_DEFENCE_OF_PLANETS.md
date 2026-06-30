@@ -2,15 +2,15 @@
 title: "The Defendant — A DEFENCE OF PLANETS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_07_A_DEFENCE_OF_NONSENSE">‹ Story 07 A DEFENCE OF NONSENSE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_09_A_DEFENCE_OF_CHINA_SHEPHERDESSES">Story 09 A DEFENCE OF CHINA SHEPHERDESSES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_07_a_defence_of_nonsense">‹ Story 07 A DEFENCE OF NONSENSE</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_09_a_defence_of_china_shepherdesses">Story 09 A DEFENCE OF CHINA SHEPHERDESSES ›</a></div>
 </nav>
 
 

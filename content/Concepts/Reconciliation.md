@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Reconciliation"></div>
+<div class="concept-works" data-slug="concepts/reconciliation"></div>
 
 #graph/concept

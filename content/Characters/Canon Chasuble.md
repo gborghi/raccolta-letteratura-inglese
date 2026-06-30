@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Canon-Chasuble"></div>
+<div class="concept-works" data-slug="characters/canon-chasuble"></div>
 
 #graph/character

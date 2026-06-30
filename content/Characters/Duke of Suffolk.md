@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duke-of-Suffolk"></div>
+<div class="concept-works" data-slug="characters/duke-of-suffolk"></div>
 
 #graph/character

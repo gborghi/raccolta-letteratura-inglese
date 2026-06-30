@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Dot-Peerybingle"></div>
+<div class="concept-works" data-slug="characters/dot-peerybingle"></div>
 
 #graph/character

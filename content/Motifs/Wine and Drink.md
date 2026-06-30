@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Wine-and-Drink"></div>
+<div class="concept-works" data-slug="motifs/wine-and-drink"></div>
 
 #graph/motif

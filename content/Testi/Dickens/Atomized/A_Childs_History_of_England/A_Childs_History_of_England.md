@@ -2,14 +2,14 @@
 title: "A [[Child]]'s [[history|History]] of England"
 author: "Dickens"
 unitType: work
-parentWork: "Works/A-Child's-History-of-England-(Dickens)"
+parentWork: "works/a-child's-history-of-england-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
 </nav>
 
 

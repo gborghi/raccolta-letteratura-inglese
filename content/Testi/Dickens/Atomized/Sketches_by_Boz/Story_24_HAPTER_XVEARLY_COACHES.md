@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XV—EARLY COACHES"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_23_HAPTER_XIVVAUXHALL_GARDENS_BY_DAY">‹ Story 23 HAPTER XIVVAUXHALL GARDENS BY DAY</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_25_HAPTER_XVIOMNIBUSES">Story 25 HAPTER XVIOMNIBUSES ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_23_hapter_xivvauxhall_gardens_by_day">‹ Story 23 HAPTER XIVVAUXHALL GARDENS BY DAY</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_25_hapter_xviomnibuses">Story 25 HAPTER XVIOMNIBUSES ›</a></div>
 </nav>
 
 

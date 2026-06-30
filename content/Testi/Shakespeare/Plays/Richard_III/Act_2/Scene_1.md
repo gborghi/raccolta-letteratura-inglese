@@ -2,15 +2,15 @@
 title: "[[Richard III]] — Act II, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/RICHARD-III-(Shakespeare)"
+parentWork: "works/richard-iii-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Richard_III/Act_1/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Richard_III/Act_2/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_iii/act_1/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/richard_iii/act_2/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

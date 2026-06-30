@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]], (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_38_OLONEL_GRIMM_of_the_Pavonian_Police_was">‹ Story 38 OLONEL GRIMM of the Pavonian Police was</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_03_R_ASA_LEE_PINION_of_the_Chicago_Comet_ha/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_38_olonel_grimm_of_the_pavonian_police_was">‹ Story 38 OLONEL GRIMM of the Pavonian Police was</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_r_asa_lee_pinion_of_the_chicago_comet_ha/part_02">part 02 ›</a></div>
 </nav>
 
 

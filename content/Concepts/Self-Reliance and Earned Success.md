@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Self-Reliance-and-Earned-Success"></div>
+<div class="concept-works" data-slug="concepts/self-reliance-and-earned-success"></div>
 
 #graph/concept

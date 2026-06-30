@@ -2,15 +2,15 @@
 title: "[[Timon]] of Athens — Act III, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
+parentWork: "works/timon-of-athens-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_3/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/timon-of-athens-(shakespeare)">Timon of Athens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/timon_of_athens/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/timon_of_athens/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

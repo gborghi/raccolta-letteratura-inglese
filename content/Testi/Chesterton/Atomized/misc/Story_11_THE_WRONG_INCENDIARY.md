@@ -2,15 +2,15 @@
 title: "[[misc]] — THE WRONG INCENDIARY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_10_THE_SUN_WORSHIPPER">‹ Story 10 THE SUN WORSHIPPER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_12_THE_FREE_MAN">Story 12 THE FREE MAN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_10_the_sun_worshipper">‹ Story 10 THE SUN WORSHIPPER</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_12_the_free_man">Story 12 THE FREE MAN ›</a></div>
 </nav>
 
 

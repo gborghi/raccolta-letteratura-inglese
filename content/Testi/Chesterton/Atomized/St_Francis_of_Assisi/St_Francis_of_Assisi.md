@@ -2,14 +2,14 @@
 title: "St. Francis of Assisi"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/St.-Francis-of-Assisi-(Chesterton)"
+parentWork: "works/st.-francis-of-assisi-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/St.-Francis-of-Assisi-(Chesterton)">St Francis of Assisi</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/st.-francis-of-assisi-(chesterton)">St Francis of Assisi</a></div>
 </nav>
 
 

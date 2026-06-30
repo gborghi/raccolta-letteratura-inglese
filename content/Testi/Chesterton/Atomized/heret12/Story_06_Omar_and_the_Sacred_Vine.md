@@ -2,15 +2,15 @@
 title: "[[heret12]] — Omar and the Sacred Vine"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_05_Mr_H_G_Wells_and_the_Giants">‹ Story 05 Mr H G Wells and the Giants</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_07_The_Mildness_of_the_Yellow_Press">Story 07 The Mildness of the Yellow Press ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_05_mr_h_g_wells_and_the_giants">‹ Story 05 Mr H G Wells and the Giants</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_07_the_mildness_of_the_yellow_press">Story 07 The Mildness of the Yellow Press ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Henry-Tilney"></div>
+<div class="concept-works" data-slug="characters/henry-tilney"></div>
 
 #graph/character

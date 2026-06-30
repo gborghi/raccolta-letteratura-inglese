@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Pope And The Art Of [[Satire]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_04_Optimism_Of_Byron">‹ Story 04 Optimism Of Byron</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_06_Francis">Story 06 Francis ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_04_optimism_of_byron">‹ Story 04 Optimism Of Byron</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_06_francis">Story 06 Francis ›</a></div>
 </nav>
 
 

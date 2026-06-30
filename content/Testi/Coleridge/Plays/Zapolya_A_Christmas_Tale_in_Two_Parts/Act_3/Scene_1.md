@@ -2,15 +2,15 @@
 title: "[[ZAPOLYA]] — Act III, Scene 1"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/ZAPOLYA-A-CHRISTMAS-TALE-IN-TWO-PARTS-(Coleridge)"
+parentWork: "works/zapolya-a-christmas-tale-in-two-parts-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/ZAPOLYA-A-CHRISTMAS-TALE-IN-TWO-PARTS-(Coleridge)">Zapolya A Christmas Tale in Two Parts</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/Zapolya_A_Christmas_Tale_in_Two_Parts/Act_2/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Coleridge/Plays/Zapolya_A_Christmas_Tale_in_Two_Parts/Act_4/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/zapolya-a-christmas-tale-in-two-parts-(coleridge)">Zapolya A Christmas Tale in Two Parts</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/coleridge/plays/zapolya_a_christmas_tale_in_two_parts/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

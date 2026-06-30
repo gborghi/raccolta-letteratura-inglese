@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 17 (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_15_COMPRISING_A_BRIEF_DESCRIPTION/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_17/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_15_comprising_a_brief_description/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_17/part_02">part 02 ›</a></div>
 </nav>
 
 

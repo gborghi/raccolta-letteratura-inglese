@@ -49,10 +49,10 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 First Quarter](/Testi/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter)
-- [Chapter 02 The Second Quarter](/Testi/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter)
-- [Chapter 03 Third Quarter](/Testi/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter)
-- [Chapter 04 Fourth Quarter](/Testi/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter)
+- [Chapter 01 First Quarter](/testi/dickens/atomized/the_chimes/chapter_01_first_quarter)
+- [Chapter 02 The Second Quarter](/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter)
+- [Chapter 03 Third Quarter](/testi/dickens/atomized/the_chimes/chapter_03_third_quarter)
+- [Chapter 04 Fourth Quarter](/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter)
 
 
 ## Testo integrale / Full text

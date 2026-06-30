@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Tragicomedy"></div>
+<div class="concept-works" data-slug="forms/tragicomedy"></div>
 
 #graph/form

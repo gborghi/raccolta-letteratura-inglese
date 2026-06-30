@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Ruins-the-Abbey"></div>
+<div class="concept-works" data-slug="motifs/ruins-the-abbey"></div>
 
 #graph/motif

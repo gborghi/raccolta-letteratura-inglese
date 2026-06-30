@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/King-Alfred"></div>
+<div class="concept-works" data-slug="historical-references/king-alfred"></div>
 
 #graph/histref

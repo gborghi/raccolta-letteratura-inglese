@@ -2,14 +2,14 @@
 title: "The [[Decay]] of Lying"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Decay-of-Lying-(Wilde)"
+parentWork: "works/the-decay-of-lying-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Decay-of-Lying-(Wilde)">024 The Decay of Lying</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-decay-of-lying-(wilde)">024 The Decay of Lying</a></div>
 </nav>
 
 

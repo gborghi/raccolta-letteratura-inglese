@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The Dangers Of Necromancy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_15_From_Meredith_To_Rupert_Brooke">‹ Story 15 From Meredith To Rupert Brooke</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_17_Giotto_And_St_Francis">Story 17 Giotto And St Francis ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_15_from_meredith_to_rupert_brooke">‹ Story 15 From Meredith To Rupert Brooke</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_17_giotto_and_st_francis">Story 17 Giotto And St Francis ›</a></div>
 </nav>
 
 

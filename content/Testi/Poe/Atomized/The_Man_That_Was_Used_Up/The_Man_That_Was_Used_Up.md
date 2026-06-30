@@ -2,14 +2,14 @@
 title: "[[The Man That Was Used Up]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
+parentWork: "works/the-man-that-was-used-up-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Man-That-Was-Used-Up-(Poe)">The Man That Was Used Up</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-man-that-was-used-up-(poe)">The Man That Was Used Up</a></div>
 </nav>
 
 

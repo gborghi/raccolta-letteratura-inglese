@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Faith-·-Providence-·-Divine-Love"></div>
+<div class="concept-works" data-slug="clusters/faith-·-providence-·-divine-love"></div>

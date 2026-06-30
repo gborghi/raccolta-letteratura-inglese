@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — The Church of the Servile State"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_06_The_War_on_Holidays">‹ Story 06 The War on Holidays</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_08_Science_and_the_Eugenists">Story 08 Science and the Eugenists ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_06_the_war_on_holidays">‹ Story 06 The War on Holidays</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_08_science_and_the_eugenists">Story 08 Science and the Eugenists ›</a></div>
 </nav>
 
 

@@ -48,9 +48,9 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_01)
-- [Chapter 02](/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02)
-- [Chapter 03](/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_03)
+- [Chapter 01](/testi/dickens/atomized/the_battle_of_life/chapter_01)
+- [Chapter 02](/testi/dickens/atomized/the_battle_of_life/chapter_02)
+- [Chapter 03](/testi/dickens/atomized/the_battle_of_life/chapter_03)
 
 
 ## Testo integrale / Full text

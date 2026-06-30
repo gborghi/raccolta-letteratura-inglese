@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Pastoral-Retreat"></div>
+<div class="concept-works" data-slug="topoi/pastoral-retreat"></div>
 
 #graph/topos

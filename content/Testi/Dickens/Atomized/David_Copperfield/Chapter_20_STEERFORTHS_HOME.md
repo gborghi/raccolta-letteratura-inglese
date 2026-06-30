@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 20: STEERFORTH’S [[Home|HOME]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS">‹ Chapter 19 I LOOK ABOUT ME AND MAKE A DIS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY">Chapter 21 LITTLE EMLY ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_19_i_look_about_me_and_make_a_dis">‹ Chapter 19 I LOOK ABOUT ME AND MAKE A DIS</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_21_little_emly">Chapter 21 LITTLE EMLY ›</a></div>
 </nav>
 
 

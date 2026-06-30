@@ -33,14 +33,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Face in the Target](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_01_The_Face_in_the_Target)
-- [Story 02 The Vanishing Prince](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_02_The_Vanishing_Prince)
-- [Story 03 The Soul of the Schoolboy](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_03_The_Soul_of_the_Schoolboy)
-- [Story 04 The Bottomless Well](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_04_The_Bottomless_Well)
-- [Story 05 The Fad of the Fisherman](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_05_The_Fad_of_the_Fisherman)
-- [Story 06 The Hole in the Wall](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_06_The_Hole_in_the_Wall)
-- [Story 07 The Temple of Silence](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_07_The_Temple_of_Silence)
-- [Story 08 The Vengeance of the Statue](/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_08_The_Vengeance_of_the_Statue)
+- [Story 01 The Face in the Target](/testi/chesterton/atomized/the_man_who_knew_too_much/story_01_the_face_in_the_target)
+- [Story 02 The Vanishing Prince](/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince)
+- [Story 03 The Soul of the Schoolboy](/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy)
+- [Story 04 The Bottomless Well](/testi/chesterton/atomized/the_man_who_knew_too_much/story_04_the_bottomless_well)
+- [Story 05 The Fad of the Fisherman](/testi/chesterton/atomized/the_man_who_knew_too_much/story_05_the_fad_of_the_fisherman)
+- [Story 06 The Hole in the Wall](/testi/chesterton/atomized/the_man_who_knew_too_much/story_06_the_hole_in_the_wall)
+- [Story 07 The Temple of Silence](/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence)
+- [Story 08 The Vengeance of the Statue](/testi/chesterton/atomized/the_man_who_knew_too_much/story_08_the_vengeance_of_the_statue)
 
 
 ## Testo integrale / Full text

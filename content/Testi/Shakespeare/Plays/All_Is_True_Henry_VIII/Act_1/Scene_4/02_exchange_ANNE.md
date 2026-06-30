@@ -2,14 +2,14 @@
 title: "All Is True ([[Henry VIII]]) — Act I, Scene 4 — exchange (ANNE) [2]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)"
+parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)">All Is True Henry VIII</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
 </nav>
 
 

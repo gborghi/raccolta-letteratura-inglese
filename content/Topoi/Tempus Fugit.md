@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Tempus-Fugit"></div>
+<div class="concept-works" data-slug="topoi/tempus-fugit"></div>
 
 #graph/topos

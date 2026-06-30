@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Iii The [[Song]] Of The Flying Fish (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_04_Iii_The_Song_Of_The_Flying_Fish/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_04_Iii_The_Song_Of_The_Flying_Fish/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_04_iii_the_song_of_the_flying_fish/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_iii_the_song_of_the_flying_fish/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Good-vs-Evil"></div>
+<div class="concept-works" data-slug="concepts/good-vs-evil"></div>
 
 #graph/concept

@@ -2,15 +2,15 @@
 title: "Wild Ducks — A Plea for Hasty Journalism"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_38_Eulogy_of_Robin_Hood">‹ Story 38 Eulogy of Robin Hood</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_40_The_Voice_of_Shelley">Story 40 The Voice of Shelley ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_38_eulogy_of_robin_hood">‹ Story 38 Eulogy of Robin Hood</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_40_the_voice_of_shelley">Story 40 The Voice of Shelley ›</a></div>
 </nav>
 
 

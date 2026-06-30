@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Problem-Play"></div>
+<div class="concept-works" data-slug="clusters/problem-play"></div>

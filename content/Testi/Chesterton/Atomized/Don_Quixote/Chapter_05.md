@@ -2,15 +2,15 @@
 title: "[[Don Quixote]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/Don-Quixote-(Chesterton)"
+parentWork: "works/don-quixote-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Don-Quixote-(Chesterton)">Don Quixote</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_04">‹ Chapter 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_06">Chapter 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_06">Chapter 06 ›</a></div>
 </nav>
 
 

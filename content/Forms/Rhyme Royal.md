@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Rhyme-Royal"></div>
+<div class="concept-works" data-slug="forms/rhyme-royal"></div>
 
 #graph/form

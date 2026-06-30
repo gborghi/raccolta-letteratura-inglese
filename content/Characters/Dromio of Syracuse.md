@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Dromio-of-Syracuse"></div>
+<div class="concept-works" data-slug="characters/dromio-of-syracuse"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "Irish Impressions — The Root of Reality"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Irish-Impressions-(Chesterton)"
+parentWork: "works/irish-impressions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_01_Two_Stones_in_a_Square">‹ Story 01 Two Stones in a Square</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_03_The_Family_and_the_Feud">Story 03 The Family and the Feud ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_01_two_stones_in_a_square">‹ Story 01 Two Stones in a Square</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_03_the_family_and_the_feud">Story 03 The Family and the Feud ›</a></div>
 </nav>
 
 

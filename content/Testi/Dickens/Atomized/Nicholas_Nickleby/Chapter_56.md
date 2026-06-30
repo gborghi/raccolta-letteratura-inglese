@@ -2,15 +2,15 @@
 title: "[[Nicholas Nickleby]] — Chapter 56"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Nicholas-Nickleby-(Dickens)"
+parentWork: "works/nicholas-nickleby-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_55">‹ Chapter 55</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_57">Chapter 57 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_55">‹ Chapter 55</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_57">Chapter 57 ›</a></div>
 </nav>
 
 

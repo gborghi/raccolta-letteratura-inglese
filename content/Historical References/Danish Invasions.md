@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Danish-Invasions"></div>
+<div class="concept-works" data-slug="historical-references/danish-invasions"></div>
 
 #graph/histref

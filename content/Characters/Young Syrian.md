@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Young-Syrian"></div>
+<div class="concept-works" data-slug="characters/young-syrian"></div>
 
 #graph/character

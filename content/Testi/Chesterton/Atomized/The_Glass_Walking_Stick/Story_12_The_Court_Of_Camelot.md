@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The [[Court]] Of Camelot"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_11_The_Heraldic_Lion">‹ Story 11 The Heraldic Lion</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_13_Wolfe_And_The_Midshipman">Story 13 Wolfe And The Midshipman ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_11_the_heraldic_lion">‹ Story 11 The Heraldic Lion</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_13_wolfe_and_the_midshipman">Story 13 Wolfe And The Midshipman ›</a></div>
 </nav>
 
 

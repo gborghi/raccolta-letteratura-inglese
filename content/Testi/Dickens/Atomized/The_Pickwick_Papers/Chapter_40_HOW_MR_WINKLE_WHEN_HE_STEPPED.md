@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_39_HONOURABLY_ACCOUNTS_FOR_MR_WEL">‹ Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_41_MR_SAMUEL_WELLER_BEING_INTRUST">Chapter 41 MR SAMUEL WELLER BEING INTRUST ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_39_honourably_accounts_for_mr_wel">‹ Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_mr_samuel_weller_being_intrust">Chapter 41 MR SAMUEL WELLER BEING INTRUST ›</a></div>
 </nav>
 
 

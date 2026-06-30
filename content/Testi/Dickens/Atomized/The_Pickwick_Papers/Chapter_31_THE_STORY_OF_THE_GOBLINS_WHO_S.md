@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_30_A_GOOD_HUMOURED_CHRISTMAS_CHAP">‹ Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_32_HOW_THE_PICKWICKIANS_MADE_AND">Chapter 32 HOW THE PICKWICKIANS MADE AND ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_a_good_humoured_christmas_chap">‹ Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_32_how_the_pickwickians_made_and">Chapter 32 HOW THE PICKWICKIANS MADE AND ›</a></div>
 </nav>
 
 

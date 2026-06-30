@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_19_SHOWING_THAT_AN_ATTACK_OF_RHEU">‹ Chapter 19 SHOWING THAT AN ATTACK OF RHEU</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_21_A_PLEASANT_DAY_WITH_AN_UNPLEAS">Chapter 21 A PLEASANT DAY WITH AN UNPLEAS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_19_showing_that_an_attack_of_rheu">‹ Chapter 19 SHOWING THAT AN ATTACK OF RHEU</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_21_a_pleasant_day_with_an_unpleas">Chapter 21 A PLEASANT DAY WITH AN UNPLEAS ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Philip-Swidger"></div>
+<div class="concept-works" data-slug="characters/philip-swidger"></div>
 
 #graph/character

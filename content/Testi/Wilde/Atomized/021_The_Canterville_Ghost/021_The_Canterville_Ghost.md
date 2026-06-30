@@ -2,14 +2,14 @@
 title: "The Canterville [[Ghost]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Canterville-Ghost-(Wilde)"
+parentWork: "works/the-canterville-ghost-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Canterville-Ghost-(Wilde)">021 The Canterville Ghost</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-canterville-ghost-(wilde)">021 The Canterville Ghost</a></div>
 </nav>
 
 

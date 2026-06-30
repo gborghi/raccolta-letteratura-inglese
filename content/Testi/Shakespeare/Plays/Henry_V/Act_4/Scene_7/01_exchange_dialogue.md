@@ -2,14 +2,14 @@
 title: "[[Henry V]] — Act IV, Scene 7 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/HENRY-V-(Shakespeare)"
+parentWork: "works/henry-v-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
 </nav>
 
 

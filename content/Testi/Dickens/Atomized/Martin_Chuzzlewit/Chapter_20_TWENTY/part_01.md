@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_19_NINETEEN/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_20_TWENTY/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_19_nineteen/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_20_twenty/part_02">part 02 ›</a></div>
 </nav>
 
 

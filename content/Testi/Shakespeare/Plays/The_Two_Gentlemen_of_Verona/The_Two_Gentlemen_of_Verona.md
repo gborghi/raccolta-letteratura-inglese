@@ -2,14 +2,14 @@
 title: "THE TWO GENTLEMEN OF [[Verona|VERONA]]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
+parentWork: "works/the-two-gentlemen-of-verona-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-two-gentlemen-of-verona-(shakespeare)">The Two Gentlemen of Verona</a></div>
 </nav>
 
 

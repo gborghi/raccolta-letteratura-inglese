@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE UNREASONABLENESS OF WOMAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_34_THE_PRINCESS_INTERVENES">‹ Story 34 THE PRINCESS INTERVENES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_36_THE_TERMS_OF_A_TRAITOR">Story 36 THE TERMS OF A TRAITOR ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_34_the_princess_intervenes">‹ Story 34 THE PRINCESS INTERVENES</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_36_the_terms_of_a_traitor">Story 36 THE TERMS OF A TRAITOR ›</a></div>
 </nav>
 
 

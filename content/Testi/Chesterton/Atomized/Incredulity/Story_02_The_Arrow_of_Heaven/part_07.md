@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The Arrow of Heaven (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_08">part 08 ›</a></div>
 </nav>
 
 

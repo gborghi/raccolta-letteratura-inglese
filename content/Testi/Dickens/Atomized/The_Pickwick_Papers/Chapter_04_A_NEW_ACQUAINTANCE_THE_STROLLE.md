@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE">‹ Chapter 03 THE FIRST DAYS JOURNEY AND THE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N">Chapter 05 A FIELD DAY AND BIVOUAC MORE N ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_the_first_days_journey_and_the">‹ Chapter 03 THE FIRST DAYS JOURNEY AND THE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_a_field_day_and_bivouac_more_n">Chapter 05 A FIELD DAY AND BIVOUAC MORE N ›</a></div>
 </nav>
 
 

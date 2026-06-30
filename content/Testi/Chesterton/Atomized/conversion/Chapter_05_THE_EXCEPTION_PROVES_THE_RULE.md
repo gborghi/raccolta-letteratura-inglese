@@ -2,15 +2,15 @@
 title: "[[conversion]] — Chapter 5: THE EXCEPTION PROVES THE RULE"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/conversion-(Chesterton)"
+parentWork: "works/conversion-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_04_THE_WORLD_INSIDE_OUT">‹ Chapter 04 THE WORLD INSIDE OUT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_06_A_NOTE_ON_PRESENT_PROSPECTS">Chapter 06 A NOTE ON PRESENT PROSPECTS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/conversion-(chesterton)">conversion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out">‹ Chapter 04 THE WORLD INSIDE OUT</a><a class="ex-next" href="/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects">Chapter 06 A NOTE ON PRESENT PROSPECTS ›</a></div>
 </nav>
 
 

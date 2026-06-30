@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Ubi-Sunt"></div>
+<div class="concept-works" data-slug="topoi/ubi-sunt"></div>
 
 #graph/topos

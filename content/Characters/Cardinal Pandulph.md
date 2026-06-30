@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cardinal-Pandulph"></div>
+<div class="concept-works" data-slug="characters/cardinal-pandulph"></div>
 
 #graph/character

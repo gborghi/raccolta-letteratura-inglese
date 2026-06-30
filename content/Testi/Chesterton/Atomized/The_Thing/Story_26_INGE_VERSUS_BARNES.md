@@ -2,15 +2,15 @@
 title: "The Thing — INGE VERSUS BARNES"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_25_THE_SLAVERY_OF_THE_MIND">‹ Story 25 THE SLAVERY OF THE MIND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_27_WHAT_WE_THINK_ABOUT">Story 27 WHAT WE THINK ABOUT ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_of_the_mind">‹ Story 25 THE SLAVERY OF THE MIND</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">Story 27 WHAT WE THINK ABOUT ›</a></div>
 </nav>
 
 

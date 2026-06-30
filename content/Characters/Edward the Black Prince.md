@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Edward-the-Black-Prince"></div>
+<div class="concept-works" data-slug="characters/edward-the-black-prince"></div>
 
 #graph/character

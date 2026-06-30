@@ -2,14 +2,14 @@
 title: "[[The Black Cat]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Black-Cat-(Poe)"
+parentWork: "works/the-black-cat-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Black-Cat-(Poe)">The Black Cat</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-black-cat-(poe)">The Black Cat</a></div>
 </nav>
 
 

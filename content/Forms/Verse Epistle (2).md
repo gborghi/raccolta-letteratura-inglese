@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Verse-Epistle-(2)"></div>
+<div class="concept-works" data-slug="forms/verse-epistle-(2)"></div>
 
 #graph/form

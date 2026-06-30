@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — Letters and the New Laureates"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_03_Art_and_Advertisement">‹ Story 03 Art and Advertisement</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_05_Unbusinesslike_Business">Story 05 Unbusinesslike Business ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_03_art_and_advertisement">‹ Story 03 Art and Advertisement</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_05_unbusinesslike_business">Story 05 Unbusinesslike Business ›</a></div>
 </nav>
 
 

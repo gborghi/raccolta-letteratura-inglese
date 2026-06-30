@@ -2,15 +2,15 @@
 title: "[[queertrades]] — Chapter 6"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/queertrades-(Chesterton)"
+parentWork: "works/queertrades-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/queertrades-(Chesterton)">queertrades</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/queertrades/Story_05_Chapter_5">‹ Story 05 Chapter 5</a><a class="ex-next" href="/Testi/Chesterton/Atomized/queertrades/Story_01_Chapter_1/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/queertrades-(chesterton)">queertrades</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/queertrades/story_05_chapter_5">‹ Story 05 Chapter 5</a><a class="ex-next" href="/testi/chesterton/atomized/queertrades/story_01_chapter_1/part_01">part 01 ›</a></div>
 </nav>
 
 

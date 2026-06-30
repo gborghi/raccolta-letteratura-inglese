@@ -2,15 +2,15 @@
 title: "The Defendant — IN DEFENCE OF A NEW EDITION"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_02_INTRODUCTION">Story 02 INTRODUCTION ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_02_introduction">Story 02 INTRODUCTION ›</a></div>
 </nav>
 
 

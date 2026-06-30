@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Alienation-·-Outsider-·-Exile"></div>
+<div class="concept-works" data-slug="clusters/alienation-·-outsider-·-exile"></div>

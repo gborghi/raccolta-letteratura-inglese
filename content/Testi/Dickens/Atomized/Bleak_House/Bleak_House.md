@@ -2,14 +2,14 @@
 title: "Bleak [[house|House]]"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Bleak-House-(Dickens)"
+parentWork: "works/bleak-house-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/bleak-house-(dickens)">Bleak House</a></div>
 </nav>
 
 

@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Imagination-·-Fragment-·-Heroic-Couplet"></div>
+<div class="concept-works" data-slug="clusters/imagination-·-fragment-·-heroic-couplet"></div>

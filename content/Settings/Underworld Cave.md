@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Underworld-Cave"></div>
+<div class="concept-works" data-slug="settings/underworld-cave"></div>
 
 #graph/setting

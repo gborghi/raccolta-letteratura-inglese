@@ -9,6 +9,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Eyes-Sight-Placeholder"></div>
+<div class="concept-works" data-slug="concepts/eyes-sight-placeholder"></div>
 
 #graph/concept

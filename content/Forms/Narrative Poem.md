@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Narrative-Poem"></div>
+<div class="concept-works" data-slug="forms/narrative-poem"></div>
 
 #graph/form

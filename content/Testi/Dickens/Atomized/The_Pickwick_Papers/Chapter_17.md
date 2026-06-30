@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 17"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_16_IN_WHICH_IS_GIVEN_A_FAITHFUL_P">‹ Chapter 16 IN WHICH IS GIVEN A FAITHFUL P</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_18_TOO_FULL_OF_ADVENTURE_TO_BE_BR">Chapter 18 TOO FULL OF ADVENTURE TO BE BR ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_16_in_which_is_given_a_faithful_p">‹ Chapter 16 IN WHICH IS GIVEN A FAITHFUL P</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_18_too_full_of_adventure_to_be_br">Chapter 18 TOO FULL OF ADVENTURE TO BE BR ›</a></div>
 </nav>
 
 

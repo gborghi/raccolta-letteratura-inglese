@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Eugene-Wrayburn"></div>
+<div class="concept-works" data-slug="characters/eugene-wrayburn"></div>
 
 #graph/character

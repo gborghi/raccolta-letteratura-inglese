@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hugh-of-the-Maypole"></div>
+<div class="concept-works" data-slug="characters/hugh-of-the-maypole"></div>
 
 #graph/character

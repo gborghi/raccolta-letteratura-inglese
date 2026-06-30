@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_01_The_Resurrection_of_Father_Brown/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven/part_01">part 01 ›</a></div>
 </nav>
 
 

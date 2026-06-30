@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_41_MR_SAMUEL_WELLER_BEING_INTRUST/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_42_INTRODUCES_MR_PICKWICK_TO_A_NE/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_mr_samuel_weller_being_intrust/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_42_introduces_mr_pickwick_to_a_ne/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "A Midsummer Nights Dream — Act IV, Scene 2"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)"
+parentWork: "works/a-midsummer-night’s-dream-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)">A Midsummer Nights Dream</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/A_Midsummer_Nights_Dream/Act_4/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/A_Midsummer_Nights_Dream/Act_5/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/a-midsummer-night’s-dream-(shakespeare)">A Midsummer Nights Dream</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_4/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/a_midsummer_nights_dream/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

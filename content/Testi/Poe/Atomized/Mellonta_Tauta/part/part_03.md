@@ -2,15 +2,15 @@
 title: "[[Mellonta Tauta]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Mellonta-Tauta-(Poe)"
+parentWork: "works/mellonta-tauta-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Mellonta-Tauta-(Poe)">Mellonta Tauta</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Mellonta_Tauta/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Mellonta_Tauta/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/mellonta-tauta-(poe)">Mellonta Tauta</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/mellonta_tauta/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/mellonta_tauta/part/part_04">part 04 ›</a></div>
 </nav>
 
 

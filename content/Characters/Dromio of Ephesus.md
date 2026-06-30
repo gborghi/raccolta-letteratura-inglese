@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Dromio-of-Ephesus"></div>
+<div class="concept-works" data-slug="characters/dromio-of-ephesus"></div>
 
 #graph/character

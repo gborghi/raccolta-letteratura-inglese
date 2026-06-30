@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Tom-Bloomfield"></div>
+<div class="concept-works" data-slug="characters/tom-bloomfield"></div>
 
 #graph/character

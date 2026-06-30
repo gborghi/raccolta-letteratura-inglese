@@ -2,15 +2,15 @@
 title: "[[Thou Art the Man]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Thou-Art-the-Man-(Poe)"
+parentWork: "works/thou-art-the-man-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Thou-Art-the-Man-(Poe)">Thou Art the Man</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Thou_Art_the_Man/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/thou-art-the-man-(poe)">Thou Art the Man</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/thou_art_the_man/part/part_02">part 02 ›</a></div>
 </nav>
 
 

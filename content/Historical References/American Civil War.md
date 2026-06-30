@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/American-Civil-War"></div>
+<div class="concept-works" data-slug="historical-references/american-civil-war"></div>
 
 #graph/histref

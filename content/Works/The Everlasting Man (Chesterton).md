@@ -51,8 +51,8 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 On the Creature Called Man](/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_01_On_the_Creature_Called_Man)
-- [Chapter 02 On the Man Called Christ](/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ)
+- [Chapter 01 On the Creature Called Man](/testi/chesterton/atomized/the_everlasting_man/chapter_01_on_the_creature_called_man)
+- [Chapter 02 On the Man Called Christ](/testi/chesterton/atomized/the_everlasting_man/chapter_02_on_the_man_called_christ)
 
 
 ## Testo integrale / Full text

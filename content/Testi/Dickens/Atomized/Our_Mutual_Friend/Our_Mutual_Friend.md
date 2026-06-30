@@ -2,14 +2,14 @@
 title: "Our Mutual Friend"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Our-Mutual-Friend-(Dickens)"
+parentWork: "works/our-mutual-friend-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
 </nav>
 
 

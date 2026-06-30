@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — Vii.  The [[Well]] And The Shallows"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_17_My_Six_Conversions">‹ Story 17 My Six Conversions</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_19_The_Return_To_Religion">Story 19 The Return To Religion ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_17_my_six_conversions">‹ Story 17 My Six Conversions</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_19_the_return_to_religion">Story 19 The Return To Religion ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "As I Was Saying — T amuses me to think that, amid all the invocations of Christmas (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/As-I-Was-Saying-(Chesterton)"
+parentWork: "works/as-i-was-saying-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_44_T_amuses_me_to_think_that_amid_all_the_i/part_02">‹ part 02</a><span></span></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/as-i-was-saying-(chesterton)">As I Was Saying</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/as_i_was_saying/story_44_t_amuses_me_to_think_that_amid_all_the_i/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 

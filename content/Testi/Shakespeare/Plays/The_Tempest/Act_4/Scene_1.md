@@ -2,15 +2,15 @@
 title: "The Tempest — Act IV, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-TEMPEST-(Shakespeare)"
+parentWork: "works/the-tempest-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TEMPEST-(Shakespeare)">The Tempest</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Tempest/Act_3/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Tempest/Act_5/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tempest-(shakespeare)">The Tempest</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tempest/act_3/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/the_tempest/act_5/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

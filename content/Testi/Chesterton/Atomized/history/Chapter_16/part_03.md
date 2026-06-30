@@ -2,15 +2,15 @@
 title: "[[history]] — Chapter 16 (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/history-(Chesterton)"
+parentWork: "works/history-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/history-(Chesterton)">history</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/history/Chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/history/Chapter_17/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/history-(chesterton)">history</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/history/chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/history/chapter_17/part_01">part 01 ›</a></div>
 </nav>
 
 

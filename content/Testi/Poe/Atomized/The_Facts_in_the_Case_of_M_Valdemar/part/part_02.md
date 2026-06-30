@@ -2,15 +2,15 @@
 title: "[[The Facts in the Case of M. Valdemar]] (part 2)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)"
+parentWork: "works/the-facts-in-the-case-of-m.-valdemar-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)">The Facts in the Case of M Valdemar</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Facts_in_the_Case_of_M_Valdemar/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Facts_in_the_Case_of_M_Valdemar/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-facts-in-the-case-of-m.-valdemar-(poe)">The Facts in the Case of M Valdemar</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_facts_in_the_case_of_m_valdemar/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/the_facts_in_the_case_of_m_valdemar/part/part_03">part 03 ›</a></div>
 </nav>
 
 

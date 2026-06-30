@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Alfred The Great"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_13_Bret_Harte">‹ Story 13 Bret Harte</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_15_Maeterlinck">Story 15 Maeterlinck ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_13_bret_harte">‹ Story 13 Bret Harte</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_15_maeterlinck">Story 15 Maeterlinck ›</a></div>
 </nav>
 
 

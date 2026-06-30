@@ -2,14 +2,14 @@
 title: "[[Some Words with a Mummy]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
+parentWork: "works/some-words-with-a-mummy-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Some-Words-with-a-Mummy-(Poe)">Some Words with a Mummy</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/some-words-with-a-mummy-(poe)">Some Words with a Mummy</a></div>
 </nav>
 
 

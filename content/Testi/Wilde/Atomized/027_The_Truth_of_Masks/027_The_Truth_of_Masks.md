@@ -2,14 +2,14 @@
 title: "The [[Truth]] of Masks"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Truth-of-Masks-(Wilde)"
+parentWork: "works/the-truth-of-masks-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Truth-of-Masks-(Wilde)">027 The Truth of Masks</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-truth-of-masks-(wilde)">027 The Truth of Masks</a></div>
 </nav>
 
 

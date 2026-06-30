@@ -2,14 +2,14 @@
 title: "[[Lord Arthur Savile]]'s Crime"
 author: "Wilde"
 unitType: work
-parentWork: "Works/Lord-Arthur-Savile's-Crime-(Wilde)"
+parentWork: "works/lord-arthur-savile's-crime-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/Lord-Arthur-Savile's-Crime-(Wilde)">020 Lord Arthur Saviles Crime</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/lord-arthur-savile's-crime-(wilde)">020 Lord Arthur Saviles Crime</a></div>
 </nav>
 
 

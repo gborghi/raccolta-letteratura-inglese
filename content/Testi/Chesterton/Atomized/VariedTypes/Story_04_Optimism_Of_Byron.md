@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Optimism Of Byron"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_03_William_Morris_And_His_School">‹ Story 03 William Morris And His School</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_05_Pope_And_The_Art_Of_Satire">Story 05 Pope And The Art Of Satire ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_03_william_morris_and_his_school">‹ Story 03 William Morris And His School</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_05_pope_and_the_art_of_satire">Story 05 Pope And The Art Of Satire ›</a></div>
 </nav>
 
 

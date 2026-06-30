@@ -2,14 +2,14 @@
 title: "Twelve Types"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
 </nav>
 
 

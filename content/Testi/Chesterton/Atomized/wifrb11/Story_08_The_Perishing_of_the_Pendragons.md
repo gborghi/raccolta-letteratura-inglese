@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Perishing of the Pendragons"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_07_The_Purple_Wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs">Story 09 The God of the Gongs ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_07_the_purple_wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_09_the_god_of_the_gongs">Story 09 The God of the Gongs ›</a></div>
 </nav>
 
 

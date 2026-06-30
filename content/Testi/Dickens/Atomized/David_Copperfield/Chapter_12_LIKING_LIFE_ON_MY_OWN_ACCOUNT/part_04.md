@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_13_the_sequel_of_my_resolution/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Titus Andronicus]] — Act II, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/TITUS-ANDRONICUS-(Shakespeare)"
+parentWork: "works/titus-andronicus-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Titus_Andronicus/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Titus_Andronicus/Act_2/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/titus-andronicus-(shakespeare)">Titus Andronicus</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/titus_andronicus/act_2/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

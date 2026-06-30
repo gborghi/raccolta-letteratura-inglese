@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Rural-England"></div>
+<div class="concept-works" data-slug="settings/rural-england"></div>
 
 #graph/setting

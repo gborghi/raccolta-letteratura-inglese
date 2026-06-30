@@ -5,10 +5,24 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// ---- custom eng-lit global scripts (null-render v4 components, ported to v5) ----
+// @ts-ignore
+import opereTableScript from "../../components/scripts/opereTable.inline"
+// @ts-ignore
+import cercaScript from "../../components/scripts/cerca.inline"
+// @ts-ignore
+import conceptWorksScript from "../../components/scripts/conceptWorks.inline"
+// @ts-ignore
+import radialWheelScript from "../../components/scripts/radialWheel.inline"
+// @ts-ignore
+import braniTableScript from "../../components/scripts/braniTable.inline"
+// @ts-ignore
+import relatedWorksScript from "../../components/scripts/relatedWorks.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
+import { componentRegistry } from "../../components/registry"
 import {
   googleFontHref,
   googleFontSubsetHref,
@@ -27,11 +41,16 @@ type ComponentResources = {
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
+
   for (const emitter of ctx.cfg.plugins.emitters) {
     const components = emitter.getQuartzComponents?.(ctx) ?? []
     for (const component of components) {
       allComponents.add(component)
     }
+  }
+
+  for (const component of componentRegistry.getAllComponents()) {
+    allComponents.add(component)
   }
 
   const componentResources = {
@@ -84,6 +103,21 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     componentResources.afterDOMLoaded.push(popoverScript)
     componentResources.css.push(popoverStyle)
   }
+
+  // Custom eng-lit components — in v4 these were null-render afterBody components
+  // (OpereTable/CercaPage/ConceptWorks/RadialWheel/BraniTable/RelatedWorks) that only
+  // shipped a script + css. In v5 the layout no longer places them, so wire their
+  // scripts globally here; each finds its preprocess-injected anchor and self-registers
+  // on "nav". Pushed BEFORE the SPA router below so their listeners exist before the
+  // first "nav" dispatch. Their CSS lives in custom.scss.
+  componentResources.afterDOMLoaded.push(
+    opereTableScript,
+    cercaScript,
+    conceptWorksScript,
+    radialWheelScript,
+    braniTableScript,
+    relatedWorksScript,
+  )
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId
@@ -240,6 +274,16 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       vercelInsightsScript.src = "/_vercel/insights/script.js"
       vercelInsightsScript.defer = true
       document.head.appendChild(vercelInsightsScript)
+    `)
+  } else if (cfg.analytics?.provider === "rybbit") {
+    componentResources.afterDOMLoaded.push(`
+      const rybbitScript = document.createElement("script");
+      rybbitScript.src = "${cfg.analytics.host ?? "https://app.rybbit.io"}/api/script.js";
+      rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}");
+      rybbitScript.async = true;
+      rybbitScript.defer = true;
+
+      document.head.appendChild(rybbitScript);
     `)
   }
 

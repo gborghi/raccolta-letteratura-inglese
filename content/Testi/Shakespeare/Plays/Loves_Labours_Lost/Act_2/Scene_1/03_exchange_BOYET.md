@@ -2,14 +2,14 @@
 title: "Loves Labours Lost — Act II, Scene 1 — exchange (BOYET) [3]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)"
+parentWork: "works/love’s-labour’s-lost-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)">Loves Labours Lost</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
 </nav>
 
 

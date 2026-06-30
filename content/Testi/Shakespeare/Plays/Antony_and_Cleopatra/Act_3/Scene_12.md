@@ -2,15 +2,15 @@
 title: "Antony and [[Cleopatra]] — Act III, Scene 12"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
+parentWork: "works/antony-and-cleopatra-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_3/Scene_11">‹ Scene 11</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_3/Scene_13">Scene 13 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/antony-and-cleopatra-(shakespeare)">Antony and Cleopatra</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_11">‹ Scene 11</a><a class="ex-next" href="/testi/shakespeare/plays/antony_and_cleopatra/act_3/scene_13">Scene 13 ›</a></div>
 </nav>
 
 

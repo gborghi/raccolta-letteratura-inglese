@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Federico-Gomez"></div>
+<div class="concept-works" data-slug="characters/federico-gomez"></div>
 
 #graph/character

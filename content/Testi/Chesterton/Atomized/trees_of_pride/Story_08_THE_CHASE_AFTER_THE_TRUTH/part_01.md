@@ -2,15 +2,15 @@
 title: "trees of [[Pride|pride]] — THE CHASE AFTER THE [[Truth|TRUTH]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/trees-of-pride-(Chesterton)"
+parentWork: "works/trees-of-pride-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_07_THE_MYSTERY_OF_THE_WELL/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_08_THE_CHASE_AFTER_THE_TRUTH/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">trees of pride</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/trees_of_pride/story_07_the_mystery_of_the_well/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/trees_of_pride/story_08_the_chase_after_the_truth/part_02">part 02 ›</a></div>
 </nav>
 
 

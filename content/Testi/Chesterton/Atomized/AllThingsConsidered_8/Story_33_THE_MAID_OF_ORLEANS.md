@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — THE MAID OF ORLEANS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_32_TOM_JONES_AND_MORALITY">‹ Story 32 TOM JONES AND MORALITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_34_A_DEAD_POET">Story 34 A DEAD POET ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_32_tom_jones_and_morality">‹ Story 32 TOM JONES AND MORALITY</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_34_a_dead_poet">Story 34 A DEAD POET ›</a></div>
 </nav>
 
 

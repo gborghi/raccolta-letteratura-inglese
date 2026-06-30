@@ -2,14 +2,14 @@
 title: "Much Ado About Nothing — Act II, Scene 3 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)"
+parentWork: "works/much-ado-about-nothing-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/much-ado-about-nothing-(shakespeare)">Much Ado About Nothing</a></div>
 </nav>
 
 

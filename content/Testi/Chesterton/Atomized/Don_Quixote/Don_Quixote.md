@@ -2,14 +2,14 @@
 title: "[[Don Quixote]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Don-Quixote-(Chesterton)"
+parentWork: "works/don-quixote-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Don-Quixote-(Chesterton)">Don Quixote</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
 </nav>
 
 

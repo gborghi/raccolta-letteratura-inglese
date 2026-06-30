@@ -49,9 +49,9 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_03)
+- [Chapter 01](/testi/chesterton/atomized/alarms_and_discursions/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/alarms_and_discursions/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/alarms_and_discursions/chapter_03)
 
 ## Testo integrale / Full text
 

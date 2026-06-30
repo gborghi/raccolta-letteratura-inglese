@@ -2,14 +2,14 @@
 title: "[[Diddling]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Diddling-(Poe)"
+parentWork: "works/diddling-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Diddling-(Poe)">Diddling</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/diddling-(poe)">Diddling</a></div>
 </nav>
 
 

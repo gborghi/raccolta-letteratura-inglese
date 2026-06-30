@@ -29,12 +29,12 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 The Spice of Life](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_01_The_Spice_of_Life)
-- [Chapter 02 LITERATURE IN GENERAL](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_02_LITERATURE_IN_GENERAL)
-- [Chapter 03 PARTICULAR BOOKS AND WRITERS](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_03_PARTICULAR_BOOKS_AND_WRITERS)
-- [Chapter 04 THOUGHT AND BELIEF](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_04_THOUGHT_AND_BELIEF)
-- [Chapter 05 AT HOME AND ABROAD](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD)
-- [Chapter 06 THE SPICE OF LIFE](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_06_THE_SPICE_OF_LIFE)
+- [Chapter 01 The Spice of Life](/testi/chesterton/atomized/spice_of_life/chapter_01_the_spice_of_life)
+- [Chapter 02 LITERATURE IN GENERAL](/testi/chesterton/atomized/spice_of_life/chapter_02_literature_in_general)
+- [Chapter 03 PARTICULAR BOOKS AND WRITERS](/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers)
+- [Chapter 04 THOUGHT AND BELIEF](/testi/chesterton/atomized/spice_of_life/chapter_04_thought_and_belief)
+- [Chapter 05 AT HOME AND ABROAD](/testi/chesterton/atomized/spice_of_life/chapter_05_at_home_and_abroad)
+- [Chapter 06 THE SPICE OF LIFE](/testi/chesterton/atomized/spice_of_life/chapter_06_the_spice_of_life)
 
 ## Testo integrale / Full text
 

@@ -2,15 +2,15 @@
 title: "The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)"
+parentWork: "works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_06/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_05/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_06/part_02">part 02 ›</a></div>
 </nav>
 
 

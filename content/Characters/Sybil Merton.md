@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sybil-Merton"></div>
+<div class="concept-works" data-slug="characters/sybil-merton"></div>
 
 #graph/character

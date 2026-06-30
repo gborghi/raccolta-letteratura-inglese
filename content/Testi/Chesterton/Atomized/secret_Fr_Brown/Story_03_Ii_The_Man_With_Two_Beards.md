@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Ii. The Man With Two Beards"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate">‹ Story 02 I The Mirror Of The Magistrate</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_04_Iii_The_Song_Of_The_Flying_Fish">Story 04 Iii The Song Of The Flying Fish ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_02_i_the_mirror_of_the_magistrate">‹ Story 02 I The Mirror Of The Magistrate</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_04_iii_the_song_of_the_flying_fish">Story 04 Iii The Song Of The Flying Fish ›</a></div>
 </nav>
 
 

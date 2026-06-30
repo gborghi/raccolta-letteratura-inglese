@@ -2,15 +2,15 @@
 title: "[[Villette]] — Chapter 1"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Villette-(Bronte)"
+parentWork: "works/villette-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

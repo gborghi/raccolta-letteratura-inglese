@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Letters-and-Writing"></div>
+<div class="concept-works" data-slug="motifs/letters-and-writing"></div>
 
 #graph/motif

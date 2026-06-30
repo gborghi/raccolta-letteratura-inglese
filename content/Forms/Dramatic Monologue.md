@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Dramatic-Monologue"></div>
+<div class="concept-works" data-slug="forms/dramatic-monologue"></div>
 
 #graph/form

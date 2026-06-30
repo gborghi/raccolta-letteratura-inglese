@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Titus-Andronicus"></div>
+<div class="concept-works" data-slug="characters/titus-andronicus"></div>
 
 #graph/character

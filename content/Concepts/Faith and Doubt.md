@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Faith-and-Doubt"></div>
+<div class="concept-works" data-slug="concepts/faith-and-doubt"></div>
 
 #graph/concept

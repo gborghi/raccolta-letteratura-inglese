@@ -2,15 +2,15 @@
 title: "[[misc]] — THE GARDENER AND THE GUINEA"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_05_THE_NAMELESS_MAN">‹ Story 05 THE NAMELESS MAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_07_THE_VOTER_AND_THE_TWO_VOICES">Story 07 THE VOTER AND THE TWO VOICES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_05_the_nameless_man">‹ Story 05 THE NAMELESS MAN</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_07_the_voter_and_the_two_voices">Story 07 THE VOTER AND THE TWO VOICES ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Irish Impressions — An Example and a Question"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Irish-Impressions-(Chesterton)"
+parentWork: "works/irish-impressions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_07_The_Mistake_of_Ireland">‹ Story 07 The Mistake of Ireland</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_09_Belfast_and_the_Religious_Problem">Story 09 Belfast and the Religious Problem ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/irish_impressions/story_07_the_mistake_of_ireland">‹ Story 07 The Mistake of Ireland</a><a class="ex-next" href="/testi/chesterton/atomized/irish_impressions/story_09_belfast_and_the_religious_problem">Story 09 Belfast and the Religious Problem ›</a></div>
 </nav>
 
 

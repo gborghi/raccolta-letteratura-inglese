@@ -2,14 +2,14 @@
 title: "[[Christabel|CHRISTABEL]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/CHRISTABEL-(Coleridge)"
+parentWork: "works/christabel-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/CHRISTABEL-(Coleridge)">Christabel</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/christabel-(coleridge)">Christabel</a></div>
 </nav>
 
 

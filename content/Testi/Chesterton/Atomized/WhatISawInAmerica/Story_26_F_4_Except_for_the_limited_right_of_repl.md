@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — F.4.  Except for the limited right of replacement or refund set forth"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_25_F_3_LIMITED_RIGHT_OF_REPLACEMENT_OR_REFU">‹ Story 25 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_27_F_5_Some_states_do_not_allow_disclaimers">Story 27 F 5 Some states do not allow disclaimers ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_25_f_3_limited_right_of_replacement_or_refu">‹ Story 25 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_27_f_5_some_states_do_not_allow_disclaimers">Story 27 F 5 Some states do not allow disclaimers ›</a></div>
 </nav>
 
 

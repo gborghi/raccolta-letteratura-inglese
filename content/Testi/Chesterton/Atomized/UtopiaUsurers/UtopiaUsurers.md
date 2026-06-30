@@ -2,14 +2,14 @@
 title: "[[UtopiaUsurers]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
 </nav>
 
 

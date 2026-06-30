@@ -2,14 +2,14 @@
 title: "The Fall of [[Hyperion]]"
 author: "Keats"
 unitType: work
-parentWork: "Works/The-Fall-of-Hyperion-(Keats)"
+parentWork: "works/the-fall-of-hyperion-(keats)"
 tags:
   - graph/excerpt
   - author/Keats
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Keats · <a href="/Works/The-Fall-of-Hyperion-(Keats)">The Fall of Hyperion</a></div>
+<div class="excerpt-crumb">Keats · <a href="/works/the-fall-of-hyperion-(keats)">The Fall of Hyperion</a></div>
 </nav>
 
 

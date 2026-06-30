@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Christianity-·-Faith-and-Doubt-·-Doubt"></div>
+<div class="concept-works" data-slug="clusters/christianity-·-faith-and-doubt-·-doubt"></div>

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Suffering-and-Pain"></div>
+<div class="concept-works" data-slug="concepts/suffering-and-pain"></div>
 
 #graph/concept

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Seed-and-Germination"></div>
+<div class="concept-works" data-slug="motifs/seed-and-germination"></div>
 
 #graph/motif

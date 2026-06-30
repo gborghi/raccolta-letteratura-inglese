@@ -2,15 +2,15 @@
 title: "[[THE PICCOLOMINI]] — Act II, Scene 9"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-PICCOLOMINI-(Coleridge)"
+parentWork: "works/the-piccolomini-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-PICCOLOMINI-(Coleridge)">Piccolomini</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/Piccolomini/Act_2/Scene_8">‹ Scene 8</a><a class="ex-next" href="/Testi/Coleridge/Plays/Piccolomini/Act_2/Scene_10">Scene 10 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-piccolomini-(coleridge)">Piccolomini</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/piccolomini/act_2/scene_8">‹ Scene 8</a><a class="ex-next" href="/testi/coleridge/plays/piccolomini/act_2/scene_10">Scene 10 ›</a></div>
 </nav>
 
 

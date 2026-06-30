@@ -2,15 +2,15 @@
 title: "[[Coriolanus]] — Act II, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/CORIOLANUS-(Shakespeare)"
+parentWork: "works/coriolanus-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Coriolanus/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Coriolanus/Act_3/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/coriolanus-(shakespeare)">Coriolanus</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/coriolanus/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/coriolanus/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

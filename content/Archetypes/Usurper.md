@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Usurper"></div>
+<div class="concept-works" data-slug="archetypes/usurper"></div>
 
 #graph/archetype

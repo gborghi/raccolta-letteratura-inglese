@@ -2,15 +2,15 @@
 title: "[[The Literary Life of Thingum Bob, Esq]] (part 5)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
+parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)">The Literary Life of Thingum Bob Esq</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Literary_Life_of_Thingum_Bob_Esq/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Literary_Life_of_Thingum_Bob_Esq/part/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-literary-life-of-thingum-bob,-esq-(poe)">The Literary Life of Thingum Bob Esq</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_literary_life_of_thingum_bob_esq/part/part_06">part 06 ›</a></div>
 </nav>
 
 

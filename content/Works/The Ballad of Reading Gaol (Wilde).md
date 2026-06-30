@@ -61,12 +61,12 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 01 part i](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_01_part_i)
-- [Section 02 part ii](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_02_part_ii)
-- [Section 03 part iii](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_03_part_iii)
-- [Section 04 part iv](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_04_part_iv)
-- [Section 05 part v](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_05_part_v)
-- [Section 06 part vi](/Testi/Wilde/Long/The_Ballad_of_Reading_Gaol/Section_06_part_vi)
+- [Section 01 part i](/testi/wilde/long/the_ballad_of_reading_gaol/section_01_part_i)
+- [Section 02 part ii](/testi/wilde/long/the_ballad_of_reading_gaol/section_02_part_ii)
+- [Section 03 part iii](/testi/wilde/long/the_ballad_of_reading_gaol/section_03_part_iii)
+- [Section 04 part iv](/testi/wilde/long/the_ballad_of_reading_gaol/section_04_part_iv)
+- [Section 05 part v](/testi/wilde/long/the_ballad_of_reading_gaol/section_05_part_v)
+- [Section 06 part vi](/testi/wilde/long/the_ballad_of_reading_gaol/section_06_part_vi)
 
 
 ## Testo integrale / Full text

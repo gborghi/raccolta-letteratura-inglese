@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The [[Desert]] Island (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_11_A_Scandal_in_the_Village/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_12_The_Desert_Island/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_11_a_scandal_in_the_village/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_12_the_desert_island/part_02">part 02 ›</a></div>
 </nav>
 
 

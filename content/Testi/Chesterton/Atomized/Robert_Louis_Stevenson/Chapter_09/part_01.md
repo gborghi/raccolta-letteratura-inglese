@@ -2,15 +2,15 @@
 title: "Robert Louis Stevenson — Chapter 9 (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Robert-Louis-Stevenson-(Chesterton)"
+parentWork: "works/robert-louis-stevenson-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Louis-Stevenson-(Chesterton)">Robert Louis Stevenson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_09/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-louis-stevenson-(chesterton)">Robert Louis Stevenson</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/robert_louis_stevenson/chapter_09/part_02">part 02 ›</a></div>
 </nav>
 
 

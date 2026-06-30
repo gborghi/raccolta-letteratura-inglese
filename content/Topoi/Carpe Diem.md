@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Carpe-Diem"></div>
+<div class="concept-works" data-slug="topoi/carpe-diem"></div>
 
 #graph/topos

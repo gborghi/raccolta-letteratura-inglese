@@ -2,14 +2,14 @@
 title: "whats wrong"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/whats-wrong-(Chesterton)"
+parentWork: "works/whats-wrong-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
 </nav>
 
 

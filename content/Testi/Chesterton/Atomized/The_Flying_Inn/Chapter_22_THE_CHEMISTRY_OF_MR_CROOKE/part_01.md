@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_21_THE_ROAD_TO_ROUNDABOUT/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_22_THE_CHEMISTRY_OF_MR_CROOKE/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_21_the_road_to_roundabout/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_22_the_chemistry_of_mr_crooke/part_02">part 02 ›</a></div>
 </nav>
 
 

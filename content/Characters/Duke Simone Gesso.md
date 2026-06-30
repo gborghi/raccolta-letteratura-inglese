@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duke-Simone-Gesso"></div>
+<div class="concept-works" data-slug="characters/duke-simone-gesso"></div>
 
 #graph/character

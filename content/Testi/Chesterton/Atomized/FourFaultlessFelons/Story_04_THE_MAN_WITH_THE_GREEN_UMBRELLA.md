@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE MAN WITH THE GREEN UMBRELLA"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_03_R_ASA_LEE_PINION_of_the_Chicago_Comet_ha">‹ Story 03 R ASA LEE PINION of the Chicago Comet ha</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_05_THE_BOY_WHO_MADE_A_SCENE">Story 05 THE BOY WHO MADE A SCENE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_03_r_asa_lee_pinion_of_the_chicago_comet_ha">‹ Story 03 R ASA LEE PINION of the Chicago Comet ha</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_05_the_boy_who_made_a_scene">Story 05 THE BOY WHO MADE A SCENE ›</a></div>
 </nav>
 
 

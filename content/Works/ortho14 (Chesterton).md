@@ -35,15 +35,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Introduction in Defence of Everything El](/Testi/Chesterton/Atomized/ortho14/Story_01_Introduction_in_Defence_of_Everything_El)
-- [Story 02 The Maniac](/Testi/Chesterton/Atomized/ortho14/Story_02_The_Maniac)
-- [Story 03 The Suicide of Thought](/Testi/Chesterton/Atomized/ortho14/Story_03_The_Suicide_of_Thought)
-- [Story 04 The Ethics of Elfland](/Testi/Chesterton/Atomized/ortho14/Story_04_The_Ethics_of_Elfland)
-- [Story 05 The Flag of the World](/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World)
-- [Story 06 The Paradoxes of Christianity](/Testi/Chesterton/Atomized/ortho14/Story_06_The_Paradoxes_of_Christianity)
-- [Story 07 The Eternal Revolution](/Testi/Chesterton/Atomized/ortho14/Story_07_The_Eternal_Revolution)
-- [Story 08 The Romance of Orthodoxy](/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy)
-- [Story 09 Authority and the Adventurer](/Testi/Chesterton/Atomized/ortho14/Story_09_Authority_and_the_Adventurer)
+- [Story 01 Introduction in Defence of Everything El](/testi/chesterton/atomized/ortho14/story_01_introduction_in_defence_of_everything_el)
+- [Story 02 The Maniac](/testi/chesterton/atomized/ortho14/story_02_the_maniac)
+- [Story 03 The Suicide of Thought](/testi/chesterton/atomized/ortho14/story_03_the_suicide_of_thought)
+- [Story 04 The Ethics of Elfland](/testi/chesterton/atomized/ortho14/story_04_the_ethics_of_elfland)
+- [Story 05 The Flag of the World](/testi/chesterton/atomized/ortho14/story_05_the_flag_of_the_world)
+- [Story 06 The Paradoxes of Christianity](/testi/chesterton/atomized/ortho14/story_06_the_paradoxes_of_christianity)
+- [Story 07 The Eternal Revolution](/testi/chesterton/atomized/ortho14/story_07_the_eternal_revolution)
+- [Story 08 The Romance of Orthodoxy](/testi/chesterton/atomized/ortho14/story_08_the_romance_of_orthodoxy)
+- [Story 09 Authority and the Adventurer](/testi/chesterton/atomized/ortho14/story_09_authority_and_the_adventurer)
 
 ## Testo integrale / Full text
 

@@ -2,15 +2,15 @@
 title: "The Thing — THE ROOTS OF [[Sanity|SANITY]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_22_THE_NORDIC_HINDOO">‹ Story 22 THE NORDIC HINDOO</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS">Story 24 SOME OF OUR ERRORS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_22_the_nordic_hindoo">‹ Story 22 THE NORDIC HINDOO</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_24_some_of_our_errors">Story 24 SOME OF OUR ERRORS ›</a></div>
 </nav>
 
 

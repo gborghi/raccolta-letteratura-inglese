@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Marriage-and-Fidelity"></div>
+<div class="concept-works" data-slug="concepts/marriage-and-fidelity"></div>
 
 #graph/concept

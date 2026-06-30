@@ -2,15 +2,15 @@
 title: "[[Sanity]] — ON A SENSE OF PROPORTION (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_05_ON_A_SENSE_OF_PROPORTION/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_05_ON_A_SENSE_OF_PROPORTION/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_05_on_a_sense_of_proportion/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_05_on_a_sense_of_proportion/part_03">part 03 ›</a></div>
 </nav>
 
 

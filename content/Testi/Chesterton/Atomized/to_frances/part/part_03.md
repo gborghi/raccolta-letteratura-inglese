@@ -2,15 +2,15 @@
 title: "[[to-frances]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/to-frances-(Chesterton)"
+parentWork: "works/to-frances-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/to-frances-(Chesterton)">to frances</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/to_frances/part/part_02">‹ part 02</a><span></span></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/to-frances-(chesterton)">to frances</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/to_frances/part/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Nicholas Nickleby]] — Chapter 42 (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Nicholas-Nickleby-(Dickens)"
+parentWork: "works/nicholas-nickleby-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/nicholas-nickleby-(dickens)">Nicholas Nickleby</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/nicholas_nickleby/chapter_42/part_03">part 03 ›</a></div>
 </nav>
 
 

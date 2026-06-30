@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Wars-of-the-Roses"></div>
+<div class="concept-works" data-slug="clusters/wars-of-the-roses"></div>

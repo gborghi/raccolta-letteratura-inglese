@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_05_The_Curse_of_the_Golden_Cross/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_05_The_Curse_of_the_Golden_Cross/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross/part_03">part 03 ›</a></div>
 </nav>
 
 

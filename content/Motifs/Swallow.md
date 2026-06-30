@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Swallow"></div>
+<div class="concept-works" data-slug="motifs/swallow"></div>
 
 #graph/motif

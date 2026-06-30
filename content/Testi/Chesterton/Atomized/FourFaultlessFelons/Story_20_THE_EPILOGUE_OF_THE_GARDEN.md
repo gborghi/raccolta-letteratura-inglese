@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE EPILOGUE OF THE [[Garden|GARDEN]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_19_THE_SECRET_OF_THE_TREE">‹ Story 19 THE SECRET OF THE TREE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_21_THE_NAME_OF_NADOWAY">Story 21 THE NAME OF NADOWAY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_19_the_secret_of_the_tree">‹ Story 19 THE SECRET OF THE TREE</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_21_the_name_of_nadoway">Story 21 THE NAME OF NADOWAY ›</a></div>
 </nav>
 
 

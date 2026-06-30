@@ -2,15 +2,15 @@
 title: "[[The Professor]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/The-Professor-(Bronte)"
+parentWork: "works/the-professor-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_02_INTRODUCTORY">Chapter 02 INTRODUCTORY ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/bronte/atomized/the_professor/chapter_02_introductory">Chapter 02 INTRODUCTORY ›</a></div>
 </nav>
 
 

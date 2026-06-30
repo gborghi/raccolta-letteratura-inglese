@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Artist-and-Society"></div>
+<div class="concept-works" data-slug="concepts/artist-and-society"></div>
 
 #graph/concept

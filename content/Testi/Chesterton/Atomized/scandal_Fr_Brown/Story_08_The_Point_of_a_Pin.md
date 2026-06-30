@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — The Point of a Pin"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_07_The_gardens_had_been_tended_so_carefully">‹ Story 07 The gardens had been tended so carefully</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_09_I_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_07_the_gardens_had_been_tended_so_carefully">‹ Story 07 The gardens had been tended so carefully</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it">Story 09 I mean it s easy to say you ve thrown it ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — [[Humanitarianism|HUMANITARIANISM]] AND STRENGTH"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_26_PHONETIC_SPELLING">‹ Story 26 PHONETIC SPELLING</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_28_WINE_WHEN_IT_IS_RED">Story 28 WINE WHEN IT IS RED ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_26_phonetic_spelling">‹ Story 26 PHONETIC SPELLING</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_28_wine_when_it_is_red">Story 28 WINE WHEN IT IS RED ›</a></div>
 </nav>
 
 

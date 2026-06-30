@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/American-West"></div>
+<div class="concept-works" data-slug="settings/american-west"></div>
 
 #graph/setting

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Sublime-in-Nature"></div>
+<div class="concept-works" data-slug="topoi/sublime-in-nature"></div>
 
 #graph/topos

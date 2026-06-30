@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Immortality-Through-Verse"></div>
+<div class="concept-works" data-slug="topoi/immortality-through-verse"></div>
 
 #graph/topos

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 1"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)-(2)"
+parentWork: "works/the-flying-inn-(chesterton)-(2)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)-(2)">The Flying Inn 2</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn_2/Chapter_01">‹ Chapter 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn_2/Chapter_03">Chapter 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)-(2)">The Flying Inn 2</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_01">‹ Chapter 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn_2/chapter_03">Chapter 03 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Twelve Types — FRANCIS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_04_POPE_AND_THE_ART_OF_SATIRE">‹ Story 04 POPE AND THE ART OF SATIRE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_06_ROSTAND">Story 06 ROSTAND ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_04_pope_and_the_art_of_satire">‹ Story 04 POPE AND THE ART OF SATIRE</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_06_rostand">Story 06 ROSTAND ›</a></div>
 </nav>
 
 

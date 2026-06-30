@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — CONCEIT AND CARICATURE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_05_THE_VOTE_AND_THE_HOUSE">‹ Story 05 THE VOTE AND THE HOUSE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_07_PATRIOTISM_AND_SPORT">Story 07 PATRIOTISM AND SPORT ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_05_the_vote_and_the_house">‹ Story 05 THE VOTE AND THE HOUSE</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_07_patriotism_and_sport">Story 07 PATRIOTISM AND SPORT ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Sense and Sensibility]] — Chapter 36 (part 3)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Sense-and-Sensibility-(Austen)"
+parentWork: "works/sense-and-sensibility-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_37/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/sense_and_sensibility/chapter_36/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/sense_and_sensibility/chapter_37/part_01">part 01 ›</a></div>
 </nav>
 
 

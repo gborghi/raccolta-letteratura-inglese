@@ -2,15 +2,15 @@
 title: "Dombey and Son — Chapter 6: Paul’s Second Deprivation"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Dombey-and-Son-(Dickens)"
+parentWork: "works/dombey-and-son-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_02_Pauls_Progress_and_Christening">‹ Chapter 02 Pauls Progress and Christening</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_04_Pauls_Further_Progress_Growth">Chapter 04 Pauls Further Progress Growth ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_02_pauls_progress_and_christening">‹ Chapter 02 Pauls Progress and Christening</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_04_pauls_further_progress_growth">Chapter 04 Pauls Further Progress Growth ›</a></div>
 </nav>
 
 

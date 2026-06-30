@@ -2,15 +2,15 @@
 title: "[[Jane Eyre]] — Chapter 17 (part 7)"
 author: "Bronte"
 unitType: excerpt
-parentWork: "Works/Jane-Eyre-(Bronte)"
+parentWork: "works/jane-eyre-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_17/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_18/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_17/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_18/part_01">part 01 ›</a></div>
 </nav>
 
 

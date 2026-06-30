@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_06_A_SHORT_ONE_SHOWING_AMONG_OTHE/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_05_a_field_day_and_bivouac_more_n/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_06_a_short_one_showing_among_othe/part_01">part 01 ›</a></div>
 </nav>
 
 

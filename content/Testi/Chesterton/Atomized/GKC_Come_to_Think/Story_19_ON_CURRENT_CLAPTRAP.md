@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON CURRENT CLAPTRAP"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_18_ON_THE_CLOSED_CONSPIRACY">‹ Story 18 ON THE CLOSED CONSPIRACY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_20_ON_EVIL_EUPHEMISMS">Story 20 ON EVIL EUPHEMISMS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_18_on_the_closed_conspiracy">‹ Story 18 ON THE CLOSED CONSPIRACY</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_20_on_evil_euphemisms">Story 20 ON EVIL EUPHEMISMS ›</a></div>
 </nav>
 
 

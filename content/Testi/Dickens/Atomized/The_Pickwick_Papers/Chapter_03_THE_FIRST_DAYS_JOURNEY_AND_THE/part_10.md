@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 10)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE/part_09">‹ part 09</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_04_A_NEW_ACQUAINTANCE_THE_STROLLE/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_03_the_first_days_journey_and_the/part_09">‹ part 09</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_04_a_new_acquaintance_the_strolle/part_01">part 01 ›</a></div>
 </nav>
 
 

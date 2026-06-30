@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XIX—PUBLIC DINNERS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_27_HAPTER_XVIIIA_PARLIAMENTARY_SKETCH">‹ Story 27 HAPTER XVIIIA PARLIAMENTARY SKETCH</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_29_HAPTER_XXTHE_FIRST_OF_MAY">Story 29 HAPTER XXTHE FIRST OF MAY ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_27_hapter_xviiia_parliamentary_sketch">‹ Story 27 HAPTER XVIIIA PARLIAMENTARY SKETCH</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_29_hapter_xxthe_first_of_may">Story 29 HAPTER XXTHE FIRST OF MAY ›</a></div>
 </nav>
 
 

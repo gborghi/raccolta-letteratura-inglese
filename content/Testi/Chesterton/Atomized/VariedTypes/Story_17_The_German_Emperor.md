@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — The German Emperor"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_16_Queen_Victoria">‹ Story 16 Queen Victoria</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_18_Tennyson">Story 18 Tennyson ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_16_queen_victoria">‹ Story 16 Queen Victoria</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_18_tennyson">Story 18 Tennyson ›</a></div>
 </nav>
 
 

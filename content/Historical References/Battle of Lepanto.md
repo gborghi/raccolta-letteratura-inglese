@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Battle-of-Lepanto"></div>
+<div class="concept-works" data-slug="historical-references/battle-of-lepanto"></div>
 
 #graph/histref

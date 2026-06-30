@@ -2,14 +2,14 @@
 title: "[[Mesmeric Revelation]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Mesmeric-Revelation-(Poe)"
+parentWork: "works/mesmeric-revelation-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Mesmeric-Revelation-(Poe)">Mesmeric Revelation</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/mesmeric-revelation-(poe)">Mesmeric Revelation</a></div>
 </nav>
 
 

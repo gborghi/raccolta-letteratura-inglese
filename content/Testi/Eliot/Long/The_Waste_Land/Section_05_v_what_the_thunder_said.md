@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · The Waste Land</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/The_Waste_Land/Section_04_iv_death_by_water">‹ Section 04 iv death by water</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/the_waste_land/section_04_iv_death_by_water">‹ Section 04 iv death by water</a><span></span></div>
 </nav>
 
 

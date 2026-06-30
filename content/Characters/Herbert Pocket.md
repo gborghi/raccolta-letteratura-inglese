@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Herbert-Pocket"></div>
+<div class="concept-works" data-slug="characters/herbert-pocket"></div>
 
 #graph/character

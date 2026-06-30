@@ -2,15 +2,15 @@
 title: "Twelve Types — CHARLES II"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_06_ROSTAND">‹ Story 06 ROSTAND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE">Story 08 THOMAS CARLYLE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_06_rostand">‹ Story 06 ROSTAND</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_08_thomas_carlyle">Story 08 THOMAS CARLYLE ›</a></div>
 </nav>
 
 

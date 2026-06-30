@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lady-Macbeth"></div>
+<div class="concept-works" data-slug="characters/lady-macbeth"></div>
 
 #graph/character

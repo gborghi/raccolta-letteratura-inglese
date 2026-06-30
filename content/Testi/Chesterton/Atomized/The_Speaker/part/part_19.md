@@ -2,15 +2,15 @@
 title: "The Speaker (part 19)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Speaker-(Chesterton)"
+parentWork: "works/the-speaker-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Speaker-(Chesterton)">The Speaker</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Speaker/part/part_18">‹ part 18</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Speaker/part/part_20">part 20 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-speaker-(chesterton)">The Speaker</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_speaker/part/part_18">‹ part 18</a><a class="ex-next" href="/testi/chesterton/atomized/the_speaker/part/part_20">part 20 ›</a></div>
 </nav>
 
 

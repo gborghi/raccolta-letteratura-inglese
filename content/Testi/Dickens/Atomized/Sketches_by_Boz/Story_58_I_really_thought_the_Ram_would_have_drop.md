@@ -2,15 +2,15 @@
 title: "Sketches by Boz — I really thought the Ram would have dropped. He drew me aside, and"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_57_HAPTER_VIITHE_STEAM_EXCURSION">‹ Story 57 HAPTER VIITHE STEAM EXCURSION</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_59_HAPTER_VIIITHE_GREAT_WINGLEBURY_DUEL">Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_57_hapter_viithe_steam_excursion">‹ Story 57 HAPTER VIITHE STEAM EXCURSION</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_59_hapter_viiithe_great_winglebury_duel">Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL ›</a></div>
 </nav>
 
 

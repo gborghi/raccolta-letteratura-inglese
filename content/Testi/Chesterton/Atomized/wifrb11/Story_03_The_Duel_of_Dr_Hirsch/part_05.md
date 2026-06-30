@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Duel of Dr Hirsch (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_03_The_Duel_of_Dr_Hirsch/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_04_The_Man_in_the_Passage/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_03_the_duel_of_dr_hirsch/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_04_the_man_in_the_passage/part_01">part 01 ›</a></div>
 </nav>
 
 

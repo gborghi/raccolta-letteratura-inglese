@@ -2,15 +2,15 @@
 title: "[[Hamlet]] — Act I, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/HAMLET-(Shakespeare)"
+parentWork: "works/hamlet-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Hamlet/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Hamlet/Act_1/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/hamlet/act_1/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

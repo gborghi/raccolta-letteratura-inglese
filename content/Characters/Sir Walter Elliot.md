@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sir-Walter-Elliot"></div>
+<div class="concept-works" data-slug="characters/sir-walter-elliot"></div>
 
 #graph/character

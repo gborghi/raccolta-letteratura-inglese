@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_02_A_Happy_Hour_s_Command">‹ Story 02 A Happy Hour s Command</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_04_Genealogy_Van_Velsor_and_Whitman">Story 04 Genealogy Van Velsor and Whitman ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_02_a_happy_hour_s_command">‹ Story 02 A Happy Hour s Command</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_04_genealogy_van_velsor_and_whitman">Story 04 Genealogy Van Velsor and Whitman ›</a></div>
 </nav>
 
 

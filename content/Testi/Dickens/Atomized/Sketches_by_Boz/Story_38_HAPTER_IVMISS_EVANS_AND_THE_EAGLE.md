@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER IV—MISS EVANS AND THE EAGLE"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_37_HAPTER_IIITHE_NEW_YEAR">‹ Story 37 HAPTER IIITHE NEW YEAR</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_39_HAPTER_VTHE_PARLOUR_ORATOR">Story 39 HAPTER VTHE PARLOUR ORATOR ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_37_hapter_iiithe_new_year">‹ Story 37 HAPTER IIITHE NEW YEAR</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_39_hapter_vthe_parlour_orator">Story 39 HAPTER VTHE PARLOUR ORATOR ›</a></div>
 </nav>
 
 

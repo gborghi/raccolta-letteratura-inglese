@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Locus-Amoenus"></div>
+<div class="concept-works" data-slug="topoi/locus-amoenus"></div>
 
 #graph/topos

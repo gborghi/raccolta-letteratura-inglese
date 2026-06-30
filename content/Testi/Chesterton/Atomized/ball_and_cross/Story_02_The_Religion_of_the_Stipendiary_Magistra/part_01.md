@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_01_A_Discussion_Somewhat_in_the_Air/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_02_The_Religion_of_the_Stipendiary_Magistra/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_02_the_religion_of_the_stipendiary_magistra/part_02">part 02 ›</a></div>
 </nav>
 
 

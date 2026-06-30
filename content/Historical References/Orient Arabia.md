@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Orient-Arabia"></div>
+<div class="concept-works" data-slug="historical-references/orient-arabia"></div>
 
 #graph/histref

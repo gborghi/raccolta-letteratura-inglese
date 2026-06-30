@@ -2,15 +2,15 @@
 title: "[[Diddling]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Diddling-(Poe)"
+parentWork: "works/diddling-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Diddling-(Poe)">Diddling</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Diddling/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Diddling/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/diddling-(poe)">Diddling</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/diddling/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/diddling/part/part_04">part 04 ›</a></div>
 </nav>
 
 

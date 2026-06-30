@@ -2,15 +2,15 @@
 title: "Man Orthodox — Automatic Evil"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_124_The_Sin_Of_Prohibition">‹ Story 124 The Sin Of Prohibition</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_126_The_Tyrannical_Sceptic">Story 126 The Tyrannical Sceptic ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_124_the_sin_of_prohibition">‹ Story 124 The Sin Of Prohibition</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_126_the_tyrannical_sceptic">Story 126 The Tyrannical Sceptic ›</a></div>
 </nav>
 
 

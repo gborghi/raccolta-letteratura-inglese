@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Uncanny"></div>
+<div class="concept-works" data-slug="concepts/uncanny"></div>
 
 #graph/concept

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cloten"></div>
+<div class="concept-works" data-slug="characters/cloten"></div>
 
 #graph/character

@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Grace-and-Redemption-·-Humility-·-Bread-and-Wine-Eucharist"></div>
+<div class="concept-works" data-slug="clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist"></div>

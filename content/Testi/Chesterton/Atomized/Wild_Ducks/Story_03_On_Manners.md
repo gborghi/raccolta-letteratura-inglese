@@ -2,15 +2,15 @@
 title: "Wild Ducks — On Manners"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_02_A_Sermon_on_Cheapness">‹ Story 02 A Sermon on Cheapness</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_04_For_Persons_of_the_Name_of_Smith">Story 04 For Persons of the Name of Smith ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_02_a_sermon_on_cheapness">‹ Story 02 A Sermon on Cheapness</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_04_for_persons_of_the_name_of_smith">Story 04 For Persons of the Name of Smith ›</a></div>
 </nav>
 
 

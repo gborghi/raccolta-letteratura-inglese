@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 5)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_33_WHICH_IS_ALL_ABOUT_THE_LAW_AND/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_34_DESCRIBES_FAR_MORE_FULLY_THAN/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_33_which_is_all_about_the_law_and/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_34_describes_far_more_fully_than/part_01">part 01 ›</a></div>
 </nav>
 
 

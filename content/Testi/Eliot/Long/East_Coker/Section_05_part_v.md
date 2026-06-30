@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · East Coker</div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/East_Coker/Section_04_part_iv">‹ Section 04 part iv</a><span></span></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/eliot/long/east_coker/section_04_part_iv">‹ Section 04 part iv</a><span></span></div>
 </nav>
 
 

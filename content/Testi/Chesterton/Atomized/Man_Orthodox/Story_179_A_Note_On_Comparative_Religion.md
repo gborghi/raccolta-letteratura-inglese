@@ -2,15 +2,15 @@
 title: "Man Orthodox — A Note On Comparative Religion"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_178_The_Light_And_The_Heat">‹ Story 178 The Light And The Heat</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_180_Assimilation_And_Rejection">Story 180 Assimilation And Rejection ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_178_the_light_and_the_heat">‹ Story 178 The Light And The Heat</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_180_assimilation_and_rejection">Story 180 Assimilation And Rejection ›</a></div>
 </nav>
 
 

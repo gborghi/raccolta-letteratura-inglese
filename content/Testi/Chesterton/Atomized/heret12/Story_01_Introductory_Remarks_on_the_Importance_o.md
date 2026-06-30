@@ -2,15 +2,15 @@
 title: "[[heret12]] — Introductory Remarks on the Importance of Orthodoxy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit">Story 02 On the Negative Spirit ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_02_on_the_negative_spirit">Story 02 On the Negative Spirit ›</a></div>
 </nav>
 
 

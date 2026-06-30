@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Alfred-Jingle"></div>
+<div class="concept-works" data-slug="characters/alfred-jingle"></div>
 
 #graph/character

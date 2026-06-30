@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE TRESPASSER IN THE [[Garden|GARDEN]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_16_THE_MAN_WITH_THE_BLACK_BAG">‹ Story 16 THE MAN WITH THE BLACK BAG</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_18_THE_DISEASE_OF_DUODIAPSYCHOSIS">Story 18 THE DISEASE OF DUODIAPSYCHOSIS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_16_the_man_with_the_black_bag">‹ Story 16 THE MAN WITH THE BLACK BAG</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_18_the_disease_of_duodiapsychosis">Story 18 THE DISEASE OF DUODIAPSYCHOSIS ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_10_Printing_Office_Old_Brooklyn">‹ Story 10 Printing Office Old Brooklyn</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_12_My_Passion_for_Ferries">Story 12 My Passion for Ferries ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_10_printing_office_old_brooklyn">‹ Story 10 Printing Office Old Brooklyn</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_12_my_passion_for_ferries">Story 12 My Passion for Ferries ›</a></div>
 </nav>
 
 

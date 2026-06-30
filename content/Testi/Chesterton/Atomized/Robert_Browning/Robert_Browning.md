@@ -2,14 +2,14 @@
 title: "Robert Browning"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Robert-Browning-(Chesterton)"
+parentWork: "works/robert-browning-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Browning-(Chesterton)">Robert Browning</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a></div>
 </nav>
 
 

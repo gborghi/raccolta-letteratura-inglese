@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_12_THE_THING_THAT_REALLY_HAPPENED">‹ Story 12 THE THING THAT REALLY HAPPENED</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_14_THE_PROLOGUE_OF_THE_TREE">Story 14 THE PROLOGUE OF THE TREE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_thing_that_really_happened">‹ Story 12 THE THING THAT REALLY HAPPENED</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_14_the_prologue_of_the_tree">Story 14 THE PROLOGUE OF THE TREE ›</a></div>
 </nav>
 
 

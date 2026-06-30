@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 8: VOX POPULI VOX DEI"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_07_THE_SOCIETY_OF_SIMPLE_SOULS">‹ Chapter 07 THE SOCIETY OF SIMPLE SOULS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_09_THE_HIGHER_CRITICISM_AND_MR_HI">Chapter 09 THE HIGHER CRITICISM AND MR HI ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_07_the_society_of_simple_souls">‹ Chapter 07 THE SOCIETY OF SIMPLE SOULS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_09_the_higher_criticism_and_mr_hi">Chapter 09 THE HIGHER CRITICISM AND MR HI ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Kit-Nubbles"></div>
+<div class="concept-works" data-slug="characters/kit-nubbles"></div>
 
 #graph/character

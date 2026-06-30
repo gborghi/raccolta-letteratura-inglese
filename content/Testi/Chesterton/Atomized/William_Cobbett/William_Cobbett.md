@@ -2,14 +2,14 @@
 title: "William Cobbett"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/William-Cobbett-(Chesterton)"
+parentWork: "works/william-cobbett-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/William-Cobbett-(Chesterton)">William Cobbett</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/william-cobbett-(chesterton)">William Cobbett</a></div>
 </nav>
 
 

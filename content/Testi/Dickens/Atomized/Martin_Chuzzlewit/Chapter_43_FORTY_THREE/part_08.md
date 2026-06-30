@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 8)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_43_FORTY_THREE/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_44_FORTY_FOUR/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_43_forty_three/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_44_forty_four/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "Fancies Versis Fads"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Fancies-Versis-Fads-(Chesterton)"
+parentWork: "works/fancies-versis-fads-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Fancies-Versis-Fads-(Chesterton)">Fancies Versis Fads</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fancies-versis-fads-(chesterton)">Fancies Versis Fads</a></div>
 </nav>
 
 

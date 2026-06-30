@@ -2,15 +2,15 @@
 title: "[[manalive]] — Chapter 3 (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manalive-(Chesterton)"
+parentWork: "works/manalive-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manalive-(Chesterton)">manalive</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manalive/Chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manalive/Chapter_09/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manalive-(chesterton)">manalive</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manalive/chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/manalive/chapter_09/part_05">part 05 ›</a></div>
 </nav>
 
 

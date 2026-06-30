@@ -2,15 +2,15 @@
 title: "[[THE PICCOLOMINI]] — Act II, Scene 16"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-PICCOLOMINI-(Coleridge)"
+parentWork: "works/the-piccolomini-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-PICCOLOMINI-(Coleridge)">Piccolomini</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/Piccolomini/Act_2/Scene_15">‹ Scene 15</a><a class="ex-next" href="/Testi/Coleridge/Plays/Piccolomini/Act_3/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-piccolomini-(coleridge)">Piccolomini</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/piccolomini/act_2/scene_15">‹ Scene 15</a><a class="ex-next" href="/testi/coleridge/plays/piccolomini/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

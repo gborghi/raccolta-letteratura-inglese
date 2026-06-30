@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Thirty-Years'-War"></div>
+<div class="concept-works" data-slug="historical-references/thirty-years'-war"></div>
 
 #graph/histref

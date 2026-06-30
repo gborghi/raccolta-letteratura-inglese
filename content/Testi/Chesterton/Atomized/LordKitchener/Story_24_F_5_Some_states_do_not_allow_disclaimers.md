@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.5.  Some states do not allow disclaimers of certain implied"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_23_F_4_Except_for_the_limited_right_of_repl">‹ Story 23 F 4 Except for the limited right of repl</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_25_F_6_INDEMNITY_You_agree_to_indemnify_and">Story 25 F 6 INDEMNITY You agree to indemnify and ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_23_f_4_except_for_the_limited_right_of_repl">‹ Story 23 F 4 Except for the limited right of repl</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_25_f_6_indemnity_you_agree_to_indemnify_and">Story 25 F 6 INDEMNITY You agree to indemnify and ›</a></div>
 </nav>
 
 

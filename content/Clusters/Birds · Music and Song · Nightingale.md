@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Birds-·-Music-and-Song-·-Nightingale"></div>
+<div class="concept-works" data-slug="clusters/birds-·-music-and-song-·-nightingale"></div>

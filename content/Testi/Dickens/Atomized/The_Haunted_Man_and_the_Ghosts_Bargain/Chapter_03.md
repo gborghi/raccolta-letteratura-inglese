@@ -2,15 +2,15 @@
 title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 3"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
+parentWork: "works/the-haunted-man-and-the-ghost's-bargain-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)">The Haunted Man and the Ghosts Bargain</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02">‹ Chapter 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-haunted-man-and-the-ghost's-bargain-(dickens)">The Haunted Man and the Ghosts Bargain</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_02">‹ Chapter 02</a><a class="ex-next" href="/testi/dickens/atomized/the_haunted_man_and_the_ghosts_bargain/chapter_01/part_01">part 01 ›</a></div>
 </nav>
 
 

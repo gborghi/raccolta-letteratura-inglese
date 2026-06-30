@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lord-Arthur-Savile"></div>
+<div class="concept-works" data-slug="characters/lord-arthur-savile"></div>
 
 #graph/character

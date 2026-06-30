@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Spiritual-Emptiness-·-Waste-Land-(Sterility)-·-Greek-Tragedy"></div>
+<div class="concept-works" data-slug="clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy"></div>

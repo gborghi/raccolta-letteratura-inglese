@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Dreams-·-Moon"></div>
+<div class="concept-works" data-slug="clusters/dreams-·-moon"></div>

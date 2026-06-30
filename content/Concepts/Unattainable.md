@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Unattainable"></div>
+<div class="concept-works" data-slug="concepts/unattainable"></div>
 
 #graph/concept

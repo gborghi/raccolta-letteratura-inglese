@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Dream of MacIan"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_14_A_Museum_of_Souls">‹ Story 14 A Museum of Souls</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_16_The_Dream_of_Turnbull">Story 16 The Dream of Turnbull ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_14_a_museum_of_souls">‹ Story 14 A Museum of Souls</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_16_the_dream_of_turnbull">Story 16 The Dream of Turnbull ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Individualism"></div>
+<div class="concept-works" data-slug="concepts/individualism"></div>
 
 #graph/concept

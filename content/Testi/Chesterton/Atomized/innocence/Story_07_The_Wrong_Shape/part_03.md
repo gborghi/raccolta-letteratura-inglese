@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Wrong Shape (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_07_The_Wrong_Shape/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_07_The_Wrong_Shape/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape/part_04">part 04 ›</a></div>
 </nav>
 
 

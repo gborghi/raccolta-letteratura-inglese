@@ -2,14 +2,14 @@
 title: "The Fisherman and his [[Soul]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Fisherman-and-his-Soul-(Wilde)"
+parentWork: "works/the-fisherman-and-his-soul-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Fisherman-and-his-Soul-(Wilde)">018 The Fisherman and his Soul</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-fisherman-and-his-soul-(wilde)">018 The Fisherman and his Soul</a></div>
 </nav>
 
 

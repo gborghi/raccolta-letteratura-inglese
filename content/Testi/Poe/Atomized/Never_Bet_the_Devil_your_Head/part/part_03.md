@@ -2,15 +2,15 @@
 title: "[[Never Bet the Devil your Head]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Never-Bet-the-Devil-your-Head-(Poe)"
+parentWork: "works/never-bet-the-devil-your-head-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Never-Bet-the-Devil-your-Head-(Poe)">Never Bet the Devil your Head</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Never_Bet_the_Devil_your_Head/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Never_Bet_the_Devil_your_Head/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/never-bet-the-devil-your-head-(poe)">Never Bet the Devil your Head</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/never_bet_the_devil_your_head/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/never_bet_the_devil_your_head/part/part_04">part 04 ›</a></div>
 </nav>
 
 

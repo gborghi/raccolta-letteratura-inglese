@@ -49,15 +49,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Act_1 · Scene_1](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_1/Scene_1)
-- [Act_1 · Scene_2](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_1/Scene_2)
-- [Act_2 · Scene_1](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_2/Scene_1)
-- [Act_3 · Scene_1](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_3/Scene_1)
-- [Act_4 · Scene_1](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_4/Scene_1)
-- [Act_4 · Scene_2](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_4/Scene_2)
-- [Act_4 · Scene_3](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_4/Scene_3)
-- [Act_5 · Scene_1](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_5/Scene_1)
-- [Act_5 · Scene_2](/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_5/Scene_2)
+- [Act_1 · Scene_1](/testi/shakespeare/plays/loves_labours_lost/act_1/scene_1)
+- [Act_1 · Scene_2](/testi/shakespeare/plays/loves_labours_lost/act_1/scene_2)
+- [Act_2 · Scene_1](/testi/shakespeare/plays/loves_labours_lost/act_2/scene_1)
+- [Act_3 · Scene_1](/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1)
+- [Act_4 · Scene_1](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_1)
+- [Act_4 · Scene_2](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_2)
+- [Act_4 · Scene_3](/testi/shakespeare/plays/loves_labours_lost/act_4/scene_3)
+- [Act_5 · Scene_1](/testi/shakespeare/plays/loves_labours_lost/act_5/scene_1)
+- [Act_5 · Scene_2](/testi/shakespeare/plays/loves_labours_lost/act_5/scene_2)
 
 
 ## Testo integrale / Full text

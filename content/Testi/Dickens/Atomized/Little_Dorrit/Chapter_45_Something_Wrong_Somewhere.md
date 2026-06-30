@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 5: Something Wrong Somewhere"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_44_A_Letter_from_Little_Dorrit">‹ Chapter 44 A Letter from Little Dorrit</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_46_Something_Right_Somewhere">Chapter 46 Something Right Somewhere ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_44_a_letter_from_little_dorrit">‹ Chapter 44 A Letter from Little Dorrit</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_46_something_right_somewhere">Chapter 46 Something Right Somewhere ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — THE MAN WITH THE BLACK BAG"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_15_R_WALTER_WINDRUSH_the_eminent_and_eccent">‹ Story 15 R WALTER WINDRUSH the eminent and eccent</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN">Story 17 THE TRESPASSER IN THE GARDEN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_15_r_walter_windrush_the_eminent_and_eccent">‹ Story 15 R WALTER WINDRUSH the eminent and eccent</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_17_the_trespasser_in_the_garden">Story 17 THE TRESPASSER IN THE GARDEN ›</a></div>
 </nav>
 
 

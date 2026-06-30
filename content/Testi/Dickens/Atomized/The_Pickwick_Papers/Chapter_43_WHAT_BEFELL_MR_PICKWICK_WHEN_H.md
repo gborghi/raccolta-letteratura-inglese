@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 41: WHAT BEFELL MR. [[Pickwick|PICKWICK]] WHEN HE GOT INTO THE FLEET; WHAT"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_42_INTRODUCES_MR_PICKWICK_TO_A_NE">‹ Chapter 42 INTRODUCES MR PICKWICK TO A NE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_44_ILLUSTRATIVE_LIKE_THE_PRECEDIN">Chapter 44 ILLUSTRATIVE LIKE THE PRECEDIN ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_42_introduces_mr_pickwick_to_a_ne">‹ Chapter 42 INTRODUCES MR PICKWICK TO A NE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_44_illustrative_like_the_precedin">Chapter 44 ILLUSTRATIVE LIKE THE PRECEDIN ›</a></div>
 </nav>
 
 

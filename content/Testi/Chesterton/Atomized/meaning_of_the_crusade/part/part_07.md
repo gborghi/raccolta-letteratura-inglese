@@ -2,15 +2,15 @@
 title: "meaning of the crusade (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/meaning-of-the-crusade-(Chesterton)"
+parentWork: "works/meaning-of-the-crusade-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/meaning-of-the-crusade-(Chesterton)">meaning of the crusade</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/meaning_of_the_crusade/part/part_06">‹ part 06</a><span></span></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/meaning-of-the-crusade-(chesterton)">meaning of the crusade</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/meaning_of_the_crusade/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
 

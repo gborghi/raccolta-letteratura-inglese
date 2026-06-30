@@ -2,15 +2,15 @@
 title: "secret Fr Brown — The Secret Of [[Father Brown]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_10_The_Secret_Of_Flambeau">‹ Story 10 The Secret Of Flambeau</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_01_The_Secret_Of_Father_Brown/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_10_the_secret_of_flambeau">‹ Story 10 The Secret Of Flambeau</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_secret_of_father_brown/part_02">part 02 ›</a></div>
 </nav>
 
 

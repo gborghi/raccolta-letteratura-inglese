@@ -2,15 +2,15 @@
 title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
+parentWork: "works/incredulity-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_04_The_Miracle_of_Moon_Crescent">‹ Story 04 The Miracle of Moon Crescent</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_06_The_Dagger_with_Wings">Story 06 The Dagger with Wings ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_04_the_miracle_of_moon_crescent">‹ Story 04 The Miracle of Moon Crescent</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_06_the_dagger_with_wings">Story 06 The Dagger with Wings ›</a></div>
 </nav>
 
 

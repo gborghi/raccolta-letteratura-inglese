@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Regency-Georgian-England"></div>
+<div class="concept-works" data-slug="historical-references/regency-georgian-england"></div>
 
 #graph/histref

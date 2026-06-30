@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE]]"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_09_THE_HIGHER_CRITICISM_AND_MR_HI">‹ Chapter 09 THE HIGHER CRITICISM AND MR HI</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_11_VEGETARIANISM_IN_THE_DRAWING_R">Chapter 11 VEGETARIANISM IN THE DRAWING R ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_09_the_higher_criticism_and_mr_hi">‹ Chapter 09 THE HIGHER CRITICISM AND MR HI</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_11_vegetarianism_in_the_drawing_r">Chapter 11 VEGETARIANISM IN THE DRAWING R ›</a></div>
 </nav>
 
 

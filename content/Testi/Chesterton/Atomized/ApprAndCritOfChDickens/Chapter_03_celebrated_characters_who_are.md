@@ -2,15 +2,15 @@
 title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
+parentWork: "works/apprandcritofchdickens-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_desire_to_say_as_little_as_pos">‹ Chapter 02 desire to say as little as pos</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_desire_to_say_as_little_as_pos">‹ Chapter 02 desire to say as little as pos</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_01_page/part_01">part 01 ›</a></div>
 </nav>
 
 

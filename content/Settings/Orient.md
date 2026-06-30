@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Orient"></div>
+<div class="concept-works" data-slug="settings/orient"></div>
 
 #graph/setting

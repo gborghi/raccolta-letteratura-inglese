@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — C.  The Project Gutenberg Literary Archive Foundation (\"the Foundation\""
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_04_B_Project_Gutenberg_is_a_registered_trad">‹ Story 04 B Project Gutenberg is a registered trad</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_06_D_The_copyright_laws_of_the_place_where">Story 06 D The copyright laws of the place where ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_04_b_project_gutenberg_is_a_registered_trad">‹ Story 04 B Project Gutenberg is a registered trad</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_06_d_the_copyright_laws_of_the_place_where">Story 06 D The copyright laws of the place where ›</a></div>
 </nav>
 
 

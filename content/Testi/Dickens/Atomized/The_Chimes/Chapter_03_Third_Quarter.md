@@ -2,15 +2,15 @@
 title: "The Chimes — Chapter 3: Third Quarter"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Chimes-(Dickens)"
+parentWork: "works/the-chimes-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Chimes-(Dickens)">The Chimes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter">‹ Chapter 02 The Second Quarter</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter">Chapter 04 Fourth Quarter ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-chimes-(dickens)">The Chimes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_chimes/chapter_02_the_second_quarter">‹ Chapter 02 The Second Quarter</a><a class="ex-next" href="/testi/dickens/atomized/the_chimes/chapter_04_fourth_quarter">Chapter 04 Fourth Quarter ›</a></div>
 </nav>
 
 

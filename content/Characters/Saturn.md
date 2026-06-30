@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Saturn"></div>
+<div class="concept-works" data-slug="characters/saturn"></div>
 
 #graph/character

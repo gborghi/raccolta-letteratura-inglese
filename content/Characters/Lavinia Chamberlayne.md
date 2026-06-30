@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lavinia-Chamberlayne"></div>
+<div class="concept-works" data-slug="characters/lavinia-chamberlayne"></div>
 
 #graph/character

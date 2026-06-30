@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Order-vs-Chaos-·-Historical-Novel-·-Fanaticism"></div>
+<div class="concept-works" data-slug="clusters/order-vs-chaos-·-historical-novel-·-fanaticism"></div>

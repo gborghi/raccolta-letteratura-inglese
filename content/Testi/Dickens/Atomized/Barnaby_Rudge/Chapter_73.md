@@ -2,15 +2,15 @@
 title: "[[Barnaby Rudge]] — Chapter 73"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Barnaby-Rudge-(Dickens)"
+parentWork: "works/barnaby-rudge-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_72">‹ Chapter 72</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_74">Chapter 74 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_72">‹ Chapter 72</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_74">Chapter 74 ›</a></div>
 </nav>
 
 

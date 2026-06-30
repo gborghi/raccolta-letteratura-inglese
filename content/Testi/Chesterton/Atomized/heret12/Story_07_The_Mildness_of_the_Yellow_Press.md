@@ -2,15 +2,15 @@
 title: "[[heret12]] — The Mildness of the Yellow Press"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_06_Omar_and_the_Sacred_Vine">‹ Story 06 Omar and the Sacred Vine</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_08_The_Moods_of_Mr_George_Moore">Story 08 The Moods of Mr George Moore ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_06_omar_and_the_sacred_vine">‹ Story 06 Omar and the Sacred Vine</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_08_the_moods_of_mr_george_moore">Story 08 The Moods of Mr George Moore ›</a></div>
 </nav>
 
 

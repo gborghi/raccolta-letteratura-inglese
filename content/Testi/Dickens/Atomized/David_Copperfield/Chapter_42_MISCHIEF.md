@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 42: MISCHIEF"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_41_DORAS_AUNTS">‹ Chapter 41 DORAS AUNTS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_43_ANOTHER_RETROSPECT">Chapter 43 ANOTHER RETROSPECT ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_41_doras_aunts">‹ Chapter 41 DORAS AUNTS</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_43_another_retrospect">Chapter 43 ANOTHER RETROSPECT ›</a></div>
 </nav>
 
 

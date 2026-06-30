@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 3: On the [[Road]] (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_43_On_the_Road/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_45_Something_Wrong_Somewhere/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_43_on_the_road/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_45_something_wrong_somewhere/part_01">part 01 ›</a></div>
 </nav>
 
 

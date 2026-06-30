@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Martin-Chuzzlewit"></div>
+<div class="concept-works" data-slug="characters/martin-chuzzlewit"></div>
 
 #graph/character

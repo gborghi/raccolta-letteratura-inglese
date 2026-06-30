@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/House-Mansion"></div>
+<div class="concept-works" data-slug="motifs/house-mansion"></div>
 
 #graph/motif

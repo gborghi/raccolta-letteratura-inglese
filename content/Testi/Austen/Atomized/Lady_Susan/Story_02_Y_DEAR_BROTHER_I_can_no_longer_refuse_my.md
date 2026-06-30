@@ -2,15 +2,15 @@
 title: "[[Lady Susan]] — Y DEAR BROTHER,—I can no longer refuse myself the pleasure of"
 author: "Austen"
 unitType: story
-parentWork: "Works/Lady-Susan-(Austen)"
+parentWork: "works/lady-susan-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Lady_Susan/Story_01_ADY_SUSAN">‹ Story 01 ADY SUSAN</a><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_03_ATHERINE_VERNON">Story 03 ATHERINE VERNON ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/lady-susan-(austen)">Lady Susan</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/lady_susan/story_01_ady_susan">‹ Story 01 ADY SUSAN</a><a class="ex-next" href="/testi/austen/atomized/lady_susan/story_03_atherine_vernon">Story 03 ATHERINE VERNON ›</a></div>
 </nav>
 
 

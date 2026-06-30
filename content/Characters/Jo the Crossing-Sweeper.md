@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Jo-the-Crossing-Sweeper"></div>
+<div class="concept-works" data-slug="characters/jo-the-crossing-sweeper"></div>
 
 #graph/character

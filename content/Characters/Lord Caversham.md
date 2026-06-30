@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lord-Caversham"></div>
+<div class="concept-works" data-slug="characters/lord-caversham"></div>
 
 #graph/character

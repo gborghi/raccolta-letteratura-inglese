@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Ship-·-Endurance"></div>
+<div class="concept-works" data-slug="clusters/ship-·-endurance"></div>

@@ -2,14 +2,14 @@
 title: "[[Berenice]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Berenice-(Poe)"
+parentWork: "works/berenice-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Berenice-(Poe)">Berenice</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/berenice-(poe)">Berenice</a></div>
 </nav>
 
 

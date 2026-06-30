@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Self-Sacrifice"></div>
+<div class="concept-works" data-slug="concepts/self-sacrifice"></div>
 
 #graph/concept

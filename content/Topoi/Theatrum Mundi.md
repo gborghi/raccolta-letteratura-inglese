@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Theatrum-Mundi"></div>
+<div class="concept-works" data-slug="topoi/theatrum-mundi"></div>
 
 #graph/topos

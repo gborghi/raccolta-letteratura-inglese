@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Money-and-Gold-·-Poverty-·-Imprisonment"></div>
+<div class="concept-works" data-slug="clusters/money-and-gold-·-poverty-·-imprisonment"></div>

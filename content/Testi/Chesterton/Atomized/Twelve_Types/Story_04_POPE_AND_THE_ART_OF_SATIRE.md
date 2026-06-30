@@ -2,15 +2,15 @@
 title: "Twelve Types — POPE AND THE ART OF [[Satire|SATIRE]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Twelve-Types-(Chesterton)"
+parentWork: "works/twelve-types-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_03_THE_OPTIMISM_OF_BYRON">‹ Story 03 THE OPTIMISM OF BYRON</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_05_FRANCIS">Story 05 FRANCIS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/twelve-types-(chesterton)">Twelve Types</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/twelve_types/story_03_the_optimism_of_byron">‹ Story 03 THE OPTIMISM OF BYRON</a><a class="ex-next" href="/testi/chesterton/atomized/twelve_types/story_05_francis">Story 05 FRANCIS ›</a></div>
 </nav>
 
 

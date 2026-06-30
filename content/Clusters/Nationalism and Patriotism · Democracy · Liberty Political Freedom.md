@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Nationalism-and-Patriotism-·-Democracy-·-Liberty-Political-Freedom"></div>
+<div class="concept-works" data-slug="clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom"></div>

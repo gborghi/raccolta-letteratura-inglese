@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Mockingbird"></div>
+<div class="concept-works" data-slug="motifs/mockingbird"></div>
 
 #graph/motif

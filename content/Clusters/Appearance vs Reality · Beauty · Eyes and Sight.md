@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Appearance-vs-Reality-·-Beauty-·-Eyes-and-Sight"></div>
+<div class="concept-works" data-slug="clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight"></div>

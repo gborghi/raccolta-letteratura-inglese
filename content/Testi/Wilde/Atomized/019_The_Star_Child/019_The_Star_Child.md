@@ -2,14 +2,14 @@
 title: "The [[Star-Child]]"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Star-Child-(Wilde)"
+parentWork: "works/the-star-child-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Star-Child-(Wilde)">019 The Star Child</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-star-child-(wilde)">019 The Star Child</a></div>
 </nav>
 
 

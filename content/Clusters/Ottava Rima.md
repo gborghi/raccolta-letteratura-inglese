@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Ottava-Rima"></div>
+<div class="concept-works" data-slug="clusters/ottava-rima"></div>

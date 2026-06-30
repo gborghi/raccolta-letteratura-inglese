@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Other Philosopher"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_05_The_Peacemaker">‹ Story 05 The Peacemaker</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_07_The_Village_of_Grassley_in_the_Hole">Story 07 The Village of Grassley in the Hole ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_05_the_peacemaker">‹ Story 05 The Peacemaker</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_07_the_village_of_grassley_in_the_hole">Story 07 The Village of Grassley in the Hole ›</a></div>
 </nav>
 
 

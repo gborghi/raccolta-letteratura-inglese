@@ -2,14 +2,14 @@
 title: "The Taming of the Shrew — Act V, Scene 1 — exchange (VINCENTIO) [3]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)"
+parentWork: "works/the-taming-of-the-shrew-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-taming-of-the-shrew-(shakespeare)">The Taming of the Shrew</a></div>
 </nav>
 
 

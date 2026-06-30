@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE BOTTOMLESS [[Well|WELL]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_05_THE_BOTTOMLESS_WELL/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_04_the_soul_of_the_schoolboy/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_05_the_bottomless_well/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Loves Labours Lost — Act II, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)"
+parentWork: "works/love’s-labour’s-lost-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)">Loves Labours Lost</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_3/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/love’s-labour’s-lost-(shakespeare)">Loves Labours Lost</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/loves_labours_lost/act_1/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/loves_labours_lost/act_3/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

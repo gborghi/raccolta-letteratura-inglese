@@ -2,15 +2,15 @@
 title: "The Man Who Knew Too Much — The Vanishing Prince (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
+parentWork: "works/the-man-who-knew-too-much-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_02_The_Vanishing_Prince/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_03_The_Soul_of_the_Schoolboy/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_02_the_vanishing_prince/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_03_the_soul_of_the_schoolboy/part_01">part 01 ›</a></div>
 </nav>
 
 

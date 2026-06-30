@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Clara-Peggotty"></div>
+<div class="concept-works" data-slug="characters/clara-peggotty"></div>
 
 #graph/character

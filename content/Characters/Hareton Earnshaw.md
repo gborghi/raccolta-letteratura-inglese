@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hareton-Earnshaw"></div>
+<div class="concept-works" data-slug="characters/hareton-earnshaw"></div>
 
 #graph/character

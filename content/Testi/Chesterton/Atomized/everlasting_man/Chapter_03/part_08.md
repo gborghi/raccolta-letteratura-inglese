@@ -2,15 +2,15 @@
 title: "everlasting man — Part 2 (part 8)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/everlasting-man-(Chesterton)"
+parentWork: "works/everlasting-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/everlasting-man-(Chesterton)">everlasting man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/everlasting_man/Chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/everlasting_man/Chapter_03/part_09">part 09 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">everlasting man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/everlasting_man/chapter_03/part_09">part 09 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Bret Harte"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_12_The_Position_Of_Sir_Walter_Scott">‹ Story 12 The Position Of Sir Walter Scott</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_14_Alfred_The_Great">Story 14 Alfred The Great ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_12_the_position_of_sir_walter_scott">‹ Story 12 The Position Of Sir Walter Scott</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_14_alfred_the_great">Story 14 Alfred The Great ›</a></div>
 </nav>
 
 

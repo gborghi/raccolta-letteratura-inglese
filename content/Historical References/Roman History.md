@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Roman-History"></div>
+<div class="concept-works" data-slug="historical-references/roman-history"></div>
 
 #graph/histref

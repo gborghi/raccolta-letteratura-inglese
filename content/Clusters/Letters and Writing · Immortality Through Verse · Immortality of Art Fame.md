@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Letters-and-Writing-·-Immortality-Through-Verse-·-Immortality-of-Art-Fame"></div>
+<div class="concept-works" data-slug="clusters/letters-and-writing-·-immortality-through-verse-·-immortality-of-art-fame"></div>

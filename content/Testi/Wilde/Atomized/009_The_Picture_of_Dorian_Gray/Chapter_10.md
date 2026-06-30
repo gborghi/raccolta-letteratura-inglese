@@ -2,15 +2,15 @@
 title: "The Picture of [[Dorian Gray]] — Chapter 9"
 author: "Wilde"
 unitType: chapter
-parentWork: "Works/The-Picture-of-Dorian-Gray-(Wilde)"
+parentWork: "works/the-picture-of-dorian-gray-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Picture-of-Dorian-Gray-(Wilde)">009 The Picture of Dorian Gray</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/009_The_Picture_of_Dorian_Gray/Chapter_09">‹ Chapter 09</a><a class="ex-next" href="/Testi/Wilde/Atomized/009_The_Picture_of_Dorian_Gray/Chapter_11">Chapter 11 ›</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-picture-of-dorian-gray-(wilde)">009 The Picture of Dorian Gray</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/wilde/atomized/009_the_picture_of_dorian_gray/chapter_11">Chapter 11 ›</a></div>
 </nav>
 
 

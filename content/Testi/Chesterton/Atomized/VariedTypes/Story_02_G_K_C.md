@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — G.K.C."
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_01_Published_September_1905">‹ Story 01 Published September 1905</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_03_William_Morris_And_His_School">Story 03 William Morris And His School ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_01_published_september_1905">‹ Story 01 Published September 1905</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_03_william_morris_and_his_school">Story 03 William Morris And His School ›</a></div>
 </nav>
 
 

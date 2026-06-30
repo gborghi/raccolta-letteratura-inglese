@@ -2,15 +2,15 @@
 title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/A-Christmas-Carol-(Dickens)"
+parentWork: "works/a-christmas-carol-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_christmas_carol/chapter_03_the_second_of_the_three_spirit/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/a_christmas_carol/chapter_04_the_last_of_the_spirits/part_02">part 02 ›</a></div>
 </nav>
 
 

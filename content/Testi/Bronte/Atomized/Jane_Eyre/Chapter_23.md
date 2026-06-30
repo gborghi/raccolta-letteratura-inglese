@@ -2,15 +2,15 @@
 title: "[[Jane Eyre]] — Chapter 23"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Jane-Eyre-(Bronte)"
+parentWork: "works/jane-eyre-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_22">‹ Chapter 22</a><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_24">Chapter 24 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/jane-eyre-(bronte)">Jane Eyre</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/jane_eyre/chapter_22">‹ Chapter 22</a><a class="ex-next" href="/testi/bronte/atomized/jane_eyre/chapter_24">Chapter 24 ›</a></div>
 </nav>
 
 

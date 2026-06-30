@@ -2,15 +2,15 @@
 title: "What is Right With the World (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/What-is-Right-With-the-World-(Chesterton)"
+parentWork: "works/what-is-right-with-the-world-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/What-is-Right-With-the-World-(Chesterton)">What is Right With the World</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/What_is_Right_With_the_World/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/what-is-right-with-the-world-(chesterton)">What is Right With the World</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/what_is_right_with_the_world/part/part_02">part 02 ›</a></div>
 </nav>
 
 

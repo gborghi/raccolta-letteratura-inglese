@@ -2,14 +2,14 @@
 title: "[[Mystification]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Mystification-(Poe)"
+parentWork: "works/mystification-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Mystification-(Poe)">Mystification</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/mystification-(poe)">Mystification</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — R. PETER PRICE, the private inquiry agent, did not glow with that (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_27_R_PETER_PRICE_the_private_inquiry_agent/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_28_THE_THIEF_ON_TRIAL/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_27_r_peter_price_the_private_inquiry_agent/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_28_the_thief_on_trial/part_01">part 01 ›</a></div>
 </nav>
 
 

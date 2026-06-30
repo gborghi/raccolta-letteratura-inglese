@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 35: THIRTY FIVE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_34_THIRTY_FOUR">‹ Chapter 34 THIRTY FOUR</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_36_THIRTY_SIX">Chapter 36 THIRTY SIX ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_34_thirty_four">‹ Chapter 34 THIRTY FOUR</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six">Chapter 36 THIRTY SIX ›</a></div>
 </nav>
 
 

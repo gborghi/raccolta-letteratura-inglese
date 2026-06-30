@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — A.  By reading or using any part of this Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER">‹ Story 02 ORD KITCHENER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_04_B_Project_Gutenberg_is_a_registered_trad">Story 04 B Project Gutenberg is a registered trad ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_02_ord_kitchener">‹ Story 02 ORD KITCHENER</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_04_b_project_gutenberg_is_a_registered_trad">Story 04 B Project Gutenberg is a registered trad ›</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "everlasting man"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/everlasting-man-(Chesterton)"
+parentWork: "works/everlasting-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/everlasting-man-(Chesterton)">everlasting man</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/everlasting-man-(chesterton)">everlasting man</a></div>
 </nav>
 
 

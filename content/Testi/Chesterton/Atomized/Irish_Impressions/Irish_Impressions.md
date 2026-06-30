@@ -2,14 +2,14 @@
 title: "Irish Impressions"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Irish-Impressions-(Chesterton)"
+parentWork: "works/irish-impressions-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/irish-impressions-(chesterton)">Irish Impressions</a></div>
 </nav>
 
 

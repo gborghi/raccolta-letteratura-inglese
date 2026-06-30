@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN">‹ Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_15_COMPRISING_A_BRIEF_DESCRIPTION">Chapter 15 COMPRISING A BRIEF DESCRIPTION ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_13_descriptive_of_a_very_importan">‹ Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_15_comprising_a_brief_description">Chapter 15 COMPRISING A BRIEF DESCRIPTION ›</a></div>
 </nav>
 
 

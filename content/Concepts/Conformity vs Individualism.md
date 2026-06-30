@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Conformity-vs-Individualism"></div>
+<div class="concept-works" data-slug="concepts/conformity-vs-individualism"></div>
 
 #graph/concept

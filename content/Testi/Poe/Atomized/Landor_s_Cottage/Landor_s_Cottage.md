@@ -2,14 +2,14 @@
 title: "[[Landor's Cottage]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Landor's-Cottage-(Poe)"
+parentWork: "works/landor's-cottage-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Landor's-Cottage-(Poe)">Landor s Cottage</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/landor's-cottage-(poe)">Landor s Cottage</a></div>
 </nav>
 
 

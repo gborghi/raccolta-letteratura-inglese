@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — My Six Conversions"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_16_Vi_The_Case_Of_Spain">‹ Story 16 Vi The Case Of Spain</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_18_Vii_The_Well_And_The_Shallows">Story 18 Vii The Well And The Shallows ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_16_vi_the_case_of_spain">‹ Story 16 Vi The Case Of Spain</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_18_vii_the_well_and_the_shallows">Story 18 Vii The Well And The Shallows ›</a></div>
 </nav>
 
 

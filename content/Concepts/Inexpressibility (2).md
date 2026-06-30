@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Inexpressibility-(2)"></div>
+<div class="concept-works" data-slug="concepts/inexpressibility-(2)"></div>
 
 #graph/concept

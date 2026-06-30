@@ -2,14 +2,14 @@
 title: "[[Pride and Prejudice]]"
 author: "Austen"
 unitType: work
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Feigned-Madness"></div>
+<div class="concept-works" data-slug="motifs/feigned-madness"></div>
 
 #graph/motif

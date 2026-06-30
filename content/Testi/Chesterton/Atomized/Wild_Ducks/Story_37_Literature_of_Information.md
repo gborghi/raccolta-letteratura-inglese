@@ -2,15 +2,15 @@
 title: "Wild Ducks — Literature of Information"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_36_Ruskin_The_Humorist">‹ Story 36 Ruskin The Humorist</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_38_Eulogy_of_Robin_Hood">Story 38 Eulogy of Robin Hood ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_36_ruskin_the_humorist">‹ Story 36 Ruskin The Humorist</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_38_eulogy_of_robin_hood">Story 38 Eulogy of Robin Hood ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "De Profundis (part 1)"
 author: "Wilde"
 unitType: excerpt
-parentWork: "Works/De-Profundis-(Wilde)"
+parentWork: "works/de-profundis-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/De-Profundis-(Wilde)">029 De Profundis</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Wilde/Atomized/029_De_Profundis/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/de-profundis-(wilde)">029 De Profundis</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/wilde/atomized/029_de_profundis/part/part_02">part 02 ›</a></div>
 </nav>
 
 

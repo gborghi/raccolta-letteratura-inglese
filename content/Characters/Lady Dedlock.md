@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lady-Dedlock"></div>
+<div class="concept-works" data-slug="characters/lady-dedlock"></div>
 
 #graph/character

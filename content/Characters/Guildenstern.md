@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Guildenstern"></div>
+<div class="concept-works" data-slug="characters/guildenstern"></div>
 
 #graph/character

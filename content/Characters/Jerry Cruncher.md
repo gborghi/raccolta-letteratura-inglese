@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Jerry-Cruncher"></div>
+<div class="concept-works" data-slug="characters/jerry-cruncher"></div>
 
 #graph/character

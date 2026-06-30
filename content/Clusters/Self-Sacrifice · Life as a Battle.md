@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Self-Sacrifice-·-Life-as-a-Battle"></div>
+<div class="concept-works" data-slug="clusters/self-sacrifice-·-life-as-a-battle"></div>

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Memory-and-Time"></div>
+<div class="concept-works" data-slug="concepts/memory-and-time"></div>
 
 #graph/concept

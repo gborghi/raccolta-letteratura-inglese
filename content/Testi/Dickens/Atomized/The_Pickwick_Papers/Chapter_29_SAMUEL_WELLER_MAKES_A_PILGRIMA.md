@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_28_WHICH_CONTAINS_A_BRIEF_ACCOUNT">‹ Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_30_A_GOOD_HUMOURED_CHRISTMAS_CHAP">Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_which_contains_a_brief_account">‹ Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_a_good_humoured_christmas_chap">Chapter 30 A GOOD HUMOURED CHRISTMAS CHAP ›</a></div>
 </nav>
 
 

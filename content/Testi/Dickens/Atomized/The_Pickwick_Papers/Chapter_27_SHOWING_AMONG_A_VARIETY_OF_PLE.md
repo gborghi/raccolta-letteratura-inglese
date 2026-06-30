@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_26_WHEREIN_MR_PETER_MAGNUS_GROWS">‹ Chapter 26 WHEREIN MR PETER MAGNUS GROWS</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_28_WHICH_CONTAINS_A_BRIEF_ACCOUNT">Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_26_wherein_mr_peter_magnus_grows">‹ Chapter 26 WHEREIN MR PETER MAGNUS GROWS</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_28_which_contains_a_brief_account">Chapter 28 WHICH CONTAINS A BRIEF ACCOUNT ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Tremendous Trifles — Chapter 38"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/Tremendous-Trifles-(Chesterton)"
+parentWork: "works/tremendous-trifles-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Tremendous-Trifles-(Chesterton)">Tremendous Trifles</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Tremendous_Trifles/Chapter_38">‹ Chapter 38</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Tremendous_Trifles/Chapter_40">Chapter 40 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tremendous-trifles-(chesterton)">Tremendous Trifles</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/tremendous_trifles/chapter_38">‹ Chapter 38</a><a class="ex-next" href="/testi/chesterton/atomized/tremendous_trifles/chapter_40">Chapter 40 ›</a></div>
 </nav>
 
 

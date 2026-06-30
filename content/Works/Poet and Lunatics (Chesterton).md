@@ -34,14 +34,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 THE FANTASTIC FRIENDS](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_01_THE_FANTASTIC_FRIENDS)
-- [Story 02 THE YELLOW BIRD](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_02_THE_YELLOW_BIRD)
-- [Story 03 THE SHADOW OF THE SHARK](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK)
-- [Story 04 THE CRIME OF GABRIEL GALE](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_04_THE_CRIME_OF_GABRIEL_GALE)
-- [Story 05 THE FINGER OF STONE](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_05_THE_FINGER_OF_STONE)
-- [Story 06 THE HOUSE OF THE PEACOCK](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_06_THE_HOUSE_OF_THE_PEACOCK)
-- [Story 07 THE PURPLE JEWEL](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL)
-- [Story 08 THE ASYLUM OF ADVENTURE](/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_08_THE_ASYLUM_OF_ADVENTURE)
+- [Story 01 THE FANTASTIC FRIENDS](/testi/chesterton/atomized/poet_and_lunatics/story_01_the_fantastic_friends)
+- [Story 02 THE YELLOW BIRD](/testi/chesterton/atomized/poet_and_lunatics/story_02_the_yellow_bird)
+- [Story 03 THE SHADOW OF THE SHARK](/testi/chesterton/atomized/poet_and_lunatics/story_03_the_shadow_of_the_shark)
+- [Story 04 THE CRIME OF GABRIEL GALE](/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale)
+- [Story 05 THE FINGER OF STONE](/testi/chesterton/atomized/poet_and_lunatics/story_05_the_finger_of_stone)
+- [Story 06 THE HOUSE OF THE PEACOCK](/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock)
+- [Story 07 THE PURPLE JEWEL](/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel)
+- [Story 08 THE ASYLUM OF ADVENTURE](/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure)
 
 ## Testo integrale / Full text
 

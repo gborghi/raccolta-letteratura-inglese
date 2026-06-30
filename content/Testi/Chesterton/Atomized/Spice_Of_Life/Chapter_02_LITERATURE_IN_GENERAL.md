@@ -2,15 +2,15 @@
 title: "Spice Of Life — Part 1: LITERATURE IN GENERAL"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/Spice-Of-Life-(Chesterton)"
+parentWork: "works/spice-of-life-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_01_The_Spice_of_Life">‹ Chapter 01 The Spice of Life</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_03_PARTICULAR_BOOKS_AND_WRITERS">Chapter 03 PARTICULAR BOOKS AND WRITERS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/spice-of-life-(chesterton)">Spice Of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/spice_of_life/chapter_01_the_spice_of_life">‹ Chapter 01 The Spice of Life</a><a class="ex-next" href="/testi/chesterton/atomized/spice_of_life/chapter_03_particular_books_and_writers">Chapter 03 PARTICULAR BOOKS AND WRITERS ›</a></div>
 </nav>
 
 

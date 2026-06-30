@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Vii The Red [[Moon]] Of Meru"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_07_Vi_The_Worst_Crime_In_The_World">‹ Story 07 Vi The Worst Crime In The World</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne">Story 09 Viii The Chief Mourner Of Marne ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_07_vi_the_worst_crime_in_the_world">‹ Story 07 Vi The Worst Crime In The World</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_09_viii_the_chief_mourner_of_marne">Story 09 Viii The Chief Mourner Of Marne ›</a></div>
 </nav>
 
 

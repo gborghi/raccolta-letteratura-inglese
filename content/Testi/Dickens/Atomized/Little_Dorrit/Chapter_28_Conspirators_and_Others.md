@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 25: Conspirators and Others"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_27_Fortune_Telling">‹ Chapter 27 Fortune Telling</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_29_Nobodys_State_of_Mind">Chapter 29 Nobodys State of Mind ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_27_fortune_telling">‹ Chapter 27 Fortune Telling</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_29_nobodys_state_of_mind">Chapter 29 Nobodys State of Mind ›</a></div>
 </nav>
 
 

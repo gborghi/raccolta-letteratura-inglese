@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_30_THIRTY/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_31_THIRTY_ONE/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_30_thirty/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_31_thirty_one/part_01">part 01 ›</a></div>
 </nav>
 
 

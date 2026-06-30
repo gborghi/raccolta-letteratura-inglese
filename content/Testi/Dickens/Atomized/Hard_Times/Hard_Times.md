@@ -2,14 +2,14 @@
 title: "Hard Times"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Hard-Times-(Dickens)"
+parentWork: "works/hard-times-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
 </nav>
 
 

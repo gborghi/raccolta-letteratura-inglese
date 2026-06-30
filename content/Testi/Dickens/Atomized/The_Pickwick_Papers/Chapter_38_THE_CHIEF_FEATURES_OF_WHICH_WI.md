@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_37_IN_WHICH_MR_PICKWICK_THINKS_HE">‹ Chapter 37 IN WHICH MR PICKWICK THINKS HE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_39_HONOURABLY_ACCOUNTS_FOR_MR_WEL">Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_37_in_which_mr_pickwick_thinks_he">‹ Chapter 37 IN WHICH MR PICKWICK THINKS HE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_39_honourably_accounts_for_mr_wel">Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL ›</a></div>
 </nav>
 
 

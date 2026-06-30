@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Sea-(2)"></div>
+<div class="concept-works" data-slug="settings/sea-(2)"></div>
 
 #graph/setting

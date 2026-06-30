@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/John-of-Gaunt"></div>
+<div class="concept-works" data-slug="characters/john-of-gaunt"></div>
 
 #graph/character

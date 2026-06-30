@@ -35,8 +35,8 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 01 canto i](/Testi/Keats/Long/The_Fall_of_Hyperion/Section_01_canto_i)
-- [Section 02 canto ii](/Testi/Keats/Long/The_Fall_of_Hyperion/Section_02_canto_ii)
+- [Section 01 canto i](/testi/keats/long/the_fall_of_hyperion/section_01_canto_i)
+- [Section 02 canto ii](/testi/keats/long/the_fall_of_hyperion/section_02_canto_ii)
 
 
 ## Testo integrale / Full text

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Verona"></div>
+<div class="concept-works" data-slug="settings/verona"></div>
 
 #graph/setting

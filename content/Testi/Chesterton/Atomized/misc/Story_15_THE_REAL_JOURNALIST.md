@@ -2,15 +2,15 @@
 title: "[[misc]] — THE REAL JOURNALIST"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_14_THE_PRIEST_OF_SPRING">‹ Story 14 THE PRIEST OF SPRING</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_16_THE_SENTIMENTAL_SCOT">Story 16 THE SENTIMENTAL SCOT ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_14_the_priest_of_spring">‹ Story 14 THE PRIEST OF SPRING</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_16_the_sentimental_scot">Story 16 THE SENTIMENTAL SCOT ›</a></div>
 </nav>
 
 

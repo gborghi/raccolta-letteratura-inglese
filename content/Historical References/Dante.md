@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Dante"></div>
+<div class="concept-works" data-slug="historical-references/dante"></div>
 
 #graph/histref

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Tom-Gradgrind"></div>
+<div class="concept-works" data-slug="characters/tom-gradgrind"></div>
 
 #graph/character

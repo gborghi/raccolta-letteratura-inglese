@@ -2,14 +2,14 @@
 title: "[[The Professor]]"
 author: "Bronte"
 unitType: work
-parentWork: "Works/The-Professor-(Bronte)"
+parentWork: "works/the-professor-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/the-professor-(bronte)">The Professor</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Henry V]] — Act V, Scene 2"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/HENRY-V-(Shakespeare)"
+parentWork: "works/henry-v-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_V/Act_5/Scene_1">‹ Scene 1</a><span></span></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-v-(shakespeare)">Henry V</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/henry_v/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
 
 

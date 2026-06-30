@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 37: A LITTLE COLD [[Water|WATER]]"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_36_ENTHUSIASM">‹ Chapter 36 ENTHUSIASM</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_38_A_DISSOLUTION_OF_PARTNERSHIP">Chapter 38 A DISSOLUTION OF PARTNERSHIP ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_36_enthusiasm">‹ Chapter 36 ENTHUSIASM</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_38_a_dissolution_of_partnership">Chapter 38 A DISSOLUTION OF PARTNERSHIP ›</a></div>
 </nav>
 
 

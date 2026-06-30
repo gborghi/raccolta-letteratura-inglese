@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duke-of-Exeter"></div>
+<div class="concept-works" data-slug="characters/duke-of-exeter"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_30_A_GOOD_HUMOURED_CHRISTMAS_CHAP/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_31_THE_STORY_OF_THE_GOBLINS_WHO_S/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_30_a_good_humoured_christmas_chap/part_08">‹ part 08</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_the_story_of_the_goblins_who_s/part_02">part 02 ›</a></div>
 </nav>
 
 

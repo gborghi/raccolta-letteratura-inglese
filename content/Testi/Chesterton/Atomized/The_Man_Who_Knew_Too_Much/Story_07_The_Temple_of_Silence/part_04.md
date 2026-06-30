@@ -2,15 +2,15 @@
 title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
+parentWork: "works/the-man-who-knew-too-much-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_07_The_Temple_of_Silence/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_07_The_Temple_of_Silence/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_man_who_knew_too_much/story_07_the_temple_of_silence/part_05">part 05 ›</a></div>
 </nav>
 
 

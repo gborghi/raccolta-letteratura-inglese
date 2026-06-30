@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Calamus-(the-root)"></div>
+<div class="concept-works" data-slug="motifs/calamus-(the-root)"></div>
 
 #graph/motif

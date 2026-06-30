@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Grace-and-Redemption"></div>
+<div class="concept-works" data-slug="concepts/grace-and-redemption"></div>
 
 #graph/concept

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Banquo"></div>
+<div class="concept-works" data-slug="characters/banquo"></div>
 
 #graph/character

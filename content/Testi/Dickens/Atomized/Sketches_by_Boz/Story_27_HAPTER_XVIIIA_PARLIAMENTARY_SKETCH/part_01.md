@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XVIII—A PARLIAMENTARY [[Sketch|SKETCH]] (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_26_HAPTER_XVIITHE_LAST_CAB_DRIVER_AND_THE_F/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_27_HAPTER_XVIIIA_PARLIAMENTARY_SKETCH/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_26_hapter_xviithe_last_cab_driver_and_the_f/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_27_hapter_xviiia_parliamentary_sketch/part_02">part 02 ›</a></div>
 </nav>
 
 

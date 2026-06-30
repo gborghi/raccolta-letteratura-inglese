@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 48: RELATES HOW MR. [[Pickwick|PICKWICK]], WITH THE ASSISTANCE OF SAMUEL (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_49_IS_CHIEFLY_DEVOTED_TO_MATTERS/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_50_RELATES_HOW_MR_PICKWICK_WITH_T/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_49_is_chiefly_devoted_to_matters/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_50_relates_how_mr_pickwick_with_t/part_02">part 02 ›</a></div>
 </nav>
 
 

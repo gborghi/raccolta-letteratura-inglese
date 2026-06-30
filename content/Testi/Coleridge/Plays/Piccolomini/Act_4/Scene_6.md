@@ -2,15 +2,15 @@
 title: "[[THE PICCOLOMINI]] — Act IV, Scene 6"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-PICCOLOMINI-(Coleridge)"
+parentWork: "works/the-piccolomini-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-PICCOLOMINI-(Coleridge)">Piccolomini</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/Piccolomini/Act_4/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Coleridge/Plays/Piccolomini/Act_4/Scene_7">Scene 7 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-piccolomini-(coleridge)">Piccolomini</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/piccolomini/act_4/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/coleridge/plays/piccolomini/act_4/scene_7">Scene 7 ›</a></div>
 </nav>
 
 

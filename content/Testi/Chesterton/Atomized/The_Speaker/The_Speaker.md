@@ -2,14 +2,14 @@
 title: "The Speaker"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/The-Speaker-(Chesterton)"
+parentWork: "works/the-speaker-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Speaker-(Chesterton)">The Speaker</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-speaker-(chesterton)">The Speaker</a></div>
 </nav>
 
 

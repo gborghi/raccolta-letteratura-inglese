@@ -2,15 +2,15 @@
 title: "As You Like It — Act II, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/AS-YOU-LIKE-IT-(Shakespeare)"
+parentWork: "works/as-you-like-it-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/AS-YOU-LIKE-IT-(Shakespeare)">As You Like It</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/As_You_Like_It/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/As_You_Like_It/Act_2/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/as-you-like-it-(shakespeare)">As You Like It</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/as_you_like_it/act_2/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/as_you_like_it/act_2/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

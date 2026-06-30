@@ -2,15 +2,15 @@
 title: "[[MrPond]] — Ring of [[lovers|Lovers]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_05_The_Unmentionable_Man">‹ Story 05 The Unmentionable Man</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour">Story 07 The Terrible Troubadour ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_the_unmentionable_man">‹ Story 05 The Unmentionable Man</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_07_the_terrible_troubadour">Story 07 The Terrible Troubadour ›</a></div>
 </nav>
 
 

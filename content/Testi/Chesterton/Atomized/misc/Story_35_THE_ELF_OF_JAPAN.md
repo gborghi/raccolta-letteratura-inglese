@@ -2,15 +2,15 @@
 title: "[[misc]] — THE ELF OF JAPAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_34_THE_DIVINE_DETECTIVE">‹ Story 34 THE DIVINE DETECTIVE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_36_THE_CHARTERED_LIBERTINE">Story 36 THE CHARTERED LIBERTINE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_34_the_divine_detective">‹ Story 34 THE DIVINE DETECTIVE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_36_the_chartered_libertine">Story 36 THE CHARTERED LIBERTINE ›</a></div>
 </nav>
 
 

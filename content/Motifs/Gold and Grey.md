@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Gold-and-Grey"></div>
+<div class="concept-works" data-slug="motifs/gold-and-grey"></div>
 
 #graph/motif

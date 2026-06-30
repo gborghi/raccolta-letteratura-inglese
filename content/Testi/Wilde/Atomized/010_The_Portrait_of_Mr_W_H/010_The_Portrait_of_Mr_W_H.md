@@ -2,14 +2,14 @@
 title: "The Portrait of Mr. W. H."
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Portrait-of-Mr.-W.-H.-(Wilde)"
+parentWork: "works/the-portrait-of-mr.-w.-h.-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Portrait-of-Mr.-W.-H.-(Wilde)">010 The Portrait of Mr W H</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-portrait-of-mr.-w.-h.-(wilde)">010 The Portrait of Mr W H</a></div>
 </nav>
 
 

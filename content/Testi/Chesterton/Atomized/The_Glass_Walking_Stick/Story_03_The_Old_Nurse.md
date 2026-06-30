@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The Old [[Nurse]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_02_History_In_Stone">‹ Story 02 History In Stone</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_04_Playing_With_An_Idea">Story 04 Playing With An Idea ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_02_history_in_stone">‹ Story 02 History In Stone</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_04_playing_with_an_idea">Story 04 Playing With An Idea ›</a></div>
 </nav>
 
 

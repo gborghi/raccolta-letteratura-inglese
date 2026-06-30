@@ -2,15 +2,15 @@
 title: "[[MrPond]] — The Crime of Captain Gahagan"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_01_The_Three_Horsemen_of_Apocalypse">‹ Story 01 The Three Horsemen of Apocalypse</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_03_When_Doctors_Agree">Story 03 When Doctors Agree ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_01_the_three_horsemen_of_apocalypse">‹ Story 01 The Three Horsemen of Apocalypse</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_03_when_doctors_agree">Story 03 When Doctors Agree ›</a></div>
 </nav>
 
 

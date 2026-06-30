@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Martyr-Saint"></div>
+<div class="concept-works" data-slug="archetypes/martyr-saint"></div>
 
 #graph/archetype

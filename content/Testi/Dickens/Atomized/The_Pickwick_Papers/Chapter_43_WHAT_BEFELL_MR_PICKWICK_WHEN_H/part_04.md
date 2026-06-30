@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 41: WHAT BEFELL MR. [[Pickwick|PICKWICK]] WHEN HE GOT INTO THE FLEET; WHAT (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_43_WHAT_BEFELL_MR_PICKWICK_WHEN_H/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_43_WHAT_BEFELL_MR_PICKWICK_WHEN_H/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_what_befell_mr_pickwick_when_h/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_what_befell_mr_pickwick_when_h/part_05">part 05 ›</a></div>
 </nav>
 
 

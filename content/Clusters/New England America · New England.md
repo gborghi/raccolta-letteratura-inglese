@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/New-England-America-·-New-England"></div>
+<div class="concept-works" data-slug="clusters/new-england-america-·-new-england"></div>

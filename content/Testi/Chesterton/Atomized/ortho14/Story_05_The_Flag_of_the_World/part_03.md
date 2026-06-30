@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The [[Flag]] of the World (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_05_the_flag_of_the_world/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_05_the_flag_of_the_world/part_04">part 04 ›</a></div>
 </nav>
 
 

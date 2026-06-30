@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Daniel-Quilp"></div>
+<div class="concept-works" data-slug="characters/daniel-quilp"></div>
 
 #graph/character

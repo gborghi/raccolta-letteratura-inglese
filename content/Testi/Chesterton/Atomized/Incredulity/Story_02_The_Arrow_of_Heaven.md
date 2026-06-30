@@ -2,15 +2,15 @@
 title: "[[Incredulity]] — The Arrow of Heaven"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Incredulity-(Chesterton)"
+parentWork: "works/incredulity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_01_The_Resurrection_of_Father_Brown">‹ Story 01 The Resurrection of Father Brown</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_03_The_Oracle_of_the_Dog">Story 03 The Oracle of the Dog ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-(chesterton)">Incredulity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown">‹ Story 01 The Resurrection of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog">Story 03 The Oracle of the Dog ›</a></div>
 </nav>
 
 

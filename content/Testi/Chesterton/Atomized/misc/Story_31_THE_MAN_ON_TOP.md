@@ -2,15 +2,15 @@
 title: "[[misc]] — THE MAN ON TOP"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_30_THE_ARCHITECT_OF_SPEARS">‹ Story 30 THE ARCHITECT OF SPEARS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_32_THE_OTHER_KIND_OF_MAN">Story 32 THE OTHER KIND OF MAN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_30_the_architect_of_spears">‹ Story 30 THE ARCHITECT OF SPEARS</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_32_the_other_kind_of_man">Story 32 THE OTHER KIND OF MAN ›</a></div>
 </nav>
 
 

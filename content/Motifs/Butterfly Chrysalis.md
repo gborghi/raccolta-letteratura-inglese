@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Butterfly-Chrysalis"></div>
+<div class="concept-works" data-slug="motifs/butterfly-chrysalis"></div>
 
 #graph/motif

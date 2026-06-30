@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Comradeship-·-Union-·-Hands-Hand-in-Hand"></div>
+<div class="concept-works" data-slug="clusters/comradeship-·-union-·-hands-hand-in-hand"></div>

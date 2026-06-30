@@ -2,15 +2,15 @@
 title: "[[Lamia]] — Part II"
 author: "Keats"
 unitType: section
-parentWork: "Works/Lamia-(Keats)"
+parentWork: "works/lamia-(keats)"
 tags:
   - graph/excerpt
   - author/Keats
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Keats · <a href="/Works/Lamia-(Keats)">Lamia</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Keats/Long/Lamia/Section_01_part_i">‹ Section 01 part i</a><span></span></div>
+<div class="excerpt-crumb">Keats · <a href="/works/lamia-(keats)">Lamia</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/keats/long/lamia/section_01_part_i">‹ Section 01 part i</a><span></span></div>
 </nav>
 
 

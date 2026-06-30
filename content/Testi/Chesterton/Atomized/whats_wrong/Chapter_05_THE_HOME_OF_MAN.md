@@ -2,15 +2,15 @@
 title: "whats wrong — Part 5: THE [[Home|HOME]] OF MAN"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/whats-wrong-(Chesterton)"
+parentWork: "works/whats-wrong-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_04_EDUCATION_OR_THE_MISTAKE_ABOUT">‹ Chapter 04 EDUCATION OR THE MISTAKE ABOUT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_06">Chapter 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whats-wrong-(chesterton)">whats wrong</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whats_wrong/chapter_04_education_or_the_mistake_about">‹ Chapter 04 EDUCATION OR THE MISTAKE ABOUT</a><a class="ex-next" href="/testi/chesterton/atomized/whats_wrong/chapter_06">Chapter 06 ›</a></div>
 </nav>
 
 

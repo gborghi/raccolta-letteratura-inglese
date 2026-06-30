@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Vanitas-·-Contemptus-Mundi-·-Vanity-of-Worldly-Things"></div>
+<div class="concept-works" data-slug="clusters/vanitas-·-contemptus-mundi-·-vanity-of-worldly-things"></div>

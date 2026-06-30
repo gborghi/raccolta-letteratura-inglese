@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE PURPLE [[Jewel|JEWEL]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_06_THE_HOUSE_OF_THE_PEACOCK">‹ Story 06 THE HOUSE OF THE PEACOCK</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_08_THE_ASYLUM_OF_ADVENTURE">Story 08 THE ASYLUM OF ADVENTURE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock">‹ Story 06 THE HOUSE OF THE PEACOCK</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure">Story 08 THE ASYLUM OF ADVENTURE ›</a></div>
 </nav>
 
 

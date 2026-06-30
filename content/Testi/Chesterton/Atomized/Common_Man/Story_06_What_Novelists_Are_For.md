@@ -2,15 +2,15 @@
 title: "[[Common Man]] — What Novelists Are For"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_05_Monsters_And_The_Middle_Ages">‹ Story 05 Monsters And The Middle Ages</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_07_The_Song_Of_Roland">Story 07 The Song Of Roland ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_05_monsters_and_the_middle_ages">‹ Story 05 Monsters And The Middle Ages</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_07_the_song_of_roland">Story 07 The Song Of Roland ›</a></div>
 </nav>
 
 

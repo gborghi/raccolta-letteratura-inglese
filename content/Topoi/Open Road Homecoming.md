@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Open-Road-Homecoming"></div>
+<div class="concept-works" data-slug="topoi/open-road-homecoming"></div>
 
 #graph/topos

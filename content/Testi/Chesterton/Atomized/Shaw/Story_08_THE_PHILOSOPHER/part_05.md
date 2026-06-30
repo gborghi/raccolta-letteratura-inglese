@@ -2,15 +2,15 @@
 title: "[[Shaw]] — THE PHILOSOPHER (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Shaw-(Chesterton)"
+parentWork: "works/shaw-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_08_the_philosopher/part_06">part 06 ›</a></div>
 </nav>
 
 

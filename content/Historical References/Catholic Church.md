@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Catholic-Church"></div>
+<div class="concept-works" data-slug="historical-references/catholic-church"></div>
 
 #graph/histref

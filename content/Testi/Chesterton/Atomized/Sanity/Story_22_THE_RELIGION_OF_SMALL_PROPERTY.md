@@ -2,15 +2,15 @@
 title: "[[Sanity]] — THE RELIGION OF SMALL PROPERTY"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_21_THE_NEED_OF_A_NEW_SPIRIT">‹ Story 21 THE NEED OF A NEW SPIRIT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_23_A_SUMMARY">Story 23 A SUMMARY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_21_the_need_of_a_new_spirit">‹ Story 21 THE NEED OF A NEW SPIRIT</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_23_a_summary">Story 23 A SUMMARY ›</a></div>
 </nav>
 
 

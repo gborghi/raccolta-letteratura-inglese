@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 23: Machinery in Motion (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_25_A_Puzzle/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_26_Machinery_in_Motion/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_25_a_puzzle/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_26_machinery_in_motion/part_02">part 02 ›</a></div>
 </nav>
 
 

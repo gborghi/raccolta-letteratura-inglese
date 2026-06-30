@@ -47,13 +47,13 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_07)
+- [Chapter 01](/testi/chesterton/atomized/william_cobbett/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/william_cobbett/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/william_cobbett/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/william_cobbett/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/william_cobbett/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/william_cobbett/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/william_cobbett/chapter_07)
 
 ## Testo integrale / Full text
 

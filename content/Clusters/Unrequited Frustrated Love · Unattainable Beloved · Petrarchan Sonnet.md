@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Unrequited-Frustrated-Love-·-Unattainable-Beloved-·-Petrarchan-Sonnet"></div>
+<div class="concept-works" data-slug="clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet"></div>

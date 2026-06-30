@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 7)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_HOME/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_04_i_fall_into_disgrace/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "[[Richard III]] — Act V, Scene 8 — monologue ([[King|KING]] HENRY THE SEVENTH) [2]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/RICHARD-III-(Shakespeare)"
+parentWork: "works/richard-iii-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-iii-(shakespeare)">Richard III</a></div>
 </nav>
 
 

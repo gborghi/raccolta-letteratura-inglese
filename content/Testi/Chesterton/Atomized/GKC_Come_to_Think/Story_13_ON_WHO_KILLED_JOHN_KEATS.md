@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON `WHO KILLED JOHN KEATS?'"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_12_ON_MR_EPSTEIN">‹ Story 12 ON MR EPSTEIN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_14_ON_Ingeland">Story 14 ON Ingeland ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_12_on_mr_epstein">‹ Story 12 ON MR EPSTEIN</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_14_on_ingeland">Story 14 ON Ingeland ›</a></div>
 </nav>
 
 

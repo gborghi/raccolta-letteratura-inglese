@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 13: Patriarchal (part 8)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_16_Patriarchal/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_17_Little_Dorrits_Party/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_16_patriarchal/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_17_little_dorrits_party/part_01">part 01 ›</a></div>
 </nav>
 
 

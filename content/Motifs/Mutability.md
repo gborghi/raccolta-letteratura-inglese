@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Mutability"></div>
+<div class="concept-works" data-slug="motifs/mutability"></div>
 
 #graph/motif

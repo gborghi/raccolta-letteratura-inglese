@@ -2,14 +2,14 @@
 title: "[[Hop-Frog]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Hop-Frog-(Poe)"
+parentWork: "works/hop-frog-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Hop-Frog-(Poe)">Hop Frog</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/hop-frog-(poe)">Hop Frog</a></div>
 </nav>
 
 

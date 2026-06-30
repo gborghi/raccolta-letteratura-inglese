@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cymbeline"></div>
+<div class="concept-works" data-slug="characters/cymbeline"></div>
 
 #graph/character

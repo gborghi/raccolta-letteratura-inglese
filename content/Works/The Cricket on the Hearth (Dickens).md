@@ -53,13 +53,13 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 Introduction](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_01_Introduction)
-- [Story 02 The Cricket On The Hearth](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_02_The_Cricket_On_The_Hearth)
-- [Story 03 The Cricket On The Hearth](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_03_The_Cricket_On_The_Hearth)
-- [Story 04 A Fairy Tale Of Home](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_A_Fairy_Tale_Of_Home)
-- [Story 05 Chirp The First](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_First)
-- [Story 06 Chirp The Second](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Second)
-- [Story 07 Chirp The Third](/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_07_Chirp_The_Third)
+- [Story 01 Introduction](/testi/dickens/atomized/the_cricket_on_the_hearth/story_01_introduction)
+- [Story 02 The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_02_the_cricket_on_the_hearth)
+- [Story 03 The Cricket On The Hearth](/testi/dickens/atomized/the_cricket_on_the_hearth/story_03_the_cricket_on_the_hearth)
+- [Story 04 A Fairy Tale Of Home](/testi/dickens/atomized/the_cricket_on_the_hearth/story_04_a_fairy_tale_of_home)
+- [Story 05 Chirp The First](/testi/dickens/atomized/the_cricket_on_the_hearth/story_05_chirp_the_first)
+- [Story 06 Chirp The Second](/testi/dickens/atomized/the_cricket_on_the_hearth/story_06_chirp_the_second)
+- [Story 07 Chirp The Third](/testi/dickens/atomized/the_cricket_on_the_hearth/story_07_chirp_the_third)
 
 
 ## Testo integrale / Full text

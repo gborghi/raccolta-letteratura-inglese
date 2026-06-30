@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Paradox-·-Food-and-Feasting-·-Aphorism"></div>
+<div class="concept-works" data-slug="clusters/paradox-·-food-and-feasting-·-aphorism"></div>

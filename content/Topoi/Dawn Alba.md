@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Dawn-Alba"></div>
+<div class="concept-works" data-slug="topoi/dawn-alba"></div>
 
 #graph/topos

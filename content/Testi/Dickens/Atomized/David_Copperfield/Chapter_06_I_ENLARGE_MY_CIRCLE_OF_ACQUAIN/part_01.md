@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_HOME/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_05_i_am_sent_away_from_home/part_07">‹ part 07</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_06_i_enlarge_my_circle_of_acquain/part_02">part 02 ›</a></div>
 </nav>
 
 

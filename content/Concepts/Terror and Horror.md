@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Terror-and-Horror"></div>
+<div class="concept-works" data-slug="concepts/terror-and-horror"></div>
 
 #graph/concept

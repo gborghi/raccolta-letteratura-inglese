@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Marquis-St.-Evremonde"></div>
+<div class="concept-works" data-slug="characters/marquis-st.-evremonde"></div>
 
 #graph/character

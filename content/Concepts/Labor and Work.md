@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Labor-and-Work"></div>
+<div class="concept-works" data-slug="concepts/labor-and-work"></div>
 
 #graph/concept

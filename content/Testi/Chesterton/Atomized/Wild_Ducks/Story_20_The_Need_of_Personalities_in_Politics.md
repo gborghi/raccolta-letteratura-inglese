@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Need of Personalities in Politics"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_19_The_Aesthetes_in_the_Kitchen_Garden">‹ Story 19 The Aesthetes in the Kitchen Garden</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_21_The_Largest_Window_in_the_World">Story 21 The Largest Window in the World ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_19_the_aesthetes_in_the_kitchen_garden">‹ Story 19 The Aesthetes in the Kitchen Garden</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_21_the_largest_window_in_the_world">Story 21 The Largest Window in the World ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY (part 5)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_26_i_fall_into_captivity/part_06">part 06 ›</a></div>
 </nav>
 
 

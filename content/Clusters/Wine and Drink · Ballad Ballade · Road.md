@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Wine-and-Drink-·-Ballad-Ballade-·-Road"></div>
+<div class="concept-works" data-slug="clusters/wine-and-drink-·-ballad-ballade-·-road"></div>

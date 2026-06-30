@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Eyes-and-Sight"></div>
+<div class="concept-works" data-slug="motifs/eyes-and-sight"></div>
 
 #graph/motif

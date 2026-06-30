@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Double"></div>
+<div class="concept-works" data-slug="topoi/double"></div>
 
 #graph/topos

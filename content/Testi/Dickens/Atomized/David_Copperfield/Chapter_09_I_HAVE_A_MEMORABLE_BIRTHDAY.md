@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP">‹ Chapter 08 MY HOLIDAYS ESPECIALLY ONE HAP</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV">Chapter 10 I BECOME NEGLECTED AND AM PROV ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap">‹ Chapter 08 MY HOLIDAYS ESPECIALLY ONE HAP</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_10_i_become_neglected_and_am_prov">Chapter 10 I BECOME NEGLECTED AND AM PROV ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[William Wilson]] (part 2)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/William-Wilson-(Poe)"
+parentWork: "works/william-wilson-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/William-Wilson-(Poe)">William Wilson</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/William_Wilson/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/William_Wilson/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/william-wilson-(poe)">William Wilson</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/william_wilson/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/william_wilson/part/part_03">part 03 ›</a></div>
 </nav>
 
 

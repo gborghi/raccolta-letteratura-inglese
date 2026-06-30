@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Ratiocination-Detection"></div>
+<div class="concept-works" data-slug="concepts/ratiocination-detection"></div>
 
 #graph/concept

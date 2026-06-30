@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Classical-Antiquity"></div>
+<div class="concept-works" data-slug="historical-references/classical-antiquity"></div>
 
 #graph/histref

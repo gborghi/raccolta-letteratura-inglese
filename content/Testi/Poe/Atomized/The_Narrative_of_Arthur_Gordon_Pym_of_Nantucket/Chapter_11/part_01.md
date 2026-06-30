@@ -2,15 +2,15 @@
 title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
+parentWork: "works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_11/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/testi/poe/atomized/the_narrative_of_arthur_gordon_pym_of_nantucket/chapter_11/part_02">part 02 ›</a></div>
 </nav>
 
 

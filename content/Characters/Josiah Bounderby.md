@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Josiah-Bounderby"></div>
+<div class="concept-works" data-slug="characters/josiah-bounderby"></div>
 
 #graph/character

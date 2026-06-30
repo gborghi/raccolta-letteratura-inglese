@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Femme-Fatale"></div>
+<div class="concept-works" data-slug="archetypes/femme-fatale"></div>
 
 #graph/archetype

@@ -2,15 +2,15 @@
 title: "[[Incredulity|incredulity]] Fr Brown — The Curse of the Golden [[Cross]] (part 8)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
+parentWork: "works/incredulity-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_05_The_Curse_of_the_Golden_Cross/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_05_The_Curse_of_the_Golden_Cross/part_09">part 09 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/incredulity-fr-brown-(chesterton)">incredulity Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/incredulity_fr_brown/story_05_the_curse_of_the_golden_cross/part_09">part 09 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 8)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_08_THE_ASYLUM_OF_ADVENTURE/part_07">‹ part 07</a><span></span></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_08_the_asylum_of_adventure/part_07">‹ part 07</a><span></span></div>
 </nav>
 
 

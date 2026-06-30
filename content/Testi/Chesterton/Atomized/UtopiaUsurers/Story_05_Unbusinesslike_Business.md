@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — Unbusinesslike Business"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_04_Letters_and_the_New_Laureates">‹ Story 04 Letters and the New Laureates</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_06_The_War_on_Holidays">Story 06 The War on Holidays ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_04_letters_and_the_new_laureates">‹ Story 04 Letters and the New Laureates</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_06_the_war_on_holidays">Story 06 The War on Holidays ›</a></div>
 </nav>
 
 

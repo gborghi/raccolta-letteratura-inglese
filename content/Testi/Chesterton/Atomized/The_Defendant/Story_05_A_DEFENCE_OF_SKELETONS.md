@@ -2,15 +2,15 @@
 title: "The Defendant — A DEFENCE OF SKELETONS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_04_A_DEFENCE_OF_RASH_VOWS">‹ Story 04 A DEFENCE OF RASH VOWS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_06_A_DEFENCE_OF_PUBLICITY">Story 06 A DEFENCE OF PUBLICITY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_04_a_defence_of_rash_vows">‹ Story 04 A DEFENCE OF RASH VOWS</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_06_a_defence_of_publicity">Story 06 A DEFENCE OF PUBLICITY ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — OACH-[[house|HOUSE]], PIG AND TINDER-BOX."
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_65_HAPTER_XIITHE_DRUNKARDS_DEATH">‹ Story 65 HAPTER XIITHE DRUNKARDS DEATH</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_67_OACH_HOUSE_ORIGINAL_PIG">Story 67 OACH HOUSE ORIGINAL PIG ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_65_hapter_xiithe_drunkards_death">‹ Story 65 HAPTER XIITHE DRUNKARDS DEATH</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_67_oach_house_original_pig">Story 67 OACH HOUSE ORIGINAL PIG ›</a></div>
 </nav>
 
 

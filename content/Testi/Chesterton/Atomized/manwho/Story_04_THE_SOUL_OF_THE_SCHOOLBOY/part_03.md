@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE [[Soul|SOUL]] OF THE SCHOOLBOY (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_04_the_soul_of_the_schoolboy/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_04_the_soul_of_the_schoolboy/part_04">part 04 ›</a></div>
 </nav>
 
 

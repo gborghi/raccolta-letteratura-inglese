@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Artist-and-Society-·-Truth-·-Regency-Georgian-England"></div>
+<div class="concept-works" data-slug="clusters/artist-and-society-·-truth-·-regency-georgian-england"></div>

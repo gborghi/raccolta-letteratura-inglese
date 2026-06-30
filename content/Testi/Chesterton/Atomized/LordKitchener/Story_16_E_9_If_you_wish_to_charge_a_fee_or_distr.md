@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_15_E_8_You_may_charge_a_reasonable_fee_for">‹ Story 15 E 8 You may charge a reasonable fee for</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_17_F_1_Project_Gutenberg_volunteers_and_emp">Story 17 F 1 Project Gutenberg volunteers and emp ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_15_e_8_you_may_charge_a_reasonable_fee_for">‹ Story 15 E 8 You may charge a reasonable fee for</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_17_f_1_project_gutenberg_volunteers_and_emp">Story 17 F 1 Project Gutenberg volunteers and emp ›</a></div>
 </nav>
 
 

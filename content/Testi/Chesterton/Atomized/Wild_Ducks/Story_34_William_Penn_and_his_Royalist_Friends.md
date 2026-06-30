@@ -2,15 +2,15 @@
 title: "Wild Ducks — William Penn and his Royalist Friends"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_33_The_Unknown_Warrior">‹ Story 33 The Unknown Warrior</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_35_ON_LITERATURE">Story 35 ON LITERATURE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_33_the_unknown_warrior">‹ Story 33 The Unknown Warrior</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_35_on_literature">Story 35 ON LITERATURE ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_33_A_Secesh_Brave">‹ Story 33 A Secesh Brave</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_35_A_Night_Battle_over_a_Week_Since">Story 35 A Night Battle over a Week Since ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_33_a_secesh_brave">‹ Story 33 A Secesh Brave</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_35_a_night_battle_over_a_week_since">Story 35 A Night Battle over a Week Since ›</a></div>
 </nav>
 
 

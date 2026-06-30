@@ -20,21 +20,21 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/thursday/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/thursday/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/thursday/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/thursday/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/thursday/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/thursday/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/thursday/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/thursday/Chapter_08)
-- [Chapter 09](/Testi/Chesterton/Atomized/thursday/Chapter_09)
-- [Chapter 10](/Testi/Chesterton/Atomized/thursday/Chapter_10)
-- [Chapter 11](/Testi/Chesterton/Atomized/thursday/Chapter_11)
-- [Chapter 12](/Testi/Chesterton/Atomized/thursday/Chapter_12)
-- [Chapter 13](/Testi/Chesterton/Atomized/thursday/Chapter_13)
-- [Chapter 14](/Testi/Chesterton/Atomized/thursday/Chapter_14)
-- [Chapter 15](/Testi/Chesterton/Atomized/thursday/Chapter_15)
+- [Chapter 01](/testi/chesterton/atomized/thursday/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/thursday/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/thursday/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/thursday/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/thursday/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/thursday/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/thursday/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/thursday/chapter_08)
+- [Chapter 09](/testi/chesterton/atomized/thursday/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/thursday/chapter_10)
+- [Chapter 11](/testi/chesterton/atomized/thursday/chapter_11)
+- [Chapter 12](/testi/chesterton/atomized/thursday/chapter_12)
+- [Chapter 13](/testi/chesterton/atomized/thursday/chapter_13)
+- [Chapter 14](/testi/chesterton/atomized/thursday/chapter_14)
+- [Chapter 15](/testi/chesterton/atomized/thursday/chapter_15)
 
 ## Testo integrale / Full text
 

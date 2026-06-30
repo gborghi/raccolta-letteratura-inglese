@@ -2,15 +2,15 @@
 title: "A [[Child]]'s [[history|History]] of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/A-Child's-History-of-England-(Dickens)"
+parentWork: "works/a-child's-history-of-england-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_08_Y_CHILD">‹ Story 08 Y CHILD</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_01_UDFOG_is_a_pleasant_towna_remarkably_ple/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_08_y_child">‹ Story 08 Y CHILD</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_01_udfog_is_a_pleasant_towna_remarkably_ple/part_02">part 02 ›</a></div>
 </nav>
 
 

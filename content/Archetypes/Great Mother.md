@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Great-Mother"></div>
+<div class="concept-works" data-slug="archetypes/great-mother"></div>
 
 #graph/archetype

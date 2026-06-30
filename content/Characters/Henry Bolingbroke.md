@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Henry-Bolingbroke"></div>
+<div class="concept-works" data-slug="characters/henry-bolingbroke"></div>
 
 #graph/character

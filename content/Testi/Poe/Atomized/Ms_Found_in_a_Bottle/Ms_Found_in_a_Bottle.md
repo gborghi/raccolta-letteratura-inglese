@@ -2,14 +2,14 @@
 title: "[[Ms. Found in a Bottle]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
+parentWork: "works/ms.-found-in-a-bottle-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Ms.-Found-in-a-Bottle-(Poe)">Ms Found in a Bottle</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/ms.-found-in-a-bottle-(poe)">Ms Found in a Bottle</a></div>
 </nav>
 
 

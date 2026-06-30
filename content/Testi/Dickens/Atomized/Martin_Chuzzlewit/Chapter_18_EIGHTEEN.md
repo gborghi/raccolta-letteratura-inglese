@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 18: EIGHTEEN"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_17_SEVENTEEN">‹ Chapter 17 SEVENTEEN</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_19_NINETEEN">Chapter 19 NINETEEN ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_17_seventeen">‹ Chapter 17 SEVENTEEN</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_19_nineteen">Chapter 19 NINETEEN ›</a></div>
 </nav>
 
 

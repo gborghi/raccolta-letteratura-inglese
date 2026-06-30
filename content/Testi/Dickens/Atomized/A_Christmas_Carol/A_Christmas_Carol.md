@@ -2,14 +2,14 @@
 title: "A Christmas [[carol|Carol]]"
 author: "Dickens"
 unitType: work
-parentWork: "Works/A-Christmas-Carol-(Dickens)"
+parentWork: "works/a-christmas-carol-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-christmas-carol-(dickens)">A Christmas Carol</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The [[Tragedy]] of [[King Lear]] (Folio Text) — Act III, Scene 7"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)"
+parentWork: "works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)">The Tragedy of King Lear Folio Text</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Tragedy_of_King_Lear_Folio_Text/Act_3/Scene_6">‹ Scene 6</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Tragedy_of_King_Lear_Folio_Text/Act_4/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-tragedy-of-king-lear---the-folio-text-(shakespeare)">The Tragedy of King Lear Folio Text</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_3/scene_6">‹ Scene 6</a><a class="ex-next" href="/testi/shakespeare/plays/the_tragedy_of_king_lear_folio_text/act_4/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XXI—BROKERS’ AND MARINE-STORE SHOPS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_29_HAPTER_XXTHE_FIRST_OF_MAY">‹ Story 29 HAPTER XXTHE FIRST OF MAY</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_31_HAPTER_XXIIGIN_SHOPS">Story 31 HAPTER XXIIGIN SHOPS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_29_hapter_xxthe_first_of_may">‹ Story 29 HAPTER XXTHE FIRST OF MAY</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_31_hapter_xxiigin_shops">Story 31 HAPTER XXIIGIN SHOPS ›</a></div>
 </nav>
 
 

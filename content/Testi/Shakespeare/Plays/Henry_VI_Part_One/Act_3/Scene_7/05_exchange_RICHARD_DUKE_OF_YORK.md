@@ -2,14 +2,14 @@
 title: "[[Henry VI]] Part One — Act III, Scene 7 — exchange ([[Richard|RICHARD]] [[Duke of York|DUKE OF YORK]]) [5]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/HENRY-VI-PART-ONE-(Shakespeare)"
+parentWork: "works/henry-vi-part-one-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-VI-PART-ONE-(Shakespeare)">Henry VI Part One</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/henry-vi-part-one-(shakespeare)">Henry VI Part One</a></div>
 </nav>
 
 

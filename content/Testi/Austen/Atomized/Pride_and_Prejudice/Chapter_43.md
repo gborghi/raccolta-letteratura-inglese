@@ -2,15 +2,15 @@
 title: "[[Pride and Prejudice]] — Chapter 43"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_42">‹ Chapter 42</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_44">Chapter 44 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_42">‹ Chapter 42</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_44">Chapter 44 ›</a></div>
 </nav>
 
 

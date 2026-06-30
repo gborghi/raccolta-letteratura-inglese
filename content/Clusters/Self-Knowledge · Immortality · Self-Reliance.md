@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Self-Knowledge-·-Immortality-·-Self-Reliance"></div>
+<div class="concept-works" data-slug="clusters/self-knowledge-·-immortality-·-self-reliance"></div>

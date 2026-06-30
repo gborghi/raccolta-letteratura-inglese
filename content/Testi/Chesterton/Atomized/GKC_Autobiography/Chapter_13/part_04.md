@@ -2,15 +2,15 @@
 title: "[[GKC-Autobiography]] — Chapter 13 (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/GKC-Autobiography-(Chesterton)"
+parentWork: "works/gkc-autobiography-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Autobiography-(Chesterton)">GKC Autobiography</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_14/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_13/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
 

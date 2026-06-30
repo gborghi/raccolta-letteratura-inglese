@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Simonides"></div>
+<div class="concept-works" data-slug="characters/simonides"></div>
 
 #graph/character

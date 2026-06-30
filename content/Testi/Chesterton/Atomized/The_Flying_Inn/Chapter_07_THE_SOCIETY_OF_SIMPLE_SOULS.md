@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_06_THE_HOLE_IN_HEAVEN">‹ Chapter 06 THE HOLE IN HEAVEN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_08_VOX_POPULI_VOX_DEI">Chapter 08 VOX POPULI VOX DEI ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_06_the_hole_in_heaven">‹ Chapter 06 THE HOLE IN HEAVEN</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_08_vox_populi_vox_dei">Chapter 08 VOX POPULI VOX DEI ›</a></div>
 </nav>
 
 

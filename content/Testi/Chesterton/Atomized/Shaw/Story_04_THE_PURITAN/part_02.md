@@ -2,15 +2,15 @@
 title: "[[Shaw]] — THE PURITAN (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Shaw-(Chesterton)"
+parentWork: "works/shaw-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_04_THE_PURITAN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_04_THE_PURITAN/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_04_the_puritan/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_04_the_puritan/part_03">part 03 ›</a></div>
 </nav>
 
 

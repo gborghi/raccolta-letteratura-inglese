@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Maturation-and-Growth-·-Childhood-·-Innocence-and-Experience"></div>
+<div class="concept-works" data-slug="clusters/maturation-and-growth-·-childhood-·-innocence-and-experience"></div>

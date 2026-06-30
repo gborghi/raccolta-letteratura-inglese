@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Sins of Prince Saradine"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_07_The_Wrong_Shape">‹ Story 07 The Wrong Shape</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_09_The_Hammer_of_God">Story 09 The Hammer of God ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_07_the_wrong_shape">‹ Story 07 The Wrong Shape</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god">Story 09 The Hammer of God ›</a></div>
 </nav>
 
 

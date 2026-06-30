@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 12: In which a Great Patriotic Conference is holden"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_51_A_Letter_from_Little_Dorrit">‹ Chapter 51 A Letter from Little Dorrit</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_53_The_Progress_of_an_Epidemic">Chapter 53 The Progress of an Epidemic ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_51_a_letter_from_little_dorrit">‹ Chapter 51 A Letter from Little Dorrit</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_53_the_progress_of_an_epidemic">Chapter 53 The Progress of an Epidemic ›</a></div>
 </nav>
 
 

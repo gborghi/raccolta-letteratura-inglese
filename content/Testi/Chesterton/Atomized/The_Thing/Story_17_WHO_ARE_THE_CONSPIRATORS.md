@@ -2,15 +2,15 @@
 title: "The Thing — WHO ARE THE CONSPIRATORS?"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_16_THE_FEASTS_AND_THE_ASCETIC">‹ Story 16 THE FEASTS AND THE ASCETIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_18_THE_HAT_AND_THE_HALO">Story 18 THE HAT AND THE HALO ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_16_the_feasts_and_the_ascetic">‹ Story 16 THE FEASTS AND THE ASCETIC</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_18_the_hat_and_the_halo">Story 18 THE HAT AND THE HALO ›</a></div>
 </nav>
 
 

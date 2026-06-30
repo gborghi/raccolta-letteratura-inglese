@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_27_SHOWING_AMONG_A_VARIETY_OF_PLE">‹ Chapter 27 SHOWING AMONG A VARIETY OF PLE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_29_SAMUEL_WELLER_MAKES_A_PILGRIMA">Chapter 29 SAMUEL WELLER MAKES A PILGRIMA ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_27_showing_among_a_variety_of_ple">‹ Chapter 27 SHOWING AMONG A VARIETY OF PLE</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_29_samuel_weller_makes_a_pilgrima">Chapter 29 SAMUEL WELLER MAKES A PILGRIMA ›</a></div>
 </nav>
 
 

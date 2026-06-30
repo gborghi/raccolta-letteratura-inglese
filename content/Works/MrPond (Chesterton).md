@@ -34,14 +34,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Three Horsemen of Apocalypse](/Testi/Chesterton/Atomized/MrPond/Story_01_The_Three_Horsemen_of_Apocalypse)
-- [Story 02 The Crime of Captain Gahagan](/Testi/Chesterton/Atomized/MrPond/Story_02_The_Crime_of_Captain_Gahagan)
-- [Story 03 When Doctors Agree](/Testi/Chesterton/Atomized/MrPond/Story_03_When_Doctors_Agree)
-- [Story 04 Pond the Pantaloon](/Testi/Chesterton/Atomized/MrPond/Story_04_Pond_the_Pantaloon)
-- [Story 05 The Unmentionable Man](/Testi/Chesterton/Atomized/MrPond/Story_05_The_Unmentionable_Man)
-- [Story 06 Ring of Lovers](/Testi/Chesterton/Atomized/MrPond/Story_06_Ring_of_Lovers)
-- [Story 07 The Terrible Troubadour](/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour)
-- [Story 08 A Tall Story](/Testi/Chesterton/Atomized/MrPond/Story_08_A_Tall_Story)
+- [Story 01 The Three Horsemen of Apocalypse](/testi/chesterton/atomized/mrpond/story_01_the_three_horsemen_of_apocalypse)
+- [Story 02 The Crime of Captain Gahagan](/testi/chesterton/atomized/mrpond/story_02_the_crime_of_captain_gahagan)
+- [Story 03 When Doctors Agree](/testi/chesterton/atomized/mrpond/story_03_when_doctors_agree)
+- [Story 04 Pond the Pantaloon](/testi/chesterton/atomized/mrpond/story_04_pond_the_pantaloon)
+- [Story 05 The Unmentionable Man](/testi/chesterton/atomized/mrpond/story_05_the_unmentionable_man)
+- [Story 06 Ring of Lovers](/testi/chesterton/atomized/mrpond/story_06_ring_of_lovers)
+- [Story 07 The Terrible Troubadour](/testi/chesterton/atomized/mrpond/story_07_the_terrible_troubadour)
+- [Story 08 A Tall Story](/testi/chesterton/atomized/mrpond/story_08_a_tall_story)
 
 ## Testo integrale / Full text
 

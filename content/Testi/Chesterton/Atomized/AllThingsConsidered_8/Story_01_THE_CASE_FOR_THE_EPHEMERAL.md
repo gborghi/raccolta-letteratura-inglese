@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — THE CASE FOR THE [[ephemeral|EPHEMERAL]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_02_COCKNEYS_AND_THEIR_JOKES">Story 02 COCKNEYS AND THEIR JOKES ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_02_cockneys_and_their_jokes">Story 02 COCKNEYS AND THEIR JOKES ›</a></div>
 </nav>
 
 

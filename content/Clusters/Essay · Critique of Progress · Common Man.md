@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Essay-·-Critique-of-Progress-·-Common-Man"></div>
+<div class="concept-works" data-slug="clusters/essay-·-critique-of-progress-·-common-man"></div>

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Romantic-Movement-(Sensibility)"></div>
+<div class="concept-works" data-slug="historical-references/romantic-movement-(sensibility)"></div>
 
 #graph/histref

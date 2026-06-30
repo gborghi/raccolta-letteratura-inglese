@@ -2,14 +2,14 @@
 title: "[[William Wilson]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/William-Wilson-(Poe)"
+parentWork: "works/william-wilson-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/William-Wilson-(Poe)">William Wilson</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/william-wilson-(poe)">William Wilson</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Love-Death-(Liebestod)"></div>
+<div class="concept-works" data-slug="topoi/love-death-(liebestod)"></div>
 
 #graph/topos

@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — Robert Bruce And His Age"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_22_Baroque_And_Gothic_Architecture">‹ Story 22 Baroque And Gothic Architecture</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_24_What_Might_Have_Been">Story 24 What Might Have Been ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_22_baroque_and_gothic_architecture">‹ Story 22 Baroque And Gothic Architecture</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_24_what_might_have_been">Story 24 What Might Have Been ›</a></div>
 </nav>
 
 

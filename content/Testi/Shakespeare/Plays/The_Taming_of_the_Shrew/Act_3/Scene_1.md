@@ -2,15 +2,15 @@
 title: "The Taming of the Shrew — Act III, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)"
+parentWork: "works/the-taming-of-the-shrew-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_2/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_3/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-taming-of-the-shrew-(shakespeare)">The Taming of the Shrew</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_2/scene_1">‹ Scene 1</a><a class="ex-next" href="/testi/shakespeare/plays/the_taming_of_the_shrew/act_3/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

@@ -2,14 +2,14 @@
 title: "[[The Facts in the Case of M. Valdemar]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)"
+parentWork: "works/the-facts-in-the-case-of-m.-valdemar-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)">The Facts in the Case of M Valdemar</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-facts-in-the-case-of-m.-valdemar-(poe)">The Facts in the Case of M Valdemar</a></div>
 </nav>
 
 

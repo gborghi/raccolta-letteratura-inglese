@@ -2,15 +2,15 @@
 title: "St Francis — Chapter 6 (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/St-Francis-(Chesterton)"
+parentWork: "works/st-francis-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/St-Francis-(Chesterton)">St Francis</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/St_Francis/Chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/St_Francis/Chapter_07/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis/chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis/chapter_07/part_01">part 01 ›</a></div>
 </nav>
 
 

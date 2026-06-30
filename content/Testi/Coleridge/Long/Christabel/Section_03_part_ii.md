@@ -2,15 +2,15 @@
 title: "[[Christabel]] — Part II"
 author: "Coleridge"
 unitType: section
-parentWork: "Works/CHRISTABEL-(Coleridge)"
+parentWork: "works/christabel-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/CHRISTABEL-(Coleridge)">Christabel</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Long/Christabel/Section_02_conclusion_to_part_i">‹ Section 02 conclusion to part i</a><a class="ex-next" href="/Testi/Coleridge/Long/Christabel/Section_04_conclusion_to_part_ii">Section 04 conclusion to part ii ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/christabel-(coleridge)">Christabel</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/long/christabel/section_02_conclusion_to_part_i">‹ Section 02 conclusion to part i</a><a class="ex-next" href="/testi/coleridge/long/christabel/section_04_conclusion_to_part_ii">Section 04 conclusion to part ii ›</a></div>
 </nav>
 
 

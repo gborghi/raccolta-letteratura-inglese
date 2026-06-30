@@ -2,15 +2,15 @@
 title: "[[Well]] And Shallows — Frozen Free Thought"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Well-And-Shallows-(Chesterton)"
+parentWork: "works/well-and-shallows-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_37_Trade_Terms">‹ Story 37 Trade Terms</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_39_Shocking_The_Modernists">Story 39 Shocking The Modernists ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/well-and-shallows-(chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/well_and_shallows/story_37_trade_terms">‹ Story 37 Trade Terms</a><a class="ex-next" href="/testi/chesterton/atomized/well_and_shallows/story_39_shocking_the_modernists">Story 39 Shocking The Modernists ›</a></div>
 </nav>
 
 

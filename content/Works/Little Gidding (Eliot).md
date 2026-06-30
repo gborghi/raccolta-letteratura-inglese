@@ -42,11 +42,11 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 01 part i](/Testi/Eliot/Long/Little_Gidding/Section_01_part_i)
-- [Section 02 part ii](/Testi/Eliot/Long/Little_Gidding/Section_02_part_ii)
-- [Section 03 part iii](/Testi/Eliot/Long/Little_Gidding/Section_03_part_iii)
-- [Section 04 part iv](/Testi/Eliot/Long/Little_Gidding/Section_04_part_iv)
-- [Section 05 part v](/Testi/Eliot/Long/Little_Gidding/Section_05_part_v)
+- [Section 01 part i](/testi/eliot/long/little_gidding/section_01_part_i)
+- [Section 02 part ii](/testi/eliot/long/little_gidding/section_02_part_ii)
+- [Section 03 part iii](/testi/eliot/long/little_gidding/section_03_part_iii)
+- [Section 04 part iv](/testi/eliot/long/little_gidding/section_04_part_iv)
+- [Section 05 part v](/testi/eliot/long/little_gidding/section_05_part_v)
 
 
 ## Testo integrale / Full text

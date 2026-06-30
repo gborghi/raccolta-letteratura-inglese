@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Memory-and-Time-·-Memory-·-Nostalgia"></div>
+<div class="concept-works" data-slug="clusters/memory-and-time-·-memory-·-nostalgia"></div>

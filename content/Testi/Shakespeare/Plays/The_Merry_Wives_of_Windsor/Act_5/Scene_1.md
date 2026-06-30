@@ -2,15 +2,15 @@
 title: "The Merry Wives of Windsor — Act V, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)"
+parentWork: "works/the-merry-wives-of-windsor-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Merry_Wives_of_Windsor/Act_4/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Merry_Wives_of_Windsor/Act_5/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-merry-wives-of-windsor-(shakespeare)">The Merry Wives of Windsor</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_4/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/the_merry_wives_of_windsor/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

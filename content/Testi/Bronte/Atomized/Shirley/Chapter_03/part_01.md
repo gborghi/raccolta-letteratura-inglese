@@ -2,15 +2,15 @@
 title: "[[Shirley]] — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
-parentWork: "Works/Shirley-(Bronte)"
+parentWork: "works/shirley-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_03/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/shirley-(bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/shirley/chapter_02/part_06">‹ part 06</a><a class="ex-next" href="/testi/bronte/atomized/shirley/chapter_03/part_02">part 02 ›</a></div>
 </nav>
 
 

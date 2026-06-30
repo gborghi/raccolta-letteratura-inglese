@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — The Narrowness Of Novelty"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_34_His_Sigh_Is_A_Hullaballoo">‹ Story 34 His Sigh Is A Hullaballoo</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_36_The_Merits_Of_Shakespeare_S_Plots">Story 36 The Merits Of Shakespeare S Plots ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_34_his_sigh_is_a_hullaballoo">‹ Story 34 His Sigh Is A Hullaballoo</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_36_the_merits_of_shakespeare_s_plots">Story 36 The Merits Of Shakespeare S Plots ›</a></div>
 </nav>
 
 

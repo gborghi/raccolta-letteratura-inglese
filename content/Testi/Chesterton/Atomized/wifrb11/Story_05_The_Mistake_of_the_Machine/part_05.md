@@ -2,15 +2,15 @@
 title: "[[wifrb11]] — The Mistake of the [[Machine]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/wifrb11-(Chesterton)"
+parentWork: "works/wifrb11-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_05_The_Mistake_of_the_Machine/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_06_The_Head_of_Caesar/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wifrb11-(chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wifrb11/story_05_the_mistake_of_the_machine/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/wifrb11/story_06_the_head_of_caesar/part_01">part 01 ›</a></div>
 </nav>
 
 

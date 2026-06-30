@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 48: FORTY EIGHT"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_47_FORTY_SEVEN">‹ Chapter 47 FORTY SEVEN</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_49_FORTY_NINE">Chapter 49 FORTY NINE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_47_forty_seven">‹ Chapter 47 FORTY SEVEN</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_49_forty_nine">Chapter 49 FORTY NINE ›</a></div>
 </nav>
 
 

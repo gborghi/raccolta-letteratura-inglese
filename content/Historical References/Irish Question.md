@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Irish-Question"></div>
+<div class="concept-works" data-slug="historical-references/irish-question"></div>
 
 #graph/histref

@@ -2,15 +2,15 @@
 title: "[[Villette]] — Chapter 9 (part 3)"
 author: "Bronte"
 unitType: excerpt
-parentWork: "Works/Villette-(Bronte)"
+parentWork: "works/villette-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_09/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_09/part_02">‹ part 02</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_09/part_04">part 04 ›</a></div>
 </nav>
 
 

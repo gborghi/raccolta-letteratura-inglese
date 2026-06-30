@@ -2,14 +2,14 @@
 title: "[[Northanger Abbey]]"
 author: "Austen"
 unitType: work
-parentWork: "Works/Northanger-Abbey-(Austen)"
+parentWork: "works/northanger-abbey-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
 </nav>
 
 

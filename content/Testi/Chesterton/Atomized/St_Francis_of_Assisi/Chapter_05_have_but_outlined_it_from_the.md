@@ -2,15 +2,15 @@
 title: "St. Francis of Assisi — Chapter 1: have but outlined it from the outside. And in concluding"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/St.-Francis-of-Assisi-(Chesterton)"
+parentWork: "works/st.-francis-of-assisi-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/St.-Francis-of-Assisi-(Chesterton)">St Francis of Assisi</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_04">‹ Chapter 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_06_LE">Chapter 06 LE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/st.-francis-of-assisi-(chesterton)">St Francis of Assisi</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis_of_assisi/chapter_04">‹ Chapter 04</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis_of_assisi/chapter_06_le">Chapter 06 LE ›</a></div>
 </nav>
 
 

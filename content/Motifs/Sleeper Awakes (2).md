@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Sleeper-Awakes-(2)"></div>
+<div class="concept-works" data-slug="motifs/sleeper-awakes-(2)"></div>
 
 #graph/motif

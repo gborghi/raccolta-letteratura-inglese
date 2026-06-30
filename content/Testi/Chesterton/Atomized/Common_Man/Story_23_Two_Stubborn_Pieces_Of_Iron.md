@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Two Stubborn Pieces Of Iron"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_22_The_Frivolous_Man">‹ Story 22 The Frivolous Man</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_24_Henry_James">Story 24 Henry James ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_22_the_frivolous_man">‹ Story 22 The Frivolous Man</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_24_henry_james">Story 24 Henry James ›</a></div>
 </nav>
 
 

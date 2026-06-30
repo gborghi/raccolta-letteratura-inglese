@@ -2,15 +2,15 @@
 title: "[[Common Man]] — Vandalism"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why">‹ Story 30 The Revival Of Philosophy Why</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_32_Elizabeth_Barrett_Browning">Story 32 Elizabeth Barrett Browning ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_30_the_revival_of_philosophy_why">‹ Story 30 The Revival Of Philosophy Why</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_32_elizabeth_barrett_browning">Story 32 Elizabeth Barrett Browning ›</a></div>
 </nav>
 
 

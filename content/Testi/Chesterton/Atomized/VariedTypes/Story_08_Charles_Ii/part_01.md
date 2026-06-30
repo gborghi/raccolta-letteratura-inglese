@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Charles Ii (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_06_Francis/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_08_Charles_Ii/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_06_francis/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_08_charles_ii/part_02">part 02 ›</a></div>
 </nav>
 
 

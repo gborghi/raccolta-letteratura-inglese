@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — ENT [[Milton|MILTON]] could not help wondering a good deal, especially when"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_24_A_QUEER_REFORMATION">‹ Story 24 A QUEER REFORMATION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_26_THE_PROBLEMS_OF_DETECTIVE_PRICE">Story 26 THE PROBLEMS OF DETECTIVE PRICE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_24_a_queer_reformation">‹ Story 24 A QUEER REFORMATION</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_26_the_problems_of_detective_price">Story 26 THE PROBLEMS OF DETECTIVE PRICE ›</a></div>
 </nav>
 
 

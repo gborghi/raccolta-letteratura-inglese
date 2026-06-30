@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Bildungsroman"></div>
+<div class="concept-works" data-slug="forms/bildungsroman"></div>
 
 #graph/form

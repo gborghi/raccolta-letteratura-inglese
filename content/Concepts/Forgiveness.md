@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Forgiveness"></div>
+<div class="concept-works" data-slug="concepts/forgiveness"></div>
 
 #graph/concept

@@ -2,15 +2,15 @@
 title: "Man Orthodox — Creeds And Cobwebs"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_101_A_Universal_Relevance">‹ Story 101 A Universal Relevance</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_103_A_Plea_For_Popular_Philosophy">Story 103 A Plea For Popular Philosophy ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_101_a_universal_relevance">‹ Story 101 A Universal Relevance</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_103_a_plea_for_popular_philosophy">Story 103 A Plea For Popular Philosophy ›</a></div>
 </nav>
 
 

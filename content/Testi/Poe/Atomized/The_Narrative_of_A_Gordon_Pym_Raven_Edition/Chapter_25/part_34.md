@@ -2,15 +2,15 @@
 title: "The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 34)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)"
+parentWork: "works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_25/part_33">‹ part 33</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_narrative_of_a_gordon_pym_raven_edition/chapter_25/part_33">‹ part 33</a><span></span></div>
 </nav>
 
 

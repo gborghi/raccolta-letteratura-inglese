@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 1: Fellow Travellers"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_40_RICHES">‹ Chapter 40 RICHES</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_42_Mrs_General">Chapter 42 Mrs General ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_40_riches">‹ Chapter 40 RICHES</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_42_mrs_general">Chapter 42 Mrs General ›</a></div>
 </nav>
 
 

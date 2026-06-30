@@ -2,15 +2,15 @@
 title: "scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+parentWork: "works/scandal-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin">‹ Story 08 The Point of a Pin</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem">Story 10 The Insoluble Problem ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/scandal-fr-brown-(chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/scandal_fr_brown/story_08_the_point_of_a_pin">‹ Story 08 The Point of a Pin</a><a class="ex-next" href="/testi/chesterton/atomized/scandal_fr_brown/story_10_the_insoluble_problem">Story 10 The Insoluble Problem ›</a></div>
 </nav>
 
 

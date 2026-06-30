@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — Some Old Curiosities (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_03_Some_Old_Curiosities/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_03_Some_Old_Curiosities/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_03_some_old_curiosities/part_03">part 03 ›</a></div>
 </nav>
 
 

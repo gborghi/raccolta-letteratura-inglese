@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Endymion"></div>
+<div class="concept-works" data-slug="characters/endymion"></div>
 
 #graph/character

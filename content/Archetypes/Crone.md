@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Crone"></div>
+<div class="concept-works" data-slug="archetypes/crone"></div>
 
 #graph/archetype

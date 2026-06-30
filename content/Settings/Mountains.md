@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Mountains"></div>
+<div class="concept-works" data-slug="settings/mountains"></div>
 
 #graph/setting

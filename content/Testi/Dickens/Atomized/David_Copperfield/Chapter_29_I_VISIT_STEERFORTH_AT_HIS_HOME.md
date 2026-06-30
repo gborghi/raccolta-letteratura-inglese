@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET">‹ Chapter 28 Mr MICAWBERS GAUNTLET</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS">Chapter 30 A LOSS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet">‹ Chapter 28 Mr MICAWBERS GAUNTLET</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_30_a_loss">Chapter 30 A LOSS ›</a></div>
 </nav>
 
 

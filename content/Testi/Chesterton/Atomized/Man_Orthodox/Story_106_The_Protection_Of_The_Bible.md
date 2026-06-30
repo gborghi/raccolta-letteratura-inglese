@@ -2,15 +2,15 @@
 title: "Man Orthodox — The Protection Of The [[Bible]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_105_No_Such_Thing">‹ Story 105 No Such Thing</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_107_Spiritualism">Story 107 Spiritualism ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_105_no_such_thing">‹ Story 105 No Such Thing</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_107_spiritualism">Story 107 Spiritualism ›</a></div>
 </nav>
 
 

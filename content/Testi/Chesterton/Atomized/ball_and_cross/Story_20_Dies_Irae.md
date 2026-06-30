@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — Dies Irae"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_19_The_Last_Parley">‹ Story 19 The Last Parley</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_01_A_Discussion_Somewhat_in_the_Air/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_19_the_last_parley">‹ Story 19 The Last Parley</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_01_a_discussion_somewhat_in_the_air/part_01">part 01 ›</a></div>
 </nav>
 
 

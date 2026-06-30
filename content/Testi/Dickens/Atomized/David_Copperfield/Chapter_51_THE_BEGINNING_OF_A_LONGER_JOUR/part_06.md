@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 6)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_51_THE_BEGINNING_OF_A_LONGER_JOUR/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_52_I_ASSIST_AT_AN_EXPLOSION/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_05">‹ part 05</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_52_i_assist_at_an_explosion/part_01">part 01 ›</a></div>
 </nav>
 
 

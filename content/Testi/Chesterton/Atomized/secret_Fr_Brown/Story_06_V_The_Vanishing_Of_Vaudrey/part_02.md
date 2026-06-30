@@ -2,15 +2,15 @@
 title: "secret Fr Brown — V The Vanishing Of Vaudrey (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_06_v_the_vanishing_of_vaudrey/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_06_v_the_vanishing_of_vaudrey/part_03">part 03 ›</a></div>
 </nav>
 
 

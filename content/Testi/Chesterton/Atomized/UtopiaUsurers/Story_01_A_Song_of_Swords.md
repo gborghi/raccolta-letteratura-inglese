@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — A [[Song]] of Swords"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_02_Utopia_of_Usurers">Story 02 Utopia of Usurers ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_02_utopia_of_usurers">Story 02 Utopia of Usurers ›</a></div>
 </nav>
 
 

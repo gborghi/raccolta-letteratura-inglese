@@ -2,15 +2,15 @@
 title: "Our Mutual Friend — Chapter 2"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Our-Mutual-Friend-(Dickens)"
+parentWork: "works/our-mutual-friend-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_25_the_streets_being_for_pupils_o">‹ Chapter 25 the streets being for pupils o</a><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_27">Chapter 27 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_25_the_streets_being_for_pupils_o">‹ Chapter 25 the streets being for pupils o</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_27">Chapter 27 ›</a></div>
 </nav>
 
 

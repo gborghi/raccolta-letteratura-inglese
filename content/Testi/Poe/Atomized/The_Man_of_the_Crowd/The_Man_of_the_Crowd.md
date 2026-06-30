@@ -2,14 +2,14 @@
 title: "[[The Man of the Crowd]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Man-of-the-Crowd-(Poe)"
+parentWork: "works/the-man-of-the-crowd-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Man-of-the-Crowd-(Poe)">The Man of the Crowd</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-man-of-the-crowd-(poe)">The Man of the Crowd</a></div>
 </nav>
 
 

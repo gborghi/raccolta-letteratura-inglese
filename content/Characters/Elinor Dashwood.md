@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Elinor-Dashwood"></div>
+<div class="concept-works" data-slug="characters/elinor-dashwood"></div>
 
 #graph/character

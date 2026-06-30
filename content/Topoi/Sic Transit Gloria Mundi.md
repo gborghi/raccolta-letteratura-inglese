@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Sic-Transit-Gloria-Mundi"></div>
+<div class="concept-works" data-slug="topoi/sic-transit-gloria-mundi"></div>
 
 #graph/topos

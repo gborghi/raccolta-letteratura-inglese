@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Memento-Mori"></div>
+<div class="concept-works" data-slug="topoi/memento-mori"></div>
 
 #graph/topos

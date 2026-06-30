@@ -9,6 +9,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Childhood-And-Growth-Placeholder"></div>
+<div class="concept-works" data-slug="concepts/childhood-and-growth-placeholder"></div>
 
 #graph/concept

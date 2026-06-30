@@ -2,14 +2,14 @@
 title: "[[Timon]] of Athens — Act I, Scene 2 — exchange ([[Alcibiades|ALCIBIADES]]) [6]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
+parentWork: "works/timon-of-athens-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/timon-of-athens-(shakespeare)">Timon of Athens</a></div>
 </nav>
 
 

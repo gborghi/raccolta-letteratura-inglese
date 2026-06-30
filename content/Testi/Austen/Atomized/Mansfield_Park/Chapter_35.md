@@ -2,15 +2,15 @@
 title: "[[Mansfield Park]] — Chapter 35"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Mansfield-Park-(Austen)"
+parentWork: "works/mansfield-park-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_34">‹ Chapter 34</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_36">Chapter 36 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_34">‹ Chapter 34</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_36">Chapter 36 ›</a></div>
 </nav>
 
 

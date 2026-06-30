@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Pindaric-Ode"></div>
+<div class="concept-works" data-slug="forms/pindaric-ode"></div>
 
 #graph/form

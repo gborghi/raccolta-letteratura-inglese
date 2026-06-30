@@ -2,15 +2,15 @@
 title: "Man Orthodox — Privacy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_138_The_Vengeance_Of_Victoria">‹ Story 138 The Vengeance Of Victoria</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_140_Northcliffe">Story 140 Northcliffe ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_138_the_vengeance_of_victoria">‹ Story 138 The Vengeance Of Victoria</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_140_northcliffe">Story 140 Northcliffe ›</a></div>
 </nav>
 
 

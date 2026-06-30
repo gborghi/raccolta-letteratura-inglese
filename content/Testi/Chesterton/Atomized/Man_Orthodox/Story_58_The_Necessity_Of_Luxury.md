@@ -2,15 +2,15 @@
 title: "Man Orthodox — The Necessity Of Luxury"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_57_The_Return_Of_The_Angels">‹ Story 57 The Return Of The Angels</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_59_The_Club">Story 59 The Club ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_57_the_return_of_the_angels">‹ Story 57 The Return Of The Angels</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_59_the_club">Story 59 The Club ›</a></div>
 </nav>
 
 

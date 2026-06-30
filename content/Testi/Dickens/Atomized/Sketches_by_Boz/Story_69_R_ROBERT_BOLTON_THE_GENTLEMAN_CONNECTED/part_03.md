@@ -2,15 +2,15 @@
 title: "Sketches by Boz — R. ROBERT BOLTON: THE ‘GENTLEMAN CONNECTED WITH THE PRESS’ (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_69_R_ROBERT_BOLTON_THE_GENTLEMAN_CONNECTED/part_02">‹ part 02</a><span></span></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_69_r_robert_bolton_the_gentleman_connected/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 

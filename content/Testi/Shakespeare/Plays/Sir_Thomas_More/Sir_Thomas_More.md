@@ -2,14 +2,14 @@
 title: "[[Sir Thomas More|SIR THOMAS MORE]]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
+parentWork: "works/sir-thomas-more-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/sir-thomas-more-(shakespeare)">Sir Thomas More</a></div>
 </nav>
 
 

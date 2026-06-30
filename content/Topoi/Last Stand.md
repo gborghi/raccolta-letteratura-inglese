@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Last-Stand"></div>
+<div class="concept-works" data-slug="topoi/last-stand"></div>
 
 #graph/topos

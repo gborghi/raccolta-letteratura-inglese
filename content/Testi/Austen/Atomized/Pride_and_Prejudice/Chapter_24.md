@@ -2,15 +2,15 @@
 title: "[[Pride and Prejudice]] — Chapter 24"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_23">‹ Chapter 23</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_25">Chapter 25 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_23">‹ Chapter 23</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_25">Chapter 25 ›</a></div>
 </nav>
 
 

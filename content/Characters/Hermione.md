@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hermione"></div>
+<div class="concept-works" data-slug="characters/hermione"></div>
 
 #graph/character

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Death-Personified-(2)"></div>
+<div class="concept-works" data-slug="archetypes/death-personified-(2)"></div>
 
 #graph/archetype

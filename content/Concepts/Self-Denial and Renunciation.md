@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Self-Denial-and-Renunciation"></div>
+<div class="concept-works" data-slug="concepts/self-denial-and-renunciation"></div>
 
 #graph/concept

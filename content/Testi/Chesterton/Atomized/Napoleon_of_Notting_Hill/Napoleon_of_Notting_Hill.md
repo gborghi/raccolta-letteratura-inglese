@@ -2,14 +2,14 @@
 title: "Napoleon of Notting [[Hill]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
+parentWork: "works/napoleon-of-notting-hill-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Napoleon-of-Notting-Hill-(Chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
 </nav>
 
 

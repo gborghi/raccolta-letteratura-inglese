@@ -2,15 +2,15 @@
 title: "The Everlasting Man — Part 2: On the Man Called [[Christ]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Everlasting-Man-(Chesterton)"
+parentWork: "works/the-everlasting-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Everlasting-Man-(Chesterton)">The Everlasting Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-everlasting-man-(chesterton)">The Everlasting Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_everlasting_man/chapter_02_on_the_man_called_christ/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/the_everlasting_man/chapter_02_on_the_man_called_christ/part_03">part 03 ›</a></div>
 </nav>
 
 

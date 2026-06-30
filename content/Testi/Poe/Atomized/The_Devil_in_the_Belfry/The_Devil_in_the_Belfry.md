@@ -2,14 +2,14 @@
 title: "[[The Devil in the Belfry]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
+parentWork: "works/the-devil-in-the-belfry-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Devil-in-the-Belfry-(Poe)">The Devil in the Belfry</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-devil-in-the-belfry-(poe)">The Devil in the Belfry</a></div>
 </nav>
 
 

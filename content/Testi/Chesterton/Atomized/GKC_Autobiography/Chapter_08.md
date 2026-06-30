@@ -2,15 +2,15 @@
 title: "[[GKC-Autobiography]] — Chapter 8"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/GKC-Autobiography-(Chesterton)"
+parentWork: "works/gkc-autobiography-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Autobiography-(Chesterton)">GKC Autobiography</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_07">‹ Chapter 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_09">Chapter 09 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-autobiography-(chesterton)">GKC Autobiography</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_autobiography/chapter_07">‹ Chapter 07</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_autobiography/chapter_09">Chapter 09 ›</a></div>
 </nav>
 
 

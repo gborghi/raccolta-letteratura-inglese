@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Inscription"></div>
+<div class="concept-works" data-slug="forms/inscription"></div>
 
 #graph/form

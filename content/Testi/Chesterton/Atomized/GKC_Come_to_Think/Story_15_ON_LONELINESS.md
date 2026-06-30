@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON [[Loneliness|LONELINESS]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_14_ON_Ingeland">‹ Story 14 ON Ingeland</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_16_ON_THE_IMPORTANCE_OF_WHY_WE_DO_OR_DON_T">Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_14_on_ingeland">‹ Story 14 ON Ingeland</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_16_on_the_importance_of_why_we_do_or_don_t">Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T ›</a></div>
 </nav>
 
 

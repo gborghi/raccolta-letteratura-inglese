@@ -2,15 +2,15 @@
 title: "Wild Ducks — What is Right with the World? (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_47_What_is_Right_with_the_World/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_47_What_is_Right_with_the_World/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_47_what_is_right_with_the_world/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_47_what_is_right_with_the_world/part_03">part 03 ›</a></div>
 </nav>
 
 

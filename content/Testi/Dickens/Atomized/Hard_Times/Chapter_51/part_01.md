@@ -2,15 +2,15 @@
 title: "Hard Times — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Hard-Times-(Dickens)"
+parentWork: "works/hard-times-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_51/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_49/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_51/part_02">part 02 ›</a></div>
 </nav>
 
 

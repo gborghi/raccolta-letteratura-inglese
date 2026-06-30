@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 51: IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_52_HOW_MR_PICKWICK_SPED_UPON_HIS">‹ Chapter 52 HOW MR PICKWICK SPED UPON HIS</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_54_INVOLVING_A_SERIOUS_CHANGE_IN">Chapter 54 INVOLVING A SERIOUS CHANGE IN ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_52_how_mr_pickwick_sped_upon_his">‹ Chapter 52 HOW MR PICKWICK SPED UPON HIS</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_54_involving_a_serious_change_in">Chapter 54 INVOLVING A SERIOUS CHANGE IN ›</a></div>
 </nav>
 
 

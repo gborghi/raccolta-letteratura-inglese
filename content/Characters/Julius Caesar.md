@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Julius-Caesar"></div>
+<div class="concept-works" data-slug="characters/julius-caesar"></div>
 
 #graph/character

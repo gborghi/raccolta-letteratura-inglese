@@ -2,15 +2,15 @@
 title: "[[King John]] — Act IV, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/KING-JOHN-(Shakespeare)"
+parentWork: "works/king-john-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/King_John/Act_3/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/King_John/Act_4/Scene_3">Scene 3 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/king-john-(shakespeare)">King John</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/king_john/act_3/scene_4">‹ Scene 4</a><a class="ex-next" href="/testi/shakespeare/plays/king_john/act_4/scene_3">Scene 3 ›</a></div>
 </nav>
 
 

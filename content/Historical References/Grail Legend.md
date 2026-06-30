@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Grail-Legend"></div>
+<div class="concept-works" data-slug="historical-references/grail-legend"></div>
 
 #graph/histref

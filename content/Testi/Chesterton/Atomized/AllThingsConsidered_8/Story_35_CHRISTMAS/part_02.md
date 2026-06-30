@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_35_CHRISTMAS/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_35_CHRISTMAS/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_35_christmas/part_03">part 03 ›</a></div>
 </nav>
 
 

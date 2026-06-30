@@ -2,15 +2,15 @@
 title: "[[THE DEATH OF WALLENSTEIN]] — Act IV, Scene 3"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/THE-DEATH-OF-WALLENSTEIN-(Coleridge)"
+parentWork: "works/the-death-of-wallenstein-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-DEATH-OF-WALLENSTEIN-(Coleridge)">The Death of Wallenstein</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/The_Death_of_Wallenstein/Act_4/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Coleridge/Plays/The_Death_of_Wallenstein/Act_4/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-death-of-wallenstein-(coleridge)">The Death of Wallenstein</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/the_death_of_wallenstein/act_4/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/coleridge/plays/the_death_of_wallenstein/act_4/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

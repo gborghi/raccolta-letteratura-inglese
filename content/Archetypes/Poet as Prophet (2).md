@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Poet-as-Prophet-(2)"></div>
+<div class="concept-works" data-slug="archetypes/poet-as-prophet-(2)"></div>
 
 #graph/archetype

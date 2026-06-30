@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Fog-and-Smoke"></div>
+<div class="concept-works" data-slug="motifs/fog-and-smoke"></div>
 
 #graph/motif

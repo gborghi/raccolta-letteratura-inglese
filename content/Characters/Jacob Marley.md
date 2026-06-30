@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Jacob-Marley"></div>
+<div class="concept-works" data-slug="characters/jacob-marley"></div>
 
 #graph/character

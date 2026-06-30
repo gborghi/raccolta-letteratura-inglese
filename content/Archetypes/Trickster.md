@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Trickster"></div>
+<div class="concept-works" data-slug="archetypes/trickster"></div>
 
 #graph/archetype

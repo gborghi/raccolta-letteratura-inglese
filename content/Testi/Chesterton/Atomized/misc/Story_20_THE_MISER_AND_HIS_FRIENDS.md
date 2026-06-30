@@ -2,15 +2,15 @@
 title: "[[misc]] — THE MISER AND HIS FRIENDS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_19_THE_CONSCRIPT_AND_THE_CRISIS">‹ Story 19 THE CONSCRIPT AND THE CRISIS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_21_THE_MYSTAGOGUE">Story 21 THE MYSTAGOGUE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_19_the_conscript_and_the_crisis">‹ Story 19 THE CONSCRIPT AND THE CRISIS</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_21_the_mystagogue">Story 21 THE MYSTAGOGUE ›</a></div>
 </nav>
 
 

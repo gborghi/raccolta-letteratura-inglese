@@ -2,14 +2,14 @@
 title: "St Francis"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/St-Francis-(Chesterton)"
+parentWork: "works/st-francis-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/St-Francis-(Chesterton)">St Francis</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/st-francis-(chesterton)">St Francis</a></div>
 </nav>
 
 

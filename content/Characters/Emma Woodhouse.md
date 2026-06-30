@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Emma-Woodhouse"></div>
+<div class="concept-works" data-slug="characters/emma-woodhouse"></div>
 
 #graph/character

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Ages-of-the-World"></div>
+<div class="concept-works" data-slug="topoi/ages-of-the-world"></div>
 
 #graph/topos

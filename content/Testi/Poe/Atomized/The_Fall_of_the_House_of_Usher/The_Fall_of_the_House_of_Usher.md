@@ -2,14 +2,14 @@
 title: "[[The Fall of the House of Usher]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
+parentWork: "works/the-fall-of-the-house-of-usher-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Fall-of-the-House-of-Usher-(Poe)">The Fall of the House of Usher</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-fall-of-the-house-of-usher-(poe)">The Fall of the House of Usher</a></div>
 </nav>
 
 

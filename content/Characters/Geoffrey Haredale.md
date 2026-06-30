@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Geoffrey-Haredale"></div>
+<div class="concept-works" data-slug="characters/geoffrey-haredale"></div>
 
 #graph/character

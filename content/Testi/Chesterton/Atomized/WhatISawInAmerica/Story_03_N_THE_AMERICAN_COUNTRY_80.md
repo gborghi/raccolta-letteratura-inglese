@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — N THE AMERICAN COUNTRY               80"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_02_RISH_AND_OTHER_INTERVIEWERS_47">‹ Story 02 RISH AND OTHER INTERVIEWERS 47</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_04_S_THE_ATLANTIC_NARROWING_208">Story 04 S THE ATLANTIC NARROWING 208 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_02_rish_and_other_interviewers_47">‹ Story 02 RISH AND OTHER INTERVIEWERS 47</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_04_s_the_atlantic_narrowing_208">Story 04 S THE ATLANTIC NARROWING 208 ›</a></div>
 </nav>
 
 

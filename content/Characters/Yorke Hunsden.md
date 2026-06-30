@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Yorke-Hunsden"></div>
+<div class="concept-works" data-slug="characters/yorke-hunsden"></div>
 
 #graph/character

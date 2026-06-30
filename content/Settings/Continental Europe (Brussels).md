@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Continental-Europe-(Brussels)"></div>
+<div class="concept-works" data-slug="settings/continental-europe-(brussels)"></div>
 
 #graph/setting

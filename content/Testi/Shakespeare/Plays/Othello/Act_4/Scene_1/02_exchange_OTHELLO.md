@@ -2,14 +2,14 @@
 title: "[[Othello]] — Act IV, Scene 1 — exchange ([[Othello|OTHELLO]]) [2]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/OTHELLO-(Shakespeare)"
+parentWork: "works/othello-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/othello-(shakespeare)">Othello</a></div>
 </nav>
 
 

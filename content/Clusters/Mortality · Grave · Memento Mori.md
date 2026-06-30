@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Mortality-·-Grave-·-Memento-Mori"></div>
+<div class="concept-works" data-slug="clusters/mortality-·-grave-·-memento-mori"></div>

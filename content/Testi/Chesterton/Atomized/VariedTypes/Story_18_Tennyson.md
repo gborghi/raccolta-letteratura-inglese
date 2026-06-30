@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — Tennyson"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_17_The_German_Emperor">‹ Story 17 The German Emperor</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_19_Elizabeth_Barrett_Browning">Story 19 Elizabeth Barrett Browning ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_17_the_german_emperor">‹ Story 17 The German Emperor</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_19_elizabeth_barrett_browning">Story 19 Elizabeth Barrett Browning ›</a></div>
 </nav>
 
 

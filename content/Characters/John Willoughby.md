@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/John-Willoughby"></div>
+<div class="concept-works" data-slug="characters/john-willoughby"></div>
 
 #graph/character

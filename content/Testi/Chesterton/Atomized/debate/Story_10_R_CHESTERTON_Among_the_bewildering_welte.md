@@ -2,15 +2,15 @@
 title: "[[debate]] — R. CHESTERTON:  Among the bewildering welter of fallacies which"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_09_R_SHAW_I_cannot_say_that_Mr_Chesterton_h">‹ Story 09 R SHAW I cannot say that Mr Chesterton h</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_11_R_SHAW_I_now_want_to_ask_Mr_Chesterton_w">Story 11 R SHAW I now want to ask Mr Chesterton w ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_09_r_shaw_i_cannot_say_that_mr_chesterton_h">‹ Story 09 R SHAW I cannot say that Mr Chesterton h</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_11_r_shaw_i_now_want_to_ask_mr_chesterton_w">Story 11 R SHAW I now want to ask Mr Chesterton w ›</a></div>
 </nav>
 
 

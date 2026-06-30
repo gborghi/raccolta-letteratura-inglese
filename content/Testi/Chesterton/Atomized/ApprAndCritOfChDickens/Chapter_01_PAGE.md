@@ -2,15 +2,15 @@
 title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
+parentWork: "works/apprandcritofchdickens-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_desire_to_say_as_little_as_pos">Chapter 02 desire to say as little as pos ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_desire_to_say_as_little_as_pos">Chapter 02 desire to say as little as pos ›</a></div>
 </nav>
 
 

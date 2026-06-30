@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Ode-·-Nature-vs-Civilization-·-Pastoral-Retreat"></div>
+<div class="concept-works" data-slug="clusters/ode-·-nature-vs-civilization-·-pastoral-retreat"></div>

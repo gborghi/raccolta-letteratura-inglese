@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Critique-of-Progress"></div>
+<div class="concept-works" data-slug="concepts/critique-of-progress"></div>
 
 #graph/concept

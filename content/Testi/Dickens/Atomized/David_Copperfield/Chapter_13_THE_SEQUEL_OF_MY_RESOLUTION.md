@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT">‹ Chapter 12 LIKING LIFE ON MY OWN ACCOUNT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU">Chapter 14 MY AUNT MAKES UP HER MIND ABOU ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_12_liking_life_on_my_own_account">‹ Chapter 12 LIKING LIFE ON MY OWN ACCOUNT</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_14_my_aunt_makes_up_her_mind_abou">Chapter 14 MY AUNT MAKES UP HER MIND ABOU ›</a></div>
 </nav>
 
 

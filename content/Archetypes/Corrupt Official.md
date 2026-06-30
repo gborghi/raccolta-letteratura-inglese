@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Corrupt-Official"></div>
+<div class="concept-works" data-slug="archetypes/corrupt-official"></div>
 
 #graph/archetype

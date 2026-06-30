@@ -2,14 +2,14 @@
 title: "[[Hyperion]]"
 author: "Keats"
 unitType: work
-parentWork: "Works/Hyperion-(Keats)"
+parentWork: "works/hyperion-(keats)"
 tags:
   - graph/excerpt
   - author/Keats
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Keats · <a href="/Works/Hyperion-(Keats)">Hyperion</a></div>
+<div class="excerpt-crumb">Keats · <a href="/works/hyperion-(keats)">Hyperion</a></div>
 </nav>
 
 

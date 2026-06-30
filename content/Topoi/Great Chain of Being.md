@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Great-Chain-of-Being"></div>
+<div class="concept-works" data-slug="topoi/great-chain-of-being"></div>
 
 #graph/topos

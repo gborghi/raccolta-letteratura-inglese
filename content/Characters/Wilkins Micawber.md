@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Wilkins-Micawber"></div>
+<div class="concept-works" data-slug="characters/wilkins-micawber"></div>
 
 #graph/character

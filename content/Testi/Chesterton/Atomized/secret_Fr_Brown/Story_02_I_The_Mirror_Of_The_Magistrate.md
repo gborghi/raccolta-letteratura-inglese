@@ -2,15 +2,15 @@
 title: "secret Fr Brown — I. The [[Mirror]] Of The Magistrate"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_01_The_Secret_Of_Father_Brown">‹ Story 01 The Secret Of Father Brown</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_03_Ii_The_Man_With_Two_Beards">Story 03 Ii The Man With Two Beards ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_01_the_secret_of_father_brown">‹ Story 01 The Secret Of Father Brown</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_03_ii_the_man_with_two_beards">Story 03 Ii The Man With Two Beards ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 1: Sun and [[Shadow]] (part 5)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_04_Sun_and_Shadow/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_05_Fellow_Travellers/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_04_sun_and_shadow/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_05_fellow_travellers/part_01">part 01 ›</a></div>
 </nav>
 
 

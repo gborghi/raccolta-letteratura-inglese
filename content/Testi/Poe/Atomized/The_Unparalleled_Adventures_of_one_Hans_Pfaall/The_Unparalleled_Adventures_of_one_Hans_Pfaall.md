@@ -2,14 +2,14 @@
 title: "[[The Unparalleled Adventures of one Hans Pfaall]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
+parentWork: "works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)">The Unparalleled Adventures of one Hans Pfaall</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-unparalleled-adventures-of-one-hans-pfaall-(poe)">The Unparalleled Adventures of one Hans Pfaall</a></div>
 </nav>
 
 

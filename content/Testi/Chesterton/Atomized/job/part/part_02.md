@@ -2,15 +2,15 @@
 title: "job (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/job-(Chesterton)"
+parentWork: "works/job-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/job-(Chesterton)">job</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/job/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/job/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/job-(chesterton)">job</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/job/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/job/part/part_03">part 03 ›</a></div>
 </nav>
 
 

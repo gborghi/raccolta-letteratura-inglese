@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Ancient-Rome-(2)"></div>
+<div class="concept-works" data-slug="settings/ancient-rome-(2)"></div>
 
 #graph/setting

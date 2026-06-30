@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — The Last Parley (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_19_The_Last_Parley/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_20_Dies_Irae/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_19_the_last_parley/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_20_dies_irae/part_01">part 01 ›</a></div>
 </nav>
 
 

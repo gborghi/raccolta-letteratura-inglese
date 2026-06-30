@@ -2,14 +2,14 @@
 title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 24 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
+parentWork: "works/the-history-of-king-lear---the-quarto-text-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-history-of-king-lear---the-quarto-text-(shakespeare)">The History of King Lear Quarto Text</a></div>
 </nav>
 
 

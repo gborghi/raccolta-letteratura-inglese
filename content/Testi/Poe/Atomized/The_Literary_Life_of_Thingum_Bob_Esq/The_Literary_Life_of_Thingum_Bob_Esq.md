@@ -2,14 +2,14 @@
 title: "[[The Literary Life of Thingum Bob, Esq]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
+parentWork: "works/the-literary-life-of-thingum-bob,-esq-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)">The Literary Life of Thingum Bob Esq</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-literary-life-of-thingum-bob,-esq-(poe)">The Literary Life of Thingum Bob Esq</a></div>
 </nav>
 
 

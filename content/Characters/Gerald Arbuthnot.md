@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Gerald-Arbuthnot"></div>
+<div class="concept-works" data-slug="characters/gerald-arbuthnot"></div>
 
 #graph/character

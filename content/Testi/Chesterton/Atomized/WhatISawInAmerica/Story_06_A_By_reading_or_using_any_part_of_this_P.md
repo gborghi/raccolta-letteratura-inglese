@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — A.  By reading or using any part of this Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_05_NCOLN_AND_LOST_CAUSES_222">‹ Story 05 NCOLN AND LOST CAUSES 222</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_07_B_Project_Gutenberg_is_a_registered_trad">Story 07 B Project Gutenberg is a registered trad ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_05_ncoln_and_lost_causes_222">‹ Story 05 NCOLN AND LOST CAUSES 222</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_07_b_project_gutenberg_is_a_registered_trad">Story 07 B Project Gutenberg is a registered trad ›</a></div>
 </nav>
 
 

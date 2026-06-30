@@ -2,15 +2,15 @@
 title: "Antony and [[Cleopatra]] — Act I, Scene 1"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
+parentWork: "works/antony-and-cleopatra-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_1/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/antony-and-cleopatra-(shakespeare)">Antony and Cleopatra</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/shakespeare/plays/antony_and_cleopatra/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VIII—THE GREAT WINGLEBURY DUEL"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_58_I_really_thought_the_Ram_would_have_drop">‹ Story 58 I really thought the Ram would have drop</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_60_HAPTER_IXMRS_JOSEPH_PORTER">Story 60 HAPTER IXMRS JOSEPH PORTER ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_58_i_really_thought_the_ram_would_have_drop">‹ Story 58 I really thought the Ram would have drop</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_60_hapter_ixmrs_joseph_porter">Story 60 HAPTER IXMRS JOSEPH PORTER ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Norse-Pagan-Myth"></div>
+<div class="concept-works" data-slug="historical-references/norse-pagan-myth"></div>
 
 #graph/histref

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Sleeper-Awakes"></div>
+<div class="concept-works" data-slug="topoi/sleeper-awakes"></div>
 
 #graph/topos

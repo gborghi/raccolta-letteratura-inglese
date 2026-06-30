@@ -2,15 +2,15 @@
 title: "[[Common Man]] — From Meredith To Rupert Brooke (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_15_From_Meredith_To_Rupert_Brooke/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_15_From_Meredith_To_Rupert_Brooke/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_15_from_meredith_to_rupert_brooke/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_15_from_meredith_to_rupert_brooke/part_03">part 03 ›</a></div>
 </nav>
 
 

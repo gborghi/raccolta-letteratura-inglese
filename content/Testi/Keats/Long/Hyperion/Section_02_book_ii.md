@@ -2,15 +2,15 @@
 title: "[[Hyperion]] — Book II"
 author: "Keats"
 unitType: section
-parentWork: "Works/Hyperion-(Keats)"
+parentWork: "works/hyperion-(keats)"
 tags:
   - graph/excerpt
   - author/Keats
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Keats · <a href="/Works/Hyperion-(Keats)">Hyperion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Keats/Long/Hyperion/Section_01_book_i">‹ Section 01 book i</a><a class="ex-next" href="/Testi/Keats/Long/Hyperion/Section_03_book_iii">Section 03 book iii ›</a></div>
+<div class="excerpt-crumb">Keats · <a href="/works/hyperion-(keats)">Hyperion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/keats/long/hyperion/section_01_book_i">‹ Section 01 book i</a><a class="ex-next" href="/testi/keats/long/hyperion/section_03_book_iii">Section 03 book iii ›</a></div>
 </nav>
 
 

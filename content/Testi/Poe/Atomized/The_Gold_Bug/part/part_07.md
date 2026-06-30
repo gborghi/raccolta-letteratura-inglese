@@ -2,15 +2,15 @@
 title: "[[The Gold-Bug]] (part 7)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Gold-Bug-(Poe)"
+parentWork: "works/the-gold-bug-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Gold-Bug-(Poe)">The Gold Bug</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Gold_Bug/part/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Gold_Bug/part/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-gold-bug-(poe)">The Gold Bug</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_gold_bug/part/part_06">‹ part 06</a><a class="ex-next" href="/testi/poe/atomized/the_gold_bug/part/part_08">part 08 ›</a></div>
 </nav>
 
 

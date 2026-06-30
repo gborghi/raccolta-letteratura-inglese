@@ -58,15 +58,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Section 00 dedication](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_00_dedication)
-- [Section 01 book i](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_01_book_i)
-- [Section 02 book ii](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_02_book_ii)
-- [Section 03 book iii](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_03_book_iii)
-- [Section 04 book iv](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_04_book_iv)
-- [Section 05 book v](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_05_book_v)
-- [Section 06 book vi](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_06_book_vi)
-- [Section 07 book vii](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_07_book_vii)
-- [Section 08 book viii](/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_08_book_viii)
+- [Section 00 dedication](/testi/chesterton/long/the_ballad_of_the_white_horse/section_00_dedication)
+- [Section 01 book i](/testi/chesterton/long/the_ballad_of_the_white_horse/section_01_book_i)
+- [Section 02 book ii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_02_book_ii)
+- [Section 03 book iii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_03_book_iii)
+- [Section 04 book iv](/testi/chesterton/long/the_ballad_of_the_white_horse/section_04_book_iv)
+- [Section 05 book v](/testi/chesterton/long/the_ballad_of_the_white_horse/section_05_book_v)
+- [Section 06 book vi](/testi/chesterton/long/the_ballad_of_the_white_horse/section_06_book_vi)
+- [Section 07 book vii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_07_book_vii)
+- [Section 08 book viii](/testi/chesterton/long/the_ballad_of_the_white_horse/section_08_book_viii)
 
 
 ## Testo integrale / Full text

@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 32: More Fortune-Telling"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_34_Spirit">‹ Chapter 34 Spirit</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_36_Mrs_Merdles_Complaint">Chapter 36 Mrs Merdles Complaint ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_34_spirit">‹ Chapter 34 Spirit</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_36_mrs_merdles_complaint">Chapter 36 Mrs Merdles Complaint ›</a></div>
 </nav>
 
 

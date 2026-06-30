@@ -2,15 +2,15 @@
 title: "The Glass Walking Stick — On The True [[artist|Artist]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
+parentWork: "works/the-glass-walking-stick-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_38_To_Praise_Exalt_Establish_And_Defend">‹ Story 38 To Praise Exalt Establish And Defend</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_40_On_The_Essay">Story 40 On The Essay ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-glass-walking-stick-(chesterton)">The Glass Walking Stick</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_glass_walking_stick/story_38_to_praise_exalt_establish_and_defend">‹ Story 38 To Praise Exalt Establish And Defend</a><a class="ex-next" href="/testi/chesterton/atomized/the_glass_walking_stick/story_40_on_the_essay">Story 40 On The Essay ›</a></div>
 </nav>
 
 

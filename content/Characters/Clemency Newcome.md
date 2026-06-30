@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Clemency-Newcome"></div>
+<div class="concept-works" data-slug="characters/clemency-newcome"></div>
 
 #graph/character

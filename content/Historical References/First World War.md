@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/First-World-War"></div>
+<div class="concept-works" data-slug="historical-references/first-world-war"></div>
 
 #graph/histref

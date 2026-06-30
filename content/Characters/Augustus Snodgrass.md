@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Augustus-Snodgrass"></div>
+<div class="concept-works" data-slug="characters/augustus-snodgrass"></div>
 
 #graph/character

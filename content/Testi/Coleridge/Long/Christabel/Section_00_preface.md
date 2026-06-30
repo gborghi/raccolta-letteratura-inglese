@@ -2,15 +2,15 @@
 title: "[[Christabel]] — Preface"
 author: "Coleridge"
 unitType: section
-parentWork: "Works/CHRISTABEL-(Coleridge)"
+parentWork: "works/christabel-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/CHRISTABEL-(Coleridge)">Christabel</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Coleridge/Long/Christabel/Section_01_part_i">Section 01 part i ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/christabel-(coleridge)">Christabel</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/coleridge/long/christabel/section_01_part_i">Section 01 part i ›</a></div>
 </nav>
 
 

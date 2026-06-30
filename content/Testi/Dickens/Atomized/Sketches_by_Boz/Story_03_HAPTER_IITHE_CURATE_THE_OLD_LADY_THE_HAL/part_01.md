@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER II—THE CURATE. THE OLD LADY. THE HALF-PAY CAPTAIN (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_69_R_ROBERT_BOLTON_THE_GENTLEMAN_CONNECTED">‹ Story 69 R ROBERT BOLTON THE GENTLEMAN CONNECTED</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_03_HAPTER_IITHE_CURATE_THE_OLD_LADY_THE_HAL/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_69_r_robert_bolton_the_gentleman_connected">‹ Story 69 R ROBERT BOLTON THE GENTLEMAN CONNECTED</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_03_hapter_iithe_curate_the_old_lady_the_hal/part_02">part 02 ›</a></div>
 </nav>
 
 

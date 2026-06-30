@@ -2,14 +2,14 @@
 title: "The Mystery of [[Edwin Drood]]"
 author: "Dickens"
 unitType: work
-parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
+parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Flying [[Stars]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_03_The_Queer_Feet/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_03_the_queer_feet/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars/part_02">part 02 ›</a></div>
 </nav>
 
 

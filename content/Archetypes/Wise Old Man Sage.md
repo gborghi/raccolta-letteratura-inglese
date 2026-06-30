@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Wise-Old-Man-Sage"></div>
+<div class="concept-works" data-slug="archetypes/wise-old-man-sage"></div>
 
 #graph/archetype

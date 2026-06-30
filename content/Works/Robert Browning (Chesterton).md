@@ -36,15 +36,15 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_08)
-- [Chapter 09 Interpretations of Poetry and](/Testi/Chesterton/Atomized/Robert_Browning/Chapter_09_Interpretations_of_Poetry_and)
+- [Chapter 01](/testi/chesterton/atomized/robert_browning/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/robert_browning/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/robert_browning/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/robert_browning/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/robert_browning/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/robert_browning/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/robert_browning/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/robert_browning/chapter_08)
+- [Chapter 09 Interpretations of Poetry and](/testi/chesterton/atomized/robert_browning/chapter_09_interpretations_of_poetry_and)
 
 ## Testo integrale / Full text
 

@@ -2,15 +2,15 @@
 title: "[[Pride and Prejudice]] — Chapter 30"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Pride-and-Prejudice-(Austen)"
+parentWork: "works/pride-and-prejudice-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_29">‹ Chapter 29</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_31">Chapter 31 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/pride-and-prejudice-(austen)">Pride and Prejudice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/pride_and_prejudice/chapter_29">‹ Chapter 29</a><a class="ex-next" href="/testi/austen/atomized/pride_and_prejudice/chapter_31">Chapter 31 ›</a></div>
 </nav>
 
 

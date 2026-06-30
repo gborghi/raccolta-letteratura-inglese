@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Rose-·-Desire-·-Value-and-Scarcity"></div>
+<div class="concept-works" data-slug="clusters/rose-·-desire-·-value-and-scarcity"></div>

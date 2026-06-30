@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/(Reputed)-Fallen-Woman"></div>
+<div class="concept-works" data-slug="archetypes/(reputed)-fallen-woman"></div>
 
 #graph/archetype

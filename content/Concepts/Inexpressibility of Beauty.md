@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Inexpressibility-of-Beauty"></div>
+<div class="concept-works" data-slug="concepts/inexpressibility-of-beauty"></div>
 
 #graph/concept

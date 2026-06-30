@@ -2,15 +2,15 @@
 title: "[[Mansfield Park]] — Chapter 22 (part 4)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Mansfield-Park-(Austen)"
+parentWork: "works/mansfield-park-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_23/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/mansfield_park/chapter_22/part_03">‹ part 03</a><a class="ex-next" href="/testi/austen/atomized/mansfield_park/chapter_23/part_01">part 01 ›</a></div>
 </nav>
 
 

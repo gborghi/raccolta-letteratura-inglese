@@ -2,14 +2,14 @@
 title: "[[Thou Art the Man]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Thou-Art-the-Man-(Poe)"
+parentWork: "works/thou-art-the-man-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Thou-Art-the-Man-(Poe)">Thou Art the Man</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/thou-art-the-man-(poe)">Thou Art the Man</a></div>
 </nav>
 
 

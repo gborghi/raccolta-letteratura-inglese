@@ -2,15 +2,15 @@
 title: "[[The Landscape Garden]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Landscape-Garden-(Poe)"
+parentWork: "works/the-landscape-garden-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Landscape-Garden-(Poe)">The Landscape Garden</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Landscape_Garden/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Landscape_Garden/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-landscape-garden-(poe)">The Landscape Garden</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_landscape_garden/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/poe/atomized/the_landscape_garden/part/part_04">part 04 ›</a></div>
 </nav>
 
 

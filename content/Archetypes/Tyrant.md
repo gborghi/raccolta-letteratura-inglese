@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Tyrant"></div>
+<div class="concept-works" data-slug="archetypes/tyrant"></div>
 
 #graph/archetype

@@ -2,15 +2,15 @@
 title: "Alls [[Well]] that Ends [[Well]] — Act III, Scene 3"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)"
+parentWork: "works/all’s-well-that-ends-well-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)">Alls Well that Ends Well</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_3/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_3/Scene_4">Scene 4 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/all’s-well-that-ends-well-(shakespeare)">Alls Well that Ends Well</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_3/scene_2">‹ Scene 2</a><a class="ex-next" href="/testi/shakespeare/plays/alls_well_that_ends_well/act_3/scene_4">Scene 4 ›</a></div>
 </nav>
 
 

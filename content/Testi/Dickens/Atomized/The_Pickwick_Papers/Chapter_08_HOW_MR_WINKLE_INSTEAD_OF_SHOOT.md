@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_07_AN_OLD_FASHIONED_CARD_PARTY_TH">‹ Chapter 07 AN OLD FASHIONED CARD PARTY TH</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_09_STRONGLY_ILLUSTRATIVE_OF_THE_P">Chapter 09 STRONGLY ILLUSTRATIVE OF THE P ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_07_an_old_fashioned_card_party_th">‹ Chapter 07 AN OLD FASHIONED CARD PARTY TH</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_09_strongly_illustrative_of_the_p">Chapter 09 STRONGLY ILLUSTRATIVE OF THE P ›</a></div>
 </nav>
 
 

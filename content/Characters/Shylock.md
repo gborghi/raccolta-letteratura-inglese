@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Shylock"></div>
+<div class="concept-works" data-slug="characters/shylock"></div>
 
 #graph/character

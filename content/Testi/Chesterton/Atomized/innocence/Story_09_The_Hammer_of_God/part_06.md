@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Hammer of God (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_09_The_Hammer_of_God/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_10_The_Eye_of_Apollo/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_09_the_hammer_of_god/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_10_the_eye_of_apollo/part_01">part 01 ›</a></div>
 </nav>
 
 

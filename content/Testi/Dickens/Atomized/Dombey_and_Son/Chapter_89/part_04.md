@@ -2,15 +2,15 @@
 title: "Dombey and Son — Chapter 33 (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Dombey-and-Son-(Dickens)"
+parentWork: "works/dombey-and-son-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_89/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_89/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/dombey-and-son-(dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/dombey_and_son/chapter_89/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/dombey_and_son/chapter_89/part_05">part 05 ›</a></div>
 </nav>
 
 

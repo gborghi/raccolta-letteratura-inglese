@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Unattainable-Beloved"></div>
+<div class="concept-works" data-slug="topoi/unattainable-beloved"></div>
 
 #graph/topos

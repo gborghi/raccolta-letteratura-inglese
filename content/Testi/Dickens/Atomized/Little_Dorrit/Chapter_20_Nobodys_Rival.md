@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 17: Nobody’s Rival"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_19_Nobodys_Weakness">‹ Chapter 19 Nobodys Weakness</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_21_Little_Dorrits_Lover">Chapter 21 Little Dorrits Lover ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_19_nobodys_weakness">‹ Chapter 19 Nobodys Weakness</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_21_little_dorrits_lover">Chapter 21 Little Dorrits Lover ›</a></div>
 </nav>
 
 

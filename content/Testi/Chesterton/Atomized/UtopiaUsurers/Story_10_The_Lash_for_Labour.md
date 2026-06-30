@@ -2,15 +2,15 @@
 title: "[[UtopiaUsurers]] — The Lash for Labour"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/UtopiaUsurers-(Chesterton)"
+parentWork: "works/utopiausurers-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_09_The_Evolution_of_the_Prison">‹ Story 09 The Evolution of the Prison</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism">Story 11 The Mask of Socialism ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/utopiausurers-(chesterton)">UtopiaUsurers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/utopiausurers/story_09_the_evolution_of_the_prison">‹ Story 09 The Evolution of the Prison</a><a class="ex-next" href="/testi/chesterton/atomized/utopiausurers/story_11_the_mask_of_socialism">Story 11 The Mask of Socialism ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 9)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Robert-Browning-(Chesterton)"
+parentWork: "works/robert-browning-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Browning-(Chesterton)">Robert Browning</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Robert_Browning/Chapter_09_Interpretations_of_Poetry_and/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Robert_Browning/Chapter_09_Interpretations_of_Poetry_and/part_10">part 10 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/robert-browning-(chesterton)">Robert Browning</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/robert_browning/chapter_09_interpretations_of_poetry_and/part_08">‹ part 08</a><a class="ex-next" href="/testi/chesterton/atomized/robert_browning/chapter_09_interpretations_of_poetry_and/part_10">part 10 ›</a></div>
 </nav>
 
 

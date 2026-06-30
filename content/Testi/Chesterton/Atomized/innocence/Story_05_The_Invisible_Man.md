@@ -2,15 +2,15 @@
 title: "[[innocence]] — The Invisible Man"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/innocence-(Chesterton)"
+parentWork: "works/innocence-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars">‹ Story 04 The Flying Stars</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_06_The_Honour_of_Israel_Gow">Story 06 The Honour of Israel Gow ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/innocence-(chesterton)">innocence</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/innocence/story_04_the_flying_stars">‹ Story 04 The Flying Stars</a><a class="ex-next" href="/testi/chesterton/atomized/innocence/story_06_the_honour_of_israel_gow">Story 06 The Honour of Israel Gow ›</a></div>
 </nav>
 
 

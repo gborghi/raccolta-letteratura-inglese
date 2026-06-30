@@ -2,15 +2,15 @@
 title: "Man Orthodox — The Vision Of Vulgarity, I"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_140_Northcliffe">‹ Story 140 Northcliffe</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_142_The_Vision_Of_Vulgarity_Ii">Story 142 The Vision Of Vulgarity Ii ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_140_northcliffe">‹ Story 140 Northcliffe</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_142_the_vision_of_vulgarity_ii">Story 142 The Vision Of Vulgarity Ii ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Anti-Industrialism"></div>
+<div class="concept-works" data-slug="concepts/anti-industrialism"></div>
 
 #graph/concept

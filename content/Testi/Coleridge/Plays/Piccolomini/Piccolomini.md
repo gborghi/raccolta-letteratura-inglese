@@ -2,14 +2,14 @@
 title: "[[THE PICCOLOMINI|THE PICCOLOMINI]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/THE-PICCOLOMINI-(Coleridge)"
+parentWork: "works/the-piccolomini-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/THE-PICCOLOMINI-(Coleridge)">Piccolomini</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/the-piccolomini-(coleridge)">Piccolomini</a></div>
 </nav>
 
 

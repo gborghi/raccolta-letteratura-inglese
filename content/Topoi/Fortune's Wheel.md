@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Fortune's-Wheel"></div>
+<div class="concept-works" data-slug="topoi/fortune's-wheel"></div>
 
 #graph/topos

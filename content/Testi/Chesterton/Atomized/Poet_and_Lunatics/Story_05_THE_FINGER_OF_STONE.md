@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE FINGER OF STONE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_04_THE_CRIME_OF_GABRIEL_GALE">‹ Story 04 THE CRIME OF GABRIEL GALE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_06_THE_HOUSE_OF_THE_PEACOCK">Story 06 THE HOUSE OF THE PEACOCK ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_04_the_crime_of_gabriel_gale">‹ Story 04 THE CRIME OF GABRIEL GALE</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_06_the_house_of_the_peacock">Story 06 THE HOUSE OF THE PEACOCK ›</a></div>
 </nav>
 
 

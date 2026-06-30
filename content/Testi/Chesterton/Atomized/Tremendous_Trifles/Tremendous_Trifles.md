@@ -2,14 +2,14 @@
 title: "Tremendous Trifles"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/Tremendous-Trifles-(Chesterton)"
+parentWork: "works/tremendous-trifles-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Tremendous-Trifles-(Chesterton)">Tremendous Trifles</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/tremendous-trifles-(chesterton)">Tremendous Trifles</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_24_After_First_Fredericksburg">‹ Story 24 After First Fredericksburg</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_26_Fifty_Hours_Left_Wounded_on_the_Field">Story 26 Fifty Hours Left Wounded on the Field ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_24_after_first_fredericksburg">‹ Story 24 After First Fredericksburg</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_26_fifty_hours_left_wounded_on_the_field">Story 26 Fifty Hours Left Wounded on the Field ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duke-of-Aumerle"></div>
+<div class="concept-works" data-slug="characters/duke-of-aumerle"></div>
 
 #graph/character

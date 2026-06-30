@@ -2,14 +2,14 @@
 title: "The Flying Inn"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/The-Flying-Inn-(Chesterton)-(2)"
+parentWork: "works/the-flying-inn-(chesterton)-(2)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)-(2)">The Flying Inn 2</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)-(2)">The Flying Inn 2</a></div>
 </nav>
 
 

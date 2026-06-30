@@ -2,15 +2,15 @@
 title: "[[Sword]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Sword-(Chesterton)"
+parentWork: "works/sword-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sword-(Chesterton)">Sword</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sword/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sword/part/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sword-(chesterton)">Sword</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sword/part/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/sword/part/part_04">part 04 ›</a></div>
 </nav>
 
 

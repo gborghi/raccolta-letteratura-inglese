@@ -2,14 +2,14 @@
 title: "American Notes"
 author: "Dickens"
 unitType: work
-parentWork: "Works/American-Notes-(Dickens)"
+parentWork: "works/american-notes-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/American-Notes-(Dickens)">American Notes</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/american-notes-(dickens)">American Notes</a></div>
 </nav>
 
 

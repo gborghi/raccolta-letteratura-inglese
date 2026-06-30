@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Mary-Crawford"></div>
+<div class="concept-works" data-slug="characters/mary-crawford"></div>
 
 #graph/character

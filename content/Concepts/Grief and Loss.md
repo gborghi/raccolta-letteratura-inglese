@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Grief-and-Loss"></div>
+<div class="concept-works" data-slug="concepts/grief-and-loss"></div>
 
 #graph/concept

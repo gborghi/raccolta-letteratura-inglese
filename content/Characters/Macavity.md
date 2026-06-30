@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Macavity"></div>
+<div class="concept-works" data-slug="characters/macavity"></div>
 
 #graph/character

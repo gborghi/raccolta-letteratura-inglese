@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER III—THE FOUR SISTERS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_03_HAPTER_IITHE_CURATE_THE_OLD_LADY_THE_HAL">‹ Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_05_HAPTER_IVTHE_ELECTION_FOR_BEADLE">Story 05 HAPTER IVTHE ELECTION FOR BEADLE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_03_hapter_iithe_curate_the_old_lady_the_hal">‹ Story 03 HAPTER IITHE CURATE THE OLD LADY THE HAL</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_05_hapter_ivthe_election_for_beadle">Story 05 HAPTER IVTHE ELECTION FOR BEADLE ›</a></div>
 </nav>
 
 

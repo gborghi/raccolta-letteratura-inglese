@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — C.  The Project Gutenberg Literary Archive Foundation (\"the Foundation\""
 author: "Chesterton"
 unitType: story
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_07_B_Project_Gutenberg_is_a_registered_trad">‹ Story 07 B Project Gutenberg is a registered trad</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_09_D_The_copyright_laws_of_the_place_where">Story 09 D The copyright laws of the place where ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_07_b_project_gutenberg_is_a_registered_trad">‹ Story 07 B Project Gutenberg is a registered trad</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_09_d_the_copyright_laws_of_the_place_where">Story 09 D The copyright laws of the place where ›</a></div>
 </nav>
 
 

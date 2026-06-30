@@ -2,15 +2,15 @@
 title: "The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — FE AMONG FIFTY THOUSAND SOLDIERS (part 8)"
 author: "Whitman"
 unitType: excerpt
-parentWork: "Works/The-Wound-Dresser-(Whitman)"
+parentWork: "works/the-wound-dresser-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_04_FE_AMONG_FIFTY_THOUSAND_SOLDIERS/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_05_ETTERS_OF_1862_3/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/the-wound-dresser-(whitman)">The Wound Dresser</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/the_wound_dresser/story_04_fe_among_fifty_thousand_soldiers/part_07">‹ part 07</a><a class="ex-next" href="/testi/whitman/atomized/the_wound_dresser/story_05_etters_of_1862_3/part_01">part 01 ›</a></div>
 </nav>
 
 

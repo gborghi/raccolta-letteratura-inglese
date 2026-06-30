@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Nationalism-and-Patriotism"></div>
+<div class="concept-works" data-slug="concepts/nationalism-and-patriotism"></div>
 
 #graph/concept

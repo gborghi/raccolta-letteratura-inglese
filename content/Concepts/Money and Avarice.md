@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Money-and-Avarice"></div>
+<div class="concept-works" data-slug="concepts/money-and-avarice"></div>
 
 #graph/concept

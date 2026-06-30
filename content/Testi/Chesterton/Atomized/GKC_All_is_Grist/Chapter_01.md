@@ -2,15 +2,15 @@
 title: "GKC All is Grist — Chapter 1"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/GKC-All-is-Grist-(Chesterton)"
+parentWork: "works/gkc-all-is-grist-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-All-is-Grist-(Chesterton)">GKC All is Grist</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_All_is_Grist/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-all-is-grist-(chesterton)">GKC All is Grist</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/gkc_all_is_grist/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VII—THE MISPLACED ATTACHMENT OF MR. JOHN DOUNCE"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_40_HAPTER_VITHE_HOSPITAL_PATIENT">‹ Story 40 HAPTER VITHE HOSPITAL PATIENT</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_42_HAPTER_VIIITHE_MISTAKEN_MILLINER_A_TALE">Story 42 HAPTER VIIITHE MISTAKEN MILLINER A TALE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_40_hapter_vithe_hospital_patient">‹ Story 40 HAPTER VITHE HOSPITAL PATIENT</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_42_hapter_viiithe_mistaken_milliner_a_tale">Story 42 HAPTER VIIITHE MISTAKEN MILLINER A TALE ›</a></div>
 </nav>
 
 

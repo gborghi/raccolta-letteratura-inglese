@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Greed-and-Money"></div>
+<div class="concept-works" data-slug="concepts/greed-and-money"></div>
 
 #graph/concept

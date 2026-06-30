@@ -2,15 +2,15 @@
 title: "[[MrPond]] — The Terrible Troubadour (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_07_the_terrible_troubadour/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_07_the_terrible_troubadour/part_05">part 05 ›</a></div>
 </nav>
 
 

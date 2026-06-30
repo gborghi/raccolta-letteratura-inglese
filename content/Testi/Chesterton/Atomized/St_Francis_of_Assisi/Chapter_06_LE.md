@@ -2,15 +2,15 @@
 title: "St. Francis of Assisi — Chapter 5: LE"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/St.-Francis-of-Assisi-(Chesterton)"
+parentWork: "works/st.-francis-of-assisi-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/St.-Francis-of-Assisi-(Chesterton)">St Francis of Assisi</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_05_have_but_outlined_it_from_the">‹ Chapter 05 have but outlined it from the</a><a class="ex-next" href="/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_07">Chapter 07 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/st.-francis-of-assisi-(chesterton)">St Francis of Assisi</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/st_francis_of_assisi/chapter_05_have_but_outlined_it_from_the">‹ Chapter 05 have but outlined it from the</a><a class="ex-next" href="/testi/chesterton/atomized/st_francis_of_assisi/chapter_07">Chapter 07 ›</a></div>
 </nav>
 
 

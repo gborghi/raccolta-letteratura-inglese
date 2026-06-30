@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Bible-·-Sin-and-the-Fall-·-Fall-from-Innocence"></div>
+<div class="concept-works" data-slug="clusters/bible-·-sin-and-the-fall-·-fall-from-innocence"></div>

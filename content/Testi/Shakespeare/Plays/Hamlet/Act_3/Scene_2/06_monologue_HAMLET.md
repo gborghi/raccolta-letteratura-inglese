@@ -2,14 +2,14 @@
 title: "[[Hamlet]] — Act III, Scene 2 — monologue ([[Hamlet|HAMLET]]) [6]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/HAMLET-(Shakespeare)"
+parentWork: "works/hamlet-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
 </nav>
 
 

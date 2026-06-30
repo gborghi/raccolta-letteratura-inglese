@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Medieval-Romance"></div>
+<div class="concept-works" data-slug="forms/medieval-romance"></div>
 
 #graph/form

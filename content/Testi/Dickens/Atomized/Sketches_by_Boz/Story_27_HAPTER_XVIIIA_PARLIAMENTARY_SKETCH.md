@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XVIII—A PARLIAMENTARY [[Sketch|SKETCH]]"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_26_HAPTER_XVIITHE_LAST_CAB_DRIVER_AND_THE_F">‹ Story 26 HAPTER XVIITHE LAST CAB DRIVER AND THE F</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_28_HAPTER_XIXPUBLIC_DINNERS">Story 28 HAPTER XIXPUBLIC DINNERS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_26_hapter_xviithe_last_cab_driver_and_the_f">‹ Story 26 HAPTER XVIITHE LAST CAB DRIVER AND THE F</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_28_hapter_xixpublic_dinners">Story 28 HAPTER XIXPUBLIC DINNERS ›</a></div>
 </nav>
 
 

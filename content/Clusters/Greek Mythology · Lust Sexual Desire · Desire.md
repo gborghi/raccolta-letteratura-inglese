@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Greek-Mythology-·-Lust-Sexual-Desire-·-Desire"></div>
+<div class="concept-works" data-slug="clusters/greek-mythology-·-lust-sexual-desire-·-desire"></div>

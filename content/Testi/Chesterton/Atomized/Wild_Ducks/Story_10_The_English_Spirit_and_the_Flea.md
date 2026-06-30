@@ -2,15 +2,15 @@
 title: "Wild Ducks — The English Spirit and the Flea"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_09_Asparagus">‹ Story 09 Asparagus</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_11_The_Hobby_and_the_Head_Waiter">Story 11 The Hobby and the Head Waiter ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_09_asparagus">‹ Story 09 Asparagus</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_11_the_hobby_and_the_head_waiter">Story 11 The Hobby and the Head Waiter ›</a></div>
 </nav>
 
 

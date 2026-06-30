@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Herod-Antipas"></div>
+<div class="concept-works" data-slug="characters/herod-antipas"></div>
 
 #graph/character

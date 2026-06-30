@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The Maniac"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_01_Introduction_in_Defence_of_Everything_El">‹ Story 01 Introduction in Defence of Everything El</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_03_The_Suicide_of_Thought">Story 03 The Suicide of Thought ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_01_introduction_in_defence_of_everything_el">‹ Story 01 Introduction in Defence of Everything El</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_03_the_suicide_of_thought">Story 03 The Suicide of Thought ›</a></div>
 </nav>
 
 

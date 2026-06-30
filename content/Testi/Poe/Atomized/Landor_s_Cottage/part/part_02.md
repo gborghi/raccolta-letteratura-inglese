@@ -2,15 +2,15 @@
 title: "[[Landor's Cottage]] (part 2)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Landor's-Cottage-(Poe)"
+parentWork: "works/landor's-cottage-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Landor's-Cottage-(Poe)">Landor s Cottage</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Landor_s_Cottage/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/Landor_s_Cottage/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/landor's-cottage-(poe)">Landor s Cottage</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/landor_s_cottage/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/landor_s_cottage/part/part_03">part 03 ›</a></div>
 </nav>
 
 

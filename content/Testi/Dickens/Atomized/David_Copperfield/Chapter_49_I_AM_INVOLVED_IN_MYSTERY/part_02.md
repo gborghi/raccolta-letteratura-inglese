@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_49_I_AM_INVOLVED_IN_MYSTERY/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_49_I_AM_INVOLVED_IN_MYSTERY/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_49_i_am_involved_in_mystery/part_03">part 03 ›</a></div>
 </nav>
 
 

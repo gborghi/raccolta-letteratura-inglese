@@ -46,18 +46,18 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 ADY SUSAN](/Testi/Austen/Atomized/Lady_Susan/Story_01_ADY_SUSAN)
-- [Story 02 Y DEAR BROTHER I can no longer refuse my](/Testi/Austen/Atomized/Lady_Susan/Story_02_Y_DEAR_BROTHER_I_can_no_longer_refuse_my)
-- [Story 03 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_03_ATHERINE_VERNON)
-- [Story 04 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_04_ATHERINE_VERNON)
-- [Story 05 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_05_ATHERINE_VERNON)
-- [Story 06 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_06_ATHERINE_VERNON)
-- [Story 07 DE COURCY](/Testi/Austen/Atomized/Lady_Susan/Story_07_DE_COURCY)
-- [Story 08 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_08_ATHERINE_VERNON)
-- [Story 09 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_09_ATHERINE_VERNON)
-- [Story 10 ATH VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_10_ATH_VERNON)
-- [Story 11 ATHERINE VERNON](/Testi/Austen/Atomized/Lady_Susan/Story_11_ATHERINE_VERNON)
-- [Story 12 DE COURCY](/Testi/Austen/Atomized/Lady_Susan/Story_12_DE_COURCY)
+- [Story 01 ADY SUSAN](/testi/austen/atomized/lady_susan/story_01_ady_susan)
+- [Story 02 Y DEAR BROTHER I can no longer refuse my](/testi/austen/atomized/lady_susan/story_02_y_dear_brother_i_can_no_longer_refuse_my)
+- [Story 03 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_03_atherine_vernon)
+- [Story 04 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_04_atherine_vernon)
+- [Story 05 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_05_atherine_vernon)
+- [Story 06 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_06_atherine_vernon)
+- [Story 07 DE COURCY](/testi/austen/atomized/lady_susan/story_07_de_courcy)
+- [Story 08 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_08_atherine_vernon)
+- [Story 09 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_09_atherine_vernon)
+- [Story 10 ATH VERNON](/testi/austen/atomized/lady_susan/story_10_ath_vernon)
+- [Story 11 ATHERINE VERNON](/testi/austen/atomized/lady_susan/story_11_atherine_vernon)
+- [Story 12 DE COURCY](/testi/austen/atomized/lady_susan/story_12_de_courcy)
 
 
 ## Testo integrale / Full text

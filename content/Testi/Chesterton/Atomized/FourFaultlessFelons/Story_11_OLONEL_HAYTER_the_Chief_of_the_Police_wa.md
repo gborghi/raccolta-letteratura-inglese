@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — OLONEL HAYTER, the Chief of the Police, was moving towards the inner"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_10_THE_THEORY_OF_MODERATE_MURDER">‹ Story 10 THE THEORY OF MODERATE MURDER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_12_THE_THING_THAT_REALLY_HAPPENED">Story 12 THE THING THAT REALLY HAPPENED ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_10_the_theory_of_moderate_murder">‹ Story 10 THE THEORY OF MODERATE MURDER</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_12_the_thing_that_really_happened">Story 12 THE THING THAT REALLY HAPPENED ›</a></div>
 </nav>
 
 

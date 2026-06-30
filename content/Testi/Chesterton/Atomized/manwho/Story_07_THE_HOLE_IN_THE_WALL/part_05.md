@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE HOLE IN THE WALL (part 5)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_07_THE_HOLE_IN_THE_WALL/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_07_THE_HOLE_IN_THE_WALL/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_07_the_hole_in_the_wall/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_07_the_hole_in_the_wall/part_06">part 06 ›</a></div>
 </nav>
 
 

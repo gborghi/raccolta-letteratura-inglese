@@ -2,15 +2,15 @@
 title: "[[Northanger Abbey]] — Chapter 23"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Northanger-Abbey-(Austen)"
+parentWork: "works/northanger-abbey-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_23">‹ Chapter 23</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_25">Chapter 25 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_23">‹ Chapter 23</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_25">Chapter 25 ›</a></div>
 </nav>
 
 

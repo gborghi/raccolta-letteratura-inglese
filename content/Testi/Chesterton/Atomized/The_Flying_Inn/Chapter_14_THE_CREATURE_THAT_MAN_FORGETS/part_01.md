@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_12_VEGETARIANISM_IN_THE_FOREST/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_14_THE_CREATURE_THAT_MAN_FORGETS/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_12_vegetarianism_in_the_forest/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Vincentio-the-Duke"></div>
+<div class="concept-works" data-slug="characters/vincentio-the-duke"></div>
 
 #graph/character

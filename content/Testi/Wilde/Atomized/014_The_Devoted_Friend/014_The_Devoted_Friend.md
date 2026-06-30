@@ -2,14 +2,14 @@
 title: "The Devoted Friend"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Devoted-Friend-(Wilde)"
+parentWork: "works/the-devoted-friend-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Devoted-Friend-(Wilde)">014 The Devoted Friend</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-devoted-friend-(wilde)">014 The Devoted Friend</a></div>
 </nav>
 
 

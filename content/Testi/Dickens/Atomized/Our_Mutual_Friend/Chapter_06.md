@@ -2,15 +2,15 @@
 title: "Our Mutual Friend — Chapter 1"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Our-Mutual-Friend-(Dickens)"
+parentWork: "works/our-mutual-friend-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_05_THE_CUP_AND_THE_LIP">‹ Chapter 05 THE CUP AND THE LIP</a><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_07">Chapter 07 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/our-mutual-friend-(dickens)">Our Mutual Friend</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/our_mutual_friend/chapter_05_the_cup_and_the_lip">‹ Chapter 05 THE CUP AND THE LIP</a><a class="ex-next" href="/testi/dickens/atomized/our_mutual_friend/chapter_07">Chapter 07 ›</a></div>
 </nav>
 
 

@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · The Waste Land</div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Eliot/Long/The_Waste_Land/Section_02_ii_a_game_of_chess">Section 02 ii a game of chess ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/eliot/long/the_waste_land/section_02_ii_a_game_of_chess">Section 02 ii a game of chess ›</a></div>
 </nav>
 
 

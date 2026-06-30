@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER XI—MAKING A [[Night|NIGHT]] OF IT (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_43_HAPTER_IXTHE_DANCING_ACADEMY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_45_HAPTER_XIMAKING_A_NIGHT_OF_IT/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_43_hapter_ixthe_dancing_academy/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_45_hapter_ximaking_a_night_of_it/part_02">part 02 ›</a></div>
 </nav>
 
 

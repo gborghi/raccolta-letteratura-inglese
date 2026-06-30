@@ -2,15 +2,15 @@
 title: "[[heret12]] — Concluding Remarks on the Importance of Orthodoxy (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_19_Concluding_Remarks_on_the_Importance_of/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_19_Concluding_Remarks_on_the_Importance_of/part_04">part 04 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_19_concluding_remarks_on_the_importance_of/part_04">part 04 ›</a></div>
 </nav>
 
 

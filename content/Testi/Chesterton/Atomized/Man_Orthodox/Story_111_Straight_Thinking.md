@@ -2,15 +2,15 @@
 title: "Man Orthodox — Straight Thinking"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_110_High_Or_Low">‹ Story 110 High Or Low</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_112_A_Man_Of_Distinction">Story 112 A Man Of Distinction ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_110_high_or_low">‹ Story 110 High Or Low</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_112_a_man_of_distinction">Story 112 A Man Of Distinction ›</a></div>
 </nav>
 
 

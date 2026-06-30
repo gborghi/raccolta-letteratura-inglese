@@ -2,15 +2,15 @@
 title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
+parentWork: "works/napoleon-of-notting-hill-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Napoleon-of-Notting-Hill-(Chesterton)">Napoleon of Notting Hill</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_14/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/napoleon-of-notting-hill-(chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_13/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/napoleon_of_notting_hill/chapter_14/part_01">part 01 ›</a></div>
 </nav>
 
 

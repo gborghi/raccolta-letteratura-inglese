@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Social-Novel-(Novel-of-Manners)"></div>
+<div class="concept-works" data-slug="forms/social-novel-(novel-of-manners)"></div>
 
 #graph/form

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/John-Harmon"></div>
+<div class="concept-works" data-slug="characters/john-harmon"></div>
 
 #graph/character

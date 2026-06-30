@@ -2,15 +2,15 @@
 title: "secret Fr Brown — The Secret Of [[Flambeau]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_10_The_Secret_Of_Flambeau/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_09_viii_the_chief_mourner_of_marne/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_10_the_secret_of_flambeau/part_02">part 02 ›</a></div>
 </nav>
 
 

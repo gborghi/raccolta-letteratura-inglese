@@ -46,16 +46,16 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/St_Francis/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/St_Francis/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/St_Francis/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/St_Francis/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/St_Francis/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/St_Francis/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/St_Francis/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/St_Francis/Chapter_08)
-- [Chapter 09](/Testi/Chesterton/Atomized/St_Francis/Chapter_09)
-- [Chapter 10](/Testi/Chesterton/Atomized/St_Francis/Chapter_10)
+- [Chapter 01](/testi/chesterton/atomized/st_francis/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/st_francis/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/st_francis/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/st_francis/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/st_francis/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/st_francis/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/st_francis/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/st_francis/chapter_08)
+- [Chapter 09](/testi/chesterton/atomized/st_francis/chapter_09)
+- [Chapter 10](/testi/chesterton/atomized/st_francis/chapter_10)
 
 ## Testo integrale / Full text
 

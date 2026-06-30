@@ -2,15 +2,15 @@
 title: "The Battle of Life — Part 3 (part 7)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/The-Battle-of-Life-(Dickens)"
+parentWork: "works/the-battle-of-life-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-battle-of-life-(dickens)">The Battle of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_battle_of_life/chapter_03/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/the_battle_of_life/chapter_03/part_08">part 08 ›</a></div>
 </nav>
 
 

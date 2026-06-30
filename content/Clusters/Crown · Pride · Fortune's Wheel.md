@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Crown-·-Pride-·-Fortune's-Wheel"></div>
+<div class="concept-works" data-slug="clusters/crown-·-pride-·-fortune's-wheel"></div>

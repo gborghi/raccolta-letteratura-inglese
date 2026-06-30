@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 15: THE [[songs|SONGS]] OF THE CAR CLUB"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_14_THE_CREATURE_THAT_MAN_FORGETS">‹ Chapter 14 THE CREATURE THAT MAN FORGETS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_16_THE_SEVEN_MOODS_OF_DORIAN">Chapter 16 THE SEVEN MOODS OF DORIAN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_14_the_creature_that_man_forgets">‹ Chapter 14 THE CREATURE THAT MAN FORGETS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_16_the_seven_moods_of_dorian">Chapter 16 THE SEVEN MOODS OF DORIAN ›</a></div>
 </nav>
 
 

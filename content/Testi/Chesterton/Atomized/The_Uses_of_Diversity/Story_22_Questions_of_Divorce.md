@@ -2,15 +2,15 @@
 title: "The Uses of Diversity — Questions of [[divorce|Divorce]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
+parentWork: "works/the-uses-of-diversity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_21_The_Duty_of_the_Historian">‹ Story 21 The Duty of the Historian</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_23_Mormonism">Story 23 Mormonism ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-uses-of-diversity-(chesterton)">The Uses of Diversity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_uses_of_diversity/story_21_the_duty_of_the_historian">‹ Story 21 The Duty of the Historian</a><a class="ex-next" href="/testi/chesterton/atomized/the_uses_of_diversity/story_23_mormonism">Story 23 Mormonism ›</a></div>
 </nav>
 
 

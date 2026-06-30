@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Despair-·-Fear"></div>
+<div class="concept-works" data-slug="clusters/despair-·-fear"></div>

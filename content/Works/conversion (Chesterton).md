@@ -31,12 +31,12 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 INTRODUCTORY A NEW RELIGION](/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION)
-- [Chapter 02 THE OBVIOUS BLUNDERS](/Testi/Chesterton/Atomized/conversion/Chapter_02_THE_OBVIOUS_BLUNDERS)
-- [Chapter 03 THE REAL OBSTACLES](/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES)
-- [Chapter 04 THE WORLD INSIDE OUT](/Testi/Chesterton/Atomized/conversion/Chapter_04_THE_WORLD_INSIDE_OUT)
-- [Chapter 05 THE EXCEPTION PROVES THE RULE](/Testi/Chesterton/Atomized/conversion/Chapter_05_THE_EXCEPTION_PROVES_THE_RULE)
-- [Chapter 06 A NOTE ON PRESENT PROSPECTS](/Testi/Chesterton/Atomized/conversion/Chapter_06_A_NOTE_ON_PRESENT_PROSPECTS)
+- [Chapter 01 INTRODUCTORY A NEW RELIGION](/testi/chesterton/atomized/conversion/chapter_01_introductory_a_new_religion)
+- [Chapter 02 THE OBVIOUS BLUNDERS](/testi/chesterton/atomized/conversion/chapter_02_the_obvious_blunders)
+- [Chapter 03 THE REAL OBSTACLES](/testi/chesterton/atomized/conversion/chapter_03_the_real_obstacles)
+- [Chapter 04 THE WORLD INSIDE OUT](/testi/chesterton/atomized/conversion/chapter_04_the_world_inside_out)
+- [Chapter 05 THE EXCEPTION PROVES THE RULE](/testi/chesterton/atomized/conversion/chapter_05_the_exception_proves_the_rule)
+- [Chapter 06 A NOTE ON PRESENT PROSPECTS](/testi/chesterton/atomized/conversion/chapter_06_a_note_on_present_prospects)
 
 ## Testo integrale / Full text
 

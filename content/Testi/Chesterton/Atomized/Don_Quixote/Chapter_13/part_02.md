@@ -2,15 +2,15 @@
 title: "[[Don Quixote]] — Chapter 12 (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Don-Quixote-(Chesterton)"
+parentWork: "works/don-quixote-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Don-Quixote-(Chesterton)">Don Quixote</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_13/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/don-quixote-(chesterton)">Don Quixote</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/don_quixote/chapter_13/part_03">part 03 ›</a></div>
 </nav>
 
 

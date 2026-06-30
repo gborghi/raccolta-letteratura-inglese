@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/White-and-Red-·-Riddle-·-Secrecy-and-Concealment"></div>
+<div class="concept-works" data-slug="clusters/white-and-red-·-riddle-·-secrecy-and-concealment"></div>

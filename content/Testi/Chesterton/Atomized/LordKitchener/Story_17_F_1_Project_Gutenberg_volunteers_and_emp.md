@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — F.1.  Project Gutenberg volunteers and employees expend considerable"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_16_E_9_If_you_wish_to_charge_a_fee_or_distr">‹ Story 16 E 9 If you wish to charge a fee or distr</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_18_F_2_LIMITED_WARRANTY_DISCLAIMER_OF_DAMAG">Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_16_e_9_if_you_wish_to_charge_a_fee_or_distr">‹ Story 16 E 9 If you wish to charge a fee or distr</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_18_f_2_limited_warranty_disclaimer_of_damag">Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG ›</a></div>
 </nav>
 
 

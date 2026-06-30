@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sherlock-Holmes-Homage"></div>
+<div class="concept-works" data-slug="characters/sherlock-holmes-homage"></div>
 
 #graph/character

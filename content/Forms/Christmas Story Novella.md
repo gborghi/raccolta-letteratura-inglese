@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Christmas-Story-Novella"></div>
+<div class="concept-works" data-slug="forms/christmas-story-novella"></div>
 
 #graph/form

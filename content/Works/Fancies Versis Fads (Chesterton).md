@@ -30,7 +30,7 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01 MANUFACTURERS](/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS)
+- [Chapter 01 MANUFACTURERS](/testi/chesterton/atomized/fancies_versis_fads/chapter_01_manufacturers)
 
 ## Testo integrale / Full text
 

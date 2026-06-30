@@ -2,15 +2,15 @@
 title: "The Mystery of [[Edwin Drood]] — Chapter 10"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
+parentWork: "works/the-mystery-of-edwin-drood-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_10">‹ Chapter 10</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_12">Chapter 12 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-mystery-of-edwin-drood-(dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_10">‹ Chapter 10</a><a class="ex-next" href="/testi/dickens/atomized/the_mystery_of_edwin_drood/chapter_12">Chapter 12 ›</a></div>
 </nav>
 
 

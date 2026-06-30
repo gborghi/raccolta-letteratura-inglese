@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Social-Novel-(Novel-of-Manners)"></div>
+<div class="concept-works" data-slug="clusters/social-novel-(novel-of-manners)"></div>

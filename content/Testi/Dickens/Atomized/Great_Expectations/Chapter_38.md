@@ -2,15 +2,15 @@
 title: "[[Great Expectations]] — Chapter 38"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Great-Expectations-(Dickens)"
+parentWork: "works/great-expectations-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_37">‹ Chapter 37</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_39">Chapter 39 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/great_expectations/chapter_37">‹ Chapter 37</a><a class="ex-next" href="/testi/dickens/atomized/great_expectations/chapter_39">Chapter 39 ›</a></div>
 </nav>
 
 

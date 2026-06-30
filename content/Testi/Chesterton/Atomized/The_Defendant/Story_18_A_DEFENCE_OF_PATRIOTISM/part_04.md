@@ -2,15 +2,15 @@
 title: "The Defendant — A DEFENCE OF PATRIOTISM (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Defendant-(Chesterton)"
+parentWork: "works/the-defendant-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_18_A_DEFENCE_OF_PATRIOTISM/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_18_A_DEFENCE_OF_PATRIOTISM/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-defendant-(chesterton)">The Defendant</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/the_defendant/story_18_a_defence_of_patriotism/part_05">part 05 ›</a></div>
 </nav>
 
 

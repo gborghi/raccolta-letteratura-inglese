@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The Erastian On The Establishment (part 6)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_33_The_Erastian_On_The_Establishment/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_33_The_Erastian_On_The_Establishment/part_07">part 07 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_33_the_erastian_on_the_establishment/part_05">‹ part 05</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_33_the_erastian_on_the_establishment/part_07">part 07 ›</a></div>
 </nav>
 
 

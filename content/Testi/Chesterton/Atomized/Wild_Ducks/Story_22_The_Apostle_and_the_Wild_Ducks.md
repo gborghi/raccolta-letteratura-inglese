@@ -2,15 +2,15 @@
 title: "Wild Ducks — The Apostle and the Wild Ducks"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_21_The_Largest_Window_in_the_World">‹ Story 21 The Largest Window in the World</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_23_Travellers_Joys">Story 23 Travellers Joys ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_21_the_largest_window_in_the_world">‹ Story 21 The Largest Window in the World</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_23_travellers_joys">Story 23 Travellers Joys ›</a></div>
 </nav>
 
 

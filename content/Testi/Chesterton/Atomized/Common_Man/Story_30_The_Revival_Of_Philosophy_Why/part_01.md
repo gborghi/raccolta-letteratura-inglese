@@ -2,15 +2,15 @@
 title: "[[Common Man]] — The Revival Of [[philosophy|Philosophy]]--Why? (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_20_Rabelaisian_Regrets/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_20_rabelaisian_regrets/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_30_the_revival_of_philosophy_why/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Thing — THE OPTIMIST AS A [[suicide|SUICIDE]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_27_WHAT_WE_THINK_ABOUT">‹ Story 27 WHAT WE THINK ABOUT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_29_THE_OUTLINE_OF_THE_FALL">Story 29 THE OUTLINE OF THE FALL ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_27_what_we_think_about">‹ Story 27 WHAT WE THINK ABOUT</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_29_the_outline_of_the_fall">Story 29 THE OUTLINE OF THE FALL ›</a></div>
 </nav>
 
 

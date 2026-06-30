@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Ruins-the-Abbey-·-Sic-Transit-Gloria-Mundi-·-Ubi-Sunt"></div>
+<div class="concept-works" data-slug="clusters/ruins-the-abbey-·-sic-transit-gloria-mundi-·-ubi-sunt"></div>

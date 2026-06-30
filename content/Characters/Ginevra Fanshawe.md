@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Ginevra-Fanshawe"></div>
+<div class="concept-works" data-slug="characters/ginevra-fanshawe"></div>
 
 #graph/character

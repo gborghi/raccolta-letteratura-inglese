@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Industrial-Revolution"></div>
+<div class="concept-works" data-slug="historical-references/industrial-revolution"></div>
 
 #graph/histref

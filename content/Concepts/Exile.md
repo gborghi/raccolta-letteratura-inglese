@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Exile"></div>
+<div class="concept-works" data-slug="concepts/exile"></div>
 
 #graph/concept

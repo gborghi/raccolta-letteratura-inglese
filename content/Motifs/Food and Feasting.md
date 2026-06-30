@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Food-and-Feasting"></div>
+<div class="concept-works" data-slug="motifs/food-and-feasting"></div>
 
 #graph/motif

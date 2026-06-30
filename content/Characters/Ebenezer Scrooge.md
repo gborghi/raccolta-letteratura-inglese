@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Ebenezer-Scrooge"></div>
+<div class="concept-works" data-slug="characters/ebenezer-scrooge"></div>
 
 #graph/character

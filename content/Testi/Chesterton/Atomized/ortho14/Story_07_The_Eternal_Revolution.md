@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The Eternal Revolution"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_06_The_Paradoxes_of_Christianity">‹ Story 06 The Paradoxes of Christianity</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy">Story 08 The Romance of Orthodoxy ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_06_the_paradoxes_of_christianity">‹ Story 06 The Paradoxes of Christianity</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_the_romance_of_orthodoxy">Story 08 The Romance of Orthodoxy ›</a></div>
 </nav>
 
 

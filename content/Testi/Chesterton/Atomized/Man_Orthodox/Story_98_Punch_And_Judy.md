@@ -2,15 +2,15 @@
 title: "Man Orthodox — Punch And Judy"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Man-Orthodox-(Chesterton)"
+parentWork: "works/man-orthodox-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_97_The_Anatomy_Of_The_Joke">‹ Story 97 The Anatomy Of The Joke</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_99_Punch_And_Judy_Ii">Story 99 Punch And Judy Ii ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/man-orthodox-(chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/man_orthodox/story_97_the_anatomy_of_the_joke">‹ Story 97 The Anatomy Of The Joke</a><a class="ex-next" href="/testi/chesterton/atomized/man_orthodox/story_99_punch_and_judy_ii">Story 99 Punch And Judy Ii ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Hop-Frog]] (part 2)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Hop-Frog-(Poe)"
+parentWork: "works/hop-frog-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Hop-Frog-(Poe)">Hop Frog</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Hop_Frog/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/Hop_Frog/part/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/hop-frog-(poe)">Hop Frog</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/hop_frog/part/part_01">‹ part 01</a><a class="ex-next" href="/testi/poe/atomized/hop_frog/part/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/New-England"></div>
+<div class="concept-works" data-slug="historical-references/new-england"></div>
 
 #graph/histref

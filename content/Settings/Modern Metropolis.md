@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Modern-Metropolis"></div>
+<div class="concept-works" data-slug="settings/modern-metropolis"></div>
 
 #graph/setting

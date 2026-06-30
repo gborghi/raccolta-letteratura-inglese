@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 7)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_29_I_VISIT_STEERFORTH_AT_HIS_HOME/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_28_mr_micawbers_gauntlet/part_06">‹ part 06</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_29_i_visit_steerforth_at_his_home/part_01">part 01 ›</a></div>
 </nav>
 
 

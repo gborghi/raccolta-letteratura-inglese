@@ -2,15 +2,15 @@
 title: "[[Villette]] — Volume 31: never hazarded a second. With all this, I had never yet been"
 author: "Bronte"
 unitType: chapter
-parentWork: "Works/Villette-(Bronte)"
+parentWork: "works/villette-(bronte)"
 tags:
   - graph/excerpt
   - author/Bronte
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_30">‹ Chapter 30</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_32">Chapter 32 ›</a></div>
+<div class="excerpt-crumb">Bronte · <a href="/works/villette-(bronte)">Villette</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/bronte/atomized/villette/chapter_30">‹ Chapter 30</a><a class="ex-next" href="/testi/bronte/atomized/villette/chapter_32">Chapter 32 ›</a></div>
 </nav>
 
 

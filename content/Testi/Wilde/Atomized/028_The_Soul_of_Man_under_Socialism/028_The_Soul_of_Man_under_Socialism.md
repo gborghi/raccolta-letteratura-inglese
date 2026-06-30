@@ -2,14 +2,14 @@
 title: "The [[Soul]] of Man under Socialism"
 author: "Wilde"
 unitType: work
-parentWork: "Works/The-Soul-of-Man-under-Socialism-(Wilde)"
+parentWork: "works/the-soul-of-man-under-socialism-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/The-Soul-of-Man-under-Socialism-(Wilde)">028 The Soul of Man under Socialism</a></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/the-soul-of-man-under-socialism-(wilde)">028 The Soul of Man under Socialism</a></div>
 </nav>
 
 

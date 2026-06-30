@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lord-Henry-Wotton"></div>
+<div class="concept-works" data-slug="characters/lord-henry-wotton"></div>
 
 #graph/character

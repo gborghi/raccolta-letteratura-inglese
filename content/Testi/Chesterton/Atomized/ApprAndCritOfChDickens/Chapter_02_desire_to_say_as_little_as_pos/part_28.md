@@ -2,15 +2,15 @@
 title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 28)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
+parentWork: "works/apprandcritofchdickens-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_desire_to_say_as_little_as_pos/part_27">‹ part 27</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_desire_to_say_as_little_as_pos/part_29">part 29 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/apprandcritofchdickens-(chesterton)">ApprAndCritOfChDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_desire_to_say_as_little_as_pos/part_27">‹ part 27</a><a class="ex-next" href="/testi/chesterton/atomized/apprandcritofchdickens/chapter_02_desire_to_say_as_little_as_pos/part_29">part 29 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Thing — SOME OF OUR ERRORS"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_23_THE_ROOTS_OF_SANITY">‹ Story 23 THE ROOTS OF SANITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_25_THE_SLAVERY_OF_THE_MIND">Story 25 THE SLAVERY OF THE MIND ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_23_the_roots_of_sanity">‹ Story 23 THE ROOTS OF SANITY</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_25_the_slavery_of_the_mind">Story 25 THE SLAVERY OF THE MIND ›</a></div>
 </nav>
 
 

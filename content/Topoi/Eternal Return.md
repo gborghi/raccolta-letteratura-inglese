@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Eternal-Return"></div>
+<div class="concept-works" data-slug="topoi/eternal-return"></div>
 
 #graph/topos

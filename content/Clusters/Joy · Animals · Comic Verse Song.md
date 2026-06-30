@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Joy-·-Animals-·-Comic-Verse-Song"></div>
+<div class="concept-works" data-slug="clusters/joy-·-animals-·-comic-verse-song"></div>

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Wackford-Squeers"></div>
+<div class="concept-works" data-slug="characters/wackford-squeers"></div>
 
 #graph/character

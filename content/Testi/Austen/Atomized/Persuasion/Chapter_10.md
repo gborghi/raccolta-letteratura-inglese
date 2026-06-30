@@ -2,15 +2,15 @@
 title: "[[Persuasion]] — Chapter 10"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Persuasion-(Austen)"
+parentWork: "works/persuasion-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_09">‹ Chapter 09</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_11">Chapter 11 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_09">‹ Chapter 09</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_11">Chapter 11 ›</a></div>
 </nav>
 
 

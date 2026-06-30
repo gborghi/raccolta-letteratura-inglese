@@ -2,15 +2,15 @@
 title: "[[misc]] — THE CONTENTED MAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_36_THE_CHARTERED_LIBERTINE">‹ Story 36 THE CHARTERED LIBERTINE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_38_THE_ANGRY_AUTHOR_HIS_FAREWELL">Story 38 THE ANGRY AUTHOR HIS FAREWELL ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_36_the_chartered_libertine">‹ Story 36 THE CHARTERED LIBERTINE</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_38_the_angry_author_his_farewell">Story 38 THE ANGRY AUTHOR HIS FAREWELL ›</a></div>
 </nav>
 
 

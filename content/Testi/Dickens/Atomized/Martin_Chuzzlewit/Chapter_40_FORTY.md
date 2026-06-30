@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_39_THIRTY_NINE">‹ Chapter 39 THIRTY NINE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_41_FORTY_ONE">Chapter 41 FORTY ONE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_39_thirty_nine">‹ Chapter 39 THIRTY NINE</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_41_forty_one">Chapter 41 FORTY ONE ›</a></div>
 </nav>
 
 

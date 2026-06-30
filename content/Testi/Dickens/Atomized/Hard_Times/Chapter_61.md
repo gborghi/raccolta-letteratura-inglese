@@ -2,15 +2,15 @@
 title: "Hard Times — Chapter 6"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Hard-Times-(Dickens)"
+parentWork: "works/hard-times-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_60">‹ Chapter 60</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_62">Chapter 62 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/hard-times-(dickens)">Hard Times</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/hard_times/chapter_60">‹ Chapter 60</a><a class="ex-next" href="/testi/dickens/atomized/hard_times/chapter_62">Chapter 62 ›</a></div>
 </nav>
 
 

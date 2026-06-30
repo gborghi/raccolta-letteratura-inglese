@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Mock-Epic"></div>
+<div class="concept-works" data-slug="forms/mock-epic"></div>
 
 #graph/form

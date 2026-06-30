@@ -2,14 +2,14 @@
 title: "[[Maelzel's Chess-Player]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
+parentWork: "works/maelzel's-chess-player-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Maelzel's-Chess-Player-(Poe)">Maelzel s Chess Player</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/maelzel's-chess-player-(poe)">Maelzel s Chess Player</a></div>
 </nav>
 
 

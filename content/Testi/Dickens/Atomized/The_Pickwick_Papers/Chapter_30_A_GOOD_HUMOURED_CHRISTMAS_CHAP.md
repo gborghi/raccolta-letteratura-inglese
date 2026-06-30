@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_29_SAMUEL_WELLER_MAKES_A_PILGRIMA">‹ Chapter 29 SAMUEL WELLER MAKES A PILGRIMA</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_31_THE_STORY_OF_THE_GOBLINS_WHO_S">Chapter 31 THE STORY OF THE GOBLINS WHO S ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_29_samuel_weller_makes_a_pilgrima">‹ Chapter 29 SAMUEL WELLER MAKES A PILGRIMA</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_31_the_story_of_the_goblins_who_s">Chapter 31 THE STORY OF THE GOBLINS WHO S ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Shaw]] — THE PROBLEM OF A PREFACE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Shaw-(Chesterton)"
+parentWork: "works/shaw-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_01_INTRODUCTION_TO_THE_FIRST_EDITION">‹ Story 01 INTRODUCTION TO THE FIRST EDITION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN">Story 03 THE IRISHMAN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_01_introduction_to_the_first_edition">‹ Story 01 INTRODUCTION TO THE FIRST EDITION</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_03_the_irishman">Story 03 THE IRISHMAN ›</a></div>
 </nav>
 
 

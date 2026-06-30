@@ -2,15 +2,15 @@
 title: "All Is True ([[Henry VIII]]) — Act V, Scene 4"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)"
+parentWork: "works/all-is-true---(henry-viii)-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)">All Is True Henry VIII</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/All_Is_True_Henry_VIII/Act_5/Scene_3">‹ Scene 3</a><span></span></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/all-is-true---(henry-viii)-(shakespeare)">All Is True Henry VIII</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/all_is_true_henry_viii/act_5/scene_3">‹ Scene 3</a><span></span></div>
 </nav>
 
 

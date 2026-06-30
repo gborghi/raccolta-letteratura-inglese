@@ -2,15 +2,15 @@
 title: "ball and [[Cross|cross]] — An Interlude of Argument (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ball-and-cross-(Chesterton)"
+parentWork: "works/ball-and-cross-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_08_An_Interlude_of_Argument/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_09_The_Strange_Lady/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ball-and-cross-(chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ball_and_cross/story_08_an_interlude_of_argument/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ball_and_cross/story_09_the_strange_lady/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/American-West-(2)"></div>
+<div class="concept-works" data-slug="historical-references/american-west-(2)"></div>
 
 #graph/histref

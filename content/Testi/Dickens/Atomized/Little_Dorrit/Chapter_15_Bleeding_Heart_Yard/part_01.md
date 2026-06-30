@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 12: Bleeding Heart Yard (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_14_Let_Loose/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_15_Bleeding_Heart_Yard/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_14_let_loose/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_15_bleeding_heart_yard/part_02">part 02 ›</a></div>
 </nav>
 
 

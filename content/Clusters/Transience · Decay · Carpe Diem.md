@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Transience-·-Decay-·-Carpe-Diem"></div>
+<div class="concept-works" data-slug="clusters/transience-·-decay-·-carpe-diem"></div>

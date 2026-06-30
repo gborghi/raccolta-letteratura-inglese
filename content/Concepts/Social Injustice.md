@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Social-Injustice"></div>
+<div class="concept-works" data-slug="concepts/social-injustice"></div>
 
 #graph/concept

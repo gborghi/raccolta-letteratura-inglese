@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Lady-Windermere"></div>
+<div class="concept-works" data-slug="characters/lady-windermere"></div>
 
 #graph/character

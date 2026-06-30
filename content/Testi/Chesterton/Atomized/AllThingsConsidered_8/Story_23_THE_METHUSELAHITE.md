@@ -2,15 +2,15 @@
 title: "[[AllThingsConsidered-8]] — THE [[methuselahite|METHUSELAHITE]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
+parentWork: "works/allthingsconsidered-8-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_22_SCIENCE_AND_RELIGION">‹ Story 22 SCIENCE AND RELIGION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_24_SPIRITUALISM">Story 24 SPIRITUALISM ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/allthingsconsidered-8-(chesterton)">AllThingsConsidered 8</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/allthingsconsidered_8/story_22_science_and_religion">‹ Story 22 SCIENCE AND RELIGION</a><a class="ex-next" href="/testi/chesterton/atomized/allthingsconsidered_8/story_24_spiritualism">Story 24 SPIRITUALISM ›</a></div>
 </nav>
 
 

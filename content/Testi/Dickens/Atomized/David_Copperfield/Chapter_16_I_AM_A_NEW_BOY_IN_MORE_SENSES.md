@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING">‹ Chapter 15 I MAKE ANOTHER BEGINNING</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP">Chapter 17 SOMEBODY TURNS UP ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_15_i_make_another_beginning">‹ Chapter 15 I MAKE ANOTHER BEGINNING</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_17_somebody_turns_up">Chapter 17 SOMEBODY TURNS UP ›</a></div>
 </nav>
 
 

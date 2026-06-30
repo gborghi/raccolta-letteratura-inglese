@@ -2,15 +2,15 @@
 title: "[[How to Write a Blackwood Article]] (part 4)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
+parentWork: "works/how-to-write-a-blackwood-article-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/How-to-Write-a-Blackwood-Article-(Poe)">How to Write a Blackwood Article</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/How_to_Write_a_Blackwood_Article/part/part_03">‹ part 03</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/how-to-write-a-blackwood-article-(poe)">How to Write a Blackwood Article</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/how_to_write_a_blackwood_article/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
 

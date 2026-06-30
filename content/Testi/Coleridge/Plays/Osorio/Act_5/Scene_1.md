@@ -2,15 +2,15 @@
 title: "[[OSORIO]] — Act V, Scene 1"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/OSORIO-(Coleridge)"
+parentWork: "works/osorio-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/OSORIO-(Coleridge)">Osorio</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Coleridge/Plays/Osorio/Act_4/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Coleridge/Plays/Osorio/Act_5/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/osorio-(coleridge)">Osorio</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/coleridge/plays/osorio/act_4/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/coleridge/plays/osorio/act_5/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

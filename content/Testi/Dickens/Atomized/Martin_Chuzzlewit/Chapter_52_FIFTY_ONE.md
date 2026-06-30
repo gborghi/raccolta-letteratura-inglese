@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 52: FIFTY ONE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_51_Tom_had_brought_home_all_throu">‹ Chapter 51 Tom had brought home all throu</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_53_FIFTY_TWO">Chapter 53 FIFTY TWO ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_51_tom_had_brought_home_all_throu">‹ Chapter 51 Tom had brought home all throu</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_53_fifty_two">Chapter 53 FIFTY TWO ›</a></div>
 </nav>
 
 

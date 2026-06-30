@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 1)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_50_Mr_PEGGOTTYS_DREAM_COMES_TRUE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_51_THE_BEGINNING_OF_A_LONGER_JOUR/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_50_mr_peggottys_dream_comes_true/part_04">‹ part 04</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_51_the_beginning_of_a_longer_jour/part_02">part 02 ›</a></div>
 </nav>
 
 

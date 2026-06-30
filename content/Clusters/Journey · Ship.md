@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Journey-·-Ship"></div>
+<div class="concept-works" data-slug="clusters/journey-·-ship"></div>

@@ -2,15 +2,15 @@
 title: "[[Persuasion]] — Chapter 13 (part 1)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Persuasion-(Austen)"
+parentWork: "works/persuasion-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_13/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/persuasion-(austen)">Persuasion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/persuasion/chapter_12/part_05">‹ part 05</a><a class="ex-next" href="/testi/austen/atomized/persuasion/chapter_13/part_02">part 02 ›</a></div>
 </nav>
 
 

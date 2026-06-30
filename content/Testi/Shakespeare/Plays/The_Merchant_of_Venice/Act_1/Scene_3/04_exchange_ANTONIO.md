@@ -2,14 +2,14 @@
 title: "The Merchant of [[Venice]] — Act I, Scene 3 — exchange ([[Antonio|ANTONIO]]) [4]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
+parentWork: "works/the-merchant-of-venice-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-merchant-of-venice-(shakespeare)">The Merchant of Venice</a></div>
 </nav>
 
 

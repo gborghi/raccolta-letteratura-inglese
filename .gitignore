@@ -3,6 +3,8 @@
 .obsidian
 .playwright-mcp
 .quartz-cache
+.quartz/
+build.log
 .replit
 authors-wheel-zoom.png
 axes-wheel.png

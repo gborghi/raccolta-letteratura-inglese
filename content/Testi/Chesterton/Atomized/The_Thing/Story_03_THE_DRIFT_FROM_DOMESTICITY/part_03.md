@@ -2,15 +2,15 @@
 title: "The Thing — THE DRIFT FROM DOMESTICITY (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_03_THE_DRIFT_FROM_DOMESTICITY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_05_OBSTINATE_ORTHODOXY/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_03_the_drift_from_domesticity/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_05_obstinate_orthodoxy/part_01">part 01 ›</a></div>
 </nav>
 
 

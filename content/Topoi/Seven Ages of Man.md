@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Seven-Ages-of-Man"></div>
+<div class="concept-works" data-slug="topoi/seven-ages-of-man"></div>
 
 #graph/topos

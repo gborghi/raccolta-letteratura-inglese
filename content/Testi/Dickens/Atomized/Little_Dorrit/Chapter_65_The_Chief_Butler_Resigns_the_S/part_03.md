@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office (part 3)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_65_The_Chief_Butler_Resigns_the_S/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_66_Reaping_the_Whirlwind/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_65_the_chief_butler_resigns_the_s/part_02">‹ part 02</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_66_reaping_the_whirlwind/part_01">part 01 ›</a></div>
 </nav>
 
 

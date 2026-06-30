@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/French-Revolution"></div>
+<div class="concept-works" data-slug="historical-references/french-revolution"></div>
 
 #graph/histref

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Fate-and-Free-Will"></div>
+<div class="concept-works" data-slug="concepts/fate-and-free-will"></div>
 
 #graph/concept

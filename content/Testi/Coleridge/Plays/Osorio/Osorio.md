@@ -2,14 +2,14 @@
 title: "[[OSORIO|OSORIO]]"
 author: "Coleridge"
 unitType: work
-parentWork: "Works/OSORIO-(Coleridge)"
+parentWork: "works/osorio-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/OSORIO-(Coleridge)">Osorio</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/osorio-(coleridge)">Osorio</a></div>
 </nav>
 
 

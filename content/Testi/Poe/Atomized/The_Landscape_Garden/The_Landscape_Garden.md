@@ -2,14 +2,14 @@
 title: "[[The Landscape Garden]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Landscape-Garden-(Poe)"
+parentWork: "works/the-landscape-garden-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Landscape-Garden-(Poe)">The Landscape Garden</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-landscape-garden-(poe)">The Landscape Garden</a></div>
 </nav>
 
 

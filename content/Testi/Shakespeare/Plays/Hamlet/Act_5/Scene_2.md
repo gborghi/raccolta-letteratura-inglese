@@ -2,15 +2,15 @@
 title: "[[Hamlet]] — Act V, Scene 2"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/HAMLET-(Shakespeare)"
+parentWork: "works/hamlet-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Hamlet/Act_5/Scene_1">‹ Scene 1</a><span></span></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/hamlet-(shakespeare)">Hamlet</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/hamlet/act_5/scene_1">‹ Scene 1</a><span></span></div>
 </nav>
 
 

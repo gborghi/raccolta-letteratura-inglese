@@ -2,15 +2,15 @@
 title: "[[debate]] — R. [[Shaw|SHAW]]:  I cannot say that Mr. Chesterton has succeeded in forcing"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/debate-(Chesterton)"
+parentWork: "works/debate-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_08_R_CHESTERTON_Now_as_to_the_much_more_int">‹ Story 08 R CHESTERTON Now as to the much more int</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_10_R_CHESTERTON_Among_the_bewildering_welte">Story 10 R CHESTERTON Among the bewildering welte ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/debate-(chesterton)">debate</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/debate/story_08_r_chesterton_now_as_to_the_much_more_int">‹ Story 08 R CHESTERTON Now as to the much more int</a><a class="ex-next" href="/testi/chesterton/atomized/debate/story_10_r_chesterton_among_the_bewildering_welte">Story 10 R CHESTERTON Among the bewildering welte ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Unseen-The-Hidden"></div>
+<div class="concept-works" data-slug="concepts/unseen-the-hidden"></div>
 
 #graph/concept

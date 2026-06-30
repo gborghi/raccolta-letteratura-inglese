@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Forms/Terza-Rima"></div>
+<div class="concept-works" data-slug="forms/terza-rima"></div>
 
 #graph/form

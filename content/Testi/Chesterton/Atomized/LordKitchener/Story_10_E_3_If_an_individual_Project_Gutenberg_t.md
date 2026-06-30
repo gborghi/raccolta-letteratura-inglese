@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — E.3.  If an individual Project Gutenberg-tm electronic work is posted"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_09_E_2_If_an_individual_Project_Gutenberg_t">‹ Story 09 E 2 If an individual Project Gutenberg t</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_11_E_4_Do_not_unlink_or_detach_or_remove_th">Story 11 E 4 Do not unlink or detach or remove th ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_09_e_2_if_an_individual_project_gutenberg_t">‹ Story 09 E 2 If an individual Project Gutenberg t</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_11_e_4_do_not_unlink_or_detach_or_remove_th">Story 11 E 4 Do not unlink or detach or remove th ›</a></div>
 </nav>
 
 

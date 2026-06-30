@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sir-Toby-Belch"></div>
+<div class="concept-works" data-slug="characters/sir-toby-belch"></div>
 
 #graph/character

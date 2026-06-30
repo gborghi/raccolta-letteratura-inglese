@@ -2,15 +2,15 @@
 title: "[[Sanity]] — THE REAL LIFE ON THE LAND"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_13_VOWS_AND_VOLUNTEERS">‹ Story 13 VOWS AND VOLUNTEERS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_15_SOME_ASPECTS_OF_MACHINERY">Story 15 SOME ASPECTS OF MACHINERY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_13_vows_and_volunteers">‹ Story 13 VOWS AND VOLUNTEERS</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_15_some_aspects_of_machinery">Story 15 SOME ASPECTS OF MACHINERY ›</a></div>
 </nav>
 
 

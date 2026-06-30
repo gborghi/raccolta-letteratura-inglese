@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Arthurian-Legend"></div>
+<div class="concept-works" data-slug="historical-references/arthurian-legend"></div>
 
 #graph/histref

@@ -2,14 +2,14 @@
 title: "trees of [[Pride|pride]]"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/trees-of-pride-(Chesterton)"
+parentWork: "works/trees-of-pride-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/trees-of-pride-(chesterton)">trees of pride</a></div>
 </nav>
 
 

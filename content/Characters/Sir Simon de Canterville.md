@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Sir-Simon-de-Canterville"></div>
+<div class="concept-works" data-slug="characters/sir-simon-de-canterville"></div>
 
 #graph/character

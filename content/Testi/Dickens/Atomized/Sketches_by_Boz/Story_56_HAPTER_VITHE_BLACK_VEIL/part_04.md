@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VI—THE BLACK VEIL (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_56_HAPTER_VITHE_BLACK_VEIL/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_57_HAPTER_VIITHE_STEAM_EXCURSION/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_56_hapter_vithe_black_veil/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_57_hapter_viithe_steam_excursion/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Barnaby Rudge]] — Chapter 63"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Barnaby-Rudge-(Dickens)"
+parentWork: "works/barnaby-rudge-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_62">‹ Chapter 62</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_64">Chapter 64 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/barnaby-rudge-(dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/barnaby_rudge/chapter_62">‹ Chapter 62</a><a class="ex-next" href="/testi/dickens/atomized/barnaby_rudge/chapter_64">Chapter 64 ›</a></div>
 </nav>
 
 

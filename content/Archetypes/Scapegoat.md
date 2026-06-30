@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Archetypes/Scapegoat"></div>
+<div class="concept-works" data-slug="archetypes/scapegoat"></div>
 
 #graph/archetype

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Imprisonment"></div>
+<div class="concept-works" data-slug="concepts/imprisonment"></div>
 
 #graph/concept

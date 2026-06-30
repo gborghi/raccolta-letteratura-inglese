@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Battle-of-Ethandun"></div>
+<div class="concept-works" data-slug="historical-references/battle-of-ethandun"></div>
 
 #graph/histref

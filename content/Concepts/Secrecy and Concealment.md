@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Secrecy-and-Concealment"></div>
+<div class="concept-works" data-slug="concepts/secrecy-and-concealment"></div>
 
 #graph/concept

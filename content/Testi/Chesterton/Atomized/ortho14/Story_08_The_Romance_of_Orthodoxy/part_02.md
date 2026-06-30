@@ -2,15 +2,15 @@
 title: "[[ortho14]] — The [[Romance]] of Orthodoxy (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/ortho14-(Chesterton)"
+parentWork: "works/ortho14-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/ortho14-(chesterton)">ortho14</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/ortho14/story_08_the_romance_of_orthodoxy/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/ortho14/story_08_the_romance_of_orthodoxy/part_03">part 03 ›</a></div>
 </nav>
 
 

@@ -48,17 +48,17 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Act_1 · Scene_1](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_1/Scene_1)
-- [Act_1 · Scene_2](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_1/Scene_2)
-- [Act_2 · Scene_1](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_2/Scene_1)
-- [Act_2 · Scene_2](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_2/Scene_2)
-- [Act_3 · Scene_1](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_3/Scene_1)
-- [Act_3 · Scene_2](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_3/Scene_2)
-- [Act_4 · Scene_1](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_1)
-- [Act_4 · Scene_2](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_2)
-- [Act_4 · Scene_3](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_3)
-- [Act_4 · Scene_4](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_4)
-- [Act_5 · Scene_1](/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_5/Scene_1)
+- [Act_1 · Scene_1](/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_1)
+- [Act_1 · Scene_2](/testi/shakespeare/plays/the_comedy_of_errors/act_1/scene_2)
+- [Act_2 · Scene_1](/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_1)
+- [Act_2 · Scene_2](/testi/shakespeare/plays/the_comedy_of_errors/act_2/scene_2)
+- [Act_3 · Scene_1](/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_1)
+- [Act_3 · Scene_2](/testi/shakespeare/plays/the_comedy_of_errors/act_3/scene_2)
+- [Act_4 · Scene_1](/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_1)
+- [Act_4 · Scene_2](/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_2)
+- [Act_4 · Scene_3](/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_3)
+- [Act_4 · Scene_4](/testi/shakespeare/plays/the_comedy_of_errors/act_4/scene_4)
+- [Act_5 · Scene_1](/testi/shakespeare/plays/the_comedy_of_errors/act_5/scene_1)
 
 
 ## Testo integrale / Full text

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/William-Crimsworth"></div>
+<div class="concept-works" data-slug="characters/william-crimsworth"></div>
 
 #graph/character

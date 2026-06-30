@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Bob-Cratchit"></div>
+<div class="concept-works" data-slug="characters/bob-cratchit"></div>
 
 #graph/character

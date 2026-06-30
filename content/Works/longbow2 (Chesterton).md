@@ -34,14 +34,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Chapter 01](/Testi/Chesterton/Atomized/longbow2/Chapter_01)
-- [Chapter 02](/Testi/Chesterton/Atomized/longbow2/Chapter_02)
-- [Chapter 03](/Testi/Chesterton/Atomized/longbow2/Chapter_03)
-- [Chapter 04](/Testi/Chesterton/Atomized/longbow2/Chapter_04)
-- [Chapter 05](/Testi/Chesterton/Atomized/longbow2/Chapter_05)
-- [Chapter 06](/Testi/Chesterton/Atomized/longbow2/Chapter_06)
-- [Chapter 07](/Testi/Chesterton/Atomized/longbow2/Chapter_07)
-- [Chapter 08](/Testi/Chesterton/Atomized/longbow2/Chapter_08)
+- [Chapter 01](/testi/chesterton/atomized/longbow2/chapter_01)
+- [Chapter 02](/testi/chesterton/atomized/longbow2/chapter_02)
+- [Chapter 03](/testi/chesterton/atomized/longbow2/chapter_03)
+- [Chapter 04](/testi/chesterton/atomized/longbow2/chapter_04)
+- [Chapter 05](/testi/chesterton/atomized/longbow2/chapter_05)
+- [Chapter 06](/testi/chesterton/atomized/longbow2/chapter_06)
+- [Chapter 07](/testi/chesterton/atomized/longbow2/chapter_07)
+- [Chapter 08](/testi/chesterton/atomized/longbow2/chapter_08)
 
 ## Testo integrale / Full text
 

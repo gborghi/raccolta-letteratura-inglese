@@ -2,15 +2,15 @@
 title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
+parentWork: "works/martin-chuzzlewit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_36_THIRTY_SIX">‹ Chapter 36 THIRTY SIX</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_38_THIRTY_EIGHT">Chapter 38 THIRTY EIGHT ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/martin-chuzzlewit-(dickens)">Martin Chuzzlewit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_36_thirty_six">‹ Chapter 36 THIRTY SIX</a><a class="ex-next" href="/testi/dickens/atomized/martin_chuzzlewit/chapter_38_thirty_eight">Chapter 38 THIRTY EIGHT ›</a></div>
 </nav>
 
 

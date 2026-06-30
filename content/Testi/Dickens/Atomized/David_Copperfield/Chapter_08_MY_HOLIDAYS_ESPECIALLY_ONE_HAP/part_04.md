@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 4)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_03">‹ part 03</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_08_my_holidays_especially_one_hap/part_05">part 05 ›</a></div>
 </nav>
 
 

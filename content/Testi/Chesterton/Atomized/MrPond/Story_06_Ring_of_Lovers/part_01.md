@@ -2,15 +2,15 @@
 title: "[[MrPond]] — Ring of [[lovers|Lovers]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/MrPond-(Chesterton)"
+parentWork: "works/mrpond-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_05_The_Unmentionable_Man/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_06_Ring_of_Lovers/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/mrpond-(chesterton)">MrPond</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/mrpond/story_05_the_unmentionable_man/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/mrpond/story_06_ring_of_lovers/part_02">part 02 ›</a></div>
 </nav>
 
 

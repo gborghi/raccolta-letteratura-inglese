@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Inexpressibility"></div>
+<div class="concept-works" data-slug="topoi/inexpressibility"></div>
 
 #graph/topos

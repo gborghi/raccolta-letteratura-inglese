@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Medieval-England-(2)"></div>
+<div class="concept-works" data-slug="settings/medieval-england-(2)"></div>
 
 #graph/setting

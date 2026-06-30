@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Christianity"></div>
+<div class="concept-works" data-slug="historical-references/christianity"></div>
 
 #graph/histref

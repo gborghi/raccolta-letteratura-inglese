@@ -2,15 +2,15 @@
 title: "GKC Come to Think — ON [[America|AMERICA]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
+parentWork: "works/gkc-come-to-think-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_36_ON_PROHIBITION">‹ Story 36 ON PROHIBITION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_38_ON_BIGNESS_AND_AMERICA">Story 38 ON BIGNESS AND AMERICA ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/gkc-come-to-think-(chesterton)">GKC Come to Think</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/gkc_come_to_think/story_36_on_prohibition">‹ Story 36 ON PROHIBITION</a><a class="ex-next" href="/testi/chesterton/atomized/gkc_come_to_think/story_38_on_bigness_and_america">Story 38 ON BIGNESS AND AMERICA ›</a></div>
 </nav>
 
 

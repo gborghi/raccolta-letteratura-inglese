@@ -2,15 +2,15 @@
 title: "[[CharlesDickens]] — Chapter 12 (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/CharlesDickens-(Chesterton)"
+parentWork: "works/charlesdickens-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/CharlesDickens-(Chesterton)">CharlesDickens</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/CharlesDickens/Chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/CharlesDickens/Chapter_15/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/charlesdickens-(chesterton)">CharlesDickens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/charlesdickens/chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/testi/chesterton/atomized/charlesdickens/chapter_15/part_02">part 02 ›</a></div>
 </nav>
 
 

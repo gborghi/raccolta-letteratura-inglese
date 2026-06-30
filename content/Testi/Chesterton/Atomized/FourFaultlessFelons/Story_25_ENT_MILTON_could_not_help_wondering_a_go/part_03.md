@@ -2,15 +2,15 @@
 title: "[[FourFaultlessFelons]] — ENT [[Milton|MILTON]] could not help wondering a good deal, especially when (part 3)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/FourFaultlessFelons-(Chesterton)"
+parentWork: "works/fourfaultlessfelons-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_25_ENT_MILTON_could_not_help_wondering_a_go/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_27_R_PETER_PRICE_the_private_inquiry_agent/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/fourfaultlessfelons-(chesterton)">FourFaultlessFelons</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/fourfaultlessfelons/story_25_ent_milton_could_not_help_wondering_a_go/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/fourfaultlessfelons/story_27_r_peter_price_the_private_inquiry_agent/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[Berenice]] (part 3)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/Berenice-(Poe)"
+parentWork: "works/berenice-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/Berenice-(Poe)">Berenice</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Berenice/part/part_02">‹ part 02</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/berenice-(poe)">Berenice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/berenice/part/part_02">‹ part 02</a><span></span></div>
 </nav>
 
 

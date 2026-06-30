@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Crime-and-Punishment"></div>
+<div class="concept-works" data-slug="concepts/crime-and-punishment"></div>
 
 #graph/concept

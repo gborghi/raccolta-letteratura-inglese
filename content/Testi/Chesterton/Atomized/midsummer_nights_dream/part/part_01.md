@@ -2,15 +2,15 @@
 title: "midsummer nights dream (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/midsummer-nights-dream-(Chesterton)"
+parentWork: "works/midsummer-nights-dream-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/midsummer-nights-dream-(Chesterton)">midsummer nights dream</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/midsummer_nights_dream/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/midsummer-nights-dream-(chesterton)">midsummer nights dream</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/midsummer_nights_dream/part/part_02">part 02 ›</a></div>
 </nav>
 
 

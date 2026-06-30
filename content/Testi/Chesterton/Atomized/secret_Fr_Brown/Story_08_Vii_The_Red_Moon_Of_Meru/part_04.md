@@ -2,15 +2,15 @@
 title: "secret Fr Brown — Vii The Red [[Moon]] Of Meru (part 4)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+parentWork: "works/secret-fr-brown-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_08_Vii_The_Red_Moon_Of_Meru/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_08_Vii_The_Red_Moon_Of_Meru/part_05">part 05 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/secret-fr-brown-(chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/secret_fr_brown/story_08_vii_the_red_moon_of_meru/part_03">‹ part 03</a><a class="ex-next" href="/testi/chesterton/atomized/secret_fr_brown/story_08_vii_the_red_moon_of_meru/part_05">part 05 ›</a></div>
 </nav>
 
 

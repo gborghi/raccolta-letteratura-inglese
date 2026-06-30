@@ -2,15 +2,15 @@
 title: "[[The Fall of the House of Usher]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
+parentWork: "works/the-fall-of-the-house-of-usher-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Fall-of-the-House-of-Usher-(Poe)">The Fall of the House of Usher</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Fall_of_the_House_of_Usher/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-fall-of-the-house-of-usher-(poe)">The Fall of the House of Usher</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_fall_of_the_house_of_usher/part/part_02">part 02 ›</a></div>
 </nav>
 
 

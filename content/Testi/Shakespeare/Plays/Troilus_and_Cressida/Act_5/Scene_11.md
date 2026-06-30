@@ -2,15 +2,15 @@
 title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
+parentWork: "works/troilus-and-cressida-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_5/Scene_10">‹ Scene 10</a><span></span></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/troilus-and-cressida-(shakespeare)">Troilus and Cressida</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/troilus_and_cressida/act_5/scene_10">‹ Scene 10</a><span></span></div>
 </nav>
 
 

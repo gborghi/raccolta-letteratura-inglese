@@ -2,15 +2,15 @@
 title: "[[Emma]] — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
-parentWork: "Works/Emma-(Austen)"
+parentWork: "works/emma-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_35/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/emma-(austen)">Emma</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/emma/chapter_34/part_02">‹ part 02</a><a class="ex-next" href="/testi/austen/atomized/emma/chapter_35/part_01">part 01 ›</a></div>
 </nav>
 
 

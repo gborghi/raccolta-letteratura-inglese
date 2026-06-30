@@ -2,15 +2,15 @@
 title: "[[heret12]] — Paganism and Mr. Lowes Dickinson (part 2)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/heret12-(Chesterton)"
+parentWork: "works/heret12-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_11_Paganism_and_Mr_Lowes_Dickinson/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_11_Paganism_and_Mr_Lowes_Dickinson/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/heret12-(chesterton)">heret12</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_01">‹ part 01</a><a class="ex-next" href="/testi/chesterton/atomized/heret12/story_11_paganism_and_mr_lowes_dickinson/part_03">part 03 ›</a></div>
 </nav>
 
 

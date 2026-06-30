@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Madeline-Usher"></div>
+<div class="concept-works" data-slug="characters/madeline-usher"></div>
 
 #graph/character

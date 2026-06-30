@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Puritanism"></div>
+<div class="concept-works" data-slug="historical-references/puritanism"></div>
 
 #graph/histref

@@ -2,14 +2,14 @@
 title: "[[The Assignation]]"
 author: "Poe"
 unitType: work
-parentWork: "Works/The-Assignation-(Poe)"
+parentWork: "works/the-assignation-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Assignation-(Poe)">The Assignation</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-assignation-(poe)">The Assignation</a></div>
 </nav>
 
 

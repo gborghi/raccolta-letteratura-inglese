@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Wonder-and-Gratitude"></div>
+<div class="concept-works" data-slug="concepts/wonder-and-gratitude"></div>
 
 #graph/concept

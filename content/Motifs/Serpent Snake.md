@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Serpent-Snake"></div>
+<div class="concept-works" data-slug="motifs/serpent-snake"></div>
 
 #graph/motif

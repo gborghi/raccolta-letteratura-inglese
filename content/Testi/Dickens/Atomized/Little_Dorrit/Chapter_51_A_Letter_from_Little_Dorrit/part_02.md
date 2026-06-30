@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_51_A_Letter_from_Little_Dorrit/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_52_In_which_a_Great_Patriotic_Con/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_51_a_letter_from_little_dorrit/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_52_in_which_a_great_patriotic_con/part_01">part 01 ›</a></div>
 </nav>
 
 

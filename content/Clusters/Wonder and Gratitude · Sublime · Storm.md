@@ -12,4 +12,4 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Clusters/Wonder-and-Gratitude-·-Sublime-·-Storm"></div>
+<div class="concept-works" data-slug="clusters/wonder-and-gratitude-·-sublime-·-storm"></div>

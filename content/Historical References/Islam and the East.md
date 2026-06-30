@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Historical-References/Islam-and-the-East"></div>
+<div class="concept-works" data-slug="historical-references/islam-and-the-east"></div>
 
 #graph/histref

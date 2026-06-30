@@ -2,15 +2,15 @@
 title: "Poet and Lunatics — THE PURPLE [[Jewel|JEWEL]] (part 7)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
+parentWork: "works/poet-and-lunatics-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL/part_08">part 08 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/poet-and-lunatics-(chesterton)">Poet and Lunatics</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel/part_06">‹ part 06</a><a class="ex-next" href="/testi/chesterton/atomized/poet_and_lunatics/story_07_the_purple_jewel/part_08">part 08 ›</a></div>
 </nav>
 
 

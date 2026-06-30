@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Stone-and-Marble"></div>
+<div class="concept-works" data-slug="motifs/stone-and-marble"></div>
 
 #graph/motif

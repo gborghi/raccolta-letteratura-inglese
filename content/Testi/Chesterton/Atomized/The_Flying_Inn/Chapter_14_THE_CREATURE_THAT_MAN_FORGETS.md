@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_13_THE_BATTLE_OF_THE_TUNNEL">‹ Chapter 13 THE BATTLE OF THE TUNNEL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_15_THE_SONGS_OF_THE_CAR_CLUB">Chapter 15 THE SONGS OF THE CAR CLUB ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_13_the_battle_of_the_tunnel">‹ Chapter 13 THE BATTLE OF THE TUNNEL</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_15_the_songs_of_the_car_club">Chapter 15 THE SONGS OF THE CAR CLUB ›</a></div>
 </nav>
 
 

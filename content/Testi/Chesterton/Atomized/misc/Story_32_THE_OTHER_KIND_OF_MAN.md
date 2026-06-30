@@ -2,15 +2,15 @@
 title: "[[misc]] — THE OTHER KIND OF MAN"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_31_THE_MAN_ON_TOP">‹ Story 31 THE MAN ON TOP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_33_THE_MEDIAEVAL_VILLAIN">Story 33 THE MEDIAEVAL VILLAIN ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/misc/story_31_the_man_on_top">‹ Story 31 THE MAN ON TOP</a><a class="ex-next" href="/testi/chesterton/atomized/misc/story_33_the_mediaeval_villain">Story 33 THE MEDIAEVAL VILLAIN ›</a></div>
 </nav>
 
 

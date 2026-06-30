@@ -2,15 +2,15 @@
 title: "[[Northanger Abbey]] — Chapter 29"
 author: "Austen"
 unitType: chapter
-parentWork: "Works/Northanger-Abbey-(Austen)"
+parentWork: "works/northanger-abbey-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_29">‹ Chapter 29</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_31">Chapter 31 ›</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/northanger-abbey-(austen)">Northanger Abbey</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/austen/atomized/northanger_abbey/chapter_29">‹ Chapter 29</a><a class="ex-next" href="/testi/austen/atomized/northanger_abbey/chapter_31">Chapter 31 ›</a></div>
 </nav>
 
 

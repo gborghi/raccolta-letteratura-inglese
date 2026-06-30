@@ -2,15 +2,15 @@
 title: "A [[Child]]'s [[history|History]] of England — Y [[Child|CHILD]],"
 author: "Dickens"
 unitType: story
-parentWork: "Works/A-Child's-History-of-England-(Dickens)"
+parentWork: "works/a-child's-history-of-england-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_07_N_the_parlour_of_the_Green_Dragon_a_publ">‹ Story 07 N the parlour of the Green Dragon a publ</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_01_UDFOG_is_a_pleasant_towna_remarkably_ple/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/a-child's-history-of-england-(dickens)">A Childs History of England</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/a_childs_history_of_england/story_07_n_the_parlour_of_the_green_dragon_a_publ">‹ Story 07 N the parlour of the Green Dragon a publ</a><a class="ex-next" href="/testi/dickens/atomized/a_childs_history_of_england/story_01_udfog_is_a_pleasant_towna_remarkably_ple/part_01">part 01 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hindley-Earnshaw"></div>
+<div class="concept-works" data-slug="characters/hindley-earnshaw"></div>
 
 #graph/character

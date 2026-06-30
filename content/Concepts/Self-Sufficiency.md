@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Self-Sufficiency"></div>
+<div class="concept-works" data-slug="concepts/self-sufficiency"></div>
 
 #graph/concept

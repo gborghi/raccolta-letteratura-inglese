@@ -2,15 +2,15 @@
 title: "[[The Purloined Letter]] (part 7)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Purloined-Letter-(Poe)"
+parentWork: "works/the-purloined-letter-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Purloined-Letter-(Poe)">The Purloined Letter</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Purloined_Letter/part/part_06">‹ part 06</a><span></span></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-purloined-letter-(poe)">The Purloined Letter</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_purloined_letter/part/part_06">‹ part 06</a><span></span></div>
 </nav>
 
 

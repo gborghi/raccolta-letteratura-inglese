@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_08_HOW_MR_WINKLE_INSTEAD_OF_SHOOT">‹ Chapter 08 HOW MR WINKLE INSTEAD OF SHOOT</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_10_A_DISCOVERY_AND_A_CHASE">Chapter 10 A DISCOVERY AND A CHASE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_08_how_mr_winkle_instead_of_shoot">‹ Chapter 08 HOW MR WINKLE INSTEAD OF SHOOT</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_10_a_discovery_and_a_chase">Chapter 10 A DISCOVERY AND A CHASE ›</a></div>
 </nav>
 
 

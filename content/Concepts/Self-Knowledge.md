@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Self-Knowledge"></div>
+<div class="concept-works" data-slug="concepts/self-knowledge"></div>
 
 #graph/concept

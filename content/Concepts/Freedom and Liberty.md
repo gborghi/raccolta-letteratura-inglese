@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Freedom-and-Liberty"></div>
+<div class="concept-works" data-slug="concepts/freedom-and-liberty"></div>
 
 #graph/concept

@@ -2,15 +2,15 @@
 title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 76)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/WhatISawInAmerica-(Chesterton)"
+parentWork: "works/whatisawinamerica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_05_NCOLN_AND_LOST_CAUSES_222/part_75">‹ part 75</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_05_NCOLN_AND_LOST_CAUSES_222/part_77">part 77 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/whatisawinamerica-(chesterton)">WhatISawInAmerica</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/whatisawinamerica/story_05_ncoln_and_lost_causes_222/part_75">‹ part 75</a><a class="ex-next" href="/testi/chesterton/atomized/whatisawinamerica/story_05_ncoln_and_lost_causes_222/part_77">part 77 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Sketches by Boz — HAPTER VIII—DOCTORS’ COMMONS"
 author: "Dickens"
 unitType: story
-parentWork: "Works/Sketches-by-Boz-(Dickens)"
+parentWork: "works/sketches-by-boz-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_16_HAPTER_VIIHACKNEY_COACH_STANDS">‹ Story 16 HAPTER VIIHACKNEY COACH STANDS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_18_HAPTER_IXLONDON_RECREATIONS">Story 18 HAPTER IXLONDON RECREATIONS ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/sketches-by-boz-(dickens)">Sketches by Boz</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/sketches_by_boz/story_16_hapter_viihackney_coach_stands">‹ Story 16 HAPTER VIIHACKNEY COACH STANDS</a><a class="ex-next" href="/testi/dickens/atomized/sketches_by_boz/story_18_hapter_ixlondon_recreations">Story 18 HAPTER IXLONDON RECREATIONS ›</a></div>
 </nav>
 
 

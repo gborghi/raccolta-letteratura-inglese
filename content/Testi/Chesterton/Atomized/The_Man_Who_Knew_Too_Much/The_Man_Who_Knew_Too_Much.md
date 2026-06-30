@@ -2,14 +2,14 @@
 title: "The Man Who Knew Too Much"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
+parentWork: "works/the-man-who-knew-too-much-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-man-who-knew-too-much-(chesterton)">The Man Who Knew Too Much</a></div>
 </nav>
 
 

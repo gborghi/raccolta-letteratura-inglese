@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Cheeryble-Brothers"></div>
+<div class="concept-works" data-slug="characters/cheeryble-brothers"></div>
 
 #graph/character

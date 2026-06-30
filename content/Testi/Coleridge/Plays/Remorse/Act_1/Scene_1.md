@@ -2,15 +2,15 @@
 title: "[[REMORSE]] — Act I, Scene 1"
 author: "Coleridge"
 unitType: scene
-parentWork: "Works/REMORSE-(Coleridge)"
+parentWork: "works/remorse-(coleridge)"
 tags:
   - graph/excerpt
   - author/Coleridge
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Coleridge · <a href="/Works/REMORSE-(Coleridge)">Remorse</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Coleridge/Plays/Remorse/Act_1/Scene_2">Scene 2 ›</a></div>
+<div class="excerpt-crumb">Coleridge · <a href="/works/remorse-(coleridge)">Remorse</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/coleridge/plays/remorse/act_1/scene_2">Scene 2 ›</a></div>
 </nav>
 
 

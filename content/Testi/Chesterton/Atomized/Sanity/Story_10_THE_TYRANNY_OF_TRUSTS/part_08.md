@@ -2,15 +2,15 @@
 title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 8)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Sanity-(Chesterton)"
+parentWork: "works/sanity-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_10_THE_TYRANNY_OF_TRUSTS/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_10_THE_TYRANNY_OF_TRUSTS/part_09">part 09 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/sanity-(chesterton)">Sanity</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/sanity/story_10_the_tyranny_of_trusts/part_07">‹ part 07</a><a class="ex-next" href="/testi/chesterton/atomized/sanity/story_10_the_tyranny_of_trusts/part_09">part 09 ›</a></div>
 </nav>
 
 

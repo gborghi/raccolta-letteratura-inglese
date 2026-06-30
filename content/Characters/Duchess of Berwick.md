@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duchess-of-Berwick"></div>
+<div class="concept-works" data-slug="characters/duchess-of-berwick"></div>
 
 #graph/character

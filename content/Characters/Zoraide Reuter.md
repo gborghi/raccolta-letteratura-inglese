@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Zoraide-Reuter"></div>
+<div class="concept-works" data-slug="characters/zoraide-reuter"></div>
 
 #graph/character

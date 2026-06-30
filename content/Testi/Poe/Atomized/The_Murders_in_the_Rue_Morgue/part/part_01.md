@@ -2,15 +2,15 @@
 title: "[[The Murders in the Rue Morgue]] (part 1)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
+parentWork: "works/the-murders-in-the-rue-morgue-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Murders-in-the-Rue-Morgue-(Poe)">The Murders in the Rue Morgue</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Murders_in_the_Rue_Morgue/part/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-murders-in-the-rue-morgue-(poe)">The Murders in the Rue Morgue</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/poe/atomized/the_murders_in_the_rue_morgue/part/part_02">part 02 ›</a></div>
 </nav>
 
 

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Quest"></div>
+<div class="concept-works" data-slug="topoi/quest"></div>
 
 #graph/topos

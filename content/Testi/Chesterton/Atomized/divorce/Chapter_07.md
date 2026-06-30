@@ -2,15 +2,15 @@
 title: "[[divorce]] — Chapter 7"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/divorce-(Chesterton)"
+parentWork: "works/divorce-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/divorce-(Chesterton)">divorce</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/divorce/Chapter_06">‹ Chapter 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/divorce/Chapter_08">Chapter 08 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/divorce-(chesterton)">divorce</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/divorce/chapter_06">‹ Chapter 06</a><a class="ex-next" href="/testi/chesterton/atomized/divorce/chapter_08">Chapter 08 ›</a></div>
 </nav>
 
 

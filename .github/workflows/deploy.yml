@@ -26,6 +26,11 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm ci
+      - name: Restore Quartz plugins
+        # v5: community plugins live in .quartz/ (gitignored) and are restored from
+        # quartz.lock.json — clones each, runs npm install + build, regenerates
+        # .quartz/plugins/index.ts. `npx quartz build` does NOT run this itself.
+        run: npx quartz plugin restore
       - name: Build Quartz
         # ~19k pages (full texts + atomized excerpts): raise Node heap so the
         # parse/emit phases don't OOM on the runner.

@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 64: A LAST RETROSPECT"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_63_A_VISITOR">‹ Chapter 63 A VISITOR</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_01">part 01 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_63_a_visitor">‹ Chapter 63 A VISITOR</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born/part_01">part 01 ›</a></div>
 </nav>
 
 

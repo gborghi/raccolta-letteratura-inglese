@@ -2,15 +2,15 @@
 title: "[[Lord Arthur Savile]]'s Crime (part 4)"
 author: "Wilde"
 unitType: excerpt
-parentWork: "Works/Lord-Arthur-Savile's-Crime-(Wilde)"
+parentWork: "works/lord-arthur-savile's-crime-(wilde)"
 tags:
   - graph/excerpt
   - author/Wilde
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Wilde · <a href="/Works/Lord-Arthur-Savile's-Crime-(Wilde)">020 Lord Arthur Saviles Crime</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/020_Lord_Arthur_Saviles_Crime/part/part_03">‹ part 03</a><span></span></div>
+<div class="excerpt-crumb">Wilde · <a href="/works/lord-arthur-savile's-crime-(wilde)">020 Lord Arthur Saviles Crime</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/wilde/atomized/020_lord_arthur_saviles_crime/part/part_03">‹ part 03</a><span></span></div>
 </nav>
 
 

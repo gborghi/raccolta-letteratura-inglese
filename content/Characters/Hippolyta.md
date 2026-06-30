@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Hippolyta"></div>
+<div class="concept-works" data-slug="characters/hippolyta"></div>
 
 #graph/character

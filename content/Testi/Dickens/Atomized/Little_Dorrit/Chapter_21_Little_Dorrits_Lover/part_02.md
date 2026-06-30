@@ -2,15 +2,15 @@
 title: "Little Dorrit — Chapter 18: Little Dorrit’s [[Lover]] (part 2)"
 author: "Dickens"
 unitType: excerpt
-parentWork: "Works/Little-Dorrit-(Dickens)"
+parentWork: "works/little-dorrit-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_21_Little_Dorrits_Lover/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_21_Little_Dorrits_Lover/part_03">part 03 ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/little-dorrit-(dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/little_dorrit/chapter_21_little_dorrits_lover/part_01">‹ part 01</a><a class="ex-next" href="/testi/dickens/atomized/little_dorrit/chapter_21_little_dorrits_lover/part_03">part 03 ›</a></div>
 </nav>
 
 

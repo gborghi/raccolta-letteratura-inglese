@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Kingship-and-Legitimacy"></div>
+<div class="concept-works" data-slug="concepts/kingship-and-legitimacy"></div>
 
 #graph/concept

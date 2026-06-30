@@ -42,14 +42,14 @@ tags:
 
 ## Chapters / scenes / sections
 
-- [Story 01 The Resurrection of Father Brown](/Testi/Chesterton/Atomized/Incredulity/Story_01_The_Resurrection_of_Father_Brown)
-- [Story 02 The Arrow of Heaven](/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven)
-- [Story 03 The Oracle of the Dog](/Testi/Chesterton/Atomized/Incredulity/Story_03_The_Oracle_of_the_Dog)
-- [Story 04 The Miracle of Moon Crescent](/Testi/Chesterton/Atomized/Incredulity/Story_04_The_Miracle_of_Moon_Crescent)
-- [Story 05 The Curse of the Golden Cross](/Testi/Chesterton/Atomized/Incredulity/Story_05_The_Curse_of_the_Golden_Cross)
-- [Story 06 The Dagger with Wings](/Testi/Chesterton/Atomized/Incredulity/Story_06_The_Dagger_with_Wings)
-- [Story 07 The Doom of the Darnaways](/Testi/Chesterton/Atomized/Incredulity/Story_07_The_Doom_of_the_Darnaways)
-- [Story 08 The Ghost of Gideon Wise](/Testi/Chesterton/Atomized/Incredulity/Story_08_The_Ghost_of_Gideon_Wise)
+- [Story 01 The Resurrection of Father Brown](/testi/chesterton/atomized/incredulity/story_01_the_resurrection_of_father_brown)
+- [Story 02 The Arrow of Heaven](/testi/chesterton/atomized/incredulity/story_02_the_arrow_of_heaven)
+- [Story 03 The Oracle of the Dog](/testi/chesterton/atomized/incredulity/story_03_the_oracle_of_the_dog)
+- [Story 04 The Miracle of Moon Crescent](/testi/chesterton/atomized/incredulity/story_04_the_miracle_of_moon_crescent)
+- [Story 05 The Curse of the Golden Cross](/testi/chesterton/atomized/incredulity/story_05_the_curse_of_the_golden_cross)
+- [Story 06 The Dagger with Wings](/testi/chesterton/atomized/incredulity/story_06_the_dagger_with_wings)
+- [Story 07 The Doom of the Darnaways](/testi/chesterton/atomized/incredulity/story_07_the_doom_of_the_darnaways)
+- [Story 08 The Ghost of Gideon Wise](/testi/chesterton/atomized/incredulity/story_08_the_ghost_of_gideon_wise)
 
 ## Testo integrale / Full text
 

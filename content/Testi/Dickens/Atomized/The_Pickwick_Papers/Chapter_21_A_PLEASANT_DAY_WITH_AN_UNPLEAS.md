@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 19: A PLEASANT DAY WITH AN UNPLEASANT TERMINATION"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_20_BRIEFLY_ILLUSTRATIVE_OF_TWO_PO">‹ Chapter 20 BRIEFLY ILLUSTRATIVE OF TWO PO</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_22_SHOWING_HOW_DODSON_AND_FOGG_WE">Chapter 22 SHOWING HOW DODSON AND FOGG WE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_20_briefly_illustrative_of_two_po">‹ Chapter 20 BRIEFLY ILLUSTRATIVE OF TWO PO</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_22_showing_how_dodson_and_fogg_we">Chapter 22 SHOWING HOW DODSON AND FOGG WE ›</a></div>
 </nav>
 
 

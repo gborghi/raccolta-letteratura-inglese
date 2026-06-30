@@ -2,14 +2,14 @@
 title: "[[Sense and Sensibility]]"
 author: "Austen"
 unitType: work
-parentWork: "Works/Sense-and-Sensibility-(Austen)"
+parentWork: "works/sense-and-sensibility-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/sense-and-sensibility-(austen)">Sense and Sensibility</a></div>
 </nav>
 
 

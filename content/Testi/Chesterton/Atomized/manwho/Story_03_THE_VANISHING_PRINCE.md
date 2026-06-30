@@ -2,15 +2,15 @@
 title: "[[manwho]] — THE VANISHING PRINCE"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/manwho-(Chesterton)"
+parentWork: "works/manwho-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_02_THE_FACE_IN_THE_TARGET">‹ Story 02 THE FACE IN THE TARGET</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY">Story 04 THE SOUL OF THE SCHOOLBOY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/manwho-(chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/manwho/story_02_the_face_in_the_target">‹ Story 02 THE FACE IN THE TARGET</a><a class="ex-next" href="/testi/chesterton/atomized/manwho/story_04_the_soul_of_the_schoolboy">Story 04 THE SOUL OF THE SCHOOLBOY ›</a></div>
 </nav>
 
 

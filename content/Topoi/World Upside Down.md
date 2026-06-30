@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/World-Upside-Down"></div>
+<div class="concept-works" data-slug="topoi/world-upside-down"></div>
 
 #graph/topos

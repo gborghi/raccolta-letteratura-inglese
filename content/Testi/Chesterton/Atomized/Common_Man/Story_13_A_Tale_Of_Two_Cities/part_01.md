@@ -2,15 +2,15 @@
 title: "[[Common Man]] — A Tale Of Two Cities (part 1)"
 author: "Chesterton"
 unitType: excerpt
-parentWork: "Works/Common-Man-(Chesterton)"
+parentWork: "works/common-man-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_11_The_Pantomime/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_13_A_Tale_Of_Two_Cities/part_02">part 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/common-man-(chesterton)">Common Man</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/common_man/story_11_the_pantomime/part_02">‹ part 02</a><a class="ex-next" href="/testi/chesterton/atomized/common_man/story_13_a_tale_of_two_cities/part_02">part 02 ›</a></div>
 </nav>
 
 

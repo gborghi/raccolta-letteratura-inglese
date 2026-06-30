@@ -2,15 +2,15 @@
 title: "[[misc]] — THE SUFFRAGIST"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/misc-(Chesterton)"
+parentWork: "works/misc-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_02_THE_POET_AND_THE_CHEESE">Story 02 THE POET AND THE CHEESE ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/misc-(chesterton)">misc</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/misc/story_02_the_poet_and_the_cheese">Story 02 THE POET AND THE CHEESE ›</a></div>
 </nav>
 
 

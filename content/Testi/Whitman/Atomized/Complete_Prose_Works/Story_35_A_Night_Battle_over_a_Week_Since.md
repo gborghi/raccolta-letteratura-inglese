@@ -2,15 +2,15 @@
 title: "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A [[Night]] Battle over a Week Since"
 author: "Whitman"
 unitType: story
-parentWork: "Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)"
+parentWork: "works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)"
 tags:
   - graph/excerpt
   - author/Whitman
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_34_The_Wounded_from_Chancellorsville">‹ Story 34 The Wounded from Chancellorsville</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_36_Unnamed_Remains_the_Bravest_Soldier">Story 36 Unnamed Remains the Bravest Soldier ›</a></div>
+<div class="excerpt-crumb">Whitman · <a href="/works/complete-prose-works-specimen-days-and-collect,-november-boughs-and-goodbye-my-fancy-(whitman)">Complete Prose Works</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/whitman/atomized/complete_prose_works/story_34_the_wounded_from_chancellorsville">‹ Story 34 The Wounded from Chancellorsville</a><a class="ex-next" href="/testi/whitman/atomized/complete_prose_works/story_36_unnamed_remains_the_bravest_soldier">Story 36 Unnamed Remains the Bravest Soldier ›</a></div>
 </nav>
 
 

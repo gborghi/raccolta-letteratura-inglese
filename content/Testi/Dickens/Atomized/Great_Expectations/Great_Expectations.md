@@ -2,14 +2,14 @@
 title: "[[Great Expectations]]"
 author: "Dickens"
 unitType: work
-parentWork: "Works/Great-Expectations-(Dickens)"
+parentWork: "works/great-expectations-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/great-expectations-(dickens)">Great Expectations</a></div>
 </nav>
 
 

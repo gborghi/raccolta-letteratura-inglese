@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Vincent-Crummles"></div>
+<div class="concept-works" data-slug="characters/vincent-crummles"></div>
 
 #graph/character

@@ -2,15 +2,15 @@
 title: "The [[Pickwick]] Papers — Chapter 40: INTRODUCES MR. [[Pickwick|PICKWICK]] TO A NEW AND NOT UNINTERESTING SCENE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+parentWork: "works/the-pickwick-papers-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_41_MR_SAMUEL_WELLER_BEING_INTRUST">‹ Chapter 41 MR SAMUEL WELLER BEING INTRUST</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_43_WHAT_BEFELL_MR_PICKWICK_WHEN_H">Chapter 43 WHAT BEFELL MR PICKWICK WHEN H ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/the-pickwick-papers-(dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/the_pickwick_papers/chapter_41_mr_samuel_weller_being_intrust">‹ Chapter 41 MR SAMUEL WELLER BEING INTRUST</a><a class="ex-next" href="/testi/dickens/atomized/the_pickwick_papers/chapter_43_what_befell_mr_pickwick_when_h">Chapter 43 WHAT BEFELL MR PICKWICK WHEN H ›</a></div>
 </nav>
 
 

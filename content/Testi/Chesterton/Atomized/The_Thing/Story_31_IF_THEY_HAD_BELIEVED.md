@@ -2,15 +2,15 @@
 title: "The Thing — IF THEY HAD BELIEVED"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/The-Thing-(Chesterton)"
+parentWork: "works/the-thing-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_30_THE_IDOLS_OF_SCOTLAND">‹ Story 30 THE IDOLS OF SCOTLAND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_32_PEACE_AND_THE_PAPACY">Story 32 PEACE AND THE PAPACY ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-thing-(chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_thing/story_30_the_idols_of_scotland">‹ Story 30 THE IDOLS OF SCOTLAND</a><a class="ex-next" href="/testi/chesterton/atomized/the_thing/story_32_peace_and_the_papacy">Story 32 PEACE AND THE PAPACY ›</a></div>
 </nav>
 
 

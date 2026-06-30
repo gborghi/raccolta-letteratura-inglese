@@ -2,15 +2,15 @@
 title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act V, Scene 4"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)"
+parentWork: "works/richard-duke-of-york---(3-henry-vi)-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)">Richard Duke of York 3 Henry VI</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Richard_Duke_of_York_3_Henry_VI/Act_5/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Richard_Duke_of_York_3_Henry_VI/Act_5/Scene_5">Scene 5 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/richard-duke-of-york---(3-henry-vi)-(shakespeare)">Richard Duke of York 3 Henry VI</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_3">‹ Scene 3</a><a class="ex-next" href="/testi/shakespeare/plays/richard_duke_of_york_3_henry_vi/act_5/scene_5">Scene 5 ›</a></div>
 </nav>
 
 

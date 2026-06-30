@@ -2,14 +2,14 @@
 title: "The [[Comedy]] of Errors — Act III, Scene 1 — exchange (DROMIO) [3]"
 author: "Shakespeare"
 unitType: work
-parentWork: "Works/THE-COMEDY-OF-ERRORS-(Shakespeare)"
+parentWork: "works/the-comedy-of-errors-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/the-comedy-of-errors-(shakespeare)">The Comedy of Errors</a></div>
 </nav>
 
 

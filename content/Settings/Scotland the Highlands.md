@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Settings/Scotland-the-Highlands"></div>
+<div class="concept-works" data-slug="settings/scotland-the-highlands"></div>
 
 #graph/setting

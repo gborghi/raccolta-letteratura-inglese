@@ -2,15 +2,15 @@
 title: "[[VariedTypes]] — The Position Of Sir Walter Scott"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/VariedTypes-(Chesterton)"
+parentWork: "works/variedtypes-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_11_Savonarola">‹ Story 11 Savonarola</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_13_Bret_Harte">Story 13 Bret Harte ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/variedtypes-(chesterton)">VariedTypes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/variedtypes/story_11_savonarola">‹ Story 11 Savonarola</a><a class="ex-next" href="/testi/chesterton/atomized/variedtypes/story_13_bret_harte">Story 13 Bret Harte ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/The-Flying-Inn-(Chesterton)"
+parentWork: "works/the-flying-inn-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_18_THE_REPUBLIC_OF_PEACEWAYS">‹ Chapter 18 THE REPUBLIC OF PEACEWAYS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_20_THE_TURK_AND_THE_FUTURISTS">Chapter 20 THE TURK AND THE FUTURISTS ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/the-flying-inn-(chesterton)">The Flying Inn</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/the_flying_inn/chapter_18_the_republic_of_peaceways">‹ Chapter 18 THE REPUBLIC OF PEACEWAYS</a><a class="ex-next" href="/testi/chesterton/atomized/the_flying_inn/chapter_20_the_turk_and_the_futurists">Chapter 20 THE TURK AND THE FUTURISTS ›</a></div>
 </nav>
 
 

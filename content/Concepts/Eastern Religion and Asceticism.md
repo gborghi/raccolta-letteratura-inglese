@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Eastern-Religion-and-Asceticism"></div>
+<div class="concept-works" data-slug="concepts/eastern-religion-and-asceticism"></div>
 
 #graph/concept

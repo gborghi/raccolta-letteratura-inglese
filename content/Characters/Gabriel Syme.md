@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Gabriel-Syme"></div>
+<div class="concept-works" data-slug="characters/gabriel-syme"></div>
 
 #graph/character

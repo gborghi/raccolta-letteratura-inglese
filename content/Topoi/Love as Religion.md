@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Topoi/Love-as-Religion"></div>
+<div class="concept-works" data-slug="topoi/love-as-religion"></div>
 
 #graph/topos

@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Duke-Senior"></div>
+<div class="concept-works" data-slug="characters/duke-senior"></div>
 
 #graph/character

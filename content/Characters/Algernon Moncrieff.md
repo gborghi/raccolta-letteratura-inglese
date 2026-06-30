@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Characters/Algernon-Moncrieff"></div>
+<div class="concept-works" data-slug="characters/algernon-moncrieff"></div>
 
 #graph/character

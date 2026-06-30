@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Motifs/Grass-Leaves-of-Grass"></div>
+<div class="concept-works" data-slug="motifs/grass-leaves-of-grass"></div>
 
 #graph/motif

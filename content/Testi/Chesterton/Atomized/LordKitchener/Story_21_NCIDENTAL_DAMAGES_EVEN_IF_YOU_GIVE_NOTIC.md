@@ -2,15 +2,15 @@
 title: "[[LordKitchener]] — NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/LordKitchener-(Chesterton)"
+parentWork: "works/lordkitchener-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_20_ABLE_TO_YOU_FOR_ACTUAL_DIRECT_INDIRECT_C">‹ Story 20 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_22_F_3_LIMITED_RIGHT_OF_REPLACEMENT_OR_REFU">Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/lordkitchener-(chesterton)">LordKitchener</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/lordkitchener/story_20_able_to_you_for_actual_direct_indirect_c">‹ Story 20 ABLE TO YOU FOR ACTUAL DIRECT INDIRECT C</a><a class="ex-next" href="/testi/chesterton/atomized/lordkitchener/story_22_f_3_limited_right_of_replacement_or_refu">Story 22 F 3 LIMITED RIGHT OF REPLACEMENT OR REFU ›</a></div>
 </nav>
 
 

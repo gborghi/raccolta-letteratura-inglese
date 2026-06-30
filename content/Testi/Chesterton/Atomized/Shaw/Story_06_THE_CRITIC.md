@@ -2,15 +2,15 @@
 title: "[[Shaw]] — THE CRITIC"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Shaw-(Chesterton)"
+parentWork: "works/shaw-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_05_THE_PROGRESSIVE">‹ Story 05 THE PROGRESSIVE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_07_THE_DRAMATIST">Story 07 THE DRAMATIST ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/shaw-(chesterton)">Shaw</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/shaw/story_05_the_progressive">‹ Story 05 THE PROGRESSIVE</a><a class="ex-next" href="/testi/chesterton/atomized/shaw/story_07_the_dramatist">Story 07 THE DRAMATIST ›</a></div>
 </nav>
 
 

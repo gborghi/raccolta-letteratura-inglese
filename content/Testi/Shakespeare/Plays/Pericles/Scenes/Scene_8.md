@@ -2,15 +2,15 @@
 title: "[[Pericles]] — Scene 8"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/PERICLES-(Shakespeare)"
+parentWork: "works/pericles-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_7">‹ Scene 7</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_9">Scene 9 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/pericles-(shakespeare)">Pericles</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/pericles/scenes/scene_7">‹ Scene 7</a><a class="ex-next" href="/testi/shakespeare/plays/pericles/scenes/scene_9">Scene 9 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "[[aquinas]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
-parentWork: "Works/aquinas-(Chesterton)"
+parentWork: "works/aquinas-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/aquinas-(Chesterton)">aquinas</a></div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/aquinas/Chapter_02">Chapter 02 ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/aquinas-(chesterton)">aquinas</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/chesterton/atomized/aquinas/chapter_02">Chapter 02 ›</a></div>
 </nav>
 
 

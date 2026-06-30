@@ -2,15 +2,15 @@
 title: "[[The Domain of Arnheim]] (part 5)"
 author: "Poe"
 unitType: excerpt
-parentWork: "Works/The-Domain-of-Arnheim-(Poe)"
+parentWork: "works/the-domain-of-arnheim-(poe)"
 tags:
   - graph/excerpt
   - author/Poe
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Poe · <a href="/Works/The-Domain-of-Arnheim-(Poe)">The Domain of Arnheim</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Domain_of_Arnheim/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Domain_of_Arnheim/part/part_06">part 06 ›</a></div>
+<div class="excerpt-crumb">Poe · <a href="/works/the-domain-of-arnheim-(poe)">The Domain of Arnheim</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/poe/atomized/the_domain_of_arnheim/part/part_04">‹ part 04</a><a class="ex-next" href="/testi/poe/atomized/the_domain_of_arnheim/part/part_06">part 06 ›</a></div>
 </nav>
 
 

@@ -2,15 +2,15 @@
 title: "Wild Ducks — [[asparagus|Asparagus]]"
 author: "Chesterton"
 unitType: story
-parentWork: "Works/Wild-Ducks-(Chesterton)"
+parentWork: "works/wild-ducks-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_08_Something">‹ Story 08 Something</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_10_The_English_Spirit_and_the_Flea">Story 10 The English Spirit and the Flea ›</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/wild-ducks-(chesterton)">Wild Ducks</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/chesterton/atomized/wild_ducks/story_08_something">‹ Story 08 Something</a><a class="ex-next" href="/testi/chesterton/atomized/wild_ducks/story_10_the_english_spirit_and_the_flea">Story 10 The English Spirit and the Flea ›</a></div>
 </nav>
 
 

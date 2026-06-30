@@ -2,14 +2,14 @@
 title: "[[Mansfield Park]]"
 author: "Austen"
 unitType: work
-parentWork: "Works/Mansfield-Park-(Austen)"
+parentWork: "works/mansfield-park-(austen)"
 tags:
   - graph/excerpt
   - author/Austen
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
+<div class="excerpt-crumb">Austen · <a href="/works/mansfield-park-(austen)">Mansfield Park</a></div>
 </nav>
 
 

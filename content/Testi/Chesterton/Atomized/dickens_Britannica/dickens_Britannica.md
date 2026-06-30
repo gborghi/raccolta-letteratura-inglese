@@ -2,14 +2,14 @@
 title: "dickens Britannica"
 author: "Chesterton"
 unitType: work
-parentWork: "Works/dickens-Britannica-(Chesterton)"
+parentWork: "works/dickens-britannica-(chesterton)"
 tags:
   - graph/excerpt
   - author/Chesterton
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Chesterton · <a href="/Works/dickens-Britannica-(Chesterton)">dickens Britannica</a></div>
+<div class="excerpt-crumb">Chesterton · <a href="/works/dickens-britannica-(chesterton)">dickens Britannica</a></div>
 </nav>
 
 

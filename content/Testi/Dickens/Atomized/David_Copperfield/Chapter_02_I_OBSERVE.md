@@ -2,15 +2,15 @@
 title: "[[David Copperfield]] — Chapter 2: I OBSERVE"
 author: "Dickens"
 unitType: chapter
-parentWork: "Works/David-Copperfield-(Dickens)"
+parentWork: "works/david-copperfield-(dickens)"
 tags:
   - graph/excerpt
   - author/Dickens
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN">‹ Chapter 01 I AM BORN</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE">Chapter 03 I HAVE A CHANGE ›</a></div>
+<div class="excerpt-crumb">Dickens · <a href="/works/david-copperfield-(dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/dickens/atomized/david_copperfield/chapter_01_i_am_born">‹ Chapter 01 I AM BORN</a><a class="ex-next" href="/testi/dickens/atomized/david_copperfield/chapter_03_i_have_a_change">Chapter 03 I HAVE A CHANGE ›</a></div>
 </nav>
 
 

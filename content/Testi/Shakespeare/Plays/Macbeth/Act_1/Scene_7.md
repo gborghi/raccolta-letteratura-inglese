@@ -2,15 +2,15 @@
 title: "[[Macbeth]] — Act I, Scene 7"
 author: "Shakespeare"
 unitType: scene
-parentWork: "Works/MACBETH-(Shakespeare)"
+parentWork: "works/macbeth-(shakespeare)"
 tags:
   - graph/excerpt
   - author/Shakespeare
 ---
 
 <nav class="excerpt-nav">
-<div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
-<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Macbeth/Act_1/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Macbeth/Act_2/Scene_1">Scene 1 ›</a></div>
+<div class="excerpt-crumb">Shakespeare · <a href="/works/macbeth-(shakespeare)">Macbeth</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/testi/shakespeare/plays/macbeth/act_1/scene_5">‹ Scene 5</a><a class="ex-next" href="/testi/shakespeare/plays/macbeth/act_2/scene_1">Scene 1 ›</a></div>
 </nav>
 
 

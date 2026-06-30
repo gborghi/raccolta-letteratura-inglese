@@ -10,6 +10,6 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/One-Life-(Pantheism)"></div>
+<div class="concept-works" data-slug="concepts/one-life-(pantheism)"></div>
 
 #graph/concept

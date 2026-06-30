@@ -9,7 +9,7 @@ tags:
 
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Keats · Endymion</div>
-<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Keats/Long/Endymion/Section_02_book_ii">Section 02 book ii ›</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/testi/keats/long/endymion/section_02_book_ii">Section 02 book ii ›</a></div>
 </nav>
 
 
